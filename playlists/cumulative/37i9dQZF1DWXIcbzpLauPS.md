@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: We Came As Romans
 
-1,256 songs - 3 day 5 hr 3 min
+1,257 songs - 3 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,6 +734,7 @@
 | [Murder8](https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm), [Jamey Jasta](https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL) | [Murder8](https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G) | 3:48 | 2024-03-27 |  |
 | [mutant.](https://open.spotify.com/track/5tekqsI1eoUxmiX5OCPQ8O) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [DIGITAL PARANOIA 2052](https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO) | 4:12 | 2024-02-09 | 2024-07-13 |
 | [My Demon](https://open.spotify.com/track/7tWHAHMCxxyoxEWafamf3F) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [My Demon](https://open.spotify.com/album/0HY8gcdCCNbZnM5cQKnnJH) | 3:01 | 2022-04-01 | 2022-06-11 |
+| [My Empire](https://open.spotify.com/track/1vawlriAwEHXEOZXhpeIVD) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [My Empire](https://open.spotify.com/album/4zbOqdR8aNega4scGbV1eR) | 2:49 | 2025-06-13 |  |
 | [My Everything](https://open.spotify.com/track/1Zsy3xy9TvYELEGg1js4yw) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4) | 3:53 | 2023-03-10 | 2024-01-13 |
 | [My Father's Son \- Redux](https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [My Father's Son \(Redux\)](https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq) | 3:42 | 2024-08-25 | 2025-05-10 |
 | [MY WAY](https://open.spotify.com/track/7m2pH8YJAhAXN0ini7NV4K) | [STEELSHOOTER](https://open.spotify.com/artist/5e4eCpkqD4AK5mFyRjDPSk) | [MY WAY](https://open.spotify.com/album/7EQ3ZSc4aBHBSCx6IjPLEH) | 2:32 | 2022-07-13 | 2022-07-16 |
@@ -1021,7 +1022,7 @@
 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 | 2024-02-09 | 2024-03-09 |
 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 | 2022-05-20 | 2022-12-17 |
 | [SUFFER IN THE DARK](https://open.spotify.com/track/72tbts7CGQ7PWmnfCGvrPp) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [HIDE FROM THE LIGHT](https://open.spotify.com/album/2AeR1fwv8q6ocY1FAjShdB) | 3:05 | 2025-05-30 |  |
-| [suffer.](https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Darker Colors \(Deluxe Edition\)](https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB) | 3:18 | 2024-07-12 |  |
+| [suffer.](https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Darker Colors \(Deluxe Edition\)](https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB) | 3:18 | 2024-07-12 | 2025-06-17 |
 | [Suffocate](https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv) | [Execution Day](https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z) | [Suffocate](https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C) | 3:47 | 2022-05-13 | 2023-05-23 |
 | [Suffocate](https://open.spotify.com/track/530wk2tz33m2Rrsp7pdBB7) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Suffocate](https://open.spotify.com/album/0uZVH3RsHVBgSkvURev7D0) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Sulfur](https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sulfur](https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS) | 3:26 | 2024-12-18 | 2025-04-26 |

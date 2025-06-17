@@ -4,7 +4,7 @@
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 9 min
+67 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Aska Variation](https://open.spotify.com/track/0WQ5QHNC65AJQVmloh7CvY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 1:39 | 2025-03-04 | 2025-03-09 |
 | [Bambaló](https://open.spotify.com/track/5rzY2HPvGBe7E2yKxXbRAE) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Bambaló](https://open.spotify.com/album/2Pxg7kjXogc6wNNmP80rHL) | 2:41 | 2025-03-04 |  |
 | [Barnkind](https://open.spotify.com/track/35epMyBRSxXHRbxa39FaBA) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Lullabies for Piano and Cello](https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz) | 1:32 | 2025-03-06 | 2025-06-10 |
+| [Birta](https://open.spotify.com/track/70HOjaRDOxL86922aqzy12) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 2:45 | 2025-06-17 |  |
 | [Bára](https://open.spotify.com/track/4FLhnp7v0eRGdaBxiUSuBR) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Absent Minded](https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q) | 4:33 | 2025-03-04 |  |
 | [Coda](https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The True Meaning Of Forever](https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED) | 2:53 | 2025-03-04 |  |
 | [Cyclist Waltz](https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Absent Minded](https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q) | 3:17 | 2025-03-04 |  |
@@ -35,7 +36,7 @@
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 1:38 | 2025-05-16 |  |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2025-03-04 | 2025-05-16 |
 | [Hind / Aska \- Harpa Sessions](https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 2:59 | 2025-03-04 |  |
-| [Intro](https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 1:24 | 2025-03-04 |  |
+| [Intro](https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 1:24 | 2025-03-04 | 2025-06-17 |
 | [Islandus: Solon I](https://open.spotify.com/track/7DAuW1WFDIBVVoxalOL6lH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 4:17 | 2025-03-04 | 2025-03-06 |
 | [Islandus: Solon II](https://open.spotify.com/track/2bNts8igfjcFehN8HPJ45e) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 3:19 | 2025-03-04 | 2025-03-15 |
 | [Islandus: Streymir](https://open.spotify.com/track/1GT6MSZpVOgZVn8O8iCqPm) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 3:59 | 2025-03-04 |  |

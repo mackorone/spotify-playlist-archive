@@ -3185,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "Francia",
+        "url": "https://open.spotify.com/album/5Tw6OXywctFdA5wbHIngxj"
+      },
+      "artists": [
+        {
+          "name": "Cesar Zazueta",
+          "url": "https://open.spotify.com/artist/11wKys5M4JN6NWofFvBcHI"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Francia",
+      "url": "https://open.spotify.com/track/6fVyC6eqAVFxYG8Jd0eGVZ"
+    },
+    {
+      "album": {
         "name": "Frontera",
         "url": "https://open.spotify.com/album/6KByb0JLAWvh8B6NTDHfsh"
       },

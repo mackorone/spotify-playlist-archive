@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 157 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 508 likes - 157 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,12 +158,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 148 | [Rattle My Heart](https://open.spotify.com/track/0MBMOIdZsqvQympkY88f2w) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:23 |
 | 149 | [Down That Road \- The Voice Performance](https://open.spotify.com/track/3sS03NvxbrVgFNZgvnR26k) | [Alisan Porter](https://open.spotify.com/artist/3Yw2flLUwQIZgpA2qSNj30) | [The Complete Season 10 Collection \(The Voice Performance\)](https://open.spotify.com/album/0zhezrgO3ZFtDAbRj0wkG2) | 3:52 |
 | 150 | [Everything I Want](https://open.spotify.com/track/40uwsYGzTlU0GP51eiVqh1) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 1:41 |
-| 151 | [Waiting In The Wings](https://open.spotify.com/track/25DDablRTX29gvd35HzSKY) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 3:27 |
-| 152 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 151 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 152 | [Waiting In The Wings](https://open.spotify.com/track/25DDablRTX29gvd35HzSKY) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 3:27 |
 | 153 | [Down to the Bone](https://open.spotify.com/track/2iimKOdSwTpDNk2THDByro) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:12 |
 | 154 | [Overcome](https://open.spotify.com/track/4IuTlIOPvRgwnwQCBvEyYN) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:52 |
 | 155 | [Catch Fire](https://open.spotify.com/track/5gLLJl41ykuWqu47RWlXhX) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:45 |
 | 156 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 | 157 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 
-Snapshot ID: `Ab0PMgAAAAB3Oc+NitpJSbQvVuCaJe65`
+Snapshot ID: `Ab0UoAAAAAARKoGC5WInGZ5rOj881eWs`

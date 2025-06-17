@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > featuring 1tsbp's new EP  🤲  it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,738 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,662 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 |
 | 2 | [New Flower! \(feat\. Leon Thomas\)](https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:28 |
 | 3 | [So High](https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [So High](https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA) | 5:39 |
-| 4 | [24h In A Disco \(with Channel Tres\)](https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco \(REFRESHED\)](https://open.spotify.com/album/1IHDWNO26K4VFONHJ2teAa) | 2:51 |
+| 4 | [24h In A Disco](https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco \(REFRESHED\)](https://open.spotify.com/album/1IHDWNO26K4VFONHJ2teAa) | 2:51 |
 | 5 | [Spiritual](https://open.spotify.com/track/5HGhHE6pDFoGEepVwRp8fS) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Spiritual](https://open.spotify.com/album/6jsaWSdd1EFzEzG5Qvck32) | 3:13 |
 | 6 | [Her \(Never Like This\)](https://open.spotify.com/track/6YnsAiMmdM4KwlcAF2ynyw) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Her \(Never Like This\)](https://open.spotify.com/album/67PHWWXqPg7eKB8kUodhw5) | 2:40 |
 | 7 | [Here](https://open.spotify.com/track/7n99ugGKb1kbBCIOODKtHd) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Here](https://open.spotify.com/album/7hR8EcMSuCVQtZWERtadDR) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 |
 | 100 | [llamando](https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [llamando](https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb) | 2:36 |
 
-Snapshot ID: `aEuwegAAAADPV5UzBnNThor0fbNagRzS`
+Snapshot ID: `AAAAACPnJmeteoa5hcbY8FpGgO5aFnv2`

@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2964019,
+  "num_followers": 2963981,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACKMrAHg45a57koJr2Zzk81",
+  "snapshot_id": "aE4NAAAAAADQ1zFRSbrokhmZW3j90+mK",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 249450,
+      "name": "Don't Cry (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/5BQrp63SHCVf4bzCzJePne"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XXXTENTACION Presents: Members Only, Vol. 3",
         "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 118360,
       "name": "Curse",
       "url": "https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 249450,
-      "name": "Don't Cry (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/5BQrp63SHCVf4bzCzJePne"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 36354,
+  "num_followers": 36357,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
@@ -71,6 +71,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "TEKLIFE Vol.2: What You Need",
+        "url": "https://open.spotify.com/album/3gp6LlL3363zr3Jz9rjH0G"
+      },
+      "artists": [
+        {
+          "name": "DJ Spinn",
+          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
+        },
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 341488,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/1oGd6koqefNYVJ0Rn6EKOW"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "#UOAI",
         "url": "https://open.spotify.com/album/03PPB3GsJaP65KjNBOKEm2"
       },
@@ -91,26 +111,6 @@
       "duration_ms": 260625,
       "name": "Chicago (feat. Lefty & Nikes)",
       "url": "https://open.spotify.com/track/7iSYeJOtNFuPwNg0gEStEL"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "TEKLIFE Vol.2: What You Need",
-        "url": "https://open.spotify.com/album/3gp6LlL3363zr3Jz9rjH0G"
-      },
-      "artists": [
-        {
-          "name": "DJ Spinn",
-          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
-        },
-        {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
-        }
-      ],
-      "duration_ms": 341488,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/1oGd6koqefNYVJ0Rn6EKOW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Footwork Frenzy Ep",
-        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
-      },
-      "artists": [
-        {
-          "name": "DJ Curt",
-          "url": "https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA"
-        }
-      ],
-      "duration_ms": 303308,
-      "name": "Next Subject",
-      "url": "https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "All I See Is Red",
         "url": "https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 317660,
       "name": "All I See Is Red",
       "url": "https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Footwork Frenzy Ep",
+        "url": "https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI"
+      },
+      "artists": [
+        {
+          "name": "DJ Curt",
+          "url": "https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA"
+        }
+      ],
+      "duration_ms": 303308,
+      "name": "Next Subject",
+      "url": "https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Braxe Traxe (SBF13)",
-        "url": "https://open.spotify.com/album/4XxVcPT88m47hDjVmAWQyr"
-      },
-      "artists": [
-        {
-          "name": "Big Dope P",
-          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Braxe Traxe - SBF13",
-      "url": "https://open.spotify.com/track/7nv1TaJwLtUdbYbRQP95oG"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Tango",
         "url": "https://open.spotify.com/album/0zx0BWbByt2zQsH4Mcdu7v"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 239001,
       "name": "Tango",
       "url": "https://open.spotify.com/track/7DXBzXF73JbzvQTyygWIpw"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Braxe Traxe (SBF13)",
+        "url": "https://open.spotify.com/album/4XxVcPT88m47hDjVmAWQyr"
+      },
+      "artists": [
+        {
+          "name": "Big Dope P",
+          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Braxe Traxe - SBF13",
+      "url": "https://open.spotify.com/track/7nv1TaJwLtUdbYbRQP95oG"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Get the Money (SBF14)",
-        "url": "https://open.spotify.com/album/6CjXD6nyCZCEP867ZiqwJg"
-      },
-      "artists": [
-        {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
-        }
-      ],
-      "duration_ms": 193750,
-      "name": "Get the Money - SBF14",
-      "url": "https://open.spotify.com/track/5nvE83ieA4Qd74wU6cYtE0"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Get Down Lil Bit (Street Bangers Factory 16)",
         "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 290813,
       "name": "Get Down Lil Bit - Street Bangers Factory 16",
       "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Get the Money (SBF14)",
+        "url": "https://open.spotify.com/album/6CjXD6nyCZCEP867ZiqwJg"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 193750,
+      "name": "Get the Money - SBF14",
+      "url": "https://open.spotify.com/track/5nvE83ieA4Qd74wU6cYtE0"
     },
     {
       "added_at": "2023-06-30 04:00:00",

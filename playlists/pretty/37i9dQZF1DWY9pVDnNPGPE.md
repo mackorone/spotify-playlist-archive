@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,852 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,857 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 45 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 |
 | 46 | [Picnic](https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:04 |
 | 47 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
-| 48 | [Balloon in Love](https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Balloon in Love](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) | 3:14 |
-| 49 | [화창해 \(Feat\. JUNE\)](https://open.spotify.com/track/04BztykVfI5mjP27SYOvZX) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [JUNE](https://open.spotify.com/artist/5YL8IrbmpYf8d8NC70r5p0) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 2:51 |
+| 48 | [화창해 \(Feat\. JUNE\)](https://open.spotify.com/track/04BztykVfI5mjP27SYOvZX) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [JUNE](https://open.spotify.com/artist/5YL8IrbmpYf8d8NC70r5p0) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 2:51 |
+| 49 | [Balloon in Love](https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Balloon in Love](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) | 3:14 |
 | 50 | [Cherry On Top](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Cherry On Top](https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2) | 2:28 |
 
 Snapshot ID: `aEe2UwAAAABqQQxjkAYItW+h3CvIwxdc`

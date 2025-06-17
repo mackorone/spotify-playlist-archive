@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,560 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,565 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 26 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
 | 27 | [Half\-Life](https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:13 |
 | 28 | [Bad Husband \(feat\. X Ambassadors\)](https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 4:47 |
-| 29 | [My Own Monster](https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:05 |
-| 30 | [Not Easy](https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Not Easy](https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O) | 4:05 |
+| 29 | [Not Easy](https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Not Easy](https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O) | 4:05 |
+| 30 | [My Own Monster](https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:05 |
 | 31 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
-| 32 | [Kerosene Dreams](https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:53 |
-| 33 | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv) | 3:01 |
+| 32 | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv) | 3:01 |
+| 33 | [Kerosene Dreams](https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:53 |
 | 34 | [American Oxygen](https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [American Oxygen](https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0) | 5:05 |
 | 35 | [Everything Sounds Like a Love Song \(OurVinyl Sessions\)](https://open.spotify.com/track/02pSQGZEwKrwzT9TWHFwis) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [X Ambassadors \| OurVinyl Sessions](https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O) | 3:55 |
 | 36 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson Harris](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 49 | [Drive](https://open.spotify.com/track/5txx1olGftHbwwArf49YPX) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townies](https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg) | 2:59 |
 | 50 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 |
 
-Snapshot ID: `aEy7gAAAAABt+tjCA491TxuUKHUXnwuX`
+Snapshot ID: `aE4NAAAAAABj8lu0h19Jn8EDVTYSORXi`

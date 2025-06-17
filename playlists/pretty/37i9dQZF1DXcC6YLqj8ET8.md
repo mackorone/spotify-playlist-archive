@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,178 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,185 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 13 | [Hawa \(Arab Trap 8\)](https://open.spotify.com/track/1WzCTw3PIv4oWwxW57VIbW) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q), [NGM](https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn) | [Hawa \(Arab Trap 8\)](https://open.spotify.com/album/77tT5i4ifAjyCmt4SgDqnH) | 2:44 |
 | 14 | [Dulce](https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Dulce](https://open.spotify.com/album/01f58ABTNjb0quUNprou4v) | 3:13 |
 | 15 | [Marrakech](https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Marrakech](https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv) | 2:20 |
-| 16 | [Oriental](https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT) | [OSAK](https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf) | [Oriental](https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk) | 4:28 |
-| 17 | [Maqlooba](https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:20 |
+| 16 | [Maqlooba](https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:20 |
+| 17 | [Oriental](https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT) | [OSAK](https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf) | [Oriental](https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk) | 4:28 |
 | 18 | [Khalīfah خليفة](https://open.spotify.com/track/6Tug6cAjUEfmKJvvrJcauP) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Khalīfah خليفة](https://open.spotify.com/album/69U97qF3lUP5SUFSwzkbIV) | 3:52 |
 | 19 | [Mazikah](https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [Mazikah](https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt) | 3:33 |
 | 20 | [Sargon](https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sargon](https://open.spotify.com/album/1UmnrooK6HERWjfZsPbSDl) | 3:04 |
-| 21 | [Golden](https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4) | [BoyPanda](https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN) | [Golden](https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S) | 3:30 |
-| 22 | [Fidaa](https://open.spotify.com/track/6AyqrV9DSKFmEqZxjjnh7E) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:03 |
+| 21 | [Fidaa](https://open.spotify.com/track/6AyqrV9DSKFmEqZxjjnh7E) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:03 |
+| 22 | [Golden](https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4) | [BoyPanda](https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN) | [Golden](https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S) | 3:30 |
 | 23 | [INVASION](https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh) | [Dj Khalid Music](https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt), [Hassan Hajila](https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54) | [INVASION](https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj) | 3:33 |
 | 24 | [ALMAZAT](https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [ALMAZAT](https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ) | 3:08 |
 | 25 | [Cataclysm جائحة](https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Cataclysm جائحة](https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I) | 2:19 |

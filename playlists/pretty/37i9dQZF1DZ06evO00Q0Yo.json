@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19431,
+  "num_followers": 19436,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABWCDR6KhQzUCX5zxfirmwa",
+  "snapshot_id": "aE4NAAAAAAChTQJPiVJFaN1TU4opDhe6",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roaring 20s",
-        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "Roaring 20s",
-      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Snatched (Remix)",
         "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
@@ -747,26 +731,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
-        "url": "https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ"
+        "name": "Roaring 20s",
+        "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
       },
       "artists": [
         {
-          "name": "YungManny",
-          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
-        },
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "Roaring 20s",
+      "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
         }
       ],
-      "duration_ms": 125579,
-      "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
-      "url": "https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX"
+      "duration_ms": 147525,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
     },
     {
       "added_at": null,
@@ -787,18 +779,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+        "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
+        "url": "https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ"
       },
       "artists": [
         {
+          "name": "YungManny",
+          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
+        },
+        {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
         }
       ],
-      "duration_ms": 147525,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+      "duration_ms": 125579,
+      "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
+      "url": "https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX"
     },
     {
       "added_at": null,

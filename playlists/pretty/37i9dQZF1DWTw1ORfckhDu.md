@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Sexmane ja Jukka Poika.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,187 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,200 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rastat \(feat\. Jukka Poika\)](https://open.spotify.com/track/04URb3phAOfTFNB5f8pyEm) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Rastat / Nelson Mandela \(feat\. Jukka Poika\)](https://open.spotify.com/album/140ZYIlhbrz18KaTvD394H) | 3:00 |
-| 2 | [Vihaa mua](https://open.spotify.com/track/7kSBo6NoqCsoZ6W2SBYJvv) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 2:48 |
+| 1 | [MEININKI](https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 3:21 |
+| 2 | [Rastat \(feat\. Jukka Poika\)](https://open.spotify.com/track/04URb3phAOfTFNB5f8pyEm) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Rastat / Nelson Mandela \(feat\. Jukka Poika\)](https://open.spotify.com/album/140ZYIlhbrz18KaTvD394H) | 3:00 |
 | 3 | [ikilapsi](https://open.spotify.com/track/4Ip1CSS61Oh3EUpDWRvpB8) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [ikilapsi](https://open.spotify.com/album/6tUuGvszWmqvErCRgLKAiG) | 3:15 |
 | 4 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 |
 | 5 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 |
 | 50 | [Mietitkö sä mua](https://open.spotify.com/track/6AYQ3CQePkIRZ6ouD3BF5c) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Mietitkö sä mua](https://open.spotify.com/album/4OYNKIuDMncidwWHfaHXaU) | 2:44 |
 
-Snapshot ID: `aE8Y9gAAAAA28vU7Kk3Giwx6WT0XwPR/`
+Snapshot ID: `aFBlrQAAAACkROrbsz+bVQOEC6xvWZwk`

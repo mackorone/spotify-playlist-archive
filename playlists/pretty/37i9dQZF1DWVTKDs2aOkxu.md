@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Alex G
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,771 likes - 79 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,738 likes - 79 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

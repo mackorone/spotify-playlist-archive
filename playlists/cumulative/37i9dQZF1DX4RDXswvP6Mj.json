@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: izna) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: \uac15\ub2e4\ub2c8\uc5d8) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -4328,6 +4328,24 @@
       "duration_ms": 189355,
       "name": "Energetic",
       "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+    },
+    {
+      "album": {
+        "name": "Glow to Haze",
+        "url": "https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162026,
+      "name": "Episode",
+      "url": "https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9"
     },
     {
       "album": {
@@ -8794,7 +8812,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"

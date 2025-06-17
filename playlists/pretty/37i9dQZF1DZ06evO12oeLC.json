@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17792,
+  "num_followers": 17789,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAB/yRhWHSeeh3E3k5kkfGVa",
+  "snapshot_id": "aE4NAAAAAAC35vGVH0OINOszJpNOcYdi",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 186323,
-      "name": "Rouge",
-      "url": "https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diego",
         "url": "https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 167773,
       "name": "Diego",
       "url": "https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 186323,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 183020,
-      "name": "Rod\u00e9o",
-      "url": "https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Cour des Miracles",
         "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 196600,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 183020,
+      "name": "Rod\u00e9o",
+      "url": "https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk"
     },
     {
       "added_at": null,

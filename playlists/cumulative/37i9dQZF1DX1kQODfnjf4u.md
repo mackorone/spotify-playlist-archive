@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Ektor
+> 50 nejžhavějších hitů v České republice\. Cover: Pil C & Luca Brassi10x
 
-131 songs - 6 hr 30 min
+133 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Další kapitola](https://open.spotify.com/track/1oubd2VIVeurm35QkG03X7) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Další kapitola](https://open.spotify.com/album/2rnrJ3KKF1VKgwspYXS2oI) | 2:30 | 2024-07-01 | 2024-07-23 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-23 |  |
 | [DISTANC](https://open.spotify.com/track/7dg2q93qomkGaLINDWjOiO) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [v gastru nejsou lidi](https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS) | 3:12 | 2024-09-16 | 2024-10-15 |
+| [dole](https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [brat](https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp) | 2:59 | 2025-06-16 |  |
 | [Dopamin](https://open.spotify.com/track/6AMZm12a1B2kpgN7qOA7Cy) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 2:44 | 2024-07-01 | 2024-11-19 |
 | [Drž Píču](https://open.spotify.com/track/7KEGsz3uwzTYo0ZQBowvRB) | [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [Drž Píču](https://open.spotify.com/album/0N5AZmr2aSekuskrUfN6mp) | 1:58 | 2025-06-09 |  |
 | [DTB for Life](https://open.spotify.com/track/0uqziJ0jXgIl13movC27ut) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [PRESIDENT OF SEXICO](https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD) | 2:31 | 2024-07-01 | 2024-07-23 |
@@ -73,7 +74,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-01 | 2024-09-10 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 | 2025-01-21 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-01 | 2024-07-09 |
-| [MMA](https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [ZVÍŘE](https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf) | 3:04 | 2024-07-01 |  |
+| [MMA](https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [ZVÍŘE](https://open.spotify.com/album/2mUri8z6lHZ85UATqK8nBf) | 3:04 | 2024-07-01 | 2025-06-17 |
 | [MONA LISA](https://open.spotify.com/track/7K9hPmzDGuo9WxKG5B1X1Y) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [MONA LISA](https://open.spotify.com/album/0e60PL1Bp0RMNWAeqWJuqC) | 2:39 | 2024-07-01 |  |
 | [moonlight](https://open.spotify.com/track/73b9g7mz0PGG7NrwZm9xly) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [moonlight](https://open.spotify.com/album/11YiuP5u4DIIzrUWj61VDG) | 3:03 | 2024-07-01 | 2024-11-13 |
 | [Mě Nedostanou](https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Mě Nedostanou](https://open.spotify.com/album/0o7Il9BCp3VZc9F0ug1C9v) | 2:33 | 2025-04-07 |  |
@@ -128,9 +129,10 @@
 | [TRUST ISSUES](https://open.spotify.com/track/0ynuFjEafqLyeXD3M2rXH0) | [Adam Mišík](https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ) | [TRUST ISSUES](https://open.spotify.com/album/0MAIZb2QzjEMMEmDsdbRTQ) | 3:02 | 2025-01-13 | 2025-04-08 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-18 | 2024-12-03 |
 | [U Hřiště 380](https://open.spotify.com/track/0FpgtEgaMZSUw2RAD7JHGs) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [mdmx](https://open.spotify.com/artist/0F2wMgHb1xp9HlWN4rt5Ke) | [U Hřiště 380](https://open.spotify.com/album/3y4coZ0Da0Ckj48xDmfyYO) | 2:30 | 2024-07-01 | 2025-03-18 |
-| [ULICE DRUHÁ MÁMA](https://open.spotify.com/track/00Imdq7NDBO3zbbREGgUOM) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI) | [GLOBAL](https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX) | 3:06 | 2024-10-21 |  |
+| [ULICE DRUHÁ MÁMA](https://open.spotify.com/track/00Imdq7NDBO3zbbREGgUOM) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI) | [GLOBAL](https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX) | 3:06 | 2024-10-21 | 2025-06-17 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-05-12 |  |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-31 | 2025-04-19 |
+| [v cizí posteli](https://open.spotify.com/track/3GCwkC0CQ0Fc4cmeLvqI0n) | [Renne Dang](https://open.spotify.com/artist/1I74GELlem5XmPTKYIdb3i) | [v cizí posteli](https://open.spotify.com/album/3HJ5XlF6MYkennbIvo3O3Q) | 2:49 | 2025-06-16 |  |
 | [V Hlavě](https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 3:08 | 2024-11-25 |  |
 | [Valčík](https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw) | [Neny](https://open.spotify.com/artist/1zh9JkZhBzTtkd2WztHgmt) | [Valčík](https://open.spotify.com/album/3jIcSO4DbgoBq0vM7aazzx) | 2:55 | 2025-05-19 |  |
 | [Vandr](https://open.spotify.com/track/1xw2t2f0nqbSjHmMSb6ipY) | [Skippy McDippy](https://open.spotify.com/artist/3wJFxtAUW41wCsQi1xlxKH) | [Skippy McDippy](https://open.spotify.com/album/7ts6XxURUtS8MVgqRw57vY) | 2:04 | 2025-05-27 | 2025-06-10 |

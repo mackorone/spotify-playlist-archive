@@ -4,7 +4,7 @@
 
 > The best and latest rock and alternative\. Cover: Volbeat
 
-285 songs - 17 hr 0 min
+287 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Kate Moon](https://open.spotify.com/track/4i8ByiUFCWkIjXfWyms3om) | [Said The Whale](https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe) | [Kate Moon](https://open.spotify.com/album/4Uycsoy9OUFUpuN6nsKCYQ) | 3:35 | 2024-06-01 | 2024-07-20 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-04-05 | 2024-09-04 |
 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 | 2023-11-03 | 2024-07-13 |
+| [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 | 2025-06-16 |  |
 | [Lady Of The Lake](https://open.spotify.com/track/6yd4ITFNoDmZlwLVn6Z9TF) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Lady Of The Lake](https://open.spotify.com/album/3tsFExvmbleMDeTBvYrT46) | 5:06 | 2023-11-03 | 2023-11-11 |
 | [Laminate The Sky](https://open.spotify.com/track/6dlFv26KzddYurWF4Ep5Zb) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [Laminate The Sky](https://open.spotify.com/album/5fNI9nWDCTnCTkLrp80dgu) | 3:47 | 2024-09-03 | 2024-10-05 |
 | [Landmine](https://open.spotify.com/track/4YjTwBC1T231kB5AEOK8vf) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/4wiL1pYcgXSvhbaGuM1Xxo) | 3:04 | 2023-11-03 | 2024-06-02 |
@@ -270,6 +271,7 @@
 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 | 2024-02-02 | 2024-06-29 |
 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 | 2024-11-01 |  |
 | [Vegas Strip](https://open.spotify.com/track/0OHPMrQooY9uyPDdO4HdSj) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power \(Deluxe\)](https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet) | 4:25 | 2023-11-03 | 2024-01-27 |
+| [Violent Nature](https://open.spotify.com/track/4wG1qk65XGBixayITnktbO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/0NpIXEaW7ekAxVqOJ8GmAe) | 2:10 | 2025-06-16 |  |
 | [Violet](https://open.spotify.com/track/3j79w7PP6JTd1TrdFMnzB9) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Violet](https://open.spotify.com/album/5H40AgUaIjAGZWJLhui7VY) | 4:21 | 2025-01-10 |  |
 | [Wait So Long](https://open.spotify.com/track/4hi07BHBhWkgDNws5Kbbq8) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Wait So Long](https://open.spotify.com/album/5h65lEQMzM7KNXChpEqeC4) | 4:09 | 2024-09-20 | 2024-11-09 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-28 |  |

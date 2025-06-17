@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 63305,
+  "num_followers": 63306,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -779,30 +779,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Sacbe: Sacbe (Complete)",
-        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
-      },
-      "artists": [
-        {
-          "name": "Arturo Cipriano",
-          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
-        },
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        },
-        {
-          "name": "Sacbe",
-          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
-        }
-      ],
-      "duration_ms": 404666,
-      "name": "Las Pulgas Freeway",
-      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Orquesta Moderna",
         "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 285508,
       "name": "Guapanguito",
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Sacbe: Sacbe (Complete)",
+        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
+      },
+      "artists": [
+        {
+          "name": "Arturo Cipriano",
+          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
+        },
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        },
+        {
+          "name": "Sacbe",
+          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
+        }
+      ],
+      "duration_ms": 404666,
+      "name": "Las Pulgas Freeway",
+      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
     },
     {
       "added_at": "2021-07-28 16:44:28",

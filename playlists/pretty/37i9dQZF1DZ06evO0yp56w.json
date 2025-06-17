@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 811207,
+  "num_followers": 811365,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABapcDcRW+0awA9ty5U09lS",
+  "snapshot_id": "aE4NAAAAAABJu2Pm/dcHf1BKuyKlvOmP",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Dig Down",
-      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 38469,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Dig Down",
+      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280,142 likes - 99 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,237 likes - 99 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 60 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
 | 61 | [Hours Of Ours](https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP) | [Waiting For Dawn](https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd) | 5:47 |
 | 62 | [From This Moment On](https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Bria](https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N) | 5:55 |
-| 63 | [You Go to My Head](https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:16 |
-| 64 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
+| 63 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
+| 64 | [You Go to My Head](https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:16 |
 | 65 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
 | 66 | [As You Are](https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI) | [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov), [Jan Allan](https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6), [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Alberto Pinton](https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2), [Third Saxes Galore](https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X) | [As We Are](https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx) | 5:30 |
 | 67 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Neal Hefti](https://open.spotify.com/artist/3IjVHk8Mo8GBMKyHnwmth8), [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |

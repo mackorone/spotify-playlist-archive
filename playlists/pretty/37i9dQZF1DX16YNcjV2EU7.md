@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16YNcjV2EU7.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:6Z4kwq0LOaYQW2CqudoOIk">Amira Elfeky's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,146 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,292 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16YNcjV2EU7.md) - [plain]
 | 29 | [Fully Alive](https://open.spotify.com/track/4BIWl6xOUupdv3jpWtPSDC) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:34 |
 | 30 | [Hole in the Earth](https://open.spotify.com/track/5MLwqi4ybLiYq6dfCpECWT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:09 |
 
-Snapshot ID: `Zg93fAAAAADGGaHFV83nPGfs5Lrpy4u+`
+Snapshot ID: `Zg93fAAAAAA/ERZ1Wsn2dplvY+iNCq+d`

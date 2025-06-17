@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain]
 
 > Music from "Mushoku Tensei: Jobless Reincarnation" ©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,451 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,466 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,112 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,285 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Sher Khul Gaye](https://open.spotify.com/track/5EqAFRGd2E93JZfzOspD6m) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Fighter](https://open.spotify.com/album/5p1147cCqxrWBDZAtaDR54) | 3:00 |
 | 75 | [Slow Motion](https://open.spotify.com/track/7vnXEUbyvC5VAYLgpstOAQ) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Bharat](https://open.spotify.com/album/6Jl2MfI7pB2hWKvTUc5DbA) | 4:07 |
 
-Snapshot ID: `aEmJdAAAAADCon4mBKowRbQ89Kio9FPq`
+Snapshot ID: `AAAAAOZC0zsWt6AOucJgMcTTczaM/607`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,005 likes - 65 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,083 likes - 65 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 23 | [Railway And Gun](https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7) | [Taste](https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3) | [On The Boards](https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8) | 3:36 |
 | 24 | [Home](https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Home](https://open.spotify.com/album/46jRgQN63M7lI9PphL7R3T) | 6:31 |
 | 25 | [Tell Mama](https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS) | [Paul Raymond](https://open.spotify.com/artist/67bQw5L8lA3vR1dELskESp), [Kim Simmonds](https://open.spotify.com/artist/4sma2sfozeiZbmxSTWJBMz), [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Street Corner Talking](https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE) | 5:23 |
-| 26 | [Goin' Down Slow](https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 8:20 |
+| 26 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
 | 27 | [Little By Little \- Mono Version](https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:39 |
-| 28 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
+| 28 | [Goin' Down Slow](https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 8:20 |
 | 29 | [Won't Be Taken Down](https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Eyes Wide Open](https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF) | 5:57 |
 | 30 | [Blues Power](https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 3:09 |
 | 31 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 51 | [Blues Deluxe](https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 7:30 |
 | 52 | [My Baby's Good to Me](https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:50 |
 | 53 | [Back Street Crawler \(Don't Need You No More\) \- Single Guitar Track Number 14](https://open.spotify.com/track/5n8EWlQ0z0yQ2ZSpy38dXe) | [Paul Kossoff](https://open.spotify.com/artist/3RWZcKPLfAHGMwQ6prAnXP) | [Back Street Crawler](https://open.spotify.com/album/3pkH2bhYueXjSIp61EXo4J) | 4:31 |
-| 54 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 |
-| 55 | [Gotta Get to Know You](https://open.spotify.com/track/0nORptIh3WnyVEkcYcQJRo) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat](https://open.spotify.com/album/436NeoRUt1APoubE867iBx) | 7:43 |
+| 54 | [Gotta Get to Know You](https://open.spotify.com/track/0nORptIh3WnyVEkcYcQJRo) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat](https://open.spotify.com/album/436NeoRUt1APoubE867iBx) | 7:43 |
+| 55 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 |
 | 56 | [Rain Is Such a Lonesome Sound \- Remastered](https://open.spotify.com/track/6J68zJQnXT7G1W2SJ48NcU) | [Alexis Korner's Blues Incorporated](https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN) | [Rain Is Such a Lonesome Sound \(Remastered 2015\)](https://open.spotify.com/album/6x4Z38de0YVnsm5ONlftH2) | 2:49 |
 | 57 | [Scaramouche](https://open.spotify.com/track/2F74eGsMRbLJ8dAsZMrMRH) | [The Hoax](https://open.spotify.com/artist/0Q6tMUatndpU8U0ZpFkfqO) | [Sound Like This](https://open.spotify.com/album/1Ld7ppVi6X2z6mjtA35Zt3) | 4:44 |
 | 58 | [If That Ain't A Reason](https://open.spotify.com/track/4v26MY6oRGioIHvfCYFxMT) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [If That Ain't A Reason](https://open.spotify.com/album/69aFNjClRXqD1D9Py4MIVv) | 4:00 |

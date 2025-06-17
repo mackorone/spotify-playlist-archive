@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,614 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,620 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 21 | [I Wanna Be an Alcoholic](https://open.spotify.com/track/6k4uZukGqY0TyQ2CxkeYGz) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The Longest EP](https://open.spotify.com/album/2PxPjYo7QT9Utmz0seSLjW) | 0:30 |
 | 22 | [Kids Of The K\-Hole](https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:16 |
 | 23 | [72 Hookers](https://open.spotify.com/track/7d70MVYrP46R4he4Zsvpzo) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 3:36 |
-| 24 | [The Man I Killed](https://open.spotify.com/track/1tqZNNfMFZPjUtpmBCrEQd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 1:18 |
-| 25 | [Perfect Government](https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:06 |
+| 24 | [Perfect Government](https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:06 |
+| 25 | [The Man I Killed](https://open.spotify.com/track/1tqZNNfMFZPjUtpmBCrEQd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 1:18 |
 | 26 | [Murder The Government](https://open.spotify.com/track/206dccqnCtUSlHpDE2t216) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 0:45 |
 | 27 | [Philthy Phil Philanthropist](https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Heavy Petting Zoo](https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2) | 3:10 |
 | 28 | [What's The Matter With Parents Today?](https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [Take Two Placebos And Call Me Lame](https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:25 |
 | 50 | [Getting High on the Down Low](https://open.spotify.com/track/1VYCjvOWb3Xy9CcMKLxKK1) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 1:13 |
 
-Snapshot ID: `aEy7gAAAAADEYTN79ZKgQJA62ueFoJox`
+Snapshot ID: `aE4NAAAAAAAVQ+78Ikv05tjt8V8W5zds`

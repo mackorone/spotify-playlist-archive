@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ya huele a sopita! Buen provecho.",
-  "num_followers": 157897,
+  "num_followers": 157910,
   "original_name": "M\u00fasica de Fonda",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Algo De Mi",
-        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Algo De M\u00ed",
-      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -587,22 +571,6 @@
       "duration_ms": 279320,
       "name": "Talento De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
-    },
-    {
-      "added_at": "2025-02-01 14:28:12",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 156520,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -619,6 +587,38 @@
       "duration_ms": 158440,
       "name": "Ni Parientes Somos",
       "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
+        "name": "Algo De Mi",
+        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Algo De M\u00ed",
+      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "added_at": "2025-02-01 14:28:12",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
-      "added_at": "2025-02-01 14:28:12",
-      "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
-    },
-    {
       "added_at": "2024-07-11 01:23:27",
       "album": {
         "name": "Ll\u00e9vame Contigo",
@@ -703,18 +687,18 @@
     {
       "added_at": "2025-02-01 14:28:12",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 248640,
-      "name": "Vamos a Darnos Tiempo",
-      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
+      "duration_ms": 248000,
+      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2025-02-01 14:28:12",
@@ -731,6 +715,22 @@
       "duration_ms": 175493,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
+    },
+    {
+      "added_at": "2025-02-01 14:28:12",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Vamos a Darnos Tiempo",
+      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
     },
     {
       "added_at": "2025-02-01 14:28:12",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-02-01 14:28:12",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "Lo Dudo",
-      "url": "https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH"
-    },
-    {
-      "added_at": "2025-02-01 14:28:12",
-      "album": {
         "name": "Canta Trovador",
         "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 187173,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
+    },
+    {
+      "added_at": "2025-02-01 14:28:12",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Lo Dudo",
+      "url": "https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
     },
     {
+      "added_at": "2025-02-01 14:28:12",
+      "album": {
+        "name": "Me Robaste El Corazon",
+        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+    },
+    {
       "added_at": "2024-07-11 01:23:27",
       "album": {
         "name": "Me Volvi A Acordar De Ti",
@@ -859,22 +875,6 @@
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
-    },
-    {
-      "added_at": "2025-02-01 14:28:12",
-      "album": {
-        "name": "Recuerdos II",
-        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-02-01 14:28:12",
       "album": {
-        "name": "Me Robaste El Corazon",
-        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
+        "name": "Recuerdos II",
+        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 198920,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+      "duration_ms": 328320,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -939,6 +939,22 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2025-02-01 14:28:12",
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -977,22 +993,6 @@
       "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
     },
     {
-      "added_at": "2025-02-01 14:28:12",
-      "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
-    },
-    {
       "added_at": "2024-07-11 01:23:27",
       "album": {
         "name": "Marco Antonio Solis",
@@ -1023,6 +1023,26 @@
       "duration_ms": 226280,
       "name": "Como Una Novela",
       "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1059,26 +1079,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
+        "name": "Solo Un Dia\u2026",
+        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
+      },
+      "artists": [
+        {
+          "name": "Adan Romero",
+          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Solo Un Dia (Ahora Te Amo)",
+      "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 230811,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
-        "name": "Solo Un Dia\u2026",
-        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
-      },
-      "artists": [
-        {
-          "name": "Adan Romero",
-          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Solo Un Dia (Ahora Te Amo)",
-      "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-02-01 14:28:12",
       "album": {
-        "name": "Tiempo de oto\u00f1o",
-        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
-    },
-    {
-      "added_at": "2025-02-01 14:28:12",
-      "album": {
         "name": "Jose Jose (1)",
         "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 253000,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
+    },
+    {
+      "added_at": "2025-02-01 14:28:12",
+      "album": {
+        "name": "Tiempo de oto\u00f1o",
+        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
     },
     {
       "added_at": "2025-02-01 14:28:12",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
+        "name": "Guajiro Natural",
+        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364573,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
-        "name": "Guajiro Natural",
-        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
-      },
-      "artists": [
-        {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
-        }
-      ],
-      "duration_ms": 364573,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
     },
     {
       "added_at": "2025-02-01 14:28:12",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
     },
     {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Ma\u00f1ana Voy A Conquistarla",
-      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
-    },
-    {
       "added_at": "2025-02-01 14:28:12",
       "album": {
         "name": "Tiempo de oto\u00f1o",
@@ -1639,6 +1623,22 @@
       "duration_ms": 222600,
       "name": "Un Velero Llamado Libertad",
       "url": "https://open.spotify.com/track/2eKBLX1uF9PgvJ6qqGwmRZ"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 145560,
+      "name": "Ma\u00f1ana Voy A Conquistarla",
+      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1813,22 +1813,6 @@
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
     },
     {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
       "added_at": "2025-02-01 14:28:12",
       "album": {
         "name": "Sentimientos",
@@ -1847,18 +1831,34 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 207693,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2025-02-01 14:28:12",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
+      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1881,20 +1881,20 @@
       "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
-      "added_at": "2025-02-01 14:28:12",
+      "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
         }
       ],
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
+      "duration_ms": 207693,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Pa' Gozar - Zona Rika",
-        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
-      },
-      "artists": [
-        {
-          "name": "Zona Rika",
-          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
-        }
-      ],
-      "duration_ms": 235821,
-      "name": "Spanish Girl",
-      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
+        "name": "Pa' Gozar - Zona Rika",
+        "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
+      },
+      "artists": [
+        {
+          "name": "Zona Rika",
+          "url": "https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV"
+        }
+      ],
+      "duration_ms": 235821,
+      "name": "Spanish Girl",
+      "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
     },
     {
       "added_at": "2025-02-01 14:28:12",

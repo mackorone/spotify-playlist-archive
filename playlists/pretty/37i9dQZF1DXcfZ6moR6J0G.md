@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > John Otto, take 'em to the Matthews Bridge!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,040,505 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,040,874 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 54 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 55 | [Southtown](https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:07 |
 | 56 | [I'm So Sick](https://open.spotify.com/track/3v0ylYF51SKkgAi4PrfKTq) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/0k64QfYJiwT7ko5K8z91S3) | 2:56 |
-| 57 | [Poem](https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Welcome](https://open.spotify.com/album/713d2aig86cskmj4zdL9nR) | 3:09 |
-| 58 | [New Skin](https://open.spotify.com/track/2peJ2zSVyENaSIvA6k3c6M) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:51 |
+| 57 | [New Skin](https://open.spotify.com/track/2peJ2zSVyENaSIvA6k3c6M) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:51 |
+| 58 | [Poem](https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Welcome](https://open.spotify.com/album/713d2aig86cskmj4zdL9nR) | 3:09 |
 | 59 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
 | 60 | [Death Blooms](https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:51 |
 | 61 | [Black](https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Sevendust \(Definitive Edition\)](https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3) | 4:08 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 72 | [Giving In](https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 4:34 |
 | 73 | [Rot](https://open.spotify.com/track/78SOBkauu6CnXV2OtpDrHK) | [Dry Kill Logic](https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX) | [The Darker Side of Nonsense](https://open.spotify.com/album/2MwTe2PM8IAZy84vfYtpEz) | 4:32 |
 | 74 | [Bleed](https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Soulfly](https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc) | 4:06 |
-| 75 | [Denial](https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Best Of \(Chapter One 1997\-2004\)](https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe) | 4:18 |
-| 76 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 |
+| 75 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 |
+| 76 | [Denial](https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Best Of \(Chapter One 1997\-2004\)](https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe) | 4:18 |
 | 77 | [Price to Play](https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 3:35 |
 | 78 | [From This Day](https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:56 |
 | 79 | [Pitiful](https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 3:12 |

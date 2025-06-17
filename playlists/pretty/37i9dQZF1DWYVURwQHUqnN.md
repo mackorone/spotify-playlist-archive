@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Nej x KeBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,894 likes - 45 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147,021 likes - 45 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

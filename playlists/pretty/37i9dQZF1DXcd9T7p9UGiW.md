@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,938 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,981 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 |
 | 80 | [What's Poppin](https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam) | 3:15 |
 
-Snapshot ID: `AAAAAPL/9qA1OWjgXMznkOyU8TJ8//uk`
+Snapshot ID: `aEtqWgAAAABXdPRgTejWtZW5wKzZDkfI`

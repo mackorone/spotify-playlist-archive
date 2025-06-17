@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,634 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,668 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 41 | [Hoy](https://open.spotify.com/track/6a0FNGCFye7YPJc02S6vDF) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Hoy](https://open.spotify.com/album/7h6O8lvTXdxyGMuC8990Ca) | 3:07 |
 | 42 | [Trampas](https://open.spotify.com/track/3OBXS3Tgtj7OQVzLA0BFKY) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 4:00 |
 | 43 | [Dime Quien](https://open.spotify.com/track/2RmMb9oAYUZKfK1JzahUIi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Grupo Anaconda](https://open.spotify.com/artist/68hQE5kUOEyam0MAChqS8t) | [Dime Quien](https://open.spotify.com/album/4ezfh3czrZ39US5xqEdGza) | 3:05 |
-| 44 | [Que Nos Paso](https://open.spotify.com/track/4NnLzVJECW1ky0TGIND3QN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Revolución](https://open.spotify.com/album/0DoD66E5JoqJUIsiKu7mBY) | 4:01 |
-| 45 | [Mujer Endemoniada](https://open.spotify.com/track/7rcRAdwVtuD9FVcl7cVRfm) | [Koli Arce Y Su Quinteto Imperial](https://open.spotify.com/artist/3WFhwMCDmVICPFzjYKz5b6) | [20 Secretos de Amor \- Koli Arce y su Quinteto Imperial](https://open.spotify.com/album/2zfClZ7stVYTYJ9xKhi0dn) | 4:06 |
+| 44 | [Mujer Endemoniada](https://open.spotify.com/track/7rcRAdwVtuD9FVcl7cVRfm) | [Koli Arce Y Su Quinteto Imperial](https://open.spotify.com/artist/3WFhwMCDmVICPFzjYKz5b6) | [20 Secretos de Amor \- Koli Arce y su Quinteto Imperial](https://open.spotify.com/album/2zfClZ7stVYTYJ9xKhi0dn) | 4:06 |
+| 45 | [Que Nos Paso](https://open.spotify.com/track/4NnLzVJECW1ky0TGIND3QN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Revolución](https://open.spotify.com/album/0DoD66E5JoqJUIsiKu7mBY) | 4:01 |
 | 46 | [Voy a Morir Dentro Tuyo](https://open.spotify.com/track/2P9Wt1YGCBkbihFzXSIDw1) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [El Sello Del Amor](https://open.spotify.com/album/6LRS3O36lLmGPYqJ9qNREt) | 3:20 |
 | 47 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
-| 48 | [Tu Presa](https://open.spotify.com/track/6nSM3b2nA2fVc5bTZdin2I) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Cumbia Viva Session \#11 La Nueva Luna](https://open.spotify.com/album/6FAKYpIlP37m1b2Hhg8tey) | 1:40 |
-| 49 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
+| 48 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
+| 49 | [Tu Presa](https://open.spotify.com/track/6nSM3b2nA2fVc5bTZdin2I) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Cumbia Viva Session \#11 La Nueva Luna](https://open.spotify.com/album/6FAKYpIlP37m1b2Hhg8tey) | 1:40 |
 | 50 | [Megaenganchados Dj Tero's](https://open.spotify.com/track/6XGSD3OQZg7I6tcsOftG34) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 8:13 |
 | 51 | [Dos Dias](https://open.spotify.com/track/1zlxOhIaALC9TJ8M73ahCo) | [La Clave Norteña](https://open.spotify.com/artist/2e4Y8l04wLXmQhffiFOV0Z) | [Dos Días](https://open.spotify.com/album/71jaSfhdzQhaVYIpEHXjEY) | 3:35 |
 | 52 | [Ahora Te Vas / Hojita Seca \- En Vivo](https://open.spotify.com/track/7vPCMSroBVL5SHTNF3TsxG) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 5:16 |

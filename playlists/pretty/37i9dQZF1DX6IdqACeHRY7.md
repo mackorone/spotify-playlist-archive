@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,959 likes - 114 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,963 likes - 114 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 29 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 | 30 | [beholder mit tøj på](https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [beholder mit tøj på](https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98) | 3:08 |
 | 31 | [California Dreamin'](https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [California Dreamin'](https://open.spotify.com/album/0MlN0yBNuDQ2pRDsUKfWMI) | 3:37 |
-| 32 | [No Peace](https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:43 |
-| 33 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 |
+| 32 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 |
+| 33 | [No Peace](https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:43 |
 | 34 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 35 | [Cannonball](https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 5:10 |
 | 36 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 92 | [Heartbeat](https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Heartbeat](https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak) | 3:20 |
 | 93 | [Until The Morning Light](https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Until The Morning Light](https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG) | 3:08 |
 | 94 | [Hardest Thing](https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Eternal, Pt\. I](https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg) | 4:11 |
-| 95 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
-| 96 | [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 |
+| 95 | [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 |
+| 96 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
 | 97 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
 | 98 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
 | 99 | [A Little More](https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [A Little More](https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx) | 2:24 |

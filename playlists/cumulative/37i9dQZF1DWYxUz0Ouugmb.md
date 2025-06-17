@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Adikara
+> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: The Lantis
 
-276 songs - 17 hr 56 min
+278 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Cinta Yang Rumit](https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Rumit](https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA) | 4:05 | 2023-11-17 | 2024-03-29 |
 | [Come Over \(I’m In Tresno\)](https://open.spotify.com/track/2TGAMsANnNOj1mZGbwCB2Y) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Come Over \(I’m In Tresno\)](https://open.spotify.com/album/2xuCjLACT2yowlV9XHVkWX) | 4:04 | 2021-11-25 | 2022-03-25 |
 | [Cukup Aku](https://open.spotify.com/track/5Jgh4Lp2Fa0HZC1tQOZ2iD) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Cukup Aku](https://open.spotify.com/album/2AFAPvoVwDhqCytQeaux2d) | 4:14 | 2025-04-15 |  |
+| [Dada](https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Dada](https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09) | 5:38 | 2025-06-16 |  |
 | [Dari Sabang Sampai Merauke](https://open.spotify.com/track/0EdpbaIFpECUTQw6LaJiiD) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Dari Sabang Sampai Merauke](https://open.spotify.com/album/122E1O9Ms8QEtGzPVK5vpY) | 3:02 | 2022-04-14 | 2022-06-17 |
 | [Denah Rumahmu](https://open.spotify.com/track/2pAIsy87PtMr6d7hoLSS8A) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Denah Rumahmu](https://open.spotify.com/album/5JAL8mW3bGLe5yu40In446) | 3:55 | 2025-04-15 |  |
 | [Dermaga](https://open.spotify.com/track/4XUPhifEaWlVLNyZGL5lwU) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Dermaga](https://open.spotify.com/album/6cUTntOl9VU10UUG08JZrd) | 2:54 | 2023-03-16 | 2023-04-14 |
@@ -219,6 +220,7 @@
 | [Sepasang Mata Bola](https://open.spotify.com/track/4jRX03skpItE7YzxVjaPZX) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Sepasang Mata Bola](https://open.spotify.com/album/7AKPjfIbnFsKHV6rdKb2El) | 3:44 | 2022-04-28 | 2023-04-14 |
 | [Sepatu Untuk Kakimu](https://open.spotify.com/track/0XQG49Kna4pWxIrj2qTiTo) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sepatu Untuk Kakimu](https://open.spotify.com/album/5sZq5UP7xmRWDtBh1WU8oD) | 3:59 | 2024-11-28 | 2025-04-16 |
 | [Sepenuh Hati](https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sepenuh Hati](https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a) | 4:07 | 2025-04-15 |  |
+| [Seperti Cemara](https://open.spotify.com/track/5c6zSJlr4tHXewLs3s374p) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 3:24 | 2025-06-16 |  |
 | [Seribu Kali Cinta](https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Seribu Kali Cinta](https://open.spotify.com/album/2D3Hb8Wge3s71MyapmTiNz) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2024-03-29 | 2025-04-16 |
 | [Sewajarnya](https://open.spotify.com/track/3Z69H2TPlcIQnPS77HQNRP) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Sewajarnya](https://open.spotify.com/album/55VKhwlEM22hG76WIQy7qL) | 4:36 | 2024-11-21 | 2025-04-16 |

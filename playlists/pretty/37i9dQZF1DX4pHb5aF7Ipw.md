@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by  Manjinder Sandhu, Sidhu Moose Wala and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,505 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,513 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 8 | [Oh Banda](https://open.spotify.com/track/1zrNpEz9ZJBVJIVZ6yihCH) | [Garry Bawa](https://open.spotify.com/artist/00xqXdAcIeRr73Rn96frXN), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM), [Afsar](https://open.spotify.com/artist/7zMFG1lgHwxCsXMy6I91QQ) | [Oh Banda](https://open.spotify.com/album/0fy1QZwtHtYi1ywEzOqlqf) | 2:20 |
 | 9 | [What More](https://open.spotify.com/track/1ZbRkae2E0xC6JHFMKJYT5) | [Asis Singh](https://open.spotify.com/artist/7jCzTF447q1eDOXG4Bjthn), [Shunya](https://open.spotify.com/artist/0JNmsh14huHvs42KbAMgbv), [ProdbyTpsdl](https://open.spotify.com/artist/2e3DIruzjcefF3aTgo9ig1) | [What More](https://open.spotify.com/album/38KtBVEr4jlzUOATQbczDG) | 2:06 |
 | 10 | [Likhari](https://open.spotify.com/track/0EfRlBjMMawb3rzk1ZNmcy) | [Rvik](https://open.spotify.com/artist/2xt1JAs9RwhPSGW7c1Fhaj) | [Likhari](https://open.spotify.com/album/2Gx0RdoGldNNZay7WxRHmp) | 2:44 |
-| 11 | [Neal](https://open.spotify.com/track/15a12ZgdElt3S3z9YzXFpz) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [MXRCI](https://open.spotify.com/artist/1q3BbdB30BZGt6SQNetoWJ) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:20 |
+| 11 | [Neal](https://open.spotify.com/track/15a12ZgdElt3S3z9YzXFpz) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:20 |
 | 12 | [FUCK INDUSTRY \- Love Remix](https://open.spotify.com/track/5Ft2FR7y1x6lsOFJsAuJbu) | [Jas Dhaliwal](https://open.spotify.com/artist/2xBB83EHB7meIbgraUzzEl), [Love](https://open.spotify.com/artist/0qHRrSoPF1s6hkV70UA6by) | [FUCK INDUSTRY \(Love Remix\)](https://open.spotify.com/album/0ur9rb29rAy1Qvqgm4xyBz) | 2:12 |
 | 13 | [Black Benz](https://open.spotify.com/track/3Wb5z8NbY3LRISfeLiJRsD) | [Harry Gill](https://open.spotify.com/artist/5B9Rvg9StFoPKWxZuCLbKu), [Prxkxrm](https://open.spotify.com/artist/16rmZ1GobVGEtXMIcWQr78) | [Black Benz](https://open.spotify.com/album/3KedA7QlHdO5XBFKBLczAu) | 3:12 |
 | 14 | [Glorious Life](https://open.spotify.com/track/7rXQ7BbFFZg7xrrRLgW0dI) | [Mankirat kang](https://open.spotify.com/artist/05oSMkxyUfh51zuv2mC2YJ), [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl), [DRIPPY](https://open.spotify.com/artist/32tWWwtvTtwZsQ4jnT4gEf) | [Glorious Life](https://open.spotify.com/album/0uPdm9ZupkOooMBO9LVibf) | 2:51 |

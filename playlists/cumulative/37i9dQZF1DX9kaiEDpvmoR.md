@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-393 songs - 22 hr 41 min
+394 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Country Song Came On](https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country Song Came On](https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC) | 3:54 | 2024-09-06 | 2025-04-11 |
 | [Country Tack Vare Er](https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [Country Tack Vare Er](https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD) | 3:27 | 2025-04-24 |  |
 | [COWBOY](https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [COWBOY](https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t) | 3:23 | 2024-08-29 | 2024-10-11 |
-| [Crazy](https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Caught Me On A Bad Day](https://open.spotify.com/album/5Dvb9sLbETzUR3EhbSuqbo) | 4:32 | 2025-05-15 |  |
+| [Crazy](https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Caught Me On A Bad Day](https://open.spotify.com/album/5Dvb9sLbETzUR3EhbSuqbo) | 4:32 | 2025-05-15 | 2025-06-17 |
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-27 | 2024-08-09 |
 | [Dagar utan slut](https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Dagar utan slut](https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3) | 2:42 | 2025-05-08 |  |
 | [Dandelion Kids](https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Dandelion Kids](https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92) | 4:16 | 2024-11-07 | 2025-05-16 |
@@ -126,6 +126,7 @@
 | [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 |  |
 | [Förbjudna tankar](https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Förbjudna tankar](https://open.spotify.com/album/0jEvZDn9Q701djBnQeZEAj) | 2:19 | 2024-06-27 | 2024-08-09 |
 | [Förloraren](https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Förloraren](https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo) | 3:05 | 2025-03-20 |  |
+| [Försökte tycka om dig \- Alternativ version](https://open.spotify.com/track/7dNmLi1KdsJFoAcUNQBdGs) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Livet är en cykeltur](https://open.spotify.com/album/69oFUzsxhyfMfv9tf6tNpw) | 3:01 | 2025-06-12 |  |
 | [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 | 2025-05-02 |
 | [Ge En Sol](https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ge En Sol](https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl) | 2:52 | 2024-08-22 | 2025-04-11 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-04-25 |

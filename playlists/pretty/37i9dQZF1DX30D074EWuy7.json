@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Studio Murena",
-  "num_followers": 32845,
+  "num_followers": 32851,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -1511,6 +1511,34 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/3YCBWF5ZskW5wMIiCnixRI"
+      },
+      "artists": [
+        {
+          "name": "Moonfish",
+          "url": "https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T"
+        },
+        {
+          "name": "Maria Chiara Argir\u00f2",
+          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
+        },
+        {
+          "name": "Riccardo Chiaberta",
+          "url": "https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1"
+        },
+        {
+          "name": "Alex Hitchcock",
+          "url": "https://open.spotify.com/artist/4MrFF8cBU4dYrJsCeBdNrZ"
+        }
+      ],
+      "duration_ms": 235416,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/6aT0JSqcYOtGuLIf9Q1G6K"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1539,34 +1567,6 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
-        "name": "Leaving",
-        "url": "https://open.spotify.com/album/3YCBWF5ZskW5wMIiCnixRI"
-      },
-      "artists": [
-        {
-          "name": "Moonfish",
-          "url": "https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T"
-        },
-        {
-          "name": "Maria Chiara Argir\u00f2",
-          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
-        },
-        {
-          "name": "Riccardo Chiaberta",
-          "url": "https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1"
-        },
-        {
-          "name": "Alex Hitchcock",
-          "url": "https://open.spotify.com/artist/4MrFF8cBU4dYrJsCeBdNrZ"
-        }
-      ],
-      "duration_ms": 235416,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/6aT0JSqcYOtGuLIf9Q1G6K"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Gigi",
-        "url": "https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 183125,
-      "name": "Gigi",
-      "url": "https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Under Italian Skies",
         "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 183125,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1899,46 +1899,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Chiara Civello 7752",
-        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
-      },
-      "artists": [
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Resta",
-      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
-        }
-      ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Rushin'",
         "url": "https://open.spotify.com/album/4MMwzcfiGiwNwocLjnsEER"
       },
@@ -1967,6 +1927,46 @@
       "duration_ms": 290428,
       "name": "My Groove Your Moove",
       "url": "https://open.spotify.com/track/5jkYLolY6EqsKTyQ3S64p0"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
+        }
+      ],
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Chiara Civello 7752",
+        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
+      },
+      "artists": [
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Resta",
+      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
     },
     {
       "added_at": "2025-06-12 22:01:31",

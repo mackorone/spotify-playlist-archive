@@ -4,7 +4,7 @@
 
 > 
 
-1,150 songs - 2 day 16 hr 22 min
+1,151 songs - 2 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Dap You Up](https://open.spotify.com/track/2qTBAODxjsKCQClRjMthEj) | [Speaker Knockerz](https://open.spotify.com/artist/3KuLo66B73btyQpdXlkqFx) | [Married to the Money II \#Mttm2](https://open.spotify.com/album/2q0B1JTgZRAh7xVEZfJRg8) | 2:58 | 2024-01-25 |  |
 | [Dark King](https://open.spotify.com/track/5UCsKE3UPS5kcRRbRVeI0F) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:19 | 2024-05-17 | 2024-06-01 |
 | [Dark Knight Dummo \(Feat\. Travis Scott\)](https://open.spotify.com/track/3YeJXuRSNS5FYwOsDu44kD) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dark Knight Dummo \(Feat\. Travis Scott\)](https://open.spotify.com/album/0D2ArJUb7VQ2tVmsHZohUZ) | 4:16 | 2024-01-25 | 2025-03-28 |
+| [Dark Thoughts](https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:16 | 2025-06-16 |  |
 | [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-10-30 | 2024-11-14 |
 | [Daylight](https://open.spotify.com/track/4ZT0wGKwlJRjpMUuwZVy3p) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:44 | 2024-01-25 |  |
 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 | 2024-01-25 | 2024-02-07 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 886167,
+  "num_followers": 886202,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACRiPs7VWzRd3V0CJm/ZmFI",
+  "snapshot_id": "aE4NAAAAAAAYJdH1siiUw4KZH0lfHJRq",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2012 (It Ain't The End)",
         "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 222200,
       "name": "2012 (It Ain't The End)",
       "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Woman Like Me (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter VI (Bonus)",
         "url": "https://open.spotify.com/album/5eczdMiRvq3ZB0ogylQOLD"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 203981,
       "name": "Banned From NO (with Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/0w6Y7dbsjByFQ8C8LUktto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Woman Like Me (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -735,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
       "artists": [
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
+      "duration_ms": 212346,
+      "name": "Did It On\u2019em",
+      "url": "https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 303076,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Did It On\u2019em",
-      "url": "https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Witness (Deluxe)",
         "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 242520,
       "name": "Swish Swish",
       "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
     },
     {
       "added_at": null,

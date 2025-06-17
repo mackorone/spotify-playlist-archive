@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 71731,
+  "num_followers": 71733,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAbrBeQJRPXWwbHmhqPz3gY",
+  "snapshot_id": "aE4NAAAAAAB0EG13kymjFfsJaOjmw7ym",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Hello In There",
-      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
+      "duration_ms": 105973,
+      "name": "Girl Of Constant Sorrow",
+      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 105973,
-      "name": "Girl Of Constant Sorrow",
-      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
+      "duration_ms": 184666,
+      "name": "Hello In There",
+      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
     },
     {
       "added_at": null,
@@ -739,6 +739,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters",
+        "url": "https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "God Is God",
+      "url": "https://open.spotify.com/track/5eKQFLU9s7vVtZKvza2on8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 149933,
+      "name": "De Colores",
+      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -771,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+        "name": "If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters",
+        "url": "https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM"
       },
       "artists": [
         {
@@ -780,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 149933,
-      "name": "De Colores",
-      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
+      "duration_ms": 208893,
+      "name": "If I Wrote You",
+      "url": "https://open.spotify.com/track/2kJfMLleWp1UgC5HlGBHi1"
     },
     {
       "added_at": null,
@@ -799,38 +831,6 @@
       "duration_ms": 190973,
       "name": "Plaisir D' Amour",
       "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters",
-        "url": "https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "God Is God",
-      "url": "https://open.spotify.com/track/5eKQFLU9s7vVtZKvza2on8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "East Virginia",
-      "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
     }
   ],
   "unique_name": "This Is Joan Baez",

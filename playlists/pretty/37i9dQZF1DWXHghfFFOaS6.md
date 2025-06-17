@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,357 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,410 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 50 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
 | 51 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
 | 52 | [Changin'](https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction](https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV) | 8:14 |
-| 53 | [Good Luck Shore](https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9) | [United Future Organization](https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh) | [Bon Voyage](https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh) | 5:27 |
-| 54 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 |
+| 53 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 |
+| 54 | [Good Luck Shore](https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9) | [United Future Organization](https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh) | [Bon Voyage](https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh) | 5:27 |
 | 55 | [Block Episode](https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Punch&Words](https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 3:48 |
 | 56 | [Lovesick](https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn) | [Night Trains](https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG) | [Sleazeball](https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb) | 4:27 |
 | 57 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 60 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
 | 61 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
 | 62 | [Life In Paradise](https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 7:00 |
-| 63 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
-| 64 | [Walk That Walk, Talk That Talk](https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp) | [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Cosmic Vortex \(Justice Divine\)](https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52) | 7:50 |
+| 63 | [Walk That Walk, Talk That Talk](https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp) | [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Cosmic Vortex \(Justice Divine\)](https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52) | 7:50 |
+| 64 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 | 65 | [House of the Rising Sun](https://open.spotify.com/track/71hiblgY44Xeo11ajThYz6) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [House of the Rising Sun](https://open.spotify.com/album/6pC0QxD8NR7f1R5HzJ4q5U) | 4:42 |
 | 66 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 |
 | 67 | [In The Breaks](https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In The Breaks](https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm) | 4:49 |

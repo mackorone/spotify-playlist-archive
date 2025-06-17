@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,205 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,222 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 40 | [La Loba del Mar](https://open.spotify.com/track/6ozLwDnOkZBN1yir033PyG) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como una Huella Digital](https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6) | 2:23 |
 | 41 | [El Muchacho Alegre](https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Decimo Aniversario](https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF) | 3:19 |
 | 42 | [Prohibido \(En Vivo\)](https://open.spotify.com/track/2oaXSRWXf0pjmODxwKBxmq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido \(En Vivo\)](https://open.spotify.com/album/7ij7uJXtBAxjZswsqYLfxl) | 2:58 |
-| 43 | [Qué Te Ha Dado Esa Mujer](https://open.spotify.com/track/6RxkpvxZ4qN2MTa7o8KVqz) | [Sergio Mendivil Y Sus Huellas](https://open.spotify.com/artist/1cluCVkhK1mU0NFVfrXEi8), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Qué Te Ha Dado Esa Mujer](https://open.spotify.com/album/4pq7pkqVX2VkbwRoESuCH1) | 3:20 |
-| 44 | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS) | 2:17 |
+| 43 | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS) | 2:17 |
+| 44 | [Qué Te Ha Dado Esa Mujer](https://open.spotify.com/track/6RxkpvxZ4qN2MTa7o8KVqz) | [Sergio Mendivil Y Sus Huellas](https://open.spotify.com/artist/1cluCVkhK1mU0NFVfrXEi8), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Qué Te Ha Dado Esa Mujer](https://open.spotify.com/album/4pq7pkqVX2VkbwRoESuCH1) | 3:20 |
 | 45 | [Alla En El Rancho Grande](https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Lo Basico](https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS) | 3:12 |
 | 46 | [Amargo Dolor](https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Concedeme](https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY) | 2:26 |
 | 47 | [El Borrego](https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 3:01 |
 | 48 | [Pase Y Pase](https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:29 |
 | 49 | [Tu Lo Decidiste](https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Tu Lo Decidiste](https://open.spotify.com/album/3hqXLmjhAIJOojsVXrM1MB) | 3:38 |
-| 50 | [El Disgusto](https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Pa Pistear Volumen 1](https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk) | 2:57 |
+| 50 | [Vida Mafiosa](https://open.spotify.com/track/7y2rMsFIh7wKS6cTwWLSXU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Ley De La Vida](https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg) | 1:58 |
 
-Snapshot ID: `aEy7gAAAAAA3414DdHhbfa78g5FWV/7m`
+Snapshot ID: `aE4NAAAAAAAtrCiLLcb3sHAjDIZZkCJ5`

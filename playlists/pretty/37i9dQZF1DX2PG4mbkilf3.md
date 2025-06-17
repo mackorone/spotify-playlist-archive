@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Avenoir from Edmonton, AB 🇨🇦 and Bryant Barnes from Cypress, TX\. 🇺🇸
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,152 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,193 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 74 | [TiMiD](https://open.spotify.com/track/7nEvsMCIbHQELsoGyCK4DJ) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [The Lost Tapes](https://open.spotify.com/album/2LJg4n0DH7HMPQqZSSeQ6S) | 3:07 |
 | 75 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 |
 
-Snapshot ID: `aEuiYQAAAABMoUnVtyVCLW7OgSHZFuB/`
+Snapshot ID: `AAAAAASnzTDexfqaCGRw4iXUgl1n42bV`

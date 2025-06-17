@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 544756,
+  "num_followers": 544787,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Quiero Dormir Cansado",
+      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Laura Pausini - Spanish Version",
         "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
       },
@@ -839,6 +855,22 @@
       "duration_ms": 280666,
       "name": "Se fu\u00e9",
       "url": "https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
+        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 166185,
+      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -859,22 +891,6 @@
       "duration_ms": 199200,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
-        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 166185,
-      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
-      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -911,22 +927,6 @@
       "duration_ms": 235200,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Quiero Dormir Cansado",
-      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2025-06-13 20:09:49",

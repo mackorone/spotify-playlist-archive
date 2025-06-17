@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-308 songs - 13 hr 10 min
+309 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,12 @@
 | [April Snow](https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [April Snow](https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl) | 1:43 | 2024-05-24 | 2025-04-08 |
 | [Arrow Point Port](https://open.spotify.com/track/06RkpwK6SqE0CWNM3lOvmZ) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Arrow Point Port](https://open.spotify.com/album/69rrbdsxBJmEegJZLc63Zz) | 1:53 | 2022-08-19 | 2023-08-26 |
 | [Arroyos Y Valles](https://open.spotify.com/track/3deEZxzspdmQ8HmcGLhhOK) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Arroyos Y Valles](https://open.spotify.com/album/7mMinee1Kiy1lxSjs1beRc) | 2:38 | 2022-10-07 |  |
+| [Artemis](https://open.spotify.com/track/5CcTsoh77A0ClwHfAl80cK) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Artemis](https://open.spotify.com/album/7GSzGWVULgIwKJLPUuvicr) | 1:54 | 2025-06-16 |  |
 | [Au Revoir](https://open.spotify.com/track/205qtb3ouMjfPrvxiqBG5v) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Au revoir](https://open.spotify.com/album/3cMpbmbHDRFojvimdEOIlV) | 1:44 | 2022-07-08 | 2023-08-26 |
 | [Aurélie](https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Aurélie](https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ) | 2:04 | 2024-10-15 |  |
 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 | 2021-12-09 | 2024-04-05 |
 | [Beautiful Water](https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Beautiful Water](https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg) | 2:58 | 2024-12-17 |  |
-| [Belle Neige](https://open.spotify.com/track/5WA2zaUYiN7ZubOpbbSMsa) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [Belle Neige](https://open.spotify.com/album/5MsjKTsYVyJOatroRKj7O6) | 2:49 | 2025-03-05 |  |
+| [Belle Neige](https://open.spotify.com/track/5WA2zaUYiN7ZubOpbbSMsa) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [Belle Neige](https://open.spotify.com/album/5MsjKTsYVyJOatroRKj7O6) | 2:49 | 2025-03-05 | 2025-06-17 |
 | [Benvenuto A Casa](https://open.spotify.com/track/0fnUE554KVoU50jWIVp83X) | [Ryze & Pea](https://open.spotify.com/artist/5hB3PiXau0Jw2qgtEABxXu) | [Benvenuto A Casa](https://open.spotify.com/album/0nnxk7Tf6MDZ42Z7UGGrSa) | 1:45 | 2023-01-20 | 2023-08-26 |
 | [Beyond the Blue](https://open.spotify.com/track/2I7ZoXTC9RWJka1rpLcxZF) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Beyond the Blue](https://open.spotify.com/album/2UjDmSX3lUFvgEPrtd8mY7) | 2:23 | 2025-05-19 |  |
 | [Beyond This Chapter](https://open.spotify.com/track/2y9KLiNyaEAyViL5JOEFYI) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Beyond This Chapter](https://open.spotify.com/album/19rvv5E7HnKyS4g8XZxm8T) | 2:24 | 2025-04-22 | 2025-04-30 |

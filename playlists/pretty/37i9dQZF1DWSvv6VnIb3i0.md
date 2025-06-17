@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,218 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,314 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 29 | [Marly\-Gomont](https://open.spotify.com/track/42SUjSOr2tsUmOIlYBX04Z) | [Kamini](https://open.spotify.com/artist/0AFEmxYJqHfNUtADd6eWhc) | [Psychostar World](https://open.spotify.com/album/2mkgMkWDs1Xi2Sqzd4oxVF) | 5:08 |
 | 30 | [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 |
 | 31 | [Double je \- Remix](https://open.spotify.com/track/1EDQN7WMV9En0OhQuLBO6P) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Inventaire](https://open.spotify.com/album/0u5Y7yUXTvK0yT6WektGVL) | 3:16 |
-| 32 | [Petite sœur](https://open.spotify.com/track/5caNvNBHlyOlpBZQXSH9Jd) | [Laam](https://open.spotify.com/artist/2r6iIiC4UZtRdEDxRekU98) | [Petite sœur](https://open.spotify.com/album/0Rv39XV4OxBycL3YTSSAST) | 3:50 |
+| 32 | [Petite sœur](https://open.spotify.com/track/5caNvNBHlyOlpBZQXSH9Jd) | [Lââm](https://open.spotify.com/artist/1jgEyfz2gh0syRBGhvpYBO) | [Petite sœur](https://open.spotify.com/album/0Rv39XV4OxBycL3YTSSAST) | 3:50 |
 | 33 | [Caravane](https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:26 |
 | 34 | [Mourir demain](https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch), [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [L'instant d'après](https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9) | 3:37 |
 | 35 | [Je suis un homme](https://open.spotify.com/track/2YNWgxevUxpjZDgW4i5Aky) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Totem](https://open.spotify.com/album/3RWSCAgGYrQxdyqqX0mglq) | 4:09 |

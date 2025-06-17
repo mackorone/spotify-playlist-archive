@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 544230,
+  "num_followers": 544355,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-05-16 04:00:15",
       "album": {
+        "name": "Set the Sails",
+        "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
+      },
+      "artists": [
+        {
+          "name": "Storm Seeker",
+          "url": "https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Set the Sails",
+      "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
+    },
+    {
+      "added_at": "2025-05-16 04:00:15",
+      "album": {
         "name": "Sunir",
         "url": "https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 398160,
       "name": "Anaia",
       "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
-    },
-    {
-      "added_at": "2025-05-16 04:00:15",
-      "album": {
-        "name": "Set the Sails",
-        "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
-      },
-      "artists": [
-        {
-          "name": "Storm Seeker",
-          "url": "https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Set the Sails",
-      "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
     },
     {
       "added_at": "2025-05-16 04:00:15",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-05-16 04:00:15",
       "album": {
-        "name": "Mann",
-        "url": "https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob"
-      },
-      "artists": [
-        {
-          "name": "Sowulo",
-          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
-        }
-      ],
-      "duration_ms": 256186,
-      "name": "Wulfwiga",
-      "url": "https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16"
-    },
-    {
-      "added_at": "2025-05-16 04:00:15",
-      "album": {
         "name": "Sun and the Morning Star",
         "url": "https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 323028,
       "name": "Sun and the Morning Star",
       "url": "https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu"
+    },
+    {
+      "added_at": "2025-05-16 04:00:15",
+      "album": {
+        "name": "Mann",
+        "url": "https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob"
+      },
+      "artists": [
+        {
+          "name": "Sowulo",
+          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
+        }
+      ],
+      "duration_ms": 256186,
+      "name": "Wulfwiga",
+      "url": "https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16"
     },
     {
       "added_at": "2025-05-16 04:00:15",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-05-16 04:00:15",
       "album": {
-        "name": "Spatle \u01e2ghwas",
-        "url": "https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm"
-      },
-      "artists": [
-        {
-          "name": "Sowulo",
-          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Spatle \u01e2ghwas",
-      "url": "https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi"
-    },
-    {
-      "added_at": "2025-05-16 04:00:15",
-      "album": {
         "name": "As Bright as a Thousand Suns",
         "url": "https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 389386,
       "name": "Inceptus",
       "url": "https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf"
+    },
+    {
+      "added_at": "2025-05-16 04:00:15",
+      "album": {
+        "name": "Spatle \u01e2ghwas",
+        "url": "https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm"
+      },
+      "artists": [
+        {
+          "name": "Sowulo",
+          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Spatle \u01e2ghwas",
+      "url": "https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi"
     },
     {
       "added_at": "2025-05-16 04:00:15",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-05-16 04:00:15",
       "album": {
+        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        }
+      ],
+      "duration_ms": 315880,
+      "name": "Hausbrj\u00f3tr - Skullcrusher",
+      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
+    },
+    {
+      "added_at": "2025-05-16 04:00:15",
+      "album": {
         "name": "Runaljod \u2013 Yggdrasil",
         "url": "https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1"
       },
@@ -1131,26 +1147,6 @@
       "duration_ms": 431866,
       "name": "Helvegen",
       "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
-    },
-    {
-      "added_at": "2025-05-16 04:00:15",
-      "album": {
-        "name": "Snake Pit Poetry",
-        "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
-      },
-      "artists": [
-        {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        },
-        {
-          "name": "Hilda \u00d6rvarsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1"
-        }
-      ],
-      "duration_ms": 428077,
-      "name": "Snake Pit Poetry",
-      "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
     },
     {
       "added_at": "2025-05-16 04:00:15",
@@ -1203,6 +1199,26 @@
     {
       "added_at": "2025-05-16 04:00:15",
       "album": {
+        "name": "Snake Pit Poetry",
+        "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        },
+        {
+          "name": "Hilda \u00d6rvarsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1"
+        }
+      ],
+      "duration_ms": 428077,
+      "name": "Snake Pit Poetry",
+      "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
+    },
+    {
+      "added_at": "2025-05-16 04:00:15",
+      "album": {
         "name": "Whom the Moon a Nightsong Sings",
         "url": "https://open.spotify.com/album/1owCmNT9Sswuqyohl3GfXJ"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 850866,
       "name": "How Fare the Gods?",
       "url": "https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR"
-    },
-    {
-      "added_at": "2025-05-16 04:00:15",
-      "album": {
-        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
-      },
-      "artists": [
-        {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        }
-      ],
-      "duration_ms": 315880,
-      "name": "Hausbrj\u00f3tr - Skullcrusher",
-      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
     },
     {
       "added_at": "2025-05-16 04:00:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > We introduce exciting artists to you from the Benelux: <a href="spotify:artist:3smrOozTm8zGvRfrcIyRg9">Samuel Welten</a> \(cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,323 likes - 31 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,325 likes - 31 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

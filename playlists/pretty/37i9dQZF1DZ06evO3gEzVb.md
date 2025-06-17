@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 
 > This is Daddy Lumba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,250 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,251 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3gEzVb.md) - [plain]
 | 44 | [Tasso Eburo](https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 5:47 |
 | 45 | [Fakye](https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:08 |
 | 46 | [Nea Nyame Tumi Yɛ](https://open.spotify.com/track/7hjuGZWgPxZEUn0cSsG1f7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Awosoɔ](https://open.spotify.com/album/13OdQBvMdf2jyt3PzRF4hh) | 4:57 |
-| 47 | [Nkyekye Wo Nafe](https://open.spotify.com/track/5mMcyiSOAmcyTsU1YngxZZ) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 7:13 |
-| 48 | [Wate Asee](https://open.spotify.com/track/0beTO2UOwZe2FFjzOESo7j) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ma To Odo Mu](https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9) | 3:57 |
-| 49 | [A Plus](https://open.spotify.com/track/3lmSEuWtALQtKtE1bEu0ab) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 4:25 |
-| 50 | [Ahenfo Kyiniye](https://open.spotify.com/track/2I56btX31wtV1gSAvZJXXl) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy) | [Ahenfo Kyiniye](https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7) | 6:09 |
+| 47 | [Wate Asee](https://open.spotify.com/track/0beTO2UOwZe2FFjzOESo7j) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ma To Odo Mu](https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9) | 3:57 |
+| 48 | [Nkyekye Wo Nafe](https://open.spotify.com/track/5mMcyiSOAmcyTsU1YngxZZ) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 7:13 |
+| 49 | [Ahenfo Kyiniye](https://open.spotify.com/track/2I56btX31wtV1gSAvZJXXl) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy) | [Ahenfo Kyiniye](https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7) | 6:09 |
+| 50 | [A Plus](https://open.spotify.com/track/3lmSEuWtALQtKtE1bEu0ab) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 4:25 |
 
-Snapshot ID: `aEy7gAAAAAD1e1tbCTbNFNcJgV/eSK+v`
+Snapshot ID: `aE4NAAAAAADaSVPEpryVFRQEFyjHeXaU`

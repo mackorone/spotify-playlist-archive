@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18502,
+  "num_followers": 18506,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADiQv+kZNZrNiw8Ngri0OL8",
+  "snapshot_id": "aE4NAAAAAACR4QXh8C/c2Mnieol81XDc",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unsung Hero (The Inspired By Soundtrack)",
-        "url": "https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/4lNWo2a9HjTMWbrfGTSLCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worship Forever (Live)",
         "url": "https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 329680,
       "name": "Agnus Dei - Live",
       "url": "https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unsung Hero (The Inspired By Soundtrack)",
+        "url": "https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/4lNWo2a9HjTMWbrfGTSLCh"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 267026,
-      "name": "Jesus, Take All Of Me (Just As I Am)",
-      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Of Ages...Hymns & Faith",
         "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 180973,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/57RD1fWWeuT9zsYtFMOu4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 267026,
+      "name": "Jesus, Take All Of Me (Just As I Am)",
+      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
     },
     {
       "added_at": null,
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
       },
       "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Faithful (feat. Amy Grant)",
-      "url": "https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66"
+      "duration_ms": 335960,
+      "name": "Stay For A While",
+      "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
     },
     {
       "added_at": null,
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V"
       },
       "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 335960,
-      "name": "Stay For A While",
-      "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
+      "duration_ms": 230266,
+      "name": "Faithful (feat. Amy Grant)",
+      "url": "https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66"
     },
     {
       "added_at": null,

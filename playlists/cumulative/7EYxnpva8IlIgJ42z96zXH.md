@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-1,007 songs - 2 day 4 hr 54 min
+1,008 songs - 2 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1014,6 +1014,7 @@
 | [You're Not Alone](https://open.spotify.com/track/00m7jfE9XuDQYWGdsR5Eki) | [Brain Flowers](https://open.spotify.com/artist/31imdiZgUutxbuMl8PH20G) | [You're Not Alone](https://open.spotify.com/album/38lBs0oP2BNz36chkanNwg) | 2:58 | 2021-11-02 | 2021-11-12 |
 | [Your Love](https://open.spotify.com/track/4xULQ1OH1Rm5EpMhuEWULl) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Your Love](https://open.spotify.com/album/4G7AnMXZWjAHwPUjmRCWx6) | 2:45 | 2020-11-13 | 2021-02-06 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2021-01-15 | 2021-05-29 |
+| [Your Love Is My Drug](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:07 | 2025-06-16 |  |
 | [Zeros \(feat\. Headie One\)](https://open.spotify.com/track/1V0HauTAFl7CnslORPhAzB) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Zeros \(feat\. Headie One\)](https://open.spotify.com/album/3EXGGB0DAQEUbvzOuaSJub) | 2:13 | 2024-06-17 | 2024-07-19 |
 
 \*This playlist was first scraped on 2020-11-03. Prior content cannot be recovered.

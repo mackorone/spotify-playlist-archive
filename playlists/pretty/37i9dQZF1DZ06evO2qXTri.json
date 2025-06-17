@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 34693,
+  "num_followers": 34726,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAi81duBFi1bObLpu+9JSm9",
+  "snapshot_id": "aE4NAAAAAADj2AQGHfXNfzLXcJFL0Ejk",
   "tracks": [
     {
       "added_at": null,
@@ -527,50 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 368560,
-      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Portable Sounds (With Bonus Remixes)",
-        "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 375973,
-      "name": "Lose My Soul - Afterparty Interlude",
-      "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
       },
@@ -619,22 +575,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Epilogue.",
-        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
+        "name": "Portable Sounds (With Bonus Remixes)",
+        "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
       },
       "artists": [
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 276629,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
+      "duration_ms": 375973,
+      "name": "Lose My Soul - Afterparty Interlude",
+      "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
     },
     {
       "added_at": null,
@@ -646,11 +606,15 @@
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
         }
       ],
-      "duration_ms": 382573,
-      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
+      "duration_ms": 368560,
+      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
     },
     {
       "added_at": null,
@@ -667,6 +631,26 @@
       "duration_ms": 237986,
       "name": "123 Victory",
       "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Epilogue.",
+        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 276629,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
     },
     {
       "added_at": null,
@@ -691,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
       "artists": [
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 388586,
-      "name": "Give Me (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
+      "duration_ms": 382573,
+      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
     },
     {
       "added_at": null,
@@ -723,6 +703,26 @@
       "duration_ms": 292040,
       "name": "Silver and Gold - Live",
       "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 388586,
+      "name": "Give Me (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 263973,
-      "name": "Before I Die",
-      "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 404600,
       "name": "Always - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/3loaCZ2ZeolNXvrxmB3RaJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 263973,
+      "name": "Before I Die",
+      "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
     },
     {
       "added_at": null,
@@ -847,38 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Rance Allen",
-          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
-        },
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        },
-        {
-          "name": "Isaac Carree",
-          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
-      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Father's Day",
         "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
       },
@@ -907,6 +875,38 @@
       "duration_ms": 374780,
       "name": "Again",
       "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Rance Allen",
+          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
+      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con Alejandro Sanz & Shakira en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,640,312 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,640,320 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [Vuelvo A Ti](https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Ya Es Mañana](https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO) | 3:06 |
 | 50 | [Milagro](https://open.spotify.com/track/5uAwmFcI1aSSYp3AI8k6U1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 2:48 |
 
-Snapshot ID: `aEuiaQAAAAC/0KnxurhxZDNEAIyrf0y6`
+Snapshot ID: `aEuiaQAAAAAED4cX9qpIUmzMsesO/mxi`

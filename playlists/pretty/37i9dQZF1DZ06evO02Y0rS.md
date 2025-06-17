@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,848 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,855 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 17 | [Elysian](https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:02 |
 | 18 | [Bambro Koyo Ganda](https://open.spotify.com/track/5EGJ7e7frJjYja6H4afzoT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 5:02 |
 | 19 | [We Could Forever](https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:19 |
-| 20 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
+| 20 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 |
 | 21 | [From You](https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:30 |
 | 22 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 |
-| 23 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 |
+| 23 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 | 24 | [Rippling](https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:03 |
 | 25 | [Polyghost](https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 1:48 |
 | 26 | [Black Sands](https://open.spotify.com/track/6uoM7KHsyJsHZqBQHKjQbc) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 6:48 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 38 | [Flutter](https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 4:44 |
 | 39 | [Sapphire](https://open.spotify.com/track/1d5hX0RYHcDM4aHJHSm5cr) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:47 |
 | 40 | [Between The Lines](https://open.spotify.com/track/0oBV4QAfY26kcYqRLRv5ST) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Bajka](https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:36 |
-| 41 | [Babylonia](https://open.spotify.com/track/0ks6X1a6PY5zXomNvuDgtm) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:19 |
+| 41 | [Northport](https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:56 |
 | 42 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 43 | [Jets](https://open.spotify.com/track/3cg38isdTrBH63B4BMywsw) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:34 |
 | 44 | [Silver](https://open.spotify.com/track/5LB8Xop5SuozvPINeSSMf5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 6:33 |
-| 45 | [Northport](https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:56 |
+| 45 | [Babylonia](https://open.spotify.com/track/0ks6X1a6PY5zXomNvuDgtm) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:19 |
 | 46 | [Nothing Owed](https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 6:16 |
 | 47 | [Ten Tigers](https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:03 |
 | 48 | [Aerials](https://open.spotify.com/track/6xcC2CwfPn9RJaQ5PuUlzW) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:25 |
 | 49 | [Antenna](https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 3:32 |
 | 50 | [First Fires](https://open.spotify.com/track/2Yz2Z1ENB85nYrK3Rg2qxO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:38 |
 
-Snapshot ID: `aEy7gAAAAAABcJehW5Iruul0EuegwJpW`
+Snapshot ID: `aE4NAAAAAADbkAtUmMFSq95TjCNFidwf`

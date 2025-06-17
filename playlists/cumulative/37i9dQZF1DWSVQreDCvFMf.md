@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Paham
 
-418 songs - 1 day 2 hr 12 min
+419 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Safe Ka Sa’kin](https://open.spotify.com/track/6TVJFTnZH39hC0aOlYf0J4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [Safe Ka Sa’kin](https://open.spotify.com/album/7t5inER3X1tBfYpTDSINTc) | 2:34 | 2024-09-24 | 2024-12-05 |
 | [Sagad](https://open.spotify.com/track/4hLALWdKykfWQDuIrWBXF3) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Sagad](https://open.spotify.com/album/0i01wbyJ9iiq3d65dVKP5l) | 4:25 | 2025-04-25 |  |
 | [Sagip](https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Sagip](https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO) | 3:52 | 2024-07-02 | 2024-07-09 |
+| [Saksi Ang Langit](https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Saksi Ang Langit](https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK) | 4:19 | 2025-06-16 |  |
 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 | 2024-07-02 | 2024-08-03 |
 | [Salbabida](https://open.spotify.com/track/1VpidxmlCDlPGd17KffCEA) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Salbabida](https://open.spotify.com/album/5nUfEKEPFZMYIuDdTuDZwu) | 4:10 | 2024-07-12 | 2024-11-09 |
 | [Sampung Mga Daliri](https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [Sampung Mga Daliri](https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv) | 3:39 | 2025-01-31 | 2025-06-07 |

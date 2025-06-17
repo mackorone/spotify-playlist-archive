@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12141,
+  "num_followers": 12144,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAB4y/6EIRfbLh13ACgzTMCC",
+  "snapshot_id": "aE4NAAAAAAA7a6e5IjQCQjqvRpFpEKI+",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "no ties",
-      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
       "artists": [
         {
@@ -616,9 +600,25 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 167589,
-      "name": "fresh white tee",
-      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
+      "duration_ms": 137386,
+      "name": "no ties",
+      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "day dream",
+        "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "day dream",
+      "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "day dream",
-        "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 210909,
-      "name": "day dream",
-      "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
+      "duration_ms": 167589,
+      "name": "fresh white tee",
+      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
     },
     {
       "added_at": null,

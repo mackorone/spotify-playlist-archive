@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,909 songs - 4 day 3 hr 4 min
+1,910 songs - 4 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1560,6 +1560,7 @@
 | [Summertime](https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Summertime / Can't Stop](https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG) | 4:16 | 2023-09-14 | 2024-01-19 |
 | [Sun](https://open.spotify.com/track/4xMPJOd0L8RbrKVHW1x0t3) | [Name The Pet](https://open.spotify.com/artist/3ud4LE50NSFZxHYDSURGyM), [Janne Schaffer](https://open.spotify.com/artist/1FdRWg2tqR4I7jjA29vWYU) | [Sun](https://open.spotify.com/album/4thDfq25JgSDpeTdrypZLM) | 3:45 | 2021-12-16 | 2022-02-16 |
 | [Sun In Her Eyes](https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Sun In Her Eyes](https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj) | 3:20 | 2023-06-08 | 2023-10-20 |
+| [Sunnanvind](https://open.spotify.com/track/7MI98KtBpPqJSG0RcGMTXy) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Sunnanvind](https://open.spotify.com/album/1WBQ4GY9SM9r3vMqwSOLf2) | 3:15 | 2025-06-16 |  |
 | [Sunny Days](https://open.spotify.com/track/53sdGp5FZgcpVsg5NPbbiL) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [sometime/Sunny Days](https://open.spotify.com/album/5qWgpA67k7vP42pW2RtHmd) | 4:03 | 2022-03-10 | 2022-04-25 |
 | [Sunny Philadelphia](https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS) | 3:15 | 2023-10-19 | 2024-01-26 |
 | [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-09-15 | 2023-01-27 |
@@ -1679,7 +1680,7 @@
 | [Timmar](https://open.spotify.com/track/5sXAGhrXIeUtAVLzpdJIfH) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Timmar](https://open.spotify.com/album/4gajMx6fgWWLyPrrPCfc1Z) | 3:33 | 2021-12-16 | 2022-01-13 |
 | [Tiotusen](https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Tiotusen](https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk) | 3:14 | 2023-08-31 | 2023-11-26 |
 | [Tip Tip](https://open.spotify.com/track/0znYdugASndFp2FhnK3Wdf) | [Ambivalensen](https://open.spotify.com/artist/0ZF9JhwucCz0sMbxOGVa4Z) | [Tip Tip](https://open.spotify.com/album/7uWku96UiAAe02QJH0xcmN) | 3:12 | 2024-05-02 | 2024-05-24 |
-| [TJEJER](https://open.spotify.com/track/6isVFpT1VCaABMl3tOvvVg) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [IFTIIN](https://open.spotify.com/album/3cwGg3uASDQXRiiiIdW1R9) | 2:39 | 2025-06-12 |  |
+| [TJEJER](https://open.spotify.com/track/6isVFpT1VCaABMl3tOvvVg) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [IFTIIN](https://open.spotify.com/album/3cwGg3uASDQXRiiiIdW1R9) | 2:39 | 2025-06-12 | 2025-06-17 |
 | [Tjugofyra sju](https://open.spotify.com/track/5Fz8257fkwgpnUMNlbvtP4) | [Amanda Mattsson](https://open.spotify.com/artist/5BftYI9ZzOxA6tKAbAHdQF) | [Tjugofyra sju](https://open.spotify.com/album/2PWptHPalgmRvTz5GaeVpb) | 3:10 | 2022-04-07 | 2022-05-11 |
 | [Together](https://open.spotify.com/track/1Z5LUX0cHKI6V3aAQ9AfNQ) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Together](https://open.spotify.com/album/4NuQmXyWmVWl7vaFtWSp81) | 2:59 | 2023-12-08 | 2024-03-08 |
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-10-20 |

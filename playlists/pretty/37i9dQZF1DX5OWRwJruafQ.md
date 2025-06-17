@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,555 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,622 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 4 | [Score](https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:39 |
 | 5 | [21.40](https://open.spotify.com/track/3RxgyMMWqA1MbZhngped0o) | [Gagan Kooner](https://open.spotify.com/artist/04zsOadyaRBqhi2d1nKGUe) | [21.40](https://open.spotify.com/album/5KFS1SjWYx0LqDLiKl7Adr) | 2:35 |
 | 6 | [Banda Bamb](https://open.spotify.com/track/4VzONhg2UBxyzcmOi1NFHJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [FYI \(For Your Information\)](https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf) | 2:54 |
-| 7 | [Neal](https://open.spotify.com/track/15a12ZgdElt3S3z9YzXFpz) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [MXRCI](https://open.spotify.com/artist/1q3BbdB30BZGt6SQNetoWJ) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:20 |
+| 7 | [Neal](https://open.spotify.com/track/15a12ZgdElt3S3z9YzXFpz) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:20 |
 | 8 | [Gustakhiyan 2](https://open.spotify.com/track/4MpGiWSCNz1WJ0ICCfAdYl) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Bangers](https://open.spotify.com/album/498Rnyy18ac5qqgoFv8HZz) | 2:44 |
 | 9 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
 | 10 | [No Link Up](https://open.spotify.com/track/3TMtRuNbUcQDz4ZJ9wIj0q) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [No Link Up](https://open.spotify.com/album/3RtZ2O8pcP69Byub2oFelr) | 2:30 |

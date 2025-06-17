@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros, Nelson Freitas ",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Djodje",
   "name": "Dancing Kizomba",
   "tracks": [
+    {
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134279,
+      "name": "0 a 100",
+      "url": "https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p"
+    },
     {
       "album": {
         "name": "2AM",
@@ -842,7 +860,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 178600,
       "name": "Azar",
       "url": "https://open.spotify.com/track/6SfTMSSabiF60w3XBpWbyX"
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 196000,
       "name": "Conheci o Amor",
       "url": "https://open.spotify.com/track/33My8GyioKzo0iy4ozDUN5"
@@ -4847,6 +4865,28 @@
     },
     {
       "album": {
+        "name": "Longe Daqui",
+        "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
+      },
+      "artists": [
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214935,
+      "name": "Longe Daqui",
+      "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
+    },
+    {
+      "album": {
         "name": "Por Amor",
         "url": "https://open.spotify.com/album/3KJF1hZ80F0ELcO4Lz2c2J"
       },
@@ -6100,7 +6140,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 194526,
       "name": "Nha Love",
       "url": "https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w"
@@ -6720,6 +6760,28 @@
       "duration_ms": 187109,
       "name": "N\u00e3o vai l\u00e1",
       "url": "https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY"
+    },
+    {
+      "album": {
+        "name": "N\u00f3s (Bad Boy)",
+        "url": "https://open.spotify.com/album/1R0y8ApV76eN2i5rXPcVLR"
+      },
+      "artists": [
+        {
+          "name": "Janepada",
+          "url": "https://open.spotify.com/artist/2BhWAGxvwDLoat5ikbqiUG"
+        },
+        {
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170161,
+      "name": "N\u00f3s (Bad Boy)",
+      "url": "https://open.spotify.com/track/6gDp0TyaNxFn8w8R1ODt16"
     },
     {
       "album": {
@@ -10285,6 +10347,32 @@
     },
     {
       "album": {
+        "name": "Ver\u00e3o",
+        "url": "https://open.spotify.com/album/322fwTocCvHnvXcZTIeHHQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Aka-m",
+          "url": "https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9"
+        },
+        {
+          "name": "DODDY",
+          "url": "https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp"
+        },
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244702,
+      "name": "Ver\u00e3o",
+      "url": "https://open.spotify.com/track/0emu6J77PCmzWNG6ScLtmA"
+    },
+    {
+      "album": {
         "name": "Vestido Roxo",
         "url": "https://open.spotify.com/album/69bGHV4uRpGIVS8Wltg01I"
       },
@@ -10686,7 +10774,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 202666,
       "name": "\u00c9 Do Game",
       "url": "https://open.spotify.com/track/2FU7JJ34X15pT0JlAopMHd"

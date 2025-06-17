@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: 도영 \(DOYOUNG\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-691 songs - 1 day 14 hr 1 min
+692 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-02 | 2022-04-15 |
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2021-12-08 | 2022-07-16 |
 | [Endless Ending](https://open.spotify.com/track/6wiUeyw6rmng1HTjjyPyrQ) | [BEAST \(HIGHLIGHT\)](https://open.spotify.com/artist/2jR5OEkMem5Ntarz6fAZ48) | [Endless Ending](https://open.spotify.com/album/2LzOVYi9YCKmIJK5j29HES) | 3:25 | 2025-04-17 | 2025-05-10 |
+| [Episode](https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Glow to Haze](https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o) | 2:42 | 2025-06-16 |  |
 | [ERASE ME](https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [PYGMALION](https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ) | 3:09 | 2023-05-16 | 2023-05-19 |
 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 | 2025-03-28 |  |
 | [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 | 2025-05-28 |  |
@@ -285,7 +286,7 @@
 | [HIGH FIVE](https://open.spotify.com/track/0BmAxed767sKuHlMq22cuW) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [HIGH FIVE](https://open.spotify.com/album/3qXcP38yQQay5WeyoK2bd7) | 3:02 | 2024-11-19 | 2024-11-26 |
 | [Highway to Heaven](https://open.spotify.com/track/12ksjJ2DDQZu0a1fvJnTRE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:20 | 2022-01-14 | 2022-04-15 |
 | [HIT](https://open.spotify.com/track/0xHgclG2TeqIzB8N3Wb5rP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HIT](https://open.spotify.com/album/36HsGgJsOHL4cHqR4J2GEU) | 3:23 | 2022-01-27 | 2022-06-24 |
-| [HOLA SOLAR](https://open.spotify.com/track/5DZ3v1kNkri3WwLkWtoGOE) | [BOYS II PLANET](https://open.spotify.com/artist/3HO8BSftZMyNkPuCIbgQom) | [BOYS II PLANET \- HOLA SOLAR](https://open.spotify.com/album/30T97wn3kQX2dA69tM6rLp) | 3:53 | 2025-06-13 |  |
+| [HOLA SOLAR](https://open.spotify.com/track/5DZ3v1kNkri3WwLkWtoGOE) | [BOYS II PLANET](https://open.spotify.com/artist/3HO8BSftZMyNkPuCIbgQom) | [BOYS II PLANET \- HOLA SOLAR](https://open.spotify.com/album/30T97wn3kQX2dA69tM6rLp) | 3:53 | 2025-06-13 | 2025-06-17 |
 | [Hold](https://open.spotify.com/track/2XD5I0ZeUVwM4LFSEKmKst) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [Hold](https://open.spotify.com/album/6rh15TQEKLTUVGzjeSHWbB) | 2:56 | 2022-01-03 | 2022-07-03 |
 | [Home](https://open.spotify.com/track/7yTn8YwfpEimufBe7uDtO7) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Home](https://open.spotify.com/album/3dkYdURDlDxd8uhsyS09Dv) | 3:04 | 2024-10-25 | 2024-11-06 |
 | [Home](https://open.spotify.com/track/5TyCTVsBsHeeutZcU2uP5s) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:23 | 2021-12-08 | 2022-07-29 |
@@ -324,7 +325,7 @@
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-19 | 2023-09-11 |
 | [It's fine](https://open.spotify.com/track/6zl8VOP7l8kFd2nLfmJ2Kg) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [It's fine](https://open.spotify.com/album/2DIn3u50PH4rezsVxjH6IT) | 3:13 | 2022-03-31 | 2022-04-14 |
 | [It's Raining](https://open.spotify.com/track/0dpp5l5Mf17gFI8AtahK3h) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Road to Kingdom \(Your Song\), Pt\. 1](https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH) | 3:33 | 2022-03-22 | 2022-04-10 |
-| [Itty Bitty](https://open.spotify.com/track/5WRIf37zfCTvyiEgghTrLo) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign Special Album 'Itty Bitty'](https://open.spotify.com/album/0PQnD1pNMiuDYuxuNL9tht) | 2:41 | 2025-06-13 |  |
+| [Itty Bitty](https://open.spotify.com/track/5WRIf37zfCTvyiEgghTrLo) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign Special Album 'Itty Bitty'](https://open.spotify.com/album/0PQnD1pNMiuDYuxuNL9tht) | 2:41 | 2025-06-13 | 2025-06-17 |
 | [JACKPOT](https://open.spotify.com/track/4e4RlMOWUnoVkIYyjNjN57) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [CAPTURE THE FLAG](https://open.spotify.com/album/2gQepXItf8PffuK3DgEpiY) | 2:38 | 2024-01-31 | 2024-02-27 |
 | [JAWS](https://open.spotify.com/track/5BVe5BDEa3JGJnA9IHuBYg) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [INTERSECTION : BLAZE](https://open.spotify.com/album/7raO8lCDp9amtMVxrE29HM) | 3:28 | 2022-03-30 | 2022-04-13 |
 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-15 | 2024-08-24 |
@@ -557,7 +558,7 @@
 | [Siren](https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Siren](https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO) | 2:27 | 2024-04-05 | 2024-06-25 |
 | [skinz](https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Instinct, Pt\. 2](https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv) | 3:23 | 2022-01-14 | 2022-04-18 |
 | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 | 2024-07-23 | 2025-02-17 |
-| [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 | 2025-06-14 |
+| [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 |  |
 | [Smoothie](https://open.spotify.com/track/2S2IfMg6ROIGjgwoCf1Z13) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [iScreaM Vol.31 : Smoothie Remix](https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp) | 3:08 | 2024-04-15 | 2024-04-19 |
 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 | 2024-03-26 | 2024-04-16 |
 | [Smoothie](https://open.spotify.com/track/5qrFeNSIrwIc0B6Elp16Dl) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp) | 3:08 | 2024-04-18 | 2024-12-15 |

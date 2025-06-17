@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,312 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,350 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 9 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 |
 | 10 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
 | 11 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 |
-| 12 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 |
-| 13 | [Tous les garçons et les filles \- Stereo Mix](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
+| 12 | [Tous les garçons et les filles \- Stereo Mix](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
+| 13 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 |
 | 14 | [Les filles d'aujourd'hui](https://open.spotify.com/track/0QprVASPJEbmOhD9P2gcNG) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Une place pour moi](https://open.spotify.com/album/2wghVdeCqQTaOavwTo3yWD) | 4:22 |
 | 15 | [Couleur menthe à l'eau](https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Happy Birthday](https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA) | 3:30 |
 | 16 | [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 25 | [Sublime & Silence](https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:56 |
 | 26 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
 | 27 | [La liste](https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 3:13 |
-| 28 | [Ta main](https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:33 |
-| 29 | [Toi mon amour](https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [L'Heure D'Eté](https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh) | 3:34 |
+| 28 | [Toi mon amour](https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [L'Heure D'Eté](https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh) | 3:34 |
+| 29 | [Ta main](https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:33 |
 | 30 | [Femmes..\. Je vous aime](https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 4:23 |
 | 31 | [Evidemment \- Remasterisé en 2004](https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 3:26 |
 | 32 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 71 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
 | 72 | [Les sunlights des tropiques](https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les sunlights des tropiques](https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6) | 3:40 |
 | 73 | [À toutes les filles](https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr) | [Didier Barbelivien](https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq), [Félix Gray](https://open.spotify.com/artist/6G02QSb22twlGR7BzPiS3h) | [Best of](https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq) | 4:14 |
-| 74 | [L’Épine](https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 2:57 |
-| 75 | [Il est où le bonheur \- Unplugged](https://open.spotify.com/track/2km8TyuZxULf2rsmasgma4) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Ma vie d'artiste Unplugged](https://open.spotify.com/album/2U1EgqDwFduHWAEizJ9L1Y) | 4:28 |
+| 74 | [Il est où le bonheur \- Unplugged](https://open.spotify.com/track/2km8TyuZxULf2rsmasgma4) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Ma vie d'artiste Unplugged](https://open.spotify.com/album/2U1EgqDwFduHWAEizJ9L1Y) | 4:28 |
+| 75 | [L’Épine](https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 2:57 |
 
 Snapshot ID: `Zv6oswAAAABmk3xJCoBwyY8HYHrnHuHg`

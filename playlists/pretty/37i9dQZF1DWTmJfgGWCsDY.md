@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,045 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,052 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 50 | [Dua](https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Dua](https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7) | 4:42 |
 | 51 | [Natafuta Hela](https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [K Pizo](https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV) | [Natafuta Hela](https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp) | 3:44 |
 | 52 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 |
-| 53 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 |
-| 54 | [Jiangalie](https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Jiangalie](https://open.spotify.com/album/13ANj5VXI99symiSXYggqI) | 3:49 |
-| 55 | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR) | 4:39 |
-| 56 | [Sawa Nitaacha](https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Sawa Nitaacha](https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ) | 3:38 |
+| 53 | [Jiangalie](https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Jiangalie](https://open.spotify.com/album/13ANj5VXI99symiSXYggqI) | 3:49 |
+| 54 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 |
+| 55 | [Sawa Nitaacha](https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Sawa Nitaacha](https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ) | 3:38 |
+| 56 | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR) | 4:39 |
 | 57 | [UTAMUWA BAKHRESA](https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV) | [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13) | [UTAMUWA BAKHRESA](https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc) | 4:37 |
-| 58 | [Sina Stress](https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sina Stress](https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L) | 3:49 |
-| 59 | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [2Fani](https://open.spotify.com/artist/4j8ZLGMEsHVLQS0ncpueAD), [Chobamc](https://open.spotify.com/artist/5hhkDXKt5bvsLxvFdXuNDM) | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7) | 4:52 |
+| 58 | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [2Fani](https://open.spotify.com/artist/4j8ZLGMEsHVLQS0ncpueAD), [Chobamc](https://open.spotify.com/artist/5hhkDXKt5bvsLxvFdXuNDM) | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7) | 4:52 |
+| 59 | [Sina Stress](https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sina Stress](https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L) | 3:49 |
 | 60 | [Umbea](https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Hits of Aslay](https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC) | 3:22 |
 | 61 | [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 |
 | 62 | [Kizimkazi](https://open.spotify.com/track/1timkZv543vJPprluNTDQ4) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [Kizimkazi](https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY) | 3:53 |

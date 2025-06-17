@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-168 songs - 11 hr 20 min
+169 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dia Dia Dia](https://open.spotify.com/track/7htWuazarn407jLZTQZp8P) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 4:26 | 2024-09-09 |  |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2023-02-03 | 2025-01-08 |
 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 | 2023-02-03 |  |
-| [Gemintang Hatiku](https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 | 2023-03-30 |  |
+| [Gemintang Hatiku](https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 | 2023-03-30 | 2025-06-17 |
 | [Hadapi Berdua](https://open.spotify.com/track/0KdabnQtfZVBGqXX3eMEz3) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 | 2023-02-03 | 2024-09-28 |
 | [Hadiah Terindah](https://open.spotify.com/track/7AlmGGpj0EjILrJaPq0YSn) | [Aminda](https://open.spotify.com/artist/43wimUBzWxzNqiebyt1sG4) | [Hadiah Terindah](https://open.spotify.com/album/1WdwYnhvnnVN4q7XZscRAu) | 4:17 | 2023-02-03 | 2023-05-04 |
 | [Hanya Untuk\-Mu](https://open.spotify.com/track/6nvGrb4m89DNunTWOVHtaI) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [3](https://open.spotify.com/album/5lS0BsCqEGtkCeU9Hyfz68) | 3:30 | 2024-11-25 |  |
@@ -143,7 +143,7 @@
 | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \(From "Laura Movie"\)](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 | 2024-09-27 |  |
 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 | 2024-10-14 | 2025-05-20 |
 | [Selamanya Cinta \- Remastered 2025](https://open.spotify.com/track/18eZsx7SZOYMyF3guenkbX) | [Yana Julio](https://open.spotify.com/artist/1P5ZkOEU00s2RZrKiFRhAj) | [Selamanya Cinta \(Remastered 2025\)](https://open.spotify.com/album/3JGH03mJFaaLi3VeGzjO3k) | 5:07 | 2025-02-14 |  |
-| [Selamanya Untukku](https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt), [Ria Laoere](https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:55 | 2024-10-14 |  |
+| [Selamanya Untukku](https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt), [Ria Laoere](https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:55 | 2024-10-14 | 2025-06-17 |
 | [Semesta Menari](https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Semesta Menari](https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh) | 3:47 | 2023-02-03 | 2024-09-28 |
 | [Semoga](https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [RAYA](https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80) | 4:29 | 2024-05-08 |  |
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2023-02-03 |  |
@@ -166,6 +166,7 @@
 | [Terpukau](https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:12 | 2023-02-03 |  |
 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 | 2024-11-13 |  |
 | [Teruntuk Mia](https://open.spotify.com/track/089ywmt2aAZRb5zGn6uu8B) | [Nuh...](https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT) | [Teruntuk Mia](https://open.spotify.com/album/2n4PQjTkmFvajhhUxWx4BG) | 3:16 | 2025-03-10 |  |
+| [Tiba Tiba Bilang Sayang](https://open.spotify.com/track/5bVFlEq0XAKKmwumXhkAw5) | [Jaz Rowe](https://open.spotify.com/artist/5OawJtVhHaAxoXkotlKpbI) | [Tiba Tiba Bilang Sayang](https://open.spotify.com/album/0lFUEfC27O79dWVuI7EYhV) | 3:13 | 2025-06-16 |  |
 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 | 2023-02-03 |  |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-10-02 |  |
 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 | 2023-02-03 |  |

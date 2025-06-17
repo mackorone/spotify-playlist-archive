@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8?si=hZhE\_qlDTQeAoJ1z\-wpWew">Vusi Nova</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,142 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,234 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

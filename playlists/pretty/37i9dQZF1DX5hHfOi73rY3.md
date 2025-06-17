@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,100 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,151 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 44 | [Hooked on You](https://open.spotify.com/track/0washXlWqFEj5oCjNWwA2E) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Hooked](https://open.spotify.com/album/2xS5Vj4er6u3W6aCBnq2iN) | 6:23 |
 | 45 | [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 |
 | 46 | [I Am The One](https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [I Am The One](https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9) | 3:20 |
-| 47 | [Lights Out](https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Lights Out](https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5) | 3:27 |
-| 48 | [Halo](https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Halo](https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z) | 3:34 |
+| 47 | [Halo](https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Halo](https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z) | 3:34 |
+| 48 | [Lights Out](https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Lights Out](https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5) | 3:27 |
 | 49 | [LOVE DESIRE](https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [LOVE DESIRE](https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3) | 2:51 |
 | 50 | [One New Change](https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [One New Change](https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O) | 4:54 |
 

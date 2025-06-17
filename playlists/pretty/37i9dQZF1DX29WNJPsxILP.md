@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Emiway Bantai
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,082 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,109 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: PayGotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,491 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,632 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [STREETS AIN'T THE SAME](https://open.spotify.com/track/3hQdlo5L4ZM1YIuiIHU78W) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [UNDEFEATED \- EP](https://open.spotify.com/album/0CLVJq9JGSbGABvSbWR09Z) | 2:41 |
 | 101 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/6LTPUmfdE0Jdm29yvVAKA6) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/album/7BoZu4OGWTN1WfJiLczq3V) | 3:16 |
 
-Snapshot ID: `aEuidQAAAAB+ducczr1SHJY4KfBI07uK`
+Snapshot ID: `AAAAAGhMh9kh+gGFU4PRamVOmML+GGE6`

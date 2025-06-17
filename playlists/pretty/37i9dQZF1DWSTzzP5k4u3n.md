@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Samuli Putro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,173 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,175 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,20 +12,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 2 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
 | 3 | [Polttavaa](https://open.spotify.com/track/3szpzbCf3yzVAFThgTvB2C) | [Nättinassut](https://open.spotify.com/artist/7sNAGbaVS0PQJUkTsKDZHl) | [Polttavaa](https://open.spotify.com/album/6SLs1yPheALynAaxdN3Vy5) | 3:27 |
 | 4 | [Ohimenevää](https://open.spotify.com/track/4EdD2wvp7D7xudkqo0f1Pl) | [Uniklubi](https://open.spotify.com/artist/6CFUvBnAcbb5MvaDE8bwou) | [Ohimenevää](https://open.spotify.com/album/3o5X8DzM6CSZofOhBzvrwM) | 3:25 |
-| 5 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
-| 6 | [Tänä kesänä](https://open.spotify.com/track/08ObJEPUzVtDPEePCHaF5Z) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Tänä kesänä](https://open.spotify.com/album/0si19geEbmpFebtBEIFY9k) | 2:55 |
+| 5 | [Tänä kesänä](https://open.spotify.com/track/08ObJEPUzVtDPEePCHaF5Z) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Tänä kesänä](https://open.spotify.com/album/0si19geEbmpFebtBEIFY9k) | 2:55 |
+| 6 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
 | 7 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
 | 8 | [Suvi](https://open.spotify.com/track/69Jd9PU57qPtisMKrORean) | [Technicolour](https://open.spotify.com/artist/2A1NhQyrtt36D6ZHYgBKFw) | [Suvi](https://open.spotify.com/album/1LiiSWqBCgtI6uedCBhVcL) | 2:50 |
 | 9 | [Idänjuna](https://open.spotify.com/track/21me6KEGFTjccDhZsEjzD5) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC) | [Idänjuna](https://open.spotify.com/album/1OakXi7TIwAMRWkePOY8jY) | 4:02 |
-| 10 | [Luolamies](https://open.spotify.com/track/10H3uWB2JnpN6XpkQpFTDZ) | [Heikki Kuula](https://open.spotify.com/artist/2EuQqDENk0vVonzvKya24Q), [Jouni Hynynen](https://open.spotify.com/artist/7vHL43OsRz4c28Pr0KceuP) | [Luolamies](https://open.spotify.com/album/6MZmJjMMurLoAGqI3j4gZS) | 3:29 |
-| 11 | [Auta mua!](https://open.spotify.com/track/5dP1Zmg31Riu7IiANIVsyh) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Auta mua!](https://open.spotify.com/album/0JsU9CfFkAjd33kXaT4WAh) | 3:34 |
+| 10 | [Auta mua!](https://open.spotify.com/track/5dP1Zmg31Riu7IiANIVsyh) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Auta mua!](https://open.spotify.com/album/0JsU9CfFkAjd33kXaT4WAh) | 3:34 |
+| 11 | [Luolamies](https://open.spotify.com/track/10H3uWB2JnpN6XpkQpFTDZ) | [Heikki Kuula](https://open.spotify.com/artist/2EuQqDENk0vVonzvKya24Q), [Jouni Hynynen](https://open.spotify.com/artist/7vHL43OsRz4c28Pr0KceuP) | [Luolamies](https://open.spotify.com/album/6MZmJjMMurLoAGqI3j4gZS) | 3:29 |
 | 12 | [Eihän tässä näin pitänyt käydä](https://open.spotify.com/track/5s8CpvRDIt4ITz86AgFpIB) | [51koodia](https://open.spotify.com/artist/000BblCiHJeKvtiq5aiHOs) | [Eihän tässä näin pitänyt käydä / Myrskysilmä ja tyyni](https://open.spotify.com/album/03FFUdF5UtP9ED9EU96wQi) | 3:04 |
 | 13 | [Kulkurin iltatähti](https://open.spotify.com/track/1fTg8S7Ql5SOHzDLdm6665) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kunnes aurinko nielaisee maan](https://open.spotify.com/album/2t9jfZYDyLYB9DbzpxGIaS) | 4:25 |
 | 14 | [Tänään kaikki käy](https://open.spotify.com/track/6je2t8TARKmJJoztJlelo3) | [Bablo](https://open.spotify.com/artist/0hA9hfuojO1jI1XUNqoCLV) | [Tänään kaikki käy](https://open.spotify.com/album/0u75mm9US2jBpWNXb2SSMu) | 3:23 |
-| 15 | [Kotona](https://open.spotify.com/track/6JRfqKHhAIMol3ZuvGcamg) | [Kormus](https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD) | [Kotona](https://open.spotify.com/album/5XMLrsh36JzQAXTAGueyGh) | 2:57 |
-| 16 | [Hukkasin jotakin metsiin](https://open.spotify.com/track/3vom2pTNFrAkiGkEngq43s) | [Kauko Röyhkä & Riku Mattila](https://open.spotify.com/artist/0EXksZ0trRoQXfaOd6ZPM1) | [Hukkasin jotakin metsiin](https://open.spotify.com/album/1JFhHxRVef0UmtwXWDTFrr) | 4:46 |
-| 17 | [Neljäs huhtikuuta \(feat\. Rosa Ruu\)](https://open.spotify.com/track/57cqku0vEW71BQkwocj37c) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG), [Rosa Ruu](https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA) | [Kaikki tiet joita kuljin](https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc) | 5:01 |
-| 18 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
+| 15 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
+| 16 | [Kotona](https://open.spotify.com/track/6JRfqKHhAIMol3ZuvGcamg) | [Kormus](https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD) | [Kotona](https://open.spotify.com/album/5XMLrsh36JzQAXTAGueyGh) | 2:57 |
+| 17 | [Hukkasin jotakin metsiin](https://open.spotify.com/track/3vom2pTNFrAkiGkEngq43s) | [Kauko Röyhkä & Riku Mattila](https://open.spotify.com/artist/0EXksZ0trRoQXfaOd6ZPM1) | [Hukkasin jotakin metsiin](https://open.spotify.com/album/1JFhHxRVef0UmtwXWDTFrr) | 4:46 |
+| 18 | [Neljäs huhtikuuta \(feat\. Rosa Ruu\)](https://open.spotify.com/track/57cqku0vEW71BQkwocj37c) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG), [Rosa Ruu](https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA) | [Kaikki tiet joita kuljin](https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc) | 5:01 |
 | 19 | [Pelon kapina](https://open.spotify.com/track/0tBGX2ELvR1AJvIJgmfvET) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT), [Vimma](https://open.spotify.com/artist/26vvDMY0SNr27F2CiWTxLa) | [Pelon kapina](https://open.spotify.com/album/2GDsh0oxYgiDbANrDfKJf0) | 2:48 |
 | 20 | [Ennen ku lähet nii jää](https://open.spotify.com/track/7dJtCTATsbrqCVfGwjmlcw) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Ennen ku lähet nii jää](https://open.spotify.com/album/6ZlePWQrDNm43tNnTROWyy) | 2:40 |
 | 21 | [Teollisuuskasveja](https://open.spotify.com/track/3JBdlHxUxkagrY7HFK6Tex) | [Hugo Cajan](https://open.spotify.com/artist/2qtz8c5VZQMusKI1B24MW2) | [Teollisuuskasveja](https://open.spotify.com/album/3hE0ibW4i9OqTgdnJe8wEX) | 3:00 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 89 | [Kadotettujen sielujen kantakapakka](https://open.spotify.com/track/2Ho6Q9mfZlOIX25EYxNPeh) | [Instant Social Life](https://open.spotify.com/artist/2BR8sh2LZ2laWJ15G5GG0O) | [Kadotettujen sielujen kantakapakka](https://open.spotify.com/album/4eUgLsGk6cYFqkbUY6VK3C) | 3:45 |
 | 90 | [Ennen kuin linnut vaikenee](https://open.spotify.com/track/4LkjEAQP3sihKg82Cb3V9Y) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Ennen kuin linnut vaikenee](https://open.spotify.com/album/0MnLtJlF4tWtu3vpy7K46X) | 3:22 |
 
-Snapshot ID: `aEtADwAAAAA8d/zp0ldL2byzf2TJDc+W`
+Snapshot ID: `aE/qsAAAAABiB+wJrp6Oftoz+r92FklT`

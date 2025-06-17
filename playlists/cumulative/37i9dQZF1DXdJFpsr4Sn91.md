@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa ABREU.
 
-785 songs - 1 day 15 hr 8 min
+786 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [4X4](https://open.spotify.com/track/4y1kHTpSNXM4VeCUtEFA1m) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/3bTbGN3QwizcRPt5SBHKT6) | 3:10 | 2025-01-27 | 2025-02-27 |
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-10 | 2025-01-24 |
 | [7 minuuttii](https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [7 minuuttii](https://open.spotify.com/album/4bNB7WdqZ5fOJXN8NO12Ln) | 3:52 | 2024-07-04 | 2024-08-16 |
+| [AAAA](https://open.spotify.com/track/3eqUnzUEyAtznlqapc4fSg) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [AAAA](https://open.spotify.com/album/6J1QFQP2WOGF5AdvPV3ZJC) | 3:41 | 2025-06-16 |  |
 | [Aamunkoi](https://open.spotify.com/track/5859nOZaubsLJuwVylSmIY) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Aamunkoi](https://open.spotify.com/album/13Fkv0eke2vYeXdK77jXjS) | 3:03 | 2025-05-29 |  |
 | [Aarre](https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf) | [Ultra Bra](https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ) | [Aarre](https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O) | 3:26 | 2024-09-05 | 2024-09-20 |
 | [Aavan meren tuolla puolen \(Pride Anthem\)](https://open.spotify.com/track/3XbkFw2V8tdA34EQJ0Ncnu) | [Helena Routa](https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN), [Tiia Karoliina](https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny) | [Aavan meren tuolla puolen \(Pride Anthem\)](https://open.spotify.com/album/1lRIhGS3ipWijhv3A2n1wH) | 3:42 | 2024-07-02 | 2024-08-30 |

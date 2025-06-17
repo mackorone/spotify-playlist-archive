@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,565 likes - 107 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,608 likes - 107 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 68 | [Fire and Rain](https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Fire and Rain](https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob) | 3:33 |
 | 69 | [In Tall Buildings](https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [In Tall Buildings](https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D) | 3:28 |
 | 70 | [Gentle On My Mind](https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Windy City \(Deluxe\)](https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG) | 3:34 |
-| 71 | [Enter Sandman](https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS) | [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Fade To Bluegrass: The Bluegrass Tribute To Metallica](https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg) | 4:21 |
+| 71 | [Enter Sandman](https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Fade To Bluegrass: The Bluegrass Tribute To Metallica](https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg) | 4:21 |
 | 72 | [Graceland \(Live Session\)](https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4) | [Ramsey Thornton](https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL) | [Graceland \(Live Session\)](https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A) | 3:06 |
 | 73 | [Listen To The Radio](https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Listen To The Radio](https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg) | 4:00 |
 | 74 | [Heart\-Shaped Box](https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP) | [Holler Choir](https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw) | [Heart\-Shaped Box](https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps) | 4:25 |

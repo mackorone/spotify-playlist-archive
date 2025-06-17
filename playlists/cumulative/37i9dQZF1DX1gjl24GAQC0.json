@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Glow to Haze",
+        "url": "https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162026,
+      "name": "Episode",
+      "url": "https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9"
+    },
+    {
+      "album": {
         "name": "PYGMALION",
         "url": "https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ"
       },
@@ -5074,7 +5092,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 233000,
       "name": "HOLA SOLAR",
       "url": "https://open.spotify.com/track/5DZ3v1kNkri3WwLkWtoGOE"
@@ -5788,7 +5806,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 161013,
       "name": "Itty Bitty",
       "url": "https://open.spotify.com/track/5WRIf37zfCTvyiEgghTrLo"
@@ -10026,7 +10044,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"

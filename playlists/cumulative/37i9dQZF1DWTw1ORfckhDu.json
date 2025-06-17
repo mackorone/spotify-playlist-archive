@@ -9451,6 +9451,40 @@
     },
     {
       "album": {
+        "name": "DENIM",
+        "url": "https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "WILLEM",
+          "url": "https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201037,
+      "name": "MEININKI",
+      "url": "https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7"
+    },
+    {
+      "album": {
         "name": "Meininki",
         "url": "https://open.spotify.com/album/1kqRTcoLlNVF5GDXIaDx8u"
       },
@@ -17708,7 +17742,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 168498,
       "name": "Vihaa mua",
       "url": "https://open.spotify.com/track/7kSBo6NoqCsoZ6W2SBYJvv"

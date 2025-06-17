@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-400 songs - 17 hr 59 min
+402 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 | 2022-05-13 | 2024-04-06 |
 | [Familiar Faces](https://open.spotify.com/track/1qN4gbb7DorRbfjlH1k3VR) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Familiar Faces](https://open.spotify.com/album/1ggIMZPIpojoCEyldZASBu) | 2:05 | 2025-05-13 |  |
 | [Favor from the Wind](https://open.spotify.com/track/6jhxoEzxae8CW2ScL7ehsT) | [Janet Noguera](https://open.spotify.com/artist/7BX5I0rBq9BLKCyJHQr2GD) | [Favor from the Wind](https://open.spotify.com/album/6EQJJ0BLotBsUpafBhjfR1) | 4:43 | 2024-02-02 | 2024-04-06 |
+| [Featherlight](https://open.spotify.com/track/4eJEvXq4j6qgeemUhRR70e) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Featherlight](https://open.spotify.com/album/2tmuHRatWRGuHi0GQEee8u) | 1:51 | 2025-06-16 |  |
 | [Featherlight](https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [Featherlight](https://open.spotify.com/album/4hUgipvuMuSRfOFfeNTDi4) | 2:17 | 2022-05-13 | 2024-04-06 |
 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-10 | 2023-06-23 |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-05-13 | 2024-04-20 |
@@ -327,6 +328,7 @@
 | [Sun over the desert](https://open.spotify.com/track/3wNOEQe2NOlExECcLqVPLG) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Sun over the desert](https://open.spotify.com/album/3sEZnpkw2WFgCLRTRE5BPV) | 2:08 | 2023-10-27 | 2024-06-15 |
 | [Sun over the rolling hills](https://open.spotify.com/track/1isTWddGjMgVoDrxsWUBIO) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 2:38 | 2022-05-13 | 2024-08-14 |
 | [Sunbeam](https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Sunbeam](https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd) | 2:52 | 2023-08-11 |  |
+| [Sunlight Through Leaves](https://open.spotify.com/track/4WE694pRoPuL5HonQ11NEI) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Sunlight Through Leaves](https://open.spotify.com/album/58GXSbSBoi5himWr5hj6he) | 2:41 | 2025-06-16 |  |
 | [Sunrise Murmur](https://open.spotify.com/track/1kJApkWnDkH6wgjApxlIcK) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [A Slow Winding Road](https://open.spotify.com/album/2T141nerYqMwPqgCgJk71E) | 3:13 | 2022-05-13 | 2024-04-06 |
 | [Sunset](https://open.spotify.com/track/49W3hbf3rudWSmQQePyMsW) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Autumn Reflections](https://open.spotify.com/album/53csRIoXMKqkp7f0lIIobP) | 5:16 | 2022-09-02 | 2024-04-20 |
 | [Sunset](https://open.spotify.com/track/5GIjvOlsYzA43pNUY2Hq4r) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Before Sunrise](https://open.spotify.com/album/58MoVyu58QleSpvl8Yrxap) | 5:16 | 2023-09-15 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,326 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,369 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 49 | [Arma Forjada](https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG) | [Ronaldo André](https://open.spotify.com/artist/4ncW0avyx3Z9dDloRttewh), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Arma Forjada](https://open.spotify.com/album/6Ks3dxIO88IeFfLgqZHdFG) | 4:07 |
 | 50 | [O Segredo da Felicidade](https://open.spotify.com/track/1cqL5ETI4Ik9nnYQfUuuwP) | [Tamy Klaus](https://open.spotify.com/artist/2Zl9rN1av3SmE8V284GXI4), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw), [Misael Coelho](https://open.spotify.com/artist/60ThKVjUZ4GrqNu4o7aBtS) | [O Segredo da Felicidade](https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv) | 3:20 |
 | 51 | [Deus Está Fazendo \- Ao Vivo](https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO) | 5:28 |
-| 52 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 |
+| 52 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 | 53 | [Não Saia do Meu Lado](https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Não Saia do Meu Lado](https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq) | 3:36 |
 | 54 | [Vencer É Preciso \- Voz e Violão](https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 1](https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c) | 4:55 |
 | 55 | [Refém do Caminhão](https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Refém do Caminhão](https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy) | 4:36 |
 | 56 | [Olha Eu Aqui](https://open.spotify.com/track/4S5zR1JT76yoWLN6uCT67E) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [Olha Eu Aqui](https://open.spotify.com/album/02aqcp4nVGbYoujee8jXSy) | 4:46 |
-| 57 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
+| 57 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 |
 | 58 | [Estou Aqui](https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Estou Aqui](https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z) | 3:29 |
 | 59 | [Valeu a Pena](https://open.spotify.com/track/53AUE4ItLqPr9lczn2inZT) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Valeu a Pena](https://open.spotify.com/album/6UeGX9eccZu92SKSodWivD) | 3:04 |
 | 60 | [Vou Embora pro Céu](https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Vou Embora pro Céu](https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S) | 3:34 |

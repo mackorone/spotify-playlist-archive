@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243797,
+  "num_followers": 243795,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
-      },
-      "artists": [
-        {
-          "name": "NOTSOBAD",
-          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
-        }
-      ],
-      "duration_ms": 201023,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Original Sin",
         "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 171598,
       "name": "Original Sin",
       "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
+      },
+      "artists": [
+        {
+          "name": "NOTSOBAD",
+          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+        }
+      ],
+      "duration_ms": 201023,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "GLY",
+        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 220623,
+      "name": "GLY",
+      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "NO SKIN",
         "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 278124,
       "name": "NO SKIN",
       "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "GLY",
-        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 220623,
-      "name": "GLY",
-      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "All In My Head",
-        "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
-      },
-      "artists": [
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        },
-        {
-          "name": "Aria Ohlsson",
-          "url": "https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Laika.",
         "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 180458,
       "name": "Laika.",
       "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        },
+        {
+          "name": "Aria Ohlsson",
+          "url": "https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
     },
     {
       "added_at": "2024-08-01 10:59:15",

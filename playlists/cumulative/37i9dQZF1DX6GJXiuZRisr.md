@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-594 songs - 1 day 17 hr 12 min
+595 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Daydream](https://open.spotify.com/track/6EFwCTxuOWiJllWJSZtsBe) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Daydream](https://open.spotify.com/album/4QopFPTULH28wBGUtdk0eb) | 3:23 | 2024-07-26 | 2024-10-21 |
 | [Deep Space](https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Deep Space](https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F) | 3:01 | 2023-05-05 | 2024-05-05 |
 | [Delta](https://open.spotify.com/track/0WbXxAn99TZzB2kdLkh5hu) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Wake Your Mind Sessions 004 Exclusives](https://open.spotify.com/album/5ecWuN5lJXqZeqVU0UUVaW) | 4:05 | 2021-05-07 | 2022-04-16 |
-| [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 | 2023-10-06 |  |
+| [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 | 2023-10-06 | 2025-06-17 |
 | [Desire \(with Sam Smith\) \- Cedric Gervais Festival Mix](https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Desire \(with Sam Smith\) \[Cedric Gervais Remixes\]](https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx) | 4:19 | 2023-09-22 | 2023-11-28 |
 | [Destiny](https://open.spotify.com/track/4Y4873G9rIrmAAYBqJPqWG) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Destiny](https://open.spotify.com/album/0ZurJfSYiXVQI1Y6bHwzRa) | 3:05 | 2025-04-25 |  |
 | [Dialogue](https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Radiant](https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI) | 7:32 | 2023-12-01 | 2025-05-31 |
@@ -136,6 +136,7 @@
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2024-04-19 | 2024-04-26 |
 | [Empyrean](https://open.spotify.com/track/5f768GZ884iQphBUZWmjum) | [Moa](https://open.spotify.com/artist/1lAfFBE10XKWun4CkIS9Jb), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [Empyrean](https://open.spotify.com/album/7G6kaqouj5KSHRRIGaPt0L) | 3:56 | 2021-05-07 | 2022-07-27 |
 | [Equinox \- Original Club Mix](https://open.spotify.com/track/5DmKG2iNXtwQqbwSzWMP80) | [Austin Leeds](https://open.spotify.com/artist/24Mc3zc0ogZux3BVi4m3ue), [2 Tall Keith](https://open.spotify.com/artist/5sLCjU2aNDT0BO0V1WXRq3) | [Equinox](https://open.spotify.com/album/2UsFDnZai26v8YvHg1TfI8) | 5:29 | 2021-05-07 | 2022-04-19 |
+| [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 | 2025-06-13 |  |
 | [Escalus](https://open.spotify.com/track/2ySk8ecOEBzNckGLKA6TEZ) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Flicker/Escalus](https://open.spotify.com/album/5PLsKjBuudqrPDCaRKwkZP) | 4:15 | 2021-05-07 | 2022-07-18 |
 | [Essence](https://open.spotify.com/track/49z88QGI0xt7ikGTATMLut) | [Allende](https://open.spotify.com/artist/3EnKgv4XNOAoLkZaeV12H3) | [Essence](https://open.spotify.com/album/3OtAa2cO2MsgNbb928W0QK) | 7:28 | 2021-05-07 | 2022-04-20 |
 | [Ethera](https://open.spotify.com/track/0Ynou2LoIOmqRiyu4elKYX) | [Lost Prince](https://open.spotify.com/artist/23kzag3jmFxPLJbXO4g3VG) | [Ethera](https://open.spotify.com/album/3wyjgZ0wOfi6LebCJFvbZ9) | 3:33 | 2021-05-07 | 2022-07-08 |

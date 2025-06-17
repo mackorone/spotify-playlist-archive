@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: A Day To Remember
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,772 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,657 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 21 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 |
 | 22 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
 | 23 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 |
-| 24 | [T.I.M.E.](https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [T.I.M.E.](https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY) | 3:58 |
-| 25 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
+| 24 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
+| 25 | [T.I.M.E.](https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [T.I.M.E.](https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY) | 3:58 |
 | 26 | [72 Seasons](https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq) | 7:39 |
 | 27 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 |
 | 28 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 55 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
 | 56 | [Beyond](https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Beyond](https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5) | 4:17 |
 | 57 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
-| 58 | [High on Me](https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [High on Me](https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv) | 3:02 |
+| 58 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
 | 59 | [All Things Must Change](https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [All Things Must Change](https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm) | 3:35 |
-| 60 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
+| 60 | [High on Me](https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [High on Me](https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv) | 3:02 |
 | 61 | [The Saints Of Violence And Innuendo](https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Saints Of Violence And Innuendo](https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4) | 3:41 |
 | 62 | [Soul On Fire](https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX) | 4:05 |
 | 63 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 |

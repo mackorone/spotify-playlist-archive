@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,992 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,995 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 28 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 29 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 | 30 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
-| 31 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
+| 31 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 32 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
-| 33 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
+| 33 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
 | 34 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
 | 35 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 36 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 97 | [Yali, Yali](https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Yali, Yali](https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g) | 2:35 |
 | 98 | [ZODIAC](https://open.spotify.com/track/2uJnvTPC2FPmEGt9rgr003) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [ZODIAC](https://open.spotify.com/album/13rtFvvqeMf1YytUsuZhlN) | 3:16 |
 | 99 | [HOT \- From Miami Bici 2 The Movie](https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Andrei G](https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [HOT \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW) | 2:50 |
-| 100 | [Vin Sa Te Fur](https://open.spotify.com/track/3dWT54uwKiBQ7JEqg3WGev) | [Luis Gabriel](https://open.spotify.com/artist/74ZiBcTi46Xf8THfkdAqrg), [Haziran](https://open.spotify.com/artist/2GSGcb6NjNoA5eKTSKcTNL) | [Vin Sa Te Fur](https://open.spotify.com/album/3H0qoKhzglhG2QnbSkG7c8) | 3:07 |
+| 100 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 |
 
 Snapshot ID: `aEcFRQAAAABX8+a3ZFTI3tJhIy0SJMR/`

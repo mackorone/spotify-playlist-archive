@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,093 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,103 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 58 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 | 59 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 |
 | 60 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 |
-| 61 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
-| 62 | [Back, Baby](https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2) | 3:55 |
+| 61 | [Back, Baby](https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2) | 3:55 |
+| 62 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
 | 63 | [be with ya](https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [10 songs](https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8) | 2:58 |
 | 64 | [Be Mine](https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:42 |
 | 65 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 68 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
 | 69 | [Falling Down a Well](https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Blue Desert](https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X) | 2:53 |
 | 70 | [Fair Game](https://open.spotify.com/track/6KzIBqbSqhmGb2E4BLgOLC) | [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Fair Game](https://open.spotify.com/album/1LZRsAL4wxXecbWHLTGwKW) | 3:25 |
-| 71 | [Sick \(feat\. 4batz\)](https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Sick \(feat\. 4batz\)](https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz) | 3:40 |
-| 72 | [I Suppose](https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [I Suppose](https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0) | 3:42 |
+| 71 | [I Suppose](https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [I Suppose](https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0) | 3:42 |
+| 72 | [Sick \(feat\. 4batz\)](https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Sick \(feat\. 4batz\)](https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz) | 3:40 |
 | 73 | [Lavender](https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [A Man After God's Own Heart](https://open.spotify.com/album/7rTc2mMKVKpXG7DJVVdtCz) | 3:04 |
 | 74 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
 | 75 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,041 likes - 46 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,049 likes - 46 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 16 | [Te Pierdo Y Te Pienso](https://open.spotify.com/track/0OEmCXtYoiZrlzYcjlTm7Z) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 4:56 |
 | 17 | [Me Matará El Sentimiento](https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 5:00 |
 | 18 | [Mi Dulce Amor](https://open.spotify.com/track/1cfPm4pUffGbFCIyXxBHpH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:06 |
-| 19 | [Despues de Amar](https://open.spotify.com/track/01xio0goHfItC0VWrTLB83) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 5:22 |
+| 19 | [Si Tu Estuvieras](https://open.spotify.com/track/2prHeuwThub9FAPKb2REA9) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 4:57 |
 | 20 | [Beso Tras Beso](https://open.spotify.com/track/6qPaehY7CYFCOO5qHRTXa3) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW) | 4:23 |
 | 21 | [Ella Era Todo](https://open.spotify.com/track/2omMTVSamX8SotkaYBJIgH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 5:06 |
 | 22 | [Te Quiero Asi](https://open.spotify.com/track/3YHoI3rKWYyxg7va9VyEy1) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 4:46 |
-| 23 | [Si Tu Estuvieras](https://open.spotify.com/track/2prHeuwThub9FAPKb2REA9) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 4:57 |
+| 23 | [Despues de Amar](https://open.spotify.com/track/01xio0goHfItC0VWrTLB83) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 5:22 |
 | 24 | [Dos Locos](https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 3:47 |
 | 25 | [Ven Tú](https://open.spotify.com/track/1TVcu3Ve1Mds74o8f4vTou) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Con Luz Propia](https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S) | 4:00 |
 | 26 | [No Le Temas Al Amor](https://open.spotify.com/track/7jE4t5ZWcXvPnt9BSzVm8a) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 4:17 |
@@ -39,20 +39,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 29 | [Vivimos Lo Nuestro](https://open.spotify.com/track/4HqY4sYQqEDcxLp9lemip5) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 5:13 |
 | 30 | [Suave Brisa](https://open.spotify.com/track/7abGJIx7X3mbeVsBQiJhnb) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 4:57 |
 | 31 | [Cuando Te Vayas](https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 4:41 |
-| 32 | [No Te Olvides de Mi](https://open.spotify.com/track/0DbE1B9SW27XmoHPdGfJG5) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW) | 4:38 |
-| 33 | [Solo Amame](https://open.spotify.com/track/6waFDuT3aPGzbmI6SWnlx8) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 4:31 |
+| 32 | [Solo Amame](https://open.spotify.com/track/6waFDuT3aPGzbmI6SWnlx8) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 4:31 |
+| 33 | [No Te Olvides de Mi](https://open.spotify.com/track/0DbE1B9SW27XmoHPdGfJG5) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW) | 4:38 |
 | 34 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3AoWQtlL6Ma0z54NKuBhF3) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 4:03 |
 | 35 | [Amor Herido](https://open.spotify.com/track/3djyVDrbRMrTJJnUUGXJwJ) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP) | 4:47 |
-| 36 | [Toma Tu Recuerdo](https://open.spotify.com/track/5dZUKXiKkDoVXGTmXajMQW) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:09 |
-| 37 | [Te Amaré](https://open.spotify.com/track/3oIs4KYGL1W8DpWUbRyk66) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 5:01 |
+| 36 | [Te Amaré](https://open.spotify.com/track/3oIs4KYGL1W8DpWUbRyk66) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 5:01 |
+| 37 | [Toma Tu Recuerdo](https://open.spotify.com/track/5dZUKXiKkDoVXGTmXajMQW) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:09 |
 | 38 | [Amame](https://open.spotify.com/track/5AcfRWqX8JgoXalSAXZJGf) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW) | 4:40 |
 | 39 | [Mi Soledad](https://open.spotify.com/track/2WEhsbO6w0K33ag59IKpIW) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 4:15 |
-| 40 | [No Queda Nada](https://open.spotify.com/track/3Fi6LK7SNEZH1kLWJCWLLr) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:06 |
-| 41 | [Cuanto Te Amo](https://open.spotify.com/track/3rGW31Pn5BKVDs1VZHzAU8) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 5:30 |
+| 40 | [Cuanto Te Amo](https://open.spotify.com/track/3rGW31Pn5BKVDs1VZHzAU8) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 5:30 |
+| 41 | [No Queda Nada](https://open.spotify.com/track/3Fi6LK7SNEZH1kLWJCWLLr) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:06 |
 | 42 | [Tu Historieta](https://open.spotify.com/track/39BcI6ZugEmBfN44khXiuc) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 5:22 |
 | 43 | [Dí Que Si](https://open.spotify.com/track/4Zl7QcPqfCIMFzc3BcjB7o) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO) | 4:14 |
-| 44 | [Tristeza](https://open.spotify.com/track/2JGSAf6YQs11nwmzApOXRy) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:13 |
-| 45 | [Piel A Piel](https://open.spotify.com/track/3K5R2VjdoC87rVcMc0C5wk) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 4:11 |
+| 44 | [Piel A Piel](https://open.spotify.com/track/3K5R2VjdoC87rVcMc0C5wk) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 4:11 |
+| 45 | [Tristeza](https://open.spotify.com/track/2JGSAf6YQs11nwmzApOXRy) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:13 |
 | 46 | [Si La Ves](https://open.spotify.com/track/5YQFXXgC97Hh82y4sTB3gI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Con Luz Propia](https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S) | 4:39 |
 
-Snapshot ID: `aEy7gAAAAABt5myVDWuTVn9KaLwXXneD`
+Snapshot ID: `aE4NAAAAAAAUZdi60QcplfFCqvLfF4aC`

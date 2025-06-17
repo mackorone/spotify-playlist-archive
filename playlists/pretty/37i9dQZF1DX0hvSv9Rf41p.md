@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Kai Wachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,414 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,420 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Not Giving Up](https://open.spotify.com/track/2MvsVQpUmRZo7WUr9aJzgR) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [NEKROSIS](https://open.spotify.com/album/7bQIjc1XbtozAogaYArpbf) | 3:00 |
 | 2 | [TYPE SH\*T](https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [TYPE SH\*T](https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g) | 3:32 |
-| 3 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 |
+| 3 | [Five Hours \- CELO & MACHAKI Remix](https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [Five Hours \(CELO & MACHAKI Remix\)](https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq) | 2:09 |
 | 4 | [One Last Breath \- Remix](https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [One Last Breath \(ATLiens Remix\)](https://open.spotify.com/album/1UvilbdKcolkZtf24KYYDc) | 2:57 |
-| 5 | [Duel of the Fates](https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Duel of the Fates](https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa) | 3:22 |
-| 6 | [SURFACE](https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [SURFACE](https://open.spotify.com/album/4ujOWQN1rcL5cc3EPQ8wo7) | 2:12 |
-| 7 | [Five Hours \- CELO & MACHAKI Remix](https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [Five Hours \(CELO & MACHAKI Remix\)](https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq) | 2:09 |
+| 5 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 |
+| 6 | [Duel of the Fates](https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Duel of the Fates](https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa) | 3:22 |
+| 7 | [SURFACE](https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [SURFACE](https://open.spotify.com/album/4ujOWQN1rcL5cc3EPQ8wo7) | 2:12 |
 | 8 | [Man Down](https://open.spotify.com/track/2q15bW4gvbCDVMKIa6sGzX) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Man Down](https://open.spotify.com/album/5vTTef4Ykw2yHCeKRZCNe7) | 3:32 |
 | 9 | [Legends \(feat\. P Money\)](https://open.spotify.com/track/6cLjygh85zqBwqvsZbDuCF) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Legends \(feat\. P Money\)](https://open.spotify.com/album/2uExlr2sev8xKTkZg5KdeT) | 2:47 |
 | 10 | [Royal Blood](https://open.spotify.com/track/5L82P216AtFQS1YzGNge29) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Royal Blood](https://open.spotify.com/album/7MucxnzoVlbYHceEqtXkQu) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [No Brakes](https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [No Brakes](https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3) | 1:48 |
 | 100 | [Down Low \- YDG Remix](https://open.spotify.com/track/20iODoi8eZUC1sBS5C01GF) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Down Low \(YDG Remix\)](https://open.spotify.com/album/4OgyJ5Zk7Ucye5ZKupsjhD) | 3:09 |
 
-Snapshot ID: `aExgDgAAAADwzsu24sAPw0bts2KTm0KE`
+Snapshot ID: `aFB6egAAAADdEP4yDRtBhZ5bPtyr6PWC`

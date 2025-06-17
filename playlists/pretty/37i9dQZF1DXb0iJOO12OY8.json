@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 214107,
+  "num_followers": 214099,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-06-12 22:00:41",
       "album": {
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Fy faen du e deili",
+      "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
+    },
+    {
+      "added_at": "2025-06-12 22:00:41",
+      "album": {
         "name": "Memoarer",
         "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
       },
@@ -699,6 +715,22 @@
     {
       "added_at": "2025-06-12 22:00:41",
       "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 134428,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq"
+    },
+    {
+      "added_at": "2025-06-12 22:00:41",
+      "album": {
         "name": "John Carew (feat. Roc Boyz)",
         "url": "https://open.spotify.com/album/5db4qNSo7J24GNTJQU5YCw"
       },
@@ -719,38 +751,6 @@
       "duration_ms": 200401,
       "name": "John Carew (feat. Roc Boyz)",
       "url": "https://open.spotify.com/track/4sr29tcFUbSu2FYyHNAdrE"
-    },
-    {
-      "added_at": "2025-06-12 22:00:41",
-      "album": {
-        "name": "Matilda",
-        "url": "https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 134428,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq"
-    },
-    {
-      "added_at": "2025-06-12 22:00:41",
-      "album": {
-        "name": "Tobias Sten",
-        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Fy faen du e deili",
-      "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
     },
     {
       "added_at": "2025-06-12 22:00:41",

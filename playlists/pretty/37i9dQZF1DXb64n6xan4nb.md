@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,692 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,715 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 80 | [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 |
 | 81 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
 | 82 | [Nocturne](https://open.spotify.com/track/6Dpb6KTOb3iEm89DAHwLGk) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Glass Mask](https://open.spotify.com/album/7klNdBJ1KRmBQtdZyhzM51) | 4:13 |
-| 83 | [Neo Classicism \- 눈의 꽃 \- Remake Version](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Five Sense](https://open.spotify.com/artist/1W8cDoqWbmovusGp27bHFp) | [Neo Classicism \- 눈의 꽃](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 |
+| 83 | [Butterfly Grave \(2015\)](https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn) | [TAKE](https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv) | [TAKE](https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v) | 4:29 |
 | 84 | [해바라기도가끔목이아프죠](https://open.spotify.com/track/5wuAv1WFV6mL8dm0UXSzEv) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 4:44 |
-| 85 | [Butterfly Grave \(2015\)](https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn) | [TAKE](https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv) | [TAKE](https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v) | 4:29 |
+| 85 | [Neo Classicism \- 눈의 꽃 \- Remake Version](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Five Sense](https://open.spotify.com/artist/1W8cDoqWbmovusGp27bHFp) | [Neo Classicism \- 눈의 꽃](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 |
 | 86 | [잠시 길을 잃다](https://open.spotify.com/track/3GyOvpjHY0fm3nQJcLPDbD) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [신보경](https://open.spotify.com/artist/48INQ7U2sSQmgbfa9r5bU9) | [Lucky 7](https://open.spotify.com/album/3RrKHh0VKEzefkMOekGJn9) | 4:25 |
 | 87 | [인형의 꿈](https://open.spotify.com/track/3oP1wIigVlJsWMVXXZNisL) | [일기예보](https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi) | [For Everlasting](https://open.spotify.com/album/5Yzg3Kgg5ySxv76oGdw1CW) | 4:15 |
 | 88 | [그녀에게](https://open.spotify.com/track/4mqg37DS6OofRxxXTBmWPC) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [그녀에게](https://open.spotify.com/album/3NH17WsgFpPm10ZKT9ngxg) | 4:02 |

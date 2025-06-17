@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kTuG4gvrVk.md) - [plain]
 
 > ¡Los éxitos de hoy en un sólo lugar! En portada: Mora
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,106 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,149 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kTuG4gvrVk.md) - [plain]
 | 49 | [morena \(Bonus Track\)](https://open.spotify.com/track/51YOvMn0xShoUKDdPecFbb) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:08 |
 | 50 | [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 |
 
-Snapshot ID: `aEwtdgAAAABZ2IJevHCV6gKqg30/pufp`
+Snapshot ID: `aEwtdgAAAADpGVDHdNIlr0ueeUcqO62J`

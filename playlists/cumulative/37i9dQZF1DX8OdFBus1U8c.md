@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-343 songs - 17 hr 38 min
+344 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Arivu](https://open.spotify.com/track/6xnTyRAe61t30jupUkB43e) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/2DOmnGFfrkNq3VhcRfbCMX) | 4:01 | 2022-04-19 | 2024-04-19 |
 | [Arivu](https://open.spotify.com/track/7dj8zJse4K39kODoi1eGl2) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/658jtoKNWFGZ7GOSNr7gRi) | 4:01 | 2022-04-19 | 2025-03-08 |
 | [Arpo](https://open.spotify.com/track/2biQljjf8AuYx5u8Se6clY) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Arpo](https://open.spotify.com/album/3MaGl3zOrZrEEqUMoXpN1d) | 2:46 | 2023-07-23 | 2024-06-01 |
+| [AutoWala](https://open.spotify.com/track/2NhnCnjtxLtZ6DyM8wyKQf) | [Nevin Nelson](https://open.spotify.com/artist/4WNJrCRyl6Cs8viDMYPKiZ), [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y) | [AutoWala](https://open.spotify.com/album/1A7phUDaTgMWw5KpSWrn65) | 3:29 | 2025-06-16 |  |
 | [Avastha](https://open.spotify.com/track/34xTAbD9NbfABNGwoAkfUH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Avastha](https://open.spotify.com/album/4Tpv8xA81bbsYKm3bI2YMT) | 3:44 | 2022-04-18 | 2025-02-25 |
 | [Ayyayyo](https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Ayyayyo](https://open.spotify.com/album/4AUgdGeQBTqfPpPfbvaDJf) | 3:40 | 2023-09-14 | 2025-03-27 |
 | [Baby Kya Hai](https://open.spotify.com/track/2P9m6mb6fOyYMxmwDxOdxH) | [CJ J](https://open.spotify.com/artist/6bVL3yWdI21Kj0nRYJXuNB), [TJUS](https://open.spotify.com/artist/25fWyA2dMeu8iFtr9VvgUf) | [Baby Kya Hai](https://open.spotify.com/album/21ESfVL1lII68OcpbCCH0R) | 3:36 | 2024-05-16 | 2024-05-22 |
@@ -228,7 +229,7 @@
 | [OTTAMIND](https://open.spotify.com/track/1oEc8AB7okpU0GtXBkX3Zg) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [ARGA](https://open.spotify.com/album/0sZCipEOkwl9VfD32Q7FyV) | 2:35 | 2025-01-09 | 2025-01-14 |
 | [Ozhappan Anthem](https://open.spotify.com/track/1tVwdVeuje3iVvIHoBhCte) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ozhappan Anthem](https://open.spotify.com/album/1TdJsFlTAK79VjOjHMTssX) | 3:17 | 2022-06-23 | 2024-04-23 |
 | [Ozhukam Njan Nadhi](https://open.spotify.com/track/5zVtrPpAYw6gmSvNQ14izP) | [Blesslee](https://open.spotify.com/artist/0Gl81Y0B87WITIgM34VLGZ), [Chokli rapper](https://open.spotify.com/artist/23ViDUNmZ4tkHuCSEpmcvC), [Harikrishnan MD](https://open.spotify.com/artist/0B7JPttcpdwH418cjwzyCT) | [Ozhukam Njan Nadhi](https://open.spotify.com/album/6U3lLc1o1FoKHxcFkk91rn) | 2:20 | 2025-01-09 | 2025-03-08 |
-| [Paalam](https://open.spotify.com/track/4Z41R6BOJI7mvnwewHxyba) | [Antony John](https://open.spotify.com/artist/0Q0M0GmaAKYnLVicqOJHCM), [Hijaz](https://open.spotify.com/artist/3sEu2YHVQXAjHylWx6prpI), [Joshwa VJ](https://open.spotify.com/artist/4LSHCOK26VxkmHxHZOy9WY) | [Paalam](https://open.spotify.com/album/6r5OjTc37qB1h9mivviJPZ) | 1:58 | 2025-05-13 |  |
+| [Paalam](https://open.spotify.com/track/4Z41R6BOJI7mvnwewHxyba) | [Antony John](https://open.spotify.com/artist/0Q0M0GmaAKYnLVicqOJHCM), [Hijaz](https://open.spotify.com/artist/3sEu2YHVQXAjHylWx6prpI), [Joshwa VJ](https://open.spotify.com/artist/4LSHCOK26VxkmHxHZOy9WY) | [Paalam](https://open.spotify.com/album/6r5OjTc37qB1h9mivviJPZ) | 1:58 | 2025-05-13 | 2025-06-17 |
 | [PAATHIRA](https://open.spotify.com/track/4qUMcngbyTuPgDsNlbqRPj) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [ARGA](https://open.spotify.com/album/0sZCipEOkwl9VfD32Q7FyV) | 2:56 | 2025-01-09 | 2025-02-01 |
 | [Pacha Paara Kallu](https://open.spotify.com/track/1oC7SzREM0hH1xX0QIGCKS) | [MAKAN.](https://open.spotify.com/artist/2AXZ392uTSLZ1B7B5WiwCG), [VXAL](https://open.spotify.com/artist/04ftZCJgjzpuUAFwO4OSpC) | [Pacha Paara Kallu](https://open.spotify.com/album/4nOnVJjtfU1pV11Tvrz6SI) | 3:00 | 2025-04-21 | 2025-06-07 |
 | [Pacha Parishkari](https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Pacha Parishkari](https://open.spotify.com/album/1PFv6IHNN4aVjxqLNph5rG) | 2:58 | 2024-11-12 |  |

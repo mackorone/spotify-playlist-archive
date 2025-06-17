@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,004 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,019 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 23 | [Hot \(with Lunay\)](https://open.spotify.com/track/3dAV3458kU5IEMAa5bzQMW) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Quién es Dei V?](https://open.spotify.com/album/2r23a27qGkIUR9BCgi0X6q) | 2:37 |
 | 24 | [Prendemos](https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Prendemos](https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf) | 3:37 |
 | 25 | [AMIGA CON BENEFICIOS](https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [AMIGA CON BENEFICIOS](https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS) | 3:13 |
-| 26 | [Condado](https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Condado](https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD) | 3:52 |
-| 27 | [Nena Buena](https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:44 |
+| 26 | [Nena Buena](https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:44 |
+| 27 | [Condado](https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Condado](https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD) | 3:52 |
 | 28 | [Baby \(with Lunay\)](https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [WLGS](https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb) | 2:56 |
 | 29 | [Nadie \(feat\. Sech & Sharo Towers\) \- Remix](https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Nadie \(feat\. Sech & Sharo Towers\) \[Remix\]](https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR) | 4:30 |
 | 30 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [Vicio](https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Castillo](https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo) | 3:18 |
 | 50 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
 
-Snapshot ID: `aEy7gAAAAAA9UlWWjoe1WgasPffpPSZ+`
+Snapshot ID: `aE4NAAAAAADBK4V+89hy9Inpf6D4qNKS`

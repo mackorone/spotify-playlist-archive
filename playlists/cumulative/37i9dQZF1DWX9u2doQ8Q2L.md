@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,633 songs - 4 day 2 hr 44 min
+1,634 songs - 4 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1328,7 +1328,7 @@
 | [エジソン](https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [招き猫 / エジソン](https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa) | 3:13 | 2022-07-07 | 2022-07-29 |
 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 | 2022-06-06 | 2022-06-29 |
 | [エデンの花](https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [エデンの花](https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX) | 4:48 | 2023-12-05 | 2023-12-13 |
-| [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-07 |  |
+| [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-07 | 2025-06-17 |
 | [オトナブルー](https://open.spotify.com/track/4fMewVWtew1oB6d3E8x9pp) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [オトナブルー](https://open.spotify.com/album/1zOsMN6Zyx1qMlpi29PMDF) | 3:05 | 2024-04-16 |  |
 | [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 | 2023-11-14 | 2023-11-22 |
 | [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 | 2025-01-21 |  |
@@ -1447,6 +1447,7 @@
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-01-25 |
 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 | 2025-04-30 |  |
 | [僕らの大移動](https://open.spotify.com/track/7qSocdyfuHkk56HZeen5XR) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [僕らの大移動](https://open.spotify.com/album/5IGdu1jBdM5CN1vRVOdHPI) | 4:25 | 2022-08-09 | 2022-10-05 |
+| [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 | 2025-06-11 |  |
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-21 |
 | [先へ](https://open.spotify.com/track/5qZ8VSgbxIS2lAuUNOwiHP) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [先へ](https://open.spotify.com/album/1b0VsTDMtv7f0E6rZgltXo) | 4:10 | 2023-06-13 | 2023-06-15 |

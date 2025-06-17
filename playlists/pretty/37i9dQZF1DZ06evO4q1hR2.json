@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 66205,
+  "num_followers": 66222,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAA3414DdHhbfa78g5FWV/7m",
+  "snapshot_id": "aE4NAAAAAAAtrCiLLcb3sHAjDIZZkCJ5",
   "tracks": [
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
-        "url": "https://open.spotify.com/album/4pq7pkqVX2VkbwRoESuCH1"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendivil Y Sus Huellas",
-          "url": "https://open.spotify.com/artist/1cluCVkhK1mU0NFVfrXEi8"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 200545,
-      "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
-      "url": "https://open.spotify.com/track/6RxkpvxZ4qN2MTa7o8KVqz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas Amor (En Vivo)",
         "url": "https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 137555,
       "name": "Te Vas Amor (En Vivo)",
       "url": "https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
+        "url": "https://open.spotify.com/album/4pq7pkqVX2VkbwRoESuCH1"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendivil Y Sus Huellas",
+          "url": "https://open.spotify.com/artist/1cluCVkhK1mU0NFVfrXEi8"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 200545,
+      "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
+      "url": "https://open.spotify.com/track/6RxkpvxZ4qN2MTa7o8KVqz"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Pa Pistear Volumen 1",
-        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
+        "name": "La Ley De La Vida",
+        "url": "https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 177096,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
+      "duration_ms": 118440,
+      "name": "Vida Mafiosa",
+      "url": "https://open.spotify.com/track/7y2rMsFIh7wKS6cTwWLSXU"
     }
   ],
   "unique_name": "This Is El Coyote Y Su Banda Tierra Santa",

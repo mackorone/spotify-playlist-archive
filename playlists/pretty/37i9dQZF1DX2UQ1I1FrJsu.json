@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 121964,
+  "num_followers": 122040,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-05-30 04:00:33",
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 352853,
-      "name": "The Recipe - Bonus Track",
-      "url": "https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ"
-    },
-    {
-      "added_at": "2025-05-30 04:00:33",
-      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 256560,
       "name": "Corcovado (Quiet Nights Of Quiet Stars)",
       "url": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
+    },
+    {
+      "added_at": "2025-05-30 04:00:33",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 352853,
+      "name": "The Recipe - Bonus Track",
+      "url": "https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ"
     },
     {
       "added_at": "2025-05-30 04:00:33",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-05-30 04:00:33",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 305776,
-      "name": "Cheer Up, My Brother",
-      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
-    },
-    {
-      "added_at": "2025-05-30 04:00:33",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/0XSDdumsjbikADECzlPMXq"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 128613,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6nVT7yKO7jV4Qw6PZ9B0PK"
+    },
+    {
+      "added_at": "2025-05-30 04:00:33",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 305776,
+      "name": "Cheer Up, My Brother",
+      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2025-05-30 04:00:33",

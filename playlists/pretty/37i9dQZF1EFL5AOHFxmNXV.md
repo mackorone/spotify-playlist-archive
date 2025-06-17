@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,980 likes - 170 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,979 likes - 170 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 52 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
 | 53 | [Cash Out \(feat\. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.\)](https://open.spotify.com/track/0Ws8D3EWUDgY962Xftb0h5) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:55 |
 | 54 | [PEACE OF MIND](https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 5:03 |
-| 55 | [Over Here \(feat\. Drake\)](https://open.spotify.com/track/43xzI2dp9CTUsmZXjm1voH) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 2:57 |
-| 56 | [L o s e M y M i n d](https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:03 |
+| 55 | [L o s e M y M i n d](https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:03 |
+| 56 | [Over Here \(feat\. Drake\)](https://open.spotify.com/track/43xzI2dp9CTUsmZXjm1voH) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 2:57 |
 | 57 | [Ballin'](https://open.spotify.com/track/6qWfJkV2jRO5RkOIZMC3hL) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 3:12 |
 | 58 | [Only U](https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:55 |
-| 59 | [Thirsty](https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:01 |
-| 60 | [Right Now](https://open.spotify.com/track/2tdDlP8w9wFp7m41KimBf1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 4:03 |
+| 59 | [Right Now](https://open.spotify.com/track/2tdDlP8w9wFp7m41KimBf1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 4:03 |
+| 60 | [Thirsty](https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:01 |
 | 61 | [SOMETHING ABOUT YOU](https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:38 |
 | 62 | [FWU](https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 4:55 |
 | 63 | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2KQdxByLeH5HvuqG2MPbg7) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [96 Months](https://open.spotify.com/album/5uRY0boZn48gDio0ASlgI0) | 3:04 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 85 | [Grown Woman](https://open.spotify.com/track/0l1eHXBH9pNSW6MVQFTK1z) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:25 |
 | 86 | [Deserve It](https://open.spotify.com/track/4DhcorFL5TTEMuh17ZQUqY) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dark Sky Paradise \(Deluxe\)](https://open.spotify.com/album/4Nlbt2EuXedr6UqaeXEI4c) | 4:21 |
 | 87 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 |
-| 88 | [TRAUMA](https://open.spotify.com/track/1EwY5MatBtBEnHeyAFT8kP) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:50 |
-| 89 | [WEST DISTRICT](https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 5:03 |
+| 88 | [WEST DISTRICT](https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 5:03 |
+| 89 | [TRAUMA](https://open.spotify.com/track/1EwY5MatBtBEnHeyAFT8kP) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:50 |
 | 90 | [Don't Choose](https://open.spotify.com/track/0xSjn8x3Tj9fathvZvH8Yk) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 3:41 |
 | 91 | [Bout It](https://open.spotify.com/track/2wgiJddOedrZCNyeV1vBuF) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:25 |
 | 92 | [WHEN HE'S GONE](https://open.spotify.com/track/6mmPe3Y3SEtYb9HZsHTyrj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:29 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 169 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 | 170 | [Like That](https://open.spotify.com/track/0ABKToGGd9V58REvHDTX88) | [S.Carter](https://open.spotify.com/artist/69QnpszMblbP1UG8hyNceY) | [Vice Party Riddim](https://open.spotify.com/album/5ezBqBdt5YSQl0nPxWXxA0) | 3:32 |
 
-Snapshot ID: `Ab0PKAAAAACEFFaJL+KAaA0dYh5/822d`
+Snapshot ID: `Ab0UyAAAAABUXsjQPgnTNjhFqS1ZSszG`

@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's pop tracks, via the south of Africa. Cover: <a href=\"https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7?si=eBJLnUQYTPm4YMPeLdRaaA\">Mikhaela Faye</a>",
-  "num_followers": 3303,
+  "num_followers": 3305,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,26 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
         "name": "Momma Song",
         "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
       },
@@ -463,26 +483,6 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Killin' It Girl (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "Killin' It Girl (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
         "name": "Touch Me Like a Gangster",
         "url": "https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 232597,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -619,6 +619,38 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
+        "name": "99 (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 248832,
+      "name": "99 (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -655,38 +687,6 @@
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
-        "name": "99 (feat. Daecolm)",
-        "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "99 (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -739,18 +739,22 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "On This Love",
-        "url": "https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd"
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 169903,
-      "name": "On This Love",
-      "url": "https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF"
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -771,18 +775,18 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Don't Cry, Put Your Head On My Shoulder",
-        "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
+        "name": "On This Love",
+        "url": "https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 231680,
-      "name": "Don't Cry, Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
+      "duration_ms": 169903,
+      "name": "On This Love",
+      "url": "https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -803,22 +807,18 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+        "name": "Don't Cry, Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
       },
       "artists": [
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 235328,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+      "duration_ms": 231680,
+      "name": "Don't Cry, Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Second Self",
-        "url": "https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0"
+        "name": "Hachik\u014d",
+        "url": "https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 163054,
-      "name": "Try Your Luck",
-      "url": "https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk"
+      "duration_ms": 270497,
+      "name": "Hachik\u014d",
+      "url": "https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -903,18 +903,18 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Hachik\u014d",
-        "url": "https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR"
+        "name": "Second Self",
+        "url": "https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 270497,
-      "name": "Hachik\u014d",
-      "url": "https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh"
+      "duration_ms": 163054,
+      "name": "Try Your Luck",
+      "url": "https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -1067,6 +1067,42 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
+        "name": "Stay Gold (from BEYBLADE X)",
+        "url": "https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 206175,
+      "name": "Stay Gold - from BEYBLADE X",
+      "url": "https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
         "name": "Listen to me",
         "url": "https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx"
       },
@@ -1099,38 +1135,18 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+        "name": "\u5f62",
+        "url": "https://open.spotify.com/album/2lZN1RhKVBH5DkmelKX3Aw"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 168461,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
-        "name": "Stay Gold (from BEYBLADE X)",
-        "url": "https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 206175,
-      "name": "Stay Gold - from BEYBLADE X",
-      "url": "https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd"
+      "duration_ms": 200100,
+      "name": "\u5f62",
+      "url": "https://open.spotify.com/track/0m5ZpQtTjdoH4eXeygFRFZ"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -1163,22 +1179,6 @@
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Cinematic",
-      "url": "https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe"
     },
     {
       "added_at": "2025-06-12 22:00:46",

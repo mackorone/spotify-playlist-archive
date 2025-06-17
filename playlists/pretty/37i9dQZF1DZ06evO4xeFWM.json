@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 217836,
+  "num_followers": 217847,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAC7HIiJp21I0hExmBZoi3X1",
+  "snapshot_id": "aE4NAAAAAADq/JLncxUNqQSklJ1APdfG",
   "tracks": [
     {
       "added_at": null,
@@ -299,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "survivin'",
-        "url": "https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC"
+        "name": "Sad in Scandinavia",
+        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
       },
       "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 173206,
-      "name": "survivin'",
-      "url": "https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23"
+      "duration_ms": 198074,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
     },
     {
       "added_at": null,
@@ -331,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad in Scandinavia",
-        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
+        "name": "survivin'",
+        "url": "https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC"
       },
       "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 198074,
-      "name": "Grip",
-      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
+      "duration_ms": 173206,
+      "name": "survivin'",
+      "url": "https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23"
     },
     {
       "added_at": null,
@@ -783,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distorted Light Beam",
-        "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
+        "name": "Liar Liar (Feat. Bastille)",
+        "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
       },
       "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 177221,
-      "name": "Distorted Light Beam",
-      "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
+      "duration_ms": 174632,
+      "name": "Liar Liar (Feat. Bastille)",
+      "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
     },
     {
       "added_at": null,
@@ -815,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liar Liar (Feat. Bastille)",
-        "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
+        "name": "Distorted Light Beam",
+        "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
       },
       "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 174632,
-      "name": "Liar Liar (Feat. Bastille)",
-      "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
+      "duration_ms": 177221,
+      "name": "Distorted Light Beam",
+      "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
     },
     {
       "added_at": null,

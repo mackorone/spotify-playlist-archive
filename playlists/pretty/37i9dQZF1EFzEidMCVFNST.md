@@ -373,7 +373,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 363 | [quanto mais eu tento](https://open.spotify.com/track/73SaRN6N3byLQZxZlGYD6J) | [ÁRIES](https://open.spotify.com/artist/7ekqvEncg22oPbTvmPzSl3) | [mero](https://open.spotify.com/album/6EjoNtsxZTc4nYbASDrQLI) | 4:14 |
 | 364 | [Aperta o Play](https://open.spotify.com/track/3P2wbK5Ny9AQsQYLDk1w5Y) | [Andresson Costa](https://open.spotify.com/artist/4QX7GiW6GVynn3EaqEF4gg) | [Ao Vivo Em Entre Rios](https://open.spotify.com/album/44EcMGlbupi9n6zZUpzqQI) | 4:00 |
 | 365 | [Água na Boca](https://open.spotify.com/track/5VGIMfnMwloQ4oGN1oDFXn) | [Carlito Gomes](https://open.spotify.com/artist/7hyhcEL9wuINMTpglufzf1) | [Cachaceira](https://open.spotify.com/album/6pq5vEnY3q3phGgllEzwkm) | 3:13 |
-| 366 | [BEIJO CALCULADO \- DVD O Inicio \( Ao Vivo\)](https://open.spotify.com/track/1bPEznvBF0INYzC8JpsJ2e) | [Gustavinho](https://open.spotify.com/artist/5XR86KewB6ArrHEft4kv8Y) | [BEIJO CALCULADO \[DVD O Inicio \( Ao Vivo\)\]](https://open.spotify.com/album/6UfXZuLbRyiiGjP7CdmiMw) | 2:46 |
+| 366 | [BEIJO CALCULADO](https://open.spotify.com/track/6ByviRAM3MgkuDxeAmkgDp) | [Paulo Gustavo](https://open.spotify.com/artist/7f8R6cUA0DMb4oLdmuZRnE) | [BEIJO CALCULADO](https://open.spotify.com/album/6LrM8mHSttSpEzzf2k6LTv) | 2:46 |
 | 367 | [Não Me Engana](https://open.spotify.com/track/4KZj5VcUlfgqWhYNjtyeou) | [João Lucas & Matheus](https://open.spotify.com/artist/0zbKSFfih1ajZeZzmQP0NZ) | [O Mais Solteiro do Brasil](https://open.spotify.com/album/0CUeF8wb4wleCALh5r7ifY) | 2:53 |
 | 368 | [Nenhum Tempo](https://open.spotify.com/track/2yfoCcbOyGNkxWsrJRgqbv) | [Alessandro Maia](https://open.spotify.com/artist/3GzZtVg9uutebpuoFID1Ew) | [Alessandro Maia](https://open.spotify.com/album/5e7I0iIlxGGDMwhIvAkjqK) | 3:08 |
 | 369 | [Quinta Madrugada](https://open.spotify.com/track/1Lc35gHpuYS7VwKCTKkfDT) | [Kelvin Araújo](https://open.spotify.com/artist/467sfSm4OytxDNQ6z9XgHt) | [Quinta Madrugada](https://open.spotify.com/album/0O8DA2g6jSoaSyW0nHS6bh) | 2:40 |
@@ -387,4 +387,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 377 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
 | 378 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 
-Snapshot ID: `Ab0PMgAAAAA17ami/q11Yf7ROa2UDyzg`
+Snapshot ID: `Ab0U0gAAAABQJSTl7jKjO3YgRc/3lhRU`

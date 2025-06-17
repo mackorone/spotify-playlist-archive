@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Kyle Sturrock
 
-503 songs - 1 day 3 hr 11 min
+504 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Nothing To Miss](https://open.spotify.com/track/0TvFEvuJJtOgCldWnvdT3p) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Nothing To Miss](https://open.spotify.com/album/4rh4CdBWQ5piiVtq2QTxyP) | 3:14 | 2024-07-05 | 2024-08-29 |
 | [Now That You're Mine](https://open.spotify.com/track/1icN28Ez6vM9cHF6AoNwIB) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Now That You're Mine](https://open.spotify.com/album/1dHKEELFdzz7YYcvG3PPMx) | 3:00 | 2024-10-04 | 2024-12-07 |
 | [O Ti Lo](https://open.spotify.com/track/3mhxAV328HCbKu2QVYw9fc) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [O Ti Lo](https://open.spotify.com/album/5J61PaJPBGXFINLdcM2cB0) | 2:09 | 2025-02-07 | 2025-04-05 |
+| [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 | 2025-06-04 |  |
 | [Oh!](https://open.spotify.com/track/4c9248nXVshR1AFp1i69v8) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Oh!](https://open.spotify.com/album/2SbvBAbGW8FR7w1XS6mXtt) | 3:00 | 2025-02-07 | 2025-04-05 |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 |  |
 | [OMG](https://open.spotify.com/track/39Tp0g9FmNfeRxOdh9mdUG) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [OMG](https://open.spotify.com/album/5nkLySr4VplyXkX7KVK2e0) | 2:41 | 2024-03-01 | 2024-05-03 |

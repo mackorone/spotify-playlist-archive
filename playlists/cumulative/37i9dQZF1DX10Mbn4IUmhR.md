@@ -4,7 +4,7 @@
 
 > Your frequency for today's pop tracks, via the south of Africa\. Cover: <a href="https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7?si=eBJLnUQYTPm4YMPeLdRaaA">Mikhaela Faye</a>
 
-487 songs - 1 day 2 hr 10 min
+488 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-27 | 2025-03-14 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-27 | 2025-01-24 |
 | [Cigarettes](https://open.spotify.com/track/3RU8NyQwkwPIw4L3kR7I4a) | [EFACT](https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH) | [Cigarettes](https://open.spotify.com/album/4IjxbjGFR6SfCW46ZgQVdk) | 2:29 | 2024-08-23 | 2024-10-19 |
-| [Cinematic](https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Cinematic](https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG) | 3:16 | 2025-05-15 |  |
+| [Cinematic](https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Cinematic](https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG) | 3:16 | 2025-05-15 | 2025-06-17 |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2025-03-20 | 2025-03-28 |
 | [Citrus](https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Citrus](https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX) | 3:07 | 2025-04-10 | 2025-06-08 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-07-11 | 2024-11-08 |
@@ -495,5 +495,6 @@
 | [You're the One](https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Elements](https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3) | 3:20 | 2025-01-30 | 2025-05-09 |
 | [Younger And Hotter Than Me](https://open.spotify.com/track/0oJUk2PO3UVd9dZwPn0SRI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:09 | 2025-03-20 | 2025-04-04 |
 | [Your radio](https://open.spotify.com/track/5C1bGLQwlfupoENa5CO36O) | [EFACT](https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH) | [Your radio](https://open.spotify.com/album/00AeYHhy3S13gKEXHLrZ72) | 3:07 | 2024-11-21 | 2024-12-06 |
+| [形](https://open.spotify.com/track/0m5ZpQtTjdoH4eXeygFRFZ) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形](https://open.spotify.com/album/2lZN1RhKVBH5DkmelKX3Aw) | 3:20 | 2025-06-12 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 42 min
+112 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 | 2022-09-22 |  |
 | [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 | 2022-09-29 |  |
 | [Drug Store Truck Drivin' Man \- Live At The Woodstock Music & Art Fair / 1969](https://open.spotify.com/track/0rl1mAu2HBkIptk1rUtzlI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Jeffrey Shurtleff](https://open.spotify.com/artist/3Ek5Fzr1vbkPI5AUYWtwBv) | [Live At Woodstock](https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj) | 2:49 | 2024-07-02 | 2024-07-03 |
-| [East Virginia](https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:43 | 2022-10-07 |  |
+| [East Virginia](https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:43 | 2022-10-07 | 2025-06-17 |
 | [El Preso Numero Nueve](https://open.spotify.com/track/27LWYN5H4rfXlRz1vFNm63) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:50 | 2022-09-29 | 2023-02-28 |
 | [El Preso Numero Nueve](https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:24 | 2023-08-21 | 2024-12-15 |
 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 | 2022-09-22 |  |
@@ -61,6 +61,7 @@
 | [I Know You Rider](https://open.spotify.com/track/7vJAglE0Vzjgy1GyeA7Vog) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:46 | 2022-09-24 | 2022-10-03 |
 | [I Will Never Marry](https://open.spotify.com/track/37BVqKwNNBIE0HIaGUrgvC) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [How Sweet The Sound](https://open.spotify.com/album/0yd4yXz2KHDtb9BuZWG2qR) | 3:01 | 2022-09-22 | 2023-02-04 |
 | [If I Were A Carpenter](https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 2:09 | 2022-10-12 |  |
+| [If I Wrote You](https://open.spotify.com/track/2kJfMLleWp1UgC5HlGBHi1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 3:28 | 2025-06-17 |  |
 | [If You Were A Carpenter](https://open.spotify.com/track/54r96rfihIM6TXasz0mYxL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan](https://open.spotify.com/album/7MHKK9mfQGgNOF3BXOvcUD) | 2:10 | 2022-09-22 | 2024-08-18 |
 | [In The Quiet Morning](https://open.spotify.com/track/4Kol6Ecm4yCgHvbLSP3XUG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 2:55 | 2024-05-03 | 2024-10-02 |
 | [It Ain't Me Babe](https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:21 | 2022-09-22 |  |

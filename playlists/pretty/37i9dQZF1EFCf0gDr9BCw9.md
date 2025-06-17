@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 97 | [Valse](https://open.spotify.com/track/71BIOhurzguCa78klmstoH) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 |
 | 98 | [Toot Suite : Red Carpet \- From The Album Duke Ellington Jazz Party](https://open.spotify.com/track/1Y4d6mRYwvFixw0nZy5VuW) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 7:42 |
 | 99 | [My Resistance Is Low \- Alternate Take](https://open.spotify.com/track/6QaYNOZJt61S5NpmXk5t4N) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Complete United Artist Sessions](https://open.spotify.com/album/1av3ItSe0NMhJiAmqqPpRm) | 2:17 |
-| 100 | [Lana Turner](https://open.spotify.com/track/4VOBC9a8H7rhVXCMAegUsw) | [Terell Strafford](https://open.spotify.com/artist/0GfrwM4XQ3jhOWSG379zt7) | [This Side of Strayhorn](https://open.spotify.com/album/6k0IW93cG7Qq7FBqOFEQU8) | 8:20 |
-| 101 | [Triple Play](https://open.spotify.com/track/4LHvcUgH4uw2HvYCnlPMC3) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 5:23 |
+| 100 | [Triple Play](https://open.spotify.com/track/4LHvcUgH4uw2HvYCnlPMC3) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 5:23 |
+| 101 | [Lana Turner](https://open.spotify.com/track/4VOBC9a8H7rhVXCMAegUsw) | [Terell Strafford](https://open.spotify.com/artist/0GfrwM4XQ3jhOWSG379zt7) | [This Side of Strayhorn](https://open.spotify.com/album/6k0IW93cG7Qq7FBqOFEQU8) | 8:20 |
 | 102 | [Carribee Joe](https://open.spotify.com/track/4INUy71Qk3A6dOC54tZ8lv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 2:58 |
 | 103 | [Balcony Serenade \(Love\) \[Sonata\]](https://open.spotify.com/track/16iuWzKyvbJsh2EiUVADah) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:09 |
 | 104 | [Fantastic Rhythm](https://open.spotify.com/track/7ANqRzBkL37YYzqrvO18Tg) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 148 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 149 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `Ab0PMgAAAAC0fn6jrnLPYwUgWFSHRi8L`
+Snapshot ID: `Ab0UyAAAAADgaHcdzlDxZ0YpmjquT7Mi`

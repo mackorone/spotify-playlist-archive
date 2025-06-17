@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Narivetta",
-  "num_followers": 472744,
+  "num_followers": 473771,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEvITQAAAAB8vW1hwoCCjeWFaB4fRr4P",
+  "snapshot_id": "aFAB+wAAAABklor0LClusHWh7aTAI1hr",
   "tracks": [
     {
       "added_at": "2025-05-07 08:53:45",
@@ -33,6 +33,26 @@
       "url": "https://open.spotify.com/track/5yAfCVJwa3r9wAQSOfawqm"
     },
     {
+      "added_at": "2025-04-04 11:23:38",
+      "album": {
+        "name": "Kannodu (Live)",
+        "url": "https://open.spotify.com/album/1C1whckbFcGGOUqzySzALK"
+      },
+      "artists": [
+        {
+          "name": "Job Kurian",
+          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
+        },
+        {
+          "name": "Mridula Warrier",
+          "url": "https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": "Kannodu - Live",
+      "url": "https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f"
+    },
+    {
       "added_at": "2025-04-28 07:49:01",
       "album": {
         "name": "Kanmanipoove (From \"Thudarum\")",
@@ -51,6 +71,26 @@
       "duration_ms": 354666,
       "name": "Kanmanipoove (From \"Thudarum\")",
       "url": "https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh"
+    },
+    {
+      "added_at": "2025-04-02 11:53:45",
+      "album": {
+        "name": "Thattathil (From \"Abhilasham\")",
+        "url": "https://open.spotify.com/album/1Dm8yyO41vK1cW9FI0NhaB"
+      },
+      "artists": [
+        {
+          "name": "Sreehari K Nair",
+          "url": "https://open.spotify.com/artist/2nUk6QuBVgAPxwIzLQyU9z"
+        },
+        {
+          "name": "Sharfu",
+          "url": "https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Thattathil (From \"Abhilasham\")",
+      "url": "https://open.spotify.com/track/6PxB85rPecatl7jZcFHlYK"
     },
     {
       "added_at": "2023-12-02 04:17:28",
@@ -157,46 +197,6 @@
       "url": "https://open.spotify.com/track/14TFPisWG8mgHFOkP6V0aJ"
     },
     {
-      "added_at": "2025-04-02 11:53:45",
-      "album": {
-        "name": "Thattathil (From \"Abhilasham\")",
-        "url": "https://open.spotify.com/album/1Dm8yyO41vK1cW9FI0NhaB"
-      },
-      "artists": [
-        {
-          "name": "Sreehari K Nair",
-          "url": "https://open.spotify.com/artist/2nUk6QuBVgAPxwIzLQyU9z"
-        },
-        {
-          "name": "Sharfu",
-          "url": "https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Thattathil (From \"Abhilasham\")",
-      "url": "https://open.spotify.com/track/6PxB85rPecatl7jZcFHlYK"
-    },
-    {
-      "added_at": "2025-04-04 11:23:38",
-      "album": {
-        "name": "Kannodu (Live)",
-        "url": "https://open.spotify.com/album/1C1whckbFcGGOUqzySzALK"
-      },
-      "artists": [
-        {
-          "name": "Job Kurian",
-          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
-        },
-        {
-          "name": "Mridula Warrier",
-          "url": "https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh"
-        }
-      ],
-      "duration_ms": 217777,
-      "name": "Kannodu - Live",
-      "url": "https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f"
-    },
-    {
       "added_at": "2025-05-26 06:55:48",
       "album": {
         "name": "Hope Song (From \"Sarkeet\")",
@@ -267,6 +267,26 @@
       "duration_ms": 196144,
       "name": "Kaathal Maari",
       "url": "https://open.spotify.com/track/3tnaBKfA1AjFMS6P5vTI95"
+    },
+    {
+      "added_at": "2025-06-16 11:36:05",
+      "album": {
+        "name": "Suicide Note",
+        "url": "https://open.spotify.com/album/75KZSx3TPb4Nf3Z7lHDz9B"
+      },
+      "artists": [
+        {
+          "name": "GABRI",
+          "url": "https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng"
+        },
+        {
+          "name": "PUNKALI",
+          "url": "https://open.spotify.com/artist/3foxXyK7zJeaVjEoJ5GWct"
+        }
+      ],
+      "duration_ms": 150998,
+      "name": "Suicide Note",
+      "url": "https://open.spotify.com/track/4CoQqdPGDPRW07lQ4N54i9"
     },
     {
       "added_at": "2025-04-08 06:35:21",
@@ -1071,30 +1091,6 @@
       "duration_ms": 162791,
       "name": "Jaada - From \"Aavesham\"",
       "url": "https://open.spotify.com/track/3b38fvc4ky0er6WEBruHMf"
-    },
-    {
-      "added_at": "2024-04-17 09:25:03",
-      "album": {
-        "name": "Galatta (From \"Aavesham\")",
-        "url": "https://open.spotify.com/album/4OqRjbYHNCSKXkh7wnvez8"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Paal Dabba",
-          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 130018,
-      "name": "Galatta - From \"Aavesham\"",
-      "url": "https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq"
     },
     {
       "added_at": "2023-08-03 00:18:29",

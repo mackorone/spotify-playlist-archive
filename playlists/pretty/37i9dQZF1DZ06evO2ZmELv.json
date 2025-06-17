@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACN4KxuOoVWhBOXw8FgLF3t",
+  "snapshot_id": "aE4NAAAAAADhSc5SZbKhFbQffFkwKHaS",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Vale la Pena",
+        "url": "https://open.spotify.com/album/0agPGyxGa9wjgX0WshJTIm"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 167775,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/42EeFwlmhyUbowZjQr4yx2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Valia La Pena",
         "url": "https://open.spotify.com/album/6YjRQJcRNWb7S0yUOqt0qc"
       },
@@ -135,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Vale la Pena",
-        "url": "https://open.spotify.com/album/0agPGyxGa9wjgX0WshJTIm"
+        "name": "Vuela Paloma",
+        "url": "https://open.spotify.com/album/1pknEtNbzO9CCxDCbVn4QS"
       },
       "artists": [
         {
@@ -144,9 +160,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 167775,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/42EeFwlmhyUbowZjQr4yx2"
+      "duration_ms": 265856,
+      "name": "Vuela Paloma",
+      "url": "https://open.spotify.com/track/5wXa6VEW2cv81pN40Jcpeg"
     },
     {
       "added_at": null,
@@ -163,22 +179,6 @@
       "duration_ms": 181970,
       "name": "Merec\u00eda M\u00e1s",
       "url": "https://open.spotify.com/track/2bFh7FBsBMT0aFlSvvDPNi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuela Paloma",
-        "url": "https://open.spotify.com/album/1pknEtNbzO9CCxDCbVn4QS"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 265856,
-      "name": "Vuela Paloma",
-      "url": "https://open.spotify.com/track/5wXa6VEW2cv81pN40Jcpeg"
     },
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nunca Voy A Olvidarte",
+        "url": "https://open.spotify.com/album/29MifvAXK7oL3zBiKfpdMV"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 185208,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/1ZhEWbMrnxuA5tY2UfIvD0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOS VALE MADRE",
         "url": "https://open.spotify.com/album/43NoqcA11wC5ZDw61N43Sc"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Voy A Olvidarte",
-        "url": "https://open.spotify.com/album/29MifvAXK7oL3zBiKfpdMV"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 185208,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/1ZhEWbMrnxuA5tY2UfIvD0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
@@ -279,6 +279,38 @@
       "duration_ms": 202250,
       "name": "No Volver\u00e9 - Versi\u00f3n Banda En Vivo",
       "url": "https://open.spotify.com/track/0eH7x7An9XOPCeDsIYnY5R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Pero Que Mal Me Fue",
+      "url": "https://open.spotify.com/track/3tfljEJGw0v9YsNddth1Ms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 159717,
+      "name": "Me Lo Contaron Ayer - En Vivo",
+      "url": "https://open.spotify.com/track/67sQnKgLjqE8EJyYzZt8Ie"
     },
     {
       "added_at": null,
@@ -307,38 +339,6 @@
       "duration_ms": 191736,
       "name": "No Lo Hice Bien - En Vivo",
       "url": "https://open.spotify.com/track/0hQGltiywFTqXxi8SPyodj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 159717,
-      "name": "Me Lo Contaron Ayer - En Vivo",
-      "url": "https://open.spotify.com/track/67sQnKgLjqE8EJyYzZt8Ie"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Pero Que Mal Me Fue",
-      "url": "https://open.spotify.com/track/3tfljEJGw0v9YsNddth1Ms"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 168096,
-      "name": "El Hubiera No Existe",
-      "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
+      "duration_ms": 202594,
+      "name": "Llegas",
+      "url": "https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 202594,
-      "name": "Llegas",
-      "url": "https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8"
+      "duration_ms": 168096,
+      "name": "El Hubiera No Existe",
+      "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 200704,
-      "name": "Extra\u00f1a Manera - En Vivo",
-      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
+      "duration_ms": 196816,
+      "name": "Le\u00f1a De Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 196816,
-      "name": "Le\u00f1a De Pirul - En Vivo",
-      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
+      "duration_ms": 200704,
+      "name": "Extra\u00f1a Manera - En Vivo",
+      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 181796,
-      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
-      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
+      "duration_ms": 200463,
+      "name": "Al Ver Que Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/1laxigh2D0jypvNDVLL2Rj"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 200463,
-      "name": "Al Ver Que Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/1laxigh2D0jypvNDVLL2Rj"
+      "duration_ms": 181796,
+      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
+      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
     },
     {
       "added_at": null,

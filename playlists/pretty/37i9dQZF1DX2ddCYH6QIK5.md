@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday\. Cover: Lone Assembly, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,388 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,409 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

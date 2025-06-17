@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3142,
+  "num_followers": 3145,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABKr9G33l9AgSCtbxWjncwp",
+  "snapshot_id": "aE4NAAAAAAA9SI8TuGKdbNf0yQeejVit",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whispering (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Whispering - Rise Cast Version",
-      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Guilty Ones (Rise Cast Version)",
         "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 211956,
       "name": "The Guilty Ones - Rise Cast Version",
       "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whispering (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Whispering - Rise Cast Version",
+      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
     },
     {
       "added_at": null,

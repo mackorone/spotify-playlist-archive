@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 192584,
+  "num_followers": 192588,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAPoBvMEo+bJH7Gz5lWQSj3",
+  "snapshot_id": "aE4NAAAAAABK1tNyTDx1VZD+bXN7hmfE",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
       },
       "artists": [
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+      "duration_ms": 241848,
+      "name": "Blame On Me",
+      "url": "https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy"
     },
     {
       "added_at": null,
@@ -371,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
       "artists": [
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 241848,
-      "name": "Blame On Me",
-      "url": "https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy"
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": null,

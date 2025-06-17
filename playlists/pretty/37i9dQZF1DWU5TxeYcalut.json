@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163626,
+  "num_followers": 163622,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Hamilton de Holanda Trio - Live in NYC",
-        "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 315110,
-      "name": "Todo Dia \u00c9 Um Recome\u00e7o",
-      "url": "https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Quatro Ventos",
         "url": "https://open.spotify.com/album/1BRjs5bpPjk75LwjzDPqbH"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 230733,
       "name": "Quatro ventos",
       "url": "https://open.spotify.com/track/3HVG8CTd0WHObo3If84GMW"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Hamilton de Holanda Trio - Live in NYC",
+        "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 315110,
+      "name": "Todo Dia \u00c9 Um Recome\u00e7o",
+      "url": "https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -551,6 +551,30 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
+        "name": "Suave (Bossa Samba Jazz)",
+        "url": "https://open.spotify.com/album/1LXUKJfNgHAjUM3TupizDu"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        },
+        {
+          "name": "Taryn Spilmann",
+          "url": "https://open.spotify.com/artist/0YScwoDE1C408DEmZngTtp"
+        },
+        {
+          "name": "Moacir Santos",
+          "url": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
+        }
+      ],
+      "duration_ms": 367240,
+      "name": "Quisiera Tenerte a Mi Lado",
+      "url": "https://open.spotify.com/track/0nABj1vTjAHoIQsC2VSmRj"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/5tkAxQfIAESg769YqmhD9E"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 229213,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/4DeBe2DKjYutgq1upkkRlL"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
-        "name": "Suave (Bossa Samba Jazz)",
-        "url": "https://open.spotify.com/album/1LXUKJfNgHAjUM3TupizDu"
-      },
-      "artists": [
-        {
-          "name": "Nova Jazzers",
-          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
-        },
-        {
-          "name": "Taryn Spilmann",
-          "url": "https://open.spotify.com/artist/0YScwoDE1C408DEmZngTtp"
-        },
-        {
-          "name": "Moacir Santos",
-          "url": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
-        }
-      ],
-      "duration_ms": 367240,
-      "name": "Quisiera Tenerte a Mi Lado",
-      "url": "https://open.spotify.com/track/0nABj1vTjAHoIQsC2VSmRj"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Chico Macedo 4teto",
-        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
-      },
-      "artists": [
-        {
-          "name": "Chico Macedo",
-          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Um",
         "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 271656,
       "name": "Canto de Aruanda",
       "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Chico Macedo 4teto",
+        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
+      },
+      "artists": [
+        {
+          "name": "Chico Macedo",
+          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Pimenta - Tributo a Elis Regina",
-        "url": "https://open.spotify.com/album/0GD98aEIFGilBEC8Ld8qjL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Malta",
-          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
-        }
-      ],
-      "duration_ms": 90760,
-      "name": "Fascina\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/48atPa1H0RXxJeGe79D6IE"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
         "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
+        "name": "Pimenta - Tributo a Elis Regina",
+        "url": "https://open.spotify.com/album/0GD98aEIFGilBEC8Ld8qjL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
+        }
+      ],
+      "duration_ms": 90760,
+      "name": "Fascina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/48atPa1H0RXxJeGe79D6IE"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
       },
@@ -1103,38 +1103,6 @@
       "duration_ms": 270012,
       "name": "With Ernesto",
       "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
-        "name": "M\u00fasica Disfar\u00e7ada de Gente",
-        "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
-      },
-      "artists": [
-        {
-          "name": "GUANDUO",
-          "url": "https://open.spotify.com/artist/00MF73V9qT6c5DkFyTgI12"
-        },
-        {
-          "name": "Eduardo Pinheiro",
-          "url": "https://open.spotify.com/artist/3VBwwahcVJNw3KPxFGCiDG"
-        },
-        {
-          "name": "Juliano Camara",
-          "url": "https://open.spotify.com/artist/5VPgvDAJTw0h4t9bAaPhtn"
-        },
-        {
-          "name": "M\u00e1rcio Bahia",
-          "url": "https://open.spotify.com/artist/459tuZRjLSRk5TqSKlEGEw"
-        },
-        {
-          "name": "Pedro Franco",
-          "url": "https://open.spotify.com/artist/4F1Nh4ePuhI8bNvmS8z7nc"
-        }
-      ],
-      "duration_ms": 313880,
-      "name": "Francamente",
-      "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1167,6 +1135,38 @@
       "duration_ms": 202026,
       "name": "Costa da Mina",
       "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "M\u00fasica Disfar\u00e7ada de Gente",
+        "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
+      },
+      "artists": [
+        {
+          "name": "GUANDUO",
+          "url": "https://open.spotify.com/artist/00MF73V9qT6c5DkFyTgI12"
+        },
+        {
+          "name": "Eduardo Pinheiro",
+          "url": "https://open.spotify.com/artist/3VBwwahcVJNw3KPxFGCiDG"
+        },
+        {
+          "name": "Juliano Camara",
+          "url": "https://open.spotify.com/artist/5VPgvDAJTw0h4t9bAaPhtn"
+        },
+        {
+          "name": "M\u00e1rcio Bahia",
+          "url": "https://open.spotify.com/artist/459tuZRjLSRk5TqSKlEGEw"
+        },
+        {
+          "name": "Pedro Franco",
+          "url": "https://open.spotify.com/artist/4F1Nh4ePuhI8bNvmS8z7nc"
+        }
+      ],
+      "duration_ms": 313880,
+      "name": "Francamente",
+      "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1283,42 +1283,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Mar de Cirandeiras",
-        "url": "https://open.spotify.com/album/2e7tCsPiamIIcKpkOKMUqL"
-      },
-      "artists": [
-        {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
-        },
-        {
-          "name": "Jeff Parker",
-          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
-        }
-      ],
-      "duration_ms": 230307,
-      "name": "Mar de Cirandeiras",
-      "url": "https://open.spotify.com/track/0fyPqTAayRNDDJawYaZkGe"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
-        "name": "Gunnarssons",
-        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 251417,
-      "name": "Gunnarssons",
-      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "\u00c2mbar - os Afluentes da M\u00fasica",
         "url": "https://open.spotify.com/album/59N6VBsreoqwUhdqxYfClk"
       },
@@ -1351,6 +1315,42 @@
       "duration_ms": 310226,
       "name": "Afluente do Futuro",
       "url": "https://open.spotify.com/track/2U6VHc3DqSLhLrtTRNkFCT"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Gunnarssons",
+        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 251417,
+      "name": "Gunnarssons",
+      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Mar de Cirandeiras",
+        "url": "https://open.spotify.com/album/2e7tCsPiamIIcKpkOKMUqL"
+      },
+      "artists": [
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "duration_ms": 230307,
+      "name": "Mar de Cirandeiras",
+      "url": "https://open.spotify.com/track/0fyPqTAayRNDDJawYaZkGe"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/7HjEJgEOH5yFNPLERzLOMg"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
-        "name": "Funktastic",
-        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
       },
       "artists": [
         {
-          "name": "Hammond Grooves",
-          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
         }
       ],
-      "duration_ms": 355961,
-      "name": "Funktastic",
-      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1627,6 +1611,22 @@
       "duration_ms": 396106,
       "name": "Factotum",
       "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
+        "name": "Funktastic",
+        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
+      },
+      "artists": [
+        {
+          "name": "Hammond Grooves",
+          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
+        }
+      ],
+      "duration_ms": 355961,
+      "name": "Funktastic",
+      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
     },
     {
       "added_at": "2025-06-06 23:34:12",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2025-06-06 23:34:12",
       "album": {
+        "name": "Sidiel Vieira Quinteto",
+        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
+      },
+      "artists": [
+        {
+          "name": "Sidiel Vieira Quinteto",
+          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 506440,
+      "name": "Atrevido",
+      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
+    },
+    {
+      "added_at": "2025-06-06 23:34:12",
+      "album": {
         "name": "Amilton Godoy 80 Anos",
         "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 166933,
       "name": "Ponteio 49",
       "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
-    },
-    {
-      "added_at": "2025-06-06 23:34:12",
-      "album": {
-        "name": "Sidiel Vieira Quinteto",
-        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
-      },
-      "artists": [
-        {
-          "name": "Sidiel Vieira Quinteto",
-          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 506440,
-      "name": "Atrevido",
-      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
     },
     {
       "added_at": "2025-06-06 23:34:12",

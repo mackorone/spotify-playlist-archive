@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 
 > The hottest Latin hits in the US! Cover: Clave Especial & Edgardo Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,673,989 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,673,849 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 | 49 | [Atención](https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 4:13 |
 | 50 | [Bing Bong](https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong](https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu) | 2:03 |
 
-Snapshot ID: `aEJnxwAAAAA2P6MUligAbiLYKFs6q7s0`
+Snapshot ID: `aEJnxwAAAAD0LO0ZT6yTF/qS44l4s3Hg`

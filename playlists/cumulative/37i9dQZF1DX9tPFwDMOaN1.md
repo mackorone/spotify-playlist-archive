@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! \(Cover: ATEEZ\)
 
-665 songs - 1 day 10 hr 41 min
+666 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,11 +62,12 @@
 | [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 | 2023-01-13 | 2023-04-22 |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-07-29 | 2022-11-12 |
 | [Beauty and the Beast](https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Beauty and the Beast](https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS) | 4:24 | 2022-01-12 | 2022-02-04 |
-| [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 | 2025-03-19 |  |
+| [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 | 2025-03-19 | 2025-06-17 |
 | [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 | 2025-06-09 |  |
 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-05-11 | 2022-07-14 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 | 2024-01-09 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-24 | 2023-07-22 |
+| [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-16 |  |
 | [Birth](https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 1 : Birth>](https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ) | 2:42 | 2024-04-03 | 2024-05-14 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-11-28 | 2023-03-11 |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-22 | 2024-04-08 |

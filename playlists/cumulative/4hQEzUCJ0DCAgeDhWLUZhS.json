@@ -2327,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215517,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr"
+    },
+    {
+      "album": {
         "name": "Feel The Fire",
         "url": "https://open.spotify.com/album/1oHDmvOwjMoFT7VbG3zavN"
       },

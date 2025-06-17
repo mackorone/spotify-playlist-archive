@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1070102,
+  "num_followers": 1070160,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
         "name": "Girl at the Station (feat. Jeremy Passion)",
         "url": "https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 145136,
       "name": "Girl at the Station",
       "url": "https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Iman",
-        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Iman",
-      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Jessie (i miss you)",
         "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 197748,
       "name": "Jessie (i miss you)",
       "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Iman",
+        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Iman",
+      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Know the Night",
         "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Am Ende des Tages",
         "url": "https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL"
       },
@@ -1123,6 +1103,26 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
         "name": "Welcome to the Mood / Sundown",
         "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290616,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Told You So",
         "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 184760,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Same Vibes",
-        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 180721,
-      "name": "Same Vibes",
-      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "when i close my eyes",
         "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 226117,
       "name": "when i close my eyes",
       "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Same Vibes",
+        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 180721,
+      "name": "Same Vibes",
+      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Ocean Girl",
-        "url": "https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M"
-      },
-      "artists": [
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
-        }
-      ],
-      "duration_ms": 250625,
-      "name": "Ocean Girl",
-      "url": "https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
+        "name": "Ocean Girl",
+        "url": "https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M"
+      },
+      "artists": [
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "duration_ms": 250625,
+      "name": "Ocean Girl",
+      "url": "https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 229787,
       "name": "Again",
       "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "wo bin ich",
+        "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "duration_ms": 123297,
+      "name": "wo bin ich",
+      "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1395,22 +1411,6 @@
       "duration_ms": 217535,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/5KfY2QAscpFHfwmyBuxYoD"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
-        "name": "wo bin ich",
-        "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
-        }
-      ],
-      "duration_ms": 123297,
-      "name": "wo bin ich",
-      "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Tokyo Lift (5am)",
-        "url": "https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 144741,
-      "name": "Tokyo Lift (5am)",
-      "url": "https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 183986,
       "name": "Closure (feat. BIRDY and Mishaal)",
       "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Tokyo Lift (5am)",
+        "url": "https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 144741,
+      "name": "Tokyo Lift (5am)",
+      "url": "https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
+        "name": "eat some pasta",
+        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
+        }
+      ],
+      "duration_ms": 141762,
+      "name": "eat some pasta",
+      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
         "name": "cupped and open",
         "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 193017,
       "name": "heartache in july",
       "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
-        "name": "eat some pasta",
-        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00ebl & Jonas",
-          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
-        }
-      ],
-      "duration_ms": 141762,
-      "name": "eat some pasta",
-      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
     }
   ],
   "unique_name": "Sommer Chillout",

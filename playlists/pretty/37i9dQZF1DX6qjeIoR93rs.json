@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 80303,
+  "num_followers": 80348,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-02-14 07:09:03",
       "album": {
-        "name": "Second Verse",
-        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
-      },
-      "artists": [
-        {
-          "name": "Faraj Suleiman",
-          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
-        }
-      ],
-      "duration_ms": 272480,
-      "name": "Bad Timing",
-      "url": "https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N"
-    },
-    {
-      "added_at": "2025-02-14 07:09:03",
-      "album": {
         "name": "Shamstep",
         "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 263933,
       "name": "Don't Care Where You From",
       "url": "https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS"
+    },
+    {
+      "added_at": "2025-02-14 07:09:03",
+      "album": {
+        "name": "Second Verse",
+        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
+      },
+      "artists": [
+        {
+          "name": "Faraj Suleiman",
+          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
+        }
+      ],
+      "duration_ms": 272480,
+      "name": "Bad Timing",
+      "url": "https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N"
     },
     {
       "added_at": "2025-02-14 07:09:03",

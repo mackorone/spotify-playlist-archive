@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,128 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,167 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 14 | [Seven Nation Army](https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Seven Nation Army](https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp) | 2:52 |
 | 15 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |
 | 16 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
-| 17 | [Navegue No Seu Próprio Rio](https://open.spotify.com/track/5uS0ZbPUzCy9B16pWUF5T3) | [Allê Barbosa](https://open.spotify.com/artist/2FRgntiTtDuOhfwh7Rw1wq) | [Navegue No Seu Próprio Rio](https://open.spotify.com/album/5igA3zBsqyH0qwQHr5KNhf) | 2:48 |
-| 18 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
+| 17 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
+| 18 | [Navegue No Seu Próprio Rio](https://open.spotify.com/track/5uS0ZbPUzCy9B16pWUF5T3) | [Allê Barbosa](https://open.spotify.com/artist/2FRgntiTtDuOhfwh7Rw1wq) | [Navegue No Seu Próprio Rio](https://open.spotify.com/album/5igA3zBsqyH0qwQHr5KNhf) | 2:48 |
 | 19 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
 | 20 | [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:22 |
 | 21 | [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 49 | [A Estrada](https://open.spotify.com/track/1HjKLr16ZhZ79Lh5GnDPZE) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Gaveta](https://open.spotify.com/album/3DDhp8UHXbfqCdlhhaX2KP) | 3:38 |
 | 50 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 |
 | 51 | [Flagra](https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Flagra](https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS) | 3:16 |
-| 52 | [O Segundo Sol](https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [DUDA BEAT & NANDO REIS](https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra) | 4:22 |
-| 53 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 |
+| 52 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 |
+| 53 | [O Segundo Sol](https://open.spotify.com/track/4B1A052R2n4HGE9JeieF5K) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [DUDA BEAT & NANDO REIS](https://open.spotify.com/album/4VbIJk7efjjzApqlSeEIra) | 4:22 |
 | 54 | [CAMINHOS SELVAGENS](https://open.spotify.com/track/4AlbAuPmB9wUg9Z0J1NKVj) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CAMINHOS SELVAGENS](https://open.spotify.com/album/6XWoCk6aNwbco5mE2QrPy1) | 3:32 |
 | 55 | [KINTSUGI](https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [KINTSUGI](https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t) | 4:17 |
 | 56 | [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 |
-| 57 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 |
-| 58 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 |
-| 59 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
+| 57 | [Não Tem Lua](https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Não Tem Lua](https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh) | 2:59 |
+| 58 | [Eu Sou Sentimental](https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Capítulo 1](https://open.spotify.com/album/1e7D67Xm7d2bOIDdRlBJIR) | 2:57 |
+| 59 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 |
 | 60 | [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 |
 
 Snapshot ID: `aEJl9QAAAADqow5dHvUGOPzbKSb34FeK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Hannah Jadagu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,317 likes - 215 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,260 likes - 215 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

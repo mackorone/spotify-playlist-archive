@@ -1,6 +1,6 @@
 {
   "description": "Energetic tracks from the 2000s to boost your running session.",
-  "num_followers": 1233515,
+  "num_followers": 1233702,
   "original_name": "00s Pop Run",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-01-03 14:55:20",
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
+    },
+    {
+      "added_at": "2023-01-03 14:55:20",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
-    },
-    {
-      "added_at": "2023-01-03 14:55:20",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
     },
     {
       "added_at": "2023-05-18 18:07:11",

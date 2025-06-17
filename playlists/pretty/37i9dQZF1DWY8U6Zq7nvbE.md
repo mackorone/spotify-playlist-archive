@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,429,439 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,429,370 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 24 | [When I Get There](https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [When I Get There](https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m) | 3:53 |
 | 25 | [Issues \- Acoustic Version](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
 | 26 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 |
-| 27 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
-| 28 | [Closer](https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH) | [Eric Serenade](https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda) | [Closer](https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih) | 3:08 |
+| 27 | [Closer](https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH) | [Eric Serenade](https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda) | [Closer](https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih) | 3:08 |
+| 28 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
 | 29 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
-| 30 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Call Me Maybe \- Acoustic](https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr) | 3:30 |
-| 31 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
+| 30 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
+| 31 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Call Me Maybe \- Acoustic](https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr) | 3:30 |
 | 32 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
 | 33 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 |
 | 34 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 37 | [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 |
 | 38 | [I Feel It Coming](https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb) | [Alice Nordstrom](https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3) | [I Feel It Coming](https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f) | 2:46 |
 | 39 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 |
-| 40 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
-| 41 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
+| 40 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
+| 41 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
 | 42 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 |
 | 43 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
 | 44 | [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 |

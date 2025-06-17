@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: CKay
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,056 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,175 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Tout gâcher](https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Tout gâcher](https://open.spotify.com/album/0xMLWu80LwMltST4xEXahv) | 2:06 |
 | 50 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 |
 
-Snapshot ID: `aEtOBQAAAADU0f58yIlMUkuIT2gB2poU`
+Snapshot ID: `AAAAAASb6jcUPklneFlhI8b1eHfM0i8R`

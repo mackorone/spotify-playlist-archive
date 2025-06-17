@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 22973,
+  "num_followers": 22982,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bel\u00e1 Bart\u00f3k: String Quartets Nos. 2, 4, & 6",
+        "url": "https://open.spotify.com/album/2A0HR22J49ezOJHsztJ5KV"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Jerusalem Quartet",
+          "url": "https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE"
+        }
+      ],
+      "duration_ms": 351733,
+      "name": "String Quartet No. 4 in C Major, Op. 17, Sz. 91: String Quartet No. 4 in C Major, Op. 17, Sz. 91: V. Allegro molto",
+      "url": "https://open.spotify.com/track/5EO7sHpmpPWFI0mfCTV5NI"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bart\u00f3k: Piano Concertos Nos.1-3",
         "url": "https://open.spotify.com/album/4dBDOc5M1nODzn7vIA127n"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 556426,
       "name": "Piano Concerto No. 1, Sz. 83: I. Allegro moderato \u2013 Allegro",
       "url": "https://open.spotify.com/track/1digmGByFmf2Bu11vMGGxt"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bel\u00e1 Bart\u00f3k: String Quartets Nos. 2, 4, & 6",
-        "url": "https://open.spotify.com/album/2A0HR22J49ezOJHsztJ5KV"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Jerusalem Quartet",
-          "url": "https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE"
-        }
-      ],
-      "duration_ms": 351733,
-      "name": "String Quartet No. 4 in C Major, Op. 17, Sz. 91: String Quartet No. 4 in C Major, Op. 17, Sz. 91: V. Allegro molto",
-      "url": "https://open.spotify.com/track/5EO7sHpmpPWFI0mfCTV5NI"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Loquillo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,272 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,310 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 49 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 |
 | 50 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 |
 | 51 | [La rueca](https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 3:54 |
-| 52 | [Flores de Venganza](https://open.spotify.com/track/4qbTy8NMciMml7ZpMwVu2q) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Flores de Venganza](https://open.spotify.com/album/0S022kFJdy0bDv9y25fIhf) | 2:46 |
-| 53 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
+| 52 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
+| 53 | [Flores de Venganza](https://open.spotify.com/track/4qbTy8NMciMml7ZpMwVu2q) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Flores de Venganza](https://open.spotify.com/album/0S022kFJdy0bDv9y25fIhf) | 2:46 |
 | 54 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 |
 | 55 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
 | 56 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,462 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,551 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 4 | [Ojai](https://open.spotify.com/track/25OzqeRhXTJahO5uiOfYtw) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Ojai](https://open.spotify.com/album/4hDuXbI7PTaDuJgIwszRyp) | 3:29 |
 | 5 | [Beaches](https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx) | 5:33 |
 | 6 | [What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [What Sade said](https://open.spotify.com/album/6B0ulryUPr8fPvRYl2B5wN) | 3:45 |
-| 7 | [Move to It \- Radio Edit](https://open.spotify.com/track/1BEYrNkxcr1UBvAIAY4Wpg) | [David Fritz](https://open.spotify.com/artist/2k57DuaEMrDuuJuivQPPnA) | [Move to It \(Radio Edit\)](https://open.spotify.com/album/34UTddvfFqNsgTZW8ztSCT) | 2:37 |
-| 8 | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/track/5GKR3fh1WeVv9V8NGBUVBj) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/album/3kLKj3ipzd50tlEZnBrwPu) | 4:58 |
+| 7 | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/track/5GKR3fh1WeVv9V8NGBUVBj) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/album/3kLKj3ipzd50tlEZnBrwPu) | 4:58 |
+| 8 | [Move to It \- Radio Edit](https://open.spotify.com/track/1BEYrNkxcr1UBvAIAY4Wpg) | [David Fritz](https://open.spotify.com/artist/2k57DuaEMrDuuJuivQPPnA) | [Move to It \(Radio Edit\)](https://open.spotify.com/album/34UTddvfFqNsgTZW8ztSCT) | 2:37 |
 | 9 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
-| 10 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
-| 11 | [Take Me Home](https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Take Me Home](https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti) | 2:59 |
+| 10 | [Take Me Home](https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Take Me Home](https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti) | 2:59 |
+| 11 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
 | 12 | [A Vibe Thing](https://open.spotify.com/track/22nTQWFdnEhqXnV9g5eFAa) | [DJ Merci](https://open.spotify.com/artist/0aWG9QV2R47xsBMYaDSaPj) | [A Vibe Thing](https://open.spotify.com/album/7FHRfmURdeXSTCbvKXiNJN) | 5:44 |
 | 13 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
 | 14 | [Cami \- Edamame Remix](https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Edamame](https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn) | [Sloh Remixes](https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1) | 3:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,194 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,246 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 15 | [Me and My Kind](https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:36 |
 | 16 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
 | 17 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
-| 18 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 |
-| 19 | [In My Arms Instead](https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Randy Rogers Band](https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup) | 5:18 |
+| 18 | [In My Arms Instead](https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Randy Rogers Band](https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup) | 5:18 |
+| 19 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 |
 | 20 | [Hell of a Year](https://open.spotify.com/track/4RYTi6AJnzLu6qYtkjZGvZ) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/6C9MVfh8Zhx1Q8xtR6ZVV2) | 3:52 |
 | 21 | [Troubadour](https://open.spotify.com/track/4qjmnM1aYvayCTDd0uuRKH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Troubadour](https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ) | 2:56 |
 | 22 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 38 | [Freight Train](https://open.spotify.com/track/7eoYXgC7gir4LYY1KXGK97) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Underdog](https://open.spotify.com/album/3vOJnbTBrWwHPgNBHE9WwU) | 2:55 |
 | 39 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 |
 | 40 | [Broke Ass Kid](https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Broke Ass Kid](https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP) | 4:02 |
-| 41 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
-| 42 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 |
+| 41 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 |
+| 42 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
 | 43 | [She's Like Texas](https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [She's Like Texas](https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au) | 3:55 |
 | 44 | [Damn Good Goodbye](https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Blink You'll Miss It](https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq) | 3:32 |
 | 45 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 |
-| 46 | [Virginia](https://open.spotify.com/track/0sQkMsh3ojWIw7CIGsXArG) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 4:20 |
-| 47 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 |
+| 46 | [She Likes the Beatles](https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Rose Queen](https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5) | 4:16 |
+| 47 | [Virginia](https://open.spotify.com/track/0sQkMsh3ojWIw7CIGsXArG) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 4:20 |
 | 48 | [17](https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN) | [Cross Canadian Ragweed](https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0) | [Cross Canadian Ragweed](https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI) | 5:19 |
 | 49 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:07 |
 | 50 | [Green](https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq) | [Kody West](https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek) | [Green](https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA) | 3:36 |

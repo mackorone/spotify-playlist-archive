@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,942,479 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,942,066 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 62 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 |
 | 63 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 64 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
-| 65 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 |
+| 65 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 |
 | 66 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 |
-| 67 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 |
+| 67 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 |
 | 68 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |
 | 69 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 |
 | 70 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 |

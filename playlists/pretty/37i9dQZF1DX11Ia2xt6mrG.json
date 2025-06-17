@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z y Peso Pluma en portada.",
-  "num_followers": 65085,
+  "num_followers": 65100,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "me estoy volviendo loca",
-        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "la jefa del triple 4",
-      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 188706,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "me estoy volviendo loca",
+        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "la jefa del triple 4",
+      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148005,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
         "name": "Hell",
         "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 232542,
       "name": "Of The Void",
       "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
-        "name": "CONTIGO",
-        "url": "https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148005,
-      "name": "CONTIGO",
-      "url": "https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
         "name": "Lunita (J.Pool Remix)",
         "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 380878,
       "name": "Lunita - J.Pool Remix",
       "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vl9iHGKGA2EMqoOSeezkB"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "19Clouds",
-          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
-        }
-      ],
-      "duration_ms": 215201,
-      "name": "777",
-      "url": "https://open.spotify.com/track/6Hn0C04hbjPOcdR50e1kAb"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "Star Love",
         "url": "https://open.spotify.com/album/7hwYh5om26zH1pgmCvHrjs"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 184347,
       "name": "Star Love",
       "url": "https://open.spotify.com/track/4OiaBX9HD3FUoiFZJWRLoK"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vl9iHGKGA2EMqoOSeezkB"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "duration_ms": 215201,
+      "name": "777",
+      "url": "https://open.spotify.com/track/6Hn0C04hbjPOcdR50e1kAb"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
+        "name": "Que se Joda",
+        "url": "https://open.spotify.com/album/7num6L1ZNnss90SnUbDZaz"
+      },
+      "artists": [
+        {
+          "name": "Ferjo",
+          "url": "https://open.spotify.com/artist/4SQ2RvEWzhWelGM4GOtwGU"
+        }
+      ],
+      "duration_ms": 149186,
+      "name": "Que se Joda",
+      "url": "https://open.spotify.com/track/74mIVTboKy9j3qlJcFz7kA"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
         "name": "LA MALA VIDA",
         "url": "https://open.spotify.com/album/1sy88TQtIIpUGKiHgRFWbw"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 186902,
       "name": "LA MALA VIDA",
       "url": "https://open.spotify.com/track/3QVNEQyPraEeAQZfLRjQeU"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
-        "name": "Que se Joda",
-        "url": "https://open.spotify.com/album/7num6L1ZNnss90SnUbDZaz"
-      },
-      "artists": [
-        {
-          "name": "Ferjo",
-          "url": "https://open.spotify.com/artist/4SQ2RvEWzhWelGM4GOtwGU"
-        }
-      ],
-      "duration_ms": 149186,
-      "name": "Que se Joda",
-      "url": "https://open.spotify.com/track/74mIVTboKy9j3qlJcFz7kA"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "lowkey",
-        "url": "https://open.spotify.com/album/7mnD8HQb58X3WGy4adKpJm"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "lowkey",
-      "url": "https://open.spotify.com/track/5UjcsPvGJUyqt0gyXtHxLh"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "Bora Nessa",
         "url": "https://open.spotify.com/album/1cNMT60ZuWPDNG998L0q3T"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 234250,
       "name": "Bora Nessa",
       "url": "https://open.spotify.com/track/4OYFxsFpZvKuXgBfY6dCAs"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "lowkey",
+        "url": "https://open.spotify.com/album/7mnD8HQb58X3WGy4adKpJm"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "lowkey",
+      "url": "https://open.spotify.com/track/5UjcsPvGJUyqt0gyXtHxLh"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "flashes",
-        "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "flashes",
-      "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "Cartagena (Sylvan Esso Edit)",
         "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 141232,
       "name": "RUTA TECHNOMAMI",
       "url": "https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "flashes",
+        "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "flashes",
+      "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
     },
     {
       "added_at": "2025-05-30 06:00:13",

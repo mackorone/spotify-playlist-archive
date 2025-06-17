@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 549710,
+  "num_followers": 549813,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
+        "name": "This Is What You Came For",
+        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
-        "name": "This Is What You Came For",
-        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "This Is What You Came For",
-      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 271426,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 227073,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -763,22 +743,22 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Scared to Be Lonely",
-        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         }
       ],
-      "duration_ms": 220883,
-      "name": "Scared to Be Lonely",
-      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -795,6 +775,26 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Scared to Be Lonely",
+        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 220883,
+      "name": "Scared to Be Lonely",
+      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -2963,26 +2963,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/23c9fzxlE27spU05ATg1b2"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 210236,
-      "name": "Conversations in the Dark - John Legend vs. David Guetta",
-      "url": "https://open.spotify.com/track/20d27F17AZOxTJOEHAVK2Y"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "My Universe (Galantis Remix)",
         "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
       },
@@ -3003,6 +2983,26 @@
       "duration_ms": 224908,
       "name": "My Universe - Galantis Remix",
       "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/23c9fzxlE27spU05ATg1b2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 210236,
+      "name": "Conversations in the Dark - John Legend vs. David Guetta",
+      "url": "https://open.spotify.com/track/20d27F17AZOxTJOEHAVK2Y"
     },
     {
       "added_at": "2024-12-12 21:46:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,094 likes - 93 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,093 likes - 93 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 33 | [Small Doses](https://open.spotify.com/track/1rKqsfuQVUFhROVwcoGJGY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 1](https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS) | 3:17 |
 | 34 | [Ferrari](https://open.spotify.com/track/3hfPmifit8Rtc0zj9WYQlU) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:32 |
 | 35 | [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 |
-| 36 | [Yesterday \(feat\. Bebe Rexha\)](https://open.spotify.com/track/6CZh6hYZajOjpEcPmnRMnt) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 4:03 |
-| 37 | [Lucifer](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 |
+| 36 | [Lucifer](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 |
+| 37 | [Yesterday \(feat\. Bebe Rexha\)](https://open.spotify.com/track/6CZh6hYZajOjpEcPmnRMnt) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 4:03 |
 | 38 | [Atmosphere](https://open.spotify.com/track/45OALDywAY1JVLqI8eKF9y) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 1](https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS) | 3:11 |
 | 39 | [Sweet Beginnings](https://open.spotify.com/track/2LFEAXVwSf9ykTDPu4etrg) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:50 |
 | 40 | [Not 20 Anymore](https://open.spotify.com/track/7vWbERTWGCiu6fil02e9kj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Not 20 Anymore](https://open.spotify.com/album/50fjXOO6vhakOGaz3ATZlM) | 3:03 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 92 | [Right Here, Right Now](https://open.spotify.com/track/0n324gn22EDTQsNHvyFvQ0) | [Jeremy Johnson](https://open.spotify.com/artist/7xepAnhCIzCv3zUtpZyq4N) | [Mixtape For War](https://open.spotify.com/album/2D75KXRDeYBHvgttp7gq4l) | 3:49 |
 | 93 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `Ab0PKAAAAACSsL9wDTnsViVZWXxbBhf/`
+Snapshot ID: `Ab0UyAAAAADnwFfJocIEpkWqf1hDiec9`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-518 songs - 1 day 0 hr 41 min
+519 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Bate Palminha pra Ela](https://open.spotify.com/track/1HWXovIGDnctwV4CqHF3nV) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [GD Trilogia](https://open.spotify.com/album/3K9vzIZ8MJpkgYvH3jMWTH) | 3:03 | 2024-01-29 |  |
 | [Beba Mais](https://open.spotify.com/track/6rR6G2Jczsf9ldmewLhIRe) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beba Mais](https://open.spotify.com/album/27rNQ2moFYiYsdIMeIACUJ) | 2:55 | 2024-01-29 |  |
 | [Beijadamente Calculado \- Ao Vivo](https://open.spotify.com/track/3CnSYOH099qNCbPI68itcZ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Menos É Mais \(Ao Vivo\)](https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB) | 2:28 | 2024-01-29 |  |
-| [BEIJO CALCULADO \- DVD O Inicio \( Ao Vivo\)](https://open.spotify.com/track/1bPEznvBF0INYzC8JpsJ2e) | [Gustavinho](https://open.spotify.com/artist/5XR86KewB6ArrHEft4kv8Y) | [BEIJO CALCULADO \[DVD O Inicio \( Ao Vivo\)\]](https://open.spotify.com/album/6UfXZuLbRyiiGjP7CdmiMw) | 2:46 | 2025-05-31 |  |
+| [BEIJO CALCULADO](https://open.spotify.com/track/6ByviRAM3MgkuDxeAmkgDp) | [Paulo Gustavo](https://open.spotify.com/artist/7f8R6cUA0DMb4oLdmuZRnE) | [BEIJO CALCULADO](https://open.spotify.com/album/6LrM8mHSttSpEzzf2k6LTv) | 2:46 | 2025-06-16 |  |
+| [BEIJO CALCULADO \- DVD O Inicio \( Ao Vivo\)](https://open.spotify.com/track/1bPEznvBF0INYzC8JpsJ2e) | [Gustavinho](https://open.spotify.com/artist/5XR86KewB6ArrHEft4kv8Y) | [BEIJO CALCULADO \[DVD O Inicio \( Ao Vivo\)\]](https://open.spotify.com/album/6UfXZuLbRyiiGjP7CdmiMw) | 2:46 | 2025-05-31 | 2025-06-17 |
 | [Beijo Copiado](https://open.spotify.com/track/30u65Sc9NT96nZu6sURWsa) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Beijo Copiado](https://open.spotify.com/album/5dePgI40qsgDa83TUSgKzf) | 2:38 | 2024-01-29 | 2024-02-26 |
 | [Beijo Copiado \(Ao Vivo\)](https://open.spotify.com/track/36blJmFwv2kgydOpsmbLL4) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:38 | 2024-02-25 |  |
 | [Beijo de Língua](https://open.spotify.com/track/0IANhNRC4Wl1H1sTnWzsZ3) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [10/10](https://open.spotify.com/album/1vtCgnZBLk7Vio272EhOr4) | 3:10 | 2025-01-09 | 2025-04-12 |

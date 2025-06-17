@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,072 likes - 54 songs - 3 hr 15 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,085 likes - 56 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 52 | [The Jaunt](https://open.spotify.com/track/3FGtaWXYYsnxGjnlhDWwT7) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In the Moment](https://open.spotify.com/album/6etxf5sFetv1fKaOT5TtWe) | 2:42 |
 | 53 | [Believer \- Fingers Deep\-Funk Remix](https://open.spotify.com/track/6Pg1k2lHck2HUrAcMuWz4o) | [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Believer / Can U Read Me?](https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil) | 8:38 |
 | 54 | [Kiss Me on the Bus](https://open.spotify.com/track/7b8BgGpMDmNjkOzfMfxCzi) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim](https://open.spotify.com/album/1yO2d1lmmu0tkDf3trvOm7) | 2:53 |
+| 55 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
+| 56 | [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 |
 
-Snapshot ID: `AAAMmhVeFLWlAaidmhhQeJ3FCNZvt5AQ`
+Snapshot ID: `AAAMnNqzXvbES8vjrmlGUP8STqEvVwWa`

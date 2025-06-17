@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udc5f",
-  "num_followers": 743012,
+  "num_followers": 743295,
   "original_name": "Indie Running",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-01-08 15:41:24",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
-    },
-    {
-      "added_at": "2025-01-08 15:41:24",
-      "album": {
         "name": "Junk Of The Heart",
         "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 187253,
       "name": "Junk Of The Heart (Happy)",
       "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
+    },
+    {
+      "added_at": "2025-01-08 15:41:24",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
     },
     {
       "added_at": "2025-01-08 15:41:24",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-01-08 15:41:24",
       "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
+    },
+    {
+      "added_at": "2025-01-08 15:41:24",
+      "album": {
         "name": "Baby I'm Yours",
         "url": "https://open.spotify.com/album/0sCktPXUOt19W503or8h9b"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 215786,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe"
-    },
-    {
-      "added_at": "2025-01-08 15:41:24",
-      "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
     },
     {
       "added_at": "2025-01-08 15:41:24",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2025-01-08 15:41:24",
       "album": {
-        "name": "How Do You Feel Now?",
-        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
-      },
-      "artists": [
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        },
-        {
-          "name": "KOPPS",
-          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Tongues",
-      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
-    },
-    {
-      "added_at": "2025-01-08 15:41:24",
-      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+    },
+    {
+      "added_at": "2025-01-08 15:41:24",
+      "album": {
+        "name": "How Do You Feel Now?",
+        "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
+      },
+      "artists": [
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "KOPPS",
+          "url": "https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Tongues",
+      "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
     },
     {
       "added_at": "2025-01-08 15:41:24",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-01-08 15:41:24",
       "album": {
-        "name": "Out Of My League",
-        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 181135,
-      "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
-    },
-    {
-      "added_at": "2025-01-08 15:41:24",
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
+    },
+    {
+      "added_at": "2025-01-08 15:41:24",
+      "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": "2025-01-08 15:41:24",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-01-08 15:41:24",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2025-01-08 15:41:24",
-      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 77809,
       "name": "megaman",
       "url": "https://open.spotify.com/track/7rbt19kiQ2k7XjYKUcIhkY"
+    },
+    {
+      "added_at": "2025-01-08 15:41:24",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2025-01-08 15:41:24",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-01-08 15:41:24",
       "album": {
-        "name": "Partie Traumatic",
-        "url": "https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1"
-      },
-      "artists": [
-        {
-          "name": "Black Kids",
-          "url": "https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "I'm Not Gonna Teach Your Boyfriend How To Dance With You",
-      "url": "https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC"
-    },
-    {
-      "added_at": "2025-01-08 15:41:24",
-      "album": {
         "name": "Shaky Ground",
         "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 192893,
       "name": "Shaky Ground",
       "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
+    },
+    {
+      "added_at": "2025-01-08 15:41:24",
+      "album": {
+        "name": "Partie Traumatic",
+        "url": "https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1"
+      },
+      "artists": [
+        {
+          "name": "Black Kids",
+          "url": "https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "I'm Not Gonna Teach Your Boyfriend How To Dance With You",
+      "url": "https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC"
     },
     {
       "added_at": "2025-01-08 15:41:24",

@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: Ceren Sagu
 
-94 songs - 4 hr 30 min
+95 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ara Sıcak](https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ara Sıcak](https://open.spotify.com/album/3ymtkW72HtG3DoRJm4rD1c) | 3:36 | 2024-10-23 |  |
 | [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 | 2024-12-19 |  |
 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 | 2024-10-23 | 2025-01-10 |
-| [Astigmat](https://open.spotify.com/track/5gf4J44vNmaqOEupZS9KXJ) | [kerem.](https://open.spotify.com/artist/3Y7BOP46zC3Tbze2TW8CQr), [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Astigmat](https://open.spotify.com/album/2pon3ie4lL3wU78c0BMuWZ) | 2:38 | 2025-04-17 |  |
+| [Astigmat](https://open.spotify.com/track/5gf4J44vNmaqOEupZS9KXJ) | [kerem.](https://open.spotify.com/artist/3Y7BOP46zC3Tbze2TW8CQr), [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Astigmat](https://open.spotify.com/album/2pon3ie4lL3wU78c0BMuWZ) | 2:38 | 2025-04-17 | 2025-06-17 |
 | [aşk olsun](https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [aşk olsun](https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk) | 3:00 | 2024-11-28 | 2025-04-11 |
 | [Bağımlıyım Tenine](https://open.spotify.com/track/31kOqM6XzCyKXMxYnhIDF9) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bağımlıyım Tenine](https://open.spotify.com/album/4Muz2oRuw0rh2j0yobqZ6L) | 2:07 | 2024-10-23 |  |
 | [Belki Bi' Gün Anlarsın](https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Belki Bi' Gün Anlarsın](https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg) | 2:25 | 2024-06-20 | 2024-10-24 |
@@ -63,6 +63,7 @@
 | [N'aptım Ben Sana?](https://open.spotify.com/track/3yMa3jz5ivK0QrUUlT4Npx) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [N'aptım Ben Sana?](https://open.spotify.com/album/7FTnDptilAIZCpQ2Z6Yqj7) | 2:33 | 2024-06-20 |  |
 | [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 | 2024-10-23 |  |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-06-20 |  |
+| [neden](https://open.spotify.com/track/0xLUenokW0efdVZoxtRI3s) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [neden](https://open.spotify.com/album/0UwpSPaQXWVpT3wTEMvdti) | 3:06 | 2025-06-16 |  |
 | [Nehir](https://open.spotify.com/track/4pVlO2clQr2IvLUtd0F2rs) | [Beyza Doğuç](https://open.spotify.com/artist/58hQlMTfVuyOTvJihGj5Te) | [Nehir](https://open.spotify.com/album/4YbYoMr2f3EP8vMn2Ocyhl) | 2:48 | 2024-10-23 |  |
 | [Nerdesin](https://open.spotify.com/track/333y41DcVB1R1Ly1vPNFKO) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Nerdesin](https://open.spotify.com/album/5CLxL72LeuNhfE9ijddWaP) | 3:25 | 2024-10-23 |  |
 | [nereden nereye?](https://open.spotify.com/track/0VEPsaV2JMFh5Yx5tH96SB) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [nereden nereye?](https://open.spotify.com/album/6yLQIHsWRfEMxcWkQgepEx) | 2:43 | 2024-06-20 | 2024-10-24 |

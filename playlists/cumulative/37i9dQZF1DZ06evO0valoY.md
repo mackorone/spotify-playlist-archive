@@ -4,7 +4,7 @@
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 37 min
+80 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Tonto Perdedor](https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:22 | 2022-06-01 |  |
 | [Tres de la Mañana](https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:36 | 2022-06-01 | 2025-03-17 |
 | [Tu Me Encantas](https://open.spotify.com/track/0bRtcwaIFscw3nbxDP4FFT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Amor Perdido](https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL) | 3:48 | 2024-10-07 | 2025-03-16 |
+| [Una Cervecita](https://open.spotify.com/track/3XMFShBXPFGuqRPcVwmVtL) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:49 | 2025-06-17 |  |
 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 | 2023-02-12 | 2025-03-16 |
 | [Una Peda](https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:56 | 2022-06-01 |  |
 | [VETE A LA FREGADA](https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 2:46 | 2022-06-01 |  |

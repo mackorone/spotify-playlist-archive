@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2027443,
+  "num_followers": 2027463,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "Joker And The Thief",
-      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Greatest Hits 1974-78",
         "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 215666,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "Joker And The Thief",
+      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Mister Asylum",
-        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Lydia",
-      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Machine Head",
         "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 342173,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 268421,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Fool for the City",
         "url": "https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 494533,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 268421,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "One Last Dance (From \"Venom: The Last Dance\")",
         "url": "https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 150636,
       "name": "One Last Dance (From \"Venom: The Last Dance\")",
       "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "DARK SIDE OF THE BRAIN",
-        "url": "https://open.spotify.com/album/3poxfySpYvMDmsyyefE1Xw"
-      },
-      "artists": [
-        {
-          "name": "FLAT BLACK",
-          "url": "https://open.spotify.com/artist/7dZynKGWc8X8jsdH0WLuzo"
-        }
-      ],
-      "duration_ms": 257420,
-      "name": "A BIT OF LIGHTNING",
-      "url": "https://open.spotify.com/track/6nec44wvnLf92ohS4ODUfA"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Mammoth II",
         "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 275739,
       "name": "I\u2019m Alright",
       "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "DARK SIDE OF THE BRAIN",
+        "url": "https://open.spotify.com/album/3poxfySpYvMDmsyyefE1Xw"
+      },
+      "artists": [
+        {
+          "name": "FLAT BLACK",
+          "url": "https://open.spotify.com/artist/7dZynKGWc8X8jsdH0WLuzo"
+        }
+      ],
+      "duration_ms": 257420,
+      "name": "A BIT OF LIGHTNING",
+      "url": "https://open.spotify.com/track/6nec44wvnLf92ohS4ODUfA"
     },
     {
       "added_at": "2025-02-14 05:00:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,303 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,348 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 23 | [Long Live Palestine 3](https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r) | [Lowkey](https://open.spotify.com/artist/7lNJ1ZVAHcx6V4HqC68xRY), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Frankie Boyle](https://open.spotify.com/artist/7okniEZkjEUIZXNpsVKjI1), [Ken Loach](https://open.spotify.com/artist/6W66JbzBvKpYs75Ul4pw5L), [Chakabars](https://open.spotify.com/artist/6e2pNGkBvvdl107bXjnrZ9), [Khāled Siddīq](https://open.spotify.com/artist/2XYgHUbsmab6VT4a3FF9mX), [Mai Khalil](https://open.spotify.com/artist/5IjaZgpaSsPqSk9xVhyAk3) | [Soundtrack to the Struggle 2](https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu) | 5:17 |
 | 24 | [The Pen & The Sword](https://open.spotify.com/track/1VgwKZoRyDjkOvVWlBs0Y9) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [The Pen & The Sword](https://open.spotify.com/album/0701R6QU1xnQFYxy8mVTaW) | 2:55 |
 | 25 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 |
-| 26 | [Bad Timing](https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 4:32 |
-| 27 | [Don't Care Where You From](https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 4:23 |
+| 26 | [Don't Care Where You From](https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 4:23 |
+| 27 | [Bad Timing](https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 4:32 |
 | 28 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
 | 29 | [Can I Live](https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Can I Live](https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O) | 1:52 |
 | 30 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |

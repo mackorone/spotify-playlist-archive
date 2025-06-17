@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,835 likes - 35 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,844 likes - 35 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 | 34 | [Awa Ni \- Ariwo Mix](https://open.spotify.com/track/0Iw62l5XpuoYXSWXpwsvyQ) | [The West Tribe](https://open.spotify.com/artist/63iZ2iR8ip5CNTjWXMUiQs) | [Awa Ni](https://open.spotify.com/album/3Z3RNJQevVsHxNhmL2LtIM) | 7:23 |
 | 35 | [cada vez \- Ouri Remix](https://open.spotify.com/track/23sW3PCPf2LFMDThSrglNn) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [cada vez](https://open.spotify.com/album/2APCEmVVYMXR0MAyppVwtt) | 3:43 |
 
-Snapshot ID: `Z23gCAAAAAArWmFy2whTOEurBoiJt4iN`
+Snapshot ID: `Z23gCAAAAAAk1CoeqBgj+KwjfEigVeHO`

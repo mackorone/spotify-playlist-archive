@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz",
-  "num_followers": 178883,
+  "num_followers": 178913,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
-        "name": "Distant Lover Pt. II",
-        "url": "https://open.spotify.com/album/0IZh3n1VUArI0yJ2afCCWl"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 178085,
-      "name": "Distant Lover Pt. II",
-      "url": "https://open.spotify.com/track/5ez2IWCbto4lXgpzo7FSIy"
-    },
-    {
-      "added_at": "2025-06-13 03:01:32",
-      "album": {
         "name": "O Sil\u00eancio Que Grita",
         "url": "https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 190196,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/4HYZYfXAeETot63750cbxe"
+    },
+    {
+      "added_at": "2025-06-13 03:01:32",
+      "album": {
+        "name": "Distant Lover Pt. II",
+        "url": "https://open.spotify.com/album/0IZh3n1VUArI0yJ2afCCWl"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 178085,
+      "name": "Distant Lover Pt. II",
+      "url": "https://open.spotify.com/track/5ez2IWCbto4lXgpzo7FSIy"
     },
     {
       "added_at": "2025-06-13 03:01:32",
@@ -335,6 +335,30 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/5xgBu9qPQQWVYEVyslTCbm"
+      },
+      "artists": [
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 199722,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1m2FR3KOBqFjMjpzdeRPf4"
+    },
+    {
+      "added_at": "2025-06-13 03:01:32",
+      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 225566,
       "name": "Porque Me Responde Ainda",
       "url": "https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE"
-    },
-    {
-      "added_at": "2025-06-13 03:01:32",
-      "album": {
-        "name": "Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/5xgBu9qPQQWVYEVyslTCbm"
-      },
-      "artists": [
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 199722,
-      "name": "Nossa Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1m2FR3KOBqFjMjpzdeRPf4"
     },
     {
       "added_at": "2025-06-13 03:01:32",
@@ -771,6 +771,26 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
+        "name": "Daqui pra Frente - Dread Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
+      },
+      "artists": [
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 181514,
+      "name": "Daqui pra Frente - Dread Session, Vol. 1",
+      "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
+    },
+    {
+      "added_at": "2025-06-13 03:01:32",
+      "album": {
         "name": "REAL R&B, Vol. 2",
         "url": "https://open.spotify.com/album/4CDQVOBaMeTZRfO5yM33us"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 157408,
       "name": "SLOW DOWN",
       "url": "https://open.spotify.com/track/2oZrrzcXDbRb1IAvM6OwTF"
-    },
-    {
-      "added_at": "2025-06-13 03:01:32",
-      "album": {
-        "name": "Daqui pra Frente - Dread Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
-      },
-      "artists": [
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 181514,
-      "name": "Daqui pra Frente - Dread Session, Vol. 1",
-      "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
     },
     {
       "added_at": "2025-06-13 03:01:32",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
-    },
-    {
-      "added_at": "2025-06-13 03:01:32",
-      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2025-06-13 03:01:32",
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
     },
     {
       "added_at": "2025-06-13 03:01:32",
@@ -1019,6 +1019,30 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
+        "name": "Desse Meu Mel",
+        "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
+      },
+      "artists": [
+        {
+          "name": "BIA DOXUM",
+          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
+        },
+        {
+          "name": "Vibox",
+          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
+        },
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 282352,
+      "name": "sexta de manh\u00e3",
+      "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
+    },
+    {
+      "added_at": "2025-06-13 03:01:32",
+      "album": {
         "name": "NEM TUDO \u00c9 AMOR",
         "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
       },
@@ -1059,30 +1083,6 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
-        "name": "Desse Meu Mel",
-        "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
-      },
-      "artists": [
-        {
-          "name": "BIA DOXUM",
-          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
-        },
-        {
-          "name": "Vibox",
-          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
-        },
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 282352,
-      "name": "sexta de manh\u00e3",
-      "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
-    },
-    {
-      "added_at": "2025-06-13 03:01:32",
-      "album": {
         "name": "Lingerie Branca",
         "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
-        "name": "Tenho Tanto de Voc\u00ea em Mim",
-        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Tenho Tanto de Voc\u00ea em Mim",
-      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
-    },
-    {
-      "added_at": "2025-06-13 03:01:32",
-      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 144578,
       "name": "Novela",
       "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2025-06-13 03:01:32",
+      "album": {
+        "name": "Tenho Tanto de Voc\u00ea em Mim",
+        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Tenho Tanto de Voc\u00ea em Mim",
+      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
     },
     {
       "added_at": "2025-06-13 03:01:32",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2025-06-13 03:01:32",
-      "album": {
         "name": "Localiza\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4nHJtZDehFW2uIFVLYMmDy"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "added_at": "2025-06-13 03:01:32",
+      "album": {
         "name": "Me Diz Que C\u00ea Sente",
         "url": "https://open.spotify.com/album/2PI5jCE7LGXJVY2Z6WEpLr"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2025-06-13 03:01:32",
-      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2025-06-13 03:01:32",
+      "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2025-06-13 03:01:32",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-06-13 03:01:32",
       "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
-    },
-    {
-      "added_at": "2025-06-13 03:01:32",
-      "album": {
         "name": "Golpe",
         "url": "https://open.spotify.com/album/5zEnp2Q439CV7RhDYe8oqW"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 143741,
       "name": "Golpe",
       "url": "https://open.spotify.com/track/08ZMOYMV4PK54Vb4XuiVYN"
+    },
+    {
+      "added_at": "2025-06-13 03:01:32",
+      "album": {
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2025-06-13 03:01:32",

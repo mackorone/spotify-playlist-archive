@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,934 likes - 44 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,940 likes - 44 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 43 | [Already Dead](https://open.spotify.com/track/3XcygjaRB9xT9xYQj0UPsO) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:51 |
 | 44 | [Whisper Of Death](https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 4:18 |
 
-Snapshot ID: `aEy7gAAAAAB4Je2hSGOJ50zUkezWkaFX`
+Snapshot ID: `aE4NAAAAAAAH+jmwL2fQu524mKLKLMF/`

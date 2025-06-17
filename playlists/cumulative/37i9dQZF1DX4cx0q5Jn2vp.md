@@ -4,7 +4,7 @@
 
 > yiheeeeeeee
 
-212 songs - 12 hr 29 min
+213 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-04-04 |  |
 | [Give Me Your Forever](https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 4:04 | 2022-04-04 |  |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2022-04-04 | 2022-11-13 |
+| [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-16 |  |
 | [gone too long](https://open.spotify.com/track/2EXvZ3ZSOEVGnFZXVVyzTf) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [gone too long](https://open.spotify.com/album/4ONi7DThlpcPq7O3Dhf7Na) | 2:27 | 2022-04-04 | 2022-07-18 |
 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 | 2022-06-27 | 2022-09-06 |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-06-28 | 2024-07-11 |
@@ -147,7 +148,7 @@
 | [My Favorite Movie](https://open.spotify.com/track/4rogQcTh9fZvqH6aCUGxuB) | [Gilyan Saludes](https://open.spotify.com/artist/0O9bX2IzP7MxBcpAel5twJ) | [My Favorite Movie](https://open.spotify.com/album/12FgPn7XtNi0REhdTw4DMG) | 3:50 | 2022-04-04 | 2022-07-28 |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-09-13 | 2024-04-19 |
 | [Nahuhulog](https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/07p7jUJyKz9qVwieHNpxs8) | 3:47 | 2023-08-09 | 2023-09-17 |
-| [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2024-09-04 |  |
+| [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2024-09-04 | 2025-06-17 |
 | [Ni Yao De Ai](https://open.spotify.com/track/0GiRQNwTZvDFXojuuJaSFg) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [Ni Yao De Ai](https://open.spotify.com/album/0dAg90pgcs9HdH7OzwovWj) | 4:10 | 2024-02-14 | 2024-04-19 |
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-09-18 | 2024-10-24 |
 | [Nothing's Gonna Stop Us Now \(Theme from Crazy Beautiful You\)](https://open.spotify.com/track/0bN5xQD1krvZNn8bsiWfVb) | [Daniel Padilla](https://open.spotify.com/artist/5yVM85m9yNcHO6o0vaaVxW), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Nothing's Gonna Stop Us Now \(Theme from Crazy Beautiful You\) \- Single](https://open.spotify.com/album/3lfOcun9UzVA8x0JLrOicl) | 4:19 | 2022-04-04 | 2022-07-22 |

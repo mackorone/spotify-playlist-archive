@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: Mayorkun
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,285 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,415 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 20 | [Bon Appetit](https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Bon Appetit](https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM) | 2:32 |
 | 21 | [Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:55 |
 | 22 | [who does that? \(feat\. Bella Shmurda\)](https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [what a feeling](https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp) | 2:39 |
-| 23 | [Bad Girl \(feat\. Asake\)](https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
+| 23 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 |
 | 24 | [Adamma, Asanwa, Asampete](https://open.spotify.com/track/6aQKRinH6dP5nU3mZdQMYB) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 3:55 |
 | 25 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 |
-| 26 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 |
+| 26 | [Bad Girl \(feat\. Asake\)](https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
 | 27 | [Dangbana Riddim](https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Dangbana Riddim](https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D) | 2:40 |
 | 28 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 |
 | 29 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 39 | [Stronger](https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:21 |
 | 40 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 41 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 |
-| 42 | [Update](https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/2HX58CDc9At5raER932yCf) | 3:27 |
-| 43 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
+| 42 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
+| 43 | [Update](https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/2HX58CDc9At5raER932yCf) | 3:27 |
 | 44 | [Money Moves](https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Money Moves](https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX) | 2:43 |
 | 45 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
 | 46 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 |

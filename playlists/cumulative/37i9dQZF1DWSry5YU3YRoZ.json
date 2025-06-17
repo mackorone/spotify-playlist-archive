@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/3BuWIrIvCYXWcIFr88WZ91"
+      },
+      "artists": [
+        {
+          "name": "Lee Yerin",
+          "url": "https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237813,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/3qHSUvfhOTkNVOAtsVdxKp"
+    },
+    {
+      "album": {
         "name": "For my little one",
         "url": "https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU"
       },
@@ -1111,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "\u96e8\u5f8c uhuu",
+        "url": "https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "light",
+      "url": "https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7"
+    },
+    {
+      "album": {
         "name": "Like a tree",
         "url": "https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW"
       },
@@ -1338,7 +1374,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 166961,
       "name": "My (Prod. Norwegian Wood)",
       "url": "https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh"
@@ -1788,7 +1824,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 202413,
       "name": "The Night Time (stripped)",
       "url": "https://open.spotify.com/track/1TPwouflbk2VA3RDCMx7IR"

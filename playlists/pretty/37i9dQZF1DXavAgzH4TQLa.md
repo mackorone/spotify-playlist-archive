@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,264 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,272 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 6 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 |
 | 7 | [Te hubieras ido antes](https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Te Sigo Enamorando](https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ) | 5:11 |
 | 8 | [Bonita](https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:22 |
-| 9 | [Esa Te Dejó](https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Regalo de Dios](https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1) | 2:58 |
-| 10 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
+| 9 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
+| 10 | [Esa Te Dejó](https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Regalo de Dios](https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1) | 2:58 |
 | 11 | [Ya No Más](https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Ya No Más](https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl) | 2:38 |
 | 12 | [Un Beso y una Flor](https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 4:08 |
 | 13 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
-| 14 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 |
-| 15 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 |
+| 14 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 |
+| 15 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 |
 | 16 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
 | 17 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
 | 18 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 49 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 |
 | 50 | [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/5fI4LBI23D3JkgRCePYvPV) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [Pasión Cuartetera](https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs) | 4:02 |
 | 51 | [La pollera amarilla](https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE), [Gladys La Bomba Tucumana](https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ) | [Un sueño hecho realidad](https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj) | 3:06 |
-| 52 | [Despues de Ti / Pero Me Acuerdo de Ti/ a Puro Dolor](https://open.spotify.com/track/5GDNQTJxjaRWhXrEK26NeV) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Despues de Ti / Pero Me Acuerdo de Ti / a Puro Dolor](https://open.spotify.com/album/6k53cVKHS6nwAwzcqqGguZ) | 4:12 |
-| 53 | [Eres Mi Amor](https://open.spotify.com/track/6EYjGhtDE4kuCg8aVsl1wE) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Eres Mi Amor](https://open.spotify.com/album/5b3RpCBKpJae2pzAhGDwnm) | 3:00 |
+| 52 | [Eres Mi Amor](https://open.spotify.com/track/6EYjGhtDE4kuCg8aVsl1wE) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Eres Mi Amor](https://open.spotify.com/album/5b3RpCBKpJae2pzAhGDwnm) | 3:00 |
+| 53 | [Despues de Ti / Pero Me Acuerdo de Ti/ a Puro Dolor](https://open.spotify.com/track/5GDNQTJxjaRWhXrEK26NeV) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Despues de Ti / Pero Me Acuerdo de Ti / a Puro Dolor](https://open.spotify.com/album/6k53cVKHS6nwAwzcqqGguZ) | 4:12 |
 | 54 | [No Puedo Olvidarla](https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Tropicalisima 2015](https://open.spotify.com/album/1uu0RbV3je5BzBA3sp45Al) | 3:23 |
 | 55 | [Alza las manos](https://open.spotify.com/track/5x5p0KnLpo4risHjqRjD1o) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:35 |
 | 56 | [Si Hay Alguien en Tu Vida](https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:38 |

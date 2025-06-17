@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 484003,
+  "num_followers": 483987,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABHePXxE06JXN2YqBiB9YaN",
+  "snapshot_id": "aE4NAAAAAAAfcfSxsMloZanomfRQMIjF",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 121112,
+      "name": "Grrrls",
+      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 191506,
       "name": "Blame It on Your Love (feat. Lizzo)",
       "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 121112,
-      "name": "Grrrls",
-      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fitness",
-        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 156284,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 165689,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fitness",
+        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 156284,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stayin' Alive (from Happy Death Day 2U)",
-        "url": "https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 197428,
-      "name": "Stayin' Alive (from Happy Death Day 2U)",
-      "url": "https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 148490,
       "name": "I Love You Bitch",
       "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stayin' Alive (from Happy Death Day 2U)",
+        "url": "https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 197428,
+      "name": "Stayin' Alive (from Happy Death Day 2U)",
+      "url": "https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187544,
+      "name": "Birthday Girl",
+      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3rd Ward Bounce",
         "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 185890,
       "name": "Karaoke (feat. Lizzo)",
       "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187544,
-      "name": "Birthday Girl",
-      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
     },
     {
       "added_at": null,

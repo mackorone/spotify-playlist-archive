@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-190 songs - 9 hr 28 min
+191 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Alba](https://open.spotify.com/track/6ZdAV8NlQT0VxSGNiDYPiq) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Alba](https://open.spotify.com/album/6uGJJWjqHEVAXWREA4uISy) | 3:26 | 2022-03-03 |  |
 | [Alejandra](https://open.spotify.com/track/2KNQI5eVgoNyvZY4HJFHpz) | [C.J.Idleman](https://open.spotify.com/artist/24MFSL1z1Lc6ClCc4apYXo) | [Alejandra](https://open.spotify.com/album/5C54XbCesiYYs3GOUa96zN) | 3:24 | 2022-03-03 | 2022-07-09 |
 | [Alta Gracia](https://open.spotify.com/track/010yj9FYqZdw3WfYSxD1xD) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Alta Gracia](https://open.spotify.com/album/3uBkXH5pj3w8MgWmNIxIAo) | 2:22 | 2022-03-03 | 2025-06-12 |
+| [Amber Afternoon](https://open.spotify.com/track/74Q9Y6XcgD3T68a5twl6f5) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Amber Afternoon](https://open.spotify.com/album/2DBHJXcyFo5xe8Ki7RpvFq) | 2:53 | 2025-06-16 |  |
 | [Andando A Tu Lado](https://open.spotify.com/track/32CK4JLguMsOoTD4zXjrPm) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Andando A Tu Lado](https://open.spotify.com/album/6zHcw5fNDePnJnYZWE1Fpm) | 3:11 | 2022-03-03 | 2025-04-08 |
 | [Anita](https://open.spotify.com/track/2bFCZbUVSciR3EYIhx3phY) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:06 | 2022-03-03 | 2025-06-12 |
 | [Anoranza](https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Anoranza](https://open.spotify.com/album/29qvE6ctOnyrUJWZODkMhV) | 2:48 | 2022-03-03 |  |

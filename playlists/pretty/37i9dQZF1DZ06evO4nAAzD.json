@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4269,
+  "num_followers": 4268,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABLYNSbRR21nPMWSe9eHL40",
+  "snapshot_id": "aE4NAAAAAACQl7bn+F6kTRhzTBxewum3",
   "tracks": [
     {
       "added_at": null,
@@ -1083,30 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quer Ibope",
-        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
-      },
-      "artists": [
-        {
-          "name": "MARIAH",
-          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 223218,
-      "name": "Quer Ibope",
-      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Dj Br da Tijuca 4",
         "url": "https://open.spotify.com/album/2FJgFYjUd550Kd2UqMA5pH"
       },
@@ -1203,6 +1179,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quer Ibope",
+        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
+      },
+      "artists": [
+        {
+          "name": "MARIAH",
+          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 223218,
+      "name": "Quer Ibope",
+      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tipo Trem Bala",
+        "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 181313,
+      "name": "Tipo Trem Bala",
+      "url": "https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gelo no Copo (Remix)",
         "url": "https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 196402,
       "name": "Decolar",
       "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tipo Trem Bala",
-        "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 181313,
-      "name": "Tipo Trem Bala",
-      "url": "https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl"
     },
     {
       "added_at": null,

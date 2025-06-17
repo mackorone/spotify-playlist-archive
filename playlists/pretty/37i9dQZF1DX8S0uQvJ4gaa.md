@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Zach Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,293,391 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,293,415 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Dads Don't Die](https://open.spotify.com/track/0GSGiPdXx7y29uMYjW17Xw) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Dads Don't Die](https://open.spotify.com/album/3o92h5pPmdj8EaCBkORE3C) | 3:29 |
 | 100 | [Gasoline & Matches](https://open.spotify.com/track/0xii687ClH6fEvkLJfFAgQ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Gasoline & Matches](https://open.spotify.com/album/42vPgsTXxfdGBMO8uRu933) | 2:51 |
 
-Snapshot ID: `aEuicAAAAABAtKeJ+eNwFdwsB1ukiEfl`
+Snapshot ID: `AAAAAPpI08SAbjNXu5OIdShLw2JYLD6m`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,776 likes - 98 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,792 likes - 98 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 97 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
 | 98 | [On a Slow Boat to China](https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [On a Slow Boat to China](https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws) | 3:50 |
 
-Snapshot ID: `aEl4OQAAAABEY+0nG2vevLTkcdYmM8/N`
+Snapshot ID: `AAAAAA309i3uEagN1wXy8F0/DOliXSz8`

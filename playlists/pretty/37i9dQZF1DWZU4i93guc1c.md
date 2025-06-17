@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: YUVI & BADWOR7H
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,610 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,601 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 26 | [випадково існуєш \(УЛТЛ\)](https://open.spotify.com/track/1KSsCTKQB6xOZcsbFwlp7P) | [Anna Stanchevska](https://open.spotify.com/artist/6rI5MyxGzJjTT2me7ewSO3) | [випадково існуєш \(УЛТЛ\)](https://open.spotify.com/album/4KzyAvrmMFnCqRtH0Jv1Mx) | 3:13 |
 | 27 | [Балкон](https://open.spotify.com/track/7tZhv0C5uC5lH7fhheFuRH) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Балкон](https://open.spotify.com/album/1B5vHqGUt39Kkb5dKt2T2s) | 2:39 |
 | 28 | [Лунає](https://open.spotify.com/track/1eD2eY8EOi8pOGm7toAfQF) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [AMARA](https://open.spotify.com/album/4PG7HcZnnk0aIqkvQPLiZR) | 2:34 |
-| 29 | [СИСТЕМА](https://open.spotify.com/track/01vbbtJDdEM6IKflX2PvHz) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [СИСТЕМА](https://open.spotify.com/album/5RIvJWSQFDKbJekzvsaLL8) | 2:30 |
-| 30 | [WAKE UP](https://open.spotify.com/track/4fKLKGQZBFKtMXxErGimHx) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [WAKE UP](https://open.spotify.com/album/6KtQkO9VJn6S8gxlII4NOg) | 2:36 |
+| 29 | [WAKE UP](https://open.spotify.com/track/4fKLKGQZBFKtMXxErGimHx) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [WAKE UP](https://open.spotify.com/album/6KtQkO9VJn6S8gxlII4NOg) | 2:36 |
+| 30 | [СИСТЕМА](https://open.spotify.com/track/01vbbtJDdEM6IKflX2PvHz) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [СИСТЕМА](https://open.spotify.com/album/5RIvJWSQFDKbJekzvsaLL8) | 2:30 |
 | 31 | [Ліфт](https://open.spotify.com/track/14tNEzKUco8Uxt8zCrFW5r) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD) | [Ліфт](https://open.spotify.com/album/7o0KiXHau0bjiaqy9PbN7H) | 2:29 |
 | 32 | [Фіолетово](https://open.spotify.com/track/3PUmvSbiSJQ7vluhyWDCGu) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [ПУРПУР](https://open.spotify.com/album/6rmhLB25m7Nf141fa9EKP0) | 2:37 |
 | 33 | [Тільки не бреши](https://open.spotify.com/track/1nBKQvdtCQB6vt4x69qSL0) | [сервант](https://open.spotify.com/artist/21THXOs8Q1gAAS95grxylx) | [Тільки не бреши](https://open.spotify.com/album/6IqttDgQZHC05pcI1WTa3k) | 2:05 |
@@ -58,24 +58,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 48 | [Улюблені речі](https://open.spotify.com/track/3xNsgwr07mXVhIW0meF84g) | [Sonhe](https://open.spotify.com/artist/0Zc4Oitt1HFLiF78sSw9H8) | [Улюблені речі](https://open.spotify.com/album/2yLB5xxHwr2sfcFgcFUK8O) | 2:53 |
 | 49 | [Пішак](https://open.spotify.com/track/5i4J0Wx6lMDp0zLy0OU4Aw) | [Intermezzo](https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf) | [Пішак](https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX) | 2:19 |
 | 50 | [Романтика зникла](https://open.spotify.com/track/6zZieeqbx3B7cvL5FcNd3D) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Романтика зникла](https://open.spotify.com/album/6yRfukpFIdWOOgumCqlwYu) | 3:26 |
-| 51 | [Індульгенцій](https://open.spotify.com/track/4sHwXjhXEevKGEubBoRffr) | [СКВЕР](https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6) | [Індульгенцій](https://open.spotify.com/album/2nSlNQSReh6bPaAHjSTaVH) | 4:57 |
-| 52 | [Мрію](https://open.spotify.com/track/5z8UhrDbS53B49qlkJJxgy) | [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt) | [Мрію](https://open.spotify.com/album/5DdLG6obvBdNAge8dV9siI) | 2:18 |
+| 51 | [Мрію](https://open.spotify.com/track/5z8UhrDbS53B49qlkJJxgy) | [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt) | [Мрію](https://open.spotify.com/album/5DdLG6obvBdNAge8dV9siI) | 2:18 |
+| 52 | [Індульгенцій](https://open.spotify.com/track/4sHwXjhXEevKGEubBoRffr) | [СКВЕР](https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6) | [Індульгенцій](https://open.spotify.com/album/2nSlNQSReh6bPaAHjSTaVH) | 4:57 |
 | 53 | [лю біль <3](https://open.spotify.com/track/1eT1M6cYSeEWbMVXZU8QUy) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [sucilna\_nevdacha.exe](https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8) | [лю біль <3](https://open.spotify.com/album/7IB8iIVeptweBwNYLfVuo7) | 4:07 |
 | 54 | [Відпускай](https://open.spotify.com/track/4DFvhRDL7dGjNLJhxd5V7y) | [Slukhay Sashu](https://open.spotify.com/artist/7bovXIoMqWNOibj93PfU7J), [MYTRO](https://open.spotify.com/artist/57wbZfHpHFNfGbKi0MAT8C), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy) | [Відпускай](https://open.spotify.com/album/1zs5Tya7peM4Ck7lyLsYhs) | 3:22 |
 | 55 | [Останній раз](https://open.spotify.com/track/6SOrrXmsQqbKhX3hSrjYQ2) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [Останній раз](https://open.spotify.com/album/7LHrb2zY6cWmSO0xQEhwjY) | 2:58 |
 | 56 | [Місто](https://open.spotify.com/track/0qpuExro0xkaUNP2O2M4dv) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0), [Сrybye](https://open.spotify.com/artist/1YG5fefxqEOuV3vICFgzXt), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy) | [Місто](https://open.spotify.com/album/2RlktSZOBN3sKgvCRV1Pw4) | 2:06 |
 | 57 | [фарби](https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [фарби забуття](https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX) | 2:58 |
 | 58 | [Дрі\-та\-та](https://open.spotify.com/track/1rp1R6XI2KVNgPyIewuh3d) | [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD), [Повар Даніл](https://open.spotify.com/artist/2eO3iYyG0WiLmfCwsNftCt) | [Дрі\-та\-та](https://open.spotify.com/album/5YAH8DAHCjdcoveHbA1B6U) | 2:07 |
-| 59 | [сон](https://open.spotify.com/track/3ok1m9sRQbIFzNRmjsTSmj) | [світанок блакитний](https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN) | [сон](https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz) | 3:54 |
-| 60 | [La petite mort](https://open.spotify.com/track/2N3EvX5a9jvMy4KF0IGjZO) | [Granat Garden](https://open.spotify.com/artist/2KMR2HzUel7KoNvJaTjt5L) | [La petite mort](https://open.spotify.com/album/7wXLK5FwExwbz8zkjj5lo1) | 4:35 |
-| 61 | [падаєш](https://open.spotify.com/track/15qpScK6EoZSzH3rYTekTQ) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [падаєш](https://open.spotify.com/album/2RLCk9ZCrMDUD2gxr3ERKF) | 3:49 |
+| 59 | [падаєш](https://open.spotify.com/track/15qpScK6EoZSzH3rYTekTQ) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [падаєш](https://open.spotify.com/album/2RLCk9ZCrMDUD2gxr3ERKF) | 3:49 |
+| 60 | [сон](https://open.spotify.com/track/3ok1m9sRQbIFzNRmjsTSmj) | [світанок блакитний](https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN) | [сон](https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz) | 3:54 |
+| 61 | [La petite mort](https://open.spotify.com/track/2N3EvX5a9jvMy4KF0IGjZO) | [Granat Garden](https://open.spotify.com/artist/2KMR2HzUel7KoNvJaTjt5L) | [La petite mort](https://open.spotify.com/album/7wXLK5FwExwbz8zkjj5lo1) | 4:35 |
 | 62 | [Сатива](https://open.spotify.com/track/1ouqFkok0LZkDAt3qqaYFY) | [Olyaska](https://open.spotify.com/artist/3CHYK38IU7Igd9yiOO3I9J) | [Сатива](https://open.spotify.com/album/1OEyFSCk0GEdg8Dmww0ry0) | 3:01 |
 | 63 | [Waste My Time](https://open.spotify.com/track/45C5eFl2X5KKYDZYGiYaye) | [Future Culture](https://open.spotify.com/artist/5zf2b6LzO85Q1FFPbFi16Z) | [Waste My Time](https://open.spotify.com/album/2Xoh8NgrbX3cjbBE793Zfo) | 2:49 |
 | 64 | [дім на піску](https://open.spotify.com/track/5f1Gb8XoBHKNhP9cZcDTUU) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [дім на піску](https://open.spotify.com/album/7kbJm3Zbvtef7xpvYVd7WL) | 3:46 |
 | 65 | [Там, де зникають сліди](https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn) | [туди\-сюди і смерть](https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK) | [Там, де зникають сліди](https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5) | 2:54 |
 | 66 | [Кров і сніг](https://open.spotify.com/track/1vWP1xBjEVKCJWQ0MhPepy) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Кров і сніг](https://open.spotify.com/album/1jsy5rUiIjmKFx1N8X2tWA) | 2:39 |
-| 67 | [Потяги](https://open.spotify.com/track/1P9KzYbAHBAkSfwC2inwvH) | [hurtom](https://open.spotify.com/artist/710r16a4G15MXXAASqIqTf) | [Потяги](https://open.spotify.com/album/4WCXMdsKOdIuuVOFxrdPf6) | 2:36 |
-| 68 | [Розкопаю](https://open.spotify.com/track/28mttpA8jI9LBI02HFsPGB) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [Розкопаю](https://open.spotify.com/album/0vd8BgPyinr2FTj1zUQCqd) | 3:48 |
+| 67 | [Розкопаю](https://open.spotify.com/track/28mttpA8jI9LBI02HFsPGB) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [Розкопаю](https://open.spotify.com/album/0vd8BgPyinr2FTj1zUQCqd) | 3:48 |
+| 68 | [Потяги](https://open.spotify.com/track/1P9KzYbAHBAkSfwC2inwvH) | [hurtom](https://open.spotify.com/artist/710r16a4G15MXXAASqIqTf) | [Потяги](https://open.spotify.com/album/4WCXMdsKOdIuuVOFxrdPf6) | 2:36 |
 | 69 | [Бамбетель](https://open.spotify.com/track/3O5x9QtmHR3Ppy9pm4OF8G) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Цивільна абстиненція](https://open.spotify.com/album/6xSdifc4dpAqBGB7SDobHl) | 3:40 |
 | 70 | [Між нами](https://open.spotify.com/track/1ecPyRhmPHFh08hkXE1gz5) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he), [остання зупинка](https://open.spotify.com/artist/7GktSt1XudYWyREKgd8DIh) | [Між нами](https://open.spotify.com/album/5fQPPnSHIVZ7MhaaIYsGMQ) | 2:21 |
 | 71 | [NPC](https://open.spotify.com/track/1GSYPZDXJ0FrigacsMrD1f) | [Berliner Döner](https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72) | [NPC](https://open.spotify.com/album/6k2xNoYqsGS6LspuqPUraC) | 2:15 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 76 | [До нестями](https://open.spotify.com/track/0E3toxhKHlqxFpxgAjOSdd) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [До нестями](https://open.spotify.com/album/5jpEWFea74YYOL6Dg6vzVb) | 4:49 |
 | 77 | [кілька фраз](https://open.spotify.com/track/1lhauxM37QLAdZx5f4FAxn) | [yosyaa](https://open.spotify.com/artist/3G8XcG1zIsU5edIBQGsnIV) | [кілька фраз](https://open.spotify.com/album/20d06QHhQUE5qXVSEWh702) | 2:32 |
 | 78 | [течія](https://open.spotify.com/track/5PDNX3udlaS9j4UAYQRDZT) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ), [тері фао](https://open.spotify.com/artist/12BHdm69hN0ERgZtCrrNqH) | [течія](https://open.spotify.com/album/3B8ADJo2JenYdfYujLhMJ7) | 3:17 |
-| 79 | [Зерно](https://open.spotify.com/track/7JohrgOFgLwGJPSThHvO53) | [Anastasia Lykhosherstova](https://open.spotify.com/artist/7DR77p5Mq3gQpSbZDT9jQM) | [Зерно](https://open.spotify.com/album/7sCq2zor54iLCFdwuZIWd8) | 2:35 |
-| 80 | [Тиша](https://open.spotify.com/track/5lk2cfxGOpz9X1GdMWSTlF) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9), [Sasha Potupa](https://open.spotify.com/artist/7qTdrP1YCbOA5CstZ4j9w3) | [Тиша](https://open.spotify.com/album/4bDQLl4qBLSZAtDxEefK3a) | 3:20 |
+| 79 | [Тиша](https://open.spotify.com/track/5lk2cfxGOpz9X1GdMWSTlF) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9), [Sasha Potupa](https://open.spotify.com/artist/7qTdrP1YCbOA5CstZ4j9w3) | [Тиша](https://open.spotify.com/album/4bDQLl4qBLSZAtDxEefK3a) | 3:20 |
+| 80 | [Зерно](https://open.spotify.com/track/7JohrgOFgLwGJPSThHvO53) | [Anastasia Lykhosherstova](https://open.spotify.com/artist/7DR77p5Mq3gQpSbZDT9jQM) | [Зерно](https://open.spotify.com/album/7sCq2zor54iLCFdwuZIWd8) | 2:35 |
 
 Snapshot ID: `aELnBAAAAACuR/1gbF0ZkXP7Q+CNCNHQ`

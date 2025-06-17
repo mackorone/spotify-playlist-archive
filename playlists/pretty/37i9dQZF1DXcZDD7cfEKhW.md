@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,083,474 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,083,363 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 71 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 |
 | 72 | [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\) \- A\. G\. Cook Remix](https://open.spotify.com/track/4fSQ3qt8dd6MS4lrumm2Ew) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [YIPPEE\-KI\-YAY\. \(The Remixes\)](https://open.spotify.com/album/2Z6Tpm1TDQlMDMaq2YHqKP) | 3:51 |
 | 73 | [Whiplash \(Steve Aoki Remix\)](https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Whiplash \(English Version\)](https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er) | 3:45 |
-| 74 | [Drive \(feat\. Wes Nelson\) \- Topic VIP Remix](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\) \[Topic VIP Remix\]](https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt) | 2:56 |
-| 75 | [CAN'T TOUCH THIS \- R3HAB Remix](https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [CAN'T TOUCH THIS \(R3HAB Remix\)](https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC) | 2:03 |
+| 74 | [CAN'T TOUCH THIS \- R3HAB Remix](https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [CAN'T TOUCH THIS \(R3HAB Remix\)](https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC) | 2:03 |
+| 75 | [Drive \(feat\. Wes Nelson\) \- Topic VIP Remix](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\) \[Topic VIP Remix\]](https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt) | 2:56 |
 
 Snapshot ID: `aDktUwAAAABVIzMgXiq2CZfKApGQIvn5`

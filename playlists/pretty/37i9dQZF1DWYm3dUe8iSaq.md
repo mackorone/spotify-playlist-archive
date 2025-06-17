@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,346 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,388 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 19 | [Strawberry Wine](https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:45 |
 | 20 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 |
 | 21 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 |
-| 22 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
-| 23 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
-| 24 | [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 |
+| 22 | [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 |
+| 23 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
+| 24 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
 | 25 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 |
 | 26 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
 | 27 | [Swing](https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Swing](https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws) | 2:45 |
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 41 | [toothache](https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [toothache](https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4) | 3:28 |
 | 42 | [I'm So Down](https://open.spotify.com/track/0XYPxuShTBTHa6w4AfZ0Hw) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [I'm So Down](https://open.spotify.com/album/4ScsV2sFlzbfwU3j2uKiRu) | 3:25 |
 | 43 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
-| 44 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
+| 44 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
 | 45 | [Full Circle](https://open.spotify.com/track/0ID888wUXbMfZVVPe0DtJg) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Full Circle](https://open.spotify.com/album/3sXZ5ffRKfELEF2urHXAvK) | 3:01 |
 | 46 | [martingale](https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [martingale](https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9) | 4:17 |
-| 47 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
+| 47 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
 | 48 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 |
-| 49 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 |
-| 50 | [Brother To Me](https://open.spotify.com/track/7F7izD36Rolp8KOgGXG1mu) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Brother To Me](https://open.spotify.com/album/732aJBhwQemaxmpTbtRyIh) | 3:12 |
+| 49 | [Brother To Me](https://open.spotify.com/track/7F7izD36Rolp8KOgGXG1mu) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Brother To Me](https://open.spotify.com/album/732aJBhwQemaxmpTbtRyIh) | 3:12 |
+| 50 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 |
 | 51 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 52 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 |
 | 53 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 |
@@ -71,21 +71,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 61 | [to be seen](https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [to be seen](https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ) | 3:23 |
 | 62 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 |
 | 63 | [Forgive My Deceit](https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Forgive My Deceit](https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY) | 3:07 |
-| 64 | [The Hopefuls](https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [The Diary of Living](https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r) | 3:25 |
-| 65 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 |
+| 64 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 |
+| 65 | [The Hopefuls](https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [The Diary of Living](https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r) | 3:25 |
 | 66 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
 | 67 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
 | 68 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |
-| 69 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
-| 70 | [Dolores](https://open.spotify.com/track/4JeEx5S6eNMhGhmpSfbqkI) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Dolores](https://open.spotify.com/album/0w9WG8yegRQBXtG8y7gaun) | 3:13 |
+| 69 | [Dolores](https://open.spotify.com/track/4JeEx5S6eNMhGhmpSfbqkI) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Dolores](https://open.spotify.com/album/0w9WG8yegRQBXtG8y7gaun) | 3:13 |
+| 70 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 71 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 72 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 |
 | 73 | [Lose](https://open.spotify.com/track/6qNC7GRaDTrfZya3k4DLfV) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Lose](https://open.spotify.com/album/5DgdTn8PkuVCuoHp1XdDap) | 3:15 |
 | 74 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 |
-| 75 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
-| 76 | [Father Brown's](https://open.spotify.com/track/6LYIGbuRodiM14X2jhvYsJ) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Father Brown's](https://open.spotify.com/album/3gHQRNWfZC0pac0DTk53WO) | 4:59 |
-| 77 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
-| 78 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
+| 75 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
+| 76 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
+| 77 | [Father Brown's](https://open.spotify.com/track/6LYIGbuRodiM14X2jhvYsJ) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Father Brown's](https://open.spotify.com/album/3gHQRNWfZC0pac0DTk53WO) | 4:59 |
+| 78 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
 | 79 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 80 | [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,410 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,417 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 36 | [Don't Give Up \- Jonas Blue Remix](https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Don't Give Up \(Jonas Blue Remix\)](https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA) | 3:21 |
 | 37 | [MOONLIGHT SUNRISE \(Jonas Blue Remix\)](https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:47 |
 | 38 | [All Night Long](https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All Night Long](https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ) | 3:26 |
-| 39 | [Fast Car \- Club Mix](https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car \(Remixes\)](https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F) | 5:30 |
-| 40 | [Angles](https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Angles](https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro) | 2:45 |
+| 39 | [Angles](https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Angles](https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro) | 2:45 |
+| 40 | [Fast Car \- Club Mix](https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car \(Remixes\)](https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F) | 5:30 |
 | 41 | [Now or Never](https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:05 |
 | 42 | [Aceita \- Jonas Blue Remix](https://open.spotify.com/track/5neNUN5qPB1hkJzhT823rO) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Aceita \(Jonas Blue Remix\)](https://open.spotify.com/album/6QXjrHkPxuk3N8ZINvq3le) | 2:50 |
 | 43 | [I Wanna Dance](https://open.spotify.com/track/1CW7tYkpJ95c7bQkRf6CcK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [I Wanna Dance](https://open.spotify.com/album/3niF8tyjfJw8pmfc6VYKGa) | 3:04 |
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 47 | [Don't Call It Love](https://open.spotify.com/track/6NKOAdHTXONN0IZaekxifN) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Cyan](https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h) | 3:18 |
 | 48 | [My Life Is Music \- Jonas Blue Remix](https://open.spotify.com/track/6y9T9t3OKxRGip4L1Ez345) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [The Visionary](https://open.spotify.com/artist/2mjMWOig2tCmJsm198htSs), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Life Is Music \(Jonas Blue Remix\)](https://open.spotify.com/album/7yU6y0IozptVKBqZLvPNeP) | 3:15 |
 | 49 | [Siento](https://open.spotify.com/track/2Ys5BmzK3AZWNCrKihq50z) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/4kKvFPFsPnBgSvTxG1ybPq) | 3:37 |
-| 50 | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres) | 3:02 |
 
-Snapshot ID: `aEy7gAAAAADFMPEkgVNljMREjvrOypvZ`
+Snapshot ID: `aE4NAAAAAABwWyzHSYl37MtN65UZtytr`

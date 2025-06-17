@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: QWER\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-483 songs - 1 day 2 hr 29 min
+484 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 | 2025-06-10 |  |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
 | [Between Us Two](https://open.spotify.com/track/1Y1SDO0lOoqQyKdyXshPEy) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [MIRACLE \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1sbxBftngSZNdq9ZM6aV1W) | 3:11 | 2022-06-09 | 2022-07-26 |
+| [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-16 |  |
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2021-11-29 | 2022-07-28 |
 | [BLOOM](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:23 | 2024-03-08 | 2024-05-23 |
 | [BLUSH](https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [BLUSH](https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe) | 2:58 | 2024-04-08 | 2024-10-17 |
@@ -72,7 +73,7 @@
 | [Catch the Stars](https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Catch the Stars](https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk) | 3:20 | 2022-01-04 | 2022-07-29 |
 | [Changed Number](https://open.spotify.com/track/1L0kL5aaG3tUwbHECFbdB4) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Changed Number](https://open.spotify.com/album/5bYChUxAMA4r6U8dGwkyFq) | 3:28 | 2022-07-05 | 2022-07-20 |
 | [CHEER UP](https://open.spotify.com/track/1D7e4LrjdB4mKaI9XYrmPY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/1AHK0VYfnND7mAiZ5VneXG) | 3:28 | 2021-11-29 | 2022-07-26 |
-| [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-10-22 |  |
+| [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-10-22 | 2025-06-17 |
 | [Cherry Talk](https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [+\(KR\)ystal Eyes <AESTHETIC>](https://open.spotify.com/album/5GNSmUrJmZvgBvouXS8ZGp) | 2:51 | 2023-05-05 | 2023-08-14 |
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-11-29 | 2022-08-14 |
 | [Chillin' Chillin'](https://open.spotify.com/track/5RwUH2QDC6BIZlesRkQKxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:26 | 2021-11-29 | 2022-07-29 |

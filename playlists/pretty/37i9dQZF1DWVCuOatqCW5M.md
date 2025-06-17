@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Mohammad Faiz, Tulsi Kumar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,038 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,128 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 5 | [Do U Wanna](https://open.spotify.com/track/44rrSQBslEo1gcKIpA4j9q) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [Do U Wanna](https://open.spotify.com/album/3HlToFtXIxxVNW5LSD9F6Y) | 2:17 |
 | 6 | [Promise](https://open.spotify.com/track/3YIKqhbhfvTc5B0hgMU9TU) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Promise](https://open.spotify.com/album/7euHd8EBfpvCU9AvdcVUMN) | 2:30 |
 | 7 | [Tu Sab Vekheya](https://open.spotify.com/track/33wXzWYLd3kJWh4WVZyaIU) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tu Sab Vekheya](https://open.spotify.com/album/35ldZRrH83VXMtjooYmXjk) | 3:19 |
-| 8 | [Ishq Ki Barsaat](https://open.spotify.com/track/3ocn6uvKD80871NRsS6fBh) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Ishq Ki Barsaat](https://open.spotify.com/album/1T8tW1ldRS2ldHGfWozhMK) | 3:10 |
+| 8 | [Ishq Ki Barsaat](https://open.spotify.com/track/3ocn6uvKD80871NRsS6fBh) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Ishq Ki Barsaat](https://open.spotify.com/album/1T8tW1ldRS2ldHGfWozhMK) | 3:10 |
 | 9 | [Sab Ki Tarah](https://open.spotify.com/track/6HcL21G26eSN3xaTvo1ROb) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Sab Ki Tarah](https://open.spotify.com/album/7jrCluEDI5ZBW8gTLb707j) | 4:43 |
 | 10 | [Haal Ishq Da](https://open.spotify.com/track/4FNlwLc1TZuSGf87aYPImB) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Lakshay](https://open.spotify.com/artist/2TGFoJ1BpYLRwW32YsT74M), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [Haal Ishq Da](https://open.spotify.com/album/6f0c8T2u2srqOsft4zj3nH) | 2:44 |
 | 11 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |

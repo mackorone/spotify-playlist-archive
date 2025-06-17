@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,601 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,603 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 29 | [Mi Castigo](https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:01 |
 | 30 | [Una Oportunidad](https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Una Oportunidad](https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7) | 3:33 |
 | 31 | [Nunca Es Tarde Pa' Empezar](https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:42 |
-| 32 | [Colombianos World Wide](https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gambeta](https://open.spotify.com/artist/0NondYskkFto74mrICHYR4), [Piel Roja](https://open.spotify.com/artist/5kq2StjCFhee4kp48In3Mq) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:44 |
+| 32 | [Mi Ciudad Es Fresca](https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Andrade A.K.A Doble A](https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:07 |
 | 33 | [Listen Up](https://open.spotify.com/track/7KAkj1lp5elDoWvENK7pcc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Listen Up](https://open.spotify.com/album/4PwTjGhgDJLfpTENMjxy76) | 2:29 |
 | 34 | [Siempre Recuerdos](https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 4:00 |
 | 35 | [Mestizo](https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 2:28 |
-| 36 | [Mi Ciudad Es Fresca](https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Andrade A.K.A Doble A](https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:07 |
+| 36 | [Colombianos World Wide](https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gambeta](https://open.spotify.com/artist/0NondYskkFto74mrICHYR4), [Piel Roja](https://open.spotify.com/artist/5kq2StjCFhee4kp48In3Mq) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:44 |
 | 37 | [So Sad](https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [So Sad](https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe) | 3:37 |
 | 38 | [Olvidarme de Ti](https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Apartamento 23](https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet) | 3:49 |
 | 39 | [Invente](https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Estado Popular Del Alma • Epa](https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 49 | [Recreo](https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 2:49 |
 | 50 | [Todo El Tiempo](https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo El Tiempo](https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv) | 2:33 |
 
-Snapshot ID: `aEy7gAAAAACOqJyZAB/qz61fVs5Pp2iQ`
+Snapshot ID: `aE4NAAAAAACPYM62GzG0NE+Et6c2TwQE`

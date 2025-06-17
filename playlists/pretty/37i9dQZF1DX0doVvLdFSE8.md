@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0doVvLdFSE8.md) - [plain]
 
 > Listen to the best Techno tracks of 2024\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,029 likes - 75 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,093 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0doVvLdFSE8.md) - [plain]
 | 74 | [Silence](https://open.spotify.com/track/16Kcx3naXHqWuaAkMIDOIs) | [MIRA MIRA](https://open.spotify.com/artist/5D0GfztMpGYTNbcN27pbGC) | [Silence](https://open.spotify.com/album/1wx3NZeN7GYwW99IyNy8ER) | 3:49 |
 | 75 | [Nebelberg](https://open.spotify.com/track/3XKUyc0aRA8p0UbrP5SNmh) | [Oliver Jass](https://open.spotify.com/artist/2ODPpeNxF16AvaVFhbo0sy), [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Nebelberg](https://open.spotify.com/album/6YrFhuaZlJZwGeu9ADjUtX) | 6:29 |
 
-Snapshot ID: `Z1BHxAAAAADc7sCrEDiyWw1gQX5kelMX`
+Snapshot ID: `Z1BHxAAAAADqbXf6XgQ5ontSHPNxeVp5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Happy Black Music Month! Now featuring our  <a href="https://www.instagram.com/p/DKuestyxk7t/?igsh=NTc4MTIwNjQ2YQ==">Frequency Zine</a>  cover star Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,314 likes - 200 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,234 likes - 200 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 69 | [narcotics](https://open.spotify.com/track/4N8q7thPUK2Yd5r4XERc43) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [narcotics](https://open.spotify.com/album/3FongtrpLJbiolXIiHX8Wu) | 2:23 |
 | 70 | [Nefertiti](https://open.spotify.com/track/1QOTT0OH4i6Pa5aOmTmSHu) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Nefertiti](https://open.spotify.com/album/5DUNG8vYkrPceYBPOr9bBP) | 2:13 |
 | 71 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 |
-| 72 | [Bag](https://open.spotify.com/track/4YfaPeGicQBZggPUXZ05od) | [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z), [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U) | [Bag](https://open.spotify.com/album/6EA0f30VepoL1gp0FVg62F) | 3:26 |
+| 72 | [Bag](https://open.spotify.com/track/4YfaPeGicQBZggPUXZ05od) | [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z), [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U) | [Bag](https://open.spotify.com/album/6EA0f30VepoL1gp0FVg62F) | 3:27 |
 | 73 | [brand new teeth](https://open.spotify.com/track/52DB1pkUN9cyYjLK0vmI0s) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [brand new teeth](https://open.spotify.com/album/2jxdO5piZh8yURPkJddghF) | 4:27 |
 | 74 | [Jesse Jackson](https://open.spotify.com/track/3wF6BcBBdUOG1BMVl9zrWJ) | [Cyanca](https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO) | [Jesse Jackson](https://open.spotify.com/album/4dCgdgrAJn0Pzfm8zxDaLJ) | 3:05 |
 | 75 | [Typa](https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Typa](https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY) | 2:04 |

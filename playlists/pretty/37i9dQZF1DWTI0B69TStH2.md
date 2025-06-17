@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Świętujemy 10 lat najlepszych muzycznych odkryć od niezależnych artystów\. Cover: <a href=" spotify:artist:4Q6Ro5v2pYwW4hJgPo2Idz">Fetysz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,157 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,158 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

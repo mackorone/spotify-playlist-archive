@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,395 likes - 180 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,506 likes - 180 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 179 | [Willows](https://open.spotify.com/track/7ltttMjgeU3jYn3hDYzVBZ) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Willows](https://open.spotify.com/album/58FCc35VYx307ODzqVGuNF) | 2:59 |
 | 180 | [Garden of Focus](https://open.spotify.com/track/5BV8qRvnWKxIdQNDxPURJ5) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Garden of Focus](https://open.spotify.com/album/028c7wKoe1dZeCqYK16J4V) | 2:10 |
 
-Snapshot ID: `aErlkwAAAAAuuXCKY9Hrl45+NJ/aA2Ft`
+Snapshot ID: `AAAAAJlFNWg9WrfPSbDFQwkHr7nTL0N2`

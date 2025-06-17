@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! Yeri Mua en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,756 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,982 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 8 | [El Equivocado](https://open.spotify.com/track/7b21sdY6oHTYzQj0Ne5boZ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [El Equivocado](https://open.spotify.com/album/5j8Q6ph4kpanHF2bnKx7mI) | 2:45 |
 | 9 | [S!CK](https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 3:12 |
 | 10 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
-| 11 | [Venganza](https://open.spotify.com/track/5P5HyeiHaCFFrupBXWtsu4) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Venganza](https://open.spotify.com/album/7DYzeA4wt7OawlJJkdTaDN) | 2:46 |
+| 11 | [U R SUCH A LAME!](https://open.spotify.com/track/1Ybt52Gx6UdrI9z0qUbJP3) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/38XZ32UdU2fnN2sk2XO6uP) | 2:16 |
 | 12 | [Para Que Seas Feliz](https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Que Seas Feliz](https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV) | 3:02 |
-| 13 | [U R SUCH A LAME!](https://open.spotify.com/track/1Ybt52Gx6UdrI9z0qUbJP3) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/38XZ32UdU2fnN2sk2XO6uP) | 2:16 |
+| 13 | [Venganza](https://open.spotify.com/track/5P5HyeiHaCFFrupBXWtsu4) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Venganza](https://open.spotify.com/album/7DYzeA4wt7OawlJJkdTaDN) | 2:46 |
 | 14 | [boss](https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [boss](https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe) | 2:11 |
 | 15 | [ONE SHOT](https://open.spotify.com/track/5eiinOqRCTAXl5RIJmby8o) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mudanzas](https://open.spotify.com/album/2UNqbgVDrEGAjk8n2JEpvV) | 2:24 |
 | 16 | [neverland](https://open.spotify.com/track/0869vul4QHCtyWdNRcKYrq) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [2001](https://open.spotify.com/album/4nHFT4gqaXuE8Mne0M83Vv) | 3:00 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 31 | [03:00am](https://open.spotify.com/track/1YOJEqRJdHm8LRJX2EjbwC) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xMIEDOSx](https://open.spotify.com/album/4PsZalwcOM0trGVPn3W0YH) | 2:56 |
 | 32 | [Quién Me Viera](https://open.spotify.com/track/6pbWgoTEF8P1ZycMXreUjz) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [Quién Me Viera](https://open.spotify.com/album/4MW7gQBGDfUH60VjKU5keT) | 3:18 |
 | 33 | [Otro Tinte](https://open.spotify.com/track/6qhWJ9zauJ6X67v3CVXxWm) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Otro Tinte](https://open.spotify.com/album/5eIzOsCi13ku8Vi5uYk5BA) | 3:15 |
-| 34 | [Nada me cansa](https://open.spotify.com/track/6oamkOlnMGZfSAvGNOFjaJ) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 2:02 |
-| 35 | [Una Perra](https://open.spotify.com/track/2WRsyFyjDZMGLUWGsB2CLQ) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 2:45 |
+| 34 | [Una Perra](https://open.spotify.com/track/2WRsyFyjDZMGLUWGsB2CLQ) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 2:45 |
+| 35 | [Nada me cansa](https://open.spotify.com/track/6oamkOlnMGZfSAvGNOFjaJ) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 2:02 |
 | 36 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 37 | [Perder La Cabeza](https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Perder La Cabeza](https://open.spotify.com/album/5nQvUjcrpGiZT2qiJdOGro) | 1:56 |
 | 38 | [Más de lo Que Te Imaginas](https://open.spotify.com/track/0boHL6Ep1Cb9IKFgpTqNE3) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW), [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Más de lo Que Te Imaginas](https://open.spotify.com/album/08DLF0UmsLw2Ex85Cm1CNq) | 3:57 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 56 | [Yo Pienso Todo el Tiempo](https://open.spotify.com/track/6YjxQ9MVtFsLewvreZXHxq) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Yo Pienso Todo el Tiempo](https://open.spotify.com/album/50H7MyA9yqIorR7JiwvOaM) | 3:02 |
 | 57 | [Veneno](https://open.spotify.com/track/7GPJwGLRZvt0MaQvuB7sv5) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SAGA](https://open.spotify.com/album/72NVbldrz1OwqbKUqv0kbq) | 2:50 |
 | 58 | [Vórtice 333](https://open.spotify.com/track/0XuyxnE04jvfOou9qiOoWw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [SUEÑOS](https://open.spotify.com/album/7cuMNHqR2QsVrXv8QeEDBv) | 3:00 |
-| 59 | [K.O.S.](https://open.spotify.com/track/6jaQeKMc3YkRuRmqgClfig) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [K.O.S.](https://open.spotify.com/album/31hsUj3XcDLtFEhMjsm8JM) | 2:43 |
-| 60 | [Atravesar](https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Atravesar](https://open.spotify.com/album/5lDzwFabeBOxYtLIB2ZYIS) | 3:45 |
+| 59 | [Atravesar](https://open.spotify.com/track/4ZQayHfIOdtvi2jYPO90XC) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Atravesar](https://open.spotify.com/album/5lDzwFabeBOxYtLIB2ZYIS) | 3:45 |
+| 60 | [K.O.S.](https://open.spotify.com/track/6jaQeKMc3YkRuRmqgClfig) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [K.O.S.](https://open.spotify.com/album/31hsUj3XcDLtFEhMjsm8JM) | 2:43 |
 | 61 | [Yugular](https://open.spotify.com/track/625BTeiei7heRnOqwwDysv) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Yugular](https://open.spotify.com/album/6ZM0mrJlNSnvDKe1MS7TRm) | 3:35 |
 | 62 | [mentira </3](https://open.spotify.com/track/7wolOtNrxn9f2MU4NJ1tV2) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [123 HYPE!!!](https://open.spotify.com/album/2wCOagrfilkWKnlzukDI9r) | 2:16 |
 | 63 | [La Saga](https://open.spotify.com/track/0ao7cGrjRmABcZOfRjNetB) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [La Cuervo](https://open.spotify.com/artist/2OZl4ZTJKKT7aSXfFGlEyZ), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX) | [La Saga](https://open.spotify.com/album/1IkNmSv4OaOKboGY6eIkXS) | 4:41 |

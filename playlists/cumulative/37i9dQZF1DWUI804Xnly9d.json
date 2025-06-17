@@ -1217,6 +1217,32 @@
     },
     {
       "album": {
+        "name": "Bas Hum Yaha",
+        "url": "https://open.spotify.com/album/2GGsM7tiXBfIfW3xtJTZv3"
+      },
+      "artists": [
+        {
+          "name": "Gaurav Prasad",
+          "url": "https://open.spotify.com/artist/50UXkbx3OJnv57kDuYq4go"
+        },
+        {
+          "name": "KREITTON",
+          "url": "https://open.spotify.com/artist/4y0XL6sCyRwXqdIhMLipNz"
+        },
+        {
+          "name": "Ayush Dolas",
+          "url": "https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207984,
+      "name": "Bas Hum Yaha",
+      "url": "https://open.spotify.com/track/5aT7J46t6jz1qUzMv8xXgG"
+    },
+    {
+      "album": {
         "name": "Bas Kaafi Hai",
         "url": "https://open.spotify.com/album/0KH4Y7pf9Udh0KIP2ymRGf"
       },
@@ -1240,6 +1266,28 @@
       "duration_ms": 297552,
       "name": "Bas Kaafi Hai",
       "url": "https://open.spotify.com/track/2yxRnMJTgBDTUf3qVX7Yu1"
+    },
+    {
+      "album": {
+        "name": "Bas Tera Hi",
+        "url": "https://open.spotify.com/album/4wXHPC3IvGekemV9B9bRwt"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Vishwakarma",
+          "url": "https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi"
+        },
+        {
+          "name": "Mouly Ganguly",
+          "url": "https://open.spotify.com/artist/420LD7mW7SHgUZzAXQwWUv"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189378,
+      "name": "Bas Tera Hi - Duet Version",
+      "url": "https://open.spotify.com/track/091vrTnIlp5dp9nzBl3Wjx"
     },
     {
       "album": {
@@ -2296,7 +2344,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 174471,
       "name": "Do Kadam",
       "url": "https://open.spotify.com/track/5CS1fDgk3HzMcOVXReT0mx"
@@ -9286,7 +9334,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 172840,
       "name": "Tera Rahoon",
       "url": "https://open.spotify.com/track/2trVpKomYRJZP15P8Ya2JU"

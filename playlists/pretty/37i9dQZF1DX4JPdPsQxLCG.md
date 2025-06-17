@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,930 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,924 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 45 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 46 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 |
 | 47 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 |
-| 48 | [Wildfire](https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn) | 2:31 |
-| 49 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
+| 48 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
+| 49 | [Wildfire](https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn) | 2:31 |
 | 50 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 |
 | 51 | [Too Late Now](https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:29 |
 | 52 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 |

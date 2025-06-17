@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,936 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,944 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 2 | [Medicine](https://open.spotify.com/track/4to2t1Ruuz1OlbvR0Dg6YL) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Wider Circles](https://open.spotify.com/album/31Zi0Y9LF7yN08gNWgLHrs) | 4:25 |
 | 3 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
 | 4 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
-| 5 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 |
+| 5 | [Weight of Sound](https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 7:23 |
 | 6 | [Tus Pies \(Your Feet\)](https://open.spotify.com/track/01O8dSJn4lQLfdi72yL8Qf) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [HOKA](https://open.spotify.com/album/3wH1yuFBld6RUYPyJnB60N) | 5:21 |
-| 7 | [Weight of Sound](https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 7:23 |
+| 7 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 |
 | 8 | [Into The Sun \- EP Version](https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 5:00 |
 | 9 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
 | 10 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 13 | [Salvation](https://open.spotify.com/track/4va2tNNWYut7ycFZ2zjvTk) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Salvation](https://open.spotify.com/album/2rJJUaHPFt7uyS8qE7wrbR) | 4:19 |
 | 14 | [Nectar Drop](https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Jahta Beat: The Lotus Memoirs](https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ) | 4:00 |
 | 15 | [You Can't Rush Your Healing](https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:51 |
-| 16 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 |
-| 17 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
+| 16 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
+| 17 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 |
 | 18 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 19 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
 | 20 | [never gonna break your heart](https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [IN AND THROUGH THE BODY](https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a) | 3:47 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 31 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
 | 32 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 |
 | 33 | [Pulse](https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Pulse](https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx) | 4:22 |
-| 34 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 |
-| 35 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 |
+| 34 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 |
+| 35 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 |
 | 36 | [Adam & Eve \(feat\. Ben Fagan\)](https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8), [Ben Fagan](https://open.spotify.com/artist/68UAGPFWJbwW0JUscJVM3O) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 4:10 |
 | 37 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 |
 | 38 | [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 |

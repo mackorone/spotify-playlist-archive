@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 
 > Turn down the lights and snack on Steve's Lava Chicken.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,421 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,580 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

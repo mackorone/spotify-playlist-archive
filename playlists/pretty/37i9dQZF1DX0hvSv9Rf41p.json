@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Kai Wachi",
-  "num_followers": 985414,
+  "num_followers": 985420,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aExgDgAAAADwzsu24sAPw0bts2KTm0KE",
+  "snapshot_id": "aFB6egAAAADdEP4yDRtBhZ5bPtyr6PWC",
   "tracks": [
     {
       "added_at": "2025-06-13 04:12:10",
@@ -53,20 +53,28 @@
       "url": "https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI"
     },
     {
-      "added_at": "2025-04-18 04:00:56",
+      "added_at": "2025-06-06 04:00:30",
       "album": {
-        "name": "Drop In",
-        "url": "https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47"
+        "name": "Five Hours (CELO & MACHAKI Remix)",
+        "url": "https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq"
       },
       "artists": [
         {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        },
+        {
+          "name": "MACHAKI",
+          "url": "https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ"
         }
       ],
-      "duration_ms": 149793,
-      "name": "Drop In",
-      "url": "https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP"
+      "duration_ms": 129442,
+      "name": "Five Hours - CELO & MACHAKI Remix",
+      "url": "https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS"
     },
     {
       "added_at": "2025-05-23 16:32:18",
@@ -83,6 +91,22 @@
       "duration_ms": 177777,
       "name": "One Last Breath - Remix",
       "url": "https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l"
+    },
+    {
+      "added_at": "2025-04-18 04:00:56",
+      "album": {
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 149793,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP"
     },
     {
       "added_at": "2025-05-09 04:00:25",
@@ -123,30 +147,6 @@
       "duration_ms": 132413,
       "name": "SURFACE",
       "url": "https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN"
-    },
-    {
-      "added_at": "2025-06-06 04:00:30",
-      "album": {
-        "name": "Five Hours (CELO & MACHAKI Remix)",
-        "url": "https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "CELO",
-          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
-        },
-        {
-          "name": "MACHAKI",
-          "url": "https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ"
-        }
-      ],
-      "duration_ms": 129442,
-      "name": "Five Hours - CELO & MACHAKI Remix",
-      "url": "https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS"
     },
     {
       "added_at": "2025-05-30 04:10:57",

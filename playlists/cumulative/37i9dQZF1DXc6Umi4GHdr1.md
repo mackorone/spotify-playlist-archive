@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-436 songs - 19 hr 20 min
+439 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Aquamarine](https://open.spotify.com/track/5lmpup8cpMz2Xik4qwhXwl) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Aquamarine](https://open.spotify.com/album/4dFmwqiionPLdVclCiAJWn) | 2:39 | 2023-10-27 | 2024-07-18 |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-03-03 |  |
 | [Arrival at Eight](https://open.spotify.com/track/3kxSndcN8vYmIJiZvyhj8J) | [Andreas Heuser](https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6) | [Arrival at Eight](https://open.spotify.com/album/6wRfEhLfpsIBuHVPDofp0E) | 3:38 | 2022-11-18 | 2023-09-01 |
+| [Artemis](https://open.spotify.com/track/5CcTsoh77A0ClwHfAl80cK) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Artemis](https://open.spotify.com/album/7GSzGWVULgIwKJLPUuvicr) | 1:54 | 2025-06-16 |  |
 | [As Long As You Are By My Side](https://open.spotify.com/track/2UrLjcS494QMLJbzYgOXht) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [As Long As You Are By My Side](https://open.spotify.com/album/6V5508TydVNEnHXsgUeW0q) | 2:22 | 2021-12-10 | 2022-09-23 |
 | [Astrid](https://open.spotify.com/track/2vxEmDXqyeuCs9a1S9KBTe) | [G\. Samuelsson](https://open.spotify.com/artist/6deDKTj0xS9JYvmDrgzSPn) | [Astrid](https://open.spotify.com/album/5ElhjW0Dp6feiMcZk2X9u8) | 3:25 | 2024-05-10 | 2024-07-18 |
 | [Atlantis](https://open.spotify.com/track/4VNPuY4jUY94G9I2XcLnZj) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Atlantis](https://open.spotify.com/album/0UavhP7ertnNlOaZ9j5b8W) | 2:45 | 2025-02-24 |  |
@@ -217,6 +218,7 @@
 | [London Fog](https://open.spotify.com/track/39PaXHJYKENift4jbT5n8j) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [London Fog](https://open.spotify.com/album/0832H76yui7UZKuSv6i3ip) | 2:29 | 2024-02-02 |  |
 | [Long Walking Back Home](https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Long Walking Back Home](https://open.spotify.com/album/2uEL6m8Pq3u7m3HirU4NxX) | 3:08 | 2022-03-03 |  |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-03-10 | 2023-06-16 |
+| [Lost in the Moment](https://open.spotify.com/track/2KOlLqz63AA8AMuH5lwIyX) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lost in the Moment](https://open.spotify.com/album/5YSiRGp7ninOfNhNM5osJl) | 2:20 | 2025-06-16 |  |
 | [Lost Intentions](https://open.spotify.com/track/7f7sBSR4G1LySZ1hhpc1ux) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Lost Intentions](https://open.spotify.com/album/4o0RSC1qJQLGorvbBnMHrO) | 2:49 | 2024-07-18 |  |
 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 | 2023-03-10 |  |
 | [Low\-lying Indiana](https://open.spotify.com/track/5NYLrenhF9CwDOgun0jdP0) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Low\-lying Indiana](https://open.spotify.com/album/3Z5FUnIVf3Vo4sSJBs8AEV) | 1:52 | 2025-01-20 | 2025-04-03 |
@@ -422,6 +424,7 @@
 | [Welcome Another Morning](https://open.spotify.com/track/5sGlEWMqEvNwKQZWUbsGDc) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Welcome Another Morning](https://open.spotify.com/album/60wQBZH2QIzedGgphfwBTj) | 3:04 | 2023-06-09 |  |
 | [Wellspring for thought](https://open.spotify.com/track/4ZfA8pzOEHovwGTg5wq32Q) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Wellspring for thought](https://open.spotify.com/album/7KuVAWo78nXDxG4LS9rXvD) | 2:14 | 2023-08-11 |  |
 | [What a Fine Day It Is!](https://open.spotify.com/track/1ymXlTBE5TfmVRlQwWXZCa) | [Liv Mattinen](https://open.spotify.com/artist/1Tvp5eRGy55P3GROMQVxaJ) | [What a Fine Day It Is!](https://open.spotify.com/album/1Lk6LplW3i83dN2tdHnQkv) | 2:16 | 2023-05-26 | 2023-06-16 |
+| [Whatever Comes](https://open.spotify.com/track/2PVulAOz6AddZ9k93eF3fY) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [Whatever Comes](https://open.spotify.com/album/2jzvGE2CAl74SSMgFCvc9d) | 2:41 | 2025-06-16 |  |
 | [When Sarah Returned](https://open.spotify.com/track/2OJk9I2pmnYKB9zQzrodK6) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [A Letter from the Caspian Sea](https://open.spotify.com/album/7mfyhobbOqeqqtf9JH3ssk) | 2:36 | 2021-12-10 | 2023-03-10 |
 | [When She Was There](https://open.spotify.com/track/5rOfd0ZqNPDzFWEgROvIdz) | [Pastall](https://open.spotify.com/artist/4xWbSW8Fkjt8DVkJ5QDIvV) | [Back to Pompiko](https://open.spotify.com/album/5Iir2VRVIrPf09KEW7ONMH) | 3:20 | 2021-12-10 | 2023-03-10 |
 | [When You Hold Me](https://open.spotify.com/track/4mDch7mKVDPFcF8TD5v6p6) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Everythings Better With You](https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf) | 2:10 | 2022-03-03 |  |

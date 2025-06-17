@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!\. Cover: Shiha Zikir
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,496 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,506 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 42 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
 | 43 | [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 |
 | 44 | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/track/7Lm4S2P0MHwBktcdNILLQA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 2:58 |
-| 45 | [Tak Satu Cerita](https://open.spotify.com/track/2Jp7oaFGIyaSV30pFoALV5) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Tak Satu Cerita](https://open.spotify.com/album/3wcIIqXWuSAe0ULRsjpMpv) | 3:46 |
-| 46 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
+| 45 | [Tak Kan Terganti](https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Tak Kan Terganti](https://open.spotify.com/album/1QSwTwZoeKZPNXb5DQ7agR) | 3:57 |
+| 46 | [Tak Satu Cerita](https://open.spotify.com/track/2Jp7oaFGIyaSV30pFoALV5) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Tak Satu Cerita](https://open.spotify.com/album/3wcIIqXWuSAe0ULRsjpMpv) | 3:46 |
 | 47 | [Bukan Untukku](https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bukan Untukku](https://open.spotify.com/album/2A17uTjFWawokbDDt6jzzv) | 3:52 |
-| 48 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
-| 49 | [Tak Kan Terganti](https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Tak Kan Terganti](https://open.spotify.com/album/1QSwTwZoeKZPNXb5DQ7agR) | 3:57 |
+| 48 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
+| 49 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
 | 50 | [Bunga Jiwaku](https://open.spotify.com/track/2edAglJ6sNF8MmLkV8Dp0R) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Bunga Jiwaku](https://open.spotify.com/album/5zp9TCY4Nb0bhXbcEl5WsF) | 3:17 |
 
 Snapshot ID: `aEuRNwAAAACwF2Uag6H0s1xnqpTSCDE+`

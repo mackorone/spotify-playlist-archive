@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,043 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,048 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 28 | [St\. Mary](https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:09 |
 | 29 | [Evil's My Friend](https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:09 |
 | 30 | [Arrested in Shanghai](https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 4:11 |
-| 31 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
-| 32 | [Up To No Good](https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:40 |
+| 31 | [Up To No Good](https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:40 |
+| 32 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
 | 33 | [Devil In Disguise](https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:58 |
 | 34 | [Poison](https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:18 |
 | 35 | [Let's Go](https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 1:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 49 | [Back Where I Belong](https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:12 |
 | 50 | [Radio Havana](https://open.spotify.com/track/1ydEGqAgszVAlF9o0hIpOI) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 3:42 |
 
-Snapshot ID: `aEy7gAAAAACA5CiFfOLXJUvrKl2eMgQ1`
+Snapshot ID: `aE4NAAAAAABZfQTwAVyF9oSQmQMg+oII`

@@ -4,7 +4,7 @@
 
 > Nieuwe alternative & rock releases\. Cover: shame
 
-460 songs - 1 day 2 hr 44 min
+462 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 | 2024-06-24 | 2024-07-10 |
 | [a great escape](https://open.spotify.com/track/6FzaEGFfG3mVPPQCKBLkFU) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a great escape](https://open.spotify.com/album/4qg53329LKLOYckoAyer2D) | 3:10 | 2024-06-24 | 2024-09-28 |
 | [A Hole In The Ground](https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [A Hole In The Ground](https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru) | 3:07 | 2024-09-13 | 2024-12-03 |
+| [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-16 |  |
 | [a menace](https://open.spotify.com/track/55DzEjS7rrZbvyL9hCiSQC) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a menace](https://open.spotify.com/album/5O12kfhiDZcHJ3Ne9bcDE8) | 2:49 | 2025-02-27 | 2025-05-13 |
 | [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 | 2025-01-16 | 2025-03-14 |
 | [A Note About Time](https://open.spotify.com/track/3Eml7xiwuYQVJLTEQQMbjI) | [Daryll\-Ann](https://open.spotify.com/artist/671hK274ypvrV5RiWyxjk7) | [A Note About Time](https://open.spotify.com/album/2CJ2pASXDPONHZLu76rFbF) | 3:20 | 2024-07-11 | 2024-11-08 |
@@ -324,6 +325,7 @@
 | [Real Music](https://open.spotify.com/track/3vPn3nP3W5dacb7QQ9mr3X) | [Keenan Mundane](https://open.spotify.com/artist/1APR3mkX7fOR0u1kRnsUbG) | [Real Music](https://open.spotify.com/album/4sTXiXoQ0HAC6aWgPyaWP1) | 1:58 | 2025-01-23 | 2025-02-18 |
 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 | 2025-06-02 |  |
 | [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 | 2025-02-27 | 2025-05-17 |
+| [Remember?](https://open.spotify.com/track/5RMlKxmmHbbalI8q7qg9IX) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Remember?](https://open.spotify.com/album/6tgI1ImweeRVAhWlLQesxj) | 4:13 | 2025-06-16 |  |
 | [Ride Away](https://open.spotify.com/track/3LsMYyzxZhp1Fg6Ehc40nw) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Ride Away](https://open.spotify.com/album/3wHNpeAiczJyp3OmVSWNTf) | 5:13 | 2024-08-01 | 2024-11-08 |
 | [Rock and Roll](https://open.spotify.com/track/3133Uct5LILQV4A9A1HY4S) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 4:54 | 2024-10-04 | 2024-11-23 |
 | [Rock and Roll, Summer](https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [See what heaven looks like now](https://open.spotify.com/album/46MlUsV2c7Jxi8tQItfT57) | 3:10 | 2025-03-13 | 2025-06-03 |

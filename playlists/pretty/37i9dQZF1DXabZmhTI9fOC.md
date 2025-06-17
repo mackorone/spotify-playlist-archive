@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,593 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,838 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 56 | [Lets Get Crazy](https://open.spotify.com/track/2YaBRyHxllx1PETRtaxi2b) | [Beautiful Village](https://open.spotify.com/artist/0J0Zk4UUgHmmpGfp2m3aEc), [OTTO BLUE](https://open.spotify.com/artist/0wCVIpaF36VvTjQ4zWuZKX), [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk) | [Lets Get Crazy](https://open.spotify.com/album/0ellhdOzP5YP5pqVnu33PD) | 2:52 |
 | 57 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
 | 58 | [Waking Up](https://open.spotify.com/track/5o9p18CDVprCJc5eiDsWiJ) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Waking Up](https://open.spotify.com/album/6XzfHQhckhPxOciH83VuNc) | 3:44 |
+| 59 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 |
 
-Snapshot ID: `aExJcAAAAAACfaSSI9eVBBj1gfDfzNjj`
+Snapshot ID: `aFCXvgAAAACzytUp5xNKk3JMAc+uTVbG`

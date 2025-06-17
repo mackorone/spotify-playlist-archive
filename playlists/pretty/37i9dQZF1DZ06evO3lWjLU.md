@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,585 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,684 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 49 | [por siempre y para siempre](https://open.spotify.com/track/4uCe7xCGCyOCHH0zeIK2Gy) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:44 |
 | 50 | [Baby I Won't](https://open.spotify.com/track/1G0xFA3KNiKdbjhT2asL43) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Baby I Won't](https://open.spotify.com/album/25S2NFMHnTQhB0oQmi6ghq) | 3:25 |
 
-Snapshot ID: `aEy7gAAAAACJVxsRiOhw4v5DXKavO8xl`
+Snapshot ID: `aE4NAAAAAADE1cLIZWulf4AWXzrmDzq3`

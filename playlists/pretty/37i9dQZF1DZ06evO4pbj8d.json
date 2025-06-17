@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 10307,
+  "num_followers": 10313,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADlC9SuQ5wRxvva8KwBMAM6",
+  "snapshot_id": "aE4NAAAAAADU75JB8MbuLz4QO2zqKXos",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus and John Wayne",
+        "url": "https://open.spotify.com/album/6cL8bwrPovKoz1omsUCwKd"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 242625,
+      "name": "Jesus and John Wayne",
+      "url": "https://open.spotify.com/track/6okV8XV4EFSxpVnP0zM2vF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nazareth",
         "url": "https://open.spotify.com/album/1Ny7Q4HVVdo4fOA99DX4mM"
       },
@@ -359,30 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus and John Wayne",
-        "url": "https://open.spotify.com/album/6cL8bwrPovKoz1omsUCwKd"
-      },
-      "artists": [
-        {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 242625,
-      "name": "Jesus and John Wayne",
-      "url": "https://open.spotify.com/track/6okV8XV4EFSxpVnP0zM2vF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OBSERVATIONS FROM A CROWDED ROOM",
         "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
       },
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Time",
-        "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "All My Time",
-      "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "May",
         "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 222228,
       "name": "Stacy",
       "url": "https://open.spotify.com/track/2nMvxqGTwM9aJAOYH0jSWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All My Time",
+        "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "All My Time",
+      "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
     },
     {
       "added_at": null,

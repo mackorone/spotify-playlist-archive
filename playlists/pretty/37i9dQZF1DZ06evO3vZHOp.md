@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,716 likes - 44 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,765 likes - 44 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 29 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 |
 | 30 | [Conexión](https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Conexión](https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe) | 4:48 |
 | 31 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
-| 32 | [FUMETEO \- Remix](https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 3:34 |
-| 33 | [Chulx](https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Chulx](https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu) | 3:03 |
-| 34 | [Promesa](https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Gárgolas Forever](https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO) | 3:26 |
+| 32 | [Promesa](https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Gárgolas Forever](https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO) | 3:26 |
+| 33 | [FUMETEO \- Remix](https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 3:34 |
+| 34 | [Chulx](https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Chulx](https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu) | 3:03 |
 | 35 | [North Carolina](https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 2:56 |
 | 36 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 |
 | 37 | [Jóvenes Millonarios](https://open.spotify.com/track/4EbNxZ6ei9q1imUf2Hyo90) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:02 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 43 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 |
 | 44 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 |
 
-Snapshot ID: `aEy7gAAAAABE6WK4mwYOAe02Onw6t4sq`
+Snapshot ID: `aE4NAAAAAACMRG+THAsU8B2E5K4kzorq`

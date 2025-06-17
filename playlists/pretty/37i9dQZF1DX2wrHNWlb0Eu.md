@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้! ศิลปิน: sarah salola
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,401 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,421 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 82 | [ภูเขาบังเส้นผม \(Hide you\) feat\. TWOPEE](https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ภูเขาบังเส้นผม \(Hide you\)](https://open.spotify.com/album/29eQN5K2vGOaYyeGxENsEr) | 3:39 |
 | 83 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 |
 | 84 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
-| 85 | [You’re My Every Reason \(2=1\)](https://open.spotify.com/track/2ibQCW19cKBk9WqGif17ni) | [Joop Vudtinun](https://open.spotify.com/artist/3ihPjNwDHETu0jl3gDtvax) | [You’re My Every Reason \(2=1\)](https://open.spotify.com/album/45MUGHHAwFYXowFGSE9cTC) | 4:52 |
-| 86 | [FOLLOWERS](https://open.spotify.com/track/5lyB7wS4hQhK0FeFLJWfpQ) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แพ้ทุกที \(LOOPER\), FOLLOWERS](https://open.spotify.com/album/7igqgnplrOHmu0UoB95pMA) | 3:14 |
+| 85 | [FOLLOWERS](https://open.spotify.com/track/5lyB7wS4hQhK0FeFLJWfpQ) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แพ้ทุกที \(LOOPER\), FOLLOWERS](https://open.spotify.com/album/7igqgnplrOHmu0UoB95pMA) | 3:14 |
+| 86 | [You’re My Every Reason \(2=1\)](https://open.spotify.com/track/2ibQCW19cKBk9WqGif17ni) | [Joop Vudtinun](https://open.spotify.com/artist/3ihPjNwDHETu0jl3gDtvax) | [You’re My Every Reason \(2=1\)](https://open.spotify.com/album/45MUGHHAwFYXowFGSE9cTC) | 4:52 |
 | 87 | [คนเดียวในจักรวาล \- From "Last Meal Universe อาหารมื้อสุดท้าย ก่อนโลกกลายเป็นทางด่วนอวกาศ"](https://open.spotify.com/track/2ho2dFO7J0VogKk8ey0FZj) | [Gun Napat](https://open.spotify.com/artist/051lp6s3ON69PxioINt2xE) | [คนเดียวในจักรวาล \(From "Last Meal Universe อาหารมื้อสุดท้าย ก่อนโลกกลายเป็นทางด่วนอวกาศ"\)](https://open.spotify.com/album/7c8rnAkJRZqNVCXiqQ207h) | 3:44 |
 | 88 | [พิง \(เพลงประกอบละคร กระเช้าสีดา\)](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [พิง \- Single](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 |
 | 89 | [น้ำหอม](https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [น้ำหอม \- Single](https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka) | 3:27 |

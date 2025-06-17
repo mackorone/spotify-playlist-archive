@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from CKAY, Olamide, Gunna, Mayorkun and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,200 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,271 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 12 | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq) | 3:05 |
 | 13 | [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 |
 | 14 | [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 |
-| 15 | [Superfuji](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 |
+| 15 | [Superfuji\(GOBE\)](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji\(GOBE\)](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 |
 | 16 | [BONIFACE](https://open.spotify.com/track/5AFItM5SVDczk1FE7RzLGZ) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [BONIFACE](https://open.spotify.com/album/2p4DiGEh1t9B43kfIDt2xM) | 2:08 |
 | 17 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |
 | 18 | [Open Casket](https://open.spotify.com/track/7KIyiysRmpi0hclcataHy4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [Open Casket](https://open.spotify.com/album/32oRjhTzNz7ueLtYeaSgF2) | 2:23 |

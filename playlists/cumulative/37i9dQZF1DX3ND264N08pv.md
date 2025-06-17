@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-337 songs - 18 hr 25 min
+338 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Medication Time](https://open.spotify.com/track/6kGNLFT2tK9npF26tGnx8e) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 4:17 | 2022-12-08 | 2023-07-28 |
 | [Melancholic Life](https://open.spotify.com/track/0LOWVfO6x8azUYQOD20i1Y) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Melancholic Life](https://open.spotify.com/album/2VVqBCyVe21ygdQ8NUVWHE) | 4:32 | 2025-02-07 | 2025-02-11 |
 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 | 2025-02-27 |  |
-| [Memories on M](https://open.spotify.com/track/2CX0dd27MAgsHYUU2vzL1s) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [LE BASK](https://open.spotify.com/artist/23ZF6wwvduGxWSH2j97Ish) | [Memories on M](https://open.spotify.com/album/3Yxeujt4sPTupKb733Xjai) | 3:31 | 2025-04-04 |  |
+| [Memories on M](https://open.spotify.com/track/2CX0dd27MAgsHYUU2vzL1s) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [LE BASK](https://open.spotify.com/artist/23ZF6wwvduGxWSH2j97Ish) | [Memories on M](https://open.spotify.com/album/3Yxeujt4sPTupKb733Xjai) | 3:31 | 2025-04-04 | 2025-06-17 |
 | [Mental Storm](https://open.spotify.com/track/5uo3ETWMdGXcgKPhqhYyfT) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Frenchcore Familia](https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR) | [Mental Storm](https://open.spotify.com/album/3GWkhI0JtWVTeKOuDk6ZAs) | 3:04 | 2025-03-19 | 2025-05-07 |
 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 | 2024-03-22 |  |
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 | 2023-03-07 |
@@ -319,6 +319,7 @@
 | [Trip to Defqon.1](https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JDX](https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4) | [Trip to Defqon.1](https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu) | 3:42 | 2024-06-27 | 2025-04-04 |
 | [Trip to España](https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Trip to España](https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o) | 3:42 | 2024-08-02 | 2025-04-04 |
 | [Trip to Greece](https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Trip to Greece](https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ) | 3:06 | 2024-07-18 | 2025-04-26 |
+| [Trip to Portugal](https://open.spotify.com/track/4FueSt96r79ab1s9AK95sP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Trip to Portugal](https://open.spotify.com/album/35PMqwTfdUgfuCrpAaEvOY) | 3:32 | 2025-06-16 |  |
 | [Trip to Scotland](https://open.spotify.com/track/2HOWJ0NsgkKTnxxKK9NUIr) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv), [Piper.Ally](https://open.spotify.com/artist/7irQApL7q6iOzs8mDY3xDz) | [Trip to Scotland](https://open.spotify.com/album/6lIQTmNrXP4CzwxVhdguDB) | 2:55 | 2024-04-18 | 2025-01-11 |
 | [Trip to USA](https://open.spotify.com/track/1iHzaNUUAq4dAH5drnioPq) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Trip to USA](https://open.spotify.com/album/6PXiP9YTgcag50QtDVUqM7) | 2:33 | 2025-06-02 |  |
 | [Trippie naar de klote](https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Steen](https://open.spotify.com/artist/4sf0XtUsKwVtg6YK72Dx2C) | [Trippie naar de klote](https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh) | 3:12 | 2023-09-21 | 2024-05-17 |

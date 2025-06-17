@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Capo Plaza, Fabri Fibra, Slings e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,542 likes - 136 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,547 likes - 136 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

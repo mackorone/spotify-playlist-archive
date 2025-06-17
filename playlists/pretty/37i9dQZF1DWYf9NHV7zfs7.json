@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Abel Pintos",
-  "num_followers": 63765,
+  "num_followers": 63795,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-05-23 03:00:11",
       "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
+    },
+    {
+      "added_at": "2025-05-23 03:00:11",
+      "album": {
         "name": "El Viaje",
         "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 200520,
       "name": "Santa Marta",
       "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
-    },
-    {
-      "added_at": "2025-05-23 03:00:11",
-      "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
     },
     {
       "added_at": "2025-05-23 03:00:11",

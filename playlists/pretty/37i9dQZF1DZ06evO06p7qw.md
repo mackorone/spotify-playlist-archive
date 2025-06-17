@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,009 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,078 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 28 | [Más Allá](https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
 | 29 | [Mojado](https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:29 |
 | 30 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
-| 31 | [Aun Te Extraño](https://open.spotify.com/track/7EbcbArbBQD2AhmFBm0XCO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 2:38 |
-| 32 | [Una y Otra Vez \- En Vivo Desde El Auditorio Nacional](https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano En Concierto 10 Años \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G) | 4:41 |
+| 31 | [Una y Otra Vez \- En Vivo Desde El Auditorio Nacional](https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano En Concierto 10 Años \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G) | 4:41 |
+| 32 | [Aun Te Extraño](https://open.spotify.com/track/7EbcbArbBQD2AhmFBm0XCO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO \(Deluxe Edition\)](https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC) | 2:38 |
 | 33 | [Intensos](https://open.spotify.com/track/6TyjDUjt8Z8SotHhGQSUDq) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 2:51 |
 | 34 | [Este Momento](https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Momento](https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N) | 3:26 |
 | 35 | [Puro Sentimiento](https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Puro Sentimiento](https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn) | 3:06 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 47 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 |
 | 48 | [Intro + Miel \- En Vivo desde el Auditorio Nacional](https://open.spotify.com/track/4VcnsXca3wmorKKJPgZR0W) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano En Concierto 10 Años \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G) | 5:21 |
 
-Snapshot ID: `aEy7gAAAAACtBySN8QrBFREZnsSd7k7P`
+Snapshot ID: `aE4NAAAAAAAvv3/n1vUyo8tTFxSrWVBx`

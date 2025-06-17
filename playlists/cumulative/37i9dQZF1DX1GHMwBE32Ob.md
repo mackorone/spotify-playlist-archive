@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Zerrydl
 
-363 songs - 16 hr 40 min
+364 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [KPK \(Ko Por Ke\)](https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [A True Champion](https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk) | 3:11 | 2022-06-29 | 2024-02-09 |
 | [Kuku Do Ritual](https://open.spotify.com/track/5KPMtK8yiVbIcIIMr2Qvr7) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Kuku Do Ritual](https://open.spotify.com/album/76cw3ZxOznH8pt7RDZeL4v) | 3:56 | 2023-01-20 | 2023-02-11 |
 | [La Pio Pio](https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:25 | 2023-06-30 | 2024-11-16 |
-| [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 | 2025-02-24 |  |
+| [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 | 2025-02-24 | 2025-06-17 |
 | [Lazy Baby](https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Lazy Baby](https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh) | 2:06 | 2025-05-02 |  |
 | [Legbegbe](https://open.spotify.com/track/7nSCIoTBW6Y7lHny5hSgqV) | [Mr Real](https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO), [Obadice](https://open.spotify.com/artist/1ehQuWiGUch5doyxXLkdRz), [Idowest](https://open.spotify.com/artist/0ArqRD7tW8ZRr4AHKRGcb0) | [Legbegbe](https://open.spotify.com/album/67LJ3Ddvh3wB0NwghIz7El) | 4:22 | 2022-06-29 | 2023-01-13 |
 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 | 2023-02-03 | 2024-11-21 |
@@ -228,6 +228,7 @@
 | [Metro](https://open.spotify.com/track/3ncCdwV4rnFY9YNzsh4KGo) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Yo X](https://open.spotify.com/artist/5Dv0JAo4jUBcrG1rHzCzcV) | [Metro](https://open.spotify.com/album/3SIBRVHyi8IkfXig7nFhiq) | 2:10 | 2024-01-05 | 2024-04-26 |
 | [Money Moves](https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Money Moves](https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX) | 2:43 | 2025-05-23 |  |
 | [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 | 2025-04-04 |  |
+| [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 | 2025-06-13 |  |
 | [My Dear](https://open.spotify.com/track/1CYFNeIAZwflFAWhpl1bAT) | [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [DEBAYO](https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL) | [My Dear](https://open.spotify.com/album/62EgFNDFDT0cg9XJm4DqJZ) | 2:37 | 2025-02-21 | 2025-03-15 |
 | [My Life](https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:11 | 2023-11-17 | 2024-02-06 |
 | [My Life](https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [My Life](https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV) | 2:12 | 2022-08-05 | 2023-11-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,315 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,321 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 18 | [Is It Because I Love You](https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Yagi](https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv) | 3:54 |
 | 19 | [Pretty Girl](https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
 | 20 | [Together](https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm) | [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Together](https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2) | 4:12 |
-| 21 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 |
-| 22 | [Confirm \(feat\. Davido\)](https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Confirm \(feat\. Davido\)](https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy) | 3:49 |
+| 21 | [Confirm \(feat\. Davido\)](https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Confirm \(feat\. Davido\)](https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy) | 3:49 |
+| 22 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 |
 | 23 | [Abobi](https://open.spotify.com/track/7echDVorySYxnup1HrR15b) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Abobi](https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1) | 3:21 |
 | 24 | [Alubarika](https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Alubarika](https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw) | 3:55 |
 | 25 | [Credit Alert](https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Credit Alert](https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet) | 3:13 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 47 | [Happy Day](https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Happy Day](https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD) | 4:20 |
 | 48 | [In My Head](https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [In My Head](https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1) | 3:14 |
 | 49 | [Halé Halé](https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:28 |
-| 50 | [Do Better](https://open.spotify.com/track/0vtXr3xIGXkHI0eidEOuUg) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Do Better](https://open.spotify.com/album/56f5Gq8bsHwIWak9Odfxxk) | 4:19 |
+| 50 | [Feelings \- A COLORS SHOW](https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Feelings \- A COLORS SHOW](https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o) | 3:26 |
 
-Snapshot ID: `aEy7gAAAAABtm9T2aYdxKby79Oo+sxA7`
+Snapshot ID: `aE4NAAAAAAB0+SY4nAnDuQx36nWh/+fy`

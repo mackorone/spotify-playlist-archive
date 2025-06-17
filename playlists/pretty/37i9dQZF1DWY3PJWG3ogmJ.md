@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,296 likes - 118 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,394 likes - 118 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 75 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
 | 76 | [Nekketsu](https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 3:11 |
 | 77 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 |
-| 78 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 |
-| 79 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 |
+| 78 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 |
+| 79 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 |
 | 80 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 |
 | 81 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 |
 | 82 | [Life Is Pain](https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7) | 2:54 |
@@ -115,14 +115,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 105 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
 | 106 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
 | 107 | [New Salem](https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [New Salem](https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh) | 3:23 |
-| 108 | [A Colossal Wreck](https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 2:28 |
+| 108 | [Desperate Pleasures](https://open.spotify.com/track/56qkrMwEzu4cR4UrG6GHiL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 3:11 |
 | 109 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |
 | 110 | [Narcissus](https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Narcissus](https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p) | 3:08 |
 | 111 | [I Am No Good](https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Crook](https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr) | 2:58 |
 | 112 | [ManiaCult](https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR) | [ManiaCult](https://open.spotify.com/album/1jhN2yRAz1ZEwPkdLlBdir) | 3:37 |
-| 113 | [Desperate Pleasures](https://open.spotify.com/track/56qkrMwEzu4cR4UrG6GHiL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 3:11 |
-| 114 | [Writhe](https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Writhe](https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM) | 3:22 |
-| 115 | [No Rest No Peace](https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI) | [Katalepsy](https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w) | [No Rest No Peace](https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ) | 4:26 |
+| 113 | [A Colossal Wreck](https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 2:28 |
+| 114 | [No Rest No Peace](https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI) | [Katalepsy](https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w) | [No Rest No Peace](https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ) | 4:26 |
+| 115 | [Writhe](https://open.spotify.com/track/6GG08QXPhf0GweL9WIUZbF) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Writhe](https://open.spotify.com/album/3VJXuxoFeVp58orpuHY9UM) | 3:22 |
 | 116 | [Army of Cops](https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [Army of Cops](https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR) | 3:18 |
 | 117 | [Eat What You Kill](https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH) | [Confess](https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw) | [Eat What You Kill](https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt) | 5:15 |
 | 118 | [Sadness Rains](https://open.spotify.com/track/1BkqHo0wVuIuJvcCnqbwqv) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Sadness Rains](https://open.spotify.com/album/0j6VPPJdHULwpv5ObOPbDW) | 2:40 |

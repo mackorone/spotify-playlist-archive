@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,392 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,575 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Hasta Que un día](https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta Que un día](https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK) | 2:50 |
 | 50 | [Amor Borrachito](https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d) | 2:55 |
 
-Snapshot ID: `aEy7gAAAAAAj4G7Nlwnjsxn0NK9YuolV`
+Snapshot ID: `aE4NAAAAAADiAhcoVVut31KQa5SsMzUh`

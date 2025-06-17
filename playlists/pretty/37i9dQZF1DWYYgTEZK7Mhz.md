@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,286 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,313 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 34 | [Saint\-Tropez Twist](https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [Peppino Di Capri](https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec) | 2:17 |
 | 35 | [Un'estate al mare](https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3) | [Un'estate al mare / Bing bang being \[Digital 45\]](https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh) | 3:18 |
 | 36 | [Vamos a la Playa](https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:37 |
-| 37 | [24 mila baci](https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [24 mila baci \- Aulì\-Ulé \- Furore \- Movimento di Rock](https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF) | 2:18 |
-| 38 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
+| 37 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
+| 38 | [24 mila baci](https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [24 mila baci \- Aulì\-Ulé \- Furore \- Movimento di Rock](https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF) | 2:18 |
 | 39 | [Acapulco](https://open.spotify.com/track/6ljOLXDHJ7zPFfxZzG9vUM) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Le Canzoni La Nostra Storia](https://open.spotify.com/album/1knxIimFXSLzDsvgXwE7VY) | 3:46 |
 | 40 | [Sei come una lucertola](https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2) | [Jo Fedeli](https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:17 |
 | 41 | [Il mare nel cassetto](https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Milva: i più grandi successi](https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY) | 2:59 |

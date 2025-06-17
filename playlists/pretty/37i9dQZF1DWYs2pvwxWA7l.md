@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover :BNXN
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,350 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,512 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 34 | [Only Fans](https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Only Fans](https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu) | 2:29 |
 | 35 | [Toro \- A COLORS SHOW](https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Toro \- A COLORS SHOW](https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by) | 3:14 |
 | 36 | [Sooner](https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:33 |
-| 37 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
-| 38 | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP) | 2:33 |
+| 37 | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP) | 2:33 |
+| 38 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
 | 39 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
 | 40 | [everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 |
 | 41 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 |

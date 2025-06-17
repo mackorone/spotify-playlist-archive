@@ -530,7 +530,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 262153,
       "name": "Aku Ada",
       "url": "https://open.spotify.com/track/5THepVv09GWpRYyaEIGPT4"
@@ -11251,6 +11251,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN HOUR : Part.3",
+        "url": "https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179395,
+      "name": "Lemon Drop",
+      "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
+    },
+    {
+      "album": {
         "name": "Sticker - The 3rd Album",
         "url": "https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad"
       },
@@ -16538,7 +16556,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 223973,
       "name": "Runtuh",
       "url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO"
@@ -17628,7 +17646,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"

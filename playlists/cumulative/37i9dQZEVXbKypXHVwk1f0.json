@@ -8258,7 +8258,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -10624,7 +10624,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 183958,
       "name": "FAVELA",
       "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
@@ -14110,7 +14110,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
@@ -14608,6 +14608,28 @@
       "duration_ms": 198367,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt"
+    },
+    {
+      "album": {
+        "name": "la culpa (track 11)",
+        "url": "https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "la culpa (track 11)",
+      "url": "https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv"
     },
     {
       "album": {
@@ -20776,7 +20798,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
@@ -32304,7 +32326,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 229407,
       "name": "VILLANA",
       "url": "https://open.spotify.com/track/1MY2SoTXyZeqf2iKntSzt9"

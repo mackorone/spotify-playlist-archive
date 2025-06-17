@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: LSDXOXO
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,200 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,237 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 10 | [NO REGRETS](https://open.spotify.com/track/4BipTmcPnfJCqi0uUb03pE) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [RISK IT](https://open.spotify.com/album/0dmYSWwvQ0xK3WpkVaI2Wj) | 2:25 |
 | 11 | [Puta](https://open.spotify.com/track/5u7QDciPfgcpmoqRtp6zk6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Puta / Sola](https://open.spotify.com/album/5pR0qWF08ZFisy9P4YTR0e) | 3:41 |
 | 12 | [all of that](https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [all of that](https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp) | 2:09 |
-| 13 | [Famous](https://open.spotify.com/track/5wmJB8AJl5whV6ku8puLsU) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Famous / Talk Shit](https://open.spotify.com/album/2MSDdpOJGms3cP65kGDc9m) | 3:03 |
+| 13 | [Famous](https://open.spotify.com/track/5wmJB8AJl5whV6ku8puLsU) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Famous / Talk Sh!t](https://open.spotify.com/album/2MSDdpOJGms3cP65kGDc9m) | 3:03 |
 | 14 | [SATISFY](https://open.spotify.com/track/3yHwfHQn3qU1WLTLSw7VL8) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SATISFY](https://open.spotify.com/album/6pTszhm2TxKPaAplNDzdtM) | 2:45 |
 | 15 | [Expression](https://open.spotify.com/track/6w2zYfgGelViF375QM0mQr) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Expression](https://open.spotify.com/album/7Lo2WFhRHf96MDvvndLOEB) | 4:12 |
 | 16 | [eat, sleep, slay, 🔁 \- VTSS Remix](https://open.spotify.com/track/4OqyDu0rSap0eiri9xMMRH) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [eat, sleep, slay, 🔁 \(VTSS Remix\)](https://open.spotify.com/album/4Mq5jT6SeP02ejRrA4pJ1z) | 4:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 79 | [Pleasure](https://open.spotify.com/track/1kLDRsnkreQD4UTf8kHg51) | [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [Pleasure](https://open.spotify.com/album/4ubV3S1cCFNl1bD3V0wpkp) | 3:24 |
 | 80 | [thicc](https://open.spotify.com/track/7tNUNRjg5Q5JaGg5Q0zK0o) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 3:42 |
 
-Snapshot ID: `aExMIwAAAABZVSiT3XaZWv3RDCIZYZ62`
+Snapshot ID: `AAAAANeCR6sICJub5Jog3tIwlT3iHz0e`

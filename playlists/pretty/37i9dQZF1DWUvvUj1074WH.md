@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 
 > se alejan cositas
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,955 likes - 86 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,107 likes - 86 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

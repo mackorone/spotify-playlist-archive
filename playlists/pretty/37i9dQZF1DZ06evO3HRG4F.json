@@ -1,12 +1,12 @@
 {
   "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
-  "num_followers": 5269,
+  "num_followers": 5270,
   "original_name": "This Is Charlie Monttana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAADOpsQ2b80G7UIVFqpX8Bv",
+  "snapshot_id": "aE4NAAAAAABlp9/I5ZP2/XQacBNJY6dy",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 344920,
-      "name": "Ramillete de Piernas",
-      "url": "https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presente: Mi Legado",
         "url": "https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 344920,
+      "name": "Ramillete de Piernas",
+      "url": "https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pinches Mariguanos",
         "url": "https://open.spotify.com/album/089KiimOn0i7lGJJztXELG"
       },
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
+        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
       },
       "artists": [
         {
@@ -552,25 +552,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Derramando Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dr. Hollywood",
-        "url": "https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 317920,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7"
+      "duration_ms": 320306,
+      "name": "Todas Esas Lagrimas - En Vivo",
+      "url": "https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu"
     },
     {
       "added_at": null,
@@ -591,6 +575,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dr. Hollywood",
+        "url": "https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 317920,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Derramando Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotel Barcelona",
         "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 282240,
       "name": "Y Sufrir\u00e1s",
       "url": "https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
-        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Todas Esas Lagrimas - En Vivo",
-      "url": "https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Hollywood",
-        "url": "https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl"
+        "name": "Decreto por el Regreso de los Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 289680,
-      "name": "Yo Con Mi Desmadre",
-      "url": "https://open.spotify.com/track/2Y7e5l7lAZr5UihX0jO7jG"
+      "duration_ms": 263026,
+      "name": "Whatsapp",
+      "url": "https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decreto por el Regreso de los Buenos Tiempos",
-        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
+        "name": "Dr. Hollywood",
+        "url": "https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 263026,
-      "name": "Whatsapp",
-      "url": "https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl"
+      "duration_ms": 289680,
+      "name": "Yo Con Mi Desmadre",
+      "url": "https://open.spotify.com/track/2Y7e5l7lAZr5UihX0jO7jG"
     },
     {
       "added_at": null,

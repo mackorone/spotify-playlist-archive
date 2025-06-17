@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 161848,
+  "num_followers": 161855,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAABcJehW5Iruul0EuegwJpW",
+  "snapshot_id": "aE4NAAAAAADbkAtUmMFSq95TjCNFidwf",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+        "name": "Expander",
+        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
       },
       "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Loom (feat. Bonobo)",
-      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
+      "duration_ms": 251428,
+      "name": "Expander",
+      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expander",
-        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
       "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 251428,
-      "name": "Expander",
-      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
+      "duration_ms": 226866,
+      "name": "Loom (feat. Bonobo)",
+      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 139085,
-      "name": "Babylonia",
-      "url": "https://open.spotify.com/track/0ks6X1a6PY5zXomNvuDgtm"
+      "duration_ms": 176425,
+      "name": "Northport",
+      "url": "https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 176425,
-      "name": "Northport",
-      "url": "https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk"
+      "duration_ms": 139085,
+      "name": "Babylonia",
+      "url": "https://open.spotify.com/track/0ks6X1a6PY5zXomNvuDgtm"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Tokyo Ska Paradise Orchestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,301 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,343 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 43 | [Pressure Drop](https://open.spotify.com/track/2EISedV2npKMtvygkykV2r) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Sweet and Dandy](https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s) | 2:56 |
 | 44 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 |
 | 45 | [Wallflower](https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 2:23 |
-| 46 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
-| 47 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
+| 46 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
+| 47 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
 | 48 | [Cha\-Cha Love](https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Cha\-Cha Love](https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue) | 3:34 |
 | 49 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
 | 50 | [Wake Up](https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 3:01 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 78 | [Cold in the City](https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Cold in the City](https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z) | 3:26 |
 | 79 | [Ruby Cumulous](https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | [Gemini, Her Majesty](https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF) | 4:51 |
 | 80 | [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 |
-| 81 | [Así No Se Puede Querer](https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Así No Se Puede Querer](https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw) | 3:36 |
-| 82 | [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 |
+| 81 | [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 |
+| 82 | [Así No Se Puede Querer](https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Así No Se Puede Querer](https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw) | 3:36 |
 | 83 | [Im gonna come back to Brixton](https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Forever](https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF) | 4:20 |
 | 84 | [Ego](https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [Room For Abuse '06](https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf) | 3:06 |
 | 85 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |

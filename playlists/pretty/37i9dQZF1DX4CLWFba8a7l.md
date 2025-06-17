@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > In this house we celebrate Australian music\. Cover: ONEFOUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,768 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,765 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 41 | [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 |
 | 42 | [Kiss the Sky](https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Return to the Roots](https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02) | 5:16 |
 | 43 | [Luxford](https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Luxford](https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx) | 3:27 |
-| 44 | [Don't Forget You Love Me](https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [Don't Forget You Love Me](https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1) | 3:37 |
-| 45 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
+| 44 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
+| 45 | [Don't Forget You Love Me](https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [Don't Forget You Love Me](https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1) | 3:37 |
 | 46 | [Deadstick](https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Deadstick](https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT) | 3:33 |
 | 47 | [Spend My Nights](https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Spend My Nights](https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX) | 2:30 |
 | 48 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 50 | [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \(Spotify Singles\)](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 |
 | 51 | [cool](https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [cool](https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv) | 2:43 |
 | 52 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 |
-| 53 | [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 |
-| 54 | [Recognise](https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Recognise](https://open.spotify.com/album/4887blG8QR8i119By3sGO8) | 3:51 |
+| 53 | [Recognise](https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Recognise](https://open.spotify.com/album/4887blG8QR8i119By3sGO8) | 3:51 |
+| 54 | [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 |
 | 55 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
 | 56 | [Learn Yourself](https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [New Love](https://open.spotify.com/album/0PPBf8JkGGRsjb3nWkiYtT) | 2:41 |
 | 57 | [Don’t Happy, Be Worry](https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Don’t Happy, Be Worry](https://open.spotify.com/album/0oINbUTZmShChwgDUZRJdd) | 3:09 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 60 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 |
 | 61 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 |
 | 62 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 |
-| 63 | [Family](https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Family](https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo) | 3:05 |
-| 64 | [BACK IN THE DAY](https://open.spotify.com/track/4OxaRflmTPVg5fSwEWZJqh) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [BACK IN THE DAY](https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP) | 2:48 |
-| 65 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 |
+| 63 | [BACK IN THE DAY](https://open.spotify.com/track/4OxaRflmTPVg5fSwEWZJqh) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [BACK IN THE DAY](https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP) | 2:48 |
+| 64 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 |
+| 65 | [Family](https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Family](https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo) | 3:05 |
 | 66 | [Left Of The Dealer](https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Left Of The Dealer](https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi) | 4:14 |
 | 67 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 |
 | 68 | [Milk & Honey](https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Milk & Honey](https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2) | 4:20 |
 | 69 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 |
-| 70 | [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 |
-| 71 | [Cathode Ray](https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Cathode Ray](https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX) | 4:09 |
+| 70 | [Cathode Ray](https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Cathode Ray](https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX) | 4:09 |
+| 71 | [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 |
 | 72 | [summer in december](https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [wraith](https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC) | 4:05 |
 | 73 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
 | 74 | [No Cure For Love](https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC), [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [No Cure For Love](https://open.spotify.com/album/3stGOTd46n9pCg1Lj3INZV) | 3:52 |
-| 75 | [The Bends](https://open.spotify.com/track/3Gy2aRqQkCY6VAgeYu1Qpf) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers](https://open.spotify.com/album/5OOD5eUlJc6N8shol45UIb) | 3:29 |
+| 75 | [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 |
 
 Snapshot ID: `aErdfwAAAAAkE73n8uG/FCu6yt/CdUkb`

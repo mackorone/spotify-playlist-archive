@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-118 songs - 7 hr 29 min
+120 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Excuse](https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:07 | 2023-11-03 | 2024-06-13 |
 | [Fine](https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL) | 4:11 | 2023-11-03 |  |
 | [For A Long Time \(with Jung Yubin\)](https://open.spotify.com/track/7wUq7l86ffQyMt1zs06338) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End Of The Summer](https://open.spotify.com/album/3JEw0H8fWbGDGmgX0ddPpC) | 4:03 | 2023-11-03 | 2024-04-19 |
+| [For A Moment](https://open.spotify.com/track/3qHSUvfhOTkNVOAtsVdxKp) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [For A Moment](https://open.spotify.com/album/3BuWIrIvCYXWcIFr88WZ91) | 3:57 | 2025-06-16 |  |
 | [For my little one \(with Jeon sohyeon\)](https://open.spotify.com/track/6oDLxxBH9gOUiwQxoP0qlh) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeon sohyeon](https://open.spotify.com/artist/7iLP6KAcEmHPCyxqyAD62E) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 3:18 | 2024-03-08 | 2025-05-13 |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2023-11-03 | 2024-03-09 |
 | [Forgive, Forget](https://open.spotify.com/track/63ZyS4MPjh4tHYQeq11fEE) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:31 | 2024-03-08 | 2025-01-08 |
@@ -67,6 +68,7 @@
 | [Letter](https://open.spotify.com/track/6IFltGdAUMosyFl0ZieEF7) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [1](https://open.spotify.com/album/6HhqELdvnGGbBQVYoTj239) | 3:28 | 2025-04-28 |  |
 | [Letter](https://open.spotify.com/track/6Z6IBsPsIF9nHEUNVHRtQF) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [Letter](https://open.spotify.com/album/6U4o7ATJnV0qbF0a9eSQaD) | 2:57 | 2025-04-08 |  |
 | [Letter](https://open.spotify.com/track/79OAaveywANnqqwzmBKo6f) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Letter](https://open.spotify.com/album/352elMfFQTnoMOPYZxIuec) | 4:06 | 2023-11-03 | 2024-04-19 |
+| [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uhuu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 | 2025-06-16 |  |
 | [Like a tree](https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx) | [YE ON](https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci) | [Like a tree](https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW) | 4:55 | 2024-11-29 | 2025-04-22 |
 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 | 2023-11-03 |  |
 | [Listen And Sleep](https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Would You Sleep?](https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF) | 4:37 | 2023-11-03 | 2024-04-19 |
@@ -79,7 +81,7 @@
 | [melody of LOVE](https://open.spotify.com/track/0IeMvdtKd6FgEWgVFdtQQm) | [Jang Pill Soon](https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI) | [melody of LOVE](https://open.spotify.com/album/0ckTN1RbF46tC87PLSM4vh) | 4:14 | 2025-06-09 |  |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2023-11-03 | 2024-06-01 |
 | [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 | 2023-11-03 | 2024-07-30 |
-| [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 | 2024-03-08 |  |
+| [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 | 2024-03-08 | 2025-06-17 |
 | [My Old Story](https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [My Old Story](https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL) | 3:56 | 2024-07-15 |  |
 | [Night you went away \(Korean Ver.\) \(Vocal\. Kim gyeol\)](https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [Night you went away](https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp) | 3:38 | 2024-03-08 |  |
 | [Note](https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [When the dawn calls me abruptly](https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt) | 2:51 | 2024-03-08 | 2024-11-26 |
@@ -104,7 +106,7 @@
 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 | 2024-03-08 |  |
 | [The Lover](https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [The Lover](https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il) | 3:05 | 2023-11-03 | 2024-04-19 |
 | [The Night Time \(stripped\)](https://open.spotify.com/track/0wIwa4JZbljozgeIEcSxsT) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Closet](https://open.spotify.com/album/0pguC5BCed8NAbhtHXTSOB) | 3:22 | 2023-11-03 | 2024-04-19 |
-| [The Night Time \(stripped\)](https://open.spotify.com/track/1TPwouflbk2VA3RDCMx7IR) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Closet](https://open.spotify.com/album/65GDFnpQfc5tPaRVrelMM6) | 3:22 | 2024-11-29 |  |
+| [The Night Time \(stripped\)](https://open.spotify.com/track/1TPwouflbk2VA3RDCMx7IR) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Closet](https://open.spotify.com/album/65GDFnpQfc5tPaRVrelMM6) | 3:22 | 2024-11-29 | 2025-06-17 |
 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 | 2024-07-15 |  |
 | [To eunbi](https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 2:47 | 2025-05-26 |  |
 | [To My Beloved](https://open.spotify.com/track/1UL1Xm1RRo2SZqVJ2lzS33) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [To My Beloved](https://open.spotify.com/album/39Bql5WDBY9VfIMhMf7CQn) | 3:16 | 2025-05-12 |  |

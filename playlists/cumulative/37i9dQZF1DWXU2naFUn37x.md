@@ -4,7 +4,7 @@
 
 > Slings in cover della playlist con il top dello street rap italiano ⛓️
 
-812 songs - 1 day 13 hr 16 min
+813 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,8 @@
 | [Misère](https://open.spotify.com/track/2DcQbyQcO8k0HZzJOmFRaV) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Misère](https://open.spotify.com/album/627gUjeaCo9NUB7MGAqlGI) | 2:52 | 2025-01-09 | 2025-03-28 |
 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 | 2023-10-12 | 2023-12-01 |
 | [MOCRO SCHOOL \(feat\. Yunes LaGrintaa, Hani, Kassimi\)](https://open.spotify.com/track/0fsWQEJigMTXNrLKq179Y4) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [N.47](https://open.spotify.com/album/4eIDWt7ND4Dq8e5IrLcD3e) | 4:37 | 2024-10-03 |  |
-| [MOISE KEAN](https://open.spotify.com/track/38NU5s6KSn5lUfnh8QUpyn) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/4i3XpfOVIsVyI5ANiyiKRR) | 3:15 | 2025-05-29 |  |
+| [MOISE KEAN](https://open.spotify.com/track/1flpr4TyI6JvNCaUs8NPbh) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/2X5WUZnoOKOACVUGZw5hAT) | 3:15 | 2025-06-16 |  |
+| [MOISE KEAN](https://open.spotify.com/track/38NU5s6KSn5lUfnh8QUpyn) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/4i3XpfOVIsVyI5ANiyiKRR) | 3:15 | 2025-05-29 | 2025-06-17 |
 | [MOLECOLE SPRITE](https://open.spotify.com/track/0bhreLyBJhKKtiGOZuKAYx) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 2:54 | 2025-05-15 |  |
 | [MOLLY ROSA](https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [WE 2FLY](https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2) | 2:19 | 2024-08-02 | 2025-01-31 |
 | [MOLTIPLICARLI](https://open.spotify.com/track/4imCAwk5G0538VtmPwmFUk) | [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [GOTTI MAFIA](https://open.spotify.com/album/1XYWq6p743QRBZRSqt7Xhf) | 2:32 | 2025-05-08 | 2025-05-22 |

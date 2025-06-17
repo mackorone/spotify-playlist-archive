@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(8/6/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(15/6/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-172 songs - 8 hr 34 min
+173 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-11 | 2025-01-13 |
 | [Believe \(Shooting Stars\)](https://open.spotify.com/track/7fJdto9euM593wybpCdEPV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Believe \(Shooting Stars\)](https://open.spotify.com/album/79WFgZm35smuyjipo6fouj) | 2:34 | 2025-01-19 |  |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-09 | 2025-04-29 |
-| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-09-08 |  |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-09-08 | 2025-06-17 |
 | [Boig X Tu](https://open.spotify.com/track/1ECjtBKeOS6rV7exnE5fYG) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR) | [Sempre Joves x10](https://open.spotify.com/album/2CieTUcjWa7KsdEd8zyRWw) | 3:08 | 2024-07-14 | 2024-09-02 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2025-02-17 |  |
 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 | 2025-02-24 | 2025-04-16 |
@@ -134,6 +134,7 @@
 | [REBOBINAR](https://open.spotify.com/track/45r6wchHonMxHst9NwAnze) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [REBOBINAR](https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ) | 2:54 | 2024-12-15 | 2025-03-31 |
 | [Rikiti](https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Rikiti](https://open.spotify.com/album/1suSSaPoQLN8CufLXvEdVF) | 2:26 | 2023-09-10 | 2024-04-29 |
 | [Rumba catalana](https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Rumba catalana](https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e) | 3:19 | 2024-10-27 | 2025-05-27 |
+| [Sains et saufs](https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sains et saufs](https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ) | 3:41 | 2025-06-16 |  |
 | [Sant Tornem\-hi](https://open.spotify.com/track/2AhzvqNMSylniVhlQVIwcF) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Only Hits](https://open.spotify.com/album/0sN55ZViQjKnC1VnAd9rHQ) | 2:35 | 2024-09-22 | 2025-02-25 |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-02-02 |  |
 | [Serem més forts](https://open.spotify.com/track/33hasXzBCCcUDHNT7DqlE6) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Serem més forts](https://open.spotify.com/album/2LRjn2zuOsnDYtGglgKPEI) | 2:46 | 2024-11-03 | 2025-02-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 461471,
+  "num_followers": 461550,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACzMoGll98scd/6wFyEdCJk",
+  "snapshot_id": "aE4NAAAAAAD6pFSYrO5JcTio1uDvegZU",
   "tracks": [
     {
       "added_at": null,
@@ -366,11 +366,19 @@
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 204493,
-      "name": "Bells",
-      "url": "https://open.spotify.com/track/5IBaJDzPGl6e2hOfhjymMb"
+      "duration_ms": 229759,
+      "name": "Sharks (feat. Jelly Roll, Big Sean)",
+      "url": "https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2"
     },
     {
       "added_at": null,
@@ -446,19 +454,11 @@
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 229759,
-      "name": "Sharks (feat. Jelly Roll, Big Sean)",
-      "url": "https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2"
+      "duration_ms": 204493,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/5IBaJDzPGl6e2hOfhjymMb"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Mad At Me (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/7JtNrU7zVsy7P4fovWll3p"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Baby Mad At Me (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -611,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+        "name": "Baby Mad At Me (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/7JtNrU7zVsy7P4fovWll3p"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
         },
         {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+      "duration_ms": 208000,
+      "name": "Baby Mad At Me (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI"
     },
     {
       "added_at": null,
@@ -679,30 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "I'm So Paid",
-      "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "I'm So Paid",
+      "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believer (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 219705,
-      "name": "Believer (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 309040,
       "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
       "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believer (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 219705,
+      "name": "Believer (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 50884,
+  "num_followers": 50893,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAXag7xRNrCvWr+Cb5qLcDJ",
+  "snapshot_id": "aE4NAAAAAACbRqrhEjdbG1ePIv/muJnI",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Lucky",
+        "url": "https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Booker T. Jones",
+          "url": "https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U"
+        }
+      ],
+      "duration_ms": 404453,
+      "name": "I Cover the Waterfront (feat. Booker T. Jones)",
+      "url": "https://open.spotify.com/track/050GP3PZhpslbb83CBhzIR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It Serve You Right To Suffer (2025 Remaster)",
         "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 261837,
       "name": "Shake It Baby - 2025 Remaster",
       "url": "https://open.spotify.com/track/1Oh8werpHaazuzJ52QMieU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Summit",
-        "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 298066,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Lucky",
-        "url": "https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ"
+        "name": "Blues Summit",
+        "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
       },
       "artists": [
         {
@@ -260,13 +260,13 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         },
         {
-          "name": "Booker T. Jones",
-          "url": "https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 404453,
-      "name": "I Cover the Waterfront (feat. Booker T. Jones)",
-      "url": "https://open.spotify.com/track/050GP3PZhpslbb83CBhzIR"
+      "duration_ms": 298066,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/6veqGE5X1PoICwsE02Jh1k"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 233360,
-      "name": "Peace Lovin' Man",
-      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
+      "duration_ms": 184506,
+      "name": "Stella Mae",
+      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Stella Mae",
-      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
+      "duration_ms": 233360,
+      "name": "Peace Lovin' Man",
+      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
     },
     {
       "added_at": null,
@@ -591,6 +591,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Baby Lee (feat. Robert Cray)",
+      "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Serve You Right To Suffer (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 148097,
+      "name": "Bottle Up & Go - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boom Boom (2007 Remaster)",
         "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
       },
@@ -623,42 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Serve You Right To Suffer (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 148097,
-      "name": "Bottle Up & Go - 2025 Remaster",
-      "url": "https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Baby Lee (feat. Robert Cray)",
-      "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half A Stranger Vol 1",
-        "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 183706,
-      "name": "Hobo Blues",
-      "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
+      "duration_ms": 170506,
+      "name": "Backbiters And Syndicaters",
+      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+        "name": "Half A Stranger Vol 1",
+        "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 170506,
-      "name": "Backbiters And Syndicaters",
-      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
+      "duration_ms": 183706,
+      "name": "Hobo Blues",
+      "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
       "duration_ms": 238173,
       "name": "Tupelo (2007 - Remaster)",
       "url": "https://open.spotify.com/track/0F4R78rWhmodVOy4H2azVB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "My Own Blues",
+      "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 309320,
       "name": "The Healing Game",
       "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "My Own Blues",
-      "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
     },
     {
       "added_at": null,

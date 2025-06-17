@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,108 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,112 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 31 | [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 |
 | 32 | [Through The Fire](https://open.spotify.com/track/0EngAXfx8kNX7I8W4CVJZX) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 3:07 |
 | 33 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
-| 34 | [Mine \(feat\. G Herbo\)](https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lost Pages](https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs) | 3:26 |
+| 34 | [Go Part 1 \(with G Herbo\)](https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:41 |
 | 35 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 |
 | 36 | [Best Rapper Alive](https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:34 |
 | 37 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
-| 38 | [Go Part 1 \(with G Herbo\)](https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:41 |
+| 38 | [Mine \(feat\. G Herbo\)](https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lost Pages](https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs) | 3:26 |
 | 39 | [Peter Piper \(feat\. G Herbo\)](https://open.spotify.com/track/1LtfT4iJrlISYbYc2yLkqT) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Peter Piper \(feat\. G Herbo\)](https://open.spotify.com/album/032JQb782ZO6JgoyOMwbps) | 4:00 |
 | 40 | [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 |
 | 41 | [Swerve \(feat\. G Herbo\)](https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [UNDERWORLD](https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV) | 3:01 |
-| 42 | [Dark Knight](https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:59 |
-| 43 | [Stress Relief \(with G Herbo\)](https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Stress Relief \(with G Herbo\)](https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq) | 2:40 |
+| 42 | [Stress Relief \(with G Herbo\)](https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Stress Relief \(with G Herbo\)](https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq) | 2:40 |
+| 43 | [Dark Knight](https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:59 |
 | 44 | [Ridin Wit It](https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:18 |
 | 45 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 |
 | 46 | [Chiraq Demons \(feat\. G Herbo\)](https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 49 | [10 to 10 \(feat\. G Herbo\)](https://open.spotify.com/track/0t7LecJMF6Orgs5qg4Dur3) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Cry For Help](https://open.spotify.com/album/0ecyqAyhmOZFnKLPeGCzhQ) | 2:43 |
 | 50 | [Body Count \(feat\. King Von & G Herbo\)](https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 4:03 |
 
-Snapshot ID: `aEy7gAAAAAC7+rYSAnFZgUd3xlnxJ0Gc`
+Snapshot ID: `aE4NAAAAAABpzyhuvfDxWM0+Q5H8crim`

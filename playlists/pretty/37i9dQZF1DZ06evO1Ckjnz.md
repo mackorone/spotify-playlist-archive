@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,828 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,826 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 46 | [Let It Out](https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:28 |
 | 47 | [High Heels \(feat\. Rico Nasty\)](https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Pink Is Better](https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf) | 2:35 |
 | 48 | [Cold](https://open.spotify.com/track/4Onanh2sbZQKTGH8KvWzxS) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:33 |
-| 49 | [One On 5 \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/0geh0360Ns6t3i0HbOH6DF) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:11 |
-| 50 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 |
+| 49 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 |
+| 50 | [One On 5 \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/0geh0360Ns6t3i0HbOH6DF) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:11 |
 
-Snapshot ID: `aEy7gAAAAAChRh2Oh1ws3KsbTN8SucY6`
+Snapshot ID: `aE4NAAAAAADAlekHeOuModqqZYq1K3M6`

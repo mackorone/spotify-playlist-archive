@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 53319,
+  "num_followers": 53323,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
-        "name": "re: Sound Of Light",
-        "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
-      },
-      "artists": [
-        {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
-        },
-        {
-          "name": "Hitori",
-          "url": "https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "re: Sound Of Light",
-      "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
-    },
-    {
-      "added_at": "2025-06-11 04:14:08",
-      "album": {
         "name": "Namikimichi",
         "url": "https://open.spotify.com/album/6GCOhJ4u43m3tJaNKkhErs"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
+    },
+    {
+      "added_at": "2025-06-11 04:14:08",
+      "album": {
+        "name": "re: Sound Of Light",
+        "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "Hitori",
+          "url": "https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "re: Sound Of Light",
+      "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
     },
     {
       "added_at": "2025-06-11 04:14:08",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
-        "name": "Night Step",
-        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Night Step",
-      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
-    },
-    {
-      "added_at": "2025-06-11 04:14:08",
-      "album": {
         "name": "BEAU PAYSAGE",
         "url": "https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 348805,
       "name": "BEAU PAYSAGE",
       "url": "https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju"
+    },
+    {
+      "added_at": "2025-06-11 04:14:08",
+      "album": {
+        "name": "Night Step",
+        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Night Step",
+      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
     },
     {
       "added_at": "2025-06-11 04:14:08",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
+    },
+    {
+      "added_at": "2025-06-11 04:14:08",
+      "album": {
         "name": "Calm Current",
         "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 177230,
       "name": "Calm Current",
       "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
-    },
-    {
-      "added_at": "2025-06-11 04:14:08",
-      "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2025-06-11 04:14:08",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
+        "name": "KUMORI",
+        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "KUMORI",
+      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
+    },
+    {
+      "added_at": "2025-06-11 04:14:08",
+      "album": {
         "name": "Touch the Sky",
         "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
-        "name": "KUMORI",
-        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "KUMORI",
-      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
-    },
-    {
-      "added_at": "2025-06-11 04:14:08",
-      "album": {
         "name": "Day Trip",
         "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 137000,
       "name": "Day Trip",
       "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
+    },
+    {
+      "added_at": "2025-06-11 04:14:08",
+      "album": {
+        "name": "Night Owl Dream",
+        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 156279,
+      "name": "Night Owl Dream",
+      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2025-06-11 04:14:08",
@@ -819,22 +835,6 @@
       "duration_ms": 117600,
       "name": "It Hurts to Love You (it meant a lot)",
       "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
-    },
-    {
-      "added_at": "2025-06-11 04:14:08",
-      "album": {
-        "name": "Night Owl Dream",
-        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "Night Owl Dream",
-      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2025-06-11 04:14:08",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
+        "name": "wave wave wave",
+        "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
+      },
+      "artists": [
+        {
+          "name": "sphontik",
+          "url": "https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq"
+        }
+      ],
+      "duration_ms": 294193,
+      "name": "The Next vacation",
+      "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
+    },
+    {
+      "added_at": "2025-06-11 04:14:08",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 228196,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
-    },
-    {
-      "added_at": "2025-06-11 04:14:08",
-      "album": {
-        "name": "wave wave wave",
-        "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
-      },
-      "artists": [
-        {
-          "name": "sphontik",
-          "url": "https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq"
-        }
-      ],
-      "duration_ms": 294193,
-      "name": "The Next vacation",
-      "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
     },
     {
       "added_at": "2025-06-11 04:14:08",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
+        "name": "24/7(inst)",
+        "url": "https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9"
+      },
+      "artists": [
+        {
+          "name": "shai",
+          "url": "https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP"
+        }
+      ],
+      "duration_ms": 141174,
+      "name": "24/7(inst)",
+      "url": "https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8"
+    },
+    {
+      "added_at": "2025-06-11 04:14:08",
+      "album": {
         "name": "Dreamwave",
         "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
-        "name": "24/7(inst)",
-        "url": "https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9"
+        "name": "Husigina Ki",
+        "url": "https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl"
       },
       "artists": [
         {
-          "name": "shai",
-          "url": "https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP"
+          "name": "Yassy",
+          "url": "https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH"
         }
       ],
-      "duration_ms": 141174,
-      "name": "24/7(inst)",
-      "url": "https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8"
+      "duration_ms": 160800,
+      "name": "Husigina Ki",
+      "url": "https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH"
     },
     {
       "added_at": "2025-06-11 04:14:08",
@@ -1075,22 +1091,6 @@
       "duration_ms": 245200,
       "name": "Purity",
       "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
-    },
-    {
-      "added_at": "2025-06-11 04:14:08",
-      "album": {
-        "name": "Husigina Ki",
-        "url": "https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl"
-      },
-      "artists": [
-        {
-          "name": "Yassy",
-          "url": "https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Husigina Ki",
-      "url": "https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH"
     },
     {
       "added_at": "2025-06-11 04:14:08",
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
       },
       "artists": [
         {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        },
-        {
-          "name": "Sherry W",
-          "url": "https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms"
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Catch Me",
-      "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2025-06-11 04:14:08",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2025-06-11 04:14:08",
       "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
       "artists": [
         {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        },
+        {
+          "name": "Sherry W",
+          "url": "https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms"
         }
       ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
+      "duration_ms": 231500,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
     },
     {
       "added_at": "2025-06-11 04:14:08",

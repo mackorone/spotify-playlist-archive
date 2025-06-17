@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,503 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,528 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 12 | [Gel Benimle](https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 4:23 |
 | 13 | [Unuttum Derdimi](https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Unuttum Derdimi](https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s) | 3:49 |
 | 14 | [Sustum](https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sustum](https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS) | 3:32 |
-| 15 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
-| 16 | [Galiba Sevmiyorlar](https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Kötü Şeyler](https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5) | 2:59 |
+| 15 | [Galiba Sevmiyorlar](https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Kötü Şeyler](https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5) | 2:59 |
+| 16 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
 | 17 | [Her Yerde Sen](https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Her Yerde Sen](https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0) | 3:39 |
 | 18 | [Aldatıldık](https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Aldatıldık](https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s) | 3:06 |
 | 19 | [Müteşekkir](https://open.spotify.com/track/611rMkMHYTBQ2dYoUubI72) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:33 |

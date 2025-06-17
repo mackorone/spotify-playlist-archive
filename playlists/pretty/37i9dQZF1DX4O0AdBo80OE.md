@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Paulo Londra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,891 likes - 103 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,906 likes - 103 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 102 | [Antes de Morirme \(feat\. Rosalía\)](https://open.spotify.com/track/7aFBy1CBLGnZE1Iv6TvEZE) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. Rosalía\)](https://open.spotify.com/album/6sJLYcfLIb9wNyLy1hdeyM) | 3:19 |
 | 103 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 
-Snapshot ID: `AAAAAFWSRmWRA2zEzpLwMT2wPMeM2LhT`
+Snapshot ID: `aEKD6gAAAACqONfQbPKMZdzhR4mUBx9/`

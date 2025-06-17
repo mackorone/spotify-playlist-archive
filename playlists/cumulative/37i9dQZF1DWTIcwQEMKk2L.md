@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-180 songs - 8 hr 21 min
+182 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,8 @@
 | [Behind The Jalousie](https://open.spotify.com/track/39YCja6W45q9EtAtztQImq) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Behind The Jalousie](https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ) | 3:14 | 2024-12-02 |  |
 | [Bergamo](https://open.spotify.com/track/1bHXbuM7CqRCSn5Zg1knnZ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Bergamo](https://open.spotify.com/album/6jSSjJeFpsaMNP2uVrsgBC) | 2:06 | 2023-12-25 | 2024-01-25 |
 | [Birdman](https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Birdman](https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF) | 3:21 | 2024-11-18 | 2024-12-10 |
+| [Blue Skies](https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:55 | 2025-06-16 |  |
+| [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 | 2025-06-16 |  |
 | [Box Of Photos](https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Box Of Photos](https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ) | 2:29 | 2023-12-04 |  |
 | [Break My Heart, Love](https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:57 | 2025-03-11 |  |
 | [Cassiopeia](https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Cassiopeia](https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18) | 2:48 | 2024-04-08 | 2025-01-12 |
@@ -135,7 +137,7 @@
 | [Prime](https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy) | [Colette Blanche](https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn) | [Prime](https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t) | 2:17 | 2023-11-20 |  |
 | [Promise](https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU) | [Morten Lidahl](https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT) | [Promise](https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr) | 2:11 | 2023-11-20 | 2024-03-21 |
 | [Quand vous souriez](https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [Quand vous souriez](https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv) | 1:58 | 2024-09-30 |  |
-| [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2023-11-20 |  |
+| [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2023-11-20 | 2025-06-17 |
 | [Raindrops in my heart](https://open.spotify.com/track/4dsIYysg4UCK4QmT71F5pW) | [Stephan Berg](https://open.spotify.com/artist/17uFWG2FVYgtw7fUhgGo7G) | [Raindrops in my heart](https://open.spotify.com/album/7sAMmRYHvQ6LtaDXyLKBjc) | 2:45 | 2023-11-20 | 2024-09-10 |
 | [Rasung Consciousness](https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Lullaby Moods](https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9) | 2:20 | 2024-08-12 | 2024-11-01 |
 | [Reflections](https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG) | [Lisa Livalli](https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR) | [Reflections](https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c) | 3:36 | 2023-11-20 |  |
@@ -180,7 +182,7 @@
 | [Variante Alta](https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Variante Alta](https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K) | 3:52 | 2024-05-27 |  |
 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 | 2023-11-20 | 2024-04-19 |
 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 | 2023-11-20 |  |
-| [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-11-20 |  |
+| [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2023-11-20 | 2025-06-17 |
 | [What if we never met](https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [What if we never met](https://open.spotify.com/album/21L56u6AKNUpJYbbW99B7F) | 2:07 | 2024-02-12 | 2024-05-23 |
 | [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 | 2023-11-20 | 2024-11-01 |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2023-11-20 |  |

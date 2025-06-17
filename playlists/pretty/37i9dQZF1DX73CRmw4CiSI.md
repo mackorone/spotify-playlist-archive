@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,756 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,793 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 16 | [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 |
 | 17 | [Por la boca vive el pez](https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 4:29 |
 | 18 | [Tu Calorro](https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:10 |
-| 19 | [El aire de la calle](https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ) | [Los Delinqüentes](https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd) | [El Sentimiento Garrapatero Que Nos Traen Las Flores](https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt) | 3:06 |
-| 20 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
+| 19 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
+| 20 | [El aire de la calle](https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ) | [Los Delinqüentes](https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd) | [El Sentimiento Garrapatero Que Nos Traen Las Flores](https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt) | 3:06 |
 | 21 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 |
 | 22 | [Pan y mantequilla](https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [El misterioso caso de Efecto Pasillo](https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji) | 3:22 |
 | 23 | [Cómo hablar](https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Una Pequeña Parte Del Mundo](https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT) | 4:01 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 65 | [Vivir \(with Estopa\)](https://open.spotify.com/track/7BHiGNHqbH89W8ftWrI3tc) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Cerrando Puntos Suspensivos](https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr) | 2:49 |
 | 66 | [Fuera de Mi \- Ya No Quiero Tu Querer \- Version Remix](https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368) | [José El Francés](https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax) | [Alma](https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO) | 4:42 |
 | 67 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 |
-| 68 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
-| 69 | [Isla de Palma](https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:37 |
+| 68 | [Isla de Palma](https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 3:37 |
+| 69 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
 | 70 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/5lBospeeFzg0ZeFhQP0oJs) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Para no olvidar](https://open.spotify.com/album/1od6yWsJUCkYblUYwc5RIS) | 3:54 |
 | 71 | [Avisa a tu madre \(feat\. Tarque\)](https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p) | [Adelantando](https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I) | 3:13 |
 | 72 | [Ojalá no te hubiera conocido nunca \(feat\. Muchachito Bombo Infierno\)](https://open.spotify.com/track/3xsPBE62YoXqXdPZwF918R) | [No Me Pises Que Llevo Chanclas](https://open.spotify.com/artist/3ixCNjKCjaRIRP7LOy5GTk), [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [25 años de agropop](https://open.spotify.com/album/7cRpRaqiri5rQWGG1JtOnS) | 4:02 |

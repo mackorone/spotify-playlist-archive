@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,417,925 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,417,543 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 63 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
 | 64 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 |
 | 65 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 |
-| 66 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
-| 67 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
+| 66 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
+| 67 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
 | 68 | [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 |
 | 69 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 70 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 90 | [Not Like It Was](https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Not Like It Was](https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT) | 2:55 |
 | 91 | [See You Through](https://open.spotify.com/track/0cKIRmig7MRxQm2MqrPQF8) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA) | [See You Through](https://open.spotify.com/album/353tLGGcwv0kloIVqZ1Jbx) | 2:41 |
 | 92 | [Hellfire](https://open.spotify.com/track/2m557twwp7RuyMQxYT55I1) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v) | 4:02 |
-| 93 | [Lovely](https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey) | [Lauren Jones](https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va) | [Lovely](https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R) | 3:45 |
-| 94 | [Man Made by Delusion](https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:24 |
+| 93 | [Man Made by Delusion](https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:24 |
+| 94 | [Lovely](https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey) | [Lauren Jones](https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va) | [Lovely](https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R) | 3:45 |
 | 95 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 |
 | 96 | [Fields of Gold](https://open.spotify.com/track/72EsFNeQy959UicF9Q6H4i) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:31 |
 | 97 | [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 |
 | 98 | [Waste Your Time](https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 3:36 |
-| 99 | [Drive All Night \- Radio Edit](https://open.spotify.com/track/1QZGYQnSDLWUOOuvQnQmy0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Drive All Night](https://open.spotify.com/album/5dlPH02w9VpPP2KJXIibyF) | 3:32 |
-| 100 | [Green Eyes](https://open.spotify.com/track/0OITYpks3EGmXNRkDuN8kd) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Trio Sessions \(Vol\. 2\)](https://open.spotify.com/album/1tfYtFAuSgcFAyzDqKfCxx) | 3:55 |
+| 99 | [Green Eyes](https://open.spotify.com/track/0OITYpks3EGmXNRkDuN8kd) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Trio Sessions \(Vol\. 2\)](https://open.spotify.com/album/1tfYtFAuSgcFAyzDqKfCxx) | 3:55 |
+| 100 | [Drive All Night \- Radio Edit](https://open.spotify.com/track/1QZGYQnSDLWUOOuvQnQmy0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Drive All Night](https://open.spotify.com/album/5dlPH02w9VpPP2KJXIibyF) | 3:32 |
 
 Snapshot ID: `Z7gIcAAAAADXR49eIDWszhvpQOjD6dxE`

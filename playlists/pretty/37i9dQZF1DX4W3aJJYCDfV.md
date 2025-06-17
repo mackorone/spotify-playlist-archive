@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Mark Ronson ft\. RAYE, AJ Tracey, Biffy Clyro and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,753 likes - 115 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,767 likes - 115 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 76 | [BAD 4 ME](https://open.spotify.com/track/5KwGB7YOPRw8fFTN8rYOoU) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [SIRENITY](https://open.spotify.com/album/2GuhGjVHBUmvW8BRZrayzn) | 3:09 |
 | 77 | [Feel Da Same](https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Feel Da Same](https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx) | 2:37 |
 | 78 | [Trick My Position](https://open.spotify.com/track/6gWwyEb1YIqjMalBvamQWj) | [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou) | [Trick My Position](https://open.spotify.com/album/3sg16OrjfcajL9DCzvHhF6) | 2:56 |
-| 79 | [Superfuji](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 |
+| 79 | [Superfuji\(GOBE\)](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji\(GOBE\)](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 |
 | 80 | [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 |
 | 81 | [Bedroom Bullies!](https://open.spotify.com/track/5XvnoyriC1vTiFjV6nkw2g) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK), [Kibo](https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn), [Lil Skag](https://open.spotify.com/artist/78Z3VDkltCPHMYFdx8AgIs) | [Bedroom Bullies!](https://open.spotify.com/album/17ywMiFXvDfePvHsWU3WFT) | 4:08 |
 | 82 | [Change](https://open.spotify.com/track/2uv3a1ldsRDax1xAldu0Tw) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Kismet](https://open.spotify.com/album/49H3UEmVZXpJwCIEg7eq48) | 3:08 |

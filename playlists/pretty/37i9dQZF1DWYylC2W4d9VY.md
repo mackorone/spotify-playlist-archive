@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYylC2W4d9VY.md) - [plain]
 
 > These are the songs that have shaped acclaimed director, Osgood Perkins', alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,652 likes - 35 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,670 likes - 35 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYylC2W4d9VY.md) - [plain]
 | 34 | [You Ain't Goin' Nowhere \- Studio Outtake \- 1971](https://open.spotify.com/track/704uzFeG9kwOUtUCtDOJs4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan's Greatest Hits Volume II](https://open.spotify.com/album/0gpxfGPaJ45BCUeLVRwnKV) | 2:44 |
 | 35 | [Twistin' The Night Away](https://open.spotify.com/track/4E5jSUf4UOsMR1kVok7M0Y) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Sam Cooke: Portrait Of A Legend 1951\-1964](https://open.spotify.com/album/6QGm9AGR7l5YYQPb66FGdc) | 2:44 |
 
-Snapshot ID: `Z85j3AAAAAAaYQTKHjGgIoDrwUx9xdrh`
+Snapshot ID: `AAAAAFwjA9HHoUD4YOkNHY6Rke9UHQtX`

@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 121247,
+  "num_followers": 121263,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAD+7u4pKOX/+3IS0qB2yZF",
+  "snapshot_id": "aE4NAAAAAAASzryUSjt9AwYL1fJwPLRb",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want To Be Hurt Anymore",
-        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "I Don't Want To See Tomorrow",
-      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 192826,
       "name": "On The Street Where You Live",
       "url": "https://open.spotify.com/track/1xTlKISiuPabtjwJe3aPEy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Want To Be Hurt Anymore",
+        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "I Don't Want To See Tomorrow",
+      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Love Letters - Remastered",
-      "url": "https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 197200,
       "name": "Red Sails In The Sunset",
       "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Love Letters - Remastered",
+      "url": "https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Thanks To You",
-      "url": "https://open.spotify.com/track/7i1B7J2VmDAORA5L5YzeC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nat King Cole's 8 Top Pops",
         "url": "https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 158946,
       "name": "Walkin' My Baby Back Home",
       "url": "https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Thanks To You",
+      "url": "https://open.spotify.com/track/7i1B7J2VmDAORA5L5YzeC6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,261 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,307 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 20 | [Mi Decepción](https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 4:52 |
 | 21 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 |
 | 22 | [Perfume](https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Perfume](https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw) | 4:13 |
-| 23 | [LEYENDA](https://open.spotify.com/track/45LzMBMAtMP6IeWBqd8mUR) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/69TuNGeXi7iah9B755lakY) | 4:48 |
-| 24 | [Don Tan](https://open.spotify.com/track/2B38Yqihpc3i28Uf4WlRf8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Don Tan](https://open.spotify.com/album/1IJ0pZPxux1IynJDH0pNJP) | 4:12 |
+| 23 | [Don Tan](https://open.spotify.com/track/2B38Yqihpc3i28Uf4WlRf8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Don Tan](https://open.spotify.com/album/1IJ0pZPxux1IynJDH0pNJP) | 4:12 |
+| 24 | [LEYENDA](https://open.spotify.com/track/45LzMBMAtMP6IeWBqd8mUR) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/69TuNGeXi7iah9B755lakY) | 4:48 |
 | 25 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 |
 | 26 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 |
 | 27 | [Mi Jale Vale](https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Jale Vale](https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Soy Cholo](https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a) | [Soy Cholo](https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym) | 3:52 |
 | 50 | [Voy Por El Oro](https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Voy Por El Oro](https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9) | 5:10 |
 
-Snapshot ID: `aEy7gAAAAAARwUvkgcjNjiibczUNAqqZ`
+Snapshot ID: `aE4NAAAAAABgkD3EPzmJG10gw1c9MFdC`

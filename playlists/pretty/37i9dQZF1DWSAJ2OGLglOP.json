@@ -1,6 +1,6 @@
 {
   "description": "\u30c9\u30e9\u30a4\u30d6\u7528\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u6e0b\u6ede\u3082\u6c17\u306b\u305b\u305a\u3001\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u697d\u66f2\u3092\u30bb\u30ec\u30af\u30c8\u3002",
-  "num_followers": 108746,
+  "num_followers": 108753,
   "original_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -223,26 +239,6 @@
       "duration_ms": 190360,
       "name": "The Man",
       "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
-        "name": "Save Your Tears (Remix)",
-        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Save Your Tears (with Ariana Grande) (Remix)",
-      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -279,6 +275,42 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
+        "name": "CYM",
+        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "CYM",
+      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
       },
@@ -303,38 +335,6 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "CYM",
-        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "CYM",
-      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
-        "name": "The Contract",
-        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "The Contract",
-      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
         "name": "\u7206\u901f\u8ad6\u7406ness",
         "url": "https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 152871,
       "name": "\u7206\u901f\u8ad6\u7406ness",
       "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -383,6 +367,22 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -487,18 +487,18 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+        "name": "Oysters In My Pocket",
+        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+      "duration_ms": 162338,
+      "name": "Oysters In My Pocket",
+      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -519,18 +519,18 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "Oysters In My Pocket",
-        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 162338,
-      "name": "Oysters In My Pocket",
-      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 141756,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
         "name": "\u30a2\u30a4\u30c9\u30eb",
         "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
-        "name": "DIFFERENT",
-        "url": "https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 141756,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
+        "name": "shoot",
+        "url": "https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "shoot",
+      "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
-        "name": "shoot",
-        "url": "https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "shoot",
-      "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -831,18 +831,18 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+      "duration_ms": 233141,
+      "name": "I CARE",
+      "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
     },
     {
       "added_at": "2025-06-12 15:00:04",

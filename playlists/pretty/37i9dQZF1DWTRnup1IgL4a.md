@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,914 likes - 132 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,928 likes - 132 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 3 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 |
 | 4 | [Albatroz](https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Albatroz](https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb) | 2:41 |
 | 5 | [Meadowglen](https://open.spotify.com/track/0jP6sh3YOXoAZAjv6mmQxo) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Meadowglen](https://open.spotify.com/album/2bbaplzjHNwIlLSy8ocWjd) | 2:54 |
-| 6 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
-| 7 | [Husker](https://open.spotify.com/track/6sj9EO7zIISy4ZOreagxeR) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Husker](https://open.spotify.com/album/3kFF1dznSHdC8Y2nD7KeF5) | 2:31 |
-| 8 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 |
-| 9 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
+| 6 | [Husker](https://open.spotify.com/track/6sj9EO7zIISy4ZOreagxeR) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Husker](https://open.spotify.com/album/3kFF1dznSHdC8Y2nD7KeF5) | 2:31 |
+| 7 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
+| 8 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
+| 9 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 |
 | 10 | [Crimson sunset](https://open.spotify.com/track/0MaFpCeo9BL7M9arKLdThw) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Crimson sunset](https://open.spotify.com/album/4elmegwwSrsoIqpqL0ZLYg) | 2:37 |
 | 11 | [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 |
 | 12 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 |
@@ -26,21 +26,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 16 | [Abilene](https://open.spotify.com/track/2zW7bKgWk9WRrTYvRys0rR) | [Luiz de Luna](https://open.spotify.com/artist/0FZzM3FVTZdoefPWS9Edhb) | [Abilene](https://open.spotify.com/album/0rv3TQYYHCDQPyW7Bc20Kv) | 2:32 |
 | 17 | [Aurélie](https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Aurélie](https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ) | 2:04 |
 | 18 | [Sighs in the Night](https://open.spotify.com/track/1InvD1XYaRe9IlwnLJ0kiy) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Sighs in the Night](https://open.spotify.com/album/6XLbtxg1YGNcIItuco4nlc) | 2:17 |
-| 19 | [Intergalactic Peace](https://open.spotify.com/track/0EAmMrdgLaPNTc5yM12B6w) | [G\. Samuelsson](https://open.spotify.com/artist/6deDKTj0xS9JYvmDrgzSPn) | [Intergalactic Peace](https://open.spotify.com/album/0yhcTV4RCWZxk94BsxDYv4) | 3:24 |
-| 20 | [Caminos de Paz](https://open.spotify.com/track/1RcREfX9ouhWhsTaWR3rgK) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Caminos de Paz](https://open.spotify.com/album/3LoHJJWcBwSpKuzE0AeroE) | 2:46 |
-| 21 | [Silent Ridge](https://open.spotify.com/track/6kVuf8HWMytcy6LHMfXxyG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Silent Ridge](https://open.spotify.com/album/18I4PeFcnSBgm77OKMdGdy) | 2:33 |
-| 22 | [Beautiful Water](https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Beautiful Water](https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg) | 2:58 |
-| 23 | [Small Things](https://open.spotify.com/track/5qvMw2Hr3BuphsulOSUU5n) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Small Things](https://open.spotify.com/album/5blNaBqiCuNqDouOkRZlzk) | 2:42 |
-| 24 | [Beyond the Blue](https://open.spotify.com/track/2I7ZoXTC9RWJka1rpLcxZF) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Beyond the Blue](https://open.spotify.com/album/2UjDmSX3lUFvgEPrtd8mY7) | 2:23 |
-| 25 | [Maybe another day](https://open.spotify.com/track/52zUIhEBKcD6dCPQnNnFzj) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Maybe another day](https://open.spotify.com/album/5hQJfjXirg04OUm96553l2) | 2:44 |
-| 26 | [Belle Neige](https://open.spotify.com/track/5WA2zaUYiN7ZubOpbbSMsa) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [Belle Neige](https://open.spotify.com/album/5MsjKTsYVyJOatroRKj7O6) | 2:49 |
-| 27 | [The Conjurer](https://open.spotify.com/track/0JedJNGmpwYxeNtLN0hPOj) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [The Conjurer](https://open.spotify.com/album/7bSOJbMphI7xdhCmTAzv2V) | 2:27 |
-| 28 | [Stay a Little Longer](https://open.spotify.com/track/2HA7JNfGdwljcMvHDQNc9c) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stay a Little Longer](https://open.spotify.com/album/3GNRZg9Kjaz4nlyS4gM6yF) | 2:12 |
-| 29 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 |
-| 30 | [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 |
-| 31 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 |
-| 32 | [Unspoken](https://open.spotify.com/track/5W3wbuaJXsYrO9VfcKiHH4) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Unspoken](https://open.spotify.com/album/4DHUitOJqpemgWNBgAe1Ve) | 2:28 |
-| 33 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 |
+| 19 | [Small Things](https://open.spotify.com/track/5qvMw2Hr3BuphsulOSUU5n) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Small Things](https://open.spotify.com/album/5blNaBqiCuNqDouOkRZlzk) | 2:42 |
+| 20 | [Stay a Little Longer](https://open.spotify.com/track/2HA7JNfGdwljcMvHDQNc9c) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stay a Little Longer](https://open.spotify.com/album/3GNRZg9Kjaz4nlyS4gM6yF) | 2:12 |
+| 21 | [Intergalactic Peace](https://open.spotify.com/track/0EAmMrdgLaPNTc5yM12B6w) | [G\. Samuelsson](https://open.spotify.com/artist/6deDKTj0xS9JYvmDrgzSPn) | [Intergalactic Peace](https://open.spotify.com/album/0yhcTV4RCWZxk94BsxDYv4) | 3:24 |
+| 22 | [Silent Ridge](https://open.spotify.com/track/6kVuf8HWMytcy6LHMfXxyG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Silent Ridge](https://open.spotify.com/album/18I4PeFcnSBgm77OKMdGdy) | 2:33 |
+| 23 | [Beautiful Water](https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Beautiful Water](https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg) | 2:58 |
+| 24 | [Maybe another day](https://open.spotify.com/track/52zUIhEBKcD6dCPQnNnFzj) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Maybe another day](https://open.spotify.com/album/5hQJfjXirg04OUm96553l2) | 2:44 |
+| 25 | [Unspoken](https://open.spotify.com/track/5W3wbuaJXsYrO9VfcKiHH4) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Unspoken](https://open.spotify.com/album/4DHUitOJqpemgWNBgAe1Ve) | 2:28 |
+| 26 | [Artemis](https://open.spotify.com/track/5CcTsoh77A0ClwHfAl80cK) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Artemis](https://open.spotify.com/album/7GSzGWVULgIwKJLPUuvicr) | 1:54 |
+| 27 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 |
+| 28 | [The Conjurer](https://open.spotify.com/track/0JedJNGmpwYxeNtLN0hPOj) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [The Conjurer](https://open.spotify.com/album/7bSOJbMphI7xdhCmTAzv2V) | 2:27 |
+| 29 | [Beyond the Blue](https://open.spotify.com/track/2I7ZoXTC9RWJka1rpLcxZF) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Beyond the Blue](https://open.spotify.com/album/2UjDmSX3lUFvgEPrtd8mY7) | 2:23 |
+| 30 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 |
+| 31 | [Caminos de Paz](https://open.spotify.com/track/1RcREfX9ouhWhsTaWR3rgK) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Caminos de Paz](https://open.spotify.com/album/3LoHJJWcBwSpKuzE0AeroE) | 2:46 |
+| 32 | [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 |
+| 33 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 |
 | 34 | [In Every Moment](https://open.spotify.com/track/2e3x7MpuYNumzd1uiNMS0Q) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [In Every Moment](https://open.spotify.com/album/5o5EV6vVPqEI3B1JiTlfh7) | 2:51 |
 | 35 | [Water Lilies](https://open.spotify.com/track/0kucK0lpWsGQpi8xuRybNc) | [Jules Navarro](https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP) | [Water Lilies](https://open.spotify.com/album/4lq4NLx40nPEF4Mp2fVuEX) | 2:34 |
 | 36 | [Solencia Nocturne](https://open.spotify.com/track/2swYTnezehl0rgydF9jK8Z) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Solencia Nocturne](https://open.spotify.com/album/4jSkEZB6wGW680SvjP1RL2) | 2:50 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 131 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 |
 | 132 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 |
 
-Snapshot ID: `aElQCAAAAABl2V6VE5t0hssztxm0XPrN`
+Snapshot ID: `aE/4iAAAAAABuFTSOhmUsVXGiAfDfrXQ`

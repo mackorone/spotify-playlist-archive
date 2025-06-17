@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 490362,
+  "num_followers": 490386,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Kendji",
-        "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Andalouse",
-      "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "C'est d\u00e9j\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 324906,
       "name": "Foule sentimentale",
       "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Kendji",
+        "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Andalouse",
+      "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -571,6 +571,38 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Regarde-moi",
+        "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "duration_ms": 164567,
+      "name": "Un jour je marierai un ange",
+      "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
         "name": "Debout les yeux ouverts",
         "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
       },
@@ -603,38 +635,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Regarde-moi",
-        "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
-      },
-      "artists": [
-        {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
-        }
-      ],
-      "duration_ms": 164567,
-      "name": "Un jour je marierai un ange",
-      "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "M & J",
-        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Joe le taxi",
-      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Claudio Cap\u00e9o (Version deluxe)",
         "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 206373,
       "name": "Un homme debout",
       "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 268746,
+      "name": "Place des grands hommes",
+      "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -679,22 +695,6 @@
       "duration_ms": 219960,
       "name": "D\u00e9sol\u00e9 pour hier soir",
       "url": "https://open.spotify.com/track/1OPUGXvJXEWZu6qqBr0VTF"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 268746,
-      "name": "Place des grands hommes",
-      "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
     },
     {
       "added_at": "2024-10-21 08:32:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,795 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,816 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 79 | [Gotta Tell You](https://open.spotify.com/track/1rj0XawWJNisX7SGYexowJ) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:20 |
 | 80 | [Picture Of You](https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 3:26 |
 
-Snapshot ID: `Z9RFIQAAAAB9YZ8c9kwJdjiGhweTYeu6`
+Snapshot ID: `Z9RFIQAAAADOPzwaemLvnHi+Fc92pM7b`

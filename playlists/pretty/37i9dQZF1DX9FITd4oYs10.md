@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,129 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,131 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 27 | [Raplord](https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Jonas Bento](https://open.spotify.com/artist/48Oxa6B9euthfl9VTQsArN) | [Teto Baixo](https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q) | 4:23 |
 | 28 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
 | 29 | [Fuga](https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Fuga](https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost) | 3:52 |
-| 30 | [Cantando pro Santo](https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Chorão](https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 6:06 |
-| 31 | [Irmão DQbrada!](https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Irmão Dqbrada!](https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc) | 6:00 |
-| 32 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
+| 30 | [Beira de Piscina \(Remix\)](https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:49 |
+| 31 | [Cantando pro Santo](https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Chorão](https://open.spotify.com/artist/5u3nOqtEJfhFUuPR9EjnkC) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 6:06 |
+| 32 | [Irmão DQbrada!](https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Irmão Dqbrada!](https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc) | 6:00 |
 | 33 | [Filosofia de Boteco](https://open.spotify.com/track/3nXCaYDeKPeUiUyGThNSEs) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Perfil](https://open.spotify.com/album/5NXJgS9adRvK9mhnAF9XHe) | 4:10 |
 | 34 | [Esperar o Sol](https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 3:21 |
 | 35 | [Mente do Vilão](https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais Mc's](https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4) | 4:30 |

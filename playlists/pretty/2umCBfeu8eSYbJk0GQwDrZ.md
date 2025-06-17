@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,495 likes - 99 songs - 5 hr 39 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,494 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 83 | [Pill To Swallow](https://open.spotify.com/track/1zFDTVldgGkboCG98c91d6) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Pill To Swallow](https://open.spotify.com/album/7jg6n0fgOkGDj9fxcIzI0u) | 3:42 |
 | 84 | [The Weight](https://open.spotify.com/track/6VIQVy3WsUmOLCEoMjfgMY) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [The Weight](https://open.spotify.com/album/108usmhRv0TfDLDytouATf) | 3:46 |
 | 85 | [Keep Me in Mind](https://open.spotify.com/track/4keV1jVo5arAWlQ3wE7V0D) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [Keep Me in Mind](https://open.spotify.com/album/384Mpvx7dU7697LOpcyNcc) | 2:36 |
-| 86 | [Bella ciao](https://open.spotify.com/track/28sYXg03LvFZQwuaax63KX) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bella ciao](https://open.spotify.com/album/4GvHXqVYIorH1ml9UgJM0t) | 3:38 |
+| 86 | [Bella ciao](https://open.spotify.com/track/28sYXg03LvFZQwuaax63KX) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [Storm Large](https://open.spotify.com/artist/1TfihKKGFluRO6MeCRF7qU) | [Bella ciao](https://open.spotify.com/album/4GvHXqVYIorH1ml9UgJM0t) | 3:38 |
 | 87 | [Butterfly](https://open.spotify.com/track/7tXWqfgpbnPBAaR58shTn6) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Butterfly](https://open.spotify.com/album/7fUaYVubaNeP8Vxis6yBBy) | 3:05 |
 | 88 | [Clearer Through You](https://open.spotify.com/track/61PrsJWm2Gc6mJYuX1c7RA) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Florilegium](https://open.spotify.com/album/5FlWrzLZNGA1KQm8BGydFX) | 3:34 |
 | 89 | [Buses Replace Trains](https://open.spotify.com/track/6zxK1aQo9e61wi9UJWJfrv) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Buses Replace Trains](https://open.spotify.com/album/0jJ8k0Nmv0IwL5EzK9EWJT) | 3:42 |

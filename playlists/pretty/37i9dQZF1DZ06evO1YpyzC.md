@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,239 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,265 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 15 | [Bury Me in Georgia](https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 4:02 |
 | 16 | [My City](https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [My City \(FAST X Soundtrack\)](https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h) | 2:29 |
 | 17 | [Good as You](https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:12 |
-| 18 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 |
-| 19 | [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 |
+| 18 | [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 |
+| 19 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 |
 | 20 | [Rescue](https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:02 |
 | 21 | [Lose It](https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 2:58 |
 | 22 | [Body Talk](https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Body Talk](https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I) | 2:27 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 42 | [Country Classic](https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:55 |
 | 43 | [Worship You](https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:25 |
 | 44 | [Thunder in the Rain](https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 2:44 |
-| 45 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
-| 46 | [There Goes My Everything](https://open.spotify.com/track/6oJe2ZmepeYTtsHedYwwLr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Chapter 1 \- EP](https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0) | 2:44 |
+| 45 | [There Goes My Everything](https://open.spotify.com/track/6oJe2ZmepeYTtsHedYwwLr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Chapter 1 \- EP](https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0) | 2:44 |
+| 46 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
 | 47 | [Go Around](https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:23 |
 | 48 | [Hometown](https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:24 |
 | 49 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 50 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 |
 
-Snapshot ID: `aEy7gAAAAACZCGf4xbyoPnvuAYyCRyi/`
+Snapshot ID: `aE4NAAAAAABbNF+9E5wplTIk9yyjRK3J`

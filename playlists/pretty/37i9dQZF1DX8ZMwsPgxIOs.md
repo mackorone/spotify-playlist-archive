@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Nicole Moudaber
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,488 likes - 129 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,511 likes - 129 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

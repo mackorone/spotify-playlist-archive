@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Listen to Kitsuné’s essential tracks from historic label artists to up\-and\-coming music gems.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,606 likes - 53 songs - 3 hr 4 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,609 likes - 53 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

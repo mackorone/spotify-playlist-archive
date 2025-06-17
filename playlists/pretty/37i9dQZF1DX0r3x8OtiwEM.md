@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,635 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,785 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 48 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
 | 49 | [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 |
 | 50 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 |
-| 51 | [Space Base](https://open.spotify.com/track/5ZS2uH0kb2RhianAFwRydQ) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Space Base](https://open.spotify.com/album/0Ea1FYOikc2UY9XW9heM4q) | 5:27 |
-| 52 | [You Are](https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [You Are](https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc) | 4:23 |
+| 51 | [You Are](https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [You Are](https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc) | 4:23 |
+| 52 | [Space Base](https://open.spotify.com/track/5ZS2uH0kb2RhianAFwRydQ) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Space Base](https://open.spotify.com/album/0Ea1FYOikc2UY9XW9heM4q) | 5:27 |
 | 53 | [Avalanche \- Edit](https://open.spotify.com/track/3g0f1E9zlyauznccPZYaTn) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Avalanche](https://open.spotify.com/album/4iGkjP8sE9aRb50TeBtMMG) | 4:03 |
 | 54 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 |
 | 55 | [Yes Baby](https://open.spotify.com/track/5VPo4yWk05Fb0AVhwTjniq) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Yes Baby](https://open.spotify.com/album/4F3MFTq2TiWlHQN7XXGag5) | 3:03 |
-| 56 | [Your Love](https://open.spotify.com/track/6O2r4n5YeF5KXVNUrobHZe) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Your Love](https://open.spotify.com/album/3bIILlNbQB51BHUK4ZX28e) | 4:19 |
-| 57 | [JAZZ IN THE AIR](https://open.spotify.com/track/0xBsZ8t2cgo2dSE2Xim3xO) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JAZZ IN THE AIR](https://open.spotify.com/album/3hSDnCURfeICFh2Q1by74E) | 5:03 |
+| 56 | [JAZZ IN THE AIR](https://open.spotify.com/track/0xBsZ8t2cgo2dSE2Xim3xO) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JAZZ IN THE AIR](https://open.spotify.com/album/3hSDnCURfeICFh2Q1by74E) | 5:03 |
+| 57 | [Your Love](https://open.spotify.com/track/6O2r4n5YeF5KXVNUrobHZe) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Your Love](https://open.spotify.com/album/3bIILlNbQB51BHUK4ZX28e) | 4:19 |
 | 58 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
 | 59 | [Childhood](https://open.spotify.com/track/5L16Ed5kXdbY40EJmAlY1y) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Childhood](https://open.spotify.com/album/1yrHN3SY262lkoXmSm0g6G) | 4:04 |
 | 60 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |

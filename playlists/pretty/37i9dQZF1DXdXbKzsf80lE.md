@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,723 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,776 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 12 | [Filho do Mato](https://open.spotify.com/track/6cvFwzez8ZbEWPTs5A0vAm) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Filho do Mato](https://open.spotify.com/album/0Tut6XvdTp7sMHDNWo9G2r) | 2:52 |
 | 13 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 |
 | 14 | [Cabeça Voando](https://open.spotify.com/track/6wDzwmywQ2X8O0FN1IQGol) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Agora Eu Pego Mesmo](https://open.spotify.com/album/7dIuql1amYWijiQsIMps1l) | 3:03 |
-| 15 | [Revoada No Colchão](https://open.spotify.com/track/4kGdnA7FzSVsXC29LPghej) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Revoada No Colchão](https://open.spotify.com/album/7hzvwdgrY4xuqKehIntS3o) | 2:33 |
-| 16 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |
+| 15 | [Se Joga no Passinho](https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Thiago Jhonathan \(TJ\)](https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89) | [Se Joga no Passinho](https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t) | 3:20 |
+| 16 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 17 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
-| 18 | [Se Joga no Passinho](https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Thiago Jhonathan \(TJ\)](https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89) | [Se Joga no Passinho](https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t) | 3:20 |
-| 19 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
+| 18 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |
+| 19 | [Revoada No Colchão](https://open.spotify.com/track/4kGdnA7FzSVsXC29LPghej) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Revoada No Colchão](https://open.spotify.com/album/7hzvwdgrY4xuqKehIntS3o) | 2:33 |
 | 20 | [Volta Vai \- Ao Vivo](https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas \(Ao Vivo\)](https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw) | 4:36 |
 | 21 | [Investe Em Mim](https://open.spotify.com/track/15k1TDabqSEmyXOwMq9RM7) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Investe Em Mim](https://open.spotify.com/album/7HkadvWYCa91hUKnBqBFJu) | 3:06 |
 | 22 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 57 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 |
 | 58 | [Os Boys Amam O Ex Chora](https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Os Boys Amam O Ex Chora](https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr) | 2:33 |
 | 59 | [Um Degrau na Escada \- Ao Vivo](https://open.spotify.com/track/49h9lUseWMnzyU0W8E40mP) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [CP 25 Anos, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53) | 4:11 |
-| 60 | [Vem Me Amar](https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Vem Me Amar](https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB) | 2:35 |
+| 60 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
 
 Snapshot ID: `Z+YuAgAAAABtEMXs1ZR3VN6wGLgi5Bdk`

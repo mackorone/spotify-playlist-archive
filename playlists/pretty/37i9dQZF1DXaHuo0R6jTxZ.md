@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,521 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,567 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Desert Rose](https://open.spotify.com/track/3zYufmyv6HOuiHn1eMR6Ja) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Brand New Day](https://open.spotify.com/album/2lKs5704qlvP9V9muKZwqY) | 4:45 |
-| 2 | [Ana Le Habiby](https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 3:02 |
-| 3 | [Tabeeb Garah](https://open.spotify.com/track/27vSNs5MfGcC7q8kMJtnZA) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Tabeeb Garah](https://open.spotify.com/album/6VSuFGL5meqF4bv0W47h8P) | 6:21 |
+| 2 | [Tabeeb Garah](https://open.spotify.com/track/27vSNs5MfGcC7q8kMJtnZA) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Tabeeb Garah](https://open.spotify.com/album/6VSuFGL5meqF4bv0W47h8P) | 6:21 |
+| 3 | [Ana Le Habiby](https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 3:02 |
 | 4 | [Wala Wahed](https://open.spotify.com/track/46lLvTPvCHDHKmxb33cSta) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW) | 4:13 |
 | 5 | [Ya Magnon](https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ya Magnoon](https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X) | 4:32 |
 | 6 | [Albi Eshi’ha](https://open.spotify.com/track/4xSukcHWU8LrtWSTjOInpM) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Alby Eshekha](https://open.spotify.com/album/75u5u50zTx0gw9RwVtwt90) | 5:44 |
-| 7 | [Sallimleh Alayh](https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Mish Kayan Hayek T'Koun](https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI) | 5:50 |
-| 8 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
+| 7 | [Ya Rayah](https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Carte Blanche](https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF) | 6:14 |
+| 8 | [Sallimleh Alayh](https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Mish Kayan Hayek T'Koun](https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI) | 5:50 |
 | 9 | [Douha alia](https://open.spotify.com/track/2iz9jESHTKPur1zuTzJkru) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [let me rai](https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW) | 4:17 |
 | 10 | [شيلوها شيلة](https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE) | [Miami Band](https://open.spotify.com/artist/7urgxIOb5HPPtP2ZL86BU0) | [فرقة ميامي 97](https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ) | 5:00 |
 | 11 | [Moush Hadaaf](https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:20 |

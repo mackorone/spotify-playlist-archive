@@ -4,7 +4,7 @@
 
 > 
 
-112 songs - 5 hr 42 min
+113 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Mind1](https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:11 | 2024-12-16 |  |
 | [MOKKA](https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [MOKKA](https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk) | 2:43 | 2024-12-04 |  |
 | [Mr\. Morale](https://open.spotify.com/track/6CmpZfKUQ2KerzBFZ3QKFr) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:30 | 2025-02-13 |  |
+| [Mulatozok \- Intro](https://open.spotify.com/track/54TkoWzZy8JL2Mr8KELnOF) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:23 | 2025-06-16 |  |
 | [Nagy a zaj](https://open.spotify.com/track/03x6Xr8YYjQB1m7rmEIubA) | [Aza](https://open.spotify.com/artist/2WLKFllDVAhtb60gNHJGUH), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Nagy a zaj](https://open.spotify.com/album/4wJNylQFGcI1clSiiNuMbT) | 3:00 | 2024-11-22 | 2025-04-03 |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2024-12-28 |  |
 | [Nélküled](https://open.spotify.com/track/0GlDisMmaHlE24GdZzxgif) | [Ismerős Arcok](https://open.spotify.com/artist/7cSkYb5pRVUvA68UpvRSex) | [Éberálom](https://open.spotify.com/album/1MtcDU0amsTziQrmafRf00) | 3:38 | 2024-10-29 |  |

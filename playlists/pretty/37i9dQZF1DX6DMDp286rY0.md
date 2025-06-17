@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DMDp286rY0.md) - [plain]
 
 > SAHM is here! Celebrate it with this playlist by Brown Girl Mag featuring music with South Asian notes and frequencies\. Cover: Jasmine Sandlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 37 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 599 likes - 37 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

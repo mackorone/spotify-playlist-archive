@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > 100% indie floorfillers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,027 likes - 150 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,056 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,12 +123,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 113 | [Hard to Beat](https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 4:13 |
 | 114 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
 | 115 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
-| 116 | [Cheer Up Baby](https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:53 |
-| 117 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
+| 116 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
+| 117 | [Cheer Up Baby](https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:53 |
 | 118 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 119 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 |
-| 120 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
-| 121 | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 |
+| 120 | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:08 |
+| 121 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 122 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 |
 | 123 | [Delilah](https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 4:53 |
 | 124 | [Homie Don’t Shake](https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Homie Don’t Shake](https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w) | 2:56 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 133 | [Around Town](https://open.spotify.com/track/36pHJ5lqNQTLLzGTy8G7xV) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 4:10 |
 | 134 | [Coming Back To Me Good](https://open.spotify.com/track/1Vom4RbPagXle3g1BgzqUC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:49 |
 | 135 | [The Mother We Share](https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/1k0GwSFLuaMSQKs9Q9MQyD) | 3:11 |
-| 136 | [Lost In My Bedroom](https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 3:14 |
-| 137 | [Howdon Aldi Death Queue](https://open.spotify.com/track/5305FSV0HgZDeC0QwYxhVd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 1:57 |
+| 136 | [Howdon Aldi Death Queue](https://open.spotify.com/track/5305FSV0HgZDeC0QwYxhVd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 1:57 |
+| 137 | [Lost In My Bedroom](https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 3:14 |
 | 138 | [Mean girls featuring julian casablancas](https://open.spotify.com/track/3G88sK9DtRDOUeH3xPFWYA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 3:46 |
 | 139 | [Forever](https://open.spotify.com/track/5hfP8cKSzpfBisP3R24cAy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:05 |
 | 140 | [Distant Past](https://open.spotify.com/track/4L2F0LcDVtNrFc1K4lmx3m) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Get To Heaven \(Deluxe\)](https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J) | 3:41 |

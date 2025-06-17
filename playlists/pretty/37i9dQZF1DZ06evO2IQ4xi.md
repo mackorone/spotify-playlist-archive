@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,794 likes - 43 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,861 likes - 43 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 42 | [Bills](https://open.spotify.com/track/4qXBIFAjXJMwNxXTYN8Qyj) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/1zvRP4zj0nfsHeeoeXuanm) | 1:00 |
 | 43 | [God](https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:36 |
 
-Snapshot ID: `aEy7gAAAAADekq5p/yQ7ntTeKrL3VmIa`
+Snapshot ID: `aE4NAAAAAABsR53Jcb1HRcX0DirMQDIY`

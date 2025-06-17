@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 139337,
+  "num_followers": 139335,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 349280,
+      "name": "Diamonds on the Soles of Her Shoes",
+      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
         "name": "Cover Sessions, Vol. 3",
         "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 222146,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 349280,
-      "name": "Diamonds on the Soles of Her Shoes",
-      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "Diamonds On The Inside",
         "url": "https://open.spotify.com/album/0EgXWt3Lur2Fx2WHlG9AXf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 266906,
       "name": "Diamonds On The Inside",
       "url": "https://open.spotify.com/track/6FvtSHS3hzjS8itHJPRzoJ"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "Elderberry Wine",
+        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Olive Tree",
-        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 241060,
-      "name": "Olive Tree",
-      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "greedy (remixes)",
         "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 142363,
       "name": "greedy acoustic",
       "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "Olive Tree",
+        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 241060,
+      "name": "Olive Tree",
+      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
         "name": "Gettin' Gone",
         "url": "https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 223493,
       "name": "Gettin' Gone (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "When I'm Alone: The Piano Retrospective",
-        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 208154,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "When I'm Alone: The Piano Retrospective",
+        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Tell me I never knew that",
-        "url": "https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 279051,
-      "name": "Tell me I never knew that",
-      "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "NO SZNS",
         "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
       },
@@ -1403,18 +1383,22 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Have A Little Faith In Me",
-        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
+        "name": "Tell me I never knew that",
+        "url": "https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 197079,
-      "name": "Have A Little Faith In Me",
-      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
+      "duration_ms": 279051,
+      "name": "Tell me I never knew that",
+      "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1435,6 +1419,22 @@
       "duration_ms": 164494,
       "name": "Think I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 197079,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
         "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 241600,
       "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
       "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 215758,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "Know the Night",
         "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Listen to Your Heart",
-        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
       },
       "artists": [
         {
-          "name": "Grey Grey",
-          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
         }
       ],
-      "duration_ms": 186153,
-      "name": "Listen to Your Heart",
-      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
+      "duration_ms": 215758,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1683,6 +1667,22 @@
       "duration_ms": 229173,
       "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
       "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "Listen to Your Heart",
+        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
+      },
+      "artists": [
+        {
+          "name": "Grey Grey",
+          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Listen to Your Heart",
+      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
     },
     {
       "added_at": "2025-06-12 15:00:06",

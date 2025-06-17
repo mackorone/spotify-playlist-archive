@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover \- Paal Dabba
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,592 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,861 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

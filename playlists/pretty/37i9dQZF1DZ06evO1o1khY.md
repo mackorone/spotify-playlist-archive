@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,641 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,678 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 10 | [ILBB2 \(feat\. GloRilla\)](https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C) | [Jorjiana](https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [ILBB2 \(feat\. GloRilla\)](https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R) | 2:13 |
 | 11 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 |
 | 12 | [Shake Dat Ass \(Twerk Song\) \(feat\. GloRilla\)](https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:49 |
-| 13 | [Bad Bih 4 Ya \(feat\. Boston Richey\)](https://open.spotify.com/track/6oXwnROJNUkozh28jT9O1V) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Boston Richey](https://open.spotify.com/artist/6N6dtckgIXwmGROqfhwkFz) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:00 |
-| 14 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 |
+| 13 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 |
+| 14 | [Bad Bih 4 Ya \(feat\. Boston Richey\)](https://open.spotify.com/track/6oXwnROJNUkozh28jT9O1V) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Boston Richey](https://open.spotify.com/artist/6N6dtckgIXwmGROqfhwkFz) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:00 |
 | 15 | [I LUV HER \(feat\. T\-Pain\)](https://open.spotify.com/track/6jQeSeqn9AdsCe0NMrylxH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:56 |
 | 16 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:08 |
 | 17 | [Redbone \(with GloRilla\)](https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Nut Quick](https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:38 |
 | 50 | [JUST SAY THAT \(feat\. GLORILLA\)](https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 3:35 |
 
-Snapshot ID: `aEy7gAAAAABGkfrEvDiwlmM+FbGvMEIU`
+Snapshot ID: `aE4NAAAAAAClyhvi55tGSP5YvZSUI/Vz`

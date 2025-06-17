@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: HxW\)
 
-1,307 songs - 2 day 22 hr 44 min
+1,309 songs - 2 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-18 | 2023-04-07 |
 | [BIBORA](https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Sequence](https://open.spotify.com/album/23325hP3aqsiTottDna0mg) | 3:14 | 2024-01-10 | 2024-03-08 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-02-15 | 2021-05-18 |
+| [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-17 |  |
 | [Bird](https://open.spotify.com/track/0ePOUs38vMTdOVjvqVHXu1) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [Bird](https://open.spotify.com/album/57l0cgANptjE4xJZzflLPR) | 3:04 | 2020-10-13\* | 2021-01-11 |
 | [Birth](https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 1 : Birth>](https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ) | 2:42 | 2024-03-30 | 2024-05-15 |
 | [Birthday](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Birthday \- SM STATION : NCT LAB](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) | 3:41 | 2022-10-27 | 2023-03-07 |
@@ -361,6 +362,7 @@
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-07 | 2022-03-03 |
 | [Empty](https://open.spotify.com/track/15sqqtN3pxdFqYnVxKPHt9) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOOR \- The 4th Mini Album](https://open.spotify.com/album/57tUagZl5Lg8x2fogKCzjA) | 4:04 | 2024-05-31 | 2024-07-19 |
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2021-02-20 | 2021-05-11 |
+| [Episode](https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Glow to Haze](https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o) | 2:42 | 2025-06-17 |  |
 | [ERASE ME](https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [PYGMALION](https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ) | 3:09 | 2023-05-15 | 2023-10-06 |
 | [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 | 2023-03-14 | 2023-04-27 |
 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 | 2025-03-28 | 2025-05-29 |
@@ -723,7 +725,7 @@
 | [MAKE U DANCE](https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [MAKE U DANCE](https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep) | 2:37 | 2021-11-12 | 2022-01-20 |
 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 | 2023-11-03 | 2024-03-31 |
 | [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2021-08-25 | 2021-10-13 |
-| [MAPLELATTE](https://open.spotify.com/track/5kESieK998xFJjigvYreWJ) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Dear.M \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1P4dQAVfrGGWHrJpBb8SSu) | 3:53 | 2025-04-17 |  |
+| [MAPLELATTE](https://open.spotify.com/track/5kESieK998xFJjigvYreWJ) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Dear.M \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1P4dQAVfrGGWHrJpBb8SSu) | 3:53 | 2025-04-17 | 2025-06-17 |
 | [MAPSI](https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [MAPSI](https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05) | 2:40 | 2023-02-09 | 2023-03-25 |
 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 | 2020-10-13\* | 2020-10-22 |
 | [Mars](https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:07 | 2024-05-08 | 2024-08-07 |
@@ -1108,7 +1110,7 @@
 | [TANG TANG TANG](https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788) | [구공탄 \(비투비\)](https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs) | [TANG TANG TANG](https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe) | 2:32 | 2024-08-01 | 2024-09-21 |
 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 | 2021-12-09 | 2022-01-13 |
 | [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 | 2022-03-22 | 2022-08-13 |
-| [Tap Clap](https://open.spotify.com/track/5KJI44nLOKoPiReFPPKRIB) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Tap Clap](https://open.spotify.com/album/4tr4xBP3GwyB0HuRAfkX0M) | 2:29 | 2025-04-21 |  |
+| [Tap Clap](https://open.spotify.com/track/5KJI44nLOKoPiReFPPKRIB) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Tap Clap](https://open.spotify.com/album/4tr4xBP3GwyB0HuRAfkX0M) | 2:29 | 2025-04-21 | 2025-06-17 |
 | [Tap Tap](https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.LOVE](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) | 3:06 | 2022-11-18 | 2023-01-19 |
 | [Tasty](https://open.spotify.com/track/7CRxtUYdaNwgUICPi2iScL) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Tasty](https://open.spotify.com/album/2vM9UGFDKGVtBujM4i280d) | 2:11 | 2024-05-23 | 2024-08-16 |
 | [TATTOO](https://open.spotify.com/track/55YsU62Y12E5hU0gXvn5mT) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [TATTOO](https://open.spotify.com/album/5hexML5GeKyj4HCCV3zhG2) | 3:30 | 2022-01-10 | 2022-03-25 |

@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "album": {
         "name": "BL\u00c9DARD (Deluxe)",
         "url": "https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 160628,
       "name": "CARR\u00c9 OK",
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
@@ -5781,6 +5799,28 @@
     },
     {
       "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
+    },
+    {
+      "album": {
         "name": "Pichichi",
         "url": "https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7"
       },
@@ -7920,7 +7960,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 223157,
       "name": "Ya Mektoubi",
       "url": "https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH"

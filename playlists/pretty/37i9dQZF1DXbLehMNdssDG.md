@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,114 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,148 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 28 | [528 Hz \- Recovery](https://open.spotify.com/track/6J66keH0Zr1IMUszboqzJ8) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [528 Hz \- Recovery](https://open.spotify.com/album/1osmKaEGvZH6PdNqz5AAp2) | 2:42 |
 | 29 | [528 Hz Ethereal Wavelengths](https://open.spotify.com/track/0IYdJWqE3sZ0joQRolqwJb) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [528 Hz Ethereal Wavelengths](https://open.spotify.com/album/41RMfX1OGZLfG820A7Wvz6) | 3:00 |
 | 30 | [Relaxation](https://open.spotify.com/track/7wyBtq2zSt2Ki00yBW0Ob8) | [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Meditation Moment](https://open.spotify.com/album/0U0kxDWCU0yHXHuvIt6Bhp) | 2:16 |
-| 31 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 |
-| 32 | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/track/5oACdFokhUeyN4N7ogNqPy) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/album/1H0w7aY1HddegPYkkcb09E) | 2:35 |
+| 31 | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/track/5oACdFokhUeyN4N7ogNqPy) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/album/1H0w7aY1HddegPYkkcb09E) | 2:35 |
+| 32 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 |
 | 33 | [Kalmte](https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Kalmte](https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG) | 3:23 |
 | 34 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 |
 | 35 | [Equilibrio 432Hz](https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF) | [Invocaciones](https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ) | [Equilibrio 432Hz](https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF) | 2:30 |

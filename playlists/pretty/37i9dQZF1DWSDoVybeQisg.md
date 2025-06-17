@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,018 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,158 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 35 | [Who Do You Love \- Pt\. 1](https://open.spotify.com/track/14hykKy6TC9y6chiptCtje) | [Quicksilver Messenger Service](https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL) | [Happy Trails](https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r) | 3:32 |
 | 36 | [The Good Mr\. Square](https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 1:26 |
 | 37 | [Rainy Day Mushroom Pillow](https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 3:04 |
-| 38 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
-| 39 | [Flying High](https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 2:41 |
+| 38 | [Flying High](https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 2:41 |
+| 39 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
 | 40 | [I Walk on Guilded Splinters](https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 7:46 |
 | 41 | [Heartbreaker](https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 5:41 |
 | 42 | [Incense And Peppermints](https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense & Peppermints](https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5) | 2:49 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 50 | [Lost Women \- The Mono Album](https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 3:15 |
 | 51 | [Evil \- Single Version](https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj), [Gene Paul](https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto), [Jackson Howe](https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA) | [Cactology "The Cactus Collection"](https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ) | 3:16 |
 | 52 | [The Sky Children](https://open.spotify.com/track/24aq7KBvgKsiEaj2swDxM9) | [Kaleidoscope](https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy) | [Dive Into Yesterday](https://open.spotify.com/album/1wkXHVlgEASArELiaRdCgl) | 7:58 |
-| 53 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
-| 54 | [Lazy Sunday \(Stereo Version\) \(2018 Remaster\)](https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Ogdens' Nut Gone Flake \- 50th Anniversary Edition \(2018 Remaster\)](https://open.spotify.com/album/2pM93DS0vpM3wt6ooVx5LS) | 3:05 |
+| 53 | [Lazy Sunday \(Stereo Version\) \(2018 Remaster\)](https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Ogdens' Nut Gone Flake \- 50th Anniversary Edition \(2018 Remaster\)](https://open.spotify.com/album/2pM93DS0vpM3wt6ooVx5LS) | 3:05 |
+| 54 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
 | 55 | [Thing in E](https://open.spotify.com/track/6yUIyHqIrx854Jief095VE) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 3:06 |
 | 56 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
 | 57 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |

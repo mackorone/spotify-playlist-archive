@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "BEIJO CALCULADO",
+        "url": "https://open.spotify.com/album/6LrM8mHSttSpEzzf2k6LTv"
+      },
+      "artists": [
+        {
+          "name": "Paulo Gustavo",
+          "url": "https://open.spotify.com/artist/7f8R6cUA0DMb4oLdmuZRnE"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166483,
+      "name": "BEIJO CALCULADO",
+      "url": "https://open.spotify.com/track/6ByviRAM3MgkuDxeAmkgDp"
+    },
+    {
+      "album": {
         "name": "BEIJO CALCULADO [DVD O Inicio ( Ao Vivo)]",
         "url": "https://open.spotify.com/album/6UfXZuLbRyiiGjP7CdmiMw"
       },
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 166483,
       "name": "BEIJO CALCULADO - DVD O Inicio ( Ao Vivo)",
       "url": "https://open.spotify.com/track/1bPEznvBF0INYzC8JpsJ2e"

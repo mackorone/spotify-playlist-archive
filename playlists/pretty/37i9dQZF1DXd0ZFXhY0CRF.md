@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,879 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,910 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 34 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 |
 | 35 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 |
 | 36 | [Forever Overdose](https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Surrender](https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2) | 3:13 |
-| 37 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
-| 38 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 |
+| 37 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 |
+| 38 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 39 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
 | 40 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
 | 41 | [U Should Not Be Doing That](https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7) | 3:24 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 65 | [Take Your Aim](https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Take Your Aim](https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0) | 3:20 |
 | 66 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 |
 | 67 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
-| 68 | [Take It From The Top](https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [A Million Knives](https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf) | 3:52 |
-| 69 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 |
+| 68 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 |
+| 69 | [Take It From The Top](https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [A Million Knives](https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf) | 3:52 |
 | 70 | [My House \- feat\. Courtney LaPlante](https://open.spotify.com/track/7wSVu2ZvscLgaHbS5g5m6o) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [My House \(feat\. Courtney LaPlante\)](https://open.spotify.com/album/542T5OevZIJxjdzZs5eBUC) | 4:03 |
 | 71 | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [The Wolf You Feed \(feat\. Alissa White\-Gluz\)](https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF) | 3:54 |
 | 72 | [You Look Like A Drunk Phoebe Bridgers](https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:54 |

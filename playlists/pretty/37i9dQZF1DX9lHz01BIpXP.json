@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa_9WSXQAGcMj9SpxUMJQ\">Ziggy4x</a> ",
-  "num_followers": 2677,
+  "num_followers": 2679,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,26 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
+        "name": "Hewig",
+        "url": "https://open.spotify.com/album/3aA38orHnU25drrbkGit6J"
+      },
+      "artists": [
+        {
+          "name": "Nate Johnson SA",
+          "url": "https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN"
+        },
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 222208,
+      "name": "Hewig",
+      "url": "https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz"
+    },
+    {
+      "added_at": "2025-05-02 08:13:49",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/2ZECSjB5povRqXRkPioLy7"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 144082,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk"
-    },
-    {
-      "added_at": "2025-05-02 08:13:49",
-      "album": {
-        "name": "Hewig",
-        "url": "https://open.spotify.com/album/3aA38orHnU25drrbkGit6J"
-      },
-      "artists": [
-        {
-          "name": "Nate Johnson SA",
-          "url": "https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN"
-        },
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        }
-      ],
-      "duration_ms": 222208,
-      "name": "Hewig",
-      "url": "https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz"
     },
     {
       "added_at": "2025-05-02 08:13:49",

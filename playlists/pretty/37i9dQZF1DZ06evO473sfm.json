@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 493490,
+  "num_followers": 493726,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADSRqQR5ebAAnKURsWXeHsd",
+  "snapshot_id": "aE4NAAAAAADgOO25fDJHX+fkBkxXPIGX",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 163031,
-      "name": "AY MAM\u00c1",
-      "url": "https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 163031,
+      "name": "AY MAM\u00c1",
+      "url": "https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp"
     },
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/2iiR2powAnVyARFx7deWZT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 184095,
-      "name": "\u00c1NGEL",
-      "url": "https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/2iiR2powAnVyARFx7deWZT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 184095,
+      "name": "\u00c1NGEL",
+      "url": "https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8"
     },
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 160517,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 219164,
       "name": "AURORA (feat. Armenta)",
       "url": "https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 160517,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 163407,
+      "name": "NUNCA LA OLVID\u00c9",
+      "url": "https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 169020,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 163407,
-      "name": "NUNCA LA OLVID\u00c9",
-      "url": "https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL"
     },
     {
       "added_at": null,

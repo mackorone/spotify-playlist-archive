@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 54413,
+  "num_followers": 54451,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACow+e/QrvloT98YzlyI9pm",
+  "snapshot_id": "aE4NAAAAAAD/jgp5z/zk0ykTh/AQMSvv",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broken Branches",
+        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Broken Branches (feat. John Anderson, Riley Green)",
+      "url": "https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -579,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Behind The Bar",
+        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "I Let A Damn Good Woman Leave",
+      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mid-Twenties Crisis",
         "url": "https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8"
       },
@@ -595,22 +635,6 @@
       "duration_ms": 185333,
       "name": "Stick to My Guns (feat. Riley Green)",
       "url": "https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Behind The Bar",
-        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "I Let A Damn Good Woman Leave",
-      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
     },
     {
       "added_at": null,
@@ -643,30 +667,6 @@
       "duration_ms": 188426,
       "name": "Bettin' Man",
       "url": "https://open.spotify.com/track/4wCdeawWseZUYkhN697nX7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken Branches",
-        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Broken Branches (feat. John Anderson, Riley Green)",
-      "url": "https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ"
     },
     {
       "added_at": null,

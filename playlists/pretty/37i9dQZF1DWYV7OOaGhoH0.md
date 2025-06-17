@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from  Big Thief
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,790,298 likes - 102 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,789,857 likes - 102 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

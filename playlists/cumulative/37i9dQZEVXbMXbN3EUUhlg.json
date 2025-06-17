@@ -8522,7 +8522,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -8912,7 +8912,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 172751,
       "name": "Dois Enganados",
       "url": "https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U"
@@ -19360,6 +19360,24 @@
     {
       "album": {
         "name": "Ac\u00fastico, Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4PCWrE06AezR84OPLuHyPI"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163379,
+      "name": "Mulher Sem Ci\u00fame - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Im7To74Oqr1wWHqWmkPH1"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico, Vol.2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5uVJKo3YVE3OeOXY35u3Hg"
       },
       "artists": [
@@ -19370,7 +19388,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 163379,
       "name": "Mulher Sem Ci\u00fame - Ao Vivo",
       "url": "https://open.spotify.com/track/41Z4T7bmNgToR4MRaKZtxP"
@@ -26210,7 +26228,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 144665,
       "name": "Saveiro",
       "url": "https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G"
@@ -26586,7 +26604,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 192034,
       "name": "Seja Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE"
@@ -31777,6 +31795,28 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico, Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4PCWrE06AezR84OPLuHyPI"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178131,
+      "name": "Veneno - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QUl20UtEsH85livMYnbQr"
+    },
+    {
+      "album": {
         "name": "Veneno (Ao Vivo)",
         "url": "https://open.spotify.com/album/715ssXI3hBwHzwgOlcQhSQ"
       },
@@ -31792,7 +31832,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 178131,
       "name": "Veneno - Ao Vivo",
       "url": "https://open.spotify.com/track/2tUIRX4wK0COoKEorOdEpZ"

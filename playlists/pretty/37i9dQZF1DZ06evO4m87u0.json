@@ -1,12 +1,12 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 294741,
+  "num_followers": 294769,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADPts7G6EsRKTfQ+jeUOYv0",
+  "snapshot_id": "aE4NAAAAAACga4kVl85+wPhtCMaYuxKX",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babygirl",
-        "url": "https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 174059,
-      "name": "Babygirl",
-      "url": "https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magic Potion",
         "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 203773,
       "name": "Everlasting Light",
       "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babygirl",
+        "url": "https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 174059,
+      "name": "Babygirl",
+      "url": "https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+        "name": "Chulahoma",
+        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Psychotic Girl",
-      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
+      "duration_ms": 218466,
+      "name": "Meet Me in the City",
+      "url": "https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chulahoma",
-        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Meet Me in the City",
-      "url": "https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu"
+      "duration_ms": 250706,
+      "name": "Psychotic Girl",
+      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
     },
     {
       "added_at": null,

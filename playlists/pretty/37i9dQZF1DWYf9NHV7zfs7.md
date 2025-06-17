@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Abel Pintos
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,765 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,795 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 72 | [La Cobra](https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [La Cobra](https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP) | 3:08 |
 | 73 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
 | 74 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 |
-| 75 | [Santa Marta](https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:20 |
-| 76 | [Detox](https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk) | 2:47 |
+| 75 | [Detox](https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk) | 2:47 |
+| 76 | [Santa Marta](https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:20 |
 | 77 | [OCÉANO](https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [OCÉANO](https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd) | 3:48 |
 | 78 | [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 |
 | 79 | [La Fuerza del Engaño](https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 3:27 |

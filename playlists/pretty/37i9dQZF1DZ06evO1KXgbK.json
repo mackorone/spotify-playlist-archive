@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 253055,
+  "num_followers": 253054,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAD6MjbHZ4X8/0dyeXmCFpMp",
+  "snapshot_id": "aE4NAAAAAACR0MLsZx2vnmTGfItue34m",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTX Vol. IV - Classics",
+        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 131893,
+      "name": "Jolene (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -475,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTX Vol. IV - Classics",
-        "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 131893,
-      "name": "Jolene (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio II (2016 Remaster)",
         "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 211586,
       "name": "After the Gold Rush - 2015 Remaster",
       "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Hadn\u2019t Been There",
+        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 208789,
+      "name": "If You Hadn\u2019t Been There",
+      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Hadn\u2019t Been There",
-        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 208789,
-      "name": "If You Hadn\u2019t Been There",
-      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -891,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 315613,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
+      "duration_ms": 235053,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
     },
     {
       "added_at": null,
@@ -919,6 +903,22 @@
       "duration_ms": 257372,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 315613,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
     },
     {
       "added_at": null,

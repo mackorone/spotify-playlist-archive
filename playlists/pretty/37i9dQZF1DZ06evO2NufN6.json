@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 948366,
+  "num_followers": 948478,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACVncC1pe1Tl4A3b31qbVir",
+  "snapshot_id": "aE4NAAAAAAA97YheK+DYQQdnDmCRGgLd",
   "tracks": [
     {
       "added_at": null,
@@ -706,11 +706,15 @@
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 272973,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     },
     {
       "added_at": null,
@@ -778,15 +782,11 @@
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+      "duration_ms": 272973,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
     },
     {
       "added_at": null,

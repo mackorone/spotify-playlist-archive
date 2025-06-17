@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Susana Zabaleta en portada.",
-  "num_followers": 546807,
+  "num_followers": 546810,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Serenatas Frente al Mar",
-        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         },
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
         }
       ],
-      "duration_ms": 197850,
-      "name": "Serenatas Frente al Mar",
-      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
+      "duration_ms": 236000,
+      "name": "Piensa en M\u00ed (with Vicentico)",
+      "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -491,22 +491,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+        "name": "Serenatas Frente al Mar",
+        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         },
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Piensa en M\u00ed (with Vicentico)",
-      "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+      "duration_ms": 197850,
+      "name": "Serenatas Frente al Mar",
+      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
-        "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 196895,
-      "name": "Yo Nunca Te Ment\u00ed",
-      "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
+        "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 196895,
+      "name": "Yo Nunca Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
+        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 189663,
+      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
+      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "Hoy No",
         "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
-        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 189663,
-      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
-      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Somos Algo",
-        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 234128,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Casi algo",
         "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 165229,
       "name": "Casi algo",
       "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Somos Algo",
+        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 234128,
+      "name": "Somos Algo",
+      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Armando Manzanero Duetos 2",
         "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 188600,
       "name": "Nada personal (A dueto con Ana Torroja)",
       "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 199296,
       "name": "Mexicana (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Or\u00edgenes: El Bolero Vol.3",
+        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Te matan los celos",
+      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "Para No Romperme",
         "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 171413,
       "name": "Para No Romperme",
       "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Or\u00edgenes: El Bolero Vol.3",
-        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 210848,
-      "name": "Te matan los celos",
-      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 185727,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Noche Sensacional",
         "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 197000,
       "name": "Noche Sensacional",
       "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Tu Segundo Nombre (Karma)",
-        "url": "https://open.spotify.com/album/2z3VZ4Ip0z4wILXe5xurUB"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 169609,
-      "name": "Tu Segundo Nombre (Karma)",
-      "url": "https://open.spotify.com/track/3Orlfid5vxAYaz37tMHDOC"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Enclave de Bolero",
         "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Despu\u00e9s del Norte",
-        "url": "https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG"
+        "name": "Tu Segundo Nombre (Karma)",
+        "url": "https://open.spotify.com/album/2z3VZ4Ip0z4wILXe5xurUB"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         }
       ],
-      "duration_ms": 165456,
-      "name": "Medias tintas",
-      "url": "https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS"
+      "duration_ms": 169609,
+      "name": "Tu Segundo Nombre (Karma)",
+      "url": "https://open.spotify.com/track/3Orlfid5vxAYaz37tMHDOC"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1671,22 +1655,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Noviembre",
-        "url": "https://open.spotify.com/album/2gfu0d8ZOJ2BEJ94XrtNbi"
-      },
-      "artists": [
-        {
-          "name": "Valsian",
-          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
-        }
-      ],
-      "duration_ms": 220369,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/63PhHSisMHT7ahW4mcZh2e"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Palabras",
         "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
       },
@@ -1699,6 +1667,38 @@
       "duration_ms": 244000,
       "name": "Palabras",
       "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Despu\u00e9s del Norte",
+        "url": "https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 165456,
+      "name": "Medias tintas",
+      "url": "https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/2gfu0d8ZOJ2BEJ94XrtNbi"
+      },
+      "artists": [
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        }
+      ],
+      "duration_ms": 220369,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/63PhHSisMHT7ahW4mcZh2e"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Si T\u00fa Supieras (En Vivo Desde El Teatro Real)",
+        "url": "https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "Si T\u00fa Supieras - En Vivo Desde El Teatro Real",
+      "url": "https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "Viejitos",
         "url": "https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 225476,
       "name": "Viejitos",
       "url": "https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Si T\u00fa Supieras (En Vivo Desde El Teatro Real)",
-        "url": "https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Si T\u00fa Supieras - En Vivo Desde El Teatro Real",
-      "url": "https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD"
     },
     {
       "added_at": "2025-05-16 06:00:17",

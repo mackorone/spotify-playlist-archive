@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Lainey Wilson",
-  "num_followers": 414606,
+  "num_followers": 414837,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,18 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "I Ain't Comin' Back",
-        "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 175271,
-      "name": "I Ain't Comin' Back (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -303,18 +299,22 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "I Ain't Comin' Back",
+        "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+      "duration_ms": 175271,
+      "name": "I Ain't Comin' Back (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "DEVIL YOU KNOW",
-        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "DEVIL YOU KNOW",
-      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 194426,
       "name": "There Was This Girl",
       "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
+        "name": "DEVIL YOU KNOW",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "DEVIL YOU KNOW",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 290560,
+      "name": "When the Sun Goes Down",
+      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 290560,
-      "name": "When the Sun Goes Down",
-      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
         "name": "Dig Your Roots",
         "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 226173,
       "name": "May We All",
       "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "Coyote Cry",
-        "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 231265,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
         "name": "One Margarita",
         "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 193426,
       "name": "One Margarita",
       "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
+        "name": "Coyote Cry",
+        "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 231265,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
     },
     {
       "added_at": "2025-06-04 03:44:37",

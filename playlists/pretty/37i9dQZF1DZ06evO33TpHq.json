@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 54379,
+  "num_followers": 54405,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAApDi5pR9QXjG1bB8Rn4iDQ",
+  "snapshot_id": "aE4NAAAAAADmLpKDiUhI1hnzXUtksT8d",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 344200,
+      "name": "1,000 Names",
+      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Then Christ Came (feat. Phil Wickham)",
         "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 235921,
       "name": "Then Christ Came (feat. Phil Wickham)",
       "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 344200,
-      "name": "1,000 Names",
-      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Response",
+        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 297666,
+      "name": "The Victory",
+      "url": "https://open.spotify.com/track/35JEkFRFgRerZwkuNe5vJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Hope (The House Sessions)",
         "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 394626,
       "name": "How Great Is Your Love",
       "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 236206,
-      "name": "THE JESUS WAY \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Response",
-        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 297666,
-      "name": "The Victory",
-      "url": "https://open.spotify.com/track/35JEkFRFgRerZwkuNe5vJ3"
+      "duration_ms": 236206,
+      "name": "THE JESUS WAY \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+        "name": "Response",
+        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 227810,
-      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
+      "duration_ms": 206280,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU"
     }
   ],
   "unique_name": "This Is Phil Wickham",

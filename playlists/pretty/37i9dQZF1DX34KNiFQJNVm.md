@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grelo, Orochi, Luedji Luna e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103,883 likes - 91 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,104,011 likes - 91 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 45 | [Piseiro Black Sabbath](https://open.spotify.com/track/65WDkZJLMWCtHyuq9iAY16) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Piseiro Black Sabbath](https://open.spotify.com/album/6Xr8Q6GUE57GK8GDitu6L2) | 3:16 |
 | 46 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
 | 47 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
-| 48 | [24h In A Disco \(with Channel Tres\)](https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco \(REFRESHED\)](https://open.spotify.com/album/1IHDWNO26K4VFONHJ2teAa) | 2:51 |
+| 48 | [24h In A Disco](https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco \(REFRESHED\)](https://open.spotify.com/album/1IHDWNO26K4VFONHJ2teAa) | 2:51 |
 | 49 | [Take Me Home](https://open.spotify.com/track/3LEKid5wQEAEpcqN199qlp) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Take Me Home](https://open.spotify.com/album/7etgTEaMNgAatgcAGscVgy) | 2:38 |
 | 50 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 |
 | 51 | [KELOIDE](https://open.spotify.com/track/0Nd6eq8BzjMnyq9f37QuUW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/3PfMmFVUx9oJUFvnDf76Iz) | 2:59 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 90 | [Passo de Avarandar](https://open.spotify.com/track/2iOsmwztOjHeeOVsQLy4Hu) | [Wado](https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo), [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA), [Janu](https://open.spotify.com/artist/3bQFCFtlZox4Re0AuoFSXk) | [Passo de Avarandar](https://open.spotify.com/album/3vVyPFzoOchyQpCyys1Enw) | 2:34 |
 | 91 | [Dores no Varal](https://open.spotify.com/track/14ZW8MpLMLUesmP4jjZp83) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Amor Delírio](https://open.spotify.com/album/1mWo6oWDpsphS9RabjVPnu) | 3:37 |
 
-Snapshot ID: `aExSCQAAAABBYahT3uddi9e1WIhhNJmS`
+Snapshot ID: `AAAAABBNT6AFqZfWJ24ut4sxJ7pauKdK`

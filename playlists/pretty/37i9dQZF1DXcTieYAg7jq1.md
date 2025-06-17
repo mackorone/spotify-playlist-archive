@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: grentperez
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,841 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,796 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Hello](https://open.spotify.com/track/1H4fnvmxwS2CoJMrZu44mb) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Hello](https://open.spotify.com/album/7jRUkMkhGxRbXklc8SbPKd) | 3:30 |
 | 100 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 |
 
-Snapshot ID: `AAAAAGkBBdJ5IXf46wBdAY+odoEfim6m`
+Snapshot ID: `aExLHAAAAABqQyqVyqjNoRVcvSZCv6Cs`

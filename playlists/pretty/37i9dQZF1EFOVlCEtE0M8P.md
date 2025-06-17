@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242 likes - 249 songs - 14 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243 likes - 249 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 47 | [Honest Man](https://open.spotify.com/track/6CVOAQAtEUczusr91X6JGD) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:49 |
 | 48 | [Waking Up](https://open.spotify.com/track/0CRR2E9z9q7plwppNYZoQg) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Waking Up](https://open.spotify.com/album/67dz58Oxf79j69TS8RPej9) | 4:00 |
 | 49 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
-| 50 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
-| 51 | [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 |
+| 50 | [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 |
+| 51 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
 | 52 | [In and Out](https://open.spotify.com/track/21Ca8qgNqwQoMQ9pJHfDyo) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/38DxMxQTI6yNKjNNrPIi0E) | 3:41 |
 | 53 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
 | 54 | [Crush](https://open.spotify.com/track/4onuVDT23p1Bhl1Joc02td) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:24 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 195 | [The Hard Way](https://open.spotify.com/track/1z9bo6t4Cml4e4SN7yYSMZ) | [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [The Hard Way](https://open.spotify.com/album/5pASbfhqQxkXzdtOvJaA3R) | 3:11 |
 | 196 | [4 Letter Word](https://open.spotify.com/track/58uR3kZLQecc31yol8Ryqq) | [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [Dedicated To:](https://open.spotify.com/album/25VjYN3RwJfVIfF9r83tuZ) | 3:23 |
 | 197 | [Changes](https://open.spotify.com/track/2GM6Ru5A11mm9hS8mXPWCS) | [Sam Johnson](https://open.spotify.com/artist/4FePLXv9OD4k0vOfZLBn43) | [Changes](https://open.spotify.com/album/4XUzTI1B64yofW2gjB8mAW) | 3:23 |
-| 198 | [time of our lives](https://open.spotify.com/track/31Vfan2nGIHQiAhJDEXLFM) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:23 |
-| 199 | [Change](https://open.spotify.com/track/4hRpQDEQtPW4GyRtl4OvWh) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Home in Another Life](https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY) | 3:32 |
+| 198 | [Change](https://open.spotify.com/track/4hRpQDEQtPW4GyRtl4OvWh) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Home in Another Life](https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY) | 3:32 |
+| 199 | [time of our lives](https://open.spotify.com/track/31Vfan2nGIHQiAhJDEXLFM) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:23 |
 | 200 | [roses in the rain](https://open.spotify.com/track/2MStHylyE3Vk4vMHVfmNtt) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 2:35 |
 | 201 | [Part of Me](https://open.spotify.com/track/5MeJdfZ0TTyTHR9TkKawTU) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:41 |
 | 202 | [Friends](https://open.spotify.com/track/3nY9b9eUYtu9gftZAuqiro) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [Friends](https://open.spotify.com/album/1u5T8uIGTvUmgVe2OrGZJ8) | 3:14 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 248 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 249 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `Ab0PKAAAAADsLLtaeaNLFvUMKZ95vRrU`
+Snapshot ID: `Ab0UqgAAAAAruSGImFEZwN6IMk6Pecw+`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Ed Sheeran",
+  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Twenty One Pilots",
   "name": "\u6700Hit\u897f\u6d0b\u699c",
   "tracks": [
     {
@@ -431,6 +431,28 @@
     },
     {
       "album": {
+        "name": "A Better World",
+        "url": "https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172606,
+      "name": "A Better World",
+      "url": "https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI"
+    },
+    {
+      "album": {
         "name": "A Life To Remember",
         "url": "https://open.spotify.com/album/5rvIew35GaxuuhzKoHesT1"
       },
@@ -460,7 +482,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 222468,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/2LS3UxwPd2gMrJj5tsZU00"
@@ -1308,7 +1330,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 165228,
       "name": "Bangalang",
       "url": "https://open.spotify.com/track/27lrXtK8mDFsmQrcatZ71E"
@@ -2853,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "comedown",
+        "url": "https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192684,
+      "name": "comedown",
+      "url": "https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ"
+    },
+    {
+      "album": {
         "name": "coming home",
         "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
       },
@@ -3723,6 +3763,32 @@
     },
     {
       "album": {
+        "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
+        "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
+      "url": "https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI"
+    },
+    {
+      "album": {
         "name": "Diving",
         "url": "https://open.spotify.com/album/7mWFFXiXvFGMWMe9WRtfMr"
       },
@@ -4120,7 +4186,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 186639,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
@@ -4602,7 +4668,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 186068,
       "name": "Fight Like A Girl (feat. K.Flay)",
       "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
@@ -4718,6 +4784,24 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
+    },
+    {
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "album": {
@@ -5834,7 +5918,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 187000,
       "name": "Hate to Love",
       "url": "https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor"
@@ -5906,7 +5990,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 171026,
       "name": "Heat",
       "url": "https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt"
@@ -6076,7 +6160,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 196697,
       "name": "Hemingway",
       "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
@@ -6316,6 +6400,24 @@
       "duration_ms": 221666,
       "name": "Holidays",
       "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
+    },
+    {
+      "album": {
+        "name": "Holy Blindfold",
+        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Holy Blindfold",
+      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
     },
     {
       "album": {
@@ -7698,6 +7800,24 @@
       "duration_ms": 221443,
       "name": "KARAOKE",
       "url": "https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR"
+    },
+    {
+      "album": {
+        "name": "GLOW",
+        "url": "https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130231,
+      "name": "Keep a Secret",
+      "url": "https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei"
     },
     {
       "album": {
@@ -9100,6 +9220,24 @@
       "duration_ms": 192586,
       "name": "Midnight in Saigon",
       "url": "https://open.spotify.com/track/4jRZrYnaOzg17S9y2H2O3K"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "album": {
@@ -11846,7 +11984,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 148861,
       "name": "Shagidi",
       "url": "https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx"
@@ -13285,6 +13423,28 @@
     },
     {
       "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "album": {
         "name": "Swallow My Tears",
         "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
       },
@@ -13867,6 +14027,24 @@
     },
     {
       "album": {
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
+    },
+    {
+      "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },
@@ -13998,6 +14176,24 @@
       "duration_ms": 169081,
       "name": "The Plan",
       "url": "https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg"
+    },
+    {
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178857,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL"
     },
     {
       "album": {
@@ -14260,7 +14456,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -14300,7 +14496,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 232597,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
@@ -14856,7 +15052,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 175788,
       "name": "Type Dangerous",
       "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
@@ -14914,6 +15110,28 @@
       "duration_ms": 242826,
       "name": "Under the Tree (from \u201cThat Christmas\u201d)",
       "url": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
+    },
+    {
+      "album": {
+        "name": "Underdog (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5eZ1Y9l73CbY1Q5eu92LvK"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142328,
+      "name": "Underdog (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/7KVT3NYXWguwJ0zzup1q1S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-217 songs - 13 hr 14 min
+218 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Even voorgoed](https://open.spotify.com/track/4C7Opc7GkOln45lwSUqsaT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Even voorgoed](https://open.spotify.com/album/0BbM1K1A00wIpkX4H9cq3q) | 3:18 | 2023-02-10 | 2024-07-06 |
 | [Gaast/Ferwoude](https://open.spotify.com/track/1M4bfMcZEKgAYOWjavoLwR) | [Esther de Jong](https://open.spotify.com/artist/3w50bIKKcdV5MfRf7LG0WV) | [Voeten in de aarde](https://open.spotify.com/album/7HZ1SrzuGUUHomVNfKTCxO) | 3:33 | 2025-03-27 |  |
 | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq) | 4:05 | 2023-02-10 | 2024-07-06 |
+| [Geef Mij Nog Deze Nacht \- Ballad Versie](https://open.spotify.com/track/1VaFtGkRffdvluTUSNcUiQ) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Geef Mij Nog Deze Nacht \(Ballad Versie\)](https://open.spotify.com/album/7qA5vyrbaQcvZVo0KaBIXG) | 4:20 | 2025-06-16 |  |
 | [Geen Ander](https://open.spotify.com/track/0erh8RtDG4siDMHqdixBXf) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Geen Ander](https://open.spotify.com/album/4miPU2jUOXsoUDAtglywn9) | 3:31 | 2023-02-10 | 2023-03-09 |
 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 | 2023-02-10 |  |
 | [Geen Kind Meer](https://open.spotify.com/track/50icYQNGHdT8wLoIbMEpix) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/2BXUEUcVn8LbeQRh18aQfY) | 4:23 | 2023-10-12 | 2024-04-19 |
@@ -212,7 +213,7 @@
 | [Weg uit Nederland](https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Weg uit Nederland](https://open.spotify.com/album/4OjNZnxk3IANfpvbjMQiz1) | 3:52 | 2025-05-22 |  |
 | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/0Xo7vPmbVFIEgcyMHNH5sa) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Wie ben ik \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/0ZS7oHN6GyQfWcu6WHj6xm) | 3:45 | 2024-01-25 | 2024-03-08 |
 | [Wie Zal Je Ooit Vergeten](https://open.spotify.com/track/50EJs9YhrdEFWrDRkBqEtW) | [Henny Thijssen](https://open.spotify.com/artist/71MAww1vIzu0Akrk631fNB) | [Wie Zal Je Ooit Vergeten](https://open.spotify.com/album/63xt6zuAjPG1nn26n7JHSb) | 2:58 | 2024-09-26 | 2024-10-25 |
-| [Wonderkind](https://open.spotify.com/track/4bcwafLCp4X5Usloxiyvcs) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Wonderkind](https://open.spotify.com/album/2JflmVKhoTaR30gDqZf4h5) | 3:27 | 2025-02-20 |  |
+| [Wonderkind](https://open.spotify.com/track/4bcwafLCp4X5Usloxiyvcs) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Wonderkind](https://open.spotify.com/album/2JflmVKhoTaR30gDqZf4h5) | 3:27 | 2025-02-20 | 2025-06-17 |
 | [Zeg Maar Niets Meer \- Hazes Is De Basis](https://open.spotify.com/track/4UC728tVjFpohnz0MD1iu9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Hazes Is De Basis 4](https://open.spotify.com/album/47QWesQSFbgOTZ3ddb9Zjp) | 2:45 | 2023-02-10 | 2024-09-28 |
 | [Zeg Me Dat Het Niet Zo Is](https://open.spotify.com/track/5c22NmaEpqXh2PFzCBDGRJ) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Een Zomer Aan Het Eind Van De Twintigste Eeuw](https://open.spotify.com/album/2cExlOtCjJjz8xuuFobK9g) | 2:41 | 2023-02-10 | 2025-05-09 |
 | [Zie Je Nou \- uit Verloren Jeugd](https://open.spotify.com/track/0ZYq5WajwOuSd3HNHzqGJ9) | [Noek](https://open.spotify.com/artist/7q6rQ8vg7r9vSDRDBXdb5x) | [Zie Je Nou \- uit Verloren Jeugd](https://open.spotify.com/album/3f0POX0DFwYKtuB1ps8iS5) | 3:39 | 2025-01-24 |  |

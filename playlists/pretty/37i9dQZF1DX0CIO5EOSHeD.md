@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,998 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,003 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 31 | [I Like You](https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:47 |
 | 32 | [so be it in my dreams](https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [so be it in my dreams](https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L) | 2:26 |
 | 33 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
-| 34 | [Dreams Tonite](https://open.spotify.com/track/3xiMFRYBQL1zxdxbgUmBKI) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/5TGZvGolR6PoM1zYYyZNzX) | 3:16 |
-| 35 | [Her Sinking Sun](https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Blue Suicide](https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB) | 2:33 |
-| 36 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
-| 37 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
-| 38 | [echo of a star](https://open.spotify.com/track/09CkTbaLxTFS9inmx7le9c) | [lace](https://open.spotify.com/artist/7foHxRQbxX06umj1ScznAZ) | [echo of a star](https://open.spotify.com/album/49CXWXhvMHPw7d5eDwv4NE) | 4:16 |
+| 34 | [echo of a star](https://open.spotify.com/track/09CkTbaLxTFS9inmx7le9c) | [lace](https://open.spotify.com/artist/7foHxRQbxX06umj1ScznAZ) | [echo of a star](https://open.spotify.com/album/49CXWXhvMHPw7d5eDwv4NE) | 4:16 |
+| 35 | [Dreams Tonite](https://open.spotify.com/track/3xiMFRYBQL1zxdxbgUmBKI) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/5TGZvGolR6PoM1zYYyZNzX) | 3:16 |
+| 36 | [Her Sinking Sun](https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Blue Suicide](https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB) | 2:33 |
+| 37 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
+| 38 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
 | 39 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 |
 | 40 | [into me](https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [into me](https://open.spotify.com/album/0IoYTbRX2fybz0yqHM2TNT) | 2:52 |
 | 41 | [Spiral Stairs](https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Spiral Stairs](https://open.spotify.com/album/0JsrXgAVovKYKoKRrBLdMO) | 2:26 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 56 | [Sister](https://open.spotify.com/track/33YCzOk2Oz1s4Quw5wBT14) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 3:46 |
 | 57 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
 | 58 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
-| 59 | [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 |
-| 60 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
+| 59 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
+| 60 | [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 |
 | 61 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
 | 62 | [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 |
 | 63 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 82 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
 | 83 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
 | 84 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
-| 85 | [Stop Waiting](https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 6:02 |
+| 85 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 |
 | 86 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
-| 87 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 |
+| 87 | [Stop Waiting](https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 6:02 |
 | 88 | [SUGAR RUSH](https://open.spotify.com/track/5nsUidvKeOy9JLzQI2QYVt) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [SUGAR RUSH](https://open.spotify.com/album/1VpU4vyGJzRIHMYZj3Ax6L) | 3:02 |
 | 89 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 |
 | 90 | [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 |

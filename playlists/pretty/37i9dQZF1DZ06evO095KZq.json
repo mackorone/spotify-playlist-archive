@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 443446,
+  "num_followers": 443451,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABRlURp/shseXbyk9fFnk1c",
+  "snapshot_id": "aE4NAAAAAAD+FZut8cnJVdEKjpGDTKm0",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de Servicio (En Vivo)",
-        "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Fuera de Servicio (En Vivo)",
-      "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Equipo Armado",
         "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
       },
@@ -395,22 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cabrones y Vagos",
-        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 153086,
-      "name": "Mis Ra\u00edces",
-      "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio (En Vivo)",
+      "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
     },
     {
       "added_at": null,
@@ -439,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Caguama en la Banqueta",
-        "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
+        "name": "Cabrones y Vagos",
+        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
       },
       "artists": [
         {
@@ -448,13 +428,13 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Tony Montoya",
-          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 166232,
-      "name": "Una Caguama en la Banqueta",
-      "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
+      "duration_ms": 153086,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
     },
     {
       "added_at": null,
@@ -479,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Zool\u00f3gico (En Vivo)",
-        "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
+        "name": "Una Caguama en la Banqueta",
+        "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        },
-        {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Tony Montoya",
+          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
         }
       ],
-      "duration_ms": 219453,
-      "name": "El Zool\u00f3gico - En Vivo",
-      "url": "https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB"
+      "duration_ms": 166232,
+      "name": "Una Caguama en la Banqueta",
+      "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
       "duration_ms": 176841,
       "name": "Gu\u00e1rdame Esta Noche",
       "url": "https://open.spotify.com/track/6a3Y5DF19Zcw1rpW5NXxks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Zool\u00f3gico (En Vivo)",
+        "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "El Zool\u00f3gico - En Vivo",
+      "url": "https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 216770,
-      "name": "Lupe Campos",
-      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coronas Doradas",
         "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 167470,
       "name": "Los Cuervos",
       "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 216770,
+      "name": "Lupe Campos",
+      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167338,
-      "name": "El Mes de Mayo",
-      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Selectivo",
         "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 187743,
       "name": "El Selectivo",
       "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167338,
+      "name": "El Mes de Mayo",
+      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay pa' Toro",
-        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 159597,
-      "name": "De Puntitas",
-      "url": "https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vengo a Aclarar (En Vivo)",
         "url": "https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 150990,
       "name": "Las Verdades - En Vivo",
       "url": "https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hay pa' Toro",
+        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 159597,
+      "name": "De Puntitas",
+      "url": "https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9"
     },
     {
       "added_at": null,

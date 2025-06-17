@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,821 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,854 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 32 | [Imborrable](https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO) | [Mono Zabaleta](https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu), [Daniel Maestre](https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202) | [Imborrable](https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5) | 4:00 |
 | 33 | [Casualidad](https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Super Vallenatos 2008](https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w) | 4:52 |
 | 34 | [No voy a llorar](https://open.spotify.com/track/00sxto6RGzUmb9bev8GmQs) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/1NHHst2Nybld2rdJZIdUNr) | 4:43 |
-| 35 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
-| 36 | [Amor Sensible](https://open.spotify.com/track/2kqXk0cmW404g5P2iHxOjl) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 4:26 |
+| 35 | [Amor Sensible](https://open.spotify.com/track/2kqXk0cmW404g5P2iHxOjl) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 4:26 |
+| 36 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 | 37 | [Chillar A Otra Parte](https://open.spotify.com/track/4v4E5uXzoxlDrO7XSkH5u2) | [Luifer Cuello](https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx), [Manuel Julian Martinez](https://open.spotify.com/artist/0jp90sYsCfDxbHOvRyIc2z) | [Echao Pa Lante](https://open.spotify.com/album/4IogOvGu1rhSNDke7MzrMG) | 4:11 |
 | 38 | [La Gemela](https://open.spotify.com/track/0ZHjL0IEpX94Z1S6lqB6xq) | [Los Betos](https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn) | [Enamorandote](https://open.spotify.com/album/5btsdJQmvJRmhgAAro8w6h) | 4:14 |
 | 39 | [Tarde Lo Conoci](https://open.spotify.com/track/5BSjmkw4rsuZrCAKHg2LEc) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [30 Mejores](https://open.spotify.com/album/3ui3NqdgXUaDc39zH3wfqC) | 4:53 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 53 | [Me Ilusione](https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb) | 5:00 |
 | 54 | [Dilo](https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o), [Herold Rivera](https://open.spotify.com/artist/4SeZ9gXLtR9Jcols3Blk1R), [Conexión Carito](https://open.spotify.com/artist/6Sj4mpcuLT9GZK2MQdqEIN) | [Destellos de Amor](https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r) | 4:15 |
 | 55 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
-| 56 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
-| 57 | [No He Podido Ser Feliz](https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG) | 5:06 |
+| 56 | [Traga'o De Ti](https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Caballero Del Vallenato](https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu) | 4:07 |
+| 57 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
 | 58 | [Me Vas A Extrañar](https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE) | 4:47 |
-| 59 | [10 Razones para Amarte](https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS) | [El Gran Martin Elias & Juancho De La Espriella](https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o) | [La Historia Continua](https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE) | 5:15 |
+| 59 | [No He Podido Ser Feliz](https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG) | 5:06 |
 | 60 | [Me Matará el Sentimiento](https://open.spotify.com/track/2AJz51tG7BlQ5XohYdjBCI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 5:01 |
 
 Snapshot ID: `ZgTL0AAAAADi0BC93l+oMYaEWuHAdgqJ`

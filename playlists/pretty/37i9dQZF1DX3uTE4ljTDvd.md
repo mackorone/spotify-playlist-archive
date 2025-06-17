@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Lu Quirino
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,650 likes - 60 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,651 likes - 60 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 32 | [Destemida](https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9) | [Adai Music](https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa), [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Destemida](https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ) | 4:58 |
 | 33 | [Meu Grande Amor \- Ao Vivo](https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Ao Vivo\)](https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI) | 10:34 |
 | 34 | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/track/1buAB07FLenQs3nd0CLgMp) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/album/5okyQAoZJusi8mSZgX9K0a) | 4:15 |
-| 35 | [Daqui Não Saio](https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Daqui Não Saio](https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O) | 9:18 |
-| 36 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 |
-| 37 | [Quando o Eterno For Real](https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW) | [Quando o Eterno For Real](https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk) | 4:50 |
+| 35 | [Quando o Eterno For Real](https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW) | [Quando o Eterno For Real](https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk) | 4:50 |
+| 36 | [Daqui Não Saio](https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Daqui Não Saio](https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O) | 9:18 |
+| 37 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 |
 | 38 | [Acredito na Promessa](https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Acredito na Promessa](https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH) | 4:05 |
 | 39 | [Tua Presença](https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Tua Presença](https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img) | 4:54 |
 | 40 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 47 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
 | 48 | [Descansa em Mim](https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8) | [Pablo Canalis](https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm), [Do Nosso Canto](https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk) | [Descansa em Mim](https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc) | 5:05 |
 | 49 | [Passos](https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw) | [Alma Soul](https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu), [Eduardo Bessa](https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr) | [Passos](https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc) | 3:34 |
-| 50 | [Tu És Real](https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy) | [Tu És Real](https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj) | 5:02 |
-| 51 | [Sua Vida Em Mim](https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF) | [Sua Vida Em Mim](https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p) | 5:30 |
+| 50 | [Sua Vida Em Mim](https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF) | [Sua Vida Em Mim](https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p) | 5:30 |
+| 51 | [Tu És Real](https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy) | [Tu És Real](https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj) | 5:02 |
 | 52 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
 | 53 | [Vida Boa](https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa) | [Marllon Ribeiro](https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l) | [Vida Boa](https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F) | 4:43 |
 | 54 | [Graça](https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3) | [Tamara Pyller](https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO) | [Graça](https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14) | 4:11 |

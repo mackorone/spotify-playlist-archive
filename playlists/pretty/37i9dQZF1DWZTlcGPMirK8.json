@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 70837,
+  "num_followers": 70829,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "The Sound Of White",
         "url": "https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 213733,
       "name": "Scar",
       "url": "https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Power (15 Year Anniversary Re-Issue)",
-        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Amorosi",
-          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Absolutely Everybody",
-      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Resolution - EP",
         "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 256389,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "The Power (15 Year Anniversary Re-Issue)",
+        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Amorosi",
+          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Absolutely Everybody",
+      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
+        "name": "Edge",
+        "url": "https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Daryl Braithwaite",
+          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
         }
       ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
+      "duration_ms": 222866,
+      "name": "One Summer",
+      "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Edge",
-        "url": "https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF"
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
       "artists": [
         {
-          "name": "Daryl Braithwaite",
-          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 222866,
-      "name": "One Summer",
-      "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Reflector",
-        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
-      },
-      "artists": [
-        {
-          "name": "Killing Heidi",
-          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Weir",
-      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "In The Summertime",
         "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 228560,
       "name": "In the Summertime - Single Version",
       "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+      },
+      "artists": [
+        {
+          "name": "Killing Heidi",
+          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Weir",
+      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 237247,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Sneaky Sound System",
         "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 269200,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 237247,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Whispering Jack",
-        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Pressure Down",
-      "url": "https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "That's What I'm Talking About",
         "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 201773,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Whispering Jack",
+        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
+      },
+      "artists": [
+        {
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Pressure Down",
+      "url": "https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73"
     },
     {
       "added_at": "2024-08-05 06:00:58",

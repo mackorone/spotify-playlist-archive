@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAChIvbDVA9OZ/CsytBpawkk",
+  "snapshot_id": "aE4NAAAAAAAPr+3xbT7P5tmX3dSKEHdc",
   "tracks": [
     {
       "added_at": null,
@@ -411,34 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Pav Bundy",
-          "url": "https://open.spotify.com/artist/2wPjPKxuic6mP4qJ5Yvljl"
-        }
-      ],
-      "duration_ms": 236220,
-      "name": "Sunken Place (feat. Pav Bundy)",
-      "url": "https://open.spotify.com/track/6wKf0bWNwfiBI0E1yWRAoh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Breukelen Story (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
       },
@@ -467,6 +439,34 @@
       "duration_ms": 227498,
       "name": "E.A.T.",
       "url": "https://open.spotify.com/track/5wf4rbeLC7w5vh5mRGuPWN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Breukelen Story",
+        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Pav Bundy",
+          "url": "https://open.spotify.com/artist/2wPjPKxuic6mP4qJ5Yvljl"
+        }
+      ],
+      "duration_ms": 236220,
+      "name": "Sunken Place (feat. Pav Bundy)",
+      "url": "https://open.spotify.com/track/6wKf0bWNwfiBI0E1yWRAoh"
     },
     {
       "added_at": null,
@@ -519,34 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Pearl Gates",
-          "url": "https://open.spotify.com/artist/13j8j5VnTX0hALjojjqDdk"
-        }
-      ],
-      "duration_ms": 275902,
-      "name": "Still Love Her (feat. Pearl Gates)",
-      "url": "https://open.spotify.com/track/1vqDKx8kMxbicnFPso4ICi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Thine Own Self Be True",
         "url": "https://open.spotify.com/album/4qYnn6YgO4uQDOvrqEoqwK"
       },
@@ -583,6 +555,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Breukelen Story",
+        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Pearl Gates",
+          "url": "https://open.spotify.com/artist/13j8j5VnTX0hALjojjqDdk"
+        }
+      ],
+      "duration_ms": 275902,
+      "name": "Still Love Her (feat. Pearl Gates)",
+      "url": "https://open.spotify.com/track/1vqDKx8kMxbicnFPso4ICi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Richmond Hill",
         "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
       },
@@ -598,11 +598,19 @@
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Stricklin",
+          "url": "https://open.spotify.com/artist/0JCPpCYxezQzwzncFeuw9p"
+        },
+        {
+          "name": "Speech",
+          "url": "https://open.spotify.com/artist/0ATg66209dS5nFsvobJlRt"
         }
       ],
-      "duration_ms": 181943,
-      "name": "Jordan Theory",
-      "url": "https://open.spotify.com/track/3LPIzQNQtqXMvPKJUlyuwJ"
+      "duration_ms": 184178,
+      "name": "Life Music",
+      "url": "https://open.spotify.com/track/45U7W3MZ3xjT6XHdBJ9igC"
     },
     {
       "added_at": null,
@@ -623,6 +631,30 @@
       "duration_ms": 198418,
       "name": "BK 2 NJ",
       "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/4CTMQGaFA9t4nnsKKwU6d8"
+      },
+      "artists": [
+        {
+          "name": "Koncept",
+          "url": "https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 169505,
+      "name": "Watch the Sky Fall (feat. Royce da 5'9)",
+      "url": "https://open.spotify.com/track/1MOub6s2JiT3D5Gs51TeCy"
     },
     {
       "added_at": null,
@@ -651,30 +683,6 @@
       "duration_ms": 227624,
       "name": "The Fight Song (feat. Pharoahe Monch)",
       "url": "https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/4CTMQGaFA9t4nnsKKwU6d8"
-      },
-      "artists": [
-        {
-          "name": "Koncept",
-          "url": "https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL"
-        },
-        {
-          "name": "Royce Da 5'9\"",
-          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 169505,
-      "name": "Watch the Sky Fall (feat. Royce da 5'9)",
-      "url": "https://open.spotify.com/track/1MOub6s2JiT3D5Gs51TeCy"
     },
     {
       "added_at": null,
@@ -727,30 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story",
-        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        }
-      ],
-      "duration_ms": 194935,
-      "name": "American Me",
-      "url": "https://open.spotify.com/track/5F3xdzFq5PZeBsQ281WCml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -775,22 +759,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Titled",
-        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
+        "name": "A Breukelen Story",
+        "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
       },
       "artists": [
         {
-          "name": "Solo For Dolo",
-          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         }
       ],
-      "duration_ms": 190680,
-      "name": "Quarter Water Kids",
-      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
+      "duration_ms": 194935,
+      "name": "American Me",
+      "url": "https://open.spotify.com/track/5F3xdzFq5PZeBsQ281WCml"
     },
     {
       "added_at": null,
@@ -843,18 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MP On The MP: The Beat Tape Vol. 2",
-        "url": "https://open.spotify.com/album/5Jk0SUV4BmxZJYrxAZOXmo"
+        "name": "Self Titled",
+        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
       },
       "artists": [
+        {
+          "name": "Solo For Dolo",
+          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
+        },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 198159,
-      "name": "Medellin",
-      "url": "https://open.spotify.com/track/34d6c3rUZ9lHqRSDx7J94H"
+      "duration_ms": 190680,
+      "name": "Quarter Water Kids",
+      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
     },
     {
       "added_at": null,
@@ -883,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+        "name": "MP On The MP: The Beat Tape Vol. 2",
+        "url": "https://open.spotify.com/album/5Jk0SUV4BmxZJYrxAZOXmo"
       },
       "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 206854,
-      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
-      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
+      "duration_ms": 198159,
+      "name": "Medellin",
+      "url": "https://open.spotify.com/track/34d6c3rUZ9lHqRSDx7J94H"
     },
     {
       "added_at": null,
@@ -923,6 +911,26 @@
       "duration_ms": 190160,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 206854,
+      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
+      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
     },
     {
       "added_at": null,
@@ -979,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baker's Dozen: Marco Polo",
+        "url": "https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 161092,
+      "name": "The Rub",
+      "url": "https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -999,22 +1023,6 @@
       "duration_ms": 315369,
       "name": "Kartagina",
       "url": "https://open.spotify.com/track/1jzwJF5fHMx6TJMc9QTvYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baker's Dozen: Marco Polo",
-        "url": "https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 161092,
-      "name": "The Rub",
-      "url": "https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj"
     },
     {
       "added_at": null,
@@ -1075,6 +1083,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MP On The MP: The Beat Tape Vol. 1",
+        "url": "https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 127249,
+      "name": "Cindy",
+      "url": "https://open.spotify.com/track/29dmXXYjMb8zp7RTlEZYDC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -1095,22 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MP On The MP: The Beat Tape Vol. 1",
-        "url": "https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 127249,
-      "name": "Cindy",
-      "url": "https://open.spotify.com/track/29dmXXYjMb8zp7RTlEZYDC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Port Authority",
         "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
@@ -1127,6 +1135,26 @@
       "duration_ms": 236626,
       "name": "War",
       "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A-F-R-O POLO",
+        "url": "https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3"
+      },
+      "artists": [
+        {
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 180036,
+      "name": "Fro Armstrong",
+      "url": "https://open.spotify.com/track/3x3JoCYoJFd89htOx3CQ0n"
     },
     {
       "added_at": null,
@@ -1172,29 +1200,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 228824,
-      "name": "Miejmy To za Sob\u0105",
-      "url": "https://open.spotify.com/track/1sSB4QeES1fDkaBeC7MPVM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A-F-R-O POLO",
-        "url": "https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3"
-      },
-      "artists": [
-        {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 180036,
-      "name": "Fro Armstrong",
-      "url": "https://open.spotify.com/track/3x3JoCYoJFd89htOx3CQ0n"
+      "duration_ms": 239393,
+      "name": "\u017bywy lub Martwy",
+      "url": "https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB"
     }
   ],
   "unique_name": "This Is Marco Polo",

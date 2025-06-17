@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,183 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,345 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 59 | [La Rumba Quimbumba](https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX), [Grupo Kien? Los reyes del sabor](https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:56 |
 | 60 | [Lo Haré por Ti](https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Lo Haré por Ti](https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6) | 3:48 |
 | 61 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 |
-| 62 | [Hay El Amor](https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Hay El Amor](https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK) | 3:04 |
-| 63 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
+| 62 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
+| 63 | [Hay El Amor](https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Hay El Amor](https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK) | 3:04 |
 | 64 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 65 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
 | 66 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 85 | [El Fantasma del Amor](https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH) | [Grupo Ternura Dinastia Toxqui](https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ) | [El Fantasma del Amor](https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ) | 4:13 |
 | 86 | [Que Dolor](https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Campeon](https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U) | 3:25 |
 | 87 | [Lejos de Ti](https://open.spotify.com/track/0nLuVU9SOoV5vTztTRBzM5) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Sólo Éxitos](https://open.spotify.com/album/7kSRAeZiTW6RcdHerCxpjq) | 5:37 |
-| 88 | [Cumbia del cuervo](https://open.spotify.com/track/5KluSQOD7MMDVVfTwnjaAo) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Espectaculares de Los Guacharacos de Colombia y Super Grupo Colombia](https://open.spotify.com/album/0KTpweQvBj4M1RTuJDWWsJ) | 2:47 |
-| 89 | [El Burro Loco](https://open.spotify.com/track/1daCaKKKumwrRr8vMqyn6A) | [El Compa Sebas Y Su Teclado](https://open.spotify.com/artist/7yFKqPasXxhmMvQgPrpsdu) | [El Burro Loco](https://open.spotify.com/album/0lLCNXX3w4XBNukORTkd7u) | 3:24 |
+| 88 | [El Burro Loco](https://open.spotify.com/track/1daCaKKKumwrRr8vMqyn6A) | [El Compa Sebas Y Su Teclado](https://open.spotify.com/artist/7yFKqPasXxhmMvQgPrpsdu) | [El Burro Loco](https://open.spotify.com/album/0lLCNXX3w4XBNukORTkd7u) | 3:24 |
+| 89 | [Cumbia del cuervo](https://open.spotify.com/track/5KluSQOD7MMDVVfTwnjaAo) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Espectaculares de Los Guacharacos de Colombia y Super Grupo Colombia](https://open.spotify.com/album/0KTpweQvBj4M1RTuJDWWsJ) | 2:47 |
 | 90 | [Contigo Tengo Todo](https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Versiones Unicas de los Reyes](https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj) | 4:39 |
 | 91 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
 | 92 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,174 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,198 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 74 | [Keep Going \(And Don't Forget\)](https://open.spotify.com/track/0L91LicotwTmW73OtnSBWy) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [14KT](https://open.spotify.com/artist/5S8L0diSZfnelH2OH2VVIf) | [Reel Speakers](https://open.spotify.com/album/42BW56jChd7zVwviXD5VTg) | 2:37 |
 | 75 | [Sense](https://open.spotify.com/track/3XsrEA7lVrxOeRgZahaJTF) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Let the Sun Talk](https://open.spotify.com/album/1uEHrNStg2h7UMMWHKzg43) | 1:06 |
 
-Snapshot ID: `aC41/QAAAADn/SJ6kSku4BTWjxgwBN/d`
+Snapshot ID: `AAAAAErPVsZpSQda721nqdHIKjQaKqvc`

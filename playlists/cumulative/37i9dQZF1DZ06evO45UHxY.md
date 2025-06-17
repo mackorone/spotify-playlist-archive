@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 35 min
+115 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Caderas Lait](https://open.spotify.com/track/01OXvmhM7T5D1nayJ3YEko) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:36 | 2022-11-04 |  |
 | [Cadereando](https://open.spotify.com/track/6yFZbA1FkoK4nT4t9ni9Gi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 2:55 | 2022-06-01 | 2022-11-05 |
 | [Candida](https://open.spotify.com/track/0C6GKMOSZnQacjI5Yusa3P) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:58 | 2023-02-19 | 2023-03-30 |
-| [Cena de Plomo](https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:49 | 2024-03-25 | 2025-06-11 |
+| [Cena de Plomo](https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:49 | 2024-03-25 |  |
 | [Checa Mi Ritmo](https://open.spotify.com/track/6aOAVN7Uu4Jdmj7BgJ9HWy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:40 | 2022-06-01 | 2022-10-13 |
 | [Chicas Modernas](https://open.spotify.com/track/1MLOHCuJBuHhd3In778RMP) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 2:36 | 2022-06-01 | 2023-11-11 |
 | [Chicas Modernas](https://open.spotify.com/track/1cWmjiFXqM2xt7cnimtJAl) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Mas Caliente..\. La Niña Fresa](https://open.spotify.com/album/16UZsarVMKLb5zvLd17S5a) | 2:36 | 2024-09-22 | 2025-03-30 |
@@ -60,7 +60,7 @@
 | [En Que Fallé](https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:46 | 2022-06-01 | 2024-09-16 |
 | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN) | 2:48 | 2022-06-01 | 2023-11-11 |
 | [Estupendo](https://open.spotify.com/track/5s5i3LqYQ7F6fPdw2reBo2) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:13 | 2022-06-01 | 2022-11-15 |
-| [Gracias por Ser Mi Mujer](https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:27 | 2022-10-17 |  |
+| [Gracias por Ser Mi Mujer](https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:27 | 2022-10-17 | 2025-06-17 |
 | [Hasta El Fondo Del Abismo](https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:17 | 2022-06-01 |  |
 | [Hotel California](https://open.spotify.com/track/7aGYG6w2hMxiJXot3LZVTS) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 4:16 | 2023-02-14 |  |
 | [Hotel California](https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 4:17 | 2022-06-01 | 2023-02-15 |
@@ -72,6 +72,7 @@
 | [La buenotota](https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:11 | 2022-06-01 |  |
 | [La Calentura](https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Calentura](https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi) | 3:04 | 2024-10-07 |  |
 | [La chispa](https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:18 | 2022-06-01 |  |
+| [La ilógica](https://open.spotify.com/track/2Z3kvyu4xhzr77UTf20F14) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:10 | 2025-06-17 |  |
 | [La ilógica](https://open.spotify.com/track/3S5ci52rzuZalzfC5XXqEX) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sonido grupero](https://open.spotify.com/album/723O9snLx6R3AX3ZQ7BszO) | 2:10 | 2025-05-07 | 2025-05-30 |
 | [La Morena](https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:54 | 2022-06-01 | 2025-05-07 |
 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 | 2022-06-01 | 2024-03-02 |
@@ -85,7 +86,7 @@
 | [Luna \(feat\. La Original Banda GM\)](https://open.spotify.com/track/37NdMzLcV7xSykz1RzoPTQ) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL), [La Original Banda GM](https://open.spotify.com/artist/3NSgRhld0JBzrIvPj7bXAw) | [Luna \(feat\. La Original Banda GM\)](https://open.spotify.com/album/5cB6MiY6njNOSPYB2mBex6) | 3:26 | 2023-06-04 | 2023-06-17 |
 | [Manos chicas](https://open.spotify.com/track/7AIxN1s3O2ZVlHX2PqwyDI) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:35 | 2022-06-01 |  |
 | [Mujer Al Volante](https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:10 | 2022-06-01 |  |
-| [Ni alta, ni chaparrita](https://open.spotify.com/track/3YahOWl6Rn8R71eBTxeeR9) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:30 | 2025-06-03 |  |
+| [Ni alta, ni chaparrita](https://open.spotify.com/track/3YahOWl6Rn8R71eBTxeeR9) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:30 | 2025-06-03 | 2025-06-17 |
 | [Ni tan gorda ni tan flaca](https://open.spotify.com/track/1T7K0E7Ha2gkVmCbqyccAP) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:48 | 2025-06-06 | 2025-06-08 |
 | [No Dejes De Preocuparte](https://open.spotify.com/track/1HEhI6s64QNHcT1fWQK2Of) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:52 | 2022-10-22 |  |
 | [No te fijes que soy tímido](https://open.spotify.com/track/4GGmLnWh7zB0QPS0zGwJaX) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:20 | 2025-06-12 |  |

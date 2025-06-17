@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: YUVI & BADWOR7H",
-  "num_followers": 38610,
+  "num_followers": 38601,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-06-06 13:02:59",
       "album": {
-        "name": "\u0421\u0418\u0421\u0422\u0415\u041c\u0410",
-        "url": "https://open.spotify.com/album/5RIvJWSQFDKbJekzvsaLL8"
-      },
-      "artists": [
-        {
-          "name": "\u0421\u0422\u0420\u0423\u041a\u0422\u0423\u0420\u0410 \u0429\u0410\u0421\u0422\u042f",
-          "url": "https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8"
-        }
-      ],
-      "duration_ms": 150552,
-      "name": "\u0421\u0418\u0421\u0422\u0415\u041c\u0410",
-      "url": "https://open.spotify.com/track/01vbbtJDdEM6IKflX2PvHz"
-    },
-    {
-      "added_at": "2025-06-06 13:02:59",
-      "album": {
         "name": "WAKE UP",
         "url": "https://open.spotify.com/album/6KtQkO9VJn6S8gxlII4NOg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 156862,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/4fKLKGQZBFKtMXxErGimHx"
+    },
+    {
+      "added_at": "2025-06-06 13:02:59",
+      "album": {
+        "name": "\u0421\u0418\u0421\u0422\u0415\u041c\u0410",
+        "url": "https://open.spotify.com/album/5RIvJWSQFDKbJekzvsaLL8"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0422\u0420\u0423\u041a\u0422\u0423\u0420\u0410 \u0429\u0410\u0421\u0422\u042f",
+          "url": "https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8"
+        }
+      ],
+      "duration_ms": 150552,
+      "name": "\u0421\u0418\u0421\u0422\u0415\u041c\u0410",
+      "url": "https://open.spotify.com/track/01vbbtJDdEM6IKflX2PvHz"
     },
     {
       "added_at": "2025-06-06 13:02:59",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-06-06 13:02:59",
       "album": {
-        "name": "\u0406\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0456\u0439",
-        "url": "https://open.spotify.com/album/2nSlNQSReh6bPaAHjSTaVH"
-      },
-      "artists": [
-        {
-          "name": "\u0421\u041a\u0412\u0415\u0420",
-          "url": "https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6"
-        }
-      ],
-      "duration_ms": 297428,
-      "name": "\u0406\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0456\u0439",
-      "url": "https://open.spotify.com/track/4sHwXjhXEevKGEubBoRffr"
-    },
-    {
-      "added_at": "2025-06-06 13:02:59",
-      "album": {
         "name": "\u041c\u0440\u0456\u044e",
         "url": "https://open.spotify.com/album/5DdLG6obvBdNAge8dV9siI"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 138095,
       "name": "\u041c\u0440\u0456\u044e",
       "url": "https://open.spotify.com/track/5z8UhrDbS53B49qlkJJxgy"
+    },
+    {
+      "added_at": "2025-06-06 13:02:59",
+      "album": {
+        "name": "\u0406\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0456\u0439",
+        "url": "https://open.spotify.com/album/2nSlNQSReh6bPaAHjSTaVH"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u041a\u0412\u0415\u0420",
+          "url": "https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6"
+        }
+      ],
+      "duration_ms": 297428,
+      "name": "\u0406\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0456\u0439",
+      "url": "https://open.spotify.com/track/4sHwXjhXEevKGEubBoRffr"
     },
     {
       "added_at": "2025-06-06 13:02:59",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-06-06 13:02:59",
       "album": {
+        "name": "\u043f\u0430\u0434\u0430\u0454\u0448",
+        "url": "https://open.spotify.com/album/2RLCk9ZCrMDUD2gxr3ERKF"
+      },
+      "artists": [
+        {
+          "name": "\u043f\u0440\u043e\u043f\u0430\u0449\u0430 \u0441\u0438\u043b\u0430",
+          "url": "https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE"
+        }
+      ],
+      "duration_ms": 229230,
+      "name": "\u043f\u0430\u0434\u0430\u0454\u0448",
+      "url": "https://open.spotify.com/track/15qpScK6EoZSzH3rYTekTQ"
+    },
+    {
+      "added_at": "2025-06-06 13:02:59",
+      "album": {
         "name": "\u0441\u043e\u043d",
         "url": "https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 275257,
       "name": "La petite mort",
       "url": "https://open.spotify.com/track/2N3EvX5a9jvMy4KF0IGjZO"
-    },
-    {
-      "added_at": "2025-06-06 13:02:59",
-      "album": {
-        "name": "\u043f\u0430\u0434\u0430\u0454\u0448",
-        "url": "https://open.spotify.com/album/2RLCk9ZCrMDUD2gxr3ERKF"
-      },
-      "artists": [
-        {
-          "name": "\u043f\u0440\u043e\u043f\u0430\u0449\u0430 \u0441\u0438\u043b\u0430",
-          "url": "https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE"
-        }
-      ],
-      "duration_ms": 229230,
-      "name": "\u043f\u0430\u0434\u0430\u0454\u0448",
-      "url": "https://open.spotify.com/track/15qpScK6EoZSzH3rYTekTQ"
     },
     {
       "added_at": "2025-06-06 13:02:59",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-06-06 13:02:59",
       "album": {
-        "name": "\u041f\u043e\u0442\u044f\u0433\u0438",
-        "url": "https://open.spotify.com/album/4WCXMdsKOdIuuVOFxrdPf6"
-      },
-      "artists": [
-        {
-          "name": "hurtom",
-          "url": "https://open.spotify.com/artist/710r16a4G15MXXAASqIqTf"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "\u041f\u043e\u0442\u044f\u0433\u0438",
-      "url": "https://open.spotify.com/track/1P9KzYbAHBAkSfwC2inwvH"
-    },
-    {
-      "added_at": "2025-06-06 13:02:59",
-      "album": {
         "name": "\u0420\u043e\u0437\u043a\u043e\u043f\u0430\u044e",
         "url": "https://open.spotify.com/album/0vd8BgPyinr2FTj1zUQCqd"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 228814,
       "name": "\u0420\u043e\u0437\u043a\u043e\u043f\u0430\u044e",
       "url": "https://open.spotify.com/track/28mttpA8jI9LBI02HFsPGB"
+    },
+    {
+      "added_at": "2025-06-06 13:02:59",
+      "album": {
+        "name": "\u041f\u043e\u0442\u044f\u0433\u0438",
+        "url": "https://open.spotify.com/album/4WCXMdsKOdIuuVOFxrdPf6"
+      },
+      "artists": [
+        {
+          "name": "hurtom",
+          "url": "https://open.spotify.com/artist/710r16a4G15MXXAASqIqTf"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "\u041f\u043e\u0442\u044f\u0433\u0438",
+      "url": "https://open.spotify.com/track/1P9KzYbAHBAkSfwC2inwvH"
     },
     {
       "added_at": "2025-06-06 13:02:59",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-06-06 13:02:59",
       "album": {
-        "name": "\u0417\u0435\u0440\u043d\u043e",
-        "url": "https://open.spotify.com/album/7sCq2zor54iLCFdwuZIWd8"
-      },
-      "artists": [
-        {
-          "name": "Anastasia Lykhosherstova",
-          "url": "https://open.spotify.com/artist/7DR77p5Mq3gQpSbZDT9jQM"
-        }
-      ],
-      "duration_ms": 155823,
-      "name": "\u0417\u0435\u0440\u043d\u043e",
-      "url": "https://open.spotify.com/track/7JohrgOFgLwGJPSThHvO53"
-    },
-    {
-      "added_at": "2025-06-06 13:02:59",
-      "album": {
         "name": "\u0422\u0438\u0448\u0430",
         "url": "https://open.spotify.com/album/4bDQLl4qBLSZAtDxEefK3a"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 200370,
       "name": "\u0422\u0438\u0448\u0430",
       "url": "https://open.spotify.com/track/5lk2cfxGOpz9X1GdMWSTlF"
+    },
+    {
+      "added_at": "2025-06-06 13:02:59",
+      "album": {
+        "name": "\u0417\u0435\u0440\u043d\u043e",
+        "url": "https://open.spotify.com/album/7sCq2zor54iLCFdwuZIWd8"
+      },
+      "artists": [
+        {
+          "name": "Anastasia Lykhosherstova",
+          "url": "https://open.spotify.com/artist/7DR77p5Mq3gQpSbZDT9jQM"
+        }
+      ],
+      "duration_ms": 155823,
+      "name": "\u0417\u0435\u0440\u043d\u043e",
+      "url": "https://open.spotify.com/track/7JohrgOFgLwGJPSThHvO53"
     }
   ],
   "unique_name": "\u0456\u043d\u0434\u0456",

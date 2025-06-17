@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
 
-672 songs - 1 day 19 hr 26 min
+673 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Ecophagy](https://open.spotify.com/track/6ey3dpemRsLqNqtvf9i85A) | [Origin](https://open.spotify.com/artist/4Mmo0f1kp7dyyH3UbK9vUU) | [Ecophagy](https://open.spotify.com/album/3OLQoc8vwDwrIY9XDw6Et2) | 4:07 | 2022-04-08 | 2022-06-08 |
 | [Embracing Nocturnal Damnation](https://open.spotify.com/track/0BTa2HyY2UrCl8Y3NrcT4M) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:20 | 2021-12-17 | 2022-07-27 |
 | [Emerald](https://open.spotify.com/track/6M6uFcep2f8DhHz4RNoBvJ) | [Abiotic](https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe) | [Emerald](https://open.spotify.com/album/0Ikr6a0Sd5SUazxtxsVNJ8) | 4:45 | 2021-12-17 | 2024-06-11 |
+| [Emotionless](https://open.spotify.com/track/0D03PmKOwfqK1QB9lWKwVs) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw) | [Emotionless](https://open.spotify.com/album/68KYlx6wFIMGwkgyRcEQdB) | 2:47 | 2025-06-13 |  |
 | [Emotionless Mass](https://open.spotify.com/track/2vQVeBLELpi94Zk4tpXKIU) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Kyle Medina](https://open.spotify.com/artist/4gcF5DdDf5H5rdkHvnvRRO) | [Emotionless Mass](https://open.spotify.com/album/0ClQU9ILh0wWUWZ1K5ritk) | 5:02 | 2022-01-21 | 2022-05-01 |
 | [Empress](https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Empress](https://open.spotify.com/album/4r1h70lXgPiGJCvGqjAvlM) | 3:53 | 2021-12-17 | 2024-06-26 |
 | [End Of Existence](https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L) | 4:00 | 2021-12-17 | 2025-03-15 |
@@ -238,7 +239,7 @@
 | [Feast on the Living](https://open.spotify.com/track/1pL4wqHUtrMTancAmAs5fV) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Feast on the Living](https://open.spotify.com/album/2PwI1RioDm1RxP7fhfxgSd) | 3:22 | 2021-12-17 | 2022-07-26 |
 | [Feasting Upon a False God](https://open.spotify.com/track/32wy15KlsVRtRW0x7YvdGc) | [Extinction in Progress](https://open.spotify.com/artist/2ctB3hDSIIyxpKYDtYlzKY) | [Feasting Upon a False God](https://open.spotify.com/album/5s6INzs47jeAp40pkWNIif) | 3:22 | 2022-01-28 | 2022-05-29 |
 | [Feeding The Meatgrinder](https://open.spotify.com/track/74U3CoDKEDulnzpHfvKS8L) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Feeding The Meatgrinder](https://open.spotify.com/album/2pgLyZfepSCQjfLcO8D2Y2) | 4:03 | 2025-04-25 |  |
-| [Feel My Fangs in You](https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [No Name Graves](https://open.spotify.com/album/5e4EUEcJ1CBfNGmPY9EGf7) | 2:50 | 2024-02-09 |  |
+| [Feel My Fangs in You](https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [No Name Graves](https://open.spotify.com/album/5e4EUEcJ1CBfNGmPY9EGf7) | 2:50 | 2024-02-09 | 2025-06-17 |
 | [Feel Your Weight](https://open.spotify.com/track/7y9GKKwb7GS20ZEhrTt4pP) | [Wither](https://open.spotify.com/artist/23G4Hi7LA117Dkkdn0OW4O) | [Animus](https://open.spotify.com/album/5UTm9A6IBgaSSM7gfpEaDh) | 2:18 | 2021-12-17 | 2022-07-27 |
 | [Filled with Rage](https://open.spotify.com/track/0eWLMxyLhlQgiOoAFu97iH) | [Additional Time](https://open.spotify.com/artist/41OZ2IjrF9kjGWDYIGBYOz) | [Filled with Rage](https://open.spotify.com/album/2um1kufmW5hpFmsZCGSc3f) | 4:03 | 2022-01-14 | 2022-07-24 |
 | [Filth](https://open.spotify.com/track/4m9HK1lIVhTbaSbeO1RDJk) | [Hanging The Nihilist](https://open.spotify.com/artist/5Ui8HTCQsuy52MMmmWoVDy) | [Filth](https://open.spotify.com/album/6k6gUKnfr0QCuiLuLb23ce) | 3:39 | 2021-12-31 | 2022-04-09 |

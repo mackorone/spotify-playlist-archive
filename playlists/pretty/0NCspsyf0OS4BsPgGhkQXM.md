@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,031,467 likes - 144 songs - 7 hr 29 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,031,450 likes - 144 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 108 | [Want It](https://open.spotify.com/track/3oImOUmlh3VnTc0saqOqVG) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Want It \(Remixes\)](https://open.spotify.com/album/4Vz1Xbx9XetfeKtBpqSRTC) | 3:36 |
 | 109 | [Speakers on Blast](https://open.spotify.com/track/3Djj5Pg31kn6V8NLHVKWPQ) | [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Speakers on Blast](https://open.spotify.com/album/2ASCvVQWdFTaJCFzO9PudN) | 4:11 |
 | 110 | [No Scrubs](https://open.spotify.com/track/5diufoHZPKvTBMut2NLzbf) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Joanna Jones](https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx) | [No Scrubs](https://open.spotify.com/album/0QwNGfGTQ9SOTOgGQXbDM5) | 3:21 |
-| 111 | [Thoughts](https://open.spotify.com/track/1eHPz3Ccu5UIMAXWYDCjaj) | [Loud](https://open.spotify.com/artist/2nhTi1cXehDDk7kRCRyBkR) | [Thoughts](https://open.spotify.com/album/0IFzlLKympHYoZUQBYwFZ3) | 2:43 |
+| 111 | [Thoughts](https://open.spotify.com/track/1eHPz3Ccu5UIMAXWYDCjaj) | [The Loud](https://open.spotify.com/artist/6wM9QCtWFnBksZjgR1ka1r) | [Thoughts](https://open.spotify.com/album/0IFzlLKympHYoZUQBYwFZ3) | 2:43 |
 | 112 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 |
 | 113 | [When I'm With You](https://open.spotify.com/track/2OxRNn4z5yLZAQ7vRWgmts) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH), [scrn](https://open.spotify.com/artist/6VBQrHFoETKog0jID1VtS3) | [When I'm With You](https://open.spotify.com/album/4yUiSGkhHaZ2emDvR0jAL0) | 2:11 |
 | 114 | [Funky Fusion](https://open.spotify.com/track/7jc1Hk8PtZZbeuLckC9EvB) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [SIDEQUEST](https://open.spotify.com/album/23PvqNP9LBwte6EkdJQsBB) | 2:56 |

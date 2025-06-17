@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Tres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,592 likes - 90 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,571 likes - 90 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 43 | [Amaneciendo](https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Amaneciendo](https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd) | 4:48 |
 | 44 | [Cahuín](https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cahuín](https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6) | 3:01 |
 | 45 | [Refugio](https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Refugio](https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik) | 4:09 |
-| 46 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 |
-| 47 | [Si es de morir](https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Si es de morir](https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9) | 3:44 |
-| 48 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
+| 46 | [Si es de morir](https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Si es de morir](https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9) | 3:44 |
+| 47 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
+| 48 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 |
 | 49 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 |
 | 50 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 |
 | 51 | [Eternos](https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Eternos](https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C) | 3:25 |
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 61 | [La Pelea](https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [La Pelea](https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3) | 3:25 |
 | 62 | [Bella Vu](https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Bella Vu](https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR) | 2:35 |
 | 63 | [Bien](https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B) | [99 Payasos](https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c) | [Bien](https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs) | 2:57 |
-| 64 | [Ícaro](https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Ícaro](https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii) | 4:37 |
-| 65 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 |
-| 66 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
+| 64 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
+| 65 | [Ícaro](https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Ícaro](https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii) | 4:37 |
+| 66 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 |
 | 67 | [Veneno](https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa) | [Cler Canifrú](https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Veneno](https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7) | 3:39 |
 | 68 | [Mechón](https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o) | [VerDor](https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o) | [Punk Para Gatitos](https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn) | 2:52 |
-| 69 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
-| 70 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
+| 69 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
+| 70 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
 | 71 | [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 |
 | 72 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
 | 73 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |

@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 166286,
+  "num_followers": 166300,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "On Banjo",
         "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 220533,
       "name": "Foggy Morning Breaking",
       "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Powder Day",
-        "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        },
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Powder Day",
-      "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Songs from Horizon",
         "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 132794,
       "name": "Winds Forever Blow",
       "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Powder Day",
+        "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        },
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Powder Day",
+      "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Saint Anthony",
-        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Runnin' from the Weather",
         "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 261333,
       "name": "Runnin' from the Weather",
       "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Saint Anthony",
+        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 173688,
       "name": "Reason To Believe",
       "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "I Give You the Morning",
-        "url": "https://open.spotify.com/album/0ZmACyS8SVT3YehZTOk16z"
-      },
-      "artists": [
-        {
-          "name": "Claire Lynch",
-          "url": "https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "I Give You the Morning",
-      "url": "https://open.spotify.com/track/0pXMa6mbSeftiCPscNIybd"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1355,6 +1339,38 @@
       "duration_ms": 205933,
       "name": "She Left Me Standing on the Mountain",
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "I Give You the Morning",
+        "url": "https://open.spotify.com/album/0ZmACyS8SVT3YehZTOk16z"
+      },
+      "artists": [
+        {
+          "name": "Claire Lynch",
+          "url": "https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "I Give You the Morning",
+      "url": "https://open.spotify.com/track/0pXMa6mbSeftiCPscNIybd"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "My Little Girl in Tennessee (Live)",
+        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
+      },
+      "artists": [
+        {
+          "name": "Water Tower",
+          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "My Little Girl in Tennessee - Live",
+      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "My Little Girl in Tennessee (Live)",
-        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
-      },
-      "artists": [
-        {
-          "name": "Water Tower",
-          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "My Little Girl in Tennessee - Live",
-      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Heartbreak Train",
         "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Looking Past the Pain (The Cowboy Song)",
-        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
-      },
-      "artists": [
-        {
-          "name": "Seth Mulder & Midnight Run",
-          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
-        }
-      ],
-      "duration_ms": 237905,
-      "name": "Looking Past the Pain (The Cowboy Song)",
-      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Looking Past the Pain (The Cowboy Song)",
+        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "duration_ms": 237905,
+      "name": "Looking Past the Pain (The Cowboy Song)",
+      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
-      },
-      "artists": [
-        {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
-        }
-      ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+        }
+      ],
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Aced",
-        "url": "https://open.spotify.com/album/4qHFmnKRkNV3jOtLnd2gsa"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Aced",
-      "url": "https://open.spotify.com/track/07GA4Wv52g8QnaE0bgfqe7"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "These Ole Blues",
         "url": "https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 255178,
       "name": "These Ole Blues",
       "url": "https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Aced",
+        "url": "https://open.spotify.com/album/4qHFmnKRkNV3jOtLnd2gsa"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Aced",
+      "url": "https://open.spotify.com/track/07GA4Wv52g8QnaE0bgfqe7"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Let It Fall",
-        "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
-      },
-      "artists": [
-        {
-          "name": "Tina Adair",
-          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Let It Fall",
-      "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Dovetail Cabin",
         "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 172533,
       "name": "Dovetail Cabin",
       "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Let It Fall",
+        "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
+      },
+      "artists": [
+        {
+          "name": "Tina Adair",
+          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Let It Fall",
+      "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
     },
     {
       "added_at": "2025-06-06 04:00:14",

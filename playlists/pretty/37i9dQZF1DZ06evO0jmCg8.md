@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,924 likes - 49 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,941 likes - 49 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 25 | [In the Eye of the Storm](https://open.spotify.com/track/3Ho41g5j1K5tiFmuU6DcZl) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:09 |
 | 26 | [Blood in the Water](https://open.spotify.com/track/12pova27n3uHRQxrPnih9f) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 3:55 |
 | 27 | [Avalanche](https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:38 |
-| 28 | [Dead Eyes See No Future](https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
-| 29 | [Under Black Flags We March](https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:40 |
+| 28 | [Under Black Flags We March](https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:40 |
+| 29 | [Dead Eyes See No Future](https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
 | 30 | [The Race](https://open.spotify.com/track/6tzxM7GwiC5Yci3s08n5B4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 3:15 |
 | 31 | [Stolen Life](https://open.spotify.com/track/47j6K08MLO1PiYsxv7VCVM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 2:58 |
 | 32 | [Carry the Cross](https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 48 | [Through the Eyes of a Raven](https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 5:09 |
 | 49 | [The Day You Died](https://open.spotify.com/track/4jVjUOl1gwcHCWxwlWY0zf) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:52 |
 
-Snapshot ID: `aEy7gAAAAABv4EfFApEF839Ic2x4gz0k`
+Snapshot ID: `aE4NAAAAAABZYs/K3TeeCguboGeflk7j`

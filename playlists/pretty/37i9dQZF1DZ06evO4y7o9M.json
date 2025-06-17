@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 869076,
+  "num_followers": 869240,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADY2X9Tm7iD84uGjzxuv8pk",
+  "snapshot_id": "aE4NAAAAAABrtryqTO+AvbGDlppKfjOx",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cruisin' with Junior H",
+        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 240388,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos Leyenda",
         "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 236426,
       "name": "El Hombre del Equipo",
       "url": "https://open.spotify.com/track/7kS8h635mshrSVF8qiJfSN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cruisin' with Junior H",
-        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 240388,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
       "duration_ms": 208216,
       "name": "Baja Beach (feat. Fuerza Regida)",
       "url": "https://open.spotify.com/track/14tg6YVfdbWngTlk09UzJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSICA <3",
-        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 253605,
-      "name": "Psicodelica",
-      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 235858,
       "name": "Se Amerita",
       "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSICA <3",
+        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 253605,
+      "name": "Psicodelica",
+      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 183620,
+      "name": "Top Model",
+      "url": "https://open.spotify.com/track/0D9YtzLKz8eluirvisHhZj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corazon Tumbado",
         "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 262883,
       "name": "LA DURANGO",
       "url": "https://open.spotify.com/track/5jVExEArvISIYu8mamVgfV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rico o Muerto, Vol. 1",
-        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 183620,
-      "name": "Top Model",
-      "url": "https://open.spotify.com/track/0D9YtzLKz8eluirvisHhZj"
     },
     {
       "added_at": null,

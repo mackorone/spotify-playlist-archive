@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 2000s.
 
-321 songs - 20 hr 39 min
+322 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 | 2022-01-10 | 2024-04-19 |
 | [Love Don't Cost a Thing](https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 3:41 | 2021-09-08 |  |
 | [Love Don't Let Me Go](https://open.spotify.com/track/0mIAWTIXUP9Os5RBXKclO6) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Just a Little More Love](https://open.spotify.com/album/51fJbB1qe3EfUvb3fMK2jr) | 3:36 | 2021-09-08 |  |
+| [Love Foolosophy \- Radio Edit](https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:44 | 2024-11-25 |  |
 | [Love Generation \- Radio Edit](https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Radio Edit\)](https://open.spotify.com/album/65crznT6OSNgS5riyglAKu) | 3:24 | 2022-01-10 | 2024-04-19 |
 | [Love Generation \- Radio Edit](https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Radio Edit\)](https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt) | 3:24 | 2021-03-22 | 2024-02-02 |
 | [Love Sex Magic \(feat\. Justin Timberlake\)](https://open.spotify.com/track/1BIENruTnjKdB7HD2YIlRr) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Fantasy Ride](https://open.spotify.com/album/6TpQvLoBuLgVM2XDSJ1VF9) | 3:40 | 2021-09-08 | 2022-07-29 |
@@ -284,7 +285,7 @@
 | [Tell It To My Heart](https://open.spotify.com/track/6paUKZ1F2OVmaYiAxtXdhu) | [Kelly Llorenna](https://open.spotify.com/artist/4lllannDzyb2z1jAkNgBV1) | [Tell It To My Heart](https://open.spotify.com/album/42XPUiM7nUEpqb2gX288Ji) | 3:38 | 2022-01-10 | 2022-05-29 |
 | [Tell Me Why \- Radio Edit](https://open.spotify.com/track/4yhGkvdYU5bi4950r80FRo) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Tell Me Why](https://open.spotify.com/album/7lmGSzQRrvXvvvghZoYZkn) | 2:53 | 2022-01-10 | 2024-04-19 |
 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:36 | 2021-03-22 |  |
-| [That's Not My Name](https://open.spotify.com/track/1i1OuCNhNf7JwrlWlFZFu1) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP) | 5:10 | 2022-01-10 |  |
+| [That's Not My Name](https://open.spotify.com/track/1i1OuCNhNf7JwrlWlFZFu1) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP) | 5:10 | 2022-01-10 | 2025-06-17 |
 | [The Boys Of Summer \- Radio Version](https://open.spotify.com/track/710zARjDZFnODiJJ4kFPmY) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [The Boys Of Summer](https://open.spotify.com/album/7sxf16KD2sXzLmFyNRqjCZ) | 4:03 | 2021-09-08 | 2022-07-29 |
 | [The Ketchup Song \(Aserejé\) \- Spanglish Version](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas del Tomate](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) | 3:33 | 2021-03-22 |  |
 | [The Logical Song](https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Push The Beat For This Jam \(The Second Chapter\)](https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL) | 3:55 | 2022-01-10 | 2024-04-19 |

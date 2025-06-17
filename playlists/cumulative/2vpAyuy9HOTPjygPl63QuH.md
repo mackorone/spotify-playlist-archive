@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,248 songs - 5 day 7 hr 1 min
+2,249 songs - 5 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 | 2023-03-03 | 2023-03-11 |
 | [Big Wreckage](https://open.spotify.com/track/2PnsfwKSXB0p6VoxbmbdGt) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [1 Thing EP](https://open.spotify.com/album/1tyZKrFehE3amygs5IdRdx) | 6:10 | 2024-11-08 | 2025-01-18 |
 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 | 2024-01-12 | 2024-03-13 |
+| [Billions \- Major League Djz Remix](https://open.spotify.com/track/1HeDGAsbt3ifG3enK4eCT9) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Billions \(Major League Djz Remix\)](https://open.spotify.com/album/6FtW8lv0woXaoV8bXNsAxQ) | 3:28 | 2025-06-16 |  |
 | [Bills, Bills \(feat\. MRYN\) \- Radio Edit](https://open.spotify.com/track/1bIOPOZlC6SQtyP1gRFZHD) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Bills, Bills \(feat\. MRYN\)](https://open.spotify.com/album/05lKjlzT4gUEMsfNwXrzlF) | 3:03 | 2024-01-27 | 2024-02-25 |
 | [Bite Back](https://open.spotify.com/track/2WainKUK5xbAI8s1l6LHk0) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ), [Morelia](https://open.spotify.com/artist/5IYl99kFybVzejVo5MyoRS) | [Bite Back](https://open.spotify.com/album/4MwbhD8HEFrLQPjRe3Baoi) | 3:18 | 2022-07-29 | 2022-08-06 |
 | [BK Warehouse](https://open.spotify.com/track/13YV06ESsCZe2DRTyohV9p) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [BK Warehouse](https://open.spotify.com/album/7rNF5GNRVxJHslSHcSBhmd) | 3:26 | 2024-05-20 | 2024-06-22 |

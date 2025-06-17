@@ -1,13 +1,45 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Adikara",
-  "num_followers": 40658,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: The Lantis",
+  "num_followers": 40665,
   "original_name": "RADAR Indonesia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDiSrwAAAABLJXogKUaVk9iQW6R9vXVE",
+  "snapshot_id": "aE/blgAAAABd/wQY93Hj/uzY36rUvanA",
   "tracks": [
+    {
+      "added_at": "2025-06-16 08:53:42",
+      "album": {
+        "name": "Lagu-Lagu Cemara (OST. Musikal Keluarga Cemara)",
+        "url": "https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq"
+      },
+      "artists": [
+        {
+          "name": "The Lantis",
+          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
+        }
+      ],
+      "duration_ms": 204940,
+      "name": "Seperti Cemara",
+      "url": "https://open.spotify.com/track/5c6zSJlr4tHXewLs3s374p"
+    },
+    {
+      "added_at": "2025-06-16 08:53:42",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        }
+      ],
+      "duration_ms": 338871,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo"
+    },
     {
       "added_at": "2025-05-29 17:00:31",
       "album": {

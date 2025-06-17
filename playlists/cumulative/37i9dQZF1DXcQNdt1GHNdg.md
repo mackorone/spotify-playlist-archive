@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-226 songs - 10 hr 52 min
+227 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Kanka De Ohle](https://open.spotify.com/track/04q9KIf4RgMyBHH5FmJIOU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/0umKWUtsijnA7OU35IxCxY) | 3:30 | 2024-10-08 | 2024-10-26 |
 | [Kdo'n Nachana](https://open.spotify.com/track/0l3ZWOShe5Mmkj4brGAi57) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Bhadauria](https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0) | 3:08 | 2024-12-03 | 2025-01-17 |
 | [Kehar](https://open.spotify.com/track/5G82r4EkL411mLie4ABcTc) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Kehar](https://open.spotify.com/album/5AmcI4eEVmB1VXWI59mLVP) | 1:43 | 2024-09-05 | 2024-09-17 |
-| [Khabi Khan](https://open.spotify.com/track/3ISqXwplm7BOlaOgoAEqGK) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 2:49 | 2024-06-03 |  |
+| [Khabi Khan](https://open.spotify.com/track/3ISqXwplm7BOlaOgoAEqGK) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 2:49 | 2024-06-03 | 2025-06-17 |
 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 | 2024-04-06 | 2024-12-04 |
 | [Kikli](https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN) | 2:53 | 2023-07-18 | 2024-08-31 |
 | [Kikli](https://open.spotify.com/track/752ZVuWP4QcOQNgxWaV4b4) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/4WCsDUqNWHK33Y6A9MvGUK) | 2:53 | 2023-11-18 | 2024-04-19 |
@@ -166,6 +166,7 @@
 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 | 2023-09-04 | 2025-04-05 |
 | [Ok Hoye Paye Haan](https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Ok Hoye Paye Haan](https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s) | 2:09 | 2025-02-10 | 2025-05-25 |
 | [Pagol](https://open.spotify.com/track/7MpfARGQRFqZxHEWLBjDkx) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Pagol](https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7) | 3:39 | 2023-07-18 | 2024-07-27 |
+| [Parlo](https://open.spotify.com/track/72ZMelN2SD6EgG12CUqImj) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Parlo](https://open.spotify.com/album/3XEP6TfI4dYl7h0LlUH03z) | 2:43 | 2025-06-16 |  |
 | [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2024-08-29 | 2024-09-19 |
 | [Pecha](https://open.spotify.com/track/66h3lsk8H1wLsqh4Rph0kn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Pecha](https://open.spotify.com/album/07EHw83aARjdazdCuKQJGz) | 2:19 | 2025-01-16 | 2025-02-13 |
 | [Peshi](https://open.spotify.com/track/59FioHUFzILxFj3CyxQls5) | [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Peshi](https://open.spotify.com/album/585UtCMF2ztRipQ0Cwkf5V) | 2:05 | 2024-11-20 | 2024-12-14 |

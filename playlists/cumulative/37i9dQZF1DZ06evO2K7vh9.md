@@ -4,11 +4,11 @@
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-100 songs - 4 hr 8 min
+101 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 | 2024-09-22 |  |
+| [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 | 2024-09-22 | 2025-06-17 |
 | [24HRS](https://open.spotify.com/track/3kIWgW0rAMIxUSkqwwYb7h) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:22 | 2024-09-22 | 2024-10-19 |
 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 | 2023-11-10 | 2023-12-18 |
 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 | 2023-12-17 |  |
@@ -24,7 +24,7 @@
 | [Chemistry](https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 | 2023-11-10 |  |
 | [CHOPPA SHOOT THE LOUDEST \(with Chief Keef, feat.Trippie Redd\)](https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 4:01 | 2023-12-14 | 2025-06-03 |
 | [Come Through \(feat\. Lil Tecca\)](https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [29](https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh) | 1:52 | 2023-11-10 |  |
-| [D1](https://open.spotify.com/track/2VLnOOBxwytrSmr6r4iW7u) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:16 | 2024-09-24 | 2024-09-30 |
+| [D1](https://open.spotify.com/track/2VLnOOBxwytrSmr6r4iW7u) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:16 | 2024-09-24 |  |
 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-03-16 |  |
 | [Dazi](https://open.spotify.com/track/0ZXJMq3NmrQAOg2tKxzMXA) | [Des Cohen](https://open.spotify.com/artist/0r9gSIx5eiJotNj24GEwfT), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dazi](https://open.spotify.com/album/3cBlEr6ZsToaUk5WzvufTV) | 2:24 | 2024-11-18 | 2024-11-21 |
 | [Dead or Alive](https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:02 | 2023-11-10 |  |
@@ -74,6 +74,7 @@
 | [NUMBER 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-06-01 | 2024-10-02 |
 | [NUMBER 2](https://open.spotify.com/track/3p1coqZaHyGvFVLb7EmmeE) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:17 | 2024-10-02 |  |
 | [Number 2](https://open.spotify.com/track/4Ff5nIy2mlsnJa3mVlwSXD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/4Ge3zV3XBbEcfAXmW0Rbhc) | 2:17 | 2024-05-05 | 2024-06-01 |
+| [On Your Own](https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:14 | 2025-06-17 |  |
 | [Our Time](https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:38 | 2023-11-10 |  |
 | [Out Of Love \(feat\. Internet Money\)](https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:33 | 2023-11-10 |  |
 | [Out Of Luck](https://open.spotify.com/track/1ipyiYqvds0wcaFDTW6N4X) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:43 | 2024-06-25 | 2024-06-26 |
@@ -106,7 +107,7 @@
 | [Virgo World \(feat\. Lil Tecca\)](https://open.spotify.com/track/1jN7omTNonXiWogKpngUAj) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [BIRTHDAY MIX 6](https://open.spotify.com/album/33nkEur8beeeEcTA4nxapX) | 2:14 | 2024-01-14 | 2024-09-22 |
 | [VOGUE](https://open.spotify.com/track/3xXDLFPydivY2cb5AUgWOv) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:33 | 2024-09-22 | 2024-10-07 |
 | [When You Down \(with Polo G feat\. Lil Durk\)](https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 3:13 | 2023-11-10 |  |
-| [X Factor](https://open.spotify.com/track/6udczUMR1LHZ8sEbpUm2zk) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:11 | 2025-06-15 |  |
+| [X Factor](https://open.spotify.com/track/6udczUMR1LHZ8sEbpUm2zk) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:11 | 2025-06-15 | 2025-06-17 |
 | [Yves](https://open.spotify.com/track/7DRM6aQqMhVMweZ8H7UBei) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:17 | 2023-11-10 | 2024-07-15 |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

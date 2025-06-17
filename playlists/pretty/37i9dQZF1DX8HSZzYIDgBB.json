@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Buscabulla en portada.",
-  "num_followers": 39269,
+  "num_followers": 39271,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-06-13 06:00:19",
       "album": {
-        "name": "Otun",
-        "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
-      },
-      "artists": [
-        {
-          "name": "Montoya",
-          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 263225,
-      "name": "Solo Quiero (feat. Pedrina)",
-      "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
-    },
-    {
-      "added_at": "2025-06-13 06:00:19",
-      "album": {
         "name": "La Matanza",
         "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "added_at": "2025-06-13 06:00:19",
+      "album": {
+        "name": "Otun",
+        "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
+      },
+      "artists": [
+        {
+          "name": "Montoya",
+          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 263225,
+      "name": "Solo Quiero (feat. Pedrina)",
+      "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
     },
     {
       "added_at": "2025-06-13 06:00:19",
@@ -683,22 +683,18 @@
     {
       "added_at": "2025-06-13 06:00:19",
       "album": {
-        "name": "Tinta y Tiempo",
-        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         }
       ],
-      "duration_ms": 184475,
-      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
-      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
+      "duration_ms": 182533,
+      "name": "Trago Coqueto",
+      "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
     },
     {
       "added_at": "2025-06-13 06:00:19",
@@ -723,18 +719,22 @@
     {
       "added_at": "2025-06-13 06:00:19",
       "album": {
-        "name": "Switched-On",
-        "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
+        "name": "Tinta y Tiempo",
+        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
         }
       ],
-      "duration_ms": 182533,
-      "name": "Trago Coqueto",
-      "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
+      "duration_ms": 184475,
+      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
+      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
     },
     {
       "added_at": "2025-06-13 06:00:19",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-06-13 06:00:19",
       "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
-    },
-    {
-      "added_at": "2025-06-13 06:00:19",
-      "album": {
         "name": "Poco a Poco (Remix)",
         "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 177099,
       "name": "Poco a Poco - Remix",
       "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
+    },
+    {
+      "added_at": "2025-06-13 06:00:19",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
     },
     {
       "added_at": "2025-06-13 06:00:19",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-06-13 06:00:19",
       "album": {
-        "name": "Inconcreto & Asociados",
-        "url": "https://open.spotify.com/album/2igVN56nzK3hBmucjeZUsG"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "Puente del Papa",
-      "url": "https://open.spotify.com/track/0UibzOFBUEJyihHiJ5fDjZ"
-    },
-    {
-      "added_at": "2025-06-13 06:00:19",
-      "album": {
         "name": "Mira Bien",
         "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2025-06-13 06:00:19",
       "album": {
+        "name": "Inconcreto & Asociados",
+        "url": "https://open.spotify.com/album/2igVN56nzK3hBmucjeZUsG"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "Puente del Papa",
+      "url": "https://open.spotify.com/track/0UibzOFBUEJyihHiJ5fDjZ"
+    },
+    {
+      "added_at": "2025-06-13 06:00:19",
+      "album": {
         "name": "Sorpresa",
         "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 256947,
       "name": "Todo el D\u00eda en la Cama",
       "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
+    },
+    {
+      "added_at": "2025-06-13 06:00:19",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
     },
     {
       "added_at": "2025-06-13 06:00:19",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2025-06-13 06:00:19",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 252574,
-      "name": "Dibujos De Mi Alma",
-      "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
-    },
-    {
-      "added_at": "2025-06-13 06:00:19",
-      "album": {
         "name": "Isla Disco",
         "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
       },
@@ -1271,22 +1271,6 @@
       "duration_ms": 214363,
       "name": "Mayag\u00fcez",
       "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
-    },
-    {
-      "added_at": "2025-06-13 06:00:19",
-      "album": {
-        "name": "la noche de ayer",
-        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 255591,
-      "name": "la noche de ayer",
-      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "added_at": "2025-06-13 06:00:19",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2025-06-13 06:00:19",
       "album": {
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
+    },
+    {
+      "added_at": "2025-06-13 06:00:19",
+      "album": {
         "name": "RAMA",
         "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-06-13 06:00:19",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 187430,
-      "name": "\u00d1e \u00d1e \u00d1\u00e9",
-      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
-    },
-    {
-      "added_at": "2025-06-13 06:00:19",
-      "album": {
         "name": "Noest\u00e1saqu\u00ed",
         "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 202066,
       "name": "Window Seat",
       "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
+    },
+    {
+      "added_at": "2025-06-13 06:00:19",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 187430,
+      "name": "\u00d1e \u00d1e \u00d1\u00e9",
+      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
     },
     {
       "added_at": "2025-06-13 06:00:19",

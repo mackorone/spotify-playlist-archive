@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Sexmane ja Jukka Poika.
 
-925 songs - 1 day 19 hr 58 min
+926 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [MEDUSA](https://open.spotify.com/track/6iq1pCbLqDAjkqRrP5Xs7o) | [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta) | [MEDUSA](https://open.spotify.com/album/4hFCZZaqoJzT0nCNapwibT) | 2:47 | 2024-01-11 | 2024-01-26 |
 | [Mee töihin](https://open.spotify.com/track/2GCqs8ZceltyuQGsfgTpeh) | [Stepa](https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu), [Pehmee Goo](https://open.spotify.com/artist/2MTW458Op0hSNePNW9XhEz), [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z) | [Mee töihin / Sijaisena koulussa](https://open.spotify.com/album/1PKlz0i9LDqlCp8iiMh3tS) | 2:59 | 2024-02-29 | 2024-03-08 |
 | [Meidän pöytä \(feat\. Cledos, Elastinen\)](https://open.spotify.com/track/2l67fMyuuQVC5wWx1VyXl3) | [vitunleija](https://open.spotify.com/artist/0nV8YXTHj3pP05WTGNBF5Z), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Meidän pöytä \(feat\. Cledos, Elastinen\)](https://open.spotify.com/album/1FLnsRs0lg2odjBClHJ9tS) | 2:33 | 2023-11-16 | 2023-12-15 |
+| [MEININKI](https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 3:21 | 2025-06-16 |  |
 | [Meininki](https://open.spotify.com/track/6CstADidaXYfHTHX4iQEvh) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Meininki](https://open.spotify.com/album/1kqRTcoLlNVF5GDXIaDx8u) | 2:06 | 2024-05-23 | 2024-07-02 |
 | [Meitä on niin moneksi](https://open.spotify.com/track/1RkhcamFYTUsJTjRfWdas7) | [ELLEN](https://open.spotify.com/artist/0FnBO1GgWyy799GIfGX9Pu), [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta), [Antti Karsee](https://open.spotify.com/artist/6YijeCCZDuweMA7lm55yhS) | [Meitä on niin moneksi](https://open.spotify.com/album/7Ijt9DZbYnXPMyQXmRV4H9) | 3:03 | 2024-01-04 | 2024-01-26 |
 | [Meiän Vuos](https://open.spotify.com/track/0X84P3sGzZVnTdKzOWD2E9) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Meiän Vuos](https://open.spotify.com/album/1BbHH0S4u4NzBHkOVAHjMm) | 2:19 | 2023-12-28 | 2024-03-01 |
@@ -880,7 +881,7 @@
 | [Vespa](https://open.spotify.com/track/06gIbeMfXwdzrZRazEYuGo) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Vespa / Vadelma](https://open.spotify.com/album/526mXkvsChupwRKsRAJEAz) | 3:14 | 2023-10-19 | 2023-11-17 |
 | [Vielki kentil](https://open.spotify.com/track/3vXmC0auELL4TiSdcEeLcC) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Vielki kentil](https://open.spotify.com/album/3R18RGuJLRLmLHpqdqS5Iq) | 3:02 | 2024-09-05 | 2024-10-18 |
 | [Viha](https://open.spotify.com/track/4RvtWuLD7vuyyPhJTyFlJR) | [DJ Kridlokk](https://open.spotify.com/artist/40S3a8Beijh7mZ7vTV5TmJ) | [Viha](https://open.spotify.com/album/3pAAk22i8KcGwlQ0OFCCvE) | 3:13 | 2024-02-22 | 2024-03-08 |
-| [Vihaa mua](https://open.spotify.com/track/7kSBo6NoqCsoZ6W2SBYJvv) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 2:48 | 2025-06-12 |  |
+| [Vihaa mua](https://open.spotify.com/track/7kSBo6NoqCsoZ6W2SBYJvv) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 2:48 | 2025-06-12 | 2025-06-17 |
 | [VIIHTYMÄÄ](https://open.spotify.com/track/1vwH7fgBUQqOYrQQLTQqtm) | [kotwane](https://open.spotify.com/artist/5kgCkpg9r9aPdBhyAxpW0M), [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [VIIHTYMÄÄ](https://open.spotify.com/album/3fD811mZJYgS0IQi6BdVVA) | 2:31 | 2024-06-06 | 2024-07-02 |
 | [Viikatemies](https://open.spotify.com/track/1Q8gl1pAKc5OuIysCqFick) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1), [Joa](https://open.spotify.com/artist/18dUO93In2TxH227yE4D8I) | [Viikatemies](https://open.spotify.com/album/0mFRPbN0x8rhTALoifI4MJ) | 2:27 | 2024-10-10 | 2024-10-25 |
 | [Viikatemies \(feat\. costee\)](https://open.spotify.com/track/5EfVIWZF36J5ktLPcOcTSG) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Viikatemies \(feat\. costee\)](https://open.spotify.com/album/2QnpWEQFnGEIj4C8xpQECH) | 2:44 | 2024-07-18 | 2024-09-06 |

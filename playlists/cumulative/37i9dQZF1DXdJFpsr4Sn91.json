@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "AAAA",
+        "url": "https://open.spotify.com/album/6J1QFQP2WOGF5AdvPV3ZJC"
+      },
+      "artists": [
+        {
+          "name": "Arttu Wiskari",
+          "url": "https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "AAAA",
+      "url": "https://open.spotify.com/track/3eqUnzUEyAtznlqapc4fSg"
+    },
+    {
+      "album": {
         "name": "Aamunkoi",
         "url": "https://open.spotify.com/album/13Fkv0eke2vYeXdK77jXjS"
       },

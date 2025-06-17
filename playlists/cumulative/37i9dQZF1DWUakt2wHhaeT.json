@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/754yLT3vjFS3aXnmm7fMh6"
+      },
+      "artists": [
+        {
+          "name": "Sheridan Smith",
+          "url": "https://open.spotify.com/artist/2x1Bwuwa2yM1Tnxb8Lj6BE"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258207,
+      "name": "Magic - Live",
+      "url": "https://open.spotify.com/track/3vqO1I1h0IFbrI2HVUJWYp"
+    },
+    {
+      "album": {
         "name": "Operation Mincemeat: A New Musical (Original Cast Recording)",
         "url": "https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3"
       },
@@ -2784,6 +2802,40 @@
       "duration_ms": 223333,
       "name": "Real Women Have Curves",
       "url": "https://open.spotify.com/track/3IQsP9pkvP7OI1VZEqJ3vQ"
+    },
+    {
+      "album": {
+        "name": "Real Women Have Curves: The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0KKuGKaHvSPtYYUXHq2YNN"
+      },
+      "artists": [
+        {
+          "name": "Tatianna C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/4NzAALgQdqh2ts1FO94Etd"
+        },
+        {
+          "name": "Carla Jimenez",
+          "url": "https://open.spotify.com/artist/11H3IXQy9MAM9hY2aEyyQa"
+        },
+        {
+          "name": "Florencia Cuenca",
+          "url": "https://open.spotify.com/artist/1W5tuAWRhPuKMJN438XYac"
+        },
+        {
+          "name": "Justina Machado",
+          "url": "https://open.spotify.com/artist/0Caerv4ooDH953kuV32Yzj"
+        },
+        {
+          "name": "Real Women Have Curves Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3iQQnAznu8N9ope2iEuv7W"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "Real Women Have Curves",
+      "url": "https://open.spotify.com/track/6n0QCWBSvicnbepDHsar4S"
     },
     {
       "album": {

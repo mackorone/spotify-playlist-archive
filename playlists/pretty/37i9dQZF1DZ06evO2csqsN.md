@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,123 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,140 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC) | 3:27 |
 | 50 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 |
 
-Snapshot ID: `aEy7gAAAAAA9opcoVtw9Al50Y2oV6am7`
+Snapshot ID: `aE4NAAAAAADN0I1vC0nBwNcCIrmSxgKa`

@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 332211,
+  "num_followers": 333772,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADoGQO9Ms40qlMh7DkEuJ2C",
+  "snapshot_id": "aE4NAAAAAAA68PppnCIpy8EGbNeY0PJS",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Forever - Remastered 2009",
-      "url": "https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surfin' USA (Remastered)",
         "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 111200,
       "name": "Shut Down - Remastered 2001",
       "url": "https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Forever - Remastered 2009",
+      "url": "https://open.spotify.com/track/74D87XkpPozTefTJaGs1oH"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Down, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "The Warmth Of The Sun - Remastered",
-      "url": "https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 124146,
       "name": "Dance, Dance, Dance",
       "url": "https://open.spotify.com/track/107Rm04DaGWg6GqFILZ5W5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "The Warmth Of The Sun - Remastered",
+      "url": "https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z"
     },
     {
       "added_at": null,

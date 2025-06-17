@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4440,
+  "num_followers": 4441,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAyT79Zp0mQgiirXV6OhBEY",
+  "snapshot_id": "aE4NAAAAAABCwsS7KFKZs0pRGfU8al9Z",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fast Lane Juugin",
+        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 266489,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wish Me Well 2",
         "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 213026,
       "name": "Bloodshed",
       "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fast Lane Juugin",
-        "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 266489,
-      "name": "Made It",
-      "url": "https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Bricks 2",
-        "url": "https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "Re Up",
-      "url": "https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 248926,
       "name": "Dope Talk (feat. 2 Chainz & Young Scooter)",
       "url": "https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Bricks 2",
+        "url": "https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "Re Up",
+      "url": "https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Peewee Longway",
+          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
+        }
+      ],
+      "duration_ms": 146571,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 250965,
       "name": "Bread Crumbs (feat. Young Thug & Vl Deck)",
       "url": "https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Peewee Longway",
-          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd"
     },
     {
       "added_at": null,
@@ -847,30 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Astronaut Status",
-        "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 264946,
-      "name": "Birds Take a Bath",
-      "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -903,22 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+        "name": "Astronaut Status",
+        "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 201880,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
+      "duration_ms": 264946,
+      "name": "Birds Take a Bath",
+      "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
     },
     {
       "added_at": null,
@@ -943,6 +923,26 @@
       "duration_ms": 267867,
       "name": "Both Sides (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
     },
     {
       "added_at": null,

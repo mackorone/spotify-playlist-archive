@@ -1,6 +1,6 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1481038,
+  "num_followers": 1481438,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 304760,
       "name": "Super Rich Kids",
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "Only in My Dreams",
-      "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "Only in My Dreams",
+      "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "THE FIRST TIME (DELUXE VERSION)",
         "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 166368,
       "name": "NIGHTS LIKE THIS PT 2",
       "url": "https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "ILYSMIH",
-        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "ILYSMIH",
-      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "drifting",
         "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 212440,
       "name": "drifting",
       "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "ILYSMIH",
+        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "ILYSMIH",
+      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
     },
     {
       "added_at": "2025-06-06 22:40:26",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-06-06 22:40:26",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 153171,
-      "name": "Ocho Rios",
-      "url": "https://open.spotify.com/track/5XUuMp2i5ojqcDOSusChqL"
-    },
-    {
-      "added_at": "2025-06-06 22:40:26",
-      "album": {
         "name": "Who Did You Touch?",
         "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 208732,
       "name": "Who Did You Touch?",
       "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
+    },
+    {
+      "added_at": "2025-06-06 22:40:26",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 153171,
+      "name": "Ocho Rios",
+      "url": "https://open.spotify.com/track/5XUuMp2i5ojqcDOSusChqL"
     },
     {
       "added_at": "2025-06-06 22:40:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Akanksha Kashyap, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,249 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,261 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 59 | [Dua](https://open.spotify.com/track/0j0Mm2tGLeDCp9Vj7M7YRM) | [Shubham Baghel](https://open.spotify.com/artist/3EIFwXjG3q7UoguBMveoJ7), [Geetesh Yadav](https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm) | [Dua](https://open.spotify.com/album/0ZdMdsB3Kvdruu7t3AbPe9) | 4:08 |
 | 60 | [Khwahish Tu](https://open.spotify.com/track/4w7h0Be6qNFYIuUgTlJVM5) | [Nishant Thakur](https://open.spotify.com/artist/2osPZeYHQJtTgSwc7HfUR2) | [Khwahish Tu](https://open.spotify.com/album/6VzYYt3tDJiPyV5mdTl8iy) | 3:15 |
 | 61 | [Tu Jo Mila Hai](https://open.spotify.com/track/3VnFhbuHMcNtqtdp4t4jFs) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP) | [Tu Jo Mila Hai](https://open.spotify.com/album/4e3aIxckh2Ox1SsPiwwN19) | 3:31 |
-| 62 | [Hum Tum](https://open.spotify.com/track/1BSjzWWEF4pf7BniV5r9TI) | [Rucha](https://open.spotify.com/artist/0i0whoBGGN3c66BSz2jkPb), [Neil\-Niraj](https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug) | [Hum Tum](https://open.spotify.com/album/5GhyRHd8n65cb50LvmyQF4) | 4:50 |
+| 62 | [Hum Tum \- Reimagined](https://open.spotify.com/track/1BSjzWWEF4pf7BniV5r9TI) | [Rucha](https://open.spotify.com/artist/0i0whoBGGN3c66BSz2jkPb) | [Hum Tum \(Reimagined\)](https://open.spotify.com/album/5GhyRHd8n65cb50LvmyQF4) | 4:50 |
 | 63 | [Saadho](https://open.spotify.com/track/2Q82mCCsgJPqNH8ceuCc9P) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Sabr](https://open.spotify.com/album/3WC4sGcmSsfIfHHwgFfskQ) | 5:10 |
 | 64 | [Kaaga](https://open.spotify.com/track/30QjOeiV4dkZ64c1448hJU) | [Renee Chaurasia](https://open.spotify.com/artist/0xEtaGz7eqCZa15OQmKsJU), [Nomsita MS Haritashya](https://open.spotify.com/artist/2t0PTTN4fYNE9YIMKuoj2x), [Vaishnav Vyas](https://open.spotify.com/artist/1yKTinZw6FgL14x8o9XoBJ) | [Kaaga](https://open.spotify.com/album/2xyHr0yYnd9Fkdwkbj7kdE) | 4:40 |
 | 65 | [Shikayat](https://open.spotify.com/track/2y7QxfosNuueEGPPCHcNRj) | [boys from marsss](https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU) | [Shikayat](https://open.spotify.com/album/4aAZubfS7nFmJnT7AxU6aq) | 2:57 |

@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Amber Afternoon",
+        "url": "https://open.spotify.com/album/2DBHJXcyFo5xe8Ki7RpvFq"
+      },
+      "artists": [
+        {
+          "name": "Miko Yoshida",
+          "url": "https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173599,
+      "name": "Amber Afternoon",
+      "url": "https://open.spotify.com/track/74Q9Y6XcgD3T68a5twl6f5"
+    },
+    {
+      "album": {
         "name": "Andando A Tu Lado",
         "url": "https://open.spotify.com/album/6zHcw5fNDePnJnYZWE1Fpm"
       },

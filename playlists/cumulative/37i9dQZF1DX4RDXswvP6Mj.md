@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: izna\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
+> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: 강다니엘\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-778 songs - 1 day 17 hr 46 min
+779 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Electrified](https://open.spotify.com/track/2c4Q7VzzdptMsKOCkcTPeh) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Electrified : Urban Nostalgia](https://open.spotify.com/album/0oQV738wyOSpncGzVHhEUc) | 3:34 | 2022-03-31 | 2022-05-05 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-21 | 2024-07-21 |
 | [Energetic](https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [1\-1=0 \(NOTHING WITHOUT YOU\)](https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8) | 3:09 | 2022-01-18 | 2022-04-19 |
+| [Episode](https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Glow to Haze](https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o) | 2:42 | 2025-06-16 |  |
 | [ESPER](https://open.spotify.com/track/1zJRBZUlkdfvSP1071YkZF) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [ESPER](https://open.spotify.com/album/6A2dUUgMfNcqklkYq7ehTo) | 3:12 | 2022-03-10 | 2022-04-21 |
 | [Eternal Flame](https://open.spotify.com/track/3UnKrt0sLHdXg18oIzku06) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Eternal Flame](https://open.spotify.com/album/4iEDDcbOseEtGvE2iFwF40) | 3:46 | 2022-03-24 | 2022-04-17 |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-06-22 | 2025-05-01 |
@@ -475,7 +476,7 @@
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/2foowdvesE4yiiuxH25D6q) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/50TaFniZBXGztHHvNEHeFR) | 3:00 | 2024-04-19 | 2024-05-10 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 | 2023-03-06 | 2024-04-19 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 | 2023-03-13 |
-| [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-16 |  |
+| [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-16 | 2025-06-17 |
 | [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2021-12-29 | 2022-04-18 |
 | [MORE](https://open.spotify.com/track/6juLaduD4STCUDWT0AYun4) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [Seraphine](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [MORE](https://open.spotify.com/album/23yd1cYlPgl643vE8bb0WD) | 3:37 | 2022-02-09 | 2022-04-04 |
 | [Move](https://open.spotify.com/track/5DMfWRljuhBNK9dO7xhql2) | [Team P NATION](https://open.spotify.com/artist/184xNC34M7C3UatEyPVKdH) | [LOUD Live Round \- Final Debut \-](https://open.spotify.com/album/72lbE87wcxNfHNYiEB18lB) | 3:05 | 2022-04-12 | 2022-04-18 |

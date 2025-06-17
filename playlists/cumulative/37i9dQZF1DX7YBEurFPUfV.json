@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-08",
-  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : NORDO",
+  "description": "Les sons les plus frais du Rap Tunisien sont ici. Cover : Samara",
   "name": "RapTounsi",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 150325,
       "name": "9adech Men Mara",
       "url": "https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 225930,
       "name": "Aayech Maak",
       "url": "https://open.spotify.com/track/5VPjeVY3wZ4m4q1e7Ch5NT"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Souk",
       "url": "https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr"
@@ -2378,6 +2378,28 @@
       "duration_ms": 357209,
       "name": "Wasitkom",
       "url": "https://open.spotify.com/track/3cRvl8WM9Rqn4J92Ud3tSa"
+    },
+    {
+      "album": {
+        "name": "Weld Ommi",
+        "url": "https://open.spotify.com/album/1Cu8XwQuQrp39qqStF8NH2"
+      },
+      "artists": [
+        {
+          "name": "Mouka",
+          "url": "https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz"
+        },
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Weld Ommi",
+      "url": "https://open.spotify.com/track/04E5mcdB7gplezv6qqzCA8"
     },
     {
       "album": {

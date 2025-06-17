@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Metodi Hristov, Mari Ferrari
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,529 likes - 90 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,616 likes - 90 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Universe](https://open.spotify.com/track/0xm4wrbsHLz8xg3NvrcF4S) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Zamna Soundsystem](https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG) | [Universe](https://open.spotify.com/album/69wAA6Ok2dQUkgMU8gC9lM) | 4:43 |
 | 90 | [Backstage](https://open.spotify.com/track/3tjQXSn4jfFNETRVvQotFB) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Backstage](https://open.spotify.com/album/50XMK7szkVVwVLGjueuKLB) | 3:06 |
 
-Snapshot ID: `aEtODAAAAAAwr8jzuaF4xVLvJKVI1Lxj`
+Snapshot ID: `aEtODAAAAADtzvAdbhcWXHgti1BkGNt/`

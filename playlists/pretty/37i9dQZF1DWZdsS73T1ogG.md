@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Little Homie
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,401 likes - 168 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,334 likes - 168 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 19 | [Y por ahi me dicen y que](https://open.spotify.com/track/2rOS6hOkqDfOllGK9XY9V1) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Y por ahi me dicen y que](https://open.spotify.com/album/2OolB2SHuxKs1p0MgGSCc4) | 2:48 |
 | 20 | [CUANDO](https://open.spotify.com/track/64vKyzRjkcmTUntwsLxo0m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 3:06 |
 | 21 | [Da Me](https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Da Me](https://open.spotify.com/album/3G6VBoOpF7VtA6JwJxYdnv) | 2:25 |
-| 22 | [Gohan y Goku](https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin](https://open.spotify.com/artist/0XNd5IHY3dnjWwN3ApkfDo) | [Gohan y Goku](https://open.spotify.com/album/3zHjrzYFFrvxitf8e5sbX7) | 2:44 |
+| 22 | [Gohan y Goku](https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin](https://open.spotify.com/artist/34NUt5bbbvuSanv8NbZP8l) | [Gohan y Goku](https://open.spotify.com/album/3zHjrzYFFrvxitf8e5sbX7) | 2:44 |
 | 23 | [CELOS](https://open.spotify.com/track/2QcaHpuw9wNCku4Wi5tVTb) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Track 4 + Track 14](https://open.spotify.com/album/6Q496E7ViJao8G4N4aDqbJ) | 2:45 |
 | 24 | [LARGA VIDA](https://open.spotify.com/track/5hcCW68E2sQov8McUonzVB) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [LARGA VIDA](https://open.spotify.com/album/71upR4YD6wuW2YBgavY6SN) | 3:13 |
 | 25 | [KAIO KEN x20](https://open.spotify.com/track/2CX5wguUP1jOJyD9dWdAUj) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [KAIO KEN x20](https://open.spotify.com/album/3Z1QKrRtK2mv8pAve0G3DL) | 3:01 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 167 | [HAMBRE](https://open.spotify.com/track/4vjOvlbbmbkWbvObX4ALhd) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [HAMBRE](https://open.spotify.com/album/5dfgMlH7xMhCGZYJ8MMVCY) | 2:38 |
 | 168 | [La Nueva Religión](https://open.spotify.com/track/5eT32HM36tUYkA8EGsLBbu) | [cybernene](https://open.spotify.com/artist/0frxUwUJIHPXGWZh4bSdYZ), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA), [yyy891](https://open.spotify.com/artist/5eBluOvPk819K9BZB1XV9v) | [La Nueva Religión](https://open.spotify.com/album/6qUp1mAy85BTvIHdpeaxXg) | 2:25 |
 
-Snapshot ID: `aEu5SAAAAAB1gEV/MZBgCiCswMYJnnrD`
+Snapshot ID: `AAAAAG/0ihYQxc86OR1RQbZeRDbzH2RG`

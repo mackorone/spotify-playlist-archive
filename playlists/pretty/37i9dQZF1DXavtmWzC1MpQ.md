@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,943 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,999 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 11 | [Birds of Papua New Guinea](https://open.spotify.com/track/5KnvxIUwYmSCGu4yD6Dvb6) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Feathers in the Forest](https://open.spotify.com/album/7IWRzEGaJRUpRJLFNhnHYb) | 3:05 |
 | 12 | [Rain In The Rainforest](https://open.spotify.com/track/7709cD193A9ASewVfJ849M) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Nature Living](https://open.spotify.com/album/7v6f0Qzdn4U2kLXX43D0fW) | 2:23 |
 | 13 | [Piqueros](https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:38 |
-| 14 | [Suburban Forest Rain 2](https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:09 |
-| 15 | [Singing Birds by the Stream](https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 2:55 |
+| 14 | [Singing Birds by the Stream](https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 2:55 |
+| 15 | [Suburban Forest Rain 2](https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:09 |
 | 16 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 |
 | 17 | [Forest Rain](https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Peaceful Rain Recordings](https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM) | 2:50 |
 | 18 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 25 | [Trópico](https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 3:04 |
 | 26 | [Suburban Forest Rain 1](https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:18 |
 | 27 | [Still the River Flows](https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Still the River Flows](https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0) | 2:33 |
-| 28 | [Rain Healing](https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:54 |
-| 29 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
+| 28 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
+| 29 | [Rain Healing](https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:54 |
 | 30 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
 | 31 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 |
 | 32 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 |

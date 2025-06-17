@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > CURATED BY TYLER BRADEN\-\- these are his country essentials! Keep checking back to see who will curate next! This is the best of country!
 
-[Topsify](https://open.spotify.com/user/topsify) - 59,809 likes - 52 songs - 2 hr 58 min
+[Topsify](https://open.spotify.com/user/topsify) - 59,805 likes - 52 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

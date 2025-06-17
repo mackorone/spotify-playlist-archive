@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Ryan Castro & Manuel Turizo",
-  "num_followers": 403940,
+  "num_followers": 403904,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
+        "name": "Los Reyes Del Ritmo",
+        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
+      },
+      "artists": [
+        {
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Nadie Se Muere",
+      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
+    },
+    {
+      "added_at": "2025-05-30 04:00:31",
+      "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/0INLo9d20pUVNHOX1x2X4Q"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 128041,
       "name": "No Te Hagas",
       "url": "https://open.spotify.com/track/4f1PmMKVxCr8vIXikhXwEn"
-    },
-    {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
-        "name": "Los Reyes Del Ritmo",
-        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
-      },
-      "artists": [
-        {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Nadie Se Muere",
-      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -807,6 +807,26 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
+        "name": "Loma de Cayenas",
+        "url": "https://open.spotify.com/album/1QO8tFhzFpI1NcyEtY3ljl"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Loma de Cayenas",
+      "url": "https://open.spotify.com/track/3ARHcfADevNLh3m5oz2TVG"
+    },
+    {
+      "added_at": "2025-05-30 04:00:31",
+      "album": {
         "name": "ASI ES LA VIDA (feat. Descemer Bueno & Omi Hernandez) [Remix]",
         "url": "https://open.spotify.com/album/6xgbZ7SdlBQKBSzVl8GZZu"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 215825,
       "name": "ASI ES LA VIDA (feat. Descemer Bueno & Omi Hernandez) - Remix",
       "url": "https://open.spotify.com/track/0jj0Hf63LdLDgoy73YS352"
-    },
-    {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
-        "name": "Loma de Cayenas",
-        "url": "https://open.spotify.com/album/1QO8tFhzFpI1NcyEtY3ljl"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Loma de Cayenas",
-      "url": "https://open.spotify.com/track/3ARHcfADevNLh3m5oz2TVG"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
-        "name": "La Melodia de la Calle \"Updated\"",
-        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
-    },
-    {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/5mXyq9C7w69KlACfjXyS3E"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
+    },
+    {
+      "added_at": "2025-05-30 04:00:31",
+      "album": {
         "name": "Me Enamore",
         "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
         }
       ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
+      "duration_ms": 264146,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
-        "name": "Solo Pienso En Ti",
-        "url": "https://open.spotify.com/album/686zjPymwJWho1sRetIdZE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 179736,
-      "name": "Solo Pienso En Ti",
-      "url": "https://open.spotify.com/track/32b67p4fXwcbGqpjGpUfom"
-    },
-    {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
         "name": "Merengue De Amor Vol.1",
         "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 250400,
       "name": "Que Cara M\u00e1s Bonita",
       "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
+    },
+    {
+      "added_at": "2025-05-30 04:00:31",
+      "album": {
+        "name": "Solo Pienso En Ti",
+        "url": "https://open.spotify.com/album/686zjPymwJWho1sRetIdZE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 179736,
+      "name": "Solo Pienso En Ti",
+      "url": "https://open.spotify.com/track/32b67p4fXwcbGqpjGpUfom"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
-        "name": "Vivo De Tus Recuerdos",
-        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
-      },
-      "artists": [
-        {
-          "name": "Nelson Arrieta",
-          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
-        }
-      ],
-      "duration_ms": 198964,
-      "name": "Vivo De Tus Recuerdos",
-      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
-    },
-    {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 277946,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
+    },
+    {
+      "added_at": "2025-05-30 04:00:31",
+      "album": {
+        "name": "Vivo De Tus Recuerdos",
+        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
+      },
+      "artists": [
+        {
+          "name": "Nelson Arrieta",
+          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
+        }
+      ],
+      "duration_ms": 198964,
+      "name": "Vivo De Tus Recuerdos",
+      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
-        "name": "La Mujer",
-        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
-      },
-      "artists": [
-        {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
-    },
-    {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 302213,
       "name": "Dile",
       "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
+    },
+    {
+      "added_at": "2025-05-30 04:00:31",
+      "album": {
+        "name": "La Mujer",
+        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
+      },
+      "artists": [
+        {
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
-        "name": "15 Exitos De Pura Candela",
-        "url": "https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6"
-      },
-      "artists": [
-        {
-          "name": "Zona Roja",
-          "url": "https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Parece Una Nena",
-      "url": "https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL"
-    },
-    {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
         "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
         "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 286026,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
+    },
+    {
+      "added_at": "2025-05-30 04:00:31",
+      "album": {
+        "name": "15 Exitos De Pura Candela",
+        "url": "https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6"
+      },
+      "artists": [
+        {
+          "name": "Zona Roja",
+          "url": "https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Parece Una Nena",
+      "url": "https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -1727,22 +1727,18 @@
     {
       "added_at": "2025-05-30 04:00:31",
       "album": {
-        "name": "Que No Se Acabe",
-        "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ"
       },
       "artists": [
         {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Urbanda",
-          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 198295,
-      "name": "Que No Se Acabe",
-      "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
+      "duration_ms": 258586,
+      "name": "La Pastilla",
+      "url": "https://open.spotify.com/track/6laC9qdbtt83hHAikUpt27"
     }
   ],
   "unique_name": "Merengue Mania",

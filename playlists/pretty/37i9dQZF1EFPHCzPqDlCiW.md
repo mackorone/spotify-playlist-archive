@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 72 | [Start Again](https://open.spotify.com/track/1FypvNODDT5HbtPbIDsugy) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:40 |
 | 73 | [Novocaine](https://open.spotify.com/track/05TZjnjIisRVDp37lkhq8e) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:18 |
 | 74 | [Blueprints](https://open.spotify.com/track/3anbBxikNOxuhTyjgQbATh) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Blueprints](https://open.spotify.com/album/7sPrHqcvrDmYO9AhKV5Tgo) | 3:32 |
-| 75 | [The Answer](https://open.spotify.com/track/4FNs5xchSa49YAzHh8QG09) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [The Years in Between](https://open.spotify.com/album/54vQHuNLb2W5K8e9vU6a8y) | 2:51 |
-| 76 | [Gravity \(feat\. Tyler Shaw\)](https://open.spotify.com/track/2cGoqq76QeKeL8H5MSXIlS) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:03 |
+| 75 | [Gravity \(feat\. Tyler Shaw\)](https://open.spotify.com/track/2cGoqq76QeKeL8H5MSXIlS) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:03 |
+| 76 | [The Answer](https://open.spotify.com/track/4FNs5xchSa49YAzHh8QG09) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [The Years in Between](https://open.spotify.com/album/54vQHuNLb2W5K8e9vU6a8y) | 2:51 |
 | 77 | [Fall](https://open.spotify.com/track/2BEXL3mUgofqfZ4OyxWfHQ) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Fall](https://open.spotify.com/album/0ZL2T8qNUEbBf6pzg8IGin) | 2:54 |
 | 78 | [Hurricane \(feat\. Clara Mae\)](https://open.spotify.com/track/3K4faFu5uMhTuahytdLxei) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Hurricane \(feat\. Clara Mae\)](https://open.spotify.com/album/5lYcf3BCOpocetzJCGWQF4) | 2:29 |
 | 79 | [London](https://open.spotify.com/track/4q6kvDd16UTfNHXLc5a923) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [London](https://open.spotify.com/album/63GgFXDeK5LlZbvyb5Yt0Y) | 2:54 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 146 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 147 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Ab0PKAAAAAAv/8xOvlXVQfTA9hAY14xi`
+Snapshot ID: `Ab0UyAAAAACxkIspK08I3l+ndOM3Fol+`

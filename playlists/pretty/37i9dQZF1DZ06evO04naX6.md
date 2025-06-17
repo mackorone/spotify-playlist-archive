@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,568 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,582 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Mayor Que Yo \- Sinfónico En Vivo](https://open.spotify.com/track/6kqv4XNwOwt4zsFooyXVuA) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:18 |
 | 50 | [Pa Janguiar](https://open.spotify.com/track/6M3Wbw9M57Kaw2wXSMyjyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:45 |
 
-Snapshot ID: `aEy7gAAAAABAwfjgvJkj88jSk3HdACEI`
+Snapshot ID: `aE4NAAAAAAAwCG9fdhfW1dMobNPvub69`

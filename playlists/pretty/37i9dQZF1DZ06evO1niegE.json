@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8428,
+  "num_followers": 8429,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADVwdlaF2AiR2ZQerym7tQn",
+  "snapshot_id": "aE4NAAAAAAChIRkhSNaRm4q6sPv8jgqC",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/5a159rNIxq78lGa4qnoZBL"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 189310,
       "name": "Quiero Quedarme para Siempre",
       "url": "https://open.spotify.com/track/78LESagKrWYm0P9E4cyRSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": null,

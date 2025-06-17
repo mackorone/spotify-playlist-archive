@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,637 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,789 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 78 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 |
 | 79 | [ONE FOR YOU](https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [ONE FOR YOU](https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd) | 2:32 |
 | 80 | [on our own](https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [on our own](https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf) | 2:58 |
-| 81 | [Neverland \(From Japan\)](https://open.spotify.com/track/4GkGjg7uYvqcZvkTV4rrnu) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Neverland \(From Japan\)](https://open.spotify.com/album/4zPZDCB6p9Jv2YyqdCuhSH) | 3:10 |
-| 82 | [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 |
-| 83 | [Postman](https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Postman](https://open.spotify.com/album/2GqjKZmIP0r16LoAHt3CyP) | 3:11 |
+| 81 | [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 |
+| 82 | [Postman](https://open.spotify.com/track/1n6bdCMqokxlX0f0SduzF3) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Postman](https://open.spotify.com/album/2GqjKZmIP0r16LoAHt3CyP) | 3:11 |
+| 83 | [Neverland \(From Japan\)](https://open.spotify.com/track/4GkGjg7uYvqcZvkTV4rrnu) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Neverland \(From Japan\)](https://open.spotify.com/album/4zPZDCB6p9Jv2YyqdCuhSH) | 3:10 |
 | 84 | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/track/0aDif6YXwDWGPWiDrREe4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/album/25nwZXV9npGbu4CFqvDCb0) | 3:05 |
 | 85 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 |
 | 86 | [Forever \(feat\. Malou & Yuna\) \- MORTEN Remix](https://open.spotify.com/track/3UlFalaRMYcqcYu6jRLDu1) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\) \[Remixes\]](https://open.spotify.com/album/1BEpQM7HY2ouN3VwxvKVU0) | 4:11 |

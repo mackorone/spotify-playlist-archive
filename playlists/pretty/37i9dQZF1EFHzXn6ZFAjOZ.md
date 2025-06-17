@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,819 likes - 140 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,823 likes - 140 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 62 | [On My Way](https://open.spotify.com/track/7H9YC7hkicuj0ASDn3Aati) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [PRETTYMUCH an EP](https://open.spotify.com/album/2rmcMZwrpFewSPsoaC6Dvc) | 3:52 |
 | 63 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/4BYpm1zHvGOxkJAvgfutqg) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 3:20 |
 | 64 | [Love Line \(with Tinashe\)](https://open.spotify.com/track/35srxciIsvJZu2JRXmlmbn) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Love Line \(with Tinashe\)](https://open.spotify.com/album/6Psj6YaHzPqQbMwR9qAxvL) | 2:45 |
-| 65 | [Tied Up \(feat\. Mr Eazi, RAYE and Jake Gosling\)](https://open.spotify.com/track/58jIY7pmbOqlhuI3eRIes5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Jake Gosling](https://open.spotify.com/artist/20twLKFb2Nhd8duUH0k2DJ) | [Tied Up..\. Orkant/Balance Pon It...](https://open.spotify.com/album/2O06j9yty0MBh9zWzvEf7d) | 3:07 |
-| 66 | [Edge of Saturday Night](https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:26 |
+| 65 | [Edge of Saturday Night](https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:26 |
+| 66 | [Tied Up \(feat\. Mr Eazi, RAYE and Jake Gosling\)](https://open.spotify.com/track/58jIY7pmbOqlhuI3eRIes5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Jake Gosling](https://open.spotify.com/artist/20twLKFb2Nhd8duUH0k2DJ) | [Tied Up..\. Orkant/Balance Pon It...](https://open.spotify.com/album/2O06j9yty0MBh9zWzvEf7d) | 3:07 |
 | 67 | [Terms and Conditions](https://open.spotify.com/track/0gR8uAS5TNzsuWzWw9OR8C) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:29 |
 | 68 | [Proud](https://open.spotify.com/track/3oYTZa4MFZLQQMEjDqveWR) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Proud](https://open.spotify.com/album/1kmTJmV4YO6Du6zEBq061c) | 3:30 |
 | 69 | [Crew](https://open.spotify.com/track/31MUzJRDoberNLCXSISodO) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 3:56 |
 | 70 | [The Line](https://open.spotify.com/track/3Kdpyh94Xz8DeUgMCnVYy1) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Line](https://open.spotify.com/album/2X4QZ0VwRGl7mgNe4G55PG) | 3:19 |
-| 71 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
-| 72 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 |
+| 71 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 |
+| 72 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
 | 73 | [Default](https://open.spotify.com/track/5AEJyckUMzLqIyBxZNmGFW) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 1:56 |
 | 74 | [How We Do It \(feat\. Pia Mia\)](https://open.spotify.com/track/6x5IZU1qDXFPYxxMJ1cvaC) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:02 |
 | 75 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 139 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 140 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `Ab0PMgAAAABPzBOkFr0MuyJ53i/yEbqw`
+Snapshot ID: `Ab0UyAAAAABJSumQ+lGHVLfQ4DL6rsYl`

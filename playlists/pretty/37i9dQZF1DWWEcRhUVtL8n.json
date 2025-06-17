@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Olivia Dean",
-  "num_followers": 1685102,
+  "num_followers": 1685057,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 176897,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Sincerely,",
         "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 176897,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 168001,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -899,22 +915,6 @@
       "duration_ms": 162814,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -967,42 +967,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Crashing (with Kali Uchis)",
-        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187660,
-      "name": "Crashing (with Kali Uchis)",
-      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
-        "name": "Stateside",
-        "url": "https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "Stateside",
-      "url": "https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Yougotmefeeling",
         "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
       },
@@ -1039,6 +1003,22 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
+        "name": "Stateside",
+        "url": "https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Stateside",
+      "url": "https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
         "name": "Equus Caballus",
         "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
+        "name": "Crashing (with Kali Uchis)",
+        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187660,
+      "name": "Crashing (with Kali Uchis)",
+      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
         "name": "On This Love",
         "url": "https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 169903,
       "name": "On This Love",
       "url": "https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
-        "name": "My House Is Not A Home",
-        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 239181,
-      "name": "My House Is Not A Home",
-      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1147,6 +1131,22 @@
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "My House Is Not A Home",
+        "url": "https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 239181,
+      "name": "My House Is Not A Home",
+      "url": "https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
+        "name": "Starry Eyed",
+        "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 136925,
+      "name": "Starry Eyed",
+      "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
         "name": "A-Lister",
         "url": "https://open.spotify.com/album/6tprOLk7H0tCHRZEj2nKFR"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 205533,
       "name": "A-Lister",
       "url": "https://open.spotify.com/track/7GRPnTVWiFqlC3EAvFiKvY"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
-        "name": "Can we talk about Isaac?",
-        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 243203,
-      "name": "Can we talk about Isaac?",
-      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Starry Eyed",
-        "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
+        "name": "Can we talk about Isaac?",
+        "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 136925,
-      "name": "Starry Eyed",
-      "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
+      "duration_ms": 243203,
+      "name": "Can we talk about Isaac?",
+      "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1291,6 +1291,26 @@
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
+        "name": "Geezer",
+        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1341,24 +1361,20 @@
       "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
     },
     {
-      "added_at": "2025-06-13 04:00:51",
+      "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Geezer",
-        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+        "name": "RIP KP",
+        "url": "https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 169776,
-      "name": "Geezer",
-      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+      "duration_ms": 138914,
+      "name": "RIP KP",
+      "url": "https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "RIP KP",
-        "url": "https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 138914,
-      "name": "RIP KP",
-      "url": "https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "Two New Malcolm Todd Songs",
         "url": "https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 220645,
       "name": "You Owe Me",
       "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
-        "name": "Dream Woman",
-        "url": "https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 248601,
-      "name": "Dream Woman",
-      "url": "https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
+        "name": "Dream Woman",
+        "url": "https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 248601,
+      "name": "Dream Woman",
+      "url": "https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
         "name": "A Tear in Space (Airlock)",
         "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-06-06 04:00:16",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
         "name": "breaking news",
         "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 161075,
       "name": "breaking news",
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2025-06-06 04:00:16",

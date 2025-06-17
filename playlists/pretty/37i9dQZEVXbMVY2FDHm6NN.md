@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,587 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,597 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 10 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 11 | [Pleasure](https://open.spotify.com/track/72AAKt6SQmRbYSvVKP34QD) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/55xKiaSWQ1BABKnueyYsSN) | 2:48 |
 | 12 | [嚣张](https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [嚣张](https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp) | 4:13 |
-| 13 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 |
+| 13 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 |
 | 14 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
-| 15 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 |
+| 15 | [HANDS UP](https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/2owkehm0t0op4QvgMouB9L) | 3:12 |
 | 16 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 | 17 | [特別的人](https://open.spotify.com/track/0VTzUEuHYD8s7CgQ15cDPo) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [危險世界](https://open.spotify.com/album/3QR6UyUXB4KclN8HwSIhx9) | 4:19 |
 | 18 | [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 |
@@ -30,26 +30,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 20 | [大展鴻圖\(Blueprint Supreme\)](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 3:31 |
 | 21 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 |
 | 22 | [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 |
-| 23 | [Good Thing](https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:34 |
+| 23 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 |
 | 24 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/5doooVlMVRZztQbySqARMI) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:31 |
 | 25 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 26 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 |
 | 27 | [愚人節快樂](https://open.spotify.com/track/2FQE7XVMDtuHjkjY0D1uwj) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愚人節快樂](https://open.spotify.com/album/7lFcdqW9C9MGbgD8H6a2Ex) | 4:16 |
 | 28 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
-| 29 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
+| 29 | [DRIP](https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:00 |
 | 30 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 31 | [跳楼机](https://open.spotify.com/track/2BHXQNTVx1WWEk3WyCo4VO) | [en](https://open.spotify.com/artist/3A4OPuuXAaKWD8mlrUKXUQ) | [跳楼机](https://open.spotify.com/album/4ReDcHoNHmEX6WtgsEyo1H) | 3:29 |
 | 32 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 |
 | 33 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 | 34 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 |
 | 35 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 |
-| 36 | [Count to Ten](https://open.spotify.com/track/7Bb2dk76u7tTQxLf1nY9Ne) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [Stay Tuned](https://open.spotify.com/album/1RQpLKsOBrEe71RYdQdsj9) | 3:52 |
+| 36 | [數到十](https://open.spotify.com/track/6RN4rGtDTTx9orufM72pC4) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [下週同樣時間](https://open.spotify.com/album/5q6W70On4xxzLuYlKMHxTz) | 3:52 |
 | 37 | [你知道你比晚霞好看嗎](https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN), [Seluu](https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o) | [你知道你比晚霞好看嗎](https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm) | 2:58 |
-| 38 | [Supernova](https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC) | 2:58 |
+| 38 | [Supernova](https://open.spotify.com/track/2JhbSmNAyM9kYiqwa8Tpla) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3vk3MR4IL2EMC4ksN5pCo4) | 2:58 |
 | 39 | [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 |
 | 40 | [23/17](https://open.spotify.com/track/6WE1SUfXxG41NqW9jPHfti) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [23/17](https://open.spotify.com/album/0XDi5fRCWYTNZg9H2g1AUD) | 3:33 |
 | 41 | [NONO](https://open.spotify.com/track/34K7NvVX6Jw0AzT7hQpQ9X) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [NONO](https://open.spotify.com/album/4dfs3xvlI6Z8fQK4m3dTn7) | 2:51 |
-| 42 | [A Strange Love Song](https://open.spotify.com/track/5SxVJ2qGPoP13ZTZz4yntH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [A Strange Love Song](https://open.spotify.com/album/202bVHXH17QwF6DnINXZnK) | 4:11 |
+| 42 | [怪情歌](https://open.spotify.com/track/73OrJgMs6jtWuJRKZzp5xC) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [怪情歌](https://open.spotify.com/album/0YUxM9MbmMhi4Xj0v3FrA7) | 4:11 |
 | 43 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
 | 44 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 45 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [OGS](https://open.spotify.com/track/6KspA5I7eXMCcK4PgXmOPA) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [OGS](https://open.spotify.com/album/7D9rOL7WY5ZIJVpVAkhvs5) | 2:40 |
 | 50 | [閣愛妳一擺](https://open.spotify.com/track/4Zwn8WxD61diTwqv9hyTQA) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/1KaZUKYBcVHaxD3gd8N3M7) | 4:38 |
 
-Snapshot ID: `L+I70AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+OK+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

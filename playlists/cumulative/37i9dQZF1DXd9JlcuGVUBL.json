@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: Campbell Brothers",
+  "description": "Die beste country musiek. Omslag: Naranjo",
   "name": "Country Musiek",
   "tracks": [
+    {
+      "album": {
+        "name": "2 Pair",
+        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151534,
+      "name": "2 Pair",
+      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
+    },
     {
       "album": {
         "name": "The Great American Bar Scene",
@@ -34,7 +52,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 239453,
       "name": "4\u00d74\u00d7U",
       "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
@@ -504,6 +522,32 @@
       "duration_ms": 187322,
       "name": "Brand New Man",
       "url": "https://open.spotify.com/track/6vIQ1OZYwH4VI2LkwrMDaf"
+    },
+    {
+      "album": {
+        "name": "Broken Branches",
+        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "Broken Branches (feat. John Anderson, Riley Green)",
+      "url": "https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ"
     },
     {
       "album": {
@@ -1176,7 +1220,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 196000,
       "name": "Find Your Way Back",
       "url": "https://open.spotify.com/track/5aodxEQTHDKwNd1LhUzLjd"
@@ -1387,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Good Times & Tan Lines",
+        "url": "https://open.spotify.com/album/1DZO09ac5XmLpt0Utimknk"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160635,
+      "name": "Good Times & Tan Lines",
+      "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
+    },
+    {
+      "album": {
         "name": "Hang Aan Jou Lippe",
         "url": "https://open.spotify.com/album/1zQ2HCrBIraog6oB8Jga0z"
       },
@@ -1398,7 +1460,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 212057,
       "name": "Hang Aan Jou Lippe",
       "url": "https://open.spotify.com/track/0IldYj4nBc7OGAwRxnsvXF"
@@ -1510,7 +1572,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 175026,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
@@ -1982,7 +2044,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 178200,
       "name": "In Die Bos",
       "url": "https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv"
@@ -2452,6 +2514,24 @@
       "duration_ms": 173203,
       "name": "New Me",
       "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
+    },
+    {
+      "album": {
+        "name": "Nose On The Grindstone",
+        "url": "https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "Nose On The Grindstone",
+      "url": "https://open.spotify.com/track/41qeQaiSa09dPsGzgechek"
     },
     {
       "album": {
@@ -3013,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Snakeskin",
+        "url": "https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163444,
+      "name": "Snakeskin",
+      "url": "https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w"
+    },
+    {
+      "album": {
         "name": "So Much of You",
         "url": "https://open.spotify.com/album/7mqsySr7kvTj9gUe5mv2L5"
       },
@@ -3367,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/6MAylS2c9mUucOhetsDxyB"
+      },
+      "artists": [
+        {
+          "name": "Naranjo",
+          "url": "https://open.spotify.com/artist/5tf0q9ZsmkmaTYIxfJjsBW"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216342,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/6q9MoN8vlrzuThgZEsj5l3"
+    },
+    {
+      "album": {
         "name": "This World's A Giant",
         "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
       },
@@ -3678,7 +3794,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 193866,
       "name": "When Love Turns to Lies",
       "url": "https://open.spotify.com/track/21fAYsQMr7U08fayOZ0uDQ"

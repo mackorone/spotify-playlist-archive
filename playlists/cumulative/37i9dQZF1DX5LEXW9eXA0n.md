@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 하현상\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,498 songs - 4 day 1 hr 3 min
+1,499 songs - 4 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1387,6 +1387,7 @@
 | [With You](https://open.spotify.com/track/1x6WUoLbisdDYtJje4bFBN) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Mental Coach Jegal, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5fcdcwpZpn3LBTNHXQcMgh) | 3:09 | 2022-11-01 | 2023-01-21 |
 | [With You](https://open.spotify.com/track/6jqOoYltwMT2gyem0Kr1f0) | [Sung Hoon](https://open.spotify.com/artist/1pkzOJ2c68xoLfWUfMtdMJ) | [Woori The Virgin, Pt\. 6 \(Original Television Soundtrack\) \(Special Track\)](https://open.spotify.com/album/0bDZDb3zs3Ow0Qhj1Ryodw) | 4:19 | 2022-07-07 | 2022-09-06 |
 | [With You](https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 | 2023-12-13 | 2024-06-12 |
+| [With Your Love](https://open.spotify.com/track/7Il5jEgeqJmhVRCvcw7f1a) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2J5G4nG3Yld22VHOGA90Lq) | 3:55 | 2025-06-17 |  |
 | [Without Me](https://open.spotify.com/track/6c0RvlZu9VWyVtnwaaurMA) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Without Me](https://open.spotify.com/album/7fyfvL22yu3LMQVhQ8zI1p) | 4:13 | 2023-12-13 | 2024-05-18 |
 | [Without Me](https://open.spotify.com/track/54wxCzZOH2Jo1qSdqHUkRH) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Without Me](https://open.spotify.com/album/0ojT7QVxynpUx9QjVPV4hD) | 4:56 | 2023-02-24 | 2023-05-16 |
 | [Without U](https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [O](https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus) | 3:37 | 2023-03-08 | 2023-07-08 |
@@ -1471,7 +1472,7 @@
 | [사랑을 믿어요](https://open.spotify.com/track/3Qxoh4asAlkbzk5QffZjIS) | [JINWOOCHUL](https://open.spotify.com/artist/4xvPog1scf67ui3Lrb5FYZ) | [사랑을 믿어요](https://open.spotify.com/album/1B2UTfGDOuENmhHGnySfrO) | 3:39 | 2022-08-12 | 2022-09-30 |
 | [사랑을 사랑하고 싶어 Love was my song](https://open.spotify.com/track/2VuSetmtz31gOKyHVD1LXg) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [숨을 쉰다 breathe breathe](https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ) | 3:15 | 2023-12-14 | 2024-04-03 |
 | [사랑을 하다가 \(While I’m in love\)](https://open.spotify.com/track/0FH2RXfEIJS7enXYoehAgG) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [사랑을 하다가 \(While I’m in love\)](https://open.spotify.com/album/3ZMXJBXHxa5DUt5UVXWqz5) | 3:24 | 2023-11-15 | 2024-03-21 |
-| [사랑을 흘리다...그리고 3일](https://open.spotify.com/track/5TJhn2dCJFr4KOibxRXco0) | [Bobby Kim](https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z) | [PART OF ME](https://open.spotify.com/album/7yxdDCNPUZ6xxpHYg7PuOY) | 4:10 | 2025-04-25 |  |
+| [사랑을 흘리다...그리고 3일](https://open.spotify.com/track/5TJhn2dCJFr4KOibxRXco0) | [Bobby Kim](https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z) | [PART OF ME](https://open.spotify.com/album/7yxdDCNPUZ6xxpHYg7PuOY) | 4:10 | 2025-04-25 | 2025-06-17 |
 | [사랑이 늦어서 미안해](https://open.spotify.com/track/6YaIQLN1KDocHTQuxPjBhN) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Soul Family with Johan](https://open.spotify.com/album/5y7fjiyU5WlRuwTI8nAEkJ) | 4:13 | 2023-05-05 | 2023-05-16 |
 | [사랑이라 쓰고 이별이라 읽어 \(Write love and Read breakup\)](https://open.spotify.com/track/1VJJ5i8jxeWc3rRFD0tJ8Z) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [사랑이라 쓰고 이별이라 읽어 \(Write love and Read breakup\)](https://open.spotify.com/album/3e0vL5HQsCead5QUmN1Igj) | 3:00 | 2023-09-14 | 2023-12-14 |
 | [사랑하면 되나요](https://open.spotify.com/track/04vS9y0vNGeOSGnLBmnqyk) | [Bbalganyangmal](https://open.spotify.com/artist/02ThU5xgjGLsJBR4RspMwK), [현지](https://open.spotify.com/artist/4vv8PgzckIxkIlZo94VxqT) | [사랑하면 되나요](https://open.spotify.com/album/4kJD6CQyaLHklTnyRy9HNy) | 3:33 | 2023-01-20 | 2023-02-25 |

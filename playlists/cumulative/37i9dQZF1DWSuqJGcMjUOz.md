@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche de l’édition 2025 des Francos de Montréal.
 
-546 songs - 1 day 6 hr 52 min
+548 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Ciao](https://open.spotify.com/track/25akJEUvfU5BrlpcEGn0Gl) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Dixque d'art](https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS) | 3:57 | 2022-05-25 | 2023-04-13 |
 | [Cinq minutes pile](https://open.spotify.com/track/2YkqLNTAL83ALI3GgLHJvS) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 2:42 | 2024-04-16 | 2025-04-30 |
 | [Coin coin](https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Tempête](https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT) | 3:29 | 2024-04-23 | 2025-04-30 |
+| [COMA](https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [COMA](https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy) | 3:01 | 2025-06-17 |  |
 | [Combien de fois](https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [CHROME](https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V) | 2:34 | 2023-05-25 | 2024-04-04 |
 | [Comme Avant](https://open.spotify.com/track/2kGflndOtz5UCBflZIT4eQ) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/4GapYXkrjk7Zur6AX4Lr3w) | 2:26 | 2024-04-23 | 2025-04-30 |
 | [Comme din' vues](https://open.spotify.com/track/5msAtJ2hvNdz8uQhCuTrEt) | [Pasteur Papillon](https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB) | [On va sauver ce qui reste](https://open.spotify.com/album/6klAWNXAeknSb05EFLbllK) | 2:44 | 2023-05-25 | 2024-04-04 |
@@ -179,6 +180,7 @@
 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2022-05-25 | 2023-04-13 |
 | [Feu roulant](https://open.spotify.com/track/6j0fokyjEaCo1JAiB4NxEh) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Le poids des livres](https://open.spotify.com/album/2YrH5m1lyfJQdN2tTB7RMC) | 3:02 | 2022-05-25 | 2022-07-28 |
 | [Filature](https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Hagra, Vol.1](https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn) | 2:25 | 2023-05-25 | 2024-04-04 |
+| [Fire](https://open.spotify.com/track/15jrxL2BXw7TVb4ymr3uzJ) | [Muhoza](https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG), [KANUK](https://open.spotify.com/artist/465DgHCWF011yxLkdCw4FR) | [Bijou](https://open.spotify.com/album/1N4fbPCEBnIeKs56SANfLw) | 2:58 | 2025-06-17 |  |
 | [Fleur en polyéthylène](https://open.spotify.com/track/6TYLCLftacO3l8lO3Nr6R7) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Bizou](https://open.spotify.com/album/4njcERNC8ZHZYnbZUlt7Sg) | 3:04 | 2025-04-29 |  |
 | [Focus](https://open.spotify.com/track/6C1z1bSxEqEXzDpxKXVfZM) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi) | [Hybride](https://open.spotify.com/album/5vWhcYfEw9qBte5L56qqxl) | 3:57 | 2025-04-29 |  |
 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 | 2022-05-25 | 2023-04-13 |
@@ -281,7 +283,7 @@
 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 | 2022-05-25 | 2023-04-13 |
 | [La lumineuse](https://open.spotify.com/track/68tP0IQTdnvRM5MmcNbGq9) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [La lumineuse](https://open.spotify.com/album/0mW7rqJgg8r3BfjOwwAavP) | 3:08 | 2022-05-25 | 2023-04-13 |
 | [La mauvaise question](https://open.spotify.com/track/6KYNFAa4z1GJYnAkDf9Gyw) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Si l'essentiel c'est d'être aimé / La mauvaise question](https://open.spotify.com/album/7vaSzxNrZe41hcNtz472qu) | 3:49 | 2025-04-29 |  |
-| [La Mort](https://open.spotify.com/track/4sqJT9MPzPiCgfjAqriSxq) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 3:29 | 2025-04-29 |  |
+| [La Mort](https://open.spotify.com/track/4sqJT9MPzPiCgfjAqriSxq) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 3:29 | 2025-04-29 | 2025-06-17 |
 | [La Presse \(Baby Girl\)](https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 2:55 | 2022-05-25 | 2023-03-21 |
 | [La rage](https://open.spotify.com/track/62qdNmfBKWh9t0ZZJ0J8Qn) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La rage](https://open.spotify.com/album/5upVbxNasUUvEQDsiVSGg2) | 3:03 | 2025-04-29 |  |
 | [La richesse des pauvres](https://open.spotify.com/track/4jV3QKV40FmtcJikbBpfCf) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO), [Rau Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Échos d'une vie distante: volume 1](https://open.spotify.com/album/4n4gw9wDp29mV0tAYxcFol) | 2:23 | 2022-05-25 | 2022-07-28 |

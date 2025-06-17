@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Three Man Down
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,268 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,348 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

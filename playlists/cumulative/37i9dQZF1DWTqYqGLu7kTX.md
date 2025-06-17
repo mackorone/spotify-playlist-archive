@@ -4,7 +4,7 @@
 
 > Best of Punjabi Hip\-Hop! Cover: Cheema Y
 
-274 songs - 13 hr 35 min
+275 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [JAT FREESTYLE](https://open.spotify.com/track/5i0k0nlsa4Wlr2eLZAgM8h) | [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [LALA](https://open.spotify.com/artist/3QJoMteoDDVUSLRIiaWfQu) | [JAT FREESTYLE](https://open.spotify.com/album/0IhaImNfhX1dKbgE2TTZAj) | 3:16 | 2024-03-29 | 2024-06-11 |
 | [Jatt Don’t Care](https://open.spotify.com/track/4xt9T7bqLoLHuHpdVAJdVd) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [BIG Ghuman](https://open.spotify.com/artist/2KQG8iJJ8SYC2wicGUZ2lG) | [Jatt Don’t Care](https://open.spotify.com/album/6mbFOxeExykR6XJLE617mk) | 3:24 | 2023-04-11 |  |
 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 | 2024-11-11 |  |
-| [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-03-18 |  |
+| [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-03-18 | 2025-06-17 |
 | [Kaal](https://open.spotify.com/track/5fd8AfixGTXS2uvfWow9Og) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Real Sheikh](https://open.spotify.com/artist/1FqIxFISLBxKVtWyCKPsOR) | [Deja Vu](https://open.spotify.com/album/4j8ZHrjf3cgM96KJU4WYNP) | 2:47 | 2024-10-16 | 2024-11-20 |
 | [Kamm Koi Na](https://open.spotify.com/track/5YctxMWPzEXjnmHLA0mYUN) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Kamm Koi Na](https://open.spotify.com/album/6038IqGy6VRDMzlGxsQ3xI) | 2:57 | 2023-03-18 | 2023-04-24 |
 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 | 2025-01-24 |  |
@@ -243,6 +243,7 @@
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-06-23 | 2025-04-26 |
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2023-11-13 |
 | [Sultan Rahi](https://open.spotify.com/track/6xynqprt4AGDohJraoSEhZ) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Ricky Chohan](https://open.spotify.com/artist/6FDEgXyJ1K7ctKJfkLwonD) | [Sultan Rahi](https://open.spotify.com/album/5S3aMciVvdj3cl0X39UMWj) | 1:49 | 2024-11-21 | 2025-05-10 |
+| [Superstar](https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [Rita Kim](https://open.spotify.com/artist/5Xtuk7kRz7Y5qVOlaB7kml) | [ONE FROM THE CROWD](https://open.spotify.com/album/5KOxI4N3j6nWS1OiEUm8Ab) | 3:01 | 2025-06-16 |  |
 | [SUPREME](https://open.spotify.com/track/4A0DXFx7xuaXx5ak9Ufoc1) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Xpensive](https://open.spotify.com/album/65XPuQWFOgLYGnxrOQjKmt) | 2:48 | 2023-03-18 | 2024-04-19 |
 | [SUPREME](https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [XPENSIVE](https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ) | 2:50 | 2024-04-10 |  |
 | [Supreme](https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Supreme](https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs) | 2:58 | 2025-04-25 |  |

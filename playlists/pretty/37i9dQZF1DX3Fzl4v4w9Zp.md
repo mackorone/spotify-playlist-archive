@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Watchhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,937 likes - 155 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,875 likes - 155 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

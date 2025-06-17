@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 
 > Listen to the soundtracks of the drama Doctor Cha\. \(드라마 닥터 차정숙의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs  selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,811 likes - 53 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,810 likes - 53 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 | 52 | [Shine Like a Star \- Instrumental](https://open.spotify.com/track/2LlAjmC9tzqtB7ni4mtXxh) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1UqsxHnWTmlyYgKHFTGWUX) | 2:43 |
 | 53 | [Breath \- Instrumental](https://open.spotify.com/track/18imXhFiJgGNzRuSzkMLe5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z) | 3:41 |
 
-Snapshot ID: `ZXkmiwAAAAC8OHwVnr42gzApwKqbDWrm`
+Snapshot ID: `ZXkmiwAAAADZ44OngBKN/fXf8FtxAEav`

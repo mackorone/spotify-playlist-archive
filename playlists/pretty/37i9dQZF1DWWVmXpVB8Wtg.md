@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 
 > Enjoy the King Gnu Asia Tour best songs! \(King Gnu의 아시아 투어를 기념하여 베스트 곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,577 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,576 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

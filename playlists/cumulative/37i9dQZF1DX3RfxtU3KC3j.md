@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: emre aydın
 
-316 songs - 18 hr 33 min
+318 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Halim Berbat \- Dengesizim](https://open.spotify.com/track/6BQr8N9OafWGwURXhVo15G) | [Su Soley](https://open.spotify.com/artist/0dtUUdWmcV3TecbEICZ3A8) | [Halim Berbat \(Dengesizim\)](https://open.spotify.com/album/0gPMut6Rf72i6uDFr84aGA) | 3:27 | 2025-05-08 |  |
 | [Halledemedik](https://open.spotify.com/track/6Hmg4U7Vj36yRzo2Ptmqfa) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft), [Gripin](https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O) | [Halledemedik](https://open.spotify.com/album/3hh8MtdzY8EiNPuc9tYexM) | 4:20 | 2024-06-28 | 2024-07-19 |
 | [Hani Nerede?](https://open.spotify.com/track/66ALGT6ONdk1myfpZjBVSl) | [Meyal](https://open.spotify.com/artist/0w3PlTOI8rZPFSlMG95sBa) | [Hani Nerede?](https://open.spotify.com/album/0721GDLfG8SkkdGdOKN4Iy) | 2:30 | 2024-07-18 | 2024-08-09 |
+| [Haram \- Feridun Hürel Albüm](https://open.spotify.com/track/4ihkYPMw8OGsSct8HzRL7R) | [TNK](https://open.spotify.com/artist/4EJYpvhyY4gO4rjEeitXLa) | [Haram \(Feridun Hürel Albüm\)](https://open.spotify.com/album/1KieIt2s1L5miCMqFRIK7r) | 2:22 | 2025-06-16 |  |
 | [Hatıran Yeter \- Canlı / Bostancı Gösteri Merkezi](https://open.spotify.com/track/08yPIXGR8irO2LmWNF7CRo) | [Zakkum](https://open.spotify.com/artist/70Ya7DKJEo20SAkxjirYnu) | [Hatıran Yeter \(Canlı / Bostancı Gösteri Merkezi\)](https://open.spotify.com/album/5igyQIUXydf7YXSLrYGGEM) | 3:58 | 2025-01-23 |  |
 | [Hatırı Yok Mu?](https://open.spotify.com/track/65jS1McXvIixyiCKrpDsZR) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Hatırı Yok Mu?](https://open.spotify.com/album/0jnuzFnHmRqio0sRrtpieH) | 3:07 | 2025-05-09 |  |
 | [Hekate](https://open.spotify.com/track/4HJlqPl8exLFsU1iGJrrvz) | [Frxzbie](https://open.spotify.com/artist/6ZLa3FArZyL8LL5DG3RXtm) | [Hekate](https://open.spotify.com/album/1sstc4z3j5Kv4vAxgiWQMm) | 2:22 | 2024-10-17 | 2024-10-23 |
@@ -146,7 +147,7 @@
 | [Hiç Kimse Bilmez](https://open.spotify.com/track/2IrIGXSQuNxWmkAd8CEnj9) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Yavaş Yavaş \- B](https://open.spotify.com/album/6bI0KamTycecaaz0EBrhfD) | 3:25 | 2024-12-19 | 2025-01-10 |
 | [Hiç Sorma](https://open.spotify.com/track/3bzL5C57RjIba7X3EPptlK) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Hiç Sorma](https://open.spotify.com/album/1LArDB0ZveBagFrA1O4bA5) | 3:01 | 2025-01-23 |  |
 | [HİPOKRASİ](https://open.spotify.com/track/0Ga4fm7qEtifttllZFCX6j) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [HİPOKRASİ](https://open.spotify.com/album/4xfTfJ45ohirIdB9eljHca) | 3:32 | 2024-11-14 | 2024-12-13 |
-| [İHA](https://open.spotify.com/track/3jq9ZLIFmIxkUjst5tsoWZ) | [İyi Kötü Kararsız](https://open.spotify.com/artist/705xyJp74H8bHswYgl1rGc) | [İHA](https://open.spotify.com/album/0TSPoF8c1UlAJ1Y1VlYIbh) | 2:40 | 2025-05-22 |  |
+| [İHA](https://open.spotify.com/track/3jq9ZLIFmIxkUjst5tsoWZ) | [İyi Kötü Kararsız](https://open.spotify.com/artist/705xyJp74H8bHswYgl1rGc) | [İHA](https://open.spotify.com/album/0TSPoF8c1UlAJ1Y1VlYIbh) | 2:40 | 2025-05-22 | 2025-06-17 |
 | [İhtarname](https://open.spotify.com/track/3ZL5pQZrqyOyKxC1ZaRiga) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Nem Kaldı?](https://open.spotify.com/album/0YWcNUgijbCza1sd9x7BID) | 3:56 | 2024-10-22 | 2024-11-08 |
 | [İki Dünya Arasında](https://open.spotify.com/track/1PoJYlGRtQCmZuG0WwaAxT) | [Demir Demirkan](https://open.spotify.com/artist/0ONcicRZwAgDDZyeWrLia3) | [İki Dünya Arasında](https://open.spotify.com/album/4uTi3d0X70HzgpBcsozmia) | 2:02 | 2025-04-10 | 2025-04-25 |
 | [İkimizden Biri](https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [İkimizden Biri](https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX) | 3:47 | 2024-06-28 | 2025-01-31 |
@@ -202,6 +203,7 @@
 | [Mutlu Taklidi](https://open.spotify.com/track/0oJguEIl9C3vNOkYOxvYc0) | [Can Temiz](https://open.spotify.com/artist/05iWQOypkDrzS7Udolm0gI) | [Yerin Dibi Göğün Sonunda](https://open.spotify.com/album/6ziyaPLRXLm9PcZdTR8xSH) | 4:34 | 2024-06-28 | 2024-10-04 |
 | [Naparım Sen Yoksan](https://open.spotify.com/track/1uFxB7Vj0L7qZ11SvFd6w0) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C) | [Naparım Sen Yoksan](https://open.spotify.com/album/4fkVjpSRd2kKgpoMa43tRK) | 3:10 | 2024-10-17 | 2024-11-15 |
 | [Ne Fark Eder](https://open.spotify.com/track/3OOYwCiPIjC64b2VXLk3cH) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [Ne Fark Eder](https://open.spotify.com/album/0bTEq84HsGhDpimlYCIGNe) | 3:07 | 2025-04-24 | 2025-05-09 |
+| [neden](https://open.spotify.com/track/0xLUenokW0efdVZoxtRI3s) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [neden](https://open.spotify.com/album/0UwpSPaQXWVpT3wTEMvdti) | 3:06 | 2025-06-16 |  |
 | [Neden Olmasın?](https://open.spotify.com/track/7bQs0QDP7Su8mI35XPBUVW) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO), [melih](https://open.spotify.com/artist/7v5y2DtJeWGa5dl6y1ntp1) | [Neden Olmasın?](https://open.spotify.com/album/18TnQsJzhrdXHNzOCaSYAR) | 3:54 | 2024-06-28 | 2025-03-07 |
 | [Nedense](https://open.spotify.com/track/0Th24xHwF8s2Q248HFSqnt) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Hermès](https://open.spotify.com/album/3vEyocjiqnhtclO3cwYo4m) | 2:51 | 2025-01-16 | 2025-03-07 |
 | [Nerde Benim Kafam](https://open.spotify.com/track/3b83Fi9nZOQkmLJqy10ONJ) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 3:47 | 2024-06-28 | 2024-10-23 |
@@ -210,7 +212,7 @@
 | [O2](https://open.spotify.com/track/0gcYuLWxERGKDEKE6XJI84) | [İkiye On Kala](https://open.spotify.com/artist/1HsQw7SuwmxSH4r2aqF9DB) | [O2](https://open.spotify.com/album/2KugkF6RObh3UOfGOWWboO) | 2:50 | 2025-03-27 |  |
 | [Olabilirdik](https://open.spotify.com/track/62rfXEbU2o06c21kYvu4jN) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Olabilirdik](https://open.spotify.com/album/6rlzqJevPRwMcltz4EhNEI) | 3:31 | 2024-06-28 | 2025-03-07 |
 | [Oyunbozan \(Harbiye Açıkhava, 2019\) \- Canlı Senfonik](https://open.spotify.com/track/5YunCneZaOK13Tl4lnD4Sx) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Harbiye Açıkhava \(Canlı Senfonik\)](https://open.spotify.com/album/3ZCgXNGNmiMYlCxH6VYFEW) | 4:43 | 2024-10-22 | 2025-04-04 |
-| [Oyunlarınız Var](https://open.spotify.com/track/0ORNRYPi7XbkGI9eTtodk1) | [Can Baydar](https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv) | [Oyunlarınız Var](https://open.spotify.com/album/1uLg0XoCrRCI2DJB63nj33) | 2:53 | 2025-04-10 |  |
+| [Oyunlarınız Var](https://open.spotify.com/track/0ORNRYPi7XbkGI9eTtodk1) | [Can Baydar](https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv) | [Oyunlarınız Var](https://open.spotify.com/album/1uLg0XoCrRCI2DJB63nj33) | 2:53 | 2025-04-10 | 2025-06-17 |
 | [Oyununu Oyna](https://open.spotify.com/track/6VX7pbbDSfmV8VNuua6ulz) | [Emre Nalbantoğlu](https://open.spotify.com/artist/14TogIxl5TVMe7aa7IaLv1) | [Oyununu Oyna](https://open.spotify.com/album/6D5S3qteSlL9cHJAU0qs1f) | 2:21 | 2024-09-05 | 2024-09-20 |
 | [PİÇ](https://open.spotify.com/track/6mOWYGO4GGTOA5ixHz8S28) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [PİÇ](https://open.spotify.com/album/3FI0Vd5dS1lxf7nTklAAAV) | 3:27 | 2024-06-28 | 2024-10-23 |
 | [Razıysan Gel](https://open.spotify.com/track/0YWl5fQhbMl0UZPuew9XdB) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Razıysan Gel](https://open.spotify.com/album/5g1kP0cxSeeHNqWd46Yrze) | 3:57 | 2024-06-28 | 2024-08-16 |

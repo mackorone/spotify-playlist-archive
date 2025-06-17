@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-835 songs - 1 day 12 hr 17 min
+838 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Mano](https://open.spotify.com/track/3I543eAVQG6u3Sm9k4PLAM) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [De Mano A Mano](https://open.spotify.com/album/7ilmeRDYvSLSsIgBBjdPIQ) | 2:40 | 2022-02-01 | 2023-03-25 |
 | [A New Today](https://open.spotify.com/track/0lyY1EBW263LxVMtzrtp1o) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [A New Today](https://open.spotify.com/album/5Upe7WjVHgDtGZC6gDdJuR) | 3:10 | 2021-12-08 | 2024-04-05 |
 | [A Past Life Thing](https://open.spotify.com/track/0GYdA0QT7dSxBsJK9LvqLi) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [A Past Life Thing](https://open.spotify.com/album/7cz5Iq6qdUA5ehO9IkM5xQ) | 2:36 | 2022-12-09 | 2024-07-19 |
+| [A Quiet Measure](https://open.spotify.com/track/5q67OyAvjtKpCcjt2WrWH4) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [A Quiet Measure](https://open.spotify.com/album/064FOaz6IDEc24eUjnhcfj) | 2:49 | 2025-06-16 |  |
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-05-12 | 2023-09-29 |
 | [A Quiet Triumph](https://open.spotify.com/track/6O85dw9qndgkrNcNabnUYH) | [Sylvain Lowe](https://open.spotify.com/artist/6R5QFCQdTlzmpIq18rRLw7) | [Nostalgia](https://open.spotify.com/album/7FOICAmy6YkVum07rk5tNJ) | 2:59 | 2021-12-08 | 2022-04-22 |
 | [A Short Walk To Open Fields](https://open.spotify.com/track/0AcpMokszr0bPJQ5eoTPvg) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [A Short Walk To Open Fields](https://open.spotify.com/album/4DB1OJk9eG0vSkybSmHSQ0) | 3:12 | 2024-02-02 |  |
@@ -178,6 +179,7 @@
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2021-12-08 | 2022-07-08 |
 | [Day & Night](https://open.spotify.com/track/0STOod1idSRY8V0cHyoAkF) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Day & Night](https://open.spotify.com/album/1VJHc2kD8VRJXYeK39dfga) | 2:26 | 2022-11-18 | 2023-04-22 |
 | [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 | 2025-04-02 | 2025-04-08 |
+| [Day Break](https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Day Break](https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W) | 2:32 | 2025-06-16 |  |
 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-27 |  |
 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 | 2025-02-24 |  |
 | [Dayspring Dew](https://open.spotify.com/track/2B5MVIV4kzaS4ehtL1UWFB) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Dayspring Dew](https://open.spotify.com/album/6ZJOzTo1OgudWntdAVZLTN) | 2:54 | 2021-12-08 | 2022-06-10 |
@@ -228,7 +230,7 @@
 | [Enchantment](https://open.spotify.com/track/10SYT1xYCFAZZg7muzeAxC) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Enchantment](https://open.spotify.com/album/1wUy2g9PMkkvA1gZZQU8CX) | 3:07 | 2023-04-21 | 2024-07-19 |
 | [Encounters](https://open.spotify.com/track/01zpU0ewFP8tjG1J9We98x) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Encounters](https://open.spotify.com/album/3JNn40KWFz77KtMcs1R2Um) | 2:11 | 2023-10-27 |  |
 | [End Of A Great Day](https://open.spotify.com/track/5kkOITX3VBmYCyNQR6TbM7) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [End Of A Great Day](https://open.spotify.com/album/102hRVui7PAAfIzDl63ITE) | 4:03 | 2021-12-08 | 2024-05-24 |
-| [Endless Encounters](https://open.spotify.com/track/4c2UTkfuwN3cGJVNvS1NM1) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Endless Encounters](https://open.spotify.com/album/0DSVCOolijun5ZrPht9tXL) | 2:34 | 2024-08-07 |  |
+| [Endless Encounters](https://open.spotify.com/track/4c2UTkfuwN3cGJVNvS1NM1) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Endless Encounters](https://open.spotify.com/album/0DSVCOolijun5ZrPht9tXL) | 2:34 | 2024-08-07 | 2025-06-17 |
 | [Endless Path](https://open.spotify.com/track/67Q6qfYO7qXJjsIXbzZeJ4) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Endless Path](https://open.spotify.com/album/2kx0113Z17cfo8Vwd6KPmF) | 2:19 | 2024-04-19 | 2024-09-26 |
 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 | 2022-06-10 | 2023-08-19 |
 | [Englischer Garten](https://open.spotify.com/track/3wblhyTGdAtGqKImUoy2W0) | [Brit Koch](https://open.spotify.com/artist/3kxcXQwZj8D8tXsHLnswf4) | [Englischer Garten](https://open.spotify.com/album/7HSlothoNNxPl3xLRE9Vxh) | 2:40 | 2021-12-08 | 2024-03-08 |
@@ -356,7 +358,7 @@
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-24 | 2024-12-11 |
 | [Intimation](https://open.spotify.com/track/1pPsz87YEWRZKgCLSPKyoL) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Intimation](https://open.spotify.com/album/3zKYzylFhenfGuKNaNfOB6) | 1:24 | 2022-08-19 | 2023-08-19 |
 | [Into Motion](https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Into Motion](https://open.spotify.com/album/1ZcPD4YUAnPcbVUgGOpTz4) | 2:37 | 2024-03-29 |  |
-| [Intuition](https://open.spotify.com/track/1alC20fcYZjon9Qw3NOD1C) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Intuition](https://open.spotify.com/album/3VrTfCXou5k6GqfKVQNGJf) | 2:32 | 2024-09-10 |  |
+| [Intuition](https://open.spotify.com/track/1alC20fcYZjon9Qw3NOD1C) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Intuition](https://open.spotify.com/album/3VrTfCXou5k6GqfKVQNGJf) | 2:32 | 2024-09-10 | 2025-06-17 |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-08 | 2022-04-22 |
 | [Ischia](https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Ischia](https://open.spotify.com/album/2F5K4I3EnX9qOBqp4VqvO6) | 2:34 | 2023-06-22 |  |
 | [Isle of Skye](https://open.spotify.com/track/3rxo4jNntMRi6KHJkFHjNR) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Isle of Skye](https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6) | 2:13 | 2023-05-12 | 2024-05-04 |
@@ -423,6 +425,7 @@
 | [Looking Up](https://open.spotify.com/track/0tkjSbIkXcZ7gGJrWme3fk) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/5dCaUe17L8MubPqQpB5cnG) | 1:58 | 2023-01-20 | 2023-05-23 |
 | [Looking Up](https://open.spotify.com/track/15ZMShmAhdui32akjTHMkL) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/4JYixjUaNwWqWGFFwJSA1s) | 1:58 | 2023-05-12 | 2023-06-16 |
 | [Loomy Woods](https://open.spotify.com/track/2AWMZjZp5uoB4nJN8RLced) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Loomy Woods](https://open.spotify.com/album/34I5Dwjv7aAHVW66mXApP4) | 3:14 | 2023-05-12 | 2024-04-05 |
+| [Lost in the Moment](https://open.spotify.com/track/2KOlLqz63AA8AMuH5lwIyX) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lost in the Moment](https://open.spotify.com/album/5YSiRGp7ninOfNhNM5osJl) | 2:20 | 2025-06-16 |  |
 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 | 2023-02-24 |  |
 | [Love In Distance](https://open.spotify.com/track/08eRZ1EP3sSTuu9CBuWSIS) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Love In Distance](https://open.spotify.com/album/4wmuigjrfEGY1OdoUzmKx0) | 1:56 | 2023-04-21 | 2023-08-19 |
 | [Lovelight](https://open.spotify.com/track/17c3bS1IscSItKzhhzdc4N) | [Geoff Henzel](https://open.spotify.com/artist/1GEOzSfLdNej1BIxdMQWN5) | [Lovelight](https://open.spotify.com/album/1E7UDTzbiqvLmpuR7wymWB) | 1:53 | 2022-02-01 | 2022-07-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Listen to the best in AfroTech as it travels the world's dancefloors. Cover: <a href=\"https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY?si=3aVBUGroTxmRhuddmQ_Fbg\">Caiiro</a>",
-  "num_followers": 27948,
+  "num_followers": 28148,
   "original_name": "AfroTech Now",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-06-12 22:00:50",
       "album": {
+        "name": "Hyenah presents RISE RADAR 01",
+        "url": "https://open.spotify.com/album/3RFlAnR6ew8IgKh6UWnx63"
+      },
+      "artists": [
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "duration_ms": 444263,
+      "name": "Umbovukazi",
+      "url": "https://open.spotify.com/track/4ok4NiGs5EmP9T04AEDBA9"
+    },
+    {
+      "added_at": "2025-06-12 22:00:50",
+      "album": {
         "name": "iLanga (Samm Remix)",
         "url": "https://open.spotify.com/album/5URMWlfNRGISqDtaCcbaxv"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 244062,
       "name": "iLanga - Samm Remix",
       "url": "https://open.spotify.com/track/01uHli2I60dhf2p3cKy3v2"
-    },
-    {
-      "added_at": "2025-06-12 22:00:50",
-      "album": {
-        "name": "Hyenah presents RISE RADAR 01",
-        "url": "https://open.spotify.com/album/3RFlAnR6ew8IgKh6UWnx63"
-      },
-      "artists": [
-        {
-          "name": "Da Capo",
-          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
-        }
-      ],
-      "duration_ms": 444263,
-      "name": "Umbovukazi",
-      "url": "https://open.spotify.com/track/4ok4NiGs5EmP9T04AEDBA9"
     },
     {
       "added_at": "2025-06-12 22:00:50",

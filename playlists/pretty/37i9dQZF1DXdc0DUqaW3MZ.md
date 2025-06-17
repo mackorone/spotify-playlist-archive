@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,225 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,276 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 47 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
 | 48 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
 | 49 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
-| 50 | [Excuse Me](https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [One Time](https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu) | 2:19 |
-| 51 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
+| 50 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
+| 51 | [Excuse Me](https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [One Time](https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu) | 2:19 |
 | 52 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
-| 53 | [Done.](https://open.spotify.com/track/7rxtStGAWSUYhMoXAdIQzj) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Earcandy](https://open.spotify.com/album/7p0eOkAgv8m9g59wprb0L0) | 2:35 |
-| 54 | [ILLUSIONS Pt\. II](https://open.spotify.com/track/6ro3scqAcujWPUd13k590j) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [ILLUSIONS Pt\. II](https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv) | 3:03 |
+| 53 | [ILLUSIONS Pt\. II](https://open.spotify.com/track/6ro3scqAcujWPUd13k590j) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [ILLUSIONS Pt\. II](https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv) | 3:03 |
+| 54 | [Done.](https://open.spotify.com/track/7rxtStGAWSUYhMoXAdIQzj) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Earcandy](https://open.spotify.com/album/7p0eOkAgv8m9g59wprb0L0) | 2:35 |
 | 55 | [Keep On](https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 3:38 |
 | 56 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy) | 3:21 |
 | 57 | [The Water](https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx) | [Bel Tempo](https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [The Water](https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox) | 3:00 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 67 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
 | 68 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
 | 69 | [LOVER/LOSER](https://open.spotify.com/track/4uerIOfWoTb2Hxudx3IeYw) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [LOVER/LOSER](https://open.spotify.com/album/6eyDpYxgYybNKcClV9pPyy) | 3:03 |
-| 70 | [Change \- Edit](https://open.spotify.com/track/3tigqLQ5aJe2Ngl0OqbLVg) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Change \(Edit\)](https://open.spotify.com/album/4LZzcVZ5K0CNbnEypXeWVp) | 3:31 |
+| 70 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
 
 Snapshot ID: `aDjm/AAAAABweU0RLSlAfQGYgrMeCPD0`

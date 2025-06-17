@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234510,
+  "num_followers": 234522,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAALSsp6DEer8Rr4L/8oYWU8",
+  "snapshot_id": "aE4NAAAAAADJ4dGCAc6ImFbyY/IOUZBC",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
+        "name": "Danna Paola",
+        "url": "https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Noel Schajris",
-          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
         }
       ],
-      "duration_ms": 225240,
-      "name": "No Es Cierto",
-      "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
+      "duration_ms": 234413,
+      "name": "El Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94"
     },
     {
       "added_at": null,
@@ -267,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola",
-        "url": "https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR"
+        "name": "Danna Paola (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
         }
       ],
-      "duration_ms": 234413,
-      "name": "El Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94"
+      "duration_ms": 225240,
+      "name": "No Es Cierto",
+      "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
     },
     {
       "added_at": null,

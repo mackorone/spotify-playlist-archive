@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,305 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,306 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 43 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
 | 44 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
 | 45 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
-| 46 | [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 |
-| 47 | [Guapanguito](https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c) | [Rosino Serrano](https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ), [Orquesta Moderna](https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob), [Gianluca Littera](https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo), [Alex Mercado](https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1) | [Orquesta Moderna](https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i) | 4:45 |
+| 46 | [Guapanguito](https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c) | [Rosino Serrano](https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ), [Orquesta Moderna](https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob), [Gianluca Littera](https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo), [Alex Mercado](https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1) | [Orquesta Moderna](https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i) | 4:45 |
+| 47 | [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 |
 | 48 | [Valor De Volar](https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH) | [Los Dorados](https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE) | [Vientos Del Norte](https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg) | 3:56 |
 | 49 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
 | 50 | [Fíeme una Coca, No?](https://open.spotify.com/track/1ItJeVpac8LmFL9LyqMFJo) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 7:01 |

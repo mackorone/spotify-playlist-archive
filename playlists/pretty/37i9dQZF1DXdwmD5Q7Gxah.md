@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a> Cover: Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,104 likes - 157 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,048 likes - 157 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 127 | [Assis](https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Assis](https://open.spotify.com/album/71DiQ82ms9jVguDKqdx1UD) | 2:41 |
 | 128 | [I'm Not Them](https://open.spotify.com/track/79ddfmePpbSFnMgeY4vXhC) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [A Kiss Dressed His Cheek](https://open.spotify.com/album/5zxiCKwsVIJvDxvFFb35Eh) | 2:03 |
 | 129 | [Mystery Of Love \- Demo](https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery Of Love \(Demo\)](https://open.spotify.com/album/06pLW7elratms6S5yufTzn) | 4:04 |
-| 130 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Tulips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
+| 130 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/2jXaKP1SGZBThNf6lVHCdo) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
 | 131 | [little room](https://open.spotify.com/track/5ejcDCtiKg6fX0LHkBsZu4) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [little room](https://open.spotify.com/album/69n1pSsqcPHz83WAYOOxnD) | 2:24 |
 | 132 | [ALTAGAMA](https://open.spotify.com/track/2OGXuOaxAEjSen6gz3w2lB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [ALTAGAMA](https://open.spotify.com/album/5CBhqqrQa4XTNQmo24XKrB) | 2:30 |
 | 133 | [Hazy](https://open.spotify.com/track/7DpRyhc5dbAYAiWalOu237) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Hazy](https://open.spotify.com/album/69HmW1adrp17cediFfhRtK) | 2:18 |

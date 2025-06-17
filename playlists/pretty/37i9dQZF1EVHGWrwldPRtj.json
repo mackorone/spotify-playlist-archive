@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
       "added_at": null,
@@ -43,18 +43,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 240742,
-      "name": "Hey Jane",
-      "url": "https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn"
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
       "added_at": null,
@@ -71,6 +75,22 @@
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E"
     },
     {
       "added_at": null,
@@ -111,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\"Awaken, My Love!\"",
         "url": "https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni"
       },
@@ -127,18 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 238906,
-      "name": "Sunset Lover",
-      "url": "https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E"
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": null,
@@ -163,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
       },
@@ -195,6 +215,22 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
     },
     {
       "added_at": null,
@@ -231,34 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "added_at": null,
@@ -279,54 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirror Conspiracy",
-        "url": "https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 288826,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7n9UF5oycqQV4ndd50NbnE"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 122221,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/29LrGcqtxvdCpVmlBoJ75B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
       },
@@ -339,46 +311,6 @@
       "duration_ms": 156600,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Elizabeth Fraser",
-          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "name": "Beth Hirsch",
-          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
-        }
-      ],
-      "duration_ms": 268306,
-      "name": "All I Need (feat. Beth Hirsch)",
-      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
     },
     {
       "added_at": null,
@@ -407,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/6SbuufeFjg252z6GFG1lXV"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 198331,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Salad Days",
         "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
       },
@@ -439,18 +355,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7n9UF5oycqQV4ndd50NbnE"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
+      "duration_ms": 122221,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/29LrGcqtxvdCpVmlBoJ75B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Beth Hirsch",
+          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
+        }
+      ],
+      "duration_ms": 268306,
+      "name": "All I Need (feat. Beth Hirsch)",
+      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
     },
     {
       "added_at": null,
@@ -471,38 +423,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "death bed (coffee for your head)",
-        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
       },
       "artists": [
         {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 173333,
-      "name": "death bed (coffee for your head)",
-      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Navajo",
-        "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 194157,
-      "name": "Navajo",
-      "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
+      "duration_ms": 233973,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The Stars",
+        "url": "https://open.spotify.com/album/1A3tS1C0LZrWHa8FyTm8lK"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "Saavan",
+          "url": "https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U"
+        }
+      ],
+      "duration_ms": 158286,
+      "name": "All The Stars",
+      "url": "https://open.spotify.com/track/3YDjXk0eiQm2Qd8cr5ssBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirror Conspiracy",
+        "url": "https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 288826,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/6SbuufeFjg252z6GFG1lXV"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 198331,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm"
     },
     {
       "added_at": null,
@@ -527,66 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1irlXNpTI0R1aIAVnf6ew9"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "id 072019",
-        "url": "https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS"
-      },
-      "artists": [
-        {
-          "name": "W/N",
-          "url": "https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD"
-        }
-      ],
-      "duration_ms": 271704,
-      "name": "id 072019",
-      "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
+      "duration_ms": 273162,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4p1NHiFP4PfV7eW1183Ej9"
     },
     {
       "added_at": null,
@@ -607,102 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1ILCNYIXgZDFsS0B6MNvCY"
-      },
-      "artists": [
-        {
-          "name": "Home",
-          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
-        }
-      ],
-      "duration_ms": 212938,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/2NHkwSwm6C6eAX3z6xm7Uy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Banana Pancakes",
-      "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/4KZWx8zo5ym89aopr0dBIb"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/6EXi6ZqTITKGtVBKqbphjL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Calm",
-        "url": "https://open.spotify.com/album/1ILnMWNKUXzcXug4Tq2JRP"
-      },
-      "artists": [
-        {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
-        }
-      ],
-      "duration_ms": 347280,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0xjkgYSzHjBZNvyUaC9cXX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -712,9 +568,65 @@
           "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
+      },
+      "artists": [
+        {
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
+        },
+        {
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+        }
+      ],
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
+        }
+      ],
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Feel",
+        "url": "https://open.spotify.com/album/2HFeMx52AWy5tyAXN9Gj2z"
+      },
+      "artists": [
+        {
+          "name": "TEEMID",
+          "url": "https://open.spotify.com/artist/6zGCrS2y63IEUJfyn9Bpuc"
+        }
+      ],
+      "duration_ms": 213974,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/0BQ4zIMESy75Qf2HeMi4ds"
     },
     {
       "added_at": null,
@@ -739,50 +651,90 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
       },
       "artists": [
         {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 426614,
-      "name": "La femme d'argent",
-      "url": "https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C"
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 271733,
-      "name": "Small Worlds",
-      "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/1PuFhcKSZmJQlaBPVf8CIb"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/5vOUYERtWnw7CfrxktLrK2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navajo",
+        "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 194157,
+      "name": "Navajo",
+      "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
     },
     {
       "added_at": null,
@@ -803,34 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "summer,",
-        "url": "https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "comethru",
-      "url": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
-      },
-      "artists": [
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
         {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 127920,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j"
+      "duration_ms": 133762,
+      "name": "Yebba\u2019s Heartbreak",
+      "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
     },
     {
       "added_at": null,
@@ -851,6 +791,98 @@
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clocks",
+        "url": "https://open.spotify.com/album/2T9UHc2fOh1qT6hGTz6FrU"
+      },
+      "artists": [
+        {
+          "name": "Alex Baker",
+          "url": "https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo"
+        },
+        {
+          "name": "Sahara Moon",
+          "url": "https://open.spotify.com/artist/5RUp8dOgNYNeLXIm3mhEiS"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/7nqeKUkuQb3pIiNUas2FEV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
+        "url": "https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ"
+      },
+      "artists": [
+        {
+          "name": "Madihu",
+          "url": "https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN"
+        },
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        }
+      ],
+      "duration_ms": 241919,
+      "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
+      "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tastes Like Velvet",
+        "url": "https://open.spotify.com/album/4IEJ3XEZUxzjNrdbFyYm5y"
+      },
+      "artists": [
+        {
+          "name": "Kapa Boy",
+          "url": "https://open.spotify.com/artist/02WFtZreToLN0ARfpZukYI"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 123560,
+      "name": "Hesitation",
+      "url": "https://open.spotify.com/track/3HDsUtYD9XztWhwQY2smjt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     }
   ],
   "unique_name": "Chill Mix",

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 368225,
+  "num_followers": 368276,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu"
-      },
-      "artists": [
-        {
-          "name": "BXKS",
-          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
-        },
-        {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
-        }
-      ],
-      "duration_ms": 139680,
-      "name": "Excuse Me",
-      "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        },
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "duration_ms": 139680,
+      "name": "Excuse Me",
+      "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "Earcandy",
-        "url": "https://open.spotify.com/album/7p0eOkAgv8m9g59wprb0L0"
-      },
-      "artists": [
-        {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "Done.",
-      "url": "https://open.spotify.com/track/7rxtStGAWSUYhMoXAdIQzj"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
         "name": "ILLUSIONS Pt. II",
         "url": "https://open.spotify.com/album/2oRN202MZsHOTJacPOYeZv"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 183053,
       "name": "ILLUSIONS Pt. II",
       "url": "https://open.spotify.com/track/6ro3scqAcujWPUd13k590j"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
+        "name": "Earcandy",
+        "url": "https://open.spotify.com/album/7p0eOkAgv8m9g59wprb0L0"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "duration_ms": 155546,
+      "name": "Done.",
+      "url": "https://open.spotify.com/track/7rxtStGAWSUYhMoXAdIQzj"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -1387,18 +1387,22 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "Change (Edit)",
-        "url": "https://open.spotify.com/album/4LZzcVZ5K0CNbnEypXeWVp"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
         }
       ],
-      "duration_ms": 211620,
-      "name": "Change - Edit",
-      "url": "https://open.spotify.com/track/3tigqLQ5aJe2Ngl0OqbLVg"
+      "duration_ms": 169943,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
     }
   ],
   "unique_name": "Soultronic",

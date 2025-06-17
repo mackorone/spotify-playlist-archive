@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,698 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,722 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 57 | [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EKELEBE \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw) | 3:42 |
 | 58 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
 | 59 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
-| 60 | [2025](https://open.spotify.com/track/6ByrGBVtpOGYIxyDc5XQYJ) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [2025](https://open.spotify.com/album/6QhHyhSidIqwPEQzWCWeig) | 3:18 |
-| 61 | [Push It](https://open.spotify.com/track/6ljHcnMZWFWI6yi3KR6Elh) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Push It](https://open.spotify.com/album/6tIveFyAHJc6EHKxbDQxHY) | 3:18 |
-| 62 | [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 |
-| 63 | [Honne \- Remix](https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [Honne \(Remix\)](https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA) | 2:56 |
+| 60 | [FUNNY FUNNY](https://open.spotify.com/track/2tuCFd3eFNt2wRwI5IKnKx) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [BEFORE I WAS BORN](https://open.spotify.com/album/2JFUfsrtn3A3WzovXRIzk8) | 2:47 |
+| 61 | [2025](https://open.spotify.com/track/6ByrGBVtpOGYIxyDc5XQYJ) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [2025](https://open.spotify.com/album/6QhHyhSidIqwPEQzWCWeig) | 3:18 |
+| 62 | [Push It](https://open.spotify.com/track/6ljHcnMZWFWI6yi3KR6Elh) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Push It](https://open.spotify.com/album/6tIveFyAHJc6EHKxbDQxHY) | 3:18 |
+| 63 | [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 |
 | 64 | [EKWE](https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [EKWE](https://open.spotify.com/album/4NKJzYRQc1POilG4lil3IN) | 2:31 |
-| 65 | [Bluff](https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:05 |
-| 66 | [FUNNY FUNNY](https://open.spotify.com/track/2tuCFd3eFNt2wRwI5IKnKx) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [BEFORE I WAS BORN](https://open.spotify.com/album/2JFUfsrtn3A3WzovXRIzk8) | 2:47 |
+| 65 | [Honne \- Remix](https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [Honne \(Remix\)](https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA) | 2:56 |
+| 66 | [Bluff](https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:05 |
 | 67 | [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 |
 | 68 | [the get back](https://open.spotify.com/track/4IQP1L4qKPamrOrfL7WdAZ) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Kill The King: the mixtape](https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t) | 3:05 |
 | 69 | [Raindrops](https://open.spotify.com/track/3A4hfcOXYkK8ToJWudDrtg) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Raindrops](https://open.spotify.com/album/7rkPwpqJslMoMXDD68il3O) | 3:13 |
-| 70 | [coMPRess](https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [coMPRess](https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK) | 3:14 |
+| 70 | [BONIFACE](https://open.spotify.com/track/5AFItM5SVDczk1FE7RzLGZ) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [BONIFACE](https://open.spotify.com/album/2p4DiGEh1t9B43kfIDt2xM) | 2:08 |
 
 Snapshot ID: `aEtqWQAAAAAA5pScbX+tGIN5etsfy19A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13MnpMBzJn80fGK6518dNJ">Matt Schaeffer \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 23 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 23 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 | 22 | [Born In this Body](https://open.spotify.com/track/6vVxRyk3UieTug5o9ZeUhA) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:22 |
 | 23 | [Happy Head](https://open.spotify.com/track/7EzefciQSXjQdWQH58cv5l) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:06 |
 
-Snapshot ID: `Ab0PKAAAAAB3cuNTStEvmCjpkNmuoiWD`
+Snapshot ID: `Ab0UlgAAAAAYkfisQ6UkKIljpmJ4Dt03`

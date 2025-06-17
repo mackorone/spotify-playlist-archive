@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40867,
+  "num_followers": 40866,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAD1BkzSqFn3guZcNrIUVNh4",
+  "snapshot_id": "aE4NAAAAAACtdfsTnxB1IF3SuPBqHidg",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
+        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 36948,
+      "name": "prelude",
+      "url": "https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Everlasting Guilty Crown",
         "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 90260,
       "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
       "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
-        "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 36948,
-      "name": "prelude",
-      "url": "https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue"
     },
     {
       "added_at": null,

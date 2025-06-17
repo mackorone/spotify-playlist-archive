@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,066 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,064 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 45 | [I Got A Shot](https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:18 |
 | 46 | [The Games We Play](https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 2:46 |
 | 47 | [Purple Reign](https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 4:01 |
-| 48 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 |
-| 49 | [It's A Pity](https://open.spotify.com/track/0oWha7OKAqQwFZymfthIEV) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Gangsta Blues](https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn) | 4:14 |
+| 48 | [It's A Pity](https://open.spotify.com/track/0oWha7OKAqQwFZymfthIEV) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Gangsta Blues](https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn) | 4:14 |
+| 49 | [La Vie en rose](https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 7:28 |
 | 50 | [Scenario](https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 4:01 |
 
 Snapshot ID: `ZIsTuwAAAABawdl4LshTBrlzzg9VK1pB`

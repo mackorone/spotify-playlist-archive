@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Camille, DYSTINCT & J Balvin, Sylvie Kreusch and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,272 likes - 94 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,275 likes - 94 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 4 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
 | 5 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 |
 | 6 | [Met Of Zonder Jou](https://open.spotify.com/track/50r336QFLPk8QsqpLpOl1d) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Met Of Zonder Jou](https://open.spotify.com/album/7u4YPHI7JyroRi7vRxDnVH) | 2:54 |
-| 7 | [Solàr \(feat\. K1D\)](https://open.spotify.com/track/1lZioc9JUaOMmrhJqk0azV) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [Solàr \(feat\. K1D\)](https://open.spotify.com/album/3wjqskiTu3ftJlDxaus8Z8) | 3:15 |
+| 7 | [Solàr \(feat\. K1D\)](https://open.spotify.com/track/1lZioc9JUaOMmrhJqk0azV) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [Solàr \(feat\. K1D\)](https://open.spotify.com/album/3wjqskiTu3ftJlDxaus8Z8) | 3:15 |
 | 8 | [COMÈTE](https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [COMÈTE](https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s) | 2:26 |
 | 9 | [Adem \(feat\. Mathieu Terryn\)](https://open.spotify.com/track/3RkUTGzeKr96v6CLYPKMNu) | [DAUW](https://open.spotify.com/artist/6cxCYDdMqsDfW8v5F6345S), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Adem \(feat\. Mathieu Terryn\)](https://open.spotify.com/album/3yS6dr8t5arlTYFtyYdCQR) | 3:26 |
 | 10 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 |

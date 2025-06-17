@@ -6,218 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEZcQAAAAAA1BEiNuk1sL6JbiXpXiBNA",
+  "snapshot_id": "aE+WwAAAAACjG8Wdh8PEYtmEMw92szQs",
   "tracks": [
     {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Desapego",
-        "url": "https://open.spotify.com/album/26eASaeYotPzwBaXfCNAFX"
-      },
-      "artists": [
-        {
-          "name": "Tenso",
-          "url": "https://open.spotify.com/artist/0Z3kjDbwFJLJR4D2ChSNqL"
-        }
-      ],
-      "duration_ms": 126293,
-      "name": "Desapego",
-      "url": "https://open.spotify.com/track/5J0WyDCb6qM5vQSpYFYbCb"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Mal Momento",
-        "url": "https://open.spotify.com/album/6U5GRDRvit5ByPpKOx5vQ7"
-      },
-      "artists": [
-        {
-          "name": "Mal Momento",
-          "url": "https://open.spotify.com/artist/3e10QpiUTMOykbAe9AAkbn"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Corriendo el Riesgo",
-      "url": "https://open.spotify.com/track/25dABHno5cdrvdRC7Jhf4N"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "El Fin Justifica Los Medios",
-        "url": "https://open.spotify.com/album/2OeTmX0lHpvie6G0AwmPf4"
-      },
-      "artists": [
-        {
-          "name": "Los Suziox",
-          "url": "https://open.spotify.com/artist/6FFYBQ0mb0ODCREHgYq1uo"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Armas Silenciosas",
-      "url": "https://open.spotify.com/track/1fv1lK6oNbQeJ1QIBolaSt"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 188639,
-      "name": "R\u00edo Paran\u00e1",
-      "url": "https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Gonwana Pangea",
-        "url": "https://open.spotify.com/album/5lMOIzZWmmhdtV5vpFBhz2"
-      },
-      "artists": [
-        {
-          "name": "VDH",
-          "url": "https://open.spotify.com/artist/7Jymsw3qVHpYUuV8F2IHxl"
-        }
-      ],
-      "duration_ms": 137535,
-      "name": "Gonwana Pangea",
-      "url": "https://open.spotify.com/track/3V5FfDghjy0sK0IyRnXHhH"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "curao ,volao y con bajon (disco completo)",
-        "url": "https://open.spotify.com/album/0kqXgrsvwuKe3V5HRx2n8i"
-      },
-      "artists": [
-        {
-          "name": "sapu punk",
-          "url": "https://open.spotify.com/artist/3LCCT90ciBuDoUdSYJnZJZ"
-        }
-      ],
-      "duration_ms": 145821,
-      "name": "no soy nada",
-      "url": "https://open.spotify.com/track/5bvFH6wpJ8NBwvi1l7IYTN"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Rock en Espa\u00f1ol - Lo Mejor de Santa Sabina",
-        "url": "https://open.spotify.com/album/2LddSTGHKllDX9vLwc9PGH"
-      },
-      "artists": [
-        {
-          "name": "Santa Sabina",
-          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
-        }
-      ],
-      "duration_ms": 243586,
-      "name": "El \u00c1ngel",
-      "url": "https://open.spotify.com/track/7yqP4eFnoDPTKXDV4EmO6f"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Caretofobia, Vol. 1",
-        "url": "https://open.spotify.com/album/6NwNSPDfd8s8ZacilDhou1"
-      },
-      "artists": [
-        {
-          "name": "Flema",
-          "url": "https://open.spotify.com/artist/2E0SVBO1NkyVTl7PDmGGw4"
-        }
-      ],
-      "duration_ms": 133080,
-      "name": "Siempre Estoy Dado Vuelta",
-      "url": "https://open.spotify.com/track/2yFHNpeThnj1EuOON5thBU"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Dolores Delirio (En Vivo)",
-        "url": "https://open.spotify.com/album/0aQ2qPjbM6wR50c90P1nNE"
-      },
-      "artists": [
-        {
-          "name": "Dolores Delirio",
-          "url": "https://open.spotify.com/artist/2VgyvIB7rkMHJLzkMtUOSI"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "Aprendizaje - En Vivo",
-      "url": "https://open.spotify.com/track/0EyDQQYrbIRj4wE5EXBYID"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Buried In Time",
-        "url": "https://open.spotify.com/album/6kdAWkkE7sgT1A9940cVGK"
-      },
-      "artists": [
-        {
-          "name": "Diva Destruction",
-          "url": "https://open.spotify.com/artist/0sihUgNjtwDbiNP1GPU0nO"
-        }
-      ],
-      "duration_ms": 212097,
-      "name": "Buried In Time",
-      "url": "https://open.spotify.com/track/7DumX72PRyhqkSNdxLkqiu"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Un Kilme Resucitado",
-        "url": "https://open.spotify.com/album/4TAzjzKt9uX8a2QZa1VHE8"
-      },
-      "artists": [
-        {
-          "name": "Sin Ley",
-          "url": "https://open.spotify.com/artist/7czgdE1A5cjIIp5J4qtANj"
-        }
-      ],
-      "duration_ms": 155079,
-      "name": "Una y otra vez",
-      "url": "https://open.spotify.com/track/6bBNSspsdeJNQUZyy7DfQM"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Death Church",
-        "url": "https://open.spotify.com/album/0KXkZEPaYRXHOtYtTjrHbI"
-      },
-      "artists": [
-        {
-          "name": "Rudimentary Peni",
-          "url": "https://open.spotify.com/artist/6NCFDKbtkbJhgjQcFicLBi"
-        }
-      ],
-      "duration_ms": 108622,
-      "name": "Blissful Myth",
-      "url": "https://open.spotify.com/track/7zplWoMjOi5XJJJgSHoJ7O"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Anti Todo",
-        "url": "https://open.spotify.com/album/0a8VPhi07ueOcaMpW8Ay0t"
-      },
-      "artists": [
-        {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "Es un Crimen",
-      "url": "https://open.spotify.com/track/3gxEDynxwbFLLRUdgs4qmc"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
         "name": "Las Palabras y los R\u00edos",
         "url": "https://open.spotify.com/album/406lGnyYFtNJkEBSv8PRPh"
@@ -233,231 +25,139 @@
       "url": "https://open.spotify.com/track/412o5uEQRtVXJS4IBePOzC"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
-        "name": "1980-1986",
-        "url": "https://open.spotify.com/album/0beVnWultZuOL4gi7Dv4qM"
+        "name": "Mal Momento",
+        "url": "https://open.spotify.com/album/6U5GRDRvit5ByPpKOx5vQ7"
       },
       "artists": [
         {
-          "name": "Dicks",
-          "url": "https://open.spotify.com/artist/5Sn4sDRaxbilWiTNmuUuqU"
+          "name": "Mal Momento",
+          "url": "https://open.spotify.com/artist/3e10QpiUTMOykbAe9AAkbn"
         }
       ],
-      "duration_ms": 112933,
-      "name": "Lifetime Problems",
-      "url": "https://open.spotify.com/track/4UT8w0BVSfi69Zz3YQ2mYm"
+      "duration_ms": 184000,
+      "name": "Corriendo el Riesgo",
+      "url": "https://open.spotify.com/track/25dABHno5cdrvdRC7Jhf4N"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
-        "name": "Agotados de esperar el fin",
-        "url": "https://open.spotify.com/album/32he74feHMqHYrG8lE7nou"
+        "name": "Un Kilme Resucitado",
+        "url": "https://open.spotify.com/album/4TAzjzKt9uX8a2QZa1VHE8"
       },
       "artists": [
         {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/2laDE3zsNJYoX7n8nF3YPJ"
+          "name": "Sin Ley",
+          "url": "https://open.spotify.com/artist/7czgdE1A5cjIIp5J4qtANj"
         }
       ],
-      "duration_ms": 200253,
-      "name": "La chica del club de golf",
-      "url": "https://open.spotify.com/track/5LUUbSCXGj0g6cZB8x9usL"
+      "duration_ms": 155079,
+      "name": "Una y otra vez",
+      "url": "https://open.spotify.com/track/6bBNSspsdeJNQUZyy7DfQM"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
-        "name": "Las Alas del Emperador",
-        "url": "https://open.spotify.com/album/6oOyCY2hqezPJ8qeaaZEtz"
+        "name": "curao ,volao y con bajon (disco completo)",
+        "url": "https://open.spotify.com/album/0kqXgrsvwuKe3V5HRx2n8i"
       },
       "artists": [
         {
-          "name": "Transmetal",
-          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
+          "name": "sapu punk",
+          "url": "https://open.spotify.com/artist/3LCCT90ciBuDoUdSYJnZJZ"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Orgasmatron",
-      "url": "https://open.spotify.com/track/4nnT0qigMroABs8CZ84AZP"
+      "duration_ms": 145821,
+      "name": "no soy nada",
+      "url": "https://open.spotify.com/track/5bvFH6wpJ8NBwvi1l7IYTN"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
-        "name": "Abrecaminos",
-        "url": "https://open.spotify.com/album/1P7zVdVQXUjKhcFERsF8VD"
+        "name": "Buried In Time",
+        "url": "https://open.spotify.com/album/6kdAWkkE7sgT1A9940cVGK"
       },
       "artists": [
         {
-          "name": "El Otro Yo",
-          "url": "https://open.spotify.com/artist/3iSYxEandRd7lJSmxWHXkk"
+          "name": "Diva Destruction",
+          "url": "https://open.spotify.com/artist/0sihUgNjtwDbiNP1GPU0nO"
         }
       ],
-      "duration_ms": 234987,
-      "name": "La M\u00fasica",
-      "url": "https://open.spotify.com/track/4cGlwyCcE6GCwzVfgGcVoF"
+      "duration_ms": 212097,
+      "name": "Buried In Time",
+      "url": "https://open.spotify.com/track/7DumX72PRyhqkSNdxLkqiu"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
-        "name": "Apoyo Emocional",
-        "url": "https://open.spotify.com/album/1G5jvDrtoyDSZGz9juVFqb"
+        "name": "Con la Muerte a Tu Lado",
+        "url": "https://open.spotify.com/album/0vy0RM5G5reYqkZhz4uW7G"
       },
       "artists": [
         {
-          "name": "Estoy Bien",
-          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
+          "name": "Generacion Suicida",
+          "url": "https://open.spotify.com/artist/4mviM2J8Dy8kE2RgEGqu6l"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/0mAEw87LISH7QkMkZOdvLE"
+      "duration_ms": 162973,
+      "name": "Mil Amores",
+      "url": "https://open.spotify.com/track/5EGkFcIEzCVTxXNhlbyvNN"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
-        "name": "The Kill You E.P.",
-        "url": "https://open.spotify.com/album/6cbiJGHh0ko7TPvCWlqkao"
+        "name": "CONSTIMORDOR",
+        "url": "https://open.spotify.com/album/0nGIYfb1hiKYK3LH1rd8vP"
       },
       "artists": [
         {
-          "name": "Darling Violetta",
-          "url": "https://open.spotify.com/artist/3FJZjPrVOtr2yZNLp1lH3X"
+          "name": "BARRO",
+          "url": "https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41"
+        },
+        {
+          "name": "Juli\u00e1n Guerreiro",
+          "url": "https://open.spotify.com/artist/4nvgthmK2wvzDGInKlJvrn"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Spoiled & Rotten",
-      "url": "https://open.spotify.com/track/4hNVU19l1q6xtvQ3ipd9En"
+      "duration_ms": 187149,
+      "name": "NUNCA PEDI NACER",
+      "url": "https://open.spotify.com/track/6kfhVGfDRqiGYe4uDexFon"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
-        "name": "Brutalism (2017 Remaster)",
-        "url": "https://open.spotify.com/album/5j9XhNZPjQLEuDFkqK0Jru"
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
       },
       "artists": [
         {
-          "name": "Cubanate",
-          "url": "https://open.spotify.com/artist/1f2UERlvzYy5p353A4Gh44"
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
         }
       ],
-      "duration_ms": 234256,
-      "name": "Body Burn - 2017 Remaster",
-      "url": "https://open.spotify.com/track/6H9Q6i3TmgRHQjG3aWdp4t"
+      "duration_ms": 188639,
+      "name": "R\u00edo Paran\u00e1",
+      "url": "https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
-        "name": "Toda la Puta Vida Igual",
-        "url": "https://open.spotify.com/album/2EkiweBIxMFWxUq7mPR3Zd"
+        "name": "Gonwana Pangea",
+        "url": "https://open.spotify.com/album/5lMOIzZWmmhdtV5vpFBhz2"
       },
       "artists": [
         {
-          "name": "La Polla Records",
-          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
+          "name": "VDH",
+          "url": "https://open.spotify.com/artist/7Jymsw3qVHpYUuV8F2IHxl"
         }
       ],
-      "duration_ms": 193760,
-      "name": "d\u00eda Positivo",
-      "url": "https://open.spotify.com/track/0SvWjEzQbFRYF1XPEejCE7"
+      "duration_ms": 137535,
+      "name": "Gonwana Pangea",
+      "url": "https://open.spotify.com/track/3V5FfDghjy0sK0IyRnXHhH"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Feel the Darkness (2018 Reissue)",
-        "url": "https://open.spotify.com/album/6bAd8zltIpmJKtcqCCIWkP"
-      },
-      "artists": [
-        {
-          "name": "Poison Idea",
-          "url": "https://open.spotify.com/artist/3HSNI061dY6dxEzvZczIdI"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Plastic Bomb",
-      "url": "https://open.spotify.com/track/6YW9L7S2Kc0fxYLzwCx3ba"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "25 A\u00f1os Y Todo Sigue Igual",
-        "url": "https://open.spotify.com/album/319h2yUH80iLnx0VFUJxoe"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 165140,
-      "name": "Pisagua 1973",
-      "url": "https://open.spotify.com/track/547QNbcmrZOP88UzYVJ3JT"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Naturaleza Muerta",
-        "url": "https://open.spotify.com/album/1kG4c52segcmIo80Dl7Plp"
-      },
-      "artists": [
-        {
-          "name": "OConnor",
-          "url": "https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN"
-        }
-      ],
-      "duration_ms": 260330,
-      "name": "Jungla",
-      "url": "https://open.spotify.com/track/1rJ2cnYGb4LRKrEveAMkRO"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "Los El\u00e1sticos",
-        "url": "https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD"
-      },
-      "artists": [
-        {
-          "name": "Los Elasticos",
-          "url": "https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Pirakor",
-      "url": "https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/7KQiAvdG1gQDh2iXZW87fq"
-      },
-      "artists": [
-        {
-          "name": "The Adicts",
-          "url": "https://open.spotify.com/artist/5f5B8Zd0xuvmcDin3oK76F"
-        }
-      ],
-      "duration_ms": 95333,
-      "name": "Love Sucks",
-      "url": "https://open.spotify.com/track/0JyFSpjuXZoC21ef2ERX4h"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
-      "album": {
-        "name": "EL PODER DE LOS INCREDULOS",
-        "url": "https://open.spotify.com/album/2dZqyhtKzbxF5IKDtZMDw1"
-      },
-      "artists": [
-        {
-          "name": "Los Mentirosos",
-          "url": "https://open.spotify.com/artist/4QWL4JzrkjNABALNa7uwWs"
-        }
-      ],
-      "duration_ms": 265456,
-      "name": "HOLA",
-      "url": "https://open.spotify.com/track/4WxbGqdDK9Z9HBZGbaPDNA"
-    },
-    {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
         "name": "Vinterskugge",
         "url": "https://open.spotify.com/album/2dsVgTs3Tt777BmabnXLwd"
@@ -473,20 +173,324 @@
       "url": "https://open.spotify.com/track/4NnktG8oinKZtxGvFJv9A6"
     },
     {
-      "added_at": "2025-06-09 04:00:00",
+      "added_at": "2025-06-16 04:00:00",
       "album": {
-        "name": "Con la Muerte a Tu Lado",
-        "url": "https://open.spotify.com/album/0vy0RM5G5reYqkZhz4uW7G"
+        "name": "Naturaleza Muerta",
+        "url": "https://open.spotify.com/album/1kG4c52segcmIo80Dl7Plp"
       },
       "artists": [
         {
-          "name": "Generacion Suicida",
-          "url": "https://open.spotify.com/artist/4mviM2J8Dy8kE2RgEGqu6l"
+          "name": "OConnor",
+          "url": "https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN"
         }
       ],
-      "duration_ms": 162973,
-      "name": "Mil Amores",
-      "url": "https://open.spotify.com/track/5EGkFcIEzCVTxXNhlbyvNN"
+      "duration_ms": 260330,
+      "name": "Jungla",
+      "url": "https://open.spotify.com/track/1rJ2cnYGb4LRKrEveAMkRO"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Hardcore para Se\u00f1oritas (Reedici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/40xoJzyncfZZtVTZDFYQRk"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "El Regreso",
+      "url": "https://open.spotify.com/track/04l32IumKKAv4Wj06Af9AA"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Rock en Espa\u00f1ol - Lo Mejor de Santa Sabina",
+        "url": "https://open.spotify.com/album/2LddSTGHKllDX9vLwc9PGH"
+      },
+      "artists": [
+        {
+          "name": "Santa Sabina",
+          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "El \u00c1ngel",
+      "url": "https://open.spotify.com/track/7yqP4eFnoDPTKXDV4EmO6f"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "EL PODER DE LOS INCREDULOS",
+        "url": "https://open.spotify.com/album/2dZqyhtKzbxF5IKDtZMDw1"
+      },
+      "artists": [
+        {
+          "name": "Los Mentirosos",
+          "url": "https://open.spotify.com/artist/4QWL4JzrkjNABALNa7uwWs"
+        }
+      ],
+      "duration_ms": 265456,
+      "name": "HOLA",
+      "url": "https://open.spotify.com/track/4WxbGqdDK9Z9HBZGbaPDNA"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Deicide (Reissue)",
+        "url": "https://open.spotify.com/album/2gdL5FVb9weq5fVFa7Qw5F"
+      },
+      "artists": [
+        {
+          "name": "Deicide",
+          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Carnage in the Temple of the Damned",
+      "url": "https://open.spotify.com/track/1hAnBUMPk1EMEeEiVIy2f9"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "There's Always Blood At The End Of The Road",
+        "url": "https://open.spotify.com/album/0hpFRZEgy6k8J7gS29F0Q4"
+      },
+      "artists": [
+        {
+          "name": "Wiegedood",
+          "url": "https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb"
+        }
+      ],
+      "duration_ms": 247409,
+      "name": "FN SCAR 16",
+      "url": "https://open.spotify.com/track/2H9dio3RZRAzUQwkVvoYJt"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/7KQiAvdG1gQDh2iXZW87fq"
+      },
+      "artists": [
+        {
+          "name": "The Adicts",
+          "url": "https://open.spotify.com/artist/5f5B8Zd0xuvmcDin3oK76F"
+        }
+      ],
+      "duration_ms": 95333,
+      "name": "Love Sucks",
+      "url": "https://open.spotify.com/track/0JyFSpjuXZoC21ef2ERX4h"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "El Fin Justifica Los Medios",
+        "url": "https://open.spotify.com/album/2OeTmX0lHpvie6G0AwmPf4"
+      },
+      "artists": [
+        {
+          "name": "Los Suziox",
+          "url": "https://open.spotify.com/artist/6FFYBQ0mb0ODCREHgYq1uo"
+        }
+      ],
+      "duration_ms": 204103,
+      "name": "De Donde Sale El Dinero",
+      "url": "https://open.spotify.com/track/0obkb3WBegEadmP2YKNuNc"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Caretofobia, Vol. 1",
+        "url": "https://open.spotify.com/album/6NwNSPDfd8s8ZacilDhou1"
+      },
+      "artists": [
+        {
+          "name": "Flema",
+          "url": "https://open.spotify.com/artist/2E0SVBO1NkyVTl7PDmGGw4"
+        }
+      ],
+      "duration_ms": 133080,
+      "name": "Siempre Estoy Dado Vuelta",
+      "url": "https://open.spotify.com/track/2yFHNpeThnj1EuOON5thBU"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Toda la Puta Vida Igual",
+        "url": "https://open.spotify.com/album/2EkiweBIxMFWxUq7mPR3Zd"
+      },
+      "artists": [
+        {
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "d\u00eda Positivo",
+      "url": "https://open.spotify.com/track/0SvWjEzQbFRYF1XPEejCE7"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "II (Reissue Version)",
+        "url": "https://open.spotify.com/album/6l9MzqaxA1EYZMuSFbLnHW"
+      },
+      "artists": [
+        {
+          "name": "Fief",
+          "url": "https://open.spotify.com/artist/6wrcXTfXvKpP1HMpox9612"
+        }
+      ],
+      "duration_ms": 230839,
+      "name": "Dawnlight Warms the Castle Stone",
+      "url": "https://open.spotify.com/track/4KXIOg7Cw4ByykZ5HRkPEb"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "La Burbuja",
+        "url": "https://open.spotify.com/album/64daAULCOF1SZn941JIwQZ"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "No Es Amor (adi\u00f3s Castigo)",
+      "url": "https://open.spotify.com/track/4bPoi7nS09Oh2DnEB0WsUS"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Vacaciones En El Prat + Oi!",
+        "url": "https://open.spotify.com/album/6LiJrAYOOKkcxBHoLm8NnH"
+      },
+      "artists": [
+        {
+          "name": "Decibelios",
+          "url": "https://open.spotify.com/artist/35sghW2437ESb7J1DBn3zs"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Ning\u00fan nombre de mujer",
+      "url": "https://open.spotify.com/track/6xmHTMHpBLeh493Ez6SMZv"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "The Punk Terrorist Anthology Vol. 1",
+        "url": "https://open.spotify.com/album/5elWv25uzk6dBO60u14NyA"
+      },
+      "artists": [
+        {
+          "name": "Nausea",
+          "url": "https://open.spotify.com/artist/2ppBcpxOqehpLJuJQIRnKM"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Here Today",
+      "url": "https://open.spotify.com/track/3hH6WXsP2sX6lDtgNm0Ewx"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "The Kill You E.P.",
+        "url": "https://open.spotify.com/album/6cbiJGHh0ko7TPvCWlqkao"
+      },
+      "artists": [
+        {
+          "name": "Darling Violetta",
+          "url": "https://open.spotify.com/artist/3FJZjPrVOtr2yZNLp1lH3X"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Spoiled & Rotten",
+      "url": "https://open.spotify.com/track/4hNVU19l1q6xtvQ3ipd9En"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Visi\u00f3n de Futuro",
+        "url": "https://open.spotify.com/album/0PyM8gRX37KoBotNGPPeqm"
+      },
+      "artists": [
+        {
+          "name": "Finale",
+          "url": "https://open.spotify.com/artist/1VEmYmWXlco4Jf3lD4oICe"
+        }
+      ],
+      "duration_ms": 103626,
+      "name": "Depresi\u00f3n",
+      "url": "https://open.spotify.com/track/7y0E7RGsp5boPI8WbsQTqD"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "The Art(E) of Romance",
+        "url": "https://open.spotify.com/album/45Fsg6GV0AToMFyopZMFBk"
+      },
+      "artists": [
+        {
+          "name": "Fun People",
+          "url": "https://open.spotify.com/artist/11wlHSvQVZGIJ5D1sTsihZ"
+        }
+      ],
+      "duration_ms": 114373,
+      "name": "Vientos",
+      "url": "https://open.spotify.com/track/3cetxRqZToUg1EnvcmOd2J"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Las Alas del Emperador",
+        "url": "https://open.spotify.com/album/6oOyCY2hqezPJ8qeaaZEtz"
+      },
+      "artists": [
+        {
+          "name": "Transmetal",
+          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Orgasmatron",
+      "url": "https://open.spotify.com/track/4nnT0qigMroABs8CZ84AZP"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Vitrioli",
+        "url": "https://open.spotify.com/album/3as8D8sQme1il9W9o1MCs6"
+      },
+      "artists": [
+        {
+          "name": "Selofan",
+          "url": "https://open.spotify.com/artist/1StVGGYOC5FM3aNpJQ74Vj"
+        }
+      ],
+      "duration_ms": 195642,
+      "name": "Vitrioli",
+      "url": "https://open.spotify.com/track/3wWzGmd7gBBijifqExipEg"
+    },
+    {
+      "added_at": "2025-06-16 04:00:00",
+      "album": {
+        "name": "Vengeance",
+        "url": "https://open.spotify.com/album/6FGBRj83Ml0qLnQCVsqtMM"
+      },
+      "artists": [
+        {
+          "name": "Tragedy",
+          "url": "https://open.spotify.com/artist/6H0LnhDF6W7g2H234i6z3Q"
+        }
+      ],
+      "duration_ms": 275839,
+      "name": "Conflicting Ideas",
+      "url": "https://open.spotify.com/track/5o15dbqEK0jd0YkJzFiFoQ"
     }
   ],
   "unique_name": "Discover Weekly (@pipemanuel10)",

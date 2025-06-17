@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,455 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,530 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 19 | [Moonglow and Theme from Picnic](https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:44 |
 | 20 | [Market Day](https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [A Swingin' Safari \(Remastered\)](https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5) | 2:30 |
 | 21 | [Tennessee Waltz \(with Boston Pops Orchestra\)](https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [The Pops Goes Country \(with Boston Pops Orchestra\)](https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq) | 2:43 |
-| 22 | [Autumn in New York](https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 3:36 |
-| 23 | [Night Side](https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Hatari!](https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ) | 3:23 |
+| 22 | [Night Side](https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Hatari!](https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ) | 3:23 |
+| 23 | [Autumn in New York](https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 3:36 |
 | 24 | [Fools Rush In \(Where Angels Fear to Tread\)](https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:08 |
 | 25 | [Theme from Picnic \- Remastered](https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0) | [Russ Conway](https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60) | [The Piano Legend \(Remastered\)](https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV) | 3:23 |
 | 26 | [Lonely Nightingale](https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:57 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 35 | [The Song from 'moulin Rouge' \(Where Is Your Heart\)](https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Music From Hollywood](https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4) | 5:51 |
 | 36 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
 | 37 | [Gone With The Wind](https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:17 |
-| 38 | [If I Had You](https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [A Band Is Born](https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU) | 3:25 |
-| 39 | [Jean](https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The America Album](https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW) | 4:24 |
+| 38 | [Jean](https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The America Album](https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW) | 4:24 |
+| 39 | [If I Had You](https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [A Band Is Born](https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU) | 3:25 |
 | 40 | [Moon over Miami](https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 4:04 |
 | 41 | [Stranger On The Shore](https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:11 |
 | 42 | [My Funny Valentine](https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music For Lovers Only](https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs) | 3:22 |

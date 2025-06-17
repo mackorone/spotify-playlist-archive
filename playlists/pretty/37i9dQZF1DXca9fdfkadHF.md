@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,624 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,645 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 59 | [Otra Mejor Que Tú](https://open.spotify.com/track/5gUp2GYPSZulV3q5ilvY7a) | [Los Datsuns](https://open.spotify.com/artist/7mLWJvI7Qjetu2WJZbz96L) | [Ritmo y Movimiento Con los Datsun´s](https://open.spotify.com/album/3OzwNkPFtLV2Mytl1f5Oc4) | 2:41 |
 | 60 | [Soledad](https://open.spotify.com/track/0bYlL7XNEvLC34f53mmqEO) | [Indigo](https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK) | [Indigo](https://open.spotify.com/album/10PdZeHhCFhOekUFsuNHlM) | 3:43 |
 
-Snapshot ID: `ZoRSJQAAAAC9caAlZALQJI8baB5rtWsu`
+Snapshot ID: `ZoRSJQAAAACeKL285ZM+ri4o7a5e4EBV`

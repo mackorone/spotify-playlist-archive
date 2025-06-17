@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-3,350 songs - 7 day 9 hr 24 min
+3,351 songs - 7 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2726,6 +2726,7 @@
 | [Se Yo](https://open.spotify.com/track/1dNDtsCf0m5aQ6SdpgyTo1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Se Yo](https://open.spotify.com/album/1Bgi3Kwi0hub7WFY3XKsXz) | 7:21 | 2022-10-07 | 2022-10-15 |
 | [Secret](https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Secret](https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw) | 3:10 | 2022-10-14 | 2022-10-29 |
 | [SECTEUR NORD](https://open.spotify.com/track/1jPKR5Qp0hBnnfr1wAsmuQ) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [SECTEUR NORD](https://open.spotify.com/album/0heOWpdaBo0kdx8BQNTS7K) | 2:50 | 2022-06-10 | 2022-06-18 |
+| [SELEK](https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:39 | 2025-06-13 |  |
 | [Selfish](https://open.spotify.com/track/2LGsOk9u5h996CJKCZEFp1) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête](https://open.spotify.com/album/3zHPFO2SKfxqEnRt6wYNSv) | 2:30 | 2025-05-30 | 2025-06-07 |
 | [Selma's Poem](https://open.spotify.com/track/1ZCNl1rU25UEOVu31CoB7O) | [Kid Riz](https://open.spotify.com/artist/3prhbrzge1TX4LaZRSfwme) | [Selma's Poem](https://open.spotify.com/album/3E96LH5gbN344RYRkY52Rk) | 2:49 | 2022-12-09 | 2023-01-14 |
 | [Semblant](https://open.spotify.com/track/3FNMxPJ85bFP2MGJyedZqB) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Semblant](https://open.spotify.com/album/1t3VYcOEPrrXHwVuIA8MY5) | 3:06 | 2022-04-08 | 2022-04-23 |
@@ -2928,7 +2929,7 @@
 | [TANNANCE](https://open.spotify.com/track/2p74T4FWsclCtwapawzKns) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/6fIKBMQsifEPji0NkpoLml) | [438](https://open.spotify.com/album/3r1jlLQDGr9fcc0VVC2NT2) | 4:00 | 2023-12-01 | 2023-12-16 |
 | [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 | 2023-10-27 | 2023-12-10 |
 | [Tant pis](https://open.spotify.com/track/6EhRIJXwQGvRDKj2clUB7W) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa), [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Tant pis](https://open.spotify.com/album/09JkdiPaoHgon6JOvFEan7) | 3:54 | 2024-07-19 | 2024-07-27 |
-| [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 | 2025-05-09 |  |
+| [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 | 2025-05-09 | 2025-06-17 |
 | [Tant étrange](https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm) | [Feathership](https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Tant étrange](https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2) | 3:29 | 2023-01-20 | 2023-01-28 |
 | [Tard dans la nuit](https://open.spotify.com/track/7CgZYRP3lA6S28F3plJ2bf) | [Mignon Bandit](https://open.spotify.com/artist/4iTJIo5yTKFlkHulNB6zUV) | [Tard dans la nuit](https://open.spotify.com/album/7jyeKRMIuT2413hbziPZur) | 2:07 | 2024-08-16 | 2024-08-24 |
 | [TARD LA NUIT](https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [DZ D’AMERIQUE](https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi) | 3:36 | 2024-06-28 | 2024-07-13 |

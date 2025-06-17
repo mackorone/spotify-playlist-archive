@@ -4,7 +4,7 @@
 
 > Faneto in cover della playlist con il futuro del rap italiano.
 
-1,850 songs - 3 day 6 hr 46 min
+1,851 songs - 3 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1068,7 +1068,8 @@
 | [MODEM](https://open.spotify.com/track/0ol4jOFFh80BGkb6q4j0YL) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [MODEM](https://open.spotify.com/album/4elFRFXim5I69DKqaTofzS) | 2:18 | 2024-09-05 | 2024-09-20 |
 | [Modus Operandi](https://open.spotify.com/track/14Dep7nFNka7vSw00d8pVp) | [Harmann](https://open.spotify.com/artist/7vNFdksWR78dwtW1Tx3Zsw) | [Modus Operandi](https://open.spotify.com/album/4ytcYFGwDv09QxwjiTZwxG) | 3:31 | 2023-07-05 | 2023-08-04 |
 | [Mogio](https://open.spotify.com/track/2UCw0rBbkmZJIn3oQomFTT) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [GROTTO INFERNO](https://open.spotify.com/album/1zyXtWcVBCqJJW7jQTICEb) | 3:10 | 2023-02-16 | 2024-02-23 |
-| [MOISE KEAN](https://open.spotify.com/track/38NU5s6KSn5lUfnh8QUpyn) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/4i3XpfOVIsVyI5ANiyiKRR) | 3:15 | 2025-05-27 |  |
+| [MOISE KEAN](https://open.spotify.com/track/1flpr4TyI6JvNCaUs8NPbh) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/2X5WUZnoOKOACVUGZw5hAT) | 3:15 | 2025-06-16 |  |
+| [MOISE KEAN](https://open.spotify.com/track/38NU5s6KSn5lUfnh8QUpyn) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/4i3XpfOVIsVyI5ANiyiKRR) | 3:15 | 2025-05-27 | 2025-06-17 |
 | [Molly](https://open.spotify.com/track/1oHPxuDHRpBrtVrVyrHAQ4) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Molly](https://open.spotify.com/album/71U89HHqx5ETCYvi4kKPcl) | 2:19 | 2024-06-06 | 2024-06-21 |
 | [MOLLY ROSA](https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [WE 2FLY](https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2) | 2:19 | 2024-08-01 | 2024-10-25 |
 | [MON AMI](https://open.spotify.com/track/41MriyKRwP0eMriWsmId52) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MON AMI](https://open.spotify.com/album/1NYxqkXQJULTM3qSMkwHyh) | 2:22 | 2024-10-24 | 2024-11-15 |

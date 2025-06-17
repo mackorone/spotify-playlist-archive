@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Andr \(Taiwan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,768 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,821 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,14 +64,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 54 | [bình yên](https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [bình yên](https://open.spotify.com/album/6DeqUBJYtfvtw8pcpEJqna) | 3:21 |
 | 55 | [Runaway](https://open.spotify.com/track/3aJbH8XQCYPE5RKkjDhx6W) | [Shyclops](https://open.spotify.com/artist/7zYMujuLfBXBchiqk64fgZ) | [Runaway](https://open.spotify.com/album/2rWfTnlzuEVq3KifP02KdI) | 3:45 |
 | 56 | [Dudu](https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Dudu](https://open.spotify.com/album/69qGL5rzRs1VSxLSHOuVTB) | 3:06 |
-| 57 | [Tokyo](https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Tokyo](https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT) | 2:32 |
-| 58 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
+| 57 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
+| 58 | [Tokyo](https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Tokyo](https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT) | 2:32 |
 | 59 | [Blue](https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Blue](https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y) | 3:40 |
 | 60 | [Someday](https://open.spotify.com/track/3jchCGbzTNDXYa6qjkESBz) | [reika](https://open.spotify.com/artist/6LIKgENy8yhUCxPntuKCYV) | [Someday](https://open.spotify.com/album/5tfUvcfoAHbQsRGMPi8eZT) | 2:59 |
 | 61 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 |
 | 62 | [Can we do it again?](https://open.spotify.com/track/1x6NPwoKNAyYADPRhgdg8L) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/1PAX5Z9MLo3PiUExFCYpDe) | 3:30 |
-| 63 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
-| 64 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
+| 63 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
+| 64 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
 | 65 | [Mercy](https://open.spotify.com/track/0GsVREyX9rAYrCOFLv32G5) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [Mercy](https://open.spotify.com/album/3sBod361N3F0oYF7wexyav) | 2:03 |
 | 66 | [Take My Body](https://open.spotify.com/track/3JRTvLuOKLLZoO0M5Wxj77) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Take My Body](https://open.spotify.com/album/2KxPHf0Em4pjeCfW8xxyk6) | 3:29 |
 | 67 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 |
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 78 | [dream\. \(좋은 분위기\)](https://open.spotify.com/track/5WmamrCOl3XGANufD9WmOe) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [dream\. \(좋은 분위기\)](https://open.spotify.com/album/0LAesrqOEXIjs2285IXVis) | 3:06 |
 | 79 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 80 | [Hearsay](https://open.spotify.com/track/6H2HuzVZ2UHTD1iYey6JvN) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Hearsay](https://open.spotify.com/album/1i8zPkh0mUqXfgEm1q37Pe) | 3:35 |
-| 81 | [Sup](https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Sup](https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex) | 3:40 |
-| 82 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 |
+| 81 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 |
+| 82 | [Sup](https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Sup](https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex) | 3:40 |
 | 83 | [Quick! Love!](https://open.spotify.com/track/0CE0mnqq5w0UhKCmvguoxW) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Quick! Love!](https://open.spotify.com/album/6J2hFA8D9077BTfNX8SEbt) | 3:23 |
 | 84 | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2) | 3:51 |
-| 85 | [Rahsia Tuhan](https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Rahsia Tuhan](https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP) | 4:47 |
-| 86 | [WDYS](https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [WDYS](https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K) | 2:24 |
-| 87 | [Now and Ever](https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Now and Ever](https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU) | 3:40 |
+| 85 | [WDYS](https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [WDYS](https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K) | 2:24 |
+| 86 | [Now and Ever](https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Now and Ever](https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU) | 3:40 |
+| 87 | [Rahsia Tuhan](https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Rahsia Tuhan](https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP) | 4:47 |
 | 88 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 |
 | 89 | [Oh, Irog](https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Oh, Irog](https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY) | 4:56 |
 | 90 | [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 97 | [Love Again](https://open.spotify.com/track/0A3omwhvYCn1Hg27VliWen) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say](https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td) | 2:06 |
 | 98 | [Birdsong](https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Birdsong](https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l) | 4:12 |
 | 99 | [COLORATURA](https://open.spotify.com/track/5SCKeEcc8msC3pg2tNCc4A) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/2mLrmtSEmIWLO6sLAq4lNH) | 4:07 |
-| 100 | [Rear](https://open.spotify.com/track/2RvxV9nncoWUd6fOlpgDB4) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Rear](https://open.spotify.com/album/1SnRpCD2gJdnCPPX22wAkS) | 4:30 |
+| 100 | [Exclusively](https://open.spotify.com/track/6Vd4mP8MtKuWdzphUeDTaz) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Exclusively](https://open.spotify.com/album/0zH2ZvnrqekbUsn7CWwm28) | 3:39 |
 
 Snapshot ID: `aEu7SgAAAADDpZphYG2ZqPqO8QUsYGHy`

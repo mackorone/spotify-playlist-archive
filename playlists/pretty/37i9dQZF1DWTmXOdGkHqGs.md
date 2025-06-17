@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,033 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,067 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 16 | [Voy a pintar un corazón](https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:28 |
 | 17 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 |
 | 18 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 |
-| 19 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 |
+| 19 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 |
 | 20 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
-| 21 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 |
+| 21 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 |
 | 22 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |
 | 23 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 |
 | 24 | [¿Dónde Estarás?](https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 3:51 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 77 | [20 años](https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ) | [Paco Silva y su Tropa Colombiana](https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE) | [Me Voy Pa'Chiriguaná \(Incluye el Éxito 20 Años\)](https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx) | 3:45 |
 | 78 | [La Bachata](https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valeria Gau](https://open.spotify.com/artist/1BfR4gQyjlhLAssULX0wDr), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [La Bachata](https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY) | 3:14 |
 | 79 | [Llegamos los Pibes Chorros](https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Solo Le Pido a Dios](https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY) | 3:49 |
-| 80 | [Reyna de Mi Vida](https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb) | [Grupo Macao de Alex y Jhonny](https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z) | [La Potencia Quiero y Deseo y Mas Exitos](https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE) | 3:54 |
-| 81 | [FIESTA EN SAN BENITO](https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [FIESTA EN SAN BENITO](https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM) | 4:24 |
+| 80 | [FIESTA EN SAN BENITO](https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [FIESTA EN SAN BENITO](https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM) | 4:24 |
+| 81 | [Reyna de Mi Vida](https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb) | [Grupo Macao de Alex y Jhonny](https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z) | [La Potencia Quiero y Deseo y Mas Exitos](https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE) | 3:54 |
 | 82 | [Que Dolor](https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Campeon](https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U) | 3:25 |
 | 83 | [Es un Secreto](https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG) | 3:17 |
 | 84 | [Ultimo Tren A Londres](https://open.spotify.com/track/1YDxxeMSdxXXiiiobyhYur) | [Grupo Klaz Y Keroz](https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC) | [Formas De Amor](https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH) | 4:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,819 likes - 44 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,818 likes - 44 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 36 | [Asfixiar](https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:38 |
 | 37 | [Virtual](https://open.spotify.com/track/3RsdLfvSVFZn74haerjDfY) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:02 |
 | 38 | [Fui feliz](https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:58 |
-| 39 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w) | 4:00 |
-| 40 | [Carne \- En Vivo](https://open.spotify.com/track/0DWKN008tO0MAwil7cVSDE) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En Vivo\)](https://open.spotify.com/album/5xT4omRJmTehWIb1y9LT4e) | 5:59 |
+| 39 | [Carne \- En Vivo](https://open.spotify.com/track/0DWKN008tO0MAwil7cVSDE) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En Vivo\)](https://open.spotify.com/album/5xT4omRJmTehWIb1y9LT4e) | 5:59 |
+| 40 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w) | 4:00 |
 | 41 | [Sombras Destino \- Demo 2008](https://open.spotify.com/track/6HXe1dC9JFnLNiG9Q6tOA9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \(Demo 2008\)](https://open.spotify.com/album/3XC8YVXmcojg9Qbm6e9YGo) | 4:04 |
 | 42 | [Miel](https://open.spotify.com/track/3hno9MGIoj6WL9GfXWSYBT) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 4:57 |
 | 43 | [El Aparecido](https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Inti\-Illimani, Tributo A Su Música \- A La Salud de la Música Chilena](https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo) | 4:10 |
 | 44 | [Brígida](https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:35 |
 
-Snapshot ID: `aEy7gAAAAACyMPUTTzwLK9wy5xy7nZLA`
+Snapshot ID: `aE4NAAAAAABH+qlFDxBw4tUYQht0dNps`

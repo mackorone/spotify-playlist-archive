@@ -7769,6 +7769,24 @@
     },
     {
       "album": {
+        "name": "Hymnal",
+        "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330410,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
+    },
+    {
+      "album": {
         "name": "Endless Filament",
         "url": "https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl"
       },
@@ -14113,7 +14131,7 @@
         },
         {
           "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+          "url": "https://open.spotify.com/artist/0v9JoDixRtVMxQMxuM1r78"
         }
       ],
       "date_added": "2025-06-13",
@@ -20137,7 +20155,7 @@
         },
         {
           "name": "Leo Einaudi",
-          "url": "https://open.spotify.com/artist/1NDv6HEcpBa5SbBcssZjpp"
+          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
         }
       ],
       "date_added": "2025-06-13",

@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 71083,
+  "num_followers": 71119,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,34 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+        "name": "Work Song",
+        "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
       "artists": [
         {
           "name": "Nat Adderley",
           "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        },
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        },
+        {
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        },
+        {
+          "name": "Sam Jones",
+          "url": "https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV"
         }
       ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+      "duration_ms": 255720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -615,34 +631,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Work Song",
-        "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
       },
       "artists": [
         {
           "name": "Nat Adderley",
           "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
-        },
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        },
-        {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
-        },
-        {
-          "name": "Percy Heath",
-          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
-        },
-        {
-          "name": "Sam Jones",
-          "url": "https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV"
         }
       ],
-      "duration_ms": 255720,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
-        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
-      },
-      "artists": [
-        {
-          "name": "Howard McGhee",
-          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Tranquillity - Remastered 1998",
-      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Leosia",
         "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 367093,
       "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
       "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
+        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
+      },
+      "artists": [
+        {
+          "name": "Howard McGhee",
+          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Tranquillity - Remastered 1998",
+      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "From The Top (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
-      },
-      "artists": [
-        {
-          "name": "Pete Candoli",
-          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
-        }
-      ],
-      "duration_ms": 224103,
-      "name": "Drumette",
-      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "From The Top (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
+      },
+      "artists": [
+        {
+          "name": "Pete Candoli",
+          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
+        }
+      ],
+      "duration_ms": 224103,
+      "name": "Drumette",
+      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Noir en rouge (Live in Paris)",
-        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 487946,
-      "name": "Re-invention - Live in Paris",
-      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Where or When",
         "url": "https://open.spotify.com/album/6jNlEB9M8Dfmtd2pyCbhfN"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 211693,
       "name": "Just in Time",
       "url": "https://open.spotify.com/track/3aHJmaeRrBhoNlXL079nc2"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Noir en rouge (Live in Paris)",
+        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 487946,
+      "name": "Re-invention - Live in Paris",
+      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
     },
     {
       "added_at": "2024-11-08 10:26:51",

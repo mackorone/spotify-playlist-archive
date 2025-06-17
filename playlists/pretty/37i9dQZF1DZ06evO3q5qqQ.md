@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,188 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,186 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 33 | [El Meño](https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 2:34 |
 | 34 | [Levantando Polvadera \(En vivo\)](https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:09 |
 | 35 | [La Charla](https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Charla](https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr) | 3:50 |
-| 36 | [El Precio De La Soledad \- En vivo](https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Precio De La Soledad \(En vivo\)](https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I) | 2:46 |
+| 36 | [La Pasadita \(En vivo\)](https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:29 |
 | 37 | [El Chapio](https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 2:55 |
-| 38 | [La Pasadita \(En vivo\)](https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:29 |
+| 38 | [El Precio De La Soledad \- En vivo](https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Precio De La Soledad \(En vivo\)](https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I) | 2:46 |
 | 39 | [Soy Benjamín](https://open.spotify.com/track/3Eww1aMYpf5WvMrJ0crEQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Soy Benjamín](https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd) | 3:00 |
 | 40 | [Prohibido \(En vivo\)](https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:52 |
 | 41 | [Bien Belicones \(En vivo\)](https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Bien Belicones \(En vivo\)](https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [La Playa](https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Playa](https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1) | 3:46 |
 | 50 | [Jimenez](https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 3:04 |
 
-Snapshot ID: `aEy7gAAAAABVXavVuJaTWBKEeTkvc0T9`
+Snapshot ID: `aE4NAAAAAACHqSP3EmY4E+qH15P3nslr`

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 110284,
+  "num_followers": 110316,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        "name": "Fitz and The Tantrums",
+        "url": "https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
         }
       ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+      "duration_ms": 193253,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Fitz and The Tantrums",
-        "url": "https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3"
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
       "artists": [
         {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 193253,
-      "name": "HandClap",
-      "url": "https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz"
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 245960,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Two Vines (Deluxe)",
         "url": "https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 320030,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Mangy Love",
         "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 299671,
       "name": "Bum Bum Bum",
       "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 320030,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
     },
     {
       "added_at": "2024-03-18 13:26:28",

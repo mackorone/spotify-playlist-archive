@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: CKay
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,111 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,142 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 99 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
 | 100 | [Show Me Love \(with Tyla\)](https://open.spotify.com/track/3vuGwx5CP51j6c4xW1qD6y) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/0HzsKpnVf6iX03yfs4Cwsn) | 2:56 |
 
-Snapshot ID: `aEuidwAAAAABLz3pxzVg+aSqYLTrkU5t`
+Snapshot ID: `AAAAAN159QvqftRWuY3chH/AxqfYH1uh`

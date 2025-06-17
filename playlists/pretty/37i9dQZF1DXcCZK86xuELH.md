@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,717 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,737 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 30 | [Bye Bye Bye \(feat\. Chronixx\) \- S.P.Y Remix](https://open.spotify.com/track/0JPHV6kJG2QB7XUXH9eqCk) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Raggamuffin Reloaded](https://open.spotify.com/album/7ck2hQEDtns36ZczA84H13) | 4:17 |
 | 31 | [Run](https://open.spotify.com/track/0cE4kcKyJEn1nzAjHAwRIU) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl) | [Run / The Great Scorer](https://open.spotify.com/album/44qfRHjaAPP2TZ7biAnsbc) | 3:57 |
 | 32 | [Hydraulics](https://open.spotify.com/track/4OCVhIuxeS3bHKO9Qcfiln) | [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM) | [Troublesome Bubblers EP](https://open.spotify.com/album/264E73xcKhFFObUadgix4f) | 4:26 |
-| 33 | [True Romance](https://open.spotify.com/track/7cytZA2D0YE1Avedq1SwHI) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y), [Vegas](https://open.spotify.com/artist/4lo6i2rysNEx4k22kBFNTt) | [Bellini / True Romance](https://open.spotify.com/album/2PMkDAMMFsQKXws5jacomk) | 6:31 |
+| 33 | [True Romance](https://open.spotify.com/track/7cytZA2D0YE1Avedq1SwHI) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y), [Vegas BCUK](https://open.spotify.com/artist/44ZJiYyBwvzG4T52wme90c) | [Bellini / True Romance](https://open.spotify.com/album/2PMkDAMMFsQKXws5jacomk) | 6:31 |
 | 34 | [Trouble You](https://open.spotify.com/track/05LJS5peVvEBurQfv6YzvB) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Doktor](https://open.spotify.com/artist/12PiLnTCDusJk649hRHi9E) | [Trouble You](https://open.spotify.com/album/6ywuNTPdyga6Cxl5Q49LNp) | 2:45 |
 | 35 | [I Don't Care](https://open.spotify.com/track/0kTQg6X1szFsmpIR4g2afq) | [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [I Don't Care](https://open.spotify.com/album/0CySJAOAlPq1rbFrh1VcME) | 4:59 |
 | 36 | [Bite the Bone](https://open.spotify.com/track/3bpyE7y5gez1wLyHTfVPB5) | [Level 2](https://open.spotify.com/artist/3fzgpQkpRDdOw4DZTQgpYY) | [Bite the Bone / Hot Foot](https://open.spotify.com/album/0w6dZHjPiDBCy6jxsuGsQs) | 4:35 |

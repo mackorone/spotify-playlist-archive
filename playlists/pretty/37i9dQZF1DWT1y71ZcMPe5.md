@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: j\-hope
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293,427 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,293,644 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Orbit](https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Fools Gold](https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV) | 3:12 |
 | 50 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 |
 
-Snapshot ID: `aE99NAAAAADSklOZTrEPWlrD2laukAsM`
+Snapshot ID: `aE99NAAAAABuSB1oBPwj5INpnwAOmwS5`

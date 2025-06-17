@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: LE SSERAFIM
 
-1,488 songs - 3 day 7 hr 13 min
+1,489 songs - 3 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-17 | 2023-08-04 |
 | [BIBORA](https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Sequence](https://open.spotify.com/album/23325hP3aqsiTottDna0mg) | 3:14 | 2024-01-09 | 2024-01-26 |
 | [Big Revolution](https://open.spotify.com/track/3eHmrcYGwnMEnAaq5irY3j) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7) | [Big Revolution](https://open.spotify.com/album/0gy9aiWcEdT6nP6di9ue68) | 3:37 | 2022-11-08 | 2022-11-21 |
+| [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-16 |  |
 | [BIRD \- THE BEST Ver.](https://open.spotify.com/track/1r3pEtxuKLrkVt8tPXQX4K) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [BIRD \(THE BEST Ver.\)](https://open.spotify.com/album/1owcEw2antmRf5VKfUudPd) | 4:04 | 2023-04-18 | 2023-06-07 |
 | [Birth](https://open.spotify.com/track/1yi1SkHImBpnP99qvWHajP) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre1 : Birth>](https://open.spotify.com/album/6IkXLIaBHITQ0FLbTZkJg2) | 2:42 | 2024-04-18 | 2024-05-08 |
 | [Birth](https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 1 : Birth>](https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ) | 2:42 | 2024-04-02 | 2024-04-19 |

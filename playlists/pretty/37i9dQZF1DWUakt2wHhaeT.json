@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: BOOP!",
-  "num_followers": 112801,
+  "num_followers": 112814,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEZE/wAAAAAG8Ky+MDVb45zYQKe6AJLn",
+  "snapshot_id": "aE+GEQAAAAC1u9IkDVyxU+nXC2cj+DgU",
   "tracks": [
     {
       "added_at": "2025-03-11 05:00:06",
@@ -53,6 +53,38 @@
       "url": "https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql"
     },
     {
+      "added_at": "2025-06-16 02:48:49",
+      "album": {
+        "name": "Real Women Have Curves: The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0KKuGKaHvSPtYYUXHq2YNN"
+      },
+      "artists": [
+        {
+          "name": "Tatianna C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/4NzAALgQdqh2ts1FO94Etd"
+        },
+        {
+          "name": "Carla Jimenez",
+          "url": "https://open.spotify.com/artist/11H3IXQy9MAM9hY2aEyyQa"
+        },
+        {
+          "name": "Florencia Cuenca",
+          "url": "https://open.spotify.com/artist/1W5tuAWRhPuKMJN438XYac"
+        },
+        {
+          "name": "Justina Machado",
+          "url": "https://open.spotify.com/artist/0Caerv4ooDH953kuV32Yzj"
+        },
+        {
+          "name": "Real Women Have Curves Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3iQQnAznu8N9ope2iEuv7W"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Real Women Have Curves",
+      "url": "https://open.spotify.com/track/6n0QCWBSvicnbepDHsar4S"
+    },
+    {
       "added_at": "2025-02-21 05:00:16",
       "album": {
         "name": "Death Becomes Her - Broadway Sneak Preview",
@@ -71,6 +103,22 @@
       "duration_ms": 256444,
       "name": "For The Gaze",
       "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
+    },
+    {
+      "added_at": "2025-06-16 02:48:49",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/754yLT3vjFS3aXnmm7fMh6"
+      },
+      "artists": [
+        {
+          "name": "Sheridan Smith",
+          "url": "https://open.spotify.com/artist/2x1Bwuwa2yM1Tnxb8Lj6BE"
+        }
+      ],
+      "duration_ms": 258207,
+      "name": "Magic - Live",
+      "url": "https://open.spotify.com/track/3vqO1I1h0IFbrI2HVUJWYp"
     },
     {
       "added_at": "2025-05-16 04:00:11",

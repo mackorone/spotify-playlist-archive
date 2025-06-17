@@ -4,7 +4,7 @@
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-169 songs - 10 hr 53 min
+170 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,11 +156,12 @@
 | [Toda la Vida](https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Desnudo Emmanuel](https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG) | 4:49 | 2020-06-24 |  |
 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 | 2020-06-24 |  |
 | [Tour](https://open.spotify.com/track/4tMmGsMxGdOhbny0TSOHkH) | [Fresas](https://open.spotify.com/artist/0jRHpUl6xmRUbyoEKVcSRN) | [Tour](https://open.spotify.com/album/3arXuDtNh0oSbltFH5zYYz) | 2:52 | 2023-04-13 | 2024-12-28 |
-| [Tu Amante o Tu Enemigo](https://open.spotify.com/track/2xFcw6Oo4FsrO22fj1O8SA) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [Coleccion Original](https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh) | 2:59 | 2020-06-24 |  |
+| [Tu Amante o Tu Enemigo](https://open.spotify.com/track/2xFcw6Oo4FsrO22fj1O8SA) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [Coleccion Original](https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh) | 2:59 | 2020-06-24 | 2025-06-17 |
 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 | 2020-06-24 | 2023-12-02 |
 | [Tu Muñeca](https://open.spotify.com/track/1sxwSsqFOhrmc1zl6iJyNn) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [La Más Completa Colección \(CD1\)](https://open.spotify.com/album/04YABmDMSBXSYQuFitSdUJ) | 3:38 | 2020-06-24 |  |
 | [Tu Muñeca](https://open.spotify.com/track/4jiZpcv4YwVDw46wnMHwsy) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Tu Muñeca](https://open.spotify.com/album/7cfzMngiaoy5cBYzen6rua) | 3:44 | 2020-06-24 | 2024-04-19 |
 | [Tú Y Yo Somos Uno Mismo](https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 8](https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU) | 4:20 | 2020-06-24 | 2024-04-19 |
+| [Uno Entre Mil](https://open.spotify.com/track/3kxlhUdlPfokHfECHjaskF) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Uno Entre Mil](https://open.spotify.com/album/4eXjBKDecDYrCmjar3Ucwf) | 3:35 | 2020-06-24 |  |
 | [Veinticinco Rosas](https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:00 | 2020-06-24 | 2024-04-19 |
 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 | 2020-06-24 |  |
 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 | 2020-06-24 |  |

@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -10276,7 +10276,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 186461,
       "name": "CIEL",
       "url": "https://open.spotify.com/track/1RiCNSkK4AfT1j8ZM4JnVs"
@@ -12350,7 +12350,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -15956,7 +15956,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -15974,7 +15974,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -19150,7 +19150,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -22218,6 +22218,24 @@
       "duration_ms": 243187,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o"
+    },
+    {
+      "album": {
+        "name": "HURT",
+        "url": "https://open.spotify.com/album/6AcaydKdkFDlJKkd5WwMsA"
+      },
+      "artists": [
+        {
+          "name": "Envy Marshall",
+          "url": "https://open.spotify.com/artist/0YWlVX6nIsOvJCRUertJ5h"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216101,
+      "name": "HURT",
+      "url": "https://open.spotify.com/track/5ne515mhuyE54lSIwPC2IJ"
     },
     {
       "album": {
@@ -33232,7 +33250,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
@@ -34820,7 +34838,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -37814,7 +37832,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 230000,
       "name": "Poney",
       "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"
@@ -41014,7 +41032,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -47720,7 +47738,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -51228,7 +51246,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -53642,7 +53660,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -54190,7 +54208,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"

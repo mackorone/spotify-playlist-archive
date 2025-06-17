@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 68838,
+  "num_followers": 68852,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAm9jQlCiPTmqQp8mav+CQp",
+  "snapshot_id": "aE4NAAAAAACWxg4msznGTFhakGJhjtXr",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo Paralelo",
-        "url": "https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 197970,
-      "name": "Mundo Paralelo",
-      "url": "https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iko Iko (My Bestie) (feat. Small Jam)",
         "url": "https://open.spotify.com/album/73ikyU6v9zvR63RwjKWikR"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 175586,
       "name": "Iko Iko (My Bestie) (feat. Small Jam)",
       "url": "https://open.spotify.com/track/3pnxj3KnSjqO1Qkl2qLHIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo Paralelo",
+        "url": "https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 197970,
+      "name": "Mundo Paralelo",
+      "url": "https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk"
     },
     {
       "added_at": null,
@@ -654,19 +654,11 @@
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
         }
       ],
-      "duration_ms": 206414,
-      "name": "Aprender a Vivir",
-      "url": "https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi"
+      "duration_ms": 158241,
+      "name": "Aqu\u00ed Estar\u00e9",
+      "url": "https://open.spotify.com/track/2zCgdzlotsYpFcfh7Sn83E"
     },
     {
       "added_at": null,
@@ -726,11 +718,19 @@
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
         }
       ],
-      "duration_ms": 158241,
-      "name": "Aqu\u00ed Estar\u00e9",
-      "url": "https://open.spotify.com/track/2zCgdzlotsYpFcfh7Sn83E"
+      "duration_ms": 206414,
+      "name": "Aprender a Vivir",
+      "url": "https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi"
     },
     {
       "added_at": null,

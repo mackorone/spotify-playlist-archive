@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,359 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,360 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,32 +31,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ov2lQ.md) - [plain]
 | 21 | [Hyperborea](https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 5:45 |
 | 22 | [Birds Fly By Flapping their Wings](https://open.spotify.com/track/4TWzk0mTsVcwZRGkpoxjvG) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:35 |
 | 23 | [As Bright as the Night](https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 4:56 |
-| 24 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 |
-| 25 | [Grand Dome](https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:36 |
+| 24 | [Grand Dome](https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:36 |
+| 25 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 |
 | 26 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 |
 | 27 | [Monju\-1](https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 2:41 |
-| 28 | [Cloudwalker Ii](https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:26 |
-| 29 | [Moistened and Dried](https://open.spotify.com/track/4nNsftfbVUOj8Q9b2pUl1F) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 2:25 |
+| 28 | [Moistened and Dried](https://open.spotify.com/track/4nNsftfbVUOj8Q9b2pUl1F) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 2:25 |
+| 29 | [Cloudwalker Ii](https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:26 |
 | 30 | [Adagiati](https://open.spotify.com/track/7sGGstyG6WbJGQnvIEI47g) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:51 |
-| 31 | [Just One Kiss](https://open.spotify.com/track/54t2dTQ7ckm1BxvFsaibHZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 5:01 |
-| 32 | [Monju\-2](https://open.spotify.com/track/5tHbDap6SZw6Ml49hJBmBt) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 3:57 |
-| 33 | [Mestigoth](https://open.spotify.com/track/3CAZVIDUo5qfbaAJZ664F5) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 1:43 |
-| 34 | [Than Is The Mater](https://open.spotify.com/track/4wq5a2xNT37uka9mc3aKo9) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 4:14 |
-| 35 | [Miniature Rock Dwellers](https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 1:04 |
-| 36 | [Genkai\-1](https://open.spotify.com/track/6ewLQwmkpJYKaQkA4GNFtd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 6:37 |
-| 37 | [Startoucher](https://open.spotify.com/track/0MSEhfQE0256xTKHtaNkXB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:02 |
-| 38 | [Dover Ferryport](https://open.spotify.com/track/6AHAQBVo1ibwYptoLoo5LC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 2:38 |
-| 39 | [When I Leave](https://open.spotify.com/track/6j7yUdvm5GHumn0crkzGH6) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:54 |
-| 40 | [Microgravity](https://open.spotify.com/track/4SxmbfErnDroZYcn3q1x6p) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:12 |
-| 41 | [Novelty Waves](https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:27 |
-| 42 | [Kent Country Train](https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 2:28 |
-| 43 | [Too Fragile to Walk On](https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 4:51 |
-| 44 | [Tranquillizer](https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 8:18 |
-| 45 | [Spindrift](https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 4:36 |
+| 31 | [Monju\-2](https://open.spotify.com/track/5tHbDap6SZw6Ml49hJBmBt) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 3:57 |
+| 32 | [Just One Kiss](https://open.spotify.com/track/54t2dTQ7ckm1BxvFsaibHZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 5:01 |
+| 33 | [Than Is The Mater](https://open.spotify.com/track/4wq5a2xNT37uka9mc3aKo9) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 4:14 |
+| 34 | [Miniature Rock Dwellers](https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 1:04 |
+| 35 | [Genkai\-1](https://open.spotify.com/track/6ewLQwmkpJYKaQkA4GNFtd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 6:37 |
+| 36 | [Mestigoth](https://open.spotify.com/track/3CAZVIDUo5qfbaAJZ664F5) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 1:43 |
+| 37 | [Dover Ferryport](https://open.spotify.com/track/6AHAQBVo1ibwYptoLoo5LC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 2:38 |
+| 38 | [When I Leave](https://open.spotify.com/track/6j7yUdvm5GHumn0crkzGH6) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:54 |
+| 39 | [Microgravity](https://open.spotify.com/track/4SxmbfErnDroZYcn3q1x6p) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:12 |
+| 40 | [Startoucher](https://open.spotify.com/track/0MSEhfQE0256xTKHtaNkXB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:02 |
+| 41 | [Kent Country Train](https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 2:28 |
+| 42 | [Grandiflora](https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 0:48 |
+| 43 | [Tranquillizer](https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 8:18 |
+| 44 | [Spindrift](https://open.spotify.com/track/4nuQXyi9gsNyC1UHgMThKl) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 4:36 |
+| 45 | [Novelty Waves](https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:27 |
 | 46 | [Invariable Cowhandler](https://open.spotify.com/track/1rIf02nuNJVVcVumB0b7fu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 3:45 |
 | 47 | [Bjorvika](https://open.spotify.com/track/4NYchtfMAXMOvgr8LEQnNV) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 2:02 |
 | 48 | [Random Walk](https://open.spotify.com/track/3gKE9QNCacM76LP97oQajn) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 7:21 |
-| 49 | [Minuarta](https://open.spotify.com/track/4AIIuMhG2xhXA5MFtpCFKD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque \(2016 Reissue Version\)](https://open.spotify.com/album/5PMRqcZu3T90ensFTSSB67) | 8:01 |
-| 50 | [Daphnis 26](https://open.spotify.com/track/0YbCCkRqS8RsVnn5ulSHM2) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/6sXtoNq1nreNHyqq1szxj5) | 6:45 |
+| 49 | [Daphnis 26](https://open.spotify.com/track/0YbCCkRqS8RsVnn5ulSHM2) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/6sXtoNq1nreNHyqq1szxj5) | 6:45 |
+| 50 | [Minuarta](https://open.spotify.com/track/4AIIuMhG2xhXA5MFtpCFKD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque \(2016 Reissue Version\)](https://open.spotify.com/album/5PMRqcZu3T90ensFTSSB67) | 8:01 |
 
-Snapshot ID: `aEy7gAAAAAAKwrwX5yo5j7lvkUSplCUN`
+Snapshot ID: `aE4NAAAAAACq9q5l1Ly6kF7HOZ2sCf6a`

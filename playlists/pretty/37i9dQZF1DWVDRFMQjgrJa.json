@@ -1,6 +1,6 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 255995,
+  "num_followers": 256041,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Algo De Mi",
-        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Algo De M\u00ed",
-      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 158440,
       "name": "Ni Parientes Somos",
       "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Algo De Mi",
+        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Algo De M\u00ed",
+      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 213280,
-      "name": "Qui\u00e9n Es Usted",
-      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 189293,
       "name": "Mi C\u00f3mplice",
       "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 213280,
+      "name": "Qui\u00e9n Es Usted",
+      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
         "name": "Al Derecho Y Al Reverso",
         "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 137323,
       "name": "El Circo",
       "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
       "artists": [
         {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 170093,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
+      "duration_ms": 233116,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Vision De Tunel",
         "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 155882,
-      "name": "Qu\u00e9 Caro Estoy Pagando",
-      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
+      "duration_ms": 170093,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -931,6 +915,22 @@
       "duration_ms": 171026,
       "name": "Te Quiero As\u00ed",
       "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 155882,
+      "name": "Qu\u00e9 Caro Estoy Pagando",
+      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 155144,
-      "name": "En La Barra",
-      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 176453,
       "name": "Seis Pies Abajo",
       "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 155144,
+      "name": "En La Barra",
+      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "DIOS POR DELANTE",
-        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 214473,
-      "name": "DIOS POR DELANTE",
-      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Cuando El Sol Salga Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 183960,
       "name": "Mi Buen Amante",
       "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
         "name": "Sin Querer Queriendo",
         "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 206077,
       "name": "Sin Querer Queriendo",
       "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "La Noche Que Murio Chicago",
-      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Al Estilo Rancheron",
+      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 278058,
       "name": "Manuel Ju\u00e1rez",
       "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Al Estilo Rancheron",
-      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 212915,
       "name": "Enloquecido",
       "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 201108,
-      "name": "Mil Cartas",
-      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Con Experiencia Y Juventud",
         "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 161671,
       "name": "La Hielera",
       "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 201108,
+      "name": "Mil Cartas",
+      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Se Me Canso El Corazon",
-        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "Los Tres Gallos",
-      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 189493,
       "name": "Esta Noche Tu Vendr\u00e1s",
       "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "Los Tres Gallos",
+      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Profundamente",
-        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Carta Abierta",
-      "url": "https://open.spotify.com/track/4eSYNzie0zHOPoXp0iisZw"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -2087,6 +2071,38 @@
       "duration_ms": 178412,
       "name": "Alma Enamorada (En Vivo)",
       "url": "https://open.spotify.com/track/0vLXA9eQpe56eGBz0lTDqW"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Carta Abierta",
+      "url": "https://open.spotify.com/track/4eSYNzie0zHOPoXp0iisZw"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Exitos De Los Invasores De Nuevo Leon",
+        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -2139,6 +2155,22 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Treinta Cartas",
+      "url": "https://open.spotify.com/track/7pAUPye8Lip2VnKmnzRiHD"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
         "name": "Antes De Partir",
         "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
       },
@@ -2171,18 +2203,18 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Exitos De Los Invasores De Nuevo Leon",
-        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
+        "name": "Norte\u00f1o 2000",
+        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 166106,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
+      "duration_ms": 147069,
+      "name": "El Perro De Tu Marido",
+      "url": "https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -2199,38 +2231,6 @@
       "duration_ms": 150999,
       "name": "Cuando Nadie Te Quiera",
       "url": "https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Treinta Cartas",
-      "url": "https://open.spotify.com/track/7pAUPye8Lip2VnKmnzRiHD"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
-        "name": "Norte\u00f1o 2000",
-        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 147069,
-      "name": "El Perro De Tu Marido",
-      "url": "https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "20 \u00c9xitos de Ley (Serie de Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 143871,
-      "name": "A Qui\u00e9n Esperas",
-      "url": "https://open.spotify.com/track/3eCY6AUZVvKuFQYVpvMEMV"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Exitos En Vivo Vol. 2",
         "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 232154,
       "name": "Reproches Al Viento",
       "url": "https://open.spotify.com/track/4c8ouGnAqVqp3puWViy0Pz"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "20 \u00c9xitos de Ley (Serie de Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 143871,
+      "name": "A Qui\u00e9n Esperas",
+      "url": "https://open.spotify.com/track/3eCY6AUZVvKuFQYVpvMEMV"
     },
     {
       "added_at": "2024-12-03 18:53:52",

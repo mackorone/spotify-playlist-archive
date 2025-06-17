@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "COMA",
+        "url": "https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy"
+      },
+      "artists": [
+        {
+          "name": "PAR.SEK",
+          "url": "https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181931,
+      "name": "COMA",
+      "url": "https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc"
+    },
+    {
+      "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V"
       },
@@ -3284,6 +3302,28 @@
       "duration_ms": 145598,
       "name": "Filature",
       "url": "https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby"
+    },
+    {
+      "album": {
+        "name": "Bijou",
+        "url": "https://open.spotify.com/album/1N4fbPCEBnIeKs56SANfLw"
+      },
+      "artists": [
+        {
+          "name": "Muhoza",
+          "url": "https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG"
+        },
+        {
+          "name": "KANUK",
+          "url": "https://open.spotify.com/artist/465DgHCWF011yxLkdCw4FR"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178069,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/15jrxL2BXw7TVb4ymr3uzJ"
     },
     {
       "album": {
@@ -5194,7 +5234,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 209370,
       "name": "La Mort",
       "url": "https://open.spotify.com/track/4sqJT9MPzPiCgfjAqriSxq"

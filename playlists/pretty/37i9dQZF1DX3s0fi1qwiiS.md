@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 
 > The songs of Detty December 2024 as chosen by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,563 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,569 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

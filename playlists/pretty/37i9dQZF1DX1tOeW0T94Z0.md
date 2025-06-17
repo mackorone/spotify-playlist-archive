@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,821 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,824 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 59 | [McNasty Filth](https://open.spotify.com/track/6bcszExuP00JoOq7I8tN4P) | [Jaylib](https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl) | [Champion Sound](https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa) | 2:55 |
 | 60 | [Let Me f/ KARDINAL OFFISHALL \- Radio Edit](https://open.spotify.com/track/21ufU0oFWoqQzOBcY58gLk) | [Melanie Durrant](https://open.spotify.com/artist/24ugOdZDzBvFLq5MGOZhGg), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Let Me](https://open.spotify.com/album/1D3SvZpse0qZ8CBiNtQvAj) | 3:40 |
 
-Snapshot ID: `aEmawgAAAACQSl5k4LJiyHhtdY1sQX0c`
+Snapshot ID: `AAAAAKSu1jrM2Ee/6qOl2oaW59a5MuGQ`

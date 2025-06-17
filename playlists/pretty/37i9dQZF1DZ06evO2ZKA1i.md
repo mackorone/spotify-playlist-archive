@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,985 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,001 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 49 | [The Gypsy \- 2009 Digital Remaster](https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:05 |
 | 50 | [Nothing at All](https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 4:42 |
 
-Snapshot ID: `aEy7gAAAAAAvXMfaD/VAxizvijMJ/78r`
+Snapshot ID: `aE4NAAAAAAD7gAlHFHLE/SurSinAFNdQ`

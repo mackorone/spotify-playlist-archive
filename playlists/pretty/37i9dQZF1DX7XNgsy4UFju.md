@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Kevin Abstract
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,710 likes - 99 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,708 likes - 99 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 98 | [The Message](https://open.spotify.com/track/43gooN3lJn0F0GKfDRTPIL) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [The Message](https://open.spotify.com/album/5TcDGlPFPDKwTcyoN4Pm3N) | 2:51 |
 | 99 | [The Fixer](https://open.spotify.com/track/5BnAZC6XC8OPCyXFfV11QQ) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [The Fixer](https://open.spotify.com/album/0QSU2sZMU9q91i9EMQ8BBi) | 2:28 |
 
-Snapshot ID: `AAAAAB0cyHO1mmNsbt9LoHkdfMOCj+oP`
+Snapshot ID: `aEuibwAAAAD24gNQz3lts9Fs3rup4JGi`

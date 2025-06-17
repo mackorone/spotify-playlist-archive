@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,765 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,838 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 39 | [Bukan Dia Tapi Aku](https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:36 |
 | 40 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 |
 | 41 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
-| 42 | [Bila Rasaku Ini Rasamu](https://open.spotify.com/track/5v3yHNK2lYzS3gMPlsugoP) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:32 |
-| 43 | [Orang Yang Sama](https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Orang Yang Sama](https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P) | 4:28 |
+| 42 | [Orang Yang Sama](https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Orang Yang Sama](https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P) | 4:28 |
+| 43 | [Bila Rasaku Ini Rasamu](https://open.spotify.com/track/5v3yHNK2lYzS3gMPlsugoP) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:32 |
 | 44 | [Cinta Dalam Hati](https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Untukmu Selamanya](https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva) | 4:43 |
 | 45 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 |
 | 46 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 |

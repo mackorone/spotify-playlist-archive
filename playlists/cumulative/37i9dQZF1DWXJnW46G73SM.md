@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مصطفى حجاج & إسلام كابونجا
 
-1,487 songs - 3 day 11 hr 6 min
+1,488 songs - 3 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1034,7 +1034,7 @@
 | [الليلة](https://open.spotify.com/track/5G4gQYhgNxVON9LA3gEaxM) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [الليلة](https://open.spotify.com/album/0h2oNUJIdD4GdSTLlRAZ1I) | 3:11 | 2025-01-17 | 2025-02-07 |
 | [الليلة حلوة](https://open.spotify.com/track/5RyptsCWbpw2TbsinvklVv) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [الليلة حلوة](https://open.spotify.com/album/1FtkFVI2zD4mNnmuJ9wiRp) | 2:55 | 2024-05-08 | 2024-07-09 |
 | [الماس \- الحظ](https://open.spotify.com/track/6pXp2X6f0tZAikTFWlqnJ3) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [gelba](https://open.spotify.com/artist/4uj8nP7FLlbOrCJQdzfnH4) | [الماس \- الحظ](https://open.spotify.com/album/2nUCTTCZc1n6hk1s030yxm) | 4:13 | 2025-05-01 |  |
-| [المقص \- من فيلم ريستارت و البوم لينا معاد](https://open.spotify.com/track/5LKRjVzOqlCd5SAa8ZBEhb) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [المقص \(من فيلم ريستارت و البوم لينا معاد\)](https://open.spotify.com/album/5XdfToKX9cO6dOtPxXqf9C) | 3:38 | 2025-05-15 |  |
+| [المقص \- من فيلم ريستارت و البوم لينا معاد](https://open.spotify.com/track/5LKRjVzOqlCd5SAa8ZBEhb) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [المقص \(من فيلم ريستارت و البوم لينا معاد\)](https://open.spotify.com/album/5XdfToKX9cO6dOtPxXqf9C) | 3:38 | 2025-05-15 | 2025-06-17 |
 | [النجمة البعيدة](https://open.spotify.com/track/5HtWPo07qpXttowAl4vAy5) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [النجمة البعيدة](https://open.spotify.com/album/6Wqymb2X6uTYNWQidz7Syg) | 4:41 | 2023-02-16 | 2023-04-06 |
 | [النهايات اخلاق](https://open.spotify.com/track/1N7883qNidzmI1SVmdzfAE) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [النهايات اخلاق](https://open.spotify.com/album/2gCCgjKpxvkdWaXiDh9Kk7) | 4:08 | 2024-01-05 | 2024-02-21 |
 | [الو يا دنيا](https://open.spotify.com/track/4sx3n6ZZg1aar5rSxkOSJE) | [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [الو يا دنيا](https://open.spotify.com/album/2USjojICVMNM317qq7DlD2) | 3:12 | 2024-06-30 | 2024-08-03 |
@@ -1152,6 +1152,7 @@
 | [حضن ابويا](https://open.spotify.com/track/6loQ5gX9N4Mq6VigXfxws7) | [Mai Kassab](https://open.spotify.com/artist/6E3IdT2vK3rC3WuRJwTQBI) | [حضن ابويا](https://open.spotify.com/album/2J4VzJh8mndeeVhWBjfKS8) | 3:15 | 2023-10-06 | 2024-01-17 |
 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 | 2023-07-04 | 2023-08-03 |
 | [حكايتنا منهيه](https://open.spotify.com/track/0JPcPUucXP7jweuhlZ95A6) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حكايتنا منهيه](https://open.spotify.com/album/5XI16cGZpAQzd2Zv8Ztcyd) | 4:39 | 2023-08-10 | 2023-11-29 |
+| [حلال فيك \- من البوم لينا معاد](https://open.spotify.com/track/65uNDYpRRj01SwndtXTHhA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [حلال فيك \(من البوم لينا معاد\)](https://open.spotify.com/album/0ZhDVNeX12HV67XvWLMDvA) | 3:01 | 2025-06-16 |  |
 | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/track/0UDDU3BpxRA9tuXvXXp8hY) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/album/68OVb1DYVsSjAbAVCl03SW) | 3:30 | 2023-09-07 | 2023-12-25 |
 | [حمد الله على السلامة](https://open.spotify.com/track/2iKkj34fFU0fiQQm2HPuEx) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [حمد الله على السلامة](https://open.spotify.com/album/6otpGoLEbwlOE4Zm5UZmtv) | 2:55 | 2023-03-27 | 2023-05-12 |
 | [حوش الدلع](https://open.spotify.com/track/1bmpsrIYMeY9VmveBYu6Cc) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [حوش الدلع](https://open.spotify.com/album/0Xg67d18Abk7FgLGE9PDBQ) | 2:10 | 2024-10-04 | 2024-12-13 |

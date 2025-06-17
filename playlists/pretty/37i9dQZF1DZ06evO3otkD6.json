@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 79022,
+  "num_followers": 79134,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACHmHGgmQ6Bkfp6YXJeqN1+",
+  "snapshot_id": "aE4NAAAAAABWf63EXdpk4IVZI3gsJusF",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 225197,
+      "name": "Heterocrom\u00eda",
+      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Utopia 2",
         "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 225373,
       "name": "Bella Traicion",
       "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 202088,
-      "name": "Cursi De +",
-      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 202088,
+      "name": "Cursi De +",
+      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Utopia 2",
         "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 241906,
       "name": "Luz Sin Gravedad",
       "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 225197,
-      "name": "Heterocrom\u00eda",
-      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 184430,
+      "name": "Aries",
+      "url": "https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4.0",
         "url": "https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq"
       },
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 184430,
-      "name": "Aries",
-      "url": "https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
       },
@@ -483,6 +483,58 @@
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiras: La Serie",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 125470,
+      "name": "Castillos (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 185936,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL"
     },
     {
       "added_at": null,
@@ -531,6 +583,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mentiras: La Serie",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IND\u00d3MITA",
         "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
@@ -540,13 +624,13 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 185936,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL"
+      "duration_ms": 195652,
+      "name": "Never Not Love You",
+      "url": "https://open.spotify.com/track/713xAF1q5XjxPi012W7JHL"
     },
     {
       "added_at": null,
@@ -591,46 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Estamos Tan Locos",
-        "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 206354,
-      "name": "No Estamos Tan Locos",
-      "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Never Not Love You",
-      "url": "https://open.spotify.com/track/713xAF1q5XjxPi012W7JHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mentiras: La Serie",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -644,57 +688,13 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
-          "name": "Mariana Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
-        },
-        {
-          "name": "Diana Bovio",
-          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
-        },
-        {
           "name": "Regina Bland\u00f3n",
           "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
         }
       ],
-      "duration_ms": 125470,
-      "name": "Castillos (feat. Regina Bland\u00f3n)",
-      "url": "https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Voy a Esperar (feat. Belinda)",
-        "url": "https://open.spotify.com/album/7FNuyd1Gm4pPEr9XVkhvF5"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Te Voy a Esperar (feat. Belinda)",
-      "url": "https://open.spotify.com/track/1Px4jqDnQFulhG7Dl3nK0C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
+      "duration_ms": 168140,
+      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
+      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
     },
     {
       "added_at": null,
@@ -715,6 +715,82 @@
       "duration_ms": 210784,
       "name": "Rayo Mcqueen",
       "url": "https://open.spotify.com/track/38yDWRo776wd5OUnD2ELRN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Estamos Tan Locos",
+        "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 206354,
+      "name": "No Estamos Tan Locos",
+      "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiras: La Serie",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 110224,
+      "name": "Es Ella Mas Que Yo",
+      "url": "https://open.spotify.com/track/76U0tk9qvImvBhwPgSw2z9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Voy a Esperar (feat. Belinda)",
+        "url": "https://open.spotify.com/album/7FNuyd1Gm4pPEr9XVkhvF5"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Te Voy a Esperar (feat. Belinda)",
+      "url": "https://open.spotify.com/track/1Px4jqDnQFulhG7Dl3nK0C"
     },
     {
       "added_at": null,
@@ -811,38 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras: La Serie",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Mariana Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
-        },
-        {
-          "name": "Diana Bovio",
-          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
-        },
-        {
-          "name": "Regina Bland\u00f3n",
-          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n)",
-      "url": "https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
@@ -855,6 +899,26 @@
       "duration_ms": 208533,
       "name": "Lo Siento (I'm Sorry)",
       "url": "https://open.spotify.com/track/0UCUBDg2qDlltWU13Z2TCS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiras: La Serie",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 160028,
+      "name": "Detr\u00e1s De Mi Ventana",
+      "url": "https://open.spotify.com/track/1CQ5fSPQCQe54kkh4lPIRE"
     },
     {
       "added_at": null,
@@ -895,26 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras: La Serie",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
       },
       "artists": [
         {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Regina Bland\u00f3n",
-          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
         }
       ],
-      "duration_ms": 168140,
-      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
-      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
+      "duration_ms": 165209,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
     },
     {
       "added_at": null,
@@ -935,18 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
+        "name": "Mentiras: La Serie",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
       "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 165209,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
+      "duration_ms": 116611,
+      "name": "De Color De Rosa",
+      "url": "https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b"
     },
     {
       "added_at": null,
@@ -963,26 +1023,6 @@
       "duration_ms": 239440,
       "name": "En El Amor Hay Que Perdonar",
       "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiras: La Serie",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 110224,
-      "name": "Es Ella Mas Que Yo",
-      "url": "https://open.spotify.com/track/76U0tk9qvImvBhwPgSw2z9"
     },
     {
       "added_at": null,
@@ -1023,46 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Traguito",
-        "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 184185,
-      "name": "Un Traguito",
-      "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiras: La Serie",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 160028,
-      "name": "Detr\u00e1s De Mi Ventana",
-      "url": "https://open.spotify.com/track/1CQ5fSPQCQe54kkh4lPIRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Encantar\u00eda",
         "url": "https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw"
       },
@@ -1083,150 +1083,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico Se Pinta de Luz (Only for Streaming)",
-        "url": "https://open.spotify.com/album/5LEwTDRCpE1egWxc2NZOAP"
+        "name": "Un Traguito",
+        "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        },
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        },
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        },
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Diego Boneta",
-          "url": "https://open.spotify.com/artist/1Pu2OFhNGOTakxDgxoIXiv"
-        },
-        {
-          "name": "Ana Victoria",
-          "url": "https://open.spotify.com/artist/1Xc3X1FuRXrzFZ1C5BuCy5"
-        },
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Edwin Luna",
-          "url": "https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph"
-        },
-        {
-          "name": "Emir Pab\u00f3n & Grupo Ca\u00f1averal",
-          "url": "https://open.spotify.com/artist/0rZXQ9C4qhqlaEU1Hq2yZk"
-        },
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        },
-        {
-          "name": "Iskander",
-          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
-        },
-        {
-          "name": "Atl Garza",
-          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
-        },
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        },
-        {
-          "name": "Marian y Mariel",
-          "url": "https://open.spotify.com/artist/2eoaAiXb399cRLwCZ1aL3Z"
-        },
-        {
-          "name": "Ruby Escobar",
-          "url": "https://open.spotify.com/artist/4B1lw3JlqW7qt5WPgzpIhB"
-        },
-        {
-          "name": "Carla Mauri",
-          "url": "https://open.spotify.com/artist/2hY4VfJgrFytYv3vClZ9rA"
-        },
-        {
-          "name": "LemonGrass",
-          "url": "https://open.spotify.com/artist/0988g1pgIlWAKBVf3DQ7db"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/5ogsMocz0VBYwmdpKDJl70"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 164649,
-      "name": "Ll\u00f3rame Un R\u00edo",
-      "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiras: La Serie",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 116611,
-      "name": "De Color De Rosa",
-      "url": "https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Sal De Mi Piel",
-      "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
+      "duration_ms": 184185,
+      "name": "Un Traguito",
+      "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
     }
   ],
   "unique_name": "This Is Belinda",

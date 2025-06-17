@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,710 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,714 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 17 | [Banho de Folhas](https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Banho de Folhas](https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R) | 3:51 |
 | 18 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
 | 19 | [Prudente \- Ao Vivo](https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 2:49 |
-| 20 | [Quando Eu Me Chamar Saudade](https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF) | [Nelson Cavaquinho](https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5) | [Série Documento \- Nelson Cavaquinho](https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k) | 3:27 |
-| 21 | [Alma Boêmia \- Ao Vivo](https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt) | [Toninho Geraes](https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp) | [Tudo Que Sou, Vol\. 1: Fragmentos \(Ao Vivo\)](https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW) | 4:27 |
+| 20 | [Alma Boêmia \- Ao Vivo](https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt) | [Toninho Geraes](https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp) | [Tudo Que Sou, Vol\. 1: Fragmentos \(Ao Vivo\)](https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW) | 4:27 |
+| 21 | [Quando Eu Me Chamar Saudade](https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF) | [Nelson Cavaquinho](https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5) | [Série Documento \- Nelson Cavaquinho](https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k) | 3:27 |
 | 22 | [Gente](https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:55 |
 | 23 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 |
 | 24 | [Deixa A Vida Me Levar \- Ao Vivo](https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Uma Prova De Amor Ao Vivo \(Deluxe\)](https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC) | 3:14 |
-| 25 | [Nas Asas da Canção](https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN) | [Nelson Sargento](https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL) | [Versátil](https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM) | 4:06 |
-| 26 | [Argumento](https://open.spotify.com/track/5SK175I291bHHcroTHUwQn) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Argumento](https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53) | 3:12 |
+| 25 | [Argumento](https://open.spotify.com/track/5SK175I291bHHcroTHUwQn) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Argumento](https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53) | 3:12 |
+| 26 | [Nas Asas da Canção](https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN) | [Nelson Sargento](https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL) | [Versátil](https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM) | 4:06 |
 | 27 | [Menina Você Bebeu](https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Jovelina Pérola Negra](https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf) | 3:36 |
 | 28 | [Ê Baiana](https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Nova Bis \- Clara Nunes](https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y) | 3:01 |
 | 29 | [Estácio Eu e Você \- Ao Vivo](https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Luiz Melodia Especial MTV \(Ao Vivo\)](https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h) | 3:05 |

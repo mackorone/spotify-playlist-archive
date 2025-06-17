@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,556 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,585 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 26 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
 | 27 | [zarcillos de plata](https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 3:18 |
 | 28 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
-| 29 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
-| 30 | [Til The Morning](https://open.spotify.com/track/0rnnu0SMZ4jTGhOAQfoeq6) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 3:32 |
+| 29 | [Til The Morning](https://open.spotify.com/track/0rnnu0SMZ4jTGhOAQfoeq6) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 3:32 |
+| 30 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
 | 31 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 |
 | 32 | [No Problems](https://open.spotify.com/track/6qvkRSSx2JE3iFCi2KFZcq) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [SHINBANGUMI](https://open.spotify.com/album/6bgUdri7frTG9Aqo3Xusw7) | 3:44 |
 | 33 | [Hell of a Ride](https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Catching Chickens EP](https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH) | 3:43 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 71 | [Kepko](https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Dennis](https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s) | 3:12 |
 | 72 | [How Can I Love Her More?](https://open.spotify.com/track/5aR0Zrg6Oq0EulyTZPwAxG) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 2:47 |
 | 73 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 |
-| 74 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
-| 75 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 |
+| 74 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 |
+| 75 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
 
 Snapshot ID: `Z1uEoQAAAAAkZ9+Y99rvYmXnMNUype2W`

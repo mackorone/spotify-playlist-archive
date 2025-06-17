@@ -1,6 +1,6 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen und zeitlosen Partyhits.",
-  "num_followers": 1994112,
+  "num_followers": 1994000,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
@@ -91,26 +91,6 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
-        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2025-06-04 04:50:27",
-      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2025-06-04 04:50:27",
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "added_at": "2025-06-04 04:50:27",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2025-06-04 04:50:27",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
-    },
-    {
-      "added_at": "2025-06-04 04:50:27",
-      "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2025-06-04 04:50:27",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "added_at": "2025-06-04 04:50:27",
+      "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
-    },
-    {
-      "added_at": "2025-06-04 04:50:27",
-      "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "added_at": "2025-06-04 04:50:27",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
+    },
+    {
+      "added_at": "2025-06-04 04:50:27",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
-    },
-    {
-      "added_at": "2025-06-04 04:50:27",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
     },
     {
       "added_at": "2025-06-04 04:50:27",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
-    },
-    {
-      "added_at": "2025-06-04 04:50:27",
-      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 246960,
       "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "added_at": "2025-06-04 04:50:27",
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "added_at": "2025-06-04 04:50:27",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
-    },
-    {
-      "added_at": "2025-06-04 04:50:27",
-      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+    },
+    {
+      "added_at": "2025-06-04 04:50:27",
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
     },
     {
       "added_at": "2025-06-04 04:50:27",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+    },
+    {
+      "added_at": "2025-06-04 04:50:27",
+      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
-    },
-    {
-      "added_at": "2025-06-04 04:50:27",
-      "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2025-06-04 04:50:27",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2025-06-04 04:50:27",
+      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 116465,
       "name": "MONEY ON THE DASH - SPED UP",
       "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
-    },
-    {
-      "added_at": "2025-06-04 04:50:27",
-      "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2025-06-04 04:50:27",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
-        "name": "When We Were Young (The Logical Song)",
-        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 147432,
-      "name": "When We Were Young (The Logical Song)",
-      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
-    },
-    {
-      "added_at": "2025-06-04 04:50:27",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -1859,18 +1839,22 @@
     {
       "added_at": "2025-06-04 04:50:27",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "added_at": "2025-06-04 04:50:27",
@@ -1887,6 +1871,22 @@
       "duration_ms": 194000,
       "name": "Cotton Eye Joe",
       "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
+    },
+    {
+      "added_at": "2025-06-04 04:50:27",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2025-06-04 04:50:27",

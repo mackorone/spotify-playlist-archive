@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24657,
+  "num_followers": 24665,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAB3HM8itknH6/I2oXC0edDI",
+  "snapshot_id": "aE4NAAAAAADa7iDvsIMY37IigY1AkyOQ",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187943,
-      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 187943,
+      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
     },
     {
       "added_at": null,

@@ -7264,7 +7264,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/4KW66ZVoSyUN0TJXdL9mLc"
@@ -11132,7 +11132,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -21646,7 +21646,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 192122,
       "name": "Kiedy umr\u0119 kochanie (H. Po\u015bwiatowska)",
       "url": "https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO"
@@ -24446,7 +24446,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 125732,
       "name": "Lloret de Mar",
       "url": "https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf"
@@ -26518,7 +26518,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -30620,7 +30620,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 164000,
       "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
       "url": "https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX"
@@ -32570,7 +32570,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 144000,
       "name": "Opener",
       "url": "https://open.spotify.com/track/30Mb1itXAG1HGfQrwF5guj"
@@ -38008,7 +38008,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 156813,
       "name": "RELAX",
       "url": "https://open.spotify.com/track/3hGPKpAUhigkEI5RmmAvGs"
@@ -39588,7 +39588,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 235773,
       "name": "Schodki",
       "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"
@@ -43296,7 +43296,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 186219,
       "name": "Tamo Bien",
       "url": "https://open.spotify.com/track/72RjC359lcwhf1cON9ppls"
@@ -48933,6 +48933,32 @@
     },
     {
       "album": {
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/2uttajnt9wdRVCni1kxZcf"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156037,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/4Rq2KHHSBZ6uajWbGdHYSg"
+    },
+    {
+      "album": {
         "name": "ERA47",
         "url": "https://open.spotify.com/album/5xZ5zOSrtC9rdbZjtNesJu"
       },
@@ -50218,7 +50244,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 253133,
       "name": "Zanim p\u00f3jd\u0119",
       "url": "https://open.spotify.com/track/6LuOCaMHFBfaR1MLKNHhMA"

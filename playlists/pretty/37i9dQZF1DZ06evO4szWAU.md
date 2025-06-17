@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 
 > This is Willie Colón\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,271 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,287 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4szWAU.md) - [plain]
 | 49 | [Quimbara](https://open.spotify.com/track/1CkuZ3qvhxfMv7y0Nt0sV5) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Johnny Pacheco Y Su Charanga](https://open.spotify.com/artist/2JK0DNoBRuK2rH1tQrBsvA) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:53 |
 | 50 | [El Malo](https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 4:02 |
 
-Snapshot ID: `aEy7gAAAAAAgxhZCnlLTyFOiZBz/4jqF`
+Snapshot ID: `aE4NAAAAAABH8WYcwu4tmtrzDVoC+v7N`

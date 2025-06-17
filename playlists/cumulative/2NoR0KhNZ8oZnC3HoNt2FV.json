@@ -4619,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },

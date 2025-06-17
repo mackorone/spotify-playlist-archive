@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: Mark Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,840 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,857 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 38 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |
 | 39 | [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 |
 | 40 | [Break My Heart](https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Break My Heart](https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq) | 4:14 |
-| 41 | [Bricks](https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Bricks](https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd) | 3:35 |
-| 42 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 |
+| 41 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 |
+| 42 | [Bricks](https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Bricks](https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd) | 3:35 |
 | 43 | [Til My Heart Don't Beat](https://open.spotify.com/track/0yQHaVoo4kTdzrRgByDkCE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside \(Deluxe Album Edition\)](https://open.spotify.com/album/2u3UiV0r30VTHiibNNuYXL) | 1:57 |
 | 44 | [Tell Me Why](https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin) | [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [Tell Me Why](https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l) | 3:06 |
 | 45 | [A Bad Hand](https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [A Bad Hand](https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd) | 3:40 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 65 | [15 Minute Smog Check](https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [15 Minute Smog Check](https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs) | 3:54 |
 | 66 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 |
 | 67 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 |
-| 68 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 |
-| 69 | [High Time](https://open.spotify.com/track/37cUGI1BZADBtseJQJ4Nld) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:54 |
+| 68 | [High Time](https://open.spotify.com/track/37cUGI1BZADBtseJQJ4Nld) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:54 |
+| 69 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 |
 | 70 | [On To The Next](https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 2:58 |
 | 71 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 |
 | 72 | [Alabama](https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP) | [Bishop Gunn](https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm) | [Natchez](https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4) | 3:34 |

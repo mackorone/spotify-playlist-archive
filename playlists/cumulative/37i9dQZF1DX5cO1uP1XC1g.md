@@ -4,7 +4,7 @@
 
 > The Hottest Arabic Music.<br/>Cover: Bessan Ismail
 
-424 songs - 1 day 1 hr 33 min
+425 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 | 2021-12-12 | 2022-09-19 |
 | [Piece Of My Heart](https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Piece Of My Heart](https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x) | 3:09 | 2021-12-12 | 2022-10-05 |
 | [Qalbi](https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Qalbi](https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L) | 3:06 | 2023-06-04 |  |
-| [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 | 2023-06-04 |  |
+| [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 | 2023-06-04 | 2025-06-17 |
 | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-10 | 2022-12-14 |
 | [Rabeh Marra](https://open.spotify.com/track/52GPNk23IUBh5AZ8Jo43xm) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Rabeh Marra](https://open.spotify.com/album/27vkEvWoYEgBJr8h1TU6XG) | 3:11 | 2023-04-19 | 2023-06-02 |
 | [Rased El Satr](https://open.spotify.com/track/4ageOMHYR3Nw14OKnSx3X2) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Rased El Satr](https://open.spotify.com/album/2tkDEznir270fP93uND9k1) | 2:38 | 2023-02-02 | 2023-02-18 |
@@ -362,6 +362,7 @@
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2021-12-12 | 2022-11-15 |
 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 | 2023-01-11 | 2023-07-13 |
 | [بتفتكرني ساعات](https://open.spotify.com/track/652w7al7VpQIS7zBsU2gY9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [بتفتكرني ساعات](https://open.spotify.com/album/5ZaJ1VJlCJWf3pjUSdTb3Z) | 3:37 | 2023-01-11 | 2023-01-14 |
+| [بتمنى أنساك](https://open.spotify.com/track/0Rv0N34JIc3XGK5x2ohPOG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [بتمنى أنساك](https://open.spotify.com/album/2qjCon1r5mx9dxpMLwwDuG) | 2:59 | 2025-06-16 |  |
 | [بحبك و خايف](https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [بحبك و خايف](https://open.spotify.com/album/3cP7v2k1xLOXCsFBstKtF7) | 3:57 | 2023-01-30 | 2023-07-12 |
 | [براحة يا شيخة](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [براحة يا شيخة](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-02-09 | 2024-08-08 |
 | [براڤو عليك](https://open.spotify.com/track/4QtFRUFS7BVi3OHUfmt2dP) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj), [Haneen Alkandari](https://open.spotify.com/artist/2Ta2wwXNha3yoxUuOQVMOF) | [براڤو عليك](https://open.spotify.com/album/4i1xPjQurMytzpR1mW3zIw) | 2:58 | 2021-12-12 | 2023-04-20 |

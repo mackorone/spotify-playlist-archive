@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Suicide Doors](https://open.spotify.com/track/3S0CGNd6V6XzHlQcbZlgiQ) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Suicide Doors](https://open.spotify.com/album/5PCxicUXAOi4M3OUtmslVa) | 2:24 |
 | 2 | [NON FARE L'AMERICANO \(feat\. MamboLosco\)](https://open.spotify.com/track/45ejrQ1ji3N41h2Bsg8ftm) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [NON FARE L'AMERICANO \(feat\. MamboLosco\)](https://open.spotify.com/album/2hBRkQy6AAh9eWjz4avavF) | 2:43 |
-| 3 | [MOISE KEAN](https://open.spotify.com/track/38NU5s6KSn5lUfnh8QUpyn) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/4i3XpfOVIsVyI5ANiyiKRR) | 3:15 |
+| 3 | [MOISE KEAN](https://open.spotify.com/track/1flpr4TyI6JvNCaUs8NPbh) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/2X5WUZnoOKOACVUGZw5hAT) | 3:15 |
 | 4 | [Apposto \(feat\. LILCR\)](https://open.spotify.com/track/2uxmWymjG8RPGUTFnW3gtD) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [Apposto \(feat\. LILCR\)](https://open.spotify.com/album/6YbZ08mCKA4YokmYtGxaHp) | 2:20 |
 | 5 | [GTA 2](https://open.spotify.com/track/2mBwUewWnDzIjI4Fplc3ZJ) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [GTA 2](https://open.spotify.com/album/5EO4lKGdinEX8jMI2av0Ze) | 2:33 |
 | 6 | [Fantasy](https://open.spotify.com/track/7zhjHihJHGKrsM0TxEY7h8) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Fantasy](https://open.spotify.com/album/1G9WIUURtWtUwEdjLooHgo) | 2:53 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 77 | [Punto di Rottura](https://open.spotify.com/track/36eYQSrudA4qJCXsQP3CEy) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [Stanza di Vetro](https://open.spotify.com/album/7M4Yi6qfz8930Us76AP1Ob) | 2:43 |
 | 78 | [BAD \(TEMPO\)](https://open.spotify.com/track/0oGUjQkQG86zDtmBG3KwrL) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz) | [BAD \(TEMPO\)](https://open.spotify.com/album/038ELApMwwaO4xRjCuhsMp) | 2:56 |
 
-Snapshot ID: `aEtOOAAAAABzqFuvb8QyvSZ0Oyza8iKy`
+Snapshot ID: `aE/1RgAAAABD+UWSrhlee4R+R5RWA5lg`

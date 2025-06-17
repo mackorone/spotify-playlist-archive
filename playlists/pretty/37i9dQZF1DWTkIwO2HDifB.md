@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: Dj Caio Vieira, MC Meno K, MC Rodrigo do CN
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,550,899 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,551,401 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

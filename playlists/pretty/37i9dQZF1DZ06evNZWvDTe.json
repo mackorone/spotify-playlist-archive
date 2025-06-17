@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12683,
+  "num_followers": 12687,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAC2gB+X1ZQeCuvGaQzJXhmw",
+  "snapshot_id": "aE4NAAAAAAASReuRhh9YVQjpTwgi4u7x",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 253040,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -783,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Not The Tape, Sorry 4 The Wait II",
-        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
       },
       "artists": [
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
         }
       ],
-      "duration_ms": 152369,
-      "name": "Jehovah",
-      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -839,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
+        "name": "This Is Not The Tape, Sorry 4 The Wait II",
+        "url": "https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         },
         {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 183477,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
+      "duration_ms": 152369,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV"
     },
     {
       "added_at": null,

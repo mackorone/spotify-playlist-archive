@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: JEONG EUN JI, Seo In Guk\(정은지, 서인국\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,204 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,219 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 47 | [Complications \(ft\. SOLE\)](https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 2:52 |
 | 48 | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/album/1J5q0SEeWRwm81k5dQS4nb) | 3:12 |
 | 49 | [Be Your Enemy](https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:35 |
-| 50 | [DON\`T SAY GOODBYE](https://open.spotify.com/track/0A7XRj5gP3Cx44awg1yOIE) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P), [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [DON\`T SAY GOODBYE](https://open.spotify.com/album/0YnAmYmxoerGmn5qCCjFlN) | 3:06 |
+| 50 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
 
 Snapshot ID: `aEvsqwAAAAAOYurmRqM7QybEeNxoLk7a`

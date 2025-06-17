@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 227695,
+  "num_followers": 227729,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+      },
+      "artists": [
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 220653,
       "name": "Things That I Lean On",
       "url": "https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
-      },
-      "artists": [
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
-        }
-      ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2024-08-30 04:00:00",

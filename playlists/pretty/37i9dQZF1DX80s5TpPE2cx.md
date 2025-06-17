@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Cruel Santino
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,896 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,913 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 35 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 |
 | 36 | [Fluid](https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 2:25 |
 | 37 | [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 |
-| 38 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
+| 38 | [LEANING](https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [LEANING](https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO) | 2:33 |
 | 39 | [Broken Promises](https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 3:11 |
-| 40 | [LEANING](https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [LEANING](https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO) | 2:33 |
+| 40 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
 | 41 | [Skedaddle](https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Skedaddle](https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO) | 2:30 |
 | 42 | [Breathing](https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [First Signs Of Me](https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo) | 3:49 |
 | 43 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 48 | [Godzilla](https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Meme Tape](https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT) | 3:21 |
 | 49 | [Catching a Wav](https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Passionfruit Summers](https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt) | 3:15 |
 | 50 | [Operation](https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [WINNY](https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5) | 3:17 |
-| 51 | [Unruly](https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Unruly](https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T) | 2:33 |
-| 52 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 |
+| 51 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 |
+| 52 | [Unruly](https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Unruly](https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T) | 2:33 |
 | 53 | [Air](https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:16 |
 | 54 | [Wuse II](https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Wuse II \(feat\. Odunsi\)](https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg) | 4:29 |
 | 55 | [Mondays](https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [Mondays](https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK) | 2:14 |

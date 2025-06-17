@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 960116,
+  "num_followers": 960311,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABiGCUgVSBVBy+sXx232yfY",
+  "snapshot_id": "aE4NAAAAAACtTfp9XUPr5/5/yCNMUOdF",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con Tambora",
-        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 219962,
-      "name": "Carrera A Muerte",
-      "url": "https://open.spotify.com/track/2rJBndq82AOiGEEE84im02"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colecci\u00f3n De Oro, Vol. 3: Con Tambora",
         "url": "https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 180337,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 219962,
+      "name": "Carrera A Muerte",
+      "url": "https://open.spotify.com/track/2rJBndq82AOiGEEE84im02"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 195117,
       "name": "Afortunado",
       "url": "https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/44P2cTsJ3QF8HQsgdlMJge"
     },
     {
       "added_at": null,

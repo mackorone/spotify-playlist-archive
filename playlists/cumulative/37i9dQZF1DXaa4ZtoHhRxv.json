@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Kane Brown and Marshmello\n",
-  "name": "Country Club",
+  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Diplo\n",
+  "name": "Country EDM",
   "tracks": [
     {
       "album": {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 175161,
       "name": "42",
       "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 173952,
       "name": "Both Still Young (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/23GADqMc230MGEOTewOg06"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 150909,
       "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
       "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 221573,
       "name": "Bottoms Up - Remix",
       "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 214997,
       "name": "Call It Fate",
       "url": "https://open.spotify.com/track/7bbOBTzOTKmBlq73jaKR0R"
@@ -646,10 +646,36 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 202018,
       "name": "Can't Stop Us Now",
       "url": "https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Us Now (Nitti Gritti Remix)",
+        "url": "https://open.spotify.com/album/7wpxV2k81rIXblCBX7weRp"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Zac Brown",
+          "url": "https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "Can't Stop Us Now - Nitti Gritti Remix",
+      "url": "https://open.spotify.com/track/1v9Aa7OuqDjyvkz3K6NooH"
     },
     {
       "album": {
@@ -668,7 +694,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 210005,
       "name": "Caught Up In The Country (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/6MYshGKhcheOSGquz6NKbC"
@@ -726,7 +752,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 207316,
       "name": "Comeback Kid",
       "url": "https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7"
@@ -792,7 +818,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 176983,
       "name": "Country Boy Do (feat. Tyler Hubbard)",
       "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
@@ -814,7 +840,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 175600,
       "name": "Country Girls (Just Wanna Have Fun) - Remix",
       "url": "https://open.spotify.com/track/1o4745mecWP3CXw4uLSfJA"
@@ -880,7 +906,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 207973,
       "name": "Cruise - Remix",
       "url": "https://open.spotify.com/track/2IQIp6AvSm7OJ3y2yp8use"
@@ -924,7 +950,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 191493,
       "name": "Cut Me Loose - Harris & Hurr Remix",
       "url": "https://open.spotify.com/track/4eE1ZdBoLpgYFhqDzUw71Y"
@@ -994,7 +1020,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 219997,
       "name": "Dark Horse - Attom Remix",
       "url": "https://open.spotify.com/track/1NZAaaimzWonDpqcK0Ls88"
@@ -1016,7 +1042,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 179620,
       "name": "Diamonds - Cash Cash Remix",
       "url": "https://open.spotify.com/track/2ByP6u4dKJSTmHziCVDteF"
@@ -1082,7 +1108,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 206120,
       "name": "Dirt On My Boots - Remix",
       "url": "https://open.spotify.com/track/3S86G5H2vQbmaOGIg0UXKr"
@@ -1104,7 +1130,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 232720,
       "name": "Dirt Road Anthem (Remix) [feat. Ludacris]",
       "url": "https://open.spotify.com/track/4s3Z1svzMAu8OwmhWLUWHw"
@@ -1178,7 +1204,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 218720,
       "name": "Dixieland Delight (Dee Jay Silver Mix) (feat. Nappy Roots)",
       "url": "https://open.spotify.com/track/2wJ9pb5Aj7v7yWUnLftFUt"
@@ -1354,7 +1380,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 208133,
       "name": "Drink to That All Night (Remix) (feat. Pitbull)",
       "url": "https://open.spotify.com/track/7CwboxAi6CvMcWrDfbxttR"
@@ -1406,6 +1432,24 @@
       "duration_ms": 153975,
       "name": "Drunk Me - R3HAB Remix",
       "url": "https://open.spotify.com/track/3kwL8x4afaomYsX3d4cmPL"
+    },
+    {
+      "album": {
+        "name": "Dumb (Good Ol' Time)",
+        "url": "https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115636,
+      "name": "Dumb (Good Ol' Time)",
+      "url": "https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ"
     },
     {
       "album": {
@@ -1628,7 +1672,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 147189,
       "name": "Feels Right (I Love It)",
       "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
@@ -1654,7 +1698,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 186961,
       "name": "First Rodeo",
       "url": "https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO"
@@ -1756,7 +1800,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 161311,
       "name": "Girls Like You (NIIKO X SWAE Remix)",
       "url": "https://open.spotify.com/track/4aEKQNctFCimUjzJpmMhIK"
@@ -1782,6 +1826,28 @@
       "duration_ms": 204889,
       "name": "Good as You - Digital Farm Animals Remix",
       "url": "https://open.spotify.com/track/2rrBSCcE1tO5o6ycZAEVIY"
+    },
+    {
+      "album": {
+        "name": "ASCEND",
+        "url": "https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216668,
+      "name": "Good Things Fall Apart (with Jon Bellion)",
+      "url": "https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF"
     },
     {
       "album": {
@@ -1822,7 +1888,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 144761,
       "name": "Good Times Go By Too Fast (VAVO Remix)",
       "url": "https://open.spotify.com/track/7e5i1t1bzZxUQckJrDbFi5"
@@ -1866,7 +1932,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 230694,
       "name": "Got No Choice - Dave Aud\u00e9 Remix",
       "url": "https://open.spotify.com/track/0MWV88QURJzWteCK2glxOZ"
@@ -1994,7 +2060,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 255093,
       "name": "Hey Brother",
       "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"
@@ -2072,7 +2138,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 152781,
       "name": "High Horse (feat. BRELAND and Blanco Brown)",
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
@@ -2094,7 +2160,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 252682,
       "name": "High Horse - Kue Remix",
       "url": "https://open.spotify.com/track/4uD3M8K5kxryLFRCWPSkc4"
@@ -2116,7 +2182,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 222693,
       "name": "High Horse - Violents Remix",
       "url": "https://open.spotify.com/track/4veyQyv5k8leAa2MCfDbND"
@@ -2160,7 +2226,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
@@ -2282,7 +2348,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 144000,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/31kPsiy1Lwo81YqOensCZh"
@@ -2344,7 +2410,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 190240,
       "name": "House Party",
       "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
@@ -2388,7 +2454,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 216092,
       "name": "I Can't - Dave Aud\u00e9 Remix",
       "url": "https://open.spotify.com/track/0tVK8v4KrIe2m31mkymR3G"
@@ -2494,7 +2560,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 172617,
       "name": "Keep You With Me",
       "url": "https://open.spotify.com/track/2JmxvWnOx1RrNDInp65FJv"
@@ -2519,6 +2585,32 @@
     },
     {
       "album": {
+        "name": "Lay Your Head",
+        "url": "https://open.spotify.com/album/6T4BcZtJkdRtDENmaQTWdJ"
+      },
+      "artists": [
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Joe Cleere",
+          "url": "https://open.spotify.com/artist/6P4CBsjZN4ZsBfMnBMYFCA"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181038,
+      "name": "Lay Your Head",
+      "url": "https://open.spotify.com/track/3KZxq9NcWRwL39l3JdUpOO"
+    },
+    {
+      "album": {
         "name": "Leave Right Now (The Remixes)",
         "url": "https://open.spotify.com/album/1YEKN0Bpeo0i0coa5niw9F"
       },
@@ -2534,7 +2626,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 161973,
       "name": "Leave Right Now - Martin Jensen Mix",
       "url": "https://open.spotify.com/track/2jfxgvlFmXQzUxTfCSEwmR"
@@ -2564,7 +2656,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 174800,
       "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
       "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
@@ -2586,7 +2678,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 195962,
       "name": "Lil Bit",
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
@@ -2608,10 +2700,32 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 172362,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/6ztvWxZtWsfDhefzkAhL42"
+    },
+    {
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/4cj7FcpVg8HvQzPPKhoMM9"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Cassidi",
+          "url": "https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222957,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/2duyHVCqcaX2FSwjzuZijF"
     },
     {
       "album": {
@@ -2630,7 +2744,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 211857,
       "name": "Love Story (Taylor's Version) - Elvira Remix",
       "url": "https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2"
@@ -2688,7 +2802,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 233000,
       "name": "Man! I Feel Like A Woman!",
       "url": "https://open.spotify.com/track/6q9orQ8lTnKFqBhxRB0bY5"
@@ -2728,7 +2842,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
@@ -2762,6 +2876,32 @@
       "duration_ms": 177600,
       "name": "Memory - GOLDHOUSE x Mokita Remix",
       "url": "https://open.spotify.com/track/4XZ8YGsNIF4UqE324Mbgfg"
+    },
+    {
+      "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211525,
+      "name": "Midnight Ride",
+      "url": "https://open.spotify.com/track/6J26td5uctWg0UlzdzCj7Y"
     },
     {
       "album": {
@@ -2806,7 +2946,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 149594,
       "name": "Miles On It - Joel Corry Remix",
       "url": "https://open.spotify.com/track/7tHLE2wLCjN7oqIQOQMSqR"
@@ -2832,7 +2972,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 182000,
       "name": "Miss Me More - Cutmore & Wilson Remix",
       "url": "https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ"
@@ -2876,7 +3016,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 187661,
       "name": "More Than Yesterday (feat. Russell Dickerson)",
       "url": "https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH"
@@ -2920,7 +3060,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 159888,
       "name": "My Truck (feat. Sam Hunt) - Remix",
       "url": "https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ"
@@ -2978,7 +3118,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 184784,
       "name": "New York at Night - Remix",
       "url": "https://open.spotify.com/track/59wIRZMCUccEB0Piht3s2b"
@@ -3070,7 +3210,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Nobody (R3HAB Remix)",
       "url": "https://open.spotify.com/track/2Z0Ie1NJJLkp14ClmTx5P5"
@@ -3192,7 +3332,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 179306,
       "name": "Older ft Jimmie Allen & Dixie D'Amelio",
       "url": "https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU"
@@ -3302,7 +3442,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 174193,
       "name": "One Of Them Girls (VAVO Remix)",
       "url": "https://open.spotify.com/track/0CjLazxB3sgVj5tLOj2hKR"
@@ -3324,7 +3464,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "One Tequila - MC4D Remix",
       "url": "https://open.spotify.com/track/5LCjdMljRMFOLsq5yPCAYE"
@@ -3394,7 +3534,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 120483,
       "name": "Raise Your Glass (feat. DINER)",
       "url": "https://open.spotify.com/track/131K9WHjrZSqKIJh4kO1A7"
@@ -3562,7 +3702,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 162772,
       "name": "SMOKE THE PAIN AWAY",
       "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
@@ -3650,7 +3790,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 169586,
       "name": "Somethin' Bad (with Carrie Underwood)",
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
@@ -3676,7 +3816,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 169033,
       "name": "Something We Can Dance To",
       "url": "https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe"
@@ -3724,7 +3864,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 173069,
       "name": "Something\u2019s Coming",
       "url": "https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx"
@@ -3750,7 +3890,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 148440,
       "name": "Soul (R3HAB Remix)",
       "url": "https://open.spotify.com/track/32d8sQk2Q6zttnj80nBFMM"
@@ -3842,7 +3982,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 180720,
       "name": "Take It From Me - Brandon Day Remix",
       "url": "https://open.spotify.com/track/06PQ8Qrv66zvNyc2KIahb0"
@@ -3860,7 +4000,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
@@ -3951,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/5o4sSLE2s57wREDSkD16E8"
+      },
+      "artists": [
+        {
+          "name": "Lavish Life",
+          "url": "https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/4ZQDkq6K7OGzhR6f12g8Qf"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk"
       },
@@ -4002,7 +4160,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 288493,
       "name": "The Bones - Dave Aud\u00e9 Remix",
       "url": "https://open.spotify.com/track/3LJWl9hMaxvRU3TosbK1wh"
@@ -4024,7 +4182,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 223998,
       "name": "The Champion",
       "url": "https://open.spotify.com/track/0stPNUkU1LZnvxIcfrKnEZ"
@@ -4068,7 +4226,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 193255,
       "name": "The Git Up (feat. Ciara) - Remix",
       "url": "https://open.spotify.com/track/5PPk5WM8vpJ7VOR9gUrMFH"
@@ -4094,7 +4252,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
@@ -4116,7 +4274,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 304280,
       "name": "The Night The Lights Went Out In Georgia - Eric Kupper Remix",
       "url": "https://open.spotify.com/track/3CCx4xeyrZQTONz6MvURaX"
@@ -4240,7 +4398,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 197946,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
@@ -4266,7 +4424,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 206960,
       "name": "This Is How We Roll - Remix",
       "url": "https://open.spotify.com/track/3Hs4ytyLFzB2HKk2ZSohko"
@@ -4310,7 +4468,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 188936,
       "name": "Throw It Back (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
@@ -4431,6 +4589,36 @@
     },
     {
       "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
+      "url": "https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB"
+    },
+    {
+      "album": {
         "name": "Used To",
         "url": "https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk"
       },
@@ -4464,6 +4652,24 @@
       "duration_ms": 164958,
       "name": "Waitin' on 5 - Summer Jam Mix",
       "url": "https://open.spotify.com/track/1kYZy0xHmJlCxOUBYkp2LJ"
+    },
+    {
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247426,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
     },
     {
       "album": {
@@ -4816,7 +5022,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 155322,
       "name": "You Got It (Ryan Riback Remix)",
       "url": "https://open.spotify.com/track/3KUtdymNzYk5yA1so29RRl"
@@ -4846,6 +5052,28 @@
       "duration_ms": 151623,
       "name": "You're Still The One - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/7zBrLlKtSc315jsBS9loTD"
+    },
+    {
+      "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180243,
+      "name": "You're Still The One - Frank Walker Remix",
+      "url": "https://open.spotify.com/track/3yISYPqPXopmnUyvesbiFU"
     },
     {
       "album": {

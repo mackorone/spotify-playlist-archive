@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,499 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,498 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 24 | [Furious](https://open.spotify.com/track/272slxHVqV2k38mxVP2hat) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 0:43 |
 | 25 | [BIA BIA \(feat\. Lil Jon\)](https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:05 |
 | 26 | [Super Freaky Girl \(with JT & BIA feat\. Katie Got Bandz, Akbar V & Maliibu Mitch\) \- Queen Mix](https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Katie Got Bandz](https://open.spotify.com/artist/48ObYO3GM7R76nRcfyvnM9), [Akbar V](https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [Super Freaky Girl \(Queen Mix\)](https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6) | 3:54 |
-| 27 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 |
-| 28 | [Savage \(feat\. BIA\)](https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Savage \(feat\. BIA\)](https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS) | 2:44 |
+| 27 | [Savage \(feat\. BIA\)](https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Savage \(feat\. BIA\)](https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS) | 2:44 |
+| 28 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 |
 | 29 | [COVER GIRL](https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:29 |
 | 30 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
 | 31 | [Labels\. \(ft\. Moneybagg Yo, BIA\)](https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [AUTOMATIC \(feat\. Doe Boy & 42 Dugg\)](https://open.spotify.com/track/0PDno6z7Wn9gPYLn75QEMZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:09 |
 | 50 | [Like Yoga](https://open.spotify.com/track/0nea1dubr2tYkSb9Fo7pkE) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Life's A Gamble](https://open.spotify.com/album/6wScYhNN09rl5Sc4XfL9ru) | 2:40 |
 
-Snapshot ID: `aEy7gAAAAACLzqRVPvPqSZwS1jvQaDND`
+Snapshot ID: `aE4NAAAAAACsgcR3n7pPRdhkkNxQ7O4W`

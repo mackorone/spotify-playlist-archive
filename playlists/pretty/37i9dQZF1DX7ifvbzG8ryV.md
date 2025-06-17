@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:37i9dQZF1EFOVlCEtE0M8P">Jennifer Decilveo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,915 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,928 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [Erika](https://open.spotify.com/track/3LZbjiwzmbsw67vPzAaqTF) | [Rosemary Joaquin](https://open.spotify.com/artist/5siWl4GNJu9rBMoexPD9R6) | [Erika](https://open.spotify.com/album/3tzAkArHxnx5ncFjKUTBSw) | 3:11 |
 | 50 | [MAKE IT OUT ALIVE](https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MAKE IT OUT ALIVE](https://open.spotify.com/album/3SJS6rambcg00ibSTn6iUw) | 2:51 |
 
-Snapshot ID: `aEBBiwAAAACnmCTCw++CIEc4yLfZs44S`
+Snapshot ID: `aEBBiwAAAAAoVktmSuoPxQKFPPxRT/hO`

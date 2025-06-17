@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 680446,
+  "num_followers": 680706,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-03-28 04:00:29",
       "album": {
-        "name": "A Little Closer",
-        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "A Little Closer",
-      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
-    },
-    {
-      "added_at": "2025-03-28 04:00:29",
-      "album": {
         "name": "Emorio",
         "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2025-03-28 04:00:29",
       "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
+    },
+    {
+      "added_at": "2025-03-28 04:00:29",
+      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 199245,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
+    },
+    {
+      "added_at": "2025-03-28 04:00:29",
+      "album": {
+        "name": "Food for the Soul",
+        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "duration_ms": 210562,
+      "name": "Food for the Soul",
+      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
     },
     {
       "added_at": "2025-03-28 04:00:29",
@@ -1099,22 +1115,6 @@
       "duration_ms": 237792,
       "name": "Sunset Lover",
       "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
-    },
-    {
-      "added_at": "2025-03-28 04:00:29",
-      "album": {
-        "name": "Food for the Soul",
-        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        }
-      ],
-      "duration_ms": 210562,
-      "name": "Food for the Soul",
-      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
     },
     {
       "added_at": "2025-03-28 04:00:29",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2025-03-28 04:00:29",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
-    },
-    {
-      "added_at": "2025-03-28 04:00:29",
-      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 221986,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0fTiDOXRNEN0lUeYGoSHml"
+    },
+    {
+      "added_at": "2025-03-28 04:00:29",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2025-03-28 04:00:29",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-03-28 04:00:29",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Gonna Love Ya",
-      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
-    },
-    {
-      "added_at": "2025-03-28 04:00:29",
-      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -1755,22 +1739,18 @@
     {
       "added_at": "2025-03-28 04:00:29",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         }
       ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+      "duration_ms": 215813,
+      "name": "Gonna Love Ya",
+      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
     },
     {
       "added_at": "2025-03-28 04:00:29",
@@ -1787,6 +1767,26 @@
       "duration_ms": 242500,
       "name": "Karibu",
       "url": "https://open.spotify.com/track/38FWbKB13dMOGf2oJhSZ10"
+    },
+    {
+      "added_at": "2025-03-28 04:00:29",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": "2025-03-28 04:00:29",
@@ -2915,26 +2915,6 @@
     {
       "added_at": "2025-03-28 04:00:29",
       "album": {
-        "name": "Crazy (Remixes - Part 2)",
-        "url": "https://open.spotify.com/album/74W3O49t2E05ioau2WgMdF"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-        }
-      ],
-      "duration_ms": 153391,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7n4PwO1k0xlwEjgDY1WmrN"
-    },
-    {
-      "added_at": "2025-03-28 04:00:29",
-      "album": {
         "name": "Runaways",
         "url": "https://open.spotify.com/album/7nttA2MrcRbkBDlLdFdh9Q"
       },
@@ -2955,6 +2935,26 @@
       "duration_ms": 180401,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/78u5zXt7t0vySly74lXMyP"
+    },
+    {
+      "added_at": "2025-03-28 04:00:29",
+      "album": {
+        "name": "Crazy (Remixes - Part 2)",
+        "url": "https://open.spotify.com/album/74W3O49t2E05ioau2WgMdF"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        }
+      ],
+      "duration_ms": 153391,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7n4PwO1k0xlwEjgDY1WmrN"
     },
     {
       "added_at": "2025-03-28 04:00:29",

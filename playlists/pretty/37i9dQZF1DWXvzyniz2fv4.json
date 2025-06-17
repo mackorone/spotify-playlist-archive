@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158707,
+  "num_followers": 158713,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Pegando Carona",
-      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Passa a Bola (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 188319,
       "name": "Passa a Bola (Ao Vivo em Noronha)",
       "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Pegando Carona",
+      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "De Peito Aberto",
-        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        }
-      ],
-      "duration_ms": 121429,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Astro Rei",
         "url": "https://open.spotify.com/album/1IxiiZj9kjC1s5EHnwO3wr"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
+        "name": "De Peito Aberto",
+        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 121429,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1171,6 +1171,30 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "\u00c9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Mc Chagas",
+          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
+        },
+        {
+          "name": "Mc Rei Delas",
+          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
+        }
+      ],
+      "duration_ms": 197067,
+      "name": "\u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -1199,30 +1223,6 @@
       "duration_ms": 228191,
       "name": "Bem Vindx \u00e0 Lyra",
       "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
-        "name": "\u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Mc Chagas",
-          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
-        },
-        {
-          "name": "Mc Rei Delas",
-          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
-        }
-      ],
-      "duration_ms": 197067,
-      "name": "\u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
     },
     {
       "added_at": "2025-06-06 21:28:50",

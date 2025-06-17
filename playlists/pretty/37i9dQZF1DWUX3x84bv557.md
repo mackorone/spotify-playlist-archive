@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Kris Kross Amsterdam, André Hazes & Tabitha
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,717 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,705 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wat Ik Doe met Jou](https://open.spotify.com/track/2PyRjrxG8T8jG8KlnMCz3n) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [IK](https://open.spotify.com/album/7Mb79TcTVswCowAorjNWZu) | 2:08 |
-| 2 | [Gin & Tonic](https://open.spotify.com/track/5CMxgjIIhtzX5PRNe0GQbn) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Gin & Tonic](https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i) | 2:38 |
-| 3 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 |
+| 1 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 |
+| 2 | [Wat Ik Doe met Jou](https://open.spotify.com/track/2PyRjrxG8T8jG8KlnMCz3n) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [IK](https://open.spotify.com/album/7Mb79TcTVswCowAorjNWZu) | 2:08 |
+| 3 | [Gin & Tonic](https://open.spotify.com/track/5CMxgjIIhtzX5PRNe0GQbn) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Gin & Tonic](https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i) | 2:38 |
 | 4 | [Ritmo Pegajoso](https://open.spotify.com/track/4nwohqWiqvZfGfDVRplr7y) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ritmo Pegajoso](https://open.spotify.com/album/4EoYRkSz9c0UnC2MgcrjO6) | 2:45 |
 | 5 | [Mijn Huis](https://open.spotify.com/track/7J0JfUBqeHiCb7tQoG6QaQ) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Mijn Huis](https://open.spotify.com/album/6brRtgCcL0QpNhgOomYCFa) | 2:33 |
 | 6 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 74 | [Niet genoeg](https://open.spotify.com/track/0XjHmMqmKDSf7bbguJf1nI) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Niet genoeg](https://open.spotify.com/album/6ZUKiWJmM631ScU721snk0) | 3:03 |
 | 75 | [Bouwen Met Jou](https://open.spotify.com/track/2y9PqJ3Nhmsr0J6wgxQV5J) | [Lloyd De Meza](https://open.spotify.com/artist/59YkJoBLjFwDTvLGOpDgR7) | [Bouwen Met Jou](https://open.spotify.com/album/2eyxNgqrG2GfVPGY8Yzubs) | 3:25 |
 
-Snapshot ID: `aEtOSQAAAACJFRYksB8yjpMVzll+c8ox`
+Snapshot ID: `aE/oPAAAAABfLwc+FpvvqcUflcqu3mCu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 
 > Our editor's picks for the biggest Drum & Bass bangers of 2024\. Cover: Charlotte Plank
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,655 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,702 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

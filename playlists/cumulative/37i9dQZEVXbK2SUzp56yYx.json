@@ -3724,10 +3724,6 @@
         {
           "name": "Pathetic Ar4ive",
           "url": "https://open.spotify.com/artist/2rCrJ1SjkoNLFL0LJU7LRU"
-        },
-        {
-          "name": "Pathetic",
-          "url": "https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f"
         }
       ],
       "date_added": "2025-06-07",
@@ -7998,7 +7994,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 244660,
       "name": "Homay",
       "url": "https://open.spotify.com/track/1douIP5qZ5ZHk5tnVnAwsH"
@@ -10812,6 +10808,28 @@
       "duration_ms": 141014,
       "name": "Me Papa Que \u00c9 Pop (Slowed)",
       "url": "https://open.spotify.com/track/33PD9UXe0pfkXQtg3Ily5y"
+    },
+    {
+      "album": {
+        "name": "MENTE M\u00c1",
+        "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
+      },
+      "artists": [
+        {
+          "name": "Nakama",
+          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+        },
+        {
+          "name": "Mc Staff",
+          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75302,
+      "name": "MENTE M\u00c1",
+      "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
     },
     {
       "album": {
@@ -14694,7 +14712,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 99194,
       "name": "RITMO DE VERAO - SLOWED",
       "url": "https://open.spotify.com/track/344ilORk7mOQH1BbiufL9w"
@@ -17164,7 +17182,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
@@ -17770,7 +17788,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 137180,
       "name": "TRUE LOVE",
       "url": "https://open.spotify.com/track/3WbuQIjkR1mIKdwSNlgqpp"
@@ -23760,7 +23778,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 92903,
       "name": "\u041a\u0410\u041f\u0418\u0411\u0410\u0420\u0410",
       "url": "https://open.spotify.com/track/7mH12bCOjADhOzGxfYp9te"
@@ -31256,7 +31274,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 81258,
       "name": "\u0426\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/0IDdiaECyWUdUNkCEZ4FKy"
@@ -32662,7 +32680,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 211677,
       "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
       "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"

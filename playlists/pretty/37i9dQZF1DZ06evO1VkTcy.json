@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAA0wVKc5OUOxNgYPK6vK+o1",
+  "snapshot_id": "aE4NAAAAAAAIgncf+euaVF9he58I5+e2",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5458",
-        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
-      },
-      "artists": [
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187629,
-      "name": "5458",
-      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plano Perfeito",
         "url": "https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 191129,
       "name": "Plano Perfeito",
       "url": "https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5458",
+        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
+      },
+      "artists": [
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187629,
+      "name": "5458",
+      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
-      },
-      "artists": [
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 180705,
       "name": "Tira minha paz",
       "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": null,
@@ -1087,30 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/4RzE55i0qmqm1PSn2DgrMZ"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 179467,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3Wgk2vYJhxV8ks2LXpEMhI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/4RzE55i0qmqm1PSn2DgrMZ"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 179467,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3Wgk2vYJhxV8ks2LXpEMhI"
     },
     {
       "added_at": null,
@@ -1311,26 +1311,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/7cQXR7MaVQEGjRwCnyoNcL"
       },
       "artists": [
         {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 216344,
-      "name": "Cabe\u00e7a erguida",
-      "url": "https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K"
+      "duration_ms": 181800,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/2WPh5Iwekb2GVG8T3shK3D"
     },
     {
       "added_at": null,
@@ -1359,26 +1359,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/7cQXR7MaVQEGjRwCnyoNcL"
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
       },
       "artists": [
         {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 181800,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/2WPh5Iwekb2GVG8T3shK3D"
+      "duration_ms": 216344,
+      "name": "Cabe\u00e7a erguida",
+      "url": "https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K"
     }
   ],
   "unique_name": "This Is Lourena",

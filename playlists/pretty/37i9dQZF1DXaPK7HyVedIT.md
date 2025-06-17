@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: illusionize, Visage Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,994 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243,830 likes - 74 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 14 | [I'm In Love With A German Film Star \(Gui Boratto Mix\) \- Edit](https://open.spotify.com/track/1PjzPGZ7SE4ifCKDaZub97) | [Sam Taylor\-Wood Produced By Pet Shop Boys](https://open.spotify.com/artist/52Eu1x9cG4Zm1NZZImr7Br), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [I'm In Love With A German Film Star \(Gui Boratto Mix\) \(Edit\)](https://open.spotify.com/album/4jyEo8Xg89IrvCUpCEoz59) | 4:04 |
 | 15 | [Old School Vibe](https://open.spotify.com/track/6sUgqSVLwpCygJJLiRfkhk) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Old School Vibe](https://open.spotify.com/album/2hOyGqI4c6m8CAMFDoIoMu) | 2:33 |
 | 16 | [Call On Me \- Edit](https://open.spotify.com/track/2QdzLgTVmpjKyToVDwSzWU) | [Sugar Hill](https://open.spotify.com/artist/2YhGeHBfFndRzwUvpTwK4D) | [Call On Me](https://open.spotify.com/album/0g3Opns57b7NHd5KqMnyf5) | 3:04 |
-| 17 | [24h In A Disco \(with Channel Tres\)](https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco \(REFRESHED\)](https://open.spotify.com/album/1IHDWNO26K4VFONHJ2teAa) | 2:51 |
+| 17 | [24h In A Disco](https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco \(REFRESHED\)](https://open.spotify.com/album/1IHDWNO26K4VFONHJ2teAa) | 2:51 |
 | 18 | [DNA](https://open.spotify.com/track/4BpJJMVKSVn0YTmuiivZEQ) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Future Skies](https://open.spotify.com/artist/2QsiOG21qF7v7rmQUqt3gB) | [DNA](https://open.spotify.com/album/530W67dkT14ITyrTAy1kcO) | 2:55 |
 | 19 | [Nirvana](https://open.spotify.com/track/64jx6PV3hXstEZ7hggGeKw) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Nirvana](https://open.spotify.com/album/1ZohrB8KSfWMc0yNkymR93) | 3:42 |
 | 20 | [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 |

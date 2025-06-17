@@ -255,28 +255,6 @@
     },
     {
       "album": {
-        "name": "24h In A Disco",
-        "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "date_added": "2025-04-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195254,
-      "name": "24h In A Disco",
-      "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
-    },
-    {
-      "album": {
         "name": "24h In A Disco (REFRESHED)",
         "url": "https://open.spotify.com/album/1IHDWNO26K4VFONHJ2teAa"
       },
@@ -298,8 +276,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171839,
-      "name": "24h In A Disco (with Channel Tres)",
+      "name": "24h In A Disco",
       "url": "https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY"
+    },
+    {
+      "album": {
+        "name": "24h In A Disco",
+        "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195254,
+      "name": "24h In A Disco",
+      "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
     },
     {
       "album": {

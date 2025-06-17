@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43061,
+  "num_followers": 43064,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACB44Ma28tUSnJYswNw0P3y",
+  "snapshot_id": "aE4NAAAAAADETk519tdrQQaB4VdfgtJc",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 148700,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/59gTwaPF89m9W3WcPasQaK"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 197836,
       "name": "El Wey",
       "url": "https://open.spotify.com/track/6CIXdlrPdBpP0ejW5jUFAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 148700,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muevelo Remix (feat. Maffio)",
+        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Carlos \"Maffio\" Peralta",
+          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Muevelo Remix (feat. Maffio)",
+      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' La Cultura",
         "url": "https://open.spotify.com/album/3lafienEVOSKlWKwZY1vwu"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muevelo Remix (feat. Maffio)",
-        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Carlos \"Maffio\" Peralta",
-          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Muevelo Remix (feat. Maffio)",
-      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
     },
     {
       "added_at": null,

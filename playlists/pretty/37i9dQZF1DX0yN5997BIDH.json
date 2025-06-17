@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 560832,
+  "num_followers": 560777,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Brother Sun/Sister Moon",
-        "url": "https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc"
-      },
-      "artists": [
-        {
-          "name": "LYS",
-          "url": "https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Brother Sun/Sister Moon",
-      "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "Little Miss",
         "url": "https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp"
       },
@@ -1331,18 +1315,34 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Burning Bridges",
-        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
+        "name": "Brother Sun/Sister Moon",
+        "url": "https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc"
       },
       "artists": [
         {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+          "name": "LYS",
+          "url": "https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ"
         }
       ],
-      "duration_ms": 239053,
-      "name": "Burning Bridges - Acoustic Version",
-      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
+      "duration_ms": 216400,
+      "name": "Brother Sun/Sister Moon",
+      "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "A Boy from Colorado",
+        "url": "https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK"
+      },
+      "artists": [
+        {
+          "name": "Gabe James",
+          "url": "https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj"
+        }
+      ],
+      "duration_ms": 138136,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "A Boy from Colorado",
-        "url": "https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK"
+        "name": "Burning Bridges",
+        "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
       },
       "artists": [
         {
-          "name": "Gabe James",
-          "url": "https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj"
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
         }
       ],
-      "duration_ms": 138136,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4"
+      "duration_ms": 239053,
+      "name": "Burning Bridges - Acoustic Version",
+      "url": "https://open.spotify.com/track/5aQa0ao7o23HsMM9KSh7BB"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 163758,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "golden hour",
         "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g"
     },
     {
       "added_at": "2024-07-11 01:17:45",

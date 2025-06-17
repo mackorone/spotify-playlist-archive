@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19005,
+  "num_followers": 19011,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAnb6o1Yi+BG5Z/LXOLuDQf",
+  "snapshot_id": "aE4NAAAAAABC0KUlcpSeNnEh9Z61HTAz",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Healing",
-        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 342346,
-      "name": "Song of a Dream",
-      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illumination of the Heart",
         "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 587746,
       "name": "Matamua",
       "url": "https://open.spotify.com/track/472kQ99QrEpFLaLBUglVF3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Healing",
+        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 342346,
+      "name": "Song of a Dream",
+      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 388133,
-      "name": "Moon and Earth",
-      "url": "https://open.spotify.com/track/07neilEX9t7aKFndygWFDK"
+      "duration_ms": 727933,
+      "name": "Healing Circle",
+      "url": "https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w"
     }
   ],
   "unique_name": "This Is Deuter",

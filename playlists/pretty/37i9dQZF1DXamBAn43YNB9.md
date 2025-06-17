@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,635 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,666 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 99 | [Don't Wanna Meet Your Parents](https://open.spotify.com/track/288yWYGCLTgvgeuz3XKYJI) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Don't Wanna Meet Your Parents](https://open.spotify.com/album/7FxEaf5QzdEYno0jDfPVY1) | 3:06 |
 | 100 | [Diamonds and Gold](https://open.spotify.com/track/6aFfDXmScA1MoYepsaD3pm) | [Meghan Maike](https://open.spotify.com/artist/4kBaxVPaAbjTyIb7qItJzl) | [Dead Horse Creek](https://open.spotify.com/album/35AQrnW1vnZFyFtyRA27s3) | 4:41 |
 
-Snapshot ID: `aDxc8AAAAADrgTrmcyfmdmsAmKCMhnRi`
+Snapshot ID: `AAAAAHYNTJ+MI8JCagu5rQFpwHhkHYKf`

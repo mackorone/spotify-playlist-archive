@@ -1,6 +1,6 @@
 {
   "description": "\u808c\u5bd2\u3044\u65e5\u3005\u3092\u5c11\u3057\u3060\u3051\u6696\u3081\u308b\u3088\u3046\u306a\u51ac\u306e\u540d\u66f2\u305f\u3061\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\n",
-  "num_followers": 25037,
+  "num_followers": 25036,
   "original_name": "Winter is Here #\u771f\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
+        "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
+        "url": "https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ"
       },
       "artists": [
         {
-          "name": "\u51a8\u5ca1\u611b",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
         }
       ],
-      "duration_ms": 201137,
-      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
+      "duration_ms": 224027,
+      "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
+      "url": "https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -351,18 +351,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
-        "url": "https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ"
+        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
       },
       "artists": [
         {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
         }
       ],
-      "duration_ms": 224027,
-      "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
-      "url": "https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8"
+      "duration_ms": 201137,
+      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "\u305d\u3046\u304b\u306a",
         "url": "https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 263866,
       "name": "\u307e\u3063\u767d",
       "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "Memory Lane & Winter Song",
-        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "\u6cab\u96ea",
         "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 184266,
       "name": "\u6cab\u96ea",
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Memory Lane & Winter Song",
+        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
+        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
         }
       ],
-      "duration_ms": 226125,
-      "name": "Room Service",
-      "url": "https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ"
+      "duration_ms": 286000,
+      "name": "SNOW SOUND",
+      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
-        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
       "artists": [
         {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 286000,
-      "name": "SNOW SOUND",
-      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
+      "duration_ms": 226125,
+      "name": "Room Service",
+      "url": "https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "FAREWELL",
-        "url": "https://open.spotify.com/album/2I1wPlx5OuoM0m4sRwP7Rw"
+        "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU"
       },
       "artists": [
         {
-          "name": "the BL00M",
-          "url": "https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x"
-        },
-        {
-          "name": "cocomi",
-          "url": "https://open.spotify.com/artist/2bHwzeISpKCS9xQKqaKAaD"
+          "name": "HIMI",
+          "url": "https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy"
         }
       ],
-      "duration_ms": 211578,
-      "name": "FAREWELL",
-      "url": "https://open.spotify.com/track/3ce6LGqKRakOk6SsZthMdO"
+      "duration_ms": 351779,
+      "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1279,18 +1275,22 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU"
+        "name": "FAREWELL",
+        "url": "https://open.spotify.com/album/2I1wPlx5OuoM0m4sRwP7Rw"
       },
       "artists": [
         {
-          "name": "HIMI",
-          "url": "https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy"
+          "name": "the BL00M",
+          "url": "https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x"
+        },
+        {
+          "name": "cocomi",
+          "url": "https://open.spotify.com/artist/2bHwzeISpKCS9xQKqaKAaD"
         }
       ],
-      "duration_ms": 351779,
-      "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6"
+      "duration_ms": 211578,
+      "name": "FAREWELL",
+      "url": "https://open.spotify.com/track/3ce6LGqKRakOk6SsZthMdO"
     },
     {
       "added_at": "2025-03-11 22:40:18",

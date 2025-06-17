@@ -4,12 +4,13 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-613 songs - 1 day 11 hr 26 min
+615 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Not\) a Penny in My Pocket \- Demo Version](https://open.spotify.com/track/4svDzNF6PuBs2ojcE8sS1f) | [Jimmy Campbell](https://open.spotify.com/artist/1lvD6UZjY7oyb02YqG1eNC) | [Troubadour \(Lost Recordings 1965\-1991\)](https://open.spotify.com/album/1DkMIFEEetXsDc4Ao0X1Fc) | 2:34 | 2024-05-16 | 2024-07-12 |
 | [\(Where Is The\) Sunshine \- Pt\. II](https://open.spotify.com/track/7Bf6KQF7Q0XWUQQ96UYVOK) | [Kalima](https://open.spotify.com/artist/4VQTPWMyCUIvu941rs2Srs) | [\(Where Is The\) Sunshine](https://open.spotify.com/album/6wxxcaRmLRD1rS9E4LE4Ib) | 3:37 | 2025-04-29 |  |
+| [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 | 2025-06-16 |  |
 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 | 2024-10-22 | 2024-11-14 |
 | [400 & 57](https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [In Solarium](https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB) | 3:56 | 2024-10-25 | 2024-11-14 |
 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2025-03-06 | 2025-05-09 |
@@ -588,6 +589,7 @@
 | [Warm Canto](https://open.spotify.com/track/24US80Wtwk4KmaqktZW8VZ) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp), [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [The Quest](https://open.spotify.com/album/7AFeyZd2N1i4LTzIZ2V8u1) | 5:40 | 2025-06-14 |  |
 | [Was That Love](https://open.spotify.com/track/4Cu7qmICfQ3fXSzhEt9k1C) | [Ryan Power](https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS) | [World of Wonder](https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS) | 3:50 | 2024-06-20 | 2024-07-12 |
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 | 2024-03-10 |
+| [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 | 2025-06-16 |  |
 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 | 2025-02-16 | 2025-03-02 |
 | [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 | 2024-06-03 | 2024-07-12 |
 | [What About Me](https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk) | [The Exceptional Three](https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ) | [Eccentric Soul: The Way Out Label](https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj) | 3:00 | 2024-09-18 | 2024-11-14 |

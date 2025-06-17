@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,443 likes - 151 songs - 8 hr 43 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,441 likes - 151 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 23 | [Good Things Come To Those Who Wait](https://open.spotify.com/track/3favmuDfpgYp3poSyGokVD) | [Skream & Benga](https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Good Things Come To Those Who Wait](https://open.spotify.com/album/4plXV7C5h42LpsBZ80hFmy) | 3:42 |
 | 24 | [Sad Piano House](https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Sad Piano House](https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv) | 5:05 |
 | 25 | [v@por](https://open.spotify.com/track/6asIPh7qEq6KGfWUVdUCUh) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [v@por](https://open.spotify.com/album/0eouuFiqvxsUnEogFLOjr5) | 4:58 |
-| 26 | [Goober Time \- Chee Remix](https://open.spotify.com/track/7d9DcS4q4MPytKhlfWnqQ0) | [Jade Cicada](https://open.spotify.com/artist/6HFxqZ6WaTb7TQUhNsK25o), [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Lunar Fade \(Remixes\)](https://open.spotify.com/album/1nupAthBhrWn5MQzZByACL) | 2:54 |
+| 26 | [Goober Time \- Chee Remix](https://open.spotify.com/track/7d9DcS4q4MPytKhlfWnqQ0) | [Jade Cicada](https://open.spotify.com/artist/6HFxqZ6WaTb7TQUhNsK25o), [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Lunar Fade EP \(Remixes\)](https://open.spotify.com/album/1nupAthBhrWn5MQzZByACL) | 2:54 |
 | 27 | [MSG](https://open.spotify.com/track/0It34LoX3iONq7viu94n1Y) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Club Orthodontics](https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3) | 3:25 |
 | 28 | [Sweet](https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sweet](https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb) | 2:20 |
 | 29 | [Whiplash](https://open.spotify.com/track/6rkzwcjk4U0vIwcY8noSHr) | [Akeos](https://open.spotify.com/artist/01GwQuZRU4oG83fF2ZOyQs), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Whiplash](https://open.spotify.com/album/3MkQQ39qbeSonazn8dr3KP) | 3:03 |

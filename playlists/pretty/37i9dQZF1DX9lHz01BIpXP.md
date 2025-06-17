@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa\_9WSXQAGcMj9SpxUMJQ">Ziggy4x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,677 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,679 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 37 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 |
 | 38 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 |
 | 39 | [Die Hele Nag](https://open.spotify.com/track/32mG7p0lEzV1Uqk8HvHBKY) | [DxD](https://open.spotify.com/artist/7Leion5vRfpcrWvaksfIW5), [CampusMr007](https://open.spotify.com/artist/1gQAWDtAOTxgw8DqGTqF29), [Galx\-M](https://open.spotify.com/artist/3oCnyaGXgbCHSTqaKtJ0F1) | [Die Hele Nag](https://open.spotify.com/album/5j0aBTm9jeaetWshVFaux6) | 3:29 |
-| 40 | [Heroes](https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Heroes](https://open.spotify.com/album/2ZECSjB5povRqXRkPioLy7) | 2:24 |
-| 41 | [Hewig](https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz) | [Nate Johnson SA](https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN), [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Hewig](https://open.spotify.com/album/3aA38orHnU25drrbkGit6J) | 3:42 |
+| 40 | [Hewig](https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz) | [Nate Johnson SA](https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN), [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Hewig](https://open.spotify.com/album/3aA38orHnU25drrbkGit6J) | 3:42 |
+| 41 | [Heroes](https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Heroes](https://open.spotify.com/album/2ZECSjB5povRqXRkPioLy7) | 2:24 |
 | 42 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
 | 43 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 |
 | 44 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |

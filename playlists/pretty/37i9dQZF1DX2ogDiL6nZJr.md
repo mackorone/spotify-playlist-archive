@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,300 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,560 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 73 | [Where the Grass Grows High](https://open.spotify.com/track/7KBvYUxW8zgK5bQE5U1edR) | [Flora Falls](https://open.spotify.com/artist/2lgTnaXO0b6ufPyEmbZJO9) | [Where the Grass Grows High](https://open.spotify.com/album/5zRkDPYfYzo5DTyg2BD6UP) | 3:35 |
 | 74 | [Alright](https://open.spotify.com/track/3ZWW7SuBWXOHv24nZmfPLF) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 |
 | 75 | [You Might](https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K) | [MarkMoon](https://open.spotify.com/artist/3ihkk6803aRrmiHduMZ7hQ) | [You Might](https://open.spotify.com/album/7otKscInqHObpSN9hIWjte) | 1:59 |
-| 76 | [Rich Man](https://open.spotify.com/track/34batHUDkMhFuUjkxAUmfH) | [KEØMA](https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U) | [Rich Man](https://open.spotify.com/album/6SWwS2mmFaQIU1vE3mEEh1) | 3:56 |
-| 77 | [Guilty Running](https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [is a Folk Artist](https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG) | 4:03 |
+| 76 | [Guilty Running](https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [is a Folk Artist](https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG) | 4:03 |
+| 77 | [Rich Man](https://open.spotify.com/track/34batHUDkMhFuUjkxAUmfH) | [KEØMA](https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U) | [Rich Man](https://open.spotify.com/album/6SWwS2mmFaQIU1vE3mEEh1) | 3:56 |
 | 78 | [Ten Is a Number](https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [M Field](https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg) | 3:13 |
 | 79 | [Drifting](https://open.spotify.com/track/6n2PXbKEHKLlBLRGhXPRSN) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Drifting](https://open.spotify.com/album/1QYBpkjNZN1APv6PPezcwn) | 3:44 |
 | 80 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 96 | [Tuscan Sun](https://open.spotify.com/track/7Lk0RmNpKQxQdJb1xeUy7O) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Tuscan Sun](https://open.spotify.com/album/2pNPvs9j5gTqExGiZcHs6X) | 3:51 |
 | 97 | [Treasure](https://open.spotify.com/track/2ap5bIL2vtaM1kgq1NO5f1) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu) | 4:11 |
 | 98 | [Head On](https://open.spotify.com/track/2ku71f9zbPxkykS1cySXyL) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Head On](https://open.spotify.com/album/2vAB6q0kGH2OIU2mBaEqPr) | 4:45 |
-| 99 | [In the Blank Space](https://open.spotify.com/track/6rDriFh2ltK6OlpH0TpECo) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [In The Blank Space](https://open.spotify.com/album/1ZWx1TlK9Nl9PwBsS0MYV7) | 4:18 |
-| 100 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
+| 99 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
+| 100 | [In the Blank Space](https://open.spotify.com/track/6rDriFh2ltK6OlpH0TpECo) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [In The Blank Space](https://open.spotify.com/album/1ZWx1TlK9Nl9PwBsS0MYV7) | 4:18 |
 
 Snapshot ID: `aEFDNAAAAADeMu7CqEhaTlQzbBAI3N3B`

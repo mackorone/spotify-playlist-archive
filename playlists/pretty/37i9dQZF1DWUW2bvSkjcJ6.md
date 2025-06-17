@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von RAYE und Mark Ronson, Apache 207, Lune und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,775 likes - 73 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,714 likes - 73 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

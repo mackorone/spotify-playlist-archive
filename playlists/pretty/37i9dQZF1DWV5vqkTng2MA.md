@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: 54 Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,084 likes - 90 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,122 likes - 90 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 23 | [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 |
 | 24 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
 | 25 | [Only You](https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:46 |
-| 26 | [Burn It Down](https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Burn It Down](https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN) | 2:26 |
-| 27 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
+| 26 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
+| 27 | [Burn It Down](https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Burn It Down](https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN) | 2:26 |
 | 28 | [For the Time Being](https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Will Leet](https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi) | [For the Time Being](https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o) | 4:05 |
 | 29 | [Pining](https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:44 |
 | 30 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 38 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
 | 39 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
 | 40 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
-| 41 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 |
-| 42 | [In and Out of Love](https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [A Real Fine Mess \(Deluxe Version\)](https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7) | 2:49 |
+| 41 | [In and Out of Love](https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [A Real Fine Mess \(Deluxe Version\)](https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7) | 2:49 |
+| 42 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 |
 | 43 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
 | 44 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 45 | [Funky Ghost](https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 4:08 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 51 | [Stomp and Holler](https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Hard Working Americans](https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN) | 4:48 |
 | 52 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 |
 | 53 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
-| 54 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 |
-| 55 | [We Can Always Come Back To This](https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3) | [Brian Tyree Henry](https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK) | [We Can Always Come Back To This \(Music From The Series This Is Us\)](https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN) | 4:14 |
+| 54 | [We Can Always Come Back To This](https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3) | [Brian Tyree Henry](https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK) | [We Can Always Come Back To This \(Music From The Series This Is Us\)](https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN) | 4:14 |
+| 55 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 |
 | 56 | [Electric Fever](https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg) | [Them Vibes](https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664) | [Electric Fever](https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5) | 3:47 |
 | 57 | [Hey Mama](https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5) | [Great Caesar](https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1) | [Hey Mama](https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma) | 3:13 |
 | 58 | [The Ruse](https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt) | [Buffalo Clover](https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA) | [Test Your Love](https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH) | 3:10 |

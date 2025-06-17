@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,982 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,055 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 55 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
 | 56 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 57 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 |
-| 58 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 |
+| 58 | [Er du ensom har du meg](https://open.spotify.com/track/2lnRijAqNKDZvpSxoIMJEs) | [Valkyrien Allstars](https://open.spotify.com/artist/4E1kp6gNDweuoJ7UIrTbgU) | [venter på noen som venter på noen](https://open.spotify.com/album/4LLXR5tKNKOxlG9h0FQacF) | 3:44 |
 | 59 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
-| 60 | [Raining Over Fire](https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Raining Over Fire](https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB) | 2:58 |
+| 60 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 |
 
 Snapshot ID: `aEtOBwAAAACkvmt7ek2SC37ArY1rnVo3`

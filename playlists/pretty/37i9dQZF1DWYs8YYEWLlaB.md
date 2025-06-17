@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: Simge
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,286 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,458 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 17 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 |
 | 18 | [YANKI X İNTİHAR](https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [YANKI X İNTİHAR](https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr) | 2:31 |
 | 19 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 |
-| 20 | [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 |
+| 20 | [Mendil](https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Mendil](https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB) | 3:34 |
 | 21 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
-| 22 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 |
-| 23 | [Mendil](https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Mendil](https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB) | 3:34 |
+| 22 | [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 |
+| 23 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 |
 | 24 | [Y](https://open.spotify.com/track/4H8ns1mp3witrdJGLrJXR6) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [Y](https://open.spotify.com/album/0NYQA2oHL7whhCPf2ll7RK) | 2:27 |
 | 25 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
 | 26 | [BİTMİYOR](https://open.spotify.com/track/4gqiqccm2NNQcdIUkEDEiM) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [BİTMİYOR](https://open.spotify.com/album/3iakmZwZXRumlipk4r5D1S) | 3:24 |
 | 27 | [HA HA HA HA](https://open.spotify.com/track/46EVmz3fZglNWoo2uyRkMu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [HA HA HA HA](https://open.spotify.com/album/5cQ0A1z9Xlpi2M4RLGO8Xz) | 1:42 |
-| 28 | [pUTA](https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [BIGBAT](https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix) | [pUTA](https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd) | 1:44 |
-| 29 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 |
-| 30 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 28 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 |
+| 29 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 30 | [pUTA](https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [BIGBAT](https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix) | [pUTA](https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd) | 1:44 |
 | 31 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 |
 | 32 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 |
 | 33 | [Son Bir Rica](https://open.spotify.com/track/5mJPC56kBRnB9rLGLs85rr) | [Zeynep Dizdar](https://open.spotify.com/artist/1XZNZT3xecy9Wt5LtMOJVk) | [Gönül Oyunu](https://open.spotify.com/album/1JBUhH4nLI6VAPSWkOELGQ) | 3:56 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 35 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 |
 | 36 | [Çözemezsin](https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Çözemezsin](https://open.spotify.com/album/3hKqpJizdFWWLQKwDKpz8a) | 4:37 |
 | 37 | [Ara Beni Lütfen](https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Festival](https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi) | 4:39 |
-| 38 | [Yalan](https://open.spotify.com/track/2uniCPIy7f5Mi2AEfvQz7z) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Yalan](https://open.spotify.com/album/3nrLd9Q4s516grX2S04rZy) | 4:26 |
-| 39 | [Uzaktan](https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Bende Bi' Aşk Var](https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u) | 3:39 |
+| 38 | [Uzaktan](https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Bende Bi' Aşk Var](https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u) | 3:39 |
+| 39 | [Yalan](https://open.spotify.com/track/2uniCPIy7f5Mi2AEfvQz7z) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Yalan](https://open.spotify.com/album/3nrLd9Q4s516grX2S04rZy) | 4:26 |
 | 40 | [Salla](https://open.spotify.com/track/04Aq0PDoKzXkNvW0suggOt) | [Atiye](https://open.spotify.com/artist/56g1u3Bu0S5072aksxyBei) | [Atiye](https://open.spotify.com/album/3hgQ2xSCrBLEcVL0GZMwC1) | 3:31 |
 | 41 | [Yasemen](https://open.spotify.com/track/2SVoUZdzxuDuxBdHSO73KF) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Yasemen](https://open.spotify.com/album/10hs7zZCXHauEHe9mjzG0z) | 2:30 |
 | 42 | [MARALIM](https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb) | [Maral](https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP) | [MARALIM](https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT) | 2:22 |

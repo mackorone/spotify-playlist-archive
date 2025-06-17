@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,031 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,015 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 257 | [Half Alive](https://open.spotify.com/track/6PZep0AyFbiX2K3u44evKM) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [The Start \(Act II\)](https://open.spotify.com/album/2tWoCtDjl93XcMKzgN3nb7) | 3:35 |
 | 258 | [Bananat](https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 4:30 |
 | 259 | [Orion](https://open.spotify.com/track/2IHkIsJXKaZD2HPSGKZyQ3) | [Ārty Cøøper](https://open.spotify.com/artist/3HayvSzL4CNzkyyxyOUK3B) | [Orion](https://open.spotify.com/album/4su1sSPon4vQa2w0L9F6Wf) | 3:18 |
-| 260 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |
+| 260 | [Beginning \- TEED Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(TEED Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |
 | 261 | [Baby Baby Baby](https://open.spotify.com/track/3OdBWz9Vw4hhwSQ8xFiZEO) | [Make The Girl Dance](https://open.spotify.com/artist/1R3C9rNasGbYW0Gtlg1Ye4) | [Everything Is Gonna Be OK In The End](https://open.spotify.com/album/0eSPvfgbg5UdtFyEw9kxcF) | 4:03 |
 | 262 | [Hard Billy](https://open.spotify.com/track/7DWnLKwS5ozOnCAhGbREjM) | [Léonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC) | [Le Cirque de Consolation](https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61) | 3:41 |
 | 263 | [Look At That Butt](https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [WUT WUT](https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE) | 2:32 |

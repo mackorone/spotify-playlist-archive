@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,868 likes - 95 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,924 likes - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 38 | [Slow Day In The Woods](https://open.spotify.com/track/0lvURQCoBLWmVYbXlOu3Mh) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
 | 39 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
 | 40 | [Deep in the Rainforest](https://open.spotify.com/track/4bNwBIT6kPgxnhw16XF5mb) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |
-| 41 | [Forest River Sounds](https://open.spotify.com/track/6tKfI7fERNz2Og8VnmrvBT) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:04 |
-| 42 | [Rainy European Forest](https://open.spotify.com/track/2LuSIOYRov2ql9HlNYVKMk) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Gentle Forest Rain](https://open.spotify.com/album/4Q4aYbWcZtkK0vRpzj3RwE) | 2:46 |
+| 41 | [Rainy European Forest](https://open.spotify.com/track/2LuSIOYRov2ql9HlNYVKMk) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Gentle Forest Rain](https://open.spotify.com/album/4Q4aYbWcZtkK0vRpzj3RwE) | 2:46 |
+| 42 | [Forest River Sounds](https://open.spotify.com/track/6tKfI7fERNz2Og8VnmrvBT) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:04 |
 | 43 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
 | 44 | [Rainforest Rain](https://open.spotify.com/track/7G9By80TKqAtNRPdBiSTpg) | [Wp Sounds](https://open.spotify.com/artist/28wXAxbwofL7K6bsmHnD6k) | [Rain Sounds](https://open.spotify.com/album/71OA2dK48YdLK22Q2ZKrkL) | 2:41 |
 | 45 | [Seal Cove Pond 10/30 8am](https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F) | [Aaron Lewis](https://open.spotify.com/artist/2xmSfP65WLEwRyrQlpODuR) | [Sounds of Mount Desert Island](https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB) | 3:24 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 51 | [Warm Rain](https://open.spotify.com/track/4jFPb0mUf0fVaooBRAYqxg) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Amazon Rain](https://open.spotify.com/album/3dWd2DplPM06y5XnUU8h9f) | 3:28 |
 | 52 | [Ambience Within](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Clayton Calm](https://open.spotify.com/artist/0nZQHwKfuzDyeTwiMDCzbn) | [A Rain Forest Walk](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 |
 | 53 | [Nap in the Wild](https://open.spotify.com/track/4qfFldAX7y8Amwu4yUHxvj) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:32 |
-| 54 | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/track/26MpviERp5F3eLwotmejx7) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/album/6WNnFWfsilmn4th5FDhBU2) | 8:52 |
+| 54 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 |
 | 55 | [River Water on Roots](https://open.spotify.com/track/3m490Sp9oDgssK7Tq5I6hu) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Jungle River Rapids](https://open.spotify.com/album/0ICLrHqdJ36IN30dyM7B7T) | 4:58 |
-| 56 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 |
+| 56 | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/track/26MpviERp5F3eLwotmejx7) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/album/6WNnFWfsilmn4th5FDhBU2) | 8:52 |
 | 57 | [Relaxing Crickets And Waterfall](https://open.spotify.com/track/5iAB4tlYseBES4MKqgY4KG) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 4:24 |
 | 58 | [Tranquil Rainforest](https://open.spotify.com/track/5SYhok0pJrIqZQ0lRes91I) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:50 |
 | 59 | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/track/4RGPG1DbWsUS6uBNxUkTnv) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/album/6VvWeQKdLlo7BiLQXBsp8k) | 2:35 |

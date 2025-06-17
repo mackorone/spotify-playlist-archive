@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Oscar Maydon, Victor Mendivil
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,066 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497,029 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ZAZA](https://open.spotify.com/track/7x817ULPS5pcukCERAzUPh) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:53 |
 | 2 | [Golfista](https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Golfista](https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH) | 2:38 |
-| 3 | [Gohan y Goku](https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin](https://open.spotify.com/artist/0XNd5IHY3dnjWwN3ApkfDo) | [Gohan y Goku](https://open.spotify.com/album/3zHjrzYFFrvxitf8e5sbX7) | 2:44 |
+| 3 | [Gohan y Goku](https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin](https://open.spotify.com/artist/34NUt5bbbvuSanv8NbZP8l) | [Gohan y Goku](https://open.spotify.com/album/3zHjrzYFFrvxitf8e5sbX7) | 2:44 |
 | 4 | [Vetements](https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:20 |
 | 5 | [secuestro](https://open.spotify.com/track/4huJ0Fow4zyt0FggO1tBaJ) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [dile no a las drogas](https://open.spotify.com/album/3PVlBBFUToLZBOM9FCNn6Z) | 3:14 |
 | 6 | [Amber \(with Omar Courtz\)](https://open.spotify.com/track/3XoLRrcg9ga7Op6Y6NIdpn) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LOS FLAVORZ](https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk) | 3:06 |

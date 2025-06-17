@@ -3679,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/68KYlx6wFIMGwkgyRcEQdB"
+      },
+      "artists": [
+        {
+          "name": "Nylist",
+          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167868,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/0D03PmKOwfqK1QB9lWKwVs"
+    },
+    {
+      "album": {
         "name": "Emotionless Mass",
         "url": "https://open.spotify.com/album/0ClQU9ILh0wWUWZ1K5ritk"
       },
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 170956,
       "name": "Feel My Fangs in You",
       "url": "https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46"

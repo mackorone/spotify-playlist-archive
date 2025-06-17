@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Ivan Orozco
 
-440 songs - 23 hr 7 min
+441 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Firma R26](https://open.spotify.com/track/3lTWbSMi2f5W4eAPNu1tpI) | [Luis Escalera](https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd) | [Firma R26](https://open.spotify.com/album/13ZJdyz6RPw4DwboeuIied) | 3:41 | 2025-05-02 |  |
 | [Flashback](https://open.spotify.com/track/6NQoCRXN0WvRiJerAuFtZc) | [Axel Coronado](https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO) | [AXEL](https://open.spotify.com/album/5e7ipY8CPfWFLJ56Y1483l) | 3:25 | 2025-01-22 | 2025-05-03 |
 | [Flow Dragon](https://open.spotify.com/track/0sraRgvPfsDbFaPH5IyAdF) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde El Infierno](https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n) | 3:30 | 2022-05-13 | 2024-04-24 |
+| [Francia](https://open.spotify.com/track/6fVyC6eqAVFxYG8Jd0eGVZ) | [Cesar Zazueta](https://open.spotify.com/artist/11wKys5M4JN6NWofFvBcHI) | [Francia](https://open.spotify.com/album/5Tw6OXywctFdA5wbHIngxj) | 3:17 | 2025-06-16 |  |
 | [Frontera](https://open.spotify.com/track/23XMPRdCzZFvOlsNX1u8t4) | [Alex Truji](https://open.spotify.com/artist/4Tw276MkkJESJmytRIbdTP) | [Frontera](https://open.spotify.com/album/6KByb0JLAWvh8B6NTDHfsh) | 2:23 | 2024-08-14 | 2024-10-17 |
 | [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fuego de Noche, Nieve de Día](https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos) | 4:42 | 2023-09-29 | 2024-04-24 |
 | [Fvck That](https://open.spotify.com/track/7u6chaUeciRuKZssnMmiy1) | [Compa Steve](https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ) | [Fvck That](https://open.spotify.com/album/0DDkSisxZGXamfdjlmj422) | 4:39 | 2025-03-07 | 2025-05-03 |

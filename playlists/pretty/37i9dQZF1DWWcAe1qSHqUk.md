@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,648 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,652 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 34 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 |
 | 35 | [But For Now](https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 3:55 |
 | 36 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 |
-| 37 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
-| 38 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
+| 37 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
+| 38 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
 | 39 | [Old Cape Cod](https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Old Cape Cod](https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK) | 3:29 |
 | 40 | [Misty](https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:54 |
 | 41 | [To Have & To Hold](https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV) | [Heather Rigdon](https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT) | [Young & Naïve](https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa) | 3:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 45 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 |
 | 46 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 | 47 | [Si Me Dejas Ahora](https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Al Príncipe Bossa](https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH) | 3:25 |
-| 48 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
-| 49 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
+| 48 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
+| 49 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
 | 50 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/5xtiAessAtry987cTy5maQ) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR) | [Joyride](https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f) | 3:01 |
 | 51 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
 | 52 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 62 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
 | 63 | [Beyond the Sea](https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [After Dark](https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL) | 4:17 |
 | 64 | [Me Dediqué a Perderte](https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn) | [Bossa Nostra](https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv) | [Bossa & Co.](https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl) | 4:20 |
-| 65 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
-| 66 | [Hungry Like The Wolf](https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [Jazz And 80s](https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0) | 4:03 |
-| 67 | [I Want To Talk About You](https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [I Want To Talk About You](https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW) | 4:33 |
+| 65 | [I Want To Talk About You](https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [I Want To Talk About You](https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW) | 4:33 |
+| 66 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
+| 67 | [Hungry Like The Wolf](https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [Jazz And 80s](https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0) | 4:03 |
 | 68 | [But I Don't Mind](https://open.spotify.com/track/5LC4lFjl7qliDNFAFI0bOx) | [Kyl Aries](https://open.spotify.com/artist/7JvaR4xEkJYoMUE1eMje0S) | [But I Don't Mind](https://open.spotify.com/album/0rbrdnnw54w2aTBQHFMhOB) | 4:15 |
-| 69 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
-| 70 | [At Last](https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [At Last](https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR) | 2:44 |
-| 71 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
+| 69 | [Pretty Blue](https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [The Vienna Affair](https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k) | 3:57 |
+| 70 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
+| 71 | [At Last](https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [At Last](https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR) | 2:44 |
 | 72 | [Cherokee](https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb) | [Cherokee](https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ) | 5:38 |
 | 73 | [Confession / The Other Woman](https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 6:43 |
-| 74 | [Pretty Blue](https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [The Vienna Affair](https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k) | 3:57 |
+| 74 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
 | 75 | [Hours Of Ours](https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP) | [Waiting For Dawn](https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd) | 5:47 |
 
-Snapshot ID: `aEZwFwAAAACFeXcI4JQV8cCmfOwJxL9T`
+Snapshot ID: `aE+PHAAAAAABbQGebJ3RoZiNiYoTzPc/`

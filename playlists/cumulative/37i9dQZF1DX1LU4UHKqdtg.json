@@ -2515,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "bomb",
+        "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188641,
+      "name": "Billyeoon Goyangi (Do the Dance)",
+      "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
+    },
+    {
+      "album": {
         "name": "BIRD (THE BEST Ver.)",
         "url": "https://open.spotify.com/album/1owcEw2antmRf5VKfUudPd"
       },

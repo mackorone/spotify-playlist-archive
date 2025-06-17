@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Obongjayar",
-  "num_followers": 179529,
+  "num_followers": 179554,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,18 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+        "name": "New World Order",
+        "url": "https://open.spotify.com/album/5BfCoFrNlaVgA2X2hzAliD"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
         }
       ],
-      "duration_ms": 225444,
-      "name": "BAD BITCHES",
-      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
+      "duration_ms": 94809,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/2c7HV6DzQwGGWAQYHVOBO3"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -155,18 +151,22 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "New World Order",
-        "url": "https://open.spotify.com/album/5BfCoFrNlaVgA2X2hzAliD"
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
       "artists": [
         {
-          "name": "Fimiguerrero",
-          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 94809,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/2c7HV6DzQwGGWAQYHVOBO3"
+      "duration_ms": 225444,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -207,38 +207,6 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "Sweetie",
-        "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 244049,
-      "name": "Sweetie",
-      "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
-        "name": "Wasteman",
-        "url": "https://open.spotify.com/album/2xJKS127RMqv3KpKeiW6Do"
-      },
-      "artists": [
-        {
-          "name": "V.I.C",
-          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
-        }
-      ],
-      "duration_ms": 145879,
-      "name": "Wasteman",
-      "url": "https://open.spotify.com/track/2KEjyn86eHFkWVVjaCUZk9"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
         "name": "my bad bro",
         "url": "https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm"
       },
@@ -251,6 +219,22 @@
       "duration_ms": 74789,
       "name": "my bad bro",
       "url": "https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
+        "name": "Sweetie",
+        "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 244049,
+      "name": "Sweetie",
+      "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -271,6 +255,22 @@
       "duration_ms": 147961,
       "name": "Passenger Princess (feat. Smino)",
       "url": "https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
+        "name": "Wasteman",
+        "url": "https://open.spotify.com/album/2xJKS127RMqv3KpKeiW6Do"
+      },
+      "artists": [
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
+        }
+      ],
+      "duration_ms": 145879,
+      "name": "Wasteman",
+      "url": "https://open.spotify.com/track/2KEjyn86eHFkWVVjaCUZk9"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
         "name": "Three Piece Suit (feat. Azekel)",
         "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09"
-      },
-      "artists": [
-        {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
+        "name": "NO MANNERS",
+        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
+      },
+      "artists": [
+        {
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "NO MANNERS",
+      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
         "name": "cook & effy",
         "url": "https://open.spotify.com/album/2UNDZH4KDV03ElCDxEhJTX"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "NO MANNERS",
-        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
+        "name": "Avoid The Drones & 9 Months",
+        "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
       },
       "artists": [
         {
-          "name": "MGEE",
-          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 138591,
-      "name": "NO MANNERS",
-      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
+      "duration_ms": 214320,
+      "name": "9 Months",
+      "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -515,22 +531,6 @@
       "duration_ms": 252452,
       "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
       "url": "https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
-        "name": "TELL DEM IT'S SUNNY",
-        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 158739,
-      "name": "Whatcha Mean",
-      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -575,18 +575,18 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "Avoid The Drones & 9 Months",
-        "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
+        "name": "TELL DEM IT'S SUNNY",
+        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 214320,
-      "name": "9 Months",
-      "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
+      "duration_ms": 158739,
+      "name": "Whatcha Mean",
+      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -675,26 +675,6 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "lost my mind",
-        "url": "https://open.spotify.com/album/6wFuPwowIDNpICX9oqXFc5"
-      },
-      "artists": [
-        {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
-        },
-        {
-          "name": "Yvnnis",
-          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "lost my mind",
-      "url": "https://open.spotify.com/track/3AXwlM0fd6zL2fm5KANQRO"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
         "name": "To Be Found",
         "url": "https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr"
       },
@@ -719,22 +699,22 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "More Light (feat. Princess Nokia)",
-        "url": "https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8"
+        "name": "lost my mind",
+        "url": "https://open.spotify.com/album/6wFuPwowIDNpICX9oqXFc5"
       },
       "artists": [
         {
-          "name": "Divine Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
         },
         {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+          "name": "Yvnnis",
+          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
         }
       ],
-      "duration_ms": 212559,
-      "name": "More Light (feat. Princess Nokia)",
-      "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
+      "duration_ms": 195413,
+      "name": "lost my mind",
+      "url": "https://open.spotify.com/track/3AXwlM0fd6zL2fm5KANQRO"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -751,6 +731,26 @@
       "duration_ms": 182330,
       "name": "It\u2019s Gonna\u2019 Cost You",
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
+        "name": "More Light (feat. Princess Nokia)",
+        "url": "https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8"
+      },
+      "artists": [
+        {
+          "name": "Divine Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        },
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 212559,
+      "name": "More Light (feat. Princess Nokia)",
+      "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
+        "name": "JIGGY",
+        "url": "https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        },
+        {
+          "name": "LEE.",
+          "url": "https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG"
+        }
+      ],
+      "duration_ms": 141170,
+      "name": "JIGGY",
+      "url": "https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
         "name": "Angel Patience",
         "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
       },
@@ -807,6 +827,22 @@
       "duration_ms": 213688,
       "name": "Angel Patience",
       "url": "https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
+        "name": "Crystal Ball",
+        "url": "https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 154594,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -843,22 +879,6 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "Crystal Ball",
-        "url": "https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 154594,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
         "name": "##MOTIONMUZIK",
         "url": "https://open.spotify.com/album/31poFvXB8ciLoUulSDsbgM"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 134687,
       "name": "ROSTER",
       "url": "https://open.spotify.com/track/6FnezcbAmX7tOMF4hSi71K"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
-        "name": "JIGGY",
-        "url": "https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe"
-      },
-      "artists": [
-        {
-          "name": "cikho",
-          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
-        },
-        {
-          "name": "LEE.",
-          "url": "https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG"
-        }
-      ],
-      "duration_ms": 141170,
-      "name": "JIGGY",
-      "url": "https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
+        "name": "BEAST LIVING",
+        "url": "https://open.spotify.com/album/1Wiu5l7uF3O9kemS30SD8J"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Same Place",
+      "url": "https://open.spotify.com/track/6yYkaXcKKlBZqftX5zstbw"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
         "name": "Tempest",
         "url": "https://open.spotify.com/album/0JCVaWFdfzUEvOBMAfJzXI"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "BEAST LIVING",
-        "url": "https://open.spotify.com/album/1Wiu5l7uF3O9kemS30SD8J"
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid"
       },
       "artists": [
         {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Same Place",
-      "url": "https://open.spotify.com/track/6yYkaXcKKlBZqftX5zstbw"
+      "duration_ms": 180481,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -1075,22 +1091,6 @@
       "duration_ms": 192018,
       "name": "Give Us Some Time",
       "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid"
-      },
-      "artists": [
-        {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
-        }
-      ],
-      "duration_ms": 180481,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4"
     }
   ],
   "unique_name": "Free Form",

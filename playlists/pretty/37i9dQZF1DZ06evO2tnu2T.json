@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 177,
+  "num_followers": 196,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAB6mt48bZOg4vyRwg4HEYSj",
+  "snapshot_id": "aE4NAAAAAAA5Rw3pfWKRS6dhdtwbYGsL",
   "tracks": [
     {
       "added_at": null,
@@ -108,15 +108,15 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 185638,
-      "name": "Arrivals",
-      "url": "https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb"
+      "duration_ms": 161524,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Stay With Me (with Absolutely)",
-        "url": "https://open.spotify.com/album/5IcJs3auFFMiIxrDqqweC6"
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p"
       },
       "artists": [
         {
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 206964,
-      "name": "Stay With Me (with Absolutely)",
-      "url": "https://open.spotify.com/track/1p8R6ArQGBFpzoaLJiLvJh"
+      "duration_ms": 205453,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e"
     },
     {
       "added_at": null,
@@ -188,25 +188,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 161524,
-      "name": "Symphony",
-      "url": "https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CEREBRUM",
-        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 207660,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3"
+      "duration_ms": 185638,
+      "name": "Arrivals",
+      "url": "https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb"
     },
     {
       "added_at": null,
@@ -223,6 +207,22 @@
       "duration_ms": 198356,
       "name": "Glass",
       "url": "https://open.spotify.com/track/7mWB3oNV5SCMNxD0h0hjt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 207660,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3"
     },
     {
       "added_at": null,

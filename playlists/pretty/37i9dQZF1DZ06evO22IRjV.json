@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAebq5uq6xOJv43QhnWp6P8",
+  "snapshot_id": "aE4NAAAAAABCHKhKeRmJM6EGT+XLV9Gq",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW THE MAX !!!",
-        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "\u30d6\u30ec\u30a4\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\uff0310",
         "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 252133,
       "name": "Steppin' out",
       "url": "https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW THE MAX !!!",
+        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "\u30d6\u30ec\u30a4\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
-        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u8d08\u308b\u8a00\u8449 (single version)",
-      "url": "https://open.spotify.com/track/4MYNEFBZXSUViahKeSAVaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOLD",
         "url": "https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 215485,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
+        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u8d08\u308b\u8a00\u8449 (single version)",
+      "url": "https://open.spotify.com/track/4MYNEFBZXSUViahKeSAVaa"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DICE",
+        "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FLOW ANIME BEST \u6975",
         "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 235813,
       "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
       "url": "https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DICE",
-        "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRIBALYTHM",
-        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "PENDULUM",
-      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
         "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 245693,
       "name": "\u30e1\u30ed\u30b9",
       "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRIBALYTHM",
+        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "PENDULUM",
+      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLACK & WHITE",
-        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Hey!!!",
-      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INNOSENSE Special Edition",
         "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 256160,
       "name": "\u6d41\u661f",
       "url": "https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLACK & WHITE",
+        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Hey!!!",
+      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
     },
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/2OPyZxXVTaOUDfLPE3XLT9"
-      },
-      "artists": [
-        {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
-        },
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "ROTTENGRAFFTY",
-          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
-        }
-      ],
-      "duration_ms": 269693,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/70M4Ld9pUnFHcTissTRfUF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAYS",
         "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
       },
@@ -683,6 +659,50 @@
       "duration_ms": 243134,
       "name": "LOST",
       "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/2OPyZxXVTaOUDfLPE3XLT9"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+        }
+      ],
+      "duration_ms": 269693,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/70M4Ld9pUnFHcTissTRfUF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "duration_ms": 91906,
+      "name": "Howling -TV Size-",
+      "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
     },
     {
       "added_at": null,
@@ -755,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howling",
-        "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
       },
       "artists": [
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "GRANRODEO",
-          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
         }
       ],
-      "duration_ms": 91906,
-      "name": "Howling -TV Size-",
-      "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
+      "duration_ms": 209527,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 243640,
       "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
       "url": "https://open.spotify.com/track/0XMSzGi3pf0CcfYaw7nyGt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CLOSER",
-        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 209527,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
     },
     {
       "added_at": null,

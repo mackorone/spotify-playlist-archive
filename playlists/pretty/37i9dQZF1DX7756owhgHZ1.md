@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,063 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,068 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 74 | [Dig That Groove Baby](https://open.spotify.com/track/55uBQHjRdaAzmc6hE8BYPI) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad \- The Anthology](https://open.spotify.com/album/1ylwIEzDsRNab1Z0lqnJ2c) | 2:31 |
 | 75 | [Anarchy In the UK](https://open.spotify.com/track/6jx7pKjpXKuQdXXPI3H8qY) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [The Sex Pistols](https://open.spotify.com/album/5hv8m1pBKCMBf3kYNExaz4) | 3:33 |
 
-Snapshot ID: `Zn8ksAAAAADmJQgXfVmwYosVf6SQdZRY`
+Snapshot ID: `AAAAANM4zAK0oyVZKBYVoYfuGocViKtM`

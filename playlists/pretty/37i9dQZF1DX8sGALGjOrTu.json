@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 512865,
+  "num_followers": 512960,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Louder Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 171831,
-      "name": "Error Operator",
-      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Doppelganger",
         "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 224346,
       "name": "Mouths Like Sidewinder Missles",
       "url": "https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 171831,
+      "name": "Error Operator",
+      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Wires...And The Concept Of Breathing",
         "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 198693,
       "name": "I'm Not A Thief, I'm A Treasure Hunter",
       "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Gutter Phenomenon",
-        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
       "artists": [
         {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
         }
       ],
-      "duration_ms": 172653,
-      "name": "The New Black",
-      "url": "https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67"
+      "duration_ms": 194906,
+      "name": "All It Takes For Your Dreams To Come True",
+      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "Gutter Phenomenon",
+        "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "The New Black",
+      "url": "https://open.spotify.com/track/22EXrfNV0f9ZcWMpK2lF67"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "Nightmare Anatomy",
         "url": "https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 220786,
       "name": "Die Romantic",
       "url": "https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "All It Takes For Your Dreams To Come True",
-      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "We'rewolf",
-      "url": "https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "We'rewolf",
+      "url": "https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "The Curse",
         "url": "https://open.spotify.com/album/0Re8J0tmk2LNlRl4GxUowc"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "I'm Only A Man",
-        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
-      },
-      "artists": [
-        {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "The Party Song",
-      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 224973,
       "name": "Mu Empire",
       "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "I'm Only A Man",
+        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
+      },
+      "artists": [
+        {
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "The Party Song",
+      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "A Static Lullaby",
-        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
-      },
-      "artists": [
-        {
-          "name": "A Static Lullaby",
-          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Hang 'Em High",
-      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 194333,
       "name": "Smile In Your Sleep",
       "url": "https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "A Static Lullaby",
+        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
+      },
+      "artists": [
+        {
+          "name": "A Static Lullaby",
+          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Hang 'Em High",
+      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 199346,
       "name": "Counting 5-4-3-2-1",
       "url": "https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
     },
     {
       "added_at": "2024-10-03 21:26:43",

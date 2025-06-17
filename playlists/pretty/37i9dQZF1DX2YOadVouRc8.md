@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,653 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,683 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 42 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |
 | 43 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 |
 | 44 | [ecstasy](https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |
-| 45 | [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 |
-| 46 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 |
+| 45 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 |
+| 46 | [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 |
 | 47 | [Ifeoma](https://open.spotify.com/track/4elt86Mgijb74wnuO1nTcG) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Ifeoma](https://open.spotify.com/album/1EbcTy7CMKfT3G4hqbw9uD) | 2:04 |
 | 48 | [Bodycon](https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Bodycon](https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY) | 2:39 |
-| 49 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
-| 50 | [Economy](https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Economy](https://open.spotify.com/album/5l7xCQMFQsRAnQUr99gnJ7) | 3:57 |
+| 49 | [Economy](https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Economy](https://open.spotify.com/album/5l7xCQMFQsRAnQUr99gnJ7) | 3:57 |
+| 50 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
 | 51 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 |
 | 52 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 |
 | 53 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 63 | [Outside](https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Outside](https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA) | 2:56 |
 | 64 | [Despasito](https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 3:10 |
 | 65 | [Bad Belle](https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad Belle](https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d) | 3:26 |
-| 66 | [Storytime](https://open.spotify.com/track/0x6LQtNgrtznyaDJ5bPBrp) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Storytime](https://open.spotify.com/album/1MoX3r1GbmjH4VWZg1ERrX) | 2:37 |
-| 67 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
+| 66 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
+| 67 | [Storytime](https://open.spotify.com/track/0x6LQtNgrtznyaDJ5bPBrp) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Storytime](https://open.spotify.com/album/1MoX3r1GbmjH4VWZg1ERrX) | 2:37 |
 | 68 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 |
 | 69 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |
 | 70 | [mo de ma \[by any minz\]](https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [mo de ma \[by any minz\]](https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk) | 2:57 |

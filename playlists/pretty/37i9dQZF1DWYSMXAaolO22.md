@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain]
 
 > 2024年にプレイリスト「Buzz Tracker \#バズトラ」で聴かれた楽曲を総まとめ。 cover: 乃紫
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,413 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,411 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

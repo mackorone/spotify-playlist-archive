@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,799 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,822 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 47 | [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 |
 | 48 | [Marmita](https://open.spotify.com/track/751q23G1cXJTihDzwWvHBN) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:26 |
 | 49 | [Sonhar](https://open.spotify.com/track/0vt6uNUoCqF8M7ObXFM635) | [Companhia do Tecno](https://open.spotify.com/artist/2VFFEFBfWpFcciWIwm5cuL) | [SET de Melody e Calypso \#2024](https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI) | 3:13 |
-| 50 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
+| 50 | [Meus Dias Felizes](https://open.spotify.com/track/2221klmWmQn2yLtuLGSz6R) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [Bregoso 4](https://open.spotify.com/album/2QbLKFf00rabPX0REmUeew) | 2:02 |
 | 51 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
-| 52 | [Meus Dias Felizes](https://open.spotify.com/track/2221klmWmQn2yLtuLGSz6R) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [Bregoso 4](https://open.spotify.com/album/2QbLKFf00rabPX0REmUeew) | 2:02 |
+| 52 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
 | 53 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
 | 54 | [Problema Seu](https://open.spotify.com/track/2pByJv32jG0dUwkyu6Gmth) | [Banda Floresta Nativa](https://open.spotify.com/artist/7BUo6flN4ZfDeWOafPAHeL) | [Raro Amor](https://open.spotify.com/album/0polX3dWngAwh9WSb92fmQ) | 4:13 |
 | 55 | [Eu Fiz Tudo Errado](https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Manu](https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS) | 3:39 |

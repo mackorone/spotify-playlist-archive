@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 238133,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/0mAEw87LISH7QkMkZOdvLE"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 248760,
       "name": "Aprendizaje - En Vivo",
       "url": "https://open.spotify.com/track/0EyDQQYrbIRj4wE5EXBYID"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 186386,
       "name": "Armas Silenciosas",
       "url": "https://open.spotify.com/track/1fv1lK6oNbQeJ1QIBolaSt"
@@ -4916,7 +4916,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 108622,
       "name": "Blissful Myth",
       "url": "https://open.spotify.com/track/7zplWoMjOi5XJJJgSHoJ7O"
@@ -5284,7 +5284,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 234256,
       "name": "Body Burn - 2017 Remaster",
       "url": "https://open.spotify.com/track/6H9Q6i3TmgRHQjG3aWdp4t"
@@ -6879,6 +6879,24 @@
     },
     {
       "album": {
+        "name": "Deicide (Reissue)",
+        "url": "https://open.spotify.com/album/2gdL5FVb9weq5fVFa7Qw5F"
+      },
+      "artists": [
+        {
+          "name": "Deicide",
+          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "Carnage in the Temple of the Damned",
+      "url": "https://open.spotify.com/track/1hAnBUMPk1EMEeEiVIy2f9"
+    },
+    {
+      "album": {
         "name": "Flautas y Quenas",
         "url": "https://open.spotify.com/album/1gGfWpnbWMf9f35Nf8xVY4"
       },
@@ -8364,7 +8382,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 275839,
       "name": "Conflicting Ideas",
       "url": "https://open.spotify.com/track/5o15dbqEK0jd0YkJzFiFoQ"
@@ -9658,7 +9676,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 230839,
       "name": "Dawnlight Warms the Castle Stone",
       "url": "https://open.spotify.com/track/4KXIOg7Cw4ByykZ5HRkPEb"
@@ -9698,6 +9716,24 @@
       "duration_ms": 141000,
       "name": "De Coquimbo Soy",
       "url": "https://open.spotify.com/track/1dq2KsiAXK5Yoy99Pswd81"
+    },
+    {
+      "album": {
+        "name": "El Fin Justifica Los Medios",
+        "url": "https://open.spotify.com/album/2OeTmX0lHpvie6G0AwmPf4"
+      },
+      "artists": [
+        {
+          "name": "Los Suziox",
+          "url": "https://open.spotify.com/artist/6FFYBQ0mb0ODCREHgYq1uo"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204103,
+      "name": "De Donde Sale El Dinero",
+      "url": "https://open.spotify.com/track/0obkb3WBegEadmP2YKNuNc"
     },
     {
       "album": {
@@ -10241,6 +10277,24 @@
     },
     {
       "album": {
+        "name": "Visi\u00f3n de Futuro",
+        "url": "https://open.spotify.com/album/0PyM8gRX37KoBotNGPPeqm"
+      },
+      "artists": [
+        {
+          "name": "Finale",
+          "url": "https://open.spotify.com/artist/1VEmYmWXlco4Jf3lD4oICe"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103626,
+      "name": "Depresi\u00f3n",
+      "url": "https://open.spotify.com/track/7y0E7RGsp5boPI8WbsQTqD"
+    },
+    {
+      "album": {
         "name": "The Director's Cut",
         "url": "https://open.spotify.com/album/4EenSuWRkXoSrsMJEuvfE1"
       },
@@ -10324,7 +10378,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 126293,
       "name": "Desapego",
       "url": "https://open.spotify.com/track/5J0WyDCb6qM5vQSpYFYbCb"
@@ -12672,7 +12726,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "El Regreso",
       "url": "https://open.spotify.com/track/04l32IumKKAv4Wj06Af9AA"
@@ -13446,7 +13500,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 155133,
       "name": "Es un Crimen",
       "url": "https://open.spotify.com/track/3gxEDynxwbFLLRUdgs4qmc"
@@ -14908,7 +14962,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 247409,
       "name": "FN SCAR 16",
       "url": "https://open.spotify.com/track/2H9dio3RZRAzUQwkVvoYJt"
@@ -17806,6 +17860,24 @@
       "duration_ms": 225120,
       "name": "Here Is No Why - Remastered 2012",
       "url": "https://open.spotify.com/track/5INe9EN6cNF6axQ4A4BQfy"
+    },
+    {
+      "album": {
+        "name": "The Punk Terrorist Anthology Vol. 1",
+        "url": "https://open.spotify.com/album/5elWv25uzk6dBO60u14NyA"
+      },
+      "artists": [
+        {
+          "name": "Nausea",
+          "url": "https://open.spotify.com/artist/2ppBcpxOqehpLJuJQIRnKM"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "Here Today",
+      "url": "https://open.spotify.com/track/3hH6WXsP2sX6lDtgNm0Ewx"
     },
     {
       "album": {
@@ -22634,7 +22706,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 200253,
       "name": "La chica del club de golf",
       "url": "https://open.spotify.com/track/5LUUbSCXGj0g6cZB8x9usL"
@@ -22886,7 +22958,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 234987,
       "name": "La M\u00fasica",
       "url": "https://open.spotify.com/track/4cGlwyCcE6GCwzVfgGcVoF"
@@ -23840,7 +23912,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 112933,
       "name": "Lifetime Problems",
       "url": "https://open.spotify.com/track/4UT8w0BVSfi69Zz3YQ2mYm"
@@ -28553,6 +28625,24 @@
     },
     {
       "album": {
+        "name": "Vacaciones En El Prat + Oi!",
+        "url": "https://open.spotify.com/album/6LiJrAYOOKkcxBHoLm8NnH"
+      },
+      "artists": [
+        {
+          "name": "Decibelios",
+          "url": "https://open.spotify.com/artist/35sghW2437ESb7J1DBn3zs"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Ning\u00fan nombre de mujer",
+      "url": "https://open.spotify.com/track/6xmHTMHpBLeh493Ez6SMZv"
+    },
+    {
+      "album": {
         "name": "Tribal Thunder",
         "url": "https://open.spotify.com/album/6q4avlp8c9fH3T6K2AGyZ4"
       },
@@ -28586,6 +28676,24 @@
       "duration_ms": 127226,
       "name": "No Aloha",
       "url": "https://open.spotify.com/track/7izTc9bk8wT1RRz4giRHFW"
+    },
+    {
+      "album": {
+        "name": "La Burbuja",
+        "url": "https://open.spotify.com/album/64daAULCOF1SZn941JIwQZ"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "No Es Amor (adi\u00f3s Castigo)",
+      "url": "https://open.spotify.com/track/4bPoi7nS09Oh2DnEB0WsUS"
     },
     {
       "album": {
@@ -29246,6 +29354,28 @@
       "duration_ms": 222720,
       "name": "Nunca Me Faltes",
       "url": "https://open.spotify.com/track/1YQZJapVl2uxJmmRytoMGt"
+    },
+    {
+      "album": {
+        "name": "CONSTIMORDOR",
+        "url": "https://open.spotify.com/album/0nGIYfb1hiKYK3LH1rd8vP"
+      },
+      "artists": [
+        {
+          "name": "BARRO",
+          "url": "https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41"
+        },
+        {
+          "name": "Juli\u00e1n Guerreiro",
+          "url": "https://open.spotify.com/artist/4nvgthmK2wvzDGInKlJvrn"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187149,
+      "name": "NUNCA PEDI NACER",
+      "url": "https://open.spotify.com/track/6kfhVGfDRqiGYe4uDexFon"
     },
     {
       "album": {
@@ -31402,7 +31532,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 193946,
       "name": "Pirakor",
       "url": "https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE"
@@ -31420,7 +31550,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 165140,
       "name": "Pisagua 1973",
       "url": "https://open.spotify.com/track/547QNbcmrZOP88UzYVJ3JT"
@@ -31528,7 +31658,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 186493,
       "name": "Plastic Bomb",
       "url": "https://open.spotify.com/track/6YW9L7S2Kc0fxYLzwCx3ba"
@@ -45503,6 +45633,24 @@
     },
     {
       "album": {
+        "name": "The Art(E) of Romance",
+        "url": "https://open.spotify.com/album/45Fsg6GV0AToMFyopZMFBk"
+      },
+      "artists": [
+        {
+          "name": "Fun People",
+          "url": "https://open.spotify.com/artist/11wlHSvQVZGIJ5D1sTsihZ"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114373,
+      "name": "Vientos",
+      "url": "https://open.spotify.com/track/3cetxRqZToUg1EnvcmOd2J"
+    },
+    {
+      "album": {
         "name": "No S\u00ed Son",
         "url": "https://open.spotify.com/album/50l0lPvTD53cpKXOHuo62A"
       },
@@ -45766,7 +45914,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 195642,
       "name": "Vitrioli",
       "url": "https://open.spotify.com/track/3wWzGmd7gBBijifqExipEg"

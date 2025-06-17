@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 144097,
       "name": "Angel Falls",
       "url": "https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 169933,
       "name": "Before We Go",
       "url": "https://open.spotify.com/track/1I6l7jb9XihT5gUtXx9xA5"
@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 151000,
       "name": "Fernweh",
       "url": "https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4"
@@ -4950,7 +4950,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 139346,
       "name": "For Me & You",
       "url": "https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo"
@@ -5188,6 +5188,24 @@
       "duration_ms": 133958,
       "name": "Glencoe",
       "url": "https://open.spotify.com/track/0OTaXtuwRJbuVFinxBev0B"
+    },
+    {
+      "album": {
+        "name": "Glimpse",
+        "url": "https://open.spotify.com/album/4ycgH8iKucO8G8BeGxq0CR"
+      },
+      "artists": [
+        {
+          "name": "F. Garling",
+          "url": "https://open.spotify.com/artist/6972NR2aw4LViqsAjMZAhq"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125125,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/0i6mGt3eqBkVYJ1qfTQOFd"
     },
     {
       "album": {
@@ -7316,7 +7334,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 185848,
       "name": "Larghetto",
       "url": "https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx"
@@ -9735,6 +9753,24 @@
     },
     {
       "album": {
+        "name": "Now and Always",
+        "url": "https://open.spotify.com/album/6p2dyzjZvDiVZib2tSRjt0"
+      },
+      "artists": [
+        {
+          "name": "Sam Blom",
+          "url": "https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Now and Always",
+      "url": "https://open.spotify.com/track/1y4kDlA8bZhboSNVxSa8vW"
+    },
+    {
+      "album": {
         "name": "Now's Not The Time",
         "url": "https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt"
       },
@@ -9980,7 +10016,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 161116,
       "name": "Onirique",
       "url": "https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N"
@@ -14102,7 +14138,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 161951,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx"
@@ -14880,7 +14916,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 122577,
       "name": "Vineyard romance",
       "url": "https://open.spotify.com/track/0hrERSWlhyvqO1hb6EvDCS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,099 likes - 264 songs - 14 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,101 likes - 264 songs - 14 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 71 | [Dear god](https://open.spotify.com/track/7CmQjA7j6CxyPBkH3tP95W) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:51 |
 | 72 | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/track/3nodtPfXcok53E8Uze8gvD) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/album/2BGe2R4RsBOGdzZF7bGglE) | 3:07 |
 | 73 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/0eT4sEeeudOolC4hivApL9) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 2:34 |
-| 74 | [Hell Nos And Headphones](https://open.spotify.com/track/6nHBJFQz4gsK2Q6RIpBD0M) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:50 |
-| 75 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 |
+| 74 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 |
+| 75 | [Hell Nos And Headphones](https://open.spotify.com/track/6nHBJFQz4gsK2Q6RIpBD0M) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:50 |
 | 76 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
 | 77 | [Love Me Land](https://open.spotify.com/track/5knSvwiFenQOkDoriHi2Rg) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:40 |
 | 78 | [cotton candy](https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:47 |
@@ -242,8 +242,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 232 | [Celebration](https://open.spotify.com/track/14CuAx9KIrVXC0O4ac91uH) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [In Trap We Trust, Vol\. 1](https://open.spotify.com/album/4lU2rIbaKMUbwnN4FQj8Hu) | 4:22 |
 | 233 | [Like That \(feat\. Kany García\) \[Spanglish Version\]](https://open.spotify.com/track/3Z3Ed4IDwDT6R5WQmJhKvo) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Like That \(feat\. Kany García\) \[Spanglish Version\]](https://open.spotify.com/album/5BPlOAPz44uVZl1fnEA8S9) | 2:53 |
 | 234 | [Just For You](https://open.spotify.com/track/275DvW2FJITkWUdTHeuAup) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:06 |
-| 235 | [GFY](https://open.spotify.com/track/33KNeop6x7cfUlSVyLMc8G) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [GFY](https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq) | 2:54 |
-| 236 | [That's When I'll Care](https://open.spotify.com/track/5xccy9zo3LoXPznM8qHzAb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 3:04 |
+| 235 | [That's When I'll Care](https://open.spotify.com/track/5xccy9zo3LoXPznM8qHzAb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 3:04 |
+| 236 | [GFY](https://open.spotify.com/track/33KNeop6x7cfUlSVyLMc8G) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [GFY](https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq) | 2:54 |
 | 237 | [Waterslide](https://open.spotify.com/track/4SeShDomhZSFIfvGdHBXHq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:05 |
 | 238 | [Rocket Ship](https://open.spotify.com/track/7Kk83KSdI044UbqrtYmQII) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:08 |
 | 239 | [Bad For You](https://open.spotify.com/track/1TrISIcOILgHb48a4VOb89) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [The Running Wild EP](https://open.spotify.com/album/4TK7X7cCvg1OQmP3XNjdlZ) | 3:16 |
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 263 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 264 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `Ab0PMgAAAABnNV4PxmzXl3JLOYJwkmDf`
+Snapshot ID: `Ab0UqgAAAACMk80QV54jGV8yRzsf36vM`

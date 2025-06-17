@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,751 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,813 likes - 70 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 |
 | 70 | [Fode Bem](https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:16 |
 
-Snapshot ID: `aEmX9gAAAAD7ozaYC2hUrmGrgUSDOhSH`
+Snapshot ID: `aEmX9gAAAABSG09A7E+nN0rPm+NJDdes`

@@ -4,7 +4,7 @@
 
 > Cover: Shaw
 
-398 songs - 21 hr 6 min
+399 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,10 +79,11 @@
 | [CHICHI](https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [CHICHI](https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu) | 3:08 | 2022-11-14 | 2023-04-09 |
 | [CHIFA](https://open.spotify.com/track/2RAI7RiD5U3agijx30ruD0) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [CHIFA](https://open.spotify.com/album/2d4vqWTwuAjO8r6D1y5DHr) | 2:58 | 2024-12-12 | 2025-01-01 |
 | [Chill](https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Chill](https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8) | 2:57 | 2022-11-14 | 2022-12-13 |
-| [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 | 2024-06-14 |  |
+| [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 | 2024-06-14 | 2025-06-17 |
 | [Chno Raytra](https://open.spotify.com/track/3rXQbN6yonMWT3jdwULWPB) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Caprice](https://open.spotify.com/artist/2lNwwXvAzZbmhmXReW27Sr) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 4:03 | 2023-07-27 | 2023-10-01 |
 | [CHOUHA](https://open.spotify.com/track/2T8BFVrjpTuZgsp1nudcw9) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [CHOUHA](https://open.spotify.com/album/21OeFv2xCNILgZWPJYJ4We) | 3:12 | 2023-12-28 | 2024-01-04 |
 | [Chti Chi](https://open.spotify.com/track/4Mz16BkxyJRTdGVx2lXzU1) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [Chti Chi](https://open.spotify.com/album/2NM1lQ1lgEZa5tT9OQtexT) | 2:48 | 2024-08-22 | 2024-11-08 |
+| [Cobra Pretty](https://open.spotify.com/track/4RKXeDimD0AUIxPNdBrKcN) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Cobra Pretty](https://open.spotify.com/album/4U3omCIhLdJ8rRepgPRLbF) | 2:53 | 2025-06-16 |  |
 | [COLD PALMER](https://open.spotify.com/track/5pPMlUR87OAXecDB3s1am7) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [COLD PALMER](https://open.spotify.com/album/1xnQozBIU83NvwAnboEzGW) | 3:10 | 2025-04-16 | 2025-04-26 |
 | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/track/7cDD6fOmjVI5NN1krdQ9U2) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads) | 3:38 | 2024-11-12 | 2024-11-29 |
 | [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 | 2023-06-22 | 2024-09-02 |

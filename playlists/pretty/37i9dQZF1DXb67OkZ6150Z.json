@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 300599,
+  "num_followers": 300623,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 165320,
       "name": "my love mine all mine",
       "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
-    },
-    {
-      "added_at": "2025-06-13 04:00:51",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "keep your head up",
-        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 206672,
-      "name": "keep your head up",
-      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
-    },
-    {
-      "added_at": "2025-06-13 04:00:51",
-      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 142000,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
+        "name": "keep your head up",
+        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 206672,
+      "name": "keep your head up",
+      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -875,6 +875,26 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
+        "name": "Steal My Sunshine / Novocaine For The Soul",
+        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 240002,
+      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
+      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
         "name": "Thank You For Being Here",
         "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 216440,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
-    },
-    {
-      "added_at": "2025-06-13 04:00:51",
-      "album": {
-        "name": "Steal My Sunshine / Novocaine For The Soul",
-        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 240002,
-      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
-      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2025-06-13 04:00:51",
-      "album": {
         "name": "Float On",
         "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 176853,
       "name": "Float On",
       "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
+        "name": "Tonight, Tonight",
+        "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 261088,
+      "name": "Tonight, Tonight",
+      "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
         "name": "Pumped Up Kicks (Gus Dapperton Version)",
         "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
-    },
-    {
-      "added_at": "2025-06-13 04:00:51",
-      "album": {
-        "name": "Tonight, Tonight",
-        "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 261088,
-      "name": "Tonight, Tonight",
-      "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r"
-    },
-    {
-      "added_at": "2025-06-13 04:00:51",
-      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/7eUS2wu8pqoHIQZXuvtKL6"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 171320,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/31MwXSAGt4BErA3jITUf8m"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Dreams Tonite",
-        "url": "https://open.spotify.com/album/5QIyja8uXUCy0CgUeFbHAH"
+        "name": "Desperado / Born on a Train",
+        "url": "https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz"
       },
       "artists": [
         {
-          "name": "Husbands",
-          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 188746,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/6kFQtqHLGKgSSUEUFBszFU"
+      "duration_ms": 220500,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS"
     }
   ],
   "unique_name": "Indie Covers",

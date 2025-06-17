@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,996 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,217 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [I Think We're Alone Now](https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [No Fun Mondays](https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL) | 2:14 |
 | 50 | [Stay Young](https://open.spotify.com/track/1wKuu1NQqOaxCVw69wpvUh) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 4:10 |
 
-Snapshot ID: `aEy7gAAAAACphc2zXIpYVTtCXZWM+fYe`
+Snapshot ID: `aE4NAAAAAACZcFjMBT/gwjzOLxHiynqE`

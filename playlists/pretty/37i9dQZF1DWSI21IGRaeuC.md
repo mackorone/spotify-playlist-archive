@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,609 likes - 120 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,667 likes - 120 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 119 | [Me & U](https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Me & U](https://open.spotify.com/album/7cWNy3kWFzrzODFwR7k1Tg) | 2:24 |
 | 120 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
 
-Snapshot ID: `aEuidwAAAAAq+LM2Hjlo7YqR9z/zSC/T`
+Snapshot ID: `aEuidwAAAABL1vdtFPGwL3opYgCoOVJR`

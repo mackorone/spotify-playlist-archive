@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,829 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,890 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 26 | [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 |
 | 27 | [Always n Forever \(feat\. Lil Baby\)](https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RY RY WORLD](https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON) | 3:17 |
 | 28 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 |
-| 29 | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox) | 2:46 |
-| 30 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 |
+| 29 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 |
+| 30 | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox) | 2:46 |
 | 31 | [3 Headed Goat \(feat\. Lil Baby & Polo G\)](https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:49 |
 | 32 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/55aJJZPGLrIjI0nYYb7Bul) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O) | 2:42 |
 | 33 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 49 | [U Played \(feat\. Lil Baby\)](https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:44 |
 | 50 | [1000 Times \(feat\. Lil Baby\)](https://open.spotify.com/track/17Pa3c4hQLPHPrxCs4BwZj) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 3:23 |
 
-Snapshot ID: `aEy7gAAAAACRLQxd4cKY/hbYn3Q/Jm2p`
+Snapshot ID: `aE4NAAAAAADySuA5d73dHcZYi2q2+HWy`

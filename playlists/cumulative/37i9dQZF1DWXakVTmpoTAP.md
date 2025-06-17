@@ -4,7 +4,7 @@
 
 > Songs that show your dad love and appreciation
 
-81 songs - 5 hr 25 min
+82 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Beautiful Boy](https://open.spotify.com/track/4w5TzKwkxg0OXz4vHXFUlW) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Instant Karma: The Amnesty International Campaign To Save Darfur \(Standard Version\)](https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN) | 3:48 | 2021-06-17 | 2022-07-29 |
 | [Beautiful Boy \(Darling Boy\) \- 2010 Remastered](https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Beautiful Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD) | 4:02 | 2024-06-16 |  |
 | [Beautiful Boy \(Darling Boy\) \- Remastered 2010](https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 4:05 | 2022-06-09 | 2025-06-12 |
-| [Build Me A Daddy](https://open.spotify.com/track/3udcshOhVkIlkFpqys8H6X) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Build Me A Daddy](https://open.spotify.com/album/3wCpymONuF2pwfAyz4mFW3) | 3:09 | 2023-05-31 |  |
+| [Build Me A Daddy](https://open.spotify.com/track/3udcshOhVkIlkFpqys8H6X) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Build Me A Daddy](https://open.spotify.com/album/3wCpymONuF2pwfAyz4mFW3) | 3:09 | 2023-05-31 | 2025-06-17 |
 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 | 2021-06-17 |  |
 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 | 2022-06-09 |  |
 | [Color Him Father](https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK) | [The Winstons](https://open.spotify.com/artist/4Dvqy5ohQ4sUR1sCETSeak) | [Color Him Father](https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M) | 3:10 | 2022-06-09 |  |
@@ -36,6 +36,7 @@
 | [Daughters](https://open.spotify.com/track/2cOfceFeMN2YgYaOf3KYJ6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:20 | 2021-06-17 | 2025-06-14 |
 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 | 2022-06-09 |  |
 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/32qiMwmCESGPYtjfnIkIqC) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [It's All About The Music](https://open.spotify.com/album/3CSzB71OGoQU5PRNyDWeGh) | 4:02 | 2021-06-17 | 2022-07-27 |
+| [Eighteen](https://open.spotify.com/track/1JLeJoguGKO9HKxEIDzABJ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Eighteen](https://open.spotify.com/album/3pUADbetgIPJIlzDMyJJoE) | 2:59 | 2025-06-13 |  |
 | [Father and Daughter](https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:10 | 2021-06-17 |  |
 | [Father and Daughter](https://open.spotify.com/track/4aU1zq0W9Ftg1UAQSj4aHN) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Surprise](https://open.spotify.com/album/3BgJSYve7Hvp80NZ6JWTmK) | 4:11 | 2022-06-09 | 2025-06-12 |
 | [Father And Son](https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Very Best Of Cat Stevens](https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal) | 3:40 | 2021-06-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: Max Dean, Luke Dean, Locky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,425,336 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425,457 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

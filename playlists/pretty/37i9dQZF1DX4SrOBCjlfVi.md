@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gunna, Lil Tecca, 2 Chainz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,526 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,646 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 59 | [JELLO](https://open.spotify.com/track/3XRUpBRItrSlWkOxct38BS) | [Iconic Savvy](https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC) | [JELLO](https://open.spotify.com/album/2u9l2z9jOvRVqrFasyNz8M) | 2:11 |
 | 60 | [SON SHINES](https://open.spotify.com/track/2VMQV9fnebDrBN1DEdp9T3) | [NEMS](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4) | [AMERICA’S SWEETHEART \(DELUXE\)](https://open.spotify.com/album/0mWfzVzBpjbOpnHEgs4GHk) | 2:02 |
 
-Snapshot ID: `AAAAALKcmMfWG/D+cBEALvfpqMZttG6g`
+Snapshot ID: `aEuicgAAAABC12ncBinqxSd4UccS+YHE`

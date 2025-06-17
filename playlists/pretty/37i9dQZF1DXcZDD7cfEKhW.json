@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: JENNIE",
-  "num_followers": 4083474,
+  "num_followers": 4083363,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 123214,
+      "name": "CAN'T TOUCH THIS - R3HAB Remix",
+      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
         "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 123214,
-      "name": "CAN'T TOUCH THIS - R3HAB Remix",
-      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
     }
   ],
   "unique_name": "Pop Remix",

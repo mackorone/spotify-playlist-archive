@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 44077,
+  "num_followers": 44086,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACXTBMlp6pnPtB0IsgK4xor",
+  "snapshot_id": "aE4NAAAAAAAPEpLzcjmnaxCtdCKb1QBu",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Click Clack",
+        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Chain Trackz",
+          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
+        }
+      ],
+      "duration_ms": 178461,
+      "name": "Click Clack",
+      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -279,30 +303,6 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Click Clack",
-        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Chain Trackz",
-          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
-        }
-      ],
-      "duration_ms": 178461,
-      "name": "Click Clack",
-      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
+        "name": "No Vuelvas Mas A Mi",
+        "url": "https://open.spotify.com/album/69Ywb8h3qzqF9FdyoHkC0R"
       },
       "artists": [
         {
@@ -640,13 +640,13 @@
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 225923,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
+      "duration_ms": 243461,
+      "name": "No Vuelvas Mas A Mi",
+      "url": "https://open.spotify.com/track/2kLSw4e5Yn5SQl1zTsrl18"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Vuelvas Mas A Mi",
-        "url": "https://open.spotify.com/album/69Ywb8h3qzqF9FdyoHkC0R"
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
       },
       "artists": [
         {
@@ -680,37 +680,13 @@
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 243461,
-      "name": "No Vuelvas Mas A Mi",
-      "url": "https://open.spotify.com/track/2kLSw4e5Yn5SQl1zTsrl18"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aqu\u00ed Estamos",
-        "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Aqu\u00ed Estamos",
-      "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+      "duration_ms": 225923,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
     },
     {
       "added_at": null,
@@ -739,6 +715,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aqu\u00ed Estamos",
+        "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Aqu\u00ed Estamos",
+      "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ROMA",
         "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 228292,
       "name": "No quiero que amanezca",
       "url": "https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa En Mis Labios",
-        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Piensa En Mis Labios",
-      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
     },
     {
       "added_at": null,
@@ -955,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Extra\u00f1os",
         "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
       },
@@ -995,22 +979,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Me Olvid\u00e9",
-        "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
       "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 221538,
-      "name": "De Ti Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": null,
@@ -1031,6 +1011,26 @@
       "duration_ms": 211408,
       "name": "Tequila y Miel",
       "url": "https://open.spotify.com/track/4eeggfKUbhnYSFV17Sq4h8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ti Me Olvid\u00e9",
+        "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "De Ti Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
     },
     {
       "added_at": null,
@@ -1091,6 +1091,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El",
+        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chip S (Metal Version)",
         "url": "https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 193846,
       "name": "Chip S (Metal Version)",
       "url": "https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El",
-        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El",
-      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
     },
     {
       "added_at": null,
@@ -1147,6 +1147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/4ss4Hp44BnnJxCQua0TuSk"
       },
@@ -1167,26 +1183,6 @@
       "duration_ms": 187467,
       "name": "OMG",
       "url": "https://open.spotify.com/track/5gjRYrS0Vp6xO7wwSU9fQv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e1melo",
-        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "D\u00e1melo",
-      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
     },
     {
       "added_at": null,

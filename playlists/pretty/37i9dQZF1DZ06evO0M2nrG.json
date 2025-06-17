@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABFUpD7Aj28TlKM4aurENsz",
+  "snapshot_id": "aE4NAAAAAAB5pG5ofs0hu53vqMKslaje",
   "tracks": [
     {
       "added_at": null,
@@ -583,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bolerito",
-        "url": "https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL"
+        "name": "Contigo Hasta El Final",
+        "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
       },
       "artists": [
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 167710,
-      "name": "Bolerito",
-      "url": "https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b"
+      "duration_ms": 168720,
+      "name": "Contigo Hasta El Final",
+      "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
     },
     {
       "added_at": null,
@@ -615,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo Hasta El Final",
-        "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
+        "name": "Bolerito",
+        "url": "https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL"
       },
       "artists": [
-        {
-          "name": "Gian Marco",
-          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
-        },
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 168720,
-      "name": "Contigo Hasta El Final",
-      "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
+      "duration_ms": 167710,
+      "name": "Bolerito",
+      "url": "https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b"
     },
     {
       "added_at": null,

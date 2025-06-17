@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,993 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,008 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 16 | [All You Want](https://open.spotify.com/track/5hJYtuUAsHMnmRe1aogTfX) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [All You Want](https://open.spotify.com/album/4STwzDy8LTnUsA6AImZZy7) | 3:40 |
 | 17 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
 | 18 | [I'll Meet You On The Clouds \- World Sleep Day Mix](https://open.spotify.com/track/2BeCRQKSIv9ilQrbl9GiMk) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [I’ll Meet You On The Clouds \(World Sleep Day Mix\)](https://open.spotify.com/album/5RxljAzNOU50KsHOpVmC93) | 3:12 |
-| 19 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
-| 20 | [Adoration](https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Adoration](https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2) | 2:37 |
+| 19 | [Adoration](https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Adoration](https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2) | 2:37 |
+| 20 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
 | 21 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 |
 | 22 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
 | 23 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
-| 24 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 |
-| 25 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 |
-| 26 | [Introvert](https://open.spotify.com/track/255aV1UNNwLHwkqBAfInaW) | [Nadija Lapina](https://open.spotify.com/artist/1VPvIcBilHkAOqfwEEWfH9) | [Introvert](https://open.spotify.com/album/0yaHISsvX3tseupbiwm2d8) | 2:25 |
+| 24 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 |
+| 25 | [Introvert](https://open.spotify.com/track/255aV1UNNwLHwkqBAfInaW) | [Nadija Lapina](https://open.spotify.com/artist/1VPvIcBilHkAOqfwEEWfH9) | [Introvert](https://open.spotify.com/album/0yaHISsvX3tseupbiwm2d8) | 2:25 |
+| 26 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 |
 | 27 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 |
 | 28 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 |
 | 29 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 32 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
 | 33 | [Stoevsky](https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Stoevsky](https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb) | 2:44 |
 | 34 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 |
-| 35 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
-| 36 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
+| 35 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
+| 36 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
 | 37 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 |
 | 38 | [Azul](https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Azul](https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc) | 2:00 |
 | 39 | [Dandelions](https://open.spotify.com/track/1HoCLME8rDSpksyIVgfs5w) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Dandelions](https://open.spotify.com/album/1StyA6SuWHuexqkYAEaJEA) | 2:23 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 43 | [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 |
 | 44 | [Goodwill](https://open.spotify.com/track/1BfkOTr6W7SyXsfappHLHy) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Goodwill](https://open.spotify.com/album/5AkNMQIU6nLtldzxl4YGYH) | 3:26 |
 | 45 | [Snuggled](https://open.spotify.com/track/75Zh8LLgK1jnGbHsAMN2vv) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Snuggled](https://open.spotify.com/album/3xjUvrQEXkBv2V1NiMw3Pv) | 2:11 |
-| 46 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
-| 47 | [Infinite](https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Infinite](https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0) | 2:26 |
+| 46 | [Infinite](https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Infinite](https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0) | 2:26 |
+| 47 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
 | 48 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 |
 | 49 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 |
 | 50 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 |

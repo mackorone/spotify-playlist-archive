@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 154146,
+  "num_followers": 154158,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADr17crL6JL/N1c1+9Ibmee",
+  "snapshot_id": "aE4NAAAAAADwrtOWzbRkUblUTt0dz0f0",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206239,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/4ZMlISnhTmLaAbWIngyU8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 194875,
       "name": "Andamos Borrachos Todos (En Vivo)",
       "url": "https://open.spotify.com/track/3w5D4oqMwV9D3WJl0CsiuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206239,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/4ZMlISnhTmLaAbWIngyU8O"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206169,
-      "name": "Compa\u00f1era M\u00eda",
-      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos (En Vivo)",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206169,
+      "name": "Compa\u00f1era M\u00eda",
+      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
     },
     {
       "added_at": null,

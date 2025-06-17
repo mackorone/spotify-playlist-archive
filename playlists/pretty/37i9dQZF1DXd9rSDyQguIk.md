@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 
 > Nothing but classic blues\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,218,855 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,219,244 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 49 | [Sadie](https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Nothing But The Truth](https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ) | 6:07 |
 | 50 | [Scratch My Back](https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:52 |
 
-Snapshot ID: `Z7yCHgAAAAA/B5c54fvRmtbmSMRBlY+5`
+Snapshot ID: `AAAAAA/XteXI0JNyrILOLUfBUz1yVR48`

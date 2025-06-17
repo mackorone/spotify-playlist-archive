@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Ektor",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Pil C & Luca Brassi10x",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -546,6 +546,32 @@
       "duration_ms": 192003,
       "name": "DISTANC",
       "url": "https://open.spotify.com/track/7dg2q93qomkGaLINDWjOiO"
+    },
+    {
+      "album": {
+        "name": "brat",
+        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "dole",
+      "url": "https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb"
     },
     {
       "album": {
@@ -1358,7 +1384,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 184000,
       "name": "MMA",
       "url": "https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU"
@@ -2504,7 +2530,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 186086,
       "name": "ULICE DRUH\u00c1 M\u00c1MA",
       "url": "https://open.spotify.com/track/00Imdq7NDBO3zbbREGgUOM"
@@ -2544,6 +2570,24 @@
       "duration_ms": 183223,
       "name": "Up From the Bottom",
       "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+    },
+    {
+      "album": {
+        "name": "v ciz\u00ed posteli",
+        "url": "https://open.spotify.com/album/3HJ5XlF6MYkennbIvo3O3Q"
+      },
+      "artists": [
+        {
+          "name": "Renne Dang",
+          "url": "https://open.spotify.com/artist/1I74GELlem5XmPTKYIdb3i"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "v ciz\u00ed posteli",
+      "url": "https://open.spotify.com/track/3GCwkC0CQ0Fc4cmeLvqI0n"
     },
     {
       "album": {

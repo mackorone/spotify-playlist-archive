@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,579 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,639 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 |
 | 50 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
 
-Snapshot ID: `aEITjgAAAACXX45daIzidr4E08/39uju`
+Snapshot ID: `AAAAAOIaAmtTA0Dy4RltySJS6jvh91Ze`

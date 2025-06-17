@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,783 likes - 56 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,779 likes - 56 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 7 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 |
 | 8 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
 | 9 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
-| 10 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 |
+| 10 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 |
 | 11 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
-| 12 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 |
+| 12 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 |
 | 13 | [Bunna Summa](https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa](https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK) | 2:27 |
 | 14 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 |
 | 15 | [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 |
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 17 | [Every Girl You've Ever Loved \(feat\. Naomi Campbell\)](https://open.spotify.com/track/22WFoPT9VIJlZ0VcJVkCpm) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 5:18 |
 | 18 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
 | 19 | [Ran Out](https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Ran Out](https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq) | 2:22 |
-| 20 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
-| 21 | [Huir](https://open.spotify.com/track/4F4bjPeMNJDrGK1FJW215W) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Huir](https://open.spotify.com/album/58OJHw3hvgRhaoQHlmGV08) | 2:28 |
+| 20 | [Huir](https://open.spotify.com/track/4F4bjPeMNJDrGK1FJW215W) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Huir](https://open.spotify.com/album/58OJHw3hvgRhaoQHlmGV08) | 2:28 |
+| 21 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
 | 22 | [French Girls](https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [French Girls](https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN) | 2:52 |
 | 23 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
-| 24 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
+| 24 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 |
 | 25 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 |
-| 26 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 |
+| 26 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
 | 27 | [Oh Lala](https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Oh Lala](https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW) | 3:50 |
-| 28 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Tulips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
+| 28 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/2jXaKP1SGZBThNf6lVHCdo) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
 | 29 | [EROTIKA](https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EROTIKA](https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU) | 2:45 |
 | 30 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
 | 31 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 39 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
 | 40 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
 | 41 | [HAKiA](https://open.spotify.com/track/2R7tJQlT37TxQ1jzu9ez7K) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [HAKiA](https://open.spotify.com/album/0KqrVcGMXFMESOIj071ZIi) | 2:13 |
-| 42 | [too good](https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:40 |
-| 43 | [Dancehall](https://open.spotify.com/track/3XcM7tSvGt8lHtmUkLibWU) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Dancehall](https://open.spotify.com/album/6ejhPZLlGjXOxUEu1GN9tm) | 2:42 |
+| 42 | [Dancehall](https://open.spotify.com/track/3XcM7tSvGt8lHtmUkLibWU) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Dancehall](https://open.spotify.com/album/6ejhPZLlGjXOxUEu1GN9tm) | 2:42 |
+| 43 | [too good](https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:40 |
 | 44 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
 | 45 | [Cowboy Sh!t](https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Cowboy Sh!t](https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz) | 2:34 |
 | 46 | [Bad Brain](https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Bad Brain](https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna) | 2:43 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 55 | [Savannah](https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Savannah](https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz) | 3:24 |
 | 56 | [Vertigo](https://open.spotify.com/track/5ElhrA4i6PX4vkJ6sOEPE3) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Vertigo](https://open.spotify.com/album/7awFCf1IxOUrMpBqt4IZxx) | 3:04 |
 
-Snapshot ID: `aEBoIQAAAADeCuqxUgOqHmmb+wJ6E+yL`
+Snapshot ID: `aFBZ3gAAAABb/Hh365mzsgWFqU/UkNST`

@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106575,
+  "num_followers": 106572,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Ahora y Siempre",
         "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 149275,
       "name": "Ahora y Siempre",
       "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Turn The Radio Off",
-        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Sell Out",
-      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Be Your Love",
         "url": "https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 194066,
       "name": "Be Your Love",
       "url": "https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Turn The Radio Off",
+        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 139293,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "A Deeper Understanding",
         "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 350893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 139293,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Emergency EP",
-        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 169617,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 220040,
       "name": "papi bones (feat. shygirl)",
       "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Emergency EP",
+        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 169617,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "She Don't Dance",
-        "url": "https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH"
+        "name": "Big Talk",
+        "url": "https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK"
       },
       "artists": [
         {
-          "name": "Everyone You Know",
-          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
         }
       ],
-      "duration_ms": 226610,
-      "name": "She Don't Dance",
-      "url": "https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy"
+      "duration_ms": 197352,
+      "name": "Big Talk",
+      "url": "https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Big Talk",
-        "url": "https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK"
+        "name": "She Don't Dance",
+        "url": "https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH"
       },
       "artists": [
         {
-          "name": "SOFY",
-          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
         }
       ],
-      "duration_ms": 197352,
-      "name": "Big Talk",
-      "url": "https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ"
+      "duration_ms": 226610,
+      "name": "She Don't Dance",
+      "url": "https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "Totally",
-      "url": "https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "A Little Deeper",
         "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 217466,
       "name": "Dy-Na-Mi-Tee",
       "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "Totally",
+      "url": "https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Black Star Elephant",
-        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
-      },
-      "artists": [
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 227318,
-      "name": "When the Day Comes",
-      "url": "https://open.spotify.com/track/0P2HAFu7RnkfPnkimNi7I5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "CTRL + ALT + DEL",
         "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 153166,
       "name": "CTRL + ALT + DEL",
       "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Black Star Elephant",
+        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
+      },
+      "artists": [
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 227318,
+      "name": "When the Day Comes",
+      "url": "https://open.spotify.com/track/0P2HAFu7RnkfPnkimNi7I5"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
       },
       "artists": [
         {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 193853,
-      "name": "On Our Way",
-      "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
+      "duration_ms": 164000,
+      "name": "Scatter",
+      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

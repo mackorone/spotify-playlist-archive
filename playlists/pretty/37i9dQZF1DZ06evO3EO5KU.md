@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,070 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,076 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 13 | [Con Cartitas Y Whatsapp](https://open.spotify.com/track/6ghJqEFJbYzHbTb59uoR0z) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:34 |
 | 14 | [Ya lo Superé](https://open.spotify.com/track/7KLvYoh4CK9FSzQvQGmCTh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:49 |
 | 15 | [Que Se Canse De Llamar](https://open.spotify.com/track/0zQXBwgrIpqSVwg68zi2zM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW) | 2:43 |
-| 16 | [Yo No Tengo Ex](https://open.spotify.com/track/3WDhe3EqrhPpbGQa3jm7SJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Yo No Tengo Ex](https://open.spotify.com/album/5QIhmDkhNCfLavoHIgTb7o) | 2:37 |
-| 17 | [Hablemos](https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:07 |
+| 16 | [Hablemos](https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:07 |
+| 17 | [Yo No Tengo Ex](https://open.spotify.com/track/3WDhe3EqrhPpbGQa3jm7SJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Yo No Tengo Ex](https://open.spotify.com/album/5QIhmDkhNCfLavoHIgTb7o) | 2:37 |
 | 18 | [Te Voy a Olvidar](https://open.spotify.com/track/3L9b67Rz7l93Wl6rSUwsIY) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 2:43 |
 | 19 | [Cuanto Te Quiero](https://open.spotify.com/track/33ybsf9yqhNc2QIOppoBDu) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW) | 2:43 |
 | 20 | [Hay Niveles](https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Hay Niveles](https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [10 Vidas](https://open.spotify.com/track/2WPTtiBY1dTVmjqdfasfXJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [10 Vidas](https://open.spotify.com/album/7fd2xxZm8FRtDT0uv152lY) | 2:39 |
 | 50 | [Los Versos De Muel](https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2) | [Darey de la Sierra](https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Los Versos De Muel](https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a) | 3:25 |
 
-Snapshot ID: `aEy7gAAAAABlwbCLgzOeKYI85LqBOgre`
+Snapshot ID: `aE4NAAAAAADM2vZSN1wXCSSo4P0QQpy0`

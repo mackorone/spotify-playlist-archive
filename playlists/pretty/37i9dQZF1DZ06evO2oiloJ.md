@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,964 likes - 41 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,009 likes - 41 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 20 | [Angel With An Attitude](https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:15 |
 | 21 | [Call Your Friends](https://open.spotify.com/track/5W0RVQViQC7xocvAUnIs6Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:33 |
 | 22 | [By Myself \(feat\. Rod Wave & Rylo Rodriguez\)](https://open.spotify.com/track/4pnwBTwGbXdZYgPhYJPRsr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:17 |
-| 23 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9) | 3:55 |
-| 24 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
+| 23 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
+| 24 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9) | 3:55 |
 | 25 | [By Your Side](https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:14 |
 | 26 | [Westside Connection](https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Westside Connection](https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG) | 2:44 |
-| 27 | [Shooting Star](https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Shooting Star](https://open.spotify.com/album/14qCy7dx554jMsZuf8braG) | 3:03 |
-| 28 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
+| 27 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
+| 28 | [Shooting Star](https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Shooting Star](https://open.spotify.com/album/14qCy7dx554jMsZuf8braG) | 3:03 |
 | 29 | [Close Enough to Hurt](https://open.spotify.com/track/1WPszJN4Em99es2kpiaUxt) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:15 |
 | 30 | [What's Wrong](https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 2:35 |
 | 31 | [Ribbon In The Sky](https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:43 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 40 | [2019](https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:25 |
 | 41 | [Alone](https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:11 |
 
-Snapshot ID: `aEy7gAAAAADXtSmA/ey8jMvOlkuOpPxP`
+Snapshot ID: `aE4NAAAAAADudSTcLA/yOJGJIrvCMNj6`

@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1345647,
+  "num_followers": 1345880,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACiYyFgCRPvmtW7t0Fnugxf",
+  "snapshot_id": "aE4NAAAAAACiWb90eiJfcjLg+JU6yjJT",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 205144,
       "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
       "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": null,

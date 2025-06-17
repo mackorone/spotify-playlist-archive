@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 84,665 likes - 211 songs - 9 hr 8 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 84,806 likes - 211 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 28 | [Stumblin' In](https://open.spotify.com/track/4QECgFL34Co7AdI0YBz3VQ) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Stumblin' In](https://open.spotify.com/album/3wsnQV7qFBqQOe8nedgjPJ) | 2:57 |
 | 29 | [Don't Worry](https://open.spotify.com/track/47xY6YRnUzumNo244NH5I3) | [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7), [Moving Castles](https://open.spotify.com/artist/0me4iIJvYbOevaJMMtUPC8) | [Don't Worry](https://open.spotify.com/album/5QgWdxtc2RwxKr9tPJPufl) | 2:54 |
 | 30 | [Good Vibes](https://open.spotify.com/track/1MOR5ZUWhe7Re4o8ElTily) | [Leavs.](https://open.spotify.com/artist/01SFNHtdp2lGruKBXvujfp), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Good Vibes](https://open.spotify.com/album/1msniyy1XRCEZWCbJzvGn7) | 2:10 |
-| 31 | [On The Phone](https://open.spotify.com/track/7yqQzz7dv2KsEVEg2MZTBb) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Methner](https://open.spotify.com/artist/1KVh2mDowk5csLQLpG4sln), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [On The Phone](https://open.spotify.com/album/7rU6OnbjbZprf6pwCoaa95) | 2:04 |
+| 31 | [On The Phone](https://open.spotify.com/track/7yqQzz7dv2KsEVEg2MZTBb) | [Methner](https://open.spotify.com/artist/1KVh2mDowk5csLQLpG4sln), [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [On The Phone](https://open.spotify.com/album/7rU6OnbjbZprf6pwCoaa95) | 2:04 |
 | 32 | [Falling Again](https://open.spotify.com/track/11qBL6eb3y7t0IR7VYOQ0X) | [Brendel](https://open.spotify.com/artist/3Qip72181utO46MtLbUOHV), [DXSTN](https://open.spotify.com/artist/5Zds2E2cZpSZoSfESltpgT), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Falling Again](https://open.spotify.com/album/0lxKOHlDZKMZX5Ta51V4i0) | 2:42 |
 | 33 | [Driving Oceanside](https://open.spotify.com/track/0dIiKSBdeVRiTpj5Yog6ak) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [POLLY](https://open.spotify.com/artist/3Zc4MGz1t0uHYkoW2HIr7P) | [Driving Oceanside](https://open.spotify.com/album/7CSxBFWij7dNGWORtfraBB) | 2:12 |
 | 34 | [Ophelia](https://open.spotify.com/track/3aGC2lWoDRdfT5Wd8Nmmbk) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Ophelia](https://open.spotify.com/album/4LZMn3Mf1otyIo8Kr4iU6L) | 2:44 |

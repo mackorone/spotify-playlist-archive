@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,146 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,148 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 21 | [I'll Follow You](https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [I'll Follow You](https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp) | 3:39 |
 | 22 | [Carry On \- Nicky Romero Remix](https://open.spotify.com/track/4fK2NU9UyQJV74ZGiSVYsr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Carry On \(Nicky Romero Remix\)](https://open.spotify.com/album/14BprFzfLNat9osGVdFmXM) | 2:55 |
 | 23 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 |
-| 24 | [Legacy \- Radio Edit](https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy](https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7) | 3:15 |
-| 25 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 |
+| 24 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 |
+| 25 | [Legacy \- Radio Edit](https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy](https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7) | 3:15 |
 | 26 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
 | 27 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 |
 | 28 | [Sometimes](https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Sometimes](https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Don't Let Go](https://open.spotify.com/track/2oixBcIkXHvLCA4yrBlN0H) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Don't Let Go](https://open.spotify.com/album/0nEX0kWY8RlL74Fxm9UK3q) | 3:20 |
 | 50 | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd) | 2:38 |
 
-Snapshot ID: `aEy7gAAAAAAczLbRRm7Hs0+1zSLd0gTh`
+Snapshot ID: `aE4NAAAAAADslxhDbaPmj494dpotRfs2`

@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 118506,
       "name": "55-53",
       "url": "https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -2001,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "S\u00d6ZDE K\u0130MSELER SEVM\u0130YOR",
+        "url": "https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78927,
+      "name": "MERMER",
+      "url": "https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO"
+    },
+    {
+      "album": {
         "name": "Mevzu Derin",
         "url": "https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7"
       },
@@ -2946,6 +2968,24 @@
       "duration_ms": 186000,
       "name": "Yasemin",
       "url": "https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW"
+    },
+    {
+      "album": {
+        "name": "manifestival",
+        "url": "https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166425,
+      "name": "Ya\u015fanacaksa",
+      "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"
     },
     {
       "album": {

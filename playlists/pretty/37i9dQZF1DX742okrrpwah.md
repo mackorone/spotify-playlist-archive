@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Amir, Hoshi, Mark Ronson & RAYE  au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,194 likes - 88 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,178 likes - 88 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

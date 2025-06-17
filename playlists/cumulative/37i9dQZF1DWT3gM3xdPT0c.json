@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Day Break",
+        "url": "https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152362,
+      "name": "Day Break",
+      "url": "https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD"
+    },
+    {
+      "album": {
         "name": "DayBreak",
         "url": "https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo"
       },
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 159358,
       "name": "Forever Grounded",
       "url": "https://open.spotify.com/track/2h4v1EDoBJTZUCrKGeWhDE"
@@ -4481,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/0zcwQS1tcySvMy0H2VJzU0"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166978,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/4QG2hF1bSx3eDHSYCqoM6R"
+    },
+    {
+      "album": {
         "name": "Morning flight",
         "url": "https://open.spotify.com/album/7DpdN294vUmSSPI9EEkv3Q"
       },
@@ -6083,6 +6119,24 @@
     },
     {
       "album": {
+        "name": "Summer Mornings",
+        "url": "https://open.spotify.com/album/5cHktUCDOedAhEiiUQjn72"
+      },
+      "artists": [
+        {
+          "name": "Malik Ramirez",
+          "url": "https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226327,
+      "name": "Summer Mornings",
+      "url": "https://open.spotify.com/track/5xQr8pRvG47uSAF5xPCiWi"
+    },
+    {
+      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/24TN7V6RyqjbrrAshiq5hr"
       },
@@ -6886,7 +6940,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 133688,
       "name": "True At Heart",
       "url": "https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq"

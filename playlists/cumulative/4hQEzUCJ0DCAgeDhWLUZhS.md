@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-509 songs - 1 day 5 hr 51 min
+510 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Eyes](https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Eyes](https://open.spotify.com/album/1W1uuyANBmfqBVQj9kbCIr) | 4:52 | 2022-04-08 | 2025-06-04 |
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-15 | 2025-06-04 |
 | [Father of All...](https://open.spotify.com/track/4r59yc67nric1MZQ2igkhx) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/33eDyKXqDYRHeu8cq8ToRl) | 2:31 | 2020-10-10\* | 2021-02-25 |
+| [Fearless](https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Fearless](https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC) | 3:35 | 2025-06-16 |  |
 | [Feel The Fire](https://open.spotify.com/track/17gyIfLbs9nWLtvgiXVswT) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Feel The Fire](https://open.spotify.com/album/1oHDmvOwjMoFT7VbG3zavN) | 4:07 | 2021-08-26 | 2025-05-28 |
 | [feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:13 | 2024-09-12 | 2025-06-04 |
 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-24 | 2025-06-04 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,247 songs - 2 day 14 hr 43 min
+1,248 songs - 2 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Bir Dudaktan](https://open.spotify.com/track/12vJUYMaIzuozhvi3WJsXu) | [Özcan Deniz](https://open.spotify.com/artist/4VU1nemTk5QFsrclcN8VFl) | [Hediye](https://open.spotify.com/album/1kvSrer1L92bMZBPqc5wN2) | 3:28 | 2025-05-24 | 2025-06-15 |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2023-12-15 | 2024-08-03 |
 | [Bir Gün Ölürsem](https://open.spotify.com/track/5dotbwu3G11fvSwpwltLGy) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Gün Ölürsem](https://open.spotify.com/album/0IESWsxuJ693yBZ3ZRf075) | 2:36 | 2024-12-21 | 2024-12-23 |
-| [Bir İhtimal Biliyorum](https://open.spotify.com/track/3UTNZ3EexySSNPfRkIpJ2d) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [Bir İhtimal Biliyorum](https://open.spotify.com/album/0fMwVHLeI8vMwDtw7w0phI) | 3:30 | 2025-06-15 |  |
+| [Bir İhtimal Biliyorum](https://open.spotify.com/track/3UTNZ3EexySSNPfRkIpJ2d) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [Bir İhtimal Biliyorum](https://open.spotify.com/album/0fMwVHLeI8vMwDtw7w0phI) | 3:30 | 2025-06-15 | 2025-06-17 |
+| [Bir İhtimal Biliyorum](https://open.spotify.com/track/3bwdzUVXBMgwBZzZKe4mh6) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [Bir İhtimal Biliyorum](https://open.spotify.com/album/08IT2CaPJyCFUk4SqAuoxY) | 3:30 | 2025-06-16 |  |
 | [Bir İmkansız Var](https://open.spotify.com/track/6dcYNJRora79VEpUj5S2w4) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Bir İmkansız Var](https://open.spotify.com/album/2nVfIifuijOR2SLCrZecIZ) | 2:32 | 2024-02-11 | 2024-05-13 |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-08 | 2025-01-11 |
 | [Bir Kış Masalı](https://open.spotify.com/track/4AF4SBaAnrqYNWxJgz3vjV) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Mükemmel](https://open.spotify.com/album/7AR2RxrSIPBI1TL7m6QzVI) | 4:28 | 2024-08-30 | 2024-10-13 |
@@ -791,7 +792,7 @@
 | [Mavi Chivas](https://open.spotify.com/track/4Q55vNJjN2mfmwFxhA6aPk) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Mavi Chivas](https://open.spotify.com/album/70Uk9tVc3UL8K9zOeizE8I) | 2:57 | 2023-04-22 | 2023-04-24 |
 | [Maybach](https://open.spotify.com/track/2j7M9A1Ko4LHi46sAmgLSF) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:47 | 2024-10-12 | 2024-12-21 |
 | [Mayrig](https://open.spotify.com/track/4vKiDUH9yQnnDdD793DeNM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Mayrig](https://open.spotify.com/album/5mDOnIXSh37ZZFU33BgKNB) | 3:15 | 2021-09-19 | 2021-11-26 |
-| [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 | 2024-11-22 |  |
+| [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 | 2024-11-22 | 2025-06-17 |
 | [Mayıs 6](https://open.spotify.com/track/6n4nlEt4CXqo7q3r1UUGvq) | [Rope](https://open.spotify.com/artist/2frMmYVNhfh2cp6FDAFtgO) | [Mayıs 6](https://open.spotify.com/album/2kNPTtwreyqFswlj41lgN4) | 4:03 | 2021-05-10 | 2021-05-11 |
 | [Mayıs 7](https://open.spotify.com/track/4Hsx0LzMyn69Pd6ncNbJql) | [Rope](https://open.spotify.com/artist/2frMmYVNhfh2cp6FDAFtgO) | [Mayıs 7](https://open.spotify.com/album/3u8JtcAEo0M7SMgDvnvaEd) | 3:43 | 2021-05-10 | 2021-05-13 |
 | [Mayıs 9](https://open.spotify.com/track/4zgPNp1Pp139Mv9dCVJE6m) | [Rope](https://open.spotify.com/artist/2frMmYVNhfh2cp6FDAFtgO) | [Mayıs 9](https://open.spotify.com/album/4WIBAD2q66CZDVqAuoUBTC) | 3:45 | 2023-05-11 | 2023-05-13 |
@@ -1065,7 +1066,7 @@
 | [Suçlarımdan Biri](https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:51 | 2022-06-04 | 2023-04-29 |
 | [SWIM](https://open.spotify.com/track/4P1pxOmZaCIphpT7CGkEsX) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 4:26 | 2023-06-17 | 2023-06-24 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 | 2025-02-01 | 2025-02-22 |
-| [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 | 2024-10-12 | 2025-06-02 |
+| [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 | 2024-10-12 |  |
 | [SÖYLENEYDİBU?](https://open.spotify.com/track/3Z3R4NcwpanDzsnZccpnoc) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [SÖYLENEYDİBU?](https://open.spotify.com/album/6CC3P0r7TWplXSDtFycHfU) | 2:05 | 2023-05-06 | 2023-05-11 |
 | [SÜR](https://open.spotify.com/track/3SLOjhcE08rzXXBMN8c6UM) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [SÜR](https://open.spotify.com/album/0JMhNmkcLl9dZf9U7uDVkK) | 3:26 | 2022-08-06 | 2022-08-13 |
 | [Sır](https://open.spotify.com/track/1qfaoZIi4RuWa1eS8vYS2L) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sır](https://open.spotify.com/album/1DAMEAIqb27PCErT8HjCDx) | 3:09 | 2021-08-01 | 2021-08-13 |

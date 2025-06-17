@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,100 likes - 147 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,103 likes - 147 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 146 | [Begynnelse \(Ambient\)](https://open.spotify.com/track/2gWtkNe18gURimJZGJUT66) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:14 |
 | 147 | [Sleep Drone In C](https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Sleep Drone In C](https://open.spotify.com/album/2xyKsesDNwPXWot5KRcwLz) | 2:48 |
 
-Snapshot ID: `AAAAAKqNkk4s9dZNH/MiMjhVmuQgg1ii`
+Snapshot ID: `aDWHwQAAAABggqUyFyFax+DZX7c6nF52`

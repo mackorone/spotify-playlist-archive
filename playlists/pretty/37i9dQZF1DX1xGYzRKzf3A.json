@@ -1,6 +1,6 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 158055,
+  "num_followers": 158073,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "Ni Dada La Quiero",
+        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "No Se Va (EN VIVO)",
         "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
       },
@@ -543,38 +559,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Ni Dada La Quiero",
-        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "DIOS POR DELANTE",
-        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 214473,
-      "name": "DIOS POR DELANTE",
-      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "MONEY EDITION",
         "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 262661,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 179506,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1403,18 +1403,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "La Vampiresa",
-        "url": "https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T"
+        "name": "Necesito Decirte",
+        "url": "https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV"
       },
       "artists": [
         {
-          "name": "Explosion Colombiana De Ortiz Ortiz",
-          "url": "https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop"
+          "name": "Profugos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 314398,
-      "name": "La Vampiresa",
-      "url": "https://open.spotify.com/track/06uyFPb72xxh5takZ206Of"
+      "duration_ms": 207725,
+      "name": "Necesito Decirte",
+      "url": "https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Necesito Decirte",
-        "url": "https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV"
+        "name": "La Vampiresa",
+        "url": "https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T"
       },
       "artists": [
         {
-          "name": "Profugos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Explosion Colombiana De Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop"
         }
       ],
-      "duration_ms": 207725,
-      "name": "Necesito Decirte",
-      "url": "https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY"
+      "duration_ms": 314398,
+      "name": "La Vampiresa",
+      "url": "https://open.spotify.com/track/06uyFPb72xxh5takZ206Of"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Obsesi\u00f3n",
-        "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 152448,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Chimenea (En Vivo)",
         "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 180491,
       "name": "Chimenea - En Vivo",
       "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 152448,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
     },
     {
       "added_at": "2024-07-15 22:48:03",

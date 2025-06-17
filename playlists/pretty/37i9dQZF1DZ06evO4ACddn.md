@@ -38,6 +38,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 28 | [Victim](https://open.spotify.com/track/71IEx6h2nr0zQBn4zkPuua) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:44 |
 | 29 | [Wait in the Car](https://open.spotify.com/track/0fm9CqVDMAFiVBvCcBBJo0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:40 |
 | 30 | [Two Heads](https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Diamond Days EP](https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs) | 3:38 |
-| 31 | [Eventide](https://open.spotify.com/track/5mmlzxAJaVTlE0qwMzlRd0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:17 |
+| 31 | [In The Well](https://open.spotify.com/track/2hTev3gNF2oVhtB2MRFQX9) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:46 |
 
-Snapshot ID: `aEy7gAAAAADpnxrydnruSFcz5lOG+Cu5`
+Snapshot ID: `aE4NAAAAAABv+OP/SvXld8s1XgsISivm`

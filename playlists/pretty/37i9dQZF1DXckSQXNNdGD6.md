@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  RUSLANA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,551 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,544 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 31 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 |
 | 32 | [Decírtelo](https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Decírtelo](https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ) | 2:36 |
 | 33 | [La Eternidad](https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [La Eternidad](https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr) | 3:45 |
-| 34 | [SIEMPRE SIN PRESERVATIVO](https://open.spotify.com/track/3LxYG4lHAwrDUOkJhofOsZ) | [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [SIEMPRE SIN PRESERVATIVO](https://open.spotify.com/album/7jqXxFJRnxnjIQHqbbipvT) | 2:49 |
-| 35 | [Cuando Tú Estás Aquí](https://open.spotify.com/track/29WNOPEodEf9bGnGHCIf58) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [Cuando Tú Estás Aquí](https://open.spotify.com/album/1pf5tdXrCRq8K925o12nQ7) | 3:07 |
+| 34 | [Cuando Tú Estás Aquí](https://open.spotify.com/track/29WNOPEodEf9bGnGHCIf58) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [Cuando Tú Estás Aquí](https://open.spotify.com/album/1pf5tdXrCRq8K925o12nQ7) | 3:07 |
+| 35 | [SIEMPRE SIN PRESERVATIVO](https://open.spotify.com/track/3LxYG4lHAwrDUOkJhofOsZ) | [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [SIEMPRE SIN PRESERVATIVO](https://open.spotify.com/album/7jqXxFJRnxnjIQHqbbipvT) | 2:49 |
 | 36 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [MARTIN](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
 | 37 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 38 | [Vida Quemada](https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Vida Quemada](https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9) | 3:01 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 42 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
 | 43 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
 | 44 | [NO PUDE SALVARNOS](https://open.spotify.com/track/292HLgM3QgJNZbfZFDu3BY) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [NO PUDE SALVARNOS](https://open.spotify.com/album/2iCBgzJqgwhsDysYWrjFXO) | 3:33 |
-| 45 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
-| 46 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
+| 45 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
+| 46 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
 | 47 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
 | 48 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
 | 49 | [filosofar](https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [filosofar](https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4) | 3:43 |

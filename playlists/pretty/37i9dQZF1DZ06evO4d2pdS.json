@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABSoRiN3AvXVv482Kc1elRI",
+  "snapshot_id": "aE4NAAAAAADvMJEfvQMwLfiL0gNLfori",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "310degrees",
+        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 124903,
+      "name": "look easy",
+      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Ratchet",
         "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 141030,
       "name": "Get Ratchet",
       "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "310degrees",
-        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 124903,
-      "name": "look easy",
-      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 145233,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "313-414 (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 149938,
       "name": "313-414 (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 145233,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 116288,
+      "name": "Record Straight",
+      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's Not Me It's You (Deluxe)",
         "url": "https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 161684,
       "name": "Rich Bitch (feat. Lakeyah & Coi Leray)",
       "url": "https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure (Pt. 1)",
-        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 116288,
-      "name": "Record Straight",
-      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
     },
     {
       "added_at": null,

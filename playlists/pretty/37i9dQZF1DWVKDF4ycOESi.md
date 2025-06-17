@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Coez, ANNA, Marco Mengoni, Fabri Fibra, Capo Plaza, Elisa, Alessandra Amoroso e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,725 likes - 89 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,732 likes - 89 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 88 | [Attico](https://open.spotify.com/track/3OVPO8ay0u8f3mJdD0Scfz) | [nonpiangere](https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7) | [ANCHE I COWBOY PIANGONO](https://open.spotify.com/album/03jgUe8RaBLnPhMYPrcBm3) | 4:10 |
 | 89 | [regina di ragni](https://open.spotify.com/track/2As15IePDDCDmgSTpd5z5F) | [vilesangue](https://open.spotify.com/artist/3Cbai4Yx6R1B2nb6oRi6ym) | [regina di ragni](https://open.spotify.com/album/2dV9E8Mdr6uBbgJvBJzlHK) | 3:46 |
 
-Snapshot ID: `aEwBOgAAAAAjnfD+UJ2WZtVF8uPXRY8R`
+Snapshot ID: `aE/U4wAAAACWcFX3pSgeKuULBTvfatvT`

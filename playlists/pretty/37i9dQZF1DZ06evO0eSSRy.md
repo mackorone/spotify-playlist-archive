@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715 likes - 24 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 716 likes - 24 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 13 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 |
 | 14 | [Marcel and the Prince](https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Marcel and the Prince](https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl) | 3:27 |
 | 15 | [Sequoia](https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:36 |
-| 16 | [Then People Forget](https://open.spotify.com/track/1AjtK89Eq1tS44Iu4YFg3T) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 3:31 |
+| 16 | [Party's over, Biff](https://open.spotify.com/track/4J5GW0aJKFAxDa2jBx5CZW) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 3:48 |
 | 17 | [Water Doctor](https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:38 |
 | 18 | [It Only Bothers You](https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:03 |
-| 19 | [Party's over, Biff](https://open.spotify.com/track/4J5GW0aJKFAxDa2jBx5CZW) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 3:48 |
+| 19 | [Then People Forget](https://open.spotify.com/track/1AjtK89Eq1tS44Iu4YFg3T) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 3:31 |
 | 20 | [Mike + Susan](https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:01 |
 | 21 | [Worry](https://open.spotify.com/track/7rwGONCajGFV6kzNcJJEzh) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:05 |
 | 22 | [Semi Finalists](https://open.spotify.com/track/1HkBqkcB8F6kz1rcmJDL6T) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 3:43 |
 | 23 | [412](https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:54 |
 | 24 | [Winona Ryder](https://open.spotify.com/track/030oADbNg4fbHOKC9UPZqi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 4:14 |
 
-Snapshot ID: `aEy7gAAAAACPpg4VV00l8Au9uK2FVH1E`
+Snapshot ID: `aE4NAAAAAAD87ecw39RB2gAvpaVX6R+E`

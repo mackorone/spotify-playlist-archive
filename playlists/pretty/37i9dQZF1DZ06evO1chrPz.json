@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 204555,
+  "num_followers": 204568,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABkTnk1dGDUm93ScvjAEaiS",
+  "snapshot_id": "aE4NAAAAAACOwWr3kFCGCg9YYuI3c8UQ",
   "tracks": [
     {
       "added_at": null,
@@ -519,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
       },
       "artists": [
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        },
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         }
       ],
-      "duration_ms": 292226,
-      "name": "Only Jesus (Instrumental)",
-      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
+      "duration_ms": 369923,
+      "name": "I Want Jesus - Live",
+      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
     },
     {
       "added_at": null,
@@ -555,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 292226,
+      "name": "Only Jesus (Instrumental)",
+      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Without Words: Genesis",
         "url": "https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 201186,
       "name": "Tremble",
       "url": "https://open.spotify.com/track/0MKleYfsAvoHLasJSvXX9M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
-      },
-      "artists": [
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 369923,
-      "name": "I Want Jesus - Live",
-      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Sake of the World",
-        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 408826,
-      "name": "Our Father",
-      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Up Here",
         "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
       },
@@ -691,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 408826,
+      "name": "Our Father",
+      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -700,13 +700,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 339041,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
+      "duration_ms": 301090,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
     },
     {
       "added_at": null,
@@ -780,13 +780,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 301090,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
+      "duration_ms": 339041,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
     },
     {
       "added_at": null,
@@ -971,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Promises Never Fail (Live)",
+      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 479771,
       "name": "Son Of Suffering (Live)",
       "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Promises Never Fail (Live)",
-      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
     },
     {
       "added_at": null,

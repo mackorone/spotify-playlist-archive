@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,599 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,613 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 32 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 |
 | 33 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 |
 | 34 | [Enséñame a Bailar](https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 |
-| 35 | [AfroLOVA'](https://open.spotify.com/track/6Pw74Nz0wZvGQIu3ccRUeX) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:20 |
+| 35 | [AfroLOVA'](https://open.spotify.com/track/6Pw74Nz0wZvGQIu3ccRUeX) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 23'](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:20 |
 | 36 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
 | 37 | [Me Pasa \(Piscis\)](https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [Me Pasa \(Piscis\)](https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs) | 3:21 |
 | 38 | [Vive La Vida \- Remix](https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Vive La Vida \(Remix\)](https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp) | 3:57 |

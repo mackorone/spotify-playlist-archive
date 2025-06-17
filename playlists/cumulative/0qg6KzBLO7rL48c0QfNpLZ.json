@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 164250,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/22VduD3uvknLZoYY0hSK1Z"
@@ -6356,7 +6356,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 141055,
       "name": "Fading",
       "url": "https://open.spotify.com/track/0KM5BA9EapLgEAdsCEz216"
@@ -13410,7 +13410,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 150857,
       "name": "LUCKY U",
       "url": "https://open.spotify.com/track/1odDnUzZVx5SN44vZDdP2z"
@@ -14457,6 +14457,28 @@
     },
     {
       "album": {
+        "name": "My Devotion",
+        "url": "https://open.spotify.com/album/05WPFGNzDjRstDZKeJmWcz"
+      },
+      "artists": [
+        {
+          "name": "VLX",
+          "url": "https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA"
+        },
+        {
+          "name": "Tom Bailey",
+          "url": "https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140586,
+      "name": "My Devotion",
+      "url": "https://open.spotify.com/track/1mAn3GU03GYV6AZQnaG2Od"
+    },
+    {
+      "album": {
         "name": "My Forever Home",
         "url": "https://open.spotify.com/album/6tShRkoIOHuqKOX2L5z1tl"
       },
@@ -14602,7 +14624,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 160370,
       "name": "Navigate",
       "url": "https://open.spotify.com/track/15s0o3XlUQvQArHd8Vac5B"
@@ -23758,7 +23780,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 146341,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/3s6LvHjHKohKJ4RjNos3Iy"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADeS8dTIRhbzgej3br7SZ4y",
+  "snapshot_id": "aE4NAAAAAAAMlMHcQD25R4cYDi1+3/q7",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+        "name": "House of the Dragon: Season 2 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 306120,
-      "name": "Dragonstone",
-      "url": "https://open.spotify.com/track/65KG1BEtR85y2cvIaukuaO"
+      "duration_ms": 284122,
+      "name": "All Must Choose",
+      "url": "https://open.spotify.com/track/71g5Rk5G0FAj0Y1hcfjaXq"
     },
     {
       "added_at": null,
@@ -412,15 +412,15 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 95720,
-      "name": "You'll Be Queen One Day",
-      "url": "https://open.spotify.com/track/3fjWYZdo6uZJzsuSoCZmx2"
+      "duration_ms": 88160,
+      "name": "King Of The North",
+      "url": "https://open.spotify.com/track/27tYMG6SdydZhJMYjIUpR1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "House of the Dragon: Season 2 (Soundtrack from the HBO\u00ae Series)",
-        "url": "https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC"
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 284122,
-      "name": "All Must Choose",
-      "url": "https://open.spotify.com/track/71g5Rk5G0FAj0Y1hcfjaXq"
+      "duration_ms": 306120,
+      "name": "Dragonstone",
+      "url": "https://open.spotify.com/track/65KG1BEtR85y2cvIaukuaO"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 88160,
-      "name": "King Of The North",
-      "url": "https://open.spotify.com/track/27tYMG6SdydZhJMYjIUpR1"
+      "duration_ms": 95720,
+      "name": "You'll Be Queen One Day",
+      "url": "https://open.spotify.com/track/3fjWYZdo6uZJzsuSoCZmx2"
     },
     {
       "added_at": null,

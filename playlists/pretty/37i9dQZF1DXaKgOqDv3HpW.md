@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,545 likes - 200 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,479 likes - 200 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 199 | [Unified](https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Together As One](https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ) | 2:45 |
 | 200 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 |
 
-Snapshot ID: `aEq//wAAAACzWiNdJF8DLvE/1c3FaaQy`
+Snapshot ID: `AAAAABAqLWgxSyCG0vnCgAe7ecNyUPem`

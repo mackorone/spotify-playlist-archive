@@ -4,7 +4,7 @@
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 28 min
+58 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,9 @@
 | [Pushing Me Away](https://open.spotify.com/track/2lko49bKOuj6hsh7byOXIz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:12 | 2022-11-17 |  |
 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 | 2022-11-17 |  |
 | [Right to Be](https://open.spotify.com/track/0daq1H3rG1sN3Q2QhhD7lB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:05 | 2024-11-20 | 2025-01-18 |
-| [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-08 |  |
-| [SLOWDIVE](https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:33 | 2025-06-08 |  |
+| [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-08 | 2025-06-17 |
+| [SEEIN’ STARS](https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:06 | 2025-06-17 |  |
+| [SLOWDIVE](https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:33 | 2025-06-08 | 2025-06-17 |
 | [Snaked](https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:33 | 2022-11-17 |  |
 | [SOLE](https://open.spotify.com/track/6PaSOin7Y9GnXRZ5U5sMsv) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:25 | 2025-06-08 |  |
 | [SUNSHOWER](https://open.spotify.com/track/2QmmdEYfM6kEk5iz6E1Rs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:40 | 2025-06-08 | 2025-06-15 |

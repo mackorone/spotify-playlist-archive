@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 936629,
+  "num_followers": 936546,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
+        "name": "Let Me Think About It Again",
+        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Let Me Think About It Again",
+      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 159090,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
-        "name": "Let Me Think About It Again",
-        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Let Me Think About It Again",
-      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 150128,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "The Future Is Now - The Truth",
         "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 178560,
       "name": "The Future Is Now",
       "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 150128,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "2HEARTs dlux",
-        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "my luv - bonus track",
-      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "2 Things",
         "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 191250,
       "name": "2 Things",
       "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "2HEARTs dlux",
+        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "my luv - bonus track",
+      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
-      },
-      "artists": [
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "B\u20acNZ",
         "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "No Ecstasy Love",
-        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "No Ecstasy Love",
-      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 180480,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "No Ecstasy Love",
+        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "No Ecstasy Love",
+      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "You Ate That",
-        "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
-      },
-      "artists": [
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        },
-        {
-          "name": "The Melody Men",
-          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "You Ate That",
-      "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 163809,
       "name": "No More",
       "url": "https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "You Ate That",
+        "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "You Ate That",
+      "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
     },
     {
       "added_at": "2025-06-13 04:00:55",

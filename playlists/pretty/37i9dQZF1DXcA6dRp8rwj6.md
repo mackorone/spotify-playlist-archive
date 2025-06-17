@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: 2 Chainz, Ne\-Yo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,024 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,036 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 17 | [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 |
 | 18 | [Bentley](https://open.spotify.com/track/0vSPosYRpGtRN2a1soaaJ2) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Bentley](https://open.spotify.com/album/54LHrdsskDGPaAfdXo1Gxi) | 1:30 |
 | 19 | [Lil Sexy](https://open.spotify.com/track/56MxbYXHEVqbCsjDN0kaSO) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Lil Sexy](https://open.spotify.com/album/1iNGyxPArFfBTySJ8bbWSv) | 3:19 |
-| 20 | [Searching for Heaven](https://open.spotify.com/track/4KGPrr6IdvLh2efXsAdTrP) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [J\. Michael Phillips](https://open.spotify.com/artist/2KzsvQpIXnQCEyvSS53h5W) | [Searching for Heaven](https://open.spotify.com/album/45sSe4Fe4ibtpjpRLybyXT) | 4:30 |
+| 20 | [Searching for Heaven](https://open.spotify.com/track/4KGPrr6IdvLh2efXsAdTrP) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [J\. Michael Phillips](https://open.spotify.com/artist/2KzsvQpIXnQCEyvSS53h5W), [Taysty](https://open.spotify.com/artist/1tr3XVIx77hk9OTicH19un) | [Searching for Heaven](https://open.spotify.com/album/45sSe4Fe4ibtpjpRLybyXT) | 4:30 |
 | 21 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
 | 22 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 23 | [Turn Around](https://open.spotify.com/track/6UeS6EUhKBBEyZsEYE35rf) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Turn Around](https://open.spotify.com/album/7h3ctuMgsC7Dry1zfLZAki) | 3:15 |

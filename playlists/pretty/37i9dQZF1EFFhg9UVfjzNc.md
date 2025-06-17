@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 93 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 779 likes - 93 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 62 | [Batimentos \- Ao Vivo](https://open.spotify.com/track/6hAaaz1VPSF6Gm3Q1RcoBi) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 6:05 |
 | 63 | [Coroas \- Ao Vivo](https://open.spotify.com/track/1fPaa1ApH0JEDgxpmgOOGl) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 10:05 |
 | 64 | [Que O Incenso Suba](https://open.spotify.com/track/21VLSQJOf5L8isar8COPbv) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:18 |
-| 65 | [Nada Mais Satisfaz](https://open.spotify.com/track/2M1KGKpjeIX9EberJruunh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:54 |
-| 66 | [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 |
+| 65 | [Quem é Ele \- Ao Vivo](https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Quem é Ele \(Ao Vivo\)](https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu) | 6:39 |
+| 66 | [Nada Mais Satisfaz](https://open.spotify.com/track/2M1KGKpjeIX9EberJruunh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:54 |
 | 67 | [SHEKINAH \- Ao Vivo](https://open.spotify.com/track/4dphbue2PtpS20x23hL254) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [Manuela Oliveira](https://open.spotify.com/artist/5zGU65cu61yKhlsaEr8VAj) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 6:51 |
 | 68 | [Minha Canção \- Ao Vivo](https://open.spotify.com/track/3bFmokoHKRZkGyRfDKXxsp) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Minha Canção \(Ao Vivo\)](https://open.spotify.com/album/3ODJ6TFqGPeNNY3MEoVjT4) | 5:02 |
 | 69 | [Novo Dia \- Ao Vivo](https://open.spotify.com/track/0KCIqEY6WqxzWL9xL7tifJ) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 5:04 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 92 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/02HlnHZ1sYv5W52Tyc5OI2) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/6TL5BxQ3bttcye1lmPtTjc) | 6:09 |
 | 93 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 
-Snapshot ID: `Ab0PKAAAAADRQLMfN8wCYcJb0MIYFy0w`
+Snapshot ID: `Ab0UlgAAAACHppommYeL/A9c7zf+9ttd`

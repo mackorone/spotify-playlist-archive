@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Fresh Finds Nordics x Debaser Alternative June 16th! See Aggy Ally, ABY iO, Salty Licorice, Jaycov, Anna\-My & DJ Carpenter live!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,926 likes - 106 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,937 likes - 106 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 46 | [electric dream](https://open.spotify.com/track/3owm6kuLMIw8qOYuUB3HAT) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [electric dream](https://open.spotify.com/album/61qNaShSguYm9aWHrqQmPs) | 2:43 |
 | 47 | [Trouble Man](https://open.spotify.com/track/1Kq3MVDWzzC4m1C2cTpSir) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Silk City](https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV) | 3:06 |
 | 48 | [Her \(Never Like This\)](https://open.spotify.com/track/6YnsAiMmdM4KwlcAF2ynyw) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Her \(Never Like This\)](https://open.spotify.com/album/67PHWWXqPg7eKB8kUodhw5) | 2:40 |
-| 49 | [CONTROL](https://open.spotify.com/track/0xtZ8zIohJJoRGegv6xYSV) | [Martin Wave](https://open.spotify.com/artist/4edEKYyKxQBrI5InlgmcsN) | [CONTROL](https://open.spotify.com/album/2XHVG7UjUCLkFZN8RR4tqI) | 2:35 |
+| 49 | [CONTROL](https://open.spotify.com/track/0xtZ8zIohJJoRGegv6xYSV) | [Martin Wave](https://open.spotify.com/artist/4edEKYyKxQBrI5InlgmcsN), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [CONTROL](https://open.spotify.com/album/2XHVG7UjUCLkFZN8RR4tqI) | 2:35 |
 | 50 | [Venom \(industry\)](https://open.spotify.com/track/66QutMqQ7Myjt2aplFduo5) | [BLADË](https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC) | [Venom \(Industry\)](https://open.spotify.com/album/21O879GXtvJtqiKS9pWh0M) | 4:35 |
 | 51 | [Full Mind](https://open.spotify.com/track/5E7SVNWMKAP2rAfexxtSMn) | [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [Full Mind](https://open.spotify.com/album/2zEctbKyP1p2DQsx89rv7v) | 3:27 |
 | 52 | [Forever Feels](https://open.spotify.com/track/22vjrhextrynaTozXuIPzI) | [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [Stuck in Transit](https://open.spotify.com/album/5SqxHrJCOzSAfyVOu83lab) | 2:28 |

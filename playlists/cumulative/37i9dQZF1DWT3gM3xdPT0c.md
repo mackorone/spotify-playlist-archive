@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-431 songs - 18 hr 31 min
+434 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 | 2024-06-28 |
 | [Daily Rituals](https://open.spotify.com/track/7aJyGy2IZ4CmQc41wHuNcB) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Daily Rituals](https://open.spotify.com/album/5pgq4CuRKTisd4Vx5r1UFB) | 2:22 | 2024-07-19 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-04-21 | 2023-09-01 |
+| [Day Break](https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Day Break](https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W) | 2:32 | 2025-06-16 |  |
 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-28 |  |
 | [Deeply Hidden](https://open.spotify.com/track/2MpBCkBR5ZbDwCzTJeYFbt) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Deeply Hidden](https://open.spotify.com/album/5GJu1B3anUhQ2f8o0jB1AE) | 2:44 | 2024-11-20 | 2025-04-23 |
 | [Deliver These Words Of Mine](https://open.spotify.com/track/6BZGoIkSNK1XO87ZjGjHM2) | [Maximilian Aird](https://open.spotify.com/artist/2YEYZMKfhaoln2CS8q7Kg0) | [Deliver These Words Of Mine](https://open.spotify.com/album/2ejwvZzkzX6nc9UG2su9As) | 3:08 | 2024-02-02 |  |
@@ -152,7 +153,7 @@
 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 | 2024-05-10 |  |
 | [Follow Me](https://open.spotify.com/track/5qlWPpcBFypfcxJB0HvngM) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:05 | 2022-03-04 | 2022-07-08 |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2022-03-04 | 2022-04-22 |
-| [Forever Grounded](https://open.spotify.com/track/2h4v1EDoBJTZUCrKGeWhDE) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Forever Grounded](https://open.spotify.com/album/4h662lhfF1VNQyHKwXrQp0) | 2:39 | 2025-02-19 |  |
+| [Forever Grounded](https://open.spotify.com/track/2h4v1EDoBJTZUCrKGeWhDE) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Forever Grounded](https://open.spotify.com/album/4h662lhfF1VNQyHKwXrQp0) | 2:39 | 2025-02-19 | 2025-06-17 |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-03-04 | 2024-04-06 |
 | [From Me To You](https://open.spotify.com/track/6KvEQQkHCAiIQRr75ZgiV7) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Blackbird](https://open.spotify.com/album/0W4qzJ4avPABJU3IV2jmeP) | 2:45 | 2022-12-23 | 2023-03-10 |
 | [From the quiet of morning](https://open.spotify.com/track/2d0WQKmbTMN8vmed05V9zj) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [From the quiet of morning](https://open.spotify.com/album/5DtoqlQ7kshpTlcHhwD9z3) | 2:25 | 2025-01-28 |  |
@@ -256,6 +257,7 @@
 | [Mná Na H'Eireann](https://open.spotify.com/track/6KoZAaWjCwWDMHWHpNf8J6) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/1aZyHBKzHRHuR2C9HqbZIe) | 2:33 | 2022-10-07 | 2022-10-22 |
 | [Moments of Clarity](https://open.spotify.com/track/3rwxUxeudZfmAJ80o2tk5C) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Moments of Clarity](https://open.spotify.com/album/3LjweJuLvim2fLusH2IiX3) | 2:59 | 2025-04-02 | 2025-04-30 |
 | [More Than Yesterday](https://open.spotify.com/track/2rdQdrAeQkyO5X6kfwfWO5) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [More Than Yesterday](https://open.spotify.com/album/27MZUFtc98oIebovnNxmVp) | 2:34 | 2022-10-07 | 2023-04-22 |
+| [Morning Dew](https://open.spotify.com/track/4QG2hF1bSx3eDHSYCqoM6R) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Morning Dew](https://open.spotify.com/album/0zcwQS1tcySvMy0H2VJzU0) | 2:46 | 2025-06-16 |  |
 | [Morning flight](https://open.spotify.com/track/6cCJDEcjnMC88bJWpfkGIz) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Morning flight](https://open.spotify.com/album/7DpdN294vUmSSPI9EEkv3Q) | 2:18 | 2025-03-11 |  |
 | [Morning Light](https://open.spotify.com/track/0selXaJihgVtLwxUSabMys) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Morning Light](https://open.spotify.com/album/3WD5ysTL46aG7XskWr62ma) | 3:26 | 2022-11-18 | 2023-05-10 |
 | [Morning Sun](https://open.spotify.com/track/6FGHrwN6licvwTO7hrLrby) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Morning Sun](https://open.spotify.com/album/7Ek7uY15mW4oWeOq5hHn2R) | 2:28 | 2024-12-10 | 2025-03-19 |
@@ -345,6 +347,7 @@
 | [Sullen Streets](https://open.spotify.com/track/2EQ4Oc2W8iNG9ZpGdl5wpe) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Sullen Streets](https://open.spotify.com/album/09kxEbIQ5Ox5v8hczNkQsW) | 2:22 | 2023-02-24 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 | 2023-08-26 |
 | [Summer Meadow](https://open.spotify.com/track/6UKFsigRaBGHiUZWUa8HC9) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Summer Meadow](https://open.spotify.com/album/0fg4CB6idg4C2PrgnsOSbC) | 2:35 | 2024-07-19 |  |
+| [Summer Mornings](https://open.spotify.com/track/5xQr8pRvG47uSAF5xPCiWi) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Summer Mornings](https://open.spotify.com/album/5cHktUCDOedAhEiiUQjn72) | 3:46 | 2025-06-16 |  |
 | [Summer Rain](https://open.spotify.com/track/3Q3cJemxjTRoQmtyn6EXA8) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Summer Rain](https://open.spotify.com/album/24TN7V6RyqjbrrAshiq5hr) | 2:39 | 2024-08-07 | 2025-06-12 |
 | [Sun Waves](https://open.spotify.com/track/2DTFW9FNwqG8yFaq1g6lzd) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Sun Waves](https://open.spotify.com/album/186RycBnLS6vwy9Io1fsFY) | 2:57 | 2024-11-20 | 2025-03-12 |
 | [Sunbeam](https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Sunbeam](https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd) | 2:52 | 2023-08-09 |  |
@@ -389,7 +392,7 @@
 | [train](https://open.spotify.com/track/4GK2DBwEnwd1P52jzVPzM0) | [Flaudicia](https://open.spotify.com/artist/1JEhjxH1R2Jvu17PzmphGl) | [train](https://open.spotify.com/album/7FyE3r44ajkiHt971NQkYE) | 3:01 | 2022-03-04 | 2022-04-06 |
 | [Tranquil Trails](https://open.spotify.com/track/0bKyIpZMx0azvdVYngl84E) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [Tranquil Trails](https://open.spotify.com/album/00Wkk9ftq8UtVykdUhNWaL) | 2:53 | 2024-05-24 |  |
 | [Traveling Through](https://open.spotify.com/track/1UygGXclx9iMNWArEXmQZf) | [Timber Row](https://open.spotify.com/artist/64ICK2JUkKFcevsUA8N8Ll) | [Lone Rider](https://open.spotify.com/album/2KhCe7d9REnKhzfiR3BDFp) | 2:14 | 2022-03-04 | 2023-04-22 |
-| [True At Heart](https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [True At Heart](https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV) | 2:13 | 2024-08-20 |  |
+| [True At Heart](https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [True At Heart](https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV) | 2:13 | 2024-08-20 | 2025-06-17 |
 | [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 | 2022-11-25 | 2023-05-10 |
 | [Under the Maple Tree](https://open.spotify.com/track/5rQMtXDTOZJhoYmtegIMFD) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Under the Maple Tree](https://open.spotify.com/album/20E4sk292E3oYqE4dr3VDU) | 2:58 | 2025-03-18 | 2025-05-20 |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 | 2024-06-15 |

@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 11 | [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 |
 | 12 | [Cool in Motion](https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:05 |
 | 13 | [Far Removed](https://open.spotify.com/track/5NwYO5OtL5LBXAYCAkqSfe) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:50 |
-| 14 | [12th House](https://open.spotify.com/track/1thpTj5LbAQbWTzPBbWRQX) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 1:28 |
+| 14 | [Stuttering Stanley](https://open.spotify.com/track/2bDcEAuUcRdqn7dkERCmqj) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:10 |
 | 15 | [The World](https://open.spotify.com/track/2efigRjEb9z8FiCvh2Ff5M) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:15 |
 | 16 | [Necrosis](https://open.spotify.com/track/46FwqZts74DdH7mWvG1SpG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:44 |
 | 17 | [Brain Dead](https://open.spotify.com/track/4JkPEQKAQ9Uwg1vTilKx5y) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:57 |
-| 18 | [Stuttering Stanley](https://open.spotify.com/track/2bDcEAuUcRdqn7dkERCmqj) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:10 |
+| 18 | [12th House](https://open.spotify.com/track/1thpTj5LbAQbWTzPBbWRQX) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 1:28 |
 | 19 | [The Real](https://open.spotify.com/track/6Ux3fUYIKunILT948gEFMM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:30 |
 | 20 | [Feels Like Sand](https://open.spotify.com/track/5ok41XptV2v9yhm92Cp0RK) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:44 |
 | 21 | [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 25 | [Love Sick](https://open.spotify.com/track/3wSBw0krlZtyHIpJiYDIXJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Love Sick](https://open.spotify.com/album/4K1HLxFkJcMx9D56R217nZ) | 2:29 |
 | 26 | [Hard to Swallow](https://open.spotify.com/track/6XSR3rZzQRQ7oaRYqbe408) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 2:46 |
 
-Snapshot ID: `aEy7gAAAAADyL6DkxfbhmEG8W597MiS5`
+Snapshot ID: `aE4NAAAAAAAO5vKS2Mi/Qk9qgrSx3jwL`

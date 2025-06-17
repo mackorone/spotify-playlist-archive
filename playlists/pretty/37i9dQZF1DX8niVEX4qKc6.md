@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Camilú.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,668 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,680 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 70 | [No Estes Triste \- Acústico](https://open.spotify.com/track/1HcjUEwxLoDNbLph1P8dsa) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No Estes Triste \(Acústico\)](https://open.spotify.com/album/0fOpG2sVJXf9CdqN5pEKIf) | 2:58 |
 | 71 | [Amado Mío \(Acústica\)](https://open.spotify.com/track/7tsjGnzRBEKq6tN0fhlGea) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Amado Mío \(Acústica\)](https://open.spotify.com/album/25fo0NUtp8CfwO3YNTlcV3) | 2:24 |
 | 72 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
-| 73 | [flashié](https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [flashié](https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP) | 2:34 |
-| 74 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
-| 75 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
-| 76 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
-| 77 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 |
+| 73 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
+| 74 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
+| 75 | [flashié](https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [flashié](https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP) | 2:34 |
+| 76 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 |
+| 77 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
 | 78 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 |
 | 79 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
 | 80 | [Me Estás Tratando Mal \- En Vivo Acústico](https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:20 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 96 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
 | 97 | [enero \- versión acústica](https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [enero \(versión acústica\)](https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg) | 3:26 |
 | 98 | [Vete](https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Mil Caminos](https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID) | 3:54 |
-| 99 | [Mil Mensajes](https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Mil Mensajes](https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo) | 3:22 |
-| 100 | [Voy Con Vos \- En Vivo](https://open.spotify.com/track/1t3Op2vLVRwSVATVvJzHzR) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Constelaciones en el Luna Park \(En Vivo\)](https://open.spotify.com/album/0kjW8an3vJajEiUQ8Uvu10) | 3:26 |
+| 99 | [Voy Con Vos \- En Vivo](https://open.spotify.com/track/1t3Op2vLVRwSVATVvJzHzR) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Constelaciones en el Luna Park \(En Vivo\)](https://open.spotify.com/album/0kjW8an3vJajEiUQ8Uvu10) | 3:26 |
+| 100 | [Mil Mensajes](https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Mil Mensajes](https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo) | 3:22 |
 
 Snapshot ID: `aB1vywAAAAACarla+dBkwdxLsKdnYvK6`

@@ -1,6 +1,6 @@
 {
   "description": "Here it is, the playlist for the ultimate throwback bash!",
-  "num_followers": 325920,
+  "num_followers": 327053,
   "original_name": "Throwback Party",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 251240,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 208373,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 208373,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "The Papercut Chronicles II",
         "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 210960,
       "name": "Stereo Hearts (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1255,34 +1255,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "The Heist",
-        "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 258342,
-      "name": "Can't Hold Us (feat. Ray Dalton)",
-      "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -1323,6 +1295,34 @@
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 258342,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Abba",
         "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Backstreet's Back",
+        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "This Is What You Came For",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 222160,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Backstreet's Back",
-        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Hot N Cold",
-      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Don't Worry (feat. Ray Dalton)",
         "url": "https://open.spotify.com/album/7rtYhYGbnV4OPbqIhendi8"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 214789,
       "name": "Don't Worry (with Ray Dalton) - Radio Edit",
       "url": "https://open.spotify.com/track/63CSozvYUEudPp12679UVF"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Infinity 2008",
-        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
-      },
-      "artists": [
-        {
-          "name": "Guru Josh Project",
-          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
-        },
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 192294,
-      "name": "Infinity 2008 - Klaas Vocal Edit",
-      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Sale el Sol",
         "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
       },
@@ -2379,6 +2359,26 @@
       "duration_ms": 183693,
       "name": "Loca (feat. El Cata)",
       "url": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Infinity 2008",
+        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
+      },
+      "artists": [
+        {
+          "name": "Guru Josh Project",
+          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
+        },
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 192294,
+      "name": "Infinity 2008 - Klaas Vocal Edit",
+      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Who Loves You",
         "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
       },
@@ -2503,22 +2519,6 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Wild Cherry",
+        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+      },
+      "artists": [
+        {
+          "name": "Wild Cherry",
+          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Play That Funky Music",
+      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Tattoos",
         "url": "https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP"
       },
@@ -2623,22 +2639,6 @@
       "duration_ms": 177685,
       "name": "Talk Dirty (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/5l3CML2OnzfNs5RfVgbcLt"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Wild Cherry",
-        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
-      },
-      "artists": [
-        {
-          "name": "Wild Cherry",
-          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Play That Funky Music",
-      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
     },
     {
       "added_at": "2023-09-08 11:09:25",

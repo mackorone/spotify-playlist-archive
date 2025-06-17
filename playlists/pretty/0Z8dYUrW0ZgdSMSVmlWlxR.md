@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 50,443 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 50,438 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

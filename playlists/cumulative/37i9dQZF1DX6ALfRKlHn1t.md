@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-356 songs - 20 hr 7 min
+357 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Barrio Hustle](https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:14 | 2024-06-21 |  |
 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 | 2025-03-24 |  |
 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-04-22 | 2023-04-15 |
-| [Big Time](https://open.spotify.com/track/27Bn2trsGicmJlZe3qFMHg) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Big Time](https://open.spotify.com/album/6fGZ262oL8OhT96uhuoZc4) | 3:48 | 2025-06-05 |  |
+| [Big Time](https://open.spotify.com/track/27Bn2trsGicmJlZe3qFMHg) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Big Time](https://open.spotify.com/album/6fGZ262oL8OhT96uhuoZc4) | 3:48 | 2025-06-05 | 2025-06-17 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
 | [Blackout](https://open.spotify.com/track/2ZocFU8AgL3NYeG8vFMWbm) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blackout](https://open.spotify.com/album/45d3TzOxeMA1bWgCD4RkYs) | 3:42 | 2021-03-24 | 2022-07-29 |
 | [Blackout](https://open.spotify.com/track/3R4rGlA4MbG0I3XjfsH8If) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blessings](https://open.spotify.com/album/5eL6kdOkLUdF35zemcJJGg) | 3:42 | 2022-06-24 | 2023-03-15 |
@@ -178,6 +178,7 @@
 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX) | 3:56 | 2022-10-07 | 2022-11-13 |
 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/5GI8QlM6RlyZjegB9CFk7U) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/2peYRO0S43aoxn8N3E4qAU) | 3:57 | 2021-03-24 | 2022-04-28 |
 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 | 2023-03-14 | 2024-06-08 |
+| [Kinky](https://open.spotify.com/track/2kIDECuRDbagrRqLOY3Mnm) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [1](https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y) | 2:14 | 2025-06-05 |  |
 | [Kool Aid](https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:36 | 2023-09-08 | 2024-06-08 |
 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 | 2025-04-21 |  |
 | [Levitate](https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o) | [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X) | [Levitate](https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2) | 3:50 | 2021-03-24 | 2022-11-13 |

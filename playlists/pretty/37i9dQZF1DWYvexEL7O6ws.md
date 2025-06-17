@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by PARTYNEXTDOOR, Drake, Smiley, Naomi Sharon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,039 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,028 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 99 | [Liability](https://open.spotify.com/track/2vy9Ry1TNjCD85TiCbTz0r) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:57 |
 | 100 | [Get You Good](https://open.spotify.com/track/0Hy7GwC7e4FZBWsWnOcuqP) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Exis](https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr) | 3:46 |
 
-Snapshot ID: `AAAAAD5UozxhDYS3aXajdJ2Ayn63eNP5`
+Snapshot ID: `aExWigAAAAA2PANxJYmObfWVAvl7UjE8`

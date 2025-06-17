@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,801 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,924 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 44 | [Don't Give Up](https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Don't Give Up](https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u) | 5:17 |
 | 45 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
 | 46 | [Satisfied](https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Satisfied](https://open.spotify.com/album/5vjdeXvp1N3Qbpdk6Mdmh0) | 4:09 |
-| 47 | [Still There's Something](https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM) | [Still There's Something](https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV) | 3:38 |
-| 48 | [I Never Knew](https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8) | [Ben Ford](https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi) | [The Longing](https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj) | 4:49 |
+| 47 | [I Never Knew](https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8) | [Ben Ford](https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi) | [The Longing](https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj) | 4:49 |
+| 48 | [Still There's Something](https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM) | [Still There's Something](https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV) | 3:38 |
 | 49 | [Open My Eyes](https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [The Antidote](https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3) | 3:51 |
 | 50 | [Stay Close](https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V) | [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [Stay Close](https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN) | 3:14 |
 | 51 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 55 | [Hanging onto Every Word That You Say](https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw) | [Michael Hughes Watson](https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ) | [Wait](https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2) | 4:49 |
 | 56 | [Not in a Hurry \- Reimagined](https://open.spotify.com/track/2xrCrLzMb2tfWISosDOqqX) | [GONZO HERNAN](https://open.spotify.com/artist/3vHvxRyq0vUmEqix9UR1TX), [Amen Worldwide](https://open.spotify.com/artist/6Mu547AIaCO3QiD1N2ZfKU), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [Not in a Hurry \(Reimagined\)](https://open.spotify.com/album/6HZtVgDAvqdpbC1KCwwFlK) | 4:14 |
 | 57 | [God of the Breakthrough \(Live\)](https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [God of the Breakthrough \(Live\)](https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza) | 5:53 |
-| 58 | [That's What I Call Free](https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [That's What I Call Free](https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb) | 3:51 |
-| 59 | [Rest](https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp) | [Enterline](https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK) | [Kingdoms](https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R) | 3:27 |
+| 58 | [Rest](https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp) | [Enterline](https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK) | [Kingdoms](https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R) | 3:27 |
+| 59 | [That's What I Call Free](https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [That's What I Call Free](https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb) | 3:51 |
 | 60 | [Teach Us That One Song](https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Teach Us That One Song](https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb) | 5:54 |
 | 61 | [I See It Now](https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [I See It Now](https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D) | 3:09 |
 | 62 | [Grace after Grace](https://open.spotify.com/track/5h3Zp8z3UP5zqsuUIFgHRf) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls), [Kenny J West](https://open.spotify.com/artist/4bXi7LEJLwB1rZQyoPBDCb) | [Grace after Grace](https://open.spotify.com/album/14lJlizbzXdtC2nrS0nR5O) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHal8jERiRh.md) - [plain]
 
 > Listen to the soundtracks of the The Escape of the Seven\. \(7인의 탈출의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,544 likes - 31 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,542 likes - 31 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHal8jERiRh.md) - [plain]
 | 30 | [The Tree from Mount Fuji](https://open.spotify.com/track/4VulISo0xgXeWnOQsS1IgN) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 2:28 |
 | 31 | [Fire!](https://open.spotify.com/track/3KxwePed3M2ItHEyxI59Gt) | [조영욱과 THE SOUNDTRACKINGS](https://open.spotify.com/artist/41bmPr1AQcL6i7MZHj80pX) | [THE HANDMAIDEN \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mzJHO9z7mbZaN9JKLHIAk) | 1:15 |
 
-Snapshot ID: `AAAAALcXc8lvG/iJCS/4HF/vedDV6AOw`
+Snapshot ID: `ZTSiFgAAAAB7reg5XU7+TqdGRt8BpjkU`

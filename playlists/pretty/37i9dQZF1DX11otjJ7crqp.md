@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Meg Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,890 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,624 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Sound of Bloom](https://open.spotify.com/track/1EcSuTMIVcLNnqq4TrPaTe) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Sound of Bloom](https://open.spotify.com/album/2Vf1VA6WCue48dtWNRJiCr) | 3:00 |
 | 99 | [Freaky Like That](https://open.spotify.com/track/7bDFVicEweylijRmYV3fCf) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 2:21 |
 
-Snapshot ID: `AAAAABlxoGTYQp3tBeL3RP6Kz+z+bg1C`
+Snapshot ID: `aEytawAAAABYjYrHI/SAmnwa0DFvjeGI`

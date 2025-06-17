@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,680 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,719 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 59 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
 | 60 | [Our Time Now](https://open.spotify.com/track/3CE3PYF64qJBjq54Uf9ZiW) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 2:50 |
 | 61 | [Suffer Well](https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Playing the Angel \(Deluxe\)](https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt) | 3:49 |
-| 62 | [Hit and Run](https://open.spotify.com/track/5NyA9sbbbRbjBeoJqFw1th) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [Hit and Run](https://open.spotify.com/album/6lXAh5S4jE0AzBCi5yrcEM) | 3:04 |
-| 63 | [Love Me Dead](https://open.spotify.com/track/3IlYkyctlcTqXAZOA4ZPzz) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [You're Awful, I Love You](https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA) | 4:20 |
+| 62 | [Love Me Dead](https://open.spotify.com/track/3IlYkyctlcTqXAZOA4ZPzz) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [You're Awful, I Love You](https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA) | 4:20 |
+| 63 | [Hit and Run](https://open.spotify.com/track/5NyA9sbbbRbjBeoJqFw1th) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [Hit and Run](https://open.spotify.com/album/6lXAh5S4jE0AzBCi5yrcEM) | 3:04 |
 | 64 | [Time to Run](https://open.spotify.com/track/0RVVgKICMXl2dc4E62mOWw) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M) | 5:23 |
 | 65 | [Don't Kill My Vibe](https://open.spotify.com/track/5DCaAsjQRLYvvdFUzaYnAz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:04 |
 | 66 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 73 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
 | 74 | [Shark In The Water](https://open.spotify.com/track/0BLPuaA32HDg6AJTUT4WMl) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j) | 3:04 |
 | 75 | [Good Times](https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:44 |
-| 76 | [Mama Do \(Uh Oh, Uh Oh\)](https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 |
-| 77 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
-| 78 | [Changing](https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [All At Once](https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed) | 3:20 |
-| 79 | [Charlie](https://open.spotify.com/track/2SonpVAvJS3aOi63oEOTlQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/3YUPGv1HNS6HuFbUFIsfJY) | 3:10 |
+| 76 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
+| 77 | [Mama Do \(Uh Oh, Uh Oh\)](https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 |
+| 78 | [Charlie](https://open.spotify.com/track/2SonpVAvJS3aOi63oEOTlQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/3YUPGv1HNS6HuFbUFIsfJY) | 3:10 |
+| 79 | [Changing](https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [All At Once](https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed) | 3:20 |
 | 80 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
 | 81 | [City Boy](https://open.spotify.com/track/4bIRKImTd8vH9Ks79l7Rz8) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Silver Moon](https://open.spotify.com/album/6vNVvWECWw4lYzwGLOEW6B) | 3:24 |
 | 82 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 |

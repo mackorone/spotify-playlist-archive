@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française\. Photo: Vincent Delerm
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,670 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,672 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [L'oiseau](https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 3:01 |
 | 50 | [tu m'as dit que tu m'aimais](https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [tu m'as dit que tu m'aimais](https://open.spotify.com/album/4cPiATyN905GjIHqkusfdc) | 2:40 |
 
-Snapshot ID: `aEtOBAAAAAArHSFv27gohBbwZSJVy4Oy`
+Snapshot ID: `AAAAAGfYeL7t7HXxd6LBA7T75bJm4xOn`

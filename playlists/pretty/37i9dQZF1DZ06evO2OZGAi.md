@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 23 | [Viejas Historias](https://open.spotify.com/track/1VCM5UQzfLxJgmgaFlYRrx) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:39 |
 | 24 | [Love N' Shit](https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:36 |
 | 25 | [Blues Ciego](https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:39 |
-| 26 | [No Sé Por qué](https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [No Sé Por qué](https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY) | 2:16 |
+| 26 | [Entre Cuatro Paredes](https://open.spotify.com/track/11n5j6ySQnOVNtFuVmIegM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Entre Cuatro Paredes](https://open.spotify.com/album/1tRPMMuI2unJBg6v8ZknOw) | 4:26 |
 | 27 | [Un Mensaje para Ti \(Ángel\)](https://open.spotify.com/track/2XsAeAj9nSUX1T1HHnQ7PU) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 1:52 |
-| 28 | [Entre Cuatro Paredes](https://open.spotify.com/track/11n5j6ySQnOVNtFuVmIegM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Entre Cuatro Paredes](https://open.spotify.com/album/1tRPMMuI2unJBg6v8ZknOw) | 4:26 |
+| 28 | [No Sé Por qué](https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [No Sé Por qué](https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY) | 2:16 |
 | 29 | [Ahora Volaré](https://open.spotify.com/track/3BxvhQtYIJSpIa3TNF34ZZ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 2:59 |
 | 30 | [Simplemente](https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:15 |
 | 31 | [Cambia Esa Cara](https://open.spotify.com/track/4Xiph5Fmh21XoRTzge0l3y) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 3:08 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 48 | [Salva Mi Mente](https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:21 |
 | 49 | [Haz el Amor](https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:32 |
 
-Snapshot ID: `aEy7gAAAAACsLb+fPyTifQFxqnOn9/z6`
+Snapshot ID: `aE4NAAAAAACD9vYnJ7oOloj48TYuQuQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > DYSTINCT & French Montana on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,770 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,785 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 13 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 |
 | 14 | [SHAKUMAKU](https://open.spotify.com/track/2iWnm3VI8sgZhAqOPHaBAJ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:01 |
 | 15 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 |
-| 16 | [Mahboul Ana](https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm) | 3:05 |
-| 17 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
+| 16 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
+| 17 | [Mahboul Ana](https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm) | 3:05 |
 | 18 | [CARRÉ OK](https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CARRÉ OK](https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw) | 2:40 |
 | 19 | [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 |
 | 20 | [Un jour, je l'aurai](https://open.spotify.com/track/0Qx1ecCyHjCwGdKy85DZ8y) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Un jour, je l'aurai](https://open.spotify.com/album/19UjRPhzBwQe0fVkPR05Lq) | 3:46 |

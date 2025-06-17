@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,107 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,099 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 33 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 | 34 | [Se på meg](https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Se på meg](https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv) | 2:23 |
 | 35 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
-| 36 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 |
-| 37 | [Sucker For Pain](https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Individ](https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId) | 3:08 |
-| 38 | [BASSIANI](https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB) | 2:43 |
-| 39 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
-| 40 | [John Carew \(feat\. Roc Boyz\)](https://open.spotify.com/track/4sr29tcFUbSu2FYyHNAdrE) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [John Carew \(feat\. Roc Boyz\)](https://open.spotify.com/album/5db4qNSo7J24GNTJQU5YCw) | 3:20 |
+| 36 | [Fy faen du e deili](https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:35 |
+| 37 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 |
+| 38 | [Sucker For Pain](https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Individ](https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId) | 3:08 |
+| 39 | [BASSIANI](https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB) | 2:43 |
+| 40 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
 | 41 | [Matilda](https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Matilda](https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M) | 2:14 |
-| 42 | [Fy faen du e deili](https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:35 |
+| 42 | [John Carew \(feat\. Roc Boyz\)](https://open.spotify.com/track/4sr29tcFUbSu2FYyHNAdrE) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [John Carew \(feat\. Roc Boyz\)](https://open.spotify.com/album/5db4qNSo7J24GNTJQU5YCw) | 3:20 |
 | 43 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 |
 | 44 | [Leve](https://open.spotify.com/track/2QzDftiT7zPmyuwlXmPqFO) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Leve](https://open.spotify.com/album/2bI2phAdwdvfV1diBsGUFG) | 2:09 |
 | 45 | [Da Vi Møtte Fanden](https://open.spotify.com/track/4D6hnelZ3b9XOfetGZCxrD) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Da Vi Møtte Fanden](https://open.spotify.com/album/3b9FdXRlIqsqvlR6g2M0jk) | 2:58 |

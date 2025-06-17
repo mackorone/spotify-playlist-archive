@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Sheheryar Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,447 likes - 109 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,451 likes - 109 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

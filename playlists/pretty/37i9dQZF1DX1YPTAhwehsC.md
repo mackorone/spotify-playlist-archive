@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Rockout Danny and Nino Paid
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,615 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,592 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 16 | [trip](https://open.spotify.com/track/4ljcumInyzzQp8JicJ5Dii) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [trip](https://open.spotify.com/album/4kOsEMnnuhHOwOMMLTi6Qt) | 2:43 |
 | 17 | [Nefertiti](https://open.spotify.com/track/1QOTT0OH4i6Pa5aOmTmSHu) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Nefertiti](https://open.spotify.com/album/5DUNG8vYkrPceYBPOr9bBP) | 2:13 |
 | 18 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
-| 19 | [Bag](https://open.spotify.com/track/4YfaPeGicQBZggPUXZ05od) | [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z), [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U) | [Bag](https://open.spotify.com/album/6EA0f30VepoL1gp0FVg62F) | 3:26 |
+| 19 | [Bag](https://open.spotify.com/track/4YfaPeGicQBZggPUXZ05od) | [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z), [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U) | [Bag](https://open.spotify.com/album/6EA0f30VepoL1gp0FVg62F) | 3:27 |
 | 20 | [Documents](https://open.spotify.com/track/2GZIuPFHBY7yanCa7pzxak) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [VICTORY](https://open.spotify.com/album/5S7fMBF2TiKtLPKgVVAARB) | 2:49 |
 | 21 | [BBC](https://open.spotify.com/track/4PT50aQpCi7G7hkEOeLNON) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [BBC](https://open.spotify.com/album/5zMDLrAblOQRCmmsGErd3d) | 3:06 |
 | 22 | [Pardon Me](https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 4:00 |

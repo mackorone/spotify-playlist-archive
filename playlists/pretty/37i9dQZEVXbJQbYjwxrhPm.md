@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 990 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [От кеф да умирам](https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [От кеф да умирам](https://open.spotify.com/album/0SerSfJWOnQLMkEvf24aZd) | 4:00 |
 | 50 | [Бом, Бом](https://open.spotify.com/track/42z5ag3XE4nIApxnqnRCCO) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Бом, Бом](https://open.spotify.com/album/7cekQBr7MUbxcUVcb1UTwa) | 2:58 |
 
-Snapshot ID: `L+I70AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+OK+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

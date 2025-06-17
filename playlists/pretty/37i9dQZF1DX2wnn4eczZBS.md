@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Norah Hendriks
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,578 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,580 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 36 | [dichtbij](https://open.spotify.com/track/1m9f3fITZFcnGBrDRAk9Zp) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [dichtbij](https://open.spotify.com/album/4bC3KJr2UiGrfrDitdNvgy) | 2:34 |
 | 37 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
 | 38 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 |
-| 39 | [Waar Ontmoet Jij De Maan?](https://open.spotify.com/track/0BgXjzIyAnLf54F5hkgSJZ) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm), [Pelumi Adejumo](https://open.spotify.com/artist/5KzL65Y4YjGMLbCewSkstC) | [Gekleed In Donker, Ze Vroegen Niks](https://open.spotify.com/album/0pk53p781JhLnHXtXjt2wJ) | 5:38 |
-| 40 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 |
+| 39 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 |
+| 40 | [Waar Ontmoet Jij De Maan?](https://open.spotify.com/track/0BgXjzIyAnLf54F5hkgSJZ) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm), [Pelumi Adejumo](https://open.spotify.com/artist/5KzL65Y4YjGMLbCewSkstC) | [Gekleed In Donker, Ze Vroegen Niks](https://open.spotify.com/album/0pk53p781JhLnHXtXjt2wJ) | 5:38 |
 | 41 | [Ster](https://open.spotify.com/track/0BQywrXDexJaSPZoHgCnek) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Ster](https://open.spotify.com/album/6AFkwGd7dAn6qh6KBWvrEq) | 3:44 |
 | 42 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 |
 | 43 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |

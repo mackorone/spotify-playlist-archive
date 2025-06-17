@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 111 | [Girls Don’t Cheat](https://open.spotify.com/track/3YH35thx08eWvn6u6rWnvN) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Girls Don't Cheat](https://open.spotify.com/album/0gYqVCe2CIZ7S6IqBNU1MH) | 2:38 |
 | 112 | [Whatever You Say](https://open.spotify.com/track/3HJAwbCG7vMR6xA7qK2Mg6) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don’t look at the moon \(Deluxe\)](https://open.spotify.com/album/0pg20nefkrcmXHQRIEkTkI) | 3:16 |
 | 113 | [Cliche](https://open.spotify.com/track/02Htc0atYU7iMGnKkIXh0f) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [i hate you, Don't Leave Me](https://open.spotify.com/album/3RP0foR47mZ1epRWFlL68Z) | 3:15 |
-| 114 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 |
-| 115 | [10 Out Of 10](https://open.spotify.com/track/2IxVErKRy50bYQXL4a1LyC) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [10 Out Of 10](https://open.spotify.com/album/0u5mUL1chXUVV0TErlIfUi) | 3:05 |
+| 114 | [10 Out Of 10](https://open.spotify.com/track/2IxVErKRy50bYQXL4a1LyC) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [10 Out Of 10](https://open.spotify.com/album/0u5mUL1chXUVV0TErlIfUi) | 3:05 |
+| 115 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 |
 | 116 | [Back By The Weekend](https://open.spotify.com/track/0MXT2vbV2ZN4xlc42eTfaN) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Back By The Weekend](https://open.spotify.com/album/7p39ds80ogjiV3fOb8FMDO) | 2:55 |
 | 117 | [FWMM](https://open.spotify.com/track/32EYQDXyv12fdeOousjeAd) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 3:25 |
 | 118 | [Small Talk](https://open.spotify.com/track/1yZ4DgpOllcy8ylgOLGKMy) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:15 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 135 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 136 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Ab0PMgAAAADQr18sJlsG2voE1WfCMe/0`
+Snapshot ID: `Ab0UlgAAAAAKRLwfkVJO15xOVRlpTg8N`

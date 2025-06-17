@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 155959,
+  "num_followers": 155963,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-05-23 11:03:50",
       "album": {
+        "name": "love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Love You Anymore",
+      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
+    },
+    {
+      "added_at": "2025-05-23 11:03:50",
+      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
-    },
-    {
-      "added_at": "2025-05-23 11:03:50",
-      "album": {
-        "name": "love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Love You Anymore",
-      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
     },
     {
       "added_at": "2025-05-23 11:03:50",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-05-23 11:03:50",
       "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
-    },
-    {
-      "added_at": "2025-05-23 11:03:50",
-      "album": {
         "name": "Mads Langer",
         "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 261586,
       "name": "Fact - Fiction",
       "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
+    },
+    {
+      "added_at": "2025-05-23 11:03:50",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
     },
     {
       "added_at": "2025-05-23 11:03:50",

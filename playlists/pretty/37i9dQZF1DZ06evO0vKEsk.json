@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133132,
+  "num_followers": 133133,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAADXPVa+Qzld60LnTLEYacJq",
+  "snapshot_id": "aE4NAAAAAAAeubvYiJjwtZOe49klInR/",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 307999,
-      "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 307999,
+      "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drive In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 298388,
+      "name": "Deus da Gra\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marca da Promessa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 333002,
       "name": "Marca da Promessa - Ao Vivo",
       "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive In (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 298388,
-      "name": "Deus da Gra\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY"
     },
     {
       "added_at": null,

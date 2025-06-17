@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,679 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,695 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 47 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 |
 | 48 | [Yo Me Enamore](https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:07 |
 | 49 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 50 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
-| 51 | [Las Seis](https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 2:55 |
+| 50 | [Las Seis](https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 2:55 |
+| 51 | [Feliz Con Verte](https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph) | 3:13 |
 | 52 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 |
 | 53 | [La Vecina](https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 2:59 |
 | 54 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 90 | [Tengo Luquita](https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:43 |
 | 91 | [Solo por Ella / Ya Te Olvide \- Mujer](https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [La Fiesta](https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM) | 7:01 |
 | 92 | [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 |
-| 93 | [El Casorio](https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Cuerpo Repartido](https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5) | 2:34 |
-| 94 | [Chica Sexy](https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:22 |
+| 93 | [Chica Sexy](https://open.spotify.com/track/3eX8c4VjTJqFD0sZE6lduc) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:22 |
+| 94 | [El Casorio](https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Cuerpo Repartido](https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5) | 2:34 |
 | 95 | [La Makinita](https://open.spotify.com/track/02HQGyk9aGfleS1epTFtnJ) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [La Makinita](https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL) | 3:46 |
-| 96 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 |
+| 96 | [Soltero](https://open.spotify.com/track/0TsxuYmpzm17gyWG0luJS1) | [Mr\. Gato](https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO) | [Cumbia para Rato](https://open.spotify.com/album/7Jl4Q9zZJVhy3RKXtbR7ZZ) | 3:25 |
 | 97 | [Ni Que Estuviera Loco](https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 2:23 |
-| 98 | [Soltero](https://open.spotify.com/track/0TsxuYmpzm17gyWG0luJS1) | [Mr\. Gato](https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO) | [Cumbia para Rato](https://open.spotify.com/album/7Jl4Q9zZJVhy3RKXtbR7ZZ) | 3:25 |
+| 98 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 |
 | 99 | [Sigue La Cumbia](https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Leo Rey](https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310) | [Sigue La Cumbia](https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx) | 2:46 |
 | 100 | [Tímido](https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:26 |
 

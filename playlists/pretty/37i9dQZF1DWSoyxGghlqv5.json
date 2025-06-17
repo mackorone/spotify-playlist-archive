@@ -1,6 +1,6 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 453177,
+  "num_followers": 453167,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-02-14 12:08:54",
       "album": {
+        "name": "13 Reasons Why (Season 2)",
+        "url": "https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9"
+    },
+    {
+      "added_at": "2025-02-14 12:08:54",
+      "album": {
         "name": "Happy Now",
         "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 207029,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa"
-    },
-    {
-      "added_at": "2025-02-14 12:08:54",
-      "album": {
-        "name": "13 Reasons Why (Season 2)",
-        "url": "https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9"
     },
     {
       "added_at": "2025-02-14 12:08:54",

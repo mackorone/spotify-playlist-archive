@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (8/6/2025)",
+  "name": "LA LLISTA DE FLAIXBAC (15/6/2025)",
   "tracks": [
     {
       "album": {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -2514,6 +2514,24 @@
       "duration_ms": 199500,
       "name": "Rumba catalana",
       "url": "https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo"
+    },
+    {
+      "album": {
+        "name": "Sains et saufs",
+        "url": "https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "Sains et saufs",
+      "url": "https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi"
     },
     {
       "album": {

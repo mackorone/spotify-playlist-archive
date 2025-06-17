@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Redoor\) \(핫한 국내 록 음악을 만나보세요!\)
 
-967 songs - 2 day 11 hr 4 min
+969 songs - 2 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,11 +179,12 @@
 | [Daylight](https://open.spotify.com/track/3VJSYgrJKUdc22n5GzVaza) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Parole Examiner Lee, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/40SxrE2o08KMsXPiqSIc4g) | 3:48 | 2024-11-21 | 2025-01-15 |
 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 | 2025-03-17 | 2025-04-12 |
 | [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 |  |
-| [Dear Joy](https://open.spotify.com/track/1HYPRFbjqzhdlZCXkMuoC5) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dear Nobody](https://open.spotify.com/album/14CUSx8Br1OuPQmsXNnyd6) | 3:54 | 2025-06-10 |  |
+| [Dear Joy](https://open.spotify.com/track/1HYPRFbjqzhdlZCXkMuoC5) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dear Nobody](https://open.spotify.com/album/14CUSx8Br1OuPQmsXNnyd6) | 3:54 | 2025-06-10 | 2025-06-17 |
 | [Dear Love](https://open.spotify.com/track/0R4i9qbhgNQjJt5tGFbslP) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rendez\-Vous](https://open.spotify.com/album/6vK3j1RpbI17a2Tn2SqbTQ) | 5:02 | 2022-04-22 | 2022-07-14 |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2022-06-23 | 2022-06-30 |
 | [Deja Vu](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:44 | 2023-08-17 | 2024-03-22 |
 | [Demian](https://open.spotify.com/track/5xEivEruhmJTAHgBpP0U3V) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Synopsis](https://open.spotify.com/album/3TsPGtAg9IG6hHQoXamU8L) | 5:25 | 2024-12-02 | 2025-01-31 |
+| [Demons](https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Demons \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa) | 2:56 | 2025-06-16 |  |
 | [Demons My Darling](https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Demons My Darling](https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t) | 3:08 | 2024-08-07 | 2024-08-15 |
 | [Desert Eagle](https://open.spotify.com/track/0haCeyoW7lP7PNRu3RnSZZ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3VfI9ZwIJSL6xBJ6LuT3Sx) | 5:09 | 2025-03-17 | 2025-03-31 |
 | [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2022-04-22 | 2022-07-22 |
@@ -728,6 +729,7 @@
 | [Sky lantern](https://open.spotify.com/track/6ndKQwNqpeudjPK1D5tq1F) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [We all know we will fail](https://open.spotify.com/album/2qA6Vo1U3fZthJPbIUxm0x) | 5:35 | 2024-11-06 | 2024-11-30 |
 | [Skybound](https://open.spotify.com/track/0eKamTuaPWwfx50HcGc1RD) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Inside Out](https://open.spotify.com/album/2MDBTnagwI5RTtCqvLDdqr) | 2:56 | 2023-07-17 | 2023-08-26 |
 | [Slainte!](https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [PLAYLIST SEASON2 \(Original Soundtrack\)](https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co) | 3:38 | 2022-12-22 | 2023-01-11 |
+| [Sleep All Day](https://open.spotify.com/track/77nCqTRlDYjmfnptxefCZu) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Sleep All Day](https://open.spotify.com/album/3EafnvyVggFzsVrsyLjVNn) | 3:24 | 2025-06-16 |  |
 | [sleep walking](https://open.spotify.com/track/03WwZjnTBrw9Vohm16So6Q) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [sleep walking](https://open.spotify.com/album/05YBRBySSq1YJfBhc1Lk4M) | 3:47 | 2023-01-16 | 2023-01-27 |
 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 | 2022-04-22 | 2022-07-24 |
 | [SLOW \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/6sjceL2bHRC67mZB1p7h2n) | [Big Ocean](https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [SLOW](https://open.spotify.com/album/4gWygxgd6ECSQvnFyu0sAX) | 3:00 | 2024-08-10 | 2024-09-03 |
@@ -762,7 +764,7 @@
 | [STARLIGHT](https://open.spotify.com/track/5Sze0gwqDqO2BEEIQpxkDa) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [STARLIGHT](https://open.spotify.com/album/4N390LmaD2YwNebjT1Zmoa) | 3:24 | 2022-04-22 | 2022-07-27 |
 | [Starlight](https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Poong, the Joseon Psychiatrist OST Part.5](https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2) | 3:21 | 2022-09-05 | 2022-09-21 |
 | [Starry Night](https://open.spotify.com/track/4vSQmGcgOhsoK5lqmNOEz2) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 4:38 | 2022-04-12 | 2022-07-18 |
-| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-22 |  |
+| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-22 | 2025-06-17 |
 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 | 2022-06-20 | 2022-07-10 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-05 | 2022-11-13 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |

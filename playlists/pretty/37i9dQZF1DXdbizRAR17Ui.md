@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,888 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,905 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 39 | [ineedu](https://open.spotify.com/track/5v35hxyNPToBxF5vx737U8) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [ineedu](https://open.spotify.com/album/4CSGs0uGFhhmXsXOa4s2ms) | 2:25 |
 | 40 | [STOP \(what if you fly?\)](https://open.spotify.com/track/4SWxEClkfSvYJcaJmoJByj) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [STOP \(what if you fly?\)](https://open.spotify.com/album/4eMJ14ilC3DC0CjIJaJJFR) | 3:17 |
 | 41 | [Out of the Blue](https://open.spotify.com/track/6A03CSx08EOVrRjH86iKA4) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [Out of the Blue](https://open.spotify.com/album/3mpTEV9b2SI4ZJVCOgYgzn) | 3:21 |
-| 42 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 |
-| 43 | [Music Taught Me Life](https://open.spotify.com/track/6y7oSnVN2PpNvd4CUrvZBp) | [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE) | [Music Taught Me Life](https://open.spotify.com/album/2zU9Y18v6pTKuFUUBCCIQR) | 5:20 |
+| 42 | [Music Taught Me Life](https://open.spotify.com/track/6y7oSnVN2PpNvd4CUrvZBp) | [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE) | [Music Taught Me Life](https://open.spotify.com/album/2zU9Y18v6pTKuFUUBCCIQR) | 5:20 |
+| 43 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 |
 | 44 | [In The Sound Of Breathing \- George FitzGerald Remix](https://open.spotify.com/track/3EIi1v4tLTY1G0EIxVPuoD) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [In The Sound Of Breathing \(George FitzGerald Remix\)](https://open.spotify.com/album/4nhaONxYBJkfFvAv7Lpbnk) | 4:49 |
 | 45 | [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 |
 | 46 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |

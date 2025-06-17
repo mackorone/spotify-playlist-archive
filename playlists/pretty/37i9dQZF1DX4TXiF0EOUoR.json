@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 242591,
+  "num_followers": 242644,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -559,8 +559,8 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
+        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
+        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 173560,
-      "name": "El Baile Nuevo",
-      "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
+      "duration_ms": 159706,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -643,8 +643,8 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
-        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
       },
       "artists": [
         {
@@ -652,9 +652,25 @@
           "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 159706,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
+      "duration_ms": 173560,
+      "name": "El Baile Nuevo",
+      "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 175934,
+      "name": "La Conga Roja - En Vivo",
+      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -691,22 +707,6 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 175934,
-      "name": "La Conga Roja - En Vivo",
-      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "Arriba Mi Rancho",
+        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 225410,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 164466,
       "name": "Oye Traicionera",
       "url": "https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "Arriba Mi Rancho",
-        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 225410,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Arriba Tonichi",
+      "url": "https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
         "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 138640,
       "name": "El Tiliche",
       "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Arriba Tonichi",
-      "url": "https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "\u00a1\u00a1la Explosiva!!, Vol. 2",
+        "url": "https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "El Ocotito",
+      "url": "https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Fiesta de Enero",
         "url": "https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 211426,
       "name": "El Toro Requeson",
       "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "\u00a1\u00a1la Explosiva!!, Vol. 2",
-        "url": "https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "El Ocotito",
-      "url": "https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
         "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
         "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 170520,
       "name": "Agua de T\u00e9",
       "url": "https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
-        "name": "\u00a1\u00a1La Explosiva!!",
-        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "La Yaquesita",
-      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "La Reyna de los Sones",
-        "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
-      },
-      "artists": [
-        {
-          "name": "La Super Banda de Chilacachapa, Gro",
-          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "La Diana Ranchera",
-      "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "Puros Popurris De Sones",
         "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 199706,
       "name": "Popurri Michoacano ... El Son Del P\u00e1lomino / El Son Del Gallito / El Zapatazo / Cara De Pingo",
       "url": "https://open.spotify.com/track/7mwhO5vDMaFn9kuRSdamQU"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "La Reyna de los Sones",
+        "url": "https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3"
+      },
+      "artists": [
+        {
+          "name": "La Super Banda de Chilacachapa, Gro",
+          "url": "https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "La Diana Ranchera",
+      "url": "https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "En Vivo Desde Colima, Vol. 2",
-        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
-      },
-      "artists": [
-        {
-          "name": "Banda Imperio De Colima",
-          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
-        }
-      ],
-      "duration_ms": 207621,
-      "name": "Arriba Pichantaro (En Vivo)",
-      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
         "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 128224,
       "name": "Las Calandrias",
       "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "En Vivo Desde Colima, Vol. 2",
+        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
+      },
+      "artists": [
+        {
+          "name": "Banda Imperio De Colima",
+          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
+        }
+      ],
+      "duration_ms": 207621,
+      "name": "Arriba Pichantaro (En Vivo)",
+      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Desqu\u00edtate Conmigo",
-        "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 210910,
-      "name": "Jinetes en el Cielo",
-      "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "La Estrella de Los Bailes",
         "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 167466,
       "name": "Eva Maria",
       "url": "https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Desqu\u00edtate Conmigo",
+        "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 210910,
+      "name": "Jinetes en el Cielo",
+      "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
     },
     {
       "added_at": "2024-08-28 01:03:24",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-08-28 01:03:24",
       "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Flor de Pi\u00f1a",
-      "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
-    },
-    {
-      "added_at": "2024-08-28 01:03:24",
-      "album": {
         "name": "el taca taca ta (remix)",
         "url": "https://open.spotify.com/album/2OG8ON3G040SHedULEvXon"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 242112,
       "name": "el taca taca ta - remix",
       "url": "https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q"
+    },
+    {
+      "added_at": "2024-08-28 01:03:24",
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 224722,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
     },
     {
       "added_at": "2024-08-28 01:03:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mBRYewE6or.md) - [plain]
 
 > dá play que a bagunça organizada tá liberada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,495 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,447 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mBRYewE6or.md) - [plain]
 | 93 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 |
 | 94 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 |
 | 95 | [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 |
-| 96 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 |
-| 97 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
-| 98 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 |
-| 99 | [Too Much \(feat\. Usher\)](https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Too Much \(feat\. Usher\)](https://open.spotify.com/album/6lObxQq82f6xitLI8xZQyz) | 2:45 |
+| 96 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
+| 97 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 |
+| 98 | [Too Much \(feat\. Usher\)](https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Too Much \(feat\. Usher\)](https://open.spotify.com/album/6lObxQq82f6xitLI8xZQyz) | 2:45 |
+| 99 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 |
 | 100 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 
 Snapshot ID: `Z+YsgAAAAAAs+saOSrKwMad4RzY4VrV7`

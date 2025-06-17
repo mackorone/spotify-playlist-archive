@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 684220,
+  "num_followers": 684493,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,26 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
+        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
+      },
+      "artists": [
+        {
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
+        },
+        {
+          "name": "Three 'N One",
+          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
+      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Faithless 2.0",
         "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 518221,
       "name": "Insomnia - Monster Mix",
       "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
-        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
-      },
-      "artists": [
-        {
-          "name": "Energy 52",
-          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
-        },
-        {
-          "name": "Three 'N One",
-          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
-      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "One For The Lad's",
-        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Gouryella",
         "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 217146,
       "name": "Gouryella",
       "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "One For The Lad's",
+        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "7 Colours (The Remixes)",
-        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
-      },
-      "artists": [
-        {
-          "name": "Lost Witness",
-          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "7 Colours - Radio Edit",
-      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "The Xpander E.P.",
         "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 202026,
       "name": "Xpander - Edit",
       "url": "https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "7 Colours (The Remixes)",
+        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
+      },
+      "artists": [
+        {
+          "name": "Lost Witness",
+          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "7 Colours - Radio Edit",
+      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
     },
     {
       "added_at": "2024-07-23 09:55:55",

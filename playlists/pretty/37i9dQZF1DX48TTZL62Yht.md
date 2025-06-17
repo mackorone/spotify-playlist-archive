@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,844 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,852 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 95 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
 | 96 | [WHATCHU KNO ABOUT ME \(with Sexyy Red\)](https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WHATCHU KNO ABOUT ME \(with Sexyy Red\)](https://open.spotify.com/album/2PzoiaGTcK3NfnMgHFd7QC) | 2:29 |
 | 97 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 |
-| 98 | [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 |
-| 99 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
+| 98 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
+| 99 | [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 |
 | 100 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 |
 
 Snapshot ID: `aEn+TAAAAAB1YPQgL1Zgz5sZ6ogXzwgn`

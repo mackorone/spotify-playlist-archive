@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 5 | [Candy Kiss](https://open.spotify.com/track/5KrJaDiB7WKUrkPOWUuxJp) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:21 |
 | 6 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 |
 | 7 | [Dysfunctional](https://open.spotify.com/track/1i8Pue6gQrSOHMVFLzQWom) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Dysfunctional](https://open.spotify.com/album/2Oj40TuVraFTnMAPGCuJwc) | 3:18 |
-| 8 | [By Now](https://open.spotify.com/track/4NTAmq5vf3cXuKZIDV94w1) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [By Now](https://open.spotify.com/album/6B37u4rJJZX3nLtGb95X8g) | 3:06 |
-| 9 | [Long Shot](https://open.spotify.com/track/4DSNXNrBKv2rMo30c5DyTh) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Shot](https://open.spotify.com/album/0jSxGspgNSr6D1o839Brhl) | 3:24 |
+| 8 | [Long Shot](https://open.spotify.com/track/4DSNXNrBKv2rMo30c5DyTh) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Shot](https://open.spotify.com/album/0jSxGspgNSr6D1o839Brhl) | 3:24 |
+| 9 | [By Now](https://open.spotify.com/track/4NTAmq5vf3cXuKZIDV94w1) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [By Now](https://open.spotify.com/album/6B37u4rJJZX3nLtGb95X8g) | 3:06 |
 | 10 | [Death Is in the Air](https://open.spotify.com/track/7xwDVTZBWVCFfBig0vSeMU) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Death Is in the Air](https://open.spotify.com/album/2bIFB2pGDgyVrVWrQpA8GG) | 3:23 |
 | 11 | [Stardust](https://open.spotify.com/track/64YqaPCvvnHxj96Qlo1a9w) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations](https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq) | 2:51 |
 | 12 | [The Wave](https://open.spotify.com/track/6EKqDWgTz9nCxZojy4XoSk) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:10 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 52 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
 | 53 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `Ab0PKAAAAACTocTCQh4nXUptpXStMhVj`
+Snapshot ID: `Ab0UvgAAAACFdyDiz6eaLSatNFrSd5Rg`

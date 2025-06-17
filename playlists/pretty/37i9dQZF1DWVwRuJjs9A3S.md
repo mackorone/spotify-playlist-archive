@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Lykke Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,966 likes - 177 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,994 likes - 177 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

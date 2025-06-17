@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,025 songs - 4 day 13 hr 26 min
+2,026 songs - 4 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1078,7 +1078,7 @@
 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 | 2023-10-27 | 2024-01-20 |
 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-25 | 2023-01-28 |
 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2022-08-01 | 2022-09-16 |
-| [MOOSE](https://open.spotify.com/track/7dIa067cbLbIkUr5BsEqNK) | [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L), [Skino](https://open.spotify.com/artist/1mekq0jjS5Dq1GQZ3AHux8) | [DMVP EXTEND](https://open.spotify.com/album/6tTgq7ROrGdRaHNorjnDfP) | 2:30 | 2025-05-23 |  |
+| [MOOSE](https://open.spotify.com/track/7dIa067cbLbIkUr5BsEqNK) | [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L), [Skino](https://open.spotify.com/artist/1mekq0jjS5Dq1GQZ3AHux8) | [DMVP EXTEND](https://open.spotify.com/album/6tTgq7ROrGdRaHNorjnDfP) | 2:30 | 2025-05-23 | 2025-06-17 |
 | [Mortal pra trás!](https://open.spotify.com/track/3Hk0otwsBfoQ3kIZcOJCfW) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Mortal pra trás!](https://open.spotify.com/album/0MxPITt7zk0AVwf3iXyLQz) | 2:41 | 2024-04-19 | 2024-05-25 |
 | [Moschino](https://open.spotify.com/track/2TOXwgZo66czJlgbY8cnAG) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [Moschino](https://open.spotify.com/album/4i9gzbR2drDJXDCgeCDlMS) | 2:35 | 2022-03-03 | 2022-03-05 |
 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 | 2022-02-03 | 2022-12-15 |
@@ -1129,6 +1129,7 @@
 | [NDAM!](https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [NDAM!](https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m) | 3:23 | 2025-02-14 |  |
 | [Ne m'invite pas](https://open.spotify.com/track/7M9O8p72Aau8WXbs4oH6uY) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Ne m'invite pas](https://open.spotify.com/album/3squVQ27t6SR9zsVbsRZcE) | 2:57 | 2022-03-24 | 2022-08-02 |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-01-26 | 2024-02-27 |
+| [neden](https://open.spotify.com/track/0xLUenokW0efdVZoxtRI3s) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [neden](https://open.spotify.com/album/0UwpSPaQXWVpT3wTEMvdti) | 3:06 | 2025-06-13 |  |
 | [Need You Now](https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [December](https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW) | 2:28 | 2024-12-13 | 2025-06-14 |
 | [NEMO](https://open.spotify.com/track/082gHcsV96neRIdk9AQD5M) | [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L) | [NEMO](https://open.spotify.com/album/1a046jWH7RpOAB3DWL560m) | 2:30 | 2025-05-16 | 2025-05-24 |
 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 | 2022-03-24 | 2022-08-02 |

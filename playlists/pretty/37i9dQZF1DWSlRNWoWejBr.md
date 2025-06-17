@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,491 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,931 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

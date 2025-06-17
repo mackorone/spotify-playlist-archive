@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,321 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,333 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 13 | [Mientras Tú Jugabas](https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:10 |
 | 14 | [Recuérdenme Así](https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:59 |
 | 15 | [Te Darán Ganas De Verme](https://open.spotify.com/track/3gizL2fAU59XhtjbZpbme7) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:55 |
-| 16 | [Se Pronostican Borracheras](https://open.spotify.com/track/2uODDcbfNeRYZ5iftW2iNy) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Se Pronostican Borracheras](https://open.spotify.com/album/2d1vtKw2auTTDRKYgnDMiW) | 2:21 |
-| 17 | [Hasta Que Salga El Sol](https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:23 |
+| 16 | [Hasta Que Salga El Sol](https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:23 |
+| 17 | [Se Pronostican Borracheras](https://open.spotify.com/track/2uODDcbfNeRYZ5iftW2iNy) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Se Pronostican Borracheras](https://open.spotify.com/album/2d1vtKw2auTTDRKYgnDMiW) | 2:21 |
 | 18 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
 | 19 | [Sin Autorización](https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 3:17 |
 | 20 | [No Llega El Olvido](https://open.spotify.com/track/4xKmCXrvnvrRa7XoBIwUoZ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:31 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 38 | [Desde Que Te Ví](https://open.spotify.com/track/5qEclxCyLjsGwkRI90mtDV) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Lo Mejor De...](https://open.spotify.com/album/6niDeCvPYEWqC8SlfbzhDC) | 2:58 |
 | 39 | [Vivir La Vida](https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 2:57 |
 | 40 | [La Baraja](https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [La Baraja](https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR) | 2:55 |
-| 41 | [Aquí Me Quedaré](https://open.spotify.com/track/485sSGINa482vFsad9LLpJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Las Bandas Románticas](https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN) | 2:41 |
-| 42 | [Yo Quiero Chupar](https://open.spotify.com/track/0NiQtVu6jYIqQjCKVlqjX5) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Superlameando](https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y) | 3:40 |
+| 41 | [Yo Quiero Chupar](https://open.spotify.com/track/0NiQtVu6jYIqQjCKVlqjX5) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Superlameando](https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y) | 3:40 |
+| 42 | [Aquí Me Quedaré](https://open.spotify.com/track/485sSGINa482vFsad9LLpJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Las Bandas Románticas](https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN) | 2:41 |
 | 43 | [Extráñame](https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:50 |
 | 44 | [Al Rescate](https://open.spotify.com/track/6RYkjZLxo7xZSR9LNr57K9) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:33 |
 | 45 | [Al Ver Que Te Vas](https://open.spotify.com/track/4JSZYFKUFdGSvsru6tuQOU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 3:05 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 47 | [No Me Prometas](https://open.spotify.com/track/4dSsX7BuYKLTZeTNaBvNU1) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [No Me Prometas](https://open.spotify.com/album/6QRykp1loczkZa2ite7dlm) | 2:26 |
 | 48 | [Ya No Vuelvo A Molestarte](https://open.spotify.com/track/01qhVZmKIqoL5Gj2SdWOmn) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:00 |
 | 49 | [El Mismo](https://open.spotify.com/track/6HJa0HS0f5bkTmbOyqhD1q) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Mismo](https://open.spotify.com/album/6TJjoEzQLS79vZv1s5kQxg) | 2:13 |
-| 50 | [S Cool...ito](https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [S Cool...ito](https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1) | 2:28 |
+| 50 | [Voy A Pistear](https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:21 |
 
-Snapshot ID: `aEy7gAAAAAAJdivcimXz25XYaVQwlaQE`
+Snapshot ID: `aE4NAAAAAABidifDV26tkY2hc9DpEfvc`

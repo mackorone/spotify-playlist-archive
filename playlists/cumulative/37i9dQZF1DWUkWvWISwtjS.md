@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-162 songs - 8 hr 7 min
+163 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Fala Comigo \- Ao Vivo](https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 2:20 | 2023-10-13 |  |
 | [Faz Assim](https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Faz Assim](https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn) | 3:41 | 2023-10-13 | 2024-05-06 |
 | [Fica](https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ) | 3:04 | 2023-10-13 | 2024-04-19 |
-| [Foi por Conveniência](https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Foi por Conveniência](https://open.spotify.com/album/1xkOIj7siMBQZKzdFNwt0U) | 3:25 | 2024-07-15 |  |
+| [Foi por Conveniência](https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Foi por Conveniência](https://open.spotify.com/album/1xkOIj7siMBQZKzdFNwt0U) | 3:25 | 2024-07-15 | 2025-06-17 |
 | [Folgado \- Ao Vivo](https://open.spotify.com/track/4DYmJ19DhmxUe26QhANDYv) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 2:43 | 2023-10-13 | 2025-02-17 |
 | [Frieza \- Ao Vivo](https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Frieza \(Ao Vivo\)](https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt) | 3:05 | 2023-10-13 |  |
 | [Impressionando Os Anjos \- Ao Vivo](https://open.spotify.com/track/6tUH34SV3m9mrs4mTyo5AM) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:28 | 2023-10-13 | 2024-04-19 |
@@ -146,6 +146,7 @@
 | [Short Jeans \- Ao Vivo](https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Short Jeans \(Ao Vivo\)](https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x) | 3:00 | 2023-10-13 |  |
 | [Siga a Seta \(feat\. Matheus & Kauan\) \- Ao Vivo](https://open.spotify.com/track/5AQNVgt7BKHKRhrNFFgSPF) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Siga a Seta \(feat\. Matheus & Kauan\) \[Ao Vivo\]](https://open.spotify.com/album/7j3YXsHgy2GW48kSjzTlR7) | 2:51 | 2023-10-13 |  |
 | [Sigilo \- Ao Vivo](https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Sigilo \(Ao Vivo\)](https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa) | 2:45 | 2023-10-13 |  |
+| [Silêncio \- Ao Vivo](https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Ao Vivo](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 2:53 | 2025-05-30 |  |
 | [Singular](https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Singular](https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo) | 3:50 | 2023-10-13 |  |
 | [Sofazinho \- Ao Vivo](https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:07 | 2023-10-13 |  |
 | [Sofrendo Ao Quadrado \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Das Repúblicas Para O Brasil \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB) | 2:32 | 2023-10-13 |  |

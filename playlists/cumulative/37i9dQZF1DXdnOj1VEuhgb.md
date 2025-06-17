@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Critical x UZI
 
-634 songs - 1 day 4 hr 39 min
+635 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 | 2023-01-10 | 2023-12-15 |
 | [55\-53](https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [55\-53](https://open.spotify.com/album/5zZ36nu81XoL3vA4VeZhn7) | 1:58 | 2025-05-08 |  |
 | [7/24](https://open.spotify.com/track/6BePz3rGi5PYaGlQAVUXUa) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 3:47 | 2024-11-21 | 2025-01-10 |
-| [7PAЯADIS](https://open.spotify.com/track/5fN6DXUT8bfyhcyQBz9NVa) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [7PAЯADIS](https://open.spotify.com/album/3eNRPqV9twKRrurwdcrPtH) | 1:38 | 2025-05-29 |  |
+| [7PAЯADIS](https://open.spotify.com/track/5fN6DXUT8bfyhcyQBz9NVa) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [7PAЯADIS](https://open.spotify.com/album/3eNRPqV9twKRrurwdcrPtH) | 1:38 | 2025-05-29 | 2025-06-17 |
 | [911 CARRERA](https://open.spotify.com/track/08janBFz0chrnHnnYOelOj) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [911 CARRERA](https://open.spotify.com/album/0UcZOH1YeIiWFESMB4qtBf) | 1:44 | 2024-03-28 | 2024-04-12 |
 | [9mm](https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [9mm](https://open.spotify.com/album/48z19Z1hAbwHucnqX1UemL) | 3:17 | 2024-10-24 | 2025-05-09 |
 | [A La Carte](https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [A La Carte](https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD) | 2:35 | 2023-12-14 | 2024-11-01 |
@@ -260,6 +260,7 @@
 | [HMDL](https://open.spotify.com/track/4gB1ND5arP2TEb7ZYAUrdL) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [HMDL](https://open.spotify.com/album/6Hc0LHGmWgFHtLLPkALdom) | 3:47 | 2025-03-13 |  |
 | [Hot Baklava](https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l) | [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Hot Baklava](https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k) | 2:20 | 2023-07-27 | 2023-08-19 |
 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-11-09 | 2025-05-11 |
+| [HUHU!](https://open.spotify.com/track/34L7oGUDr99wqQsh3rQkDK) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HUHU!](https://open.spotify.com/album/2EsoI6vT3rsMc8X0IsEv96) | 2:08 | 2025-06-16 |  |
 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 | 2025-03-06 |  |
 | [Hüsran](https://open.spotify.com/track/6R97ZWEIAdPM733YsJETnx) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Hüsran](https://open.spotify.com/album/0GB3rPFXXOG6nggS7ipwAm) | 3:12 | 2023-11-09 | 2023-12-14 |
 | [Hüsran Hepsi](https://open.spotify.com/track/1cLGvuG1AQYxIHhto1XJda) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Hüsran Hepsi](https://open.spotify.com/album/5Py36nVFgslvqkTdhO9EBJ) | 3:33 | 2024-12-12 | 2024-12-27 |

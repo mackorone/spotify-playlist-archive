@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مصطفى حجاج & إسلام كابونجا
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,925 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,970 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [وضع الطيران](https://open.spotify.com/track/4pSLabzQFsVrrPfIXU9VG0) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وضع الطيران](https://open.spotify.com/album/76l8XYZOoK6cPCJR3BcWMw) | 3:56 |
 | 2 | [Khabt X Khabt](https://open.spotify.com/track/1W1ckI46qTwntU74ZNiGVw) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Mesh Tabee3y](https://open.spotify.com/album/6v61DYXmWE0FQtSsu2szS9) | 2:52 |
 | 3 | [انا انت](https://open.spotify.com/track/1geesXg65OnqOS23Y3aR7K) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [انا انت](https://open.spotify.com/album/0WS5vjac3aHglnEYtEORAb) | 2:37 |
-| 4 | [حبيبي تقلان \- من البوم لينا معاد](https://open.spotify.com/track/3HfqXS24PojHutwphaDfYK) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [حبيبي تقلان \(من البوم لينا معاد\)](https://open.spotify.com/album/5U1LItO0bzIdNKM08a5nl7) | 3:36 |
+| 4 | [حلال فيك \- من البوم لينا معاد](https://open.spotify.com/track/65uNDYpRRj01SwndtXTHhA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [حلال فيك \(من البوم لينا معاد\)](https://open.spotify.com/album/0ZhDVNeX12HV67XvWLMDvA) | 3:01 |
 | 5 | [انتي اعظم اختيار](https://open.spotify.com/track/0IsnB2bkWr1OYyvfVsseLs) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [انتي اعظم اختيار](https://open.spotify.com/album/17EepIsYf9bOZkyFzgZpdO) | 3:04 |
 | 6 | [Madi W Fat](https://open.spotify.com/track/7svFmxTUFmgRy4oeMyfarn) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Madi W Fat](https://open.spotify.com/album/3vUUXjwX5dGgxLiFtG8HI9) | 2:59 |
 | 7 | [كلام فارغ](https://open.spotify.com/track/7nZync4cVWk7qP44aVpYy3) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [كلام فارغ](https://open.spotify.com/album/2t69m3YMhYT9girpfbWf3L) | 4:34 |
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 17 | [Yalahwy 3al Ayam](https://open.spotify.com/track/4LLqLFGkjCtz21Pb8HL5Fp) | [Khaled Essam](https://open.spotify.com/artist/7kJjOSF2VomfmxWgwBZx1r) | [Yalahwy 3al Ayam](https://open.spotify.com/album/5TyOAzuITUBvtRN2YbBqVc) | 2:59 |
 | 18 | [الصدفة جمعتنا](https://open.spotify.com/track/2ej3s9OKCRpJndSk3EPf2k) | [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [الصدفة جمعتنا](https://open.spotify.com/album/0UmMo7jVmq1eQ8hRRQxYyb) | 2:16 |
 | 19 | [أعملها إزاي](https://open.spotify.com/track/5WPZNVZoCZ7uZKMLEpJN3s) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [أعملها إزاي](https://open.spotify.com/album/32hO06AYvsTXGJ4Jc2LGpz) | 4:23 |
-| 20 | [المقص \- من فيلم ريستارت و البوم لينا معاد](https://open.spotify.com/track/5LKRjVzOqlCd5SAa8ZBEhb) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [المقص \(من فيلم ريستارت و البوم لينا معاد\)](https://open.spotify.com/album/5XdfToKX9cO6dOtPxXqf9C) | 3:38 |
-| 21 | [كنت ضامنى](https://open.spotify.com/track/1OAaZoAVWkJkOBsOueXuRO) | [Mohamady](https://open.spotify.com/artist/2sHmMy5vLRwAfjNI9MEiuH) | [كنت ضامنى](https://open.spotify.com/album/119bWdkk7KS7XkEnJOqLXR) | 3:49 |
-| 22 | [Zaman](https://open.spotify.com/track/1iRlkvaOSttApeMCWO8hd5) | [Khaled Essam](https://open.spotify.com/artist/7kJjOSF2VomfmxWgwBZx1r), [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [Zaman](https://open.spotify.com/album/4dPGOCItzqJK3EeiHaMvJb) | 3:36 |
-| 23 | [BOSAKBER](https://open.spotify.com/track/6UtIvZclLRRKRQndvFVd3Q) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [BOSAKBER](https://open.spotify.com/album/0fYcLj9VwyjePa6nr14s0c) | 4:15 |
-| 24 | [EL BABA RAGE3](https://open.spotify.com/track/6UjwmuhifOdkR1IlWou60N) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [EL BABA RAGE3](https://open.spotify.com/album/5PfGMhBNZlaiGuQ0FbgzqM) | 2:34 |
-| 25 | [Moshkela](https://open.spotify.com/track/2oEmfzq2ock6yHhDFwgFr8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Moshkela](https://open.spotify.com/album/315aM5HIUJ1kspFYNSxCEa) | 2:50 |
+| 20 | [كنت ضامنى](https://open.spotify.com/track/1OAaZoAVWkJkOBsOueXuRO) | [Mohamady](https://open.spotify.com/artist/2sHmMy5vLRwAfjNI9MEiuH) | [كنت ضامنى](https://open.spotify.com/album/119bWdkk7KS7XkEnJOqLXR) | 3:49 |
+| 21 | [Zaman](https://open.spotify.com/track/1iRlkvaOSttApeMCWO8hd5) | [Khaled Essam](https://open.spotify.com/artist/7kJjOSF2VomfmxWgwBZx1r), [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [Zaman](https://open.spotify.com/album/4dPGOCItzqJK3EeiHaMvJb) | 3:36 |
+| 22 | [BOSAKBER](https://open.spotify.com/track/6UtIvZclLRRKRQndvFVd3Q) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [BOSAKBER](https://open.spotify.com/album/0fYcLj9VwyjePa6nr14s0c) | 4:15 |
+| 23 | [EL BABA RAGE3](https://open.spotify.com/track/6UjwmuhifOdkR1IlWou60N) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [EL BABA RAGE3](https://open.spotify.com/album/5PfGMhBNZlaiGuQ0FbgzqM) | 2:34 |
+| 24 | [Moshkela](https://open.spotify.com/track/2oEmfzq2ock6yHhDFwgFr8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Moshkela](https://open.spotify.com/album/315aM5HIUJ1kspFYNSxCEa) | 2:50 |
+| 25 | [حبيبي تقلان \- من البوم لينا معاد](https://open.spotify.com/track/3HfqXS24PojHutwphaDfYK) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [حبيبي تقلان \(من البوم لينا معاد\)](https://open.spotify.com/album/5U1LItO0bzIdNKM08a5nl7) | 3:36 |
 | 26 | [البعد اذاني](https://open.spotify.com/track/51x7U029B39tPGxWefp12I) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [البعد اذاني](https://open.spotify.com/album/3ng1VVf9Vfk5vwWbYWYWWO) | 3:21 |
 | 27 | [قولولي مبروك](https://open.spotify.com/track/33IL8SieZJFNd205pX7yEd) | [Mostafa Kamel](https://open.spotify.com/artist/7IVaCSHkbx4xPS2vZ2LSCl) | [قولولي مبروك](https://open.spotify.com/album/5V73i83Ly5y4ZwJbDDklf8) | 3:17 |
 | 28 | [ATGAWEZ MEEN!!](https://open.spotify.com/track/03mJyS2xunhsEvYWaVl204) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [ATGAWEZ MEEN!!](https://open.spotify.com/album/7K5kXpun9B6mH3xkbmrUyL) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [Gowak Halak](https://open.spotify.com/track/02OQ4bSdjDmFO2VITeD7M3) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Gowak Halak](https://open.spotify.com/album/3PJOsXOH50LgFyXBqyj57z) | 4:27 |
 | 50 | [Elly Shafna](https://open.spotify.com/track/4ojihsBzsVIeB4xjAaDNNe) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Elly Shafna](https://open.spotify.com/album/29bnhHS7JrEs7y2KDqakjb) | 3:46 |
 
-Snapshot ID: `aEw9CgAAAAD4ucQIQIXE2NHRxYXit8Us`
+Snapshot ID: `aE/ungAAAABsrf8pDhQLYucFiCjniJey`

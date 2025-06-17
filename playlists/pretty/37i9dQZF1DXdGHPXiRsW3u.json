@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 938835,
+  "num_followers": 939523,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Say It Right",
-      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 255333,
       "name": "Love",
       "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        },
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 247840,
       "name": "U Got It Bad",
       "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Undiscovered (International Version)",
-        "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Swing When You're Winning",
         "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 170493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Undiscovered (International Version)",
+        "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Heavier Things",
         "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 271226,
-      "name": "Hometown Glory",
-      "url": "https://open.spotify.com/track/3cCPT7eJhpYXXlH2pbWhfP"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Jordin Sparks",
         "url": "https://open.spotify.com/album/3SR9XT8f7LEUDcMFZO4wPd"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 264373,
       "name": "No Air (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/7EGhmltmWJHCHobd3g8Hnw"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/3uftDqGs13LsE1s8nn5XSe"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "Hometown Glory",
+      "url": "https://open.spotify.com/track/3cCPT7eJhpYXXlH2pbWhfP"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Divine Discontent",
-        "url": "https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 243960,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Escapology",
         "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
       },
@@ -1779,18 +1763,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "All Rise",
-        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
+        "name": "Divine Discontent",
+        "url": "https://open.spotify.com/album/0DlPNJ1lhOgcunXTsBboC0"
       },
       "artists": [
         {
-          "name": "Blue",
-          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
         }
       ],
-      "duration_ms": 207560,
-      "name": "If You Come Back",
-      "url": "https://open.spotify.com/track/6nV2SYnWxCg0Cnmz1GSh2H"
+      "duration_ms": 243960,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/2kyezitNXSQaIa1nsQRWVp"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1811,6 +1795,22 @@
       "duration_ms": 253933,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/2b8QQqf8Vwb7bfz22ja8Fk"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "All Rise",
+        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "If You Come Back",
+      "url": "https://open.spotify.com/track/6nV2SYnWxCg0Cnmz1GSh2H"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Ocean Eyes (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Vanilla Twilight",
-      "url": "https://open.spotify.com/track/0vCTQcxSGAgjHaiAsIANKn"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Dance With My Father",
         "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 266000,
       "name": "Dance With My Father",
       "url": "https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Ocean Eyes (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Vanilla Twilight",
+      "url": "https://open.spotify.com/track/0vCTQcxSGAgjHaiAsIANKn"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Take It All Away (U.S. Version)",
-        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Cabrera",
-          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "True",
-      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "World of Our Own (Expanded Edition)",
         "url": "https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 259186,
       "name": "Queen of My Heart - Radio Edit",
       "url": "https://open.spotify.com/track/3LaOU1rxGZFPRC4I602Z3O"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Take It All Away (U.S. Version)",
+        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Cabrera",
+          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "True",
+      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
-      },
-      "artists": [
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Escapology",
         "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 261666,
       "name": "Sexed Up",
       "url": "https://open.spotify.com/track/6xwsfXjIXJgJjumbxdJiLi"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4j6ruq2Htor6TsgbqEUhl0"
+        "name": "Room Service (Extended Version)",
+        "url": "https://open.spotify.com/album/3xcq8XRHl2VacEqcYZNJ2H"
       },
       "artists": [
         {
-          "name": "S Club",
-          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/4Xm0G6DRlWUjCgpKh5OPyv"
+      "duration_ms": 244697,
+      "name": "Milk and Toast and Honey",
+      "url": "https://open.spotify.com/track/26WofNkvCADcYTfqA0yLnN"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Room Service (Extended Version)",
-        "url": "https://open.spotify.com/album/3xcq8XRHl2VacEqcYZNJ2H"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4j6ruq2Htor6TsgbqEUhl0"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "S Club",
+          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
         }
       ],
-      "duration_ms": 244697,
-      "name": "Milk and Toast and Honey",
-      "url": "https://open.spotify.com/track/26WofNkvCADcYTfqA0yLnN"
+      "duration_ms": 201533,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/4Xm0G6DRlWUjCgpKh5OPyv"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
-      },
-      "artists": [
-        {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Eternal Flame - Single Version",
-      "url": "https://open.spotify.com/track/3qzcM6SmbzBnGXSJe6hYdy"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 250413,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/05kBBWSmmq1YCkr6jvrCOS"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
+      },
+      "artists": [
+        {
+          "name": "Atomic Kitten",
+          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Eternal Flame - Single Version",
+      "url": "https://open.spotify.com/track/3qzcM6SmbzBnGXSJe6hYdy"
     },
     {
       "added_at": "2024-02-12 15:05:39",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 590830,
+  "num_followers": 591541,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1273,20 +1273,20 @@
       "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1321,36 +1321,20 @@
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 252186,
-      "name": "Heart Of Glass",
-      "url": "https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY"
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1367,6 +1351,22 @@
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 252186,
+      "name": "Heart Of Glass",
+      "url": "https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+        "name": "Main Course",
+        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
       },
       "artists": [
         {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Grease - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
+      "duration_ms": 222266,
+      "name": "Jive Talkin'",
+      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Main Course",
-        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
         }
       ],
-      "duration_ms": 222266,
-      "name": "Jive Talkin'",
-      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
+      "duration_ms": 205733,
+      "name": "Grease - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1623,22 +1623,6 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Singles 1974 - 76",
-        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1659,22 +1643,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
-      },
-      "artists": [
-        {
-          "name": "Gary Glitter",
-          "url": "https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "Rock 'n' Roll (Part 2)",
-      "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
       },
@@ -1687,6 +1655,54 @@
       "duration_ms": 256453,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Singles 1974 - 76",
+        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Get Down Tonight - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
+      },
+      "artists": [
+        {
+          "name": "Gary Glitter",
+          "url": "https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "Rock 'n' Roll (Part 2)",
+      "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
     },
     {
       "added_at": "2022-08-11 07:51:07",
@@ -1707,22 +1723,6 @@
       "duration_ms": 179573,
       "name": "We Go Together - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5CyZPkmTBmq61SunRDysna"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Get Down Tonight - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Dancing In The Moonlight",
-        "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
-      },
-      "artists": [
-        {
-          "name": "King Harvest",
-          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
-        }
-      ],
-      "duration_ms": 178045,
-      "name": "Dancing In The Moonlight",
-      "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Make It Happen",
         "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Dancing In The Moonlight",
+        "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
+      },
+      "artists": [
+        {
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+        }
+      ],
+      "duration_ms": 178045,
+      "name": "Dancing In The Moonlight",
+      "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2353,22 +2353,6 @@
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Go West In the Navy",
-        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 250880,
-      "name": "Go West - Original Version 1979",
-      "url": "https://open.spotify.com/track/0SdfUMRHhcjxrMv5d9V1UP"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "The Very Best of the Spinners",
@@ -2383,6 +2367,22 @@
       "duration_ms": 242666,
       "name": "Working My Way Back to You",
       "url": "https://open.spotify.com/track/7cLkQkC9Z7hnN767rfRl5G"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Go West In the Navy",
+        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "Go West - Original Version 1979",
+      "url": "https://open.spotify.com/track/0SdfUMRHhcjxrMv5d9V1UP"
     },
     {
       "added_at": "2021-03-22 14:18:04",

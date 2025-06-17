@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Kevin Abstract
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,624 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,608 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 124 | [Woman](https://open.spotify.com/track/3tlav4JW2DJkza7zskaLK2) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Woman](https://open.spotify.com/album/5XXtHaMgI6jW8y69OXGUbq) | 3:50 |
 | 125 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 
-Snapshot ID: `AAAAANRiz0NgeATTw3bcwp08xcSX/3MP`
+Snapshot ID: `aEw2DwAAAACeDD9kkmS+0WwY+Wv9d95r`

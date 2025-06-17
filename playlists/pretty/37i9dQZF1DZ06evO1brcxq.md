@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,021 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,202 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 37 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 |
 | 38 | [Boys](https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Boys](https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8) | 2:42 |
 | 39 | [Next Level Charli](https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 2:37 |
-| 40 | [i finally understand](https://open.spotify.com/track/2PBcNVg8jB1e5kVkjXJyZ5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:31 |
+| 40 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 |
 | 41 | [Break the Rules](https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF) | 3:23 |
 | 42 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 |
 | 43 | [Roll with Me](https://open.spotify.com/track/0D6VCA9ycrkk9kH9F0p0AB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 48 | [Sorry if I Hurt You](https://open.spotify.com/track/2qbgcxEMIZgyHAySxxHywc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:41 |
 | 49 | [Used to Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
 
-Snapshot ID: `aEy7gAAAAAAi/gCUb/LZS2i6syayPDlO`
+Snapshot ID: `aE4NAAAAAADugv37sNJUo+HjQQyehonm`

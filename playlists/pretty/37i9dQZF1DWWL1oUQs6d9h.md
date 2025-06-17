@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,461 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,473 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 32 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 33 | [how u been?](https://open.spotify.com/track/14MljYk21TMPj3cOQ8Rsz6) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [how u been?](https://open.spotify.com/album/3IFf3W3XEgx6uD0Ok6XknE) | 2:34 |
 | 34 | [Heaven](https://open.spotify.com/track/5NQpRUfFQh3jB0guBAkYWu) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:00 |
-| 35 | [Chocolate](https://open.spotify.com/track/0b4KbsFu42vGM2rRJSTg1x) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Chocolate](https://open.spotify.com/album/702JXttIx9HjCWwXLVblqa) | 3:04 |
-| 36 | [Losing You](https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:08 |
-| 37 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
+| 35 | [Losing You](https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:08 |
+| 36 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
+| 37 | [Chocolate](https://open.spotify.com/track/0b4KbsFu42vGM2rRJSTg1x) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Chocolate](https://open.spotify.com/album/702JXttIx9HjCWwXLVblqa) | 3:04 |
 | 38 | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG) | 3:39 |
 | 39 | [Younger And Hotter Than Me](https://open.spotify.com/track/0oJUk2PO3UVd9dZwPn0SRI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:09 |
-| 40 | [Do What You Do](https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Do What You Do](https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S) | 2:59 |
-| 41 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
-| 42 | [complicated/overrated](https://open.spotify.com/track/44UGWn9xCTjeHJ2LO52uNT) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [complicated/overrated](https://open.spotify.com/album/2dLXpSQ6Jm1Aexm3IrYwkJ) | 2:28 |
+| 40 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
+| 41 | [complicated/overrated](https://open.spotify.com/track/44UGWn9xCTjeHJ2LO52uNT) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [complicated/overrated](https://open.spotify.com/album/2dLXpSQ6Jm1Aexm3IrYwkJ) | 2:28 |
+| 42 | [Do What You Do](https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Do What You Do](https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S) | 2:59 |
 | 43 | [Vancouver](https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:36 |
 | 44 | [Pygma girl](https://open.spotify.com/track/5fR0q66vzg3bCvH2vhBFUe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:37 |
 | 45 | [W.House](https://open.spotify.com/track/1UDsA7aAZBK5vNCGnmX4CT) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS ROAD](https://open.spotify.com/album/0drBJNDdHv4qK7XfPtBqee) | 2:45 |

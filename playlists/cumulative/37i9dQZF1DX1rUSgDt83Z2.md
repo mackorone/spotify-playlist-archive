@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem 🇳🇱
 
-170 songs - 8 hr 49 min
+171 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 | 2024-09-05 | 2025-04-04 |
 | [Alsof ik jou ben](https://open.spotify.com/track/7kNaoL9H8xPtR0MaVCuZwD) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Alsof ik jou ben](https://open.spotify.com/album/1r9hyOpKtFTMD3PChabTk6) | 3:05 | 2024-10-10 | 2024-12-13 |
 | [Altijd Iets Nieuws](https://open.spotify.com/track/4XCBdhCFFkwhEryfsbKRGs) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Altijd Iets Nieuws](https://open.spotify.com/album/3XCevLnio6ETwdWnJnp9Su) | 3:10 | 2025-03-13 | 2025-03-28 |
-| [Altijd Weer Naar Huis](https://open.spotify.com/track/6qA80aXMxio3VeSdp93wyd) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Altijd Weer Naar Huis](https://open.spotify.com/album/58qB2y9tKCxrMVUQdnnoBZ) | 3:43 | 2025-03-20 |  |
+| [Altijd Weer Naar Huis](https://open.spotify.com/track/6qA80aXMxio3VeSdp93wyd) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Altijd Weer Naar Huis](https://open.spotify.com/album/58qB2y9tKCxrMVUQdnnoBZ) | 3:43 | 2025-03-20 | 2025-06-17 |
 | [Alweer Verliefd](https://open.spotify.com/track/4MeiWck3WGPwUtIoQWAh8b) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Alweer Verliefd](https://open.spotify.com/album/5TE1UZncCKnpW525bvg2bY) | 2:02 | 2024-11-15 | 2025-05-09 |
 | [Bang Alleen Te Blijven](https://open.spotify.com/track/0OCZpLuFQz3H3eowjX7ho4) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Bang Alleen Te Blijven](https://open.spotify.com/album/3pboEsYZAqlrkCgASC0JLY) | 3:25 | 2024-11-04 | 2025-04-04 |
 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 | 2025-03-01 |  |
@@ -156,6 +156,7 @@
 | [Utrecht](https://open.spotify.com/track/4NCIduhosiVATq2M38bhI2) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Utrecht](https://open.spotify.com/album/5XpjEbOmsoOOaHWZRjvd76) | 3:13 | 2025-05-08 | 2025-05-23 |
 | [Vandaag Is Nu](https://open.spotify.com/track/6sCXsp7SYDzrMz68DRgnkF) | [RENEE](https://open.spotify.com/artist/3zN2vtM9L8hRcG1W3cWSsr) | [Vandaag Is Nu](https://open.spotify.com/album/0nF5huhjNM8JmLfYU5FpmD) | 2:33 | 2025-01-08 | 2025-02-11 |
 | [Verbonden](https://open.spotify.com/track/6E8c8jeXEiGBosTfXuiq2H) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Verbonden](https://open.spotify.com/album/0WXUWk23Vy0tMhP7v0I3a9) | 3:00 | 2024-06-24 | 2024-08-30 |
+| [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 | 2025-06-16 |  |
 | [Vette Boeren](https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Vette Boeren](https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE) | 3:00 | 2025-02-27 |  |
 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 | 2024-06-24 |  |
 | [Vroeger Of Later](https://open.spotify.com/track/75y3NXrnUyx5ihHYQkz0PO) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI) | [Vroeger Of Later](https://open.spotify.com/album/2FG9W0IT03bXxpHaP1kuTx) | 3:15 | 2024-06-24 | 2024-07-23 |

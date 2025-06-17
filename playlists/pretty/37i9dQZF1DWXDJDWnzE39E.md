@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,932 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,005 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 67 | [Crucifère](https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8) | [Eths](https://open.spotify.com/artist/2IZkG4M2WcpLtfraGYJISf) | [Soma](https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69) | 3:35 |
 | 68 | [Blood Dynasty](https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ) | 3:51 |
 | 69 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 |
-| 70 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
-| 71 | [Taxicab Messiah](https://open.spotify.com/track/6rYkjMNtpybnXa1ZmNgg3c) | [Kidneythieves](https://open.spotify.com/artist/40Mez3T0kn5OLe0dN1xUJj) | [Trickstereprocess](https://open.spotify.com/album/04FtzH0LUUCyAhiG2kTMhf) | 4:20 |
+| 70 | [Taxicab Messiah](https://open.spotify.com/track/6rYkjMNtpybnXa1ZmNgg3c) | [Kidneythieves](https://open.spotify.com/artist/40Mez3T0kn5OLe0dN1xUJj) | [Trickstereprocess](https://open.spotify.com/album/04FtzH0LUUCyAhiG2kTMhf) | 4:20 |
+| 71 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
 | 72 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 | 73 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
 | 74 | [WORTHY](https://open.spotify.com/track/24RN4xJgLkwBd7L3oj2qiw) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [WORTHY](https://open.spotify.com/album/2923AbK68sIv0GtpseOWOp) | 3:42 |
 | 75 | [Breathe You In](https://open.spotify.com/track/680R0ratdk9o2M6nko18GG) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Breathe You In](https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc) | 3:40 |
-| 76 | [Awen](https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Awen](https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw) | 4:22 |
-| 77 | [Neon Lights](https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 3:10 |
-| 78 | [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 |
-| 79 | [One Foot In The Grave](https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [One Foot In The Grave](https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw) | 3:42 |
+| 76 | [Neon Lights](https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 3:10 |
+| 77 | [Awen](https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Awen](https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw) | 4:22 |
+| 78 | [One Foot In The Grave](https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [One Foot In The Grave](https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw) | 3:42 |
+| 79 | [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 |
 | 80 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
 | 81 | [Year of the Rat](https://open.spotify.com/track/3tSPzD7A31dohGDH2DAAhZ) | [Tristania](https://open.spotify.com/artist/2EOmvmVtYMTgn45w9mWUTV) | [Rubicon](https://open.spotify.com/album/6dlToGhcA5HASShTBq60Q8) | 4:35 |
 | 82 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 90 | [Scatterbrain](https://open.spotify.com/track/10d58mW3UzVjqU1CR6opaF) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Scatterbrain](https://open.spotify.com/album/3sfCEzZLGJqHyHSUbzyagV) | 2:48 |
 | 91 | [Cloaked](https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 3:54 |
 | 92 | [Killstar \(The Cold World\)](https://open.spotify.com/track/6YfN3vWabEAmOAbZgub44o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 4:41 |
-| 93 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
-| 94 | [Wicked Woman](https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF) | [Coven](https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y) | [Witchcraft Destroys Minds And Reaps Souls](https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF) | 2:57 |
+| 93 | [Wicked Woman](https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF) | [Coven](https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y) | [Witchcraft Destroys Minds And Reaps Souls](https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF) | 2:57 |
+| 94 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
 | 95 | [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 |
 | 96 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 |
 | 97 | [Mighty Island](https://open.spotify.com/track/4kb4LkXzpvmb8PgbqPRQC6) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [Mighty Island](https://open.spotify.com/album/0ySITSHIav16LX5l16jg3t) | 3:53 |

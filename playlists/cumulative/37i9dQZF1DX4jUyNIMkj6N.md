@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-357 songs - 21 hr 33 min
+358 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 | 2022-03-24 | 2025-02-20 |
 | [Elver](https://open.spotify.com/track/7JFl6iRLynsTPvxWtLswVl) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Elver](https://open.spotify.com/album/00meFMAVQIUMGv8eHp55uG) | 4:27 | 2024-01-11 | 2024-04-28 |
 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 | 2021-12-02 |  |
+| [Er du ensom har du meg](https://open.spotify.com/track/2lnRijAqNKDZvpSxoIMJEs) | [Valkyrien Allstars](https://open.spotify.com/artist/4E1kp6gNDweuoJ7UIrTbgU) | [venter på noen som venter på noen](https://open.spotify.com/album/4LLXR5tKNKOxlG9h0FQacF) | 3:44 | 2025-06-12 |  |
 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 | 2023-05-25 | 2025-04-09 |
 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 | 2023-04-27 |  |
 | [Faster](https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Woods](https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN) | 3:27 | 2025-03-06 |  |
@@ -236,7 +237,7 @@
 | [Peaceful Easy Feeling](https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Peaceful Easy Feeling](https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL) | 2:51 | 2024-09-05 | 2024-10-13 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-02 |  |
 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 | 2024-07-19 |
-| [Raining Over Fire](https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Raining Over Fire](https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB) | 2:58 | 2025-02-27 |  |
+| [Raining Over Fire](https://open.spotify.com/track/7Ivhfxnqx1n3eP5o5WManb) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Raining Over Fire](https://open.spotify.com/album/27r8xw72gazKL2zdTTYMmB) | 2:58 | 2025-02-27 | 2025-06-17 |
 | [Riding by my side](https://open.spotify.com/track/3EjWS9Jnn7SJSwkiQNlfOB) | [Blind Molly](https://open.spotify.com/artist/3XPVCbkmaBGNWEb4UANfov) | [Riding by my side](https://open.spotify.com/album/1Ul251Hlo9fFN3Or838rYt) | 3:04 | 2025-05-08 | 2025-06-08 |
 | [Right as Rain](https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK) | [Marianne Sveen](https://open.spotify.com/artist/5kXWa36lvxl2qHX4dGEMJD) | [Right as Rain](https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2) | 4:38 | 2021-12-02 | 2022-07-29 |
 | [River \- Live](https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Live 2020](https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks) | 4:18 | 2021-12-02 | 2022-07-29 |

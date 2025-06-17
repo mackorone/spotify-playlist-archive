@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036 likes - 185 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034 likes - 185 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 101 | [Night Poem](https://open.spotify.com/track/6dboAscJD5svgHNKIOHwXj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 2:47 |
 | 102 | [NEVERMIND](https://open.spotify.com/track/02IuhAGzHtZFc1lJozOC08) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [NEVERMIND](https://open.spotify.com/album/0xnuMxgI3tYVFaShnNHvgD) | 2:56 |
 | 103 | [More and More](https://open.spotify.com/track/15vDxY8ZqkCSOjLxSwPCrM) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:55 |
-| 104 | [Between You & Me](https://open.spotify.com/track/4wwrvn78l9BqCR00jhl043) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:15 |
-| 105 | [Bitter](https://open.spotify.com/track/6ZjCRZdl4KgePxwpkZ3Y8d) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W) | 2:57 |
+| 104 | [Bitter](https://open.spotify.com/track/6ZjCRZdl4KgePxwpkZ3Y8d) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W) | 2:57 |
+| 105 | [Between You & Me](https://open.spotify.com/track/4wwrvn78l9BqCR00jhl043) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:15 |
 | 106 | [Bad Little Thing](https://open.spotify.com/track/1i722InMCT8ltWSn1M5fYE) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Bad Little Thing](https://open.spotify.com/album/4BSIzDQVYki1Muj0QiwHJW) | 2:23 |
 | 107 | [Off The Wall](https://open.spotify.com/track/5Q5zfuCHsMhvN4eMvNLAjn) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 2:38 |
 | 108 | [Red Eye](https://open.spotify.com/track/37LR3mKW7HwA7qabja8uTO) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/7AGnFKaeMdOgRFazLNyBps) | 3:36 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 184 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 185 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 
-Snapshot ID: `Ab0PMgAAAAC+UZzmbhJ79zPGr6CwDw0v`
+Snapshot ID: `Ab0UlgAAAADDJFgont6mHk3QRvmnVdi3`

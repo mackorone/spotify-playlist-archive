@@ -4,7 +4,7 @@
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-799 songs - 1 day 19 hr 18 min
+800 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Buttons](https://open.spotify.com/track/3BxWKCI06eQ5Od8TY2JBeA) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:45 | 2024-07-16 | 2025-06-12 |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2022-08-26 | 2023-07-19 |
 | [Call Me On The Phone In The Other Room](https://open.spotify.com/track/5kpaZdSMMyE0zqiyGh7mE0) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Call Me On The Phone In The Other Room](https://open.spotify.com/album/3nfSoqimYKw9opTKRDza3H) | 2:50 | 2023-08-11 | 2024-06-13 |
+| [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-06-16 |  |
 | [Came Here for Love](https://open.spotify.com/track/3kGfazcbVvVkuZunzlLgTD) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love](https://open.spotify.com/album/22x1g0NEicPMxuEOXlGUw5) | 3:22 | 2024-06-13 | 2025-06-12 |
 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 | 2024-06-17 | 2025-06-12 |
 | [can we speak in the morning?](https://open.spotify.com/track/7MkIOxjKzCQunEKebCIA2J) | [BLVCK VIØLET](https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b) | [hold my hand, i'm too scared of falling](https://open.spotify.com/album/77C946veQgGJL8qDHVhlob) | 3:37 | 2024-06-17 | 2025-06-12 |

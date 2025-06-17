@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 
 > This is Kanye West\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,409,832 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,409,888 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 40 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 |
 | 41 | [Jesus Walks](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:13 |
 | 42 | [Why I Love You](https://open.spotify.com/track/4bDPr2VAjcfgUDmN9dGOC3) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:21 |
-| 43 | [Mixed Personalities \(feat\. Kanye West\)](https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [We All Shine](https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k) | 3:50 |
+| 43 | [All Mine](https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 2:25 |
 | 44 | [No More Parties In LA](https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:14 |
-| 45 | [All Mine](https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 2:25 |
+| 45 | [Mixed Personalities \(feat\. Kanye West\)](https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [We All Shine](https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k) | 3:50 |
 | 46 | [E.T.](https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:49 |
 | 47 | [Erase Me \- Main](https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:12 |
 | 48 | [Famous](https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:16 |
 | 49 | [Still Dreaming](https://open.spotify.com/track/72nLaDnt2dfxCA3ZAiEC2c) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Hip Hop Is Dead \(Expanded Edition\)](https://open.spotify.com/album/7sHrPadM39466NY7DW3s4r) | 3:37 |
-| 50 | [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:57 |
+| 50 | [Put On](https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Recession](https://open.spotify.com/album/06k3QI4XXhSrvAqTh8mAdE) | 5:21 |
 
-Snapshot ID: `aEy7gAAAAACAEDpgxK3xUESlBIATwodY`
+Snapshot ID: `aE4NAAAAAACxFNAJgwSraBr+UZXA7Pw1`

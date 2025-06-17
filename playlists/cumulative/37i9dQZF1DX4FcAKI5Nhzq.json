@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "bomb",
+        "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188641,
+      "name": "Billyeoon Goyangi (Do the Dance)",
+      "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
+    },
+    {
+      "album": {
         "name": "Bird",
         "url": "https://open.spotify.com/album/57l0cgANptjE4xJZzflLPR"
       },
@@ -6652,6 +6670,24 @@
       "duration_ms": 212869,
       "name": "Encore",
       "url": "https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw"
+    },
+    {
+      "album": {
+        "name": "Glow to Haze",
+        "url": "https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162026,
+      "name": "Episode",
+      "url": "https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9"
     },
     {
       "album": {
@@ -13466,7 +13502,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 233160,
       "name": "MAPLELATTE",
       "url": "https://open.spotify.com/track/5kESieK998xFJjigvYreWJ"
@@ -20828,7 +20864,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 149320,
       "name": "Tap Clap",
       "url": "https://open.spotify.com/track/5KJI44nLOKoPiReFPPKRIB"

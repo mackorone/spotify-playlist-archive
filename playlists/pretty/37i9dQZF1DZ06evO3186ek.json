@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 159313,
+  "num_followers": 159343,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAABavpkzrZSgfvYbS/Q4gYmd",
+  "snapshot_id": "aE4NAAAAAABHXBYTHBznfXlfM20SAVtM",
   "tracks": [
     {
       "added_at": null,
@@ -1043,6 +1043,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 421165,
+      "name": "My Life Is In Your Hands",
+      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -1091,30 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 421165,
-      "name": "My Life Is In Your Hands",
-      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -1155,30 +1155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 860000,
-      "name": "Communion (feat. Steffany Gretzinger & Brandon Lake)",
-      "url": "https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Hold It All Together",
         "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 510726,
       "name": "When I Lock Eyes (feat. Brandon Lake & Elyssa Smith)",
       "url": "https://open.spotify.com/track/4dzxXnney0FbzFq6Daucsu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 860000,
+      "name": "Communion (feat. Steffany Gretzinger & Brandon Lake)",
+      "url": "https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ"
     },
     {
       "added_at": null,

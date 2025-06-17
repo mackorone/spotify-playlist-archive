@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,439 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,447 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 23 | [Zako](https://open.spotify.com/track/0YJkcI9DUv4lkNJogoitOR) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [Zako](https://open.spotify.com/album/0emahiH8a7ZgiYRp97S29w) | 3:27 |
 | 24 | [TIRED](https://open.spotify.com/track/0ooVKVQpASF2no4zlRiZ3t) | [Aaanna Japanese Special](https://open.spotify.com/artist/3o4wFYVNIJAVKhZtjGcf27), [P.Necobayashi](https://open.spotify.com/artist/0ZMlbJl3j1ldqzXw0kbKBS) | [TIRED](https://open.spotify.com/album/1WmSL7NPQgqufd9bIl5xci) | 2:44 |
 | 25 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 |
-| 26 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
-| 27 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
+| 26 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
+| 27 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
 | 28 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 29 | [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 |
 | 30 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 44 | [アスノヨゾラ哨戒班](https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [未完成エイトビーツ](https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL) | 2:57 |
 | 45 | [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 |
 | 46 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [バルーン](https://open.spotify.com/artist/4RrSI9kIV8fMWQj1gDmc5K) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
-| 47 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 |
-| 48 | [ロウワー](https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ロウワー](https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup) | 3:50 |
+| 47 | [ロウワー](https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ロウワー](https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup) | 3:50 |
+| 48 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 |
 | 49 | [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 |
 | 50 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 |
 

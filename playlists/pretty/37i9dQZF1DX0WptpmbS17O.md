@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WptpmbS17O.md) - [plain]
 
 > I'd come back if you'd just call
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,814 likes - 89 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,851 likes - 89 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

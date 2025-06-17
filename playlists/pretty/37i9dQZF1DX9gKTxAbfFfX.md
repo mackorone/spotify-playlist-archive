@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,570 likes - 56 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,626 likes - 56 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 40 | [CELOSA](https://open.spotify.com/track/24oq20t1LgJiIoFDrbCiDF) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [David Marley](https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA) | [CELOSA](https://open.spotify.com/album/5BmICRIlCzMfgGI9BtUtMM) | 2:26 |
 | 41 | [KORAZONG](https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [KORAZONG](https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM) | 2:54 |
 | 42 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
-| 43 | [SIN AUTOTUNE](https://open.spotify.com/track/2xkAMFdKwbFFfY5jMEhi42) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 2:41 |
-| 44 | [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 |
+| 43 | [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 |
+| 44 | [SIN AUTOTUNE](https://open.spotify.com/track/2xkAMFdKwbFFfY5jMEhi42) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 2:41 |
 | 45 | [KLK](https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [KLK](https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23) | 3:19 |
 | 46 | [La Historia](https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [La Historia](https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF) | 3:57 |
 | 47 | [noche de san juan](https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [a nuevos lugares](https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4) | 2:41 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 49 | [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 |
 | 50 | [Latinamerica \(feat\. Vika\)](https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Jayie](https://open.spotify.com/artist/4yiUOYE4qfKINbGjeePqiG), [Vika](https://open.spotify.com/artist/4oJoVioxaLXaqrc9YTvKKu) | [Latinamerica \(feat\. Vika\)](https://open.spotify.com/album/2bHb66F60DMmKtFlmlkFJK) | 2:04 |
 | 51 | [POR EL EX NO SE LLORA](https://open.spotify.com/track/1ZNLgW8KFCK695C9C5sIq7) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:04 |
-| 52 | [Potra Salvaje \- Hard Remix](https://open.spotify.com/track/4gdpQ6zuDsePnD1YIDJCRw) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3), [Fernando Moreno](https://open.spotify.com/artist/4TQTQKrC6eNENv4xSH3Ax6) | [Potra Salvaje \(Hard Remix\)](https://open.spotify.com/album/7ztKmDnGDBWN0aFhuwXRfW) | 5:42 |
-| 53 | [MATRÍCULA](https://open.spotify.com/track/03y73Qqn1MQsquD0WgJsa9) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [MATRÍCULA](https://open.spotify.com/album/3CV7WJea64f27AT5FOQquY) | 2:31 |
+| 52 | [MATRÍCULA](https://open.spotify.com/track/03y73Qqn1MQsquD0WgJsa9) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [MATRÍCULA](https://open.spotify.com/album/3CV7WJea64f27AT5FOQquY) | 2:31 |
+| 53 | [Potra Salvaje \- Hard Remix](https://open.spotify.com/track/4gdpQ6zuDsePnD1YIDJCRw) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3), [Fernando Moreno](https://open.spotify.com/artist/4TQTQKrC6eNENv4xSH3Ax6) | [Potra Salvaje \(Hard Remix\)](https://open.spotify.com/album/7ztKmDnGDBWN0aFhuwXRfW) | 5:42 |
 | 54 | [Una boda en Las Vegas](https://open.spotify.com/track/58UqX83GYOHQFbDsmpayXc) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Una boda en Las Vegas](https://open.spotify.com/album/7GPoKpYUloKF1rXiwx60km) | 3:14 |
 | 55 | [POBRE DIABLA \- Spotify Singles](https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spotify Singles](https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T) | 2:08 |
 | 56 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 |

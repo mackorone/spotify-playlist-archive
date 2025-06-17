@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 5614,
+  "num_followers": 5617,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAA6DvDxSFompiqz1YRT32O+",
+  "snapshot_id": "aE4NAAAAAAARhPmjWt/HSCHz2ceuXHFO",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus do Amanh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2gt5VGdLBlCQ26LpV7on4F"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Pablo Gabriel",
-          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
-        }
-      ],
-      "duration_ms": 349984,
-      "name": "Deus do Amanh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0E06zzkbqnnnzPRtysj4yT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presen\u00e7a",
         "url": "https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 356176,
       "name": "Presen\u00e7a",
       "url": "https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus do Amanh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2gt5VGdLBlCQ26LpV7on4F"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Pablo Gabriel",
+          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
+        }
+      ],
+      "duration_ms": 349984,
+      "name": "Deus do Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0E06zzkbqnnnzPRtysj4yT"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eliseu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3IxfoVmsukfrHmPm6asX4V"
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 542010,
-      "name": "Eliseu - Ao Vivo",
-      "url": "https://open.spotify.com/track/7I1ZA8OJDPwyWmcvogY8Z5"
+      "duration_ms": 424985,
+      "name": "Cicatrizes - Ao Vivo",
+      "url": "https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eliseu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3IxfoVmsukfrHmPm6asX4V"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 542010,
+      "name": "Eliseu - Ao Vivo",
+      "url": "https://open.spotify.com/track/7I1ZA8OJDPwyWmcvogY8Z5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sempre Foi Deus",
         "url": "https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 284583,
       "name": "Sempre Foi Deus",
       "url": "https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus de Obras Completas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 424985,
-      "name": "Cicatrizes - Ao Vivo",
-      "url": "https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0"
     },
     {
       "added_at": null,

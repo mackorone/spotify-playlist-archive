@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,283 likes - 93 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,286 likes - 93 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

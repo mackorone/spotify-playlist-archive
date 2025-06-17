@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with Tobias Forge of <a href="https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D?si=c6cdd622f63042d2">Ghost</a>, who shares the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,741 likes - 36 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,759 likes - 36 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 35 | [Immortal Rites](https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo) | [Morbid Angel](https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw) | [Altars of Madness](https://open.spotify.com/album/2vWHACnDiSnFM52octEvY0) | 4:03 |
 | 36 | [RV](https://open.spotify.com/track/1ZSaFlJCo0ShPW5JFYDWKk) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 3:43 |
 
-Snapshot ID: `Z/6lEgAAAABaEnM4RVyFg3AcntUo6/vH`
+Snapshot ID: `Z/6lEgAAAAAm/gCSRbZNXIMqmqjxIC1X`

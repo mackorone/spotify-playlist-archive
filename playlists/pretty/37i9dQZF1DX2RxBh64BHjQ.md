@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4uqHgaeBynLBQgfhMEIm1G">PLUTO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,804,656 likes - 101 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,804,486 likes - 101 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

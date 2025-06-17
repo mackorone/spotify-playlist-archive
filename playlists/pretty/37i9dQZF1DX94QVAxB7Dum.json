@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 788437,
+  "num_followers": 788506,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Soul, Vol. 1",
+        "url": "https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bristol",
+          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Hang On In There Baby",
+      "url": "https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 203373,
       "name": "War",
       "url": "https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Soul, Vol. 1",
-        "url": "https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bristol",
-          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Hang On In There Baby",
-      "url": "https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY"
     },
     {
       "added_at": "2024-07-02 22:47:47",

@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1875945,
+  "num_followers": 1876190,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAAAQEVlvHJwNav8pXjCNtR7G",
+  "snapshot_id": "aE4NAAAAAADEOyvq9pXazIOeGrrK52rG",
   "tracks": [
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Poetic Justice",
-      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 287360,
       "name": "Wesley's Theory",
       "url": "https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 266080,
       "name": "Doves In The Wind (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "meet the grahams",
-        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 392138,
-      "name": "meet the grahams",
-      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
     },
     {
       "added_at": null,

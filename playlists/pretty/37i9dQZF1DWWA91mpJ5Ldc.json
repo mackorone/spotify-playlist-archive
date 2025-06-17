@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 133858,
+  "num_followers": 133872,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2025-06-13 07:51:56",
       "album": {
+        "name": "Antes Que a Terra Acabe",
+        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 252793,
+      "name": "I\u00f4i\u00f4",
+      "url": "https://open.spotify.com/track/6robaBYVAygXynNhcjP74Q"
+    },
+    {
+      "added_at": "2025-06-13 07:51:56",
+      "album": {
         "name": "Te Amo L\u00e1 Fora",
         "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 197610,
       "name": "Menina",
       "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
-    },
-    {
-      "added_at": "2025-06-13 07:51:56",
-      "album": {
-        "name": "Antes Que a Terra Acabe",
-        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 252793,
-      "name": "I\u00f4i\u00f4",
-      "url": "https://open.spotify.com/track/6robaBYVAygXynNhcjP74Q"
     },
     {
       "added_at": "2025-06-13 07:51:56",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-06-13 07:51:56",
       "album": {
-        "name": "Viver (Mais leve que o ar)",
-        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
-    },
-    {
-      "added_at": "2025-06-13 07:51:56",
-      "album": {
         "name": "Condom Black",
         "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 342160,
       "name": "Dias de Janeiro",
       "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+    },
+    {
+      "added_at": "2025-06-13 07:51:56",
+      "album": {
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
     },
     {
       "added_at": "2025-06-13 07:51:56",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-06-13 07:51:56",
       "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
+    },
+    {
+      "added_at": "2025-06-13 07:51:56",
+      "album": {
         "name": "Andar Sozinho (feat. J\u00e3o)",
         "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 180213,
       "name": "Andar Sozinho (feat. J\u00e3o)",
       "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
-    },
-    {
-      "added_at": "2025-06-13 07:51:56",
-      "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 234712,
-      "name": "Posso Dizer",
-      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
     },
     {
       "added_at": "2025-06-13 07:51:56",

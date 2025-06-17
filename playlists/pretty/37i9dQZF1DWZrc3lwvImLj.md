@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,478 likes - 190 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,466 likes - 190 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 189 | [one way](https://open.spotify.com/track/4W2432JBzc5yujNBQOinng) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [one way](https://open.spotify.com/album/1e4qJMNCZwSH001bUM0kuz) | 2:44 |
 | 190 | [Quiet Hours](https://open.spotify.com/track/7x5xqxL4y72ThLMiRzDOVt) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Quiet Hours](https://open.spotify.com/album/5kLeCvaSvowAn1pcfzQu4i) | 2:37 |
 
-Snapshot ID: `aEgwUgAAAABv9+umoFu/Rt0XkyiET/MS`
+Snapshot ID: `aEgwUgAAAAAgvwN+MvZ5fiKZitEnQRKz`

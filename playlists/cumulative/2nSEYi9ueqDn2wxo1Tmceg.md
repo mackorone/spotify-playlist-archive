@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t?si=zEuIA1S6SgW8IOr8GD0HFA">George FitzGerald</a>
 
-1,382 songs - 3 day 22 hr 18 min
+1,383 songs - 3 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,6 +922,7 @@
 | [Parody](https://open.spotify.com/track/4oWHRC1mCSSJhNv3YoUlBc) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:06 | 2023-03-22 | 2023-05-04 |
 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 | 2022-08-31 | 2022-10-13 |
 | [Passed Tense \- DJ Shadow Future Passed Remix](https://open.spotify.com/track/4qvhaiO7G73mxH4YEjniE1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense \(DJ Shadow Future Passed Remix\)](https://open.spotify.com/album/5agwUqU194EtMa7KUVRbM3) | 4:09 | 2023-11-15 | 2024-01-18 |
+| [Peace](https://open.spotify.com/track/0HJuwBpU9bpH3Zt5r1PtNS) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Peace](https://open.spotify.com/album/06nx9W0SidRp29RNFPwMQX) | 4:25 | 2025-06-16 |  |
 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 | 2024-11-21 | 2025-02-20 |
 | [Peace Song \(A riot in Sydenham bus depot\) \- TowerBlock1 mix](https://open.spotify.com/track/79VwGA2fOTrp4l03aBSnyM) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe), [TowerBlock1](https://open.spotify.com/artist/1nxafRZsijA5d6RJgToC2x) | [Peace Song \(A riot in Sydenham bus depot\) \[TowerBlock1 mix\]](https://open.spotify.com/album/3vb7WihPCJ67iPfMbCabzZ) | 4:53 | 2025-04-07 | 2025-05-22 |
 | [Peach Fuzz](https://open.spotify.com/track/3vwt67u7F205Ajl7kDdLJc) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [i've seen a way](https://open.spotify.com/album/4oMlaPrzjAHEHh26MkR6DB) | 4:44 | 2023-05-24 | 2023-07-06 |

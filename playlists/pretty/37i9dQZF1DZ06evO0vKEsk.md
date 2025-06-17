@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,132 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,133 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 16 | [Identidade](https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb) | 4:27 |
 | 17 | [Que Bom Você Chegou](https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:26 |
 | 18 | [Acima da Média](https://open.spotify.com/track/6cMyK8RdagUw3kiKzE0olj) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:45 |
-| 19 | [O Teu Poder \(Creio Em Ti\) \| Famous For \(I Believe\) \- Ao Vivo](https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Teu Poder \(Creio Em Ti\) \| Famous For \(I Believe\) \[Ao Vivo\]](https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo) | 5:07 |
-| 20 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 |
+| 19 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 |
+| 20 | [O Teu Poder \(Creio Em Ti\) \| Famous For \(I Believe\) \- Ao Vivo](https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Teu Poder \(Creio Em Ti\) \| Famous For \(I Believe\) \[Ao Vivo\]](https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo) | 5:07 |
 | 21 | [Como Águia](https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:34 |
 | 22 | [Aceito o Teu Chamado](https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:25 |
 | 23 | [Pai Eu Confiarei](https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 5:31 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 33 | [Uma Mulher, Um Milagre](https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:04 |
 | 34 | [Deus Está Cuidando de Você](https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Cuidando de Você](https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz) | 4:28 |
 | 35 | [Digno é o Cordeiro](https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Alegria Real](https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp) | 5:58 |
-| 36 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 |
-| 37 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
+| 36 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
+| 37 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 |
 | 38 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 |
 | 39 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 |
 | 40 | [Jamais Deixarei Você](https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 49 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
 | 50 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 |
 
-Snapshot ID: `aEy7gAAAAADXPVa+Qzld60LnTLEYacJq`
+Snapshot ID: `aE4NAAAAAAAeubvYiJjwtZOe49klInR/`

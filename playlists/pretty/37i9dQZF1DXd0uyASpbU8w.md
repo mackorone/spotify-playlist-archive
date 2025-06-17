@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from K.O, MaWhoo, Gunna, Kehlani and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,112 likes - 118 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,160 likes - 118 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

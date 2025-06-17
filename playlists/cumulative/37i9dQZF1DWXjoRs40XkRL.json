@@ -3315,6 +3315,32 @@
     },
     {
       "album": {
+        "name": "Kaun Gali Gayo Shyam",
+        "url": "https://open.spotify.com/album/58sJCKDuTUMj3hVt3qYggt"
+      },
+      "artists": [
+        {
+          "name": "The Bombay Chill",
+          "url": "https://open.spotify.com/artist/05r5zMnYeosNIESUzhbHhd"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        },
+        {
+          "name": "Pooja Tiwari",
+          "url": "https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387500,
+      "name": "Kaun Gali Gayo Shyam",
+      "url": "https://open.spotify.com/track/13m2TP9UR1Ut7ngzTnFi62"
+    },
+    {
+      "album": {
         "name": "Kaun Gali Gayo Shyam - Heartlock Mix",
         "url": "https://open.spotify.com/album/6aPJwYlt99ww7UG6HyTHCQ"
       },
@@ -6298,7 +6324,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 2112156,
       "name": "Raga Shuddh Kalyan",
       "url": "https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT"

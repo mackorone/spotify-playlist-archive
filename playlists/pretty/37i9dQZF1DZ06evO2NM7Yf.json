@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 392,
+  "num_followers": 394,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEy7gAAAAACtU2y8XhvTolEm3qNDipQx",
+  "snapshot_id": "aE4NAAAAAABJArqkUfC4UgDDuVYSf1fX",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "...but i'd miss you too much!",
+        "url": "https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 178301,
+      "name": "...but i'd miss you too much!",
+      "url": "https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 164213,
       "name": "Sideways (feat. Meg Smith)",
       "url": "https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...but i'd miss you too much!",
-        "url": "https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "...but i'd miss you too much!",
-      "url": "https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI"
     },
     {
       "added_at": null,
@@ -319,26 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop Drama",
-        "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
+        "name": "Who Not to Love",
+        "url": "https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v"
       },
       "artists": [
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        },
-        {
-          "name": "Oliver Price",
-          "url": "https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg"
-        },
-        {
-          "name": "Thomas Greenwood",
-          "url": "https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr"
         }
       ],
-      "duration_ms": 220647,
-      "name": "HRDCR",
-      "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
+      "duration_ms": 183793,
+      "name": "Who Not to Love",
+      "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
     },
     {
       "added_at": null,
@@ -359,18 +351,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Not to Love",
-        "url": "https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v"
+        "name": "Pop Drama",
+        "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
       },
       "artists": [
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        },
+        {
+          "name": "Oliver Price",
+          "url": "https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg"
+        },
+        {
+          "name": "Thomas Greenwood",
+          "url": "https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr"
         }
       ],
-      "duration_ms": 183793,
-      "name": "Who Not to Love",
-      "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
+      "duration_ms": 220647,
+      "name": "HRDCR",
+      "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
     },
     {
       "added_at": null,

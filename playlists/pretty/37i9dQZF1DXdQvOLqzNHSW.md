@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,606 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,758 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 20 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
 | 21 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
 | 22 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
-| 23 | [go steady](https://open.spotify.com/track/29kTSgO3YHSArvtVZwiX2r) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [go steady](https://open.spotify.com/album/3zKPxCnOoNvoDKAElJAvI3) | 3:57 |
+| 23 | [Yesterday](https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Yesterday](https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1) | 3:24 |
 | 24 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 |
-| 25 | [Yesterday](https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Yesterday](https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1) | 3:24 |
+| 25 | [go steady](https://open.spotify.com/track/29kTSgO3YHSArvtVZwiX2r) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [go steady](https://open.spotify.com/album/3zKPxCnOoNvoDKAElJAvI3) | 3:57 |
 | 26 | [Ada Jean](https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:19 |
 | 27 | [Ghost of Fatalia](https://open.spotify.com/track/551kejKz9qZRgGyCDa7ujF) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Last a While](https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK) | 2:46 |
 | 28 | [Rouge](https://open.spotify.com/track/1EtuMOssvtZhPEWPB3VWzw) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 2:50 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 51 | [Take Ur Time](https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [One More Rush](https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV) | 4:00 |
 | 52 | [Flow](https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Flow](https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH) | 3:08 |
 | 53 | [Broom](https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 2:15 |
-| 54 | [Bubba](https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:12 |
-| 55 | [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 |
+| 54 | [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 |
+| 55 | [Bubba](https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:12 |
 | 56 | [Your Touch](https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS), [Treasure Bloom](https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft) | [Your Touch](https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47) | 3:26 |
 | 57 | [Amnesia](https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Craterellus Tubaeformis](https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ) | 3:40 |
-| 58 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
-| 59 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
+| 58 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
+| 59 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
 | 60 | [Little Queenie \(2023 Remastered Version\)](https://open.spotify.com/track/3bW3FVztCl5BoY8QooHHzj) | [SadGirl](https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2) | [Deluxe Edition](https://open.spotify.com/album/63UY8mR272oIL75BF6fI2M) | 2:50 |
 | 61 | [Hate the Sun](https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:34 |
 | 62 | [Camille](https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:16 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 84 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 |
 | 85 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
 | 86 | [whatalife](https://open.spotify.com/track/6aqg1uQVJvR1WxHXSQpuGS) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:53 |
-| 87 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
-| 88 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
+| 87 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
+| 88 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
 | 89 | [Biking](https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Biking](https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad) | 2:50 |
 | 90 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
 | 91 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 |

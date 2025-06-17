@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
+    },
+    {
+      "album": {
         "name": "gone too long",
         "url": "https://open.spotify.com/album/4ONi7DThlpcPq7O3Dhf7Na"
       },
@@ -2634,7 +2652,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-17",
       "duration_ms": 174473,
       "name": "Namumula",
       "url": "https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ"

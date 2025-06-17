@@ -1495,26 +1495,6 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
-        "name": "Il giorno in cui ho smesso di pensare",
-        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "5 Gocce (feat. Rkomi)",
-      "url": "https://open.spotify.com/track/3z0GeNGWyVduziP1cQ0mFN"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 195657,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
+        "name": "Il giorno in cui ho smesso di pensare",
+        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "5 Gocce (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/3z0GeNGWyVduziP1cQ0mFN"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "La tua canzone",
+      "url": "https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
         "name": "1969 - Achille Idol Rebirth",
         "url": "https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 215714,
       "name": "Sinceramente",
       "url": "https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "La tua canzone",
-      "url": "https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO"
     },
     {
       "added_at": "2025-05-28 13:31:03",

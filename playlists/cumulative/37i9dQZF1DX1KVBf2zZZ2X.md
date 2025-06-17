@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-244 songs - 11 hr 25 min
+245 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 | 2023-10-20 |  |
 | [Above all](https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L) | [Henrietta Patrick](https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0) | [Above all](https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP) | 2:24 | 2023-03-03 | 2025-06-12 |
 | [Above The Sea](https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY) | [Hans Westerström](https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe) | [Above The Sea](https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh) | 2:14 | 2023-04-13 | 2024-08-24 |
-| [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 | 2023-03-03 |  |
+| [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 | 2023-03-03 | 2025-06-17 |
 | [Alheimur Nature](https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Alheimur Nature](https://open.spotify.com/album/326NrHb78w1mFiCxolY3bK) | 2:48 | 2024-02-06 | 2024-10-20 |
 | [Amicitia](https://open.spotify.com/track/4tARuHIlzeVp0XCdz2QlRj) | [Novataire](https://open.spotify.com/artist/55xdv1NaYNZdMBLT7yRTEC) | [Amicitia](https://open.spotify.com/album/2ZoWABKbu1bnwjcL1YIeSi) | 1:58 | 2023-04-13 | 2023-10-07 |
 | [Ancient Canopy \(Forest\)](https://open.spotify.com/track/0UO8UzZOloodYVBliWxzA1) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Ancient Canopy \(Forest\)](https://open.spotify.com/album/7u6Zi2FR0K3xYJ1efkel9h) | 2:34 | 2024-03-20 | 2025-06-16 |
@@ -92,6 +92,7 @@
 | [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 | 2023-10-26 |  |
 | [Forest Embrace](https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Forest Embrace](https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3) | 2:32 | 2025-05-16 |  |
 | [Forest Flow](https://open.spotify.com/track/1K7ZRpYQ6z4k3EVagWKQAg) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Forest Flow](https://open.spotify.com/album/1Q2BB7Sp2Fmlx7Vb0uWOfu) | 2:49 | 2025-06-11 |  |
+| [Forest Harmonies](https://open.spotify.com/track/5EGbkycj0Lblt69clO8vTM) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Forest Harmonies](https://open.spotify.com/album/6obYCVTwZFsqvyxtNUqSy0) | 3:10 | 2025-06-11 |  |
 | [Forest Meditation](https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Forest Meditation](https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0) | 2:57 | 2024-03-05 | 2025-06-12 |
 | [Forest Of The Mind](https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Forest Of The Mind](https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy) | 3:54 | 2025-01-15 |  |
 | [Forest Pond](https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Pond](https://open.spotify.com/album/1cZL0pIvI6Pbzg6cmbwCf6) | 2:56 | 2024-07-18 |  |

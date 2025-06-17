@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,389 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,408 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 69 | [Boys Don't Lie](https://open.spotify.com/track/3r4zJhOS92RECuCXKyCcO2) | [Shoes](https://open.spotify.com/artist/1SyCQtKtDtMfJBBKGm0A8B) | [Black Vinyl Shoes](https://open.spotify.com/album/0wOTP7wVEQqYwIVaPWqQNo) | 1:57 |
 | 70 | [Erica's Word](https://open.spotify.com/track/3zPnLX5UZgXX6eaAtSROHt) | [Game Theory](https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o) | [The Big Shot Chronicles](https://open.spotify.com/album/2XauMPQuWJF0QAMBYU1kzV) | 3:54 |
 
-Snapshot ID: `Zow6hwAAAABekc5zD/kZ7v46r19sOFCI`
+Snapshot ID: `Zow6hwAAAACCTc3vQ8dwsRNtAMitwB1H`

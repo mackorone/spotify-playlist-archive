@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Esau Ortiz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,060 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,078 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 66 | [Lunetas](https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Lunetas](https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93) | 2:56 |
 | 67 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
 | 68 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
-| 69 | [La Caravana](https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow) | [Bandi2](https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Caravana](https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk) | 2:23 |
+| 69 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 70 | [CINDERELLA](https://open.spotify.com/track/1dXrN1k5P85gXjcixMa44j) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [CINDERELLA](https://open.spotify.com/album/3UCNmAyO3Kwl5kI0ccmZVK) | 3:36 |
-| 71 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
+| 71 | [La Caravana](https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow) | [Bandi2](https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Caravana](https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk) | 2:23 |
 | 72 | [GPI](https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [GPI](https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9) | 2:34 |
 | 73 | [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 |
 | 74 | [GOMIN0LA](https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [GOMIN0LA](https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq) | 2:49 |
-| 75 | [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 |
-| 76 | [Capitan O Chachito](https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Capitan O Chachito](https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw) | 3:44 |
+| 75 | [Capitan O Chachito](https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Capitan O Chachito](https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw) | 3:44 |
+| 76 | [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 |
 | 77 | [El Jefe Lexus \(Grupo Rangers\)](https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [El Jefe Lexus \(Grupo Rangers\)](https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO) | 2:30 |
 | 78 | [Rosita Fresita](https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Rosita Fresita](https://open.spotify.com/album/0G40KBVT8jMVFKIfVfe6Hn) | 2:05 |
 | 79 | [Un Tabaco \- En Vivo](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |

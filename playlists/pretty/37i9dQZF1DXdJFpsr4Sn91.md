@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa ABREU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,308 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,309 likes - 81 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 72 | [Truth](https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Truth](https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37) | 3:27 |
 | 73 | [Heat](https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Heat](https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik) | 2:51 |
 | 74 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
-| 75 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 |
-| 76 | [Jani](https://open.spotify.com/track/2BCGcEqzfagl3Xi3Cqmciq) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59) | [Jani](https://open.spotify.com/album/0aNf6dLncdtGmtoqDUqG12) | 2:51 |
-| 77 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
-| 78 | [Heartbreak](https://open.spotify.com/track/2jJgJDiE7caOx0bO7IText) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Heartbreak](https://open.spotify.com/album/2c6FoTPcETcG5BW4nsNltR) | 3:06 |
-| 79 | [Roskat](https://open.spotify.com/track/6dRzO2keKtD8DSCBU8tZtl) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Roskat](https://open.spotify.com/album/55Esr23od1oFtjtGgu9mgB) | 3:05 |
-| 80 | [Ennen ku lähet nii jää](https://open.spotify.com/track/7dJtCTATsbrqCVfGwjmlcw) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Ennen ku lähet nii jää](https://open.spotify.com/album/6ZlePWQrDNm43tNnTROWyy) | 2:40 |
+| 75 | [AAAA](https://open.spotify.com/track/3eqUnzUEyAtznlqapc4fSg) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [AAAA](https://open.spotify.com/album/6J1QFQP2WOGF5AdvPV3ZJC) | 3:41 |
+| 76 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 |
+| 77 | [Jani](https://open.spotify.com/track/2BCGcEqzfagl3Xi3Cqmciq) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59) | [Jani](https://open.spotify.com/album/0aNf6dLncdtGmtoqDUqG12) | 2:51 |
+| 78 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
+| 79 | [Heartbreak](https://open.spotify.com/track/2jJgJDiE7caOx0bO7IText) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Heartbreak](https://open.spotify.com/album/2c6FoTPcETcG5BW4nsNltR) | 3:06 |
+| 80 | [Roskat](https://open.spotify.com/track/6dRzO2keKtD8DSCBU8tZtl) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Roskat](https://open.spotify.com/album/55Esr23od1oFtjtGgu9mgB) | 3:05 |
+| 81 | [Ennen ku lähet nii jää](https://open.spotify.com/track/7dJtCTATsbrqCVfGwjmlcw) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Ennen ku lähet nii jää](https://open.spotify.com/album/6ZlePWQrDNm43tNnTROWyy) | 2:40 |
 
-Snapshot ID: `aE8a9AAAAADQxhVFBqaIBhLvOfUKhoKC`
+Snapshot ID: `aFBuUQAAAAB6Ssf9IIHf0cqCi6vJY1HC`

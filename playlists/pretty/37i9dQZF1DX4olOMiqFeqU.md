@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,455,597 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,455,918 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 43 | [Kung Wala Ka](https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Kung Wala Ka](https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx) | 4:02 |
 | 44 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 |
 | 45 | [Bagyo](https://open.spotify.com/track/0I2ugiLWhuMPSxpmEeRpZA) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 3:47 |
-| 46 | [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 |
-| 47 | [Unang Sayaw](https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Unang Sayaw](https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk) | 4:38 |
+| 46 | [Unang Sayaw](https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Unang Sayaw](https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk) | 4:38 |
+| 47 | [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 |
 | 48 | [ERE](https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [ERE](https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD) | 4:44 |
 | 49 | [Titig](https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci) | [MC Einstein](https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Titig](https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W) | 4:19 |
 | 50 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |
