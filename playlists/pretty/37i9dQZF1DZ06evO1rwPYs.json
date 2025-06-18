@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 105779,
+  "num_followers": 105783,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAACmgmDLhCOCryV6mTc0Foai",
+  "snapshot_id": "aE9egAAAAADXBrsh0BChflUy0lK0G8Ot",
   "tracks": [
     {
       "added_at": null,
@@ -823,22 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos De Celia Cruz",
-        "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
+        "name": "Viva la Reina de la Salsa",
+        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Guede Zaina",
-      "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
+      "duration_ms": 224293,
+      "name": "Cao Cao Man\u00ed Picao",
+      "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
     },
     {
       "added_at": null,
@@ -863,22 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva la Reina de la Salsa",
-        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
+        "name": "Grandes \u00c9xitos De Celia Cruz",
+        "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         },
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 224293,
-      "name": "Cao Cao Man\u00ed Picao",
-      "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
+      "duration_ms": 189600,
+      "name": "Guede Zaina",
+      "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata Guajira",
-        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 152379,
-      "name": "Esperar\u00e9",
-      "url": "https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 156866,
       "name": "No Encuentro Palabras",
       "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata Guajira",
+        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 152379,
+      "name": "Esperar\u00e9",
+      "url": "https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf"
     },
     {
       "added_at": null,

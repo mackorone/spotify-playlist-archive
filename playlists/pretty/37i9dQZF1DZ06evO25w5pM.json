@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19011,
+  "num_followers": 19018,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABC0KUlcpSeNnEh9Z61HTAz",
+  "snapshot_id": "aE9egAAAAACicm8KOa9Ic1BoeG6FBPAJ",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Healing",
-        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 342346,
-      "name": "Song of a Dream",
-      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 386840,
       "name": "Surfing the Clouds",
       "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Healing",
+        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 342346,
+      "name": "Song of a Dream",
+      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiritual Healing",
-        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 493139,
-      "name": "Wind in Bamboo",
-      "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garden of the Gods",
         "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 493139,
+      "name": "Wind in Bamboo",
+      "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 383133,
       "name": "Deux",
       "url": "https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 610733,
-      "name": "Loving Touch",
-      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 610733,
+      "name": "Loving Touch",
+      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 416800,
       "name": "Cinque",
       "url": "https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 650560,
-      "name": "Waves of Light",
-      "url": "https://open.spotify.com/track/4DKQvhGkiY5UpG7aXF4IHb"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 410266,
       "name": "Stern an Stern",
       "url": "https://open.spotify.com/track/3PlSjESvsU50fg4cajMBmg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 650560,
+      "name": "Waves of Light",
+      "url": "https://open.spotify.com/track/4DKQvhGkiY5UpG7aXF4IHb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 315710,
+  "num_followers": 315759,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "It's Supposed To Hurt",
-        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 212086,
-      "name": "It's Supposed To Hurt",
-      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "An Investigation Into Perceived Heaviness",
-        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
-      },
-      "artists": [
-        {
-          "name": "LIONFIGHT",
-          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Welcome To Hell (feat. Emmure)",
         "url": "https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 161860,
       "name": "Welcome To Hell (feat. Emmure)",
       "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "An Investigation Into Perceived Heaviness",
+        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
+      },
+      "artists": [
+        {
+          "name": "LIONFIGHT",
+          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Curse",
-        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 254722,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 220575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Over The Threshold",
         "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
@@ -979,6 +995,22 @@
       "duration_ms": 193066,
       "name": "Camel Dancefloor",
       "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Hide in Shade",
+        "url": "https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Hide in Shade",
+      "url": "https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1015,34 +1047,34 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Seeing Red",
-        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+        "name": "Oportunista",
+        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
         }
       ],
-      "duration_ms": 220575,
-      "name": "Seeing Red",
-      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+      "duration_ms": 188235,
+      "name": "Oportunista",
+      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
     },
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Hide in Shade",
-        "url": "https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY"
+        "name": "BLOODSUCKERS",
+        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
       "artists": [
         {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Hide in Shade",
-      "url": "https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3"
+      "duration_ms": 202693,
+      "name": "Bloodsuckers",
+      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1067,38 +1099,6 @@
       "duration_ms": 202105,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "BLOODSUCKERS",
-        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Bloodsuckers",
-      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Oportunista",
-        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Oportunista",
-      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Synopsis",
-        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
-      },
-      "artists": [
-        {
-          "name": "Mountain Eye",
-          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
-        }
-      ],
-      "duration_ms": 202804,
-      "name": "Synopsis",
-      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Demon Supreme",
         "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 211759,
       "name": "Demon Supreme",
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Synopsis",
+        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
+      },
+      "artists": [
+        {
+          "name": "Mountain Eye",
+          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
+        }
+      ],
+      "duration_ms": 202804,
+      "name": "Synopsis",
+      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Blood Year",
-        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
-      },
-      "artists": [
-        {
-          "name": "Russian Circles",
-          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
-        }
-      ],
-      "duration_ms": 393026,
-      "name": "Arluck",
-      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Fight Alone",
         "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 532351,
       "name": "Dr\u00fdsill",
       "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Blood Year",
+        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
+      },
+      "artists": [
+        {
+          "name": "Russian Circles",
+          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+        }
+      ],
+      "duration_ms": 393026,
+      "name": "Arluck",
+      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Spiritual Architecture",
-        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
-      },
-      "artists": [
-        {
-          "name": "Ashbringer",
-          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
-        }
-      ],
-      "duration_ms": 562515,
-      "name": "Spiritual Architecture",
-      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Embers\u00f3lyom (Kal\u00e1ka)",
         "url": "https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 257199,
       "name": "Embers\u00f3lyom - Kal\u00e1ka",
       "url": "https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Spiritual Architecture",
+        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
+      },
+      "artists": [
+        {
+          "name": "Ashbringer",
+          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
+        }
+      ],
+      "duration_ms": 562515,
+      "name": "Spiritual Architecture",
+      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
     },
     {
       "added_at": "2024-07-19 10:51:43",

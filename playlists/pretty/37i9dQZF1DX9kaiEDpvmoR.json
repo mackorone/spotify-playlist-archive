@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93407,
+  "num_followers": 93410,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-06-12 22:00:37",
       "album": {
+        "name": "N\u00f6d och lust",
+        "url": "https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "N\u00f6d och lust",
+      "url": "https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d"
+    },
+    {
+      "added_at": "2025-06-12 22:00:37",
+      "album": {
         "name": "L\u00e5ngholmsgatan 2",
         "url": "https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 200053,
       "name": "Lilla livet",
       "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
-    },
-    {
-      "added_at": "2025-06-12 22:00:37",
-      "album": {
-        "name": "N\u00f6d och lust",
-        "url": "https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "N\u00f6d och lust",
-      "url": "https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d"
     },
     {
       "added_at": "2025-06-12 22:00:37",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-06-12 22:00:37",
       "album": {
-        "name": "Fyllda Av Sommar",
-        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 204287,
-      "name": "Fyllda Av Sommar",
-      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
-    },
-    {
-      "added_at": "2025-06-12 22:00:37",
-      "album": {
         "name": "F\u00f6rloraren",
         "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 185333,
       "name": "F\u00f6rloraren",
       "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+    },
+    {
+      "added_at": "2025-06-12 22:00:37",
+      "album": {
+        "name": "Fyllda Av Sommar",
+        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 204287,
+      "name": "Fyllda Av Sommar",
+      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-06-12 22:00:37",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-06-12 22:00:37",
       "album": {
+        "name": "Allting som vi har",
+        "url": "https://open.spotify.com/album/0c3sJv3umy4jAtHNOb9azY"
+      },
+      "artists": [
+        {
+          "name": "Sonja Ald\u00e9n",
+          "url": "https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "Allting som vi har",
+      "url": "https://open.spotify.com/track/4QHM0KVcosRyE3biAv6cnj"
+    },
+    {
+      "added_at": "2025-06-12 22:00:37",
+      "album": {
         "name": "Dear Mr. President",
         "url": "https://open.spotify.com/album/7aeMGFb5gjcRucCgWo0Edz"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2025-06-12 22:00:37",
       "album": {
-        "name": "Allting som vi har",
-        "url": "https://open.spotify.com/album/0c3sJv3umy4jAtHNOb9azY"
-      },
-      "artists": [
-        {
-          "name": "Sonja Ald\u00e9n",
-          "url": "https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Allting som vi har",
-      "url": "https://open.spotify.com/track/4QHM0KVcosRyE3biAv6cnj"
-    },
-    {
-      "added_at": "2025-06-12 22:00:37",
-      "album": {
         "name": "It\u2019s Time",
         "url": "https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 226738,
       "name": "It\u2019s Time",
       "url": "https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG"
-    },
-    {
-      "added_at": "2025-06-12 22:00:37",
-      "album": {
-        "name": "Dagar utan slut",
-        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
-      },
-      "artists": [
-        {
-          "name": "Andreas Weise",
-          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
-        }
-      ],
-      "duration_ms": 162332,
-      "name": "Dagar utan slut",
-      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
     },
     {
       "added_at": "2025-06-12 22:00:37",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2025-06-12 22:00:37",
       "album": {
+        "name": "Dagar utan slut",
+        "url": "https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3"
+      },
+      "artists": [
+        {
+          "name": "Andreas Weise",
+          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
+        }
+      ],
+      "duration_ms": 162332,
+      "name": "Dagar utan slut",
+      "url": "https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU"
+    },
+    {
+      "added_at": "2025-06-12 22:00:37",
+      "album": {
         "name": "V\u00e5rens sista dag",
         "url": "https://open.spotify.com/album/13ashXdwC7vLnIzHxoj3r9"
       },
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-06-12 22:00:37",
       "album": {
+        "name": "Livet \u00e4r en cykeltur",
+        "url": "https://open.spotify.com/album/69oFUzsxhyfMfv9tf6tNpw"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "F\u00f6rs\u00f6kte tycka om dig - Alternativ version",
+      "url": "https://open.spotify.com/track/7dNmLi1KdsJFoAcUNQBdGs"
+    },
+    {
+      "added_at": "2025-06-12 22:00:37",
+      "album": {
         "name": "\u00c4rligt misstag",
         "url": "https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU"
       },
@@ -1371,6 +1387,22 @@
       "duration_ms": 149750,
       "name": "\u00c4rligt misstag",
       "url": "https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs"
+    },
+    {
+      "added_at": "2025-06-12 22:00:37",
+      "album": {
+        "name": "V\u00e5r b\u00e4sta tid",
+        "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
+      },
+      "artists": [
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 216511,
+      "name": "V\u00e5r b\u00e4sta tid",
+      "url": "https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE"
     },
     {
       "added_at": "2025-06-12 22:00:37",
@@ -1423,22 +1455,6 @@
     {
       "added_at": "2025-06-12 22:00:37",
       "album": {
-        "name": "Livet \u00e4r en cykeltur",
-        "url": "https://open.spotify.com/album/69oFUzsxhyfMfv9tf6tNpw"
-      },
-      "artists": [
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "F\u00f6rs\u00f6kte tycka om dig - Alternativ version",
-      "url": "https://open.spotify.com/track/7dNmLi1KdsJFoAcUNQBdGs"
-    },
-    {
-      "added_at": "2025-06-12 22:00:37",
-      "album": {
         "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
         "url": "https://open.spotify.com/album/7AhjmPkywXQujJM22JO9GB"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2025-06-12 22:00:37",
       "album": {
-        "name": "Country Tack Vare Er",
-        "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
-      },
-      "artists": [
-        {
-          "name": "Erika Jonsson",
-          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
-        }
-      ],
-      "duration_ms": 207184,
-      "name": "Country Tack Vare Er",
-      "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
-    },
-    {
-      "added_at": "2025-06-12 22:00:37",
-      "album": {
         "name": "Jag v\u00e4nde aldrig om",
         "url": "https://open.spotify.com/album/3859Rp7oMrd8bRJv1DYKuT"
       },
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-06-12 22:00:37",
       "album": {
-        "name": "L\u00f6ften",
-        "url": "https://open.spotify.com/album/6NzPAIljksxn9B6OqfAJWO"
+        "name": "Country Tack Vare Er",
+        "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
       },
       "artists": [
         {
-          "name": "Patrik Isaksson",
-          "url": "https://open.spotify.com/artist/79XSzUC0yAPPoxiuss55qC"
+          "name": "Erika Jonsson",
+          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
         }
       ],
-      "duration_ms": 284800,
-      "name": "L\u00f6ften",
-      "url": "https://open.spotify.com/track/1FoM1Ru3Rm19LUvkjTn0k4"
+      "duration_ms": 207184,
+      "name": "Country Tack Vare Er",
+      "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
     }
   ],
   "unique_name": "Aktuellt",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 16 hr 2 min
+212 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [An American in Paris](https://open.spotify.com/track/7tMaOTu32tb7G2Ieb9ULY8) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Columbia Symphony Orchestra](https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE), [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Gershwin: Rhapsody in Blue & An American in Paris](https://open.spotify.com/album/7y2gHGuQhJmesRiNO8d8fK) | 18:22 | 2024-08-28 |  |
 | [An American in Paris](https://open.spotify.com/track/0ZsKHtV8jxOZMuBJk2LIQC) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [James Thomson](https://open.spotify.com/artist/42R69MIfrvAnxX7V1qnM5q), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Charles Dutoit](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) | [Gershwin: An American In Paris; Rhapsody in Blue](https://open.spotify.com/album/7sXKUjqh71MCGDtOXS9tai) | 19:06 | 2024-07-24 | 2024-08-29 |
 | [Anything For You](https://open.spotify.com/track/1XNuZQcbY6DSZYOp6O5lDm) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WQiJXX9HQWgAfQaEqKLwW) | 2:45 | 2024-07-24 |  |
+| [Aren't You Kind of Glad We Did](https://open.spotify.com/track/3od44H39oaZ8vtjZ1rdvRM) | [Betty Grable](https://open.spotify.com/artist/7n9rBNFFYHydQrzPXyCySC), [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [This Is the Moment](https://open.spotify.com/album/02Fye2FALIxAjtRvIJ7fbD) | 3:32 | 2025-06-17 |  |
 | [Ask Me Again](https://open.spotify.com/track/5pkTiJbBrOadaj6TEh5FyZ) | [Victoria Hart](https://open.spotify.com/artist/3URdRBdlpe3PPJ5iBNKqoS) | [The Lost Gershwin](https://open.spotify.com/album/2nNWWKOyzmRFky8QpHcArS) | 3:10 | 2024-07-24 |  |
 | [Ballad Medley: Bewitched / Bothered and Bewildered / I Don't Know Why \(I Just Do\) / How Long Has This Been Going On? / I Can't Get Started / Polka Dots and Moonbeams](https://open.spotify.com/track/38fSpNxZvwViS3sZMQrhbl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz Portraits: Stan Getz \(Remastered\)](https://open.spotify.com/album/6gway2tYnsBSUHGoFRLrMl) | 10:11 | 2024-07-24 |  |
 | [Bess You Is My Woman Now](https://open.spotify.com/track/4nGdWMAi7zChqNfuMzUHxc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 5:28 | 2024-07-24 |  |

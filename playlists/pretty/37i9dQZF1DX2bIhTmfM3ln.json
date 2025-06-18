@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 44153,
+  "num_followers": 44178,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 191160,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
         "name": "Hard Guy Confessions",
         "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 161729,
       "name": "YOU AND ME",
       "url": "https://open.spotify.com/track/3SAacqnIY8kK9McSIRC9Rv"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -999,26 +999,6 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
-        "name": "Relationship",
-        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Relationship",
-      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 190588,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
+        "name": "Relationship",
+        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Relationship",
+      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
-        "name": "JAILER (feat. Victony)",
-        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "JAILER (feat. Victony)",
-      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
         "name": "She Said",
         "url": "https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 148041,
       "name": "She Said",
       "url": "https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
+        "name": "JAILER (feat. Victony)",
+        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "JAILER (feat. Victony)",
+      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
     },
     {
       "added_at": "2025-06-13 03:11:18",

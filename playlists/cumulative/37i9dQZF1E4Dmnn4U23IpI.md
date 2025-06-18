@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With FM\-84, Ollie Wride, Gunship and more
+> With Ollie Wride, Gunship, Siamese Youth and more
 
 1,577 songs - 4 day 13 hr 9 min
 
@@ -1211,7 +1211,7 @@
 | [Signals](https://open.spotify.com/track/6nLlrtjFPS8wBETtkKvnLZ) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Signals \(Deluxe Edition\)](https://open.spotify.com/album/0PmgDBRPc4bSDKzEd7Tg0p) | 4:55 | 2023-04-04 | 2023-07-02 |
 | [Signals \- Volkor X Remix](https://open.spotify.com/track/7HiKQJaqIq2iEODIG3tzKq) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW), [Volkor X](https://open.spotify.com/artist/5Us4fLalowFjzrjC85k4Xq) | [Signals \(Volkor X Remix\)](https://open.spotify.com/album/4TMeLSX3GtPMh4t2zDzfTA) | 4:59 | 2021-12-01\* | 2022-03-07 |
 | [Signs](https://open.spotify.com/track/3cCLWv75imuJ97IDa56dIz) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY), [Future Punk](https://open.spotify.com/artist/78ZKPSu71KMWSatCEboA8P), [McRocklin](https://open.spotify.com/artist/3ajU0FztvIxRclcrrq3LR5) | [III](https://open.spotify.com/album/4tteTazT567N7srYWOwTG2) | 5:28 | 2022-03-24 | 2022-04-29 |
-| [Silence \(feat\. The Midnight\)](https://open.spotify.com/track/08qnMBb5LTrDu705V0QAG3) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [After Dark \(Deluxe Edition\)](https://open.spotify.com/album/5QBaCxvQxN0cdeRL5rZiq9) | 4:03 | 2024-12-07 |  |
+| [Silence](https://open.spotify.com/track/08qnMBb5LTrDu705V0QAG3) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [After Dark \(Deluxe Edition\)](https://open.spotify.com/album/5QBaCxvQxN0cdeRL5rZiq9) | 4:03 | 2024-12-07 |  |
 | [Silence Minute](https://open.spotify.com/track/1tTrxkZSXAdqe3OAhXNMv3) | [Earmake](https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC) | [Silence Minute](https://open.spotify.com/album/4Pf5APpFiU79XR9ozF2jwL) | 2:49 | 2023-03-27 | 2023-03-28 |
 | [Silver Surfer \- Instrumental Version](https://open.spotify.com/track/3BMB7m3uOdScrR70kQcoT9) | [Orian](https://open.spotify.com/artist/6nOjJ3Q4Eucmg51MGj8xlu) | [Silver Surfer](https://open.spotify.com/album/4uoAZ7uVIaia7xmIMKzvwR) | 2:42 | 2022-08-08 | 2022-08-22 |
 | [Similarities \- Klahr Edit](https://open.spotify.com/track/1Q6NB6n1hcrfbNQCz84peX) | [Felix Pallas](https://open.spotify.com/artist/0z0ZvH87eSRfy14X7oXoex), [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD) | [Similarities](https://open.spotify.com/album/7eGwLOPoxOkRdJohGHcIQz) | 3:39 | 2022-10-08 | 2023-07-22 |

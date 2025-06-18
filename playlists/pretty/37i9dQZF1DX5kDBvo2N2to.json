@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59672,
+  "num_followers": 59674,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 182051,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
         "name": "Cold As Ice",
         "url": "https://open.spotify.com/album/3GUacx6dbm7SNjNGel4srO"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 182051,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 160465,
       "name": "Stockholm City",
       "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
-        "name": "Som i en dr\u00f6m",
-        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 145568,
-      "name": "Fr\u00e5n & med nu",
-      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -471,18 +455,18 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "Aldrig g\u00e5",
-        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
       },
       "artists": [
         {
-          "name": "Lov1",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
         }
       ],
-      "duration_ms": 187782,
-      "name": "Aldrig g\u00e5",
-      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
+      "duration_ms": 163320,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -503,18 +487,34 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
+        "name": "Som i en dr\u00f6m",
+        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
       },
       "artists": [
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
         }
       ],
-      "duration_ms": 163320,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
+      "duration_ms": 145568,
+      "name": "Fr\u00e5n & med nu",
+      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
+        "name": "Aldrig g\u00e5",
+        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
+      },
+      "artists": [
+        {
+          "name": "Lov1",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Aldrig g\u00e5",
+      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "Your Fantasy",
-        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 139444,
-      "name": "Your Fantasy",
-      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
         "name": "i miss you",
         "url": "https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
+        "name": "Your Fantasy",
+        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 139444,
+      "name": "Your Fantasy",
+      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
         "name": "The Prettiest Face",
         "url": "https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "Goldfish",
-        "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 186900,
-      "name": "Goldfish",
-      "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
         "name": "Dancing Around The Truth",
         "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 230670,
       "name": "Dancing Around The Truth",
       "url": "https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
+        "name": "Goldfish",
+        "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 186900,
+      "name": "Goldfish",
+      "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "INATT IGEN",
-        "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        }
-      ],
-      "duration_ms": 139310,
-      "name": "INATT IGEN",
-      "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
         "name": "Where Flowers Grow",
         "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 198000,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
+        "name": "INATT IGEN",
+        "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 139310,
+      "name": "INATT IGEN",
+      "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "FEST",
-        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "FEST",
-      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
         "name": "Alla Tittar P\u00e5 Mig",
         "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 144586,
       "name": "Alla Tittar P\u00e5 Mig",
       "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
+        "name": "FEST",
+        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "FEST",
+      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "TVIVEL & TRO",
-        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        }
-      ],
-      "duration_ms": 168928,
-      "name": "DELILAH",
-      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
         "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
         "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
+        "name": "TVIVEL & TRO",
+        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
         "name": "GET RICH OR DIE TRYING",
         "url": "https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 164000,
       "name": "GET RICH OR DIE TRYING",
       "url": "https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
+        "name": "112",
+        "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
       },
       "artists": [
         {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
         }
       ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+      "duration_ms": 196321,
+      "name": "112",
+      "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 196321,
-      "name": "112",
-      "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
         "name": "Feel Free",
         "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 182372,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
+        "name": "Seiko",
+        "url": "https://open.spotify.com/album/41DEIBqikMJW924W2KUaG0"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Seiko",
+      "url": "https://open.spotify.com/track/6TMIcpNnhkg1hzwfeWGdVx"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -1199,22 +1215,6 @@
       "duration_ms": 157647,
       "name": "Var & N\u00e4r",
       "url": "https://open.spotify.com/track/1kRmRG2b1snC9TQS7gSsOM"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
-        "name": "Seiko",
-        "url": "https://open.spotify.com/album/41DEIBqikMJW924W2KUaG0"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Seiko",
-      "url": "https://open.spotify.com/track/6TMIcpNnhkg1hzwfeWGdVx"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "D\u00c9J\u00c0 VU",
-        "url": "https://open.spotify.com/album/0j9hFcsDrRYHSCKRIkXEkr"
-      },
-      "artists": [
-        {
-          "name": "Bella Leonette",
-          "url": "https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt"
-        }
-      ],
-      "duration_ms": 184876,
-      "name": "D\u00c9J\u00c0 VU",
-      "url": "https://open.spotify.com/track/1em9RQjkGpFaASpp7jvTJ6"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
         "name": "K\u00e4rleksrum",
         "url": "https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 139574,
       "name": "Sl\u00e5 mig en signal",
       "url": "https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
+        "name": "D\u00c9J\u00c0 VU",
+        "url": "https://open.spotify.com/album/0j9hFcsDrRYHSCKRIkXEkr"
+      },
+      "artists": [
+        {
+          "name": "Bella Leonette",
+          "url": "https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt"
+        }
+      ],
+      "duration_ms": 184876,
+      "name": "D\u00c9J\u00c0 VU",
+      "url": "https://open.spotify.com/track/1em9RQjkGpFaASpp7jvTJ6"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "L\u00e4ngesen",
-        "url": "https://open.spotify.com/album/33yREDH6p24DwWopavOqVJ"
-      },
-      "artists": [
-        {
-          "name": "Nadja Evelina",
-          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "L\u00e4ngesen",
-      "url": "https://open.spotify.com/track/7BkMhRsjtKNl1O38dFz9de"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
         "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
         "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 219642,
       "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
       "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
+        "name": "L\u00e4ngesen",
+        "url": "https://open.spotify.com/album/33yREDH6p24DwWopavOqVJ"
+      },
+      "artists": [
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "L\u00e4ngesen",
+      "url": "https://open.spotify.com/track/7BkMhRsjtKNl1O38dFz9de"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -1375,6 +1375,22 @@
       "duration_ms": 143649,
       "name": "Mormors Sommarvisa",
       "url": "https://open.spotify.com/track/2Q9n5vvOyFz7feO8bYNb8g"
+    },
+    {
+      "added_at": "2025-06-13 14:11:48",
+      "album": {
+        "name": "It Was You",
+        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
+      },
+      "artists": [
+        {
+          "name": "Natalie Reigo",
+          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
     },
     {
       "added_at": "2025-06-13 14:11:48",
@@ -1443,50 +1459,34 @@
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "and is it really over",
-        "url": "https://open.spotify.com/album/4uW3H526QlOeBveCV2sgSL"
+        "name": "Hj\u00e4rtat kan ha fel ibland",
+        "url": "https://open.spotify.com/album/6Kdvv7a6OSJ2392TMGKkIQ"
       },
       "artists": [
         {
-          "name": "Joonas",
-          "url": "https://open.spotify.com/artist/06bXpbtpgnaU0cklDrSqlg"
+          "name": "diffust",
+          "url": "https://open.spotify.com/artist/4tcbmCUN6VQXg8dOwmOFXa"
         }
       ],
-      "duration_ms": 227121,
-      "name": "and is it really over",
-      "url": "https://open.spotify.com/track/5RAInZ6ZRVYhgf31HLECFZ"
+      "duration_ms": 148058,
+      "name": "Hj\u00e4rtat kan ha fel ibland",
+      "url": "https://open.spotify.com/track/3f4ZfUlxPWfmcyFfm8l4f2"
     },
     {
       "added_at": "2025-06-13 14:11:48",
       "album": {
-        "name": "Mr. Vibe Killer",
-        "url": "https://open.spotify.com/album/0yRDW91fBRvdL2CUNYG3wK"
+        "name": "KNEEEES",
+        "url": "https://open.spotify.com/album/4T1pGeeiGRtzN0HON6hfQJ"
       },
       "artists": [
         {
-          "name": "Wilma Vidal",
-          "url": "https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O"
+          "name": "Casper The Ghost",
+          "url": "https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L"
         }
       ],
-      "duration_ms": 200031,
-      "name": "Mr. Vibe Killer",
-      "url": "https://open.spotify.com/track/2aBQL5TBYfsI76U98vX9WR"
-    },
-    {
-      "added_at": "2025-06-13 14:11:48",
-      "album": {
-        "name": "It Was You",
-        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
-      },
-      "artists": [
-        {
-          "name": "Natalie Reigo",
-          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
+      "duration_ms": 159961,
+      "name": "KNEEEES",
+      "url": "https://open.spotify.com/track/36pxEPrYre9XxgGuOzEi3P"
     }
   ],
   "unique_name": "p\u00e5 repeat",

@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 67th GRAMMY Awards.",
-  "num_followers": 152097,
+  "num_followers": 152083,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 126832,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 126832,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -999,26 +999,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Neverender",
-      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 162026,
-      "name": "Huntin\u2019 Wabbitz",
-      "url": "https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 202414,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "Huntin\u2019 Wabbitz",
+      "url": "https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/64zcAZeIWHszCGKOSqAogH"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "You Won't Go Before You're Supposed To",
         "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 164695,
       "name": "Suffocate (feat. Poppy)",
       "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/64zcAZeIWHszCGKOSqAogH"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Hackney Diamonds",
-        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 226735,
-      "name": "Angry",
-      "url": "https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Cellar Door",
         "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 283957,
       "name": "Cellar Door",
       "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1999,6 +1999,26 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93"
       },
@@ -2019,26 +2039,6 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/4OssqCixV2Xsxd43wMIQyS"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Don't Do Me Good",
-      "url": "https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47"
     },
     {
       "added_at": "2025-02-03 18:19:52",

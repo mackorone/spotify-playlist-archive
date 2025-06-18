@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAAxAe7xpaoLSk8LvL2Apm+z",
+  "snapshot_id": "aE9egAAAAACZSliPK3LpUG7J3HQCUY5n",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5fc3\u81d3",
-        "url": "https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "\u5fc3\u81d3",
-      "url": "https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLAU",
         "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 260693,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5fc3\u81d3",
+        "url": "https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "\u5fc3\u81d3",
+      "url": "https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea",
-        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 285026,
-      "name": "\u30ea\u30f3\u30c9\u30a6\u306e\u82b1",
-      "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POLYHEDRA",
         "url": "https://open.spotify.com/album/3SvIo3Fu9zkp2Lzxce0G2E"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 210214,
       "name": "POLYHEDRA",
       "url": "https://open.spotify.com/track/1qaLcNwnHDJEGKIsA1ZsLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30e9\u30d4\u30b9\u30e9\u30ba\u30ea",
+        "url": "https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 285026,
+      "name": "\u30ea\u30f3\u30c9\u30a6\u306e\u82b1",
+      "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRAGMENT \uff08Special Edition\uff09",
-        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "FROATIN'",
-      "url": "https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEST -E-",
         "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FRAGMENT \uff08Special Edition\uff09",
+        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "FROATIN'",
+      "url": "https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u5fc3\u81d3",
         "url": "https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 237266,
       "name": "EVIL",
       "url": "https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANSWER",
+        "url": "https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "ANSWER",
+      "url": "https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 260000,
       "name": "YeLL",
       "url": "https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANSWER",
-        "url": "https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "ANSWER",
-      "url": "https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet"
     },
     {
       "added_at": null,

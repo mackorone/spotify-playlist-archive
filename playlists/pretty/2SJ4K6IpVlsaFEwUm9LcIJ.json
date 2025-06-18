@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2025 (previous playlists archived on my profile)",
-  "num_followers": 23085,
+  "num_followers": 23088,
   "original_name": "friends and lovers",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAMnNqzXvbES8vjrmlGUP8STqEvVwWa",
+  "snapshot_id": "AAAMnrEiffOvpaAPtbzZZfFpyuHaECoL",
   "tracks": [
     {
       "added_at": "2025-05-08 16:19:05",
@@ -959,6 +959,38 @@
       "duration_ms": 150933,
       "name": "Welcome to My World",
       "url": "https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY"
+    },
+    {
+      "added_at": "2025-06-17 11:02:55",
+      "album": {
+        "name": "M\u00e9lodie du cr\u00e9puscule",
+        "url": "https://open.spotify.com/album/5xVkZ1SdoJ1SlBayQrzH2A"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dupont",
+          "url": "https://open.spotify.com/artist/6S4VOqONTKvPJ5UMvndZJ9"
+        }
+      ],
+      "duration_ms": 118701,
+      "name": "M\u00e9lodie du cr\u00e9puscule",
+      "url": "https://open.spotify.com/track/18eISpOzQPIXDBKPm2e5dZ"
+    },
+    {
+      "added_at": "2025-06-17 11:58:54",
+      "album": {
+        "name": "Days of Heaven",
+        "url": "https://open.spotify.com/album/3gEZf0bRhUaBevLRykTDZ5"
+      },
+      "artists": [
+        {
+          "name": "Junk Drawer",
+          "url": "https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Pell Mell",
+      "url": "https://open.spotify.com/track/0IDWNMoLorAHuNlXwtfyn2"
     }
   ],
   "unique_name": "friends and lovers",

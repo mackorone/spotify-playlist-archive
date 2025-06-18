@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 643064,
+  "num_followers": 643076,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAADOHlQrc8xoTEu7af1g2ghN",
+  "snapshot_id": "aE9egAAAAABKasABMhbgXkqZWwXRK+Yz",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 120991,
+      "name": "CHIRI",
+      "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 227401,
       "name": "KLK",
       "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 120991,
-      "name": "CHIRI",
-      "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque Es De Noche",
-        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 253108,
-      "name": "Aunque Es De Noche",
-      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 89749,
       "name": "LAX",
       "url": "https://open.spotify.com/track/2N3YZ075lq9z1ObaAiX6l1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aunque Es De Noche",
+        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 253108,
+      "name": "Aunque Es De Noche",
+      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
     },
     {
       "added_at": null,

@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 120734,
       "name": "Aegean",
       "url": "https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM"
@@ -5047,6 +5047,24 @@
     },
     {
       "album": {
+        "name": "Glimpse",
+        "url": "https://open.spotify.com/album/4ycgH8iKucO8G8BeGxq0CR"
+      },
+      "artists": [
+        {
+          "name": "F. Garling",
+          "url": "https://open.spotify.com/artist/6972NR2aw4LViqsAjMZAhq"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125125,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/0i6mGt3eqBkVYJ1qfTQOFd"
+    },
+    {
+      "album": {
         "name": "Golden Bridge",
         "url": "https://open.spotify.com/album/0DAwdikccXAqOXgQ04W6FZ"
       },
@@ -8933,6 +8951,24 @@
     },
     {
       "album": {
+        "name": "Now and Always",
+        "url": "https://open.spotify.com/album/6p2dyzjZvDiVZib2tSRjt0"
+      },
+      "artists": [
+        {
+          "name": "Sam Blom",
+          "url": "https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Now and Always",
+      "url": "https://open.spotify.com/track/1y4kDlA8bZhboSNVxSa8vW"
+    },
+    {
+      "album": {
         "name": "Now's Not The Time",
         "url": "https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt"
       },
@@ -11036,7 +11072,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 128807,
       "name": "Share her stories",
       "url": "https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr"

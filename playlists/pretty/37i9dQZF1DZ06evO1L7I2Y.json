@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3348,
+  "num_followers": 3349,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAB0ElTQ92dibhzsiHXhoInE",
+  "snapshot_id": "aE9egAAAAABaUN8EqZ/2F5mYo1wv/fQT",
   "tracks": [
     {
       "added_at": null,
@@ -546,15 +546,11 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 224841,
-      "name": "N.I.N.A",
-      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b"
     },
     {
       "added_at": null,
@@ -638,11 +634,15 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b"
+      "duration_ms": 224841,
+      "name": "N.I.N.A",
+      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
     },
     {
       "added_at": null,

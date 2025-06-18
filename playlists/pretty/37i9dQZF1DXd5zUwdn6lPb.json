@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 370868,
+  "num_followers": 370962,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Confesi\u00f3n (From \"A Cielo Abierto\" Soundtrack)",
+        "url": "https://open.spotify.com/album/4Ao1IzLNfYnh9so8pC8jQ1"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 94586,
+      "name": "Confesi\u00f3n - From \"A Cielo Abierto\" Soundtrack",
+      "url": "https://open.spotify.com/track/04NpG3JzX18W94sxDMAt7L"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
         "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 198333,
       "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
       "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Confesi\u00f3n (From \"A Cielo Abierto\" Soundtrack)",
-        "url": "https://open.spotify.com/album/4Ao1IzLNfYnh9so8pC8jQ1"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 94586,
-      "name": "Confesi\u00f3n - From \"A Cielo Abierto\" Soundtrack",
-      "url": "https://open.spotify.com/track/04NpG3JzX18W94sxDMAt7L"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "Gjeilo: Winter Light",
         "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 170080,
       "name": "Winter Light",
       "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -871,6 +871,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Lacrimosa (Arr. Piano)",
+        "url": "https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        },
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        }
+      ],
+      "duration_ms": 233386,
+      "name": "Lacrimosa (Arr. Piano)",
+      "url": "https://open.spotify.com/track/3PSmDsIOywcxHpJTcXqSfm"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "Brahms: 21 Hungarian Dances, WoO 1 & 16 Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/3D17O5qP9yOhyBThdhBYKY"
       },
@@ -891,22 +911,22 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Lacrimosa (Arr. Piano)",
-        "url": "https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A"
+        "name": "Try",
+        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
       },
       "artists": [
         {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
         },
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
         }
       ],
-      "duration_ms": 233386,
-      "name": "Lacrimosa (Arr. Piano)",
-      "url": "https://open.spotify.com/track/3PSmDsIOywcxHpJTcXqSfm"
+      "duration_ms": 242333,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -931,26 +951,6 @@
       "duration_ms": 110000,
       "name": "Myrthen, Op. 25 - Version for Cello and Piano: XXIV. Du bist wie eine Blume",
       "url": "https://open.spotify.com/track/5dFZW6bwvbFYDHXSTQRSgC"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
-      },
-      "artists": [
-        {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
-        },
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "Mendelssohn: Piano Works",
         "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 253920,
       "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
       "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "Mendelssohn",
         "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 169653,
       "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
       "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
         "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 117053,
       "name": "Valsinha",
       "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
     },
     {
       "added_at": "2025-06-03 16:40:22",

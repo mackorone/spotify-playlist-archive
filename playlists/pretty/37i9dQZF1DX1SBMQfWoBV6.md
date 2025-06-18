@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,382 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,404 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 99 | [Outer Space \- Remastered Meditation Lounge Mix](https://open.spotify.com/track/64F9fI3h6rA2fBcvQI5HGu) | [Airstream](https://open.spotify.com/artist/64ujeKTqpc294czhOH2Dcq) | [Weightless & Smooth \- The Chill Adventure](https://open.spotify.com/album/5X173nYYGZSQzFw4YD6lZH) | 6:33 |
 | 100 | [Valavond](https://open.spotify.com/track/6Ff7dIvhOa6wqCxYdNDKSs) | [Sonmi451](https://open.spotify.com/artist/1rQREdU6Zyil9kuBQJvaRN) | [Foundations 2](https://open.spotify.com/album/6NiOKlzucDnE4NJAGPpv06) | 6:00 |
 
-Snapshot ID: `aB4CSgAAAABozqewzmByVS7TkLuT09/F`
+Snapshot ID: `AAAAALu++q9nHDX0QyzfJhA6MhZefZRI`

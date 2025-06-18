@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Matroda",
-  "num_followers": 464768,
+  "num_followers": 464916,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
+      "added_at": "2025-05-30 14:35:26",
+      "album": {
+        "name": "Red Velvet",
+        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Red Velvet",
+      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "SEROTONIN",
@@ -1339,22 +1355,6 @@
       "duration_ms": 249461,
       "name": "Hypnotic (feat. Kyozo)",
       "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
-    },
-    {
-      "added_at": "2025-05-30 14:35:26",
-      "album": {
-        "name": "Red Velvet",
-        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Red Velvet",
-      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1437,26 +1437,6 @@
       "url": "https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp"
     },
     {
-      "added_at": "2025-03-28 14:16:39",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Bass Face",
@@ -1475,6 +1455,26 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2025-03-28 14:16:39",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
       "added_at": "2025-04-11 04:00:29",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "BAD OMENS",
@@ -1579,6 +1563,22 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2141,26 +2141,6 @@
       "url": "https://open.spotify.com/track/5hn6ItyNv3rEwGW7plCEN9"
     },
     {
-      "added_at": "2025-05-23 04:00:53",
-      "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/6HdGveXiffOf694wgSlwqo"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "Mentum",
-          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/1O8kykPSrmfi3NLq0b7ItP"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "That's the Spot",
@@ -2183,22 +2163,22 @@
     {
       "added_at": "2025-05-23 04:00:53",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/6PNI9RU919oEt8mW0cV2Q4"
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/6HdGveXiffOf694wgSlwqo"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
         },
         {
-          "name": "Medium Rare",
-          "url": "https://open.spotify.com/artist/5bt2kSI1bD3Xfc70srooOK"
+          "name": "Mentum",
+          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1C32MtYI9URmJT5QTRQcCQ"
+      "duration_ms": 181000,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/1O8kykPSrmfi3NLq0b7ItP"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2239,6 +2219,26 @@
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
+    },
+    {
+      "added_at": "2025-05-23 04:00:53",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6PNI9RU919oEt8mW0cV2Q4"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "Medium Rare",
+          "url": "https://open.spotify.com/artist/5bt2kSI1bD3Xfc70srooOK"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1C32MtYI9URmJT5QTRQcCQ"
     },
     {
       "added_at": "2025-01-31 05:00:38",
@@ -2397,6 +2397,22 @@
       "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
     },
     {
+      "added_at": "2025-05-02 05:35:09",
+      "album": {
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/19eCujckKHZ0SESbk844WU"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/4hnyQmPw7A7tJ5PpOtOhI7"
+    },
+    {
       "added_at": "2025-05-16 04:00:36",
       "album": {
         "name": "Down Low",
@@ -2415,22 +2431,6 @@
       "duration_ms": 184615,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/1BRMsQ12jolE4BvN5sUCP2"
-    },
-    {
-      "added_at": "2025-05-02 05:35:09",
-      "album": {
-        "name": "In The Club",
-        "url": "https://open.spotify.com/album/19eCujckKHZ0SESbk844WU"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "In The Club",
-      "url": "https://open.spotify.com/track/4hnyQmPw7A7tJ5PpOtOhI7"
     }
   ],
   "unique_name": "Nasty Bits",

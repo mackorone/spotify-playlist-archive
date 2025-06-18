@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Parece que va a llover, el cielo se está nublando..\. pero todo mejora con música nueva! 🌦️ Grupo Frontera en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,834 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,957 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "New music from Camille, DYSTINCT & J Balvin, Sylvie Kreusch and more...",
-  "num_followers": 42275,
+  "num_followers": 42280,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -307,7 +307,7 @@
     {
       "added_at": "2025-06-12 22:00:52",
       "album": {
-        "name": "Hit me up (feat. Kleine John & Chavant\u00e9)",
+        "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
         "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
       },
       "artists": [
@@ -316,16 +316,16 @@
           "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
         },
         {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        },
-        {
           "name": "Chavant\u00e9",
           "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
         }
       ],
       "duration_ms": 152615,
-      "name": "Hit me up (feat. Kleine John & Chavant\u00e9)",
+      "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
       "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
     },
     {
@@ -740,8 +740,8 @@
           "url": "https://open.spotify.com/artist/5geaPrGcbPsBX3D2p1OZ9G"
         },
         {
-          "name": "Lois",
-          "url": "https://open.spotify.com/artist/6qAYnkQmOOQCBPPmyd4lo1"
+          "name": "LO\u00efS",
+          "url": "https://open.spotify.com/artist/7MCjO0WYAtx9jHvd9be1pn"
         }
       ],
       "duration_ms": 188811,

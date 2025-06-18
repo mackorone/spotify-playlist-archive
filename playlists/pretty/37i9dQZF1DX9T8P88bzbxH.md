@@ -1,36 +1,35 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [GO Live](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: KAI](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Lighting up Singapore with her aura\. Cover: Ernie Zakri
+> Counting down to KAION and mentally already at the venue\. Cover:KAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,009 likes - 24 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,997 likes - 23 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aura](https://open.spotify.com/track/4xyBmXvhgiPIbq7Dw7KN54) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:42 |
-| 2 | [Kisah Penuh Kecewa](https://open.spotify.com/track/0GiI82kfAuTows8dlKdABu) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Penuh Kecewa](https://open.spotify.com/album/2QQvBiCR66jEhRYrt3R6yc) | 3:53 |
-| 3 | [Boneka](https://open.spotify.com/track/6fzGtXeQm552KUbbsPGtzn) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Boneka](https://open.spotify.com/album/2QFlx1U7zGlvmgP3WKlLFd) | 3:50 |
-| 4 | [Tercipta Sempurna](https://open.spotify.com/track/7wS1O5KqvrPpX53ZehPWde) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 4:12 |
-| 5 | [Astana](https://open.spotify.com/track/0UizoMJswm8kaxZNNlWUW3) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Astana](https://open.spotify.com/album/7k6hrIxHJ4ETTJ6nm4Kdgi) | 3:25 |
-| 6 | [Ayuh \(Original Movie Soundtrack "Polis Evo 3"\)](https://open.spotify.com/track/74TuorgwHbRucOLZGMMTgR) | [Malique](https://open.spotify.com/artist/6f88iIXUG7k7WErCwOSql1), [Kmy Kmo](https://open.spotify.com/artist/1SlJgTsAEp0KzLjNkhW8QD), [Aman RA](https://open.spotify.com/artist/7iNkzIKfY3iDyyFxlbPT9U), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Ayuh \(Original Movie Soundtrack "Polis Evo 3"\)](https://open.spotify.com/album/3yAZLcj2miPOV3VtGQjZ3o) | 3:58 |
-| 7 | [Misteri](https://open.spotify.com/track/3DvsoxkL8mD7m4ctzkID6g) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Misteri](https://open.spotify.com/album/5RB5jCWi3QytdZGwOTxpMq) | 4:30 |
-| 8 | [Gundah](https://open.spotify.com/track/72ZUblBPFcN7FILPbCtoR5) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Gundah](https://open.spotify.com/album/2eRV6ZifNQsPPvxtZwcifo) | 4:03 |
-| 9 | [Jangan Hilang Percaya](https://open.spotify.com/track/1IJz6neRjsJPD0HZBJoThM) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:57 |
-| 10 | [Ini Yang Ku Mahu](https://open.spotify.com/track/3A3Va882WHoQ4jRwRrxzmq) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Ini Yang Ku Mahu \(Single\)](https://open.spotify.com/album/49fQ9YrejxjU0qewCai8W6) | 4:00 |
-| 11 | [Nostalgia](https://open.spotify.com/track/2EUubUFlkE0auWpoeTFhWy) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Nostalgia](https://open.spotify.com/album/1neCBjPnlHniz7qlHJ3FMO) | 3:47 |
-| 12 | [Persis Katarsis](https://open.spotify.com/track/4ipoHe3XSbT88W9ASH0MXP) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:47 |
-| 13 | [Terima Seadanya](https://open.spotify.com/track/5pfxbF4nE8VmYjkHpEJohI) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 2:13 |
-| 14 | [Gelita](https://open.spotify.com/track/3HKoosd7ntbL3IVSX2n3ek) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 4:15 |
-| 15 | [Satu Cinta](https://open.spotify.com/track/2yA7OiHLEqbeNxlFtMfhHi) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 4:04 |
-| 16 | [Hal Hebat](https://open.spotify.com/track/0TmtRKLe64YfR9SaxCBoOk) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp) | [Hal Hebat](https://open.spotify.com/album/7i4BijMcB7GratR2Ar14vu) | 5:22 |
-| 17 | [Rindu Bukan Teman](https://open.spotify.com/track/5rk1GIbvyQAno7QuYZKGNm) | [Ernie](https://open.spotify.com/artist/4Zus4ZrxzvhwfTGRaSDipm) | [Sinaran](https://open.spotify.com/album/2HZp92YjnRzOf34awytMgS) | 3:40 |
-| 18 | [Jangan Marah](https://open.spotify.com/track/7eKSYhOHLadyGkHfOX1Zvb) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Jangan Marah \(Single\)](https://open.spotify.com/album/4mdm2u1z4w6nT15QVwaPRx) | 3:45 |
-| 19 | [Korban](https://open.spotify.com/track/49Jz9XJzL5IctAO3vykUvy) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Korban](https://open.spotify.com/album/3HgUX3MyO6TRD3IzMZNEEZ) | 4:09 |
-| 20 | [The Best](https://open.spotify.com/track/5NvxBTGMp4n4dn59nKa7pI) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [The Best](https://open.spotify.com/album/20psrOViqBEfD3fv0cZKaO) | 2:58 |
-| 21 | [LUV](https://open.spotify.com/track/5sVKk7LjR1zDKCJOwI8ZZ1) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Sabronzo](https://open.spotify.com/artist/5ElOLspeFA5ReU292DKZLe) | [LUV](https://open.spotify.com/album/28jWC8z5ZkvBilHGPtoBeK) | 3:01 |
-| 22 | [Aku Cinta](https://open.spotify.com/track/1m9i2Dd4dsda0oGpqHymrn) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aku Cinta](https://open.spotify.com/album/2Jq8EcBEang47gu0ODGItc) | 4:09 |
-| 23 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |
-| 24 | [Ku Bersuara](https://open.spotify.com/track/1w0wtrHOjUeckYNYwsOTKj) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Ku Bersuara](https://open.spotify.com/album/0WfbioxiBM5k5DQoozFlMI) | 3:21 |
+| 1 | [Sinner](https://open.spotify.com/track/1ObmeINgcnxdxGbPByx0zL) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 3:06 |
+| 2 | [Mmmh](https://open.spotify.com/track/5dntGTbUtmUO239wQ0k3yM) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 3:12 |
+| 3 | [Nothing On Me](https://open.spotify.com/track/031mgKcbAk6cL9ZpfIEq4K) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 2:40 |
+| 4 | [Hello Stranger](https://open.spotify.com/track/3LjS1vGAprMNthdyue5XZD) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 2:48 |
+| 5 | [Slidin'](https://open.spotify.com/track/1kDHz6nhxNtdvh209RvyU6) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:43 |
+| 6 | [Ride Or Die](https://open.spotify.com/track/5Ej0A9BOsVSrxYwC6GSfCv) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 3:20 |
+| 7 | [My Lady](https://open.spotify.com/track/1WAtCRhWvN7iR8rKyWEE3y) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:31 |
+| 8 | [Baby, Don't Cry](https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:53 |
+| 9 | [Angel](https://open.spotify.com/track/0vZtHRT1Ez9xmmxGRCNF8h) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:00 |
+| 10 | [Come In](https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:02 |
+| 11 | [Vanilla](https://open.spotify.com/track/4RSjEf7JWR77EhtwRnMxEh) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:28 |
+| 12 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 |
+| 13 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 |
+| 14 | [Wait On Me](https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 3:13 |
+| 15 | [Pressure](https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 2:23 |
+| 16 | [Walls Don't Talk](https://open.spotify.com/track/5gwUswPBwpytnMAQiowcqk) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 2:49 |
+| 17 | [Bomba](https://open.spotify.com/track/1E6H8b0dUuCt7vbBgL1Fvm) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 3:07 |
+| 18 | [Confession \- Live](https://open.spotify.com/track/3VHYNsLYJC8b3gmeNZsbhE) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXO PLANET \#5 –EXplOration– Live Album](https://open.spotify.com/album/1KKX3xvCcIMgBKrf43cr4W) | 3:56 |
+| 19 | [Domino](https://open.spotify.com/track/1UeITRTmB1Qc39ZJzCAx6q) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 2:55 |
+| 20 | [Reason](https://open.spotify.com/track/5x2p715xYEKn2AdV9pNv52) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 2:53 |
+| 21 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
+| 22 | [Blue](https://open.spotify.com/track/2s4pzQWSxqfOcMauQ2dMcW) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:00 |
+| 23 | [To Be Honest](https://open.spotify.com/track/3UfU8FzgIuZTxAjAkiub9U) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 2:53 |
 
-Snapshot ID: `aDVcfAAAAACzigWLGk00hZVFo93eP85x`
+Snapshot ID: `AAAAADLnZwa3RVQXO9rl0KsRBR/c8v3l`

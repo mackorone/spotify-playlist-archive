@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,108 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,109 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Hermoso](https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:30 |
 | 50 | [En Ti Confiaré](https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Desmayes Corazón](https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg) | 5:44 |
 
-Snapshot ID: `aE4NAAAAAACKzEZ9TKVmP1AWSquEHaV6`
+Snapshot ID: `aE9egAAAAAD/VGzP4KLeZljlHRCsZ1kZ`

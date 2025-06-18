@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,136 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,328 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 60 | [I Remember You](https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 3:59 |
 | 61 | [Have You Met Miss Jones?](https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Along With Me](https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT) | 2:31 |
 | 62 | [I Only Have Eyes For You](https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:48 |
-| 63 | [This Time The Dream's On Me \- Remastered](https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:19 |
-| 64 | [Lady Bird](https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Milan](https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz) | 4:44 |
+| 63 | [Lady Bird](https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Milan](https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz) | 4:44 |
+| 64 | [This Time The Dream's On Me \- Remastered](https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:19 |
 | 65 | [Stompin' At The Savoy](https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 6:27 |
 | 66 | [If I Were a Bell \- 2004 Remaster](https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Shirley / Let's Face the Music](https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6) | 2:54 |
 | 67 | [Hey There](https://open.spotify.com/track/1GEiJecIBYuVyhMaWE7X1y) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [A Treasury Of Golden Hits](https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby) | 2:56 |
-| 68 | [Woman's Got Soul](https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra](https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA) | 2:22 |
-| 69 | [Between The Devil And The Deep Blue Sea](https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 2:26 |
+| 68 | [Between The Devil And The Deep Blue Sea](https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 2:26 |
+| 69 | [Woman's Got Soul](https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra](https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA) | 2:22 |
 | 70 | [I Walk With Music](https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Stardust: The Music Of Hoagy Carmichael](https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT) | 5:00 |
 | 71 | [On a Clear Day](https://open.spotify.com/track/79OtkmhkIGwAvK6Cc7jc1J) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Adonis Rose](https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y), [New Orleans Jazz Orchestra](https://open.spotify.com/artist/6OcKkFl60cJU7Tmru46mMK) | [Petite Fleur](https://open.spotify.com/album/0NuIQgu6wfFEQ7gyKsgnh2) | 3:48 |
 | 72 | [Sometimes I'm Happy](https://open.spotify.com/track/1aNyLvKxlaRcHq8qswscdo) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Jazz Abroad](https://open.spotify.com/album/1DWLdf4OEK96kgNNozY1i0) | 5:51 |

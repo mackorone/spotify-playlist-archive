@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: 04 Limited Sazabys
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Arakezuri
 
-828 songs - 1 day 19 hr 56 min
+830 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [CHANGE](https://open.spotify.com/track/4n4VNZKDtShFyoM77L2Gni) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [HEARTS BURNING](https://open.spotify.com/album/5aVvzWfairbdVBAT4LnP18) | 2:23 | 2024-04-16 | 2025-03-19 |
 | [CHANGE](https://open.spotify.com/track/5T2GDBSTn6wM21iNWM6Eik) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [HEARTS BURNING](https://open.spotify.com/album/37bmqz9g2Y0PdOWcxQRKaX) | 2:23 | 2024-04-16 | 2024-04-19 |
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
-| [charon](https://open.spotify.com/track/69YwNmEyRLwT9b92Mzzoyi) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [charon](https://open.spotify.com/album/4Ek52lnfKg3amniAROTb5F) | 3:36 | 2025-02-11 |  |
+| [charon](https://open.spotify.com/track/69YwNmEyRLwT9b92Mzzoyi) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [charon](https://open.spotify.com/album/4Ek52lnfKg3amniAROTb5F) | 3:36 | 2025-02-11 | 2025-06-18 |
 | [CHICKEN IS UMAI](https://open.spotify.com/track/1n1Z3y2FMFp10lDSKUhXut) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [CHICKEN IS UMAI](https://open.spotify.com/album/4SuJiKoQUwt8vgvVxGqoGn) | 2:32 | 2024-02-27 | 2024-03-13 |
 | [CHILD WARNING](https://open.spotify.com/track/5ZhBFLj6OxuqHrAve6hXMK) | [Desert Of Tomorrow](https://open.spotify.com/artist/3Ruxig4cBSpuiElh8EtZvt) | [BOKU NO TOMODACHI](https://open.spotify.com/album/4zIgoJjoWvHhoz35xlfnrX) | 4:21 | 2023-06-06 | 2023-06-14 |
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
@@ -129,6 +129,7 @@
 | [dingdong jungle](https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [dingdong jungle](https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh) | 2:53 | 2022-08-02 | 2022-08-10 |
 | [Dirty Party](https://open.spotify.com/track/2UixLInT8vsLbefK63BXLB) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:07 | 2022-05-17 | 2022-07-29 |
 | [DIVE!!!](https://open.spotify.com/track/1pc34YhP1c2OYOzEG3eUEQ) | [skaskaskaclub](https://open.spotify.com/artist/4fYQktTqLvpdHtd8Ue87Fq) | [SKA! SKA! SKA!?](https://open.spotify.com/album/1SXRbcrIquZ3UNLsHP7rWA) | 2:43 | 2024-11-05 | 2025-01-22 |
+| [Don't forget the origin](https://open.spotify.com/track/1KiC3LwXUqkLWxaMXOqHqw) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Don't forget the origin](https://open.spotify.com/album/2kgGK9FDnAC9Vjb2YVejec) | 2:38 | 2025-06-17 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/2umiTDOadc6AtsjCIXBkT7) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:50 | 2022-05-17 | 2022-07-28 |
 | [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 | 2023-04-05 | 2023-10-04 |
 | [DON'T WORRY BE HAPPY](https://open.spotify.com/track/6gbju02JFaEKX7O7XlTUj3) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [GO ON AS YOU ARE](https://open.spotify.com/album/0iDu9vJKEp2zzVAA4kYwPG) | 3:01 | 2022-06-07 | 2024-09-04 |
@@ -450,6 +451,7 @@
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 | 2022-08-26 |
 | [SHOOTING STAR](https://open.spotify.com/track/0cRhcha9tHeClPWA4Gpf4y) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [SUPER DELICIOUS](https://open.spotify.com/album/6l4tkHQQ6pwyAcG57BTXL8) | 2:22 | 2022-05-19 |  |
 | [SHOW YOU MY SOY SAUCE](https://open.spotify.com/track/4hzf8FrONSbzKWqYSWiX5s) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [SHOW YOU MY SOY SAUCE](https://open.spotify.com/album/5KmBmb7US92HxcEY2WcABp) | 4:35 | 2022-11-01 | 2023-01-18 |
+| [Shudaika](https://open.spotify.com/track/3F6gbj4JTiiS0dyh3NcWxZ) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [Shudaika](https://open.spotify.com/album/3pyrybOKQ7SRkMOgoNXiWg) | 3:19 | 2025-06-17 |  |
 | [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-01-12 | 2024-01-17 |
 | [Silent spear](https://open.spotify.com/track/3smaYm50Ivw3v7TVIFtAEo) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/0kO8GOTSHLSriErXdLQhus) | 3:55 | 2022-05-12 | 2022-07-29 |
 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 | 2022-07-21 | 2024-04-19 |
@@ -620,7 +622,7 @@
 | [さらば青春の光 feat\. ザ・森東](https://open.spotify.com/track/0NEhKgTtDyXvYy0uOdw0hN) | [The Cherry Coke$](https://open.spotify.com/artist/6GWciujSDoDzAAEcDp48sp), [ザ・森東](https://open.spotify.com/artist/1XYNQauHdnoJ7GYp9WyDC7) | [LOVE THY DRUNX](https://open.spotify.com/album/1n2g5AkNNm468K3AG3INeo) | 3:48 | 2024-09-03 | 2025-02-16 |
 | [しあわせになる](https://open.spotify.com/track/0LeFkyQOiMMyeiUpuhL2HF) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [しあわせになる](https://open.spotify.com/album/5d6jAVVrGPqrXOHeDZTeyJ) | 1:29 | 2022-05-24 | 2022-07-15 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [\(茜\)](https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR) | 4:23 | 2024-01-25 | 2024-03-10 |
-| [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 | 2024-11-12 |  |
+| [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 | 2024-11-12 | 2025-06-18 |
 | [そういう日もある](https://open.spotify.com/track/0r8wdvoEP9RO17HYvYFnQJ) | [The Docci](https://open.spotify.com/artist/4wqVGKK5aqe2Gzp8Up1jeC) | [そういう日もある](https://open.spotify.com/album/5K2pchdWhbsKvPFa9bxDIU) | 2:11 | 2024-11-05 | 2025-03-12 |
 | [その羅針盤](https://open.spotify.com/track/6cPCs9eghvxx4hMKvLT7U0) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [その羅針盤](https://open.spotify.com/album/3p7JjQ91l4lG4Xtcc5dDb2) | 3:46 | 2022-05-17 | 2022-07-23 |
 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 | 2024-02-13 | 2024-04-01 |

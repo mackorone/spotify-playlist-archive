@@ -2,7 +2,7 @@
 
 ### [reading in a castle](https://open.spotify.com/playlist/37i9dQZF1DX7Cvz40MxQuJ)
 
-> it’s giving medieval castlecore✨
+> it’s giving medieval castlecore✨🥀
 
 71 songs - 3 hr 43 min
 

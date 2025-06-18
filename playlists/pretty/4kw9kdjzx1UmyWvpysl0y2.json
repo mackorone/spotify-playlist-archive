@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125260,
+  "num_followers": 125255,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUM5CygGhNGQRf+FpJl4wdymKDRzjm",
+  "snapshot_id": "AAAUNhnsQ758KIYoVGKSK2SZf2ZmO1gC",
   "tracks": [
+    {
+      "added_at": "2025-06-17 15:20:34",
+      "album": {
+        "name": "Amber Sunlight Falls",
+        "url": "https://open.spotify.com/album/0JpOBCi8iRoiGSHYt9khJL"
+      },
+      "artists": [
+        {
+          "name": "A.M.R",
+          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
+        },
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Amber Sunlight Falls",
+      "url": "https://open.spotify.com/track/4mcGFZGuoRJfrLocxwC11E"
+    },
+    {
+      "added_at": "2025-06-17 15:19:52",
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc"
+    },
     {
       "added_at": "2025-06-13 18:01:27",
       "album": {
@@ -1131,70 +1167,6 @@
       "duration_ms": 265922,
       "name": "colors",
       "url": "https://open.spotify.com/track/70meb0y1oP8OJR0n8RhxZq"
-    },
-    {
-      "added_at": "2025-03-26 14:33:51",
-      "album": {
-        "name": "ALLNIGHT",
-        "url": "https://open.spotify.com/album/1Hb96CttJEa2Il3LVUw7by"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        },
-        {
-          "name": "Guy Arthur",
-          "url": "https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "ALLNIGHT",
-      "url": "https://open.spotify.com/track/3RtcmXL01TskCmEZ1He2rB"
-    },
-    {
-      "added_at": "2025-03-25 15:10:13",
-      "album": {
-        "name": "Love Me, Let Me Go",
-        "url": "https://open.spotify.com/album/5AYD95jvzbiKdnk9K4BHan"
-      },
-      "artists": [
-        {
-          "name": "ORACLE",
-          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
-        },
-        {
-          "name": "Holochrome",
-          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Love Me, Let Me Go",
-      "url": "https://open.spotify.com/track/3gfs6iBl6Zr0f4Lw1lXIqh"
-    },
-    {
-      "added_at": "2025-03-24 14:11:57",
-      "album": {
-        "name": "Blood in the Water",
-        "url": "https://open.spotify.com/album/47QSSm5YYzXzbe2ABmcfds"
-      },
-      "artists": [
-        {
-          "name": "Protostar",
-          "url": "https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH"
-        },
-        {
-          "name": "Laminar",
-          "url": "https://open.spotify.com/artist/7KR2Kk6DSExT2gK5vDHgTr"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
-        }
-      ],
-      "duration_ms": 255743,
-      "name": "Blood in the Water",
-      "url": "https://open.spotify.com/track/64LJtrzSzV08fQ9R1CgRak"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

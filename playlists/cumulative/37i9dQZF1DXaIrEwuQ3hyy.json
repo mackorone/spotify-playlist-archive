@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 165493,
       "name": "alle m\u00e4rchen sind gelogen",
       "url": "https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 145136,
       "name": "Girl at the Station",
       "url": "https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m"
@@ -2057,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+    },
+    {
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -2440,6 +2458,24 @@
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
     },
     {
       "album": {
@@ -3082,7 +3118,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 192989,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"

@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: NXSTY",
-  "num_followers": 262788,
+  "num_followers": 262835,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Damager",
-        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 224591,
-      "name": "Damager",
-      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "VHS RAVE",
         "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
       },
@@ -1175,22 +1155,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Gunfinger (Salute)",
-        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
       "artists": [
         {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         },
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
         }
       ],
-      "duration_ms": 166896,
-      "name": "Gunfinger (Salute)",
-      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
+      "duration_ms": 224591,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1211,6 +1191,26 @@
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Gunfinger (Salute)",
+        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
+      },
+      "artists": [
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 166896,
+      "name": "Gunfinger (Salute)",
+      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Telepathy",
-        "url": "https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Chuurch",
-          "url": "https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA"
-        }
-      ],
-      "duration_ms": 224176,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Pepper",
         "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 148965,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Telepathy",
+        "url": "https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Chuurch",
+          "url": "https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA"
+        }
+      ],
+      "duration_ms": 224176,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Return to the Spectrum of Intergalactic Happiness",
-        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 253260,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Hey Boy Hey Girl (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 192380,
       "name": "Hey Boy Hey Girl - ARTBAT Remix",
       "url": "https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Return to the Spectrum of Intergalactic Happiness",
+        "url": "https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 253260,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -2147,42 +2147,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Death By Love",
-        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Death By Love",
-      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -2207,6 +2171,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "Death By Love",
+        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Death By Love",
+      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Counting (Sammy Virji Remix)",
         "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
       },
@@ -2223,6 +2203,42 @@
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -2251,22 +2267,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
       },
@@ -2283,30 +2283,6 @@
       "duration_ms": 212812,
       "name": "Flex",
       "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
-        "url": "https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Still Loud",
-          "url": "https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
-      "url": "https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -2347,6 +2323,30 @@
       "duration_ms": 260001,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
+        "url": "https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Still Loud",
+          "url": "https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
+      "url": "https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -2531,26 +2531,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Lazarus Rise",
-        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
-      },
-      "artists": [
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        },
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Lazarus Rise",
-      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
       },
@@ -2567,6 +2547,26 @@
       "duration_ms": 145714,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Lazarus Rise",
+        "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
+      },
+      "artists": [
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        },
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Lazarus Rise",
+      "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
     },
     {
       "added_at": "2025-06-06 04:00:14",

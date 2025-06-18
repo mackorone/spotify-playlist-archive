@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes ✨  Cover: DYSTINCT & J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,327 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,345 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 |
-| 2 | [Hit me up \(feat\. Kleine John & Chavanté\)](https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [Hit me up \(feat\. Kleine John & Chavanté\)](https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1) | 2:32 |
+| 2 | [Hit me up \(feat\. Chavanté & Kleine John\)](https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Hit me up \(feat\. Chavanté & Kleine John\)](https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1) | 2:32 |
 | 3 | [Festi](https://open.spotify.com/track/4KxpYIPZazJAptELA0fpVK) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Robin Roxette](https://open.spotify.com/artist/1brrW50XBilcXfvh02W8jV) | [Festi](https://open.spotify.com/album/5nJVq69Pep0uWAvnEspPJJ) | 2:48 |
 | 4 | [Walibi](https://open.spotify.com/track/1GvW7lE2MOYerCvSeHkchG) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Steven Bergwijn](https://open.spotify.com/artist/4hIP6wtjjIZcGFFyDD2zw4), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Eigenwijs \(Deluxe\)](https://open.spotify.com/album/0bjgewTsmIS8VOUdD7PXEO) | 2:32 |
 | 5 | [Ça Va Aller](https://open.spotify.com/track/2LDoYaYjcPdz1yeDX8I84W) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ça Va Aller](https://open.spotify.com/album/7LZNHY662Mi2wSiA6xrbJN) | 2:43 |

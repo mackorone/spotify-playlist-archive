@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmITxTSYkn1.md) - [plain]
 
 > Enjoy the SUGA \| Agust D Seoul concert LIVE SET including the voices of him on stage! \(SUGA \| Agust D의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,211 likes - 29 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,284 likes - 29 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmITxTSYkn1.md) - [plain]
 | 28 | [Intro: Never Mind](https://open.spotify.com/track/6JbPyMiLnWaaKusic64bCq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 2:16 |
 | 29 | [The Last](https://open.spotify.com/track/5GPiG4vIuDfYus1gRcXEok) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 4:05 |
 
-Snapshot ID: `ZKeN/AAAAAAv0t7/6GNx+H5R3/hbXpIU`
+Snapshot ID: `ZKeN/AAAAAANziapANc44LHAaHIYUGT8`

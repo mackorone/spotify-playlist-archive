@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-322 songs - 17 hr 48 min
+323 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Further](https://open.spotify.com/track/5dyh4NnQsrGOpj5xwnfQXE) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [STRNGE](https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr) | [Further](https://open.spotify.com/album/5WfLnXduak0QdyoIzWPaKt) | 5:18 | 2023-04-14 | 2024-06-29 |
 | [Furui ki](https://open.spotify.com/track/74LVrjQFQJwCidkzR5i8r8) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Furui ki](https://open.spotify.com/album/4l2yZHy9PEkHUAeNks26IG) | 3:05 | 2022-10-07 | 2023-04-15 |
 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 | 2023-04-14 |  |
-| [Gekkō](https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Gekkō](https://open.spotify.com/album/1QjSMpgIv97gsI1mHHk0I2) | 3:02 | 2022-03-25 |  |
+| [Gekkō](https://open.spotify.com/track/3BWac5S9EAZiKZD68Spkkc) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Gekkō](https://open.spotify.com/album/1QjSMpgIv97gsI1mHHk0I2) | 3:02 | 2022-03-25 | 2025-06-18 |
 | [Get Down](https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Get Down](https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa) | 3:20 | 2023-04-14 | 2024-08-05 |
 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 | 2022-08-05 |  |
 | [Glass and Plastic \(Instrumental Version\)](https://open.spotify.com/track/2yfAkyDlAzx3zuMvgC0N9g) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS) | [Glass and Plastic](https://open.spotify.com/album/6OvqhTnUPNZ2GSPzp5x8WP) | 3:08 | 2022-03-25 | 2022-04-21 |
@@ -164,6 +164,7 @@
 | [Lilac Luster](https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [Lilac Luster](https://open.spotify.com/album/4lhzopVjTgDpOXIaIlzvLH) | 2:56 | 2022-02-26 | 2022-07-27 |
 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 | 2022-10-07 | 2025-03-29 |
 | [Live a Lie](https://open.spotify.com/track/2pnune4Q29q6bapTi4fqbi) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [ODBLU](https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02) | [Live a Lie](https://open.spotify.com/album/6z1eCfKAUjmQ925Uh8FA10) | 2:15 | 2023-06-09 |  |
+| [Looking 4 Love](https://open.spotify.com/track/3nKX4UBDbwUHLU97LmEOsq) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Looking 4 Love](https://open.spotify.com/album/2HQOiUVmhd2PGJOomZXFBo) | 2:32 | 2025-06-06 |  |
 | [Looking For the Answer](https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Looking For the Answer](https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4) | 5:02 | 2024-10-04 |  |
 | [Looking for You](https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv) | [Novino](https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X) | [Looking for You](https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN) | 1:55 | 2021-12-09 |  |
 | [Lost a Little](https://open.spotify.com/track/0jLVrPpkmHpnqaPj6yzSyK) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Communion](https://open.spotify.com/album/230UdUGhv4EIyXMuygaOUK) | 6:40 | 2021-12-09 | 2022-09-11 |

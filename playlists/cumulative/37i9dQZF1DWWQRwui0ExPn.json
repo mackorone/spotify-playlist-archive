@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "chill beats, lofi vibes, new tracks every day...",
+  "description": "chill beats, lofi vibes, updated daily...",
   "name": "lofi beats",
   "tracks": [
     {
@@ -4206,6 +4206,24 @@
       "duration_ms": 62379,
       "name": "Airport",
       "url": "https://open.spotify.com/track/6dFxxsD6v41RDLEXnrdpFU"
+    },
+    {
+      "album": {
+        "name": "airport business",
+        "url": "https://open.spotify.com/album/2BrSAWpeqUmqmIiW9UZVRk"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114571,
+      "name": "airport business",
+      "url": "https://open.spotify.com/track/4xf7DF3nvlobwr7EvVOQSh"
     },
     {
       "album": {
@@ -47932,7 +47950,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 150361,
       "name": "Getting Higher",
       "url": "https://open.spotify.com/track/4sS1G2SEX7SL8Uu0A1facA"
@@ -48784,7 +48802,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 152030,
       "name": "Glow",
       "url": "https://open.spotify.com/track/7JGMIK6MNkDEoCSsdABXII"
@@ -55466,7 +55484,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 125465,
       "name": "Honey",
       "url": "https://open.spotify.com/track/056qGdXHBPtILAvVAQPWcy"
@@ -115770,7 +115788,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 154083,
       "name": "Spine",
       "url": "https://open.spotify.com/track/7jzNYXL8XzdVsHIa22J6ZJ"
@@ -135112,7 +135130,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 112941,
       "name": "Visions",
       "url": "https://open.spotify.com/track/1JX3hWwJnK0bav5lKcfXaF"

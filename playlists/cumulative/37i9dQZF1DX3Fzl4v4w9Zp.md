@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Watchhouse
 
-809 songs - 2 day 1 hr 48 min
+810 songs - 2 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Don't Let Me Go](https://open.spotify.com/track/60nFcqDHiuyvhkqA74rGtI) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Don't Let Me Go](https://open.spotify.com/album/1yJaFfWN0fAAdA2azfxbzD) | 2:18 | 2024-08-16 | 2024-09-14 |
 | [Don't Let the Darkness \(Radio Version\)](https://open.spotify.com/track/29Jfn6ZkPo0H7YEOkJknb9) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Don't Let the Darkness \(Radio Version\)](https://open.spotify.com/album/3zYNkHRLi3GhU4SX5DMPS7) | 3:26 | 2023-04-28 | 2024-09-14 |
 | [Don't You Dare](https://open.spotify.com/track/5aIFNXTYDWog2VBfG0BJq2) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Downbeat](https://open.spotify.com/album/2UWuWpmpyvMwrdYsOqPlk9) | 2:58 | 2024-12-13 |  |
+| [Don’t Let The Bastards Get You Down](https://open.spotify.com/track/31MhQCQBolGgBL02vqUsrW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Don't Let The Bastards Get You Down](https://open.spotify.com/album/6iB4qTI8KjcY7xgofIfTgp) | 2:51 | 2025-06-17 |  |
 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 | 2025-01-31 |  |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-08-05 | 2024-04-19 |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 | 2022-02-25 | 2024-07-06 |

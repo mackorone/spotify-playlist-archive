@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: David Guetta",
+  "description": "The biggest Dance hits and the ones to come. Cover: Safri Duo, Noel Holler",
   "name": "Main Stage",
   "tracks": [
     {
@@ -758,7 +758,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 111529,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/0acm2odfDKZzuRLrViBnTb"
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 174857,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/2RqVeoxgtf7KdpDSz7hn45"
@@ -6573,6 +6573,28 @@
     },
     {
       "album": {
+        "name": "Hardcore",
+        "url": "https://open.spotify.com/album/5dqoKNRoy5TLei1m4ZwXpI"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120032,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/6mCfhq2NK40JDgJpPiSpgz"
+    },
+    {
+      "album": {
         "name": "Hardcore Life",
         "url": "https://open.spotify.com/album/5X1PekHnwlJYIb8GkgpDUp"
       },
@@ -7208,6 +7230,24 @@
       "duration_ms": 119683,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/7rnw5Lp4zlqbbDeDHwCrwE"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh"
+      },
+      "artists": [
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134220,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
     },
     {
       "album": {
@@ -11798,7 +11838,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 152300,
       "name": "Nur Der Rave",
       "url": "https://open.spotify.com/track/6IX5t9kJOG9eYRMrKHyLi2"
@@ -13653,6 +13693,24 @@
     },
     {
       "album": {
+        "name": "Rise Or Fall",
+        "url": "https://open.spotify.com/album/3zD8OTVh7lKzY5ttZTYvYx"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174336,
+      "name": "Rise Or Fall",
+      "url": "https://open.spotify.com/track/0utKSgpLU8PPWh8rTx5TyU"
+    },
+    {
+      "album": {
         "name": "River Flows in You",
         "url": "https://open.spotify.com/album/3zbS7TJuKN7mjm6EGQ5CCy"
       },
@@ -14800,7 +14858,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 127200,
       "name": "Sound of da Police (with DES3ETT)",
       "url": "https://open.spotify.com/track/3g3kOgJyakUFt8FClE2EbQ"
@@ -15870,6 +15928,24 @@
       "duration_ms": 182343,
       "name": "The Final Countdown 2025",
       "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
+    },
+    {
+      "album": {
+        "name": "The Glen (Levi Heron Edit)",
+        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
+      },
+      "artists": [
+        {
+          "name": "Levi Heron",
+          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "The Glen - Levi Heron Edit",
+      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
     },
     {
       "album": {

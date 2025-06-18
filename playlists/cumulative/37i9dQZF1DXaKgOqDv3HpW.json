@@ -4340,7 +4340,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 193239,
       "name": "Ons",
       "url": "https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM"
@@ -5539,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "Solace in the Shadows",
+        "url": "https://open.spotify.com/album/2DHSBPuM9Z5hmU1Jfl0Qnx"
+      },
+      "artists": [
+        {
+          "name": "Noctivelle",
+          "url": "https://open.spotify.com/artist/78M5cxVaEF6dh65RntlKbq"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172106,
+      "name": "Solace in the Shadows",
+      "url": "https://open.spotify.com/track/3ag1OPMgJfvMZgXSVn5Qju"
+    },
+    {
+      "album": {
         "name": "Somnia",
         "url": "https://open.spotify.com/album/6ywEUWnDgNnFPszhzYMJng"
       },
@@ -6061,6 +6079,24 @@
     },
     {
       "album": {
+        "name": "Tikal",
+        "url": "https://open.spotify.com/album/63WHoBmoPhLexglwoKtQPu"
+      },
+      "artists": [
+        {
+          "name": "Echoes of Embers",
+          "url": "https://open.spotify.com/artist/7MwzUYxIJX8T2qqwLBAlGH"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209144,
+      "name": "Tikal",
+      "url": "https://open.spotify.com/track/1tCbkqQkZBAEaMd1gqX5LO"
+    },
+    {
+      "album": {
         "name": "Timeout",
         "url": "https://open.spotify.com/album/65rzJn8WfdQBIY7POEPF60"
       },
@@ -6180,7 +6216,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 165076,
       "name": "Unified",
       "url": "https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p"

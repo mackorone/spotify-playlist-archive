@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374,810 likes - 104 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,767 likes - 104 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 103 | [32 Freestyle](https://open.spotify.com/track/0obPh9Q2J9vcIFsyhDjDkF) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Drill Season \(Extended\)](https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG) | 2:25 |
 | 104 | [Bundle Of Sticks](https://open.spotify.com/track/6rLgFcrZmYEJs6oM4nxpPr) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Bundle Of Sticks](https://open.spotify.com/album/0b4W9PteoO5ZuFrtHQGIqj) | 2:47 |
 
-Snapshot ID: `aC/y6gAAAADvLJat148ugHqtpGaCtLOc`
+Snapshot ID: `AAAAAK/o/9xEs6Q9TME/ZWCnwtgqfs3d`

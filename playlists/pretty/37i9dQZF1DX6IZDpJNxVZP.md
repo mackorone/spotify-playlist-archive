@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,066 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,053 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 64 | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/album/1xwaYpB7sL80dl0WOoXZRi) | 2:20 |
 | 65 | [Skeleton Dance](https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 2:06 |
 | 66 | [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 |
-| 67 | [Bump in the Night](https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [The Best Halloween Stories for Kids](https://open.spotify.com/album/1ksHEut4cKxzLXLBJemmrO) | 2:30 |
-| 68 | [I Put A Spell On You](https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [57 Kids Greatest Halloween Songs, Stories, And Sounds](https://open.spotify.com/album/4OcOuar3UJlTx2GWPrgyF6) | 3:21 |
+| 67 | [I Put A Spell On You](https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [57 Kids Greatest Halloween Songs, Stories, And Sounds](https://open.spotify.com/album/4OcOuar3UJlTx2GWPrgyF6) | 3:21 |
+| 68 | [Bump in the Night](https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [The Best Halloween Stories for Kids](https://open.spotify.com/album/1ksHEut4cKxzLXLBJemmrO) | 2:30 |
 | 69 | [Dracula Spectacular](https://open.spotify.com/track/6gwDeVwI15lBvjmwD8DDJy) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo), [John Bayne](https://open.spotify.com/artist/0ZoZ7pugjYl61hJRsq78AE) | [Dracula Spectacular](https://open.spotify.com/album/1rtVFcWEp7y8OvgRaszQHc) | 2:29 |
 | 70 | [Stirring The Brew](https://open.spotify.com/track/4B1rz3ylnsQrrsalWIKlOU) | [Jennielea](https://open.spotify.com/artist/6P6UPaX07Ha288fcXwWRKZ) | [It's Me Jennielea And My Very First CD](https://open.spotify.com/album/16pLEdHtvubzyrhy8AOzeq) | 0:58 |
 | 71 | [Shake Your Bones](https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:41 |

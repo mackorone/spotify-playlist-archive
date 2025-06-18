@@ -10299,6 +10299,28 @@
     },
     {
       "album": {
+        "name": "Tears of Flowers",
+        "url": "https://open.spotify.com/album/6sbC1C9lEj4o7uEIBuR5P6"
+      },
+      "artists": [
+        {
+          "name": "mixty",
+          "url": "https://open.spotify.com/artist/2gXRm46OQBjXZB5oBzBjP2"
+        },
+        {
+          "name": "konoco",
+          "url": "https://open.spotify.com/artist/6HsCnf0xpVFfDiS4Sa7r8T"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "You and me",
+      "url": "https://open.spotify.com/track/7Msc6E2IMQMhm8HJ6ZmUBu"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30a7\u30a4\u30af\u30ef\u30fc\u30eb\u30c9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
         "url": "https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR"
       },
@@ -15882,7 +15904,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 74666,
       "name": "\u770b\u4e0d\u898b",
       "url": "https://open.spotify.com/track/0LlriVGWQT8YP15wyAXXcA"

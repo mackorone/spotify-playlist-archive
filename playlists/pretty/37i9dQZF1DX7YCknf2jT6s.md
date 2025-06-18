@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,861 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,838 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 15 | [Love Comes Around](https://open.spotify.com/track/1Vb7SN5IFTrmCyzQ9K4fPr) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Love Comes Around](https://open.spotify.com/album/3rRVHhOW3R6sAXDnrOmqzy) | 4:18 |
 | 16 | [Angels Speak / Lovingly](https://open.spotify.com/track/71ZgM4CqEVI0pG8fLdBL6L) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Ones & Twos \(Expanded Edition\)](https://open.spotify.com/album/0mCg5NLbnyao8s6bTmbg9c) | 3:55 |
 | 17 | [Forgive the Damages \(feat\. Daudi Matsiko\)](https://open.spotify.com/track/3D2hY0e8WbdJZxkWIgBfZP) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L), [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Forgive the Damages \(feat\. Daudi Matsiko\)](https://open.spotify.com/album/6hfOwRTlt7QNBSdUVhr3Mb) | 4:10 |
-| 18 | [Borrowed Eyes](https://open.spotify.com/track/5TOkkMmXaifXBz46FYpNn8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Borrowed Eyes](https://open.spotify.com/album/2KiYGwR4EB4rqfWieNWJqS) | 5:51 |
+| 18 | [Borrowed Eyes](https://open.spotify.com/track/5TOkkMmXaifXBz46FYpNn8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Paul Cornish](https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON), [Philip Norris](https://open.spotify.com/artist/2im20up8riHLPljFBfanoV), [Nazir Ebo](https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI) | [Borrowed Eyes](https://open.spotify.com/album/2KiYGwR4EB4rqfWieNWJqS) | 5:51 |
 | 19 | [MINDRUM](https://open.spotify.com/track/3ZWu8J5rjhOZ6QM6FHUSJV) | [40 Winks](https://open.spotify.com/artist/1Sayx62gnPCTawjndMhbnb) | [MINDRUM](https://open.spotify.com/album/037bkOWUIHZpZqUgwilw2e) | 2:42 |
 | 20 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
 | 21 | [Kaleidoscopes](https://open.spotify.com/track/2V5TR2NkI29foggEFzgNvd) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Edmar Castañeda](https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [BEATrio](https://open.spotify.com/album/4qZ6AQOEGQVpyI3iyEhFQB) | 5:35 |

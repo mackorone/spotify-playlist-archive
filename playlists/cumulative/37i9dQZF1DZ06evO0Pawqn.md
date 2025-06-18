@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 58 min
+96 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Vamos A Olvidarnos De Ella](https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Voy A Pedirte Perdón](https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6) | 3:28 | 2023-06-11 | 2025-04-27 |
 | [Veinte más](https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amistades](https://open.spotify.com/album/44LrvNvSvNp8Hwmo9twwYs) | 3:12 | 2022-06-21 |  |
 | [Voy A Pedirte Perdón](https://open.spotify.com/track/4sZTj0NhsOlDUeoWT1FS1R) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Voy A Pedirte Perdón](https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6) | 3:38 | 2022-06-01 | 2022-11-21 |
-| [Ámame](https://open.spotify.com/track/6owabuNHYOVItdbqOnBY7u) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Ámame](https://open.spotify.com/album/15gFzZN1B1Juk2LwyPehBA) | 3:10 | 2025-03-23 |  |
+| [Ámame](https://open.spotify.com/track/3t1AQm7juov3w5TBNTSbcV) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Eco Del Corazón](https://open.spotify.com/album/3d0FPK2ETYLd7hfNoCEGiu) | 3:10 | 2025-06-18 |  |
+| [Ámame](https://open.spotify.com/track/6owabuNHYOVItdbqOnBY7u) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Ámame](https://open.spotify.com/album/15gFzZN1B1Juk2LwyPehBA) | 3:10 | 2025-03-23 | 2025-06-18 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

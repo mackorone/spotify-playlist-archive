@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87417,
+  "num_followers": 87427,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABwWyzHSYl37MtN65UZtytr",
+  "snapshot_id": "aE9egAAAAAD21OonRKLweGMTjjXUpZI9",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Angles",
-      "url": "https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fast Car (Remixes)",
         "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 330967,
       "name": "Fast Car - Club Mix",
       "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Angles",
+      "url": "https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP"
     },
     {
       "added_at": null,
@@ -983,30 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cyan",
-        "url": "https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        },
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        }
-      ],
-      "duration_ms": 198090,
-      "name": "Don't Call It Love",
-      "url": "https://open.spotify.com/track/6NKOAdHTXONN0IZaekxifN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Life Is Music (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/7yU6y0IozptVKBqZLvPNeP"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 195483,
       "name": "My Life Is Music - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/6y9T9t3OKxRGip4L1Ez345"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 198090,
+      "name": "Don't Call It Love",
+      "url": "https://open.spotify.com/track/6NKOAdHTXONN0IZaekxifN"
     },
     {
       "added_at": null,

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Bruton BRN5: New Horizons/The Seven Wonders of the World",
+        "url": "https://open.spotify.com/album/1do4QpMKpNf0ASp8VFtbxO"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90506,
+      "name": "Ancient Pyramids",
+      "url": "https://open.spotify.com/track/0M5J9K1HnxXJn1Grk6Y6nH"
+    },
+    {
+      "album": {
         "name": "Impressions",
         "url": "https://open.spotify.com/album/4txuWPwrvExlcoJuTX0tsK"
       },
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 278440,
       "name": "Lazy Evening Blues",
       "url": "https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu"
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 172266,
       "name": "Senior Thump",
       "url": "https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 192693,
       "name": "Sky",
       "url": "https://open.spotify.com/track/7Jr8CUKxhACgEPSWJJmdJm"

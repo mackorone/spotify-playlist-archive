@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Tramaine Hawkins, Chicago Mass Choir and more
+> With Sunday Service Choir, Chicago Mass Choir, Kelontae Gavin and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 247 likes - 50 songs - 3 hr 48 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [The Best Day of My Life](https://open.spotify.com/track/2tCeJtxgpzRZ0IGJS2jP6k) | [The Potter's House Denver Choir](https://open.spotify.com/artist/1oHbAS0dwGnY1UesBLqtkd) | [The Best Day of My Life](https://open.spotify.com/album/0cqhH97NB66Nc0kGX97g5D) | 4:30 |
 | 50 | [This Is How I'm Telling It Now](https://open.spotify.com/track/2V657fsNLpR0Fg6jafgJPA) | [Mikael Karlsson](https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx), [Callie Day](https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH) | [Play \(Original Soundtrack\)](https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz) | 6:41 |
 
-Snapshot ID: `aFC7LAAAAAC28UkuPVAIcVnwf4GYzbY8`
+Snapshot ID: `aFI0PwAAAABLs2jcw5nnoVMkt6AjagWy`

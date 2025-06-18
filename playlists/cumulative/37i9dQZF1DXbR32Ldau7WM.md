@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock artists in Japan right now!  Cover: Penthouse
+> The biggest rock artists in Japan right now!  Cover: Vaundy
 
-1,303 songs - 3 day 13 hr 32 min
+1,306 songs - 3 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 | 2022-05-12 | 2023-05-31 |
 | [Backseat](https://open.spotify.com/track/1BSPzJUlehqKGH7usVYCCE) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 2](https://open.spotify.com/album/39Vo0c5IAQGV6FeM79yVPi) | 3:31 | 2024-10-08 | 2024-12-06 |
 | [Bad Kids All Bet](https://open.spotify.com/track/0y5QgAAEZoqStDtz5XGJlV) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Bad Kids All Bet](https://open.spotify.com/album/2Yb6OebNGpCjyTf4dddU7A) | 3:48 | 2025-01-07 | 2025-01-15 |
+| [BALLOON](https://open.spotify.com/track/3ylzepqjUnZnd8CbCYveNk) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [BALLOON](https://open.spotify.com/album/5Fs8gdLY5U8qRFFmUdfkCL) | 3:56 | 2025-06-17 |  |
 | [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/13rKSOM1pQ3JFs7WQrlwxu) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:41 | 2022-11-22 | 2022-11-24 |
 | [BAN BAN BAN \[2022 Remaster\]](https://open.spotify.com/track/6u0171YtwplrmpXqsWOWGb) | [KUWATA BAND](https://open.spotify.com/artist/3PJilv6F07BzEjSpkAXoOl) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:41 | 2022-11-22 | 2022-11-30 |
 | [BANTAM](https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [BANTAM](https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI) | 3:34 | 2023-02-03 | 2023-06-28 |
@@ -243,7 +244,7 @@
 | [Gimme Danger](https://open.spotify.com/track/0EMMrM5hAZZliFfJp4G8P6) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Gimme Danger](https://open.spotify.com/album/2HzVeup7X7tAG1vc5gKFMm) | 3:25 | 2022-05-24 | 2022-05-29 |
 | [GIMME GIMME feat\. OKAMOTOSHO](https://open.spotify.com/track/5lkeIGCoo8LD87IcJlzjB0) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F), [OKAMOTOSHO](https://open.spotify.com/artist/31V4UmyRGvnSehtFbKWmtT) | [GIMME GIMME feat\. OKAMOTOSHO](https://open.spotify.com/album/7Ka0GIIBtlpdu3afHTab2y) | 2:49 | 2023-06-20 | 2023-07-12 |
 | [GIMME GIMME feat\. オカモトショウ](https://open.spotify.com/track/1ugozcVrbEiQppq5l45JMk) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F), [SHO OKAMOTO](https://open.spotify.com/artist/6Sh87t8almBljHAaBfKzaU) | [GIMME GIMME feat\. オカモトショウ](https://open.spotify.com/album/3IQhTaGN0nmA4Ms6Amts1X) | 2:49 | 2023-06-20 | 2023-06-22 |
-| [GIRAGIRA HIKARU](https://open.spotify.com/track/4VngTGYxBpVtesyb4h9p8u) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [GIRAGIRA HIKARU](https://open.spotify.com/album/4VnG1rVx3SRKhSmjlCQ3Qa) | 3:10 | 2025-04-08 |  |
+| [GIRAGIRA HIKARU](https://open.spotify.com/track/4VngTGYxBpVtesyb4h9p8u) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [GIRAGIRA HIKARU](https://open.spotify.com/album/4VnG1rVx3SRKhSmjlCQ3Qa) | 3:10 | 2025-04-08 | 2025-06-18 |
 | [GO!!!\(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/2xviYduF3PGpFsxyGp4f0B) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GO!!!\(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/3XMc4oQZGmdkKRznV1TTMf) | 3:59 | 2023-06-27 | 2023-08-09 |
 | [Go\-Go B\-T TRAIN](https://open.spotify.com/track/20kkufroX5Kg3C6sXSKCTU) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Go\-Go B\-T TRAIN](https://open.spotify.com/album/5Xx4uxV38Vn7MRroWJYxaD) | 3:56 | 2022-06-02 | 2022-06-09 |
 | [GOLGOTHA](https://open.spotify.com/track/4lMbbEQjE4lFg2ABotxBx9) | [Genesis Girl](https://open.spotify.com/artist/4GRQ4teVPBpAsJjJL89hcw) | [GOLGOTHA](https://open.spotify.com/album/4yJyZP1AAEQqjlDazONwaS) | 4:58 | 2025-02-25 | 2025-03-05 |
@@ -260,7 +261,7 @@
 | [hellboy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/track/3eQ9FDoMOunYuuJVVlPmxV) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Shaka Bose](https://open.spotify.com/artist/2T7vRIAvrUUUKATk6IcZma) | [hellboy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/album/6eqBeYoz4XJ5x5211nAj3L) | 3:32 | 2022-05-10 | 2022-05-23 |
 | [Hello Stray Kitty](https://open.spotify.com/track/0sg5ungKUSkUVWkNIJS67m) | [LEGO BIG MORL](https://open.spotify.com/artist/6AbHzcOyvyvubx7AcyQ1f9) | [Hello Stray Kitty](https://open.spotify.com/album/3SW6tUBW2lmmVEPzD8WVxc) | 3:11 | 2022-05-24 | 2022-06-09 |
 | [Hello\. I love you](https://open.spotify.com/track/6Ii2BslnUonm8N8OwKfZ2h) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [No more cry](https://open.spotify.com/album/3dLb0zF4wHNks6n9oeHryj) | 3:55 | 2023-10-24 | 2023-11-18 |
-| [HEROES](https://open.spotify.com/track/0kz76dzitoNPSMofTvnrCY) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [HEROES](https://open.spotify.com/album/2fit6fQH4QH21iKV4emyQj) | 3:43 | 2025-05-21 |  |
+| [HEROES](https://open.spotify.com/track/0kz76dzitoNPSMofTvnrCY) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [HEROES](https://open.spotify.com/album/2fit6fQH4QH21iKV4emyQj) | 3:43 | 2025-05-21 | 2025-06-18 |
 | [Highway Star](https://open.spotify.com/track/0e3o4DWPmvMwcxVNRiqhqh) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Highway Star](https://open.spotify.com/album/3Gvk9jB4rHT53YWr7as6bx) | 5:49 | 2023-08-22 | 2023-09-06 |
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-09 | 2024-01-17 |
 | [HONEY \- Remastered 2022](https://open.spotify.com/track/4BFWM87zjensjLlOjnlNqE) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ray \(Remastered 2022\)](https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq) | 3:48 | 2022-05-17 | 2022-06-15 |
@@ -455,7 +456,7 @@
 | [night is young](https://open.spotify.com/track/1DFIsmIyKn3Fepy3vwVOt1) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [nightlife](https://open.spotify.com/album/1cGjm9a7YRTf4cLDl79tgy) | 5:44 | 2025-01-07 | 2025-02-26 |
 | [Nihil Pip Viper](https://open.spotify.com/track/5qko3Om0sSANw6k1pe97GT) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Nihil Pip Viper](https://open.spotify.com/album/0ksgy0hgDdzlVey9LueA5v) | 4:03 | 2022-05-10 | 2022-07-24 |
 | [Nimby](https://open.spotify.com/track/4Gfy00cHRDU1u1uJdbOYqf) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Nimby](https://open.spotify.com/album/7gZGcOXNKumRKcSOxc1qzy) | 4:23 | 2023-08-31 | 2023-09-06 |
-| [NO MAP](https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NO MAP](https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa) | 3:55 | 2025-06-11 |  |
+| [NO MAP](https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NO MAP](https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa) | 3:55 | 2025-06-11 | 2025-06-18 |
 | [No more cry](https://open.spotify.com/track/0pxhbWaseLjZbcFCKpMrn3) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [No more cry](https://open.spotify.com/album/6zpFA9iNwQHkV4xSXzIQEK) | 4:38 | 2023-10-10 | 2024-02-21 |
 | [No more ステートメント](https://open.spotify.com/track/4OeYtOIASIY9bBF0v8MDqK) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [No more ステートメント](https://open.spotify.com/album/41HbWao46UHDzaD9GMOZHD) | 2:57 | 2022-06-02 | 2022-06-05 |
 | [Nowhere](https://open.spotify.com/track/3dqh1uFzMF44p7yjSkxXIm) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [THE SPELLBOUND](https://open.spotify.com/album/3MZXw1nHoIRIyWK0H091xa) | 4:31 | 2022-05-10 | 2022-07-25 |
@@ -484,6 +485,7 @@
 | [Over the rain\~Hikari no hashi\~ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/7cjE6T1u6wqUY3jtNW3g95) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Over the rain\~Hikari no hashi\~ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/3gsC9sx5X4FKPG30MPD8BR) | 4:38 | 2023-08-15 | 2023-09-13 |
 | [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 | 2024-10-15 | 2024-11-06 |
 | [O•TA•KUラブリー伝説 \- WAZGOGG Remix](https://open.spotify.com/track/1imI1S8hasltuLm4soq4E2) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [おいしいサバイバー](https://open.spotify.com/album/3dGJibXKM0J2axOfKP9wmA) | 3:52 | 2025-03-11 | 2025-03-19 |
+| [pained](https://open.spotify.com/track/4fLu1o9tL4Fg7Zh7y4P7mK) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [pained](https://open.spotify.com/album/7xNiLmGaSSoAwNw0d9btaM) | 4:12 | 2025-06-17 |  |
 | [PANDORA](https://open.spotify.com/track/0t5oZjUlb7aWEA5Hq0NAHT) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [PANDORA](https://open.spotify.com/album/5TGGYuJI3ajYoww04In6m6) | 3:56 | 2022-10-20 | 2022-11-18 |
 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 | 2022-05-12 | 2022-12-21 |
 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 | 2022-05-10 | 2024-02-07 |
@@ -1052,6 +1054,7 @@
 | [倍で返せ!](https://open.spotify.com/track/7DkNvI8C53akPoTvlS57Pg) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Crank Up](https://open.spotify.com/album/01EQVPGQUMByR3n7Iw1Wbw) | 3:14 | 2022-05-22 | 2022-07-14 |
 | [停電の夜](https://open.spotify.com/track/7ibDLAuIqEXSjUiX3A8UBq) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Almost there](https://open.spotify.com/album/6cy2wDhe9ANMhUOUpEaYqq) | 3:47 | 2023-09-26 | 2023-09-28 |
 | [僕から君へ \- BLUE ver.](https://open.spotify.com/track/4eTeVITGYLLkbkY6J6aSR1) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [僕から君へ \(BLUE ver.\)](https://open.spotify.com/album/0P67MbLvjs4Yj5dld53viS) | 4:56 | 2025-02-04 | 2025-03-05 |
+| [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 | 2025-06-17 |  |
 | [僕的地](https://open.spotify.com/track/4R254nmfaMgvgZH0cwSZf9) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [僕的地](https://open.spotify.com/album/7GegHcxnmBQT0yFxrVbPqp) | 4:41 | 2022-05-17 | 2022-07-11 |
 | [儚くない](https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [儚くない](https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2) | 5:10 | 2023-07-04 | 2024-02-07 |
 | [先輩](https://open.spotify.com/track/0XugWVvzcLN7nHFEk8bgyH) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [THE YⒶNK ROCK HERØES](https://open.spotify.com/album/60pDYcWPB5rLvI1tB8Y7RS) | 3:45 | 2023-01-03 | 2023-01-18 |

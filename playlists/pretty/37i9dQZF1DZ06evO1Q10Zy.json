@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 37010,
+  "num_followers": 37014,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAACuXns9wL/CRyA8jsLidOci",
+  "snapshot_id": "aE9egAAAAACV3IOB8FNmf1CslrvB4Fu3",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonafide",
-        "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 273400,
-      "name": "Someone to Love (feat. Babyface)",
-      "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 265240,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/6NKtO7hYNDtjGFXE858qEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 273400,
+      "name": "Someone to Love (feat. Babyface)",
+      "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Return Of The Tender Lover",
-        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 340386,
-      "name": "Exceptional",
-      "url": "https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girls Night Out (Extended)",
         "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 195579,
       "name": "Sometimes (with Jenevieve)",
       "url": "https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Return Of The Tender Lover",
+        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 340386,
+      "name": "Exceptional",
+      "url": "https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Sorry For The Stupid Things - Main",
-      "url": "https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 188761,
       "name": "The Recipe (with Muni Long)",
       "url": "https://open.spotify.com/track/4xDoRWwnUASi910ArPewng"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Sorry For The Stupid Things - Main",
+      "url": "https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL"
     },
     {
       "added_at": null,
@@ -920,13 +920,13 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         },
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 201528,
-      "name": "Girls Night Out (with Doechii)",
-      "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
+      "duration_ms": 195097,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 
 > White noise for studying and concentration
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,852 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,967 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 | 53 | [White Heaven](https://open.spotify.com/track/6QC5r7XJPiyn92rOWpLkc6) | [Ambinima](https://open.spotify.com/artist/1DtkBjA8TFpAlXxOHxCqta) | [Placid Noise](https://open.spotify.com/album/2BOzypucqC7iyUbofB6gWn) | 2:59 |
 | 54 | [Pink Noise for Sleeping](https://open.spotify.com/track/2ex3O9bv4muJcuVI3BQbtj) | [Falling into Pink](https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN) | [Pink Noise Sleep](https://open.spotify.com/album/4B143uGP1Wwhb5xO95nvaS) | 3:39 |
 
-Snapshot ID: `Z/5rDQAAAAD7N85EG/6/P+ZNW7g0Rsrf`
+Snapshot ID: `Z/5rDQAAAABo7WPgdOqqOG0H2d/89cGr`

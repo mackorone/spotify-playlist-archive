@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAADbmnfdOKrw3Fk39MI6peV7",
+  "snapshot_id": "aE9egAAAAACX8sJwQaVvgscmK6lBoGoJ",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Reset (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6R4piIcuskKcDClsZbwTap"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "darkhorse",
         "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
       },
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Take It To The Bridge",
-      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196160,
+      "name": "Take It To The Bridge",
+      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
     },
     {
       "added_at": null,

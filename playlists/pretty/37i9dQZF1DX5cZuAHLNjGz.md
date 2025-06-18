@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,739 likes - 101 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,925 likes - 101 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

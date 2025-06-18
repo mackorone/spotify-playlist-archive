@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 
 > An introduction to Giacomo Puccini, one of the great Italian opera composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,616 likes - 71 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,623 likes - 71 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 | 70 | [Puccini: Crisantemi](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria, Preludio sinfonico, Crisantemi](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
 | 71 | [La fanciulla del West, SC 78: Ch'ella mi creda](https://open.spotify.com/track/0RfRziyxSbzAyLDsKuMiQP) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Jonathan Tetelman](https://open.spotify.com/artist/1R6qryuCn32Ig78bYV3uJU), [PKF – Prague Philharmonia](https://open.spotify.com/artist/4lnqr8PGdrwgyUeRfzHoZX), [Carlo Rizzi](https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf) | [The Great Puccini](https://open.spotify.com/album/3jXBDXu9NiK2Jsr6gi8aUs) | 1:47 |
 
-Snapshot ID: `AAAAAA9HZaPhc31E/KtYGMxyQNmOjXT4`
+Snapshot ID: `ZwlAKAAAAAAvQnX1A3L6OzVgbpHKVj5L`

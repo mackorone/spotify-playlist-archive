@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -4126,7 +4126,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
@@ -6083,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185869,
+      "name": "CUANDO HABLES CON \u00c9L",
+      "url": "https://open.spotify.com/track/3HwOh611McmotNJOLEb66y"
+    },
+    {
+      "album": {
         "name": "Cuando Se Te Moja La Tare",
         "url": "https://open.spotify.com/album/1yFMpxt43h5giRPJka6VS8"
       },
@@ -7348,7 +7366,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -7458,7 +7476,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 222626,
       "name": "DROGA",
       "url": "https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE"
@@ -9743,6 +9761,24 @@
     },
     {
       "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
+    },
+    {
+      "album": {
         "name": "LP1",
         "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
@@ -10819,6 +10855,24 @@
     },
     {
       "album": {
+        "name": "Golfista",
+        "url": "https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158927,
+      "name": "Golfista",
+      "url": "https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
@@ -11198,7 +11252,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 209333,
       "name": "Hawaiian Roller Coaster Ride",
       "url": "https://open.spotify.com/track/5coZgMb9D2sypM21bwEOAq"
@@ -12741,6 +12795,24 @@
     },
     {
       "album": {
+        "name": "El Club de la Pelea I",
+        "url": "https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229503,
+      "name": "Irme Lejos",
+      "url": "https://open.spotify.com/track/6s4DqpmFSFBx1pKrh4TgkO"
+    },
+    {
+      "album": {
         "name": "Persona 3 Reload Original Soundtrack",
         "url": "https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv"
       },
@@ -12938,6 +13010,28 @@
       "duration_ms": 141557,
       "name": "Juntala Seco - Municiones",
       "url": "https://open.spotify.com/track/1tD17M0QjBybDHl9NWSxVN"
+    },
+    {
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
       "album": {
@@ -16626,7 +16720,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 269720,
       "name": "MIL VIDAS",
       "url": "https://open.spotify.com/track/3bn6CxnWxuvYZz3i9vE2dc"
@@ -16884,6 +16978,28 @@
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
+    },
+    {
+      "album": {
+        "name": "Montagem Bandido",
+        "url": "https://open.spotify.com/album/6uB5gLHk5SnUN9oDP0ADBy"
+      },
+      "artists": [
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "Itamar Mc",
+          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86953,
+      "name": "Montagem Bandido",
+      "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
     },
     {
       "album": {
@@ -18319,6 +18435,24 @@
     },
     {
       "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
@@ -19338,7 +19472,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/4581iSIX0QZNNzAQRysF3k"
@@ -19872,7 +20006,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 212000,
       "name": "ONLINE",
       "url": "https://open.spotify.com/track/66ChRTsE2NVt5wQ1XbEQzQ"
@@ -20971,6 +21105,28 @@
     },
     {
       "album": {
+        "name": "Perfecto Final",
+        "url": "https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206633,
+      "name": "Perfecto Final",
+      "url": "https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj"
+    },
+    {
+      "album": {
         "name": "Performance Actitud (Pose)",
         "url": "https://open.spotify.com/album/1vWSxIGggXfHAxypX6INhv"
       },
@@ -21668,7 +21824,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 142520,
       "name": "Pretty Little Baby",
       "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
@@ -22252,7 +22408,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 176481,
       "name": "qu\u00e9date",
       "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
@@ -22416,7 +22572,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 231999,
       "name": "RAMEN PARA DOS",
       "url": "https://open.spotify.com/track/0vcuJjViqrFCCWUrjrZW1X"
@@ -23062,7 +23218,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -23080,7 +23236,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -24712,6 +24868,28 @@
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
+    },
+    {
+      "album": {
+        "name": "SOLEAO",
+        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218305,
+      "name": "SOLEAO",
+      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
     },
     {
       "album": {
@@ -27261,6 +27439,32 @@
     },
     {
       "album": {
+        "name": "Tipo Nino Vs Kabrinha",
+        "url": "https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH"
+      },
+      "artists": [
+        {
+          "name": "DJ Biel Divulga",
+          "url": "https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "Mc Lek\u00e3o",
+          "url": "https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Tipo Nino Vs Kabrinha",
+      "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
+    },
+    {
+      "album": {
         "name": "80'z",
         "url": "https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G"
       },
@@ -27666,6 +27870,40 @@
       "duration_ms": 165790,
       "name": "Triple Lavada",
       "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
+    },
+    {
+      "album": {
+        "name": "Triple Lavada (feat. Victor Mendivil) [Remix]",
+        "url": "https://open.spotify.com/album/7y4nm8LYH9XRYAbdMh5SWH"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287679,
+      "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
+      "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
     },
     {
       "album": {
@@ -28116,7 +28354,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/1xCD7ccEtiylN6BBJ4ogXF"
@@ -28858,6 +29096,28 @@
       "duration_ms": 158720,
       "name": "Vem Novinha pro Cafofo",
       "url": "https://open.spotify.com/track/2XB2Mq2J3695WoYrIOljUZ"
+    },
+    {
+      "album": {
+        "name": "Vem Vem",
+        "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
+      },
+      "artists": [
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83183,
+      "name": "Vem Vem",
+      "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
       "album": {

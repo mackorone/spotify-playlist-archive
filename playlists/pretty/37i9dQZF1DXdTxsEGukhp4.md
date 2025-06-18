@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 紫 今
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,656 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,682 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 33 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 | 34 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
 | 35 | [電車の窓から](https://open.spotify.com/track/7eED5ZjvphcEaQjxkzsvBP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アンコール](https://open.spotify.com/album/4BciHYMbN5HlyO899tmMc9) | 4:52 |
-| 36 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
+| 36 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 37 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 38 | [Giri Giri](https://open.spotify.com/track/2D5TDcdWIZLMKZ5xPYXRwq) | [KOMOREBI](https://open.spotify.com/artist/1T7UDf2UKWE7gsvwvsuxRD) | [Giri Giri](https://open.spotify.com/album/5u7gdArPPixjWZlD34MntD) | 2:14 |
 | 39 | [Shopping Bag](https://open.spotify.com/track/7tBm772bkeFyOFpcasf3UB) | [ピラフ星人](https://open.spotify.com/artist/7LCvObtg5MA10WBd4DiK1E) | [Dream Taxi](https://open.spotify.com/album/5v9C5LaLIO2MsjCJIBPFXM) | 2:07 |

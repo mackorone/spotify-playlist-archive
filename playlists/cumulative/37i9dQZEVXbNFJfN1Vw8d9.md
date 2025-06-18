@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,460 songs - 3 day 7 hr 24 min
+1,461 songs - 3 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1217,6 +1217,7 @@
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/2vsoD8S1OyrWSVIA43hjaU) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:11 | 2022-09-15 | 2023-01-22 |
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-06 | 2022-09-16 |
 | [SI TE PEGAS](https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:03 | 2023-07-08 | 2023-07-13 |
+| [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 | 2025-06-17 |  |
 | [Si Te Veo](https://open.spotify.com/track/2TmT3wSwRf0CYJFGGaIXNB) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Si Te Veo](https://open.spotify.com/album/1g0enqdoT94Aw5vCJvubzd) | 4:15 | 2021-05-27 | 2021-06-20 |
 | [Si Tu Supieras](https://open.spotify.com/track/77vszkNmrrOFwlkeCCNHMn) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [La Madrugá](https://open.spotify.com/album/3Au0IW8JlUTwsvT4Ym6yL7) | 3:54 | 2025-03-22 | 2025-03-24 |
 | [Si Tu Te Vas](https://open.spotify.com/track/1KALUbjXvefSgNhTYJHZZt) | [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K) | [Si Tu Te Vas](https://open.spotify.com/album/6o64BvtMCuoKXguXZtmQyr) | 3:12 | 2022-07-21 | 2022-08-21 |
@@ -1384,7 +1385,7 @@
 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 | 2024-08-20 | 2025-01-03 |
 | [Vacile](https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Vacile](https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G) | 2:20 | 2024-08-14 | 2025-01-07 |
 | [Vacío](https://open.spotify.com/track/4KnLltd5UNz4c085UAr5dR) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Vacío](https://open.spotify.com/album/5S8OqWDVZVyDYtLmbzMmBO) | 2:47 | 2021-03-27\* | 2021-03-31 |
-| [Vagabundo](https://open.spotify.com/track/68nZjz3bLH1MM0cURT1YVH) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 3:35 | 2025-05-18 |  |
+| [Vagabundo](https://open.spotify.com/track/68nZjz3bLH1MM0cURT1YVH) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 3:35 | 2025-05-18 | 2025-06-18 |
 | [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-16 | 2025-05-06 |
 | [VAGABUNDO](https://open.spotify.com/track/1XthfkdhXDXeZLf83si3Vq) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Éxitos de Yatra](https://open.spotify.com/album/7K7tRCb1rlknOjPZF7txg5) | 3:35 | 2023-09-23 | 2023-09-27 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-07-03 |

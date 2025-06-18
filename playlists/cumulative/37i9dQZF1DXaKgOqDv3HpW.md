@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-378 songs - 18 hr 17 min
+380 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Omsluten](https://open.spotify.com/track/7mmhIxGPMPFCBzfN6M9QXp) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Omsluten](https://open.spotify.com/album/5ATPZF3T6j6YMrC7sMl8Wv) | 3:21 | 2022-02-18 |  |
 | [Onehundredfive](https://open.spotify.com/track/6WvrWe1fnO2ntO1hjL8m8b) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Elba](https://open.spotify.com/album/2dQuhg8RoRK4tq1kRnlzQp) | 2:55 | 2022-02-18 | 2022-09-15 |
 | [Oneness \- Radio Edit](https://open.spotify.com/track/3ZxUi3mjgUeWMqcUQpZhtH) | [Liquid Mind](https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF) | [Oneness Radio Edit](https://open.spotify.com/album/2TC9ObgSPyYTWFJlLWY85i) | 2:39 | 2024-03-07 | 2025-06-05 |
-| [Ons](https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ons](https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu) | 3:13 | 2022-02-18 |  |
+| [Ons](https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ons](https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu) | 3:13 | 2022-02-18 | 2025-06-18 |
 | [Opolnoči](https://open.spotify.com/track/5VCjqZftDWL4HCmZTKuQO8) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Opolnoči](https://open.spotify.com/album/7v69wRHr3qEcbJCCfMl0bS) | 3:21 | 2022-02-18 | 2023-08-05 |
 | [Orca Matriarch](https://open.spotify.com/track/4J5GTc9yuEMKjvjGoFomJO) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Orca Matriarch](https://open.spotify.com/album/1u5jX2gYozad5UWrIIoqSa) | 3:59 | 2022-02-18 | 2022-09-15 |
 | [Oscillate](https://open.spotify.com/track/4oHHuxXiazheX9XhoaFhKf) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Oscillate](https://open.spotify.com/album/31WpS3EapHiEpN8G19xmS0) | 2:28 | 2025-05-20 |  |
@@ -315,6 +315,7 @@
 | [Snowdonia](https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Snowdonia](https://open.spotify.com/album/6OyZMyAiAtD2MJjAI91Irc) | 2:58 | 2022-02-18 | 2023-04-07 |
 | [Soft Embrace](https://open.spotify.com/track/1QcmRI9Jjg0XxeEyKmH1Dx) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Soft Embrace](https://open.spotify.com/album/0hDklJwXS9mx67EyaDGf3q) | 2:49 | 2025-02-14 |  |
 | [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2022-02-18 |  |
+| [Solace in the Shadows](https://open.spotify.com/track/3ag1OPMgJfvMZgXSVn5Qju) | [Noctivelle](https://open.spotify.com/artist/78M5cxVaEF6dh65RntlKbq) | [Solace in the Shadows](https://open.spotify.com/album/2DHSBPuM9Z5hmU1Jfl0Qnx) | 2:52 | 2025-06-17 |  |
 | [Somnia](https://open.spotify.com/track/5dpp88KSMqGw1uO0L1cWn6) | [Primary Sense](https://open.spotify.com/artist/16CzPXUcmQbZA6Nq8LJuYV) | [Somnia](https://open.spotify.com/album/6ywEUWnDgNnFPszhzYMJng) | 2:40 | 2024-06-10 | 2025-04-10 |
 | [Somnielle](https://open.spotify.com/track/2qptIMekh0RwJonUXWBgXO) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Somnielle](https://open.spotify.com/album/30fXWdLu5Hgo8FHzx3K16M) | 2:39 | 2024-12-12 |  |
 | [Soothing Embrace](https://open.spotify.com/track/5XgeNAMlCL62kEli5GmdOV) | [Fresh Inclinations](https://open.spotify.com/artist/0THmB0GAXHP7bJEB3XqT7c) | [Soothing Embrace](https://open.spotify.com/album/20kZa4mMaZi1nTvLwiCaD9) | 2:34 | 2024-04-29 |  |
@@ -344,13 +345,14 @@
 | [Through All the Layers](https://open.spotify.com/track/6Jw7fuuDwXhktC0uWumjEI) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Through All the Layers](https://open.spotify.com/album/23UiTNEALmjHGIxPc0OtBM) | 3:06 | 2024-12-19 |  |
 | [Tidal](https://open.spotify.com/track/4N12i8jSdFc2jbgezp7T21) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Tidal](https://open.spotify.com/album/339FnwyYAHDPqhybZx60M5) | 2:40 | 2024-03-07 |  |
 | [Tidal Flow](https://open.spotify.com/track/63yQS5uf762DJHLssPlrNw) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:42 | 2022-02-18 | 2023-07-01 |
+| [Tikal](https://open.spotify.com/track/1tCbkqQkZBAEaMd1gqX5LO) | [Echoes of Embers](https://open.spotify.com/artist/7MwzUYxIJX8T2qqwLBAlGH) | [Tikal](https://open.spotify.com/album/63WHoBmoPhLexglwoKtQPu) | 3:29 | 2025-06-17 |  |
 | [Timeout](https://open.spotify.com/track/0LG2uXApnaSkFQiZPnAjg0) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Timeout](https://open.spotify.com/album/65rzJn8WfdQBIY7POEPF60) | 2:38 | 2025-02-26 |  |
 | [Towards Calm](https://open.spotify.com/track/4izjPsdgh9xFe2eg7GgAtD) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Resolution](https://open.spotify.com/album/2iMKanYYDayHuy5toA3I8y) | 4:02 | 2022-02-18 | 2022-12-10 |
 | [Tranquility](https://open.spotify.com/track/5EVPE1R5scgTvJfw2fbUxI) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Tranquility](https://open.spotify.com/album/6tbO0WGRIqjtFoZKgZBWNy) | 2:44 | 2025-03-26 |  |
 | [Tranquillitas](https://open.spotify.com/track/3i89PNM7JKsaqKoI871L80) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Tranquillitas](https://open.spotify.com/album/5VAIQlrornmuqAmiFuDQdo) | 3:08 | 2024-07-26 |  |
 | [Twilight Reverie](https://open.spotify.com/track/5vpOK7O8ELpzq3vezWNnvx) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Twilight Reverie](https://open.spotify.com/album/0roVoXtvT3baTG0aKGVSfD) | 2:52 | 2024-12-19 |  |
 | [Ulayaw](https://open.spotify.com/track/6mk4Fk0a1ZEQZTBBQBccIm) | [Elise Ryen](https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc) | [Ulayaw](https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd) | 3:08 | 2022-02-18 |  |
-| [Unified](https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Together As One](https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ) | 2:45 | 2022-05-05 |  |
+| [Unified](https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Together As One](https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ) | 2:45 | 2022-05-05 | 2025-06-18 |
 | [Universal Truth](https://open.spotify.com/track/2zP7XSG2knSBpMJGf77WjF) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Significance](https://open.spotify.com/album/1WUUamSMdvlzn8MbPFX9Jg) | 3:15 | 2024-07-12 |  |
 | [Unknown Distance](https://open.spotify.com/track/1fFIHg6d5sSwqN2LQEFE9Z) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hollow Sunset](https://open.spotify.com/album/0cb5WIpntE0pAqnBvbGL1Y) | 2:35 | 2022-02-18 | 2025-01-08 |
 | [Vali](https://open.spotify.com/track/7ej2oFAVbcTyuZaqzESR2N) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Vali](https://open.spotify.com/album/1GHHa5h5nuBaoTgEcuHrc5) | 3:06 | 2025-04-09 |  |

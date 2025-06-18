@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: The Lantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,170 likes - 101 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,176 likes - 101 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 100 | [Kucinta Nanti](https://open.spotify.com/track/7DBAeJr4YufBQkFfjY6vG8) | [Awan Senna](https://open.spotify.com/artist/0i9gl8gTASkmTb5qtmFDuF) | [Kucinta Nanti](https://open.spotify.com/album/6Lyy9mXAQcemLDjVcGgwht) | 3:59 |
 | 101 | [Puaskah](https://open.spotify.com/track/7ok3axTvn74nxuWJK2SR7P) | [BADAI ROMANTIC PROJECT](https://open.spotify.com/artist/5RymE2WMKFAq9hql4ag8aa) | [Puaskah](https://open.spotify.com/album/1N3LTvPt4muKCD9Sie7qrR) | 3:57 |
 
-Snapshot ID: `aEvRmwAAAABzpKcL8SB+PQNU6UR0MrLy`
+Snapshot ID: `aFE4sQAAAAAY1xnx5anl6VYQ7F/E19n7`

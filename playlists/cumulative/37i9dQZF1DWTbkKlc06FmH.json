@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 209100,
       "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
       "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 255408,
       "name": "Burning Friday Night",
       "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 223179,
       "name": "Fragility (feat. Sala \uff06 ZIN)",
       "url": "https://open.spotify.com/track/1ENeYswoLMQGO4lJf5nTxr"
@@ -5848,6 +5848,28 @@
       "duration_ms": 187398,
       "name": "GBAD (Number_i Remix)",
       "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
+    },
+    {
+      "album": {
+        "name": "Geezer",
+        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
       "album": {
@@ -6366,7 +6388,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 289541,
       "name": "grace",
       "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
@@ -6500,6 +6522,24 @@
       "duration_ms": 232810,
       "name": "habilabi",
       "url": "https://open.spotify.com/track/4MfPAtRiq3dIOLsbHTbMqj"
+    },
+    {
+      "album": {
+        "name": "Hachik\u014d",
+        "url": "https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270497,
+      "name": "Hachik\u014d",
+      "url": "https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh"
     },
     {
       "album": {
@@ -9594,7 +9634,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
@@ -10350,6 +10390,36 @@
       "duration_ms": 217800,
       "name": "missing summer - Hugh Keice\u3000Remix - Korean Ver.",
       "url": "https://open.spotify.com/track/7fv8egRaKe98kxMpTYkSUh"
+    },
+    {
+      "album": {
+        "name": "Mom & Dad",
+        "url": "https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        },
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171579,
+      "name": "Mom & Dad",
+      "url": "https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL"
     },
     {
       "album": {
@@ -12592,7 +12662,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 268060,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
@@ -13430,6 +13500,28 @@
       "duration_ms": 223189,
       "name": "Risk Taker",
       "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
+    },
+    {
+      "album": {
+        "name": "Risk Your (feat. Bonbero)",
+        "url": "https://open.spotify.com/album/5Vne7FdSPUYxOo2uDzWNPw"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Risk Your (feat. Bonbero)",
+      "url": "https://open.spotify.com/track/1GqMohCPnwSaNBwCWVbfCP"
     },
     {
       "album": {
@@ -14774,7 +14866,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 157374,
       "name": "Somewhere You Can Fly",
       "url": "https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl"
@@ -15697,6 +15789,28 @@
     },
     {
       "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "album": {
         "name": "Swans",
         "url": "https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g"
       },
@@ -15814,7 +15928,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 203458,
       "name": "Swim",
       "url": "https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn"
@@ -16530,7 +16644,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 148524,
       "name": "TIME (feat. MFS)",
       "url": "https://open.spotify.com/track/1JLgk1V5LbfxQKvnFXec4g"
@@ -16784,7 +16898,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 153424,
       "name": "Touch",
       "url": "https://open.spotify.com/track/3Enf1N7W0iSEmOmz69rOGa"
@@ -18414,7 +18528,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 169219,
       "name": "yoru to tomoni",
       "url": "https://open.spotify.com/track/5RYyO38E24rDsPSpiZxiai"
@@ -20692,7 +20806,7 @@
       },
       "artists": [
         {
-          "name": "\u53cb\u6210\u7a7a",
+          "name": "TOMONARI SORA\t",
           "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
         }
       ],

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454 likes - 119 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 453 likes - 119 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 94 | [Hold Me Down](https://open.spotify.com/track/4WkCano9OcQXN5q0VT7aWK) | [Toby Randall](https://open.spotify.com/artist/2BNzC3mJTD21RihwTZgI3B) | [ONE.](https://open.spotify.com/album/76R4XO5BYKd8Zf2foFWXGJ) | 3:13 |
 | 95 | [One Mississippi](https://open.spotify.com/track/2075qOiQPv12B8YM1dA0Yo) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:02 |
 | 96 | [How's My Honey?](https://open.spotify.com/track/0FjzyqG0hQdDTlH39U6aOT) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:57 |
-| 97 | [God is a giver](https://open.spotify.com/track/2hyc0SAKmETShHjD7e8rKW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:25 |
-| 98 | [Lipstick](https://open.spotify.com/track/4S47jwGhW1Of0vC1oFE1mM) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Lipstick](https://open.spotify.com/album/2c6RLdw7TrLrmEZv9UqupF) | 3:16 |
+| 97 | [Lipstick](https://open.spotify.com/track/4S47jwGhW1Of0vC1oFE1mM) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Lipstick](https://open.spotify.com/album/2c6RLdw7TrLrmEZv9UqupF) | 3:16 |
+| 98 | [God is a giver](https://open.spotify.com/track/2hyc0SAKmETShHjD7e8rKW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:25 |
 | 99 | [French Toast](https://open.spotify.com/track/3VrwJhuhdlGsjjiW1daYAf) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [French Toast](https://open.spotify.com/album/5gfWsryAiCWQjbtUH0YbFL) | 3:13 |
 | 100 | [Too Poor to Live in LA](https://open.spotify.com/track/4vkvvFmZsv5UP0tLNYX6V2) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:17 |
 | 101 | [cowboy](https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:22 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 104 | [Drive](https://open.spotify.com/track/3xB5sqRlOw1TXCK74P2WyW) | [Anja Nissen](https://open.spotify.com/artist/6KjtX8ZPAoeLFnuv36UBpQ) | [Where I Am \- EP](https://open.spotify.com/album/1aUz2BacE0ZGYSdqu8LwgH) | 3:17 |
 | 105 | [Favorite Nightmare](https://open.spotify.com/track/3rxs3sb4kIzcF0gGXIgH99) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Watch The World](https://open.spotify.com/album/1f6kyzMUyeVkp7si9VGNVo) | 4:24 |
 | 106 | [Heaven](https://open.spotify.com/track/0wLdOe8U2zdnTGcTQ10BZd) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Heaven](https://open.spotify.com/album/6KAouQ5s01PZpMwf9rbedZ) | 2:36 |
-| 107 | [Phantom Feelings](https://open.spotify.com/track/6PqG4ti1kuYkMnDBU6fXXA) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:13 |
-| 108 | [Guts!](https://open.spotify.com/track/2LzEmHpz8aaJukwPtYr1Pb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:31 |
+| 107 | [Guts!](https://open.spotify.com/track/2LzEmHpz8aaJukwPtYr1Pb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:31 |
+| 108 | [Phantom Feelings](https://open.spotify.com/track/6PqG4ti1kuYkMnDBU6fXXA) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:13 |
 | 109 | [Slot Machine](https://open.spotify.com/track/5P5LgRaqFGwT2lCV5C17XC) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:40 |
 | 110 | [Dandelions](https://open.spotify.com/track/2X6KSYx1050ObYBFI5AWuj) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:43 |
 | 111 | [Nobody's Girl](https://open.spotify.com/track/3YN2n22KaU9FfHp3sM5aug) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Liv](https://open.spotify.com/artist/2Qt2g9eaCxJuWwaFWgspv5) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:25 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 118 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 119 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `Ab0UyAAAAADK9XQMjsir/r4Ag477MHyG`
+Snapshot ID: `Ab0aQAAAAAAZY4oIhLhvgbyK+pZ5IVjO`

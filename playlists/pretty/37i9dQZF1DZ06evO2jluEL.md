@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,926 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,931 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 34 | [A Decisão](https://open.spotify.com/track/1PsuRU8oyFeEGpKCMh9GHj) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 3: Tempo de Cura \(Ao Vivo\)](https://open.spotify.com/album/5lQDYxPghIjoC7FR7JeLnc) | 6:31 |
 | 35 | [Eu Vou Vencer](https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 4:41 |
 | 36 | [Faz Chover](https://open.spotify.com/track/1cVb9gErlRvhJJD5gERg0w) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 6:27 |
-| 37 | [Orar e Adorar \(feat\. David Quinlan\)](https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL) | 6:31 |
-| 38 | [Maior Amor](https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 5 \- Quebrando as Maldições](https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR) | 3:20 |
+| 37 | [Maior Amor](https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 5 \- Quebrando as Maldições](https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR) | 3:20 |
+| 38 | [Orar e Adorar \(feat\. David Quinlan\)](https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL) | 6:31 |
 | 39 | [Totalmente aos Teus Pés](https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 7 \- Filho do Homem](https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit) | 3:21 |
 | 40 | [Eu Dependo de Deus](https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 5:01 |
 | 41 | [24 Horas por Dia](https://open.spotify.com/track/4dNoG5zyY6ZkH3RlueTnX2) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 4 \- 24h por Dia](https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 49 | [Sopra Espírito \- Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo](https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Sopra Espírito \(Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo\)](https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo) | 5:26 |
 | 50 | [Só o Senhor é Deus](https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG) | 5:48 |
 
-Snapshot ID: `aE4NAAAAAAAS97KQXwK49WipoHxagaKD`
+Snapshot ID: `aE9egAAAAADdfqfbLb1O+8nEgZHG6/+z`

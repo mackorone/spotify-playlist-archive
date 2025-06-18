@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-756 songs - 1 day 12 hr 47 min
+757 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 | 2023-03-23 | 2024-01-18 |
 | [Solange](https://open.spotify.com/track/7CrjRJEOLkJ5oD7TTHpqZi) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Solange](https://open.spotify.com/album/0X2iA43edDtNT5UJZCVZUt) | 3:02 | 2024-02-08 | 2024-07-13 |
 | [Solis Occasum](https://open.spotify.com/track/0ODkj1yVyLoiejNJWA58p3) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Solis Occasum](https://open.spotify.com/album/5ysHQe4159wtlULqeDyGdR) | 2:32 | 2025-02-26 | 2025-04-19 |
+| [Solitude](https://open.spotify.com/track/2KG1GeGd8YFSbaz7panbAL) | [Astral Tides](https://open.spotify.com/artist/1cdgWAGKwSdNvftvPz273S) | [Solitude](https://open.spotify.com/album/0G9JMEFi9KFTKn7abGgsa2) | 2:24 | 2025-06-17 |  |
 | [Solitude](https://open.spotify.com/track/4hmBfrGNlsVhZRHHiHwqB5) | [Ed Stanley](https://open.spotify.com/artist/5MHC495Xm9U5sxKFQ25Eba) | [Solitude](https://open.spotify.com/album/0tfDok0b70Ytqt6pX7vKQE) | 3:06 | 2024-05-04 | 2024-12-16 |
 | [Solitudine](https://open.spotify.com/track/2hV9i6HwEGfKq7E3worBwb) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Solitudine](https://open.spotify.com/album/1GydnOM6KkPMR4EFVrzCcQ) | 3:05 | 2023-03-23 | 2024-05-21 |
 | [Solsten](https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Solsten](https://open.spotify.com/album/49GVq2UFbm0PK962WsRcxB) | 3:32 | 2024-07-09 |  |
@@ -657,7 +658,7 @@
 | [State of Unreality](https://open.spotify.com/track/3rKCZIXrsC7T6XPJhXKAQJ) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [State of Unreality](https://open.spotify.com/album/7xVYocetlbRmYIekq00dVt) | 2:41 | 2023-03-23 | 2024-01-18 |
 | [Stay A While](https://open.spotify.com/track/5MxNNBnvKIZ1D2IkwB753i) | [Elliott Duncan](https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ) | [Stay A While](https://open.spotify.com/album/0LtvCsNWrKLG8n7i3AhXqT) | 2:57 | 2023-03-23 | 2024-05-05 |
 | [Steady State](https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Steady State](https://open.spotify.com/album/2HPKrqGymgPLfjEGKFdycC) | 2:51 | 2024-08-30 |  |
-| [Stellar Oceans](https://open.spotify.com/track/3Vdk33TvEmT3QwCMDG33nQ) | [Indigo Rae](https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3) | [Stellar Oceans](https://open.spotify.com/album/4lAhYOHQmxozYIE1Jbgtdb) | 2:14 | 2025-01-08 |  |
+| [Stellar Oceans](https://open.spotify.com/track/3Vdk33TvEmT3QwCMDG33nQ) | [Indigo Rae](https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3) | [Stellar Oceans](https://open.spotify.com/album/4lAhYOHQmxozYIE1Jbgtdb) | 2:14 | 2025-01-08 | 2025-06-18 |
 | [Stelle](https://open.spotify.com/track/2akxDSUjKxkwuRfuc6HFNH) | [Tiziano Magro](https://open.spotify.com/artist/5i3UTUN8b39fBrRIHfQ9H4) | [Stelle](https://open.spotify.com/album/3gATwUG713NmNIrhkYek6P) | 3:22 | 2023-03-23 | 2024-02-09 |
 | [Sterrenhemel](https://open.spotify.com/track/1DOG1X3H2A6g6WN5ZQTLaR) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Sterrenhemel](https://open.spotify.com/album/7EfM8IWUS29TfNUC8m2uN8) | 3:16 | 2023-03-23 | 2024-01-18 |
 | [Still And Calm](https://open.spotify.com/track/01LxVoyk6e42ifx6gFZB0C) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [Still And Calm](https://open.spotify.com/album/62BOhkDJRSeyiwnrWf1QGB) | 3:06 | 2024-02-08 | 2024-11-06 |

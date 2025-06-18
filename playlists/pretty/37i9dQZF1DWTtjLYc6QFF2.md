@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: Юля Юріна
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,863 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,867 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 49 | [Коню, мій коню](https://open.spotify.com/track/2U8YTdT6lwhK3zTDDXxJHr) | [Makovei](https://open.spotify.com/artist/38cKKtwPiwNvPaz6aMlD7U) | [Коню, мій коню](https://open.spotify.com/album/21zt9AwrKyxgoX8oKV7Qhd) | 3:12 |
 | 50 | [Героїн](https://open.spotify.com/track/2sVsyjhvda9AeumBYDuTlo) | [rybka](https://open.spotify.com/artist/5RfCcycUnRM5HeamidiGr4) | [Героїн](https://open.spotify.com/album/6J6uEwfFuKPrjazpOkNaoB) | 2:43 |
 
-Snapshot ID: `aD9iXQAAAACYGOBf+ihWDVqW9FHcwBPD`
+Snapshot ID: `aD9iXQAAAAC0p2E801D3ygzAHvdxV1OV`

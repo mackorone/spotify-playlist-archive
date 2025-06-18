@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Heart\-racing, obsessive pop \~ Kesha on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,181 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,123 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 |
 | 80 | [move with me](https://open.spotify.com/track/5LPFNOEkjcFSXBN5nZqdfB) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [move with me](https://open.spotify.com/album/0yKLmen6aR66f7qgr9sBhw) | 2:38 |
 
-Snapshot ID: `AAAAANBIIyteHeWb70epyl6k09eA+AgO`
+Snapshot ID: `aEtb/gAAAABnjQ9SlAxG6+3Ng3hhly2/`

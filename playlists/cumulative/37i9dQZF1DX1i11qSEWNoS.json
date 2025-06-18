@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "Als du gingst (edit)",
+        "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
+      },
+      "artists": [
+        {
+          "name": "Contec",
+          "url": "https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX"
+        },
+        {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239019,
+      "name": "Als du gingst - edit",
+      "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
+    },
+    {
+      "album": {
         "name": "FOTZE",
         "url": "https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo"
       },
@@ -2471,6 +2493,32 @@
     },
     {
       "album": {
+        "name": "Have You Ever Seen The Rain",
+        "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
+      },
+      "artists": [
+        {
+          "name": "Outliers",
+          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+        },
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        },
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125109,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
+    },
+    {
+      "album": {
         "name": "Head n' Shoulders, pt.II",
         "url": "https://open.spotify.com/album/3GDJwHLrsp3XxytW5BEWGW"
       },
@@ -2918,7 +2966,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 155722,
       "name": "IMMER (MIT MAKKO)",
       "url": "https://open.spotify.com/track/0UZOCEkRQ7kBNFH4NZgmHq"
@@ -5484,7 +5532,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 135302,
       "name": "TABU.",
       "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
@@ -5602,7 +5650,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 160844,
       "name": "The Bad Touch 2k20",
       "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
@@ -5628,6 +5676,32 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "album": {
+        "name": "The Final Countdown 2025",
+        "url": "https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182343,
+      "name": "The Final Countdown 2025",
+      "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
     },
     {
       "album": {

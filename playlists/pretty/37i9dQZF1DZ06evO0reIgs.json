@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82044,
+  "num_followers": 82045,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAACl36kZnsDGx794fcy3Wqhb",
+  "snapshot_id": "aE9egAAAAAAYimQA+iwgOSbawMEy+QX0",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "viciado em mim",
+        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "viciado em mim",
+      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oxig\u00eanio (Corona Disco)",
         "url": "https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 240000,
       "name": "Inverno",
       "url": "https://open.spotify.com/track/0yzMbAtm2RKslDyKNkOViZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gado",
-        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "viciado em mim",
-        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
+        "name": "Gado",
+        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 194760,
-      "name": "viciado em mim",
-      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
+      "duration_ms": 149538,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
     },
     {
       "added_at": null,
@@ -979,22 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239166,
-      "name": "Efeito Violeta",
-      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Culpa \u00c9 Minha",
         "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
       },
@@ -1015,22 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ainda \u00c9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
+        "name": "Efeito Violeta",
+        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
       },
       "artists": [
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
         }
       ],
-      "duration_ms": 157006,
-      "name": "Por Aqui",
-      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
+      "duration_ms": 239166,
+      "name": "Efeito Violeta",
+      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
     },
     {
       "added_at": null,
@@ -1059,8 +1039,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
+        "name": "Ainda \u00c9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
       },
       "artists": [
         {
@@ -1068,13 +1048,13 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
         }
       ],
-      "duration_ms": 177800,
-      "name": "Vai Partir",
-      "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
+      "duration_ms": 157006,
+      "name": "Por Aqui",
+      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
     },
     {
       "added_at": null,
@@ -1099,22 +1079,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Culpa \u00c9 das Igrejas / Sinais",
-        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
+        "name": "Efeito Violeta",
+        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         }
       ],
-      "duration_ms": 247975,
-      "name": "A Culpa \u00c9 das Igrejas / Sinais",
-      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
+      "duration_ms": 177800,
+      "name": "Vai Partir",
+      "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
     },
     {
       "added_at": null,
@@ -1139,6 +1119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Culpa \u00c9 das Igrejas / Sinais",
+        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 247975,
+      "name": "A Culpa \u00c9 das Igrejas / Sinais",
+      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ciclo Vicioso (Deluxe)",
         "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
       },
@@ -1148,13 +1148,13 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 175135,
-      "name": "Eu To Mudada",
-      "url": "https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD"
+      "duration_ms": 134826,
+      "name": "Ventania",
+      "url": "https://open.spotify.com/track/5DpfHaySMunKnbHZlgJvzA"
     },
     {
       "added_at": null,
@@ -1175,26 +1175,6 @@
       "duration_ms": 139124,
       "name": "Beira Mar, Pt. 2",
       "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 183708,
-      "name": "Eu Penso",
-      "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
     },
     {
       "added_at": null,
@@ -1223,6 +1203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 183708,
+      "name": "Eu Penso",
+      "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ciclo Vicioso (Deluxe)",
         "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
       },
@@ -1232,13 +1232,13 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         }
       ],
-      "duration_ms": 134826,
-      "name": "Ventania",
-      "url": "https://open.spotify.com/track/5DpfHaySMunKnbHZlgJvzA"
+      "duration_ms": 175135,
+      "name": "Eu To Mudada",
+      "url": "https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

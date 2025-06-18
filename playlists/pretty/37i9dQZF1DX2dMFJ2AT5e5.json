@@ -1,6 +1,6 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 142435,
+  "num_followers": 142515,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
@@ -302,6 +302,14 @@
         {
           "name": "Jesse & Joy",
           "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Jesse",
+          "url": "https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV"
+        },
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
         }
       ],
       "duration_ms": 247640,
@@ -1023,6 +1031,22 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
+        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 166185,
+      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
+    },
+    {
+      "added_at": "2025-05-23 06:00:33",
+      "album": {
         "name": "La Buena Eras T\u00fa",
         "url": "https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX"
       },
@@ -1039,22 +1063,6 @@
       "duration_ms": 202992,
       "name": "La Buena Eras T\u00fa",
       "url": "https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s"
-    },
-    {
-      "added_at": "2025-05-23 06:00:33",
-      "album": {
-        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
-        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 166185,
-      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
-      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
     },
     {
       "added_at": "2025-05-23 06:00:33",
@@ -1115,18 +1123,22 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+        "name": "Ya No Estoy Dolido",
+        "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
         }
       ],
-      "duration_ms": 215112,
-      "name": "Ecos De Amor",
-      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
+      "duration_ms": 179600,
+      "name": "Ya No Estoy Dolido",
+      "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
     },
     {
       "added_at": "2025-05-23 06:00:33",
@@ -1147,22 +1159,26 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
-        "name": "Ya No Estoy Dolido",
-        "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         },
         {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+          "name": "Jesse",
+          "url": "https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV"
+        },
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
         }
       ],
-      "duration_ms": 179600,
-      "name": "Ya No Estoy Dolido",
-      "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
+      "duration_ms": 215112,
+      "name": "Ecos De Amor",
+      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
     },
     {
       "added_at": "2025-05-23 06:00:33",
@@ -1391,26 +1407,6 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
-        "name": "Que Pedo",
-        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        }
-      ],
-      "duration_ms": 194062,
-      "name": "Que Pedo",
-      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
-    },
-    {
-      "added_at": "2025-05-23 06:00:33",
-      "album": {
         "name": "Nada Es Para Siempre",
         "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
       },
@@ -1427,6 +1423,26 @@
       "duration_ms": 195060,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
+    },
+    {
+      "added_at": "2025-05-23 06:00:33",
+      "album": {
+        "name": "Que Pedo",
+        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "duration_ms": 194062,
+      "name": "Que Pedo",
+      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
     },
     {
       "added_at": "2025-05-23 06:00:33",

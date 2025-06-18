@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 39458,
+  "num_followers": 39466,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Murmur of Yearning",
-        "url": "https://open.spotify.com/album/6VveikqNVl4KGt9UEKTa8L"
-      },
-      "artists": [
-        {
-          "name": "Thomas Csorba",
-          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Murmur of Yearning",
-      "url": "https://open.spotify.com/track/2JaOVb7WJCcpAe1JRRLTl3"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 186269,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Murmur of Yearning",
+        "url": "https://open.spotify.com/album/6VveikqNVl4KGt9UEKTa8L"
+      },
+      "artists": [
+        {
+          "name": "Thomas Csorba",
+          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Murmur of Yearning",
+      "url": "https://open.spotify.com/track/2JaOVb7WJCcpAe1JRRLTl3"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "When A Cowboy Trades His Spurs For Wings",
-        "url": "https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        },
-        {
-          "name": "David Rawlings",
-          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
-        }
-      ],
-      "duration_ms": 183894,
-      "name": "When A Cowboy Trades His Spurs For Wings",
-      "url": "https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Skeleton at the Banquet",
         "url": "https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "When A Cowboy Trades His Spurs For Wings",
+        "url": "https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "duration_ms": 183894,
+      "name": "When A Cowboy Trades His Spurs For Wings",
+      "url": "https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ"
     },
     {
       "added_at": "2024-08-23 04:00:00",

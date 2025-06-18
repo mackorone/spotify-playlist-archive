@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: illusionize, Visage Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,830 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243,674 likes - 74 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 6 | [I Have No Memories About Last Night](https://open.spotify.com/track/3PCwzUurtmTNr2PDAiKH8A) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Henry Himself](https://open.spotify.com/artist/0YZmiBsdXDNlyLfWVh7Fb7) | [I Have No Memories About Last Night](https://open.spotify.com/album/1NF0ScrTAuBGbC8toF99Ip) | 2:38 |
 | 7 | [5 Days In Búzios](https://open.spotify.com/track/32P5p8mzGF3wzWaSico9mM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0) | [5 Days In Búzios](https://open.spotify.com/album/1m6dFh2O0KPxyiVIxXzwQt) | 4:03 |
 | 8 | [Superrich](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f), [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Superrich](https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh) | 2:59 |
-| 9 | [Bhajare](https://open.spotify.com/track/69gW5UK6fhWE7j2tAkGgOz) | [Pandora](https://open.spotify.com/artist/1vkTF1jlPj9F6rTj9MGE4z), [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Bhajare \(Juicce Remix\)](https://open.spotify.com/album/5jC8jdB25j99s5eHomgGkJ) | 2:47 |
+| 9 | [Bhajare \- Juicce Remix](https://open.spotify.com/track/69gW5UK6fhWE7j2tAkGgOz) | [Pandora](https://open.spotify.com/artist/1vkTF1jlPj9F6rTj9MGE4z), [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Bhajare \(Juicce Remix\)](https://open.spotify.com/album/5jC8jdB25j99s5eHomgGkJ) | 2:47 |
 | 10 | [ARMS](https://open.spotify.com/track/6Se1RGQEVquqpxqG0tmyUe) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [ARMS](https://open.spotify.com/album/1trwwDURtIwr5Tebht4aR5) | 3:20 |
 | 11 | [Nabium](https://open.spotify.com/track/2GfmBCpeCI88QXMzcKqvq7) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [Grance](https://open.spotify.com/artist/3ERljbsay17ZFklPt7mn0b) | [Nabium](https://open.spotify.com/album/0RRavHaTSDvCVaND4jjoDP) | 6:30 |
 | 12 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |

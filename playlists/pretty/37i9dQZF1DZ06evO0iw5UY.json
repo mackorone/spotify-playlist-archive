@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27896,
+  "num_followers": 27900,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAAwNyE6DyDMG+aCFTidSb+n",
+  "snapshot_id": "aE9egAAAAAC+HqhLQvtQbhGiY+wjb6XD",
   "tracks": [
     {
       "added_at": null,
@@ -23,30 +23,6 @@
       "duration_ms": 258600,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fallen Embers",
-        "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        }
-      ],
-      "duration_ms": 264774,
-      "name": "Lay It Down",
-      "url": "https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL"
     },
     {
       "added_at": null,
@@ -75,6 +51,30 @@
       "duration_ms": 237685,
       "name": "No Regrets (feat. Krewella) [YUSSI Remix]",
       "url": "https://open.spotify.com/track/6EH33BG9UhIYrezYC7v2Mx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fallen Embers",
+        "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        }
+      ],
+      "duration_ms": 264774,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL"
     },
     {
       "added_at": null,
@@ -131,38 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "Live for the Night",
-      "url": "https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love // Chaos",
         "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
       },
@@ -183,6 +151,38 @@
       "duration_ms": 186853,
       "name": "Next Life (feat. Krewella)",
       "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Live for the Night",
+      "url": "https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
     },
     {
       "added_at": null,
@@ -375,30 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/1LxrrnNOm8an34LWCc48Ue"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "Raja Kumari",
-          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
-        }
-      ],
-      "duration_ms": 177499,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4KIoBpLdHX7nERPfDROJWR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
       },
@@ -423,34 +399,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/1LxrrnNOm8an34LWCc48Ue"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186965,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
+        },
         {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Come & Get It",
-      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
+      "duration_ms": 177499,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4KIoBpLdHX7nERPfDROJWR"
     },
     {
       "added_at": null,
@@ -479,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Come & Get It",
+      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alarm",
         "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 225428,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186965,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "War Forever",
+      "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't That Why (Skytech Remix)",
         "url": "https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 162400,
       "name": "Ain't That Why - Skytech Remix",
       "url": "https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "War Forever",
-      "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
     },
     {
       "added_at": null,

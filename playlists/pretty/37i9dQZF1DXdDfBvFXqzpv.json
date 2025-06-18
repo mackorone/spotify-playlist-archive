@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106572,
+  "num_followers": 106565,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -723,26 +723,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Ahora y Siempre",
-        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Linton",
-          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
-        }
-      ],
-      "duration_ms": 149275,
-      "name": "Ahora y Siempre",
-      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Rx",
         "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 274426,
       "name": "Black & Gold",
       "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Ahora y Siempre",
+        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
+        }
+      ],
+      "duration_ms": 149275,
+      "name": "Ahora y Siempre",
+      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Boy With No Name",
-        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Be Your Love",
         "url": "https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 194066,
       "name": "Be Your Love",
       "url": "https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Boy With No Name",
+        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Let It Roll",
-      "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 245533,
       "name": "Postpone",
       "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Let It Roll",
+      "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "A Little Deeper",
-        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
-      },
-      "artists": [
-        {
-          "name": "Ms. Dynamite",
-          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Dy-Na-Mi-Tee",
-      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "A Little Deeper",
+        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
+      },
+      "artists": [
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Dy-Na-Mi-Tee",
+      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1527,6 +1527,26 @@
       "duration_ms": 174653,
       "name": "Malemolencia",
       "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Not Waving, But Drowning",
+        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 283225,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1555,26 +1575,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Not Waving, But Drowning",
-        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 283225,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "B. Inspired",
         "url": "https://open.spotify.com/album/2hnJVh7gOSbRDHanTb5Lnr"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Some Cities",
-        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
-      },
-      "artists": [
-        {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
-        }
-      ],
-      "duration_ms": 255413,
-      "name": "Black And White Town",
-      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "CTRL + ALT + DEL",
         "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Black Star Elephant",
-        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
+        "name": "Some Cities",
+        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
       },
       "artists": [
         {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
         }
       ],
-      "duration_ms": 227318,
-      "name": "When the Day Comes",
-      "url": "https://open.spotify.com/track/0P2HAFu7RnkfPnkimNi7I5"
+      "duration_ms": 255413,
+      "name": "Black And White Town",
+      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Black Star Elephant",
+        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
+      },
+      "artists": [
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 227318,
+      "name": "When the Day Comes",
+      "url": "https://open.spotify.com/track/0P2HAFu7RnkfPnkimNi7I5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Smallpools",
         "url": "https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "ErruDumEllaHvad",
-        "url": "https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 148942,
-      "name": "ErruDumEllaHvad",
-      "url": "https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Laughter, Tears & Goosebumps",
         "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 164000,
       "name": "Scatter",
       "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "ErruDumEllaHvad",
+        "url": "https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 148942,
+      "name": "ErruDumEllaHvad",
+      "url": "https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

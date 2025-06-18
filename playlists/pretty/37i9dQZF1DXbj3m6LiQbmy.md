@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Musica dalla comunità LGBQTIA+ 🇮🇹 Ethan in cover ✨
+> Musica dalla comunità LGBQTIA+ 🇮🇹 soap in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,042 likes - 97 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,043 likes - 97 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 96 | [Non ti sopporto più](https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [Non ti sopporto più](https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C) | 2:42 |
 | 97 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 |
 
-Snapshot ID: `Z/RLHwAAAAD4OFrR+J3nOTSm+Yc1Tdf7`
+Snapshot ID: `aFFfxwAAAADx3scfQD3mVFQoyj47DHpV`

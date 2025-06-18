@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,626 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,949 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 23 | [Need 2](https://open.spotify.com/track/2XOTQLxng9rBeHw2jHNqDY) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU) | [Need 2](https://open.spotify.com/album/65LTuhV9Kiufno0XuD6OsN) | 2:40 |
 | 24 | [End of the World](https://open.spotify.com/track/2rDMtmPctM67hICAZTKAjx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:10 |
 | 25 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |
-| 26 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
-| 27 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
+| 26 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
+| 27 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
 | 28 | [samoloty](https://open.spotify.com/track/2sHiHyAQZCD7oPXo1eBAbL) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [samoloty i nadprzestrzenie](https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8) | 4:04 |
 | 29 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
 | 30 | [Chcę Ciebie częściej](https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Chcę Ciebie częściej](https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7) | 3:01 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 47 | [Dość](https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Dość](https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu) | 2:14 |
 | 48 | [Aeroplan](https://open.spotify.com/track/39p0zf55b56ftZa2bvz0fQ) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Aeroplan](https://open.spotify.com/album/3FsDemDGc79lWoHf2MqZm9) | 3:23 |
 | 49 | [U Mnie](https://open.spotify.com/track/6fy7TMTFuqxruaEDCdXcFr) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [U Mnie](https://open.spotify.com/album/0vrIGLBI2cOmncq4YO83yT) | 2:26 |
-| 50 | [Czy o mnie myślisz?](https://open.spotify.com/track/7lYMP0fbLY47Z5Cru6QpkY) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Czy o mnie myślisz?](https://open.spotify.com/album/3bNRAwwiPnhSaXtrzPfkhB) | 2:31 |
-| 51 | [Do Końca Dni](https://open.spotify.com/track/7ELp0ZdB87mvVupvWUDoov) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [Do Końca Dni](https://open.spotify.com/album/3rb5K0ms8c8AzXU3ceoIZw) | 3:44 |
+| 50 | [Do Końca Dni](https://open.spotify.com/track/7ELp0ZdB87mvVupvWUDoov) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [Do Końca Dni](https://open.spotify.com/album/3rb5K0ms8c8AzXU3ceoIZw) | 3:44 |
+| 51 | [Czy o mnie myślisz?](https://open.spotify.com/track/7lYMP0fbLY47Z5Cru6QpkY) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Czy o mnie myślisz?](https://open.spotify.com/album/3bNRAwwiPnhSaXtrzPfkhB) | 2:31 |
 | 52 | [Rosa](https://open.spotify.com/track/4UITcoh4mQLg8tO7yaESei) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Rosa](https://open.spotify.com/album/5F5Ilkyfab6F7WTGu3BmX4) | 2:52 |
 | 53 | [no hard feelings](https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [no hard feelings](https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI) | 2:21 |
-| 54 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
-| 55 | [Dzwonisz](https://open.spotify.com/track/6f0jOhp2WuvDXGUFYAzDRb) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Dzwonisz](https://open.spotify.com/album/2mL2OPLHnpGw8IT5WC20Xg) | 3:23 |
+| 54 | [Dzwonisz](https://open.spotify.com/track/6f0jOhp2WuvDXGUFYAzDRb) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Dzwonisz](https://open.spotify.com/album/2mL2OPLHnpGw8IT5WC20Xg) | 3:23 |
+| 55 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
 | 56 | [Jest jak jest](https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Jest jak jest](https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7) | 2:48 |
 | 57 | [Plot Twist](https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Plot Twist](https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX) | 3:42 |
-| 58 | [Piękne Dni](https://open.spotify.com/track/6TD7XH6NlMiEw3s04frCRo) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Piękne Dni](https://open.spotify.com/album/4TqMQlaBY1JDYjWxFEvXG8) | 3:11 |
-| 59 | [👩‍❤️‍👨](https://open.spotify.com/track/4wb0tiHtOUiEqhR4NKwSFp) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [👩‍❤️‍👨](https://open.spotify.com/album/5s9dplQwHJK8LmzepvzvvK) | 2:27 |
+| 58 | [👩‍❤️‍👨](https://open.spotify.com/track/4wb0tiHtOUiEqhR4NKwSFp) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [👩‍❤️‍👨](https://open.spotify.com/album/5s9dplQwHJK8LmzepvzvvK) | 2:27 |
+| 59 | [Piękne Dni](https://open.spotify.com/track/6TD7XH6NlMiEw3s04frCRo) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Piękne Dni](https://open.spotify.com/album/4TqMQlaBY1JDYjWxFEvXG8) | 3:11 |
 | 60 | [Do jutra](https://open.spotify.com/track/5lxEfHFCyhsJFDGiYlTWoZ) | [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [Hotelowe piosenki](https://open.spotify.com/album/0xHVSF52jWBSJRx7TxlNNS) | 3:18 |
 
 Snapshot ID: `aE/ddgAAAABlaHS0SlkY3UjjoW3KmWLy`

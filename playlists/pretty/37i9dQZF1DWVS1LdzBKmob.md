@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,616 likes - 102 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,893 likes - 102 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 101 | [Aether Window](https://open.spotify.com/track/7i8XxfbKkCXzPg56ZLtHa6) | [Quiet Robot](https://open.spotify.com/artist/4IkRGwvj1TGP4um1ZFyQpc) | [Aether Window](https://open.spotify.com/album/5NQvyi8kh1F57XdSzuJyma) | 2:42 |
 | 102 | [Prayer for Protection](https://open.spotify.com/track/09o9vEpXDAzjABUNGWIxQj) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Healing Bells](https://open.spotify.com/album/0cVPDtE02pe4BEpPbZ3ZYu) | 6:29 |
 
-Snapshot ID: `AAAAABqIxF67vYTn1hz69CvWMdKI9qKJ`
+Snapshot ID: `aErIrgAAAACowm0TPcwXyi7tro7aN6cG`

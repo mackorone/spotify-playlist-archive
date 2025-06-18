@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Jun 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Jun 03:04 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAASm+IbqbrSY25Vlq5C+apY56Zes6eK",
+  "snapshot_id": "AAASoRoZ5f/BNBjbPkUpqO/ARVyevgAB",
   "tracks": [
+    {
+      "added_at": "2025-06-18 03:04:13",
+      "album": {
+        "name": "Paint A Picture",
+        "url": "https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 168555,
+      "name": "Paint A Picture",
+      "url": "https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh"
+    },
     {
       "added_at": "2025-06-16 18:03:48",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 161095,
       "name": "Higher",
       "url": "https://open.spotify.com/track/21AEzU5pL1cX3IweQAqOdn"
+    },
+    {
+      "added_at": "2025-06-17 18:04:09",
+      "album": {
+        "name": "Odin St",
+        "url": "https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1"
+      },
+      "artists": [
+        {
+          "name": "Ryn Weaver",
+          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
+        }
+      ],
+      "duration_ms": 188877,
+      "name": "Odin St",
+      "url": "https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg"
+    },
+    {
+      "added_at": "2025-06-17 22:04:07",
+      "album": {
+        "name": "AS IT ALL FALLS DOWN",
+        "url": "https://open.spotify.com/album/2znj8BckAk7369i18Cnexu"
+      },
+      "artists": [
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        }
+      ],
+      "duration_ms": 147794,
+      "name": "AS IT ALL FALLS DOWN",
+      "url": "https://open.spotify.com/track/7LtNkANM8bCIZeTzuwBowa"
     },
     {
       "added_at": "2025-06-16 03:03:59",
@@ -175,6 +223,22 @@
       "duration_ms": 175935,
       "name": "Pretty Girls (feat. OBanga)",
       "url": "https://open.spotify.com/track/0M2ebVG7EV9I6ugFH6SBFc"
+    },
+    {
+      "added_at": "2025-06-17 18:04:09",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/7MucxnzoVlbYHceEqtXkQu"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 218482,
+      "name": "Royal Blood",
+      "url": "https://open.spotify.com/track/5L82P216AtFQS1YzGNge29"
     },
     {
       "added_at": "2025-06-14 08:03:21",
@@ -759,70 +823,6 @@
       "duration_ms": 163930,
       "name": "Touch Me Like a Gangster",
       "url": "https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd"
-    },
-    {
-      "added_at": "2025-06-06 08:03:04",
-      "album": {
-        "name": "Blocs",
-        "url": "https://open.spotify.com/album/6LQJgsTCNSqjLsJgTxvoFg"
-      },
-      "artists": [
-        {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-        }
-      ],
-      "duration_ms": 301871,
-      "name": "Blocs",
-      "url": "https://open.spotify.com/track/0LqLyfSJ3qmIifNbb8AvXi"
-    },
-    {
-      "added_at": "2025-06-06 18:03:42",
-      "album": {
-        "name": "Save me now",
-        "url": "https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 181946,
-      "name": "Save me now",
-      "url": "https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah"
-    },
-    {
-      "added_at": "2025-06-06 22:03:22",
-      "album": {
-        "name": "hostile",
-        "url": "https://open.spotify.com/album/6psPSJ5auUZlinStsVtioC"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 145836,
-      "name": "hostile",
-      "url": "https://open.spotify.com/track/0GWy6xlFfRxCRXYsvZ6bh2"
-    },
-    {
-      "added_at": "2025-06-07 03:03:18",
-      "album": {
-        "name": "Killing Spree",
-        "url": "https://open.spotify.com/album/4syqYa5oA4mrTnoFrwuLor"
-      },
-      "artists": [
-        {
-          "name": "Daron Malakian and Scars On Broadway",
-          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
-        }
-      ],
-      "duration_ms": 166984,
-      "name": "Killing Spree",
-      "url": "https://open.spotify.com/track/3tAk2w4j6Dd1MFrWmSfOZk"
     }
   ],
   "unique_name": "New Singles Now",

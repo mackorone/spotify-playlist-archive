@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,251 likes - 100 songs - 5 hr 6 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,250 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 80 | [Easier \(feat\. LOWES\) \- Radio Edit](https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Easier \(feat\. LOWES\) \[Radio Edit\]](https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui) | 3:34 |
 | 81 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 |
 | 82 | [Still Think About You](https://open.spotify.com/track/3IXBadXz4oaYZCuJNwHDFD) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [MAZE](https://open.spotify.com/artist/5A0NriHXv9tLlUYztVXeGP) | [Still Think About You](https://open.spotify.com/album/58GpWonAE9FAuHf4wDawKy) | 3:21 |
-| 83 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
+| 83 | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB) | 3:02 |
 | 84 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
-| 85 | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB) | 3:02 |
+| 85 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
 | 86 | [Another Day In Paradise](https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp) | [Another Day In Paradise](https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8) | 2:07 |
 | 87 | [KIDS](https://open.spotify.com/track/2SHKnOAz5CbUYhyxipfWr9) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [KIDS](https://open.spotify.com/album/2o9v5fIWqt0P0aeKtBnzxE) | 3:04 |
 | 88 | [Torn](https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn) | [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp), [Evan Cole](https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO) | [Torn](https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [To Die For \- Madism Remix](https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [To Die For \(Madism Remix\)](https://open.spotify.com/album/3xJHO62lLfAXbOu4t1z14c) | 2:41 |
 | 100 | [Forever Young](https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t) | [Coral Reef](https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT), [Emily Dawn](https://open.spotify.com/artist/3szjlSC8nI6mZ5wOdeNmwc), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf) | [Forever Young](https://open.spotify.com/album/6qDfGJiAVOqKaOJ8HIssmy) | 2:53 |
 
-Snapshot ID: `AAAICFcxs9ImeroD7Vjf8cQjjZY1jJiY`
+Snapshot ID: `AAAICQctUzyQQdNaUsVgFrEgpccNTyGi`

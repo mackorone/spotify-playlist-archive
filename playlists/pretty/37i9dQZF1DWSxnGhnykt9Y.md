@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Bloody Civilian
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,605 likes - 84 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,642 likes - 84 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 83 | [Fool Me Once](https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Fool Me Once](https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX) | 3:53 |
 | 84 | [Maritha](https://open.spotify.com/track/0ZZEN6PN9CTnxhmZ4Map6k) | [Bwiza](https://open.spotify.com/artist/0KaDWWyzyRd8aRJlPyFQrX) | [25 SHADES](https://open.spotify.com/album/794yUvUkCNvJWKdEAdJVdS) | 3:05 |
 
-Snapshot ID: `aEuWpgAAAAAg7YX1VLi5suV3M3H7jIYx`
+Snapshot ID: `aEuWpgAAAADut9Ms0gEwhKVMnHN3iTlh`

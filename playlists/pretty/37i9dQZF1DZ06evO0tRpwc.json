@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37867,
+  "num_followers": 37866,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAACW3msHTZ1faypMBoRJHKs",
+  "snapshot_id": "aE9egAAAAABttyaRtOd78G8wtp0yc3Zo",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criador do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 262140,
+      "name": "Fa\u00e7a Morada - Ao Vivo",
+      "url": "https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doze",
         "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 229111,
       "name": "Abril",
       "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 262140,
-      "name": "Fa\u00e7a Morada - Ao Vivo",
-      "url": "https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 226293,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
+      "duration_ms": 244800,
+      "name": "Imensur\u00e1vel",
+      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Imensur\u00e1vel",
-      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
+      "duration_ms": 226293,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inexplic\u00e1vel",
-        "url": "https://open.spotify.com/album/3xvDPpayacdcLevke66mzK"
-      },
-      "artists": [
-        {
-          "name": "Luciano Claw",
-          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Te Agrade\u00e7o (Inexplic\u00e1vel) [feat. Daniela Ara\u00fajo]",
-      "url": "https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inexplic\u00e1vel",
+        "url": "https://open.spotify.com/album/3xvDPpayacdcLevke66mzK"
+      },
+      "artists": [
+        {
+          "name": "Luciano Claw",
+          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Te Agrade\u00e7o (Inexplic\u00e1vel) [feat. Daniela Ara\u00fajo]",
+      "url": "https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Seja o Centro",
-      "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turma do Barulho, Vol. 4",
         "url": "https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 158706,
       "name": "Salmo 100",
       "url": "https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Seja o Centro",
+      "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"
     }
   ],
   "unique_name": "This Is Daniela Ara\u00fajo",

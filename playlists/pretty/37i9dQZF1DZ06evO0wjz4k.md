@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,871 likes - 45 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,891 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 44 | [American Girl \- Live Acoustic](https://open.spotify.com/track/0jwZjetkdQHnNbI1GV4rRc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [American Girl \(Live Acoustic\)](https://open.spotify.com/album/1JYpShhiHgMPowcaGhKJPb) | 3:55 |
 | 45 | [Lonely Long \(feat\. Parker McCollum\)](https://open.spotify.com/track/64NasHlYOdLdCBqgV9iLVQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:00 |
 
-Snapshot ID: `aE4NAAAAAABJ3g4YVDRfYVsZccCmgRUq`
+Snapshot ID: `aE9egAAAAADfWvxN8Delhm4RRTouJ6nM`

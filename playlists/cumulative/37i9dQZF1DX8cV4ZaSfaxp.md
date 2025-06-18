@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-364 songs - 22 hr 24 min
+365 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/6PJ1sh2oLgYQE9hpUivC8k) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [After a Long Time \(Digging Club Seoul Ver.\)](https://open.spotify.com/album/2tETtfB9qQGJ60gNmESEz3) | 4:12 | 2022-09-05 | 2023-09-06 |
 | [After this night](https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [After this night](https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG) | 4:22 | 2022-05-11 | 2025-04-25 |
 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 | 2022-05-11 |  |
-| [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 | 2022-05-11 |  |
+| [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 | 2022-05-11 | 2025-06-18 |
 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 | 2023-11-02 | 2025-06-05 |
 | [Algorithm](https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/04UMoeGtpAK6TyqRLllHqs) | 3:08 | 2024-03-29 | 2024-04-19 |
 | [Algorithm \(Eng Ver.\)](https://open.spotify.com/track/13Df3oSCawgxJ0GiwZwAxX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Algorithm \(Eng Ver.\)](https://open.spotify.com/album/5ggg0h1Ko4Uy23Nt1AeoqN) | 3:07 | 2024-09-30 | 2024-11-04 |
@@ -80,6 +80,7 @@
 | [City Girl City Boy](https://open.spotify.com/track/6mWRDboiaEyDHFehyjEAPX) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [Dawon](https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw) | [City Girl City Boy](https://open.spotify.com/album/3cvNrNF9w8NfFbGF4gPw4x) | 3:42 | 2022-05-11 | 2022-07-27 |
 | [City Light](https://open.spotify.com/track/4pVqvBttw55NmUSqishQXH) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [City Light](https://open.spotify.com/album/1tDEBYIEhLQiaru9SQ7S15) | 3:19 | 2022-05-11 | 2022-07-29 |
 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 | 2024-08-01 |  |
+| [City View](https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [City View / Her](https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW) | 3:28 | 2025-06-17 |  |
 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 | 2024-09-13 |  |
 | [Coconut Love](https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love](https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx) | 3:14 | 2022-07-22 | 2022-11-04 |
 | [Coconut Love 코코넛 러브](https://open.spotify.com/track/6ZhbadBT9PnNEuDjW4YV3M) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love 코코넛 러브](https://open.spotify.com/album/3mo2rZgIxhEpNa0cIlkAY9) | 3:14 | 2022-05-11 | 2022-07-29 |

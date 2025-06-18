@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 169324,
+  "num_followers": 169365,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Qui\u00e9reme Mucho",
-      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 182786,
       "name": "Tijuana Sound Machine",
       "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Qui\u00e9reme Mucho",
+      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "El Tiempo y la Ciudad",
+        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "T\u00fa Est\u00e1s M\u00e1s",
+      "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Space Hymns",
         "url": "https://open.spotify.com/album/2kJe0uAxDLlAnRy0Mk0I7M"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 222559,
       "name": "Vivimos In L.A.",
       "url": "https://open.spotify.com/track/55tL4KL8uXjXJHTvIKB4vE"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Tiempo y la Ciudad",
-        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E"
       },
       "artists": [
         {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
         }
       ],
-      "duration_ms": 247800,
-      "name": "T\u00fa Est\u00e1s M\u00e1s",
-      "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
+      "duration_ms": 263760,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Levantate Sakuraba",
-        "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a ",
-          "url": "https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Chubaca Tiene un Secreto",
-      "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Sentado Aqu\u00ed",
         "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
+        "name": "Levantate Sakuraba",
+        "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
       },
       "artists": [
         {
-          "name": "Baltazar",
-          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
+          "name": "Ni\u00f1a ",
+          "url": "https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc"
         }
       ],
-      "duration_ms": 254889,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
+      "duration_ms": 213626,
+      "name": "Chubaca Tiene un Secreto",
+      "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
+      },
+      "artists": [
+        {
+          "name": "Baltazar",
+          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
+        }
+      ],
+      "duration_ms": 254889,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Marginado",
         "url": "https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 204660,
       "name": "Marginado",
       "url": "https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Sistema Solar",
+        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
+      },
+      "artists": [
+        {
+          "name": "Disco Ruido",
+          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
+        }
+      ],
+      "duration_ms": 249630,
+      "name": "Amorfos",
+      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1367,22 +1383,6 @@
       "duration_ms": 411960,
       "name": "Mi Chica",
       "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Sistema Solar",
-        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
-      },
-      "artists": [
-        {
-          "name": "Disco Ruido",
-          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
-        }
-      ],
-      "duration_ms": 249630,
-      "name": "Amorfos",
-      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
     },
     {
       "added_at": "2023-09-01 16:42:45",

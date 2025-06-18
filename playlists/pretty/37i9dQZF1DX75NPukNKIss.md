@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,469 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,583 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 10 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 |
 | 11 | [bae](https://open.spotify.com/track/5sEC88gNr8VEGXc7FSQGit) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [bae](https://open.spotify.com/album/07MVkMt1UaDkk7rKgviGYT) | 2:33 |
 | 12 | [ms.beautiful V](https://open.spotify.com/track/2u0I3ZqpAoj59pfYAfFyTs) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [porno story](https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3) | 2:12 |
-| 13 | [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 |
-| 14 | [IMU](https://open.spotify.com/track/7JuKh9giCATc0CD2GMegYW) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 3:15 |
+| 13 | [What These Niggas Want](https://open.spotify.com/track/2UNIVvqZBbSljTy2EhvSnF) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Earth to Breezy](https://open.spotify.com/album/7CO70qKtgBLZ5Etx25rnuZ) | 2:13 |
+| 14 | [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 |
 | 15 | [TEN](https://open.spotify.com/track/6C6X1c4FCvzxQZcparVtKN) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [TEN](https://open.spotify.com/album/5IuyySuOpjAkbHc2pXOimN) | 2:43 |
 | 16 | [settings!](https://open.spotify.com/track/3TDZRV8TdWySueKV3UX3j2) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:35 |
 | 17 | [Tat My Name](https://open.spotify.com/track/5ctdeiIEDzeYxeKAPmTU9y) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Read This When You Wake Up](https://open.spotify.com/album/12jOMUVgZAPZefVHeivVrL) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 99 | [Get You Back \(feat\. Cash Cobain\)](https://open.spotify.com/track/14o4OozkcWqwSYUDG8Kae4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:01 |
 | 100 | [problem](https://open.spotify.com/track/62DOQC3exqebSVLWyN2mWa) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 7:39 |
 
-Snapshot ID: `AAAAABJ2anTCBWO6z3AM0ygeop+Vo5uk`
+Snapshot ID: `aFDzDwAAAAA+LQU7p+xoqLge46NhmK65`

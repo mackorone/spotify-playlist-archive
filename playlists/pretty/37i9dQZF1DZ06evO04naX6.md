@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,582 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,588 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 34 | [SANDUNGA](https://open.spotify.com/track/4QJF76nruk2vvuCzGDCqsL) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SANDUNGA](https://open.spotify.com/album/0SeTjJL8a6kfFlBQQTyNID) | 4:01 |
 | 35 | [Pierdo la Cabeza \- Remix](https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Pierdo la Cabeza \(Remix\)](https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH) | 4:47 |
 | 36 | [La Calle Me Lo Pidio](https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 3:05 |
-| 37 | [Te Suelto El Pelo / Dembow Medley \- Sinfónico En Vivo](https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:25 |
+| 37 | [Noche De Entierro \- Sinfónico En Vivo](https://open.spotify.com/track/229RHylF8KuiREpa3hY01H) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:00 |
 | 38 | [BORRACHO Y LOCO](https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [BORRACHO Y LOCO](https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX) | 2:51 |
 | 39 | [De Negro](https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:34 |
 | 40 | [REGGAETON MALANDRO](https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [ELYTE](https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea) | 2:55 |
-| 41 | [Noche De Entierro \- Sinfónico En Vivo](https://open.spotify.com/track/229RHylF8KuiREpa3hY01H) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:00 |
+| 41 | [Te Suelto El Pelo / Dembow Medley \- Sinfónico En Vivo](https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:25 |
 | 42 | [Mi Religión](https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:57 |
 | 43 | [Ginza \- Remix](https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Alejandro "Mosty" Patiño](https://open.spotify.com/artist/4iDI9qh9SzcTm6vZeTT258) | [Ginza \(Remix\)](https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ) | 6:13 |
 | 44 | [Unica \- Remix](https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Mayor Que Yo \- Sinfónico En Vivo](https://open.spotify.com/track/6kqv4XNwOwt4zsFooyXVuA) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:18 |
 | 50 | [Pa Janguiar](https://open.spotify.com/track/6M3Wbw9M57Kaw2wXSMyjyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:45 |
 
-Snapshot ID: `aE4NAAAAAAAwCG9fdhfW1dMobNPvub69`
+Snapshot ID: `aE9egAAAAAA1Zw4AJQJc7zV78z+GmbuL`

@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박찬영\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-581 songs - 1 day 10 hr 22 min
+582 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [In My Dreams](https://open.spotify.com/track/1ndy3GgAqTtmkImUIYhP9v) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [COLORING BOOK](https://open.spotify.com/album/38AAuqV2wFULToBRMPn3Ne) | 3:28 | 2022-03-31 | 2022-04-06 |
 | [In The City 도시에서](https://open.spotify.com/track/05FR5qWPhj0GfWrUt4MKDk) | [Kwon Tree](https://open.spotify.com/artist/3V8Zj1lAUFlBpra9DvMwMK) | [New Day 새로운 날](https://open.spotify.com/album/4zQQM5dVk61G0UrNB8Qr30) | 4:37 | 2022-03-31 | 2022-04-17 |
 | [In the end](https://open.spotify.com/track/0sIAiIw3ZrHSCusJEvtn2H) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Whats wrong with secretary kim OST Part.7](https://open.spotify.com/album/4QKLty6XBVD7DuM4pcvHRa) | 4:25 | 2022-03-31 | 2022-04-11 |
+| [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 | 2025-06-17 |  |
 | [Indecision](https://open.spotify.com/track/1E5OPub2NquTTLqm2lhjvl) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Indecision](https://open.spotify.com/album/2ddvTM9uOqCltc0o5Q7bk1) | 3:35 | 2022-03-31 | 2022-04-21 |
 | [Indifferent People](https://open.spotify.com/track/5uYcSONPlw8yDWoBI7SoOd) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:55 | 2022-03-31 | 2022-04-20 |
 | [Indigo](https://open.spotify.com/track/57gU292uJXE0ur2697dQWJ) | [이봄](https://open.spotify.com/artist/5lsChpOwgH1pnjniKZLD8A) | [Indigo](https://open.spotify.com/album/3KQC1jKtj0o7BtK5siVNvd) | 3:40 | 2022-01-13 | 2022-01-18 |
@@ -244,7 +245,7 @@
 | [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2022-04-12 | 2023-09-20 |
 | [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 | 2025-02-18 | 2025-03-15 |
 | [It’s Okay To Cry](https://open.spotify.com/track/5JxWTxU8trBOfLmeHReKHZ) | [LIM HEON IL](https://open.spotify.com/artist/1NaPFRqmf4eMTGfIR3eXwR), [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [It’s Okay To Cry](https://open.spotify.com/album/3fcD3HSeakYnWjFc1wNoXy) | 4:26 | 2022-03-31 | 2022-04-09 |
-| [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 |  |
+| [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 | 2025-06-18 |
 | [I′m Coming Home](https://open.spotify.com/track/0dfK89MvMnBQcpdbW5f9tx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Jirisan \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/77YNd9Ym3wycCakmOaKfAp) | 4:06 | 2022-04-12 | 2022-06-12 |
 | [joe](https://open.spotify.com/track/5xK6rTa5KDTIbmWDnat1O9) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [joe](https://open.spotify.com/album/0zNgEt5hOx9QdyteuMjw7G) | 3:11 | 2023-06-13 | 2023-07-08 |
 | [Journey](https://open.spotify.com/track/3A2DT3EiyTm6RuB1nfmqBQ) | [Lilynote](https://open.spotify.com/artist/4QcKjUGzgENQ612RgZHjQH) | [Journey](https://open.spotify.com/album/35yc9Ib7M8Gy0KrFI67SdO) | 4:00 | 2022-03-31 | 2022-04-18 |

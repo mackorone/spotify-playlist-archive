@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. El Haragán y Compañía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,716 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,646 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 70 | [Viva tu](https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva tu](https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU) | 3:08 |
 | 71 | [Y Caíste](https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Y Caíste](https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD) | 4:52 |
 | 72 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
-| 73 | [Somos Ajenos \- Noches de Salón](https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Noches De Salón](https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8) | 3:52 |
-| 74 | [De vuelta a casa](https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [De vuelta a casa](https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30) | 4:26 |
+| 73 | [De vuelta a casa](https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [De vuelta a casa](https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30) | 4:26 |
+| 74 | [Somos Ajenos \- Noches de Salón](https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Noches De Salón](https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8) | 3:52 |
 | 75 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Vivir Así Es Morir de Amor](https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g) | 3:40 |
 | 76 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 77 | [Morenaza](https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Maldita Vecindad y los Hijos del Quinto Patio](https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE) | 5:05 |

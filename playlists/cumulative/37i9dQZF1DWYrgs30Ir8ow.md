@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Kraantje Pappie & Ronnie Flex
 
-990 songs - 2 day 0 hr 13 min
+991 songs - 2 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 | 2023-11-23 | 2024-01-16 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2024-01-25 | 2024-03-15 |
 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 | 2024-07-04 | 2024-09-05 |
-| [Hit me up \(feat\. Kleine John & Chavanté\)](https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [Hit me up \(feat\. Kleine John & Chavanté\)](https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1) | 2:32 | 2025-06-12 |  |
+| [Hit me up \(feat\. Chavanté & Kleine John\)](https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Hit me up \(feat\. Chavanté & Kleine John\)](https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1) | 2:32 | 2025-06-12 |  |
 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 | 2023-06-01 | 2023-07-01 |
 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 | 2025-06-05 |  |
 | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/track/5VlumpV7P0bentTmUG4471) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a) | 3:01 | 2025-05-01 |  |
@@ -662,6 +662,7 @@
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-20 | 2023-08-22 |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2023-10-05 | 2023-11-03 |
 | [Overvloed](https://open.spotify.com/track/47RYk8TI6alMop74nycFDF) | [Genna](https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT), [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn) | [Overvloed](https://open.spotify.com/album/3wnMD2qWzqoUD7xbF5k8Ft) | 2:29 | 2024-05-09 | 2024-07-05 |
+| [OWA OWA](https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:12 | 2025-06-17 |  |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-29 | 2023-08-08 |
 | [Padellen](https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Padellen](https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1) | 2:08 | 2023-04-05 | 2023-05-12 |
 | [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2023-09-22 | 2023-10-13 |

@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Arnakairu",
+        "url": "https://open.spotify.com/album/1rDGudki8qY9Hc0Azqyy2N"
+      },
+      "artists": [
+        {
+          "name": "AathiRaja",
+          "url": "https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139493,
+      "name": "Arnakairu",
+      "url": "https://open.spotify.com/track/4h6tOVR29BsAfR4BdONDM4"
+    },
+    {
+      "album": {
         "name": "Aadhi Bhagavan",
         "url": "https://open.spotify.com/album/3M4UBZxgOu71F4vi5IJ6m9"
       },
@@ -1474,6 +1492,36 @@
       "duration_ms": 104680,
       "name": "I don\u2019t like - ! ON LOVE",
       "url": "https://open.spotify.com/track/370suKUvnU8IdxtoSN7WcT"
+    },
+    {
+      "album": {
+        "name": "In The Lab",
+        "url": "https://open.spotify.com/album/6lcacieSlEfbryT9X9hiqJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Jazz",
+          "url": "https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu"
+        },
+        {
+          "name": "This Iz Deep",
+          "url": "https://open.spotify.com/artist/0ot2xvwc1uIweOlosIOJTk"
+        },
+        {
+          "name": "LEO XMD",
+          "url": "https://open.spotify.com/artist/4tv4JflXtgC6Zp7697lWAS"
+        },
+        {
+          "name": "Grislyhazon",
+          "url": "https://open.spotify.com/artist/2A7Q80dLraUZ24OLgWT8QV"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237062,
+      "name": "In The Lab",
+      "url": "https://open.spotify.com/track/1KPLfRJvBSnTyCDOy0TNjH"
     },
     {
       "album": {
@@ -4494,7 +4542,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 147034,
       "name": "VETRIVEL",
       "url": "https://open.spotify.com/track/4LF2sbuK7vDvNj8QiMcBmM"

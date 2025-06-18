@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrIr0kH1BCb.md) - [plain]
 
 > The top hits from your friends on <a href="spotify:artist:50bY8HGxT0SuDgJX3AilTT">Sesame Street</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,663 likes - 41 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,735 likes - 41 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrIr0kH1BCb.md) - [plain]
 | 40 | [All You Need Is You](https://open.spotify.com/track/6wRRtb9PQOVemorFMAp7LF) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [L Is for Love!](https://open.spotify.com/album/2CCB0GB90LhUHcEJaOnDvj) | 2:44 |
 | 41 | [Night Night Song](https://open.spotify.com/track/2ro3MLlkF7OJLShedmHD6v) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [The Not\-Too\-Late Show with Elmo: Songs](https://open.spotify.com/album/5kKr4R5Fzd0uT37NXkDAoB) | 1:17 |
 
-Snapshot ID: `ZownnwAAAAAesMoAOLMeW5fEkHDt+rKW`
+Snapshot ID: `ZownnwAAAAAelrRiq0M8Da6Qe3o+4PFl`

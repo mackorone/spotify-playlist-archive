@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 47228,
+  "num_followers": 47232,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-04-03 00:01:08",
       "album": {
-        "name": "CUORE RINCHIUSO",
-        "url": "https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX"
-      },
-      "artists": [
-        {
-          "name": "LILCR",
-          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
-        }
-      ],
-      "duration_ms": 135724,
-      "name": "CUORE RINCHIUSO",
-      "url": "https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d"
-    },
-    {
-      "added_at": "2025-04-03 00:01:08",
-      "album": {
         "name": "Sottozero",
         "url": "https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 171000,
       "name": "FINISCIMI",
       "url": "https://open.spotify.com/track/5ZGteB4F2eZfemc9PHOPS4"
+    },
+    {
+      "added_at": "2025-04-03 00:01:08",
+      "album": {
+        "name": "CUORE RINCHIUSO",
+        "url": "https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX"
+      },
+      "artists": [
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "duration_ms": 135724,
+      "name": "CUORE RINCHIUSO",
+      "url": "https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d"
     },
     {
       "added_at": "2025-04-03 00:01:08",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-04-03 00:01:08",
       "album": {
-        "name": "cattive abitudini",
-        "url": "https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr"
-      },
-      "artists": [
-        {
-          "name": "Biondo",
-          "url": "https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "ti sei scordata del mio compleanno",
-      "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
-    },
-    {
-      "added_at": "2025-04-03 00:01:08",
-      "album": {
         "name": "MALA VITA",
         "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
       },
@@ -855,22 +839,6 @@
       "duration_ms": 179087,
       "name": "Ti maledir\u00f2",
       "url": "https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4"
-    },
-    {
-      "added_at": "2025-04-03 00:01:08",
-      "album": {
-        "name": "Mancati",
-        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Mancati",
-      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
     },
     {
       "added_at": "2025-04-03 00:01:08",
@@ -891,6 +859,38 @@
       "duration_ms": 177777,
       "name": "Xelisa2 (feat. ARIETE)",
       "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
+    },
+    {
+      "added_at": "2025-04-03 00:01:08",
+      "album": {
+        "name": "Mancati",
+        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Mancati",
+      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
+    },
+    {
+      "added_at": "2025-04-03 00:01:08",
+      "album": {
+        "name": "cattive abitudini",
+        "url": "https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr"
+      },
+      "artists": [
+        {
+          "name": "Biondo",
+          "url": "https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "ti sei scordata del mio compleanno",
+      "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
     },
     {
       "added_at": "2025-04-03 00:01:08",
@@ -1307,8 +1307,8 @@
     {
       "added_at": "2025-04-03 00:01:08",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
       },
       "artists": [
         {
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2025-04-03 00:01:08",
@@ -1387,8 +1387,8 @@
     {
       "added_at": "2025-04-03 00:01:08",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
       },
       "artists": [
         {
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2025-04-03 00:01:08",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-04-03 00:01:08",
       "album": {
-        "name": "Semiminime",
-        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
-      },
-      "artists": [
-        {
-          "name": "Rondine",
-          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
-        }
-      ],
-      "duration_ms": 129854,
-      "name": "Semiminime",
-      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
-    },
-    {
-      "added_at": "2025-04-03 00:01:08",
-      "album": {
         "name": "Amor proprio",
         "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 109357,
       "name": "Ricordi",
       "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+    },
+    {
+      "added_at": "2025-04-03 00:01:08",
+      "album": {
+        "name": "Semiminime",
+        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
+      },
+      "artists": [
+        {
+          "name": "Rondine",
+          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
+        }
+      ],
+      "duration_ms": 129854,
+      "name": "Semiminime",
+      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
     },
     {
       "added_at": "2025-04-03 00:01:08",

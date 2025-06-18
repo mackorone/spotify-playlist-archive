@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-401 songs - 19 hr 7 min
+406 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [After The Rain](https://open.spotify.com/track/4O2DxaGroS88YpNAeRQbgx) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [After The Rain](https://open.spotify.com/album/1NL6vdJMA0zMZabuPYM3Dj) | 3:35 | 2022-09-02 | 2023-10-05 |
 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 | 2021-12-09 | 2023-01-14 |
 | [Afterglow](https://open.spotify.com/track/4dYFO12EuM5ddqQaSA4rfm) | [Lauren Malyon](https://open.spotify.com/artist/0RiBP0mcfAcHqaA3NPUxWl) | [Opus 27](https://open.spotify.com/album/2nLgxZWm1oTtCeC4zwtaOe) | 3:10 | 2025-06-04 |  |
+| [Aimai](https://open.spotify.com/track/5Y0zD7CZqb13bjjFld0z79) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Aimai](https://open.spotify.com/album/55K7pJ3R8LSvNhPU9akT5m) | 2:11 | 2025-06-17 |  |
 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2021-12-09 | 2025-03-20 |
 | [All Is Well Now](https://open.spotify.com/track/5QfENz96Rk140fmTccgCPa) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [All Is Well Now](https://open.spotify.com/album/4wzi12NOvPJU4pxr8WROcV) | 2:08 | 2021-12-09 |  |
 | [All the stars](https://open.spotify.com/track/3bKCh1q0CTDRZJ0a7OtwkR) | [Arya Shae](https://open.spotify.com/artist/5jTigCDuv898J4oTRvco0w) | [All the stars](https://open.spotify.com/album/37arZEnvnYlXMMxkiRI8Fy) | 3:06 | 2025-01-09 |  |
@@ -31,6 +32,7 @@
 | [Anchoring](https://open.spotify.com/track/79qcousu24v5eX01fNSxqG) | [Blue Sky Vessel](https://open.spotify.com/artist/1jSsVXneTHXf7cC54Bh3oV) | [Ballads of an idled nostalgia](https://open.spotify.com/album/6EtWWFg6BGqEQCePVl1ex9) | 2:24 | 2024-08-21 |  |
 | [Ancient Energy](https://open.spotify.com/track/2UoxZL1sEyeHcgUFesQ6L9) | [Zoeli](https://open.spotify.com/artist/3AujDNtDjZiC9J72r13E3t) | [Ancient Energy](https://open.spotify.com/album/3f6DiiVI0dHYyuGNeGyyUD) | 3:16 | 2024-04-04 |  |
 | [anhelo](https://open.spotify.com/track/7dgNKgQTOXvDyL4oX1xrZ3) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [anhelo](https://open.spotify.com/album/5CYhPhBDl0VX9OdvUto91Q) | 3:32 | 2021-12-09 | 2025-01-10 |
+| [As It Is](https://open.spotify.com/track/49BrSEWtdKIwrDm8zS9Kc5) | [Sofia Garcia](https://open.spotify.com/artist/513qG0sPNTxFlWOkWyFpGi) | [As It Is](https://open.spotify.com/album/30G5QKq5G97ii9yfSS6InX) | 2:24 | 2025-06-17 |  |
 | [As With The Night Sky](https://open.spotify.com/track/5uS36I6YMNcYIELbLNcsnz) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 2:27 | 2022-07-27 | 2022-08-13 |
 | [As With The Night Sky](https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:27 | 2021-12-09 | 2022-07-29 |
 | [at peace](https://open.spotify.com/track/5iLY3nwMD7WIm9p8q5tpWm) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [at peace](https://open.spotify.com/album/1PvZfkyXrVL9jPs4QioLUw) | 2:34 | 2021-12-09 | 2024-09-06 |
@@ -38,6 +40,7 @@
 | [Atmos Eleven](https://open.spotify.com/track/0RIJAaogvQkeFuZVPhYlma) | [Atmos 11](https://open.spotify.com/artist/2dm3Qg6j7Y7Dl2yiFCT7MA) | [World of Wonders](https://open.spotify.com/album/2IofZvunariXmkfe7RYG45) | 3:47 | 2021-12-09 | 2025-01-10 |
 | [Aura](https://open.spotify.com/track/2quE9M1AL9B7T6iSjzeT0o) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:31 | 2022-01-20 |  |
 | [Avalanche](https://open.spotify.com/track/1Nm2fVCwabKAa7iVGsfGWy) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Atmospheric Convection](https://open.spotify.com/album/2YNK9ns6luvhHrocjBteRp) | 3:34 | 2022-01-20 |  |
+| [Awaken](https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Awaken](https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk) | 2:31 | 2025-06-17 |  |
 | [Bay Of Calmness](https://open.spotify.com/track/3b0XuTwkAgJbitBwuwJkIv) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [Bay Of Calmness](https://open.spotify.com/album/1CD5m8RpYZMUuK0IGkZlkL) | 2:50 | 2024-02-15 |  |
 | [Become Present Now](https://open.spotify.com/track/4KzuNS7yZPKfoTa1FbFhC6) | [Theta Lake](https://open.spotify.com/artist/7eBIgxtUQM6TJ7BqEG0NJw) | [Become Present Now](https://open.spotify.com/album/5QkrcmOgWeJ57j4xyqNFyO) | 2:56 | 2024-07-12 |  |
 | [Believer](https://open.spotify.com/track/6wsmXduFN4XMJ7ZwfEX52T) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:11 | 2021-12-09 | 2024-11-29 |
@@ -169,6 +172,7 @@
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-03 | 2024-11-29 |
 | [Inside The Wave](https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [The Deep](https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR) | 2:26 | 2022-12-22 |  |
 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 | 2022-08-23 | 2022-12-24 |
+| [Introspection](https://open.spotify.com/track/3liIip321tJq5GFgFfcGc7) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Introspection](https://open.spotify.com/album/51NBoP5ymYt2sOFaj3F17f) | 2:40 | 2025-06-17 |  |
 | [It Can Wait](https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [It Can Wait](https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre) | 2:52 | 2022-09-13 |  |
 | [Jasper](https://open.spotify.com/track/2AG8ZJpqCZBAGYJKuWEXUr) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Jasper](https://open.spotify.com/album/0rklMojfiPjGxBSRVOGLrw) | 3:10 | 2023-12-01 |  |
 | [Jokk](https://open.spotify.com/track/3CPAzMHcgaaUt66dYJMveo) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Jokk](https://open.spotify.com/album/5V3CTeIa4IKNIBpDNU5BjA) | 3:04 | 2022-10-15 | 2023-10-07 |
@@ -274,6 +278,7 @@
 | [Requiem for Reem](https://open.spotify.com/track/4YffSCjHWir1igvZR0LRMN) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [The Breadline / Requiem For Reem](https://open.spotify.com/album/7y6xKQOJFt9jnm4yfU9SEG) | 2:51 | 2025-03-04 |  |
 | [Resting Place](https://open.spotify.com/track/6YB9bWKJb6HGXp2sZsR997) | [Astor Lucas](https://open.spotify.com/artist/01ECx5nZUsdtrDL9Zs6BfA) | [Resting Place](https://open.spotify.com/album/1l9JZ9hv98xUIsodPXriUO) | 2:24 | 2021-12-09 |  |
 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 | 2021-12-09 |  |
+| [Returning To Breath](https://open.spotify.com/track/4jYwTSNem8rhP8xpSb9fQo) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Returning To Breath](https://open.spotify.com/album/2uPOzPuMsh86JDOkIUqk6R) | 2:30 | 2025-06-17 |  |
 | [Reveries](https://open.spotify.com/track/1ZVTGSiQgZpat29115Whiv) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Reveries](https://open.spotify.com/album/4RqbjSBSX042YKc9X1NUKW) | 3:04 | 2024-11-28 |  |
 | [Reveries](https://open.spotify.com/track/6zCnCeruSOYJ4LYQNHa4hN) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Reveries](https://open.spotify.com/album/4P9DWlEZDzIwmqJcqXPSQw) | 2:45 | 2022-01-06 |  |
 | [revival](https://open.spotify.com/track/3pCfEaYHtIsaNyA10z5zBl) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Andy Salvanos](https://open.spotify.com/artist/25Q9si63JQHlQk12dMLZhb) | [revival](https://open.spotify.com/album/0FMAT7Rqa7N9YKJ1EyOUxS) | 2:09 | 2025-03-19 |  |

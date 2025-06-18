@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Brian Eno & Beatie Wolfe
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,414 likes - 106 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,487 likes - 106 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 2 | [Rose Bay \- Reworked by Leo Einaudi](https://open.spotify.com/track/2nsGRmMFJlYuvNsalF5RzZ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Rose Bay \(Reworked by Leo Einaudi\)](https://open.spotify.com/album/4rmTjpTDKhaTKl2VLhSbH2) | 3:37 |
 | 3 | [Big Empty Country \- V](https://open.spotify.com/track/1MkM8QcfHDjkOFjLxo6tEd) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Lateral](https://open.spotify.com/album/1yipZJ7MzmCA56WeIfHX3D) | 7:56 |
 | 4 | [What Got Us To Our Feet](https://open.spotify.com/track/2nGZp9lOtY6dOt3pnzXHA9) | [Almost An Island](https://open.spotify.com/artist/0eqkViQMmHYvTpSesY7DjH), [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG), [James Bernard](https://open.spotify.com/artist/6d20guq0wJ6Z4sQGucU85q) | [What Got Us To Our Feet](https://open.spotify.com/album/2IemsgH7h1tYIIRk7vNwMC) | 4:53 |
-| 5 | [Luminal](https://open.spotify.com/track/7jHa6a3QRlJ9VM4sFzb9pn) | [Sorekara](https://open.spotify.com/artist/1iKVCznm9JPkYn8x9xjQw7), [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B), [Helios](https://open.spotify.com/artist/0v9JoDixRtVMxQMxuM1r78) | [Luminal](https://open.spotify.com/album/3ItdFSJyglno2X3FvmKnCq) | 3:49 |
+| 5 | [Luminal](https://open.spotify.com/track/7jHa6a3QRlJ9VM4sFzb9pn) | [Sorekara](https://open.spotify.com/artist/1iKVCznm9JPkYn8x9xjQw7), [Tim Hecker](https://open.spotify.com/artist/7pRm73J9e3cXI88k78J17V), [Helios](https://open.spotify.com/artist/0v9JoDixRtVMxQMxuM1r78) | [Luminal](https://open.spotify.com/album/3ItdFSJyglno2X3FvmKnCq) | 3:49 |
 | 6 | [Bloom](https://open.spotify.com/track/0ABXrEh01Opz2xLiFBcPBM) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Bloom](https://open.spotify.com/album/1U9BDCSBfNXDf7DG2RD7Rf) | 2:59 |
 | 7 | [Yellowed Leaves Drift Down](https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC), [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX), [Asia Dojnikowska](https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b) | [Apofanie](https://open.spotify.com/album/6mDeROE5QTMtx2tmmBSDfX) | 3:32 |
 | 8 | [Open Shadow](https://open.spotify.com/track/4g0HhFBcBhPU4bkuhhGVEg) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Waterfall Horizon](https://open.spotify.com/album/78qlomYI4uQHUSVOJETLud) | 4:02 |

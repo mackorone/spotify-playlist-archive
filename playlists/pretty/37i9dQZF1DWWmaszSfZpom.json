@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 947129,
+  "num_followers": 947100,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Liberdade (Quando o Grave Bate Forte)",
+        "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Dj GBR",
+          "url": "https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "Liberdade (Quando o Grave Bate Forte)",
+      "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -603,30 +627,6 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Liberdade (Quando o Grave Bate Forte)",
-        "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Dj GBR",
-          "url": "https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV"
-        }
-      ],
-      "duration_ms": 150461,
-      "name": "Liberdade (Quando o Grave Bate Forte)",
-      "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
     },
     {
       "added_at": "2023-06-26 14:06:50",

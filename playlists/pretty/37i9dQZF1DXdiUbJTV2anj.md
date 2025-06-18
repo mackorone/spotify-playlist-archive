@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: PRESIDENT
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,985 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,039 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fearless](https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Fearless](https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC) | 3:35 |
-| 2 | [devotion](https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [devotion](https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB) | 3:29 |
-| 3 | [Impeccable](https://open.spotify.com/track/65qyyKqxQZ41tQ0VRj1RYA) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Impeccable](https://open.spotify.com/album/0UKU5bU3U1O1Vin4SkRhse) | 4:42 |
-| 4 | [Aquila](https://open.spotify.com/track/49LZHvYu1hUWIlR5Di3LWJ) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [From The New World](https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC) | 4:05 |
-| 5 | [Nihilism](https://open.spotify.com/track/2JDPR8ZjXGGUHmqKTpJzcm) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Vended](https://open.spotify.com/album/2tDnVMI6pBlsiEMOfb5DaU) | 3:16 |
-| 6 | [No Place for You](https://open.spotify.com/track/1uxVsLqdq1ROCJS7IyDozS) | [ZUKØ](https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8) | [No Place for You](https://open.spotify.com/album/2EYkfBpjdnKyJVIUuFp5vX) | 2:50 |
-| 7 | [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villain](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 |
-| 8 | [WITHOUT YOU](https://open.spotify.com/track/1xHlY90KUIbTriodDlHfLd) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [WITHOUT YOU](https://open.spotify.com/album/5i51yNWwFg8NiD9OKavrpk) | 3:18 |
-| 9 | [Paradise](https://open.spotify.com/track/6c2orDRuPDBLrdUorfhK1d) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z) | [Paradise](https://open.spotify.com/album/7D21dYQk6ZQJku7MNmMQHB) | 3:00 |
-| 10 | [What I Have Become](https://open.spotify.com/track/0xEUNhv6HTQVwcfcOnou60) | [LIGHTCHAPTER](https://open.spotify.com/artist/1hNQCLYOJGhaPY0Uf7EWbO) | [What I Have Become](https://open.spotify.com/album/2VGWQCo8cDsboFFWsNfqN6) | 3:50 |
-| 11 | [eXistenZ](https://open.spotify.com/track/09GdLZqoNzQL5XQZe2L1ap) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [It's Inside You](https://open.spotify.com/album/2cbSeFRm0k6iRGDqZRAGfs) | 1:21 |
-| 12 | [Big Blind](https://open.spotify.com/track/3P9sADlTfW3HMVpI1Dg9Pt) | [Waxed](https://open.spotify.com/artist/4jW7rGR5aeJpsEhmv3PAtY) | [Big Blind](https://open.spotify.com/album/1xRnHvJoPjhIPVLv3Onnvd) | 2:45 |
-| 13 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 |
-| 14 | [Live Not Fantasize](https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Live Not Fantasize](https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd) | 2:59 |
-| 15 | [LEECH](https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LEECH](https://open.spotify.com/album/2cNUcSOqhUZoOoGluEENZV) | 3:53 |
-| 16 | [Keep Your Blessings](https://open.spotify.com/track/28gJfJ5tuvZORsjBoVo5GR) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Keep Your Blessings](https://open.spotify.com/album/1cwSqnPyYZ5v2oLwFefmwc) | 3:29 |
+| 2 | [No Place for You](https://open.spotify.com/track/1uxVsLqdq1ROCJS7IyDozS) | [ZUKØ](https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8) | [No Place for You](https://open.spotify.com/album/2EYkfBpjdnKyJVIUuFp5vX) | 2:50 |
+| 3 | [Paradise](https://open.spotify.com/track/6c2orDRuPDBLrdUorfhK1d) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z) | [Paradise](https://open.spotify.com/album/7D21dYQk6ZQJku7MNmMQHB) | 3:00 |
+| 4 | [Keep Your Blessings](https://open.spotify.com/track/28gJfJ5tuvZORsjBoVo5GR) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Keep Your Blessings](https://open.spotify.com/album/1cwSqnPyYZ5v2oLwFefmwc) | 3:29 |
+| 5 | [Aquila](https://open.spotify.com/track/49LZHvYu1hUWIlR5Di3LWJ) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [From The New World](https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC) | 4:05 |
+| 6 | [devotion](https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [devotion](https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB) | 3:29 |
+| 7 | [What I Have Become](https://open.spotify.com/track/0xEUNhv6HTQVwcfcOnou60) | [LIGHTCHAPTER](https://open.spotify.com/artist/1hNQCLYOJGhaPY0Uf7EWbO) | [What I Have Become](https://open.spotify.com/album/2VGWQCo8cDsboFFWsNfqN6) | 3:50 |
+| 8 | [Impeccable](https://open.spotify.com/track/65qyyKqxQZ41tQ0VRj1RYA) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Impeccable](https://open.spotify.com/album/0UKU5bU3U1O1Vin4SkRhse) | 4:42 |
+| 9 | [Big Blind](https://open.spotify.com/track/3P9sADlTfW3HMVpI1Dg9Pt) | [Waxed](https://open.spotify.com/artist/4jW7rGR5aeJpsEhmv3PAtY) | [Big Blind](https://open.spotify.com/album/1xRnHvJoPjhIPVLv3Onnvd) | 2:45 |
+| 10 | [Nihilism](https://open.spotify.com/track/2JDPR8ZjXGGUHmqKTpJzcm) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Vended](https://open.spotify.com/album/2tDnVMI6pBlsiEMOfb5DaU) | 3:16 |
+| 11 | [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villain](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 |
+| 12 | [WITHOUT YOU](https://open.spotify.com/track/1xHlY90KUIbTriodDlHfLd) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [WITHOUT YOU](https://open.spotify.com/album/5i51yNWwFg8NiD9OKavrpk) | 3:18 |
+| 13 | [eXistenZ](https://open.spotify.com/track/09GdLZqoNzQL5XQZe2L1ap) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [It's Inside You](https://open.spotify.com/album/2cbSeFRm0k6iRGDqZRAGfs) | 1:21 |
+| 14 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 |
+| 15 | [Live Not Fantasize](https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Live Not Fantasize](https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd) | 2:59 |
+| 16 | [LEECH](https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LEECH](https://open.spotify.com/album/2cNUcSOqhUZoOoGluEENZV) | 3:53 |
 | 17 | [helium](https://open.spotify.com/track/2N8djHgfdViWfGSxJpJO0c) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [helium](https://open.spotify.com/album/5WjiWOcFguju9bZkfXk2DR) | 3:35 |
 | 18 | [Evil Eyes](https://open.spotify.com/track/2vVKwYChQpBxmabokUSbke) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [Evil Eyes](https://open.spotify.com/album/4U84qpT79s2wa4OH5C6RDw) | 2:46 |
 | 19 | [Vestige](https://open.spotify.com/track/4aNtdkbAxm7E1gJiqA95r9) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Vestige](https://open.spotify.com/album/0YsWVz8MPLPmDHNKtjVxDS) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [Rotting Wool](https://open.spotify.com/track/7vNLTNEYdUI3FwieneXrFV) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Rotting Wool](https://open.spotify.com/album/25xhIBIh52pBTmn0RDlaBE) | 2:18 |
 | 50 | [In the Name of War](https://open.spotify.com/track/3fC5DH3Pu3DzCHlgtBUZVd) | [Whom Gods Destroy](https://open.spotify.com/artist/6CPRNvNZxQq4thYYQVijUH) | [Insanium](https://open.spotify.com/album/4BZUFFuZsZ5F4prX6GWOxv) | 6:38 |
 
-Snapshot ID: `aEKjcQAAAACuoVI5ymIaCxwbpAHhtnL6`
+Snapshot ID: `aFEgQAAAAADxbjjqcUc6aA5EFj//obr5`

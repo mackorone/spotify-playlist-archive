@@ -183,7 +183,7 @@
 | [花一匁](https://open.spotify.com/track/7xwmx6snj1GphKH9ihzo8e) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:10 | 2023-11-29 | 2024-12-05 |
 | [赤ずきん](https://open.spotify.com/track/1vone5YS9zGooFsnUml2LI) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [赤ずきん](https://open.spotify.com/album/3KPeXKwDGaWZz6Ue3ovPdK) | 3:15 | 2023-11-29 | 2024-12-05 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-11-29 | 2024-12-05 |
-| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-12-04 |  |
+| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-12-04 |  |
 | [魔法が解けたら](https://open.spotify.com/track/6h1ry3Eb2gPMSi2mIhmBP6) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU) | 4:00 | 2023-11-29 | 2024-12-05 |
 | [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-11-29 | 2024-12-05 |
 

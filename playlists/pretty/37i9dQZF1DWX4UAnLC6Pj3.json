@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS en portada.",
-  "num_followers": 1269236,
+  "num_followers": 1269257,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
-        "name": "Carteles",
-        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 125818,
-      "name": "El B\u00e9lico",
-      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
+        "name": "Fuera De Servicio",
+        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 154868,
+      "name": "Fuera De Servicio",
+      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
         "name": "Dile a Tu Orgullo (En Vivo)",
         "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 226345,
       "name": "Dile a Tu Orgullo (En Vivo)",
       "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
-        "name": "Fuera De Servicio",
-        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 154868,
-      "name": "Fuera De Servicio",
-      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Qu\u00e9 Loco el Plebe",
-        "url": "https://open.spotify.com/album/7zib463YTjdtk4CqQZK6kK"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Qu\u00e9 Loco El Plebe",
-      "url": "https://open.spotify.com/track/5gLwcpNzRB5f9WKu512COs"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 156521,
       "name": "Bonito y Bello",
       "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Qu\u00e9 Loco el Plebe",
+        "url": "https://open.spotify.com/album/7zib463YTjdtk4CqQZK6kK"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Qu\u00e9 Loco El Plebe",
+      "url": "https://open.spotify.com/track/5gLwcpNzRB5f9WKu512COs"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 224166,
+      "name": "Muchachita De Ojos Tristes - En Vivo",
+      "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
         "name": "Yo Nac\u00ed Pa' Ser Jefe",
         "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 168553,
       "name": "Yo Nac\u00ed Pa' Ser Jefe",
       "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 224166,
-      "name": "Muchachita De Ojos Tristes - En Vivo",
-      "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 180083,
+      "name": "Las Edades - En Vivo",
+      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 215106,
       "name": "Una Noche Cualquiera",
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 180083,
-      "name": "Las Edades - En Vivo",
-      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "El Payaso",
-        "url": "https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 180382,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 150950,
       "name": "Paz En Este Amor - En Vivo",
       "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "El Payaso",
+        "url": "https://open.spotify.com/album/7nEa4qa8Bcfc993KotJYaB"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 180382,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/1eIIZzMC0NDHTbjScOYees"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1571,22 +1571,22 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Sin Miedo al \u00c9xito",
-        "url": "https://open.spotify.com/album/2R0Tuws9nwlxzrLwc7iLgm"
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         },
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 156400,
-      "name": "Sin Miedo al \u00c9xito",
-      "url": "https://open.spotify.com/track/7MKkqXp6jE9IFoqe0gFKmm"
+      "duration_ms": 149986,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 149986,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Ya Se Fue",
         "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 201400,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Sin Miedo al \u00c9xito",
+        "url": "https://open.spotify.com/album/2R0Tuws9nwlxzrLwc7iLgm"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 156400,
+      "name": "Sin Miedo al \u00c9xito",
+      "url": "https://open.spotify.com/track/7MKkqXp6jE9IFoqe0gFKmm"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "A Casi Nada",
-        "url": "https://open.spotify.com/album/240SlU1GGy3vb9QNJXbl8X"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 206260,
-      "name": "A Casi Nada",
-      "url": "https://open.spotify.com/track/03VoNjlOYSQ5Cg3iqWvQvw"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "El Precio De La Soledad (En vivo)",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 166143,
       "name": "El Precio De La Soledad - En vivo",
       "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "A Casi Nada",
+        "url": "https://open.spotify.com/album/240SlU1GGy3vb9QNJXbl8X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 206260,
+      "name": "A Casi Nada",
+      "url": "https://open.spotify.com/track/03VoNjlOYSQ5Cg3iqWvQvw"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/2N9Doi1fgdEIFavKu58qSI"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 193687,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/2NvjIR3bHAVxMY032nNuR2"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "Me Gustas Mucho T\u00fa",
         "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
       },
@@ -2035,18 +2019,18 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/6lRqJciw5FLzsPSu3eKTwm"
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/2N9Doi1fgdEIFavKu58qSI"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
         }
       ],
-      "duration_ms": 213762,
-      "name": "No Me Aprovechaste",
-      "url": "https://open.spotify.com/track/1bIop0kq6LmElfwkAt4LeD"
+      "duration_ms": 193687,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/2NvjIR3bHAVxMY032nNuR2"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -2067,6 +2051,22 @@
       "duration_ms": 167506,
       "name": "Mala Hierba",
       "url": "https://open.spotify.com/track/47Nf0haFCGYpWfMTP9Jdgd"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "En Vivo Desde Jap\u00f3n",
+        "url": "https://open.spotify.com/album/6lRqJciw5FLzsPSu3eKTwm"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 213762,
+      "name": "No Me Aprovechaste",
+      "url": "https://open.spotify.com/track/1bIop0kq6LmElfwkAt4LeD"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2025-06-06 04:00:10",
       "album": {
-        "name": "Me Vas A Comparar",
-        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Me Vas A Comparar",
-      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
-    },
-    {
-      "added_at": "2025-06-06 04:00:10",
-      "album": {
         "name": "La Humilde Opinion",
         "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 163016,
       "name": "La Humilde Opinion",
       "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "Me Vas A Comparar",
+        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Me Vas A Comparar",
+      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
     },
     {
       "added_at": "2025-06-06 04:00:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,219 likes - 149 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,216 likes - 149 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 107 | [The Basement](https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [The Basement](https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr) | 2:16 |
 | 108 | [Enjoy Yourself](https://open.spotify.com/track/5yXvjipyD1AcO31ZGcvCI0) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Enjoy Yourself](https://open.spotify.com/album/2JMGpsq1PPEjig8CPRdXru) | 2:52 |
 | 109 | [C'MON \- Mattu Remix](https://open.spotify.com/track/6Bi86mzhP4OV7Jg3NBLMXQ) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc), [Mattu](https://open.spotify.com/artist/1GxVO1YvMaSyl8lu7Jqrl5) | [C'MON \(Mattu Remix\)](https://open.spotify.com/album/2ONcFZ1ZDf1mmOz5c3gS90) | 2:11 |
-| 110 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [honeygirl](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
+| 110 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [Hnygrl](https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
 | 111 | [lemons](https://open.spotify.com/track/5n92v56rwKAV9YLS3Mv2r7) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [lemons](https://open.spotify.com/album/0mNXu12XcjI4bW5D2czphI) | 2:29 |
 | 112 | [We Do This](https://open.spotify.com/track/73ckVtfKPl5yQF5VCtXdrA) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [We Do This](https://open.spotify.com/album/3ed8yV3c4asmd2dTfJMADS) | 2:27 |
 | 113 | [Rhetorical Questions \(Blusher Remix\)](https://open.spotify.com/track/2yR4MZSMXfgcT5O8w5yioN) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rhetorical Questions \(Blusher Remix\)](https://open.spotify.com/album/43KW7OcT2YIJTRmkydX53b) | 2:46 |

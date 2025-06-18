@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 316 songs - 18 hr 44 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 315 songs - 18 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -323,6 +323,5 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 313 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 314 | [Uh la la](https://open.spotify.com/track/2PegjCuOVhM1A86ejM0apG) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Eso Es Lo Que Hay](https://open.spotify.com/album/3LFh9faflZ48PVZeBJx6wu) | 3:50 |
 | 315 | [Sunrise](https://open.spotify.com/track/0n0p8VGjFfQSXnCKUMPCWU) | [Slaptop](https://open.spotify.com/artist/5NFB7dL4b4ZtcMAk2wCOoi) | [Sunrise](https://open.spotify.com/album/6TIUOd9nDxKgQMc7OijRaa) | 3:34 |
-| 316 | [679 \(feat\. Monty\)](https://open.spotify.com/track/0w3Q3VFdrYzo24QUIGnBNy) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Monty](https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:06 |
 
-Snapshot ID: `AAADZRvujle6ajZNOgmPTe2ymgr+zT0V`
+Snapshot ID: `AAADZmDcpdaLcQVNrNVA0NXjp/UWSNAW`

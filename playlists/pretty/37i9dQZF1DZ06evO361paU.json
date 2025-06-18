@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 284649,
+  "num_followers": 284686,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABgiSvj2k0FgrDv5v+3J0UC",
+  "snapshot_id": "aE9egAAAAADWVYPczH3uOsxdu757ihiV",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Where Are We Runnin'?",
+      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backatown",
         "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 221360,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "Where Are We Runnin'?",
-      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
     },
     {
       "added_at": null,

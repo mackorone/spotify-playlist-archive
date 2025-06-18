@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12312,
+  "num_followers": 12314,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABe2qy3+7yqBbCa/54fncYu",
+  "snapshot_id": "aE9egAAAAADNtDA1b4+QFRW70hcu4dKJ",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Plays Bossa Nova",
-        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "The Girl From Ipanema - Live",
-      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Be Good to You",
         "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
       },
@@ -451,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unmistakably Lou",
-        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 266872,
-      "name": "Spring Again",
-      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
+      "duration_ms": 263200,
+      "name": "The Girl From Ipanema - Live",
+      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
     },
     {
       "added_at": null,
@@ -479,6 +463,22 @@
       "duration_ms": 278946,
       "name": "Ain't That Loving You (For More Reasons Than One)",
       "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 266872,
+      "name": "Spring Again",
+      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portrait Of The Blues",
-        "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        },
-        {
-          "name": "Phoebe Snow",
-          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
-        }
-      ],
-      "duration_ms": 184026,
-      "name": "A Lover's Question",
-      "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 223493,
       "name": "Be Anything (But Be Mine)",
       "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portrait Of The Blues",
+        "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Phoebe Snow",
+          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
+        }
+      ],
+      "duration_ms": 184026,
+      "name": "A Lover's Question",
+      "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 232346,
       "name": "I Go Crazy",
       "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "If I Were A Magician",
-      "url": "https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 256160,
       "name": "We Understand Each Other",
       "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
+        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
+      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "If I Were A Magician",
+      "url": "https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 291173,
       "name": "You Are",
       "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
-        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
-      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
       "added_at": null,

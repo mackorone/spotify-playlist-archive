@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,085 likes - 56 songs - 3 hr 21 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,088 likes - 58 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 54 | [Kiss Me on the Bus](https://open.spotify.com/track/7b8BgGpMDmNjkOzfMfxCzi) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim](https://open.spotify.com/album/1yO2d1lmmu0tkDf3trvOm7) | 2:53 |
 | 55 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
 | 56 | [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 |
+| 57 | [Mélodie du crépuscule](https://open.spotify.com/track/18eISpOzQPIXDBKPm2e5dZ) | [Jacques Dupont](https://open.spotify.com/artist/6S4VOqONTKvPJ5UMvndZJ9) | [Mélodie du crépuscule](https://open.spotify.com/album/5xVkZ1SdoJ1SlBayQrzH2A) | 1:58 |
+| 58 | [Pell Mell](https://open.spotify.com/track/0IDWNMoLorAHuNlXwtfyn2) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Days of Heaven](https://open.spotify.com/album/3gEZf0bRhUaBevLRykTDZ5) | 3:22 |
 
-Snapshot ID: `AAAMnNqzXvbES8vjrmlGUP8STqEvVwWa`
+Snapshot ID: `AAAMnrEiffOvpaAPtbzZZfFpyuHaECoL`

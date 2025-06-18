@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,796 likes - 79 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,815 likes - 79 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

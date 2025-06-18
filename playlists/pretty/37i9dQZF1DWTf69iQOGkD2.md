@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Cryzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,634 likes - 74 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,765 likes - 74 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 73 | [Acústico Altamira \#2 \- Aquariana](https://open.spotify.com/track/4FBtqgrx8Mps6egl6UZHgT) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Luá](https://open.spotify.com/artist/6FoTs6qDb4ErbbIU0qEvyc), [Noventa](https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK) | [Acústico Altamira \#2 \- Aquariana](https://open.spotify.com/album/46ilE6UYZCsn3dOJNuMWBt) | 4:05 |
 | 74 | [Lugar Reservado](https://open.spotify.com/track/1DQFUdYBwVlXfGOn29DOxQ) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T), [Luc Freestyle](https://open.spotify.com/artist/3z6K4frZB1cl0e0A2VbPPk) | [Lugar Reservado](https://open.spotify.com/album/7dPMnEueULw63cvxdK0TqI) | 1:40 |
 
-Snapshot ID: `aExIbwAAAADm4Kfzt2SsNONiTsVWFIEL`
+Snapshot ID: `aExIbwAAAACIqvSuLwDk+nTtpaJGUTyg`

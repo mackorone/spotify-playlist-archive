@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1084868,
+  "num_followers": 1084999,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAArywrMSOSnlQFiTWe3noa0",
+  "snapshot_id": "aE9egAAAAABW6dTVZCSV5sfrN1VT4Pwq",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Las Botas de Charro",
-      "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Tu Maldito Amor",
         "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 238000,
       "name": "Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Las Botas de Charro",
+      "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 183760,
-      "name": "Si Acaso Vuelves",
-      "url": "https://open.spotify.com/track/6ECHNv4bPnAiaquIPGt8es"
+      "duration_ms": 157493,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 157493,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
+      "duration_ms": 183760,
+      "name": "Si Acaso Vuelves",
+      "url": "https://open.spotify.com/track/6ECHNv4bPnAiaquIPGt8es"
     },
     {
       "added_at": null,

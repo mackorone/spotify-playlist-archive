@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-139 songs - 11 hr 14 min
+140 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Dastaan](https://open.spotify.com/track/2Bu8OV53cpcpVRgx1JRYte) | [Tajdar Junaid](https://open.spotify.com/artist/3tEJo0yjxFfLljtseITzVr) | [What Colour Is Your Raindrop](https://open.spotify.com/album/1frVusPqxFh2Q5GzqdTDvC) | 3:27 | 2022-06-10 | 2023-07-13 |
 | [Delicately Tuned](https://open.spotify.com/track/6HNNqCMbrENJxDvUGsow3D) | [Karnatriix](https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6) | [Namaste](https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi) | 7:09 | 2022-06-10 |  |
 | [Departure](https://open.spotify.com/track/43tRzHQb2OziLUOgFJELuI) | [Rasika Shekar](https://open.spotify.com/artist/0v8Vu84KyjZUxCD1P8LpDp) | [Departure](https://open.spotify.com/album/2779kgLwGYn8NP2tk14AB7) | 3:58 | 2022-06-10 |  |
-| [Drop](https://open.spotify.com/track/3egX8ALvUfZTddyDurHoda) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/7dnWNzGDTh1XDxdDxIqt4e) | 2:54 | 2022-06-10 |  |
+| [Dhvani](https://open.spotify.com/track/7odi5CDkg2KJ0a76povCuj) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [ELEMENTAL SITAR](https://open.spotify.com/album/568eZtTWckY9PSa1ckCP3u) | 5:10 | 2025-06-17 |  |
+| [Drop](https://open.spotify.com/track/3egX8ALvUfZTddyDurHoda) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/7dnWNzGDTh1XDxdDxIqt4e) | 2:54 | 2022-06-10 | 2025-06-18 |
 | [Drop](https://open.spotify.com/track/6Syd5k9s9HnBfTk5aEpCMh) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i) | 2:54 | 2022-06-10 | 2024-04-19 |
 | [Electric Pranaam](https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg) | [Sanjeev T](https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu) | [Epic Shit](https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc) | 5:16 | 2022-06-10 |  |
 | [Emotive Conversation](https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [Emotive Conversation](https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1) | 2:52 | 2022-06-10 |  |

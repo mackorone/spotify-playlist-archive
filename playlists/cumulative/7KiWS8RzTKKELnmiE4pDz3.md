@@ -4,7 +4,7 @@
 
 > 
 
-1,053 songs - 2 day 4 hr 36 min
+1,054 songs - 2 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [LA Talk](https://open.spotify.com/track/5GpN1t3D2SYZCLz6Lcej2v) | [10TA Lil A](https://open.spotify.com/artist/3E7zyjnY6AthfEeOAT1x3e), [Double O Tone](https://open.spotify.com/artist/67oBhkdOuUG9eHxIqYmioE) | [Welcome 2 The Darkside](https://open.spotify.com/album/4EeebfzQSzQqHWtVlFc9U9) | 2:32 | 2022-12-09 | 2023-04-12 |
 | [La Zandunga](https://open.spotify.com/track/2n8T1TN38EL256D1fL7y3A) | [Armando Trejo](https://open.spotify.com/artist/5ljXvZNchon1e01tIDadx2) | [Una Guitarra Muy Mexicana](https://open.spotify.com/album/5cyVXnzW45RZGQODWpp2pv) | 2:16 | 2024-02-15 | 2024-11-06 |
 | [Lady Brown \(feat\. Cise Starr from CYNE\)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr](https://open.spotify.com/artist/2Xavhsn8y9Yrr7N08OxvKF) | [Metaphorical Music](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637) | 3:19 | 2022-09-25 | 2023-05-09 |
+| [Last Night](https://open.spotify.com/track/01r1q2OykW2e3L17kB5bi3) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:47 | 2025-06-17 |  |
 | [Late Night Thoughts](https://open.spotify.com/track/2VDOufBy8AZ62QP9fKWtU0) | [lux!](https://open.spotify.com/artist/78UPr5XqILuhuYhqpFkv6S) | [Late Night Thoughts](https://open.spotify.com/album/7K43nm5jlSvcUWHQtxWAIP) | 3:37 | 2022-06-22 | 2023-12-14 |
 | [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 | 2024-04-26 | 2024-11-06 |
 | [Lead \(Overseas\)](https://open.spotify.com/track/43CRqUQpaSts3z6ksVVQ1L) | [Aanex](https://open.spotify.com/artist/142KXPkDuhALyplZx3lY0h) | [Lead \(Overseas\)](https://open.spotify.com/album/4Sf2Z3S546TMtn8hU7GStL) | 2:09 | 2023-04-05 | 2023-05-09 |

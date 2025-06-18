@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69019,
+  "num_followers": 69030,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAADBK4V+89hy9Inpf6D4qNKS",
+  "snapshot_id": "aE9egAAAAADEsmJuaTbhmbNLAMHRllR8",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Nena Buena",
+      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMIGA CON BENEFICIOS",
         "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 193411,
       "name": "AMIGA CON BENEFICIOS",
       "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Nena Buena",
-      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 229955,
       "name": "Mi Favorita",
       "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,

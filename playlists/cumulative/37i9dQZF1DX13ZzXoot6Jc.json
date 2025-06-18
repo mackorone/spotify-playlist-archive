@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-31",
-  "description": "Morgan Wallen and Country hits that will have you singing every word.",
+  "description": "Jordan Davis and Country hits that will have you singing every word.",
   "name": "Country Favourites",
   "tracks": [
     {
@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
+    {
+      "album": {
         "name": "Blue Jean Baby",
         "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
       },
@@ -1300,7 +1322,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 177313,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
@@ -6820,7 +6842,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 182466,
       "name": "Take Her Home",
       "url": "https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ"
@@ -8542,6 +8564,28 @@
       "duration_ms": 180615,
       "name": "You Got The Wrong Guy",
       "url": "https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs"
+    },
+    {
+      "album": {
+        "name": "You Had To Be There (feat. Kenny Chesney)",
+        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220157,
+      "name": "You Had To Be There (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
     },
     {
       "album": {

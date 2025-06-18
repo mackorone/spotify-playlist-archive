@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26990,
+  "num_followers": 26997,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAAIJ5x8QTN2ZJi9R0x4lSiD",
+  "snapshot_id": "aE9egAAAAAD+612bOGLy4Z39wF7WGdbI",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 223107,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Be The Glory (Remix)",
         "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 228705,
       "name": "God Be The Glory (Remix)",
       "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold Me Back",
-        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 223107,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Long Live the Champion",
         "url": "https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 263118,
       "name": "Long Live the Champion",
       "url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": null,
@@ -530,11 +530,15 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+      "duration_ms": 229807,
+      "name": "The Name (feat. Koryn Hawthorne)",
+      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
     },
     {
       "added_at": null,
@@ -610,15 +614,11 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 229807,
-      "name": "The Name (feat. Koryn Hawthorne)",
-      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Belong",
         "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 177219,
       "name": "God Speed",
       "url": "https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Undefeated",
-        "url": "https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc"
     },
     {
       "added_at": null,

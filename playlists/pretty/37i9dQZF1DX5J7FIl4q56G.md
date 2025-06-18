@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Orbit Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,473 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,514 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 51 | [Vis meg alt](https://open.spotify.com/track/36bzXfc6zrZNFpGzZFNSHt) | [Agabas](https://open.spotify.com/artist/6D2bFMb10UAkoO5z75RzOU), [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Hard Anger](https://open.spotify.com/album/6eijwTTiTf5lpMyTeL8Frb) | 3:12 |
 | 52 | [Ride the Wired Wild Tiger](https://open.spotify.com/track/5hFsqWoKQL5uZDBzqaBy6f) | [LUCIE SUE](https://open.spotify.com/artist/6ToQCnRGaGmhn4yziwMEh3), [Satchel](https://open.spotify.com/artist/2qgNcLm181szWzHaQj6x8U) | [Ride the Wired Wild Tiger](https://open.spotify.com/album/499qsNA6lfBdrZpkA9bcA6) | 3:46 |
 | 53 | [No Absolution](https://open.spotify.com/track/2EBmm4sO5k193YAw6G9eLE) | [Death Reapers](https://open.spotify.com/artist/4eqGcsDsxOgKwrzKweWhdb) | [Thirst For Chaos](https://open.spotify.com/album/0IsQ7XW45ZPA7PyC3lz2KP) | 3:58 |
-| 54 | [Schizophrenia](https://open.spotify.com/track/36L6IugxDsba2T7Lg7NMG9) | [No Shelter.](https://open.spotify.com/artist/3NuCnlbiVtGUYsWFZnjSKU) | [Schizophrenia](https://open.spotify.com/album/41UJIn5a77YP0ZPJhXSoKe) | 2:20 |
+| 54 | [Schizophrenia](https://open.spotify.com/track/36L6IugxDsba2T7Lg7NMG9) | [No Shelter](https://open.spotify.com/artist/6ciogrptZroo8YbiFjeNtd) | [Schizophrenia](https://open.spotify.com/album/41UJIn5a77YP0ZPJhXSoKe) | 2:20 |
 | 55 | [Anodyne](https://open.spotify.com/track/2CxSISGYC1pMSaOM1B05Th) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Anodyne](https://open.spotify.com/album/38rLdTW9DMOrDjw4Vb5fy5) | 4:17 |
 | 56 | [Royally Done](https://open.spotify.com/track/0RsWGM3u37HYSDJCkf2Tza) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Royally Done](https://open.spotify.com/album/6T0UZcNwGDJ4fU1Qf9U8tb) | 3:03 |
 | 57 | [shitwreck](https://open.spotify.com/track/363Qd3HX1VrP4cU9C72HLs) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [shitwreck](https://open.spotify.com/album/0fGIr6qCXOTGPGGPhnSpvo) | 3:20 |

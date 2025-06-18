@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 194400,
       "name": "Ability to Observe",
       "url": "https://open.spotify.com/track/6Uk1BcHkEnyrjif1u5QeVB"
@@ -2227,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Attunement",
+        "url": "https://open.spotify.com/album/7yN8kHS3rIHTD4ElXNVaqb"
+      },
+      "artists": [
+        {
+          "name": "Map Of My Mind",
+          "url": "https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Attunement",
+      "url": "https://open.spotify.com/track/6AmAEuR2VKtEOKvUkv5KGc"
+    },
+    {
+      "album": {
         "name": "Atwined",
         "url": "https://open.spotify.com/album/6TTy6hUzyFliywFJLXfYsk"
       },
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 172800,
       "name": "Awha",
       "url": "https://open.spotify.com/track/0qagB5q8Pb3ws2FV2UXlDZ"
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 173850,
       "name": "Beyond the Silence",
       "url": "https://open.spotify.com/track/77h8U4nGrKuREPKF9krrYC"
@@ -5118,7 +5136,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 173238,
       "name": "Cosmic Cascade",
       "url": "https://open.spotify.com/track/2jdMMPWv4rsspn5XKcN6tC"
@@ -11739,6 +11757,24 @@
     },
     {
       "album": {
+        "name": "Infinis",
+        "url": "https://open.spotify.com/album/5d9CM2jb1OfYYjoTXvosCu"
+      },
+      "artists": [
+        {
+          "name": "Eunephele",
+          "url": "https://open.spotify.com/artist/0RfnRQ6vmyxDzMuyDmJaSm"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220767,
+      "name": "Infinis",
+      "url": "https://open.spotify.com/track/5Dh4kP53BEnLe55I3jnBE7"
+    },
+    {
+      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/5aDhER26GVoywB6X38guHb"
       },
@@ -13352,10 +13388,28 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 178264,
       "name": "Lunar Dreamscape",
       "url": "https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE"
+    },
+    {
+      "album": {
+        "name": "Lunar Hope",
+        "url": "https://open.spotify.com/album/7tAOYyL9NivXMaSu1ytmWz"
+      },
+      "artists": [
+        {
+          "name": "Foreglow",
+          "url": "https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190188,
+      "name": "Lunar Hope",
+      "url": "https://open.spotify.com/track/49GSahFoqXRaNbES3wvR7X"
     },
     {
       "album": {
@@ -13554,6 +13608,24 @@
       "duration_ms": 143024,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/5iW98p3r3bR9N7JGHlMCI0"
+    },
+    {
+      "album": {
+        "name": "Mane",
+        "url": "https://open.spotify.com/album/7ftforu0vPwsKTwyPZKIFv"
+      },
+      "artists": [
+        {
+          "name": "Dilandi",
+          "url": "https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169123,
+      "name": "Mane",
+      "url": "https://open.spotify.com/track/1VPuoTekZ0B8VyztiDq9aZ"
     },
     {
       "album": {
@@ -19938,6 +20010,24 @@
       "duration_ms": 185500,
       "name": "Silencia",
       "url": "https://open.spotify.com/track/3PD9nIMhKtMPsF0NMs3b5P"
+    },
+    {
+      "album": {
+        "name": "Silent Dreams",
+        "url": "https://open.spotify.com/album/1by6DnIMMNX75JKbKglBgg"
+      },
+      "artists": [
+        {
+          "name": "Lo Cendrisse",
+          "url": "https://open.spotify.com/artist/4owRJmjZDkUnN35Yxxsgtp"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Silent Dreams",
+      "url": "https://open.spotify.com/track/6d36syikVGb3zii0aINq15"
     },
     {
       "album": {

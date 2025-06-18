@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 788506,
+  "num_followers": 788585,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3FfXp6sziy6wygJglzvzO7"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "The Story Of The Supremes (2CD Set)",
         "url": "https://open.spotify.com/album/0SbIbtstxM3029vb4PWATl"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 166960,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/6M9LLUNwl8tBZCeWS9nH4c"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3FfXp6sziy6wygJglzvzO7"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO"
     },
     {
       "added_at": "2024-07-02 22:47:47",

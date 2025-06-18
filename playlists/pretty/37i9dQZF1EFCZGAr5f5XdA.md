@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,515 likes - 197 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,535 likes - 197 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 107 | [LIFE](https://open.spotify.com/track/1a6LRSRHWS4zKvBjQNaF0S) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:23 |
 | 108 | [Let's Begin \(feat\. Roc Marciano, RZA, B.Keyz & Travis Mendes\)](https://open.spotify.com/track/2X1Tygc4uVunRgzNkFb1mG) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [B.Keyz](https://open.spotify.com/artist/54tH0fUB8bJvHnpn0vSo8i), [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 5:40 |
 | 109 | [Insanity](https://open.spotify.com/track/15KGYDSw1BJR9KMhp3UWpF) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:03 |
-| 110 | [Little Bird](https://open.spotify.com/track/44SDwuvTP3NeCmigJAyYnO) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 3:09 |
-| 111 | [KID AGAIN](https://open.spotify.com/track/3Fy7lEei8XAAUbPFyTypae) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:19 |
+| 110 | [KID AGAIN](https://open.spotify.com/track/3Fy7lEei8XAAUbPFyTypae) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:19 |
+| 111 | [Little Bird](https://open.spotify.com/track/44SDwuvTP3NeCmigJAyYnO) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 3:09 |
 | 112 | [Miracle](https://open.spotify.com/track/7BFj9LKuwSTiBn5k73Sur3) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:21 |
 | 113 | [It's Not All About You](https://open.spotify.com/track/1oRACEX7ci9IrxsbxfvAsw) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 2:31 |
 | 114 | [Friends](https://open.spotify.com/track/7aeC8XRoU9s8b0OPUfUbtJ) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [II: The Sword](https://open.spotify.com/album/0R1Eo8UVrKyn6Vo0rxFuNP) | 2:53 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 154 | [For The Dreamers](https://open.spotify.com/track/1NWmp48T5k0JyPguEjQWeN) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 4:25 |
 | 155 | [Beautiful Problem \(feat\. Maty Noyes & gnash\)](https://open.spotify.com/track/5V6Z0byDlUIfvXY7xE5sCp) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Movie](https://open.spotify.com/album/2EQ6FlyXmzemCGFvTXHauN) | 4:21 |
 | 156 | [young gun \(feat\. Jon Bellion\)](https://open.spotify.com/track/5Ew6kwv7hFHu5OEyA39B2Y) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:53 |
-| 157 | [Wutup Snow?](https://open.spotify.com/track/1hovFMWdOBsbZWxP3roR0L) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:49 |
-| 158 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
+| 157 | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 |
+| 158 | [Wutup Snow?](https://open.spotify.com/track/1hovFMWdOBsbZWxP3roR0L) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:49 |
 | 159 | [thing u do](https://open.spotify.com/track/5lib0mrfrKl6yqxKTSP2Gc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 4:05 |
 | 160 | [Don't Ask Cuz I Don't Know](https://open.spotify.com/track/0yBylQ4liLmENeK82vnHOb) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:15 |
 | 161 | [alive if i die](https://open.spotify.com/track/24qUDiph2ajBkfSuaIsX1C) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:34 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 196 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 197 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `Ab0UoAAAAACTCNMcQvAr8N0IIwiSC7KM`
+Snapshot ID: `Ab0aQAAAAACRbVnHboNewZq/aamrX+d+`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Kraftklub",
+  "description": "50 Hits in einer Playlist! Cover: YUNG SAINT PAUL",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -909,6 +909,28 @@
     },
     {
       "album": {
+        "name": "Capri Sun",
+        "url": "https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119244,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
+    },
+    {
+      "album": {
         "name": "clich\u00e9",
         "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
       },
@@ -1080,7 +1102,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 145989,
       "name": "Dein Mann Freestyle",
       "url": "https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV"
@@ -3723,6 +3745,42 @@
     },
     {
       "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+    },
+    {
+      "album": {
+        "name": "The Glen (Levi Heron Edit)",
+        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
+      },
+      "artists": [
+        {
+          "name": "Levi Heron",
+          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173056,
+      "name": "The Glen - Levi Heron Edit",
+      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
+    },
+    {
+      "album": {
         "name": "Therapie",
         "url": "https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW"
       },
@@ -3738,7 +3796,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 195692,
       "name": "Therapie",
       "url": "https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0"
@@ -4082,7 +4140,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 164998,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"

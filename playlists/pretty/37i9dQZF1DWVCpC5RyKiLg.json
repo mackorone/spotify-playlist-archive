@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 736765,
+  "num_followers": 736837,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-04-18 06:06:19",
       "album": {
+        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 205430,
+      "name": "Ponto Fraco - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
+    },
+    {
+      "added_at": "2025-04-18 06:06:19",
+      "album": {
         "name": "Tchau Brigado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 163402,
       "name": "Tchau Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
-    },
-    {
-      "added_at": "2025-04-18 06:06:19",
-      "album": {
-        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 205430,
-      "name": "Ponto Fraco - Ao Vivo",
-      "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
     },
     {
       "added_at": "2025-04-18 06:06:19",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-04-18 06:06:19",
       "album": {
-        "name": "De Copo Em Copo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        }
-      ],
-      "duration_ms": 158865,
-      "name": "De Copo Em Copo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
-    },
-    {
-      "added_at": "2025-04-18 06:06:19",
-      "album": {
         "name": "Escreve A\u00ed - Single",
         "url": "https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2025-04-18 06:06:19",
       "album": {
-        "name": "VIBE (Ao Vivo)",
-        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
+        "name": "De Copo Em Copo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
       },
       "artists": [
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
         }
       ],
-      "duration_ms": 217784,
-      "name": "Deixa Tudo Como T\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0abrd2vT2W3JZBDNezUY7r"
+      "duration_ms": 158865,
+      "name": "De Copo Em Copo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
     },
     {
       "added_at": "2025-04-18 06:06:19",
@@ -1039,6 +1023,22 @@
       "duration_ms": 160565,
       "name": "Desejando Eu (Ao Vivo)",
       "url": "https://open.spotify.com/track/3056x1XkmICnQmji68rrft"
+    },
+    {
+      "added_at": "2025-04-18 06:06:19",
+      "album": {
+        "name": "VIBE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 217784,
+      "name": "Deixa Tudo Como T\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0abrd2vT2W3JZBDNezUY7r"
     },
     {
       "added_at": "2025-04-18 06:06:19",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-04-18 06:06:19",
       "album": {
-        "name": "Start In S\u00e3o Paulo (ao Vivo)",
-        "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Moraes",
-          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
-        }
-      ],
-      "duration_ms": 136176,
-      "name": "Beber Com Emerg\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl"
-    },
-    {
-      "added_at": "2025-04-18 06:06:19",
-      "album": {
         "name": "Reflexo - Deluxe (ao Vivo)",
         "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 202474,
       "name": "Nem Tchum - Ao Vivo",
       "url": "https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP"
+    },
+    {
+      "added_at": "2025-04-18 06:06:19",
+      "album": {
+        "name": "Start In S\u00e3o Paulo (ao Vivo)",
+        "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Moraes",
+          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
+        }
+      ],
+      "duration_ms": 136176,
+      "name": "Beber Com Emerg\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl"
     },
     {
       "added_at": "2025-04-18 06:06:19",

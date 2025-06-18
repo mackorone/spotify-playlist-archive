@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 56565,
+  "num_followers": 56563,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABj8lu0h19Jn8EDVTYSORXi",
+  "snapshot_id": "aE9egAAAAAAI/bHQ5+VbgIoNVg+uyNvO",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "HEY CHILD",
+      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 189706,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "HEY CHILD",
-      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This is Acoustic (Live Session / Acoustic Version)",
-        "url": "https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Renegades - Live Session / Acoustic Version",
-      "url": "https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORION",
         "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 197933,
       "name": "HOLD YOU DOWN",
       "url": "https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This is Acoustic (Live Session / Acoustic Version)",
+        "url": "https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Renegades - Live Session / Acoustic Version",
+      "url": "https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 287893,
-      "name": "Bad Husband (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Easy",
         "url": "https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O"
       },
@@ -567,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beautiful Liar",
-        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
       "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 185585,
-      "name": "My Own Monster",
-      "url": "https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs"
+      "duration_ms": 287893,
+      "name": "Bad Husband (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
       "duration_ms": 197040,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 185585,
+      "name": "My Own Monster",
+      "url": "https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belong EP",
-        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 218885,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Strings",
         "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 213080,
       "name": "No Strings",
       "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belong EP",
+        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 218885,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Jamie N Commons",
-          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 242213,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
     },
     {
       "added_at": null,

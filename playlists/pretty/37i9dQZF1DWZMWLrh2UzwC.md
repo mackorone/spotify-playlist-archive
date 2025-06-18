@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Marsha Milan, Kehlani, Chris Brown, Ismail Izzani, HxW, ITZY and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,067 likes - 116 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,064 likes - 116 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 115 | [Venus](https://open.spotify.com/track/3gpBWlIfyjRm9tQX1ZfQ6D) | [Chala Deen](https://open.spotify.com/artist/29g8Masw1VQbWr2GCzOPDB) | [Venus](https://open.spotify.com/album/0loBvysv7M3qgSkqmTlf4r) | 4:19 |
 | 116 | [TEARS & BLOOD](https://open.spotify.com/track/4SYqNhyNxvWw7W9F0gXmRJ) | [SAVAPATRA](https://open.spotify.com/artist/2PdlvsrbJrTiSje2y3gyCo) | [TEARS & BLOOD](https://open.spotify.com/album/3U42nHR3EqCiZklwHjuqSB) | 3:43 |
 
-Snapshot ID: `aEuorgAAAAA6hNsfyh/MiyiCpUJ5APuZ`
+Snapshot ID: `aEuorgAAAAAMDyphBmOfRASiX38ALBxu`

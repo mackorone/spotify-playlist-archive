@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 926860,
+  "num_followers": 927103,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-05-27 19:02:51",
       "album": {
-        "name": "TRALALERO TRALALA FUNK",
-        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
-      },
-      "artists": [
-        {
-          "name": "DJ Raulipues",
-          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
-        },
-        {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        }
-      ],
-      "duration_ms": 117901,
-      "name": "TRALALERO TRALALA FUNK",
-      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
-    },
-    {
-      "added_at": "2025-05-27 19:02:51",
-      "album": {
         "name": "MASHA ULTRAFUNK",
         "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2025-05-27 19:02:51",
+      "album": {
+        "name": "TRALALERO TRALALA FUNK",
+        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
+      },
+      "artists": [
+        {
+          "name": "DJ Raulipues",
+          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        }
+      ],
+      "duration_ms": 117901,
+      "name": "TRALALERO TRALALA FUNK",
+      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
     },
     {
       "added_at": "2025-05-27 19:02:51",

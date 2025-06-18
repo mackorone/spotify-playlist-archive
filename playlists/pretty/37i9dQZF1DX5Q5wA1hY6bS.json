@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1417543,
+  "num_followers": 1417151,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-02-21 05:00:32",
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": "2025-02-21 05:00:32",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": "2025-02-21 05:00:32",
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": "2025-02-21 05:00:32",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-02-21 05:00:32",
       "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "I Knew I Could Fly",
+      "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
+    },
+    {
+      "added_at": "2025-02-21 05:00:32",
+      "album": {
         "name": "What Happiness Is",
         "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 220175,
       "name": "Teenage Drug",
       "url": "https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU"
-    },
-    {
-      "added_at": "2025-02-21 05:00:32",
-      "album": {
-        "name": "Songs of Our Native Daughters",
-        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
-      },
-      "artists": [
-        {
-          "name": "Our Native Daughters",
-          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
-        }
-      ],
-      "duration_ms": 221546,
-      "name": "I Knew I Could Fly",
-      "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
     },
     {
       "added_at": "2025-02-21 05:00:32",

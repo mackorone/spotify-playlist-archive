@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 248886,
+  "num_followers": 248945,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-06-06 20:15:47",
       "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "D\u00edganle",
+      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+    },
+    {
+      "added_at": "2025-06-06 20:15:47",
+      "album": {
         "name": "DOCTOR",
         "url": "https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 144148,
       "name": "DOCTOR",
       "url": "https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge"
-    },
-    {
-      "added_at": "2025-06-06 20:15:47",
-      "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "D\u00edganle",
-      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
     },
     {
       "added_at": "2025-06-06 20:15:47",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-06-06 20:15:47",
       "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 224352,
+      "name": "Su Florcita",
+      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+    },
+    {
+      "added_at": "2025-06-06 20:15:47",
+      "album": {
         "name": "Ahora Resulta",
         "url": "https://open.spotify.com/album/1aQur6ki98vcoOW0cGopFy"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 147037,
       "name": "Ahora Resulta",
       "url": "https://open.spotify.com/track/4Kn1qDeYfuL53YJTKq4vTA"
-    },
-    {
-      "added_at": "2025-06-06 20:15:47",
-      "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 224352,
-      "name": "Su Florcita",
-      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
     },
     {
       "added_at": "2025-06-06 20:15:47",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-06-06 20:15:47",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 193347,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
-    },
-    {
-      "added_at": "2025-06-06 20:15:47",
-      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 205611,
       "name": "Boleto al Amor",
       "url": "https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK"
+    },
+    {
+      "added_at": "2025-06-06 20:15:47",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 193347,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
     },
     {
       "added_at": "2025-06-06 20:15:47",
@@ -1403,22 +1403,6 @@
       "duration_ms": 192120,
       "name": "El Soy Yo",
       "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
-    },
-    {
-      "added_at": "2025-06-06 20:15:47",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2025-06-06 20:15:47",
@@ -1539,6 +1523,38 @@
     {
       "added_at": "2025-06-06 20:15:47",
       "album": {
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "Cosas Del Amor",
+      "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
+    },
+    {
+      "added_at": "2025-06-06 20:15:47",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2025-06-06 20:15:47",
+      "album": {
         "name": "Querido Rey",
         "url": "https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 168376,
       "name": "Querido Rey",
       "url": "https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS"
-    },
-    {
-      "added_at": "2025-06-06 20:15:47",
-      "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 225293,
-      "name": "Cosas Del Amor",
-      "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
     },
     {
       "added_at": "2025-06-06 20:15:47",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2025-06-06 20:15:47",
       "album": {
-        "name": "Terco Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8"
-      },
-      "artists": [
-        {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 167359,
-      "name": "Terco Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53"
-    },
-    {
-      "added_at": "2025-06-06 20:15:47",
-      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 171502,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
+    },
+    {
+      "added_at": "2025-06-06 20:15:47",
+      "album": {
+        "name": "Terco Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8"
+      },
+      "artists": [
+        {
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 167359,
+      "name": "Terco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53"
     },
     {
       "added_at": "2025-06-06 20:15:47",

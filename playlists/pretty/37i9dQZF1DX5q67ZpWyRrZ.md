@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Kushagra
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,000 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,228 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Finding Her](https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her](https://open.spotify.com/album/69xcXWqK1aN73KgVA2i3Zq) | 3:27 |
 | 2 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 |
-| 3 | [Dooron Dooron](https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP), [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Dooron Dooron](https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6) | 3:35 |
-| 4 | [Kehne Lagaa](https://open.spotify.com/track/1TtX2QDYyCkJ0567Fanbas) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Kehne Lagaa](https://open.spotify.com/album/1hz2oWXnoAibhKR4DSJWyi) | 4:23 |
+| 3 | [Kehne Lagaa](https://open.spotify.com/track/1TtX2QDYyCkJ0567Fanbas) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Kehne Lagaa](https://open.spotify.com/album/1hz2oWXnoAibhKR4DSJWyi) | 4:23 |
+| 4 | [Dooron Dooron](https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP), [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Dooron Dooron](https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6) | 3:35 |
 | 5 | [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 |
 | 6 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
 | 7 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 |
-| 8 | [Raatein Guzaari](https://open.spotify.com/track/0ZnBHVFiUAnVTF38LUVDpR) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raatein Guzaari](https://open.spotify.com/album/60trf9nIrCQdiU7CcoUyK6) | 2:57 |
+| 8 | [Samjho Na](https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Samjho Na](https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B) | 2:52 |
 | 9 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 |
-| 10 | [Samjho Na](https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Samjho Na](https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B) | 2:52 |
-| 11 | [Aaoge Tum Kabhi](https://open.spotify.com/track/5ivRSlOhVIXN2QMzqgsX0s) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 5:13 |
+| 10 | [Aaoge Tum Kabhi](https://open.spotify.com/track/5ivRSlOhVIXN2QMzqgsX0s) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 5:13 |
+| 11 | [Raatein Guzaari](https://open.spotify.com/track/0ZnBHVFiUAnVTF38LUVDpR) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raatein Guzaari](https://open.spotify.com/album/60trf9nIrCQdiU7CcoUyK6) | 2:57 |
 | 12 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
 | 13 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 |
 | 14 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 74 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 |
 | 75 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 |
 
-Snapshot ID: `aEfLjQAAAAAlMobp8bvz3TAv1kwPBa1T`
+Snapshot ID: `aFEs/wAAAADrBiQ8FnY+fp+j94e7M43k`

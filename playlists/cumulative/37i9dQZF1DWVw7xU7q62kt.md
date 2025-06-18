@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-552 songs - 1 day 1 hr 4 min
+553 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Beaujolais](https://open.spotify.com/track/7Gkd6kMDczipeBRu795NhH) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od) | [Beaujolais](https://open.spotify.com/album/7Lwsyj1DmE5JYuuzNjX3fZ) | 2:18 | 2024-11-29 |  |
 | [Bebop](https://open.spotify.com/track/563RQEdL2To3aMcsFkvoBr) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Bebop](https://open.spotify.com/album/1WwiH2u1PxiFAzFAgDj5zY) | 2:06 | 2025-06-13 |  |
 | [Behind The Moon](https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Behind The Moon](https://open.spotify.com/album/3VxL9r8XIrHEvz4onMCKxk) | 2:05 | 2025-01-10 |  |
+| [BEING LOST \- Instrumental](https://open.spotify.com/track/7lq2ulYIlMEdj0z8dbV37q) | [New Fossils](https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm) | [Ecosphere B\-Sides](https://open.spotify.com/album/6TVeU2jaiqlXeNmJoAXlEw) | 3:43 | 2025-06-13 |  |
 | [Bella Vista](https://open.spotify.com/track/2UrJHvGEOXDMY8jHgzGkwU) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Bella Vista](https://open.spotify.com/album/3CTkvlYkHej43Ha301QEQ5) | 2:30 | 2024-09-13 | 2025-05-10 |
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 | 2025-04-12 |
 | [Better Days](https://open.spotify.com/track/7qvzaQrCeW6gFBbEVexCTE) | [Ezra Skys](https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Better Days](https://open.spotify.com/album/3JMhEsWX8025f5kbpwHsHW) | 2:10 | 2025-04-11 |  |
@@ -47,7 +48,7 @@
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-08-22 | 2024-09-30 |
 | [Birds](https://open.spotify.com/track/6o1mhFF1NpGQqR3usVLSLk) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Birds](https://open.spotify.com/album/6Y8nFCKVLh1eJATqh2xvgW) | 2:19 | 2024-10-06 |  |
 | [Bitter Suite](https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:46 | 2023-08-22 | 2025-04-12 |
-| [Black Tea](https://open.spotify.com/track/6UZdMhnCM7ks3aLA5V5FvL) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Black Tea](https://open.spotify.com/album/5okN6CGYZMhXcXXaASN3KL) | 2:48 | 2025-02-14 |  |
+| [Black Tea](https://open.spotify.com/track/6UZdMhnCM7ks3aLA5V5FvL) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Black Tea](https://open.spotify.com/album/5okN6CGYZMhXcXXaASN3KL) | 2:48 | 2025-02-14 | 2025-06-18 |
 | [Bliss](https://open.spotify.com/track/4QCTym40whAtKA9Z9GOCgk) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Bliss](https://open.spotify.com/album/06jmrlWpFzH67yy8ApWIud) | 2:05 | 2024-09-27 |  |
 | [Bloom Again](https://open.spotify.com/track/7CF54i9tVz3DvZ1gmKeJNo) | [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Bloom Again](https://open.spotify.com/album/5c4VtosW0uCN9jKvnUN87u) | 2:33 | 2024-10-25 |  |
 | [Blue Diver](https://open.spotify.com/track/5QMFT282KkBw65Jn7AJj3G) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Blue Diver](https://open.spotify.com/album/7p7tqXzlwOwusB0FfUvxZ0) | 2:49 | 2024-08-23 | 2025-04-12 |

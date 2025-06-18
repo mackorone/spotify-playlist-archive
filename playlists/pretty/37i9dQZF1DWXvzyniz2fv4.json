@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158713,
+  "num_followers": 158711,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "Passa a Bola (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 188319,
-      "name": "Passa a Bola (Ao Vivo em Noronha)",
-      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 160819,
       "name": "Pra Voc\u00ea Ficar",
       "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Passa a Bola (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 188319,
+      "name": "Passa a Bola (Ao Vivo em Noronha)",
+      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -983,50 +983,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "No Dayz Off.",
-        "url": "https://open.spotify.com/album/6ixBTMEvwbw1EOPBSOae1p"
-      },
-      "artists": [
-        {
-          "name": "Smoke",
-          "url": "https://open.spotify.com/artist/4JOLUHjQd1JHJw5CASQg24"
-        },
-        {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "inBlack",
-          "url": "https://open.spotify.com/artist/3TcMWDjq9mgmVamapV7wqE"
-        }
-      ],
-      "duration_ms": 132302,
-      "name": "Doses Doces",
-      "url": "https://open.spotify.com/track/7u2FphuFjw6FO3V6Sktyl0"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
-        "name": "Maverick Black",
-        "url": "https://open.spotify.com/album/41XfI4q0l4QGjOtI24BfyG"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        }
-      ],
-      "duration_ms": 159117,
-      "name": "Maverick Black",
-      "url": "https://open.spotify.com/track/7MEgMOAYMG0vgSSr7ZZUBC"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Elementar",
         "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
       },
@@ -1051,6 +1007,50 @@
       "duration_ms": 170700,
       "name": "Deixa Queimar",
       "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "Maverick Black",
+        "url": "https://open.spotify.com/album/41XfI4q0l4QGjOtI24BfyG"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        }
+      ],
+      "duration_ms": 159117,
+      "name": "Maverick Black",
+      "url": "https://open.spotify.com/track/7MEgMOAYMG0vgSSr7ZZUBC"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "No Dayz Off.",
+        "url": "https://open.spotify.com/album/6ixBTMEvwbw1EOPBSOae1p"
+      },
+      "artists": [
+        {
+          "name": "Smoke",
+          "url": "https://open.spotify.com/artist/4JOLUHjQd1JHJw5CASQg24"
+        },
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "inBlack",
+          "url": "https://open.spotify.com/artist/3TcMWDjq9mgmVamapV7wqE"
+        }
+      ],
+      "duration_ms": 132302,
+      "name": "Doses Doces",
+      "url": "https://open.spotify.com/track/7u2FphuFjw6FO3V6Sktyl0"
     },
     {
       "added_at": "2025-06-06 21:28:50",

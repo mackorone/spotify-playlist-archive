@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,616 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,620 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 23 | [We Got the Power](https://open.spotify.com/track/5oT6RhkT5lEFpFWYe0s3aS) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 5:05 |
 | 24 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
 | 25 | [Somebody To Love](https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 3:04 |
-| 26 | [Nadie En Especial](https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd) | [Chac Mool](https://open.spotify.com/artist/2qEmeuF0gIyxdU1OyxNl22) | [Nadie En Especial](https://open.spotify.com/album/7iKk5AQokTUn012tYH347o) | 4:43 |
-| 27 | [Back](https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Back](https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw) | 4:10 |
+| 26 | [Back](https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Back](https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw) | 4:10 |
+| 27 | [Nadie En Especial](https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd) | [Chac Mool](https://open.spotify.com/artist/2qEmeuF0gIyxdU1OyxNl22) | [Nadie En Especial](https://open.spotify.com/album/7iKk5AQokTUn012tYH347o) | 4:43 |
 | 28 | [El Hongo](https://open.spotify.com/track/11nP4a0rGP0UWyFWUpI70r) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:51 |
 | 29 | [Latin Feelin'](https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:57 |
 | 30 | [Preludio de la Felicidad](https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 3:08 |

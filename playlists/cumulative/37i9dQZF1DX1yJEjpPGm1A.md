@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-64 songs - 4 hr 12 min
+66 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 | 2024-12-19 |  |
 | [Start of Forever](https://open.spotify.com/track/0JdokoPasRqRZFkhOIKkQb) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Start Of Forever](https://open.spotify.com/album/37EYZ2BkOugsdBBSPIcfbN) | 2:49 | 2025-05-20 |  |
 | [Stay Here](https://open.spotify.com/track/16WWIrC9dcqRlSgJznivG4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Stay Here](https://open.spotify.com/album/0cWt79wH1zZl7Qc5doi7sx) | 3:54 | 2024-12-19 |  |
+| [The Eternal Moment \- Acoustic Version](https://open.spotify.com/track/4MrYJK1f4beoDBAH3K3k9o) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Moment Becomes Forever](https://open.spotify.com/album/2Ujvr8rac4c8LPGMsqn0tI) | 4:03 | 2025-06-17 |  |
 | [The Night I Miss You](https://open.spotify.com/track/09RSdKL22sHGrcidpL3g3d) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [The Night I Miss You](https://open.spotify.com/album/4EJBHjmepe24xKtaDKPNCi) | 4:58 | 2024-12-19 |  |
 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 | 2024-12-19 |  |
 | [Together](https://open.spotify.com/track/3TDGIHf1Mdxat9VftcIVZ0) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Together](https://open.spotify.com/album/4OHIhLk0uyYAdmoBD8IjMI) | 3:26 | 2024-12-19 |  |
@@ -59,6 +60,7 @@
 | [Will You Marry Me](https://open.spotify.com/track/20XkFteMFP8g32KhsZpug7) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [My First](https://open.spotify.com/album/7toPg2DmQRsGqPTlzdt99A) | 3:48 | 2024-12-19 |  |
 | [Will you marry me?](https://open.spotify.com/track/2ZgMY8ifuvksRSE7mkK2WV) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Lee Seung Gi \`The Best\`](https://open.spotify.com/album/5vkF1JlshXF1ofmvQONqIN) | 3:48 | 2024-12-19 |  |
 | [With you](https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [With you](https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi) | 3:43 | 2025-04-22 |  |
+| [Without You by My Side \(A New Song Called Wedding March\)](https://open.spotify.com/track/2Sp0ry7eBwsS69aYgAgYSe) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 2nd Album](https://open.spotify.com/album/1U8qaip0Rmk0sh0V6QP5xJ) | 3:42 | 2025-06-17 |  |
 | [Would you marry me? \(Feat.Lee Joon,Yoon Du Jun of Highlight,Kwang Hee\)](https://open.spotify.com/track/62mRUa5ZdsbxBp9SNYFpYP) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q), [Lee Joon](https://open.spotify.com/artist/122DvZ07Rzf2ZNyCA6hCQM), [YOON DU JUN](https://open.spotify.com/artist/0bjyZMw6TzPhXSp2PoKXx7), [Kwang Hee](https://open.spotify.com/artist/4AhCk75N1AH6siWvLT5XF4) | [REPLY PROJECT Vol.1](https://open.spotify.com/album/07HuEKIT6Oh9r5V5Sf4piw) | 3:44 | 2025-04-15 |  |
 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 | 2024-12-19 |  |
 | [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 3:50 | 2024-12-19 |  |

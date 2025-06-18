@@ -4,7 +4,7 @@
 
 > ¡Ya huele a sopita! Buen provecho.
 
-280 songs - 16 hr 7 min
+281 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 | 2022-05-23 |  |
 | [A Tu Recuerdo](https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [A Tu Recuerdo](https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY) | 3:26 | 2025-02-01 | 2025-03-17 |
 | [A Ver Cómo Le Haces \- En Vivo](https://open.spotify.com/track/42YXebWme4zEwZR8FJd4iV) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [A Ver Cómo Le Haces \(En Vivo\)](https://open.spotify.com/album/3ofRECvXnOxDRMz3xaigG0) | 3:52 | 2022-06-08 | 2022-08-10 |
+| [Acaríciame](https://open.spotify.com/track/3rUUM5d5EROsBDhZAY1uQl) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [De Colección](https://open.spotify.com/album/4lSR57yxFaAbojv9uhPTjT) | 4:15 | 2025-02-01 |  |
 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 | 2022-05-23 |  |
 | [Adoro \(with Armando Manzanero\) \- Remasterizado](https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Por El Mundo](https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh) | 3:31 | 2022-05-23 | 2022-07-29 |
 | [Agarra La Onda](https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD) | [El Predilecto](https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr) | [El Predilecto](https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy) | 3:06 | 2022-08-09 | 2022-10-29 |
@@ -114,7 +115,7 @@
 | [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 | 2022-10-28 | 2023-02-25 |
 | [La Diabla](https://open.spotify.com/track/1MGm3zOE0Ql0WWcU5ZvjOx) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [NEXT](https://open.spotify.com/album/1bWcE0tKOJgn4kgpNKSHU0) | 2:52 | 2025-02-01 |  |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 | 2025-02-01 |  |
-| [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 | 2022-05-23 |  |
+| [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 | 2022-05-23 | 2025-06-18 |
 | [La Media Vuelta](https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 2:41 | 2025-02-01 |  |
 | [La Mushasha Shula](https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:46 | 2022-08-09 | 2025-02-02 |
 | [La Mushasha Shula](https://open.spotify.com/track/7lew5Jg3zonvV0sV3pJ3hD) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse Para Ti](https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6) | 3:46 | 2023-08-25 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites\. Cover: Sylvester
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,610,190 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,610,203 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 74 | [I'm Gonna Let My Heart Do The Walking](https://open.spotify.com/track/3TwKW2Tx4HJ4yJFpo5MUjf) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [High Energy](https://open.spotify.com/album/7LY6pE4Zk79nCeS9jujzxQ) | 3:32 |
 | 75 | [Get Dancin'](https://open.spotify.com/track/6WzOO4e61wqkoLrZrJbBl4) | [Disco Tex & The Sex\-O\-Lettes](https://open.spotify.com/artist/1ZxFDRFB5f4B64eMjOL7Wl) | [70's Pop Gems](https://open.spotify.com/album/1L96ZF7AUTQTPRQBiOPmm6) | 3:51 |
 
-Snapshot ID: `Ztp+QAAAAABYtqtv4UrprR6jFkeTRjvn`
+Snapshot ID: `Ztp+QAAAAAAs+YC+Vj2/WFyfINNSLUXB`

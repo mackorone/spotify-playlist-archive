@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4lSR57yxFaAbojv9uhPTjT"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        }
+      ],
+      "date_added": "2025-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255558,
+      "name": "Acar\u00edciame",
+      "url": "https://open.spotify.com/track/3rUUM5d5EROsBDhZAY1uQl"
+    },
+    {
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 191986,
       "name": "La Llamada - 1993 Version",
       "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"

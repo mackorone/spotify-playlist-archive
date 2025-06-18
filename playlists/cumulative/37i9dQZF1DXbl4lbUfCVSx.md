@@ -4,7 +4,7 @@
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-80 songs - 6 hr 19 min
+81 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [C'est toi](https://open.spotify.com/track/7nHGMX1tgemCoNTwuEnYm5) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 2:41 | 2024-04-06 |  |
 | [Cheri Benyen M'](https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 4:31 | 2020-06-03 |  |
 | [Chokola](https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Rotary International Abidjan](https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG) | 5:25 | 2020-06-03 |  |
+| [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 | 2025-06-17 |  |
 | [Danje](https://open.spotify.com/track/5QaSPnbcat6ErSt8E9hoes) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [JazzyKey](https://open.spotify.com/artist/75pxxwfTiLd2NO529FlQzv) | [Danje](https://open.spotify.com/album/5GeMdGhEVnZsTakJPgXD24) | 2:38 | 2024-10-11 |  |
 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 | 2020-06-03 | 2024-10-12 |
 | [DIS MOI](https://open.spotify.com/track/3XY89uVwerVVtRNiWWxvt6) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [DIS MOI](https://open.spotify.com/album/2gzMGjPQE1x5FTSoJlaOwy) | 3:50 | 2024-10-11 |  |
@@ -71,7 +72,7 @@
 | [PJDK](https://open.spotify.com/track/30lBJyMxLOJ3rcFwuC9p3d) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Alter Ego](https://open.spotify.com/album/7hypMwbH1ShLUjoCFMBGLE) | 4:03 | 2024-10-11 |  |
 | [Ralanti](https://open.spotify.com/track/6HIJ13H03bmXvezAonGZbu) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Game Over](https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z) | 5:09 | 2024-04-06 |  |
 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 | 2024-04-06 |  |
-| [San Limit](https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [3 Tou 9](https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m) | 4:49 | 2020-06-03 |  |
+| [San Limit](https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [3 Tou 9](https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m) | 4:49 | 2020-06-03 | 2025-06-18 |
 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 | 2024-04-06 |  |
 | [She's a Freak](https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [She's a Freak](https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ) | 6:54 | 2020-06-03 | 2024-02-24 |
 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 | 2024-04-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 145469,
+  "num_followers": 145525,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Jack Your Body (S&S Reloaded)",
-        "url": "https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT"
-      },
-      "artists": [
-        {
-          "name": "Steve \"Silk\" Hurley",
-          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
-        }
-      ],
-      "duration_ms": 306231,
-      "name": "Jack Your Body - 1986 Club Mix",
-      "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Shake It Up",
         "url": "https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 254066,
       "name": "I'm Not the One",
       "url": "https://open.spotify.com/track/6eRLUjHubf9tlO7ZCc04Da"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Jack Your Body (S&S Reloaded)",
+        "url": "https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT"
+      },
+      "artists": [
+        {
+          "name": "Steve \"Silk\" Hurley",
+          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
+        }
+      ],
+      "duration_ms": 306231,
+      "name": "Jack Your Body - 1986 Club Mix",
+      "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
     },
     {
       "added_at": "2024-07-10 08:31:19",

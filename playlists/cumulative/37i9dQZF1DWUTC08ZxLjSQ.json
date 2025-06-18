@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Ayoub Hattab. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Qetoo. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 242812,
       "name": "al qamar wa ana - \u0627\u0644\u0642\u0645\u0631 \u0648\u0623\u0646\u0627",
       "url": "https://open.spotify.com/track/7IBgneXOSQVaWPBMejtHbd"
@@ -1648,6 +1648,24 @@
       "duration_ms": 177977,
       "name": "Dream Merchant",
       "url": "https://open.spotify.com/track/12lCB896GPVWOTIAq0JAiY"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/26do3rDYRpKSptiGGBEKPy"
+      },
+      "artists": [
+        {
+          "name": "Ryukk",
+          "url": "https://open.spotify.com/artist/6W3wT7AX1kxceaifuk54iP"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225874,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr"
     },
     {
       "album": {
@@ -5463,6 +5481,32 @@
     },
     {
       "album": {
+        "name": "Z!EN GPT",
+        "url": "https://open.spotify.com/album/3fIjFiV2GtzpplDSvwiQe3"
+      },
+      "artists": [
+        {
+          "name": "ZIEN4L",
+          "url": "https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD"
+        },
+        {
+          "name": "DOKHAN",
+          "url": "https://open.spotify.com/artist/1tUkpIZZacamR0XXrwCp8P"
+        },
+        {
+          "name": "Young Giza",
+          "url": "https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106892,
+      "name": "QARFS MERI",
+      "url": "https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/7d9o63pw979XngrDlHRrey"
       },
@@ -6486,7 +6530,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 257530,
       "name": "Teir - \u0637\u064a\u0631",
       "url": "https://open.spotify.com/track/6EziVG42FHekYp7n7jh4Le"

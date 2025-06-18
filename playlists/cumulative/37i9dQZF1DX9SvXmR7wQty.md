@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-3,351 songs - 7 day 9 hr 26 min
+3,352 songs - 7 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [\_mar le temps des fleurs](https://open.spotify.com/track/18vjlV9mj6tYB6dPxPozuS) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Saisons](https://open.spotify.com/album/3uawa6465DOXwrML3tmKEX) | 4:14 | 2024-03-22 | 2024-04-17 |
 | [\_sept magie mauve](https://open.spotify.com/track/0OO8vt6iCMZAqZe8xrW2ky) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Saisons](https://open.spotify.com/album/111xYY3jdnUL7fVhItgOVy) | 3:57 | 2023-12-01 | 2023-12-21 |
 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 | 2023-09-15 | 2023-11-01 |
+| [A TI](https://open.spotify.com/track/3GYowZ5IL7gnri8Zejti3t) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [A TI](https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2) | 2:42 | 2025-06-13 |  |
 | [A toi](https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love Therapy](https://open.spotify.com/album/5a5C4f2S7NvcMCdwQFqT48) | 3:19 | 2023-04-21 | 2023-05-28 |
 | [A.Y.C.E.](https://open.spotify.com/track/0vKlC3gaKCMwOZuVNtrk8x) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [A.Y.C.E.](https://open.spotify.com/album/0Acj93dX2xHyeki0QJiXJS) | 3:10 | 2024-07-19 | 2024-07-27 |
 | [Aaliyah](https://open.spotify.com/track/5JR3Sp5tlgxqlvRs6LNOJu) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [Aaliyah](https://open.spotify.com/album/6zj13ehUum5qNphs54CqWp) | 1:58 | 2024-06-07 | 2024-06-15 |
@@ -3230,7 +3231,7 @@
 | [WALDORF ASTORIA](https://open.spotify.com/track/6RiRdBCa5iTRhQYIMwTYfz) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [Waldorf Astoria](https://open.spotify.com/album/2jPbZNlRodOoOhZAJgMCnL) | 2:27 | 2022-01-21 | 2022-02-05 |
 | [Walls \(feat\. Alexe\) \[Version française\]](https://open.spotify.com/track/0IDRhxNXGasFHPPZ5hsytW) | [Nova Rose](https://open.spotify.com/artist/1zjeYt9UMrgC5kSAOHpkOz), [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Walls \(feat\. Alexe\) \[Version française\]](https://open.spotify.com/album/19ryyVVrMFAUWgBvlp4Ibx) | 2:38 | 2022-03-11 | 2022-03-18 |
 | [Walou](https://open.spotify.com/track/5gMfj4pAqq6TinFU2GIivU) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1), [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [Walou](https://open.spotify.com/album/62Onv05VwMfxLQquNOOWHE) | 2:42 | 2022-02-18 | 2022-03-05 |
-| [WANTA](https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [WANTA](https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo) | 2:46 | 2025-05-09 |  |
+| [WANTA](https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [WANTA](https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo) | 2:46 | 2025-05-09 | 2025-06-18 |
 | [Wanted You to Know](https://open.spotify.com/track/3Z1S7uxHbrgohpZPLEL02w) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 3:26 | 2022-03-25 | 2022-04-09 |
 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 | 2023-10-06 | 2023-12-16 |
 | [Washed Away \- version française](https://open.spotify.com/track/5Ij4IwxzMEP4EKNmsNlJPQ) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Washed Away](https://open.spotify.com/album/1IBzsKl6M0hAimieKpHT1E) | 3:20 | 2022-08-05 | 2022-08-27 |

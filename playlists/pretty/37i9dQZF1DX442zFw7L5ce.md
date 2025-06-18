@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,401 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,415 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ammayi](https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 4:35 |
-| 2 | [Evarevaro](https://open.spotify.com/track/0ljjmkJocnhXzP62JYNW8p) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 4:10 |
+| 1 | [Evarevaro](https://open.spotify.com/track/0ljjmkJocnhXzP62JYNW8p) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 4:10 |
+| 2 | [Ammayi](https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 4:35 |
 | 3 | [Pillaa Raa](https://open.spotify.com/track/6Vq4ePrJPZ2vU6DXnZGcVD) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100](https://open.spotify.com/album/2vjnanwkgSnHU96BPZVtpR) | 3:55 |
 | 4 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 | 5 | [Baguntundhi Nuvvu Navvithe](https://open.spotify.com/track/1eWooUUh7E796VP86o15BN) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Atithi Devobhava \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4IfrN0wja84AWvgT68KCtX) | 3:42 |

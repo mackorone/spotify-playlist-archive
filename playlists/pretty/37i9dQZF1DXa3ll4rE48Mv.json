@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 204759,
+  "num_followers": 204779,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Congregation",
+        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 160185,
+      "name": "At The Core",
+      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "gasoline",
         "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 230350,
       "name": "Nvr Pass",
       "url": "https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Congregation",
-        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 160185,
-      "name": "At The Core",
-      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "In Birth",
+        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 176794,
+      "name": "In Birth",
+      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Undressed",
         "url": "https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 167623,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "In Birth",
-        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 176794,
-      "name": "In Birth",
-      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Fuck, Marry, Kill",
-        "url": "https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT"
-      },
-      "artists": [
-        {
-          "name": "Thelma and the Sleaze",
-          "url": "https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Reson For Hardcore Vibes Again",
         "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 55733,
       "name": "Save the Planet, You Dumb Shit",
       "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Fuck, Marry, Kill",
+        "url": "https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT"
+      },
+      "artists": [
+        {
+          "name": "Thelma and the Sleaze",
+          "url": "https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp"
     },
     {
       "added_at": "2024-05-22 11:00:00",

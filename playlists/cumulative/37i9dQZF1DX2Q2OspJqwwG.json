@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Am tot",
+        "url": "https://open.spotify.com/album/46YPrxOeT32Izh41tIlcAN"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177561,
+      "name": "Am tot",
+      "url": "https://open.spotify.com/track/47N87gdxueBffp9whfcoI6"
+    },
+    {
+      "album": {
         "name": "Am un info de facut",
         "url": "https://open.spotify.com/album/25k6t93uA6FvWkK9A6n3Fa"
       },
@@ -681,7 +699,7 @@
         },
         {
           "name": "Smiley",
-          "url": "https://open.spotify.com/artist/4PpqdMqFYs85Xc2ldMMh6Q"
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
         }
       ],
       "date_added": "2025-05-05",
@@ -1108,6 +1126,28 @@
       "duration_ms": 178285,
       "name": "Capu' sus",
       "url": "https://open.spotify.com/track/1qLJZttYKon9YHjyVCqcU3"
+    },
+    {
+      "album": {
+        "name": "Caraibe",
+        "url": "https://open.spotify.com/album/4NCAqlS9ACyWLD2KtpIzwh"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        },
+        {
+          "name": "Florin Cercel",
+          "url": "https://open.spotify.com/artist/7ytY1ayTCI2l2tiSPjks8z"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137837,
+      "name": "Caraibe",
+      "url": "https://open.spotify.com/track/1fhlMbJa5XtxbGiqxmRYq8"
     },
     {
       "album": {
@@ -1668,7 +1708,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 203835,
       "name": "De la dela",
       "url": "https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7"
@@ -2760,7 +2800,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 170526,
       "name": "HOT - From Miami Bici 2 The Movie",
       "url": "https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE"
@@ -3790,7 +3830,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 160800,
       "name": "Maria, Maria",
       "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
@@ -4396,6 +4436,24 @@
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
       "album": {

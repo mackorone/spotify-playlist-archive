@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243795,
+  "num_followers": 243796,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Summer Someday",
+        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 192122,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Summer Someday",
-        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
-      },
-      "artists": [
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
     },
     {
       "added_at": "2024-08-01 10:59:15",

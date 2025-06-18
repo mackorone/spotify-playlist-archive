@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Mago de Tarso, Luiz Lins
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,514 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,509 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [adega do lado de casa](https://open.spotify.com/track/7K2oVsqRnKdK7qABPu1HcA) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm) | [histórias de kebrada para pessoas malcriadas](https://open.spotify.com/album/0ZwvFgHfUMm9ABLpoP6Hrx) | 1:17 |
 | 75 | [Ladrão de Mundos](https://open.spotify.com/track/4tHQi0XMgAZbnwNuL1weFa) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Ladrão de Mundos](https://open.spotify.com/album/5flfrn0XE2LKz79sIP4d7Y) | 2:28 |
 
-Snapshot ID: `aEuUiwAAAADyDp8GXhmuhYzBU0/P+0nI`
+Snapshot ID: `AAAAAHiXU/ygRznDfDmTpSHvYb3ahNJ/`

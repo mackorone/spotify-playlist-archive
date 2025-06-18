@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 100659,
+  "num_followers": 100652,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Blue Hour",
-        "url": "https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx"
-      },
-      "artists": [
-        {
-          "name": "Federico Albanese",
-          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
-        }
-      ],
-      "duration_ms": 285309,
-      "name": "My Piano Night",
-      "url": "https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Selected Works",
         "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 177000,
       "name": "La Luce Nel Cuore",
       "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Blue Hour",
+        "url": "https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "duration_ms": 285309,
+      "name": "My Piano Night",
+      "url": "https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Way Back Home",
-        "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
-      },
-      "artists": [
-        {
-          "name": "Algoth Holmes",
-          "url": "https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Winter Birds",
-      "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Piano 1 (Extended)",
-        "url": "https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP"
+        "name": "Truly Yours",
+        "url": "https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7"
       },
       "artists": [
         {
-          "name": "Robin Bennich",
-          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
+          "name": "Eamonn Watt",
+          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
         }
       ],
-      "duration_ms": 193709,
-      "name": "Ice Dance",
-      "url": "https://open.spotify.com/track/3jUTFbimuRWC1pnikGG3YP"
+      "duration_ms": 185775,
+      "name": "Truly Yours",
+      "url": "https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -991,18 +975,34 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Truly Yours",
-        "url": "https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7"
+        "name": "Way Back Home",
+        "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
       },
       "artists": [
         {
-          "name": "Eamonn Watt",
-          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
+          "name": "Algoth Holmes",
+          "url": "https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl"
         }
       ],
-      "duration_ms": 185775,
-      "name": "Truly Yours",
-      "url": "https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia"
+      "duration_ms": 170000,
+      "name": "Winter Birds",
+      "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Piano 1 (Extended)",
+        "url": "https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP"
+      },
+      "artists": [
+        {
+          "name": "Robin Bennich",
+          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
+        }
+      ],
+      "duration_ms": 193709,
+      "name": "Ice Dance",
+      "url": "https://open.spotify.com/track/3jUTFbimuRWC1pnikGG3YP"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Relaxing Piano (Neoclassical Sessions)",
-        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
-      },
-      "artists": [
-        {
-          "name": "Kalen Elmsley",
-          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
-        }
-      ],
-      "duration_ms": 184220,
-      "name": "Spheroidal",
-      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -1083,22 +1067,6 @@
       "duration_ms": 135261,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Dolce",
-        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 143011,
-      "name": "Dolce",
-      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1119,6 +1087,38 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Dolce",
+        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 143011,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 133879,
       "name": "Beloved",
       "url": "https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Donde Nadas",
-        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
-      },
-      "artists": [
-        {
-          "name": "Lupe Sinsonte",
-          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Donde Nadas",
-      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1179,6 +1163,22 @@
       "duration_ms": 135253,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Donde Nadas",
+        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "duration_ms": 141941,
+      "name": "Donde Nadas",
+      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
-      },
-      "artists": [
-        {
-          "name": "Denise Santoz",
-          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Palette",
-      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Omoidasu",
         "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
+      },
+      "artists": [
+        {
+          "name": "Denise Santoz",
+          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Palette",
+      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 167333,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Kardelen",
-        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 167848,
-      "name": "Kardelen",
-      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Kardelen",
+        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 167848,
+      "name": "Kardelen",
+      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Midnight Musette",
         "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
       },
@@ -1435,6 +1435,26 @@
       "duration_ms": 197084,
       "name": "Midnight Musette",
       "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Szymanowski: Piano Works, Vol. 2",
+        "url": "https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO"
+      },
+      "artists": [
+        {
+          "name": "Karol Szymanowski",
+          "url": "https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal"
+        },
+        {
+          "name": "Martin Roscoe",
+          "url": "https://open.spotify.com/artist/1OBvHJmcD6MzAWSIIErwPM"
+        }
+      ],
+      "duration_ms": 76933,
+      "name": "Variations on a Polish Theme, Op. 10: No. 5 Andantino",
+      "url": "https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1491,22 +1511,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Szymanowski: Piano Works, Vol. 2",
-        "url": "https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO"
+        "name": "Amuse Bouche",
+        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
       },
       "artists": [
         {
-          "name": "Karol Szymanowski",
-          "url": "https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal"
-        },
-        {
-          "name": "Martin Roscoe",
-          "url": "https://open.spotify.com/artist/1OBvHJmcD6MzAWSIIErwPM"
+          "name": "Yao Chen",
+          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
         }
       ],
-      "duration_ms": 76933,
-      "name": "Variations on a Polish Theme, Op. 10: No. 5 Andantino",
-      "url": "https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2"
+      "duration_ms": 197750,
+      "name": "Is it Over",
+      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amuse Bouche",
-        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
-      },
-      "artists": [
-        {
-          "name": "Yao Chen",
-          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Is it Over",
-      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Paragon",
         "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
       },
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Floating Dreams",
-        "url": "https://open.spotify.com/album/6c0Bj4Qzvjww0AR3GXWoaG"
+        "name": "Farvel til sommeren",
+        "url": "https://open.spotify.com/album/4ykDSRfJ83p4U2QJPIqq0H"
       },
       "artists": [
         {
-          "name": "Kacienn",
-          "url": "https://open.spotify.com/artist/5UIkDKjkkvoRukwsTc4hh7"
+          "name": "Nansen Christoffersen",
+          "url": "https://open.spotify.com/artist/4EG2PN3O2mm649IWzUex7B"
         }
       ],
-      "duration_ms": 171440,
-      "name": "Floating Dreams",
-      "url": "https://open.spotify.com/track/3muPbNvaD8Vl4cMCHRZzpE"
+      "duration_ms": 123500,
+      "name": "Farvel til sommeren",
+      "url": "https://open.spotify.com/track/2xgBsQS1gpI57AJB5aQg2y"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1587,22 +1587,6 @@
       "duration_ms": 204090,
       "name": "Sintra",
       "url": "https://open.spotify.com/track/5JlzdloHUjgYWByeCgtFSx"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Farvel til sommeren",
-        "url": "https://open.spotify.com/album/4ykDSRfJ83p4U2QJPIqq0H"
-      },
-      "artists": [
-        {
-          "name": "Nansen Christoffersen",
-          "url": "https://open.spotify.com/artist/4EG2PN3O2mm649IWzUex7B"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Farvel til sommeren",
-      "url": "https://open.spotify.com/track/2xgBsQS1gpI57AJB5aQg2y"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Floating Dreams",
+        "url": "https://open.spotify.com/album/6c0Bj4Qzvjww0AR3GXWoaG"
+      },
+      "artists": [
+        {
+          "name": "Kacienn",
+          "url": "https://open.spotify.com/artist/5UIkDKjkkvoRukwsTc4hh7"
+        }
+      ],
+      "duration_ms": 171440,
+      "name": "Floating Dreams",
+      "url": "https://open.spotify.com/track/3muPbNvaD8Vl4cMCHRZzpE"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "The Piano Inside",
         "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
       },
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "In The Stillness",
-        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
+        "name": "Synchronicity",
+        "url": "https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck"
       },
       "artists": [
         {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
         }
       ],
-      "duration_ms": 186595,
-      "name": "In the Stillness",
-      "url": "https://open.spotify.com/track/3chX0o1istmZdfm53dCksb"
+      "duration_ms": 189250,
+      "name": "Synchronicity",
+      "url": "https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA"
     }
   ],
   "unique_name": "Piano Study",

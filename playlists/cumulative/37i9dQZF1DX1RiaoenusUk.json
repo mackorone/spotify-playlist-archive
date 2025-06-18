@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
+      },
+      "artists": [
+        {
+          "name": "Cami Brooks",
+          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226871,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
+    },
+    {
+      "album": {
         "name": "Combustication",
         "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
       },
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 213267,
       "name": "Sr. A",
       "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,336 songs - 3 day 17 hr 3 min
+2,337 songs - 3 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1872,7 +1872,7 @@
 | [somewhere in time](https://open.spotify.com/track/3HFdGHqnhjH2QizQW46oBt) | [leonoel](https://open.spotify.com/artist/1kGDwOMmp0ZnSQLP74MHfo), [Adam Panek](https://open.spotify.com/artist/4irDpwU4JhKKCu4r1yRbR9), [Oscar Jakonen](https://open.spotify.com/artist/1uUseRx5lV0ENp9BbNUcng) | [somewhere in time](https://open.spotify.com/album/5mgWGyzUMyDKXtAF0wvvk1) | 2:16 | 2022-08-12 | 2022-12-09 |
 | [sonic colors](https://open.spotify.com/track/76kN4WGmfKyPGUcpZLNvx2) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [sonic colors](https://open.spotify.com/album/5C1vvF0d0KNOWGhsLtSh41) | 2:00 | 2022-05-27 | 2022-11-19 |
 | [Soon Come](https://open.spotify.com/track/2fR3GNfIFHEQLtjD8h9ECY) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Soon Come](https://open.spotify.com/album/0DGJMlRvpk7IJG8c4zMZD7) | 2:33 | 2022-04-15 | 2022-11-12 |
-| [soothing slow](https://open.spotify.com/track/2I1rQ8ULEI4jbh28pz2C4n) | [lo.a.pauly](https://open.spotify.com/artist/24bLJIthLjTIcLO2iw9saJ) | [soothing slow](https://open.spotify.com/album/0c0MZM1KmS06hbIlKNUGnm) | 2:04 | 2023-06-06 |  |
+| [soothing slow](https://open.spotify.com/track/2I1rQ8ULEI4jbh28pz2C4n) | [lo.a.pauly](https://open.spotify.com/artist/24bLJIthLjTIcLO2iw9saJ) | [soothing slow](https://open.spotify.com/album/0c0MZM1KmS06hbIlKNUGnm) | 2:04 | 2023-06-06 | 2025-06-18 |
 | [sophisticated](https://open.spotify.com/track/3rLukSZ1aOLWPtIxfVQxSR) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [sophisticated](https://open.spotify.com/album/4Low9VPtpvCk28jlftYjjw) | 1:40 | 2024-12-20 | 2025-02-19 |
 | [soul pattern](https://open.spotify.com/track/2WjFg4N7R6CcGcZUIF1NYT) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [soul pattern](https://open.spotify.com/album/2aH5Phgsjyudh7Ijs8Lfe5) | 2:16 | 2023-08-17 | 2023-10-27 |
 | [Soul Sister](https://open.spotify.com/track/6e13KTREbbwyAoTJVf8N26) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Maria](https://open.spotify.com/album/5T46u2h98CjDlCwgd3D9oW) | 1:22 | 2022-04-15 | 2022-04-22 |
@@ -2262,6 +2262,7 @@
 | [We're All Dreaming](https://open.spotify.com/track/1XZ5JfMiSXyQC4leCH23OD) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [We're All Dreaming](https://open.spotify.com/album/5TnRdDx2fJ1uQHcozY8CJu) | 2:02 | 2022-10-28 | 2023-01-20 |
 | [Wecki](https://open.spotify.com/track/4FgEcQBlEHG8JyKdYgL8uz) | [Sabo Tan](https://open.spotify.com/artist/3XkkVh8jU3QiGPiC8N5RBS) | [Wecki](https://open.spotify.com/album/1QsoRzYNsWn1eqOkVNvLC3) | 2:07 | 2022-04-15 | 2022-04-22 |
 | [Weekend Getaway](https://open.spotify.com/track/1Vn98IKQKI7fdaR3am9jlZ) | [insømnia](https://open.spotify.com/artist/1zof1SgsoqfvofHdVIaC3G), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Weekend Getaway](https://open.spotify.com/album/6WKR0bngS5SvYvwg5TxIww) | 2:23 | 2022-11-11 | 2023-09-16 |
+| [weightless](https://open.spotify.com/track/568CHmYXF4DYruY2kq6H3u) | [Lush Lime](https://open.spotify.com/artist/6W3OIb36yf8ViP1vtpq6j9) | [weightless](https://open.spotify.com/album/4lORMDhZbML6DloNfOFwNZ) | 1:43 | 2025-06-13 |  |
 | [Weird Folks](https://open.spotify.com/track/1BMieBWqghjmpz28GiDkq9) | [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV) | [The Spaceship](https://open.spotify.com/album/4jLrmKCgM04AqELWslYDOE) | 2:11 | 2022-04-15 | 2022-09-23 |
 | [welcome home](https://open.spotify.com/track/2BgDEtTB2uT6q26llkn3oU) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [welcome home](https://open.spotify.com/album/6HiDKtH9kWW6uD0EETzRu3) | 1:58 | 2023-02-21 |  |
 | [Well, I Guess It Has Been a Vibe](https://open.spotify.com/track/643CczHWSpBvDOGSn78CDw) | [PETITE FESSE](https://open.spotify.com/artist/6Eb1zj0M4u2a3hrP2ndXRb) | [Well, I Guess It Has Been a Vibe](https://open.spotify.com/album/45YnKJoeZlsHO3UCeAbdoa) | 1:37 | 2022-04-15 | 2022-09-02 |

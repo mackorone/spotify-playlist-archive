@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-540 songs - 1 day 4 hr 27 min
+541 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-07 | 2022-08-06 |
 | [Commando](https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 2:49 | 2021-12-16 |  |
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-07-18 | 2024-10-05 |
+| [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 | 2025-06-17 |  |
 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 | 2021-12-16 |  |
 | [Condo](https://open.spotify.com/track/6h3OTSLTJubOG0RLkIW91i) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Afrowave 3](https://open.spotify.com/album/79dXMRWb9dGw08ud6M87GH) | 2:45 | 2021-12-16 | 2022-07-26 |
 | [Contact](https://open.spotify.com/track/3qPBVYEnyz7RyPEFEf0sqi) | [Dimitri McDowell](https://open.spotify.com/artist/0z5SAvLBgXdLs33L3tLbfo) | [Contact](https://open.spotify.com/album/2bFn67UEwq7MH6s9TyfVAk) | 3:19 | 2021-12-16 | 2022-07-29 |
@@ -188,7 +189,7 @@
 | [Gal Policy \(Remix\) \[feat\. Tiwa Savage\]](https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gal Policy \(Remix\) \[feat\. Tiwa Savage\]](https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn) | 2:35 | 2021-12-16 | 2023-09-02 |
 | [Get Up](https://open.spotify.com/track/2aHP8KpxsOfJAtuKzgQJrC) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Get Up](https://open.spotify.com/album/1jDNLZ72RSK9pUuziIDasP) | 3:23 | 2022-07-28 | 2023-09-02 |
 | [Get Up](https://open.spotify.com/track/5b7nktTQ766xfSekMIKI8D) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Get Up](https://open.spotify.com/album/3KKd67cYqCByyXUECzM2CY) | 3:23 | 2021-12-16 | 2022-07-29 |
-| [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2023-05-31 |  |
+| [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2023-05-31 | 2025-06-18 |
 | [Ghetto Story](https://open.spotify.com/track/2UduW8YgqkKiXtqwXx2TCI) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Six Summers](https://open.spotify.com/album/61gQ3hj7IZCm5DVaQLiHrQ) | 3:13 | 2021-12-16 | 2022-02-24 |
 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 | 2021-12-16 |  |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2023-04-07 |

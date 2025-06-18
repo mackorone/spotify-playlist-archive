@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-704 songs - 2 day 20 hr 3 min
+705 songs - 2 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Drago](https://open.spotify.com/track/2MuW3jSDlBC5pyp5lDA7Ov) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Drago](https://open.spotify.com/album/6juKR9M4yV7SIxX5niEUZP) | 6:49 | 2021-10-10 | 2022-06-24 |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2023-01-13 | 2024-01-05 |
 | [Dreamcast](https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF) | 5:25 | 2023-11-27 | 2024-04-19 |
-| [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-11-26 |  |
+| [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-11-26 | 2025-06-18 |
 | [Dreaming \- Casper Cole Remix](https://open.spotify.com/track/1QhtyPVcTEoRa6fkizTwkj) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ), [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Dreaming \(Casper Cole Remix\)](https://open.spotify.com/album/3HqGiVhA5ASObu5Nzq8uVd) | 4:25 | 2022-10-07 | 2022-10-29 |
 | [Drifter](https://open.spotify.com/track/3qTJbiHIjxSm1RDTtwybdE) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Drifter](https://open.spotify.com/album/79p9DOvfUpXIVUUzkqdeb2) | 4:39 | 2022-07-08 | 2022-08-13 |
 | [Dune Suave](https://open.spotify.com/track/3RkZM4hPoN6AupH4Ir1RAO) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Einmusik / Lake Avalon](https://open.spotify.com/album/1sz5tUBNYQd4jasYDTvxV1) | 8:16 | 2019-12-11 | 2021-06-05 |
@@ -704,6 +704,7 @@
 | [Yonio](https://open.spotify.com/track/32aYqy7QSeJBKxkAXR26p5) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Yonio](https://open.spotify.com/album/5Y2cCWWxiVgdIoaW4sUF4m) | 7:24 | 2021-09-07 | 2021-10-28 |
 | [You](https://open.spotify.com/track/6hFgrBH45e3SljvIHNLRq8) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Unity](https://open.spotify.com/album/6oHRy3qEVtV2ihezwKZRjR) | 6:58 | 2020-03-21 | 2020-03-22 |
 | [You Are](https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B) | [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [You Are](https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc) | 4:23 | 2024-11-15 |  |
+| [You Are](https://open.spotify.com/track/7ivcxtK1L1Y1j50x9yUWIR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [You Are](https://open.spotify.com/album/3Mlmg99htNwRiVf6yDAspJ) | 3:59 | 2025-06-13 |  |
 | [You Are the Light \- Edit](https://open.spotify.com/track/5sfXJ86Ltiw0IGoNIkiEZa) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [You Are the Light](https://open.spotify.com/album/3RlqBAFQVNw7ixfLkaXTPB) | 4:09 | 2019-08-06\* | 2020-02-03 |
 | [You Belong To No\-One](https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 3:38 | 2024-09-13 | 2024-12-02 |
 | [You Shine \- Original mix](https://open.spotify.com/track/2UcVfsMkqwmOWewsRBPVvX) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [You Shine EP](https://open.spotify.com/album/55HDc5bpxKGUlyW6yvnYpj) | 6:43 | 2019-11-10 | 2020-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Sheheryar Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,451 likes - 109 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,454 likes - 109 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 108 | [Wajah](https://open.spotify.com/track/1TuLMjGiPzleVi88fApvHg) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [Wajah](https://open.spotify.com/album/5tzzJpdENg3qgUEM7IbY3T) | 2:50 |
 | 109 | [Zaroori Hai](https://open.spotify.com/track/5jFwxhVtOnEU4U6aUM1JnR) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Ashal Haider Khan](https://open.spotify.com/artist/2COEn08mrNoQLfsRzjN9MR), [Mohsin Raza Shah](https://open.spotify.com/artist/21iESpk5OYSSJiuH3e7Z2Z) | [Zaroori Hai](https://open.spotify.com/album/4QaDYp8zCslfKI0ljs3oND) | 4:18 |
 
-Snapshot ID: `aEvi/QAAAAD1GU8P9bugumpnBa+DcG4w`
+Snapshot ID: `aFEVxwAAAAAWneEtEXku8Gn8yxByTYIK`

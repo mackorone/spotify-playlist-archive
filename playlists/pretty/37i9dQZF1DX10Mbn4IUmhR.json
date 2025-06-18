@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's pop tracks, via the south of Africa. Cover: <a href=\"https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7?si=eBJLnUQYTPm4YMPeLdRaaA\">Mikhaela Faye</a>",
-  "num_followers": 3305,
+  "num_followers": 3308,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
-        "name": "Killin' It Girl (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "Killin' It Girl (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
-        "name": "God Went Crazy",
-        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 183034,
-      "name": "God Went Crazy",
-      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "BOY CRAZY.",
-        "url": "https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 148619,
-      "name": "BOY CRAZY.",
-      "url": "https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
         "name": "Take A Sexy Picture Of Me",
         "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 229933,
       "name": "Take A Sexy Picture Of Me",
       "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
+        "name": "BOY CRAZY.",
+        "url": "https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 148619,
+      "name": "BOY CRAZY.",
+      "url": "https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -775,18 +775,18 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "On This Love",
-        "url": "https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd"
+        "name": "Don't Cry, Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 169903,
-      "name": "On This Love",
-      "url": "https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF"
+      "duration_ms": 231680,
+      "name": "Don't Cry, Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Don't Cry, Put Your Head On My Shoulder",
-        "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
+        "name": "On This Love",
+        "url": "https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 231680,
-      "name": "Don't Cry, Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
+      "duration_ms": 169903,
+      "name": "On This Love",
+      "url": "https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -935,18 +935,22 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Super Love Me",
-        "url": "https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa"
+        "name": "Stay Gold (from BEYBLADE X)",
+        "url": "https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI"
       },
       "artists": [
         {
-          "name": "Grace Davies",
-          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 266500,
-      "name": "Super Love Me",
-      "url": "https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH"
+      "duration_ms": 206175,
+      "name": "Stay Gold - from BEYBLADE X",
+      "url": "https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -967,18 +971,18 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "WHATEVERWHATEVER",
-        "url": "https://open.spotify.com/album/5nCl0anzakUn8ycOHqYFne"
+        "name": "Super Love Me",
+        "url": "https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa"
       },
       "artists": [
         {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+          "name": "Grace Davies",
+          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
         }
       ],
-      "duration_ms": 148140,
-      "name": "WHATEVERWHATEVER",
-      "url": "https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13"
+      "duration_ms": 266500,
+      "name": "Super Love Me",
+      "url": "https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Stay The Same",
-        "url": "https://open.spotify.com/album/2a2vGvugM0xdxhGRpJHoMu"
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
       "artists": [
         {
-          "name": "Thunder",
-          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
-        },
-        {
-          "name": "Dominic Neill",
-          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 138787,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/5GZyTkTSAAzcbSnwcEcwFD"
+      "duration_ms": 168461,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -1067,70 +1067,38 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Stay Gold (from BEYBLADE X)",
-        "url": "https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI"
+        "name": "WHATEVERWHATEVER",
+        "url": "https://open.spotify.com/album/5nCl0anzakUn8ycOHqYFne"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 148140,
+      "name": "WHATEVERWHATEVER",
+      "url": "https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
+        "name": "Stay The Same",
+        "url": "https://open.spotify.com/album/2a2vGvugM0xdxhGRpJHoMu"
+      },
+      "artists": [
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
         },
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
         }
       ],
-      "duration_ms": 206175,
-      "name": "Stay Gold - from BEYBLADE X",
-      "url": "https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
-        "name": "Listen to me",
-        "url": "https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx"
-      },
-      "artists": [
-        {
-          "name": "Jann",
-          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
-        }
-      ],
-      "duration_ms": 188311,
-      "name": "Listen to me",
-      "url": "https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF"
-    },
-    {
-      "added_at": "2025-06-12 22:00:46",
-      "album": {
-        "name": "All The Rest EP",
-        "url": "https://open.spotify.com/album/42fNgf84AGweDFXI7JMrpr"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 225708,
-      "name": "How I'm Feeling Now - Orchestral Version",
-      "url": "https://open.spotify.com/track/7HVuQuXAEcI1fkrIHcQ4FT"
+      "duration_ms": 138787,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/5GZyTkTSAAzcbSnwcEcwFD"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -1151,18 +1119,38 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK"
+        "name": "Still The Mayor",
+        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
       },
       "artists": [
         {
-          "name": "aleksiah",
-          "url": "https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 219812,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d"
+      "duration_ms": 194754,
+      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
+      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
+        "name": "Listen to me",
+        "url": "https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+        }
+      ],
+      "duration_ms": 188311,
+      "name": "Listen to me",
+      "url": "https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF"
     },
     {
       "added_at": "2025-06-12 22:00:46",
@@ -1183,22 +1171,34 @@
     {
       "added_at": "2025-06-12 22:00:46",
       "album": {
-        "name": "Still The Mayor",
-        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+        "name": "All The Rest EP",
+        "url": "https://open.spotify.com/album/42fNgf84AGweDFXI7JMrpr"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
-      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
+      "duration_ms": 225708,
+      "name": "How I'm Feeling Now - Orchestral Version",
+      "url": "https://open.spotify.com/track/7HVuQuXAEcI1fkrIHcQ4FT"
+    },
+    {
+      "added_at": "2025-06-12 22:00:46",
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK"
+      },
+      "artists": [
+        {
+          "name": "aleksiah",
+          "url": "https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9"
+        }
+      ],
+      "duration_ms": 219812,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d"
     }
   ],
   "unique_name": "pop fm",

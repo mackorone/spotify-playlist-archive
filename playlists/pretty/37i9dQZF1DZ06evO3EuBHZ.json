@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAACeQ+bnSekEjKw+pUPl5Bvx",
+  "snapshot_id": "aE9egAAAAACJmtV7Q7B3fPuNPycCDL1/",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 405146,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hangover Blues",
         "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 568560,
       "name": "Mixed Up Feeling",
       "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 356472,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+      "duration_ms": 405146,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sassy Mama!",
-        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Everybody's Happy (But Me)",
-      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
+      "duration_ms": 205000,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
       "duration_ms": 311906,
       "name": "Big Mama Swings",
       "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Everybody's Happy (But Me)",
+      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 166906,
       "name": "No Jody for Me",
       "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Sheriff O.E. & Me",
-      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
     },
     {
       "added_at": null,

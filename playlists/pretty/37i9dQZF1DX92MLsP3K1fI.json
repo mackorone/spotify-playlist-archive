@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Morat en portada.",
-  "num_followers": 91758,
+  "num_followers": 91771,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-05-23 06:00:32",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2025-05-23 06:00:32",
+      "album": {
         "name": "FULL TIME",
         "url": "https://open.spotify.com/album/4Ruhef6h9LJpYPxAXxckx9"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 174764,
       "name": "FULL TIME",
       "url": "https://open.spotify.com/track/0PY1qmeW7TlrvMQIRTIbZp"
-    },
-    {
-      "added_at": "2025-05-23 06:00:32",
-      "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2025-05-23 06:00:32",

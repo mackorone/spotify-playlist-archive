@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,465 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,499 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 45 | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 |
 | 46 | [Anyway](https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Hard Guy Confessions](https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo) | 3:54 |
 | 47 | [Pop n Olive](https://open.spotify.com/track/7mx3o5H3YzWolHZe0Wtbam) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Pop n Olive](https://open.spotify.com/album/5EUkK1J0maUUX0kc4Uhma0) | 3:00 |
-| 48 | [see through](https://open.spotify.com/track/1lsJjnvmbmx1ufznwAdYku) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [he's just not that into you!](https://open.spotify.com/album/1tzfA5Po3zdgq3vex66DKg) | 2:59 |
-| 49 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
-| 50 | [Hesitation \(with Karri\)](https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:48 |
+| 48 | [Hesitation \(with Karri\)](https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:48 |
+| 49 | [see through](https://open.spotify.com/track/1lsJjnvmbmx1ufznwAdYku) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [he's just not that into you!](https://open.spotify.com/album/1tzfA5Po3zdgq3vex66DKg) | 2:59 |
+| 50 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
 | 51 | [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 |
 | 52 | [THE LAST TIME](https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [THE LAST TIME](https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy) | 3:14 |
 | 53 | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/track/03jGFqmsLt2BLWcbA4Vx5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/album/1bD4ne7GGkyeViaNBFg5Z2) | 3:05 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 77 | [Forever](https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:16 |
 | 78 | [She Said](https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [She Said](https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5) | 2:28 |
 | 79 | [Tattoo](https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Tattoo](https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW) | 3:15 |
-| 80 | [Bonita](https://open.spotify.com/track/44BwZ1yRDa8hWt5hFXAkwb) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Bonita](https://open.spotify.com/album/5d9hBDDnuIu1K8sHjxuPnZ) | 2:41 |
+| 80 | [Love & Romance II](https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Romance II](https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ) | 3:15 |
 
 Snapshot ID: `aEwFdAAAAAB+Wuvnc9YPnFtiQTpLn+Uw`

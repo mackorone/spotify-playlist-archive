@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 26657,
+  "num_followers": 26664,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 198795,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "I - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 206038,
       "name": "I",
       "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 198795,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "WINTER",
         "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 283800,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 212244,
       "name": "Bubble Pop!",
       "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Red Light - The 3rd Album",
-        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
+        "name": "NU ABO",
+        "url": "https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
         }
       ],
-      "duration_ms": 211900,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc"
+      "duration_ms": 224333,
+      "name": "NU ABO",
+      "url": "https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "NU ABO",
-        "url": "https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO"
+        "name": "Red Light - The 3rd Album",
+        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
         }
       ],
-      "duration_ms": 224333,
-      "name": "NU ABO",
-      "url": "https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm"
+      "duration_ms": 211900,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Love Ya",
-      "url": "https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "The Spring of Twenty",
         "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Lupin",
-        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Lupin",
-      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
+      "duration_ms": 205506,
+      "name": "Love Ya",
+      "url": "https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "Lupin",
+        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Lupin",
+      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "Volume Up",
         "url": "https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "VIRGIN",
-        "url": "https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V"
-      },
-      "artists": [
-        {
-          "name": "After School",
-          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
-        }
-      ],
-      "duration_ms": 274755,
-      "name": "Shampoo",
-      "url": "https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Nitpicking",
         "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 213577,
       "name": "Nitpicking",
       "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "VIRGIN",
+        "url": "https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V"
+      },
+      "artists": [
+        {
+          "name": "After School",
+          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+        }
+      ],
+      "duration_ms": 274755,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "A (Digital Single)",
-        "url": "https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B"
-      },
-      "artists": [
-        {
-          "name": "RAINBOW",
-          "url": "https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y"
-        }
-      ],
-      "duration_ms": 201737,
-      "name": "A",
-      "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Nitpicking",
         "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 227448,
       "name": "Rain Drop",
       "url": "https://open.spotify.com/track/6tlMVCqZlmxfnjZt3OiHjE"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "A (Digital Single)",
+        "url": "https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B"
+      },
+      "artists": [
+        {
+          "name": "RAINBOW",
+          "url": "https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y"
+        }
+      ],
+      "duration_ms": 201737,
+      "name": "A",
+      "url": "https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo"
     },
     {
       "added_at": "2024-08-05 16:58:20",

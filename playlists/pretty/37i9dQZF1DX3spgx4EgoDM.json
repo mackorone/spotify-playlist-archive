@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 172034,
+  "num_followers": 172067,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-03-07 03:00:27",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
-    },
-    {
-      "added_at": "2025-03-07 03:00:27",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 472400,
       "name": "La Negra Tomasa - Bilongo - Versi\u00f3n Tropical",
       "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
+    },
+    {
+      "added_at": "2025-03-07 03:00:27",
+      "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2025-03-07 03:00:27",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-03-07 03:00:27",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2025-03-07 03:00:27",
-      "album": {
         "name": "Con la Fuerza de un Volc\u00e1n",
         "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 228266,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+    },
+    {
+      "added_at": "2025-03-07 03:00:27",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2025-03-07 03:00:27",
@@ -755,26 +755,6 @@
     {
       "added_at": "2025-03-07 03:00:27",
       "album": {
-        "name": "Ahora Resulta",
-        "url": "https://open.spotify.com/album/1aQur6ki98vcoOW0cGopFy"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        }
-      ],
-      "duration_ms": 147037,
-      "name": "Ahora Resulta",
-      "url": "https://open.spotify.com/track/4Kn1qDeYfuL53YJTKq4vTA"
-    },
-    {
-      "added_at": "2025-03-07 03:00:27",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 202000,
       "name": "La Cumbia de los Monjes",
       "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
+    },
+    {
+      "added_at": "2025-03-07 03:00:27",
+      "album": {
+        "name": "Ahora Resulta",
+        "url": "https://open.spotify.com/album/1aQur6ki98vcoOW0cGopFy"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "duration_ms": 147037,
+      "name": "Ahora Resulta",
+      "url": "https://open.spotify.com/track/4Kn1qDeYfuL53YJTKq4vTA"
     },
     {
       "added_at": "2025-03-07 03:00:27",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-03-07 03:00:27",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2025-03-07 03:00:27",
-      "album": {
         "name": "Plato \u00danico Bailable",
         "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 188053,
       "name": "Loca",
       "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
+    },
+    {
+      "added_at": "2025-03-07 03:00:27",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2025-03-07 03:00:27",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-03-07 03:00:27",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
-    },
-    {
-      "added_at": "2025-03-07 03:00:27",
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 245933,
       "name": "Todo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO"
+    },
+    {
+      "added_at": "2025-03-07 03:00:27",
+      "album": {
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
       "added_at": "2025-03-07 03:00:27",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-03-07 03:00:27",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 181254,
-      "name": "Que Nadie Se Entere",
-      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
-    },
-    {
-      "added_at": "2025-03-07 03:00:27",
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 219733,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/03dzTYCKFMjo7qwbYec61S"
+    },
+    {
+      "added_at": "2025-03-07 03:00:27",
+      "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 181254,
+      "name": "Que Nadie Se Entere",
+      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
     },
     {
       "added_at": "2025-03-07 03:00:27",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-03-07 03:00:27",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2025-03-07 03:00:27",
-      "album": {
         "name": "Con La Cumbia En La Sangre",
         "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 171333,
       "name": "No Me Vuelvo A Enamorar",
       "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
+    },
+    {
+      "added_at": "2025-03-07 03:00:27",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2025-03-07 03:00:27",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-03-07 03:00:27",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2025-03-07 03:00:27",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 222400,
       "name": "Qu\u00e9 Bello",
       "url": "https://open.spotify.com/track/0UAWp3NVL40XQ43ZPSRv2o"
+    },
+    {
+      "added_at": "2025-03-07 03:00:27",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2025-03-07 03:00:27",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-03-07 03:00:27",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 176864,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
-    },
-    {
-      "added_at": "2025-03-07 03:00:27",
-      "album": {
         "name": "Maravillosa Esta Noche",
         "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2025-03-07 03:00:27",
+      "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 176864,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
     },
     {
       "added_at": "2025-03-07 03:00:27",

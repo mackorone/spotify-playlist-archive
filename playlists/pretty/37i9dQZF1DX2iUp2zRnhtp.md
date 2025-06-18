@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,569 likes - 105 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,576 likes - 105 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 45 | [Legends](https://open.spotify.com/track/73tCN2QLa2z7BHibydqWsU) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Legends](https://open.spotify.com/album/7rlY3zUZPSl9T8CoqL0ABa) | 2:43 |
 | 46 | [Jeg har vært en idiot](https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Jeg har vært en idiot](https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5) | 2:29 |
 | 47 | [99 Problemer](https://open.spotify.com/track/4GrN08TEmpFC93cOf0S4sE) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [99 Problemer](https://open.spotify.com/album/4jv7JUXugDpAu0bHx89Q4n) | 2:32 |
-| 48 | [Gode Tider](https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Gode Tider](https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW) | 2:49 |
+| 48 | [Gode Tider \- feat\. Streetboys](https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Gode Tider \(feat\. Streetboys\)](https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW) | 2:49 |
 | 49 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 |
 | 50 | [Opp og nikke](https://open.spotify.com/track/1b6SB4CB2t8OX7FbajWnHR) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP), [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [Opp og nikke](https://open.spotify.com/album/4BtmiZTf2Bl0mKBmU5XiLJ) | 2:03 |
 | 51 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 |

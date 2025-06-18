@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,630 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,637 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 40 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 |
 | 41 | [I've Been Waiting](https://open.spotify.com/track/1qG3hqpWIVmwr0eNjPrL3M) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Brighter The Days](https://open.spotify.com/album/1YFcoVpjlvzqfszuNvQuZg) | 4:21 |
 | 42 | [TONIGHT?](https://open.spotify.com/track/2FCfPls8tmS7c2RUulGSwT) | [Nujakasha](https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI), [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [TONIGHT?](https://open.spotify.com/album/2ZzOmfroof55Sm6rubuWIW) | 2:52 |
-| 43 | [211](https://open.spotify.com/track/7nWNx0hsYkGP0wBRLHv9Jj) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [211 / See You Later](https://open.spotify.com/album/1ysS9dTHq1WTU9ClXUegil) | 3:17 |
+| 43 | [211](https://open.spotify.com/track/7nWNx0hsYkGP0wBRLHv9Jj) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [211 / See You Later](https://open.spotify.com/album/1ysS9dTHq1WTU9ClXUegil) | 3:15 |
 | 44 | [This Is Why](https://open.spotify.com/track/6BjVkcvUiZ40CI6ckLadnU) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [This Is Why](https://open.spotify.com/album/6M4UH3NOkiHKymVfpW4vn5) | 2:53 |
 | 45 | [No Secrets](https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [No Secrets](https://open.spotify.com/album/1dJdsWWuEbTDh43PpZfcbT) | 3:09 |
 | 46 | [Chosen One \- grooveman Spot Remix](https://open.spotify.com/track/1ePIgkwpyPWYxTy8bJaoox) | [aimi](https://open.spotify.com/artist/1jLLPMeKf9XCe6J8NHnp84), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [aimi SUMMER REMIXES](https://open.spotify.com/album/7wJnLhAJ4uDizIjicCOdFw) | 3:10 |

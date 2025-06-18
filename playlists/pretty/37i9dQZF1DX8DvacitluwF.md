@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > iQHAWE Magazine's Renaè Mangena, Hlengiwe Mkwayi & Anastatia Nkhuna curate Youth Day, featuring Mzansi R&B and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,184 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,200 likes - 47 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

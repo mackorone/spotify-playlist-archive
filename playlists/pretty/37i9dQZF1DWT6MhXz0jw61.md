@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364,478 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,364,613 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Not In The Mood](https://open.spotify.com/track/6ocGxD3RWgYRvUyXcUu9LI) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'll Always Come Find You \(Deluxe\)](https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU) | 2:15 |
 | 100 | [Jill Scott \(feat\. Wiz Khalifa & Curren$y\)](https://open.spotify.com/track/2MKGgh3tAB58wylg2J8CWc) | [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [P Got Game](https://open.spotify.com/album/7MpbP40TTUA6ZSysevS9AV) | 3:52 |
 
-Snapshot ID: `aEuicAAAAAD79IlB7gETJqlneXsj1Gza`
+Snapshot ID: `aEuicAAAAACA1lqenh16clQ695Lw7uQJ`

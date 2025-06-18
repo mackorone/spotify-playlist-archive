@@ -2,7 +2,7 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 小室響
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 桑原あい
 
 418 songs - 1 day 9 hr 50 min
 

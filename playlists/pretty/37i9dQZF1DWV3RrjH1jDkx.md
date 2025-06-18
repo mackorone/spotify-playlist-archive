@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Tobias Sten, Alessandra, SKAAR og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,763 likes - 108 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,758 likes - 108 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 2 | [Call me when you need me](https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Call me when you need me](https://open.spotify.com/album/5DgDuWTZ8cFgfUsymQvD9P) | 3:14 |
 | 3 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 |
 | 4 | [Toscana](https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Toscana](https://open.spotify.com/album/490sRKuNegyMGAe9gPvI1Q) | 2:46 |
-| 5 | [Gode Tider](https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Gode Tider](https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW) | 2:49 |
+| 5 | [Gode Tider \- feat\. Streetboys](https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Gode Tider \(feat\. Streetboys\)](https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW) | 2:49 |
 | 6 | [Hva Du Vil](https://open.spotify.com/track/5bbEHwi1fO0BsQ6XdE1okY) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Hva Du Vil](https://open.spotify.com/album/447yihNDP8RuzaWgjOgwrf) | 2:56 |
 | 7 | [Normandie](https://open.spotify.com/track/66efVUD3ziUs3mPLZWysJ6) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [BERGREM](https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH) | [Normandie](https://open.spotify.com/album/77n1CfO0adsKZVHCGrZMnH) | 2:13 |
 | 8 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |

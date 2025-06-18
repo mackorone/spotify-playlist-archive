@@ -4,7 +4,7 @@
 
 > 
 
-414 songs - 1 day 3 hr 30 min
+415 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Holsten](https://open.spotify.com/track/1QY1JdMErccck5JBqqI7tH) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Holsten](https://open.spotify.com/album/0eO4RioDxCnbqFNO6O1hs2) | 5:41 | 2022-09-20 | 2023-04-15 |
 | [Hopecore](https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Hopecore](https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12) | 3:00 | 2024-10-24 | 2025-01-22 |
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-02-21 | 2023-04-27 |
+| [How I Became a Madman](https://open.spotify.com/track/2vWxZV2grxa10qiqyNQ51a) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [How I Became a Madman](https://open.spotify.com/album/5EViAeAyM4Mry14Sb9u7Zw) | 6:53 | 2025-06-17 |  |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-08-22 | 2023-12-20 |
 | [How It Feels](https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 2:18 | 2023-10-20 | 2024-05-18 |
 | [How Music Makes You Feel Better](https://open.spotify.com/track/2WNdPUwVf0OFsvWfpT6jKN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 4:43 | 2023-10-27 | 2024-03-02 |

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-806 songs - 1 day 10 hr 21 min
+808 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Absolutely Nothing](https://open.spotify.com/track/3tK6DPMKK0sOFzjtIYO31C) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Absolutely Nothing](https://open.spotify.com/album/2doFeD2JvERQd22iG6AzfF) | 2:01 | 2024-01-12 |  |
 | [Across](https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind Vol.5](https://open.spotify.com/album/6o7WSuz1KmcL6PtxrvgSqd) | 2:06 | 2022-07-15 | 2023-04-22 |
 | [Adelita](https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Adelita](https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP) | 2:04 | 2023-03-10 |  |
-| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2023-04-21 |  |
+| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2023-04-21 | 2025-06-18 |
 | [Afgangurinn](https://open.spotify.com/track/6bploBGfSJclJuxjV65t3r) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Afgangurinn](https://open.spotify.com/album/711Vy0KS3fmb4K2rgMtP6x) | 2:03 | 2023-04-21 | 2023-06-10 |
 | [Afterglow](https://open.spotify.com/track/0g6ooNqnQPI231K12NymuV) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:38 | 2023-04-21 | 2023-06-03 |
 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 | 2024-02-23 |  |
@@ -287,6 +287,7 @@
 | [Gates](https://open.spotify.com/track/6dRhKRFp6pyX1dG2RMdQyj) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Gates](https://open.spotify.com/album/0IxFjyr59dtqD1MDZYIdGr) | 3:22 | 2023-04-21 | 2023-05-13 |
 | [Gentle Wind](https://open.spotify.com/track/199dJ94ukJhAJd4eKpAZLH) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Gentle Wind](https://open.spotify.com/album/5NQQh0vTespdY28H1mW6d9) | 2:27 | 2023-05-12 |  |
 | [Glencoe](https://open.spotify.com/track/0OTaXtuwRJbuVFinxBev0B) | [Seo Hyun Lee](https://open.spotify.com/artist/2NdqMdRInEBDZ3CisuV2uu) | [Glencoe](https://open.spotify.com/album/3RhLZXwcjINem6aSHpokZh) | 2:13 | 2023-08-10 | 2024-07-19 |
+| [Glimpse](https://open.spotify.com/track/0i6mGt3eqBkVYJ1qfTQOFd) | [F\. Garling](https://open.spotify.com/artist/6972NR2aw4LViqsAjMZAhq) | [Glimpse](https://open.spotify.com/album/4ycgH8iKucO8G8BeGxq0CR) | 2:05 | 2025-06-16 |  |
 | [Golden Bridge](https://open.spotify.com/track/5vU0QZZeSA0lGBZiF9ZH1T) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Golden Bridge](https://open.spotify.com/album/0DAwdikccXAqOXgQ04W6FZ) | 2:21 | 2025-02-24 |  |
 | [Golden Hour](https://open.spotify.com/track/0MaJRjqtDMKJ7F2ncrByDK) | [Carlo Castilla](https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR) | [Golden Hour](https://open.spotify.com/album/1vDAQZppgz27QWabAWGxzY) | 2:45 | 2023-08-10 |  |
 | [Graceful Embrace](https://open.spotify.com/track/71C5Yne2c8gXWNREZCaco7) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Graceful Embrace](https://open.spotify.com/album/65MzPj8IVyE8eBJ2Ml55vS) | 2:20 | 2023-10-27 | 2024-05-24 |
@@ -502,6 +503,7 @@
 | [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2023-04-21 | 2023-04-27 |
 | [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 | 2023-10-23 |
 | [Nostalgic Memories](https://open.spotify.com/track/1NAZJrkYw51qkxkyyE9Olc) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Nostalgic Memories](https://open.spotify.com/album/2jLfK4yOn715dvrxLVLV71) | 3:23 | 2024-11-20 |  |
+| [Now and Always](https://open.spotify.com/track/1y4kDlA8bZhboSNVxSa8vW) | [Sam Blom](https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN) | [Now and Always](https://open.spotify.com/album/6p2dyzjZvDiVZib2tSRjt0) | 2:27 | 2025-06-16 |  |
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 |  |
 | [Nuovi inizi](https://open.spotify.com/track/0odeeMwtvPisk7GJdTrP8m) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Nuovi inizi](https://open.spotify.com/album/5bUd4Ea2GEcJudlDfMGE94) | 2:02 | 2023-04-21 | 2024-05-08 |
 | [Oak](https://open.spotify.com/track/12fpjrMk5mK2rpr6VwVAbs) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Nantucket](https://open.spotify.com/album/6nwzydXcRkEsvMIK2mGpfB) | 2:57 | 2023-04-21 | 2023-06-03 |
@@ -618,7 +620,7 @@
 | [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 |  |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-07-15 | 2023-04-22 |
-| [Share her stories](https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Share her stories](https://open.spotify.com/album/18tauEkO61p1X265CtryAz) | 2:08 | 2024-09-10 |  |
+| [Share her stories](https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Share her stories](https://open.spotify.com/album/18tauEkO61p1X265CtryAz) | 2:08 | 2024-09-10 | 2025-06-18 |
 | [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 | 2025-02-20 |
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2022-07-15 | 2022-09-17 |
 | [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2023-04-21 |  |

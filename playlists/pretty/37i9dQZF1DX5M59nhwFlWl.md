@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 
 > That unbridled, unholy, loud and dirty 90s rock goodness you know you love
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,651 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,684 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 | 79 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
 | 80 | [Cupid](https://open.spotify.com/track/4EWiuBTfN4jl13YeGD7YvT) | [King's X](https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH) | [Tape Head](https://open.spotify.com/album/3E9yAx53WZVfv9Y7KIwPoQ) | 4:14 |
 
-Snapshot ID: `ZowrTAAAAAAYkWa0Rr9O/QJ8vId1WFax`
+Snapshot ID: `ZowrTAAAAABZyfeXxKnqWoyj4PpTKJAz`

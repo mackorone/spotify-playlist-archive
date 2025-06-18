@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+    },
+    {
+      "album": {
         "name": "A Call from My Dream",
         "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 194093,
       "name": "Balloon in Love",
       "url": "https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA"
@@ -262,6 +280,32 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "album": {
+        "name": "Airman Morning Diaries",
+        "url": "https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "1ho",
+          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201077,
+      "name": "Blue Island (feat. 1Ho & Chan)",
+      "url": "https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL"
     },
     {
       "album": {
@@ -364,7 +408,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 148946,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa"
@@ -994,6 +1038,24 @@
       "duration_ms": 220400,
       "name": "Let's Love",
       "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
+    },
+    {
+      "album": {
+        "name": "Hello, Then Goodbye",
+        "url": "https://open.spotify.com/album/6rEo5ut1ZaiKXi6NtRlyZY"
+      },
+      "artists": [
+        {
+          "name": "Parkbongsoon",
+          "url": "https://open.spotify.com/artist/4zi2UErU3OcQ6eydg3dHJM"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145302,
+      "name": "Let\u2019s go picnic",
+      "url": "https://open.spotify.com/track/613r7uyrTt46OCUkXcbA8x"
     },
     {
       "album": {
@@ -1838,7 +1900,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 226400,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6D4ZkbtBd4DshKMzStOf8x"

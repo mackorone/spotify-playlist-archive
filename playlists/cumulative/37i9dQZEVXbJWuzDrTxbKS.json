@@ -834,7 +834,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 146776,
       "name": "5AM In Whitechapel",
       "url": "https://open.spotify.com/track/2BldU9z5zWNdQArdiv3DEk"
@@ -6340,7 +6340,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -7460,7 +7460,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
@@ -9300,7 +9300,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 209783,
       "name": "Debesis Va\u013c\u0101",
       "url": "https://open.spotify.com/track/0FiPtBSIPZspuJNOgxILQi"
@@ -13074,7 +13074,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -15130,7 +15130,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -17869,6 +17869,36 @@
     },
     {
       "album": {
+        "name": "I Adore You (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "I Adore You (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "album": {
         "name": "OneRepublic (Japan Paradise Tour Edition)",
         "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
       },
@@ -20602,7 +20632,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 229359,
       "name": "Kalniem p\u0101ri",
       "url": "https://open.spotify.com/track/3hgSqoZLV1dAkE1x8W7LsU"
@@ -20758,6 +20788,28 @@
       "duration_ms": 113742,
       "name": "Ka\u00e7amad\u0131m",
       "url": "https://open.spotify.com/track/74H7jyyJp53HSzpcFMLL21"
+    },
+    {
+      "album": {
+        "name": "Ka\u0137is un pele",
+        "url": "https://open.spotify.com/album/0a544RFUqx6Ite2uV2fDgU"
+      },
+      "artists": [
+        {
+          "name": "Reiks",
+          "url": "https://open.spotify.com/artist/0agK424hlJvnrcduTPH8r4"
+        },
+        {
+          "name": "Lelde Dreimane",
+          "url": "https://open.spotify.com/artist/7mDVZASAMXxEwq2QcwA8NU"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Ka\u0137is un pele",
+      "url": "https://open.spotify.com/track/3S950bQPBxZL6rexx8tSCB"
     },
     {
       "album": {
@@ -25570,7 +25622,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 185333,
       "name": "Maza R\u012bga",
       "url": "https://open.spotify.com/track/610Shpt2VvaUtzc4RtOpkn"
@@ -32334,7 +32386,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 241258,
       "name": "Plan\u0113ta: Pritons",
       "url": "https://open.spotify.com/track/5SmpCD8NJSFnJa6NeAl88J"
@@ -32352,7 +32404,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 219986,
       "name": "Plaukstas lieluma pavasaris",
       "url": "https://open.spotify.com/track/7qIV9g3fbu56fkEUg6nIAH"
@@ -36068,7 +36120,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 151475,
       "name": "Saule Aust",
       "url": "https://open.spotify.com/track/1SzEKECMSkQkmUNrIZKIiU"
@@ -39745,6 +39797,24 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -42714,7 +42784,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -46912,7 +46982,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

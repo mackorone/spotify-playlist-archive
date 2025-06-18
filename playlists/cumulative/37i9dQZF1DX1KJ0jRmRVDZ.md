@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,447 songs - 3 day 10 hr 24 min
+1,448 songs - 3 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Down](https://open.spotify.com/track/1D3YE1CBxLAgaWwzrME7h9) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [Down](https://open.spotify.com/album/2ADdO9nS8bvctsk1b5s6x4) | 3:17 | 2023-03-23 | 2023-03-31 |
 | [DownTimer](https://open.spotify.com/track/6occpeuCkcU3HlnPL5rE6r) | [RetBear \(unknown Vo:O2\)](https://open.spotify.com/artist/0JCG5k6oSPaafCB8PFLFOh) | [DownTimer](https://open.spotify.com/album/1YUoDBtPxU6MscbdMcdNGq) | 3:28 | 2023-01-05 | 2023-01-11 |
 | [DRESSING ROOM](https://open.spotify.com/track/3g9tqI1NfqjErbTAQk6vne) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [DRESSING ROOM](https://open.spotify.com/album/62vPIWYn3mQVY6U4AL7kjb) | 2:54 | 2025-02-11 | 2025-06-12 |
-| [EAT THE PAST \- English Ver.](https://open.spotify.com/track/1hsy3NzhPkuCvA1pVesSlZ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [EAT THE PAST \(English Ver.\)](https://open.spotify.com/album/0KgHMAHdQyquQ61s5Zlj1w) | 4:00 | 2025-06-11 |  |
+| [EAT THE PAST \- English Ver.](https://open.spotify.com/track/1hsy3NzhPkuCvA1pVesSlZ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [EAT THE PAST \(English Ver.\)](https://open.spotify.com/album/0KgHMAHdQyquQ61s5Zlj1w) | 4:00 | 2025-06-11 | 2025-06-18 |
 | [ECLIPSE](https://open.spotify.com/track/5blarPVSwhHNVB5aFMr4fL) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst), [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [ECLIPSE](https://open.spotify.com/album/77vY8TKGpFazJpKSUQSjyD) | 3:21 | 2023-06-27 | 2023-10-18 |
 | [end roll](https://open.spotify.com/track/6WoVBuSKGlm1cKr1IGYpNz) | [Hatsume](https://open.spotify.com/artist/7bGeyUkRQk6VL7SlR9AOTB) | [end roll](https://open.spotify.com/album/3JyyHZEXtTW6PUKoSAAGUf) | 3:41 | 2024-02-13 | 2024-02-21 |
 | [Endroll](https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Endroll](https://open.spotify.com/album/4zjPemaiw8mM2dtnTQCGVR) | 2:54 | 2023-07-11 | 2023-08-02 |
@@ -1139,6 +1139,7 @@
 | [常夜灯](https://open.spotify.com/track/01G8DBO1vGToXaaDCw1V4J) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [常夜灯](https://open.spotify.com/album/2dGGoQkcQWq7w8tzzfyMw5) | 4:00 | 2022-06-16 | 2022-07-15 |
 | [弱虫のラブソング](https://open.spotify.com/track/0M7ZN4vDM3RsOTvb1G8H8z) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [弱虫のラブソング](https://open.spotify.com/album/2Os4vEqSNwNtX0xzsgDV6b) | 4:42 | 2022-07-28 | 2022-08-17 |
 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-09-03 |  |
+| [形](https://open.spotify.com/track/0m5ZpQtTjdoH4eXeygFRFZ) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形](https://open.spotify.com/album/2lZN1RhKVBH5DkmelKX3Aw) | 3:20 | 2025-06-17 |  |
 | [彼此のコレカラ](https://open.spotify.com/track/0RZ0eeWpnMBcH0MVKIqTsx) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [彼此のコレカラ](https://open.spotify.com/album/69P9sIpAVY3mcUrzhwRKTX) | 2:33 | 2022-08-25 | 2022-09-07 |
 | [往生際の意味を知れ!](https://open.spotify.com/track/7sdzicvFf1SlZXBahVjSTn) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [往生際の意味を知れ!](https://open.spotify.com/album/6uW1aOg3jHnj4VN1l7rfwU) | 2:59 | 2023-03-08 | 2023-04-12 |
 | [徘徊](https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [徘徊](https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH) | 3:11 | 2025-04-15 |  |
@@ -1302,7 +1303,7 @@
 | [真昼の月明かり](https://open.spotify.com/track/5bNJXKIjpxsLVU3Gc3RQMo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [真昼の月明かり](https://open.spotify.com/album/0yGm4qMepSKDbetBLx1Zco) | 3:42 | 2022-06-21 | 2022-07-26 |
 | [真生活](https://open.spotify.com/track/0htxEpxbaMo6lgrBCxrMH2) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [真生活](https://open.spotify.com/album/2xIJ7xtbCH4s6hRnFVJmiS) | 4:04 | 2022-06-16 | 2022-06-21 |
 | [眼差し](https://open.spotify.com/track/4X1PWrG6ES3ON8IXaa9uBX) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [眼差し](https://open.spotify.com/album/75snR5tnlN4hOk1Fi4NVOc) | 4:01 | 2023-10-24 | 2023-10-26 |
-| [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 | 2024-05-30 |  |
+| [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 | 2024-05-30 |  |
 | [知らないままで](https://open.spotify.com/track/0kEXWokTVYKFxRnNH1xvlg) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [知らないままで](https://open.spotify.com/album/5A0437E0mWQ7RJFYovBBvC) | 2:14 | 2022-06-16 | 2022-11-23 |
 | [知りたい](https://open.spotify.com/track/0ZzlTt1awceD0HCG2ntBi3) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [知りたい](https://open.spotify.com/album/2A9DObdoMkFhBu9OVof8ec) | 3:07 | 2023-11-28 | 2023-11-30 |
 | [砂嵐](https://open.spotify.com/track/3ixlsKtDOXRKPnAr52s2b9) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [砂嵐](https://open.spotify.com/album/1QkoBNKwXejKLtlOFUDVV1) | 3:38 | 2023-04-11 | 2023-04-26 |
@@ -1446,7 +1447,7 @@
 | [食虫植物](https://open.spotify.com/track/7Lju8n8ye0pu1gS3YHu0ny) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0) | [食虫植物](https://open.spotify.com/album/1ztYjEcNyEOmaqfABKpz2F) | 3:02 | 2022-06-28 | 2022-07-28 |
 | [飴細工を撃ち抜きたい](https://open.spotify.com/track/5gNlEIgu94NUJVh074N3oC) | [miolly](https://open.spotify.com/artist/5smKtVDKbCiaUWASPunQAa) | [飴細工を撃ち抜きたい](https://open.spotify.com/album/7fy3aziexdhVsBJUDdPWVm) | 3:17 | 2024-05-07 | 2024-06-01 |
 | [飽和](https://open.spotify.com/track/1UPtzvnvQALqV9feDrqVSs) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [飽和 / シネマ](https://open.spotify.com/album/7pKZEeAagjqV4rTZSoFymD) | 3:05 | 2022-09-29 | 2023-04-04 |
-| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-09 |  |
+| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-09 |  |
 | [鬼灯](https://open.spotify.com/track/3uOW9tuzRMA3iNmElOqt2j) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [鬼灯](https://open.spotify.com/album/2nPOKD50fgBljXh5ar7jzb) | 3:09 | 2024-01-18 | 2024-02-07 |
 | [魔崇華麗奴](https://open.spotify.com/track/46G5u4FtuJbfyvkM7fOiAE) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [魔崇華麗奴](https://open.spotify.com/album/2y0BPmfeO2tju6aY35jF7W) | 3:05 | 2023-04-13 | 2023-05-24 |
 | [魔法の歌](https://open.spotify.com/track/1ahSmZww75M4DOKibyaYYp) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 3:51 | 2022-06-09 | 2022-07-29 |

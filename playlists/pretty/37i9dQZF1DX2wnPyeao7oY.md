@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: LASTELLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,346 likes - 77 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,367 likes - 77 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 30 | [Unjust God](https://open.spotify.com/track/74DQX5fBz8yOypEbENRAIG) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt) | [Unjust God](https://open.spotify.com/album/7n6xW2xhJqMf5oi4yscWn2) | 4:31 |
 | 31 | [Cries of Domination](https://open.spotify.com/track/48pcLjb7fjc5v0kCEVs7GT) | [DON’T TRY](https://open.spotify.com/artist/0Tm5nFdsHOR6LFBDK7l5x9) | [Cries of Domination](https://open.spotify.com/album/6qxy0PZufi1mo7cFHzR4zn) | 3:04 |
 | 32 | [Contraband](https://open.spotify.com/track/6HXUFds0VgH7RqU3WP41gK) | [Vacuous](https://open.spotify.com/artist/6Aakz04B1cWFdcMNFch4QS) | [Contraband](https://open.spotify.com/album/6FOtJeuCbI5lddNLcWJinZ) | 3:13 |
-| 33 | [Schizophrenia](https://open.spotify.com/track/36L6IugxDsba2T7Lg7NMG9) | [No Shelter.](https://open.spotify.com/artist/3NuCnlbiVtGUYsWFZnjSKU) | [Schizophrenia](https://open.spotify.com/album/41UJIn5a77YP0ZPJhXSoKe) | 2:20 |
+| 33 | [Schizophrenia](https://open.spotify.com/track/36L6IugxDsba2T7Lg7NMG9) | [No Shelter](https://open.spotify.com/artist/6ciogrptZroo8YbiFjeNtd) | [Schizophrenia](https://open.spotify.com/album/41UJIn5a77YP0ZPJhXSoKe) | 2:20 |
 | 34 | [Dreamers](https://open.spotify.com/track/4oWEx37CIWFR77DOWNBRIs) | [Paradise Slaves](https://open.spotify.com/artist/1EuNDbf2DWqsa9cSgHT1Mm) | [Dreamers](https://open.spotify.com/album/1qHPriX7LHRbmHGipxiejc) | 3:40 |
 | 35 | [BITE THE BULLET](https://open.spotify.com/track/6b6ediN3fkEK7hknbGHvYB) | [MAIASAURA](https://open.spotify.com/artist/62mm8csnxeh1rBGa9fBrRX) | [BITE THE BULLET](https://open.spotify.com/album/2ejtbskNXljRRhQKKFnnsX) | 2:45 |
 | 36 | [DEAD2ME](https://open.spotify.com/track/2qdvOOVk8hcaWANWS52QO8) | [INDEATH](https://open.spotify.com/artist/0RQ9D4OzdWzSbznNC9DUy6) | [DEAD2ME](https://open.spotify.com/album/52DmfjMDD9pUyne2VX5QCW) | 2:46 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 76 | [STAIN](https://open.spotify.com/track/6xcoa669YknFFOICTWrca1) | [Wither//Bloom](https://open.spotify.com/artist/2Zx7gOdSeToesLI2cDQnfd) | [STAIN](https://open.spotify.com/album/5SDokcHTkrn34sa3ljA2As) | 3:18 |
 | 77 | [Dying Wisdom](https://open.spotify.com/track/1HcrY7PKXdn7xGAAtByqff) | [Between The Lakes](https://open.spotify.com/artist/7uLa4LuYx19XT2ssR0zzEp) | [Dying Wisdom](https://open.spotify.com/album/1XPcgHjPblSz9ED1tLKANC) | 4:03 |
 
-Snapshot ID: `aEuiZQAAAACL/oFp8q+91vfiEdHSsQ5B`
+Snapshot ID: `aEuiZQAAAAAs2mpucxMMLhPygl1E+cyH`

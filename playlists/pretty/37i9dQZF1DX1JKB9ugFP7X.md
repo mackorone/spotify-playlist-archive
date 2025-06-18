@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,557 likes - 104 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,560 likes - 104 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

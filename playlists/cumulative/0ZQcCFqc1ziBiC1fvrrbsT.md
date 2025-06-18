@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0ZQcCFqc1ziBiC1fvrrbsT.md) - cumulative - [plain](/playlists/plain/0ZQcCFqc1ziBiC1fvrrbsT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ZQcCFqc1ziBiC1fvrrbsT)
 
-### [BrooklynVegan Weekly Playlist](https://open.spotify.com/playlist/0ZQcCFqc1ziBiC1fvrrbsT)
+### [BrooklynVegan's Favorite Songs of the Week](https://open.spotify.com/playlist/0ZQcCFqc1ziBiC1fvrrbsT)
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 

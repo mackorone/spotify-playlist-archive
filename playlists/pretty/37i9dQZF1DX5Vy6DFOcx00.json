@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 4164543,
+  "num_followers": 4164691,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEyyzgAAAAA/mDnCZpDqzHrMMpiu6Mbg",
+  "snapshot_id": "aFHyHAAAAACYewF31EyuJBp8tiu1gTfS",
   "tracks": [
     {
       "added_at": "2025-04-29 03:22:32",
@@ -57,20 +57,40 @@
       "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
     },
     {
-      "added_at": "2025-06-09 04:07:33",
+      "added_at": "2025-02-26 18:11:23",
       "album": {
-        "name": "Fame is a Gun",
-        "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 183237,
-      "name": "Fame is a Gun",
-      "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-06-17 22:54:20",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 219650,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
     },
     {
       "added_at": "2025-05-27 15:47:05",
@@ -105,20 +125,36 @@
       "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
     },
     {
-      "added_at": "2025-06-13 23:22:54",
+      "added_at": "2025-04-28 03:16:54",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7BZkRaAID4BE5UYine6H5W"
+        "name": "Coastal Grooves",
+        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
       },
       "artists": [
         {
-          "name": "Misdemeanor",
-          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 194793,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1nZmAL8g00JnkTyKDkdwSy"
+      "duration_ms": 292373,
+      "name": "Champagne Coast",
+      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
+    },
+    {
+      "added_at": "2025-06-09 04:07:33",
+      "album": {
+        "name": "Fame is a Gun",
+        "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
     },
     {
       "added_at": "2025-06-09 04:07:33",
@@ -139,6 +175,38 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-06-17 22:54:20",
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 178918,
+      "name": "Apple Cider",
+      "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB"
+    },
+    {
+      "added_at": "2025-06-13 23:22:54",
+      "album": {
+        "name": "Bunna Summa",
+        "url": "https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "duration_ms": 147492,
+      "name": "Bunna Summa",
+      "url": "https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV"
     },
     {
       "added_at": "2025-05-27 15:47:05",
@@ -221,52 +289,52 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
+      "added_at": "2025-06-17 22:54:20",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 404213,
+      "name": "Lover, You Should've Come Over",
+      "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
+    },
+    {
+      "added_at": "2025-05-27 15:47:05",
+      "album": {
+        "name": "How I'd Kill",
+        "url": "https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Malfoy",
+          "url": "https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH"
+        }
+      ],
+      "duration_ms": 143506,
+      "name": "How I'd Kill",
+      "url": "https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn"
+    },
+    {
       "added_at": "2025-06-13 23:22:54",
       "album": {
-        "name": "Bunna Summa",
-        "url": "https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7BZkRaAID4BE5UYine6H5W"
       },
       "artists": [
         {
-          "name": "BunnaB",
-          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+          "name": "Misdemeanor",
+          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
         }
       ],
-      "duration_ms": 147492,
-      "name": "Bunna Summa",
-      "url": "https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV"
-    },
-    {
-      "added_at": "2025-04-28 03:16:54",
-      "album": {
-        "name": "Coastal Grooves",
-        "url": "https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Champagne Coast",
-      "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
-    },
-    {
-      "added_at": "2025-05-30 04:00:37",
-      "album": {
-        "name": "clich\u00e9",
-        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 176242,
-      "name": "clich\u00e9",
-      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
+      "duration_ms": 194793,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1nZmAL8g00JnkTyKDkdwSy"
     },
     {
       "added_at": "2025-06-09 04:07:33",
@@ -285,24 +353,20 @@
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
-      "added_at": "2025-05-27 03:36:33",
+      "added_at": "2025-06-17 22:54:20",
       "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2025-05-30 04:00:37",
@@ -319,22 +383,6 @@
       "duration_ms": 159800,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/0AB5YzmICCzimyMfLWfrUA"
-    },
-    {
-      "added_at": "2025-05-27 15:47:05",
-      "album": {
-        "name": "How I'd Kill",
-        "url": "https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Malfoy",
-          "url": "https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH"
-        }
-      ],
-      "duration_ms": 143506,
-      "name": "How I'd Kill",
-      "url": "https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn"
     },
     {
       "added_at": "2025-05-27 16:15:09",
@@ -497,22 +545,6 @@
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
     },
     {
-      "added_at": "2025-02-26 18:11:23",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
-    },
-    {
       "added_at": "2025-05-31 13:56:59",
       "album": {
         "name": "Take A Sexy Picture Of Me",
@@ -597,6 +629,26 @@
       "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
     },
     {
+      "added_at": "2025-06-17 22:54:20",
+      "album": {
+        "name": "Shark (feat. Rio Da Yung Og)",
+        "url": "https://open.spotify.com/album/5AeSZptvGXqI5ZTsjgXtkq"
+      },
+      "artists": [
+        {
+          "name": "Jorjiana",
+          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
+        },
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 138943,
+      "name": "Shark (feat. Rio Da Yung Og)",
+      "url": "https://open.spotify.com/track/3KO7ESpzP1ktVJ6p0u5113"
+    },
+    {
       "added_at": "2025-05-07 16:11:06",
       "album": {
         "name": "Gnarly",
@@ -627,22 +679,6 @@
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
-    },
-    {
-      "added_at": "2025-05-02 00:24:42",
-      "album": {
-        "name": "WASSUP",
-        "url": "https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 162263,
-      "name": "WASSUP",
-      "url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn"
     },
     {
       "added_at": "2025-03-20 17:30:24",
@@ -691,26 +727,6 @@
       "duration_ms": 278293,
       "name": "I Think I Like When It Rains",
       "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v"
-    },
-    {
-      "added_at": "2025-04-15 19:10:29",
-      "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 162995,
-      "name": "Bluest Flame",
-      "url": "https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7"
     },
     {
       "added_at": "2025-03-25 04:03:35",
@@ -883,22 +899,6 @@
       "duration_ms": 190586,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
-    },
-    {
-      "added_at": "2025-02-27 15:29:26",
-      "album": {
-        "name": "Ms. Whitman",
-        "url": "https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw"
-      },
-      "artists": [
-        {
-          "name": "Bhad Bhabie",
-          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
-        }
-      ],
-      "duration_ms": 126036,
-      "name": "Ms. Whitman",
-      "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
     },
     {
       "added_at": "2025-04-10 04:22:57",

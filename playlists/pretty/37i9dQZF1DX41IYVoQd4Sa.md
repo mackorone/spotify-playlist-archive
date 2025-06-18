@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסתר רדא
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,064 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,067 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 27 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
 | 28 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
 | 29 | [Black Eye](https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Black Eye](https://open.spotify.com/album/295njq3mu85uparrz5upr0) | 2:25 |
-| 30 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
-| 31 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
+| 30 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
+| 31 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
 | 32 | [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 |
 | 33 | [DUMB \(AATM\) \- Live](https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [DUMB \(AATM\) \[Live\]](https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM) | 2:29 |
 | 34 | [הדלת הפתוחה](https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [הדלת הפתוחה](https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y) | 2:41 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 42 | [ויהי אור](https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [Zulat Choir](https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7) | [ויהי אור](https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7) | 5:26 |
 | 43 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 | 44 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
-| 45 | [Jealous](https://open.spotify.com/track/4XCwMJsnP7Xs2x6LXnrU7I) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Bullies At Recess](https://open.spotify.com/album/0NjUal9wf8btipY48XmpsJ) | 2:50 |
-| 46 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 |
+| 45 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 |
+| 46 | [Jealous](https://open.spotify.com/track/4XCwMJsnP7Xs2x6LXnrU7I) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Bullies At Recess](https://open.spotify.com/album/0NjUal9wf8btipY48XmpsJ) | 2:50 |
 | 47 | [אייפון \- גרסה עברית](https://open.spotify.com/track/5RCZpcNIes8bLNfsHw7q3y) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [אייפון \(גרסה עברית\)](https://open.spotify.com/album/42po7QHiTT56Vp0e2fMKKU) | 4:19 |
 | 48 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
 | 49 | [משהו לתת](https://open.spotify.com/track/4AhPbFtFCfAQfWYmGHOGFi) | [Anat Malamud](https://open.spotify.com/artist/34VgaC3eefsp2SoNFU4cZQ) | [יתגלה האור](https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G) | 3:17 |

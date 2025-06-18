@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 
 > Enjoy the SEVENTEEN Seoul concert LIVE SET including the voices of him on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,481 likes - 36 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,471 likes - 36 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 | 35 | [Never Ending VERY NICE](https://open.spotify.com/track/38jtIalQJ3XDl8O52Irq9v) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN TOUR 'FOLLOW' live experience set audio liners](https://open.spotify.com/album/2daHWzpbwPdNEcGeoyBX0F) | 1:06 |
 | 36 | [Closing Ment](https://open.spotify.com/track/6w6Vn1qtflEGT94BHxf4Gt) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN TOUR 'FOLLOW' live experience set audio liners](https://open.spotify.com/album/2daHWzpbwPdNEcGeoyBX0F) | 2:05 |
 
-Snapshot ID: `ZMsmQAAAAADU60IUZYJVaeZ53eDZG2Nb`
+Snapshot ID: `ZMsmQAAAAAB6X5AHp1OLEu6wGJpKwp+Z`

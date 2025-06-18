@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 82287,
+  "num_followers": 82308,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABH8WYcwu4tmtrzDVoC+v7N",
+  "snapshot_id": "aE9egAAAAABcxmBRz0iApfOqQBUIc46D",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 318520,
-      "name": "Cueste Lo Que Cueste",
-      "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 338013,
       "name": "Juana Pe\u00f1a",
       "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 318520,
+      "name": "Cueste Lo Que Cueste",
+      "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
     },
     {
       "added_at": null,

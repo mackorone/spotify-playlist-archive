@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: 박지은\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-262 songs - 18 hr 24 min
+263 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Fascination](https://open.spotify.com/track/3Cce15ZRmDB6p41GHiNEP4) | [Moon haewon](https://open.spotify.com/artist/51qFLjDgO3UGzJgTyjqhhW) | [Fascination](https://open.spotify.com/album/5bg9moPdC5rl4PEPykc2HU) | 3:25 | 2025-05-30 |  |
 | [Ferrari](https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Ferrari](https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE) | 3:16 | 2023-02-24 | 2024-11-07 |
 | [Finale \(feat\. Kihun Park\)](https://open.spotify.com/track/0Ak7SzhUqRFQDFzO6JlM21) | [Lee ye in](https://open.spotify.com/artist/0Srx88PZKu7nBtKNp1Bv0X), [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Finale](https://open.spotify.com/album/6MdAxE4RRlHKNGzCN2fNLb) | 2:15 | 2022-05-03 | 2022-05-19 |
-| [Fine waltz](https://open.spotify.com/track/1tMb4mpIGMZV1uzvyiyWmT) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8) | [Fine waltz](https://open.spotify.com/album/4mVDoFaBRlGVTjw3V8fa99) | 3:14 | 2024-09-27 |  |
+| [Fine waltz](https://open.spotify.com/track/1tMb4mpIGMZV1uzvyiyWmT) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8) | [Fine waltz](https://open.spotify.com/album/4mVDoFaBRlGVTjw3V8fa99) | 3:14 | 2024-09-27 | 2025-06-18 |
 | [Fly Me to the Moon](https://open.spotify.com/track/3QdsLBxfpAF6Nu7HBiC0GC) | [Serena Ahn JAZZSTRA](https://open.spotify.com/artist/3qMlNc8pwmvn91eWfzXXKG) | [JAZZSTRA Live in Seoul](https://open.spotify.com/album/6z1JQGfmRc9rRqswuqR5jw) | 4:29 | 2024-09-04 | 2025-02-19 |
 | [FOGGY PLATFORM](https://open.spotify.com/track/1v4jgYpz0sdjbVvOP6fZCW) | [STUDIO360 GROUP](https://open.spotify.com/artist/6SYYPeNmfh2jtwVED2LLgO) | [MUSIC FOR WAITING ROOMS Vol.1](https://open.spotify.com/album/4M3JlJA3T13e6fWk3Yz7SB) | 4:36 | 2022-11-11 | 2023-02-08 |
 | [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2022-11-11 | 2024-10-10 |
@@ -186,6 +186,7 @@
 | [Saturday Rain](https://open.spotify.com/track/0fa7YZZdlqXtgUXoFP4z7P) | [Evenrain](https://open.spotify.com/artist/0rsCdUANsCVdMIsE2JcF6k) | [Saturday Rain](https://open.spotify.com/album/5N01UsVMq2ZV51fWnaybzw) | 5:57 | 2022-05-03 | 2022-05-19 |
 | [Sebaet\-noli](https://open.spotify.com/track/3RA5FtWW7iYcxbhpA3fjq7) | [XIIDO](https://open.spotify.com/artist/0Rehu23IN36yNREIHyLRMy) | [leap](https://open.spotify.com/album/1zbvwDTqquGyfJwztj7EWx) | 3:36 | 2023-03-31 | 2023-12-13 |
 | [Second Date](https://open.spotify.com/track/1Ar2JFer87W0658x32Bwvu) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Romantic Slow Jazz Piano](https://open.spotify.com/album/4ns5qsQplj2MR9Dv2dsAmN) | 2:31 | 2024-08-29 | 2025-05-08 |
+| [SEE ME HERE](https://open.spotify.com/track/5nYYaJ2mQ6Z749VawIjLXM) | [Hakyung](https://open.spotify.com/artist/6iSUJTtPGOz42wAUl1PxKO) | [BREATHING IN](https://open.spotify.com/album/56xFsFGOFWYOKTDwcDW3KG) | 5:13 | 2025-06-17 |  |
 | [Seoul](https://open.spotify.com/track/0Dp0Mciad7UREjCQ5qMss2) | [Song Jong Bin](https://open.spotify.com/artist/5gI6HMyq1LTLexdeEj8K3w) | [Story Around Us](https://open.spotify.com/album/6cO9OFuDs842hXSwTkD61R) | 6:52 | 2022-05-03 | 2023-02-08 |
 | [Shining](https://open.spotify.com/track/3Sg4sRL1ng6zcDnidYlYR0) | [Sarang You](https://open.spotify.com/artist/5TJNvnHYtvyrHdHZ7pwOXl), [Daewon Lee](https://open.spotify.com/artist/4UeorDtRRqdtpAcfhFFv3e), [Jumi Lee](https://open.spotify.com/artist/2n9DanObvlDaaN7wF86dgz) | [Shining](https://open.spotify.com/album/2Bt7cKZLbBQig4co3MvSsF) | 3:41 | 2023-03-31 | 2024-11-07 |
 | [Silent Night \(feat\. Eric Legnini\)](https://open.spotify.com/track/62behM9myudBxLIMSS6CR7) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Silent Night \(feat\. Eric Legnini\)](https://open.spotify.com/album/5r7Oqf8S9Yd1TCRTGwtGNu) | 4:40 | 2025-04-03 |  |

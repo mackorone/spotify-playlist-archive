@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Michael Jordan
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Williams
 
 812 songs - 1 day 17 hr 43 min
 

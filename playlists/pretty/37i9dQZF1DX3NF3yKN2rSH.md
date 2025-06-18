@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,371 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,370 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 87 | [Let It Rain](https://open.spotify.com/track/7DOt5PuuG1cTEEjcDZyc0R) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk) | [Bishop Paul Morton \- Let It Rain](https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq) | 8:29 |
 | 88 | [Calvary](https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy), [Jason Nicholson\-Porter](https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 5:56 |
 | 89 | [I Surrender All](https://open.spotify.com/track/266BT78ZQsmaTzeB5CwhKa) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 6:41 |
-| 90 | [The Anthem](https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 6:58 |
-| 91 | [Hosanna \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:07 |
-| 92 | [You're Bigger](https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY) | 7:26 |
-| 93 | [Jesus Is the Answer](https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classics Vol\. 1](https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE) | 5:03 |
+| 90 | [Jesus Is the Answer](https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classics Vol\. 1](https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE) | 5:03 |
+| 91 | [The Anthem](https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 6:58 |
+| 92 | [Hosanna \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:07 |
+| 93 | [You're Bigger](https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY) | 7:26 |
 | 94 | [The Blood Is Still The Blood](https://open.spotify.com/track/65Jdm8GrXA8JuNYSgw3YQb) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Jubilee](https://open.spotify.com/album/1GVoAvmKWwKJUPCvPh3oC5) | 10:03 |
 | 95 | [Endow Me](https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw) | [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Fantasia](https://open.spotify.com/artist/34v40muZVGZG8g0t05ioRf) | [Always Coko](https://open.spotify.com/album/51lawLjXQsEkVIjv61zTHe) | 6:56 |
 | 96 | [O the Blood](https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3) | [New Jersey Mass Choir](https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH) | [Hold Up The Light](https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78) | 4:46 |

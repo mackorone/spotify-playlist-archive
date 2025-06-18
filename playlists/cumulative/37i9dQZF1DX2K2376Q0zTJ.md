@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: ASOBOiSM
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 藤原さくら
 
-1,340 songs - 3 day 6 hr 51 min
+1,341 songs - 3 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Almost 20](https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:22 | 2024-03-05 | 2025-01-18 |
 | [Anatanokunie](https://open.spotify.com/track/5HYVT4sbOQtHPuQVthGiwe) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [jyuunoashiato](https://open.spotify.com/album/614Wo1zbhfduM5nHg7fATp) | 2:45 | 2023-01-03 | 2023-02-02 |
 | [Angel](https://open.spotify.com/track/4iShk7X3Q8vVIIiFENs9Yz) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 3:11 | 2022-08-02 | 2022-09-07 |
+| [Angel](https://open.spotify.com/track/191F1vd7Gk40CiiS4QIccM) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Angel](https://open.spotify.com/album/2rfDAkxdDFt2HzwoS3RTqq) | 3:29 | 2025-06-17 |  |
 | [anointment](https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [anointment](https://open.spotify.com/album/2ErOik3Sm5yDZCFkDWZ3co) | 3:49 | 2025-03-11 |  |
 | [Anthem](https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES DELUXE](https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ) | 2:50 | 2024-03-05 | 2024-04-03 |
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/7gCK924WHhp6UjPy1rx42a) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [ANTI ANGER CONTROL](https://open.spotify.com/album/5QW0ez7DWsFBWqVE6jFD7n) | 1:45 | 2023-04-04 | 2023-05-03 |
@@ -446,7 +447,7 @@
 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 | 2022-01-04 | 2023-01-04 |
 | [Lazy Bandits](https://open.spotify.com/track/3oUjzyNZJh64i3nu3YjS9V) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [PANPAN YEEYEE](https://open.spotify.com/artist/5xIZlZMfqO1ooXVB6RdVky), [HNC](https://open.spotify.com/artist/7zFy1woXZKoY5RAY89JN1J) | [Lazy Bandits](https://open.spotify.com/album/0KukhShEp1dpb338gUxv7c) | 2:17 | 2022-07-05 | 2022-08-03 |
 | [Le Le bonheur](https://open.spotify.com/track/03EkAOW70dbyAV13VopYVB) | [Wada Ayaka](https://open.spotify.com/artist/1VITmQ9slw2sdo9L28BPB6) | [Le Le bonheur](https://open.spotify.com/album/05gpDbYSKKovReOSeN4T6A) | 5:20 | 2023-07-04 | 2023-08-02 |
-| [leeway](https://open.spotify.com/track/4KOaVXtQ905oQbzPvflnum) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [leeway](https://open.spotify.com/album/37YjSR5m2VC05W5JET65un) | 3:52 | 2025-04-01 |  |
+| [leeway](https://open.spotify.com/track/4KOaVXtQ905oQbzPvflnum) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [leeway](https://open.spotify.com/album/37YjSR5m2VC05W5JET65un) | 3:52 | 2025-04-01 | 2025-06-18 |
 | [LEFT RIGHT](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:28 | 2023-07-04 | 2023-09-06 |
 | [lemonade](https://open.spotify.com/track/0EyViwXzoKDRKUtLczjJwL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:06 | 2024-02-06 | 2024-03-06 |
 | [License of Love](https://open.spotify.com/track/3RScFyaFkewyy0RwufJeU2) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [counterpoint](https://open.spotify.com/album/4DRBDjlH4f4B1rA9OCM9ZV) | 3:06 | 2022-01-04 | 2022-02-02 |

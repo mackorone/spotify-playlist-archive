@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66939,
+  "num_followers": 66936,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAAmGkFGhDny6SvNxBpQuVKB",
+  "snapshot_id": "aE9egAAAAADExM85qAi9/Tu60X6kuaCf",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vigor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Vigor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Milagre Sou Eu",
         "url": "https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 246013,
       "name": "O Milagre Sou Eu",
       "url": "https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vigor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Vigor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Tanque de Betesda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "O Tanque de Betesda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 266826,
       "name": "Quanto Amor (feat. Eyshila)",
       "url": "https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Tanque de Betesda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "O Tanque de Betesda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Deus dos Vales, Deus dos Montes",
-      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grande \u00e9 o Nosso Deus",
         "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 319166,
       "name": "Grande \u00e9 o Nosso Deus",
       "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Deus dos Vales, Deus dos Montes",
+      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 262664,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 383490,
       "name": "Simplesmente Te Adorar",
       "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 262664,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
       "duration_ms": 321317,
       "name": "Deus se Lembra",
       "url": "https://open.spotify.com/track/7qZKCnKz71JiDf51s4McIz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/7x9ixMtTHLf7BZk6uuwISO"
-        }
-      ],
-      "duration_ms": 294183,
-      "name": "Transformada",
-      "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
     },
     {
       "added_at": null,
@@ -907,6 +883,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/7x9ixMtTHLf7BZk6uuwISO"
+        }
+      ],
+      "duration_ms": 294183,
+      "name": "Transformada",
+      "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sonhos N\u00e3o T\u00eam Fim",
         "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
       },
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 348252,
+      "name": "Te Amo Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/2jRwkKXt0cSk6AtpKcjm4q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 281471,
       "name": "Mulher Vitoriosa",
       "url": "https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 348252,
-      "name": "Te Amo Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/2jRwkKXt0cSk6AtpKcjm4q"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,22 @@
       "duration_ms": 326550,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu N\u00e3o Me Rendo a Minha Dor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5m0ssj0Vlx2Nw0oX1Xu9JZ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Eu N\u00e3o Me Rendo a Minha Dor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1CLdTTa42Y2PZMuYuwbMVS"
     },
     {
       "added_at": null,
@@ -1083,26 +1099,6 @@
       "duration_ms": 330521,
       "name": "O Nome Santo de Jesus / Jesus (Ao Vivo)",
       "url": "https://open.spotify.com/track/2mqBuUEOPI9dq3jkhPJbvk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu \u00c9s Bom (Em Todo o Tempo)",
-        "url": "https://open.spotify.com/album/4hzusKWfCutuWPYLS118Lt"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 352965,
-      "name": "Tu \u00c9s Bom (Em Todo o Tempo)",
-      "url": "https://open.spotify.com/track/6Aj8jLNU5ZY699OxF21e6S"
     }
   ],
   "unique_name": "This Is Eyshila",

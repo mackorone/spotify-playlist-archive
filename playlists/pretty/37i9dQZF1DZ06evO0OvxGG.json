@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7729,
+  "num_followers": 7733,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAACEz7TEK1TwXhyf3Wy+jaKO",
+  "snapshot_id": "aE9egAAAAAC2XZUAzbaFzf9KROeoJ10U",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MERC\u00daRIO EM C\u00c2NCER",
+        "url": "https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 178455,
+      "name": "MERC\u00daRIO EM C\u00c2NCER",
+      "url": "https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slipmami On The Radar Freestyle Pt. 2",
         "url": "https://open.spotify.com/album/6xZSYwLGujgmf7kHIUzNhM"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 160645,
       "name": "Slipmami On The Radar Freestyle Pt. 2",
       "url": "https://open.spotify.com/track/5BZhhKdfLRCeZMD2rrGgb5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cria de Caxias",
-        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 127866,
-      "name": "cria de caxias",
-      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
     },
     {
       "added_at": null,
@@ -615,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cria de Caxias",
+        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 127866,
+      "name": "cria de caxias",
+      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trap The Fato Deluxe",
         "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 209245,
       "name": "\u00d3PIO",
       "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MERC\u00daRIO EM C\u00c2NCER",
-        "url": "https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 178455,
-      "name": "MERC\u00daRIO EM C\u00c2NCER",
-      "url": "https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt"
     },
     {
       "added_at": null,

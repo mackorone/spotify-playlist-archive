@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: spill tab
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,466 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,607 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 99 | [80 Summers](https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [80 Summers](https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB) | 3:20 |
 | 100 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 |
 
-Snapshot ID: `aCa4SAAAAACn8oIwUvZyHGdReKFyF3hK`
+Snapshot ID: `aCa4SAAAAAD5HjnQYX2GhMrH1uJ+zq9O`

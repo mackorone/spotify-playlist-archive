@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 257971,
+  "num_followers": 258016,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAB2SVVujcze38U94Tk2CrMq",
+  "snapshot_id": "aE9egAAAAADNY3FGyB73QPbaKKeX8vyz",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Bad Bad Bad (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIFE'S A TRIP",
         "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
       },
@@ -99,26 +119,6 @@
       "duration_ms": 237983,
       "name": "Forever Ever (feat. Young Thug & Reese LAFLARE)",
       "url": "https://open.spotify.com/track/4bnq2OQUwACkp2vCEbY52g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 149040,
-      "name": "Bad Bad Bad (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
     },
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
         "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
     },
     {
       "added_at": null,
@@ -400,17 +400,17 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "T-Shyne",
-          "url": "https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 226400,
-      "name": "That Go! (feat. T-Shyne)",
-      "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ"
+      "duration_ms": 215693,
+      "name": "Solid (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
     },
     {
       "added_at": null,
@@ -500,17 +500,17 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "T-Shyne",
+          "url": "https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb"
         }
       ],
-      "duration_ms": 215693,
-      "name": "Solid (feat. Drake)",
-      "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+      "duration_ms": 226400,
+      "name": "That Go! (feat. T-Shyne)",
+      "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ"
     },
     {
       "added_at": null,
@@ -1091,22 +1091,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die Lit",
-        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+        "name": "Lightyears (with Young Thug)",
+        "url": "https://open.spotify.com/album/5WAhisFRMfSACOZUyxuWsB"
       },
       "artists": [
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 217960,
-      "name": "Choppa Won't Miss (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/5O9zs6G6RcB6yP1OKwnwiM"
+      "duration_ms": 192130,
+      "name": "Lightyears (with Young Thug)",
+      "url": "https://open.spotify.com/track/6vVzKCUfA6LzEU9wH0xNUR"
     }
   ],
   "unique_name": "This Is Young Thug",

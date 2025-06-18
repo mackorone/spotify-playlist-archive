@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 347050,
+  "num_followers": 347048,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Psalm 42 (Loudest Praise)",
-        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 355820,
-      "name": "Psalm 42 (Loudest Praise)",
-      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Goodbye Yesterday",
         "url": "https://open.spotify.com/album/3wrSWEbC9DSO09KnV9bDoI"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 196878,
       "name": "Goodbye Yesterday",
       "url": "https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Psalm 42 (Loudest Praise)",
+        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 355820,
+      "name": "Psalm 42 (Loudest Praise)",
+      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Weight of Your Glory",
-        "url": "https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82"
-      },
-      "artists": [
-        {
-          "name": "Dustin Scarbrough",
-          "url": "https://open.spotify.com/artist/4rAMnxns1g0lXFrC1ZvpD9"
-        }
-      ],
-      "duration_ms": 248105,
-      "name": "Weight of Your Glory",
-      "url": "https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Providence",
         "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 378379,
       "name": "Providence",
       "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Weight of Your Glory",
+        "url": "https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82"
+      },
+      "artists": [
+        {
+          "name": "Dustin Scarbrough",
+          "url": "https://open.spotify.com/artist/4rAMnxns1g0lXFrC1ZvpD9"
+        }
+      ],
+      "duration_ms": 248105,
+      "name": "Weight of Your Glory",
+      "url": "https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Dawn Til Dusk",
-        "url": "https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N"
-      },
-      "artists": [
-        {
-          "name": "Jonty Lees",
-          "url": "https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr"
-        }
-      ],
-      "duration_ms": 212234,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
         "name": "Glasshouse",
         "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 225680,
       "name": "Like A Kid",
       "url": "https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Dawn Til Dusk",
+        "url": "https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N"
+      },
+      "artists": [
+        {
+          "name": "Jonty Lees",
+          "url": "https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "I Surrender All",
-        "url": "https://open.spotify.com/album/6mUo2Ci6XJMvCmtcbyDJ2r"
+        "name": "Trust In God (Acoustic)",
+        "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
       },
       "artists": [
         {
-          "name": "Jimmy Clifton",
-          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
         }
       ],
-      "duration_ms": 132561,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/3DaufJs6cRVQknTEcCRSdm"
+      "duration_ms": 307247,
+      "name": "Trust In God - Acoustic",
+      "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1543,18 +1543,34 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Trust In God (Acoustic)",
-        "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
+        "name": "Mo Wa Dupe (Thank You)",
+        "url": "https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb"
       },
       "artists": [
         {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
         }
       ],
-      "duration_ms": 307247,
-      "name": "Trust In God - Acoustic",
-      "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
+      "duration_ms": 214158,
+      "name": "Mo Wa Dupe (Thank You)",
+      "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "I Surrender All",
+        "url": "https://open.spotify.com/album/6mUo2Ci6XJMvCmtcbyDJ2r"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "duration_ms": 132561,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/3DaufJs6cRVQknTEcCRSdm"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1571,22 +1587,6 @@
       "duration_ms": 214046,
       "name": "Who Is Greatest?",
       "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Mo Wa Dupe (Thank You)",
-        "url": "https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 214158,
-      "name": "Mo Wa Dupe (Thank You)",
-      "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Life Again",
-        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
+        "name": "Jesus Cries",
+        "url": "https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4"
       },
       "artists": [
         {
-          "name": "Brad & Rebekah",
-          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 264428,
-      "name": "Life Again",
-      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
+      "duration_ms": 206530,
+      "name": "Jesus Cries - Unplugged Version",
+      "url": "https://open.spotify.com/track/1Y8mtlqG8bI4GzI0CpbLhA"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1683,18 +1683,34 @@
     {
       "added_at": "2025-04-05 02:41:04",
       "album": {
-        "name": "Jesus Cries",
-        "url": "https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4"
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
         }
       ],
-      "duration_ms": 206530,
-      "name": "Jesus Cries - Unplugged Version",
-      "url": "https://open.spotify.com/track/1Y8mtlqG8bI4GzI0CpbLhA"
+      "duration_ms": 264428,
+      "name": "Life Again",
+      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
+    },
+    {
+      "added_at": "2025-04-05 02:41:04",
+      "album": {
+        "name": "Graves Into Gardens",
+        "url": "https://open.spotify.com/album/1K5cVcwIdfduyciXSQJtUG"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        }
+      ],
+      "duration_ms": 220478,
+      "name": "Graves Into Gardens",
+      "url": "https://open.spotify.com/track/1WfKBDfjgrSjQLYzEb50Je"
     },
     {
       "added_at": "2025-04-05 02:41:04",
@@ -1731,22 +1747,6 @@
       "duration_ms": 196515,
       "name": "Closer to Heaven",
       "url": "https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U"
-    },
-    {
-      "added_at": "2025-04-05 02:41:04",
-      "album": {
-        "name": "Graves Into Gardens",
-        "url": "https://open.spotify.com/album/1K5cVcwIdfduyciXSQJtUG"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        }
-      ],
-      "duration_ms": 220478,
-      "name": "Graves Into Gardens",
-      "url": "https://open.spotify.com/track/1WfKBDfjgrSjQLYzEb50Je"
     },
     {
       "added_at": "2025-04-05 02:41:04",

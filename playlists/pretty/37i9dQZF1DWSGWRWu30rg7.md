@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Merayakan 10 tahun Fresh Finds, temukan talenta segar dalam negeri\. Cover: RAPOT
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,262 likes - 98 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,256 likes - 98 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 6 | [Here, I Said 'Thank You'](https://open.spotify.com/track/5Cgy50FxnAM37H2PPrVfSi) | [Cosmoplaza](https://open.spotify.com/artist/4dMVkCAtoW19LfuCvgQWpC) | [Here, I Said 'Thank You'](https://open.spotify.com/album/0hQtQdnbzwAbgCWEKWxRRq) | 2:16 |
 | 7 | [Senyummu Sayangku](https://open.spotify.com/track/7FV9dsqcA47Vec6nFIMCXq) | [Pulung Agustanto](https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ) | [POP Jawa I](https://open.spotify.com/album/2wcFyejrfhYHvQoahNXo8s) | 4:17 |
 | 8 | [Ayal](https://open.spotify.com/track/68oTPmgxtfoqnu98bEZ1g4) | [Bingar.](https://open.spotify.com/artist/6N1jl3kkcnNJFhSxOX2viS) | [Ayal](https://open.spotify.com/album/7KhG4ElshsgQD0l3fkpbsU) | 3:45 |
-| 9 | [Kembali](https://open.spotify.com/track/0kpC2wuXUrEAWjkm9oGiiA) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Ner](https://open.spotify.com/artist/7Go9XGQVIVHnY3yMM1NaVU), [Chop Guapo](https://open.spotify.com/artist/6hYTmwttUskrweIy8w26lt) | [Kembali](https://open.spotify.com/album/2U12gyI36SOUOsCOQScp5k) | 3:33 |
+| 9 | [Kembali](https://open.spotify.com/track/0kpC2wuXUrEAWjkm9oGiiA) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Ner](https://open.spotify.com/artist/5x3MDjIN1tyYunR1YRooBc), [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT) | [Kembali](https://open.spotify.com/album/2U12gyI36SOUOsCOQScp5k) | 3:33 |
 | 10 | [Misuh\-Misuh](https://open.spotify.com/track/76lKOjC103RwZDetNw2nh8) | [Glenn Waas](https://open.spotify.com/artist/1U8tHFeoxpft1hMwgN43jg) | [Misuh\-Misuh](https://open.spotify.com/album/2oMh9Hxlkhz5PvfdVWx3OM) | 5:24 |
 | 11 | [Seharusnya](https://open.spotify.com/track/4hajddpgK65QKaTZPQVHkp) | [Jingga](https://open.spotify.com/artist/1jJDrFYD8rdZwbKknfwdLJ) | [Seharusnya](https://open.spotify.com/album/1zeutkEwbDVaJEmAZ3E9KP) | 4:30 |
 | 12 | [realm](https://open.spotify.com/track/3UmoImYphs29HwAXo37mWq) | [Josua Natanael](https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp) | [realm](https://open.spotify.com/album/2I94OXjPYd6FKBBaGUuv2N) | 2:00 |

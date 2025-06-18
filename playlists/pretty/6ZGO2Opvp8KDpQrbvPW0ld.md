@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,714 likes - 350 songs - 12 hr 15 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,706 likes - 350 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 30 | [Cinnamon](https://open.spotify.com/track/3qeHcKNynPHSv5UK9ryNgP) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Cinnamon](https://open.spotify.com/album/5M9sMlVwOMKnHrR6nEzyqw) | 2:20 |
 | 31 | [Paper Boats](https://open.spotify.com/track/7oGVFLGrCnI3JBc1tICwf8) | [Horace Maurice](https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [Paper Boats](https://open.spotify.com/album/4gJCthviexC3iH54WgrQQM) | 2:19 |
 | 32 | [A matcha, please](https://open.spotify.com/track/7zGGsIBhVzZwqmdOUqOWUv) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [A matcha, please](https://open.spotify.com/album/47qBDllsFVnXN7HM3iuMzc) | 2:48 |
-| 33 | [Grow A Garden](https://open.spotify.com/track/6OyFLUAF8V0L38e1I2LWju) | [Decisions](https://open.spotify.com/artist/3juecQH8XvNfubU1vEnNrE), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG) | [Grow a Garden](https://open.spotify.com/album/5RxmYpwx35YVb3W7JwOXZA) | 4:00 |
+| 33 | [Grow A Garden](https://open.spotify.com/track/6OyFLUAF8V0L38e1I2LWju) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Decisions](https://open.spotify.com/artist/3juecQH8XvNfubU1vEnNrE) | [Grow a Garden](https://open.spotify.com/album/5RxmYpwx35YVb3W7JwOXZA) | 4:00 |
 | 34 | [Clouds on the Highway](https://open.spotify.com/track/7KT8t1onfsWStyHeEQwoMW) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Clouds on the Highway](https://open.spotify.com/album/1S1t4nWicvQMjJCTwRF0DB) | 3:12 |
 | 35 | [Golden Touch](https://open.spotify.com/track/4q9JRQcCNXSchGlhPhg4iR) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lanee.](https://open.spotify.com/artist/3FnoMqCUpJN3uyA5M1PMqS) | [Golden Touch](https://open.spotify.com/album/3Pn0zIA9qY4Ld4lIFwFmen) | 1:50 |
 | 36 | [Ilha Solar](https://open.spotify.com/track/3yaGsR7DIEoAR12UTsWUFH) | [Alto](https://open.spotify.com/artist/1qxsFKTu2u0qvv0fqNRv3r), [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Ilha Solar](https://open.spotify.com/album/0k5iKC8Jli6AIPprz9CCbV) | 2:05 |

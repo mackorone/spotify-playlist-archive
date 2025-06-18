@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Lidia Buble
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,243 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,259 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 2 | [De la cer la pământ](https://open.spotify.com/track/3H6Tg6xtH17pra1yLKTTAz) | [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [De la cer la pământ](https://open.spotify.com/album/6lwycmufhXCRznVmYSyTsK) | 2:59 |
 | 3 | [Am tot](https://open.spotify.com/track/47N87gdxueBffp9whfcoI6) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Am tot](https://open.spotify.com/album/46YPrxOeT32Izh41tIlcAN) | 2:57 |
 | 4 | [Scris în stele](https://open.spotify.com/track/56CKQUh86vfUceC4yiodIJ) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [Scris în stele](https://open.spotify.com/album/2pvWo09OCqmqySpWSwb4vG) | 2:21 |
-| 5 | [Așa Ceva](https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/4PpqdMqFYs85Xc2ldMMh6Q) | [Așa Ceva](https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7) | 3:24 |
+| 5 | [Așa Ceva](https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Așa Ceva](https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7) | 3:24 |
 | 6 | [Dulce amară](https://open.spotify.com/track/2P7DU6RdvZccU34YGkzjIm) | [Arsenium](https://open.spotify.com/artist/6JZgZ5UWuEx5ZMkSWLoY1B), [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Dulce amară](https://open.spotify.com/album/0TE05f2iw0YKH0dI39c4df) | 2:47 |
-| 7 | [M\-am Trezit Obosit](https://open.spotify.com/track/6NcQa23gFiAhqEakrOK9mg) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Smiley](https://open.spotify.com/artist/4PpqdMqFYs85Xc2ldMMh6Q) | [M\-am Trezit Obosit](https://open.spotify.com/album/2fMLvh6N2S8nmsFMPrFCNJ) | 2:51 |
+| 7 | [M\-am Trezit Obosit](https://open.spotify.com/track/6NcQa23gFiAhqEakrOK9mg) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [M\-am Trezit Obosit](https://open.spotify.com/album/2fMLvh6N2S8nmsFMPrFCNJ) | 2:51 |
 | 8 | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs) | 3:10 |
 | 9 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
 | 10 | [Numai una](https://open.spotify.com/track/0OEKRaMZgxBfwdHZdFW8il) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Numai una](https://open.spotify.com/album/1rA1kXCUIW5DSQyrYSKv3b) | 2:52 |

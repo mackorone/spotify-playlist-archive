@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 189733,
       "name": "CHECKLIST",
       "url": "https://open.spotify.com/track/4Qs0LHbUWwhHFQ7iflUfht"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 208946,
       "name": "Heart Flutter",
       "url": "https://open.spotify.com/track/2PekSC1KXS5vdF7jvdYDg5"
@@ -4507,6 +4507,24 @@
     },
     {
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/6W1n8WC17frASCYcSBpYPX"
+      },
+      "artists": [
+        {
+          "name": "Namgyuwon",
+          "url": "https://open.spotify.com/artist/4CYkBgLLAd298fLdnHjWcb"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/5fO9P4c910wBwXdhEyTjaG"
+    },
+    {
+      "album": {
         "name": "UTK",
         "url": "https://open.spotify.com/album/0yNAYvt4NAZxeIiEyVpOhd"
       },
@@ -4892,7 +4910,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 194664,
       "name": "YOU TOO?",
       "url": "https://open.spotify.com/track/2X7IfV1hmIqvIc8koxIaph"
@@ -5055,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "\uc778\ud615\uc758 \uc9d1 (Original Television Soundtrack), Pt. 17",
+        "url": "https://open.spotify.com/album/6GiYofFzmXQzQKaDdYcNcy"
+      },
+      "artists": [
+        {
+          "name": "406 Project",
+          "url": "https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177242,
+      "name": "\ub0b4 \ub9d8 \uc54c\uae4c",
+      "url": "https://open.spotify.com/track/5AIBtAiMAY0h7uDLOnxzRk"
+    },
+    {
+      "album": {
         "name": "\ub108\uc5d0\uac8c \uac00\ub294 \uae38",
         "url": "https://open.spotify.com/album/6ZqxRKESlYRFzys4Ae1wLf"
       },
@@ -5146,6 +5182,28 @@
       "duration_ms": 251356,
       "name": "\uc0ac\uc2e4\uc740 The Truth Is",
       "url": "https://open.spotify.com/track/2EGmEj8EkRgNqvSRJHJYqJ"
+    },
+    {
+      "album": {
+        "name": "HAAN X SHIRT : Energy",
+        "url": "https://open.spotify.com/album/5jHoX07f3takq1mUAfl3bT"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171964,
+      "name": "\uc5f4\uc5b4\ub3c4 \ub418\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/4OeS83JBtLaSb0YpmDXE2I"
     },
     {
       "album": {

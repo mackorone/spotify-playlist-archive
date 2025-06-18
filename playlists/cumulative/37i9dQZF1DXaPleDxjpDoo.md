@@ -4,7 +4,7 @@
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-232 songs - 12 hr 7 min
+234 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Skygazer](https://open.spotify.com/track/58O4KUkOrPi7fOBmGRaOpv) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Skygazer](https://open.spotify.com/album/5ULiUWVen8QAD2LLHcpOQ0) | 2:49 | 2024-05-01 | 2025-02-01 |
 | [Slow Morning](https://open.spotify.com/track/25jZO62Z6Z9fg39kzFU2h1) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Slow Morning](https://open.spotify.com/album/01aduQj2WuqOWsj3Ksy6wt) | 3:10 | 2024-12-20 |  |
 | [Slow Movements](https://open.spotify.com/track/4JLOW2vdfnrbVOxsLEyhBD) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Slow Movements](https://open.spotify.com/album/5t8ByF8UIhPkcwQLnorDGN) | 3:02 | 2025-02-26 |  |
+| [Soft and Secluded](https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Soft and Secluded](https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ) | 3:00 | 2025-06-17 |  |
 | [Soft as Moss](https://open.spotify.com/track/0ViXxKjtEGTSi8GRQtqtja) | [Circular Motions](https://open.spotify.com/artist/36Vt0UA3d6xl8GpzdlINva) | [Soft as Moss](https://open.spotify.com/album/47O1fMy5RCw3R0v8hm96yx) | 3:03 | 2025-04-11 |  |
 | [Something Else](https://open.spotify.com/track/75yGAhdliSTsNKUlvr4bii) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [Something Else](https://open.spotify.com/album/002aCkJH30gVZN1sKyYUwl) | 2:52 | 2025-02-26 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2022-09-15 | 2024-05-02 |
@@ -221,6 +222,7 @@
 | [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2024-12-04 |  |
 | [Tibetan Babax](https://open.spotify.com/track/5vPZ1FYmRWZUwk9fj5x450) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Tibetan Babax](https://open.spotify.com/album/4ouMZo7TSttQGj7erVpgl0) | 2:18 | 2024-05-01 |  |
 | [Tower Overgrown](https://open.spotify.com/track/3ZOjis0g4NgRmg3joGsJJx) | [Rombos Aran](https://open.spotify.com/artist/5urp8Oh8Gq6I7H53TgRjpi) | [Tower Overgrown](https://open.spotify.com/album/5HnIxMwgY9esvqNCQbEuIQ) | 3:02 | 2025-05-16 |  |
+| [Transformative Voices](https://open.spotify.com/track/0TY3OhlG7hbQkgg8TqbYTf) | [Transformator](https://open.spotify.com/artist/5OkZS3lQjVTPo57alUdmHI) | [Transformative Voices](https://open.spotify.com/album/1y7JZphayNW6phGUg9OHJe) | 2:56 | 2025-06-17 |  |
 | [Tree of Life](https://open.spotify.com/track/2xpBMthwvjT0aUm9TMCRme) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Tree of Life](https://open.spotify.com/album/6W6SGvQ1PDTvfyewogIjMB) | 2:15 | 2025-04-01 |  |
 | [Treetop Dreamers](https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Treetop Dreamers](https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw) | 2:59 | 2024-02-16 | 2025-01-16 |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-09-15 | 2024-05-02 |

@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Lil Yachty
 
-126 songs - 5 hr 48 min
+127 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 | 2024-10-25 |  |
 | [Heavenly pt3](https://open.spotify.com/track/7wLWyvTZbhkoDHj7xX4d6C) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Heavenly pt3](https://open.spotify.com/album/2ZVSpquFwdo2Hz4et5ULEn) | 2:53 | 2025-05-23 | 2025-06-07 |
 | [Hood Love Story](https://open.spotify.com/track/6YqllTrCzrCJQghRu4vdtS) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Hood Love Story](https://open.spotify.com/album/3jPCWncrNMtE7eJRHEkGNP) | 2:36 | 2024-11-22 | 2024-11-30 |
-| [IMU](https://open.spotify.com/track/7JuKh9giCATc0CD2GMegYW) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 3:15 | 2024-10-25 |  |
+| [IMU](https://open.spotify.com/track/7JuKh9giCATc0CD2GMegYW) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 3:15 | 2024-10-25 | 2025-06-18 |
 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 | 2024-10-25 |  |
 | [JHOLIDAY](https://open.spotify.com/track/0shLGCfcai77W6i896MY1P) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [2 SLIZZY 2 SEXY](https://open.spotify.com/album/6LTZvDHENUVTxeQrLLS28g) | 2:15 | 2024-10-25 |  |
 | [JHOLIDAY 2](https://open.spotify.com/track/3i9esirqy4JsNbHqK19EHp) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [2 SLIZZY 2 SEXY \(DELUXE\)](https://open.spotify.com/album/0xt9g8Z9ycCUDlKcSMZsBy) | 2:03 | 2024-12-10 |  |
@@ -130,6 +130,7 @@
 | [wait a while' \(tenten\)](https://open.spotify.com/track/4lgTWetZXDVqF2vQm2RCTC) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [wait a while' \(tenten\)](https://open.spotify.com/album/5nYCpm7idneKM9CZ7Prdf6) | 2:02 | 2025-03-19 |  |
 | [Want Somebody](https://open.spotify.com/track/2eHFKaj0BzRqxYH5IgljkR) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Mr\. Maneuver](https://open.spotify.com/album/5YqPZvNG59SukCPWxvqAGR) | 2:57 | 2024-12-20 |  |
 | [What is you on](https://open.spotify.com/track/3kj1dmC5aUiSL55jzKZRRo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:39 | 2025-02-21 |  |
+| [What These Niggas Want](https://open.spotify.com/track/2UNIVvqZBbSljTy2EhvSnF) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Earth to Breezy](https://open.spotify.com/album/7CO70qKtgBLZ5Etx25rnuZ) | 2:13 | 2025-06-17 |  |
 | [Worldwide Sniper](https://open.spotify.com/track/2l5eJalX3GYBBddwe9dFb9) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Worldwide Sniper](https://open.spotify.com/album/2kaGYEPSczvb7UzFlKYMOT) | 2:03 | 2024-10-25 | 2025-05-22 |
 | [WYA](https://open.spotify.com/track/71uWu2a9wJ2D1COG3bX4aW) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [WYA](https://open.spotify.com/album/3rTs62aOlpldtu6cMdDoc1) | 2:04 | 2024-10-25 |  |
 | [yes mami!](https://open.spotify.com/track/6JRGXkiSyIi2UBOGTwfift) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 2:52 | 2025-02-14 | 2025-02-23 |

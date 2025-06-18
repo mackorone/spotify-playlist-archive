@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ?si=gAJMshlMRHKnhYExfVnMdw">Njerae </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,385 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,417 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

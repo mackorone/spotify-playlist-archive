@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HLync1pXOg.md) - [plain]
 
 > In our Villain Era\. We Are Lady Parts Season 2 is streaming now on Peacock in the US and Channel 4 in the UK!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,116 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,118 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

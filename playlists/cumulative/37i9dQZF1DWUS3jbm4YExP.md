@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-811 songs - 2 day 9 hr 50 min
+812 songs - 2 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,6 +578,7 @@
 | [Pieteron](https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6) | [Fulu Miziki](https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu) | [Pieteron](https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG) | 3:22 | 2024-06-21 | 2025-04-15 |
 | [Pineapple](https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:16 | 2021-10-06 |  |
 | [Pingpxng](https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 2:39 | 2024-01-23 |  |
+| [Pirouette](https://open.spotify.com/track/3VB7mQfM9kxTUQJC4ffxgx) | [Cindy](https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI) | [Pirouette](https://open.spotify.com/album/1NugzTHesSWhZAG34HIEzF) | 3:16 | 2025-06-13 |  |
 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 | 2021-10-06 | 2022-04-21 |
 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 | 2022-04-08 |  |
 | [Polaroid Banana](https://open.spotify.com/track/7px3JpqWmEluCvhkhnfBLL) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G) | [Liquid Saloon](https://open.spotify.com/album/1wTshZlAEBoiMjxb4tWN5W) | 5:55 | 2021-10-06 | 2022-07-26 |
@@ -698,7 +699,7 @@
 | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/track/2telsvYtSRHVlj8kWqrB6A) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/album/5QemzvXDdZw3BAEyjcgPWD) | 4:39 | 2021-10-06 | 2022-05-26 |
 | [Terra Preta](https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy) | [Tapioca](https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr) | [Samba em Kigali](https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf) | 3:46 | 2023-05-24 | 2025-04-16 |
 | [Teu sorriso \- 56 Mix](https://open.spotify.com/track/4bOlBoY9gcHSIPew1Sbi3F) | [Paraíso](https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0) | [Teu sorriso](https://open.spotify.com/album/2PjHbUJ1FaYtEPO5JsmRDs) | 5:33 | 2022-03-29 | 2022-04-21 |
-| [Thank You](https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 5:51 | 2022-04-26 |  |
+| [Thank You](https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 5:51 | 2022-04-26 | 2025-06-18 |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-21 | 2023-07-06 |
 | [The Botanist](https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [The Botanist](https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk) | 4:30 | 2023-11-09 | 2024-06-05 |
 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 | 2021-10-06 | 2023-08-08 |

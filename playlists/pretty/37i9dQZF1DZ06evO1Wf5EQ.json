@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAA2gTWcxQfP4Rf0IxPFHKEJ",
+  "snapshot_id": "aE9egAAAAAAaKvPQdQaFuptJIubOQOGb",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 127957,
-      "name": "Jasper",
-      "url": "https://open.spotify.com/track/6FTCKVV6o0vexlBSHDAL5h"
+      "duration_ms": 138229,
+      "name": "The Chamber",
+      "url": "https://open.spotify.com/track/1k023XAchcANfjdgRAc85m"
     },
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 166320,
-      "name": "Thirty Horses",
-      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 138229,
-      "name": "The Chamber",
-      "url": "https://open.spotify.com/track/1k023XAchcANfjdgRAc85m"
+      "duration_ms": 127957,
+      "name": "Jasper",
+      "url": "https://open.spotify.com/track/6FTCKVV6o0vexlBSHDAL5h"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 135493,
-      "name": "Welcome To LaBelle",
-      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
+      "duration_ms": 166320,
+      "name": "Thirty Horses",
+      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
+      "duration_ms": 135493,
+      "name": "Welcome To LaBelle",
+      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
       "duration_ms": 78496,
       "name": "The Scholar's Mate",
       "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Department Q (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 88853,
+      "name": "Texts",
+      "url": "https://open.spotify.com/track/3n2w6GTgizpqdNQDsOmXYL"
     },
     {
       "added_at": null,

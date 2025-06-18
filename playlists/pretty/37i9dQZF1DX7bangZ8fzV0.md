@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,383 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,412 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 10 | [Hokaai Stoppie Lorrie \(2025\)](https://open.spotify.com/track/7JAeat2cwKKMDKlkPvwqX4) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Hokaai Stoppie Lorrie \(2025\)](https://open.spotify.com/album/2HnDPFI8Zur8DQ1KetiuHK) | 3:20 |
 | 11 | [Yskas Skuif](https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Yskas Skuif](https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ) | 3:24 |
 | 12 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 |
-| 13 | [308](https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [308](https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY) | 2:47 |
+| 13 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
 | 14 | [Klomp Keer Lekker](https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Klomp Keer Lekker](https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP) | 3:05 |
 | 15 | [Voete Jeuk](https://open.spotify.com/track/3L2TgLpX3Y9iW1Ltoen06W) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Voete Jeuk](https://open.spotify.com/album/4iOuNfztQDsLDilSnQPhT7) | 3:40 |
-| 16 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
+| 16 | [308](https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [308](https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY) | 2:47 |
 | 17 | [Pokkenvoes](https://open.spotify.com/track/78lVjTSJ5bY9zXbfOjTJHa) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Pokkenvoes](https://open.spotify.com/album/5S9QFkaG5NihdCwHqVCPw6) | 3:11 |
 | 18 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
 | 19 | [Helemal](https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Helemal](https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR) | 3:47 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 23 | [Madelein](https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Omdat Jy Mag](https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt) | 3:33 |
 | 24 | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs) | 3:09 |
 | 25 | [Buffel Van Buffelsfontein](https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Buffel Van Buffelsfontein](https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z) | 2:56 |
-| 26 | [Haar Naam Is Afrikaans](https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Haar Naam Is Afrikaans](https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN) | 3:24 |
-| 27 | [Bosveldterapie](https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Die Lot](https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F) | 3:14 |
+| 26 | [Bosveldterapie](https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Die Lot](https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F) | 3:14 |
+| 27 | [Haar Naam Is Afrikaans](https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Haar Naam Is Afrikaans](https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN) | 3:24 |
 | 28 | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 |
 | 29 | [Hart Breek](https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hart Breek](https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO) | 3:20 |
 | 30 | [Dik Stukke](https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Dik Stukke](https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy) | 3:07 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 55 | [Koue Kole](https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Koue Kole](https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE) | 3:50 |
 | 56 | [Net Dans](https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Net Dans](https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf) | 3:48 |
 | 57 | [In Die Bos](https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [In Die Bos](https://open.spotify.com/album/0E3pQVCPtTf1RBES34o2Ba) | 2:58 |
-| 58 | [Skud](https://open.spotify.com/track/20ktnkPodVMerBp5mhFYbM) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Skud](https://open.spotify.com/album/014jSb56bQP2gTWdPSuKM6) | 2:59 |
-| 59 | [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 |
+| 58 | [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 |
+| 59 | [Skud](https://open.spotify.com/track/20ktnkPodVMerBp5mhFYbM) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Skud](https://open.spotify.com/album/014jSb56bQP2gTWdPSuKM6) | 2:59 |
 | 60 | [Foute](https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Foute](https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l) | 3:22 |
 | 61 | [Net Myne](https://open.spotify.com/track/6PdtHsCB9kopQGKLcHjpwM) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Net Myne](https://open.spotify.com/album/5NALlrlbVlzuMcjLK29zR0) | 3:02 |
 | 62 | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw) | 3:02 |

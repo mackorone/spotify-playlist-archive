@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-492 songs - 1 day 5 hr 19 min
+493 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 | 2024-01-12 | 2024-04-19 |
 | [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 | 2024-11-29 |  |
 | [Los Peces](https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [First Recordings](https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U) | 3:38 | 2024-10-04 |  |
-| [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 |  |
+| [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 | 2025-06-18 |
 | [Lost River](https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Beatrice Martin](https://open.spotify.com/artist/67z5ieiEhnEwsCKPKpgvgo) | [Perséides](https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA) | 2:55 | 2022-07-08 | 2024-04-19 |
 | [Lost With You](https://open.spotify.com/track/1zqxYmUku2McZZe7tXibAt) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6ciXEklHW7OVLHlZXZXobj) | 2:55 | 2024-04-12 | 2024-04-19 |
 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2021-10-03 | 2024-08-13 |
@@ -431,6 +431,7 @@
 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:13 | 2023-10-20 | 2025-03-13 |
 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 | 2023-04-28 | 2023-10-24 |
 | [Talk To Me](https://open.spotify.com/track/02Az1ZPrTOeWjvc20ZveFT) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Talk To Me](https://open.spotify.com/album/6AzAxH3QhnCCYaA0k1LXDK) | 2:53 | 2023-09-15 | 2023-10-24 |
+| [Tant étrange](https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm) | [Feathership](https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Tant étrange](https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2) | 3:29 | 2025-06-13 |  |
 | [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 | 2021-01-03\* |  |
 | [TDAH](https://open.spotify.com/track/2N1lLLY43Gm7cQyQtnp3TY) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [TDAH](https://open.spotify.com/album/5wXYc1N7JnPmdi5owg4UIh) | 2:47 | 2021-01-03\* | 2021-09-17 |
 | [Te manquer de peu](https://open.spotify.com/track/3TSyCR8MlllxxhvzjIAwSc) | [Mylène Vallée](https://open.spotify.com/artist/2Vegs6QP9dOhRbDW6wKl9T) | [Te manquer de peu](https://open.spotify.com/album/0dTRiq3mA3IFRR8iyANWZc) | 3:32 | 2021-01-21 | 2021-05-08 |

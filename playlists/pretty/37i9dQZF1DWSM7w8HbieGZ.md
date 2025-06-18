@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM7w8HbieGZ.md) - [plain]
 
 > Enjoy music of Gian from Doraemon　テレビアニメ「ドラえもん」からジャイアンが歌う歌を中心にセレクトした公式プレイリスト！©︎藤子プロ・小学館・テレビ朝日・シンエイ・ADK
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,967 likes - 29 songs - 58 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,974 likes - 29 songs - 58 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

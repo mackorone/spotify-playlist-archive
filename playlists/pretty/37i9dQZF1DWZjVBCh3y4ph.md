@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Kalipsxau
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,256 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,295 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 35 | [Sé ou li yé](https://open.spotify.com/track/5ichOjIHZCEcxqu5qXISOZ) | [Antonny Drew](https://open.spotify.com/artist/49wsVk3gEe6pOjZtbf0oFm), [Vanessa Desire](https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa) | [Sé ou li yé](https://open.spotify.com/album/4IljTvx5yN0KmWPuEyZUsE) | 4:13 |
 | 36 | [Le bon choix](https://open.spotify.com/track/6gN1jPRmuyD5vNUrgYuENc) | [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP), [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Le bon choix](https://open.spotify.com/album/07Mdo7WKJiovZZOcU8Lyhu) | 3:03 |
 | 37 | [HORS DE PRIX](https://open.spotify.com/track/7BR3hRozwXq5T3YKRi9CUO) | [Warren](https://open.spotify.com/artist/6pJdJSI3HsmjyL1wccGqxI), [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [HORS DE PRIX](https://open.spotify.com/album/7hUX3kp7X8mpeoCHzcGg3I) | 4:21 |
-| 38 | [PARLE MOI](https://open.spotify.com/track/3tDhgyLUfn2uAHSPwp4bjT) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Yannis Wade](https://open.spotify.com/artist/0Ln0OYFNVkUtDX6JSdIwqV), [Taïja](https://open.spotify.com/artist/02TDFb6mwvG01rfbyd2Usw) | [HONNEUR AUX FEMMES, VOL\. 1](https://open.spotify.com/album/32g5FCwkefo1CpdctlTAIf) | 3:16 |
+| 38 | [PARLE MOI](https://open.spotify.com/track/3tDhgyLUfn2uAHSPwp4bjT) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Taïja](https://open.spotify.com/artist/02TDFb6mwvG01rfbyd2Usw) | [HONNEUR AUX FEMMES, VOL\. 1](https://open.spotify.com/album/32g5FCwkefo1CpdctlTAIf) | 3:16 |
 | 39 | [Tombé d'amour](https://open.spotify.com/track/1P1ASTKk0t5cPCM73nJnCq) | [Thierry Cham](https://open.spotify.com/artist/75E2yAVDzecPCYaNbLeNC5), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Tombé d'amour](https://open.spotify.com/album/2FSMrDlL1stKxWotg2xYbK) | 3:29 |
 | 40 | [Cho](https://open.spotify.com/track/6sGcYTh3pBs5zkL33svsCB) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Cho](https://open.spotify.com/album/0Jtw3H0L4jpNYKHwb4wT3Y) | 2:47 |
 

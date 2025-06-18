@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: CIVO
 
-225 songs - 10 hr 11 min
+226 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 | 2024-06-28 | 2024-11-26 |
 | [Bisou :\*](https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Bisou :\*](https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5) | 2:41 | 2024-06-28 | 2025-01-20 |
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-10-11 |
-| [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 |  |
+| [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 | 2025-06-18 |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 |  |
 | [Coming Home](https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Coming Home](https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s) | 2:44 | 2024-10-24 | 2025-04-13 |
 | [Daddy Issues](https://open.spotify.com/track/79MvFIuO9ehGPKzpD3ERWv) | [ANTHI](https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u) | [Daddy Issues](https://open.spotify.com/album/6p2zgYa7Su9vIJlmg0GmgB) | 2:35 | 2024-10-24 | 2024-11-12 |
@@ -173,6 +173,7 @@
 | [REGEN AUF DER FAHRBAHN](https://open.spotify.com/track/5w8WJ3Hq8cwhhU9Y58lTuQ) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [GRiNGO](https://open.spotify.com/artist/5Sjj30aHCmKcM9SdVX7PBK) | [REGEN AUF DER FAHRBAHN](https://open.spotify.com/album/0NWG5I7mEejIf0qHDq3Okv) | 4:24 | 2024-06-28 | 2024-10-02 |
 | [Rollercoaster](https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:20 | 2025-04-10 |  |
 | [Rote Ampel](https://open.spotify.com/track/3GpYpn3NaaZglyLqOMYHdJ) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf), [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5) | [Leeres Herz](https://open.spotify.com/album/5sWgyjMxgC28NFWEHtt26o) | 2:41 | 2024-12-09 | 2025-04-18 |
+| [Ruf mich an](https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Ruf mich an](https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK) | 3:00 | 2025-06-17 |  |
 | [S1](https://open.spotify.com/track/5M9h1FePRQwKlOOFdt9OSF) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [S1](https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ) | 3:12 | 2024-06-28 | 2024-10-04 |
 | [SABÍA QUE NO \- Acoustic](https://open.spotify.com/track/79zF8Srs6cWvQhq7E5p1LP) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [SABÍA QUE NO \- Acoustic](https://open.spotify.com/album/71ZyKJJR0jHm0rsCB6SMsX) | 2:18 | 2025-02-03 | 2025-04-22 |
 | [Safe Space](https://open.spotify.com/track/6HDHXiKCOYJkrpaJPZuM74) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Safe Space](https://open.spotify.com/album/2P4PDLYSHvViL5tnKF4P5R) | 2:16 | 2024-06-28 | 2024-07-29 |

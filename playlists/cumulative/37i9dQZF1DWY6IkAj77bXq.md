@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-264 songs - 12 hr 59 min
+267 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-05 |  |
 | [Circuits](https://open.spotify.com/track/5BdEWN641x678b5G91K2MM) | [Nelumbo Lutea](https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr) | [Circuits](https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0) | 2:40 | 2025-01-14 |  |
 | [Clarity Moon](https://open.spotify.com/track/05jY1kWoJC3H8AuVUaL8gi) | [Liam Steed](https://open.spotify.com/artist/2mwLRUvh0iuf9swl6Rn7ki) | [Clarity Moon](https://open.spotify.com/album/5NvCov4I30QGt5kbvZpUKV) | 2:52 | 2022-11-11 |  |
-| [Cleansing Raindrops](https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calming Water](https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70) | 3:59 | 2022-07-19 |  |
+| [Cleansing Raindrops](https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calming Water](https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70) | 3:59 | 2022-07-19 | 2025-06-18 |
 | [Clear Horizon](https://open.spotify.com/track/5FbOETGBJmTS4oHQP5dRRv) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Clear Horizon](https://open.spotify.com/album/2KHlOaheSp4cgJUzPCLcyC) | 3:18 | 2025-02-18 |  |
 | [Clear\-Headed](https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:46 | 2023-03-25 |  |
 | [Close Together](https://open.spotify.com/track/4tpUdHveADtY3Zg6F7u38H) | [Claudio Manioli](https://open.spotify.com/artist/1gbOMArWIQTrXSFFD23ltq) | [Close Together](https://open.spotify.com/album/3teExejHX9gxm46crmLZam) | 3:08 | 2025-01-14 | 2025-02-10 |
@@ -84,6 +84,7 @@
 | [Drifting](https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9) | [James Nepali](https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x) | [Drifting](https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf) | 2:17 | 2022-07-05 | 2025-05-15 |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-07-05 | 2022-11-12 |
 | [Earth Emerald](https://open.spotify.com/track/3lcBjQ6LKDYTZ4AOjk7tu2) | [De Ester](https://open.spotify.com/artist/0dbcAyHyp9aAsEqAAZHjr4) | [Earth Emerald](https://open.spotify.com/album/3FhnkpDjdDzEvUBSDUE7XR) | 2:37 | 2024-07-12 |  |
+| [Earthbound Stillness](https://open.spotify.com/track/6aASNjiUlpPPj9bu9F4p5L) | [Roots Connection](https://open.spotify.com/artist/2x8Ba8WcnKZDy364S3MIcb) | [Earthbound Stillness](https://open.spotify.com/album/2MZOwji5OG2AaSlrbosM0u) | 2:48 | 2025-06-17 |  |
 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 | 2022-07-05 | 2024-12-12 |
 | [Ecos de Meditación](https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-06-09 |  |
 | [Elevation](https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Elevation](https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP) | 2:50 | 2024-06-10 |  |
@@ -94,6 +95,7 @@
 | [Eternal Moonlight](https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF) | [Rettifilo Flo](https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE) | [Eternal Moonlight](https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK) | 2:58 | 2024-04-29 |  |
 | [Evening Calm](https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Evening Calm](https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj) | 2:38 | 2022-07-19 | 2024-04-19 |
 | [Evening Calm](https://open.spotify.com/track/2tqgdeWKwX8FnDmMnFzfb2) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Evening Calm](https://open.spotify.com/album/3DDO8hJXZZHaZQdTnOjTP0) | 2:38 | 2022-07-19 | 2022-07-29 |
+| [Evening Veil](https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Evening Veil](https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w) | 2:16 | 2025-06-17 |  |
 | [Evening Waves](https://open.spotify.com/track/3qfv2OFBqpSDGBFxVjrSgB) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Evening Waves](https://open.spotify.com/album/2NqrAVFASSLXpLTuftQOBq) | 2:34 | 2025-05-14 |  |
 | [Everlasting](https://open.spotify.com/track/3s2tSpZUZntZAJU7FCgQUd) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Everlasting](https://open.spotify.com/album/3CFYJa1udVKWy01ukbh3WB) | 3:07 | 2023-10-04 | 2024-04-08 |
 | [Everlasting](https://open.spotify.com/track/4F0lm6JQ9e6g59FBqAnwOE) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Everlasting](https://open.spotify.com/album/7nrcHhFkdyUPNeiKku96jJ) | 3:07 | 2022-07-19 | 2022-07-29 |
@@ -180,9 +182,10 @@
 | [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 | 2022-07-05 | 2024-12-12 |
 | [Pegasus](https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Pegasus](https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul) | 3:31 | 2022-07-19 | 2024-11-08 |
 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 | 2023-03-31 |  |
-| [Prieks](https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Prieks](https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs) | 2:25 | 2023-02-17 |  |
+| [Prieks](https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Prieks](https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs) | 2:25 | 2023-02-17 | 2025-06-18 |
 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 | 2023-06-23 | 2024-01-31 |
 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 | 2022-09-13 |  |
+| [Prudence](https://open.spotify.com/track/11vNvIPRoBMJ70Ypz6IZet) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Prudence](https://open.spotify.com/album/5KzOJ4MEF2yLyNUWKrdIpi) | 2:42 | 2025-06-17 |  |
 | [Quiet Melodies](https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Quiet Melodies](https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc) | 2:43 | 2022-11-11 |  |
 | [Quiet Moments](https://open.spotify.com/track/5AcLksLgWKiVt6WfXciyMk) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Quiet Moments](https://open.spotify.com/album/6rBELPcFLQMlCdmJ5n7Q8t) | 2:32 | 2025-02-18 |  |
 | [Quiet Stars](https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5) | [Language of Lyrics](https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC) | [Quiet Stars](https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6) | 3:10 | 2022-11-11 | 2024-03-17 |
@@ -232,7 +235,7 @@
 | [Solace \- Meditation](https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Solace](https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U) | 5:04 | 2022-07-19 | 2025-06-10 |
 | [Solitude Symphony](https://open.spotify.com/track/2g39Z2r9doV4mEGwtBZcKl) | [Peter Wiehl](https://open.spotify.com/artist/4o24XKesoVS2rDD20Uo8pi) | [Solitude Symphony](https://open.spotify.com/album/61bPZCBK58fHvRb9qWNsKV) | 2:38 | 2024-06-10 |  |
 | [Solstice Waves](https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Solstice Waves](https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk) | 2:48 | 2024-07-19 |  |
-| [Somnolent](https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Somnolent](https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy) | 3:56 | 2022-07-19 |  |
+| [Somnolent](https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Somnolent](https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy) | 3:56 | 2022-07-19 | 2025-06-18 |
 | [Soothe](https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/74vs037IHVc421BMmB5yqo) | 2:51 | 2022-07-19 | 2024-04-19 |
 | [Soothe](https://open.spotify.com/track/5HUkAj1VUDNKtkt6uM45xR) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/4n3NUoFluygkss3dDjfEea) | 2:51 | 2022-07-19 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Sphere](https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn) | 2:59 | 2022-07-19 | 2025-03-13 |

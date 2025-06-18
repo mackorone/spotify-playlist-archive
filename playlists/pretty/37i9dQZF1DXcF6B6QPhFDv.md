@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,484,929 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,483,582 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [very little effort](https://open.spotify.com/track/1PpumpPUEhoXvXO950nIHh) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:16 |
 | 75 | [Kill You Off](https://open.spotify.com/track/3Z66u0yqHKVX8NwZuWsg3B) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [PRESSURE](https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe) | 2:13 |
 
-Snapshot ID: `aEuiYgAAAAAkv9yNNNsS4da5hrxsYC5T`
+Snapshot ID: `aEuiYgAAAAArl3qVxnderB2AGQ5shenF`

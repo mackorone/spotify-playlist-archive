@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,401 likes - 90 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,416 likes - 90 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 68 | [Waste Your Love](https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Waste Your Love](https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd) | 2:47 |
 | 69 | [What You Need](https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [What You Need](https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob) | 3:38 |
 | 70 | [Underwater](https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Underwater](https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2) | 3:01 |
-| 71 | [Good Lie](https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Good Lie](https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB) | 2:51 |
-| 72 | [Cumbia Buena](https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Cumbia Buena](https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM) | 2:29 |
-| 73 | [Talk](https://open.spotify.com/track/5RgqLIWWb1ceLM01BORkez) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO) | [Talk](https://open.spotify.com/album/1L4dKn2nbO7JCNfZbtoEmh) | 2:18 |
-| 74 | [Elektro](https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Elektro](https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq) | 2:40 |
-| 75 | [Could It Be Love](https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Could It Be Love](https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB) | 2:21 |
+| 71 | [Cumbia Buena](https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Cumbia Buena](https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM) | 2:29 |
+| 72 | [Talk](https://open.spotify.com/track/5RgqLIWWb1ceLM01BORkez) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO) | [Talk](https://open.spotify.com/album/1L4dKn2nbO7JCNfZbtoEmh) | 2:18 |
+| 73 | [Good Lie](https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Good Lie](https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB) | 2:51 |
+| 74 | [Could It Be Love](https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Could It Be Love](https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB) | 2:21 |
+| 75 | [Elektro](https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Elektro](https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq) | 2:40 |
 | 76 | [When You're Lonely](https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [When You're Lonely](https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW) | 2:39 |
 | 77 | [Never Fall Down](https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM) | [Never Fall Down](https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ) | 2:24 |
 | 78 | [Don't Fall For Me](https://open.spotify.com/track/0MYnMotI9017FjYVszNswj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A) | [Don't Fall For Me](https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ) | 2:54 |

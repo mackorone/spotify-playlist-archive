@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,690 likes - 110 songs - 5 hr 38 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,702 likes - 110 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
-| 2 | [Take Notes](https://open.spotify.com/track/4qSvRa46syIXbOwN1LCLMF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Jay B](https://open.spotify.com/artist/6gER61ovSvDU9T4y5CJQ6N) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:36 |
+| 2 | [Take Notes](https://open.spotify.com/track/4qSvRa46syIXbOwN1LCLMF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:36 |
 | 3 | [Fuse](https://open.spotify.com/track/6MT91cZN29Swok04TDB5Qh) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [COOKED](https://open.spotify.com/album/4iL48bQs06pGGKAucDbczT) | 2:59 |
 | 4 | [LIAR](https://open.spotify.com/track/7AdSqDJ0cEciEAGs3Tnnvn) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [LIAR](https://open.spotify.com/album/6Yd4B2RFsR4TTB3rgAgi3o) | 2:33 |
 | 5 | [Domino Bones \(Gets Dangerous\)](https://open.spotify.com/track/2Z0aunGOAREar3BdsgTBmS) | [Mantra of the Cosmos](https://open.spotify.com/artist/6hUgHqG6kTgK5XswUHIErd), [Zak Starkey](https://open.spotify.com/artist/3uXg4HjU0VvN1UWsc87loK), [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L), [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc), [Shaun Ryder](https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY), [Bez](https://open.spotify.com/artist/0TkzD3MxyjMlHo47cPDZqL) | [Domino Bones \(Gets Dangerous\)](https://open.spotify.com/album/6SIax5d9gZagWsbzOfB4A1) | 3:37 |

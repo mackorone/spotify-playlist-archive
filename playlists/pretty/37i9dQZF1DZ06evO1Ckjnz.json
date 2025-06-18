@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 19826,
+  "num_followers": 19830,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAADAlekHeOuModqqZYq1K3M6",
+  "snapshot_id": "aE9egAAAAACnSETahasXlt72KsPauJRW",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HARDC0RE DR3AMZ",
-        "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 155685,
-      "name": "H.O.T.",
-      "url": "https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "my way (w/ Rico Nasty & Kanii)",
         "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 177782,
       "name": "my way (w/ Rico Nasty & Kanii)",
       "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HARDC0RE DR3AMZ",
+        "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 155685,
+      "name": "H.O.T.",
+      "url": "https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB"
     },
     {
       "added_at": null,
@@ -883,38 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 181796,
-      "name": "Key Lime OG",
-      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Let It Out",
-      "url": "https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Is Better",
         "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
       },
@@ -935,22 +903,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
       "artists": [
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
         }
       ],
-      "duration_ms": 153666,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/4Onanh2sbZQKTGH8KvWzxS"
+      "duration_ms": 148000,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 181796,
+      "name": "Key Lime OG",
+      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
       "duration_ms": 164095,
       "name": "Pay Day (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4Onanh2sbZQKTGH8KvWzxS"
     },
     {
       "added_at": null,

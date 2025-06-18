@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With FM\-84, Ollie Wride, Gunship and more
+> With Ollie Wride, Gunship, Siamese Youth and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,490 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,492 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 26 | [Vampires](https://open.spotify.com/track/5lVsAfvY2ij8A2T6oYdAyt) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/0ZbnBDVUkpegVOfgPFr1wr) | 5:17 |
 | 27 | [So Far from Home](https://open.spotify.com/track/5fAvWbyvGXzcWZYBkvC5OL) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Echoes of Tomorrow](https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu) | 3:32 |
 | 28 | [Control](https://open.spotify.com/track/1Z3W02BWJUtcLsecPaUNX2) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 4:01 |
-| 29 | [Silence \(feat\. The Midnight\)](https://open.spotify.com/track/08qnMBb5LTrDu705V0QAG3) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [After Dark \(Deluxe Edition\)](https://open.spotify.com/album/5QBaCxvQxN0cdeRL5rZiq9) | 4:03 |
+| 29 | [Silence](https://open.spotify.com/track/08qnMBb5LTrDu705V0QAG3) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [After Dark \(Deluxe Edition\)](https://open.spotify.com/album/5QBaCxvQxN0cdeRL5rZiq9) | 4:03 |
 | 30 | [Tech Noir](https://open.spotify.com/track/5VKEsChbUowEF2BT0gJSGX) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Charlie Simpson](https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9) | [GUNSHIP](https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf) | 4:57 |
 | 31 | [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 |
 | 32 | [A Matter Of Time](https://open.spotify.com/track/3A67yLiCMUaA6JqanithTR) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [The Pressure Point](https://open.spotify.com/album/363u8rUpkDTKmDFJWir6VN) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Just like in the Movies](https://open.spotify.com/track/4cxARXW6OJGdb6wQTDd5Nm) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS), [Le June](https://open.spotify.com/artist/7j1lSJOJQBRw80bRit36Fs) | [Is This Love](https://open.spotify.com/album/4M178TsmmIbvOeQSFttD51) | 4:00 |
 | 50 | [Crystal Ships](https://open.spotify.com/track/0bEu6jZ6S1PmYjXyxf06z5) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 5:14 |
 
-Snapshot ID: `aFC/mQAAAABFH6ll54eQ5UbqyPgoMvGL`
+Snapshot ID: `aFITtAAAAADKB4mwkh3t8YcurP/5W3FP`

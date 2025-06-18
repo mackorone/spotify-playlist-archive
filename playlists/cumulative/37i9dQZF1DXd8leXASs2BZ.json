@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "\u3044\u3088\u3044\u3088POP YOURS\u958b\u50ac! // Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 5Leaf",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MIKADO",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 196048,
       "name": "AGEASHI (feat. Flight-A, Crazy-K, BARCO, Swag-A & ACHA)",
       "url": "https://open.spotify.com/track/6cjX3CHPAnMSSCEwhBMoWZ"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 165937,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/1sEZg7s66C5AOleLVg8E79"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 205714,
       "name": "BIRKIN",
       "url": "https://open.spotify.com/track/1EPpp8qO35YKeEzOcq1gxb"
@@ -3180,7 +3180,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 217142,
       "name": "Chandelier (feat. Hideyoshi, DALU & OSAMI)",
       "url": "https://open.spotify.com/track/4JzNVvkFyZ9WFAoZOqy4jO"
@@ -3206,6 +3206,24 @@
       "duration_ms": 237355,
       "name": "Chaser",
       "url": "https://open.spotify.com/track/4oQp8MxdvejP3PUazYjzsu"
+    },
+    {
+      "album": {
+        "name": "HOMUNCULUS",
+        "url": "https://open.spotify.com/album/6GknSfQH5L1Gg0Yt8nDpYs"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155199,
+      "name": "Check Mate",
+      "url": "https://open.spotify.com/track/6cHyAuu7lpQ2sOhsWfLQia"
     },
     {
       "album": {
@@ -3836,6 +3854,24 @@
       "duration_ms": 135711,
       "name": "day n night",
       "url": "https://open.spotify.com/track/4UTNTQTKdcUzxCO1xZjHuf"
+    },
+    {
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/24yZMJlTfVYaaGuWW3CoZP"
+      },
+      "artists": [
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146222,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/0r0KzfIKpjMbNpzSOKtpeX"
     },
     {
       "album": {
@@ -5536,7 +5572,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 136142,
       "name": "Fadeout",
       "url": "https://open.spotify.com/track/2QQKk25Hrif6LvocGSKbyh"
@@ -6652,7 +6688,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 188333,
       "name": "GASOLINA (feat. Young Coco)",
       "url": "https://open.spotify.com/track/6BS7LoFuRdIImmeh2S8708"
@@ -7338,7 +7374,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 192864,
       "name": "Hamakaza (feat. TOME)",
       "url": "https://open.spotify.com/track/3pimPAOO7uYpQxAN25kn22"
@@ -8134,6 +8170,48 @@
       "duration_ms": 191031,
       "name": "I Need",
       "url": "https://open.spotify.com/track/6lKQNarXqmhzlHQIFrpgTO"
+    },
+    {
+      "album": {
+        "name": "CONCRETE GREEN",
+        "url": "https://open.spotify.com/album/1okV6Gf5eTlHEvrZOmccyv"
+      },
+      "artists": [
+        {
+          "name": "GREEN KIDS",
+          "url": "https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE"
+        },
+        {
+          "name": "CRAZY-K",
+          "url": "https://open.spotify.com/artist/3iU3MjOPvtqLWhNjZbFUaK"
+        },
+        {
+          "name": "acha",
+          "url": "https://open.spotify.com/artist/2dGmHsaMrg4ugaPitdCLDA"
+        },
+        {
+          "name": "Flight-A",
+          "url": "https://open.spotify.com/artist/1THqfAAgE7cG20VwdMu0dh"
+        },
+        {
+          "name": "Swag-A",
+          "url": "https://open.spotify.com/artist/1rsNd66RgHfpsr8poImDDm"
+        },
+        {
+          "name": "BARCO",
+          "url": "https://open.spotify.com/artist/5zhO8Dv5JVs3P9bnFVRIgR"
+        },
+        {
+          "name": "DJ PIG",
+          "url": "https://open.spotify.com/artist/49Weu4TmqQdX9HpRrA5y8q"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247252,
+      "name": "I Told You (feat. Crazy-K, ACHA, Flight-A, Swag-A, BARCO & DJ PIG)",
+      "url": "https://open.spotify.com/track/6KFcN7dopxIMesrFVoUjjk"
     },
     {
       "album": {
@@ -8983,6 +9061,24 @@
     },
     {
       "album": {
+        "name": "KAMASHIKATA",
+        "url": "https://open.spotify.com/album/7kKqQwYg18wDzGGTOZDfys"
+      },
+      "artists": [
+        {
+          "name": "Y1ee Coyote",
+          "url": "https://open.spotify.com/artist/5VOVkqbK1WHNI58t4sVNFH"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132448,
+      "name": "KAMASHIKATA",
+      "url": "https://open.spotify.com/track/1X6KaVJHXKiAVlsfzIJgFx"
+    },
+    {
+      "album": {
         "name": "LeMu PACK",
         "url": "https://open.spotify.com/album/3DoSVV64r2f7K51hkZC3Ll"
       },
@@ -9122,7 +9218,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 118400,
       "name": "Katei",
       "url": "https://open.spotify.com/track/2PhoAyqO383kv05KlWBRcZ"
@@ -9729,6 +9825,28 @@
     },
     {
       "album": {
+        "name": "\u00danico",
+        "url": "https://open.spotify.com/album/1b97hPMCzh6BR0p7igvfQF"
+      },
+      "artists": [
+        {
+          "name": "Yatt",
+          "url": "https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken"
+        },
+        {
+          "name": "Doc Pauly",
+          "url": "https://open.spotify.com/artist/0kiYqUpirlc7GR5GfrwVtz"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160096,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/0VRw9kTlfZRVBFdlnpLqoI"
+    },
+    {
+      "album": {
         "name": "Silent Anarchy",
         "url": "https://open.spotify.com/album/3BLJpXuXO63qMXgguZZzDT"
       },
@@ -10080,7 +10198,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 202013,
       "name": "Lonely Child (feat. Carz)",
       "url": "https://open.spotify.com/track/4O3RAIPl2v9OuaDApbEsB0"
@@ -10685,6 +10803,32 @@
     },
     {
       "album": {
+        "name": "Metaphysical",
+        "url": "https://open.spotify.com/album/4xB6tpQGSt2kdZoaE6eOxz"
+      },
+      "artists": [
+        {
+          "name": "yutyforce",
+          "url": "https://open.spotify.com/artist/0iLUjpHVIGVXncczGsvAms"
+        },
+        {
+          "name": "IKE",
+          "url": "https://open.spotify.com/artist/2jABWw2VBAvwYyWSLxjUcX"
+        },
+        {
+          "name": "Ginpari",
+          "url": "https://open.spotify.com/artist/1efvMjwHl1raEwqERdbAP8"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207931,
+      "name": "Metaphysics",
+      "url": "https://open.spotify.com/track/7JRMo8FHdalUJIvcRCTThS"
+    },
+    {
+      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/7iRAR2ollVjcdRoGUitolG"
       },
@@ -11264,7 +11408,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 232888,
       "name": "NAKII MUSII",
       "url": "https://open.spotify.com/track/5zvuwo0AbFoOBfiq4be60q"
@@ -11944,7 +12088,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 153809,
       "name": "No Love (feat. M3R, ROBBIN & L.O.S.T)",
       "url": "https://open.spotify.com/track/2l5DVAF1AOYIUzhA1LtVTK"
@@ -12372,7 +12516,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 148235,
       "name": "OMOI",
       "url": "https://open.spotify.com/track/5PHi326jUlgjQO6e6DpGCg"
@@ -14261,6 +14405,28 @@
     },
     {
       "album": {
+        "name": "Risk Your (feat. Bonbero)",
+        "url": "https://open.spotify.com/album/5Vne7FdSPUYxOo2uDzWNPw"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Risk Your (feat. Bonbero)",
+      "url": "https://open.spotify.com/track/1GqMohCPnwSaNBwCWVbfCP"
+    },
+    {
+      "album": {
         "name": "RN!",
         "url": "https://open.spotify.com/album/4Bw25trehoJKQpeM8ZyQ6x"
       },
@@ -14356,6 +14522,24 @@
       "duration_ms": 118020,
       "name": "Rock Music",
       "url": "https://open.spotify.com/track/0JpobtLUaKkLVB0x51JxCM"
+    },
+    {
+      "album": {
+        "name": "All 4 U",
+        "url": "https://open.spotify.com/album/7d9CbzLfmzww663UCXYCjk"
+      },
+      "artists": [
+        {
+          "name": "808",
+          "url": "https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212658,
+      "name": "Rock you",
+      "url": "https://open.spotify.com/track/1JKhgekJUiUqgq2GhOvgpD"
     },
     {
       "album": {
@@ -15413,6 +15597,24 @@
     },
     {
       "album": {
+        "name": "sissy",
+        "url": "https://open.spotify.com/album/0nXRDkWHaBzXhKFBj4a0FS"
+      },
+      "artists": [
+        {
+          "name": "wood pure luvheart",
+          "url": "https://open.spotify.com/artist/30RL8eEQZ4jNfEkuBsElvx"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172270,
+      "name": "sissy",
+      "url": "https://open.spotify.com/track/2FFSY7fO65XXLDg8m2jTFd"
+    },
+    {
+      "album": {
         "name": "Real Trap 2 (Delux)",
         "url": "https://open.spotify.com/album/5pqqxStYqI2WwipOMtt0xe"
       },
@@ -16075,6 +16277,28 @@
     },
     {
       "album": {
+        "name": "Suicide janai",
+        "url": "https://open.spotify.com/album/29IfVly5SxkD4W22wqLrpS"
+      },
+      "artists": [
+        {
+          "name": "RihiTo",
+          "url": "https://open.spotify.com/artist/47Fkut1RbqAerpIbgkw5Je"
+        },
+        {
+          "name": "RhymeTube",
+          "url": "https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Suicide janai",
+      "url": "https://open.spotify.com/track/3x6KDXygcQd5DzayyyEKfn"
+    },
+    {
+      "album": {
         "name": "summer clouds",
         "url": "https://open.spotify.com/album/1DUFIDCjQcAxPV2dYTkHdy"
       },
@@ -16515,6 +16739,28 @@
     },
     {
       "album": {
+        "name": "TEST (feat. GOLD DIGGA)",
+        "url": "https://open.spotify.com/album/52HsA5djwj9v1qbcNKuTsm"
+      },
+      "artists": [
+        {
+          "name": "S.I.",
+          "url": "https://open.spotify.com/artist/6QecK8nUAIENxu5IpJESNh"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153136,
+      "name": "TEST (feat. GOLD DIGGA)",
+      "url": "https://open.spotify.com/track/3QTNVZEKkw7tnRoDckJNKl"
+    },
+    {
+      "album": {
         "name": "tetote",
         "url": "https://open.spotify.com/album/4OFhxMicg5pmdVaac6WFYY"
       },
@@ -16662,6 +16908,24 @@
       "duration_ms": 192000,
       "name": "The Grey Day",
       "url": "https://open.spotify.com/track/4sVY9y1XhILG2EsJZ9lOP8"
+    },
+    {
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/33vXyhcCKDrXQqA89mBlD7"
+      },
+      "artists": [
+        {
+          "name": "Godzilla East",
+          "url": "https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152573,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/1yzvhrIJOCUylHFcDsNKSO"
     },
     {
       "album": {
@@ -17475,6 +17739,24 @@
     },
     {
       "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/61ZYQxsC3l4Mf0F4v0dSaT"
+      },
+      "artists": [
+        {
+          "name": "TEPPEI",
+          "url": "https://open.spotify.com/artist/0HRRUPhBQBzWi98vqWKLjV"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194176,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/2fXRsMgtGdQYZhqWMS5SGX"
+    },
+    {
+      "album": {
         "name": "Vivi Run!",
         "url": "https://open.spotify.com/album/5Hu2CPBk9BW3Jtzc9ChXlW"
       },
@@ -17766,7 +18048,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 202001,
       "name": "WAVE8 (feat. Ole)",
       "url": "https://open.spotify.com/track/6uOYOzfuG7KyWcjrid3r4j"

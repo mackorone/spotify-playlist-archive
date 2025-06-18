@@ -2937,6 +2937,32 @@
     },
     {
       "album": {
+        "name": "Ghost Of Me",
+        "url": "https://open.spotify.com/album/03iDVQMq1434flgqRJjDdk"
+      },
+      "artists": [
+        {
+          "name": "Justin OH",
+          "url": "https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L"
+        },
+        {
+          "name": "BOTCASH",
+          "url": "https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv"
+        },
+        {
+          "name": "PRONG",
+          "url": "https://open.spotify.com/artist/0HI56opIgWf1NPgFCkmlS8"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180843,
+      "name": "Ghost Of Me",
+      "url": "https://open.spotify.com/track/6Wzrjw80pgtkKhpNMRSVEi"
+    },
+    {
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv"
       },

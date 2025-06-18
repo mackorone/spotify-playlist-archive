@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Enjoy the folk from Punjab. Cover: Gurdas Maan ",
+  "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
   "name": "Folk Punjabi",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 123000,
       "name": "Chann Kithaan",
       "url": "https://open.spotify.com/track/6QIg2fockltXGj8bxEta4y"
@@ -1101,6 +1101,32 @@
     },
     {
       "album": {
+        "name": "Jutti Kasuri - SarabMix",
+        "url": "https://open.spotify.com/album/2DdAwTgReNxh62MtFDQP9N"
+      },
+      "artists": [
+        {
+          "name": "Sarab",
+          "url": "https://open.spotify.com/artist/4O0eTdOfPsDWmWd8j4WPva"
+        },
+        {
+          "name": "Prakash Kaur",
+          "url": "https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh"
+        },
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276637,
+      "name": "Jutti Kasuri - SarabMix",
+      "url": "https://open.spotify.com/track/5j3Q3ilqdu2rLe3YgOLGZW"
+    },
+    {
+      "album": {
         "name": "Jutti Meri (Live) - Single",
         "url": "https://open.spotify.com/album/1T18aurspe5ouDMzg9Xaas"
       },
@@ -1152,10 +1178,32 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 179200,
       "name": "Kala Dooria",
       "url": "https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt"
+    },
+    {
+      "album": {
+        "name": "Virasat -E- Punjab,Vol. 1",
+        "url": "https://open.spotify.com/album/79G3oFYdXkf3sjZ4HyHAaz"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        },
+        {
+          "name": "Prakash Kaur",
+          "url": "https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Kala Dooria",
+      "url": "https://open.spotify.com/track/2U2xgNrMtfHtXks6TrY1zt"
     },
     {
       "album": {
@@ -1206,7 +1254,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 158400,
       "name": "Kala Sha Kala",
       "url": "https://open.spotify.com/track/2M0bkSIaWEQzTty9hH3qk4"
@@ -1438,6 +1486,24 @@
       "duration_ms": 155318,
       "name": "Kut Kut Bajra",
       "url": "https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE"
+    },
+    {
+      "album": {
+        "name": "The Great Big Punjabi Wedding",
+        "url": "https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1"
+      },
+      "artists": [
+        {
+          "name": "Radhika Chopra",
+          "url": "https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329273,
+      "name": "Kut Kut Bajra",
+      "url": "https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt"
     },
     {
       "album": {

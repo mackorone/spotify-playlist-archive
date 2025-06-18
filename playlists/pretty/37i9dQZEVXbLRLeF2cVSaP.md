@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,857 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,865 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 36 | [Я тебя люблю](https://open.spotify.com/track/1FAKK1hn0mSI78r3x695pn) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NO TYPE](https://open.spotify.com/album/3EiBUVP8IwrMxA1LGVcNdf) | 1:58 |
 | 37 | [Turbo \(Majestic\)](https://open.spotify.com/track/6rOHlBLsBXzJx2k9ZROzEq) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Turbo \(Majestic\)](https://open.spotify.com/album/2ylTYTAiP5GF0otrh1VdU3) | 2:55 |
 | 38 | [Hoodtrapstar](https://open.spotify.com/track/7N1AiJjucLwjTBvRajtnW0) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [From Sparta to Padre](https://open.spotify.com/album/5H12u8bLTbrdlLQ96iETPL) | 2:07 |
-| 39 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
+| 39 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 | 40 | [NAME](https://open.spotify.com/track/0GGAbLItGQQ0ebKUISsAHW) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw), [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [735](https://open.spotify.com/album/49pB2UYcKbELlIfjMPAJ2t) | 2:48 |
 | 41 | [TOKYO](https://open.spotify.com/track/7MjpBQViz7f1133ni9psvu) | [SQWOZ BAB](https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl) | [TOKYO](https://open.spotify.com/album/1NUsqq4DLad9rGUeDnItGj) | 2:40 |
 | 42 | [Стань](https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Любят суки](https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR) | [T.A\. Loc](https://open.spotify.com/artist/4vfJAXPi7TumQoEJXWdENP) | [Любят суки](https://open.spotify.com/album/0UzC3UJeN8hjKypgYEgvyN) | 4:06 |
 | 50 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
 
-Snapshot ID: `L+OK+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+TceAAAAAAAAAAAAAAAAAAAAAAAAGVu`

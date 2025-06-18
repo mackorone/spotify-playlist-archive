@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-615 songs - 1 day 11 hr 32 min
+617 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [My Time \- 2023 Remaster](https://open.spotify.com/track/4ftznvAQmZDXxamv1cQgs7) | [Telex](https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj) | [Neurovision \(Remastered\)](https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck) | 4:21 | 2024-07-15 | 2024-09-08 |
 | [My Valuable Hunting Knife](https://open.spotify.com/track/4W5xR9p6Qa5kqUuDIcdvKD) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 2:00 | 2024-09-14 | 2024-11-14 |
 | [MyLoveILove 12](https://open.spotify.com/track/5j109YHsQvawuVrm45qwDc) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [MyLoveILove](https://open.spotify.com/album/5ifjWl35H9cFxw1NcIzopE) | 1:36 | 2024-04-18 | 2024-05-16 |
+| [Mélodie du crépuscule](https://open.spotify.com/track/18eISpOzQPIXDBKPm2e5dZ) | [Jacques Dupont](https://open.spotify.com/artist/6S4VOqONTKvPJ5UMvndZJ9) | [Mélodie du crépuscule](https://open.spotify.com/album/5xVkZ1SdoJ1SlBayQrzH2A) | 1:58 | 2025-06-17 |  |
 | [Música da Lagoa](https://open.spotify.com/track/55Cp1NZP8tDRDgKF2RTEew) | [Hermeto Pascoal](https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s), [Itiberê Zwarg](https://open.spotify.com/artist/5QSnCnq2IL4W4fWHfcJbSv), [Jovino Santos Neto](https://open.spotify.com/artist/5GMCyLTNLBsGbQ5bQBeULq), [Carlos Malta](https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM), [Marcio Bahia](https://open.spotify.com/artist/17bZjpj6dplqUsNH8TItKq) | [Música da Lagoa](https://open.spotify.com/album/51Ga06OSvsIAOy4yadDQuF) | 4:17 | 2024-12-20 | 2025-01-12 |
 | [Nail in a Wooden Trunk](https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Nail in a Wooden Trunk](https://open.spotify.com/album/6458nxrJP9ulxGp6tSIUyf) | 2:29 | 2024-11-30 | 2024-12-06 |
 | [Naomi and Me](https://open.spotify.com/track/3KQmiV4dShQBaIUGbI2ZWu) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:07 | 2024-01-13 | 2024-03-10 |
@@ -420,6 +421,7 @@
 | [PANAS](https://open.spotify.com/track/0gQlbFskqEn6Oq6BbC7wMY) | [SSSLIP](https://open.spotify.com/artist/3i4ymq99xVgnNYbDxRK9I8), [RubyyXo](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [SSSLIP\-RMX01](https://open.spotify.com/album/47zbySGzKDp8itUYb9J0L2) | 4:20 | 2025-04-12 | 2025-05-09 |
 | [Partytime](https://open.spotify.com/track/0nVGhWnvTncLH6eInY90jO) | [The Jazz Butcher](https://open.spotify.com/artist/7zi9v3F5KzAuS3MkJtm5dc) | [Draining the Glass: 1982\-1986](https://open.spotify.com/album/49JVtWebi2mCRzMlzAHohJ) | 3:53 | 2025-01-11 | 2025-03-02 |
 | [Pawns](https://open.spotify.com/track/4gjt4fvbif0RIu3ifEbXbe) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 2:47 | 2024-07-26 | 2024-09-08 |
+| [Pell Mell](https://open.spotify.com/track/0IDWNMoLorAHuNlXwtfyn2) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Days of Heaven](https://open.spotify.com/album/3gEZf0bRhUaBevLRykTDZ5) | 3:22 | 2025-06-17 |  |
 | [People Get Real](https://open.spotify.com/track/2OPLyjw4pDQremg5IVfkSv) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:44 | 2024-06-02 | 2024-07-12 |
 | [People's Parties](https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:15 | 2025-02-21 | 2025-03-02 |
 | [Pesce Rosso](https://open.spotify.com/track/6QmQiw7NQG4KPaSYjvgsdJ) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Hamra / Red \(Habibi Funk Limited 002\)](https://open.spotify.com/album/3DGLQlAxBPDtsFfb1112NI) | 2:39 | 2024-07-26 | 2024-09-08 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-381 songs - 1 day 1 hr 9 min
+382 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-05-19 |  |
 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 | 2025-04-14 |
 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 | 2024-07-12 |  |
-| [Allora Amore](https://open.spotify.com/track/5LaJmV58x4FXGiz4mmdQBH) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Joe Le Groove](https://open.spotify.com/artist/3Vny01PfbbFxQ6bCtW4AFr) | [Allora Amore](https://open.spotify.com/album/3S5nQZtFOTcrJ8EUbRroE6) | 3:29 | 2025-06-06 |  |
+| [Allora Amore](https://open.spotify.com/track/5LaJmV58x4FXGiz4mmdQBH) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Joe Le Groove](https://open.spotify.com/artist/3Vny01PfbbFxQ6bCtW4AFr) | [Allora Amore](https://open.spotify.com/album/3S5nQZtFOTcrJ8EUbRroE6) | 3:29 | 2025-06-06 | 2025-06-18 |
 | [Alsace](https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Alsace](https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS) | 1:57 | 2024-07-05 |  |
 | [Always By Your Side](https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Always By Your Side](https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH) | 5:37 | 2024-06-14 | 2025-05-24 |
 | [Amantes \- Poolside Remix](https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Amantes \(Poolside Remix\)](https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm) | 3:25 | 2024-05-31 | 2024-11-06 |
@@ -333,6 +333,7 @@
 | [SURF](https://open.spotify.com/track/3Dsyx9AGZIjwvEucp1HHYm) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb) | [SURF](https://open.spotify.com/album/04cgcyb9FV8ZvLwIEhcEZW) | 3:00 | 2025-02-28 | 2025-03-08 |
 | [Swiss Sensation](https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Swiss Sensation](https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo) | 3:47 | 2024-10-04 | 2025-04-26 |
 | [Take It Back \(feat\. Davie\)](https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Take It Back \(feat\. Davie\)](https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr) | 3:36 | 2023-08-11 | 2024-01-29 |
+| [Take My Heart](https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Josef Scott](https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS) | [Take My Heart](https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS) | 2:47 | 2025-06-06 |  |
 | [Take You Higher](https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Take You Higher](https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ) | 3:15 | 2024-10-18 |  |
 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 | 2024-11-01 | 2025-02-26 |
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-27 | 2025-05-17 |

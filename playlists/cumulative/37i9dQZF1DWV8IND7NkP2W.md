@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-801 songs - 1 day 12 hr 9 min
+802 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [letdown](https://open.spotify.com/track/085xntFT3ILjAWurpEbmXR) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [4 million](https://open.spotify.com/album/5ArljGAioG93q3pt3N2vTZ) | 3:50 | 2022-01-06 | 2022-07-20 |
 | [letter \-second page\-](https://open.spotify.com/track/4Ne8nOvDRXS41vHpKhjBob) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [letter \-second page\-](https://open.spotify.com/album/4TM4cgxfI5DjBfpB4ObLAe) | 4:00 | 2021-12-23 | 2022-02-11 |
 | [Libration](https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Libration](https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm) | 3:04 | 2022-03-24 |  |
+| [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 | 2025-06-12 |  |
 | [lighthouse](https://open.spotify.com/track/75bwkrAjDrR1sI9Cij1fUZ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [lighthouse](https://open.spotify.com/album/2pBOANdncgocwoEnEd7Wpt) | 2:25 | 2023-10-26 | 2023-11-10 |
 | [Little Krumbs](https://open.spotify.com/track/19eL5iDhBdJWPaoN1CsHpS) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA) | [Little Krumbs](https://open.spotify.com/album/0XukDaihdwBpk2RazkS7OR) | 1:14 | 2022-04-07 | 2022-04-21 |
 | [Little Krumbs](https://open.spotify.com/track/6i2Ar88y3LRCsU8JAPvncA) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Little Krumbs](https://open.spotify.com/album/0cmgxanno5gmLe6MLPQSwT) | 1:14 | 2023-03-23 | 2024-03-03 |
@@ -724,7 +725,7 @@
 | [touch](https://open.spotify.com/track/1tZt5VNrrJBjld65OiZGKc) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/6c8K3yA92WDlMN6WguocxP) | 1:28 | 2023-09-28 | 2025-01-14 |
 | [touch](https://open.spotify.com/track/4N9k6Nklzns7QzslAABaTq) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/0Y8r76clygH0KolOk3ohpR) | 1:28 | 2023-09-28 | 2024-04-19 |
 | [Toy Coffee](https://open.spotify.com/track/7JpvzCoiFbTGglpNVDG5GQ) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Toy Coffee](https://open.spotify.com/album/3r1bAeGCOzZhBzeYRhYTzY) | 2:08 | 2021-12-23 | 2022-07-01 |
-| [Train Smoke](https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Train Smoke](https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG) | 2:16 | 2021-12-23 |  |
+| [Train Smoke](https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Train Smoke](https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG) | 2:16 | 2021-12-23 | 2025-06-18 |
 | [Transient](https://open.spotify.com/track/4RXAQJaBwtNoCTEDKdRFaG) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Transient](https://open.spotify.com/album/27ftctMCC0bPxHcoR6kv73) | 2:10 | 2021-12-23 | 2022-07-12 |
 | [transit](https://open.spotify.com/track/06JJDmYVtNeaLIuDZq5qjA) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [transit](https://open.spotify.com/album/1E9PyJJYR9hMNbRcz4Gdzx) | 4:41 | 2024-11-15 | 2024-11-27 |
 | [Tree Pillows](https://open.spotify.com/track/7lAvdR45jmaNvwRwQRkvGf) | [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC) | [Clouded](https://open.spotify.com/album/2sh8z0An42fdUtnztpdgrk) | 2:30 | 2022-01-06 | 2022-04-21 |

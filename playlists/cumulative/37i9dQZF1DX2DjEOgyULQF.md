@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-260 songs - 12 hr 37 min
+263 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2023-04-28 | 2024-08-24 |
 | [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-07-13 |  |
 | [Astrae In The Park](https://open.spotify.com/track/6UcVJh1WM53K8znHAdvbzU) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Astrae In The Park](https://open.spotify.com/album/3w9t9fAwgFr66ABS6a1CNy) | 3:05 | 2023-11-10 |  |
+| [Astral Awakening](https://open.spotify.com/track/6nmpv1rzu5di5iekz580Ez) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Astral Awakening](https://open.spotify.com/album/3qTdu32OsL4QwnfhJ6mP1I) | 2:46 | 2025-06-17 |  |
 | [Aurorá](https://open.spotify.com/track/25u93aSOn21m8zWmSgL3cV) | [Porthos Riqueti](https://open.spotify.com/artist/0zqr06oM4FSFSVPmOnv3jN) | [Aurorá](https://open.spotify.com/album/70iDnNvqXx8XN4cYbjclqx) | 3:01 | 2024-11-04 |  |
 | [Azure Rain](https://open.spotify.com/track/6Hl3JSfAoIGYxbV0ZdUuKW) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Azure Rain](https://open.spotify.com/album/2tvMCwJyuwD3YNlPhlZXPG) | 3:36 | 2024-11-04 |  |
 | [Back In My Memory](https://open.spotify.com/track/5fO9TtuINIOhhVmxNB4GiC) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Back In My Memory](https://open.spotify.com/album/7pFIhGolnIrM2I6U3DfUyC) | 2:55 | 2024-06-03 |  |
@@ -82,6 +83,7 @@
 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 |  |
 | [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 |  |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
+| [Falling Freely](https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Falling Freely](https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz) | 2:54 | 2025-06-17 |  |
 | [Feather](https://open.spotify.com/track/2RzEZIvs2KzxBAzkHXgJZa) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Feather](https://open.spotify.com/album/3zZcMIi0OrREEVvK22os4K) | 2:58 | 2025-05-21 |  |
 | [Fields Above](https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Fields Above](https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth) | 2:33 | 2025-04-11 |  |
 | [Fire Light](https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Fire Light](https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd) | 2:55 | 2023-04-28 | 2025-05-22 |
@@ -147,6 +149,7 @@
 | [Meditative Notes](https://open.spotify.com/track/20M4Bb3bH6kvht89yfn5iI) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Meditative Notes](https://open.spotify.com/album/4AMboqDV93QgvWtLrOja29) | 2:43 | 2023-04-28 | 2024-04-02 |
 | [Melville \(Meditation\)](https://open.spotify.com/track/0dvYoaVUiMJAbBtAIbr590) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Lake Melville](https://open.spotify.com/album/0YmbS2yy0hXBM2GHpXo28c) | 2:39 | 2023-04-28 | 2025-05-22 |
 | [Metamorphosis](https://open.spotify.com/track/67le4yadjiFCZ3bQXZITEN) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 3:24 | 2023-04-28 |  |
+| [Minimize](https://open.spotify.com/track/4SbrFeLfIYHgBiFvBEndBp) | [Cénter](https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S) | [Minimize](https://open.spotify.com/album/78bme2DPm6jwDWup5ofkcm) | 2:36 | 2025-06-17 |  |
 | [Mistember](https://open.spotify.com/track/6HcbLaRb6QtOe9E2MLTkXy) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Mistember](https://open.spotify.com/album/7GA20NRg7lToIYZN6Zq8qp) | 3:10 | 2025-03-19 |  |
 | [Misty Glade](https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Misty Glade](https://open.spotify.com/album/1oOiCZ9Fr49EpOmBkCp9vV) | 3:50 | 2024-06-03 |  |
 | [Mitra´s Morning](https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Mitra´s Morning](https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y) | 2:35 | 2023-10-06 |  |

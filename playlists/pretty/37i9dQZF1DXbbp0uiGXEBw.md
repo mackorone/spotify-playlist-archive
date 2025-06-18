@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,865 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,860 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 29 | [EM ĐAU](https://open.spotify.com/track/3GI7qWDdLQKrEMJd8M7lgg) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C), [Thành Luke](https://open.spotify.com/artist/4s1DRFQAYnDvXmKYFBUcYa) | [EM ĐAU](https://open.spotify.com/album/2GMJY1IHAFevyFbBYyULh1) | 5:00 |
 | 30 | [đen đá không đường](https://open.spotify.com/track/5g5sJF9WZWqTPl3XI7Yj0V) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreaAMEE](https://open.spotify.com/album/3JKB4LRIu5vTuVf9Lmf3FK) | 3:00 |
 | 31 | [nếu lúc đó](https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 4:23 |
-| 32 | [Hương \(feat\. Negav\)](https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 3:30 |
+| 32 | [Hương](https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 3:30 |
 | 33 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 |
 | 34 | [Một Ngày Chẳng Nắng](https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Một Ngày Chẳng Nắng](https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX) | 3:12 |
 | 35 | [PHÓNG ZÌN ZÌN](https://open.spotify.com/track/3COYA2vgfcUhDyRlVpZy5p) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [FLVR](https://open.spotify.com/album/71L9y03HASgkNoYodycslE) | 3:22 |

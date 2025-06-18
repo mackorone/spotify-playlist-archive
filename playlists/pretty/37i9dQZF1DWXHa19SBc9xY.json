@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 111725,
+  "num_followers": 111765,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
-        }
-      ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
         "name": "Meu Xod\u00f3",
         "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
       },
@@ -427,22 +407,38 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Raio de Sol",
-        "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
       "artists": [
         {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         },
         {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
         }
       ],
-      "duration_ms": 206779,
-      "name": "Raio de Sol",
-      "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "O Amor Descansa Na Varanda",
+        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "O Amor Descansa Na Varanda",
+      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -459,6 +455,46 @@
       "duration_ms": 228866,
       "name": "Farol das Estrelas - Ao Vivo",
       "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "VEJA BABY - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "Raio de Sol",
+        "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
+      },
+      "artists": [
+        {
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+        },
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        }
+      ],
+      "duration_ms": 206779,
+      "name": "Raio de Sol",
+      "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -487,106 +523,6 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "VEJA BABY - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
-        "name": "O Amor Descansa Na Varanda",
-        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 204998,
-      "name": "O Amor Descansa Na Varanda",
-      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
-        "name": "Rua Tr\u00eas",
-        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 154647,
-      "name": "Rua Tr\u00eas",
-      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
-        "name": "Mais Raro",
-        "url": "https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Mais Raro",
-      "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
-        "name": "Caf\u00e9 Da MaLu",
-        "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
-      },
-      "artists": [
-        {
-          "name": "MaLu",
-          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Farol Das Estrelas",
-      "url": "https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
-        "name": "cheia de vontade",
-        "url": "https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 146700,
-      "name": "cheia de vontade",
-      "url": "https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
         "name": "Vamos Fugir",
         "url": "https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv"
       },
@@ -607,6 +543,54 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
+        "name": "Mais Raro",
+        "url": "https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Mais Raro",
+      "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "Rua Tr\u00eas",
+        "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 154647,
+      "name": "Rua Tr\u00eas",
+      "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "cheia de vontade",
+        "url": "https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 146700,
+      "name": "cheia de vontade",
+      "url": "https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
         "name": "Rio de Janeiro",
         "url": "https://open.spotify.com/album/4vjfZrlmuGONBGn0E4GKWx"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 183061,
       "name": "Rio de Janeiro",
       "url": "https://open.spotify.com/track/5D4q61RINH3rVIrFAon43f"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "Caf\u00e9 Da MaLu",
+        "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
+      },
+      "artists": [
+        {
+          "name": "MaLu",
+          "url": "https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Farol Das Estrelas",
+      "url": "https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA"
     },
     {
       "added_at": "2025-06-13 07:51:12",

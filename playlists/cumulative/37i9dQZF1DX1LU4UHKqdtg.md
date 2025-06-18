@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: LE SSERAFIM
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
 
-1,489 songs - 3 day 7 hr 16 min
+1,490 songs - 3 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Icarus](https://open.spotify.com/track/2l2pKMAYOnoc9KcHPwiUCk) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Club Icarus>](https://open.spotify.com/album/5h5Ort0gghTn9VgqsUzEvq) | 2:53 | 2025-06-16 |  |
 | [ICARUS](https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ) | [DINO \(SEVENTEEN\)](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 | 2023-11-09 | 2023-11-16 |
 | [Ice On My Teeth](https://open.spotify.com/track/0xGgYWdUS3g23VOEydYrqm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/3yigtf01oYimHLNYzop85Z) | 3:03 | 2024-11-15 | 2025-02-25 |
+| [ICY BBY](https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [ICY BBY](https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV) | 3:02 | 2025-06-17 |  |
 | [Identity](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Identity](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) | 2:20 | 2024-10-27 | 2024-11-06 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-07 | 2025-03-07 |
 | [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-08 | 2022-09-17 |
@@ -1245,7 +1246,7 @@
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 | 2022-07-28 | 2022-09-07 |
 | [That's all I'm saying](https://open.spotify.com/track/2fziAh8GECzOzuWl3TtuHV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/1nqz3cEjuvCMo8RHLBI9kM) | 3:02 | 2022-07-26 | 2022-11-09 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-27 | 2023-02-09 |
-| [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 | 2025-02-25 |  |
+| [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 | 2025-02-25 | 2025-06-18 |
 | [The Feels \- Benny Benassi Remix](https://open.spotify.com/track/3zuOVDHUOI2E8dM3Rk5lmq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [The Feels](https://open.spotify.com/album/637onaunbESh9eqTqVGMka) | 3:05 | 2022-02-04 | 2022-04-06 |
 | [THE GAME](https://open.spotify.com/track/6EBHfOAqhDH1418xXLBXdL) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [STUNNING](https://open.spotify.com/album/6UujLe3I4a4DIIghqJiOLe) | 3:14 | 2024-01-09 | 2024-01-24 |
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-25 | 2023-11-23 |

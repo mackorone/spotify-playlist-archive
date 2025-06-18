@@ -1875,6 +1875,28 @@
     },
     {
       "album": {
+        "name": "Milky Way",
+        "url": "https://open.spotify.com/album/6uMqE7ruQ1JCMCxmvVuzeo"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        },
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/4zqJbswvwYmL1lAFdYJcAx"
+    },
+    {
+      "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
       },
@@ -4108,7 +4130,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 221538,
       "name": "\u0e08\u0e35\u0e1a (\u0e44\u0e21\u0e48\u0e40\u0e01\u0e48\u0e07)",
       "url": "https://open.spotify.com/track/7tJI2CkjAICEzoNO3Y4gex"
@@ -7373,6 +7395,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e43\u0e2b\u0e21\u0e48",
+        "url": "https://open.spotify.com/album/5NAkGig4ajWDazmU0sA0Xn"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201085,
+      "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e43\u0e2b\u0e21\u0e48",
+      "url": "https://open.spotify.com/track/11qQIIxJ8BqQOzZ0jAmftA"
+    },
+    {
+      "album": {
         "name": "BANGKOK LEGACY",
         "url": "https://open.spotify.com/album/21LG4vnSC0pmcDaB1ICoi2"
       },
@@ -7500,7 +7540,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 233804,
       "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 (Flower)",
       "url": "https://open.spotify.com/track/3PabyxIj11p70zsuEcNaFK"

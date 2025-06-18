@@ -4,7 +4,7 @@
 
 > Koe ra ngerti larane, pas aku kelangan koe 😢
 
-118 songs - 9 hr 54 min
+119 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,11 +55,12 @@
 | [Kisinan](https://open.spotify.com/track/4l0MtxkfzsugEBHSsdhae6) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS), [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [Kisinan](https://open.spotify.com/album/5RW3jMVUCN5eCkuhSkJcZv) | 4:22 | 2023-09-13 |  |
 | [KISINAN 2](https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN 2](https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2) | 3:52 | 2023-12-07 |  |
 | [Kudu Nangis](https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Kudu Nangis](https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv) | 5:04 | 2023-08-09 | 2025-01-14 |
-| [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-09 |  |
+| [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-09 | 2025-06-18 |
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 | 2025-06-11 |
 | [Lamunan](https://open.spotify.com/track/3qcJp9jySepnPFWY2LyLNZ) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS) | [Lamunan](https://open.spotify.com/album/0wTA1S91a9PDRMbKC11zch) | 5:04 | 2024-05-27 |  |
 | [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [LDR "Langgeng Dayaning Rasa" \(Live\)](https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO) | 5:10 | 2024-07-31 |  |
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-09-08 |  |
+| [Leda Lede](https://open.spotify.com/track/7puxab8SdP95QbxmzL1vgt) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Leda Lede](https://open.spotify.com/album/2w3tO7nqSw95b7KmMuH3tw) | 5:08 | 2025-06-17 |  |
 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 | 2021-09-08 | 2023-10-19 |
 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2023-10-11 | 2024-01-12 |
 | [Loro Ati Sejak Dini](https://open.spotify.com/track/03Ct1Mmyvj0f0Eg5Jk6ULp) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/1cWsE4b3euHysg7MkSsIaW) | 4:44 | 2023-10-11 | 2024-04-19 |

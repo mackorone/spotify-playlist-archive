@@ -9525,6 +9525,24 @@
     },
     {
       "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287266,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/01r1q2OykW2e3L17kB5bi3"
+    },
+    {
+      "album": {
         "name": "Late Night Thoughts",
         "url": "https://open.spotify.com/album/7K43nm5jlSvcUWHQtxWAIP"
       },

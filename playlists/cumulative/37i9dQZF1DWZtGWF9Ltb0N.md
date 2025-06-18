@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-801 songs - 2 day 5 hr 1 min
+802 songs - 2 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Lick](https://open.spotify.com/track/2c7XL7asAiC0XeKe1tTFQT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [La La Land \| Lick](https://open.spotify.com/album/5KATqvNlutev9INfTwifDk) | 2:03 | 2024-04-05 | 2024-05-25 |
 | [Lies](https://open.spotify.com/track/3XxpibWu8B2ZIRD3HFksZC) | [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Lies](https://open.spotify.com/album/08duicoxqT3mKn6Y2FOz8j) | 3:12 | 2023-03-17 | 2025-02-01 |
 | [Life Without Meaning](https://open.spotify.com/track/56mPUqA3PwxGKTNXR9giQu) | [Soukah](https://open.spotify.com/artist/243gr62h7yfUDhuznWXRpF) | [Life Without Meaning / You Can Run Much Faster](https://open.spotify.com/album/52xZv0kPf4kxhWvlnYlp9A) | 5:16 | 2022-02-17 | 2024-01-19 |
+| [Light it Up](https://open.spotify.com/track/2Yeq998gUEGt7jyL5GF8rZ) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Light it Up](https://open.spotify.com/album/0HNCebDjcHgvdX12nMH7LS) | 3:15 | 2025-06-13 |  |
 | [Light It Up](https://open.spotify.com/track/3sUak4xuJrHWPsetV4BUQi) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Light It Up](https://open.spotify.com/album/5w9BlHIKDG74ubSX27vbOv) | 3:29 | 2024-05-03 |  |
 | [Light Transmission](https://open.spotify.com/track/0JyboEk7HNGbCBfyAHUIbR) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Alandazu EP](https://open.spotify.com/album/4XlxezT0hwytoRYiMYMa88) | 5:39 | 2022-03-25 | 2022-04-26 |
 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 | 2025-02-28 |  |
@@ -622,7 +623,7 @@
 | [Shuriken](https://open.spotify.com/track/6Q4h3t4NS4UDL8P2jsuYS7) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Headland](https://open.spotify.com/artist/1lgQK2ZzhWHY54kWPABNAb) | [Shuriken](https://open.spotify.com/album/4BSyCTMEaBAgIasCcT001h) | 6:00 | 2023-06-09 | 2023-08-24 |
 | [Sick Fing](https://open.spotify.com/track/2YWWbTRdDpwympJPudyZlM) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Sick Fing](https://open.spotify.com/album/3DWjqUtrpV32qaHWwyrhkd) | 4:12 | 2022-07-01 | 2022-10-22 |
 | [Silence](https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Silence](https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2) | 2:36 | 2024-03-22 | 2025-04-22 |
-| [Silence \- K Theory Flip](https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [King Kairos](https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ), [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Silence \(K Theory Flip\)](https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6) | 2:38 | 2025-01-10 |  |
+| [Silence \- K Theory Flip](https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [King Kairos](https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ), [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Silence \(K Theory Flip\)](https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6) | 2:38 | 2025-01-10 | 2025-06-18 |
 | [Simplicity](https://open.spotify.com/track/4VlfpC3JkhxPhZtypJ1j0U) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Simplicity](https://open.spotify.com/album/6WZDjTXxLKKviWuAgd71xv) | 3:52 | 2024-04-19 | 2025-06-07 |
 | [Single Entity](https://open.spotify.com/track/6boVvpFAMZgqdoFOPnHaGx) | [Killawatt](https://open.spotify.com/artist/0WaR9ydw7sZikp1dfHV8Xc) | [This Is Dubstep 2013](https://open.spotify.com/album/3662bNO8Ynjc0kMXvo1BXW) | 5:36 | 2022-02-17 | 2022-07-24 |
 | [Sinker](https://open.spotify.com/track/0FnaZWJgBpObO0SsIiy3Cb) | [Goth\-Trad](https://open.spotify.com/artist/133pV477MVSsj1MHgsrIc9) | [Sinker / Sunbeam VIP](https://open.spotify.com/album/1NWNgQdgp03DVaMtEguJ6c) | 5:15 | 2022-02-17 | 2022-04-08 |

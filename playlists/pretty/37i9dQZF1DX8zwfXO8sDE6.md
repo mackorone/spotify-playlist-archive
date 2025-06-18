@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,091 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,108 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [真夜中のドア〜stay with me](https://open.spotify.com/track/5DCLkzuWICNar6qn3B393f) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK](https://open.spotify.com/album/2KdA0eZh5kenzjSKfPAriM) | 5:11 |
 | 2 | [クリスタル・シティー](https://open.spotify.com/track/24yeqyHA3EW35CKpyeE4uR) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE), [美乃家セントラルステイション](https://open.spotify.com/artist/6zuN0CN7nUe6I5dDXQQLD2) | [ゴールデン☆ベスト 大橋純子 シングルス](https://open.spotify.com/album/7xZbqNj6i60dJENaliMEOR) | 3:46 |
 | 3 | [都会](https://open.spotify.com/track/51udJYm1BsYbd4lgfK7ba2) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [SUNSHOWER](https://open.spotify.com/album/1tirkouCp0ofWI1IADUvy2) | 5:10 |
-| 4 | [中央フリーウェイ](https://open.spotify.com/track/0zqwz1o4l4ltQUxgjyU4oa) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [14番目の月](https://open.spotify.com/album/28VkIuu7LxHzMtfxkx4URs) | 3:39 |
+| 4 | [September](https://open.spotify.com/track/7BuxfPbJjtI8juuM3h18yA) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions \(RCA Version\)](https://open.spotify.com/album/2idSqgKijGXG5aisjk7Zn1) | 4:32 |
 | 5 | [恋は流星](https://open.spotify.com/track/2NGWAXh6sisNpVHIAAlME0) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [TWILIGHT ZONE](https://open.spotify.com/album/30f2PMk23fjPP9oBAILqGo) | 6:47 |
-| 6 | [September](https://open.spotify.com/track/7BuxfPbJjtI8juuM3h18yA) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions \(RCA Version\)](https://open.spotify.com/album/2idSqgKijGXG5aisjk7Zn1) | 4:32 |
+| 6 | [中央フリーウェイ](https://open.spotify.com/track/0zqwz1o4l4ltQUxgjyU4oa) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [14番目の月](https://open.spotify.com/album/28VkIuu7LxHzMtfxkx4URs) | 3:39 |
 | 7 | [HOLD ME TIGHT](https://open.spotify.com/track/2DCwFuehgK6wiamF8ZjusQ) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 3:53 |
 | 8 | [SUMMER BLUE](https://open.spotify.com/track/5W4ojZyjeSz4VUzamBodcN) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/0Ph3tt5m0Kvna94MT2BMji) | 3:59 |
 | 9 | [影になって](https://open.spotify.com/track/2iGrc21d7bfvLAdlNeNerI) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [悲しいほどお天気](https://open.spotify.com/album/4vw5asIQkxqk9ctov9R55e) | 5:32 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 45 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 |
 | 46 | [心のままに](https://open.spotify.com/track/5X0xhUWh5d1LltgEPnGl1I) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/2TAs79aEFZQpGxYwpF7yAo) | 3:49 |
 | 47 | [The Tokyo Taste](https://open.spotify.com/track/6AKFrXgaa6gAWZyg5g2hyH) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW), [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y), [Alex](https://open.spotify.com/artist/7A6cteuR1eQJ01f5P2ZDZI) | [sadistics](https://open.spotify.com/album/0hoyGdz4oLEHvtazzD0myg) | 3:42 |
-| 48 | [この軽い感じが…](https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE) | [今井裕](https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF) | [A COOL EVENING](https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3) | 6:07 |
-| 49 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 |
+| 48 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 |
+| 49 | [この軽い感じが…](https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE) | [今井裕](https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF) | [A COOL EVENING](https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3) | 6:07 |
 | 50 | [YOU GOT THE MUSIC](https://open.spotify.com/track/4QUEaU4FicWIwmbTK6P1X5) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [THRILL\[Remaster\]](https://open.spotify.com/album/0XzepsIs71Hzyu2FPgvp7A) | 4:32 |
 
 Snapshot ID: `ZnzNLgAAAADbSVB6eWREr4gvpo30ok5q`

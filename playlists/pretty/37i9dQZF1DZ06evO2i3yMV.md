@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,482 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,484 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 30 | [Warm Water \(Interlude\)](https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 1:53 |
 | 31 | [Put It Down](https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:03 |
 | 32 | [I Wish I Could \(feat\. Selah Sue\)](https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 4:26 |
-| 33 | [Go With It \(feat\. MNDR\)](https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 4:23 |
+| 33 | [I'm Every Woman \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [I'm Every Woman \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3) | 3:39 |
 | 34 | [Eternal](https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 2:07 |
-| 35 | [I'm Every Woman \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [I'm Every Woman \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3) | 3:39 |
-| 36 | [Strange Froot](https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Young Art Sound II](https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH) | 2:33 |
-| 37 | [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 2:49 |
+| 35 | [Go With It \(feat\. MNDR\)](https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 4:23 |
+| 36 | [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 2:49 |
+| 37 | [Strange Froot](https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Young Art Sound II](https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH) | 2:33 |
 | 38 | [Death by Disco](https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:57 |
-| 39 | [Soul to Seoul](https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 3:29 |
-| 40 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 |
-| 41 | [Up and Out](https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 4:40 |
+| 39 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 |
+| 40 | [Up and Out](https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 4:40 |
+| 41 | [Soul to Seoul](https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 3:29 |
 | 42 | [Sweet Day](https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:36 |
 | 43 | [Dream Chorus](https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Dream Chorus](https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ) | 2:19 |
 | 44 | [Bright Shadows](https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 49 | [Surrender](https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [You're Invited](https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo) | 3:40 |
 | 50 | [Eats The Tale](https://open.spotify.com/track/0FDK9Vl9rgWm6PO5TBamvT) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6Gua9T9kD4nkga4fqhMwFB) | 3:43 |
 
-Snapshot ID: `aE4NAAAAAABQCl6FaKUUSWslALNVWagM`
+Snapshot ID: `aE9egAAAAAB6jejGAcmK3MG14o2DVYeb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,384 likes - 48 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,439 likes - 48 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 22 | [El Aguila](https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Contra Todos los Pronósticos](https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh) | 6:27 |
 | 23 | [El Negro Esta Cocinando](https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 5:28 |
 | 24 | [Ya Tú No Coronas](https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 4:49 |
-| 25 | [Después de todo](https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Chapeando](https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78) | 6:08 |
-| 26 | [Agua Pa'yemayá](https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu) | [Elio Revé Y Su Charangón](https://open.spotify.com/artist/7uHBq0hEAmxGsqZfyqQAxf) | [¿De Qué Estamos Hablando?](https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy) | 5:23 |
+| 25 | [Agua Pa'yemayá](https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu) | [Elio Revé Y Su Charangón](https://open.spotify.com/artist/7uHBq0hEAmxGsqZfyqQAxf) | [¿De Qué Estamos Hablando?](https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy) | 5:23 |
+| 26 | [Después de todo](https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Chapeando](https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78) | 6:08 |
 | 27 | [Amiga Mia](https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 6:20 |
 | 28 | [Rosa la Peligrosa](https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 5:58 |
 | 29 | [Que Bueno Baila Usted](https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Most From Beny More](https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy) | 3:16 |
-| 30 | [Esto te pone la cabeza mala](https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Te pone la cabeza mala](https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v) | 4:08 |
-| 31 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
+| 30 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
+| 31 | [Esto te pone la cabeza mala](https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Te pone la cabeza mala](https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v) | 4:08 |
 | 32 | [Al Paso](https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 5:13 |
 | 33 | [Abreme la puerta](https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo) | [Calle Real](https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU) | [Me Lo Gané](https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb) | 6:34 |
 | 34 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |

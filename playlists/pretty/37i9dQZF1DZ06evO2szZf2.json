@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35198,
+  "num_followers": 35200,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAADid76J9sUnhHU/KR5CALR8",
+  "snapshot_id": "aE9egAAAAAA6mg5agokhweOpwSBn/L6T",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festa na Marina",
-        "url": "https://open.spotify.com/album/50Lm8KlJ9bD92SYvvimBBX"
-      },
-      "artists": [
-        {
-          "name": "Bonde do gato preto",
-          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 135047,
-      "name": "Festa na Marina (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neymar Mudou",
         "url": "https://open.spotify.com/album/4Wu6b5zgLWWdMC078UF4jO"
       },
@@ -319,6 +299,46 @@
       "duration_ms": 198000,
       "name": "Neymar Mudou",
       "url": "https://open.spotify.com/track/6NgcQrj5PrQhE0ayrLyliD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Festa na Marina",
+        "url": "https://open.spotify.com/album/50Lm8KlJ9bD92SYvvimBBX"
+      },
+      "artists": [
+        {
+          "name": "Bonde do gato preto",
+          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 135047,
+      "name": "Festa na Marina (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CARO Vapor II - qual a forma de pagamento ?",
+        "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 183147,
+      "name": "melhor Vida",
+      "url": "https://open.spotify.com/track/0pwMzENrZz6twPDVFVhpta"
     },
     {
       "added_at": null,
@@ -523,30 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu N\u00e3o Sou Dif\u00edcil",
-        "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "LeoZera",
-          "url": "https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
-        }
-      ],
-      "duration_ms": 131081,
-      "name": "Eu N\u00e3o Sou Dif\u00edcil",
-      "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Cara do Abacaxi Classic",
         "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
       },
@@ -567,6 +563,30 @@
       "duration_ms": 145750,
       "name": "Empurra Empurra",
       "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu N\u00e3o Sou Dif\u00edcil",
+        "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "LeoZera",
+          "url": "https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 131081,
+      "name": "Eu N\u00e3o Sou Dif\u00edcil",
+      "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
     },
     {
       "added_at": null,
@@ -827,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado Arrochadeira",
+        "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
+      },
+      "artists": [
+        {
+          "name": "Dj Kevin Armstrong",
+          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 108387,
+      "name": "De 38 Carregado Arrochadeira (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
       },
@@ -863,26 +903,6 @@
       "duration_ms": 358950,
       "name": "180",
       "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado Arrochadeira",
-        "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
-      },
-      "artists": [
-        {
-          "name": "Dj Kevin Armstrong",
-          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 108387,
-      "name": "De 38 Carregado Arrochadeira (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
     },
     {
       "added_at": null,
@@ -1383,6 +1403,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexo Sem Estresse",
+        "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "duration_ms": 139403,
+      "name": "Sexo Sem Estresse",
+      "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arrocha da Treta",
         "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
       },
@@ -1427,46 +1487,6 @@
       "duration_ms": 133100,
       "name": "Vuco Vuco",
       "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexo Sem Estresse",
-        "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
-        }
-      ],
-      "duration_ms": 139403,
-      "name": "Sexo Sem Estresse",
-      "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
     },
     {
       "added_at": null,
@@ -1527,30 +1547,6 @@
       "duration_ms": 126511,
       "name": "Vagabunda do Caralho",
       "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Golpeame",
-      "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
     }
   ],
   "unique_name": "This Is Mc Dricka",

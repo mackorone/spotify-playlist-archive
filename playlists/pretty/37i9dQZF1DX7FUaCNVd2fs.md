@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,838 likes - 154 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,864 likes - 154 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 153 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 |
 | 154 | [Moonlight](https://open.spotify.com/track/5kxplUhUr8OpwOpJ2Ururp) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Moonlight](https://open.spotify.com/album/1JCaugOpvQEqJxoKFxBkqd) | 3:18 |
 
-Snapshot ID: `aEhXNwAAAAAhWWZdQs8v5zoXMbrPdHE2`
+Snapshot ID: `aEhXNwAAAAAlUd6PRcPRzBTYvh6ghUuU`

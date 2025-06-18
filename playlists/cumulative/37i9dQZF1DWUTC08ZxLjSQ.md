@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
 
-423 songs - 22 hr 35 min
+425 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [AISHA](https://open.spotify.com/track/2lOUDx7ExAuaxGYozG2wIv) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [AISHA](https://open.spotify.com/album/5v4XC2R8vRSPhJsfOhUQZk) | 2:52 | 2023-08-01 | 2023-09-13 |
 | [Akher el tare2](https://open.spotify.com/track/6tDFnR8ild5koi5iJjYFUE) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [Akher el tare2](https://open.spotify.com/album/50hMtiBEFfIhPcsJ7LCps7) | 1:30 | 2024-11-26 |  |
 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 | 2025-02-10 |  |
-| [al qamar wa ana \- القمر وأنا](https://open.spotify.com/track/7IBgneXOSQVaWPBMejtHbd) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [najoom \- نجوم](https://open.spotify.com/album/7eyDLB0KpI8AorehIWg1Oa) | 4:02 | 2024-11-06 |  |
+| [al qamar wa ana \- القمر وأنا](https://open.spotify.com/track/7IBgneXOSQVaWPBMejtHbd) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [najoom \- نجوم](https://open.spotify.com/album/7eyDLB0KpI8AorehIWg1Oa) | 4:02 | 2024-11-06 | 2025-06-18 |
 | [Ala Wain](https://open.spotify.com/track/5VKc8PPiqkei1pIsBYTCTs) | [Majaz](https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H) | [Ala Wain](https://open.spotify.com/album/4WUgYuFGOsueuMDqjVnbxi) | 3:37 | 2024-04-30 | 2024-08-14 |
 | [Albe Blue](https://open.spotify.com/track/2aCXeiYgKzkvXDpC9OHQu2) | [Nurzy](https://open.spotify.com/artist/5kdhUtn46gU4rHVSbHRVEE) | [Albe Blue](https://open.spotify.com/album/4kAvFzkjmBayEA22LOVzMh) | 2:29 | 2024-07-09 | 2024-10-31 |
 | [All On You](https://open.spotify.com/track/76CER1W49x9F01Z7ZwJ6Oa) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [All On You](https://open.spotify.com/album/4x1NJpdoUhSKs1yXag2zXy) | 3:07 | 2022-09-20 | 2022-10-05 |
@@ -97,6 +97,7 @@
 | [Dog](https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Dog](https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg) | 2:51 | 2023-01-17 | 2023-05-10 |
 | [DONYA](https://open.spotify.com/track/4W4cXk5mSDHx0mo2bApZmw) | [ZAF](https://open.spotify.com/artist/0HuChNNYu7zlI19O9ncr6f) | [DONYA](https://open.spotify.com/album/6yEYt57146HAo5yskSJ5dr) | 1:11 | 2024-08-13 | 2024-11-07 |
 | [Dream Merchant](https://open.spotify.com/track/12lCB896GPVWOTIAq0JAiY) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Dream Merchant](https://open.spotify.com/album/2C0705Y1tvu30snlIOE1yT) | 2:57 | 2023-06-06 | 2023-09-07 |
+| [Eclipse](https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr) | [Ryukk](https://open.spotify.com/artist/6W3wT7AX1kxceaifuk54iP) | [Eclipse](https://open.spotify.com/album/26do3rDYRpKSptiGGBEKPy) | 3:45 | 2025-06-17 |  |
 | [El 3elba](https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l) | [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR), [Kamikazem](https://open.spotify.com/artist/0FAbIDfnnY3RRlj97zPj6h), [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [El 3elba](https://open.spotify.com/album/40rnzvnxdna70I5ENxUABY) | 3:29 | 2022-09-20 | 2022-11-09 |
 | [El Beit \- البيت](https://open.spotify.com/track/0qLQsLK8HRChdTdCvO8tRn) | [Hadi Birajakli](https://open.spotify.com/artist/6KsP0EBpYgQ4hlex3c1Zmm) | [El Beit \- البيت](https://open.spotify.com/album/0UmUPQJ69Tk0wKWTMNnTaU) | 2:52 | 2024-08-13 | 2024-11-27 |
 | [El Donia Beta3ti](https://open.spotify.com/track/0D7avy8sOXIcY4ZDWuHO7R) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El Donia Beta3ti](https://open.spotify.com/album/1DZgnVuOlcIiXskI9HkYMe) | 2:50 | 2022-09-20 | 2022-09-28 |
@@ -299,6 +300,7 @@
 | [push back \(feat\. GrzzLee\)](https://open.spotify.com/track/0x1Z1binRRDnQKL6ALG4x2) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6) | [push back \(feat\. GrzzLee\)](https://open.spotify.com/album/3VoZJdHv32izzxBHyjQdod) | 2:15 | 2024-02-07 | 2024-06-27 |
 | [QAAR A](https://open.spotify.com/track/0Eh0KuFNOQ0gPilhJzZRXz) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/6mCMQFns9e0g2civC8khcB) | 4:00 | 2023-03-01 | 2023-06-21 |
 | [QAAR A](https://open.spotify.com/track/0ipud6EnSxKYX27PDU9lXM) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/0r0oe1UN516mz9vAh3uu5m) | 4:00 | 2023-01-17 | 2023-03-03 |
+| [QARFS MERI](https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC) | [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD), [DOKHAN](https://open.spotify.com/artist/1tUkpIZZacamR0XXrwCp8P), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1) | [Z!EN GPT](https://open.spotify.com/album/3fIjFiV2GtzpplDSvwiQe3) | 1:46 | 2025-06-17 |  |
 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 | 2023-03-14 | 2023-07-19 |
 | [Quick Flex](https://open.spotify.com/track/4Xsgdr7McooFSUUGoYvU9g) | [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D), [Gra](https://open.spotify.com/artist/4QFDQS3cWdDXIZRaXFvW5B), [Chasey the Illest](https://open.spotify.com/artist/42kTgzgcQLKru8mxK04VLa) | [Quick Flex](https://open.spotify.com/album/3I5pQO3UYPpQZO3xrRox9e) | 3:52 | 2024-02-20 | 2024-07-10 |
 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 | 2023-05-09 | 2023-07-19 |
@@ -351,7 +353,7 @@
 | [sxcbnda](https://open.spotify.com/track/6RK9RIMO12fdRKVfzxN5JH) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [HYDR](https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA) | 2:54 | 2023-07-18 | 2024-05-01 |
 | [Talin \- Acoustic Version](https://open.spotify.com/track/0vdUf2a33S0jgvwMwh6Odp) | [Qaboo](https://open.spotify.com/artist/7zE3Yn6mU7yAGmbGf1zYQ4) | [Talin](https://open.spotify.com/album/0Dk18GCO3jBWJnPrDEMeOP) | 2:32 | 2024-01-31 | 2024-06-27 |
 | [Taqa](https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN) | [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Taqa](https://open.spotify.com/album/4uKTZ5zdxhhkIQTIjrQr6x) | 2:30 | 2022-10-25 | 2023-01-18 |
-| [Teir \- طير](https://open.spotify.com/track/6EziVG42FHekYp7n7jh4Le) | [Butternotes](https://open.spotify.com/artist/3Mm7FLQW1CVB9cq9mAUtDh) | [Teir \- طير](https://open.spotify.com/album/4L511OfeV85rEemy9cUTid) | 4:17 | 2024-11-06 |  |
+| [Teir \- طير](https://open.spotify.com/track/6EziVG42FHekYp7n7jh4Le) | [Butternotes](https://open.spotify.com/artist/3Mm7FLQW1CVB9cq9mAUtDh) | [Teir \- طير](https://open.spotify.com/album/4L511OfeV85rEemy9cUTid) | 4:17 | 2024-11-06 | 2025-06-18 |
 | [Tekram](https://open.spotify.com/track/1wtMuXGeiJwZPaN1Av2txT) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Tekram](https://open.spotify.com/album/4Kcu6Yv1DjQfv0b35PvIaP) | 2:36 | 2024-06-26 | 2024-09-12 |
 | [Telephone](https://open.spotify.com/track/4Z14OEDS8ryZxcr2co4P9U) | [Louis LS](https://open.spotify.com/artist/3sN5oyOnNGOETUpAA50xYW) | [Telephone](https://open.spotify.com/album/14KtnblxrNmq7ToGOp0PBq) | 2:21 | 2024-05-14 | 2024-09-12 |
 | [Tell Me Something](https://open.spotify.com/track/7LRzmoO4nCxxWOh9oLiqFN) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Tell Me Something](https://open.spotify.com/album/5jgQXB2zG15VBgEOzGrdff) | 3:36 | 2024-02-20 | 2024-07-10 |

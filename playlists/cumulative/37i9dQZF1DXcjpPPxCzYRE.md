@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-368 songs - 21 hr 1 min
+369 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 | 2024-09-24 | 2024-11-22 |
 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 | 2024-08-23 | 2025-02-26 |
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-20 | 2023-05-13 |
+| [Mi Bolero](https://open.spotify.com/track/1ODOzIbZ3iCc9Z8OHz55jc) | [Fitasha](https://open.spotify.com/artist/6TziwTrHsHSviAxb6EBoPk) | [Mi Bolero](https://open.spotify.com/album/40o1tVepGEcMeg9BEToJCb) | 2:48 | 2025-06-07 |  |
 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 | 2024-06-06 | 2024-09-25 |
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-09 | 2023-07-07 |
 | [Moon River](https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2022-11-11 |  |
@@ -286,7 +287,7 @@
 | [Recording 15](https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 4:02 | 2022-11-11 | 2023-03-28 |
 | [Renegades \- Acoustic Version](https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM) | [Vinyl Hotel](https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h) | [Café Acoustic Session \(Acoustic Version\)](https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW) | 2:57 | 2024-04-11 |  |
 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 | 2023-08-18 | 2024-09-25 |
-| [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 | 2024-04-11 |  |
+| [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 | 2024-04-11 | 2025-06-18 |
 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 | 2022-11-11 | 2024-04-19 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-15 | 2024-12-24 |
 | [Sanadoras Voluntades](https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Sanadoras Voluntades](https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa) | 2:44 | 2024-04-11 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,581 likes - 78 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,612 likes - 78 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/6llSKGTXz9Y8d1kdvDlaoq) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 |
+| 1 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 |
 | 2 | [The Nature of Peace](https://open.spotify.com/track/4FTj02S8T1U4438yq4Vm0B) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [The Nature of Peace](https://open.spotify.com/album/6IkIeXHQSHFhwhwA6fBFzV) | 2:24 |
 | 3 | [Lost](https://open.spotify.com/track/3vVX3isRZBNkNm5MgGXlST) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Lost](https://open.spotify.com/album/7qh8ZeENbL9E9E0Ztsv2it) | 2:08 |
 | 4 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 77 | [Peaceful Sleep](https://open.spotify.com/track/7bmZ6lmNpGRvVWDaQkeZAU) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 2:34 |
 | 78 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
 
-Snapshot ID: `AAAAAJia3GKkKLW8mKaq0JhhZ3US7C9J`
+Snapshot ID: `aEglZwAAAACH/PHCYRw1n23afrC6QnwO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAam0w6i0dI.md) - [plain]
 
 > Enjoy theTWICE fan meeting \[HOME 9ROUND\] LIVE SET including the voices of them on stage! \(트와이스의 무대 멘트와 목소리가 포함된 서울 팬미팅 \[HOME 9ROUND\] LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,152 likes - 23 songs - 50 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 14,170 likes - 23 songs - 50 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAam0w6i0dI.md) - [plain]
 | 22 | [One In A Million](https://open.spotify.com/track/6Nqp4bYrZgdVnAmWc9Ek39) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 2:55 |
 | 23 | [ONCE’s reaction to the December album announcement](https://open.spotify.com/track/4n2TR4kHItCOafSO7Ao0VY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICE FANMEETING \[HOME 9ROUND\]](https://open.spotify.com/album/4pX3tQGSzyehGLH4ceBfFa) | 0:26 |
 
-Snapshot ID: `Zy1+sAAAAAAAKv0JPJ9PmTwWm6aWO626`
+Snapshot ID: `Zy1+sAAAAAAmxGbP8GMRUEJmcEl6smO9`

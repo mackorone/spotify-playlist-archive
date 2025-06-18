@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,187 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,218 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/track/1DYnNZmmGbZ02Ok0QPM8ig) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT) | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/album/6k2e9mpEoH2aA6JAQ6oY1g) | 2:05 |
 | 10 | [ICH GEH MIT MIR](https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ICH GEH MIT MIR](https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb) | 3:07 |
 | 11 | [Schlimmster Mensch der Welt](https://open.spotify.com/track/5BSwfudT5otTmLorKncQdi) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Schlimmster Mensch der Welt](https://open.spotify.com/album/6BNJB42hjoBQaG3swmFuVt) | 2:37 |
-| 12 | [wenn's am schönsten ist](https://open.spotify.com/track/4fZYJSpK32o3CeWPByulUj) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wenn's am schönsten ist](https://open.spotify.com/album/1O9pMaZ82BwU6cb7nCO9WG) | 2:16 |
-| 13 | [Arschloch](https://open.spotify.com/track/7zrONlmULDcVEi5Z1yrHkz) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Arschloch](https://open.spotify.com/album/4Kr76gbMDTFr2uFVEyB3nQ) | 3:16 |
+| 12 | [Arschloch](https://open.spotify.com/track/7zrONlmULDcVEi5Z1yrHkz) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Arschloch](https://open.spotify.com/album/4Kr76gbMDTFr2uFVEyB3nQ) | 3:16 |
+| 13 | [wenn's am schönsten ist](https://open.spotify.com/track/4fZYJSpK32o3CeWPByulUj) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wenn's am schönsten ist](https://open.spotify.com/album/1O9pMaZ82BwU6cb7nCO9WG) | 2:16 |
 | 14 | [hungerspiele](https://open.spotify.com/track/5EnJNlBSbircsRkFlpINQ0) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [hungerspiele](https://open.spotify.com/album/0XD2A1SUf0gl6LkWBNzQ2R) | 2:57 |
 | 15 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 |
 | 16 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [EGO DEATH](https://open.spotify.com/track/0aRI4HE2SzFVecxw0taEU8) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [AETHER](https://open.spotify.com/album/3CZX3uBKtBtzgpIG49uCRR) | 3:04 |
 | 43 | [Imaginary Friend](https://open.spotify.com/track/3UJtYt80oyV9oHS7YemxnZ) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Imaginary Friend](https://open.spotify.com/album/7zruNgHAbhS7yI1bYbERpv) | 4:46 |
 | 44 | [FiiRE](https://open.spotify.com/track/3cBXkCnguNwiOkzZbheOvk) | [MADANii](https://open.spotify.com/artist/1RzGXB2manO8IeUxrPSG4f) | [BiiLINGUAL](https://open.spotify.com/album/3pEd1BiDvPjSjFSWff5z7t) | 3:36 |
-| 45 | [This Time](https://open.spotify.com/track/4r4VfrGShdNq1uf0lHBWoC) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [This Time](https://open.spotify.com/album/2afefi75vyKcOS52Ht520I) | 3:13 |
-| 46 | [Sternschnuppe](https://open.spotify.com/track/3FnD5COGtGg6ORDsoKxoEn) | [LIÄN](https://open.spotify.com/artist/66lqRDCF3RB3kxtuLTaow3) | [Sternschnuppe](https://open.spotify.com/album/0fnxxDF8kBCyWTPEF0OJ57) | 2:29 |
+| 45 | [Sternschnuppe](https://open.spotify.com/track/3FnD5COGtGg6ORDsoKxoEn) | [LIÄN](https://open.spotify.com/artist/66lqRDCF3RB3kxtuLTaow3) | [Sternschnuppe](https://open.spotify.com/album/0fnxxDF8kBCyWTPEF0OJ57) | 2:29 |
+| 46 | [This Time](https://open.spotify.com/track/4r4VfrGShdNq1uf0lHBWoC) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [This Time](https://open.spotify.com/album/2afefi75vyKcOS52Ht520I) | 3:13 |
 | 47 | [Water Your Plants!](https://open.spotify.com/track/1DKc3IfxmLdSuTFU5gZp34) | [Brosie](https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB) | [Water Your Plants!](https://open.spotify.com/album/0NX7nE3wc8Ujw4O4nboZv3) | 2:58 |
 | 48 | [Boys Club](https://open.spotify.com/track/1BOx5dccNvhnv0udC3QAye) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Boys Club](https://open.spotify.com/album/08QXYglCJqvNFPrfYyCyth) | 3:10 |
 | 49 | [aufribbeln](https://open.spotify.com/track/2DbX3oaPunzAeNpnBWz5Qy) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [aufribbeln](https://open.spotify.com/album/7MtrWPMStCEDdBknw1pfze) | 3:28 |

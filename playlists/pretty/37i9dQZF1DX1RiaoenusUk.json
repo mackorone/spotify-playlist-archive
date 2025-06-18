@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 32395,
+  "num_followers": 32411,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,18 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "BA\u00d1O MAR\u00cdA (En Vivo - Buenos Aires)",
-        "url": "https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69"
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
       },
       "artists": [
         {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 206107,
-      "name": "BAD BITCH - En Vivo - Buenos Aires",
-      "url": "https://open.spotify.com/track/5HtAqnaTQBrX43aclqXrLw"
+      "duration_ms": 259506,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -367,18 +359,26 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+        "name": "BA\u00d1O MAR\u00cdA (En Vivo - Buenos Aires)",
+        "url": "https://open.spotify.com/album/6rvic8QKIwa5ywIXzKtJ69"
       },
       "artists": [
         {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
         }
       ],
-      "duration_ms": 259506,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
+      "duration_ms": 206107,
+      "name": "BAD BITCH - En Vivo - Buenos Aires",
+      "url": "https://open.spotify.com/track/5HtAqnaTQBrX43aclqXrLw"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Tal para Cual",
-      "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Combustication",
         "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 237106,
       "name": "Coconut Boogaloo",
       "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Tal para Cual",
+      "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "Bienvenidos al Presente",
-      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Musica Pa'l Mundo",
         "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 293013,
       "name": "Liviano Como el Viento",
       "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        }
+      ],
+      "duration_ms": 259880,
+      "name": "Bienvenidos al Presente",
+      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Ac\u00e9rcame a Tu Piel",
-        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
-      },
-      "artists": [
-        {
-          "name": "Santiago Soul",
-          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
-        }
-      ],
-      "duration_ms": 248832,
-      "name": "Ac\u00e9rcame a Tu Piel",
-      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Miro donde miro",
         "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
       },
@@ -1319,74 +1303,18 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Tangible",
-        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+        "name": "Ac\u00e9rcame a Tu Piel",
+        "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
       },
       "artists": [
         {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+          "name": "Santiago Soul",
+          "url": "https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9"
         }
       ],
-      "duration_ms": 224864,
-      "name": "Back up in Flames",
-      "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Best Of Us",
-        "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
-      },
-      "artists": [
-        {
-          "name": "Ale Zurita",
-          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
-        },
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 185024,
-      "name": "Best Of Us",
-      "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV"
-      },
-      "artists": [
-        {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
-        },
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 223038,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+      "duration_ms": 248832,
+      "name": "Ac\u00e9rcame a Tu Piel",
+      "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1416,9 +1344,65 @@
           "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
         }
       ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+      "duration_ms": 224864,
+      "name": "Back up in Flames",
+      "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV"
+      },
+      "artists": [
+        {
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 223038,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Best Of Us",
+        "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
+      },
+      "artists": [
+        {
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+        },
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 185024,
+      "name": "Best Of Us",
+      "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1435,6 +1419,22 @@
       "duration_ms": 196374,
       "name": "CAFE NEGRO",
       "url": "https://open.spotify.com/track/2tsyisOIKxVARnkZ4mMTjl"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Tangible",
+        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+      },
+      "artists": [
+        {
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+        }
+      ],
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Get Porn",
         "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 343362,
       "name": "Get Porn",
       "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1535,6 +1535,22 @@
       "duration_ms": 230250,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
+      },
+      "artists": [
+        {
+          "name": "Cami Brooks",
+          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
+        }
+      ],
+      "duration_ms": 226871,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1587,22 +1603,6 @@
       "duration_ms": 190373,
       "name": "Aire",
       "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Sr. A",
-        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 213267,
-      "name": "Sr. A",
-      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
     },
     {
       "added_at": "2025-06-13 11:45:49",

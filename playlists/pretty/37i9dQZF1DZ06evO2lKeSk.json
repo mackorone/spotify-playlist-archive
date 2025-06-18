@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 356609,
+  "num_followers": 356671,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAACr2VbJ7qCJFXOK2qxysbGw",
+  "snapshot_id": "aE9egAAAAAArJx5IaXnanG4gahOdzuNm",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 179106,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas De Dos Siglos",
         "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 197026,
       "name": "Un Viejo Amor",
       "url": "https://open.spotify.com/track/3DReAwTPRU1HNKEhLK09iU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Folk Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX5lHBoCtADgQ)
 
-> Enjoy the folk from Punjab\. Cover: Gurdas Maan
+> Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-117 songs - 7 hr 23 min
+120 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 | 2021-11-03 |  |
 | [Chan Kithan Guzari Ayee Raat](https://open.spotify.com/track/6lhj5jxQ824CfnrAyjjvMR) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 3:15 | 2021-11-03 | 2025-04-19 |
 | [Chan Kithe Guzari Ayeerat](https://open.spotify.com/track/1cru0v9dm9EkUrCwtOwNA5) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 3:15 | 2022-07-16 | 2024-04-19 |
-| [Chann Kithaan](https://open.spotify.com/track/6QIg2fockltXGj8bxEta4y) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2) | [Chann Kithaan](https://open.spotify.com/album/1BZosnxUj4uQuKf4UGPWum) | 2:03 | 2025-01-31 |  |
+| [Chann Kithaan](https://open.spotify.com/track/6QIg2fockltXGj8bxEta4y) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2) | [Chann Kithaan](https://open.spotify.com/album/1BZosnxUj4uQuKf4UGPWum) | 2:03 | 2025-01-31 | 2025-06-18 |
 | [Charkha Chanan Da](https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH) | [Charkha Chanan Da \- Single](https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db) | 2:41 | 2021-11-03 |  |
 | [Charkha The Vibe](https://open.spotify.com/track/09R2sRYoPdCcDNcCiyGQJI) | [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Charkha The Vibe](https://open.spotify.com/album/7IwTJvvcQF74BnkFLp0rDD) | 3:50 | 2024-09-16 |  |
 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 | 2021-11-03 |  |
@@ -64,12 +64,14 @@
 | [Jugni](https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Jugni](https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e) | 5:01 | 2022-03-03 | 2024-12-23 |
 | [Jutti Kasuri](https://open.spotify.com/track/6FYMT994PoloaFGnSIXLMG) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5) | [Jutti Kasuri](https://open.spotify.com/album/6Be19hOUDqXvOqGWtzCqXd) | 3:26 | 2022-07-16 | 2023-10-11 |
 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 | 2021-11-03 |  |
+| [Jutti Kasuri \- SarabMix](https://open.spotify.com/track/5j3Q3ilqdu2rLe3YgOLGZW) | [Sarab](https://open.spotify.com/artist/4O0eTdOfPsDWmWd8j4WPva), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Jutti Kasuri \- SarabMix](https://open.spotify.com/album/2DdAwTgReNxh62MtFDQP9N) | 4:36 | 2025-06-17 |  |
 | [Jutti Meri \(Live\)](https://open.spotify.com/track/4RXpYrUS1ARaN3euvGHpTj) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\) \- Single](https://open.spotify.com/album/1T18aurspe5ouDMzg9Xaas) | 3:28 | 2021-11-03 | 2025-04-19 |
 | [Jutti Meri \(Live\)](https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\)](https://open.spotify.com/album/3R2cCLXlBCGtV7TKDN1AoE) | 3:28 | 2023-08-17 | 2024-04-19 |
-| [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 | 2021-11-03 |  |
+| [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 | 2021-11-03 | 2025-06-18 |
+| [Kala Dooria](https://open.spotify.com/track/2U2xgNrMtfHtXks6TrY1zt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat \-E\- Punjab,Vol\. 1](https://open.spotify.com/album/79G3oFYdXkf3sjZ4HyHAaz) | 2:59 | 2025-06-17 |  |
 | [Kala Sha Kala](https://open.spotify.com/track/401L9cuL8my61jXIMZDV0t) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/0T7GZkw5POnYikelmZTA1g) | 3:15 | 2022-11-09 | 2024-09-17 |
 | [Kala Sha Kala](https://open.spotify.com/track/5WlEghZayE7SbG5QJi4knC) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/3ghfzOtkMqb3XI19cn8zO6) | 3:15 | 2023-12-21 | 2024-04-19 |
-| [Kala Sha Kala](https://open.spotify.com/track/2M0bkSIaWEQzTty9hH3qk4) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Kala Sha Kala](https://open.spotify.com/album/5ismGqBiZHXVSOTy2r8l4M) | 2:38 | 2025-04-18 |  |
+| [Kala Sha Kala](https://open.spotify.com/track/2M0bkSIaWEQzTty9hH3qk4) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Kala Sha Kala](https://open.spotify.com/album/5ismGqBiZHXVSOTy2r8l4M) | 2:38 | 2025-04-18 | 2025-06-18 |
 | [Kala Shah Kala](https://open.spotify.com/track/0AsI6bQU0DWpjuotmAnrdR) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa, Vol\. 2](https://open.spotify.com/album/4tvEZ7lQ6w8yeLJV54oOBH) | 2:55 | 2022-07-16 | 2024-04-19 |
 | [Kala Shah Kala \- Original](https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa Volume 2](https://open.spotify.com/album/6KP8Y0FU1zfhz5cPMuGjIj) | 2:55 | 2021-11-03 | 2024-09-20 |
 | [Kale Rang Da Paranda](https://open.spotify.com/track/2Ji2Z2siL7qukqNTf7fi1r) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kale Rang Da Paranda](https://open.spotify.com/album/2TfxtYFeoc5yqzGJTZZwWm) | 2:22 | 2022-05-12 | 2025-03-17 |
@@ -82,6 +84,7 @@
 | [Kangi Wanwan \- Live](https://open.spotify.com/track/7pKDQawo9ClvxVmRBYTzaM) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kangi Wanwan / Bobby Jeth \(Live\) \- Single](https://open.spotify.com/album/2Xgp2lbLFymILvM4XtqAKU) | 4:10 | 2021-11-03 | 2023-09-02 |
 | [Kleriyaa Mora](https://open.spotify.com/track/3bFDMq8a1HOemL91NG9Ipg) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf) | [Kleriyaa Mora](https://open.spotify.com/album/0IgcdYiFdbRj0aeHLV5AcR) | 2:45 | 2025-04-21 |  |
 | [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 | 2023-08-17 |  |
+| [Kut Kut Bajra](https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt) | [Radhika Chopra](https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD) | [The Great Big Punjabi Wedding](https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1) | 5:29 | 2025-06-17 |  |
 | [Laggiyan Ne Maujaan \- Natiya Kalam](https://open.spotify.com/track/2f3Nw8rClVhNMFIvNMjyJA) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Sound Of Soil](https://open.spotify.com/album/7jHbAHAgGKBQtw4g1Dcde0) | 4:35 | 2024-10-03 |  |
 | [Latte Di Chaadar](https://open.spotify.com/track/750CbPOpDXypQF2tzaCwTA) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj), [Fusedhead](https://open.spotify.com/artist/2AYncTUJDzM5oo84LXFu0k) | [Latte Di Chaadar](https://open.spotify.com/album/2yu3Xji3BFHDIzXqlr71vR) | 2:30 | 2025-02-19 | 2025-03-22 |
 | [Latthe Di Chadar](https://open.spotify.com/track/7ChxPqmCd0XQB8TXMGGg9V) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/67THXG06aDn1odJW7DRGqa) | 3:02 | 2022-07-16 | 2024-04-19 |

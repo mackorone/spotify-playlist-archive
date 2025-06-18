@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: The Purge & The Saints
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,156 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,273 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 98 | [Higher](https://open.spotify.com/track/0OimFKahMR1inr2Wl07T4P) | [Digital Madness](https://open.spotify.com/artist/5G1EFKlxqENrQJnQ1sWKzl) | [Higher](https://open.spotify.com/album/1RumGy0vd7wfgEc5LGd0Hs) | 2:43 |
 | 99 | [Neon Lights](https://open.spotify.com/track/1iTU4hiFF1wxV2Qq7zyZW8) | [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Sonja](https://open.spotify.com/artist/2kUEcgQJdhP8QmIkYIN2Ax) | [Neon Lights](https://open.spotify.com/album/2PyWEgDZQDKnSu0JyKIfqg) | 2:58 |
 
-Snapshot ID: `aFAR3QAAAAC2KuMF3B6pQGhSjL7KL7/L`
+Snapshot ID: `aFAR3QAAAABoGYmXS185gXifaP3T+goi`

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,267 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,273 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Height Difference](https://open.spotify.com/track/1wiyZkzlC6EFMCpXc3EkPu) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [My Curations Vol.3 YEWON](https://open.spotify.com/album/7Ca8yelDySjWtVbYEBCYXc) | 3:33 |
+| 1 | [Unspoken](https://open.spotify.com/track/5fO9P4c910wBwXdhEyTjaG) | [Namgyuwon](https://open.spotify.com/artist/4CYkBgLLAd298fLdnHjWcb) | [Unspoken](https://open.spotify.com/album/6W1n8WC17frASCYcSBpYPX) | 3:32 |
 | 2 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
-| 3 | [Shall we take a walk?](https://open.spotify.com/track/4Xsz6SZf1fP6x4BCU38fay) | [BAMBEE](https://open.spotify.com/artist/39Kj1C8oRkAcmVQbwI3Ttn) | [Shall we take a walk?](https://open.spotify.com/album/7FRUeWI1e0iOeGvqGJ4h0m) | 3:32 |
+| 3 | [열어도 되어요](https://open.spotify.com/track/4OeS83JBtLaSb0YpmDXE2I) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [HAAN X SHIRT : Energy](https://open.spotify.com/album/5jHoX07f3takq1mUAfl3bT) | 2:51 |
 | 4 | [Some \(feat\. Lil Boi\)](https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Some](https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6) | 3:31 |
-| 5 | [Heart Flutter](https://open.spotify.com/track/2PekSC1KXS5vdF7jvdYDg5) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [Heart Flutter](https://open.spotify.com/album/3TbAeUbrSPkFludvpC3kSZ) | 3:28 |
+| 5 | [내 맘 알까](https://open.spotify.com/track/5AIBtAiMAY0h7uDLOnxzRk) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [인형의 집 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/6GiYofFzmXQzQKaDdYcNcy) | 2:57 |
 | 6 | [Serenade](https://open.spotify.com/track/0mJohf6KCgFeCWbMBAS8RL) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 3:03 |
-| 7 | [사랑으로 \(♥x4\)](https://open.spotify.com/track/5YKQQA2H0aHhRhPubGd9Ku) | [SEOY](https://open.spotify.com/artist/4NqrhuH2B9jU1aCWpXU1Yh) | [사랑으로 \(♥x4\)](https://open.spotify.com/album/6TKRDsf3AlJFPjgjf7Y06a) | 2:57 |
-| 8 | [Give Love](https://open.spotify.com/track/2A3ShNautqXezP1lFDePwa) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 2:56 |
-| 9 | [99.9% \(WONWOO Solo\)](https://open.spotify.com/track/6PEeh7wjIJpwTOxjjhsAcJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:05 |
-| 10 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
-| 11 | [YOU TOO?](https://open.spotify.com/track/2X7IfV1hmIqvIc8koxIaph) | [SNAZZY](https://open.spotify.com/artist/33ZFdfByy5vw8h4VodoSzo) | [YOU TOO?](https://open.spotify.com/album/3BfzmrEtYhO9RlVkf6lIN4) | 3:14 |
-| 12 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
-| 13 | [CHECKLIST](https://open.spotify.com/track/4Qs0LHbUWwhHFQ7iflUfht) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [CHECKLIST](https://open.spotify.com/album/6tZwL5giROuqK4YZnl185Y) | 3:09 |
-| 14 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
-| 15 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
+| 7 | [Give Love](https://open.spotify.com/track/2A3ShNautqXezP1lFDePwa) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 2:56 |
+| 8 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
+| 9 | [Height Difference](https://open.spotify.com/track/1wiyZkzlC6EFMCpXc3EkPu) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [My Curations Vol.3 YEWON](https://open.spotify.com/album/7Ca8yelDySjWtVbYEBCYXc) | 3:33 |
+| 10 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
+| 11 | [Shall we take a walk?](https://open.spotify.com/track/4Xsz6SZf1fP6x4BCU38fay) | [BAMBEE](https://open.spotify.com/artist/39Kj1C8oRkAcmVQbwI3Ttn) | [Shall we take a walk?](https://open.spotify.com/album/7FRUeWI1e0iOeGvqGJ4h0m) | 3:32 |
+| 12 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
+| 13 | [사랑으로 \(♥x4\)](https://open.spotify.com/track/5YKQQA2H0aHhRhPubGd9Ku) | [SEOY](https://open.spotify.com/artist/4NqrhuH2B9jU1aCWpXU1Yh) | [사랑으로 \(♥x4\)](https://open.spotify.com/album/6TKRDsf3AlJFPjgjf7Y06a) | 2:57 |
+| 14 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
+| 15 | [99.9% \(WONWOO Solo\)](https://open.spotify.com/track/6PEeh7wjIJpwTOxjjhsAcJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:05 |
 | 16 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
 | 17 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 18 | [A Lot Like Love](https://open.spotify.com/track/5Mu3n2L96MX1lU2EHqnD7p) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 7](https://open.spotify.com/album/5sziiV2dSUuADgsBl2M39P) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 49 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
 | 50 | [Bashfulness](https://open.spotify.com/track/65xSudQzn6jM0QRXcSMcXU) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [bright \#4](https://open.spotify.com/album/39B1ZrREuZZ1U0W70xFUAh) | 3:25 |
 
-Snapshot ID: `aEeWWAAAAABnI1Uk9zED9NGuh+353/mp`
+Snapshot ID: `aFD+qgAAAADCsdNKHHga31ZRxNsZYHhY`

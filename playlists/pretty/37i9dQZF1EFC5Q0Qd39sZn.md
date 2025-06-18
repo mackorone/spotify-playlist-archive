@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,035 likes - 570 songs - 1 day 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,039 likes - 570 songs - 1 day 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 100 | [Leave While I'm Not Looking](https://open.spotify.com/track/2aiey41vnKkRbmqaTZunbJ) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:53 |
 | 101 | [Once In A Lifetime](https://open.spotify.com/track/5MPaYcjSRsQIIjStlGmtX2) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [That's Me](https://open.spotify.com/album/62CDxOlX4fNlDStY5CbSUK) | 5:53 |
 | 102 | [I Got You](https://open.spotify.com/track/39tS2EMGXgiJwBY5xr7Itn) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:56 |
-| 103 | [You Can't Break A Broken Heart](https://open.spotify.com/track/2k2McMgls2mmZBGLoAPbwJ) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [Don't Look Away \(Deluxe Edition\)](https://open.spotify.com/album/5xvXNSYrPSYxsS48C9N6iM) | 3:38 |
-| 104 | [Saving Forever for You](https://open.spotify.com/track/6pVU9bk1Tvbqlq719vJooz) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Beverly Hills 90210\-The Soundtrack](https://open.spotify.com/album/17zrIQKituLxyNrpFbxYxp) | 4:28 |
+| 103 | [Saving Forever for You](https://open.spotify.com/track/6pVU9bk1Tvbqlq719vJooz) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Beverly Hills 90210\-The Soundtrack](https://open.spotify.com/album/17zrIQKituLxyNrpFbxYxp) | 4:28 |
+| 104 | [You Can't Break A Broken Heart](https://open.spotify.com/track/2k2McMgls2mmZBGLoAPbwJ) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [Don't Look Away \(Deluxe Edition\)](https://open.spotify.com/album/5xvXNSYrPSYxsS48C9N6iM) | 3:38 |
 | 105 | [The Arms of the One Who Loves You](https://open.spotify.com/track/6Zyk31Yyk7AUU1TTJn7plb) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Traces Of My Lipstick](https://open.spotify.com/album/2vURwAnzdxnAlocCPmLG95) | 4:20 |
 | 106 | [How Do I Live \- Extended Mix](https://open.spotify.com/track/7jVkRbHbcw9wO5tNlBOiWR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [You Light Up My Life](https://open.spotify.com/album/5FXJHigDDA8I1xT47xpsWk) | 4:57 |
 | 107 | [Inescapable \- Youngboyz Mix](https://open.spotify.com/track/23fecagpmaDqzJzf0nDWRS) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 3:35 |
@@ -327,8 +327,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 317 | [Stop Time Tonight](https://open.spotify.com/track/2XmSd93cDzMcFoZR3JYTrL) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Life](https://open.spotify.com/album/37QTLk15OwBegvWfBWk36J) | 4:00 |
 | 318 | [I Cried My Last Tear Last Night](https://open.spotify.com/track/47BLoOazepLdnSO1wDbdwJ) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Lisa Stansfield \(Deluxe\)](https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0) | 4:13 |
 | 319 | [Real](https://open.spotify.com/track/2QpPdXi2P1faOWJF7sCpbR) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Natalia Jiménez](https://open.spotify.com/album/0dX49zpwRsHhSbS8FydkNn) | 3:38 |
-| 320 | [What Kind of World \(Would This World Be\)](https://open.spotify.com/track/5YQraNykQGxRvGlvWGZwTL) | [Dance To Tipperary](https://open.spotify.com/artist/21FrMfKPa7X3C0VXb0tDDh) | [What Kind of World \(Would This World Be\)](https://open.spotify.com/album/5w7R2izbGhql7K6IGzZ5cL) | 3:32 |
-| 321 | [You Can't Fight Fate](https://open.spotify.com/track/0AHjC8WFFv0jsEqgiW03Ui) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:41 |
+| 320 | [You Can't Fight Fate](https://open.spotify.com/track/0AHjC8WFFv0jsEqgiW03Ui) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:41 |
+| 321 | [What Kind of World \(Would This World Be\)](https://open.spotify.com/track/5YQraNykQGxRvGlvWGZwTL) | [Dance To Tipperary](https://open.spotify.com/artist/21FrMfKPa7X3C0VXb0tDDh) | [What Kind of World \(Would This World Be\)](https://open.spotify.com/album/5w7R2izbGhql7K6IGzZ5cL) | 3:32 |
 | 322 | [You're Where I Belong](https://open.spotify.com/track/6NVLSkxjMXOOQtIMKD86Sl) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:14 |
 | 323 | [Eyes Of A Fool](https://open.spotify.com/track/3lAAQmO8XbaNHXTUIPOcZT) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:08 |
 | 324 | [Lonely Beat Of My Heart](https://open.spotify.com/track/71qwV7NMb0cFnH4Z9oahzb) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [Rock Gems](https://open.spotify.com/album/2eyyZaY5wXNQyzzKMWRIqa) | 4:14 |
@@ -579,4 +579,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 569 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 570 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab0UyAAAAAD3r9i5S4E1OQgsL8Ait4qK`
+Snapshot ID: `Ab0aQAAAAAC5lOg2vG/VWIKo1WjQBGm4`

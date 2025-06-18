@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,031 likes - 60 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,149 likes - 60 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 59 | [Defender \(Single Version\)](https://open.spotify.com/track/1tXwCl86WZDkyTMPVrRwCP) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Defender \(Single Version\)](https://open.spotify.com/album/1p6Eq4ist8ZcEhQdhwYkoi) | 4:39 |
 | 60 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 |
 
-Snapshot ID: `aDATOgAAAACFz+ztbrBWdR3eYW73JQYP`
+Snapshot ID: `aDATOgAAAADH3y3oPKx6v+wpbMawh9V7`

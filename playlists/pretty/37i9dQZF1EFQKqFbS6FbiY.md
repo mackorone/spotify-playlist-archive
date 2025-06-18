@@ -466,8 +466,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 456 | [Álcool na Mente](https://open.spotify.com/track/62gvDRVsoAvzEWo8zX6UMm) | [Karol kailler](https://open.spotify.com/artist/3Uroh9qzMYt6Qo9WsrwiXg) | [Minhas Regras](https://open.spotify.com/album/4YU2LUtO2UGKjL71MXfvmL) | 2:53 |
 | 457 | [Trenzão](https://open.spotify.com/track/4YHvKkB2sZNwQyvEybWenp) | [Hugo Matta](https://open.spotify.com/artist/6Olch7A7o6ihZVv5BgGJGj) | [Trenzão](https://open.spotify.com/album/0nsEcXARPqLOHNYFY3oyx7) | 2:31 |
 | 458 | [As Fitas do Amado Batista \- Ao Vivo](https://open.spotify.com/track/2PlohnwQixMvgu70gqsozB) | [Enzo & Thiago](https://open.spotify.com/artist/0nIcJLDRRSsTkZ3rI7l6Pm) | [As Fitas do Amado Batista / Farinha do Mesmo Saco \(Ao Vivo\)](https://open.spotify.com/album/5yo4vuiYcFqt7wsMuLc6Fk) | 2:26 |
-| 459 | [Tim Tim pra Solidão](https://open.spotify.com/track/2TNQwxLctW6MTQzKZc94cB) | [João Lucas & Diogo](https://open.spotify.com/artist/1zehUQoCz1PI3F4VtppSjA) | [Proibido Que É Bom](https://open.spotify.com/album/5i24MBfC2JvSOzxtHXGAZ3) | 2:54 |
-| 460 | [Ex do Seu Atual](https://open.spotify.com/track/7jtOupSpYVpVZDqODguqUj) | [Banda 007](https://open.spotify.com/artist/4aI6jDLkxjcSR1PpuJ7Vk9) | [Volume 05 \- Flores](https://open.spotify.com/album/00ZtgeXQi2jeF9anL5Gbha) | 3:32 |
+| 459 | [Ex do Seu Atual](https://open.spotify.com/track/7jtOupSpYVpVZDqODguqUj) | [Banda 007](https://open.spotify.com/artist/4aI6jDLkxjcSR1PpuJ7Vk9) | [Volume 05 \- Flores](https://open.spotify.com/album/00ZtgeXQi2jeF9anL5Gbha) | 3:32 |
+| 460 | [Tim Tim pra Solidão](https://open.spotify.com/track/2TNQwxLctW6MTQzKZc94cB) | [João Lucas & Diogo](https://open.spotify.com/artist/1zehUQoCz1PI3F4VtppSjA) | [Proibido Que É Bom](https://open.spotify.com/album/5i24MBfC2JvSOzxtHXGAZ3) | 2:54 |
 | 461 | [Batom de Campari \- Ao Vivo](https://open.spotify.com/track/2hqBc4HKE8iV2jxmebAst3) | [João Paulo & André](https://open.spotify.com/artist/5BkncJg4WgKJvJufm8UdbR) | [Ensine a Contar Nossos Dias \(Ao Vivo\)](https://open.spotify.com/album/0OxbKynYvso5tFt2X8sszf) | 2:22 |
 | 462 | [Band\-Aid \- Ao Vivo](https://open.spotify.com/track/5vRfVmLiDREZ5VCA0DdQ8t) | [Fabrício & Henrique](https://open.spotify.com/artist/37KhHt9AiI1rVk6eydGafz) | [Relógio de Saudade \(Ao Vivo\)](https://open.spotify.com/album/0nuZfNDtaa4cgkxBs78ZiU) | 2:22 |
 | 463 | [Arreguei Pra Ela \- Ao Vivo](https://open.spotify.com/track/6V8C196Le4BLaCGvaaoSJ2) | [Felipe Nunes](https://open.spotify.com/artist/4wyNa7r8520lzGB4OikH26) | [O Recomeço \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/0TcLdpuwIMbOGSwTKCpQRh) | 3:00 |
@@ -558,4 +558,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 548 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 549 | [Vontadezinha](https://open.spotify.com/track/53SHolQrZOGAEAdlLIJBph) | [Caio & Breno](https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL) | [Vontadezinha](https://open.spotify.com/album/1ZbOsEaXSBdSyQreVmq2IV) | 2:42 |
 
-Snapshot ID: `Ab0U0gAAAADeA/FSxeGgSABFmjWHYyyk`
+Snapshot ID: `Ab0aSgAAAADzRwHEWiuAUxZYDZoq5Evc`

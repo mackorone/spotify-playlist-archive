@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Olivia Dean
 
-2,135 songs - 4 day 17 hr 0 min
+2,136 songs - 4 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Butterflies](https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Butterflies](https://open.spotify.com/album/4gV9MDYWSaZV9OYL8l1vqW) | 2:56 | 2022-06-17 | 2022-10-13 |
 | [Butterflies](https://open.spotify.com/track/1nUzZ1rxEQBHdxiUL9mj9i) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Greatest Hits](https://open.spotify.com/album/0TVzUmZ0PC3iE9Ctpr0XM5) | 3:06 | 2020-10-13\* | 2021-10-12 |
 | [butterflies,](https://open.spotify.com/track/2V9aOl8SmtGh657MjnxSX9) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [butterflies,](https://open.spotify.com/album/0wr1UdlxD4zZR7StZUBV3H) | 2:41 | 2022-01-21 | 2022-04-21 |
-| [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 |  |
+| [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 | 2025-06-18 |
 | [buzzkill](https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:35 | 2025-04-25 | 2025-06-14 |
 | [buzzkill](https://open.spotify.com/track/1xFkcJjWuLlq8CIymwSTw9) | [Mothica](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [forever fifteen](https://open.spotify.com/album/3GWDTDhstbhNxfyZJKwqVU) | 2:20 | 2021-03-19 | 2021-10-11 |
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-17 | 2022-08-06 |
@@ -1201,6 +1201,7 @@
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-13 | 2024-10-26 |
 | [Make You Mine](https://open.spotify.com/track/6E6DXpiRT7ZgQzdYlBjWd4) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Make You Mine](https://open.spotify.com/album/5gGh7FZcnDw316kTGP0iYO) | 3:44 | 2020-10-20 | 2020-10-21 |
 | [Makes Me Happy](https://open.spotify.com/track/6doD2ZsNXzxHNXag1BAAuY) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Makes Me Happy](https://open.spotify.com/album/0GeVuYV8Dy2pTHpuDR3IH0) | 2:52 | 2022-01-28 | 2022-07-26 |
+| [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 | 2025-06-06 |  |
 | [Malibu 1992](https://open.spotify.com/track/0nMqu5vN44GNv8UOQxmBJK) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 5:41 | 2022-01-18 | 2022-02-26 |
 | [malibu.](https://open.spotify.com/track/3LRQtyho3Sgn6tCCu1WKT0) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [malibu.](https://open.spotify.com/album/1gqX69tDVdC04HlhMEWG4p) | 3:20 | 2022-06-17 | 2022-07-30 |
 | [Malleable](https://open.spotify.com/track/5RpZBENYCjZE7t9M823v0S) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable](https://open.spotify.com/album/6m0ibc9oEx9tiYhbk7D4sA) | 2:48 | 2020-10-20 | 2020-10-21 |

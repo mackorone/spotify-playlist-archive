@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 24723,
+  "num_followers": 24729,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Street Gossip",
+        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 182723,
+      "name": "Time (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "State of Emergency",
         "url": "https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 214825,
       "name": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
       "url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Street Gossip",
-        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 182723,
-      "name": "Time (feat. Meek Mill)",
-      "url": "https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABTmK8sXPtU2yeZavwseTGr",
+  "snapshot_id": "aE9egAAAAAAogqHnj5GevsBIkwWnRxQO",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
-      },
-      "artists": [
-        {
-          "name": "Grafh",
-          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 270419,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Irv Gotti Presents...The Remixes",
         "url": "https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT"
       },
@@ -123,22 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Informal Introduction OG",
-        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
       },
       "artists": [
         {
-          "name": "Shade Sheist",
-          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
         },
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 282240,
-      "name": "All I Know (feat. Irv Gotti)",
-      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
+      "duration_ms": 270419,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
     },
     {
       "added_at": null,
@@ -167,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irv Gotti Presents: The Murderers",
-        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
+        "name": "Informal Introduction OG",
+        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
       },
       "artists": [
+        {
+          "name": "Shade Sheist",
+          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+        },
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 130826,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
+      "duration_ms": 282240,
+      "name": "All I Know (feat. Irv Gotti)",
+      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
     },
     {
       "added_at": null,
@@ -207,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Open Door (feat. Irv Gotti) - Single",
-        "url": "https://open.spotify.com/album/5PWH056YOtScBzErZitdHx"
+        "name": "Irv Gotti Presents: The Murderers",
+        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
       },
       "artists": [
-        {
-          "name": "Chunk",
-          "url": "https://open.spotify.com/artist/4BJ2npDKREG84GsC8mKGHN"
-        },
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 229643,
-      "name": "Open Door",
-      "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
+      "duration_ms": 130826,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
     },
     {
       "added_at": null,
@@ -247,6 +227,26 @@
       "duration_ms": 233773,
       "name": "Here We Come",
       "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Door (feat. Irv Gotti) - Single",
+        "url": "https://open.spotify.com/album/5PWH056YOtScBzErZitdHx"
+      },
+      "artists": [
+        {
+          "name": "Chunk",
+          "url": "https://open.spotify.com/artist/4BJ2npDKREG84GsC8mKGHN"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 229643,
+      "name": "Open Door",
+      "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
     },
     {
       "added_at": null,

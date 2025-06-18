@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Sunday Service Choir, Tramaine Hawkins, Chicago Mass Choir and more
+> With Sunday Service Choir, Chicago Mass Choir, Kelontae Gavin and more
 
 1,754 songs - 5 day 12 hr 37 min
 

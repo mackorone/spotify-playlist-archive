@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: skantia
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,027 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,055 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 47 | [Aim High](https://open.spotify.com/track/7oavYorF6d5ZY54v4ePltt) | [Drumsound & Bassline Smith](https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh) | [Aim High](https://open.spotify.com/album/2Sa5LRyomt48DxYzqog0ZC) | 3:46 |
 | 48 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 49 | [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 |
-| 50 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
-| 51 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 |
-| 52 | [Liftoff](https://open.spotify.com/track/4yI74bdkCfRmhr3BzMTLwU) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [X12](https://open.spotify.com/album/4f1MB3TwIBkzUixeNncZIw) | 3:00 |
-| 53 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
-| 54 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |
+| 50 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 |
+| 51 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
+| 52 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
+| 53 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |
+| 54 | [Liftoff](https://open.spotify.com/track/4yI74bdkCfRmhr3BzMTLwU) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [X12](https://open.spotify.com/album/4f1MB3TwIBkzUixeNncZIw) | 3:00 |
 | 55 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 |
 
 Snapshot ID: `aDjm+wAAAAB7M6Jr149wxGU8uefsYPh5`

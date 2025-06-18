@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,067 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,097 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,15 +97,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 87 | [El Burro Loco](https://open.spotify.com/track/1daCaKKKumwrRr8vMqyn6A) | [El Compa Sebas Y Su Teclado](https://open.spotify.com/artist/7yFKqPasXxhmMvQgPrpsdu) | [El Burro Loco](https://open.spotify.com/album/0lLCNXX3w4XBNukORTkd7u) | 3:24 |
 | 88 | [Sin ti no se vivir](https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M) | [Grandes Éxitos](https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf) | 2:28 |
 | 89 | [Contigo Tengo Todo](https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Versiones Unicas de los Reyes](https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj) | 4:39 |
-| 90 | [Par\-Tusa](https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Par\-Tusa](https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo) | 3:10 |
-| 91 | [Que Nadie Se Entere \- Remix](https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Que Nadie Se Entere \(Remix\)](https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM) | 3:06 |
+| 90 | [Que Nadie Se Entere \- Remix](https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Que Nadie Se Entere \(Remix\)](https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM) | 3:06 |
+| 91 | [Par\-Tusa](https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Par\-Tusa](https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo) | 3:10 |
 | 92 | [Amor Pirata](https://open.spotify.com/track/1R9JnADAGmTTKm2fXDMgDi) | [Grupo Pesadilla](https://open.spotify.com/artist/0RT9458AUQAWcE4cmYHClB) | [Grandes Exitos](https://open.spotify.com/album/69jH1bpOlDvg57wbK7cJ5J) | 3:27 |
 | 93 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 |
 | 94 | [De los Besos Que Te Di](https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [De los Besos Que Te Di](https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws) | 3:06 |
-| 95 | [Me Re Cabio](https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 3:09 |
-| 96 | [Lo Intentamos](https://open.spotify.com/track/2Qj3RcwYRKV7AR2qpAapB8) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Intentamos](https://open.spotify.com/album/2Sm5w6stIMeYwnjaE8nuV5) | 3:34 |
-| 97 | [La Barca](https://open.spotify.com/track/6EGBtAnzmEgJt2On3b26zr) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Un Clásico](https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85) | 2:46 |
-| 98 | [Se Olvidó y Bailó](https://open.spotify.com/track/4IMPF8DbGggiFMvrnruoos) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Se Olvidó y Bailó](https://open.spotify.com/album/6YpnE3LDo2JwSEH1rdL9Vo) | 2:36 |
+| 95 | [Lo Intentamos](https://open.spotify.com/track/2Qj3RcwYRKV7AR2qpAapB8) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Intentamos](https://open.spotify.com/album/2Sm5w6stIMeYwnjaE8nuV5) | 3:34 |
+| 96 | [Me Re Cabio](https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 3:09 |
+| 97 | [Se Olvidó y Bailó](https://open.spotify.com/track/4IMPF8DbGggiFMvrnruoos) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Se Olvidó y Bailó](https://open.spotify.com/album/6YpnE3LDo2JwSEH1rdL9Vo) | 2:36 |
+| 98 | [La Barca](https://open.spotify.com/track/6EGBtAnzmEgJt2On3b26zr) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Un Clásico](https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85) | 2:46 |
 | 99 | [No Se Va \- En Vivo](https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/7wSlC7xpd3WboQgYQtC55G) | 2:52 |
 | 100 | [Joda Clandestina](https://open.spotify.com/track/0GagwFgtQHNefc02XXEsMP) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Joda Clandestina](https://open.spotify.com/album/0EPQkabXlUpa2Py5Wu9bXs) | 2:37 |
 

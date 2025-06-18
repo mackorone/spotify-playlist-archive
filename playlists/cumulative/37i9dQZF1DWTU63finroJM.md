@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,026 songs - 4 day 13 hr 29 min
+2,027 songs - 4 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Alleine](https://open.spotify.com/track/1ZZOVNsDP6b2plck5AL3tn) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Alleine](https://open.spotify.com/album/29h7ryq6taHeULkUT2Cuhj) | 3:23 | 2023-08-18 | 2023-09-09 |
 | [ALLO?C MOI](https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [ALLO?C MOI](https://open.spotify.com/album/41DPBGQl4RL8QqJlm5cxP7) | 2:14 | 2025-01-31 | 2025-03-15 |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-02-03 | 2022-05-03 |
-| [Alone With You](https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:30 | 2025-04-04 |  |
+| [Alone With You](https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:30 | 2025-04-04 | 2025-06-18 |
 | [alright](https://open.spotify.com/track/7uLS2rNVFpYIF5JjISzXVx) | [Ben Dolic](https://open.spotify.com/artist/7bxAuu4sINh8Rwljqdzwcx) | [alright](https://open.spotify.com/album/1AouEvdW1tEGYJSwzPG8Rt) | 3:23 | 2024-05-03 | 2024-06-11 |
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/3x599jtfaReHmd6Ba77PD0) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/0G8o3ih2VPgnY1RUPnu5ck) | 2:40 | 2022-04-12 | 2022-04-20 |
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/5AimUqVfhUXe1jCRanTK72) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/5feJik71vEqH5bSdktYTjq) | 2:40 | 2022-09-08 | 2023-04-18 |
@@ -1743,6 +1743,7 @@
 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 | 2022-03-24 | 2023-04-18 |
 | [Weirdo](https://open.spotify.com/track/3sQBT0tor8HICVtn7YoNwt) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Weirdo](https://open.spotify.com/album/46mIIqrJLQdTpwy460Yaox) | 3:07 | 2022-06-29 | 2023-05-09 |
 | [Welcome Back](https://open.spotify.com/track/2tJIp1gWlV6NpUyriIvOfd) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Mirror](https://open.spotify.com/album/51etW6Ge46Vuuvhq5cgTQ6) | 3:08 | 2022-03-24 | 2023-04-18 |
+| [Went Blurry](https://open.spotify.com/track/62oSWLXBHWTBhwiDZURQLm) | [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [林](https://open.spotify.com/album/6rkMnXR21pzpwIlqa27uUV) | 2:46 | 2025-06-13 |  |
 | [Wes Tatas](https://open.spotify.com/track/7rOAImf8ZV913bfYAFIZR8) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/28ofPOImvuGZ2DyVX0mOzb) | 4:07 | 2022-02-03 | 2022-03-15 |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2022-03-24 | 2022-04-06 |
 | [What Do Girls Do?](https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [What Do Girls Do?](https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7) | 2:46 | 2025-01-10 | 2025-06-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,282 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,437 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 80 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
 | 81 | [Me enamoré](https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai) | [Jonathan Giménez](https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G) | [Me enamoré](https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5) | 4:06 |
 | 82 | [Sólo a Ti Jesús](https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Sólo a Ti Jesús](https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc) | 3:36 |
-| 83 | [Paciente Espero](https://open.spotify.com/track/2p0j9kUdhe3IsiHNQbtYcX) | [Sugar](https://open.spotify.com/artist/5S8QuWeAKHpjDqUtht6tkD), [Josue el Escogido](https://open.spotify.com/artist/1Wn7ONbHEVgHLcXaU9XzhZ) | [Cristonita Recharged](https://open.spotify.com/album/3HVvfvLPH1rzlK9jmzlsbJ) | 4:07 |
-| 84 | [Inima Mea Va Canta](https://open.spotify.com/track/4RWLO76SLaRgXmFpKcLPyN) | [PAS](https://open.spotify.com/artist/6FAriCKEIsbXXlLdXebgXu) | [Aproape de Tine](https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ) | 3:33 |
+| 83 | [Inima Mea Va Canta](https://open.spotify.com/track/4RWLO76SLaRgXmFpKcLPyN) | [PAS](https://open.spotify.com/artist/6FAriCKEIsbXXlLdXebgXu) | [Aproape de Tine](https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ) | 3:33 |
+| 84 | [Paciente Espero](https://open.spotify.com/track/2p0j9kUdhe3IsiHNQbtYcX) | [Sugar](https://open.spotify.com/artist/5S8QuWeAKHpjDqUtht6tkD), [Josue el Escogido](https://open.spotify.com/artist/1Wn7ONbHEVgHLcXaU9XzhZ) | [Cristonita Recharged](https://open.spotify.com/album/3HVvfvLPH1rzlK9jmzlsbJ) | 4:07 |
 | 85 | [Me Sumerjo en Ti](https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Me Sumerjo en Ti](https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4) | 3:22 |
 | 86 | [Dios Está en Control \- Radio Master](https://open.spotify.com/track/2PQEIqYiwLbQAT3k70Lkd2) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Dios Está en Control 2.0](https://open.spotify.com/album/2izTsmQHPf6BV4snaHjKGk) | 4:30 |
 | 87 | [Tu Luz](https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8) | [Winicius Nathan](https://open.spotify.com/artist/0okMmUI1LhZRWZVrtHmEqU), [Kevin Mendoza](https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK) | [Tu Luz](https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad) | 3:50 |

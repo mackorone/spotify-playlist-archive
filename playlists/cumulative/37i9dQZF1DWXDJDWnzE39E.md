@@ -4,7 +4,7 @@
 
 > A salute to all of the women who open up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-429 songs - 1 day 3 hr 25 min
+430 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [FAIRY METAL](https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:41 | 2022-03-11 | 2024-04-19 |
 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-08-07 | 2024-05-28 |
 | [Faking It](https://open.spotify.com/track/4yRqoKU4KlQIYlVFP4MiuJ) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [The Weight Of The Mask](https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre) | 5:28 | 2025-03-07 |  |
+| [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 | 2025-04-25 |  |
 | [Fantasy's Wings](https://open.spotify.com/track/5n4Ale9oujD3ZsfAM2NFG0) | [Ancient Bards](https://open.spotify.com/artist/3ZlSRBv3StWrGuGTAwKskP) | [Fantasy's Wings](https://open.spotify.com/album/5kKPRzB4yBekhxRbWaROKp) | 4:51 | 2020-12-07\* | 2020-12-11 |
 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 | 2025-03-07 |  |
 | [FATAL](https://open.spotify.com/track/1n9aWX9W7kbM9czknPMjlE) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [FATAL](https://open.spotify.com/album/34G9ajD2MdWFFWJUmXcvYH) | 3:18 | 2024-07-19 | 2024-09-24 |
@@ -409,7 +410,7 @@
 | [Vertigo](https://open.spotify.com/track/1glkXrrq1qC6lhcNijksWb) | [Sumo Cyco](https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4) | [Vertigo](https://open.spotify.com/album/2zx6YAkUgWJDY1EyLF28Jc) | 3:09 | 2021-04-10 | 2022-07-29 |
 | [Viral](https://open.spotify.com/track/1iqgx6BkWYRorWDLwkpMJZ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Viral](https://open.spotify.com/album/4yaARCXEEPrYUpdHFP45Aq) | 3:01 | 2020-12-07\* | 2020-12-11 |
 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-03-07 |  |
-| [Waiting For The Big One](https://open.spotify.com/track/3pfLenUsy8pXLRuRjt1LZN) | [Femme Fatale](https://open.spotify.com/artist/0xDDGefCrbhIgwbzZkeNsm) | [Femme Fatale](https://open.spotify.com/album/118do7wXbnu7lophp2Jhpj) | 4:24 | 2025-03-07 |  |
+| [Waiting For The Big One](https://open.spotify.com/track/3pfLenUsy8pXLRuRjt1LZN) | [Femme Fatale](https://open.spotify.com/artist/0xDDGefCrbhIgwbzZkeNsm) | [Femme Fatale](https://open.spotify.com/album/118do7wXbnu7lophp2Jhpj) | 4:24 | 2025-03-07 | 2025-06-18 |
 | [Wake The Dead](https://open.spotify.com/track/2Jvrhhgjyy5Tu8S8Is8sFb) | [September Mourning](https://open.spotify.com/artist/3u6jopsj6GeZAHJAmfUxk1) | [Wake The Dead](https://open.spotify.com/album/73Pgfi0hoibHQyesMK8x2R) | 3:26 | 2020-12-11 | 2022-07-29 |
 | [Wanted and Wild](https://open.spotify.com/track/71KBRRkf9uoIdW1sZ9zD3V) | [MoonSun](https://open.spotify.com/artist/1nSYsxBoOs3Cvi6j6WDXdS) | [Escapalace](https://open.spotify.com/album/3h7npJD5gTvtgblS9Zhqst) | 3:31 | 2020-12-07\* | 2022-07-17 |
 | [WARZ0NE](https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WARZ0NE](https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn) | 2:38 | 2024-03-26 | 2024-10-03 |

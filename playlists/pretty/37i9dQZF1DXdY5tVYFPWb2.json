@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 173887,
+  "num_followers": 173912,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
+        "name": "Groove it",
+        "url": "https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 214026,
+      "name": "\u30ca\u30a4\u30c8\u30b0\u30eb\u30fc\u30f4",
+      "url": "https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK"
+    },
+    {
+      "added_at": "2025-06-10 15:00:37",
+      "album": {
         "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
         "url": "https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 310160,
       "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
       "url": "https://open.spotify.com/track/7p2X86CP7JrIjbVEsZHU0h"
-    },
-    {
-      "added_at": "2025-06-10 15:00:37",
-      "album": {
-        "name": "Groove it",
-        "url": "https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "\u30ca\u30a4\u30c8\u30b0\u30eb\u30fc\u30f4",
-      "url": "https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK"
     },
     {
       "added_at": "2025-06-10 15:00:37",
@@ -855,18 +855,22 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "\u30aa\u30d7\u30c6\u30a3\u30ab\u30eb\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba\uff0f\u30b9\u30da\u30af\u30c8\u30e9\u30e0\uff12",
-        "url": "https://open.spotify.com/album/6INmbHhtLwcMV9QuCqjl7U"
+        "name": "Smoky Valley",
+        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
       "artists": [
         {
-          "name": "Spectrum",
-          "url": "https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF"
+          "name": "I love you Orchestra Swing Style",
+          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
+        },
+        {
+          "name": "mahina",
+          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
         }
       ],
-      "duration_ms": 210389,
-      "name": "F\u30fbL\u30fbY",
-      "url": "https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"
+      "duration_ms": 259000,
+      "name": "Night Distance",
+      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
     },
     {
       "added_at": "2025-06-10 15:00:37",
@@ -887,22 +891,38 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "Smoky Valley",
-        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
+        "name": "\u30aa\u30d7\u30c6\u30a3\u30ab\u30eb\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba\uff0f\u30b9\u30da\u30af\u30c8\u30e9\u30e0\uff12",
+        "url": "https://open.spotify.com/album/6INmbHhtLwcMV9QuCqjl7U"
       },
       "artists": [
         {
-          "name": "I love you Orchestra Swing Style",
-          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
-        },
-        {
-          "name": "mahina",
-          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
+          "name": "Spectrum",
+          "url": "https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Night Distance",
-      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+      "duration_ms": 210389,
+      "name": "F\u30fbL\u30fbY",
+      "url": "https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK"
+    },
+    {
+      "added_at": "2025-06-10 15:00:37",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ"
+      },
+      "artists": [
+        {
+          "name": "Funkindustry",
+          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
+        },
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+        }
+      ],
+      "duration_ms": 254929,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC"
     },
     {
       "added_at": "2025-06-10 15:00:37",
@@ -939,26 +959,6 @@
       "duration_ms": 228733,
       "name": "ASH feat. Vaundy",
       "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
-    },
-    {
-      "added_at": "2025-06-10 15:00:37",
-      "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ"
-      },
-      "artists": [
-        {
-          "name": "Funkindustry",
-          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
-        },
-        {
-          "name": "Natsu Summer",
-          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
-        }
-      ],
-      "duration_ms": 254929,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC"
     },
     {
       "added_at": "2025-06-10 15:00:37",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
-      },
-      "artists": [
-        {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
-    },
-    {
-      "added_at": "2025-06-10 15:00:37",
-      "album": {
         "name": "tonun 2",
         "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 205253,
       "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
       "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
+    },
+    {
+      "added_at": "2025-06-10 15:00:37",
+      "album": {
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
+      },
+      "artists": [
+        {
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2025-06-10 15:00:37",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
-    },
-    {
-      "added_at": "2025-06-10 15:00:37",
-      "album": {
         "name": "Glitter Eyes (feat. mindfreakkk)",
         "url": "https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 225000,
       "name": "Glitter Eyes (feat. mindfreakkk)",
       "url": "https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT"
+    },
+    {
+      "added_at": "2025-06-10 15:00:37",
+      "album": {
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2025-06-10 15:00:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "RIDE ON TIME",
-        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
-        }
-      ],
-      "duration_ms": 244752,
-      "name": "RIDE ON TIME",
-      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
-    },
-    {
-      "added_at": "2025-06-10 15:00:37",
-      "album": {
         "name": "Peppermint Time \uff5e20th Anniversary Best\uff5e",
         "url": "https://open.spotify.com/album/7meBtgpFcPhXVRtwytboHl"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 251266,
       "name": "\u7f8e\u3057\u3044\u9854 - with \u793c\u8cdb",
       "url": "https://open.spotify.com/track/2SwIWPeV9dvmFF4O5d0nUc"
+    },
+    {
+      "added_at": "2025-06-10 15:00:37",
+      "album": {
+        "name": "RIDE ON TIME",
+        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
+      },
+      "artists": [
+        {
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
+        }
+      ],
+      "duration_ms": 244752,
+      "name": "RIDE ON TIME",
+      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
     },
     {
       "added_at": "2025-06-10 15:00:37",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
-        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
+        "name": "READY",
+        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
       },
       "artists": [
         {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
         }
       ],
-      "duration_ms": 275935,
-      "name": "Document",
-      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
+      "duration_ms": 227951,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
     },
     {
       "added_at": "2025-06-10 15:00:37",
@@ -1543,18 +1543,34 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
       },
       "artists": [
         {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
         }
       ],
-      "duration_ms": 227951,
-      "name": "READY",
-      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
+      "duration_ms": 275935,
+      "name": "Document",
+      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
+    },
+    {
+      "added_at": "2025-06-10 15:00:37",
+      "album": {
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2025-06-10 15:00:37",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
-    },
-    {
-      "added_at": "2025-06-10 15:00:37",
-      "album": {
         "name": "Flower Garden",
         "url": "https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7"
       },
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
+      },
+      "artists": [
+        {
+          "name": "Mime",
+          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
+        }
+      ],
+      "duration_ms": 222464,
+      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
+      "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
+    },
+    {
+      "added_at": "2025-06-10 15:00:37",
+      "album": {
         "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONELINESS (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
-      },
-      "artists": [
-        {
-          "name": "Mime",
-          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
-        }
-      ],
-      "duration_ms": 222464,
-      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
-      "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
-    },
-    {
-      "added_at": "2025-06-10 15:00:37",
-      "album": {
         "name": "Grow apart",
         "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-06-10 15:00:37",
       "album": {
-        "name": "HOME TOWN \uff5eCover Songs\uff5e",
-        "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
-      },
-      "artists": [
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 304266,
-      "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
-      "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
-    },
-    {
-      "added_at": "2025-06-10 15:00:37",
-      "album": {
         "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30fb\u30d6\u30eb\u30fc\u30b9",
         "url": "https://open.spotify.com/album/2nRZF4bBVc5KL3MKuuPBpk"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 226492,
       "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30fb\u30d6\u30eb\u30fc\u30b9",
       "url": "https://open.spotify.com/track/3p2EfPkTncUEGp0vuRxAGz"
+    },
+    {
+      "added_at": "2025-06-10 15:00:37",
+      "album": {
+        "name": "HOME TOWN \uff5eCover Songs\uff5e",
+        "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 304266,
+      "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
     },
     {
       "added_at": "2025-06-10 15:00:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,054 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,066 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 24 | [Jolene \(feat\. Dolly Parton\)](https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [PTX Vol\. IV \- Classics](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) | 2:11 |
 | 25 | [Those Memories of You \- 2015 Remaster](https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 4:00 |
 | 26 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 |
-| 27 | [If You Hadn’t Been There](https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [If You Hadn’t Been There](https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD) | 3:28 |
-| 28 | [Words](https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Words](https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp) | 3:11 |
+| 27 | [Words](https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Words](https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp) | 3:11 |
+| 28 | [If You Hadn’t Been There](https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [If You Hadn’t Been There](https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD) | 3:28 |
 | 29 | [Silver Threads and Golden Needles](https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:23 |
 | 30 | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF) | 3:33 |
 | 31 | [Old Flames Can't Hold a Candle to You](https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly Dolly Dolly](https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [I Will Always Love You](https://open.spotify.com/track/3wTEtCLPMrXkw2bovFIVNO) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Songs of Cinema](https://open.spotify.com/album/7I6nVGkWC7IUrgyaMZiHUw) | 3:36 |
 | 50 | [Shine](https://open.spotify.com/track/4md4KRL6Z9ufa0je0Y3awL) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Little Sparrow](https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x) | 5:11 |
 
-Snapshot ID: `aE4NAAAAAACR0MLsZx2vnmTGfItue34m`
+Snapshot ID: `aE9egAAAAAB1KqPgnjPOZz/T83trMqtx`

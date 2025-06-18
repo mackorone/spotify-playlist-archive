@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0fO teu ver\u00e3o alternativo chegou\u2600\ufe0f. Foto: Capital da Bulg\u00e1ria",
-  "num_followers": 35219,
+  "num_followers": 35222,
   "original_name": "Ver\u00e3o Indie",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-06-05 23:00:09",
       "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
+    },
+    {
+      "added_at": "2025-06-05 23:00:09",
+      "album": {
         "name": "Forever Is A Feeling",
         "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
-    },
-    {
-      "added_at": "2025-06-05 23:00:09",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "added_at": "2025-06-05 23:00:09",

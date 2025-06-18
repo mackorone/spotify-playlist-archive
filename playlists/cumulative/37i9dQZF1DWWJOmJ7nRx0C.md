@@ -4,7 +4,7 @@
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Sleep Token
 
-1,480 songs - 3 day 16 hr 25 min
+1,481 songs - 3 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,6 +616,7 @@
 | [I Am The Weapon](https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:55 | 2022-10-14 | 2023-04-29 |
 | [I Believe](https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [I Believe](https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA) | 3:54 | 2025-04-04 |  |
 | [I Can't Take It](https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [I Can't Take It](https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT) | 2:52 | 2023-06-09 | 2023-09-02 |
+| [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 | 2025-06-17 |  |
 | [I COME ALIVE](https://open.spotify.com/track/15INkb1H6jpZgMnpa5flHf) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [I COME ALIVE](https://open.spotify.com/album/4LpPxp3nAPuOBR2s4oFi1S) | 4:24 | 2024-12-06 | 2025-01-25 |
 | [I Could Be Somebody Else](https://open.spotify.com/track/7tkQz6vnxBy0XreO6JDZ0w) | [NHC](https://open.spotify.com/artist/5NkZhEvaFqUeNVwXseoeS3) | [Intakes & Outtakes](https://open.spotify.com/album/3K55Mk5boxp0a26xVdgTKe) | 4:14 | 2022-02-04 | 2022-06-18 |
 | [I EXIST](https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [I EXIST](https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5) | 4:29 | 2022-07-22 | 2023-02-11 |
@@ -755,7 +756,7 @@
 | [Long Gone](https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone](https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc) | 3:31 | 2024-11-29 | 2025-01-11 |
 | [Look Alive \(Netic\)](https://open.spotify.com/track/4LAI7qgpkx8uoMdpobZrPg) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Melanin Punk](https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD) | 3:13 | 2023-10-20 | 2024-04-13 |
 | [Look Alive \(Netic\)](https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Look Alive \(Netic\)](https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1) | 3:13 | 2023-08-18 | 2023-10-21 |
-| [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-05-23 |  |
+| [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-05-23 | 2025-06-18 |
 | [Looking To Fight](https://open.spotify.com/track/4OqswqAHyGJykRO4WO86e6) | [Saul](https://open.spotify.com/artist/3bpsYqqHc3GqU3WclK4dpp) | [Rise As Equals](https://open.spotify.com/album/5yvG86aA4g307xeryVkjCo) | 3:50 | 2021-07-16 | 2022-02-19 |
 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 | 2022-07-15 | 2022-08-20 |
 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-02-11 | 2022-04-16 |

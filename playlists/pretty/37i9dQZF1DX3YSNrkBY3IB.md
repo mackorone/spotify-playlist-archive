@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 
 > Check out these hip\-hop classics that are great for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,713 likes - 40 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,770 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,21 +32,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 22 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/7xykwR6UJ4XNND931IsDLW) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remaster\)](https://open.spotify.com/album/6uMVAiciTpTyrQn5QJDPJM) | 4:17 |
 | 23 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
 | 24 | [Doin' Our Own Dang](https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Done By The Forces Of Nature](https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V) | 4:18 |
-| 25 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |
-| 26 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
+| 25 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
+| 26 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |
 | 27 | [The Breaks](https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Kurtis Blow](https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt) | 7:43 |
 | 28 | [I Can't Live Without My Radio](https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 5:27 |
 | 29 | [We Got Our Own Thang](https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Big Tyme](https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8) | 3:52 |
-| 30 | [Rock Dis Funky Joint](https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK) | [Poor Righteous Teachers](https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy) | [Holy Intellect \(Expanded Edition\)](https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm) | 5:11 |
-| 31 | [Rock Box](https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 5:30 |
+| 30 | [Rock Box](https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 5:30 |
+| 31 | [Rock Dis Funky Joint](https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK) | [Poor Righteous Teachers](https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy) | [Holy Intellect \(Expanded Edition\)](https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm) | 5:11 |
 | 32 | [Gittin' Funky](https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr) | [Kid 'N Play](https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw) | [2 Hype](https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR) | 4:44 |
 | 33 | [Summer Nights](https://open.spotify.com/track/36WtqL8ZjUS2xh0ZdyeNfi) | [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Twelve Eighteen, Pt\. 1](https://open.spotify.com/album/7iZDb9FLHpSib3qBa6Rr6e) | 4:29 |
 | 34 | [Funkdafied \- Single Version](https://open.spotify.com/track/3UP8eXtSY89RZ6s8oDdlyB) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [ANUTHAFUNKDAFIEDTANTRUM](https://open.spotify.com/album/5LWxqzlSbXfA5M0lQn1AX0) | 3:05 |
-| 35 | [The World Is Yours \- Clean Album Version](https://open.spotify.com/track/4BWBpj8D0krkebqLTQx7SZ) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [10 Year Anniversary Illmatic Platinum Series](https://open.spotify.com/album/6rXstoVf7abF1VyuYRzxBw) | 4:50 |
-| 36 | [It's Tricky](https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 3:03 |
+| 35 | [It's Tricky](https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 3:03 |
+| 36 | [The World Is Yours \- Clean Album Version](https://open.spotify.com/track/4BWBpj8D0krkebqLTQx7SZ) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [10 Year Anniversary Illmatic Platinum Series](https://open.spotify.com/album/6rXstoVf7abF1VyuYRzxBw) | 4:50 |
 | 37 | [The Next Movement](https://open.spotify.com/track/6oObYkdW3HMbqCV3AhSfVR) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Jazzyfatnastees](https://open.spotify.com/artist/4o6gZFD9CkUCVzYqrDR3wV) | [Things Fall Apart](https://open.spotify.com/album/5Kv0SrABtsIyzCniJvR5ih) | 4:10 |
 | 38 | [I Go To Work](https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Knowledge Is King](https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz) | 4:42 |
 | 39 | [Wipeout \(Re\-Recorded Version\)](https://open.spotify.com/track/07CpuTGODTEA9VOjhJuoZ8) | [Fat Boys](https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt) | [Wipeout \(Re\-Recorded Versions\)](https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv) | 4:01 |
-| 40 | [This Be the Def Beat](https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri) | [Dana Dane](https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp) | [Dana Dane with Fame](https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5) | 3:18 |
+| 40 | [My Adidas](https://open.spotify.com/track/64UQLXFp7Gs189kF3myYiq) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 2:48 |
 
 Snapshot ID: `ZoNEHAAAAAAe5iNmjHm01vsVUSmDfpNL`

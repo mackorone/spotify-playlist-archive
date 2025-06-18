@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 > With Joshua Lanuarii, STYXVII, UrvTek and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 585 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [Therian Wolf](https://open.spotify.com/track/6hRwN3qQhShGulba210gTC) | [Autumn J.](https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW) | [Therian Wolf](https://open.spotify.com/album/5frmRk70Fyf8TF7jfXGjMb) | 2:30 |
 | 50 | [人気インフルエンサー☆](https://open.spotify.com/track/74CW2hBcUI7sOvUgY3Owrk) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU), [Maruyama Yuki](https://open.spotify.com/artist/0SBWl7IHTqw2Gwy895vov9) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 1:48 |
 
-Snapshot ID: `aFDFvwAAAACTSQyjU28e0LicbEC9WynM`
+Snapshot ID: `aFIcYAAAAABoI//vOR9p4cjL3KPhPt8x`

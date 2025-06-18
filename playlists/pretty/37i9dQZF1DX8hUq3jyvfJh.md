@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Rachel Reis e mais mulheres incríveis no volume máximo! co\-curada por Rachel Reis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,754 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,765 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 2 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 3 | [Não Me Deixe Só](https://open.spotify.com/track/2ukW9zOr51AYeLSmCtTVqW) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vanessa da Mata](https://open.spotify.com/album/0nJlVbn9dl3amtTFETNX8j) | 3:09 |
 | 4 | [Anjo](https://open.spotify.com/track/0Z9L6VNvXpgsxnaWcdZgxa) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:47 |
-| 5 | [Infinito Particular](https://open.spotify.com/track/7ufO0ROFQ6BwSMPx5LuW4e) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 4:11 |
-| 6 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
+| 5 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
+| 6 | [Infinito Particular](https://open.spotify.com/track/7ufO0ROFQ6BwSMPx5LuW4e) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 4:11 |
 | 7 | [Não Sei Dançar](https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Lima](https://open.spotify.com/album/1CeZXXRcDz2Zci1M2ftSMj) | 5:05 |
 | 8 | [POTE DE OURO](https://open.spotify.com/track/3f1lEgEorble8TWplM949r) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:58 |
 | 9 | [Ouro de Tolo](https://open.spotify.com/track/3JmULmAsT5nAEd9NrsJOLg) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 4:56 |

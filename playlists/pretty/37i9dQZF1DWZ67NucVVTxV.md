@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Money on my Mind\. Mind on my money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,773 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,815 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 84 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
 | 85 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 |
 
-Snapshot ID: `aEuW9wAAAADYAtifkJXV4Run+6K34tJf`
+Snapshot ID: `aEuW9wAAAAAwnRw/ev0OIq40iBUohiwF`

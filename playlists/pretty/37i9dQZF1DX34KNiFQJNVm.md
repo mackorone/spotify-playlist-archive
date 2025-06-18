@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grelo, Orochi, Luedji Luna e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,104,011 likes - 91 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,104,150 likes - 91 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 25 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 |
 | 26 | [Extintor](https://open.spotify.com/track/5YQBSDB7ZQXGu3SKPx4uPV) | [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Extintor](https://open.spotify.com/album/1NFczWHjlNoktvBsfumke4) | 2:09 |
 | 27 | [Ela Vem De Longe](https://open.spotify.com/track/3sniMwZpwJC4CC1OeulgmB) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [CAO$](https://open.spotify.com/artist/46X4pYJUu5L7QsDIa3EP6t) | [Ela Vem De Longe](https://open.spotify.com/album/33Q8vEYXxfbY0STDDtLxDm) | 3:23 |
-| 28 | [MENOR PEÇA](https://open.spotify.com/track/1l39EzEGJkEfgaHTj03zeI) | [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX) | [H.a.R.D](https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV) | 2:13 |
+| 28 | [MENOR PEÇA](https://open.spotify.com/track/1l39EzEGJkEfgaHTj03zeI) | [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX) | [H.A.R.D \- EP](https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV) | 2:13 |
 | 29 | [Tecnologia do Gueto](https://open.spotify.com/track/1dqocTcib7nOJqzYaPDsks) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [DJ Hyago](https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf) | [Marketing de Favela](https://open.spotify.com/album/3rTtqp9GS8cNJUaM63TUk8) | 3:22 |
 | 30 | [Fé](https://open.spotify.com/track/03GIVunOW3J4M6Pp0w1MAC) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Fé](https://open.spotify.com/album/0RIJ830tYCBLGE5zocB5XX) | 2:53 |
 | 31 | [Me Deixe Só](https://open.spotify.com/track/4gF3E79pvTSE4pLSxgb5ge) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Coelho](https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa) | [Me Deixe Só](https://open.spotify.com/album/0b1UyJHazZPocxMljaURMy) | 1:31 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 90 | [Passo de Avarandar](https://open.spotify.com/track/2iOsmwztOjHeeOVsQLy4Hu) | [Wado](https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo), [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA), [Janu](https://open.spotify.com/artist/3bQFCFtlZox4Re0AuoFSXk) | [Passo de Avarandar](https://open.spotify.com/album/3vVyPFzoOchyQpCyys1Enw) | 2:34 |
 | 91 | [Dores no Varal](https://open.spotify.com/track/14ZW8MpLMLUesmP4jjZp83) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Amor Delírio](https://open.spotify.com/album/1mWo6oWDpsphS9RabjVPnu) | 3:37 |
 
-Snapshot ID: `AAAAABBNT6AFqZfWJ24ut4sxJ7pauKdK`
+Snapshot ID: `aExSCQAAAABBYahT3uddi9e1WIhhNJmS`

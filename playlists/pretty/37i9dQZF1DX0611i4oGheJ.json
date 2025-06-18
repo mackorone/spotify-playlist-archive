@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 488726,
+  "num_followers": 488720,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "My Arms Were Always Around You",
         "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Never Meant",
         "url": "https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 199800,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 229432,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Do You Haunt Me",
         "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 229432,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "Desert Song",
         "url": "https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 235474,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Cobwebs",
-        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
-      },
-      "artists": [
-        {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
-        }
-      ],
-      "duration_ms": 250040,
-      "name": "The Friary",
-      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1431,6 +1415,22 @@
       "duration_ms": 153720,
       "name": "strip mall",
       "url": "https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "The Friary",
+      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "This Time Around",
-        "url": "https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "is there still a light on?",
         "url": "https://open.spotify.com/album/2yCWy5yUJaVhYnm5wZTCET"
       },
@@ -1811,18 +1795,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+        "name": "This Time Around",
+        "url": "https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R"
       },
       "artists": [
         {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
         }
       ],
-      "duration_ms": 323591,
-      "name": "River",
-      "url": "https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht"
+      "duration_ms": 231800,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1839,6 +1823,22 @@
       "duration_ms": 200333,
       "name": "Such Love Does",
       "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 323591,
+      "name": "River",
+      "url": "https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht"
     },
     {
       "added_at": "2025-06-11 19:27:11",

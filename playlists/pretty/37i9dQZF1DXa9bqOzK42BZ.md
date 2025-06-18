@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,314 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,341 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [For Me](https://open.spotify.com/track/0JuQugiqRPorEn8jQ7cc5W) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [For Me](https://open.spotify.com/album/4fcHzgzwobDMPvshp3U7oR) | 3:48 |
 | 100 | [Awesome God](https://open.spotify.com/track/6wZVduxtSmYnioxOjIsA5s) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Awesome God](https://open.spotify.com/album/5VpaMGKUtmyKP3lx7zo0gN) | 1:39 |
 
-Snapshot ID: `aEtqVwAAAAA4/rNrZvDJCVllSeotrSMH`
+Snapshot ID: `AAAAANpbdHjgNdUDRllBAmYhBUA0EnR0`

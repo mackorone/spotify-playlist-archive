@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 262325,
+  "num_followers": 262351,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAABp1jcmm0+nw/HnNpRYa8D",
+  "snapshot_id": "aE9egAAAAABcCjklYKoPv2HBU6uJXPUb",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo de bom",
+        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Tudo de bom",
+      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 152624,
       "name": "MTG Sagrado Profano",
       "url": "https://open.spotify.com/track/4bieMkyQdNwyTYtqfYWHzd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo de bom",
-        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Tudo de bom",
-      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
     },
     {
       "added_at": null,

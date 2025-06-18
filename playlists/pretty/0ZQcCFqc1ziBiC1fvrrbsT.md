@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain](/playlists/plain/0ZQcCFqc1ziBiC1fvrrbsT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ZQcCFqc1ziBiC1fvrrbsT)
 
-### [BrooklynVegan Weekly Playlist](https://open.spotify.com/playlist/0ZQcCFqc1ziBiC1fvrrbsT)
+### [BrooklynVegan's Favorite Songs of the Week](https://open.spotify.com/playlist/0ZQcCFqc1ziBiC1fvrrbsT)
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,305 likes - 19 songs - 1 hr 17 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,308 likes - 19 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 18 | [Out From Outer](https://open.spotify.com/track/2nzhqQWgSeiHPDpc3T84mt) | [wing!](https://open.spotify.com/artist/17zzsvpeBPUpP5XittRxEs) | [Out From Outer](https://open.spotify.com/album/3syWFiHqy3RPy6TIAoWqH1) | 3:54 |
 | 19 | [Obsession](https://open.spotify.com/track/4Bkirn5WWarUk8qdA52Pcp) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [Obsession](https://open.spotify.com/album/21DPNL7TLRsNH8p1mXj8us) | 4:01 |
 
-Snapshot ID: `AAAXrameP6YUeIJJsEAf2YDnETlXc7ST`
+Snapshot ID: `AAAXr6SMHu/KG6MPh6tDeA7WYawWEz6p`

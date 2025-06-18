@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "This Is the Moment",
+        "url": "https://open.spotify.com/album/02Fye2FALIxAjtRvIJ7fbD"
+      },
+      "artists": [
+        {
+          "name": "Betty Grable",
+          "url": "https://open.spotify.com/artist/7n9rBNFFYHydQrzPXyCySC"
+        },
+        {
+          "name": "Dick Haymes",
+          "url": "https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212349,
+      "name": "Aren't You Kind of Glad We Did",
+      "url": "https://open.spotify.com/track/3od44H39oaZ8vtjZ1rdvRM"
+    },
+    {
+      "album": {
         "name": "The Lost Gershwin",
         "url": "https://open.spotify.com/album/2nNWWKOyzmRFky8QpHcArS"
       },

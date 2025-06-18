@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,723 likes - 164 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,963 likes - 164 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 163 | [Euphorbia](https://open.spotify.com/track/0PMeXNfujLqdkJf0faJKxK) | [Spatial Dreams](https://open.spotify.com/artist/282ZRlxKvwVEVwifRfdTbu) | [Euphorbia](https://open.spotify.com/album/7EeOiU8Qqo3S2W50EmlecQ) | 2:34 |
 | 164 | [Nebulous Serenity](https://open.spotify.com/track/5IBtzDu4y7KsQDpEHLSjm9) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Nebulous Serenity](https://open.spotify.com/album/655kVbfYM4u4jMrqWpN3h2) | 2:33 |
 
-Snapshot ID: `AAAAALQ80zRqCbTvvZbWZL/20sxBoIN6`
+Snapshot ID: `aFAYeAAAAAC4/fzGpS4P8YkHjQotLjzb`

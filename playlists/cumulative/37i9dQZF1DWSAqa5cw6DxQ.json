@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Bouyant",
+        "url": "https://open.spotify.com/album/3pSALVI2IinK0Ij2raM2Qm"
+      },
+      "artists": [
+        {
+          "name": "Kiran Skaar",
+          "url": "https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183083,
+      "name": "Bouyant",
+      "url": "https://open.spotify.com/track/7wOagROuLaxfNB5w4zJ02b"
+    },
+    {
+      "album": {
         "name": "Breaking Clouds",
         "url": "https://open.spotify.com/album/0u68xJzLF2lNf8jiZf0pG8"
       },
@@ -938,10 +956,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 185480,
       "name": "Dock Of A Bay",
       "url": "https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq"
+    },
+    {
+      "album": {
+        "name": "Don't know why",
+        "url": "https://open.spotify.com/album/4POAWzBhatgLaQnzYXLQ73"
+      },
+      "artists": [
+        {
+          "name": "Steve D",
+          "url": "https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142706,
+      "name": "Don't know why",
+      "url": "https://open.spotify.com/track/75HK2ncfEEB1rR6nGrCk8K"
     },
     {
       "album": {
@@ -956,7 +992,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 155459,
       "name": "Dream dependence",
       "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
@@ -2306,7 +2342,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 166736,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/0Ph9pISD17s2DLfboy0rZI"
@@ -3037,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Shapeless Horizon",
+        "url": "https://open.spotify.com/album/5JhcfA5GQCmfd6XivKjkKX"
+      },
+      "artists": [
+        {
+          "name": "Elysar",
+          "url": "https://open.spotify.com/artist/0DbIdCkQlSF99HXAv8bckc"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150624,
+      "name": "Shapeless Horizon",
+      "url": "https://open.spotify.com/track/5L6WjAKURVJxtbMaxJpdUD"
+    },
+    {
+      "album": {
         "name": "Silent Wishes",
         "url": "https://open.spotify.com/album/3CMz6HEMfufNKYTIUcyCQC"
       },
@@ -3300,7 +3354,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 176545,
       "name": "State of Existence",
       "url": "https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp"
@@ -3408,7 +3462,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 158799,
       "name": "Sunset at the Veranda",
       "url": "https://open.spotify.com/track/1DSFdhs58XvcJs6OFFR6B2"
@@ -3498,7 +3552,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 161442,
       "name": "The Healing Process",
       "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
@@ -3606,7 +3660,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 134400,
       "name": "Transparency",
       "url": "https://open.spotify.com/track/73ZnCLiPERq5SRGZ3cOpEz"
@@ -3696,7 +3750,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 219752,
       "name": "Visible Quiet",
       "url": "https://open.spotify.com/track/6KHLa0fdsXpjvgA2Xv9Ncx"
@@ -3876,7 +3930,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 181762,
       "name": "Whispers of Rest",
       "url": "https://open.spotify.com/track/4EMWK2dNi6leMozs4PVH4i"

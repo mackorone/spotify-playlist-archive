@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12506,
+  "num_followers": 12507,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAADG5OxSmt0pt+MQGax4HJVy",
+  "snapshot_id": "aE9egAAAAACJIp935ibldjqvbhdIOgsJ",
   "tracks": [
     {
       "added_at": null,
@@ -386,15 +386,11 @@
         {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        },
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 181417,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/5D4bXodF6W3ktrueIikRVK"
+      "duration_ms": 180997,
+      "name": "Lions And Eagles",
+      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
     },
     {
       "added_at": null,
@@ -454,11 +450,15 @@
         {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 180997,
-      "name": "Lions And Eagles",
-      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
+      "duration_ms": 181417,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/5D4bXodF6W3ktrueIikRVK"
     },
     {
       "added_at": null,

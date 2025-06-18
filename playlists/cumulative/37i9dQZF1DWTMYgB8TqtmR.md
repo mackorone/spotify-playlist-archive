@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-945 songs - 1 day 23 hr 24 min
+946 songs - 1 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [MISSFÖRSTÅTT](https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [MISSFÖRSTÅTT](https://open.spotify.com/album/6paodjmf7ivTOvJOgUJdaY) | 1:41 | 2022-06-16 | 2022-09-23 |
 | [Misslyckad & hatad](https://open.spotify.com/track/3OqnzptKSFrtjr3sldBD1F) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Misslyckad & hatad](https://open.spotify.com/album/2XSRknUofEZ2zwK8tfm3Fa) | 2:27 | 2023-01-19 | 2023-03-31 |
 | [Misstag](https://open.spotify.com/track/7Gfzl9QQrLcwtKV0G7x5Hf) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Misstag](https://open.spotify.com/album/1OTudEeQA3fQsuwslytH10) | 3:11 | 2024-02-22 | 2024-06-21 |
+| [Mitt hjärta av guld](https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY) | [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Mitt hjärta av guld](https://open.spotify.com/album/0q9XvbSVVLkA8F14Oqaz0i) | 2:50 | 2025-06-17 |  |
 | [Mitt hjärta slår](https://open.spotify.com/track/1cvsD9PGQWEDWwdbIldP9i) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Mitt hjärta slår](https://open.spotify.com/album/73G3wgTSioJbkJae7PGA9V) | 3:02 | 2023-04-13 | 2023-08-04 |
 | [Mitt i juni](https://open.spotify.com/track/19sBWLGTeiYSFYJeOmI2RN) | [Metin](https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR), [Louis](https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ) | [Mitt i juni](https://open.spotify.com/album/4rG6lspUIBAHRuKElGNzj3) | 2:55 | 2022-10-21 | 2022-11-11 |
 | [Moonlight](https://open.spotify.com/track/6x6x2FPY76CMmHSaRrimfO) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Moonlight](https://open.spotify.com/album/0Ew00sWkcmYmO7SUkaJrsL) | 2:36 | 2024-05-23 | 2024-09-13 |
@@ -784,7 +785,7 @@
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-11 | 2024-02-16 |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-04 | 2024-02-02 |
 | [Stå med mig i regnet \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/5TFJLlEljmmlxS3s58oQN8) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Stå med mig i regnet \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/3pcUoFcxYue6mWBKPFr3c0) | 3:54 | 2022-09-15 | 2023-01-06 |
-| [Suddiga tankar](https://open.spotify.com/track/4WUgzuDPuG37Fcm8sx0hdU) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Suddiga tankar](https://open.spotify.com/album/51iXYtZyNGHWc9HXx9vZjR) | 3:28 | 2025-05-22 |  |
+| [Suddiga tankar](https://open.spotify.com/track/4WUgzuDPuG37Fcm8sx0hdU) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Suddiga tankar](https://open.spotify.com/album/51iXYtZyNGHWc9HXx9vZjR) | 3:28 | 2025-05-22 | 2025-06-18 |
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-16 | 2023-04-19 |
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-28 | 2022-09-02 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-02 | 2022-09-02 |

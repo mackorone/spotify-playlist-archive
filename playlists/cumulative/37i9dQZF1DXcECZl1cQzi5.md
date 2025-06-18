@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [174 Hz Luminous Reefs](https://open.spotify.com/track/2PETf9K3bPRYLU7YbDtnlz) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [174 Hz Luminous Reefs](https://open.spotify.com/album/6ssUd0PYC0wpT6CGQ94UCd) | 2:05 | 2024-03-01 | 2025-01-20 |
+| [174 Hz Luminous Reefs](https://open.spotify.com/track/2PETf9K3bPRYLU7YbDtnlz) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [174 Hz Luminous Reefs](https://open.spotify.com/album/6ssUd0PYC0wpT6CGQ94UCd) | 2:05 | 2024-03-01 |  |
 | [432 Hz All One](https://open.spotify.com/track/3PUqz1G8iM070GCCC64MUs) | [Stella Oceans](https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x) | [432 Hz All One](https://open.spotify.com/album/2KLtD4cSDuuPtxH764R0HV) | 2:43 | 2023-10-23 |  |
 | [432 Hz Rahu \(Ocean Waves\)](https://open.spotify.com/track/21Kay5ZRTabqcBn8bopV4r) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [432 Hz Rahu \(Ocean Waves\)](https://open.spotify.com/album/2nPV7DFNF7zmTvKhG9dRvj) | 2:30 | 2024-02-06 | 2024-04-11 |
 | [432 Hz Tsiatso](https://open.spotify.com/track/2InPTG1gjUW2dsBUIgLyHU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [432 Hz Tsiatso](https://open.spotify.com/album/76MZZfmw1fdZHZeQWAjD7Q) | 3:00 | 2024-02-06 | 2024-11-29 |
@@ -78,7 +78,7 @@
 | [From Within](https://open.spotify.com/track/7zyc5lRXmothc3kTRi9mfr) | [Infinity Equals](https://open.spotify.com/artist/3gqTdyMEE37wzRZA9HEWTQ) | [From Within](https://open.spotify.com/album/0UZaQABB0qZ1wDFF7keDfK) | 2:40 | 2024-01-19 |  |
 | [frosty mornings](https://open.spotify.com/track/1tGNzmsGGY2kFaEyHjZp9y) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [frosty mornings](https://open.spotify.com/album/2y5N4Xkpa8gvQtUmRIdUOs) | 2:23 | 2024-08-22 |  |
 | [Fundament Waves](https://open.spotify.com/track/2mdzn5dsUDIKNQ1TK67Bpf) | [Rhuma](https://open.spotify.com/artist/2sKBIgEdMkCfd6Fl682Gcf) | [Fundament Waves](https://open.spotify.com/album/2fYjCgYotNkBvn6ypvTDlr) | 2:32 | 2024-02-06 | 2024-06-22 |
-| [Gently Rising](https://open.spotify.com/track/4vd9CyTzJ2kFkqYUSgycTT) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Gently Rising](https://open.spotify.com/album/5iFfvWhsBoA1fggxtFZqsx) | 2:53 | 2024-07-08 |  |
+| [Gently Rising](https://open.spotify.com/track/4vd9CyTzJ2kFkqYUSgycTT) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Gently Rising](https://open.spotify.com/album/5iFfvWhsBoA1fggxtFZqsx) | 2:53 | 2024-07-08 | 2025-06-18 |
 | [Hacienda](https://open.spotify.com/track/777BLV38yrgiI6CFh0egvo) | [Harada Mi](https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3) | [Hacienda](https://open.spotify.com/album/2TqivOnFGVlV4Lg9U6giFP) | 3:23 | 2023-10-23 |  |
 | [Hammock Life](https://open.spotify.com/track/3p0ITpxIkPIbgKIH7t3JLw) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Hammock Life](https://open.spotify.com/album/1rMazcyTVAwOIV8lAllCNZ) | 3:22 | 2023-10-26 |  |
 | [Harmonic Waters](https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Harmonic Waters](https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob) | 2:22 | 2024-07-08 |  |

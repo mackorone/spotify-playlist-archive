@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 雷同二友
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,973 likes - 504 songs - 1 day 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,978 likes - 504 songs - 1 day 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

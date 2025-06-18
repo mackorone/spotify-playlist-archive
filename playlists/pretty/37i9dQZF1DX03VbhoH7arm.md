@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Grandes hits do BR e do 🌎 / Foto: Papatinho, MC Cabelinho, Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,596,775 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,596,680 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 49 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 |
 | 50 | [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC Tigrão](https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW), [Mc Luan](https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Karol X](https://open.spotify.com/artist/0ByBhGIqP8T6O0YZWnAMCR) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 |
 
-Snapshot ID: `AAAAAGSr9AXizBlo1ppEWElLn3vkoJtD`
+Snapshot ID: `aEmVgQAAAAAmjw37VfKyMIZUkfbVD1HA`

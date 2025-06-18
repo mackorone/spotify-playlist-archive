@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 47375,
+  "num_followers": 47406,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAADYKay6RIAILlf9QMJpDic7",
+  "snapshot_id": "aE9egAAAAACA08XGPoGyc0v52+Pl8kHz",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 192954,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is A Highway: Refueled Duets",
         "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 199733,
       "name": "Yours If You Want It",
       "url": "https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 192954,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 210687,
-      "name": "Leaving New Orleans",
-      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good News Sold",
         "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 203432,
       "name": "Good News Sold",
       "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Leaving New Orleans",
+      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
     },
     {
       "added_at": null,

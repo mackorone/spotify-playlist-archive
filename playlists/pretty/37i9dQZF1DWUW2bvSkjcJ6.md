@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von RAYE und Mark Ronson, Apache 207, Lune und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,714 likes - 73 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,675 likes - 73 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 45 | [Body On Me](https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:33 |
 | 46 | [Inkomplett](https://open.spotify.com/track/6LYKASHYU6N4XOnCgSjCha) | [Drangsal](https://open.spotify.com/artist/16rfiZrUbpoIJKqvJjbOk1) | [Aus keiner meiner Brücken die in Asche liegen ist je ein Phönix emporgestiegen](https://open.spotify.com/album/1DwHCNcRItNaNJMxgpqZ6K) | 4:31 |
 | 47 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 |
-| 48 | [HELLCAT](https://open.spotify.com/track/0oQ5ZIZw13bqT3P6zENzKx) | [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Jambeatz](https://open.spotify.com/artist/7vkxoOBEhcKUEQVc2KOUZw) | [HELLCAT](https://open.spotify.com/album/6q9CyMopmFwwddt2b1thV2) | 2:37 |
+| 48 | [HELLCAT](https://open.spotify.com/track/0oQ5ZIZw13bqT3P6zENzKx) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU), [Jambeatz](https://open.spotify.com/artist/7vkxoOBEhcKUEQVc2KOUZw) | [HELLCAT](https://open.spotify.com/album/6q9CyMopmFwwddt2b1thV2) | 2:37 |
 | 49 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 |
 | 50 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
 | 51 | [dirty martini](https://open.spotify.com/track/1LMkpzEJCLFb1M7oc4ENwP) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [dirty martini](https://open.spotify.com/album/5PxmH0NnEe5rlk4OuYgZxo) | 1:40 |

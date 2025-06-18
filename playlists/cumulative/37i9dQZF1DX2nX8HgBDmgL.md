@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Diljit Dosanjh
 
-327 songs - 17 hr 49 min
+328 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 | 2025-04-18 |  |
 | [Screwing It Up](https://open.spotify.com/track/0UhSaRMPaCgF9PcUHJ2Lon) | [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Screwing It Up](https://open.spotify.com/album/4HehEGM5FLDlbFIJRYjHYG) | 3:19 | 2021-11-11 | 2022-07-19 |
 | [Secret \(feat\. Vince Staples\)](https://open.spotify.com/track/1taBEywFZlZO7xiEEIyajF) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:22 | 2022-07-18 | 2024-02-23 |
+| [Shaky](https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI) | [Sanju Rathod](https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7), [G\-SPXRK](https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll) | [Shaky](https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi) | 2:55 | 2025-06-17 |  |
 | [She Bad](https://open.spotify.com/track/3fgE2kiX4wCIznmKNVRQ8O) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [She Bad](https://open.spotify.com/album/3CtoXePudXVyAAvr5OF4vi) | 2:38 | 2021-11-11 | 2022-07-19 |
 | [Shining](https://open.spotify.com/track/0MQKShuvARYHgpqpy0RhET) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Shining](https://open.spotify.com/album/3JOsumvo4o0X3wzrGpVkhc) | 3:21 | 2021-11-11 | 2022-07-19 |
 | [Sithira Puthiri \- From "Think Indie"](https://open.spotify.com/track/1uQU9b93tlMlMoZ0h2bRgf) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Sithira Puthiri \(From "Think Indie"\)](https://open.spotify.com/album/6545nscQNozQwGuO6AIabc) | 3:46 | 2025-03-18 |  |

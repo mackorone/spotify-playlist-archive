@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Fresh Finds Nordics x Debaser Alternative June 16th! See Aggy Ally, ABY iO, Salty Licorice, Jaycov, Anna\-My & DJ Carpenter live!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,937 likes - 106 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,951 likes - 106 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

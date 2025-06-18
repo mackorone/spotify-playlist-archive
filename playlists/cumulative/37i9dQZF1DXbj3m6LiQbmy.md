@@ -2,7 +2,7 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Musica dalla comunità LGBQTIA+ 🇮🇹 Ethan in cover ✨
+> Musica dalla comunità LGBQTIA+ 🇮🇹 soap in cover ✨
 
 371 songs - 21 hr 42 min
 

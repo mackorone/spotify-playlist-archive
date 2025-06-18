@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48608,
+  "num_followers": 48605,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAC/e4uHFuptDMF/LYvWSDYV",
+  "snapshot_id": "aE9egAAAAAB9rKz2ULkGwEGXXQBzZXqB",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta Flack",
-        "url": "https://open.spotify.com/album/1YkxsrN4Jmp1jx6fE3MbAY"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "If Ever I See You Again",
-      "url": "https://open.spotify.com/track/39bhKSzFTN3eo7eRDDZgKC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 316586,
       "name": "Compared to What",
       "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roberta Flack",
+        "url": "https://open.spotify.com/album/1YkxsrN4Jmp1jx6fE3MbAY"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "If Ever I See You Again",
+      "url": "https://open.spotify.com/track/39bhKSzFTN3eo7eRDDZgKC"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Some Gospel According to Matthew",
-      "url": "https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -311,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
       "artists": [
         {
@@ -320,9 +304,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 249946,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
+      "duration_ms": 156933,
+      "name": "Some Gospel According to Matthew",
+      "url": "https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 238693,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0"
+      "duration_ms": 249946,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 308240,
       "name": "Tryin' Times",
       "url": "https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0"
     },
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta Flack & Donny Hathaway",
-        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 203733,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/5UHpNbocPg0TdGOkf6QX8Z"
+      "duration_ms": 436453,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
     },
     {
       "added_at": null,
@@ -503,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+        "name": "Roberta Flack & Donny Hathaway",
+        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 436453,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
+      "duration_ms": 203733,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/5UHpNbocPg0TdGOkf6QX8Z"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 403520,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best of Roberta Flack",
         "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 216040,
       "name": "And so It Goes",
       "url": "https://open.spotify.com/track/6Rxq0mpz3LpjSrxniarD9c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "When You Smile",
-      "url": "https://open.spotify.com/track/460ysTfMygkMjaes74RdU3"
     },
     {
       "added_at": null,
@@ -643,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RENDEZVOUS (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
-        {
-          "name": "Sadao Watanabe",
-          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
-        },
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 279920,
-      "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
-      "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
+      "duration_ms": 224293,
+      "name": "When You Smile",
+      "url": "https://open.spotify.com/track/460ysTfMygkMjaes74RdU3"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 299573,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RENDEZVOUS (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
+      },
+      "artists": [
+        {
+          "name": "Sadao Watanabe",
+          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 279920,
+      "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
+      "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
     },
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Love",
+        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+      },
+      "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "I Just Came Here To Dance",
+      "url": "https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chapter Two",
         "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 266160,
       "name": "IF I'M STILL AROUND TOMORROW (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Love",
-        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
-      },
-      "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "I Just Came Here To Dance",
-      "url": "https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL"
     },
     {
       "added_at": null,

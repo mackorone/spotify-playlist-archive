@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,770,299 likes - 145 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,770,564 likes - 145 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 3 | [Arabesco](https://open.spotify.com/track/3KCoT5LkFQKWoHV1rTCjkP) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Arabesco](https://open.spotify.com/album/20UIGNg9E4ABmFNNT4w2yp) | 2:35 |
 | 4 | [Ryos](https://open.spotify.com/track/1zTqMY0pncDuHkLsQp9JHr) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Ryos](https://open.spotify.com/album/4biO9FxSiYHRLmplSmmWs0) | 2:09 |
 | 5 | [Unvergesslich](https://open.spotify.com/track/2l7ROj2BBqVGrIQdVe68vS) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Unvergesslich](https://open.spotify.com/album/60FJJHnlc7TlKFytAudGm5) | 2:25 |
-| 6 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
-| 7 | [Arbor](https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Arbor](https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C) | 2:35 |
-| 8 | [The Breeze and The Wildflower](https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [The Breeze and The Wildflower](https://open.spotify.com/album/6IINRvEFdsEwwk38Q3jQEO) | 2:45 |
-| 9 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 |
+| 6 | [Arbor](https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Arbor](https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C) | 2:35 |
+| 7 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 |
+| 8 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 |
+| 9 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
 | 10 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
-| 11 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 |
-| 12 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 |
-| 13 | [Torrero](https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Torrero](https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q) | 2:22 |
+| 11 | [The Breeze and The Wildflower](https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [The Breeze and The Wildflower](https://open.spotify.com/album/6IINRvEFdsEwwk38Q3jQEO) | 2:45 |
+| 12 | [Torrero](https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Torrero](https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q) | 2:22 |
+| 13 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 |
 | 14 | [Signs](https://open.spotify.com/track/6X9DrQLnANiUyPEZxq5f1L) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Signs](https://open.spotify.com/album/6Rm5rAz1KDJZd2foaHOQVP) | 2:06 |
 | 15 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 |
 | 16 | [Contemplazione del Mare](https://open.spotify.com/track/5KX4Iw959UusWyNmqqAYMb) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Contemplazione del Mare](https://open.spotify.com/album/5ovjWBufizlB1cZWztGYm7) | 2:34 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 46 | [Beauty](https://open.spotify.com/track/6LUWbk3Zc6571RYApFYoSl) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Beauty](https://open.spotify.com/album/52dxoUpamcBI8YkS3Ce3iC) | 2:46 |
 | 47 | [Clouds Coming](https://open.spotify.com/track/7bTycbdDfQELplifneZzJj) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Clouds Coming](https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0) | 2:26 |
 | 48 | [Cavaria](https://open.spotify.com/track/6AKvBuBdVSf7uDYJYWtWxC) | [Shea Ada](https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2) | [Cavaria](https://open.spotify.com/album/0ts4SAXbN5D0Di2AQVVXo0) | 2:18 |
-| 49 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/6llSKGTXz9Y8d1kdvDlaoq) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 |
+| 49 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 |
 | 50 | [stargazing](https://open.spotify.com/track/5Tm55bnuYOavqPLbueGYS4) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [stargazing](https://open.spotify.com/album/0FCL5YSgPtrC3NQYOCwxZs) | 2:20 |
 | 51 | [Three Sleeping Owls](https://open.spotify.com/track/0ZwtjxyinvQPJy8dZGMXwo) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Three Sleeping Owls](https://open.spotify.com/album/6t44MGK75YLB96QhqNEKCh) | 2:03 |
 | 52 | [As a Rose Blossom](https://open.spotify.com/track/657LOljr0QcBwRX1qtWQy6) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [As a Rose Blossom](https://open.spotify.com/album/2w1FFF4DGgE1DZKKKvujf9) | 2:11 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 144 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
 | 145 | [Take care](https://open.spotify.com/track/244BGt6n916G7NdoOUKSsX) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Take care](https://open.spotify.com/album/7cNJc2dXmvwnaS954Kvwo1) | 2:08 |
 
-Snapshot ID: `aE/+CwAAAACdLvJ/92+Vw5yxLSZYLWie`
+Snapshot ID: `aFGEFwAAAACj6C1WFApMmKZQpfTzPjxK`

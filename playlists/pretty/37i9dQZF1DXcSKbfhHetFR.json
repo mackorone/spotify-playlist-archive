@@ -1,6 +1,6 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 11289,
+  "num_followers": 11293,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Le D\u00e9lire Du Savant Fou",
+        "url": "https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR"
+      },
+      "artists": [
+        {
+          "name": "eXterio",
+          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Savant Fou",
+      "url": "https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Vilain Pingouin",
         "url": "https://open.spotify.com/album/3pINLfKyH98HfwvNgMQgL6"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Les Dales Hawerchuk",
-        "url": "https://open.spotify.com/album/2kZv4f9cNfQ8327JKqwBYA"
-      },
-      "artists": [
-        {
-          "name": "Les Dales Hawerchuk",
-          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Dale Hawerchuk",
-      "url": "https://open.spotify.com/track/3p4TDZWyc6Uj8GsPAIPO7D"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Sans foi ni loi",
         "url": "https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ"
       },
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Les Dales Hawerchuk",
+        "url": "https://open.spotify.com/album/2kZv4f9cNfQ8327JKqwBYA"
+      },
+      "artists": [
+        {
+          "name": "Les Dales Hawerchuk",
+          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Dale Hawerchuk",
+      "url": "https://open.spotify.com/track/3p4TDZWyc6Uj8GsPAIPO7D"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Sur quelle plan\u00e8te",
         "url": "https://open.spotify.com/album/269dGCDHJ6nrZJTEfT1YDp"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 323400,
       "name": "Dans les airs",
       "url": "https://open.spotify.com/track/1H42q82sVhPcGE7kneM7Iq"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Le D\u00e9lire Du Savant Fou",
-        "url": "https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR"
-      },
-      "artists": [
-        {
-          "name": "eXterio",
-          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Savant Fou",
-      "url": "https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8"
     },
     {
       "added_at": "2024-04-05 04:00:00",

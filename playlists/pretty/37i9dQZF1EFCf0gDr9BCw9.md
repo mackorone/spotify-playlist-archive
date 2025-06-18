@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617 likes - 149 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 149 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 116 | [Blossom](https://open.spotify.com/track/6lz6Jryza3yur1ryPt0Xw3) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:29 |
 | 117 | [Cashmere Cutie](https://open.spotify.com/track/0ERpyYWqiHtWNQKHWOWKIn) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:16 |
 | 118 | [Take It Slow](https://open.spotify.com/track/5TeZCLMIwQahKBJaxCfV3k) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 3: Studio Sessions New York, 1962](https://open.spotify.com/album/1QDl5p8iwOIpyqllm73bC2) | 2:57 |
-| 119 | [Toot Suite : Red Garter \- From The Album Duke Ellington Jazz Party](https://open.spotify.com/track/6vOrhq9FHTEea7jXLttoTA) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 3:40 |
-| 120 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 |
+| 119 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 |
+| 120 | [Toot Suite : Red Garter \- From The Album Duke Ellington Jazz Party](https://open.spotify.com/track/6vOrhq9FHTEea7jXLttoTA) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 3:40 |
 | 121 | [Too Late](https://open.spotify.com/track/1r5kJWlDcyCp6KS9Y9HA9m) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz) | [Black Moonlight Vol\. 5](https://open.spotify.com/album/2ItDs63YW6pRY08EjXLb7j) | 3:11 |
 | 122 | [There Was Nobody Looking](https://open.spotify.com/track/0I9tEYd8foW37GdzmIPuvo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 2:57 |
 | 123 | [Swing Dance](https://open.spotify.com/track/6V2L2VdpeDURO7qTlSdc3Z) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 2:33 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 148 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 149 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `Ab0UyAAAAADgaHcdzlDxZ0YpmjquT7Mi`
+Snapshot ID: `Ab0aVAAAAACWU9FoUFfvY5oHAF6c0t8z`

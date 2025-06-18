@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Kraftklub
+> 50 Hits in einer Playlist! Cover: YUNG SAINT PAUL
 
-215 songs - 10 hr 16 min
+218 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bundeswehr](https://open.spotify.com/track/5JLbgRkto4OrrkWgAHcJZT) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 1:37 | 2024-10-22 | 2025-01-15 |
 | [Butcher](https://open.spotify.com/track/0uSHA5dbsCRMmzbidwhKwl) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Butcher](https://open.spotify.com/album/71Xdk4hTiAbzeCMfm4oo6X) | 2:47 | 2024-12-11 | 2025-01-15 |
 | [Camilla](https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [Camilla](https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS) | 3:12 | 2025-06-03 |  |
+| [Capri Sun](https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Capri Sun](https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY) | 1:59 | 2025-06-17 |  |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-06-03 |  |
 | [CONNECTED](https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [CONNECTED](https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC) | 2:38 | 2025-05-20 |  |
 | [CRAZYYY](https://open.spotify.com/track/4WRPZc8xQsolMusrLy2sxn) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [SAMIRA](https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:26 | 2025-04-01 | 2025-04-23 |
@@ -60,7 +61,7 @@
 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-03-25 | 2025-04-09 |
 | [DAS GEHT VORBEi](https://open.spotify.com/track/1e321Mp5Ybqoh9ts2erLFi) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [DAS GEHT VORBEi](https://open.spotify.com/album/2rrbJbztjdoe9zb4boMqYa) | 2:55 | 2024-10-08 | 2025-01-29 |
 | [Das Leben ruft](https://open.spotify.com/track/4tOCLn5F0GHaPl4p9RPQAb) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Das Leben ruft](https://open.spotify.com/album/4FcnAk8XMzv1OyykKl3HQS) | 2:05 | 2025-01-10 | 2025-04-02 |
-| [Dein Mann Freestyle](https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV) | [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [Dein Mann Freestyle](https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu) | 2:25 | 2025-04-01 |  |
+| [Dein Mann Freestyle](https://open.spotify.com/track/3B32IYD2zmDza2Pp17xqgV) | [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [Dein Mann Freestyle](https://open.spotify.com/album/0ayWaNEoJHQHWvGI6i11Vu) | 2:25 | 2025-04-01 | 2025-06-18 |
 | [Delale](https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Delale](https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs) | 2:35 | 2025-02-18 | 2025-03-19 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-10 | 2025-05-07 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-16 | 2024-11-27 |
@@ -191,7 +192,9 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-29 |  |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-14 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-10 | 2025-04-16 |
-| [Therapie](https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Therapie](https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW) | 3:15 | 2025-05-20 |  |
+| [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-17 |  |
+| [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-06-17 |  |
+| [Therapie](https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Therapie](https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW) | 3:15 | 2025-05-20 | 2025-06-18 |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-01 | 2024-11-06 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-25 | 2025-05-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-09-10 | 2024-10-09 |
@@ -209,7 +212,7 @@
 | [Walzer](https://open.spotify.com/track/1We3jgIztlD2Tkb0yOoX4b) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Walzer](https://open.spotify.com/album/4TZczY6TXXS0lDd7DX0WPv) | 3:21 | 2024-12-11 | 2025-04-02 |
 | [Walzer](https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/0tWTZtKm5jkICfL067l5R2) | 3:21 | 2025-06-10 |  |
 | [Was wäre wenn du nicht wärst?](https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy) | [Was wäre wenn du nicht wärst?](https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe) | 2:47 | 2024-09-10 | 2024-11-20 |
-| [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-20 |  |
+| [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-20 | 2025-06-18 |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-09-10 | 2024-12-21 |
 | [Wenn das Liebe ist](https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wenn das Liebe ist](https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY) | 2:44 | 2025-06-03 |  |
 | [Wenn der Himmel weint](https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Wenn der Himmel weint](https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ) | 2:08 | 2025-02-25 | 2025-04-02 |

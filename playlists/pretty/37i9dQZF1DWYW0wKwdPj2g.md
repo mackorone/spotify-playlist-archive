@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,784 likes - 100 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,846 likes - 100 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 86 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 |
 | 87 | [Why You Love Me \- Live](https://open.spotify.com/track/2xnfFxX7Jtj17QXwoITgBl) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Tobi Jeff Richards](https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP) | [Why You Love Me \(Live\)](https://open.spotify.com/album/3smj9D3CphAyfsdHxAC4li) | 12:09 |
 | 88 | [This Is Kingdom Come \(Elohim Adonai\) \- Live](https://open.spotify.com/track/20knkm8oYfnUisdTkIjHSQ) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [This Is Kingdom Come \(Elohim Adonai\) \[Live\]](https://open.spotify.com/album/34drgnu2kuFnIrtY6VOAuB) | 5:09 |
-| 89 | [Testimony](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 3:44 |
+| 89 | [Testimony](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 3:44 |
 | 90 | [All I Have](https://open.spotify.com/track/6sTaaBeDm3lc2yhxOQy81C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All I Have](https://open.spotify.com/album/642utidvaV4fu1rlI1FdPP) | 5:50 |
 | 91 | [WHO IS LIKE THEE \(Live\)](https://open.spotify.com/track/60Rryc6TaQNDQRbiWBXfd1) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [WHO IS LIKE THEE \(Live\)](https://open.spotify.com/album/4W0qjKFeLkJU4i1VYM0A4s) | 6:08 |
 | 92 | [Baba Yangu, Baba Yangu \- Live](https://open.spotify.com/track/1pRSMBzKzEbMiWMerX8hBm) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Baba Yangu, Baba Yangu \(Live\)](https://open.spotify.com/album/7k7hnvGI5oYtw0ZUwcvghF) | 4:49 |

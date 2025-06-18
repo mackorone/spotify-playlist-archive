@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Ari Abdul
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,417 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,439 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Heart In A Cage](https://open.spotify.com/track/4gYH75alQBWW7Y5UCwBDNX) | [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Heart In A Cage](https://open.spotify.com/album/543I0lfy3jT3Vj5XpAd7sL) | 2:19 |
 | 50 | [Itty Bitty](https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Itty Bitty](https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c) | 2:42 |
 
-Snapshot ID: `AAAAAIWQhgPw8Obw5XyFnjLtWUi6V3in`
+Snapshot ID: `aEuiegAAAADwsEX13TI/+i2ICUfALaCO`

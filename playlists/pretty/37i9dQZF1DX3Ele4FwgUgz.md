@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,144 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,150 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 9 | [Colorful Dreams! Colorful Smiles!](https://open.spotify.com/track/6Z5h7cmLThLY6AlRPGR1kq) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Colorful Dreams! Colorful Smiles!](https://open.spotify.com/album/6lBta1zPCDQhOb09DfhCcO) | 4:24 |
 | 10 | [stars we chase](https://open.spotify.com/track/4VLmRpAuJGyTYSf1kN6xBT) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [Eutopia / EMOTION / stars we chase \(ミア・テイラー盤\)](https://open.spotify.com/album/3sNQAhFiFAUFCFGwGf7mtg) | 3:13 |
 | 11 | [Butterfly](https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Butterfly / Solitude Rain / VIVID WORLD \(近江彼方盤\)](https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR) | 3:36 |
-| 12 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 |
-| 13 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 |
+| 12 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 |
+| 13 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 |
 | 14 | [虹色Passions!](https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [虹色Passions!](https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl) | 4:15 |
 | 15 | [EMOTION](https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [Eutopia / EMOTION / stars we chase \(三船栞子盤\)](https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T) | 3:50 |
 | 16 | [PHOENIX](https://open.spotify.com/track/4oJXZkrYgrwruRh51IuN4p) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [どこにいても君は君](https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om) | 4:33 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 44 | [Shadow Effect](https://open.spotify.com/track/2p8XDR373QnaS1iNrqASfe) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Shadow Effect](https://open.spotify.com/album/2YAcYDJt8KOSKbU4JoHBFJ) | 3:56 |
 | 45 | [めっちゃGoing!!](https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:48 |
 | 46 | [Vroom Vroom](https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [Vroom Vroom](https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX) | 3:36 |
-| 47 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
-| 48 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
+| 47 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
+| 48 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
 | 49 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 |
 | 50 | [サイコーハート](https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [サイコーハート / La Bella Patria / ツナガルコネクト \(宮下 愛盤\)](https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn) | 4:12 |
 

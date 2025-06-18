@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,631 likes - 329 songs - 18 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,632 likes - 329 songs - 18 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 126 | [Change My Love](https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:24 |
 | 127 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:22 |
 | 128 | [The Funk](https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Funk](https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj) | 2:52 |
-| 129 | [Warm](https://open.spotify.com/track/5CfnI6FoZAE6PSB8goCEU0) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Warm](https://open.spotify.com/album/50T0VJB6biUODCulrsPOGn) | 3:26 |
-| 130 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 |
+| 129 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 |
+| 130 | [Warm](https://open.spotify.com/track/5CfnI6FoZAE6PSB8goCEU0) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Warm](https://open.spotify.com/album/50T0VJB6biUODCulrsPOGn) | 3:26 |
 | 131 | [Better Not Together](https://open.spotify.com/track/1jAma2op1mdGxvqxkBK5So) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:08 |
 | 132 | [Revive \(Say Something\)](https://open.spotify.com/track/3ULbFYODpZrIYOmbCYho96) | [LuvBug](https://open.spotify.com/artist/6ci8SqTgjPrl4jetI82yqP) | [Revive \(Say Something\)](https://open.spotify.com/album/6qSimDc9IL5q0XWr6AeCSN) | 3:38 |
 | 133 | [Unconditional \(feat\. Bryn Christopher\)](https://open.spotify.com/track/5ZFIs3os8W2ajT4BDcrdX0) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 |
@@ -269,8 +269,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 259 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
 | 260 | [Get Mine](https://open.spotify.com/track/1Tfzd8jY2q4OQR9Bmrxpbx) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [Get Mine](https://open.spotify.com/album/3KsLy1tfJwAA9dAeDLnno1) | 2:55 |
 | 261 | [Background](https://open.spotify.com/track/6QbCAeT8s6mVzrJP2tvtOx) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 1:29 |
-| 262 | [Free](https://open.spotify.com/track/5Aqm5mngMoGTU8fIvNJYbT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:45 |
-| 263 | [under the rug](https://open.spotify.com/track/7cF9LyIGKAJOj8w4ndFCtC) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [wait 'til she gets her heart broken](https://open.spotify.com/album/4LUq1xd0C1Psv1Bc3cn6uJ) | 3:20 |
+| 262 | [under the rug](https://open.spotify.com/track/7cF9LyIGKAJOj8w4ndFCtC) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [wait 'til she gets her heart broken](https://open.spotify.com/album/4LUq1xd0C1Psv1Bc3cn6uJ) | 3:20 |
+| 263 | [Free](https://open.spotify.com/track/5Aqm5mngMoGTU8fIvNJYbT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:45 |
 | 264 | [BRB](https://open.spotify.com/track/5TVIzrtfPxbkvgQ75fwFV6) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [BRB](https://open.spotify.com/album/5ReIug3dDUmimDMm5PQoP4) | 3:01 |
 | 265 | [Freeze](https://open.spotify.com/track/5iA9WS2OFIMZX1fAVM0a7N) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g) | [The Ride](https://open.spotify.com/album/0EaXFlLzwqBwzseDuAUobQ) | 3:34 |
 | 266 | [No Contest](https://open.spotify.com/track/0Q4SE81n0qaLUiugNbTFeZ) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Finally Free Mixtape](https://open.spotify.com/album/4Tymq2ZejRFdboyq4ab41E) | 2:53 |
@@ -314,8 +314,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 304 | [qandeel baloch](https://open.spotify.com/track/2XgqX1xMB5tFqWlLTvFQJi) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 2:54 |
 | 305 | [Bridges](https://open.spotify.com/track/6pXgxqdDjuo6RtDcLqxtKl) | [Aminata](https://open.spotify.com/artist/1GrxsGX8vHCsX1SDu5j8D3) | [Red Moon](https://open.spotify.com/album/05CtIbweSG8DSCR2Rucvbc) | 3:40 |
 | 306 | [Muscle](https://open.spotify.com/track/5tG0MS4Q2AgehP1Rara7ui) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 4:00 |
-| 307 | [R&B Dreams](https://open.spotify.com/track/3dnH92VPX6UtOJUkpGwzNz) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 2:44 |
-| 308 | [Just Like That](https://open.spotify.com/track/1ZHJT6nKBgeDdCOYkiIJe4) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:33 |
+| 307 | [Just Like That](https://open.spotify.com/track/1ZHJT6nKBgeDdCOYkiIJe4) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:33 |
+| 308 | [R&B Dreams](https://open.spotify.com/track/3dnH92VPX6UtOJUkpGwzNz) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 2:44 |
 | 309 | [Sex Symbol](https://open.spotify.com/track/1U2Cfc7ZXR6Y2fp2mXXR14) | [Aerolineas Federales](https://open.spotify.com/artist/006cVD18msU9HBrB4aNS5Z) | [Tomando Tierra](https://open.spotify.com/album/5KZ3cbWHSm5W8eh8Vk7szF) | 2:02 |
 | 310 | [My Work Is Done](https://open.spotify.com/track/6Dzdi9VEvNKHyjRCLtXf1W) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 3:26 |
 | 311 | [Whatever](https://open.spotify.com/track/4ifFRxa6UudDs2bEtI5OeC) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 3:44 |
@@ -338,4 +338,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 328 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 329 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `Ab0U0gAAAADS1gQp9GdC7dN+CshiB9tm`
+Snapshot ID: `Ab0acgAAAADm5plqXfN0vGtluyv6AF+W`

@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 72739,
+  "num_followers": 72748,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "This Rhythm (feat. RAHH)",
-        "url": "https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "RAHH",
-          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "This Rhythm (feat. RAHH)",
-      "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 192400,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "This Rhythm (feat. RAHH)",
+        "url": "https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "This Rhythm (feat. RAHH)",
+      "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
     },
     {
       "added_at": "2024-12-04 12:15:00",

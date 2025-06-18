@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 228518,
+  "num_followers": 228583,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
+        "name": "Document (R.E.M. No. 5)",
+        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 275733,
       "name": "Heart Of Glass - Special Mix",
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
-        "name": "Document (R.E.M. No. 5)",
-        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-      "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Vital Idol",
-        "url": "https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 359733,
-      "name": "Dancing With Myself",
-      "url": "https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Toda Forma De Amor",
         "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 228120,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Vital Idol",
+        "url": "https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 359733,
+      "name": "Dancing With Myself",
+      "url": "https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "A Revolta Dos Dandis",
-        "url": "https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC"
-      },
-      "artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
-        }
-      ],
-      "duration_ms": 372093,
-      "name": "Infinita Highway",
-      "url": "https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 332133,
       "name": "Sina",
       "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "A Revolta Dos Dandis",
+        "url": "https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC"
+      },
+      "artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
+        }
+      ],
+      "duration_ms": 372093,
+      "name": "Infinita Highway",
+      "url": "https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi"
     },
     {
       "added_at": "2024-07-09 20:48:06",

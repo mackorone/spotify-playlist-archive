@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-12 22:00:48",
       "album": {
-        "name": "HAUSAPIANO",
-        "url": "https://open.spotify.com/album/5388hvdjmbFfloBwdKDFGH"
-      },
-      "artists": [
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 103318,
-      "name": "HAUSAPIANO",
-      "url": "https://open.spotify.com/track/7BQnaquuCho6dWfkkhuxxl"
-    },
-    {
-      "added_at": "2025-06-12 22:00:48",
-      "album": {
         "name": "Wire Check / AfroBTC",
         "url": "https://open.spotify.com/album/7jGM4I9nmenHUywVGMwxsX"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 156943,
       "name": "Afa Kennedy",
       "url": "https://open.spotify.com/track/1cPjMTC13YffZgEKpGjTTK"
+    },
+    {
+      "added_at": "2025-06-12 22:00:48",
+      "album": {
+        "name": "HAUSAPIANO",
+        "url": "https://open.spotify.com/album/5388hvdjmbFfloBwdKDFGH"
+      },
+      "artists": [
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 103318,
+      "name": "HAUSAPIANO",
+      "url": "https://open.spotify.com/track/7BQnaquuCho6dWfkkhuxxl"
     },
     {
       "added_at": "2025-06-12 22:00:48",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-06-12 22:00:48",
       "album": {
-        "name": "Relationship",
-        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Relationship",
-      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
-    },
-    {
-      "added_at": "2025-06-12 22:00:48",
-      "album": {
         "name": "Yini Ngathi",
         "url": "https://open.spotify.com/album/3JiFfwtbTsNzQO2Of6xk5W"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 347148,
       "name": "Yini Ngathi (Insane)",
       "url": "https://open.spotify.com/track/7Gc7tNSocAypLct0MYYzmk"
+    },
+    {
+      "added_at": "2025-06-12 22:00:48",
+      "album": {
+        "name": "Relationship",
+        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Relationship",
+      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
     },
     {
       "added_at": "2025-06-12 22:00:48",

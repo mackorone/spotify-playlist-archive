@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="spotify:artist:4KH3T3jZJtfFtNyfBqwUuu">Madeline Merlo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,481 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,500 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [LOS ANGELES IN SUMMA](https://open.spotify.com/track/5KZzcz5SFhDaXJR1WtRNfr) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART TWO](https://open.spotify.com/album/7hltHXLUrAImGEqdNw5OGL) | 2:49 |
 | 50 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 
-Snapshot ID: `aEBAugAAAADvInoBOgmULJ0kj7RAv8EX`
+Snapshot ID: `AAAAALPxACSWwNSoOR1xJ4p5IrzshtkK`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAADkhOI0PPvuBheVZr7UUiFi",
+  "snapshot_id": "aE9egAAAAACzPkQz4D4YmtgoBnEf3GzV",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Absent Minded",
+      "url": "https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bambal\u00f3",
         "url": "https://open.spotify.com/album/2Pxg7kjXogc6wNNmP80rHL"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 161129,
       "name": "Bambal\u00f3",
       "url": "https://open.spotify.com/track/5rzY2HPvGBe7E2yKxXbRAE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Absent Minded",
-      "url": "https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 165514,
-      "name": "Birta",
-      "url": "https://open.spotify.com/track/70HOjaRDOxL86922aqzy12"
+      "duration_ms": 84853,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 163440,
-      "name": "Another Fall, Another Spring",
-      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
+      "duration_ms": 273800,
+      "name": "B\u00e1ra",
+      "url": "https://open.spotify.com/track/4FLhnp7v0eRGdaBxiUSuBR"
     },
     {
       "added_at": null,
@@ -736,9 +736,25 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 273800,
-      "name": "B\u00e1ra",
-      "url": "https://open.spotify.com/track/4FLhnp7v0eRGdaBxiUSuBR"
+      "duration_ms": 163440,
+      "name": "Another Fall, Another Spring",
+      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hind / Aska (Harpa Sessions)",
+        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Hind / Aska - Harpa Sessions",
+      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
     },
     {
       "added_at": null,
@@ -763,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 278298,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Orchestral Works",
         "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
       },
@@ -783,38 +815,6 @@
       "duration_ms": 239996,
       "name": "Islandus: Streymir",
       "url": "https://open.spotify.com/track/1GT6MSZpVOgZVn8O8iCqPm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 278298,
-      "name": "The Waves",
-      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hind / Aska (Harpa Sessions)",
-        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Hind / Aska - Harpa Sessions",
-      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
     },
     {
       "added_at": null,

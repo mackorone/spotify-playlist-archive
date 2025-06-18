@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,164 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,260 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 47 | [El Dia De Mi Suerte](https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS), [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [M\. Contreras](https://open.spotify.com/artist/72q1zZHQH4jsABdAUMWIjK) | [Hip Hop Revolucion Vol2](https://open.spotify.com/album/2ZhtYP3bo1MQry0Og0RtVs) | 5:04 |
 | 48 | [Rucón](https://open.spotify.com/track/6TDtGJSk3MDTnM6nTDu5Zu) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T) | 2:48 |
 | 49 | [Si Señor](https://open.spotify.com/track/4z3x73OqkRMTm5vG8MyCpg) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/7HgtmenilcpT51uM8aY0vv) | 4:13 |
-| 50 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 |
+| 50 | [El Diablo Anda Suelto](https://open.spotify.com/track/2vfp3rtorzJs4l9nhrP0e1) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1SHoj7rZ5IFEehFytPa1Df) | 6:21 |
 
 Snapshot ID: `ZpFymAAAAABCThC8097DJakeTr+ZVQgd`

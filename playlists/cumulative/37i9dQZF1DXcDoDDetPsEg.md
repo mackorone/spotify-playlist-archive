@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Nemzzz, Latto
 
-1,533 songs - 3 day 5 hr 24 min
+1,534 songs - 3 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -982,7 +982,7 @@
 | [of course](https://open.spotify.com/track/67ZEHFld41PZdanUBCilfN) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [of course](https://open.spotify.com/album/0neqduBZznQHqCIHQalpoO) | 2:40 | 2023-08-25 | 2023-10-24 |
 | [Off Licence](https://open.spotify.com/track/5BFRPqRl3slqX77p53KwHK) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Off Licence](https://open.spotify.com/album/73MoAtDJJzUeEZJDlb9GoR) | 2:43 | 2024-06-21 | 2024-07-12 |
 | [Off The Rip](https://open.spotify.com/track/3wuCtrTYC963qrU30bIKse) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Legacy](https://open.spotify.com/album/2v1lmBQXD94tyB0OXO4ghV) | 3:09 | 2022-05-27 | 2022-06-25 |
-| [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 | 2025-04-18 |  |
+| [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 | 2025-04-18 | 2025-06-18 |
 | [Often](https://open.spotify.com/track/3IcKY1xunfGXlYy9BMUEkt) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Often](https://open.spotify.com/album/4lc5ULEJzRFmnhRVqlyg86) | 2:35 | 2023-11-10 | 2023-12-09 |
 | [Often](https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Often](https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx) | 2:15 | 2022-03-25 | 2022-05-06 |
 | [Oh Lord](https://open.spotify.com/track/0PlmVL4O4lZ6TrwhziGNaA) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Oh Lord](https://open.spotify.com/album/6jrLkFgafDd99eErCsKqvE) | 2:29 | 2022-04-07 | 2022-04-29 |
@@ -1512,6 +1512,7 @@
 | [Winter Sun](https://open.spotify.com/track/0DyL1sl00wNYaYA8gqdHEp) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES: COMPLETE](https://open.spotify.com/album/4wIkfYdTESbJgntZt1M108) | 2:59 | 2024-12-06 | 2025-03-07 |
 | [Wishin](https://open.spotify.com/track/3Wr0ZFXDzV6JDkbCf5XJck) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [The Rain](https://open.spotify.com/album/2cGmrZ4vAzf8y0rphZPzqi) | 2:49 | 2024-08-21 | 2024-09-13 |
 | [With Me Or Not?](https://open.spotify.com/track/5aG65oocwEoMRK01TyjVrS) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [With Me Or Not?](https://open.spotify.com/album/6arLuDdVw1BUjbBr98BSva) | 2:33 | 2022-12-09 | 2023-01-27 |
+| [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 | 2025-06-17 |  |
 | [WOAH](https://open.spotify.com/track/0DsVNV75FloiUdbebs0mSo) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [WOAH](https://open.spotify.com/album/4yBpDldVwK7pQO6Rav2NY8) | 1:21 | 2024-07-12 | 2024-09-13 |
 | [WokStar \(feat\. Strick & Skepta\)](https://open.spotify.com/track/3qszL96xkQJVNyHb7px8li) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:01 | 2022-02-25 | 2022-03-18 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-03-08 | 2022-03-09 |

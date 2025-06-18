@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 
 > Cele mai bune piese pop ale anului 2024\. Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,076 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,075 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 7 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 |
 | 8 | [Si Ce Daca](https://open.spotify.com/track/79UyYeS0ESQG4MOoOhYjra) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Si Ce Daca](https://open.spotify.com/album/13zBv87bnGgVwGAt51FAXY) | 3:15 |
 | 9 | [Queen Of My Castle](https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Queen Of My Castle](https://open.spotify.com/album/5g6FHRdXl51AAOmlJaHfk9) | 2:36 |
-| 10 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/4PpqdMqFYs85Xc2ldMMh6Q) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
+| 10 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
 | 11 | [Interstelar](https://open.spotify.com/track/47FliwS0uRIa1og7hGQ4qr) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Interstelar](https://open.spotify.com/album/1JxU3Pwk7xChPqatRjbGX0) | 3:22 |
 | 12 | [Pastila de somn](https://open.spotify.com/track/7Gg4loHV3Q4D3Dp585tY4i) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Pastila de somn](https://open.spotify.com/album/3Xr5ZoQfFCihp6PwCEn7OK) | 2:35 |
 | 13 | [Roșu nuclear](https://open.spotify.com/track/2AMOK3ZRupIVD0NNKd8fLg) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Roșu nuclear](https://open.spotify.com/album/6wHZ8Mkj52kWsMWV0cJ6XT) | 2:35 |

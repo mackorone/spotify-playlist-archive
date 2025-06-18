@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  RUSLANA.",
-  "num_followers": 20544,
+  "num_followers": 20548,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
-        "name": "Full time papi",
-        "url": "https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Full time papi",
-      "url": "https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ"
-    },
-    {
-      "added_at": "2025-06-03 22:00:16",
-      "album": {
         "name": "Cuatricrom\u00eda",
         "url": "https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 243773,
       "name": "Dramas y comedias",
       "url": "https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C"
+    },
+    {
+      "added_at": "2025-06-03 22:00:16",
+      "album": {
+        "name": "Full time papi",
+        "url": "https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Full time papi",
+      "url": "https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ"
     },
     {
       "added_at": "2025-06-03 22:00:16",
@@ -327,38 +327,6 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
-        "name": "Futuros amantes",
-        "url": "https://open.spotify.com/album/39TjxfT1BDkWln8r249ymi"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Futuros amantes",
-      "url": "https://open.spotify.com/track/6o8AfVju660AZb5XL5rzzP"
-    },
-    {
-      "added_at": "2025-06-03 22:00:16",
-      "album": {
-        "name": "Pipe dream",
-        "url": "https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 157952,
-      "name": "Pipe dream",
-      "url": "https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ"
-    },
-    {
-      "added_at": "2025-06-03 22:00:16",
-      "album": {
         "name": "\u00e9chame la culpa <3",
         "url": "https://open.spotify.com/album/39gNoRM5WwxKHN0ARWHL0h"
       },
@@ -375,22 +343,18 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
-        "name": "Neofita",
-        "url": "https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp"
+        "name": "Pipe dream",
+        "url": "https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf"
       },
       "artists": [
         {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 174000,
-      "name": "BOTAS DE PELO",
-      "url": "https://open.spotify.com/track/3gCipso4S6elQLCmSG1J1J"
+      "duration_ms": 157952,
+      "name": "Pipe dream",
+      "url": "https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ"
     },
     {
       "added_at": "2025-06-03 22:00:16",
@@ -415,6 +379,26 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
+        "name": "Neofita",
+        "url": "https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "BOTAS DE PELO",
+      "url": "https://open.spotify.com/track/3gCipso4S6elQLCmSG1J1J"
+    },
+    {
+      "added_at": "2025-06-03 22:00:16",
+      "album": {
         "name": "Deber\u00eda estar brillando",
         "url": "https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 152650,
       "name": "Deber\u00eda estar brillando",
       "url": "https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK"
+    },
+    {
+      "added_at": "2025-06-03 22:00:16",
+      "album": {
+        "name": "La Eternidad",
+        "url": "https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 225461,
+      "name": "La Eternidad",
+      "url": "https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF"
     },
     {
       "added_at": "2025-06-03 22:00:16",
@@ -447,8 +447,8 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
-        "name": "Tramuntana",
-        "url": "https://open.spotify.com/album/0j4sG63Z9Pp0vHXIEIEDb8"
+        "name": "Futuros amantes",
+        "url": "https://open.spotify.com/album/39TjxfT1BDkWln8r249ymi"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 235826,
-      "name": "Tramuntana",
-      "url": "https://open.spotify.com/track/4SaQQ0SQG47SuZHQtmlNL2"
+      "duration_ms": 164000,
+      "name": "Futuros amantes",
+      "url": "https://open.spotify.com/track/6o8AfVju660AZb5XL5rzzP"
     },
     {
       "added_at": "2025-06-03 22:00:16",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
+        "name": "Tramuntana",
+        "url": "https://open.spotify.com/album/0j4sG63Z9Pp0vHXIEIEDb8"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Tramuntana",
+      "url": "https://open.spotify.com/track/4SaQQ0SQG47SuZHQtmlNL2"
+    },
+    {
+      "added_at": "2025-06-03 22:00:16",
+      "album": {
         "name": "Recardelino",
         "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
       },
@@ -563,8 +579,8 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
-        "name": "La Eternidad",
-        "url": "https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr"
+        "name": "Vida Quemada",
+        "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
         }
       ],
-      "duration_ms": 225461,
-      "name": "La Eternidad",
-      "url": "https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF"
+      "duration_ms": 181002,
+      "name": "Vida Quemada",
+      "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
     },
     {
       "added_at": "2025-06-03 22:00:16",
@@ -655,22 +671,6 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
-        "name": "Vida Quemada",
-        "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Vida Quemada",
-      "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
-    },
-    {
-      "added_at": "2025-06-03 22:00:16",
-      "album": {
         "name": "Cuando acabe el verano",
         "url": "https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
-        "name": "Dame 10:36 Minutos",
-        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 131376,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
-    },
-    {
-      "added_at": "2025-06-03 22:00:16",
-      "album": {
         "name": "qu\u00e9 bonito fue",
         "url": "https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 158537,
       "name": "qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW"
+    },
+    {
+      "added_at": "2025-06-03 22:00:16",
+      "album": {
+        "name": "Dame 10:36 Minutos",
+        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 131376,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
     },
     {
       "added_at": "2025-06-03 22:00:16",
@@ -847,22 +847,18 @@
     {
       "added_at": "2025-06-03 22:00:16",
       "album": {
-        "name": "Mi Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/54cNBA0cMAFBJ1xao2HFmA"
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe"
       },
       "artists": [
         {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
-        },
-        {
-          "name": "Kat Almagro",
-          "url": "https://open.spotify.com/artist/368VnBU3hf3EtaIeuSykSU"
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
         }
       ],
-      "duration_ms": 144581,
-      "name": "Mi Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/24hN9kdcOyZgY2qytkl4KN"
+      "duration_ms": 144000,
+      "name": "V\u00e9rtigo",
+      "url": "https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

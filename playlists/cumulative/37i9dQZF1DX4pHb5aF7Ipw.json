@@ -858,7 +858,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 141931,
       "name": "Animal",
       "url": "https://open.spotify.com/track/01kNohcZ34rgxuVsKsbfK6"
@@ -3916,7 +3916,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 158400,
       "name": "Flexin",
       "url": "https://open.spotify.com/track/0KYQW5t4OQtGm9w76fxZsN"
@@ -6120,7 +6120,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 186666,
       "name": "KAARA",
       "url": "https://open.spotify.com/track/5QlBJcXVhM72MdhNulVnES"
@@ -6914,6 +6914,24 @@
       "duration_ms": 100556,
       "name": "Lyrical Exercise",
       "url": "https://open.spotify.com/track/6CZ0hoJxvEWR8CtYtNZCrB"
+    },
+    {
+      "album": {
+        "name": "Maa",
+        "url": "https://open.spotify.com/album/1baxWbiBYVmIVqbz9vOqAX"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Jatt",
+          "url": "https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160450,
+      "name": "Maa",
+      "url": "https://open.spotify.com/track/53ZdkOqk1TZo2DBeXH0eFL"
     },
     {
       "album": {
@@ -8600,6 +8618,24 @@
       "duration_ms": 150000,
       "name": "Option",
       "url": "https://open.spotify.com/track/7D9bolj2s9fFFUkN8jdNxr"
+    },
+    {
+      "album": {
+        "name": "Opulence",
+        "url": "https://open.spotify.com/album/5dPpwuSkLQcLI5BWrHEBmI"
+      },
+      "artists": [
+        {
+          "name": "Te-G Sandhu",
+          "url": "https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/0giTvelU5V0NgTCIPXmCFb"
     },
     {
       "album": {
@@ -10523,6 +10559,28 @@
     },
     {
       "album": {
+        "name": "Still Westy",
+        "url": "https://open.spotify.com/album/5zf09BEED5H8tJTfAXY6Br"
+      },
+      "artists": [
+        {
+          "name": "Jodha Mann",
+          "url": "https://open.spotify.com/artist/3h0ihMYQVS2ydKc94WQVce"
+        },
+        {
+          "name": "Youngstarr Pop Boy",
+          "url": "https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122499,
+      "name": "Still Westy",
+      "url": "https://open.spotify.com/track/5p0Ehs3quDycwVBz7qkujv"
+    },
+    {
+      "album": {
         "name": "Street Fame",
         "url": "https://open.spotify.com/album/4yL77lGxXRq3KRXIeETS9J"
       },
@@ -10878,8 +10936,8 @@
           "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
         },
         {
-          "name": "Jay B",
-          "url": "https://open.spotify.com/artist/6gER61ovSvDU9T4y5CJQ6N"
+          "name": "JayB Singh",
+          "url": "https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM"
         }
       ],
       "date_added": "2025-06-13",

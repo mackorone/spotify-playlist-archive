@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: AKASAKI\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u4e43\u7d2b\n",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -784,7 +784,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 209250,
       "name": "a music score",
       "url": "https://open.spotify.com/track/6TcoXIFuITi36A1uLtOx0O"
@@ -878,6 +878,24 @@
       "duration_ms": 176600,
       "name": "ACTOR",
       "url": "https://open.spotify.com/track/7DU9Ttw5ugUKXo8LqwO6M6"
+    },
+    {
+      "album": {
+        "name": "sublimated",
+        "url": "https://open.spotify.com/album/35yXAuUTisaemSxBiyFGVP"
+      },
+      "artists": [
+        {
+          "name": "Arche",
+          "url": "https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158156,
+      "name": "addicted",
+      "url": "https://open.spotify.com/track/6pbFoDKhAFfnlGy63ob2mf"
     },
     {
       "album": {
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 153333,
       "name": "Desk Pop!",
       "url": "https://open.spotify.com/track/51rhOUhvwB7Epkp9cYNW4A"
@@ -8475,6 +8493,24 @@
     },
     {
       "album": {
+        "name": "I can't stand the heat",
+        "url": "https://open.spotify.com/album/3IvPbgcwGDsaNgEY1j2Kaq"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "I can't stand the heat",
+      "url": "https://open.spotify.com/track/1XBtjxNVcMxWNsLKb87Dsa"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
       },
@@ -10318,7 +10354,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 190279,
       "name": "Life is Romance",
       "url": "https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9"
@@ -15259,6 +15295,28 @@
     },
     {
       "album": {
+        "name": "Risk Your (feat. Bonbero)",
+        "url": "https://open.spotify.com/album/5Vne7FdSPUYxOo2uDzWNPw"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Risk Your (feat. Bonbero)",
+      "url": "https://open.spotify.com/track/1GqMohCPnwSaNBwCWVbfCP"
+    },
+    {
+      "album": {
         "name": "Rock n Roll is Back",
         "url": "https://open.spotify.com/album/1W7YnTDk4JfR1R6UTEsFRK"
       },
@@ -16395,6 +16453,24 @@
     },
     {
       "album": {
+        "name": "HOME EP3",
+        "url": "https://open.spotify.com/album/5f2lBhw2Uftsvhpyri8gAs"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376952,
+      "name": "skin",
+      "url": "https://open.spotify.com/track/3tSgx8gKr3219ZMlFMRiaj"
+    },
+    {
+      "album": {
         "name": "Sky",
         "url": "https://open.spotify.com/album/4zDj9doKBQ81SgFqgGQhcR"
       },
@@ -16772,7 +16848,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 232005,
       "name": "some candy talk",
       "url": "https://open.spotify.com/track/7hQ8zUxUQTAuHKAJO9P9nJ"
@@ -17926,7 +18002,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 203458,
       "name": "Swim",
       "url": "https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn"
@@ -18898,6 +18974,24 @@
       "duration_ms": 234380,
       "name": "Torie",
       "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/6pQ7DktgOWUl0U4xHZ9PEj"
+      },
+      "artists": [
+        {
+          "name": "MEZZ",
+          "url": "https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211087,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/3ryDbC3kOcEsuSG4uRqhSJ"
     },
     {
       "album": {
@@ -23317,6 +23411,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u3073\u3064\u306a\u611b\u3067\u3059\u304c",
+        "url": "https://open.spotify.com/album/3YgZjhsUGTWz2OHV09hHKO"
+      },
+      "artists": [
+        {
+          "name": "\u3061\u3083\u304f\u3089",
+          "url": "https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230626,
+      "name": "\u30a2\u30a4\u30d3\u30fc",
+      "url": "https://open.spotify.com/track/1hWJBohOzshE7qTBou6AVE"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
         "url": "https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC"
       },
@@ -26452,7 +26564,7 @@
       },
       "artists": [
         {
-          "name": "\u53cb\u6210\u7a7a",
+          "name": "TOMONARI SORA\t",
           "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
         }
       ],
@@ -30304,7 +30416,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 160112,
       "name": "\u5fc3\u306e\u5965",
       "url": "https://open.spotify.com/track/0tbeRI5RFnZlqufHP7bMnS"

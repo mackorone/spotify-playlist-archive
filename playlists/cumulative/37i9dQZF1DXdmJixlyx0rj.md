@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: DPR CREAM & DPR ARTIC\)
+> New & best K\-Electronic music is here\. \(Cover: O3ohn & Car, the garden\)
 
-233 songs - 13 hr 19 min
+234 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Better Things \- Dance Remix](https://open.spotify.com/track/62Q8xON11csaJlfmRF7Y5O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [LDN NOISE](https://open.spotify.com/artist/5sdRcz0BjbZdTbeT4mJ2xs) | [Better Things \(Dance Remix\)](https://open.spotify.com/album/2P8trIADhHx8fJAdC7ud40) | 3:14 | 2024-04-05 | 2025-04-03 |
 | [Between](https://open.spotify.com/track/1pNxr8E0bfkzBPcefgeXXI) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [OHNY](https://open.spotify.com/artist/7bwKtxquAuPod4egd1acwB), [Hoonie](https://open.spotify.com/artist/0CPEc9L3MkZdwT5KdXmQ6t) | [Between](https://open.spotify.com/album/0edYbq4vhwXXIYGu5dW8U9) | 2:42 | 2024-04-05 | 2024-05-27 |
 | [Bi\-elijah](https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C) | [Y2K92](https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9) | [The Songs for the NOT\-YETs](https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX) | 4:47 | 2024-04-05 | 2024-06-29 |
-| [BOOM \- Minit Remix, Bonus Track](https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:17 | 2024-04-05 |  |
+| [BOOM \- Minit Remix, Bonus Track](https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:17 | 2024-04-05 | 2025-06-18 |
 | [BOP BOP! \(Yves V Remix\)](https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bop Bop! \(Yves V Remix\)](https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX) | 3:12 | 2024-06-28 | 2025-05-26 |
 | [Breakthrough \- taalthechoi Remix](https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [taalthechoi](https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C) | [Breakthrough](https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W) | 3:22 | 2024-06-28 |  |
 | [Bring Me On](https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc) | [LMNTRX](https://open.spotify.com/artist/3EQhBwReP6TxlTT9z8yIjD), [CIRE](https://open.spotify.com/artist/4cqhNd5e30i06T1YWl2uiJ), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Bring Me On](https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf) | 2:38 | 2024-04-05 | 2024-06-29 |
@@ -228,6 +228,7 @@
 | [Virus](https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY) | [Virus](https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I) | 2:32 | 2024-06-28 | 2024-12-01 |
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2024-04-05 | 2024-06-29 |
 | [We The One](https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [We The One](https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP) | 3:15 | 2024-06-28 |  |
+| [WEAR AWAY](https://open.spotify.com/track/216TkxBKw3ab0WiAePZvQO) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [TWO](https://open.spotify.com/album/2O0QmR1oXCc70QLwYDn03z) | 2:40 | 2025-06-17 |  |
 | [Whiplash \(Steve Aoki Remix\)](https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Whiplash \(English Version\)](https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er) | 3:45 | 2025-04-02 |  |
 | [Wish](https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 5:55 | 2024-04-05 | 2024-06-29 |
 | [WITH U](https://open.spotify.com/track/6g3vu8wRbKNNGPooas2Rxw) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [BLUE MOON](https://open.spotify.com/album/5xI7NZB5pRtZVNaAzlBQhe) | 2:26 | 2024-06-28 | 2024-07-06 |

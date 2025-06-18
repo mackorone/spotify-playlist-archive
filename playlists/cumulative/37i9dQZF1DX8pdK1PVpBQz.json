@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Drifting Clouds",
+  "description": "The best new music by independent artists and labels. Cover: Acopia",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 208144,
       "name": "14",
       "url": "https://open.spotify.com/track/1AlbmEnnFgR9b4yCw9zkzf"
+    },
+    {
+      "album": {
+        "name": "149",
+        "url": "https://open.spotify.com/album/2i36YYbumEwDEY5jtmLUW6"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150577,
+      "name": "149",
+      "url": "https://open.spotify.com/track/2IuIgcXrJoxcJwgOIA57cY"
     },
     {
       "album": {
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 158843,
       "name": "a green light",
       "url": "https://open.spotify.com/track/2QlTtHM87EDM5E1H8RqiYQ"
@@ -3205,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/6OGMwoSKdKLbTfKfaAGkaV"
+      },
+      "artists": [
+        {
+          "name": "Gordon's Grandson",
+          "url": "https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160693,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/5Kk8AiJSxdhT5nflK8l4oE"
+    },
+    {
+      "album": {
         "name": "angel",
         "url": "https://open.spotify.com/album/5nUpndAlGgd5HzU5gZWYLj"
       },
@@ -4936,6 +4972,28 @@
       "duration_ms": 203063,
       "name": "Bad Enough",
       "url": "https://open.spotify.com/track/0HknrCKzOklL4jI4HTAju0"
+    },
+    {
+      "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/2HmGqHwKOR8r0q9JnGJbIv"
+      },
+      "artists": [
+        {
+          "name": "Mincy",
+          "url": "https://open.spotify.com/artist/5KNUX2wDVlp2W9sukkgm2x"
+        },
+        {
+          "name": "Sophiegrophy",
+          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177489,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/6z5lKFjas5Mimm6V8JwaaV"
     },
     {
       "album": {
@@ -11392,7 +11450,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 208565,
       "name": "Cell",
       "url": "https://open.spotify.com/track/2xnYifJ2YEkH6h5T2TeEJi"
@@ -11718,7 +11776,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 171618,
       "name": "Change",
       "url": "https://open.spotify.com/track/47hi5MwsPta3Q1wD2DaK7p"
@@ -17978,7 +18036,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 155862,
       "name": "don't let me go",
       "url": "https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN"
@@ -22058,6 +22116,24 @@
       "duration_ms": 194079,
       "name": "False Narrative",
       "url": "https://open.spotify.com/track/42EY1yTowxtdn5gjdYamGH"
+    },
+    {
+      "album": {
+        "name": "Falter",
+        "url": "https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc"
+      },
+      "artists": [
+        {
+          "name": "Acopia",
+          "url": "https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161813,
+      "name": "Falter",
+      "url": "https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa"
     },
     {
       "album": {
@@ -27654,7 +27730,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 150159,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/6FrJGY0a8kl6kx3k3P03Y2"
@@ -27730,7 +27806,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 238071,
       "name": "GURU",
       "url": "https://open.spotify.com/track/01kqbyNg4Grl1rQ87nw2pQ"
@@ -28946,7 +29022,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 203521,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/1J7bC8VszZRlkRPzzqss2U"
@@ -29776,6 +29852,24 @@
       "duration_ms": 190174,
       "name": "Hit My Line",
       "url": "https://open.spotify.com/track/01m75hsOwwOFMyLqzg0TJg"
+    },
+    {
+      "album": {
+        "name": "hitch a ride",
+        "url": "https://open.spotify.com/album/2UZPMeNZ8Qmuhr8MiVb8gk"
+      },
+      "artists": [
+        {
+          "name": "Arches",
+          "url": "https://open.spotify.com/artist/3UY48SY9Hl7RaffUZ5qAZC"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165908,
+      "name": "hitch a ride",
+      "url": "https://open.spotify.com/track/1Wdmu4NzXkhXXNa7UCLCKB"
     },
     {
       "album": {
@@ -37284,7 +37378,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 211705,
       "name": "LCD",
       "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
@@ -40701,6 +40795,24 @@
     },
     {
       "album": {
+        "name": "Lucy in London",
+        "url": "https://open.spotify.com/album/5XHWSxy5cE5OPib6gpIqR8"
+      },
+      "artists": [
+        {
+          "name": "Hannie Day",
+          "url": "https://open.spotify.com/artist/3gMa3cM0Ln4ib87C1RbMEG"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209879,
+      "name": "Lucy in London",
+      "url": "https://open.spotify.com/track/0Qzl2epSjwb7FMjfBZG1sq"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/3J4i7CLJ9osRJhRb8EZOnb"
       },
@@ -40748,7 +40860,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 265203,
       "name": "Lure",
       "url": "https://open.spotify.com/track/7DYXBOU11elRZeyjJ12gzo"
@@ -41800,6 +41912,24 @@
       "duration_ms": 219451,
       "name": "maybe",
       "url": "https://open.spotify.com/track/5A7nvUPxX4SyccXcE1VBEa"
+    },
+    {
+      "album": {
+        "name": "Maybe It All Works Out In The End",
+        "url": "https://open.spotify.com/album/668p9dyWrKlmmAz7URTIBM"
+      },
+      "artists": [
+        {
+          "name": "Mariae Cassandra",
+          "url": "https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209181,
+      "name": "Maybe It All Works Out In The End",
+      "url": "https://open.spotify.com/track/6121gvpb7wkHUUj0AuUmNs"
     },
     {
       "album": {
@@ -43034,6 +43164,24 @@
       "duration_ms": 200901,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6ExEbMM3BpqiChkdZcoWiG"
+    },
+    {
+      "album": {
+        "name": "Mon Amie",
+        "url": "https://open.spotify.com/album/1qXVaJwvkQLYTlQziVq3HP"
+      },
+      "artists": [
+        {
+          "name": "mostly sleeping",
+          "url": "https://open.spotify.com/artist/0c4hWy19I8yBCVb4dnrm31"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201845,
+      "name": "Mon Amie",
+      "url": "https://open.spotify.com/track/3NbT8a53oZwmL2by5NEtAW"
     },
     {
       "album": {
@@ -46253,6 +46401,24 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/2gZS32bPZcfyBu0Cg8Colc"
+      },
+      "artists": [
+        {
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118333,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/54pSlokgcxJakkfBm10N3c"
+    },
+    {
+      "album": {
         "name": "NO MORE",
         "url": "https://open.spotify.com/album/0NXCuIYen954onmzYyKnhb"
       },
@@ -49065,6 +49231,24 @@
     },
     {
       "album": {
+        "name": "orange",
+        "url": "https://open.spotify.com/album/4jEd5wZvGjjxt0Y6zTuma4"
+      },
+      "artists": [
+        {
+          "name": "King Howe",
+          "url": "https://open.spotify.com/artist/7AUxtXhXm1FrUo1YyspgiV"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225515,
+      "name": "orange",
+      "url": "https://open.spotify.com/track/1EWZgBJCr1TbaQxYZXoJkQ"
+    },
+    {
+      "album": {
         "name": "Orange October",
         "url": "https://open.spotify.com/album/7jQXCvXBlqDk1MXjgVfn5x"
       },
@@ -50176,6 +50360,24 @@
       "duration_ms": 168675,
       "name": "Paper",
       "url": "https://open.spotify.com/track/4MjeAkO7ZXOE2U4y8E6Fq4"
+    },
+    {
+      "album": {
+        "name": "Paper Frames",
+        "url": "https://open.spotify.com/album/26eUGaLyK5TNcgqepe1zTG"
+      },
+      "artists": [
+        {
+          "name": "Theeth",
+          "url": "https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210545,
+      "name": "Paper Frames",
+      "url": "https://open.spotify.com/track/4DjzD8j70eItuwFQJEWKlD"
     },
     {
       "album": {
@@ -55806,7 +56008,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 211524,
       "name": "Run Me Dry",
       "url": "https://open.spotify.com/track/2plpOCTJB7NoYuyNPmq5Rh"
@@ -58424,7 +58626,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 247058,
       "name": "Silencer",
       "url": "https://open.spotify.com/track/6tNMGD64RQuEXbIqtVFKWM"
@@ -60310,6 +60512,24 @@
       "duration_ms": 186977,
       "name": "So Sweet",
       "url": "https://open.spotify.com/track/7MRg3LOj8CIKKdHyxqTA51"
+    },
+    {
+      "album": {
+        "name": "So Sweet, So Sublime",
+        "url": "https://open.spotify.com/album/1DBoZKxfb0jYC3YWC6JSyJ"
+      },
+      "artists": [
+        {
+          "name": "Wet Bandits",
+          "url": "https://open.spotify.com/artist/5kTUCytvCuMBh7LG1xZHFc"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259353,
+      "name": "So Sweet, So Sublime",
+      "url": "https://open.spotify.com/track/0gvSB4JsWyhx7XnWywESBG"
     },
     {
       "album": {
@@ -74018,7 +74238,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 208728,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/1Bggj31rDpxh8F72XhvkZd"

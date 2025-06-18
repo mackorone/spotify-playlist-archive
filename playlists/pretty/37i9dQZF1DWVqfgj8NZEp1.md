@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,636,930 likes - 125 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,636,939 likes - 125 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 124 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 |
 | 125 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 |
 
-Snapshot ID: `aDBqoAAAAAAV/4o1bFugG2MlqzUStC1w`
+Snapshot ID: `AAAAAHrjx8LQOMIJ/GyU+RpgeuO9qP1/`

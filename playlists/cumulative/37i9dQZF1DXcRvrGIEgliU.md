@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-152 songs - 8 hr 0 min
+153 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 | 2025-05-19 |  |
 | [All I Want Is You](https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [All I Want Is You](https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4) | 3:32 | 2025-05-19 |  |
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2025-05-19 |  |
+| [Alone](https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Alone](https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh) | 3:16 | 2025-05-19 |  |
 | [AWKWARD FREESTYLE](https://open.spotify.com/track/5covx4W77ZCuXI0ejgoZh0) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [AWKWARD FREESTYLE](https://open.spotify.com/album/0VqxvtvAycKlOonkkUx1uN) | 2:07 | 2025-05-19 |  |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2025-05-19 |  |
 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2025-05-19 |  |
@@ -21,7 +22,7 @@
 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 | 2025-05-19 |  |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-05-19 |  |
 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 | 2025-05-29 |  |
-| [Before My Eyes](https://open.spotify.com/track/52UomKxHMuyhmkjgU82hdS) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Before My Eyes](https://open.spotify.com/album/6zjdCWAStwBTlwQaN3sJbx) | 3:47 | 2025-05-19 |  |
+| [Before My Eyes](https://open.spotify.com/track/52UomKxHMuyhmkjgU82hdS) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Before My Eyes](https://open.spotify.com/album/6zjdCWAStwBTlwQaN3sJbx) | 3:47 | 2025-05-19 | 2025-06-18 |
 | [Big Dreams](https://open.spotify.com/track/6q1nZrQOBplr60zI4Kku4a) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Badkid](https://open.spotify.com/album/2QaQGxQuEV9hZYMhpS6Zax) | 2:33 | 2025-05-19 |  |
 | [Blue](https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6) | 3:18 | 2025-05-19 |  |
 | [Blue Eyed Constellation](https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:53 | 2025-05-19 |  |

@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Colder",
+        "url": "https://open.spotify.com/album/7euspVwSx11DZGVlJchAiG"
+      },
+      "artists": [
+        {
+          "name": "Monte Noni",
+          "url": "https://open.spotify.com/artist/2oW39zDNFaP2hovSH575f1"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/4djSTtJmTG3JDhR6bQPRkj"
+    },
+    {
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/6GwnwfIySfSbVDlrboTxxe"
       },

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover: Pil C & Luca Brassi10x
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,439 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,498 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [studené srdce](https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Karlo](https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC), [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [brat](https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp) | 3:56 |
-| 2 | [KSN \- PINTLICH REMIX](https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF), [PINTLICH](https://open.spotify.com/artist/178j6D1fGg127yB9SiiTqd) | [KSN \(PINTLICH REMIX\)](https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ) | 3:08 |
+| 2 | [KSN \- PINTLICH REMIX](https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [PINTLICH](https://open.spotify.com/artist/178j6D1fGg127yB9SiiTqd) | [KSN \(PINTLICH REMIX\)](https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ) | 3:08 |
 | 3 | [Až po uši](https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8) | [Slavíček](https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l) | [HOMEMADE](https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc) | 3:17 |
 | 4 | [PTSD](https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [PTSD](https://open.spotify.com/album/1bKLXiByaeLjSj8AjfMO75) | 2:36 |
 | 5 | [Body to body](https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:12 |

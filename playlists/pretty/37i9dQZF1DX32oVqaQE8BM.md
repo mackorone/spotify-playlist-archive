@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,001 likes - 189 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,045 likes - 189 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 188 | [Deep Meaning](https://open.spotify.com/track/5PLhPQX56pD9C21PoPFJG7) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Deep Meaning](https://open.spotify.com/album/2dGnQPpPb7gn4qyawD9CU5) | 3:00 |
 | 189 | [bajo la luna](https://open.spotify.com/track/6MzqmDMctnS7fI0savOOtw) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [bajo la luna](https://open.spotify.com/album/6FOcsajbqcF0h8XP5bqqe3) | 2:14 |
 
-Snapshot ID: `AAAAAMMrMmlt0v19EHDA8cJa13Dfpi2r`
+Snapshot ID: `aEwi+AAAAADsjNm0NpzQnURlnk0LmtnV`

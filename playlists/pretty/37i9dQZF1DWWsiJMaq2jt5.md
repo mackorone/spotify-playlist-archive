@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:3KK1cO0sCWl01U14rS7wwN">Julia Rocka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,543 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,547 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [W innym świecie](https://open.spotify.com/track/46LUXa8AuHWkJHdjKrhA1X) | [Maja Golec](https://open.spotify.com/artist/5aoyFu4Ipc5PSsDfqgzS2X) | [W innym świecie](https://open.spotify.com/album/4wY6adSgsN3BLuGLDPhfPb) | 3:22 |
 | 60 | [Puls](https://open.spotify.com/track/6YAdy2yi77J8LMXUkqu4A4) | [Gaba Duthel](https://open.spotify.com/artist/3HpDqDwyBFw2q3Z4rzUytr) | [Puls](https://open.spotify.com/album/1jQZzGLKKVVbGvlrU0xdXh) | 3:58 |
 
-Snapshot ID: `aD9wcAAAAADtijbPJZH9aDTmQ3JWLA5r`
+Snapshot ID: `AAAAAP4rpOo1c0RkrTpP1s+AX33hJtLV`

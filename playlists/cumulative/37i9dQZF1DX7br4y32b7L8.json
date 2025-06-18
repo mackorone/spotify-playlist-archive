@@ -733,6 +733,28 @@
     },
     {
       "album": {
+        "name": "Fred",
+        "url": "https://open.spotify.com/album/09cAY6mQrDPjr2eZWcW1yp"
+      },
+      "artists": [
+        {
+          "name": "Stannie",
+          "url": "https://open.spotify.com/artist/6ruzIjHZKqXOay9HaHqHGS"
+        },
+        {
+          "name": "PUIZT",
+          "url": "https://open.spotify.com/artist/1gl1LxiIarVWcHdGBO5q5j"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85187,
+      "name": "APPIE",
+      "url": "https://open.spotify.com/track/78MRz8Dc2XveMNV6ol4EmP"
+    },
+    {
+      "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 117338,
+  "num_followers": 117339,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABxVoIxAETTIUcFl4AjKpI1",
+  "snapshot_id": "aE9egAAAAADWAM2DHDOgXfjqauTg6uRn",
   "tracks": [
     {
       "added_at": null,
@@ -402,11 +402,15 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 96013,
-      "name": "ON THE RIVER",
-      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
     },
     {
       "added_at": null,
@@ -502,15 +506,11 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 188333,
-      "name": "WORTH IT (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
+      "duration_ms": 96013,
+      "name": "ON THE RIVER",
+      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
     },
     {
       "added_at": null,
@@ -639,22 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "blame the chat",
-        "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
+        "name": "Big Grim Reaper: The Return",
+        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
       },
       "artists": [
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 165278,
-      "name": "do what you want (feat. Offset)",
-      "url": "https://open.spotify.com/track/170yLcujNwGwgfvjicjPfF"
+      "duration_ms": 202783,
+      "name": "Fantasy (feat. Offset)",
+      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
     },
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Grim Reaper: The Return",
-        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
+        "name": "blame the chat",
+        "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
       },
       "artists": [
         {
-          "name": "Big Scarr",
-          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 202783,
-      "name": "Fantasy (feat. Offset)",
-      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
+      "duration_ms": 165278,
+      "name": "do what you want (feat. Offset)",
+      "url": "https://open.spotify.com/track/170yLcujNwGwgfvjicjPfF"
     },
     {
       "added_at": null,

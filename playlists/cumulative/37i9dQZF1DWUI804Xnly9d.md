@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-556 songs - 1 day 7 hr 8 min
+557 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,7 @@
 | [Tere Sath](https://open.spotify.com/track/4y2Zpy2SxLylO13y0sJzzH) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Prabhjee Kaur](https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt) | [Tere Sath](https://open.spotify.com/album/4cnLfGzNDwFLXRvchtKfJR) | 2:56 | 2024-11-18 | 2024-12-14 |
 | [Tere Siva](https://open.spotify.com/track/6z8CuL6ElapwI5zKUFTsj3) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z) | [Tere Siva](https://open.spotify.com/album/6ynbNczzqeB7Zf47ghecOJ) | 3:20 | 2023-09-20 | 2024-01-31 |
 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Trending](https://open.spotify.com/track/5nJR43Y1coIT3QPchuCGfw) | [JalRaj](https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Trending\]](https://open.spotify.com/album/2KHpvJmpbbLlWMH1eY1vWh) | 2:56 | 2023-07-14 | 2023-10-05 |
-| [Teri Aadat](https://open.spotify.com/track/4AbWJGr7c0RAIawPiWEa5g) | [ANK](https://open.spotify.com/artist/1pubO9H9yDaUmuweQHVne8) | [Teri Aadat](https://open.spotify.com/album/12cTuBqDOyvDonuFgEN4FO) | 3:06 | 2025-02-12 |  |
+| [Teri Aadat](https://open.spotify.com/track/4AbWJGr7c0RAIawPiWEa5g) | [ANK](https://open.spotify.com/artist/1pubO9H9yDaUmuweQHVne8) | [Teri Aadat](https://open.spotify.com/album/12cTuBqDOyvDonuFgEN4FO) | 3:06 | 2025-02-12 | 2025-06-18 |
 | [Teri Baahon Mein](https://open.spotify.com/track/4aJxK0IBKX6C5F0kEXyAdg) | [Sanket Agarwal](https://open.spotify.com/artist/0vEj3eeiJzyLgyt8wRBVH5) | [Teri Baahon Mein](https://open.spotify.com/album/1JSezuoAH2819mmqkO9sZ6) | 2:43 | 2025-05-19 | 2025-06-07 |
 | [Teri Baaton Mein](https://open.spotify.com/track/5juIfRjWCX15RvLD6AKqWr) | [Praveen Yadav](https://open.spotify.com/artist/0HAgQesj94NOC9MvBrx7zH) | [Teri Baaton Mein](https://open.spotify.com/album/2vd3rMFyrNqTN2cfmHYcAY) | 3:15 | 2023-09-29 | 2024-02-15 |
 | [Teri Batein](https://open.spotify.com/track/3u1Tj8Y8W8mNrHnQ85R7C4) | [Karan Thakur](https://open.spotify.com/artist/6BYvKKcLreQSbelHa99O2M) | [Teri Batein](https://open.spotify.com/album/3s4oLqSfB7PwifOkoJ5wpT) | 3:34 | 2024-01-08 | 2024-04-19 |
@@ -520,6 +520,7 @@
 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 | 2023-06-08 | 2023-08-04 |
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-21 | 2023-10-04 |
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(Jonita's Version\)](https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa) | 1:15 | 2023-10-03 | 2024-02-08 |
+| [Tum Mere Kya Ho \- Acoustic](https://open.spotify.com/track/2cMu7vAPzdImJKQprhywwI) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tum Mere Kya Ho \(Acoustic\)](https://open.spotify.com/album/2lvcYEZgXXYvWWYEvmvLeY) | 2:47 | 2025-06-17 |  |
 | [Tum Meri Ho](https://open.spotify.com/track/0NaeiORUuQWkD3mGpuVUG4) | [MAJOR STUDIO](https://open.spotify.com/artist/5SNjhow2A2xiloi8MUedNC), [Abhidev Chaudhary](https://open.spotify.com/artist/28IGTT6g9wMnkVmYocoVpj) | [Tum Meri Ho](https://open.spotify.com/album/11X0eOPuhW8aYaJp8COqzq) | 3:04 | 2024-05-06 | 2024-09-21 |
 | [Tum Mujhe Jaante Ho \- Ukulele Version](https://open.spotify.com/track/1kZZfGmtZHBd4cZOuov1k0) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4), [Luv](https://open.spotify.com/artist/1dEulvhhLRgnDn5DW1WNqe) | [Tum Mujhe Jaante Ho \(Ukulele Version\)](https://open.spotify.com/album/69hZQvIMjMIOEhgYmuWZua) | 3:50 | 2023-05-17 | 2024-02-10 |
 | [tumhari talash mein](https://open.spotify.com/track/1XOJCYppa3yBqcScXOH8WN) | [iZAK](https://open.spotify.com/artist/6oH1IZqOmOowoW1NAeFY30) | [tumhari talash mein](https://open.spotify.com/album/6NCSSlc6zSEUxkYGcgaNgt) | 3:31 | 2024-10-01 | 2024-11-23 |

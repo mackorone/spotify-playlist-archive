@@ -1031,6 +1031,28 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
       },
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 140614,
       "name": "One of Us",
       "url": "https://open.spotify.com/track/7dknNu0AKdvXCK0hqEaNDm"

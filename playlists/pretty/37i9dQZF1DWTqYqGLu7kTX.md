@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover: Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,217 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,339 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Takde Gharde](https://open.spotify.com/track/18TVdBUP2gSyo6hLsieay8) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:14 |
 | 2 | [What We Do](https://open.spotify.com/track/10Pjg6e1n3KdNfRryu5j8F) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:36 |
 | 3 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
-| 4 | [Take Notes](https://open.spotify.com/track/4qSvRa46syIXbOwN1LCLMF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Jay B](https://open.spotify.com/artist/6gER61ovSvDU9T4y5CJQ6N) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:36 |
+| 4 | [Take Notes](https://open.spotify.com/track/4qSvRa46syIXbOwN1LCLMF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:36 |
 | 5 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 |
 | 6 | [High On You](https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [High On You](https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC) | 2:20 |
 | 7 | [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 |

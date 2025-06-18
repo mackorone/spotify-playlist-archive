@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "A TI",
+        "url": "https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/3GYowZ5IL7gnri8Zejti3t"
+    },
+    {
+      "album": {
         "name": "Love Therapy",
         "url": "https://open.spotify.com/album/5a5C4f2S7NvcMCdwQFqT48"
       },
@@ -62848,7 +62866,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 166153,
       "name": "WANTA",
       "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"

@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 149161,
+  "num_followers": 149176,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABP3EeeeDCQY7zQejjVMdX6",
+  "snapshot_id": "aE9egAAAAAAoP3ygN/+DAGN3EbQYyVgL",
   "tracks": [
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 268560,
-      "name": "Temporary Home",
-      "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"
+      "duration_ms": 198333,
+      "name": "Smoke Break",
+      "url": "https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Smoke Break",
-      "url": "https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa"
+      "duration_ms": 268560,
+      "name": "Temporary Home",
+      "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"
     },
     {
       "added_at": null,

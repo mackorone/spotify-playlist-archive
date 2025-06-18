@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Jon Reddick
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,581 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,532 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 49 | [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 |
 | 50 | [These are the Days](https://open.spotify.com/track/3fBuoCGice8hZng7rWbHed) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:51 |
 
-Snapshot ID: `aEv2xgAAAACjDhIjyaTcycOaTeRWweUz`
+Snapshot ID: `aEv2xgAAAAD122BFDIRJRGAMSINFdh4+`

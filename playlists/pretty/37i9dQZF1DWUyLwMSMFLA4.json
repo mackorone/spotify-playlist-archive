@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 617668,
+  "num_followers": 617698,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
+        "name": "20 Secretos de Amor - Koli Arce y su Quinteto Imperial",
+        "url": "https://open.spotify.com/album/2zfClZ7stVYTYJ9xKhi0dn"
+      },
+      "artists": [
+        {
+          "name": "Koli Arce Y Su Quinteto Imperial",
+          "url": "https://open.spotify.com/artist/3WFhwMCDmVICPFzjYKz5b6"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Mujer Endemoniada",
+      "url": "https://open.spotify.com/track/7rcRAdwVtuD9FVcl7cVRfm"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
         "name": "Dime Quien",
         "url": "https://open.spotify.com/album/4ezfh3czrZ39US5xqEdGza"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 185714,
       "name": "Dime Quien",
       "url": "https://open.spotify.com/track/2RmMb9oAYUZKfK1JzahUIi"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
-        "name": "20 Secretos de Amor - Koli Arce y su Quinteto Imperial",
-        "url": "https://open.spotify.com/album/2zfClZ7stVYTYJ9xKhi0dn"
-      },
-      "artists": [
-        {
-          "name": "Koli Arce Y Su Quinteto Imperial",
-          "url": "https://open.spotify.com/artist/3WFhwMCDmVICPFzjYKz5b6"
-        }
-      ],
-      "duration_ms": 246786,
-      "name": "Mujer Endemoniada",
-      "url": "https://open.spotify.com/track/7rcRAdwVtuD9FVcl7cVRfm"
     },
     {
       "added_at": "2025-06-10 18:11:41",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
-        "name": "Dos D\u00edas",
-        "url": "https://open.spotify.com/album/71jaSfhdzQhaVYIpEHXjEY"
-      },
-      "artists": [
-        {
-          "name": "La Clave Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/2e4Y8l04wLXmQhffiFOV0Z"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "Dos Dias",
-      "url": "https://open.spotify.com/track/1zlxOhIaALC9TJ8M73ahCo"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
         "name": "En Vivo en el Gran Rex",
         "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 316993,
       "name": "Ahora Te Vas / Hojita Seca - En Vivo",
       "url": "https://open.spotify.com/track/7vPCMSroBVL5SHTNF3TsxG"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
+        "name": "Dos D\u00edas",
+        "url": "https://open.spotify.com/album/71jaSfhdzQhaVYIpEHXjEY"
+      },
+      "artists": [
+        {
+          "name": "La Clave Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/2e4Y8l04wLXmQhffiFOV0Z"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "Dos Dias",
+      "url": "https://open.spotify.com/track/1zlxOhIaALC9TJ8M73ahCo"
     },
     {
       "added_at": "2025-06-10 18:11:41",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
-        "name": "Grupo Green: 20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0ERSrEFkJifI5qZzC1oR7h"
-      },
-      "artists": [
-        {
-          "name": "Grupo Green",
-          "url": "https://open.spotify.com/artist/3OSozwQXzKD9PY3M4hfkEW"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Fue Un Error",
-      "url": "https://open.spotify.com/track/3ZJPaE87o6BNBujjuSV2f3"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
         "name": "Tu Carcel",
         "url": "https://open.spotify.com/album/14RnASbUlU4WwIl7a4JwFe"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 199898,
       "name": "Tu Carcel",
       "url": "https://open.spotify.com/track/3WA6w55SBpzOfOBjWHDxAG"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
+        "name": "Grupo Green: 20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0ERSrEFkJifI5qZzC1oR7h"
+      },
+      "artists": [
+        {
+          "name": "Grupo Green",
+          "url": "https://open.spotify.com/artist/3OSozwQXzKD9PY3M4hfkEW"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Fue Un Error",
+      "url": "https://open.spotify.com/track/3ZJPaE87o6BNBujjuSV2f3"
     },
     {
       "added_at": "2025-06-10 18:11:41",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
-        "name": "25 A\u00f1os (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cali",
-          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
-        }
-      ],
-      "duration_ms": 123419,
-      "name": "Amor de chat",
-      "url": "https://open.spotify.com/track/0tsgY4lyqRz1mHeUNqL1Ld"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
         "name": "Porque Yo Te Amo",
         "url": "https://open.spotify.com/album/3uLhu0Sgm2tacIohtSrit9"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 256866,
       "name": "Porque Yo Te Amo",
       "url": "https://open.spotify.com/track/4exvMNAE0ne03B4PEUSknr"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
+        "name": "25 A\u00f1os (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Br3icgpgWZFf9Z4pKM7qx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cali",
+          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
+        }
+      ],
+      "duration_ms": 123419,
+      "name": "Amor de chat",
+      "url": "https://open.spotify.com/track/0tsgY4lyqRz1mHeUNqL1Ld"
     },
     {
       "added_at": "2025-06-10 18:11:41",

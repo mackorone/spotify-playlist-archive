@@ -947,6 +947,30 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+      },
+      "artists": [
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Bobby Kim",
+          "url": "https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z"
+        },
+        {
+          "name": "Sean2Slow",
+          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Climb High",
+      "url": "https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
         "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
       },
@@ -995,30 +1019,6 @@
       "duration_ms": 506070,
       "name": "\ud55c\uae38\uc744 \uac78\uc5b4\uac00\ub77c (with \ud53c\ud0c0\uc785, \ub77c\uc784\uc5b4\ud0dd, \ub9c8\uc774\ub178\uc2a4, \ub300\ud314, \ub098\ucc30, \ub10b\uc5c5\uc0e8, MC \uba54\ud0c0, Wimpy & Sean2slow) - Remix Version",
       "url": "https://open.spotify.com/track/4orjqC4JPPjNFy1oVnArEP"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
-      },
-      "artists": [
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Bobby Kim",
-          "url": "https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z"
-        },
-        {
-          "name": "Sean2Slow",
-          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Climb High",
-      "url": "https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+      },
+      "artists": [
+        {
+          "name": "Ill Skillz",
+          "url": "https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW"
+        }
+      ],
+      "duration_ms": 237906,
+      "name": "Windbag Three Brothers and Spinner Park",
+      "url": "https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
-      },
-      "artists": [
-        {
-          "name": "Ill Skillz",
-          "url": "https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW"
-        }
-      ],
-      "duration_ms": 237906,
-      "name": "Windbag Three Brothers and Spinner Park",
-      "url": "https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Modern Rhymes XX",
         "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 164354,
       "name": "Radio - 2021 Remaster",
       "url": "https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
-        "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
-      },
-      "artists": [
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "\ubd88\ud55c\ub2f9's oblige",
-      "url": "https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1223,6 +1207,38 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h"
+      },
+      "artists": [
+        {
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
+      "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
+        "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
+      },
+      "artists": [
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "\ubd88\ud55c\ub2f9's oblige",
+      "url": "https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 231993,
       "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
       "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h"
-      },
-      "artists": [
-        {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
-      "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        }
+      ],
+      "duration_ms": 249946,
+      "name": "Beatz 4 Da Streetz",
+      "url": "https://open.spotify.com/track/5YkF8ZCdSM0ISElJx2pig7"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 263575,
       "name": "\uc0dd\uae34\ub300\ub85c \ub180\uc544 (feat. Juvie Train & Koonta)",
       "url": "https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Beatz 4 Da Streetz",
-      "url": "https://open.spotify.com/track/5YkF8ZCdSM0ISElJx2pig7"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Massmediah",
-        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
       "artists": [
         {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
-      "duration_ms": 286812,
-      "name": "The Movement II",
-      "url": "https://open.spotify.com/track/3ilwG9iYGH9HecRrT4LgYc"
+      "duration_ms": 222315,
+      "name": "History In The Making - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+        "name": "Massmediah",
+        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
         }
       ],
-      "duration_ms": 222315,
-      "name": "History In The Making - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP"
+      "duration_ms": 286812,
+      "name": "The Movement II",
+      "url": "https://open.spotify.com/track/3ilwG9iYGH9HecRrT4LgYc"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1831,6 +1831,22 @@
       "duration_ms": 222697,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/6VmLjAp3u7v3jFSSWpF4qC"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 239052,
+      "name": "Drama - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1891,22 +1907,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 239052,
-      "name": "Drama - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35"
       },
@@ -1919,22 +1919,6 @@
       "duration_ms": 258955,
       "name": "Imagine That",
       "url": "https://open.spotify.com/track/3CSovfXGMPwvtEXtSNO4Bk"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Band of Dynamic Brothers",
-        "url": "https://open.spotify.com/album/1v5PBEn1CygICPOdOuJfSc"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/7rUURVpd1ucUhkbnYNlJbw"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1955,6 +1939,22 @@
       "duration_ms": 235253,
       "name": "Don Quixote \ub3c8\ud0a4\ud638\ud14c (feat. Realslow)",
       "url": "https://open.spotify.com/track/22ALrulRzldazLgc0Syvpg"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Band of Dynamic Brothers",
+        "url": "https://open.spotify.com/album/1v5PBEn1CygICPOdOuJfSc"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/7rUURVpd1ucUhkbnYNlJbw"
     }
   ],
   "unique_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",

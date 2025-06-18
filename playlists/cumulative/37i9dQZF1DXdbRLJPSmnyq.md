@@ -281,7 +281,7 @@
 | [香水](https://open.spotify.com/track/786dSB84yrSaICJwCT7VxP) | [Eito](https://open.spotify.com/artist/32QmJ5obSke8YKDbQvVPUx) | [すっからかん](https://open.spotify.com/album/4Ixr6M2KwqrH5GGQMRFgkI) | 4:15 | 2023-06-19 | 2024-01-14 |
 | [騙シ愛 \- Damashiai](https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [騙シ愛 \- Damashiai](https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ) | 3:56 | 2025-04-17 |  |
 | [高嶺の花子さん](https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ラブストーリー](https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ) | 4:54 | 2024-02-12 | 2025-05-23 |
-| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-03-08 |  |
+| [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-03-08 |  |
 | [麻痺](https://open.spotify.com/track/1LwSnnsoKcAUv9TPFEZ7iQ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/7lXwejcTgkCpmBlwQyMAAV) | 3:18 | 2023-06-19 | 2024-03-17 |
 
 \*This playlist was first scraped on 2023-07-07. Prior content cannot be recovered.

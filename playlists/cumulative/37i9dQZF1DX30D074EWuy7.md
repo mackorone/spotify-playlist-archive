@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Studio Murena
 
-532 songs - 1 day 15 hr 59 min
+533 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Little Wing](https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq) | [Egidio Marchitelli](https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6) | [Drifting in a room full of mirrors](https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss) | 4:34 | 2024-10-11 | 2024-12-12 |
 | [Long John Silver](https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [Studio Murena](https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8) | 4:04 | 2022-11-02 |  |
 | [Lontano](https://open.spotify.com/track/5he89Ndv5FYgFUsiLlmgtO) | [Simone Locarni](https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5), [Andrea Dulbecco](https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL), [Riccardo Fioravanti](https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf) | [Ten Stops](https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG) | 3:02 | 2023-01-30 | 2023-06-05 |
-| [Looping](https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe) | [Perigeo](https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e) | [La Valle Dei Templi](https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z) | 3:04 | 2022-11-02 |  |
+| [Looping](https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe) | [Perigeo](https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e) | [La Valle Dei Templi](https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z) | 3:04 | 2022-11-02 | 2025-06-18 |
 | [Love is a Temple](https://open.spotify.com/track/3wj0rOntfKekxkJrqsOU8y) | [Mario Biondi](https://open.spotify.com/artist/1dRsXw2TtfCXfqMLRiP088) | [Beyond](https://open.spotify.com/album/25jvCMfUzOBiwjPoLnRQpy) | 3:36 | 2022-08-31 | 2022-10-01 |
 | [Lu rusciu de lu mare \- Vocal](https://open.spotify.com/track/5waZ6CiNIvE8HFn5KmDEub) | [Raffaele Casarano](https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB), [Locomotive](https://open.spotify.com/artist/7lFPzgsQwdyUrPIaU0oZzo), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Noè](https://open.spotify.com/album/69onXIGBTdfJ7AADZExuXk) | 4:36 | 2023-12-05 | 2024-03-29 |
 | [Luce coatta](https://open.spotify.com/track/5NtfeXVr7Svsfyh6UfQCME) | [Mariasole De Pascali](https://open.spotify.com/artist/2Jv7B9pQ12UQaZgLLoAJRW) | [Fera](https://open.spotify.com/album/2izTLnkmVrIV8DTWHJ1bMS) | 2:25 | 2024-03-28 | 2024-06-13 |
@@ -345,6 +345,7 @@
 | [My Groove Your Moove](https://open.spotify.com/track/5jkYLolY6EqsKTyQ3S64p0) | [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE), [Dado Moroni](https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz), [Nicolas Thys](https://open.spotify.com/artist/43yDWnmm57aoKDYV1PQV6I), [Cesare Mecca](https://open.spotify.com/artist/2n1QP75kbCOoxl1gPi8cs3) | [Rushin'](https://open.spotify.com/album/4MMwzcfiGiwNwocLjnsEER) | 4:50 | 2025-05-16 |  |
 | [My Heart in a Song](https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Simona Severini](https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l) | [My Songbook](https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E) | 5:40 | 2022-09-30 | 2025-05-09 |
 | [My Way](https://open.spotify.com/track/3XJC0d3Yo0y17ZtOlOdC3P) | [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk) | [Chansons](https://open.spotify.com/album/7d6I7tR73f3smXLcKQNgF9) | 5:11 | 2022-09-30 |  |
+| [Māyā Manifesto](https://open.spotify.com/track/5SMp80CWRyCPyrEaTVae5F) | [Māyā](https://open.spotify.com/artist/2xbFo4ibEpNNfjmTrGcKoR) | [Artifício Fantástico](https://open.spotify.com/album/5ygdNhUuw6NVJlPs6Ecy0Z) | 3:49 | 2025-06-12 |  |
 | [Na Minha Casa Mais Uma Vez](https://open.spotify.com/track/48uyu04YowGIg4uXb4k8qq) | [Francesca Corrias](https://open.spotify.com/artist/5CVqFDtjtfBpFIvtBIX4Kf) | [Songshine](https://open.spotify.com/album/0IElVERB2Ht5dsxhkOEeYO) | 5:57 | 2023-01-30 | 2023-06-05 |
 | [Napule È](https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9) | [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0) | [Senza Fine](https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3) | 2:17 | 2024-04-26 | 2025-05-11 |
 | [Natale](https://open.spotify.com/track/4xM4ctOb3WswWUQzutFh1P) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [De Gregori](https://open.spotify.com/album/7lXs5nwf9uayxVnjDqB16J) | 2:35 | 2022-12-05 | 2023-02-01 |

@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: KISS OF LIFE\)
 
-831 songs - 1 day 20 hr 5 min
+832 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Chrome Hearts](https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:05 | 2022-11-03 | 2022-11-23 |
 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 | 2022-07-27 | 2023-04-02 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-10 | 2023-01-24 |
+| [City View](https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [City View / Her](https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW) | 3:28 | 2025-06-17 |  |
 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3gt8XdxuOccNIY5b2UpM1l) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission\(Sub\-leader\)](https://open.spotify.com/album/5sTeyWloN8oEUtvbV0VDNY) | 2:45 | 2023-08-31 | 2023-09-06 |
 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 | 2023-09-04 | 2024-04-07 |
 | [Close to the end](https://open.spotify.com/track/534of4xXNHXK9DOk0BRIK9) | [The Paradice](https://open.spotify.com/artist/0gsf1rw2Mtxc2DORnT2FQ1) | [Close to the end](https://open.spotify.com/album/0HpwI0wcsHlnGlFED3hkNG) | 3:30 | 2022-04-19 | 2022-04-21 |
@@ -817,7 +818,7 @@
 | [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 | 2023-07-07 | 2023-07-15 |
 | [X\-MAS TREE](https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [X\-MAS TREE](https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG) | 4:16 | 2024-12-24 | 2025-01-08 |
 | [YES \(feat\. Jay Park, REDDY\)](https://open.spotify.com/track/7LlIANXlJFhzDHGqugugTp) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Diminished](https://open.spotify.com/album/6YX73BggU7ueaQzV9PKXiO) | 2:46 | 2024-04-19 | 2024-05-01 |
-| [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2024-01-17 |  |
+| [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2024-01-17 | 2025-06-18 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-21 | 2024-06-13 |
 | [You are special](https://open.spotify.com/track/2CNG54Mbrfw5EvmXE0370Y) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You are special](https://open.spotify.com/album/2vtpyCgI3m6igo2dKJQqTV) | 3:24 | 2024-01-23 | 2024-02-07 |
 | [you got me!](https://open.spotify.com/track/4rBJvWScyzNrA7eFQVUDpU) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [you got me!](https://open.spotify.com/album/2TUXs8m5C46sv5HhvOxeOe) | 3:14 | 2022-04-19 | 2022-04-21 |

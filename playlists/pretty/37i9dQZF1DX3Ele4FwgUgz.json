@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 18144,
+  "num_followers": 18150,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-06-13 16:42:59",
       "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
-      },
-      "artists": [
-        {
-          "name": "DiverDiva",
-          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
-    },
-    {
-      "added_at": "2025-06-13 16:42:59",
-      "album": {
         "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
         "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 244653,
       "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
+    },
+    {
+      "added_at": "2025-06-13 16:42:59",
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
     },
     {
       "added_at": "2025-06-13 16:42:59",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-06-13 16:42:59",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
-    },
-    {
-      "added_at": "2025-06-13 16:42:59",
-      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 237000,
       "name": "Fire Bird",
       "url": "https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o"
+    },
+    {
+      "added_at": "2025-06-13 16:42:59",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
     },
     {
       "added_at": "2025-06-13 16:42:59",

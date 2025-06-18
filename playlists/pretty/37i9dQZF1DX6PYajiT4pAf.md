@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lola Indigo, SAIKO con Omar Courtz, Ovy On The Drums con Quevedo y Beéle, Judeline y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,492 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,544 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

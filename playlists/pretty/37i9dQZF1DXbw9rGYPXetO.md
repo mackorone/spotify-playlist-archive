@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > Hottest tracks from Coke Studio Bharat\. Cover: Punjabi Vekh Ke
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,439 likes - 17 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,452 likes - 17 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

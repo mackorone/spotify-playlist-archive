@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gAnC9ioCxB.md) - [plain]
 
 > Get inspired by these stories and conversations around self\-improvement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,472 likes - 19 songs - 2 day 0 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,471 likes - 19 songs - 2 day 0 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

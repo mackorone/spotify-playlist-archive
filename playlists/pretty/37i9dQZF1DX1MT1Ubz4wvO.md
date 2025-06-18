@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Depresión Sonora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,972 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,976 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 10 | [Por fin se me hizo borrarte](https://open.spotify.com/track/7icEpilolnun9gRaUkhf6J) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Por fin se me hizo borrarte](https://open.spotify.com/album/1CScdnbIWbiGB8GTa7CaPJ) | 3:36 |
 | 11 | [Estamos como queremos](https://open.spotify.com/track/1hM8IkhmSWyrpGcCkH7yNE) | [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz) | [Estamos como queremos](https://open.spotify.com/album/2nyRW2bGiETkzWPqO2qQe5) | 2:42 |
 | 12 | [Echa a Correr](https://open.spotify.com/track/1gOUq5jFNtGr0lc1bkToGr) | [Alfredo Piedrafita](https://open.spotify.com/artist/0Y93RnnfowqScS5INK5EUi), [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Echa a Correr](https://open.spotify.com/album/6xKVIY9R8dFk9rdUG46wFu) | 2:57 |
-| 13 | [Romper el plan](https://open.spotify.com/track/5NLkOwbYEtEImzmKoZXtJ7) | [Abismo](https://open.spotify.com/artist/4BHfQZgTgag2M8R8vRHBDN), [Dikers](https://open.spotify.com/artist/2BKzoHM3OPLcwwMS7GKyg3), [Iker Piedrafita](https://open.spotify.com/artist/5rEj8lImgvqATqAtJVJbMH) | [Romper El Plan](https://open.spotify.com/album/4JZK2qlbgeUJ0UiCPORIqK) | 3:05 |
+| 13 | [Romper el plan](https://open.spotify.com/track/5NLkOwbYEtEImzmKoZXtJ7) | [Abismo](https://open.spotify.com/artist/4BHfQZgTgag2M8R8vRHBDN), [Dikers](https://open.spotify.com/artist/5YAO9W70goZKtAm7ygo4QI), [Iker Piedrafita](https://open.spotify.com/artist/5rEj8lImgvqATqAtJVJbMH) | [Romper El Plan](https://open.spotify.com/album/4JZK2qlbgeUJ0UiCPORIqK) | 3:05 |
 | 14 | [¿Dónde Está Mi Corazón?](https://open.spotify.com/track/3Wf1f9FWwtf7MDC5yNrG8m) | [Viva Elastico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Instantáneo](https://open.spotify.com/album/2eQTCi4hk1YamhJt1R4KfO) | 3:49 |
 | 15 | [La Rumba del Apaleao](https://open.spotify.com/track/3TUmqJyHHQWQCdbHtc4gRU) | [Silenciados](https://open.spotify.com/artist/0xK1JegGlvueVzt4CEAOGh) | [La Rumba del Apaleao](https://open.spotify.com/album/36suCRzdxAeB3ngjroy3Jp) | 4:10 |
 | 16 | [Dear Changes](https://open.spotify.com/track/368bMisQ0bC5cMtRuErLKT) | [D.R.E.A.D](https://open.spotify.com/artist/1omDHY5qIqriMoJH2C9goA) | [Dear Changes](https://open.spotify.com/album/7cEFDb4cyKF0KeDftISplg) | 5:28 |

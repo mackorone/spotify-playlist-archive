@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-723 songs - 1 day 12 hr 37 min
+724 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-04 |  |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2025-05-22 | 2025-06-03 |
 | [Appel Mint Puur](https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Appel Mint Puur](https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ) | 3:27 | 2023-12-14 | 2024-04-17 |
+| [APPIE](https://open.spotify.com/track/78MRz8Dc2XveMNV6ol4EmP) | [Stannie](https://open.spotify.com/artist/6ruzIjHZKqXOay9HaHqHGS), [PUIZT](https://open.spotify.com/artist/1gl1LxiIarVWcHdGBO5q5j) | [Fred](https://open.spotify.com/album/09cAY6mQrDPjr2eZWcW1yp) | 1:25 | 2025-06-17 |  |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-18 | 2023-09-07 |
 | [Atlas](https://open.spotify.com/track/6zdmJ79GtRfpJJdaDPECYm) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Atlas](https://open.spotify.com/album/7vTA5iDvkhVHkRLYvVXWad) | 3:00 | 2025-04-10 | 2025-05-16 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-01 | 2023-10-03 |

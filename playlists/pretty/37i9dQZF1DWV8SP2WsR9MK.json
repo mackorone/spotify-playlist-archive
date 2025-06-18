@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 111028,
+  "num_followers": 111072,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "I Can See Your House From Here",
-        "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        },
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "The Red One",
-      "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 341360,
       "name": "Stairway To The Stars",
       "url": "https://open.spotify.com/track/4qW1WqsyYBi0mPjhzP2XpN"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "I Can See Your House From Here",
+        "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "The Red One",
+      "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Hand-Crafted Swing",
-        "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
-      },
-      "artists": [
-        {
-          "name": "George Van Eps",
-          "url": "https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps"
-        },
-        {
-          "name": "Howard Alden",
-          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
-        }
-      ],
-      "duration_ms": 370866,
-      "name": "The Nearness Of You - Instrumental",
-      "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 385973,
       "name": "Nimbus",
       "url": "https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Hand-Crafted Swing",
+        "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
+      },
+      "artists": [
+        {
+          "name": "George Van Eps",
+          "url": "https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps"
+        },
+        {
+          "name": "Howard Alden",
+          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
+        }
+      ],
+      "duration_ms": 370866,
+      "name": "The Nearness Of You - Instrumental",
+      "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "The Artistry Of Tal Farlow",
-        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
-      },
-      "artists": [
-        {
-          "name": "Tal Farlow",
-          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Rambler",
         "url": "https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 492266,
       "name": "Rambler",
       "url": "https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "The Artistry Of Tal Farlow",
+        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
+      },
+      "artists": [
+        {
+          "name": "Tal Farlow",
+          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Let's Say We Did",
-      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Bill Frisell, Ron Carter, Paul Motian",
         "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
       },
       "artists": [
         {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
         }
       ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
+      "duration_ms": 267800,
+      "name": "Let's Say We Did",
+      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1375,6 +1359,22 @@
       "duration_ms": 371200,
       "name": "Blue Line",
       "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
+        "name": "Deep Song",
+        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 502440,
+      "name": "Brooklyn Sometimes",
+      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 271200,
       "name": "How Long Has This Been Going On",
       "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Deep Song",
-        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 502440,
-      "name": "Brooklyn Sometimes",
-      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2024-07-17 12:19:46",

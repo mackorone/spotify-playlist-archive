@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21720,
+  "num_followers": 21722,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAAphIAMz5iYWkR6FGt2fb8W",
+  "snapshot_id": "aE9egAAAAADBINRgtX/wrf/EqJy9/6VK",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Cydi",
-      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+      "duration_ms": 215293,
+      "name": "Campfire on the Road",
+      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cydi",
+      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Man Emu",
         "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 222840,
       "name": "Diggers of the Anzac (This Is Gallipoli)",
       "url": "https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Campfire on the Road",
-      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+        "name": "Mulga to Mangoes",
+        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Hillbilly Road",
-      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
+      "duration_ms": 173093,
+      "name": "Aussie Balladeer",
+      "url": "https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulga to Mangoes",
-        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 173093,
-      "name": "Aussie Balladeer",
-      "url": "https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd"
+      "duration_ms": 184906,
+      "name": "Hillbilly Road",
+      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
       "duration_ms": 242786,
       "name": "Waltzing Matilda",
       "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mulga to Mangoes",
+        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "My Oath to Australia",
+      "url": "https://open.spotify.com/track/0iLLmm3cmUXctmOEilxi9E"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulga to Mangoes",
-        "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "My Oath to Australia",
-      "url": "https://open.spotify.com/track/0iLLmm3cmUXctmOEilxi9E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Favourite Collection",
         "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 284466,
       "name": "Hang My Hat in Queensland - Orchestra Version",
       "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Many Songs",
-        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 154346,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/6xIkSRKWDJXroLkwgT22rA"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 126586,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Don't Let The Old Man In, Mate",
+      "url": "https://open.spotify.com/track/3GR2aZYjiCEATw9eZdrroW"
     },
     {
       "added_at": null,

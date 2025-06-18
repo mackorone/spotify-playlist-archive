@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-161 songs - 10 hr 28 min
+162 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:41 | 2023-02-17 |  |
 | [Chicas on Fire](https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB) | [Shocklenders](https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR) | [Chicas on Fire \- Single](https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH) | 4:00 | 2023-02-17 |  |
 | [chichi](https://open.spotify.com/track/4UFPN3ZyAsPkFwx5DFg5yF) | [Tiger Mood](https://open.spotify.com/artist/3HFKC76u3isQMK8Ahy4C5r) | [tamagochi](https://open.spotify.com/album/6ww0tfSZNb8FM1MVHwoEwh) | 2:29 | 2024-11-15 |  |
+| [Clover](https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye) | [Cami Brooks](https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x) | [Clover](https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31) | 3:46 | 2025-06-13 |  |
 | [Coconut Boogaloo](https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 3:57 | 2023-02-17 |  |
 | [Conexión](https://open.spotify.com/track/7uIOBQx4sQDmug4oMu4epL) | [Fonky Taxi](https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre), [Mattiya](https://open.spotify.com/artist/3GDQJxeKUXHH2Elkywhvm9) | [La Nave](https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk) | 4:39 | 2024-03-29 | 2024-04-27 |
 | [Conexión](https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI) | [Maleboux](https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH) | [Impar](https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf) | 3:41 | 2024-03-29 | 2024-11-07 |
@@ -149,7 +150,7 @@
 | [Sobrado](https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb) | [Fugazza](https://open.spotify.com/artist/3FxT0q5mh6vZoE8r3HR1th) | [Sobrado](https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a) | 2:43 | 2024-05-10 |  |
 | [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 | 2023-09-07 |  |
 | [Solo Quiero \(funk\)](https://open.spotify.com/track/3PJ99tQgPE8ORNxs7DqniW) | [Tiger Mood](https://open.spotify.com/artist/3HFKC76u3isQMK8Ahy4C5r) | [La Semilla](https://open.spotify.com/album/5KB8vJGorzz68q7Ei2xZyk) | 3:23 | 2024-04-26 |  |
-| [Sr\. A](https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Sr\. A](https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok) | 3:33 | 2023-02-17 |  |
+| [Sr\. A](https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Sr\. A](https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok) | 3:33 | 2023-02-17 | 2025-06-18 |
 | [Starlight](https://open.spotify.com/track/6QRzoZsudSIAA0vwZSrqe7) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Starlight](https://open.spotify.com/album/1Tx0nvD2lCBrjgWvBJ2IXB) | 3:49 | 2025-02-28 |  |
 | [Sudaka](https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Sudaka](https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe) | 3:22 | 2023-02-17 |  |
 | [Sujeto a Espacio](https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:41 | 2023-02-17 |  |

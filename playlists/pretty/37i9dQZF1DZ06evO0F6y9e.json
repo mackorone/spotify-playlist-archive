@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1045575,
+  "num_followers": 1045732,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAADiAhcoVVut31KQa5SsMzUh",
+  "snapshot_id": "aE9egAAAAAAu0svdd5dkd9q8ecrHxFyP",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Quiere Llorar Y No Puede",
+      "url": "https://open.spotify.com/track/0EeuFATWTnLaF2OOXrTaSI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 198952,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Quiere Llorar Y No Puede",
-      "url": "https://open.spotify.com/track/0EeuFATWTnLaF2OOXrTaSI"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Ve\u00eda Venir",
-        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 152135,
-      "name": "Se Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 192550,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Ve\u00eda Venir",
+        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 152135,
+      "name": "Se Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Seg\u00fan Mi Reloj",
+      "url": "https://open.spotify.com/track/5qN3kW0IR3CatHePsr4MVV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 176000,
       "name": "Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Seg\u00fan Mi Reloj",
-      "url": "https://open.spotify.com/track/5qN3kW0IR3CatHePsr4MVV"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Estar\u00e9 Esperando (En Vivo)",
-        "url": "https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 221079,
-      "name": "Te Estar\u00e9 Esperando (En Vivo)",
-      "url": "https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -855,22 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+        "name": "Te Estar\u00e9 Esperando (En Vivo)",
+        "url": "https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 194462,
-      "name": "Seg\u00fan",
-      "url": "https://open.spotify.com/track/4xiQIGoPyUqJXhfBfFT85O"
+      "duration_ms": 221079,
+      "name": "Te Estar\u00e9 Esperando (En Vivo)",
+      "url": "https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
       "duration_ms": 193237,
       "name": "El Roto (En Vivo)",
       "url": "https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 194462,
+      "name": "Seg\u00fan",
+      "url": "https://open.spotify.com/track/4xiQIGoPyUqJXhfBfFT85O"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,396 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,624 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 54 | [Doctorin' the House \(feat\. Yazz & The Plastic Population\)](https://open.spotify.com/track/3w9fto7To0gKvUzYWxthP8) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Yazz & The Plastic Population](https://open.spotify.com/artist/1iGa7B3SPZFAOKiEzZWnbi) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:46 |
 | 55 | [Weekend](https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Greatest Hits](https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW) | 5:42 |
 | 56 | [Make It On My Own \- 12" Club Mix](https://open.spotify.com/track/63k11xpe5cqZAIPyWgVyvL) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Steve Anderson](https://open.spotify.com/artist/1w2vC8mujXXoXYTVRxJybN) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 7:04 |
-| 57 | [Was That All It Was \- Def Mix Edit 2](https://open.spotify.com/track/0dPA0IEjHKMKDlHTS4tY9g) | [Kym Mazelle](https://open.spotify.com/artist/7CgweQAq49HmeMQaxzyuXC) | [Brilliant!!](https://open.spotify.com/album/16GqsaJujQk5DxtPVh8NWh) | 5:39 |
-| 58 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
+| 57 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
+| 58 | [Was That All It Was \- Def Mix Edit 2](https://open.spotify.com/track/0dPA0IEjHKMKDlHTS4tY9g) | [Kym Mazelle](https://open.spotify.com/artist/7CgweQAq49HmeMQaxzyuXC) | [Brilliant!!](https://open.spotify.com/album/16GqsaJujQk5DxtPVh8NWh) | 5:39 |
 | 59 | [Pick Up The Phone](https://open.spotify.com/track/2uvFIGn79RLOHP1MeXI1Tr) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 4:30 |
 | 60 | [Trouble](https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs) | [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ) | [The World is Full of Trouble](https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn) | 7:26 |
 

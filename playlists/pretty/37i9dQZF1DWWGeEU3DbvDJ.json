@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85139,
+  "num_followers": 85143,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/1DgtQlVNotingln271ZKCx"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/1DgtQlVNotingln271ZKCx"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Have A Nice Day",
-        "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 220393,
-      "name": "In Between",
-      "url": "https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Holy Smokes",
         "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 195157,
       "name": "Holy Smokes",
       "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 220393,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "That's Who I Praise",
-        "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 228285,
-      "name": "That's Who I Praise",
-      "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "That's Who I Praise",
+        "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 228285,
+      "name": "That's Who I Praise",
+      "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 209595,
+      "name": "Counting My Blessings",
+      "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 209595,
-      "name": "Counting My Blessings",
-      "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
     },
     {
       "added_at": "2024-11-25 16:13:36",

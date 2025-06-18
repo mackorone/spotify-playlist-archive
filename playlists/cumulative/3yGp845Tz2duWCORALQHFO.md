@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,166 songs - 7 day 4 hr 3 min
+3,167 songs - 7 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Alarm](https://open.spotify.com/track/3cxrdZORNFFpro4z4jx4j8) | [The Kudu](https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ), [Mylo](https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD) | [Alarm](https://open.spotify.com/album/30ce73zUonp7zKRiOGuc8X) | 2:17 | 2024-05-22 | 2024-05-25 |
 | [Alarma](https://open.spotify.com/track/0BZWDVGgV3cmi7OOQftmrc) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Alarma](https://open.spotify.com/album/5XM7RBV1slyZgNnFumYn46) | 2:52 | 2025-04-11 | 2025-04-19 |
 | [Alaska](https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Alaska](https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh) | 4:08 | 2024-07-05 | 2024-07-12 |
+| [Alibi](https://open.spotify.com/track/0IaWiCqrdDxsjqBk2pQ1qj) | [Aki Nair](https://open.spotify.com/artist/1OzvLW7ccV7US8aTNODxmq) | [Alibi](https://open.spotify.com/album/3nNT3yT38H5AlroEuOUZKE) | 2:50 | 2025-06-17 |  |
 | [Alibi](https://open.spotify.com/track/3SFHf7xkcrsnUIEvUd0Ebc) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Alibi](https://open.spotify.com/album/0OfodlDksoq7jlMqwxS8Dk) | 2:21 | 2024-08-30 | 2024-09-06 |
 | [Alicante](https://open.spotify.com/track/5TqvSIrg2JO71XuWEDCwJj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Danny Roma x Manrix](https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1), [Yuliesky Gonzalez](https://open.spotify.com/artist/6wwPgJrI25XI6qKu5yOGkM) | [Alicante](https://open.spotify.com/album/7LY3V8BTAWVDeKp9QF3rlm) | 3:12 | 2025-02-21 | 2025-03-01 |
 | [Alice](https://open.spotify.com/track/73bZS69zrQVAwaMvollH4C) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Alice \(feat Joe Jury\)](https://open.spotify.com/album/62ekWJbgV7Yno7Zwc7zpE3) | 3:09 | 2024-07-25 | 2024-08-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,051 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,079 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 21 | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ), [Chunti](https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb) | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k) | 2:37 |
 | 22 | [Ya Se Tardaron](https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed) | [Fierro Pa Dubai](https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze), [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv), [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Ya Se Tardaron](https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm) | 2:55 |
 | 23 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |
-| 24 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
+| 24 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
 | 25 | [Meneando Cadera](https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Meneando Cadera](https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS) | 2:11 |
-| 26 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
+| 26 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
 | 27 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |
 | 28 | [Toa Pa' Mi](https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 3:02 |
 | 29 | [Mi Cumbia! \(feat\. Alan Rosales\)](https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB) | [Locos Only](https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS) | 2:51 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 34 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
 | 35 | [La Guarachita](https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [La Guarachita](https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG) | 2:59 |
 | 36 | [Fuego](https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [DJ Mouse](https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:05 |
-| 37 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |
-| 38 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |
+| 37 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |
+| 38 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |
 | 39 | [Dawn](https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE) | [HAMAL](https://open.spotify.com/artist/3f36c30ZfChG7KA6MaBEI1) | [Dawn](https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6) | 3:29 |
 | 40 | [África](https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [África](https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq) | 3:11 |
 | 41 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 |

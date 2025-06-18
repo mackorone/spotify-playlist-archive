@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Theresa Phondo & Praise Umali
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,349 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,382 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [Ijami Ko \(Not My Battle\)](https://open.spotify.com/track/25Qe1IEoYnIJ7KS1YLu0b2) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Ijami Ko \(Not My Battle\)](https://open.spotify.com/album/06D6jmsNWBabTcKc0enbxu) | 2:46 |
 | 100 | [No Longer Slaves](https://open.spotify.com/track/3k1SRcEZGJ8RFQADgUSTcy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [No Longer Slaves](https://open.spotify.com/album/4GlxFPsBe7r7ak8m4wAAj3) | 2:26 |
 
-Snapshot ID: `aEtqWAAAAACesco1nXPKV8Iub9BH4CmL`
+Snapshot ID: `aEtqWAAAAAAyE1P18UbmxpKly4EZ4S8v`

@@ -5721,6 +5721,28 @@
     },
     {
       "album": {
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
+      },
+      "artists": [
+        {
+          "name": "Sanju Rathod",
+          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+        },
+        {
+          "name": "G-SPXRK",
+          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175138,
+      "name": "Shaky",
+      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
+    },
+    {
+      "album": {
         "name": "She Bad",
         "url": "https://open.spotify.com/album/3CtoXePudXVyAAvr5OF4vi"
       },

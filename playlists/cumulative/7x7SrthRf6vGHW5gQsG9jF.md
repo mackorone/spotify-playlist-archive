@@ -4,7 +4,7 @@
 
 > mostly rock
 
-914 songs - 2 day 10 hr 31 min
+915 songs - 2 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [yodachi](https://open.spotify.com/track/6cfK69bgpl1GoYC2GDEyDE) | [simsiis](https://open.spotify.com/artist/4hU2ZgZUCCp8Bns1OP6JkA) | [white hot](https://open.spotify.com/album/7yGTNyOd5FilSoWqcx8Yp1) | 4:15 | 2024-03-18 |  |
 | [YOLO no taki](https://open.spotify.com/track/0ApxIVHZlWdQMCtEDRrdcS) | [.........](https://open.spotify.com/artist/6pwR1E7p5tJacVqGv22CFs) | [Points](https://open.spotify.com/album/2W1crAgwVRfF17ha4C7v53) | 4:15 | 2024-05-01 |  |
 | [You and I](https://open.spotify.com/track/3yBMWpfwFe7hTovGArqL9l) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [slow down](https://open.spotify.com/album/3wya6kva0X60zWCjRXpyNq) | 3:53 | 2024-04-30 |  |
+| [You and me](https://open.spotify.com/track/7Msc6E2IMQMhm8HJ6ZmUBu) | [mixty](https://open.spotify.com/artist/2gXRm46OQBjXZB5oBzBjP2), [konoco](https://open.spotify.com/artist/6HsCnf0xpVFfDiS4Sa7r8T) | [Tears of Flowers](https://open.spotify.com/album/6sbC1C9lEj4o7uEIBuR5P6) | 3:14 | 2025-06-17 |  |
 | [You outside my window](https://open.spotify.com/track/0ptW09x2Qjv00t076WBLWF) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 4:01 | 2023-11-19 |  |
 | [YOUNG GIRL SEVENTEEN SEXUALLY KNOWING](https://open.spotify.com/track/4ssTWMBZX3N7USALFL9WwW) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [SCHOOL GIRL DISTORTIONAL ADDICT](https://open.spotify.com/album/0SZzkQKnO96Di2u24UzaWB) | 3:46 | 2023-08-08 |  |
 | [Your Dreamland \(feat\. KOTONOHOUSE\)](https://open.spotify.com/track/2POAFJYXKVGpFM53EN5RU9) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [Your Dreamland](https://open.spotify.com/album/7yjl2M8SUjAeV0yo5Lomkn) | 3:16 | 2024-10-21 |  |
@@ -863,7 +864,7 @@
 | [甘い追憶](https://open.spotify.com/track/3VIdcoIXRJfvpj2g9NfMgI) | [マイナスジジョウ](https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU) | [甘い追憶](https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9) | 4:47 | 2025-03-14 |  |
 | [疾走](https://open.spotify.com/track/1DANFBPTZGP2qkBj2U3kBh) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 4:38 | 2023-12-31 |  |
 | [白い花](https://open.spotify.com/track/51u6IoqhotXL6TNntu8pcJ) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [袖の汀](https://open.spotify.com/album/0Rq3AhkgTk8m15vfDllorO) | 5:00 | 2024-05-05 |  |
-| [看不見](https://open.spotify.com/track/0LlriVGWQT8YP15wyAXXcA) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [Nice to 密 you．](https://open.spotify.com/album/3hyK9bHBHNVjiGcIuyog2W) | 1:14 | 2024-05-03 |  |
+| [看不見](https://open.spotify.com/track/0LlriVGWQT8YP15wyAXXcA) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [Nice to 密 you．](https://open.spotify.com/album/3hyK9bHBHNVjiGcIuyog2W) | 1:14 | 2024-05-03 | 2025-06-18 |
 | [眩しくて](https://open.spotify.com/track/50mNiIvaBdeUNodw6ayTTD) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [eyes on you](https://open.spotify.com/album/6rTZHZ33CR20wYcvtTysOb) | 4:13 | 2024-05-18 |  |
 | [瞬きの間に](https://open.spotify.com/track/2K6YFgpuiSZRfN2BevNBI4) | [goji\-sanpun](https://open.spotify.com/artist/31h7oxgsQMG7dxCdECteWj) | [goji\-sanpun](https://open.spotify.com/album/0fH0YN9EjYb0GVXJlGdkqa) | 4:17 | 2024-08-18 |  |
 | [瞳憬日より](https://open.spotify.com/track/5MG8jjgT20PBqeu9QFanLQ) | [溶けない名前](https://open.spotify.com/artist/2kFFIxf8oy58ydskv0UdOj) | [幽かにそう纏う](https://open.spotify.com/album/2ZdUpXg3XzF2RO4wVkMgZ8) | 3:44 | 2024-04-25 |  |

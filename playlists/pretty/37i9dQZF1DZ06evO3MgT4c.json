@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 435873,
+  "num_followers": 435886,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAABJ+mQSae3pSX9Mf+F3N+T6",
+  "snapshot_id": "aE9egAAAAABh2+oGYRnqOs7OoliG+WMs",
   "tracks": [
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 144938,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loco (feat. Migos) [Remix]",
         "url": "https://open.spotify.com/album/1B2pHhRl3P87uOq5ZE1n6Q"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 157648,
       "name": "Loco (feat. Migos) - Remix",
       "url": "https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture III (Deluxe)",
-        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 144938,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS"
     },
     {
       "added_at": null,

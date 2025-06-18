@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new music by Experimental independent artists and labels\. <a href="spotify:artist:4EHUvmDJ3eLI7PhYyTe66f">Amanda Mur</a> on cover\. Artwork by Thami Nabil
 
-2,047 songs - 6 day 15 hr 43 min
+2,048 songs - 6 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Carmina XVII](https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Tarta Relena](https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP) | [Carmina XVII](https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP) | 4:00 | 2023-11-15 | 2023-11-30 |
 | [Carte Blanche](https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Carte Blanche](https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62) | 3:14 | 2022-07-27 | 2022-09-22 |
 | [Cartwheel](https://open.spotify.com/track/0bL30VdNJH5M1HsJDxXzOU) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3) | [Pillowland](https://open.spotify.com/album/52MzGGLFtSb4nHSRgOidHM) | 3:38 | 2021-02-26 | 2022-03-09 |
-| [Casamento](https://open.spotify.com/track/3mTRiNSjIdBqLfevXYg4tO) | [Camille Cabbabe](https://open.spotify.com/artist/0kNsnflNww6brcHP8Dywn6) | [K2](https://open.spotify.com/album/7HeE9amV1xHGKfG8YLfUTz) | 2:44 | 2025-04-15 |  |
+| [Casamento](https://open.spotify.com/track/3mTRiNSjIdBqLfevXYg4tO) | [Camille Cabbabe](https://open.spotify.com/artist/0kNsnflNww6brcHP8Dywn6) | [K2](https://open.spotify.com/album/7HeE9amV1xHGKfG8YLfUTz) | 2:44 | 2025-04-15 | 2025-06-18 |
 | [Cascara](https://open.spotify.com/track/1lMkjU3ZlTXJR7HsblUglU) | [Kaan Bulak](https://open.spotify.com/artist/0xiMOLrizt1YVsgHGYkJRU), [Simon Höfele](https://open.spotify.com/artist/4sO1rsoceaDQC0TpjLn4JY) | [Cascara](https://open.spotify.com/album/1HLNBta8hCnoIsiMH91q53) | 5:43 | 2023-10-04 | 2023-11-30 |
 | [Castle Song](https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [A Host for All Kinds of Life](https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl) | 2:53 | 2023-10-18 | 2023-11-30 |
 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 | 2022-09-21 | 2022-12-01 |
@@ -1353,6 +1353,7 @@
 | [Potentials](https://open.spotify.com/track/2qRWeJMobkYAllXr9C0W0j) | [Zoë Mc Pherson](https://open.spotify.com/artist/0MVWdtgZhxX5VZFKoCMZjB) | [Potentials](https://open.spotify.com/album/2aLyjTjzAkJ9zri7aXVMRF) | 4:20 | 2023-02-01 | 2023-03-29 |
 | [Power I](https://open.spotify.com/track/0wksoXVbCp01AK2oT5koIg) | [Only Now](https://open.spotify.com/artist/5LMCGGDQ6ZtzjDJhd0HZ2C) | [Timeslave III](https://open.spotify.com/album/35ERf4dOFtwSzMzuJfNOXi) | 5:19 | 2025-06-05 |  |
 | [Powers Out](https://open.spotify.com/track/3Ln2gSxZ0WUDUEUprF5RJa) | [Andrew CS](https://open.spotify.com/artist/7Fv7NaEJyV1PKy9PURdZFx) | [\*](https://open.spotify.com/album/3zGGjNdPQplOCQUyHgIQcq) | 1:57 | 2021-04-30 | 2021-06-24 |
+| [PP\#1](https://open.spotify.com/track/7wjPWOClyMeZuMWYEFn2Du) | [CATTANEO](https://open.spotify.com/artist/5P3fNSjAKAwWRPOYJ910KY) | [PP\#1](https://open.spotify.com/album/4jjvaOgG9QZ7adMyrUxCm3) | 4:19 | 2025-06-13 |  |
 | [Pray For Me](https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD) | [Lava Gulls](https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t) | [Pray For Me](https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI) | 3:44 | 2024-10-02 | 2024-12-05 |
 | [Pray For Me](https://open.spotify.com/track/4Io27HxQeIRyLGDzAn228b) | [Lava Gulls](https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t) | [Lava Gulls](https://open.spotify.com/album/3M3Xffn5JvtpksooprFxGH) | 3:44 | 2024-12-04 | 2025-01-30 |
 | [Preamble](https://open.spotify.com/track/01yfkhRKnHPoUNGIN0VoLE) | [Giselle Gabrielle Garcia](https://open.spotify.com/artist/79UcfHNMN7uaLkPVQrdt86) | [Meditation on a Sequence](https://open.spotify.com/album/61mszSIWQ0fo4CdNtNZM20) | 2:53 | 2022-04-27 | 2022-07-28 |

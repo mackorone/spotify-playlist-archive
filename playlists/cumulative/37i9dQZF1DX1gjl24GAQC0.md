@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: 도영 \(DOYOUNG\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: NOWZ \(나우즈\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-692 songs - 1 day 14 hr 3 min
+693 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Flash](https://open.spotify.com/track/5HUSHuEQ2u49F2Bn7V7OI4) | [SHINHWA WDJ](https://open.spotify.com/artist/3sQoi7YsPFaxKcQlSemJ93) | [Come To Life](https://open.spotify.com/album/7DAnweYfgKkI2OzupEMnQC) | 3:16 | 2022-12-07 | 2022-12-15 |
 | [FLASH](https://open.spotify.com/track/1q3C6brbmRrULTyo2mseKF) | [X1](https://open.spotify.com/artist/6C4irZ60X8G7UimMRQiCcg) | [QUANTUM LEAP](https://open.spotify.com/album/09sGMSeeP4bZQOCTpgKGX8) | 3:31 | 2021-12-08 | 2022-07-23 |
 | [FLEX](https://open.spotify.com/track/3p0YrVoaMqcu2gn1lIgnWF) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 3](https://open.spotify.com/album/5EYvdnybFnDjM7HlOASNCZ) | 3:41 | 2022-01-27 | 2022-04-18 |
+| [Fly to the youth \(feat\. YUQI\)](https://open.spotify.com/track/4bBAhOKM5yayK3z5y2wL6J) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Fly to the youth \(feat\. YUQI\)](https://open.spotify.com/album/5laYcYQaoQDxegUrGBwVD0) | 3:22 | 2025-06-17 |  |
 | [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 | 2025-05-20 |  |
 | [FOCUS ON ME](https://open.spotify.com/track/1JQPZKIXKU3wdOSjk2ILgM) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:36 | 2022-03-22 | 2022-04-19 |
 | [Follow](https://open.spotify.com/track/7ri0aUbwDcItOnQbywEGU5) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FOLLOW \- FIND YOU](https://open.spotify.com/album/3s5WpeDw4JOec54wEgmJBy) | 3:33 | 2022-03-22 | 2022-04-17 |
@@ -558,7 +559,7 @@
 | [Siren](https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Siren](https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO) | 2:27 | 2024-04-05 | 2024-06-25 |
 | [skinz](https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Instinct, Pt\. 2](https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv) | 3:23 | 2022-01-14 | 2022-04-18 |
 | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 | 2024-07-23 | 2025-02-17 |
-| [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 |  |
+| [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 | 2025-06-18 |
 | [Smoothie](https://open.spotify.com/track/2S2IfMg6ROIGjgwoCf1Z13) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [iScreaM Vol.31 : Smoothie Remix](https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp) | 3:08 | 2024-04-15 | 2024-04-19 |
 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 | 2024-03-26 | 2024-04-16 |
 | [Smoothie](https://open.spotify.com/track/5qrFeNSIrwIc0B6Elp16Dl) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp) | 3:08 | 2024-04-18 | 2024-12-15 |

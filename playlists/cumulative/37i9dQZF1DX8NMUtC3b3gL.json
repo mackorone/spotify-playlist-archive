@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "anachronism",
+        "url": "https://open.spotify.com/album/0Ln9SdrZPFU0W5d2Vy8bc4"
+      },
+      "artists": [
+        {
+          "name": "heirloom",
+          "url": "https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120857,
+      "name": "anachronism",
+      "url": "https://open.spotify.com/track/1K3dz5awL1VtVccdoAKmcN"
+    },
+    {
+      "album": {
         "name": "Pieces of Earth",
         "url": "https://open.spotify.com/album/0l5EuQZVdOANozH7Vu6f4v"
       },
@@ -1939,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Cloud Drift",
+        "url": "https://open.spotify.com/album/0wP01wGDiLXI5hVxHYPz9G"
+      },
+      "artists": [
+        {
+          "name": "entsy",
+          "url": "https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Cloud Drift",
+      "url": "https://open.spotify.com/track/2ghWOTwCFmH9gcEqUze4A1"
+    },
+    {
+      "album": {
         "name": "Cloud Forests",
         "url": "https://open.spotify.com/album/3uJ8oFUdjZFMAHzCLV7C5f"
       },
@@ -2052,6 +2088,24 @@
       "duration_ms": 107865,
       "name": "Coconut Crab",
       "url": "https://open.spotify.com/track/4qtD8XG4cpzW8nLSAVhA78"
+    },
+    {
+      "album": {
+        "name": "coconut kisses",
+        "url": "https://open.spotify.com/album/0F2zY0IGCBGMyFpwxqVRya"
+      },
+      "artists": [
+        {
+          "name": "Nice Gii",
+          "url": "https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148894,
+      "name": "coconut kisses",
+      "url": "https://open.spotify.com/track/3QK1gFa90lLKidrxZiwxI0"
     },
     {
       "album": {
@@ -2874,7 +2928,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 94864,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2"
@@ -2946,7 +3000,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 115200,
       "name": "Electro Lofi",
       "url": "https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB"
@@ -3364,7 +3418,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 139666,
       "name": "Favorite Things",
       "url": "https://open.spotify.com/track/5ZwSLJigeGDlQKOdoB4jhF"
@@ -3534,6 +3588,24 @@
       "duration_ms": 98007,
       "name": "Floatation Device",
       "url": "https://open.spotify.com/track/01tvFzm8PrgWSwpNlrbBAd"
+    },
+    {
+      "album": {
+        "name": "floating",
+        "url": "https://open.spotify.com/album/2TTZap4YsYmwtcPTLpEYkI"
+      },
+      "artists": [
+        {
+          "name": "rosewd",
+          "url": "https://open.spotify.com/artist/6cxHYwPWGSe7fv7nfQkpdg"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122250,
+      "name": "floating",
+      "url": "https://open.spotify.com/track/3r77irWcZKid8Ywf4hCWUt"
     },
     {
       "album": {
@@ -3864,7 +3936,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 139764,
       "name": "Gas Station Oasis",
       "url": "https://open.spotify.com/track/0XSfoUnf7HB5DEd2kIEAZV"
@@ -4458,7 +4530,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 138937,
       "name": "Honeybee",
       "url": "https://open.spotify.com/track/1SMsBb4CEHUqr30x3kYoeN"
@@ -5092,7 +5164,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 129281,
       "name": "Leap Year",
       "url": "https://open.spotify.com/track/3PDahjvEAF9s02hVvdAVFv"
@@ -7996,7 +8068,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 170666,
       "name": "Samurai Saga",
       "url": "https://open.spotify.com/track/0F5npipcffdFXSwu9PiOYX"
@@ -8545,6 +8617,24 @@
     },
     {
       "album": {
+        "name": "soaring summer",
+        "url": "https://open.spotify.com/album/0DZVqFUSXxngPMk1EE1OqI"
+      },
+      "artists": [
+        {
+          "name": "Fya Playce",
+          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116691,
+      "name": "soaring summer",
+      "url": "https://open.spotify.com/track/7JtFIWr0amm1sfMaTcTbyZ"
+    },
+    {
+      "album": {
         "name": "Soft Break",
         "url": "https://open.spotify.com/album/26e0W4CJZT6KL5BUrLOA8F"
       },
@@ -8932,7 +9022,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 145500,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/6yXp48pov09DBrGIr0AiXu"
@@ -9022,7 +9112,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 137142,
       "name": "study in lo-fi hillshade",
       "url": "https://open.spotify.com/track/31QCr2Pvsq23hglCoKfVy2"
@@ -9484,6 +9574,24 @@
       "duration_ms": 118696,
       "name": "Sunrise Citi",
       "url": "https://open.spotify.com/track/7yBBeYGkFgASRI6LxKiLgJ"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/21dpKeIcWfQmVnd2ZbT6gG"
+      },
+      "artists": [
+        {
+          "name": "Indigo Songs",
+          "url": "https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/1atIkRHbin8L81tRpobN0F"
     },
     {
       "album": {
@@ -9958,7 +10066,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 132000,
       "name": "the eagle",
       "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
@@ -10088,7 +10196,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 168000,
       "name": "tides",
       "url": "https://open.spotify.com/track/7uoea17YSdYb1eYbO86fB1"
@@ -10378,7 +10486,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 179230,
       "name": "Tropic of Capri-Sun & Sodas",
       "url": "https://open.spotify.com/track/0xXik8DSYI7Y8SzcpaEIWP"
@@ -10994,6 +11102,24 @@
       "duration_ms": 164000,
       "name": "Wind Shear",
       "url": "https://open.spotify.com/track/33xRLRHq485anywUECESNa"
+    },
+    {
+      "album": {
+        "name": "window seat",
+        "url": "https://open.spotify.com/album/0dlRzrxJAu3gzKfg5VgkE5"
+      },
+      "artists": [
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187657,
+      "name": "window seat",
+      "url": "https://open.spotify.com/track/4TrxWjFGGjmfqcLxdL8Wbb"
     },
     {
       "album": {

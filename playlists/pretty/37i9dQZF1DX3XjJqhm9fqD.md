@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Francis Mercier
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,106 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,122 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 48 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 |
 | 49 | [Mal](https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK) | [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Mal](https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4) | 4:18 |
 | 50 | [HoneyComb](https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [HoneyComb](https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM) | 2:19 |
-| 51 | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a) | [Balalatet](https://open.spotify.com/artist/5nubIkn3OteKknszoQV2xC), [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [thattoo love](https://open.spotify.com/artist/7zIXHgLcAIzEh3NhQyTblh) | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy) | 3:48 |
-| 52 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
+| 51 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
+| 52 | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a) | [Balalatet](https://open.spotify.com/artist/5nubIkn3OteKknszoQV2xC), [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [thattoo love](https://open.spotify.com/artist/7zIXHgLcAIzEh3NhQyTblh) | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy) | 3:48 |
 | 53 | [Podyab Yo](https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8) | [Blondedy Ferdinand](https://open.spotify.com/artist/0cg303cCZs8xyXQJQbOVqr), [D\-Perfect](https://open.spotify.com/artist/2bTguhttdiYEA47vewTehr) | [Podyab Yo](https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva) | 5:19 |
 | 54 | [Tu me touches](https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF) | [Roberto Martino](https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 6:03 |
 | 55 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 82 | [Love a Plein Temps](https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Love a Plein Temps](https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0) | 3:20 |
 | 83 | [Souvni](https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk) | [Souvni](https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv) | 3:30 |
 | 84 | [Manyen'l](https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY) | [HERO G](https://open.spotify.com/artist/4i23JCNNX6DisR9iSzElt4), [PIMAN](https://open.spotify.com/artist/231EJOfkBTV3ysoaryuiaX), [TOUPIKE](https://open.spotify.com/artist/4yiTJT9ThymYFkZPPXuGCB), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Manyen'l](https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu) | 3:29 |
-| 85 | [Kote moun yo](https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Haiti debout](https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE) | 3:18 |
-| 86 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 |
+| 85 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 |
+| 86 | [Kote moun yo](https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Haiti debout](https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE) | 3:18 |
 | 87 | [Tou Limen](https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:47 |
 | 88 | [MARRAKECH](https://open.spotify.com/track/2Oy4XIHg4m9c2XKBqW7pUs) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [MARRAKECH](https://open.spotify.com/album/6DN2bmc78msexE7WkjYZSA) | 2:21 |
 | 89 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |

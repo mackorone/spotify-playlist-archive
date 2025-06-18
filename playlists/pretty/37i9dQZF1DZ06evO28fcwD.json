@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 28321,
+  "num_followers": 28322,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAAD4w0PHxWdWbcBGDkNk6i00",
+  "snapshot_id": "aE9egAAAAADpiBns1iPZQu1VEXoAlZoG",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 152040,
+      "name": "Lullaby (with Ladysmith Black Mambazo)",
+      "url": "https://open.spotify.com/track/4Fkq8yuuohRXxmmAeFikub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Star and the Wiseman",
         "url": "https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng"
       },
@@ -555,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ezinkulu",
+        "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 275613,
+      "name": "Amafutha Esibane",
+      "url": "https://open.spotify.com/track/5msU28j9wIWfTAK9Zcewrm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Umthombo Wamanzi",
         "url": "https://open.spotify.com/album/0WhCJsx3LQ7hiZrIDlR1iM"
       },
@@ -567,26 +603,6 @@
       "duration_ms": 201640,
       "name": "Yimani",
       "url": "https://open.spotify.com/track/5wLd7SkPo5Dc4YfmYeXsOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
-      },
-      "artists": [
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 152040,
-      "name": "Lullaby (with Ladysmith Black Mambazo)",
-      "url": "https://open.spotify.com/track/4Fkq8yuuohRXxmmAeFikub"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
       "duration_ms": 229746,
       "name": "World in Union",
       "url": "https://open.spotify.com/track/790XDH73LTNcrorlJtVF8L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ezinkulu",
-        "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 275613,
-      "name": "Amafutha Esibane",
-      "url": "https://open.spotify.com/track/5msU28j9wIWfTAK9Zcewrm"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "This Little Light of Mine (Bonus Track)",
-      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
       },
@@ -755,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Treasures",
-        "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
+        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
       },
       "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 280333,
-      "name": "Peace Train/Isitimela Sokuthula",
-      "url": "https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9"
+      "duration_ms": 221760,
+      "name": "This Little Light of Mine (Bonus Track)",
+      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
     },
     {
       "added_at": null,
@@ -787,6 +767,58 @@
       "duration_ms": 198800,
       "name": "Sishumayel' Ivangeli",
       "url": "https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wenyukela",
+        "url": "https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 297213,
+      "name": "Wangibambezela (Message From His Heart)",
+      "url": "https://open.spotify.com/track/43EM1Raenxk6YrW73ytjcX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isitimela",
+        "url": "https://open.spotify.com/album/6wVhMiTP7jYVZC7W44Z3bK"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Thandiwe Wami",
+      "url": "https://open.spotify.com/track/5UZFdcIvMIdCaNajKHBJIJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Peace Train/Isitimela Sokuthula",
+      "url": "https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9"
     },
     {
       "added_at": null,
@@ -811,38 +843,6 @@
       "duration_ms": 235179,
       "name": "Awu Wemadoda - Club Mix",
       "url": "https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isitimela",
-        "url": "https://open.spotify.com/album/6wVhMiTP7jYVZC7W44Z3bK"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Thandiwe Wami",
-      "url": "https://open.spotify.com/track/5UZFdcIvMIdCaNajKHBJIJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wenyukela",
-        "url": "https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 297213,
-      "name": "Wangibambezela (Message From His Heart)",
-      "url": "https://open.spotify.com/track/43EM1Raenxk6YrW73ytjcX"
     },
     {
       "added_at": null,
@@ -951,22 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Concert in Hyde Park",
-        "url": "https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89"
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
-        {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 389800,
-      "name": "Diamonds on the Soles of Her Shoes (with Ladysmith Black Mambazo) - Live at Hyde Park, London, UK - July 2012",
-      "url": "https://open.spotify.com/track/4XcXpnbNeYom3p24r29NLG"
+      "duration_ms": 339026,
+      "name": "Knockin' on Heaven's Door",
+      "url": "https://open.spotify.com/track/6oUuWLqoMd6ZCQJf6BQ10m"
     }
   ],
   "unique_name": "This Is Ladysmith Black Mambazo",

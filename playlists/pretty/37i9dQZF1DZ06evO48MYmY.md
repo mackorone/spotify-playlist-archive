@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,203 likes - 46 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,231 likes - 46 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 25 | [Slip Slidin' Away \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:42 |
 | 26 | [Blues Run the Game \- Studio Outtake \- 1965](https://open.spotify.com/track/6tMRhn8hTFJm2A87tmjJPr) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends](https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl) | 2:51 |
 | 27 | [Leaves That Are Green](https://open.spotify.com/track/1DrirX7vAJMDAoz37ZbSeA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:21 |
-| 28 | [A Poem on the Underground Wall](https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 1:54 |
+| 28 | [At the Zoo](https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:22 |
 | 29 | [American Tune \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/6xoFYGW7KJsF4SfTz8nxOk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:35 |
-| 30 | [At the Zoo](https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:22 |
+| 30 | [A Poem on the Underground Wall](https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 1:54 |
 | 31 | [Sparrow](https://open.spotify.com/track/7pz0HomuJsxkbrNQUHNYBE) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:47 |
 | 32 | [A Most Peculiar Man](https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:30 |
 | 33 | [Me and Julio Down by the Schoolyard \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/48mETFQ8n1Cq04eR32eyAn) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 3:47 |
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 37 | [A Heart In New York \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/6IyU2LIPfopCfbWewM2UdO) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 3:01 |
 | 38 | [Hey, Schoolgirl \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/0gLKbk1cOAy2bbBOsbPALz) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 0:45 |
 | 39 | [The Times They Are A\-Changin'](https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:50 |
-| 40 | [Anji](https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:13 |
+| 40 | [Punky's Dilemma](https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:12 |
 | 41 | [Kodachrome / Mabellene \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/1f4CJp5p2OWS0dsyK1symi) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 5:49 |
-| 42 | [Punky's Dilemma](https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:12 |
+| 42 | [Anji](https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:13 |
 | 43 | [You Don't Know Where Your Interest Lies \- Single B\-Side \- 1968](https://open.spotify.com/track/0umD849rktmP7fcXCSukYk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends](https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl) | 2:18 |
 | 44 | [Old Friends / Bookends Theme \- Live in Toledo, OH \- November 1969](https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:22 |
 | 45 | [４月になれば彼女は](https://open.spotify.com/track/5hqXK8hP4crpL6c2m0Z07Z) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [ビッグ・アーティスト・アルバム サイモン＆ガーファンクル](https://open.spotify.com/album/3mD7HfA1y3j34SYNO8LJQs) | 1:52 |
 | 46 | [Tom and Jerry Story \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 2:14 |
 
-Snapshot ID: `aE4NAAAAAACPxOiKx21anWIRKe1PBrzL`
+Snapshot ID: `aE9egAAAAADGvLqcj4f5ZFr0FdAt7iDj`

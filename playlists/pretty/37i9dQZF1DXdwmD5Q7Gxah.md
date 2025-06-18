@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a> Cover: Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,048 likes - 157 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,005 likes - 157 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Kablito and TDJ, plus the latest cuts from Eartheater and ALCATRAZ.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,902 likes - 100 songs - 5 hr 36 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,900 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 6 | [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 |
 | 7 | [DULL](https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:18 |
 | 8 | [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 |
-| 9 | [Coping Mechanism](https://open.spotify.com/track/1GyGDwvT9U3JNJg13cArHG) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4) | [Coping Mechanism](https://open.spotify.com/album/42qH9QID70Heeue1svdvzS) | 5:01 |
+| 9 | [Coping Mechanism](https://open.spotify.com/track/1GyGDwvT9U3JNJg13cArHG) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO) | [Coping Mechanism](https://open.spotify.com/album/42qH9QID70Heeue1svdvzS) | 5:01 |
 | 10 | [DEYA](https://open.spotify.com/track/5Irlkjy18pG847hcN3pJtR) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [DEYA](https://open.spotify.com/album/6DrhGVMKEswgZdbmlsL7ga) | 2:56 |
 | 11 | [Cycles](https://open.spotify.com/track/0suotaNKCJeJGC7FFRLxED) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Switch Angel](https://open.spotify.com/artist/1cEgg3zg0YIwPn8Us2Uxmj) | [Cycles](https://open.spotify.com/album/41XZK1SenTa6PnsNoaUVOH) | 3:38 |
 | 12 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 |

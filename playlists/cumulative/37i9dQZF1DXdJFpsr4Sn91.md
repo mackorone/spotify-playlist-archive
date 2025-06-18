@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa ABREU.
 
-786 songs - 1 day 15 hr 12 min
+787 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-08-02 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-24 | 2024-11-08 |
 | [Fallin \(pudotaan\)](https://open.spotify.com/track/0h8BI3wpdcyPDo2ne0cLtS) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Fallin \(pudotaan\)](https://open.spotify.com/album/0Fs9D5uhPxDiVElPDdAWA2) | 2:32 | 2024-08-22 | 2024-10-04 |
+| [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 | 2025-06-17 |  |
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-23 | 2025-02-27 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-02 | 2024-08-23 |
 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 | 2024-10-03 | 2024-10-25 |
@@ -442,7 +443,7 @@
 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-12 | 2024-10-25 |
 | [Mokaamisen maailmanmestari](https://open.spotify.com/track/4LifQJpSLB05hB9Y1LoEaG) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Mokaamisen maailmanmestari](https://open.spotify.com/album/38j8Aszx4K8nOgrR23uP56) | 3:00 | 2025-06-06 |  |
 | [Momentti \(feat\. Costi\)](https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Momentti \(feat\. Costi\)](https://open.spotify.com/album/38LoMU82Rqtj2TjjtGEnNW) | 3:13 | 2024-08-15 | 2024-11-15 |
-| [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-22 |  |
+| [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-22 | 2025-06-18 |
 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-03 | 2024-10-25 |
 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-08 | 2025-05-23 |
 | [Motion](https://open.spotify.com/track/3teVYJtKx0RynxcYr5Uwq5) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Motion](https://open.spotify.com/album/1TFdVr0nYuJCvP1bdyZzBT) | 2:53 | 2025-05-29 | 2025-06-06 |
@@ -756,7 +757,7 @@
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-22 | 2024-09-20 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-07-02 | 2024-08-23 |
 | [Walk With Me \- Edit](https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Walk With Me](https://open.spotify.com/album/6Gs1D2VbneEd0pwwKA7ivI) | 2:32 | 2024-11-28 | 2025-01-10 |
-| [Walkman](https://open.spotify.com/track/5fY4Ny98j9wUDvSSRj6GaC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Walkman](https://open.spotify.com/album/34JIzutThrueQUSwHArBty) | 2:46 | 2025-05-22 |  |
+| [Walkman](https://open.spotify.com/track/5fY4Ny98j9wUDvSSRj6GaC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Walkman](https://open.spotify.com/album/34JIzutThrueQUSwHArBty) | 2:46 | 2025-05-22 | 2025-06-18 |
 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 | 2024-10-10 | 2024-11-15 |
 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-17 | 2025-06-06 |
 | [WE PRAY](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-22 | 2024-10-04 |

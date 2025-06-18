@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ghard
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,624 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,614 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MENOR PEÇA](https://open.spotify.com/track/1l39EzEGJkEfgaHTj03zeI) | [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX) | [H.a.R.D](https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV) | 2:13 |
+| 1 | [MENOR PEÇA](https://open.spotify.com/track/1l39EzEGJkEfgaHTj03zeI) | [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX) | [H.A.R.D \- EP](https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV) | 2:13 |
 | 2 | [NoBaile!](https://open.spotify.com/track/1cYCjK6XluFXQd6KyaTAtp) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9), [PROD OGG](https://open.spotify.com/artist/1aGYEe3T6Es7aIjI7ePvyb) | [NoBaile!](https://open.spotify.com/album/0YHItYv4ovmuPsmliVIBuc) | 2:35 |
 | 3 | [Final Cruel](https://open.spotify.com/track/5cThY7wPhyP30bho1gq7mm) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB) | [Final Cruel](https://open.spotify.com/album/3qgylYh0z9MhoTcg9EtOsz) | 2:11 |
 | 4 | [Jhowz & Sosa](https://open.spotify.com/track/3qcCCxAu4juyAgSLBEj38R) | [JHOWZ](https://open.spotify.com/artist/6O1bPLKsdASFpckeCpFeJl), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Jhowz & Sosa](https://open.spotify.com/album/0SIK9ULf6tsgIUo2FMhQS6) | 2:58 |

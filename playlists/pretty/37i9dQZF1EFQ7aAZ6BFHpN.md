@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482 likes - 155 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 482 likes - 156 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,9 +159,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 149 | [Sumartid](https://open.spotify.com/track/7n69jT21lZMfG0n4AcSebs) | [Gerd Michaelsen](https://open.spotify.com/artist/03Xqh5fw9mUwbR28LAQNNr) | [Stille Ballade](https://open.spotify.com/album/0hc2dN14KACxyXx2hQImjs) | 4:28 |
 | 150 | [Just Supposing](https://open.spotify.com/track/6xiBjih1c1K1OI7juHhqNO) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W), [Sara Jean Ford](https://open.spotify.com/artist/623OjNkhQw1xarNCQZqiO3) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 2:51 |
 | 151 | [You Started It](https://open.spotify.com/track/4eNA2fvVW2rZQiU4whUHoo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frederick Hodges](https://open.spotify.com/artist/7Ag8IpdEfkvkjbKhytoiFv) | [Do It Again: Frederick Hodges Plays the Music of George Gershwin](https://open.spotify.com/album/3nvK08h8vItkdLdlrYwGdt) | 4:37 |
-| 152 | [The Life Of A Rose](https://open.spotify.com/track/1Aufh3lEEZWJx1z5iqcDm7) | [前田祐希](https://open.spotify.com/artist/4Po73izFwEqVrjRVnnH8ks), [柴野さつき](https://open.spotify.com/artist/38BUVTxULHjh8JxpJCBwJu) | [JAZZ AGE GERSHWIN SONG BOOK Ⅱ](https://open.spotify.com/album/68JFr9RwdwhnC07ECuRN7b) | 2:18 |
-| 153 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 |
-| 154 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
-| 155 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
+| 152 | [Aren't You Kind of Glad We Did](https://open.spotify.com/track/3od44H39oaZ8vtjZ1rdvRM) | [Betty Grable](https://open.spotify.com/artist/7n9rBNFFYHydQrzPXyCySC), [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [This Is the Moment](https://open.spotify.com/album/02Fye2FALIxAjtRvIJ7fbD) | 3:32 |
+| 153 | [The Life Of A Rose](https://open.spotify.com/track/1Aufh3lEEZWJx1z5iqcDm7) | [前田祐希](https://open.spotify.com/artist/4Po73izFwEqVrjRVnnH8ks), [柴野さつき](https://open.spotify.com/artist/38BUVTxULHjh8JxpJCBwJu) | [JAZZ AGE GERSHWIN SONG BOOK Ⅱ](https://open.spotify.com/album/68JFr9RwdwhnC07ECuRN7b) | 2:18 |
+| 154 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 |
+| 155 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
+| 156 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `Ab0U0gAAAABDfISzZnStYgw5exDTk/xn`
+Snapshot ID: `Ab0aSgAAAACsumkvy+76afaxY97PLGnc`

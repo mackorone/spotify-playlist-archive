@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MxOdIC5upm.md) - [plain]
 
 > Welcome to "high" society\. Listen to the music from Guy Ritchie's The Gentlemen, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,437 likes - 23 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,451 likes - 23 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

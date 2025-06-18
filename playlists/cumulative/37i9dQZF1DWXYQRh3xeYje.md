@@ -4,7 +4,7 @@
 
 > Early Noise 2020選出アーティストVaundyの楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Vaundy.
 
-80 songs - 6 hr 59 min
+81 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [napori](https://open.spotify.com/track/5Ax1dr8UvllkM8wyLhmc2r) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:23 | 2023-11-14 | 2024-04-19 |
 | [napori](https://open.spotify.com/track/25rNDxpli6DDywZ9pEWW55) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 3:23 | 2024-02-27 |  |
 | [NEO JAPAN](https://open.spotify.com/track/4PQJs2U6R1xhXLxyjmf4gj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:13 | 2023-11-14 |  |
+| [pained](https://open.spotify.com/track/4fLu1o9tL4Fg7Zh7y4P7mK) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [pained](https://open.spotify.com/album/7xNiLmGaSSoAwNw0d9btaM) | 4:12 | 2025-06-17 |  |
 | [replica](https://open.spotify.com/track/2ZLdeyeaIQdP4mqcMCB9yR) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:13 | 2023-11-14 |  |
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 | 2023-11-14 |  |
 | [Somebody help us](https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/0hOBqS9AHeJXGqoDQ6gBy6) | 4:08 | 2025-02-15 |  |

@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-262 songs - 15 hr 1 min
+263 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Promise](https://open.spotify.com/track/6mTaiZPlOEop2t4FLUEMUc) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Crash & Burn EP](https://open.spotify.com/album/41p2H83VU86PDW3BpylYOV) | 3:26 | 2023-10-20 | 2024-09-06 |
 | [Push The Love \- Seb Zito Remix](https://open.spotify.com/track/0JpjBUzhrLH9Md5DSP4jSS) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [Push The Love \(Seb Zito Remix\)](https://open.spotify.com/album/0p31PmsmGMYkOvc7Zro3DQ) | 3:38 | 2023-10-06 | 2024-03-22 |
 | [Put A Record On \- Sammy Virji Remix](https://open.spotify.com/track/5qV7vQA1BvlDWY7CED68SL) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Remixes](https://open.spotify.com/album/2Le6cq7l8xVgh04U5EQXYq) | 3:33 | 2022-11-25 | 2023-04-15 |
-| [PUT THE PHONE DOWN](https://open.spotify.com/track/6xD5w6rmy22iyMbO8jEpGH) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [PUT THE PHONE DOWN](https://open.spotify.com/album/4xpV5tPofSJkLtGXnMiNss) | 3:54 | 2024-11-15 |  |
+| [PUT THE PHONE DOWN](https://open.spotify.com/track/6xD5w6rmy22iyMbO8jEpGH) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [PUT THE PHONE DOWN](https://open.spotify.com/album/4xpV5tPofSJkLtGXnMiNss) | 3:54 | 2024-11-15 | 2025-06-18 |
 | [Races \(feat\. Blanco\)](https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Races \(feat\. Blanco\)](https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj) | 2:20 | 2024-03-22 |  |
 | [Rain](https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Rain](https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l) | 4:16 | 2022-11-25 | 2024-06-28 |
 | [Rain](https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Rain](https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI) | 3:08 | 2024-05-10 | 2025-03-04 |
@@ -229,6 +229,7 @@
 | [Sundown](https://open.spotify.com/track/6e40VGmlR2S8yhmBNkISlP) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [Sundown](https://open.spotify.com/album/3FIEevE1XXBP1rg4BCdBcH) | 3:01 | 2022-11-25 | 2023-01-25 |
 | [Sunrise](https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sunrise](https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33) | 2:55 | 2025-01-17 |  |
 | [Sunshine](https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Sunshine](https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8) | 2:48 | 2024-06-28 | 2025-05-31 |
+| [Sweet](https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sweet](https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb) | 2:20 | 2025-06-12 |  |
 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 | 2022-11-25 | 2024-01-04 |
 | [Take it Further](https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Take it Further](https://open.spotify.com/album/1g8uVD8Hk9ZOmjrSg1TwUb) | 4:33 | 2022-11-25 | 2023-09-02 |
 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 | 2024-05-10 |  |

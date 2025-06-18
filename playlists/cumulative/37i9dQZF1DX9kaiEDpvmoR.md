@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-394 songs - 22 hr 44 min
+395 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Lucy Rider](https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Lucy Rider](https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve) | 3:17 | 2024-06-27 | 2024-08-09 |
 | [Längs den långa vägen hem](https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Längs den långa vägen hem](https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP) | 3:51 | 2024-06-27 | 2024-08-23 |
 | [Långholmsgatan 2](https://open.spotify.com/track/5rwGiXG9q84ah927p7Vcdo) | [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Långholmsgatan 2](https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM) | 4:03 | 2025-05-22 |  |
-| [Löften](https://open.spotify.com/track/1FoM1Ru3Rm19LUvkjTn0k4) | [Patrik Isaksson](https://open.spotify.com/artist/79XSzUC0yAPPoxiuss55qC) | [Löften](https://open.spotify.com/album/6NzPAIljksxn9B6OqfAJWO) | 4:44 | 2025-04-03 |  |
+| [Löften](https://open.spotify.com/track/1FoM1Ru3Rm19LUvkjTn0k4) | [Patrik Isaksson](https://open.spotify.com/artist/79XSzUC0yAPPoxiuss55qC) | [Löften](https://open.spotify.com/album/6NzPAIljksxn9B6OqfAJWO) | 4:44 | 2025-04-03 | 2025-06-18 |
 | [Maja Hönstjuv](https://open.spotify.com/track/7pntr5gKTnl51C3NV1fPBG) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3), [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Maja Hönstjuv](https://open.spotify.com/album/12gQc5Gu8LolcsQzFvc7Sd) | 3:24 | 2025-05-29 |  |
 | [Make Up Your Mind](https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Make Up Your Mind](https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U) | 3:38 | 2025-03-10 |  |
 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 | 2025-02-20 |  |
@@ -371,6 +371,7 @@
 | [Vingar](https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Vingar](https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au) | 2:53 | 2024-06-27 | 2024-08-16 |
 | [Vinna guldet](https://open.spotify.com/track/28mPNsXcbYfUqNWMIAcqMb) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Vinna guldet](https://open.spotify.com/album/5GjvBVTWyQMXI7TCMLMKgR) | 3:05 | 2024-06-27 | 2024-08-09 |
 | [Voice Of The Silent](https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Voice Of The Silent](https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh) | 2:49 | 2025-01-31 |  |
+| [Vår bästa tid](https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE) | [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Vår bästa tid](https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5) | 3:36 | 2025-06-12 |  |
 | [Vår vänskap består](https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD) | [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx), [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [Vår vänskap består](https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x) | 2:50 | 2024-09-19 | 2025-01-10 |
 | [Vårens sista dag](https://open.spotify.com/track/4zdxv1jc9eFaH4aTouIG3p) | [Peter Åberg](https://open.spotify.com/artist/6w3u7zBIx64OqhpYoBfwfL), [Annika Wickihalder](https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of) | [Vårens sista dag](https://open.spotify.com/album/13ashXdwC7vLnIzHxoj3r9) | 2:39 | 2025-05-29 |  |
 | [Vårt år](https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vårt år](https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn) | 3:02 | 2024-10-24 | 2025-05-02 |

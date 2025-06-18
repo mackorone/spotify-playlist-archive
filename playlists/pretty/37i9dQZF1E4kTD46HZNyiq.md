@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Laureline, The Wild Wind, LAVE and more
+> With Laureline, The Wild Wind, Rhineland and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,097 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,096 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Thoughts in Progress](https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 3:56 |
 | 50 | [All the Way](https://open.spotify.com/track/5Z6ZEZlVbXQyUaKicZZtFG) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 3:30 |
 
-Snapshot ID: `aFDRxgAAAAAe8tTdhmQQ95TR4iSLbB0g`
+Snapshot ID: `aFIQOgAAAABOPHxOAUu+AqCWAict0ENO`

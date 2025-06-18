@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain]
 
 > Replongez dans les plus grands tubes d'été
 
-[Spotify](https://open.spotify.com/user/spotify) - 138 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 149 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

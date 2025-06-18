@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,092 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,271 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 75 | [Dame De Eso](https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Dame De Eso](https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy) | 3:34 |
 | 76 | [Pégate](https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pégate](https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS) | 3:17 |
 | 77 | [Barahúnda](https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS) | [Monge](https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1) | [Barahúnda](https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv) | 2:19 |
-| 78 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
-| 79 | [Aguacero](https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0) | [Aguacero](https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn) | 3:07 |
+| 78 | [Aguacero](https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0) | [Aguacero](https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn) | 3:07 |
+| 79 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
 | 80 | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T) | 2:17 |
 | 81 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 |
 | 82 | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/album/2wdqTB5LqyomeohvBYjVaH) | 2:38 |

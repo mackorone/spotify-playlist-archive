@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 182066,
       "name": "Abhogi",
       "url": "https://open.spotify.com/track/2NuqtLrg6LUwSWs2UVJQlx"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 296306,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 147640,
       "name": "Haathee",
       "url": "https://open.spotify.com/track/2iIEvKccENdTBtmLElhqOp"
@@ -1406,6 +1406,24 @@
       "duration_ms": 272000,
       "name": "Healing Garden",
       "url": "https://open.spotify.com/track/6x7xECuEr6vwoNf3j7wb1z"
+    },
+    {
+      "album": {
+        "name": "Healing Heart",
+        "url": "https://open.spotify.com/album/3VRBD6GlAU9fJphoshJ8ae"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156033,
+      "name": "Healing Heart",
+      "url": "https://open.spotify.com/track/5qQBguwulDKiqUTTec4Fcz"
     },
     {
       "album": {
@@ -2273,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Mirroring",
+        "url": "https://open.spotify.com/album/33mRd2VCtgvCu2rDdqbLfv"
+      },
+      "artists": [
+        {
+          "name": "Gidde",
+          "url": "https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166486,
+      "name": "Mirroring",
+      "url": "https://open.spotify.com/track/0XGzvLCqHll1XAia6J2TVP"
+    },
+    {
+      "album": {
         "name": "Moksha",
         "url": "https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw"
       },
@@ -2666,6 +2702,24 @@
       "duration_ms": 368800,
       "name": "Papa Tau (A Tribute to Papa Tau Moe)",
       "url": "https://open.spotify.com/track/7aJUSnGZYW4S5YsGu6hYei"
+    },
+    {
+      "album": {
+        "name": "Pay the price",
+        "url": "https://open.spotify.com/album/5tFEebdhTha8pnnMkqh5mC"
+      },
+      "artists": [
+        {
+          "name": "Sitarana",
+          "url": "https://open.spotify.com/artist/1lg0s0LnjjmgY7iDqkhEBZ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132765,
+      "name": "Pay the price",
+      "url": "https://open.spotify.com/track/1Z6BuZkYjqHj9YeQBvU6f6"
     },
     {
       "album": {
@@ -3132,7 +3186,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 315494,
       "name": "Remote",
       "url": "https://open.spotify.com/track/5IrLLzBYXza3WcB89KjioW"
@@ -3633,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Ascent",
+        "url": "https://open.spotify.com/album/2TOl8BOpVEgAsW7Jp9E8uD"
+      },
+      "artists": [
+        {
+          "name": "Aks",
+          "url": "https://open.spotify.com/artist/35hgpFqZM16OXEkF4hkNn0"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248437,
+      "name": "Spiritual Ascent",
+      "url": "https://open.spotify.com/track/2GzX0oSb1iRgvDkDweIANZ"
+    },
+    {
+      "album": {
         "name": "Spiritual Morning",
         "url": "https://open.spotify.com/album/3eZKRMcTitWjPm02bL3LW1"
       },
@@ -4098,10 +4170,28 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-18",
       "duration_ms": 201874,
       "name": "Tombstone Moondancer",
       "url": "https://open.spotify.com/track/1u5vczu5TwLXBD1Jkv08vp"
+    },
+    {
+      "album": {
+        "name": "Toofan",
+        "url": "https://open.spotify.com/album/2B5GAJwzUbmfzQN5xEa4Un"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Lata",
+          "url": "https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308937,
+      "name": "Toofaan",
+      "url": "https://open.spotify.com/track/521YbahWC9nJOusp9nyZBf"
     },
     {
       "album": {

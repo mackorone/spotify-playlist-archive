@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 63770,
+  "num_followers": 63778,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE4NAAAAAACbIo82fs6rE0aLEi/b6CzS",
+  "snapshot_id": "aE9egAAAAADMS6KABcA8u95GlpR9FQRa",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
         "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 231423,
       "name": "Pasito Tun Tun (with Ximena Sari\u00f1ana) - En Vivo",
       "url": "https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/3LkQmErcchUOeE3PciyZaG"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 182841,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/6JLLvMvfLjbYl8uoFfxP9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -891,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbia y Amor",
-        "url": "https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0"
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/3LkQmErcchUOeE3PciyZaG"
       },
       "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 175201,
-      "name": "Cosita Guapa",
-      "url": "https://open.spotify.com/track/4bWWbbGILCHfpVx8zDGHaR"
+      "duration_ms": 182841,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/6JLLvMvfLjbYl8uoFfxP9B"
     },
     {
       "added_at": null,
@@ -931,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Se Va",
-        "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
+        "name": "Cumbia y Amor",
+        "url": "https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 208803,
-      "name": "Lo Que Se Va",
-      "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
+      "duration_ms": 175201,
+      "name": "Cosita Guapa",
+      "url": "https://open.spotify.com/track/4bWWbbGILCHfpVx8zDGHaR"
     },
     {
       "added_at": null,
@@ -967,6 +947,26 @@
       "duration_ms": 218479,
       "name": "No S\u00e9 (feat. Girl Ultra)",
       "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Se Va",
+        "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 208803,
+      "name": "Lo Que Se Va",
+      "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
     },
     {
       "added_at": null,
