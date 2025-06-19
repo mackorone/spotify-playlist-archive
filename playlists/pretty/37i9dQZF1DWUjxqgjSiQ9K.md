@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Son Celestial, Peter Manjarrés, y Bolañito
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,488 likes - 90 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,541 likes - 90 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

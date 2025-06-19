@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is prachtig en dat verdient goede muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,299 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,289 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 59 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 |
 | 60 | [I Will Go There \(feat\. remme\)](https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [I Will Go There \(feat\. remme\)](https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55) | 3:20 |
 
-Snapshot ID: `aE/beQAAAAAD/qYf520dfTxEnmKOGsrg`
+Snapshot ID: `aFKPGgAAAACo9jrV4/hGhjFB9D57bviv`

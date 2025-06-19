@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Garvit\-Priyansh, Hansika Pareek and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,876 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,898 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Sab Vekheya](https://open.spotify.com/track/33wXzWYLd3kJWh4WVZyaIU) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tu Sab Vekheya](https://open.spotify.com/album/35ldZRrH83VXMtjooYmXjk) | 3:19 |
-| 2 | [Jhoom Jhoom](https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Ayesha Mukherjee](https://open.spotify.com/artist/6UmnySzyIpaZjAu6Rs5lA0) | [Jhoom Jhoom](https://open.spotify.com/album/1DNtCbU6N2lKue5fNTqbQT) | 3:15 |
+| 2 | [Jhoom Jhoom](https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Ayesha Mukherjee](https://open.spotify.com/artist/6UmnySzyIpaZjAu6Rs5lA0), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [Jhoom Jhoom](https://open.spotify.com/album/1DNtCbU6N2lKue5fNTqbQT) | 3:15 |
 | 3 | [Kaise Ho Tum](https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Kaise Ho Tum](https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ) | 2:43 |
 | 4 | [Mile Tum](https://open.spotify.com/track/3ulnIfVAZWrS8vG5iLhrwN) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7) | [Mile Tum](https://open.spotify.com/album/5l2jTpS06ly2SVXMbl8sRb) | 3:25 |
 | 5 | [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 |

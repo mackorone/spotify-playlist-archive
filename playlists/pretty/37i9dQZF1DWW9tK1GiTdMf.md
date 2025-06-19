@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Plant e Sally Cruz in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,513 likes - 118 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,516 likes - 118 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MESSAGGIO D'ADDIO \(feat\. Sally Cruz\)](https://open.spotify.com/track/7dTnrcQK0g7PLLOrdms6R2) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [MESSAGGIO D'ADDIO \(feat\. Sally Cruz\)](https://open.spotify.com/album/2PMMwhx2lrAQkl1N10Qdf6) | 2:46 |
 | 2 | [TOXIC](https://open.spotify.com/track/4TF2IPm9ZNs4xowapURvKv) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 3:05 |
-| 3 | [Quando Sarò Morto \- feat\. J\-AX](https://open.spotify.com/track/4wx82ugAwUW3ijUcBphOV7) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Milanconia](https://open.spotify.com/album/1W1rSF0qAd7ybl8Z2pb26V) | 2:46 |
-| 4 | [LA GRANDE FUSIONE](https://open.spotify.com/track/6wDngqL4uNrKmXepgZkq90) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [LA GRANDE FUSIONE](https://open.spotify.com/album/7K9wYi8AsP4xJKv0MTzTNR) | 2:35 |
-| 5 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 |
-| 6 | [zucchero :\)](https://open.spotify.com/track/2ssbLVBRUubfnpIsRgR2zI) | [Camilla PNK](https://open.spotify.com/artist/27Uqdev5esWGfrnqmUuPdd) | [zucchero :\)](https://open.spotify.com/album/7khF5ISFUtpC0KJq6Ix2ej) | 2:20 |
-| 7 | [Soffitta al Liceo](https://open.spotify.com/track/3lBrtP6KcRnB4FvuITVazm) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Soffitta al Liceo](https://open.spotify.com/album/0Y57Y4oVwHuysYQT1gbTRV) | 1:50 |
-| 8 | [PEZZIDINEVECOMEPEZZID'OVATTA](https://open.spotify.com/track/4t4C7oNDMC7wwwjxfD1SkC) | [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [PEZZIDINEVECOMEPEZZID'OVATTA](https://open.spotify.com/album/30A30T84eStaxge76oEfyh) | 2:16 |
-| 9 | [TEMPESTA \(feat\. Lil Busso & PSICOLOGI\)](https://open.spotify.com/track/0xphaCbWPaKC5IG1rF9nBw) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [NON GUARDARE GIÙ](https://open.spotify.com/album/4TFMkUQJGM1a2ZuarJKs4U) | 2:16 |
-| 10 | [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 |
-| 11 | [Scintille](https://open.spotify.com/track/1oTyeAVi25CJhzcuuSQq64) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Scarabocchi](https://open.spotify.com/album/4mVj0l7BupieXgxrXzTJ72) | 2:41 |
-| 12 | [AIUTO AIUTO!](https://open.spotify.com/track/1nz4moyTPCjxqer4sLIb0j) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [AIUTO AIUTO!](https://open.spotify.com/album/7F3XpG6QQFd64bAnsNdPEY) | 2:34 |
-| 13 | [LUNA ROSSA](https://open.spotify.com/track/6EAQyb4xYTzPYkxaAOwWKo) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [TOCCA IL CIELO](https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv) | 2:40 |
+| 3 | [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 |
+| 4 | [LUNA ROSSA](https://open.spotify.com/track/6EAQyb4xYTzPYkxaAOwWKo) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [TOCCA IL CIELO](https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv) | 2:40 |
+| 5 | [Quando Sarò Morto \- feat\. J\-AX](https://open.spotify.com/track/4wx82ugAwUW3ijUcBphOV7) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Milanconia](https://open.spotify.com/album/1W1rSF0qAd7ybl8Z2pb26V) | 2:46 |
+| 6 | [TEMPESTA \(feat\. Lil Busso & PSICOLOGI\)](https://open.spotify.com/track/0xphaCbWPaKC5IG1rF9nBw) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [NON GUARDARE GIÙ](https://open.spotify.com/album/4TFMkUQJGM1a2ZuarJKs4U) | 2:16 |
+| 7 | [LA GRANDE FUSIONE](https://open.spotify.com/track/6wDngqL4uNrKmXepgZkq90) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [LA GRANDE FUSIONE](https://open.spotify.com/album/7K9wYi8AsP4xJKv0MTzTNR) | 2:35 |
+| 8 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 |
+| 9 | [zucchero :\)](https://open.spotify.com/track/2ssbLVBRUubfnpIsRgR2zI) | [Camilla PNK](https://open.spotify.com/artist/27Uqdev5esWGfrnqmUuPdd) | [zucchero :\)](https://open.spotify.com/album/7khF5ISFUtpC0KJq6Ix2ej) | 2:20 |
+| 10 | [Soffitta al Liceo](https://open.spotify.com/track/3lBrtP6KcRnB4FvuITVazm) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Soffitta al Liceo](https://open.spotify.com/album/0Y57Y4oVwHuysYQT1gbTRV) | 1:50 |
+| 11 | [PEZZIDINEVECOMEPEZZID'OVATTA](https://open.spotify.com/track/4t4C7oNDMC7wwwjxfD1SkC) | [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [PEZZIDINEVECOMEPEZZID'OVATTA](https://open.spotify.com/album/30A30T84eStaxge76oEfyh) | 2:16 |
+| 12 | [Scintille](https://open.spotify.com/track/1oTyeAVi25CJhzcuuSQq64) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Scarabocchi](https://open.spotify.com/album/4mVj0l7BupieXgxrXzTJ72) | 2:41 |
+| 13 | [AIUTO AIUTO!](https://open.spotify.com/track/1nz4moyTPCjxqer4sLIb0j) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [AIUTO AIUTO!](https://open.spotify.com/album/7F3XpG6QQFd64bAnsNdPEY) | 2:34 |
 | 14 | [di Odio d'Amore](https://open.spotify.com/track/1EgQnTurQldvDoPBzEcMwr) | [Foramacchia](https://open.spotify.com/artist/6ST078zQG2Ddyc8K6YExIr), [Fiabba](https://open.spotify.com/artist/6eHnWGv1hiGzEEgdUvP2WT) | [Plastica Nelle Cuffiette](https://open.spotify.com/album/3cT5hdCoznDjz4LMU2aBtk) | 2:47 |
 | 15 | [regina di ragni](https://open.spotify.com/track/2As15IePDDCDmgSTpd5z5F) | [vilesangue](https://open.spotify.com/artist/3Cbai4Yx6R1B2nb6oRi6ym) | [regina di ragni](https://open.spotify.com/album/2dV9E8Mdr6uBbgJvBJzlHK) | 3:46 |
 | 16 | [mare+inverno](https://open.spotify.com/track/6ybKyfIYkrt8Voqjmajc7N) | [sonogiove](https://open.spotify.com/artist/2kPbYiHkT1Txa19RSkZrQ7), [SEAN525](https://open.spotify.com/artist/7Ai25RLc0KG03Bm9zJqvH7) | [OUTRO](https://open.spotify.com/album/38rtVJGjZUs0YZuHzo0KW6) | 2:39 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 117 | [SCENATA \(eh.noz\)](https://open.spotify.com/track/06qKTGT9fSHOvzG3e53DCL) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ), [Deepho](https://open.spotify.com/artist/3ixYsE9GB9UnuYDIYdswxi) | [SCENATA \(eh.noz\)](https://open.spotify.com/album/4XVAFLcq2j5tNWYgz8DpZJ) | 2:42 |
 | 118 | [Piano e Forte](https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [Piano e Forte](https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2) | 2:38 |
 
-Snapshot ID: `aEtOOwAAAAAzUX6ulhZWvA16cwSEBN5H`
+Snapshot ID: `aFKSkgAAAABFkQF7l5/B6JK09UeSKWmu`

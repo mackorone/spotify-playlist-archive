@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,210 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,268 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [3 Peg](https://open.spotify.com/track/3G8o2zm7LaF6eeVuvLlrkJ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Raviraj](https://open.spotify.com/artist/6PukbgXGSVUSDyBz2Hn2n7) | [3 Peg](https://open.spotify.com/album/2onCNtkuhjk538U3dPusIy) | 3:24 |
-| 2 | [90Degree](https://open.spotify.com/track/6pCUdn2CoXIFwryZpuIk1z) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:16 |
+| 1 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 |
+| 2 | [3 Peg](https://open.spotify.com/track/3G8o2zm7LaF6eeVuvLlrkJ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Raviraj](https://open.spotify.com/artist/6PukbgXGSVUSDyBz2Hn2n7) | [3 Peg](https://open.spotify.com/album/2onCNtkuhjk538U3dPusIy) | 3:24 |
 | 3 | [Punjaban](https://open.spotify.com/track/1IP2G9KlWwT9xw1OlGf6Pd) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:57 |
 | 4 | [Killa](https://open.spotify.com/track/0sVG8wDYt7IYy2M1KJu07y) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Killa](https://open.spotify.com/album/59YGPxS2fsNUGxB0SA4bSy) | 2:26 |
 | 5 | [College](https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [College](https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 99 | [Gallan Goll](https://open.spotify.com/track/4SqpWYyMu6nM6Fr3RyJFbt) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavy Riyyaaz](https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Gallan Goll](https://open.spotify.com/album/1OLdB362nbcBHe9RtavVzE) | 2:46 |
 | 100 | [Vaddi Galbaat](https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Vaddi Galbaat](https://open.spotify.com/album/4rfmwIjMsdG9QrCKpDYibW) | 3:34 |
 
-Snapshot ID: `aE/1SwAAAADv9NB0mImgsJbm1cPfBRPX`
+Snapshot ID: `aFJ2XwAAAADUpdnpc4vzT2HV8BYvWnTp`

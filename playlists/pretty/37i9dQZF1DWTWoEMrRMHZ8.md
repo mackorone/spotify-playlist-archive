@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Ney Matogrosso
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,100 likes - 84 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,121 likes - 84 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

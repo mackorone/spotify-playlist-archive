@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain]
 
 > Zambia had a huge rock explosion in the 70’s that shook the world! Here are some classic Zamrock jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,013 likes - 34 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,034 likes - 34 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain]
 | 33 | [Hot Do](https://open.spotify.com/track/6LHCdtoExzfHG81uN4scxF) | [Jesper Siliya Lungu](https://open.spotify.com/artist/0eQTzL6C8PK4ZkwwelZC5B) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 3:55 |
 | 34 | [SM](https://open.spotify.com/track/7beFmv4oZNAdy5563QMD44) | [Mike Nyoni](https://open.spotify.com/artist/6iWVltZzbHKsDchxdoPcQA) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 4:16 |
 
-Snapshot ID: `ZrSGHQAAAADQy/F5/eDK7k8LebL4imvP`
+Snapshot ID: `ZrSGHQAAAADz/DIhf2qMxUYfiOrysRIg`

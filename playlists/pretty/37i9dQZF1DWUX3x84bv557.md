@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Kris Kross Amsterdam, André Hazes & Tabitha
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,691 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,680 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,20 +16,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 6 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 |
 | 7 | [Met Of Zonder Jou](https://open.spotify.com/track/3xRjrioxJQIjfJmGYxtyKR) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Met Of Zonder Jou](https://open.spotify.com/album/6z9xi38DbqJntYApAwfhM5) | 2:54 |
 | 8 | [Sparen Voor De Nacht](https://open.spotify.com/track/44vgHjyTTFdOe0F01MhPir) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Sparen Voor De Nacht](https://open.spotify.com/album/4NqNVbz0Hxl9jRtYsy3qCx) | 2:34 |
-| 9 | [Als ik verdwaal](https://open.spotify.com/track/74VfqDM1tukKA4jYQzvBLe) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Als ik verdwaal](https://open.spotify.com/album/6o89kM4c7JdM7exMU9UxdJ) | 2:48 |
-| 10 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 |
-| 11 | [Het Zit Er Nog Steeds](https://open.spotify.com/track/58fwIXJqA4ZRKdxzuLPdw7) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Het Zit Er Nog Steeds](https://open.spotify.com/album/3DCuOHP1Mad7xMlGLqwnQc) | 2:35 |
-| 12 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 |
-| 13 | [Een Nacht Als Deze](https://open.spotify.com/track/6NETlrbxNer7Yj9NXhgTiA) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Een Nacht Als Deze](https://open.spotify.com/album/5gYLd9YEiTZCDPR0lkiGt6) | 3:00 |
-| 14 | [Stuk](https://open.spotify.com/track/49BsomzPsrybT3lmKhyVNZ) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Stuk](https://open.spotify.com/album/3Z3FlnpmuXxxlCkheoGenE) | 3:06 |
-| 15 | [Levensecht](https://open.spotify.com/track/6kcXHR2Uf0WFGkTY3xfqJw) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Levensecht](https://open.spotify.com/album/7zJD5mnLr5NQc9taRrFuDb) | 2:54 |
-| 16 | [Turbulentie](https://open.spotify.com/track/01IWBNOH5JcGbLbafHHJqr) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Turbulentie](https://open.spotify.com/album/7fcv7MQ7LmjTGgrcuhJ4Zh) | 3:01 |
-| 17 | [Alleen Maar Jou](https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Alleen Maar Jou](https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0) | 3:13 |
-| 18 | [Batterij](https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Batterij](https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw) | 2:28 |
-| 19 | [Als Ik Kon Zou Ik Blijven](https://open.spotify.com/track/3p8mL7ESo42bAbTzdLrQ3z) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Als Ik Kon Zou Ik Blijven](https://open.spotify.com/album/0PGa7nZqBJx2wPxX2bTAYa) | 3:01 |
-| 20 | [Hoe Kom Ik Hier Weg](https://open.spotify.com/track/7fS5dpettfYfl1hoIWKlMf) | [Mara Julia](https://open.spotify.com/artist/3okS5Y55TTdCWEWyH07GZJ) | [Hoe Kom Ik Hier Weg](https://open.spotify.com/album/0IUNnHHLWYa7Lrqtlq86Nc) | 3:01 |
-| 21 | [De Lieve Jongen](https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum) | [Myrte Michels](https://open.spotify.com/artist/1toTl1rdtV8matFNkDsrWV) | [De Lieve Jongen](https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN) | 3:00 |
-| 22 | [Gezelligheid \(..3,4,5\)](https://open.spotify.com/track/1BGGuweM2uI2Y95yfuvUW7) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Gezelligheid \(..3,4,5\)](https://open.spotify.com/album/6agf289SMNPxPVmi6fh4UE) | 2:56 |
+| 9 | [Gezelligheid \(..3,4,5\)](https://open.spotify.com/track/1BGGuweM2uI2Y95yfuvUW7) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Gezelligheid \(..3,4,5\)](https://open.spotify.com/album/6agf289SMNPxPVmi6fh4UE) | 2:56 |
+| 10 | [Als ik verdwaal](https://open.spotify.com/track/74VfqDM1tukKA4jYQzvBLe) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Als ik verdwaal](https://open.spotify.com/album/6o89kM4c7JdM7exMU9UxdJ) | 2:48 |
+| 11 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 |
+| 12 | [Het Zit Er Nog Steeds](https://open.spotify.com/track/58fwIXJqA4ZRKdxzuLPdw7) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Het Zit Er Nog Steeds](https://open.spotify.com/album/3DCuOHP1Mad7xMlGLqwnQc) | 2:35 |
+| 13 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 |
+| 14 | [Een Nacht Als Deze](https://open.spotify.com/track/6NETlrbxNer7Yj9NXhgTiA) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Een Nacht Als Deze](https://open.spotify.com/album/5gYLd9YEiTZCDPR0lkiGt6) | 3:00 |
+| 15 | [Stuk](https://open.spotify.com/track/49BsomzPsrybT3lmKhyVNZ) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Stuk](https://open.spotify.com/album/3Z3FlnpmuXxxlCkheoGenE) | 3:06 |
+| 16 | [Levensecht](https://open.spotify.com/track/6kcXHR2Uf0WFGkTY3xfqJw) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Levensecht](https://open.spotify.com/album/7zJD5mnLr5NQc9taRrFuDb) | 2:54 |
+| 17 | [Turbulentie](https://open.spotify.com/track/01IWBNOH5JcGbLbafHHJqr) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Turbulentie](https://open.spotify.com/album/7fcv7MQ7LmjTGgrcuhJ4Zh) | 3:01 |
+| 18 | [Alleen Maar Jou](https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Alleen Maar Jou](https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0) | 3:13 |
+| 19 | [Batterij](https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Batterij](https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw) | 2:28 |
+| 20 | [Als Ik Kon Zou Ik Blijven](https://open.spotify.com/track/3p8mL7ESo42bAbTzdLrQ3z) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Als Ik Kon Zou Ik Blijven](https://open.spotify.com/album/0PGa7nZqBJx2wPxX2bTAYa) | 3:01 |
+| 21 | [Hoe Kom Ik Hier Weg](https://open.spotify.com/track/7fS5dpettfYfl1hoIWKlMf) | [Mara Julia](https://open.spotify.com/artist/3okS5Y55TTdCWEWyH07GZJ) | [Hoe Kom Ik Hier Weg](https://open.spotify.com/album/0IUNnHHLWYa7Lrqtlq86Nc) | 3:01 |
+| 22 | [De Lieve Jongen](https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum) | [Myrte Michels](https://open.spotify.com/artist/1toTl1rdtV8matFNkDsrWV) | [De Lieve Jongen](https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN) | 3:00 |
 | 23 | [Hartslag](https://open.spotify.com/track/2JH8u157TEJOojZ4GfRxUv) | [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Hartslag](https://open.spotify.com/album/0mpT1ek8Dt0m3w7oowVJpN) | 2:21 |
 | 24 | [Miljonair](https://open.spotify.com/track/0SJvHaZlRRWFI4UKikZaZn) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Miljonair](https://open.spotify.com/album/2jqgoXgJJ1fVsDr1aaGFdE) | 2:55 |
 | 25 | [Bitterzoet](https://open.spotify.com/track/6PbDcr3zfITA3j3MO4OIOu) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc), [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Bitterzoet](https://open.spotify.com/album/5Y2YwJG3v0WISIGLxoAbbR) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 74 | [Niet genoeg](https://open.spotify.com/track/0XjHmMqmKDSf7bbguJf1nI) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Niet genoeg](https://open.spotify.com/album/6ZUKiWJmM631ScU721snk0) | 3:03 |
 | 75 | [Bouwen Met Jou](https://open.spotify.com/track/2y9PqJ3Nhmsr0J6wgxQV5J) | [Lloyd De Meza](https://open.spotify.com/artist/59YkJoBLjFwDTvLGOpDgR7) | [Bouwen Met Jou](https://open.spotify.com/album/2eyxNgqrG2GfVPGY8Yzubs) | 3:25 |
 
-Snapshot ID: `aE/oPAAAAABfLwc+FpvvqcUflcqu3mCu`
+Snapshot ID: `aFJ+yAAAAAAe++u1yYn9Xyt7YdA/3Jc1`

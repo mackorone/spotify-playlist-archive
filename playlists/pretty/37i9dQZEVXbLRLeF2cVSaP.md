@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,865 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,863 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Любят суки](https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR) | [T.A\. Loc](https://open.spotify.com/artist/4vfJAXPi7TumQoEJXWdENP) | [Любят суки](https://open.spotify.com/album/0UzC3UJeN8hjKypgYEgvyN) | 4:06 |
 | 50 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
 
-Snapshot ID: `L+TceAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+Yt+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

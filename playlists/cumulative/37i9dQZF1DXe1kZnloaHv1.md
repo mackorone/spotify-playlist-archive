@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-96 songs - 5 hr 7 min
+98 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [It is what it is...](https://open.spotify.com/track/3H2RJlhKLW5vWY37zJ5MF2) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Charming Jo](https://open.spotify.com/artist/2WD3kpF4RQRNucwkuHhKZo) | [It is what it is...](https://open.spotify.com/album/5BcEPVheofscMIjxJ5ZKMO) | 2:18 | 2024-09-18 |  |
 | [i’m so tired.\. \(Feat\. THAMA\)](https://open.spotify.com/track/71lXdK0I8qxaeFxsFSDiwc) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 3:05 | 2025-04-16 |  |
 | [Lazy Me](https://open.spotify.com/track/5BjgnMwv77gljbjptknmU1) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/4WgImc0yuAYUPbObX4xjjs) | 3:07 | 2025-05-28 |  |
+| [Lazyday](https://open.spotify.com/track/5lR0DmxtCgSVvYlzTLkBdp) | [Parkbongsoon](https://open.spotify.com/artist/4zi2UErU3OcQ6eydg3dHJM) | [Hello, Then Goodbye](https://open.spotify.com/album/6rEo5ut1ZaiKXi6NtRlyZY) | 2:12 | 2025-06-19 |  |
 | [let me go home](https://open.spotify.com/track/7zPB6iYhUSKiIJxAAUTlyo) | [Pre'Melo](https://open.spotify.com/artist/59jyRPrPkL8QIR0wfaJMWl) | [let me go home](https://open.spotify.com/album/2Mm6tTaPrNhdmadp0qTUEm) | 2:48 | 2025-04-23 |  |
 | [Like I'm saying](https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:28 | 2024-04-17 | 2025-05-08 |
 | [Like I′m saying](https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:28 | 2023-11-09 | 2024-04-19 |
@@ -96,6 +97,7 @@
 | [YES MAN](https://open.spotify.com/track/55EwqptSKkVJjdaJG8LlQN) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [YES MAN](https://open.spotify.com/album/7MsumZ5RaI96ToAiBhs36v) | 3:33 | 2025-06-04 |  |
 | [YOLO!!](https://open.spotify.com/track/58ArJNuSY3iTL6SyTVtMhw) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/5pgMsHengwvJz9vYopbFGj) | 3:29 | 2023-11-09 | 2024-04-19 |
 | [YOLO!!](https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/4H9NHqoHnM5eOl5JVQ47PT) | 3:29 | 2024-04-17 |  |
+| [Zzz](https://open.spotify.com/track/2tfJOgNmdkl9QlL3zI6F6T) | [ASOM](https://open.spotify.com/artist/7sjoySHCeoENihrUxCuBCD) | [Zzz](https://open.spotify.com/album/76zsfT63DcfSJ3zGg69hDT) | 2:14 | 2025-06-19 |  |
 | [나인데](https://open.spotify.com/track/03a3V3WdtWcNCvFr8S2i26) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [나인데](https://open.spotify.com/album/6EhGT1web7FrTH942QvH1B) | 2:41 | 2025-04-08 |  |
 | [내가 들었는데](https://open.spotify.com/track/5aZ1058WKY8rvEK9Bcrftg) | [TIKITIK](https://open.spotify.com/artist/4I5VHsJIkTdNbQNC2xkSEO) | [내가 들었는데](https://open.spotify.com/album/0OSQOFnrNebz3m98FQtQxD) | 1:18 | 2024-03-08 |  |
 | [놀래!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 | 2025-04-08 |  |

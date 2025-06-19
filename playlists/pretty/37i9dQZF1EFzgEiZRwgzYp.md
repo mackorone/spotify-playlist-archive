@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzgEiZRwgzYp.md) - [plain]
 | 20 | [ANGER](https://open.spotify.com/track/2rrrJY1m0G5vjUGC1cjQnO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 6:29 |
 | 21 | [CUTE](https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 |
 
-Snapshot ID: `Ab0aVAAAAAA8lyssQyIa/dPtygr28a/P`
+Snapshot ID: `Ab0f6gAAAAAZ7mnB1Afe7mc5t8R3EWOM`

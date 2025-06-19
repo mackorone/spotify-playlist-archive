@@ -194,7 +194,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 193293,
       "name": "12:32 (A to T)",
       "url": "https://open.spotify.com/track/4gQJFhPYEVLuxyriyUubzD"
@@ -13086,7 +13086,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -15186,7 +15186,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 78492,
       "name": "Interlude : Showtime",
       "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
@@ -16193,6 +16193,28 @@
     },
     {
       "album": {
+        "name": "Killin' It Girl (feat. GloRilla) (Remixes)",
+        "url": "https://open.spotify.com/album/1mzoF69QOJgXCBjK1shh85"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/2GzwtXPlI0gZEOS6xFOZ2j"
+    },
+    {
+      "album": {
         "name": "Killin' It Girl (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
       },
@@ -16208,7 +16230,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
@@ -16226,10 +16248,28 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 138827,
       "name": "Killin' It Girl (Solo Version)",
       "url": "https://open.spotify.com/track/32SrQzg34vQiYjyzjg3wum"
+    },
+    {
+      "album": {
+        "name": "Killin' It Girl (feat. GloRilla) (Remixes)",
+        "url": "https://open.spotify.com/album/1mzoF69QOJgXCBjK1shh85"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138827,
+      "name": "Killin' It Girl (Solo Version)",
+      "url": "https://open.spotify.com/track/3efpTAvesRrJYCTx4w2UVc"
     },
     {
       "album": {
@@ -16844,7 +16884,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 179395,
       "name": "Lemon Drop",
       "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
@@ -17684,7 +17724,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 189040,
       "name": "Lips Hips Kiss",
       "url": "https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH"
@@ -19942,7 +19982,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -22804,7 +22844,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 232227,
       "name": "Paint On Spring - Remastering",
       "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"

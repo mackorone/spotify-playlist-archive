@@ -25198,7 +25198,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 383400,
       "name": "Gethsemane",
       "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
@@ -27370,7 +27370,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 138216,
       "name": "HALLELUJAH",
       "url": "https://open.spotify.com/track/2l6UQIQwYpRF0GMfzyB2Xs"
@@ -44354,7 +44354,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 260036,
       "name": "Might",
       "url": "https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT"
@@ -47230,7 +47230,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 287159,
       "name": "NEVER ENOUGH",
       "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6"
@@ -61288,6 +61288,24 @@
       "duration_ms": 263500,
       "name": "Slipping Through My Fingers",
       "url": "https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU"
+    },
+    {
+      "album": {
+        "name": "Pet Sounds",
+        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "Sloop John B",
+      "url": "https://open.spotify.com/track/72fAewq2UVWSf3RjtqICdS"
     },
     {
       "album": {
@@ -75362,7 +75380,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "Went Legit",
       "url": "https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP"

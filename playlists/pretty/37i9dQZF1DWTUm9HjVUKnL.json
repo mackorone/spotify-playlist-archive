@@ -1,13 +1,29 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 238621,
+  "num_followers": 238634,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEl30AAAAAD1vntBG9dnO+uigZFQ2Ss8",
+  "snapshot_id": "aFKi7AAAAADvtnlNiavpRT0R0IIktAYR",
   "tracks": [
+    {
+      "added_at": "2025-06-18 11:28:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39IpKI9d9ZwyLFvJwuveKj"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 197166,
+      "name": "the fruits - Spotify Singles",
+      "url": "https://open.spotify.com/track/3dFyhY5UE2c9OvMb0hOlNn"
+    },
     {
       "added_at": "2025-06-11 12:34:24",
       "album": {

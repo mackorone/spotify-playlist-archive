@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Babas Tutsipop en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,722 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,684 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 48 | [Homosapiens](https://open.spotify.com/track/56aNjDFvp7aVvCywNByTHM) | [Verde 70](https://open.spotify.com/artist/3Of13uTPqUVwBPz8gpz5kN) | [Homosapiens](https://open.spotify.com/album/6mQDRdhkIK0GDOnO7cnT8H) | 3:49 |
 | 49 | [Mi Mundo](https://open.spotify.com/track/7jmo5T6F8FUc05EZ8ONSg0) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Amuletos de Cristal, Vol\. 1](https://open.spotify.com/album/6ktozBjDpQXyP3xugguXZd) | 3:25 |
 
-Snapshot ID: `AAAAACfdfXuIlQ3+l2C91GoheXezr4YQ`
+Snapshot ID: `aExWgQAAAABqd/AVjoaDlUmdQJHkkuPb`

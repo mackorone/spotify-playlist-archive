@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,073 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,116 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 | 49 | [Aankhon Se Khwab Rooth Kar](https://open.spotify.com/track/5vr2S5WX7N1zbXAHWsuXFH) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Super Star](https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu) | 8:05 |
 | 50 | [Yun Zindagi Ki](https://open.spotify.com/track/46xLESZaIBrvUqZYgXN4hb) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Saath Saath](https://open.spotify.com/album/7esH45JgwUTlmi1wgK5y1b) | 4:48 |
 
-Snapshot ID: `Z6sM3QAAAABKv6F2Wa75YFhPg1gRatyf`
+Snapshot ID: `Z6sM3QAAAACfRYWuBGSM7M9FmV7xpqRn`

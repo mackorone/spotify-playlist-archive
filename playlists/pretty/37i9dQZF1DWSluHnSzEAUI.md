@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluHnSzEAUI.md) - [plain]
 
 > Enjoy the soundtracks of K\-POP idols' comeback war 'Queendom'\. \(K\-POP 아이돌들의 컴백전쟁 '퀸덤'의 사운드 트랙들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,125 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,123 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluHnSzEAUI.md) - [plain]
 | 29 | [Epilogue \- Instrumental](https://open.spotify.com/track/0Yh4ibGdvYU6Bcv78KUFFY) | [YOSKE](https://open.spotify.com/artist/1R4kc8WcmmFEn7lFvPeJ5E), [Iver \(ALIVE KNOB\)](https://open.spotify.com/artist/3ITyFwK4gvAyxjd7KbgF68), [J2 \(ALIVE KNOB\)](https://open.spotify.com/artist/4e6QTwmX6eYDooCwfKyuac) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 3:32 |
 | 30 | [Epilogue \- Piano Version](https://open.spotify.com/track/2gzJgcYyx7pbaizAJRYy6q) | [YOSKE](https://open.spotify.com/artist/1R4kc8WcmmFEn7lFvPeJ5E), [Iver \(ALIVE KNOB\)](https://open.spotify.com/artist/3ITyFwK4gvAyxjd7KbgF68), [J2 \(ALIVE KNOB\)](https://open.spotify.com/artist/4e6QTwmX6eYDooCwfKyuac) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 5:18 |
 
-Snapshot ID: `ZIsO6QAAAAC4hahOlEkk6WELid+3XFhh`
+Snapshot ID: `ZIsO6QAAAADmNcgWiuseRJTJgVdEPjPz`

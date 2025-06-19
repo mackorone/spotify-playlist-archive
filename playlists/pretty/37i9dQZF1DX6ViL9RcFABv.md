@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: IOLANDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,839 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,836 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 39 | [Puras Donzelas](https://open.spotify.com/track/1gtChAVHXQu0RYBpGETfeH) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [Puras Donzelas](https://open.spotify.com/album/39jpySYCxCXCJQQMts8arT) | 2:43 |
 | 40 | [Mudar A Canção](https://open.spotify.com/track/7mqB9kLgxTuG3ACCOyNJtI) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn), [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Carlão](https://open.spotify.com/artist/4byuw0pyzVNeEONKcPIpAA), [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Paulo de Carvalho](https://open.spotify.com/artist/7KZq6Dnxz9nVtLg45UMGEJ), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Simone de Oliveira](https://open.spotify.com/artist/6RNXZUrWCDL7SK75TkFStj) | [Mudar A Canção](https://open.spotify.com/album/7hwcdnuYalAEqFbLGYGFKl) | 3:07 |
 | 41 | [É O Que É](https://open.spotify.com/track/1cmRRx68ZuTNcw7jm6M8Pk) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [É O Que É](https://open.spotify.com/album/0PlvO8tfJ8Z07EYsTTnKOn) | 3:46 |
-| 42 | [engana\-me que eu gosto](https://open.spotify.com/track/6l3tclHzDfT7c6P9mU9LGa) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [8 ou 80](https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn) | 3:23 |
+| 42 | [engana\-me que eu gosto](https://open.spotify.com/track/6l3tclHzDfT7c6P9mU9LGa) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [8/80](https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn) | 3:23 |
 | 43 | [O Teu Lugar](https://open.spotify.com/track/21MOuXoTkBpYUd49jumebu) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r) | [O Teu Lugar](https://open.spotify.com/album/2JXdeTLOK1bxJu7WqKb7Rg) | 2:48 |
 | 44 | [À Espera Do Fim](https://open.spotify.com/track/3HKfGY4DN6qvjTWsrxINRL) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [À Espera Do Fim](https://open.spotify.com/album/2thqEo3jisGUBgPkyVOkwP) | 3:18 |
 | 45 | [Agostinho](https://open.spotify.com/track/7F0LILCIzPxUvk8RdSoZNd) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Agostinho](https://open.spotify.com/album/5G8saCNQ1VuJpm5XSFaqX4) | 2:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with Zomboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,860 likes - 200 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,551 likes - 200 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

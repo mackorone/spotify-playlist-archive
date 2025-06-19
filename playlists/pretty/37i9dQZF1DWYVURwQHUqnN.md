@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Nej x KeBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147,157 likes - 45 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147,318 likes - 45 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 44 | [Zone interdite](https://open.spotify.com/track/0d0zzSo36NQBQgVen71PSw) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Zone interdite](https://open.spotify.com/album/7nzLub4KK8qTnlw28XCAIB) | 2:20 |
 | 45 | [Des choses à fêter \(feat\. Soprano\)](https://open.spotify.com/track/3Hj1lj8KTZhykYOgl6DMfo) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Des choses à fêter \(feat\. Soprano\)](https://open.spotify.com/album/6ni7sjISV5G5ifVOJenZax) | 2:31 |
 
-Snapshot ID: `AAAAALzK0+OpG4JmmRnajTbEEF9lzkbT`
+Snapshot ID: `aEtOAgAAAACqa8C/z3XDCUxwfsRbasNa`

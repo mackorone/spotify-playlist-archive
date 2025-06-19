@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 
 > Fucked up and evil\. What an absolute bop.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 54 songs - 2 hr 48 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,6 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 | 52 | [Birthday Party](https://open.spotify.com/track/7hBRNyuEkGR4qj5nTDGTry) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj) | 3:43 |
 | 53 | [Redesign Your Logo](https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [The Fump, Vol\. 20: March \- April 2010](https://open.spotify.com/album/795ErcyPhr0Trsq0a4SauM) | 4:19 |
 | 54 | [Emerging](https://open.spotify.com/track/34Lc6CQKHdtzfS9YRwA23t) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5), [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Moon Colony Bloodbath](https://open.spotify.com/album/5XIpuHp3NzoQQQFH5PUvyj) | 2:59 |
+| 55 | [Good Life](https://open.spotify.com/track/0Exrm1yghvQ4ykj23tLsVN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Americanachronism](https://open.spotify.com/album/7kTXiQqgNWxeaZHq3efuVn) | 3:11 |
 
-Snapshot ID: `AAAAPIIaCe7glQ8ktMQdiJ6DFtTe5PiR`
+Snapshot ID: `AAAAPWAsVjTcSyneAbffvAbLz+7ttWDO`

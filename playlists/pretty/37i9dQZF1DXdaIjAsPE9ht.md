@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,995 likes - 95 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,963 likes - 95 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 | 94 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 |
 | 95 | [Distance](https://open.spotify.com/track/4TDmvOpMxFoF7MX6gQh1Ld) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Philip Somber](https://open.spotify.com/artist/3xJD9x3Dw6g4g5naFYe0qi) | [Forest Of Dreams](https://open.spotify.com/album/7GubKoMp9Lr1XqEtpspcZI) | 3:05 |
 
-Snapshot ID: `aEskYQAAAADw7B8jSMyVa3zObH7CkFvl`
+Snapshot ID: `AAAAAJGqscowY7ArrrQMQR6eBp6O1R6A`

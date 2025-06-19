@@ -2,34 +2,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> Fresh Finds Nordics x Debaser Alternative June 16th! See Aggy Ally, ABY iO, Salty Licorice, Jaycov, Anna\-My & DJ Carpenter live!
+> The best new music by independent artists in the Nordics\. Cover: Olga Myko
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,951 likes - 106 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,973 likes - 106 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Can't Go Back](https://open.spotify.com/track/2u5JUUkazRj0CCfYt4uZSO) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/1ru0RHTdao2mgYC8iJ5yBx) | 2:35 |
-| 2 | [GET RICH OR DIE TRYING](https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [GET RICH OR DIE TRYING](https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD) | 2:44 |
-| 3 | [blossom](https://open.spotify.com/track/1GzUDCxE7XWjo3dQKu4v0F) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [blossom](https://open.spotify.com/album/1AUe9iiDzf9TRxUBl3hwRf) | 3:21 |
-| 4 | [The Ground](https://open.spotify.com/track/6JpYFzsPAHfi6kD5OMTs0R) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h), [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [The Ground](https://open.spotify.com/album/0aNedog5mRYozK9HmnIGcX) | 3:18 |
-| 5 | [Luigi](https://open.spotify.com/track/69YvkNAeruX4u8ZjgjA6B4) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Luigi](https://open.spotify.com/album/2xChiS8O1UfNzBQbutOhlX) | 3:39 |
-| 6 | [Metanoia \(p.179\)](https://open.spotify.com/track/1qcpPLLM4y1bGfwPS5DHDI) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [The Sunrise Cried](https://open.spotify.com/album/5RSwmoVHdPTkHeIQDyRxsN) | 3:12 |
-| 7 | [WHEN A GIRL CRIES](https://open.spotify.com/track/1BvoyAEN3HjaLmaMVa8lel) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/3y62OSh5mxYZXFrJ3SWujS) | 3:18 |
-| 8 | [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 |
-| 9 | [RAW](https://open.spotify.com/track/0eHbc0W67AaJzVkU6icQlI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [RAW](https://open.spotify.com/album/2yOW0TPyll2p2PFriw7A0C) | 3:36 |
-| 10 | [Happy Blue Skies](https://open.spotify.com/track/7tBMnXSe2cEpVSJ1K75VgJ) | [Caesar Omaka](https://open.spotify.com/artist/0mzIUAC5NKH15AIryf5n2j) | [Happy Blue Skies](https://open.spotify.com/album/7rWcwlAlxuhJzuwMbBl1P2) | 3:03 |
-| 11 | [Side Effect](https://open.spotify.com/track/5Q6anRiSkE00pWfDlLiN58) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Side Effect](https://open.spotify.com/album/2JHwZDprkm6TLWrYdxaOCS) | 2:06 |
-| 12 | [every minute, every second, i want everything](https://open.spotify.com/track/7Ajp4pYsHn36jvS7BjDDDB) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG) | [every minute, every second, i want everything](https://open.spotify.com/album/5fLiHeWP0thwxHCaTqOMi0) | 3:30 |
-| 13 | [Musicality](https://open.spotify.com/track/4KnN1qVhG1gccZe7cJxWn3) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/59enWNqQlZKbTD1oQ74dtY) | 2:18 |
-| 14 | [Distant](https://open.spotify.com/track/6XLmbs1FhNAeUVTCgXFvaF) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Distant](https://open.spotify.com/album/2Fe9DVV8LX8MDj04jf8Jyi) | 2:56 |
-| 15 | [In Terms Of You](https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [In Terms Of You](https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW) | 2:30 |
-| 16 | [Glitter](https://open.spotify.com/track/71pjV29jd6uqGSaAYEi6B9) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [Glitter](https://open.spotify.com/album/6AfxDOngIjWQ0O5UFJU8X2) | 2:19 |
-| 17 | [Disaster](https://open.spotify.com/track/4Wv74XDYqqCrfesSaJAbRQ) | [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Disaster](https://open.spotify.com/album/4GuKEy9YbEfydZdtVfGBoo) | 2:12 |
-| 18 | [Landline](https://open.spotify.com/track/4athqmEs1t8BYMmyAGwZ7k) | [Botaii](https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv) | [Landline](https://open.spotify.com/album/3Z8WtxbBvxoukGNuI7f1Ge) | 2:56 |
-| 19 | [SCANDINAVIAN SUMMER](https://open.spotify.com/track/18KyksfwndKfsyGHGjUNZU) | [NIQI](https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR) | [SCANDINAVIAN SUMMER](https://open.spotify.com/album/0qHh57RS5rQEwB6XKoSGLm) | 2:43 |
-| 20 | [Lose You](https://open.spotify.com/track/5PQ0O0KVFAG6Cp9rTgQXba) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Lose You](https://open.spotify.com/album/0f9Fht4xJkBuqX90ZaDJxg) | 2:54 |
-| 21 | [Joe Anna](https://open.spotify.com/track/1hFjsk4Brd0jO1HknM7Ddh) | [Sundowning](https://open.spotify.com/artist/7caTRUmzRL9toF5goM4v8a) | [Joe Anna](https://open.spotify.com/album/3QGq0T1EHcJO0SgToeXIbb) | 3:37 |
-| 22 | [Ocean Of Alcohol](https://open.spotify.com/track/3KgIJjypNUhXHIY1rzMlgE) | [i know her](https://open.spotify.com/artist/2YSlO6e1pwlpXcApl2VmqQ) | [Ocean Of Alcohol](https://open.spotify.com/album/53RcQWkcKNiuOlF2pkxOUl) | 3:03 |
+| 1 | [WHEN A GIRL CRIES](https://open.spotify.com/track/1BvoyAEN3HjaLmaMVa8lel) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/3y62OSh5mxYZXFrJ3SWujS) | 3:18 |
+| 2 | [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 |
+| 3 | [RAW](https://open.spotify.com/track/0eHbc0W67AaJzVkU6icQlI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [RAW](https://open.spotify.com/album/2yOW0TPyll2p2PFriw7A0C) | 3:36 |
+| 4 | [Happy Blue Skies](https://open.spotify.com/track/7tBMnXSe2cEpVSJ1K75VgJ) | [Caesar Omaka](https://open.spotify.com/artist/0mzIUAC5NKH15AIryf5n2j) | [Happy Blue Skies](https://open.spotify.com/album/7rWcwlAlxuhJzuwMbBl1P2) | 3:03 |
+| 5 | [Side Effect](https://open.spotify.com/track/5Q6anRiSkE00pWfDlLiN58) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Side Effect](https://open.spotify.com/album/2JHwZDprkm6TLWrYdxaOCS) | 2:06 |
+| 6 | [every minute, every second, i want everything](https://open.spotify.com/track/7Ajp4pYsHn36jvS7BjDDDB) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG) | [every minute, every second, i want everything](https://open.spotify.com/album/5fLiHeWP0thwxHCaTqOMi0) | 3:30 |
+| 7 | [Can't Go Back](https://open.spotify.com/track/2u5JUUkazRj0CCfYt4uZSO) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/1ru0RHTdao2mgYC8iJ5yBx) | 2:35 |
+| 8 | [Musicality](https://open.spotify.com/track/4KnN1qVhG1gccZe7cJxWn3) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/59enWNqQlZKbTD1oQ74dtY) | 2:18 |
+| 9 | [Distant](https://open.spotify.com/track/6XLmbs1FhNAeUVTCgXFvaF) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Distant](https://open.spotify.com/album/2Fe9DVV8LX8MDj04jf8Jyi) | 2:56 |
+| 10 | [In Terms Of You](https://open.spotify.com/track/18DVId4Xg6mp4ZVZNQf6t2) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [In Terms Of You](https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW) | 2:30 |
+| 11 | [Glitter](https://open.spotify.com/track/71pjV29jd6uqGSaAYEi6B9) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [Glitter](https://open.spotify.com/album/6AfxDOngIjWQ0O5UFJU8X2) | 2:19 |
+| 12 | [Disaster](https://open.spotify.com/track/4Wv74XDYqqCrfesSaJAbRQ) | [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Disaster](https://open.spotify.com/album/4GuKEy9YbEfydZdtVfGBoo) | 2:12 |
+| 13 | [GET RICH OR DIE TRYING](https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [GET RICH OR DIE TRYING](https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD) | 2:44 |
+| 14 | [blossom](https://open.spotify.com/track/1GzUDCxE7XWjo3dQKu4v0F) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [blossom](https://open.spotify.com/album/1AUe9iiDzf9TRxUBl3hwRf) | 3:21 |
+| 15 | [Landline](https://open.spotify.com/track/4athqmEs1t8BYMmyAGwZ7k) | [Botaii](https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv) | [Landline](https://open.spotify.com/album/3Z8WtxbBvxoukGNuI7f1Ge) | 2:56 |
+| 16 | [SCANDINAVIAN SUMMER](https://open.spotify.com/track/18KyksfwndKfsyGHGjUNZU) | [NIQI](https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR) | [SCANDINAVIAN SUMMER](https://open.spotify.com/album/0qHh57RS5rQEwB6XKoSGLm) | 2:43 |
+| 17 | [Lose You](https://open.spotify.com/track/5PQ0O0KVFAG6Cp9rTgQXba) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Lose You](https://open.spotify.com/album/0f9Fht4xJkBuqX90ZaDJxg) | 2:54 |
+| 18 | [Joe Anna](https://open.spotify.com/track/1hFjsk4Brd0jO1HknM7Ddh) | [Sundowning](https://open.spotify.com/artist/7caTRUmzRL9toF5goM4v8a) | [Joe Anna](https://open.spotify.com/album/3QGq0T1EHcJO0SgToeXIbb) | 3:37 |
+| 19 | [Metanoia \(p.179\)](https://open.spotify.com/track/1qcpPLLM4y1bGfwPS5DHDI) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [The Sunrise Cried](https://open.spotify.com/album/5RSwmoVHdPTkHeIQDyRxsN) | 3:12 |
+| 20 | [The Ground](https://open.spotify.com/track/6JpYFzsPAHfi6kD5OMTs0R) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h), [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [The Ground](https://open.spotify.com/album/0aNedog5mRYozK9HmnIGcX) | 3:18 |
+| 21 | [Ocean Of Alcohol](https://open.spotify.com/track/3KgIJjypNUhXHIY1rzMlgE) | [i know her](https://open.spotify.com/artist/2YSlO6e1pwlpXcApl2VmqQ) | [Ocean Of Alcohol](https://open.spotify.com/album/53RcQWkcKNiuOlF2pkxOUl) | 3:03 |
+| 22 | [Luigi](https://open.spotify.com/track/69YvkNAeruX4u8ZjgjA6B4) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Luigi](https://open.spotify.com/album/2xChiS8O1UfNzBQbutOhlX) | 3:39 |
 | 23 | [PIRAJA](https://open.spotify.com/track/2ofv8EUyAd0izryUdaNXTV) | [MAMI UMAMI](https://open.spotify.com/artist/1gXudtIPsBxon00193AQb9) | [PIRAJA](https://open.spotify.com/album/7CABo0JMsd0IvJWdzrQDPt) | 3:15 |
 | 24 | [Love You Right](https://open.spotify.com/track/0lc4pk8yFSCnQfXyGQLPqx) | [Deliverie](https://open.spotify.com/artist/1oGA7ikSikSgGvjtFE6rIU) | [Love You Right](https://open.spotify.com/album/79HZVKPc4jyPX24vbeyCyQ) | 2:48 |
 | 25 | [write](https://open.spotify.com/track/3dbLm47UHZxyQzQJjkxjw1) | [Anni II](https://open.spotify.com/artist/6c9h8a6rq1IF6XZuurv6xX) | [write](https://open.spotify.com/album/2GVpyyssoMIzprxq0Iw1I2) | 3:02 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 105 | [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 |
 | 106 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 |
 
-Snapshot ID: `aE5vcgAAAADkY6/A1CRbm5opCXnQ0+v7`
+Snapshot ID: `aFJtlQAAAAC6vuwLHzXgY67Z+M8iWV+m`

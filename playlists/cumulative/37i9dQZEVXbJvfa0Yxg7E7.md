@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,218 songs - 4 day 18 hr 58 min
+2,220 songs - 4 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,8 @@
 | [El Diablo](https://open.spotify.com/track/0DGduxy7YSuqXm272C2LM6) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/0hddqJaLbuagDCHHSgULIm) | 3:01 | 2021-05-30 | 2021-08-20 |
 | [El Diablo](https://open.spotify.com/track/5qqQgao22OUr6rx3y0TPIe) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/4qtyEsRH9iNX3eDcYpeQzB) | 3:01 | 2021-05-21 | 2021-05-30 |
 | [Eli](https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Eli](https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w) | 3:25 | 2025-03-29 | 2025-05-11 |
-| [Eli](https://open.spotify.com/track/73w95wSsGRANVc3RyGITRP) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl) | 3:25 | 2025-05-10 |  |
+| [Eli](https://open.spotify.com/track/5iw7PzTQdsg2FVhR14cgGw) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:25 | 2025-06-18 |  |
+| [Eli](https://open.spotify.com/track/73w95wSsGRANVc3RyGITRP) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl) | 3:25 | 2025-05-10 | 2025-06-19 |
 | [ELSK DEG SJØL](https://open.spotify.com/track/6RDBrW4PHg5cZqkeTHuy9h) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [ELSK DEG SJØL](https://open.spotify.com/album/1wD98cfqv7koEI7g0Hk7Qc) | 2:42 | 2023-05-20 | 2023-05-23 |
 | [Elven \(feat\. Aksel Hennie & Beharie\)](https://open.spotify.com/track/0mPg11BKNCsRmqzGgaqJ8Q) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Aksel Hennie](https://open.spotify.com/artist/6YnLf3qP1gupTgd6AjupC7), [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Elven \(feat\. Aksel Hennie & Beharie\)](https://open.spotify.com/album/5gkjyqbKfaDBRMcPr666zo) | 3:23 | 2025-01-13 | 2025-01-26 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-14 | 2024-10-27 |
@@ -1098,7 +1099,8 @@
 | [K POP](https://open.spotify.com/track/00iLTetTLAeImmBlh6jOJh) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:52 | 2025-03-15 | 2025-03-17 |
 | [K\-POP](https://open.spotify.com/track/1RlcvK95g0XfRpDvFbGLUO) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP \(Chopped & Screwed\)](https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl) | 3:05 | 2023-07-25 | 2023-07-29 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-08-13 |
-| [Ka visste eg](https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl) | 3:53 | 2025-05-10 |  |
+| [Ka visste eg](https://open.spotify.com/track/2TSMITTX23lCiUbNb4eizY) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:53 | 2025-06-18 |  |
+| [Ka visste eg](https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl) | 3:53 | 2025-05-10 | 2025-06-19 |
 | [KALD DJEVEL](https://open.spotify.com/track/2bHB3b9QHADAGQFSyU4C7V) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [BHD](https://open.spotify.com/album/5SCtRdVe16ccC9r0BgJWbV) | 2:56 | 2024-04-08 | 2024-04-14 |
 | [Kaleidoskophimmel](https://open.spotify.com/track/3wxkxuisoRkt3NNeUTUfpx) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Kaleidoskophimmel](https://open.spotify.com/album/6t8SQHoM7vKxQU8SMs81F1) | 6:24 | 2023-08-19 | 2023-08-21 |
 | [kamera demon](https://open.spotify.com/track/2S4dVxsSZdAjNFuqoVQkLv) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [kamera demon](https://open.spotify.com/album/3kcuw3B5Kvh8QNgkQ0PxX7) | 2:49 | 2022-03-26 | 2022-03-28 |

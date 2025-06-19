@@ -4,7 +4,7 @@
 
 > hop on board, nonstop bops only!!
 
-320 songs - 15 hr 42 min
+321 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Never Miss A Beat](https://open.spotify.com/track/1VJLgFrfKrckuOb0DrvcQn) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN) | [Never Miss A Beat](https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC) | 2:31 | 2023-02-27 | 2023-09-16 |
 | [Nice](https://open.spotify.com/track/0nV68m9WV17hrbzIUnDSUk) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Nice](https://open.spotify.com/album/5dkQ8nDcT4UAIuTIjrIp1m) | 2:27 | 2024-03-15 | 2025-02-08 |
 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 | 2024-10-21 |  |
+| [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-06-18 |  |
 | [No Excuses](https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [No Excuses](https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE) | 3:42 | 2023-01-12 | 2023-04-18 |
 | [No, No, No, No, No](https://open.spotify.com/track/0MQdtioTCzYRBc27HepaDx) | [Ryan Blyth](https://open.spotify.com/artist/2bno8n7e57sY3zRQw03YoV), [Rawkey](https://open.spotify.com/artist/70FQ5rob9VklZcv1ci5HqU), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [No, No, No, No, No](https://open.spotify.com/album/45YgEYKQafiYCSk7XRnzuI) | 2:16 | 2024-04-05 | 2025-04-15 |
 | [Now](https://open.spotify.com/track/2pZJqhsUxcS27EIw6osRBS) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Now](https://open.spotify.com/album/4bZgBjgSVUFi93sGfxRxkK) | 2:54 | 2024-03-06 | 2024-10-04 |

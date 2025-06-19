@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 220716,
       "name": "DARARI",
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
@@ -4234,7 +4234,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 160044,
       "name": "Get A Guitar",
       "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
@@ -5742,6 +5742,24 @@
       "duration_ms": 197306,
       "name": "INSIDE OUT",
       "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
+    },
+    {
+      "album": {
+        "name": "Interlunar",
+        "url": "https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161186,
+      "name": "Interlunar",
+      "url": "https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F"
     },
     {
       "album": {
@@ -12628,6 +12646,24 @@
       "duration_ms": 218678,
       "name": "\uc544 \uc65c I Wait",
       "url": "https://open.spotify.com/track/0ZO2iSS12JTftv10cSCYf8"
+    },
+    {
+      "album": {
+        "name": "\uc5b4\uca4c\uba74",
+        "url": "https://open.spotify.com/album/16ijmvpwtcowSqCXh4oHmd"
+      },
+      "artists": [
+        {
+          "name": "NINE.i",
+          "url": "https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261176,
+      "name": "\uc5b4\uca4c\uba74",
+      "url": "https://open.spotify.com/track/18CMsYZK40q75KKo6prq4Y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0"

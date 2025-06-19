@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293,179 likes - 184 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,293,269 likes - 184 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 183 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 |
 | 184 | [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 |
 
-Snapshot ID: `aE/t/AAAAAD9II8dYS8NwaTONihSzPt9`
+Snapshot ID: `aE/t/AAAAAC6aFYWSvrCB8RStsAShSo5`

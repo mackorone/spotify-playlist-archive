@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's pop tracks, via the south of Africa\. Cover: <a href="https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7?si=eBJLnUQYTPm4YMPeLdRaaA">Mikhaela Faye</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,308 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,307 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

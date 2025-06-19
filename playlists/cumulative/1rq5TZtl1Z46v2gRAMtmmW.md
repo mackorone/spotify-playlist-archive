@@ -4,7 +4,7 @@
 
 > 
 
-415 songs - 1 day 3 hr 37 min
+416 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-06-24 | 2022-11-18 |
 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 | 2023-12-11 | 2024-05-17 |
 | [Always Get Through To You \- Edit](https://open.spotify.com/track/0HWY09dnVuJfERJcgEZ836) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Always Get Through To You](https://open.spotify.com/album/51OIExqk0K2EqCJTnKvdaV) | 3:00 | 2023-10-16 | 2023-12-20 |
+| [An Angel](https://open.spotify.com/track/5XJ4yeRHNDMSwHLO47NTMP) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Tom Rasmussen](https://open.spotify.com/artist/1FWk2wt5rW1viTKVsPd4Gf) | [An Angel / Girl Reborn](https://open.spotify.com/album/3v61eqpd90ZMP5iJy7w75i) | 3:56 | 2025-06-18 |  |
 | [Ancestral Future Now \- KMRU Rework](https://open.spotify.com/track/53o9V6ERr9euyGcX9uZDoF) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Reworks: Vol2](https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3) | 3:29 | 2023-11-03 | 2023-11-25 |
 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 | 2022-10-07 | 2023-04-14 |
 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 | 2022-09-06 | 2023-06-08 |

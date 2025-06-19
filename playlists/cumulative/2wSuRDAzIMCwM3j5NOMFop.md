@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-54 songs - 2 hr 48 min
+55 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ferryman](https://open.spotify.com/track/492qQwagrn1noBTHRYKsvJ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G), [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Ferryman](https://open.spotify.com/album/1dDe20iAvQfwOMbvLfXetm) | 3:04 | 2023-03-23 |  |
 | [Give Up!](https://open.spotify.com/track/3OxXjDWxjrD9PcGwveP5nO) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Autumn](https://open.spotify.com/album/2opLhMoweetJdxKceCQqyE) | 2:49 | 2023-07-09 |  |
 | [Golden Boy](https://open.spotify.com/track/3TDMylLFIdog58gdTjeauu) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 3:16 | 2024-12-03 |  |
+| [Good Life](https://open.spotify.com/track/0Exrm1yghvQ4ykj23tLsVN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Americanachronism](https://open.spotify.com/album/7kTXiQqgNWxeaZHq3efuVn) | 3:11 | 2025-06-18 |  |
 | [Have a Seat Misery](https://open.spotify.com/track/62reWZkKlxUmLphHJy8kRN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 1:15 | 2023-03-23 |  |
 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-03-25 |  |
 | [I Never Told You What I Do for a Living](https://open.spotify.com/track/6gLn8QhAYL4dEwdpVjfCPl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:52 | 2024-10-27 |  |

@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Hello, Then Goodbye",
+        "url": "https://open.spotify.com/album/6rEo5ut1ZaiKXi6NtRlyZY"
+      },
+      "artists": [
+        {
+          "name": "Parkbongsoon",
+          "url": "https://open.spotify.com/artist/4zi2UErU3OcQ6eydg3dHJM"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132382,
+      "name": "Lazyday",
+      "url": "https://open.spotify.com/track/5lR0DmxtCgSVvYlzTLkBdp"
+    },
+    {
+      "album": {
         "name": "let me go home",
         "url": "https://open.spotify.com/album/2Mm6tTaPrNhdmadp0qTUEm"
       },
@@ -1670,6 +1688,24 @@
       "duration_ms": 209999,
       "name": "YOLO!!",
       "url": "https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL"
+    },
+    {
+      "album": {
+        "name": "Zzz",
+        "url": "https://open.spotify.com/album/76zsfT63DcfSJ3zGg69hDT"
+      },
+      "artists": [
+        {
+          "name": "ASOM",
+          "url": "https://open.spotify.com/artist/7sjoySHCeoENihrUxCuBCD"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134584,
+      "name": "Zzz",
+      "url": "https://open.spotify.com/track/2tfJOgNmdkl9QlL3zI6F6T"
     },
     {
       "album": {

@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Morning Bail",
+        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174758,
+      "name": "Morning Bail",
+      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
+    },
+    {
+      "album": {
         "name": "Lifers",
         "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
       },

@@ -463,6 +463,28 @@
     },
     {
       "album": {
+        "name": "Balu",
+        "url": "https://open.spotify.com/album/4NK8IntrUbxtrNfKkJJEPh"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317063,
+      "name": "Athimettani",
+      "url": "https://open.spotify.com/track/3JQulFhnD222tW1SWtV4fz"
+    },
+    {
+      "album": {
         "name": "Devara Part 1 [TELUGU]",
         "url": "https://open.spotify.com/album/7ixEMlvfmqKqb7yJjB7Chk"
       },
@@ -1298,7 +1320,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 271910,
       "name": "Endhuko Pichi Pichi",
       "url": "https://open.spotify.com/track/693359DlfpvoEfIYleKs05"

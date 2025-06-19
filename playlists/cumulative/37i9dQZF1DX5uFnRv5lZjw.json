@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Lavender Dreams",
+        "url": "https://open.spotify.com/album/0aov7qYtkFDrPA6NRedhO6"
+      },
+      "artists": [
+        {
+          "name": "Keane Wang",
+          "url": "https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152020,
+      "name": "Lavender Dreams",
+      "url": "https://open.spotify.com/track/1NONSMM1UVlXQSRzbMPh7O"
+    },
+    {
+      "album": {
         "name": "Leggere",
         "url": "https://open.spotify.com/album/4QzaKdPJYa0iJT4iyNH8V4"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,806 likes - 79 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,807 likes - 79 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 26 | [Prototype](https://open.spotify.com/track/0A4PMEsfKOHmUvvq0RnwRF) | [Mike Back](https://open.spotify.com/artist/1V1rrIHhRyi0NWTeYyuJvC) | [Prototype](https://open.spotify.com/album/5cpqVmiT2VHDKz8kTdZJlm) | 3:34 |
 | 27 | [Ystävyys, lempi ja rakkaus \(Friendship, Love and Passion\)](https://open.spotify.com/track/2iq63Y4rT6VH94mPhrbiXY) | [Enkel](https://open.spotify.com/artist/2rEjfqgJONyIRuJfDu8Lmj) | [Ystävyys, lempi ja rakkaus \(Friendship, Love and Passion\)](https://open.spotify.com/album/0un0vqp9xFkhC3CVKuecm9) | 3:23 |
 | 28 | [Hei Johanna](https://open.spotify.com/track/6zFQcOk19JPxI2pwfeAyn7) | [Harjula](https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp) | [Kauan Aikaa Sitten](https://open.spotify.com/album/4Q7W8ZhfuYWmzOyDWQcDuf) | 1:59 |
-| 29 | [Resources](https://open.spotify.com/track/4EkVU4yo7qPjT4V8JCxrDt) | [Job](https://open.spotify.com/artist/6IItghbe1pHvKiBX7iJFW3) | [Capital City](https://open.spotify.com/album/0S9ZQeMW3hTIcXoz8ENOO1) | 4:17 |
+| 29 | [Resources](https://open.spotify.com/track/4EkVU4yo7qPjT4V8JCxrDt) | [Job](https://open.spotify.com/artist/3liTUgV5jxrAdyz3BP3h6a) | [Capital City](https://open.spotify.com/album/0S9ZQeMW3hTIcXoz8ENOO1) | 4:17 |
 | 30 | [kiiltokuvaenkeli](https://open.spotify.com/track/2RcKKpzToHrZMc0xUFMggk) | [hannaeerika](https://open.spotify.com/artist/3xgPlTTFoGnbXyNRJ2Tbst) | [kiiltokuvaenkeli](https://open.spotify.com/album/2KzYA54CAWTWBS7rwkUTKF) | 2:29 |
 | 31 | [lifetime \- alt version](https://open.spotify.com/track/0uIW0SI9t4kIX1o770LwVB) | [Mot Furu](https://open.spotify.com/artist/1HxaDIIDYEz9tHAglYujya) | [Muted Sons, alternative EP](https://open.spotify.com/album/5a5nk2yFNYQoupmDbMlRcS) | 3:42 |
 | 32 | [Vuoristorata](https://open.spotify.com/track/2ED8kJtOHdRxtzMdlpbceC) | [Poni](https://open.spotify.com/artist/7tYOgz9oVProU4grzmiS0z) | [Vuoristorata](https://open.spotify.com/album/1L7KXao9nuhlII4Oz6YDEb) | 2:17 |

@@ -5403,6 +5403,32 @@
     },
     {
       "album": {
+        "name": "Live And In Color",
+        "url": "https://open.spotify.com/album/4F6xX5UGoiGGpLpItFYHzp"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191491,
+      "name": "Black Rothstein (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/1bPGJTmung59ebFL4BQDC5"
+    },
+    {
+      "album": {
         "name": "Live Evil (40th Anniversary Super Deluxe)",
         "url": "https://open.spotify.com/album/76pSxqLWTQeaTtE2CM3Tjj"
       },
@@ -14644,10 +14670,36 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 213349,
       "name": "Erewhon",
       "url": "https://open.spotify.com/track/4rm5bfZeNypM7oxK4fkXmm"
+    },
+    {
+      "album": {
+        "name": "Melanchronica",
+        "url": "https://open.spotify.com/album/3O8PFNPk6h4MIvV6nxPT9k"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "The Hics",
+          "url": "https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213349,
+      "name": "Erewhon",
+      "url": "https://open.spotify.com/track/6lyH7xoZsMRaerzUC2xK95"
     },
     {
       "album": {
@@ -33722,7 +33774,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 125263,
       "name": "NEW BOO - feat. Matt McGhee",
       "url": "https://open.spotify.com/track/3AbMv4JCKVq8Il0DwL8wgj"
@@ -37350,7 +37402,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214078,
-      "name": "Peter",
+      "name": "Peter - feat. Tech N9ne",
       "url": "https://open.spotify.com/track/2g4p2WtBT2Pvy7tNwoQYvI"
     },
     {
@@ -41394,7 +41446,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 171084,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/0lcWndf4ytjEIgf0MeskUp"
@@ -42476,7 +42528,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 178386,
       "name": "SHOTTI",
       "url": "https://open.spotify.com/track/4LkhQ4uaqALe7a18imblFQ"

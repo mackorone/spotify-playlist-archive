@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPfGQQdiNNNO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6jCxdxp9ZKUXa9kaAVlnx4">Jake Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410 likes - 18 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 411 likes - 18 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPfGQQdiNNNO.md) - [plain]
 | 17 | [Born In this Body](https://open.spotify.com/track/6vVxRyk3UieTug5o9ZeUhA) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:22 |
 | 18 | [Happy Head](https://open.spotify.com/track/7EzefciQSXjQdWQH58cv5l) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:06 |
 
-Snapshot ID: `Ab0acgAAAAB4wi0AYI4aBz+pouDtHU+o`
+Snapshot ID: `Ab0gEgAAAAAuM8PB5gp/H3oEaojGebAN`

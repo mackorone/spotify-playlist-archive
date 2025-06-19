@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 210232,
       "name": "Bir \u0130htimal Biliyorum",
       "url": "https://open.spotify.com/track/3UTNZ3EexySSNPfRkIpJ2d"
@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 210232,
       "name": "Bir \u0130htimal Biliyorum",
       "url": "https://open.spotify.com/track/3bwdzUVXBMgwBZzZKe4mh6"
@@ -6698,7 +6698,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 232106,
       "name": "Divane",
       "url": "https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n"
@@ -7242,7 +7242,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 203653,
       "name": "D\u00f6nsen Bile",
       "url": "https://open.spotify.com/track/6Ear9bhjbNi2oaqv5qlqlM"
@@ -13545,6 +13545,24 @@
     },
     {
       "album": {
+        "name": "Kendine D\u00fcnya",
+        "url": "https://open.spotify.com/album/6ifpbsUnG5sthrxVyYFHdp"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201032,
+      "name": "Kendine D\u00fcnya",
+      "url": "https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr"
+    },
+    {
+      "album": {
         "name": "Kennedy'i Ben Vurdum",
         "url": "https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq"
       },
@@ -13842,6 +13860,24 @@
       "duration_ms": 179054,
       "name": "Kor",
       "url": "https://open.spotify.com/track/2zmf8pmH6AJ9Nksn0xuLTX"
+    },
+    {
+      "album": {
+        "name": "Korkma Kalbim",
+        "url": "https://open.spotify.com/album/5tHOX7IVYWb5VgKpyDRvht"
+      },
+      "artists": [
+        {
+          "name": "Sancak",
+          "url": "https://open.spotify.com/artist/3IiSjfHNSsynS08uC6w9u3"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256060,
+      "name": "Korkma Kalbim",
+      "url": "https://open.spotify.com/track/5hdoDcWAZ4Ov6cntAR5MKN"
     },
     {
       "album": {
@@ -21232,7 +21268,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 220746,
       "name": "Tesir Alt\u0131nda",
       "url": "https://open.spotify.com/track/2CtLf9f4qAJC7ZVR0qBXWf"
@@ -22570,7 +22606,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 265964,
       "name": "Yank\u0131",
       "url": "https://open.spotify.com/track/4y3QBJf9E8yDJCEFbRK8xk"

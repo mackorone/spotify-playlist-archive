@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwil4x9oaqi.md) - [plain]
 
 > Enjoy the LE SSERAFIM WORLD TOUR \[EASY CRAZY HOT\] LIVE SET including the voices of them on stage! \(LE SSERAFIM의 무대 멘트와 목소리가 포함된 \[EASY CRAZY HOT\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,294 likes - 36 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,413 likes - 36 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwil4x9oaqi.md) - [plain]
 | 35 | [Ending Comment](https://open.spotify.com/track/4ksfd5U5snUClw1sARREPj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM WORLD TOUR \[EASY CRAZY HOT\] Audio liners](https://open.spotify.com/album/24AhXOuSBU84CBMiOartNR) | 0:39 |
 | 36 | [No\-Return \(Into the unknown\)](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 |
 
-Snapshot ID: `aEfcgQAAAABPhf5YA+L+lS/MKJWQ12zk`
+Snapshot ID: `aEfcgQAAAADBn/28OH9gPSrNgOrYU8AE`

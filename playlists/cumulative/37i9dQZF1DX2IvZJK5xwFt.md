@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Sleep Token
 
-792 songs - 2 day 1 hr 14 min
+794 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 | 2024-10-25 |  |
 | [Dystopia](https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Dystopia](https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH) | 4:37 | 2024-11-08 | 2025-01-25 |
 | [Désolé \(feat\. JJ Wilde\)](https://open.spotify.com/track/79JYhum5bquBcCQdwNc1Xm) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR), [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Désolé \(feat\. JJ Wilde\)](https://open.spotify.com/album/7rc8TzbmpfblcaKQ3M4hh4) | 3:02 | 2025-03-07 | 2025-03-28 |
-| [Easy Come, Easy Go](https://open.spotify.com/track/7CtlMZ6x0FPJJblcTpr49X) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Easy Come, Easy Go](https://open.spotify.com/album/0RBoLScfR90LWUrxu28GYC) | 2:34 | 2025-06-05 |  |
+| [Easy Come, Easy Go](https://open.spotify.com/track/7CtlMZ6x0FPJJblcTpr49X) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Easy Come, Easy Go](https://open.spotify.com/album/0RBoLScfR90LWUrxu28GYC) | 2:34 | 2025-06-05 | 2025-06-19 |
 | [Easy Now](https://open.spotify.com/track/5uXWyJvnSIot8vVu8M4GGj) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Easy Now](https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT) | 3:53 | 2023-01-20 | 2023-02-10 |
 | [Echolocate Your Love](https://open.spotify.com/track/0CLIYzcWpfAkEutSfa8HxA) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 3:24 | 2023-01-16 | 2023-02-10 |
 | [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 | 2022-09-22 | 2023-02-17 |
@@ -474,6 +474,7 @@
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-21 | 2022-08-17 |
 | [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 | 2022-09-01 | 2022-09-23 |
 | [Night Terror \- Radio Edit](https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Night Terror](https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC) | 6:01 | 2024-10-11 | 2025-04-03 |
+| [No Love](https://open.spotify.com/track/2BduAOYh1vv6kVYoXuzYp9) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [TV Movie/No Love](https://open.spotify.com/album/5aF47JUfFoGCAzPypjKpAW) | 1:58 | 2025-06-18 |  |
 | [No Rain, No Flowers](https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88) | 3:16 | 2025-05-15 | 2025-06-13 |
 | [No Return \- Extended Version From The Original Series “Yellowjackets”](https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [No Return \(Extended Version From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8) | 3:04 | 2023-04-13 | 2023-07-08 |
 | [No Roads Left](https://open.spotify.com/track/62pPrpXsLR3Hbdw6kkA99L) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight \(Deluxe Edition\)](https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q) | 3:48 | 2022-07-07 | 2022-09-02 |
@@ -658,6 +659,7 @@
 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-10-26 | 2023-12-23 |
 | [The Archer](https://open.spotify.com/track/3GoyJ49nxkZkOJ493lWvHM) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [The Archer](https://open.spotify.com/album/0AqWUVJH4SfdwUY76i43Rw) | 3:53 | 2025-03-27 | 2025-04-12 |
 | [The Battle Rages On \- Live in 95](https://open.spotify.com/track/5NysoJPYsqu2CSNQZMQ1rn) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Bombay Calling \(Live in 95\)](https://open.spotify.com/album/1jtvoaDptF8n966xLCqmvV) | 6:36 | 2022-08-18 | 2022-09-30 |
+| [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-06-18 |  |
 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-13 | 2023-07-14 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-21 | 2022-08-19 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-05 |  |
@@ -770,7 +772,7 @@
 | [Wicked Ways](https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:26 | 2022-05-06 | 2022-05-20 |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-05-06 | 2022-06-24 |
 | [Will Of The People](https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV) | 3:18 | 2022-06-02 | 2022-07-08 |
-| [Wind of no Change](https://open.spotify.com/track/1gGqd0eLe2XBwXKr3SxHKU) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Wind of no Change](https://open.spotify.com/album/1ngzziiE3nVGMP5zq8rmdC) | 4:52 | 2025-06-05 |  |
+| [Wind of no Change](https://open.spotify.com/track/1gGqd0eLe2XBwXKr3SxHKU) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Wind of no Change](https://open.spotify.com/album/1ngzziiE3nVGMP5zq8rmdC) | 4:52 | 2025-06-05 | 2025-06-19 |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2022-12-15 | 2023-05-26 |
 | [WISH U WERE DEAD](https://open.spotify.com/track/2OoVE4Womkp6V2zneoep8F) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [i'll be alright, right?](https://open.spotify.com/album/4B714tXFBvBXaXG9lcVf6P) | 2:36 | 2024-02-22 | 2024-03-01 |
 | [With Or Without You \- Songs Of Surrender](https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [With Or Without You \(Songs Of Surrender\)](https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0) | 3:14 | 2023-01-26 | 2023-05-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Lidia Buble
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,259 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,283 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [O femeie iubește mult](https://open.spotify.com/track/5Ch1v28VJ8IkfiiqR3h4KY) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [O femeie iubește mult](https://open.spotify.com/album/7GxI7LsSi4Hf4TjKDxYtCC) | 3:02 |
 | 50 | [Una ca tine](https://open.spotify.com/track/4s6Sug2P5890BWCawM2yZd) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Una ca tine](https://open.spotify.com/album/1gYKXmsXX7IncbqWXcq2oc) | 2:44 |
 
-Snapshot ID: `aEs/6gAAAADQct9Zo86t4gSEPJvQLnbH`
+Snapshot ID: `AAAAAGbqN6cuHTu9577xPZ77WvVNO3PN`

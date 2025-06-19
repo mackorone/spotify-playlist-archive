@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 204 songs - 11 hr 17 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 205 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,5 +212,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 202 | [You Know How It Is](https://open.spotify.com/track/2rj5XqPLceqhzK65BMdpu6) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:14 |
 | 203 | [Only Acting](https://open.spotify.com/track/3JqzejMCeM5o79cQy6HC3a) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Only Acting](https://open.spotify.com/album/6QCE2058ztBYq8YouZJs2S) | 3:49 |
 | 204 | [Last Night](https://open.spotify.com/track/01r1q2OykW2e3L17kB5bi3) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:47 |
+| 205 | [Fools Gold](https://open.spotify.com/track/3GrmuJIlhZs8O6SpVhR8yx) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Bars Mitzvah](https://open.spotify.com/album/3Fc5H7NJ2V8SNrUHnpBvV2) | 2:55 |
 
-Snapshot ID: `AAAelST0QwgLM90V9we2lPkZtAqKtbqC`
+Snapshot ID: `AAAelqfpaHGyZr0VsojOmDS1gci16jlw`

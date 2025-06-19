@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > I Clipse sono tornati, Pusha T e Malice 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,903 likes - 120 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,900 likes - 120 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

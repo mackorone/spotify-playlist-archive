@@ -2,9 +2,9 @@
 
 ### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: 금주를 부탁해 \(Second Shot at Love\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: 미지의 서울 \(Our Unwritten Seoul\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,065 songs - 2 day 16 hr 40 min
+1,066 songs - 2 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [I can't love anymore](https://open.spotify.com/track/26TLhUe2t436udQCo2ip8i) | [Seo J](https://open.spotify.com/artist/5zAvIIMHD6Iar6M9ot3fWu) | [Bravo, My Life OST Part.21](https://open.spotify.com/album/5q7yMgmZjNe3bRHaYli9JA) | 3:33 | 2022-07-04 | 2022-11-04 |
 | [i can’t wait too long](https://open.spotify.com/track/4Uk6TLwgOaFrNLDD2dacJ8) | [HAMIN\(BXB\)](https://open.spotify.com/artist/00eWh6l16At6mJJmVCxCzV), [HYUNWOO\(BXB\)](https://open.spotify.com/artist/5udPWCzjoVBRkSvS1BVRsQ), [SIWOO\(BXB\)](https://open.spotify.com/artist/3Q1C7X0Pi8cvM9cilyu0Tf) | [Love Mate OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/1SkOPkJpNQaRWeAKFfsd1l) | 3:34 | 2023-06-02 | 2023-11-03 |
 | [I Fall In Love](https://open.spotify.com/track/3kmiZLsnhfqndAKiJMib2Q) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Live your own life OST Part\. 4 \(Soundtrack\)](https://open.spotify.com/album/1nsl7ZKyqy9p7wdINmEYcR) | 3:52 | 2024-01-05 | 2024-08-03 |
-| [I Feel It Now](https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When The Phone Rings, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/09APlXxudP3YywxqQnH6dU) | 3:53 | 2025-01-21 |  |
+| [I Feel It Now](https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When The Phone Rings, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/09APlXxudP3YywxqQnH6dU) | 3:53 | 2025-01-21 | 2025-06-19 |
 | [I Feel You](https://open.spotify.com/track/59Dlr7Dy3GcNhaDcGzXMVh) | [Felic](https://open.spotify.com/artist/1fwX2KTcFr7W0slZkjWnmC) | [Social Savvy Class 101 OST Part.3](https://open.spotify.com/album/5n4TDmmzuczvIDCrOj8hkR) | 3:14 | 2024-11-12 | 2025-05-12 |
 | [I FLY](https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [오늘의 웹툰 \(Original Soundtrack\) Pt\. 1](https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp) | 3:50 | 2022-09-19 | 2023-02-25 |
 | [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 | 2022-08-12 | 2022-12-20 |
@@ -741,6 +741,7 @@
 | [Run into You](https://open.spotify.com/track/65wwXe1As16Ls83X372D2v) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Dog Knows Everything \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/5GDpQoVKl2eZoSHSuuIR4r) | 4:00 | 2024-10-17 | 2025-03-14 |
 | [Run Run](https://open.spotify.com/track/5EBtIi8j2ARUCwxzB5gc82) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:34 | 2024-05-24 |  |
 | [Runaway](https://open.spotify.com/track/2ZDoLZDdB5fewI189RtKaO) | [SIYEON](https://open.spotify.com/artist/5iKOmg1wFizVwajKeiyzvf) | [Red Swan OST Part.5](https://open.spotify.com/album/30mVRCoDlVk8K5av0nTncU) | 2:53 | 2024-08-02 | 2025-01-22 |
+| [Running](https://open.spotify.com/track/33KbiTUjTGGedXHEG2x3o7) | [RICKY](https://open.spotify.com/artist/4mcsxXTo5xt1vi48nRg0qe), [KIM GYU VIN](https://open.spotify.com/artist/51tgBC1aNg55QKOV9bTmPn), [HAN YU JIN](https://open.spotify.com/artist/5IhVhQmbV61WmPrTm1gIPP), [KIM JI WOONG](https://open.spotify.com/artist/5e51asJO6l5s7jEKKZfbxi) | [I AM A RUNNING MATE \(Original Television Soundtrack\) Special Track](https://open.spotify.com/album/2OvNQjMvT4IVSDK9NcOKQP) | 3:09 | 2025-06-18 |  |
 | [Sad Ending \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 5\]](https://open.spotify.com/track/5qYNQiXaRyUV2JBux6kIXv) | [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [Sad Ending \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 5\]](https://open.spotify.com/album/15WI2IO8kqv9cChrbc65A2) | 3:27 | 2021-12-19 | 2022-01-04 |
 | [Sailing](https://open.spotify.com/track/5AGCgmyeB9Slzhjidzhh06) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [﻿Cinderella at 2AM OST Part 3](https://open.spotify.com/album/1ZPvFQZWpamEhvioNAML8W) | 3:50 | 2024-09-02 | 2025-02-01 |
 | [Save Me](https://open.spotify.com/track/39vISgNQGre4KKfCRy1PVC) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Save Me\(Hope or Dope Original Soundtrack\)](https://open.spotify.com/album/2c2SrqatPXT89GNKI1becR) | 3:20 | 2022-04-12 | 2022-05-04 |

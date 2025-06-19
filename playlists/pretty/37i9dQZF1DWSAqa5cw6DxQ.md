@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,693 likes - 110 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,722 likes - 110 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 109 | [Breaking Clouds](https://open.spotify.com/track/4NdxN0c4GC6LWIkZCRMnxR) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [Breaking Clouds](https://open.spotify.com/album/0u68xJzLF2lNf8jiZf0pG8) | 3:02 |
 | 110 | [Adventurous](https://open.spotify.com/track/6AjiIsSmEBzpPhMyFQoFts) | [Ezra Santos](https://open.spotify.com/artist/3sTuSeAY6N4wIUeV4zVmbX) | [Adventurous](https://open.spotify.com/album/1Rqe6lIGKSpz4NpU3fnWAj) | 3:04 |
 
-Snapshot ID: `aFFzBwAAAADtqTMhLhZ266TeCz//TLsA`
+Snapshot ID: `aFFzBwAAAAD3nfgfpTf8PaFMkUlaxVfl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 549 songs - 1 day 12 hr 26 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 552 songs - 1 day 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -557,5 +557,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 547 | [Turn the Page](https://open.spotify.com/track/7eHt7rcLWNXREbck9PAsHA) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 3:15 |
 | 548 | [Heartbreak](https://open.spotify.com/track/2DACCH3WlvR77DxBTBRkS0) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Better Dreaming](https://open.spotify.com/album/0TmYypxPNSZe9UqAlQv8F3) | 3:29 |
 | 549 | [Cry Mfer](https://open.spotify.com/track/5FZc0K8y8Z2w1NJ8NIXKwc) | [My Idea](https://open.spotify.com/artist/7rfkR5Nc8l4eA34a7eazoW) | [CRY MFER](https://open.spotify.com/album/7g4M2kfMKd7bFJbYBPxWTD) | 4:14 |
+| 550 | [SOFT GIRL SUMMER](https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:32 |
+| 551 | [Thief](https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:00 |
+| 552 | [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 4:47 |
 
-Snapshot ID: `AAAHLm9+d0Dfv3VcVBVPYM/Hk4NLZ87H`
+Snapshot ID: `AAAHMdrG7YrzOXHbyxOhA0DsGurIEuXk`

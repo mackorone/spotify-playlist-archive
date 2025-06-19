@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,114,825 likes - 675 songs - 1 day 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,114,970 likes - 675 songs - 1 day 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -684,4 +684,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 674 | [akissou](https://open.spotify.com/track/1yQccxbOXGsIeK7DMPP9Pd) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [akissou](https://open.spotify.com/album/0MYiKoNJO8nBpdRukJARUK) | 2:22 |
 | 675 | [Shimmer](https://open.spotify.com/track/22wNJY4P4mwQJh0TupVykW) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [LW Beats](https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3) | [Shimmer](https://open.spotify.com/album/52x2AVmjbEPTXxZ3l7jUOr) | 2:21 |
 
-Snapshot ID: `aEvKGgAAAADzeyJK0i23duhXNf3A35q7`
+Snapshot ID: `aFK20AAAAABHqHoFPzYewzHOMU8tbSUe`

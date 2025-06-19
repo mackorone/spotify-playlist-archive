@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Fléau Dicaprio
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,543 likes - 74 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,556 likes - 74 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 73 | [Froid](https://open.spotify.com/track/0qhivOTi3fwGBOdcw5kgXk) | [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Froid](https://open.spotify.com/album/4MY0Xa0AHpODwjKteoLqo6) | 2:47 |
 | 74 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 |
 
-Snapshot ID: `aEuicgAAAACJY5dBonPhpNGT2BljEtAc`
+Snapshot ID: `AAAAANk5WE8DCIebDTUB0/M/sDxXfTWf`

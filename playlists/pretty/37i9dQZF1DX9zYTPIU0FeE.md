@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Kids Love Jazz curate Youth Day, featuring their favourites across the scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,047 likes - 46 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,050 likes - 46 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

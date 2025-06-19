@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 
 > it’s giving medieval castlecore✨🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,596 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,668 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [For The Love Of A Princess](https://open.spotify.com/track/22yxHt6UqZpH7tP6W4PooI) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Braveheart \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11RrIE8R4WdmybwaItRa97) | 4:07 |
+| 1 | [Minuet in G Minor, HWV 434/4 \(Arr\. for Harp & Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/6n1X3QiRDg8CAYvK5N2S9Q) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Minuet in G Minor, HWV 434/4 \(Arr\. for Harp & Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/album/29pJy0Ug8Kpd14lqmnkDXm) | 2:43 |
 | 2 | [Soliloquies on 3 Welsh Folk Songs: No\. 2, Suo gân](https://open.spotify.com/track/7sMvYO5Ewgmsd4f9pX01ig) | [Haldon Evans](https://open.spotify.com/artist/34Dh8u7A4ikgltN2chKCx2), [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [H\. Evans: Soliloquies on 3 Welsh Folk Songs: No\. 2, Suo gân](https://open.spotify.com/album/7AI1B64FapSsG8vdBu68YD) | 3:53 |
-| 3 | [Minuet in G Minor, HWV 434/4 \(Arr\. for Harp & Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/6n1X3QiRDg8CAYvK5N2S9Q) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Minuet in G Minor, HWV 434/4 \(Arr\. for Harp & Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/album/29pJy0Ug8Kpd14lqmnkDXm) | 2:43 |
+| 3 | [For The Love Of A Princess](https://open.spotify.com/track/22yxHt6UqZpH7tP6W4PooI) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Braveheart \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11RrIE8R4WdmybwaItRa97) | 4:07 |
 | 4 | [Scarborough Fair \(Arr\. Parkin for Cello and Guitar\)](https://open.spotify.com/track/4wlNPczIullwvmwb4x0ltz) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 3:14 |
 | 5 | [Emerald and Stone](https://open.spotify.com/track/1i1qDioBSMR3YQ2xKSi75m) | [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Kammerorchester Basel](https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU) | [Emerald and Stone](https://open.spotify.com/album/4EQe1P20TVDfxwRKDp3El5) | 2:15 |
 | 6 | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/track/53DrPPynaJwQyz4EZiI4aM) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/album/1k8SsRwgXOxrH4W45eDpv9) | 2:02 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 | 64 | [Quan je voy le duç](https://open.spotify.com/track/3wRVUvHXCeZoZ7XAtId665) | [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Ecco la Primavera \- Florentine Music of the 14th Century](https://open.spotify.com/album/1ZvEo8SLwqyeVVzfxzm42r) | 2:22 |
 | 65 | [Tavern of Heroes](https://open.spotify.com/track/0KIcB3cswZWWStWOW4IVez) | [Valkyrion](https://open.spotify.com/artist/1xkBfXFYaz0S8m15508YIn) | [Medieval Tavern](https://open.spotify.com/album/7kDxfTsQqPPaRXlWOgXjk5) | 1:28 |
 
-Snapshot ID: `aFEzZAAAAABoiuLW7zzW02twi8HmRVRv`
+Snapshot ID: `aFLcqwAAAACqEpIUDWFqrGAIx7e55Ox2`

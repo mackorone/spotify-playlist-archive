@@ -25727,6 +25727,28 @@
     },
     {
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nonna",
+          "url": "https://open.spotify.com/artist/6maPmKkdwM4eyhz5O4lbkP"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "ordinary things (feat. Nonna)",
+      "url": "https://open.spotify.com/track/4mHM5d2fK3n8xgymjf92w2"
+    },
+    {
+      "album": {
         "name": "SINK NOW, SWIM LATER",
         "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
       },

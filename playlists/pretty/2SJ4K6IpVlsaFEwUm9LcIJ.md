@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,088 likes - 58 songs - 3 hr 26 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,096 likes - 57 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,14 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 46 | [Warm Canto](https://open.spotify.com/track/24US80Wtwk4KmaqktZW8VZ) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp), [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [The Quest](https://open.spotify.com/album/7AFeyZd2N1i4LTzIZ2V8u1) | 5:40 |
 | 47 | [Wild Goose Chase](https://open.spotify.com/track/6gRn4Cs6bJeo0RP7XXxn95) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:06 |
 | 48 | [Can U Read Me?](https://open.spotify.com/track/5VQctXg4C2R2bEiIxjEeeS) | [Nite\-Funk](https://open.spotify.com/artist/2qpbJXtYrpwyNwgXM3MRsn) | [Believer / Can U Read Me?](https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil) | 3:35 |
-| 49 | [Single](https://open.spotify.com/track/3ApFIzLLV6Gkgu6zWh9dcn) | [Brittason](https://open.spotify.com/artist/0yoG2QCHyddnk7H4UB06iX) | [Single](https://open.spotify.com/album/4bw8kjkCJtpx1YGNpaj16q) | 1:30 |
-| 50 | [Improviso](https://open.spotify.com/track/3YlmYJSMk3uoSHcDXK2SUK) | [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Braziliana](https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST) | 3:08 |
-| 51 | [LOVE ME, HATE ME](https://open.spotify.com/track/0qtODBXCDFVwrMFNes78TU) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd) | [FAST TRAX 3](https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq) | 3:45 |
-| 52 | [The Jaunt](https://open.spotify.com/track/3FGtaWXYYsnxGjnlhDWwT7) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In the Moment](https://open.spotify.com/album/6etxf5sFetv1fKaOT5TtWe) | 2:42 |
-| 53 | [Believer \- Fingers Deep\-Funk Remix](https://open.spotify.com/track/6Pg1k2lHck2HUrAcMuWz4o) | [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Believer / Can U Read Me?](https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil) | 8:38 |
-| 54 | [Kiss Me on the Bus](https://open.spotify.com/track/7b8BgGpMDmNjkOzfMfxCzi) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim](https://open.spotify.com/album/1yO2d1lmmu0tkDf3trvOm7) | 2:53 |
-| 55 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
-| 56 | [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 |
-| 57 | [Mélodie du crépuscule](https://open.spotify.com/track/18eISpOzQPIXDBKPm2e5dZ) | [Jacques Dupont](https://open.spotify.com/artist/6S4VOqONTKvPJ5UMvndZJ9) | [Mélodie du crépuscule](https://open.spotify.com/album/5xVkZ1SdoJ1SlBayQrzH2A) | 1:58 |
-| 58 | [Pell Mell](https://open.spotify.com/track/0IDWNMoLorAHuNlXwtfyn2) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Days of Heaven](https://open.spotify.com/album/3gEZf0bRhUaBevLRykTDZ5) | 3:22 |
+| 49 | [Improviso](https://open.spotify.com/track/3YlmYJSMk3uoSHcDXK2SUK) | [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Braziliana](https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST) | 3:08 |
+| 50 | [LOVE ME, HATE ME](https://open.spotify.com/track/0qtODBXCDFVwrMFNes78TU) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd) | [FAST TRAX 3](https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq) | 3:45 |
+| 51 | [The Jaunt](https://open.spotify.com/track/3FGtaWXYYsnxGjnlhDWwT7) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In the Moment](https://open.spotify.com/album/6etxf5sFetv1fKaOT5TtWe) | 2:42 |
+| 52 | [Believer \- Fingers Deep\-Funk Remix](https://open.spotify.com/track/6Pg1k2lHck2HUrAcMuWz4o) | [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Believer / Can U Read Me?](https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil) | 8:38 |
+| 53 | [Kiss Me on the Bus](https://open.spotify.com/track/7b8BgGpMDmNjkOzfMfxCzi) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim](https://open.spotify.com/album/1yO2d1lmmu0tkDf3trvOm7) | 2:53 |
+| 54 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
+| 55 | [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 |
+| 56 | [Mélodie du crépuscule](https://open.spotify.com/track/18eISpOzQPIXDBKPm2e5dZ) | [Jacques Dupont](https://open.spotify.com/artist/6S4VOqONTKvPJ5UMvndZJ9) | [Mélodie du crépuscule](https://open.spotify.com/album/5xVkZ1SdoJ1SlBayQrzH2A) | 1:58 |
+| 57 | [Pell Mell](https://open.spotify.com/track/0IDWNMoLorAHuNlXwtfyn2) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Days of Heaven](https://open.spotify.com/album/3gEZf0bRhUaBevLRykTDZ5) | 3:22 |
 
-Snapshot ID: `AAAMnrEiffOvpaAPtbzZZfFpyuHaECoL`
+Snapshot ID: `AAAMnx7axqvlF+fPuO6zfpjFJAmuGsio`

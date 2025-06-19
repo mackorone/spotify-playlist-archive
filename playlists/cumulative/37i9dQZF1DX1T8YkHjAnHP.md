@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-247 songs - 23 hr 8 min
+249 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Doshchyk Nakrapaye \- Bedouin Rework](https://open.spotify.com/track/0RN1tsVNhDyxLhGtLwBVEA) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [The Bedouin Reworks of DakhaBrakha](https://open.spotify.com/album/5fbYGyiRWLkzbbE69ikqZH) | 7:29 | 2022-08-02 | 2022-12-13 |
 | [A Jem Be](https://open.spotify.com/track/4MgTeDDJH4FjhaCIVwkix2) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Play EP](https://open.spotify.com/album/0f9gNyiCXF52T6xAgxzNIT) | 5:59 | 2023-06-12 | 2025-02-27 |
 | [Addicted To You](https://open.spotify.com/track/3iAVA8zThSPcZpsMlyefEj) | [Umami](https://open.spotify.com/artist/67qmoqrkr162LFix4Czmlv) | [Soltornet EP](https://open.spotify.com/album/3liCba1IFwIRcXv2Qrxa79) | 6:54 | 2022-08-02 | 2023-09-12 |
+| [AGAMA](https://open.spotify.com/track/64sJvvPiVc3zy3VZxadSkD) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [OSFUR](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO), [The Scripture](https://open.spotify.com/artist/7nGeoIGnJVQTHcDIAqCStR) | [AGAMA EP](https://open.spotify.com/album/3sV3y01W4huNVSd54gOwod) | 4:12 | 2025-06-18 |  |
 | [Aliens](https://open.spotify.com/track/7gSkM5Q3rqCoxo0lNDyKLw) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Aliens](https://open.spotify.com/album/3kVuuASjIPzf7qHMus6qRP) | 3:40 | 2023-03-20 | 2024-01-17 |
 | [Aliens \- Santiago Garcia Remix](https://open.spotify.com/track/7isn1yZ8uYcqWcQrVCTqNt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Temple Of Dreams \(Remixes Part 5\)](https://open.spotify.com/album/6rjJTD1FWGbijpXLIoz001) | 4:01 | 2024-01-30 | 2024-04-19 |
 | [All I Need](https://open.spotify.com/track/56I4OIGTDhBmX8ZSJJDf1k) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Tim Baresko](https://open.spotify.com/artist/6Uc1kxbiSTggT6cmqjrLdp) | [All I Need](https://open.spotify.com/album/2tP0kTgAwmBAt4zkWbFQ8g) | 3:04 | 2022-08-02 | 2023-08-29 |
@@ -25,6 +26,7 @@
 | [Amuse](https://open.spotify.com/track/1qK9yeRfOQop2yj6wOqoLv) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Amuse EP](https://open.spotify.com/album/5RhrNAJ8VGK4X3hnvdQhXV) | 5:54 | 2023-12-25 | 2024-09-07 |
 | [Apocalypse](https://open.spotify.com/track/7xNWF3TIV0pvYxpVAfBraJ) | [Dumming Dum](https://open.spotify.com/artist/01hg7l1HFSP3y7oSWg05mB) | [Apocalypse](https://open.spotify.com/album/5ACHqSwWKAmPEna4XHTl0p) | 3:46 | 2023-08-28 | 2025-05-15 |
 | [April](https://open.spotify.com/track/2CfAxVNSrruS7BcbqDWOuL) | [Capoon](https://open.spotify.com/artist/6aO0WPJPV318xBCEVSJ5td), [Roos Denayer](https://open.spotify.com/artist/0tsKdteyh5ArMn3pAUiSff) | [April EP](https://open.spotify.com/album/0cP1JVdGzZQTVV4WbbWt4P) | 8:51 | 2022-08-02 | 2023-03-21 |
+| [AREA 3344](https://open.spotify.com/track/64ceiT8Q0fVfEvNUl3LMyA) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [OSFUR](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO), [The Scripture](https://open.spotify.com/artist/7nGeoIGnJVQTHcDIAqCStR) | [AGAMA EP](https://open.spotify.com/album/3sV3y01W4huNVSd54gOwod) | 4:19 | 2025-06-18 |  |
 | [Ayee](https://open.spotify.com/track/5K3ICC1nF38eRWrmMZYMCi) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7) | [Ayee](https://open.spotify.com/album/2YTu2sDRkgWG5SqYPXOvLe) | 2:58 | 2023-06-12 | 2024-09-07 |
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-07-31 | 2024-09-07 |
 | [Bad Boys Ft Diddy \- Matthias Tanzmann Remix](https://open.spotify.com/track/2hCEBzBn9rSkSUyeMxoZkh) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK) | [Bad Boys](https://open.spotify.com/album/1RiR3zFbVWboM5ceNCwI58) | 5:41 | 2023-09-25 | 2025-05-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8UvzdN3YBP.md) - [plain]
 
 > Music from and inspired by "Glass Onion: A Knives Out Mystery," coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,344 likes - 35 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,349 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

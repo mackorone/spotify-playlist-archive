@@ -5135,6 +5135,24 @@
     },
     {
       "album": {
+        "name": "KiLELE",
+        "url": "https://open.spotify.com/album/402gAvYew9C7igBTsZgPSz"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158944,
+      "name": "KiLELE",
+      "url": "https://open.spotify.com/track/404Il8wdrtHc2Wgcl0rfjT"
+    },
+    {
+      "album": {
         "name": "Kilometre",
         "url": "https://open.spotify.com/album/3t3tbmUPaWrFTUriPUeiXc"
       },
@@ -6918,7 +6936,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 144050,
       "name": "MYKILLI",
       "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"

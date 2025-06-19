@@ -4,7 +4,7 @@
 
 > Nieuwe alternative & rock releases\. Cover: shame
 
-462 songs - 1 day 2 hr 51 min
+463 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 | 2025-03-06 | 2025-06-03 |
 | [Better Than God](https://open.spotify.com/track/6PXg4maKBeSFlhiFPbGap2) | [RHEA](https://open.spotify.com/artist/3iTqZTjeziB8WtVJeIUrLD) | [Better Than God](https://open.spotify.com/album/50DXKDGoGawgW5QzLcXkZv) | 3:16 | 2024-09-05 | 2024-11-23 |
 | [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 | 2024-10-04 | 2025-01-07 |
-| [Big Fun](https://open.spotify.com/track/5nSRWwpBVaHBjrsBbfKE7G) | [Glitterpaard](https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd) | [Big Fun](https://open.spotify.com/album/0FHQOprx0mrKAMUOt52ZC3) | 3:34 | 2025-04-04 |  |
+| [Big Fun](https://open.spotify.com/track/5nSRWwpBVaHBjrsBbfKE7G) | [Glitterpaard](https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd) | [Big Fun](https://open.spotify.com/album/0FHQOprx0mrKAMUOt52ZC3) | 3:34 | 2025-04-04 | 2025-06-19 |
 | [Big Stepper](https://open.spotify.com/track/47x33fckrWvLk82Hc4cJfK) | [Real Farmer](https://open.spotify.com/artist/19lSZSwxm5y6ihi5mODLaK) | [Big Stepper](https://open.spotify.com/album/5cT2fT6DwOXIY0hgrBWhr6) | 2:38 | 2025-05-09 |  |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-06-24 | 2024-09-06 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-07 | 2025-04-18 |
@@ -378,6 +378,7 @@
 | [Strawberry](https://open.spotify.com/track/6556dVFzfiI5MK1lb2PH5t) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Strawberry](https://open.spotify.com/album/3SbYi9fNBxoTSpaVrz4jFO) | 4:13 | 2024-08-30 | 2024-10-05 |
 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 | 2024-06-24 | 2024-07-10 |
 | [Stray Dog \- Session 388](https://open.spotify.com/track/1TmUHwM2umXy3JF6Sz1vTG) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [Stray Dog \(Session 388\)](https://open.spotify.com/album/4SJ0GH4mcLsSpiKxrNR1nd) | 3:38 | 2024-09-05 | 2024-10-23 |
+| [Stronger](https://open.spotify.com/track/7wnZ0ccUMn79s9JMTPRkH1) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Stronger](https://open.spotify.com/album/7AicglcIa2LDkVNzhhFqTI) | 3:13 | 2025-06-18 |  |
 | [Stupid Game, Stupid Prize](https://open.spotify.com/track/2uIrXW4Pupp4pP98Rgtoff) | [The Greater Good](https://open.spotify.com/artist/2rR8uLoc8TX8dfxCRUkgWn) | [Stupid Game, Stupid Prize](https://open.spotify.com/album/5nbJldT4geqSmIF2PpMHuR) | 2:37 | 2025-01-23 | 2025-04-05 |
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-07 | 2025-04-18 |
 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 | 2025-03-13 | 2025-06-03 |

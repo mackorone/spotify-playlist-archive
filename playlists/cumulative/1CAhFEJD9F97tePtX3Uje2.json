@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "LIMIT",
+        "url": "https://open.spotify.com/album/4ZM9OANaQdu2baFIfI3Pzs"
+      },
+      "artists": [
+        {
+          "name": "LOSTMANE",
+          "url": "https://open.spotify.com/artist/2ntaPzscRw8GRvBFF0SUlh"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "LIMIT",
+      "url": "https://open.spotify.com/track/1Rs0HacYiBEC4NWm3r4GBh"
+    },
+    {
+      "album": {
         "name": "Limit",
         "url": "https://open.spotify.com/album/57C6FlZwT2L0p3pqemGmi5"
       },

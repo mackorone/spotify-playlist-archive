@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Kevin Abstract
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,979 likes - 98 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,973 likes - 98 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

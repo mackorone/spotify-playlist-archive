@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Wentzel, Nicola Dreyer,  CHARLIZE BERG, Loufi, Glaskas, en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,898 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,907 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 46 | [Môre Dellie](https://open.spotify.com/track/6iO41zPirGpNHwK45gokzE) | [Herman Kleinhans](https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC) | [Môre Dellie](https://open.spotify.com/album/6K1aUGcmyt0SvKlwZwx2cJ) | 3:47 |
 | 47 | [Moes Maar Ek Moenie](https://open.spotify.com/track/17Sqz5allooXiGaO6VzxQU) | [Liza Nel](https://open.spotify.com/artist/2A972WrIIrzfdsI5IeSS3z) | [Moes Maar Ek Moenie](https://open.spotify.com/album/1Msqqo7bcdmpMrgD8YEzTj) | 2:57 |
 | 48 | [Bakkie In Die Land](https://open.spotify.com/track/2432rSufmYmFZmRQ5TKuDj) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Bakkie In Die Land](https://open.spotify.com/album/56R1XIxyMF7PDewMC3K3dE) | 3:08 |
-| 49 | [Sy \(Remix\)](https://open.spotify.com/track/1MLqP7XwOdw3isRSj4SXyw) | [Pieter Marcato](https://open.spotify.com/artist/5Aam1RqgWsQpwMJsG7TNzA) | [Sy \(Remix\)](https://open.spotify.com/album/28VEmDyFAWOYXxF8VU5yRL) | 3:01 |
+| 49 | [Sy \- Remix](https://open.spotify.com/track/1MLqP7XwOdw3isRSj4SXyw) | [Pieter Marcato](https://open.spotify.com/artist/5Aam1RqgWsQpwMJsG7TNzA) | [Sy \(Remix\)](https://open.spotify.com/album/28VEmDyFAWOYXxF8VU5yRL) | 3:01 |
 | 50 | [Woeste Manne Van Worcester](https://open.spotify.com/track/0wlnohG52coUKnHq0CxRl7) | [Armand Steenkamp](https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5) | [Woeste Manne Van Worcester](https://open.spotify.com/album/0qeAeQD2UHKYBJUV7HiwAW) | 3:23 |
 | 51 | [Energie](https://open.spotify.com/track/5HmXnJcxVO2V5gkJn7DY47) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0) | [Energie](https://open.spotify.com/album/47V7p2khBV6ezW5QPVBoXl) | 2:47 |
 | 52 | [DSK](https://open.spotify.com/track/7fp78j34hXBr9N7EkluD49) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Die Ruimte](https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql) | 2:19 |

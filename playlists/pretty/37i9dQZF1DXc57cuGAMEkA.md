@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 藤井 風, Mark Ronson, j\-hope, ずっと真夜中でいいのに。, Jax Jones & Ado, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,412 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,405 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 84 | [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 |
 | 85 | [Sending Rockets to \(tha\) Moons](https://open.spotify.com/track/4rQLXZG972EENQgaVzsgrH) | [Silent Poets](https://open.spotify.com/artist/0v8kJy6pfyJsO20V77miAI), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj) | [Sending Rockets to \(tha\) Moons](https://open.spotify.com/album/0LUBNctn2M6FjsvqEQlRnO) | 3:50 |
 
-Snapshot ID: `aEuiYwAAAAAMwItbphHlf7S9WVVeKBj7`
+Snapshot ID: `aFI82wAAAADlk/KAHtiTYtxlo8ngLI+2`

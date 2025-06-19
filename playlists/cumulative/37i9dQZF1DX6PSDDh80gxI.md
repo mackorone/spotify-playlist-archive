@@ -2,7 +2,7 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Coez, Franchino e Tommaso Paradiso sulla stessa traccia non li avevi mai sentiti, vero?
+> Coez ha un nuovo album ed è sulla cover di Indie Italia 🙂‍↕️
 
 321 songs - 16 hr 57 min
 

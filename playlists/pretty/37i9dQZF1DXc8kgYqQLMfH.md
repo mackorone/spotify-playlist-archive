@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,450 likes - 400 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,452 likes - 400 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 180 | [Feca Dreaming](https://open.spotify.com/track/1o2uZSeGGny9JwUwC5OjNH) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Feca Dreaming](https://open.spotify.com/album/6J1P0Nr20nzQ3gc9pjpUrf) | 2:32 |
 | 181 | [The Snake](https://open.spotify.com/track/0lIHz63qelEXD9DALn5Qv6) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [The Snake](https://open.spotify.com/album/5RyZDHHECNTeKIKMzaOyBi) | 2:08 |
 | 182 | [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 |
-| 183 | [snowy day](https://open.spotify.com/track/3D0Bq5DyCqMzb1NxOh8XDR) | [quietbeat](https://open.spotify.com/artist/6QA0s1mjWAjVWB54l9iccR), [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [snowy day](https://open.spotify.com/album/7k0sSABmhBwNBu9WGcjvMW) | 3:04 |
+| 183 | [snowy day](https://open.spotify.com/track/3D0Bq5DyCqMzb1NxOh8XDR) | [quietbeat](https://open.spotify.com/artist/6QA0s1mjWAjVWB54l9iccR), [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [snowy day](https://open.spotify.com/album/7k0sSABmhBwNBu9WGcjvMW) | 3:04 |
 | 184 | [Topics n things](https://open.spotify.com/track/3fM2ycK3tZBGIX1w115Ie4) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Topics n things](https://open.spotify.com/album/0rA2AyTXSV0ROzNKE9JeYK) | 2:11 |
 | 185 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 |
 | 186 | [Lavender](https://open.spotify.com/track/3dvmaIJTD7TA8WTabeXweY) | [Filae](https://open.spotify.com/artist/1fetaNfyFJu3bNYz05XTyd) | [Lavender](https://open.spotify.com/album/0GbIQxI93XKfjLjIlPXwnY) | 1:19 |
@@ -290,7 +290,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 280 | [Shelter](https://open.spotify.com/track/0plb4PEtiPxW7Qn8rlqd0Y) | [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt), [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK), [Deez Agree](https://open.spotify.com/artist/2xDHLlqk3BQ5vPY1ryXoNz) | [Shelter](https://open.spotify.com/album/12ykqkSLlZYjv70N4juZiO) | 2:19 |
 | 281 | [Cinematic](https://open.spotify.com/track/1VY8ZZN6iSdKqcP6faWMsS) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Cinematic](https://open.spotify.com/album/5yBSc0JxyghVBGMvoZmkhM) | 1:35 |
 | 282 | [Recovery Time](https://open.spotify.com/track/3wlyyrrECCUY4NHrzTuiMc) | [Jimmy Hill](https://open.spotify.com/artist/485FTYJV3xFeqZ8K540JPJ) | [Recovery Time](https://open.spotify.com/album/7bHZoY20yaRS4Z4pyaMm0R) | 1:44 |
-| 283 | [rainy night](https://open.spotify.com/track/1lKjy0ktW6cm4JLivAAD6K) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Hello Winter '23](https://open.spotify.com/album/50Guwkw2IvGqa6jMLjzjKl) | 1:46 |
+| 283 | [rainy night](https://open.spotify.com/track/1lKjy0ktW6cm4JLivAAD6K) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Hello Winter '23](https://open.spotify.com/album/50Guwkw2IvGqa6jMLjzjKl) | 1:46 |
 | 284 | [After All](https://open.spotify.com/track/678kbKlQrJoo1iQHa9FcYs) | [Luther Callahan](https://open.spotify.com/artist/60AaYwmYEfjvYFNFoDocRq) | [After All](https://open.spotify.com/album/6JUwY2FN8VPaYIIz7xWEGN) | 2:50 |
 | 285 | [Inner toughts](https://open.spotify.com/track/3K6JgqMN4vp8qkJYVcuwjY) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Inner toughts](https://open.spotify.com/album/5cu23aEbBPtFutqNENSaIR) | 2:29 |
 | 286 | [Blue World](https://open.spotify.com/track/5d6XbF5UoCjESQmkJoguCz) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Blue World](https://open.spotify.com/album/4Zu0sTolUiyJzxt5Yd6YQw) | 2:08 |

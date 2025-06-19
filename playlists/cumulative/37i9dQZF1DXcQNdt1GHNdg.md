@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-227 songs - 10 hr 55 min
+228 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,9 +116,10 @@
 | [In Love](https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [In Love](https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS) | 2:41 | 2024-05-09 | 2024-06-04 |
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2023-07-18 | 2024-10-11 |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 | 2023-07-18 | 2023-09-05 |
-| [Janta](https://open.spotify.com/track/3zxJUkmO5ofCmDnv3HaZTw) | [Dulla](https://open.spotify.com/artist/2zGP5dYW7vsTnCtjnhO8eo), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [Janta](https://open.spotify.com/album/0HfYTw4VJKq226FyAjBa3a) | 3:06 | 2025-05-06 |  |
+| [Janta](https://open.spotify.com/track/3zxJUkmO5ofCmDnv3HaZTw) | [Dulla](https://open.spotify.com/artist/2zGP5dYW7vsTnCtjnhO8eo), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [Janta](https://open.spotify.com/album/0HfYTw4VJKq226FyAjBa3a) | 3:06 | 2025-05-06 | 2025-06-19 |
 | [Jatt Badaami](https://open.spotify.com/track/1xooUkrnQgqG7d0OkMUMgM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Jatt Badaami](https://open.spotify.com/album/7dzjSUoRTmRLd4zp4r3PUH) | 2:45 | 2025-02-25 | 2025-03-21 |
 | [Jatt di Jawani](https://open.spotify.com/track/6ZpBZB9XIeN7dvFa3Dn8Zf) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Brown Maan](https://open.spotify.com/artist/6WFyfNCIvHGxfjiR1LwrAZ), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Jatt di Jawani](https://open.spotify.com/album/5s8DizqHxfJQUGSQik9O9r) | 2:16 | 2024-11-28 | 2024-12-14 |
+| [Jatt Nahi Dekhya](https://open.spotify.com/track/68WyNOcOccRnKe5EuLjf5i) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [Jatt Nahi Dekhya](https://open.spotify.com/album/3ZILKKdWV01qFymHbZnT6m) | 2:27 | 2025-06-18 |  |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-07-18 | 2024-09-13 |
 | [Jee La Leya](https://open.spotify.com/track/4IK66CIBMmtZ4mDpLzo4U6) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jee La Leya](https://open.spotify.com/album/4XBFEzjFChMDCkxSEPmo5x) | 2:55 | 2024-11-28 | 2024-12-11 |
 | [Jigra](https://open.spotify.com/track/4PlWvbhxBHxUbeAKyX5rVh) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:37 | 2023-07-18 | 2024-01-31 |

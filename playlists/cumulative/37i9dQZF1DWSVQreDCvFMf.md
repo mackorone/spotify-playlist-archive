@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Paham
 
-419 songs - 1 day 2 hr 16 min
+420 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [pagod na \(sayo\)](https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [pagod na \(sayo\)](https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF) | 4:56 | 2024-07-02 | 2024-07-27 |
 | [Pagsisisi](https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Pagsisisi](https://open.spotify.com/album/130CxcfouohfD4K1SlSKfe) | 3:57 | 2025-02-24 | 2025-04-29 |
 | [Pahinga](https://open.spotify.com/track/2IqrQdX1ZF0xOcDKfaBs6V) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [jgh \(Deluxe\)](https://open.spotify.com/album/4yLcE8r2jZTxMhxp78RyTo) | 4:21 | 2025-06-06 |  |
+| [pahuway](https://open.spotify.com/track/3no4ak7XD145fxXeEi9rAz) | [RAIN](https://open.spotify.com/artist/5S4lGG6zcdPX0ehhSsJYwu) | [b luvd](https://open.spotify.com/album/6F2cmP1dbtWIHpKaVSqoLb) | 3:57 | 2025-06-18 |  |
 | [Palagi](https://open.spotify.com/track/7uAUa6yjTZ1H6SnC9EFl3t) | [Odri](https://open.spotify.com/artist/3dkiiS5m6L2FQWXJGLNpUh) | [Palagi](https://open.spotify.com/album/5Rfx0N1vVYU3STdoOt4XJd) | 3:16 | 2025-04-09 |  |
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-08-30 | 2024-11-23 |
 | [Palapit Sa Ü](https://open.spotify.com/track/1c82x61tkS3Piyt7l39Ouu) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Palapit Sa Ü](https://open.spotify.com/album/3YyLO6slRwlirN8KJkamTB) | 3:17 | 2025-05-16 |  |

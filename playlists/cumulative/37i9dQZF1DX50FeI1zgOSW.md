@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-550 songs - 1 day 7 hr 21 min
+551 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Kanni Boyz](https://open.spotify.com/track/4VGUCHyLaycOXTdAieUbXr) | [RK Arvin](https://open.spotify.com/artist/21MmZBL1Slz0VCTr8vnPBM), [Rk Tharan](https://open.spotify.com/artist/2teckjfXrt39sR75clLegg) | [Kanni Boyz](https://open.spotify.com/album/3ob0EpYK2eGjerGwZSCOWD) | 3:51 | 2024-12-05 | 2025-02-25 |
 | [Kannil Veesum](https://open.spotify.com/track/5Csa0chWVHlZAKDIGKmYkG) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kannil Veesum](https://open.spotify.com/album/0k9njB0P9brJuvg3tkEEcQ) | 4:00 | 2023-03-21 | 2023-09-26 |
 | [Kanniley](https://open.spotify.com/track/2PwYyPokT4pF2RFr1hYgTF) | [Keerthana Kunalan](https://open.spotify.com/artist/7vpsJyzheyIsSDtsjJzxUe) | [Kanniley](https://open.spotify.com/album/6gJYZ6zxzvzvTxHsU0WsfD) | 4:33 | 2024-06-14 | 2024-08-11 |
+| [Kannu Gannu](https://open.spotify.com/track/3lG1EN7f1IbzjP4otyGXLy) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf) | [Kannu Gannu](https://open.spotify.com/album/3zzsVDlBYFV5tbVqzxZMqb) | 2:16 | 2025-06-18 |  |
 | [Kannurangu](https://open.spotify.com/track/2sxqSPufXTi1yyeZmxuPEG) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Syed Subahan](https://open.spotify.com/artist/3gQ8iee3y7UsGTMuhjzEuD), [Nalini Vittobane](https://open.spotify.com/artist/5imil4usnuFDZ320XNEHt3) | [Kannurangu](https://open.spotify.com/album/1irng2JUexiR93eT0cry3k) | 3:04 | 2024-05-13 | 2024-11-26 |
 | [Karakki \(Raw Version\) \- From "Think Specials"](https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Karunguyil Ganesh](https://open.spotify.com/artist/3itVmQfDbKUxkCKfOU1Pxq), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Karakki \(Raw Version\) \[From "Think Specials"\]](https://open.spotify.com/album/2aquYWJo5kwaum9LE63onr) | 3:13 | 2025-01-16 | 2025-03-30 |
 | [Karpanai](https://open.spotify.com/track/5mHYekF6dYS1tngug0sKYm) | [Akhilesh Rajan](https://open.spotify.com/artist/2yNWhTumhIEaplBWzONC0I), [Krishna B](https://open.spotify.com/artist/75GR08Hbybw9eIFJbW1s9W), [On The Streets](https://open.spotify.com/artist/50ef72eTfmz8InSE1OErSu) | [Karpanai](https://open.spotify.com/album/63lmhSCepLlrKohnhi4NOg) | 3:31 | 2023-06-27 | 2024-01-31 |

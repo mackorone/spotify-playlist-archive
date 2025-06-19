@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Watchhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,795 likes - 156 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,712 likes - 156 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 155 | [God And A Girl](https://open.spotify.com/track/6DDPrs8s0ZtN5LirmGPZSV) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [God And A Girl](https://open.spotify.com/album/6BFmOJ19FvMs2CEpGEn3Hx) | 4:54 |
 | 156 | [The Ballad of Sally Anne](https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Ballad of Sally Anne](https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh) | 3:58 |
 
-Snapshot ID: `AAAAAHZKLtyzWJfKSas86KZVS9zGjYKQ`
+Snapshot ID: `aFGTlAAAAACyCn7guDrcinhpnjnTRyWZ`

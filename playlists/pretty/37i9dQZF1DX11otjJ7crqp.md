@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Meg Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,251 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,616 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 17 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
 | 18 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
 | 19 | [DIFFERENT \- English ver.](https://open.spotify.com/track/0Slvwx0p3H5wyB4s8EB7Aj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT \(English ver.\)](https://open.spotify.com/album/5p6KkE9SBq8MJPD0EFrNAF) | 2:21 |
-| 20 | [WRONG \(feat\. Samara Cyn\)](https://open.spotify.com/track/1mJbxJBoq5RWyOhJXAnfpl) | [B.DAY](https://open.spotify.com/artist/5mYHItwmNZYmxM1pjjiyVa), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [1ofurfriends](https://open.spotify.com/artist/59O2KJX0QTWOSJVbPGLrct), [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [WRONG \(feat\. Samara Cyn\)](https://open.spotify.com/album/1RHFYSiApWCZHO7ILZSooB) | 2:36 |
+| 20 | [WRONG \(feat\. Samara Cyn\)](https://open.spotify.com/track/1mJbxJBoq5RWyOhJXAnfpl) | [B.DAY](https://open.spotify.com/artist/5mYHItwmNZYmxM1pjjiyVa), [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT), [1ofurfriends](https://open.spotify.com/artist/59O2KJX0QTWOSJVbPGLrct), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WRONG \(feat\. Samara Cyn\)](https://open.spotify.com/album/1RHFYSiApWCZHO7ILZSooB) | 2:36 |
 | 21 | [Pretty Please](https://open.spotify.com/track/3pIFU38F6YssZTgQK6gr2g) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Pretty Please](https://open.spotify.com/album/4yxMiTUJ41W0EZG7bJF3Bh) | 2:33 |
 | 22 | [Body On Me](https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:33 |
 | 23 | [SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [SOFT SCOOP TALKING DOG](https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V) | 2:03 |

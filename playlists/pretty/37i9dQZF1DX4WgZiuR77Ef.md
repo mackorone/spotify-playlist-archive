@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,346 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,337 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [You've Got To Change](https://open.spotify.com/track/5eZlZq3LDJTaHPVb5j3tdC) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Berlin Sessions](https://open.spotify.com/album/0IDJHvzYJdJ95VtHUOKhqg) | 3:58 |
 | 100 | [Checker Wrecker](https://open.spotify.com/track/2tqfdsBI9N8TrRVFTUDnGZ) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Jungle Boogie](https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J), [Big Tony](https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks) | [Checker Wrecker](https://open.spotify.com/album/5eKL3jiEKnTb3bej9OKvUJ) | 5:50 |
 
-Snapshot ID: `AAAAACgx6IRe0YhuHOZG2ZPgAsonhY6I`
+Snapshot ID: `aC/y6gAAAAD7WQvygoefm31f3cM+ZTl1`

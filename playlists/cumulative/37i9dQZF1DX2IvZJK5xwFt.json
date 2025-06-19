@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 154775,
       "name": "Easy Come, Easy Go",
       "url": "https://open.spotify.com/track/7CtlMZ6x0FPJJblcTpr49X"
@@ -8793,6 +8793,24 @@
     },
     {
       "album": {
+        "name": "TV Movie/No Love",
+        "url": "https://open.spotify.com/album/5aF47JUfFoGCAzPypjKpAW"
+      },
+      "artists": [
+        {
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118333,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/2BduAOYh1vv6kVYoXuzYp9"
+    },
+    {
+      "album": {
         "name": "No Rain, No Flowers",
         "url": "https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88"
       },
@@ -12249,6 +12267,24 @@
     },
     {
       "album": {
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
+    },
+    {
+      "album": {
         "name": "Return of the Dream Canteen",
         "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
       },
@@ -14360,7 +14396,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 292560,
       "name": "Wind of no Change",
       "url": "https://open.spotify.com/track/1gGqd0eLe2XBwXKr3SxHKU"

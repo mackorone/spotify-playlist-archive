@@ -431,6 +431,28 @@
     },
     {
       "album": {
+        "name": "An Angel / Girl Reborn",
+        "url": "https://open.spotify.com/album/3v61eqpd90ZMP5iJy7w75i"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "Tom Rasmussen",
+          "url": "https://open.spotify.com/artist/1FWk2wt5rW1viTKVsPd4Gf"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236417,
+      "name": "An Angel",
+      "url": "https://open.spotify.com/track/5XJ4yeRHNDMSwHLO47NTMP"
+    },
+    {
+      "album": {
         "name": "Reworks: Vol2",
         "url": "https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3"
       },

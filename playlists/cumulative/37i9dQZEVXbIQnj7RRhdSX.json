@@ -3018,7 +3018,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 188918,
       "name": "Amore Disperato",
       "url": "https://open.spotify.com/track/0h7djzQOTBHcNaKD8k449b"
@@ -12186,7 +12186,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 200590,
       "name": "Dai che fai",
       "url": "https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4"
@@ -21212,7 +21212,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 191999,
       "name": "I LOVE IT (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
@@ -25498,6 +25498,24 @@
       "duration_ms": 267746,
       "name": "La Nuova Stella Di Broadway",
       "url": "https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46"
+    },
+    {
+      "album": {
+        "name": "2C2C",
+        "url": "https://open.spotify.com/album/2QZokHy4nyBsOySWxoBI5x"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268280,
+      "name": "La Nuova Stella Di Broadway - Remastered 2019",
+      "url": "https://open.spotify.com/track/74fH2e2XNsBt35U0lfhI47"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-541 songs - 1 day 4 hr 29 min
+542 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 | 2021-12-16 | 2022-01-26 |
 | [Karma Riddim](https://open.spotify.com/track/3ilMKDKPxTeboM0BpXPyjk) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Karma Riddim](https://open.spotify.com/album/2CTzNgofmzUZ4jnbqLjoUG) | 2:44 | 2021-12-16 | 2024-05-24 |
 | [Keep On Going](https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Hussla D](https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Keep On Going](https://open.spotify.com/album/49G044qCj857V1GK5M8jhn) | 3:09 | 2021-12-16 | 2024-06-17 |
+| [KiLELE](https://open.spotify.com/track/404Il8wdrtHc2Wgcl0rfjT) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [KiLELE](https://open.spotify.com/album/402gAvYew9C7igBTsZgPSz) | 2:38 | 2025-06-18 |  |
 | [Kilometre](https://open.spotify.com/track/15NVnnLI5oXQSw10lKrR51) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/3t3tbmUPaWrFTUriPUeiXc) | 2:33 | 2021-12-16 | 2022-01-26 |
 | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz) | 3:11 | 2021-12-16 |  |
 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 | 2025-05-01 | 2025-05-30 |
@@ -329,7 +330,7 @@
 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 | 2021-12-16 | 2025-02-23 |
 | [Muévelo](https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Muévelo](https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG) | 3:14 | 2022-03-25 | 2022-10-03 |
 | [My Touch \- Dutch Remix](https://open.spotify.com/track/5SBy2tOnecAyebZwPD21YP) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Lauwtje](https://open.spotify.com/artist/1yWjbmwKNd1q0PI1V1BuQ7), [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb) | [My Touch \(Dutch Remix\)](https://open.spotify.com/album/3HLfgkzaDwQCwURps1jIZ5) | 3:08 | 2021-12-16 | 2022-01-11 |
-| [MYKILLI](https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [MYKILLI](https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu) | 2:24 | 2021-12-16 |  |
+| [MYKILLI](https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [MYKILLI](https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu) | 2:24 | 2021-12-16 | 2025-06-19 |
 | [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 | 2022-10-17 | 2023-03-18 |
 | [N'y pense plus](https://open.spotify.com/track/5KCH6zWcx5qUYbmp0uaaE7) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [N'y pense plus](https://open.spotify.com/album/6OZw1o9TZEgHLnggVYmqLS) | 3:32 | 2021-12-16 | 2023-03-01 |
 | [NASA](https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [NASA](https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ) | 2:24 | 2024-10-04 |  |

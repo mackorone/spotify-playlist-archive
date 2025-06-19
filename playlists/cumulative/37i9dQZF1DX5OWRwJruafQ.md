@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Shubh
 
-635 songs - 1 day 6 hr 18 min
+636 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-03-29 | 2024-08-27 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-21 |  |
 | [8500](https://open.spotify.com/track/1HjXEP7AK1SrehhZ7wgOt7) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Skywar](https://open.spotify.com/artist/5GRF2OUN2zIW9MbSqrQETT) | [Auto Mode](https://open.spotify.com/album/1g2kiM7YojZsx7LpTA8Jat) | 2:08 | 2024-07-09 | 2024-07-19 |
+| [A To Z](https://open.spotify.com/track/2FockdBcn1bP5TffQyk2Vz) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Sycostyle](https://open.spotify.com/artist/0OXj50LoqFAQ9qj3dQ9yni) | [A To Z](https://open.spotify.com/album/3xftNb9XmCz6uLTN5CwhPA) | 2:08 | 2025-06-18 |  |
 | [AAN MILO](https://open.spotify.com/track/57yFUb45xU65dGzc3G6aam) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [AAN MILO](https://open.spotify.com/album/3UjyMmnzh0nemZfKBHCViK) | 3:25 | 2024-02-05 | 2025-01-28 |
 | [Accounts](https://open.spotify.com/track/47q370VByrWHa7cZKMwIig) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [His Story](https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU) | 4:12 | 2024-06-21 |  |
 | [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 | 2023-12-18 | 2024-01-06 |
@@ -165,7 +166,7 @@
 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 | 2024-06-10 |  |
 | [Don’T Care](https://open.spotify.com/track/4AGDZS12QtecmUYaIdIxZ5) | [Gur\. V](https://open.spotify.com/artist/28zEsrNPBJJSsmRjsysTvY), [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Don’T Care](https://open.spotify.com/album/1ZbZn6xKNv0PDn7hq2B9Av) | 2:50 | 2023-04-17 | 2023-04-21 |
 | [Downky](https://open.spotify.com/track/2XgrdUzlkjz9OXoJV08G6K) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [Downky](https://open.spotify.com/album/58AXDoWhFSQvzgw9LDhwjG) | 2:52 | 2025-06-02 |  |
-| [Drillside](https://open.spotify.com/track/6SI6p2Le5pXDPOwrgaeo20) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Jas Dhaliwal](https://open.spotify.com/artist/2xBB83EHB7meIbgraUzzEl) | [Drillside](https://open.spotify.com/album/0Rrcrp1u0iWeIo7bFGteCS) | 2:11 | 2025-05-23 |  |
+| [Drillside](https://open.spotify.com/track/6SI6p2Le5pXDPOwrgaeo20) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Jas Dhaliwal](https://open.spotify.com/artist/2xBB83EHB7meIbgraUzzEl) | [Drillside](https://open.spotify.com/album/0Rrcrp1u0iWeIo7bFGteCS) | 2:11 | 2025-05-23 | 2025-06-19 |
 | [Dunia](https://open.spotify.com/track/191UibAfAOKYeA8vKv7MI9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:05 | 2023-06-29 | 2024-01-28 |
 | [Duphare](https://open.spotify.com/track/6Yd2Qe4m4DHNrOYoGz46Us) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:05 | 2023-03-29 | 2023-04-15 |
 | [East West](https://open.spotify.com/track/0ixZI5oa9PYpRxu8h1F8tS) | [Yuvraj Hara](https://open.spotify.com/artist/3DQIyhjrn6I9NiDf8lWVlp) | [East West](https://open.spotify.com/album/0X9uP5sRwwMndCWU09lpkk) | 2:16 | 2024-07-08 | 2024-07-19 |

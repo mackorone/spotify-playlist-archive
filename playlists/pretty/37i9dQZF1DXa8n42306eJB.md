@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,832 likes - 81 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,825 likes - 81 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 80 | [If I Ever \(feat\. J Boog\)](https://open.spotify.com/track/24QYLOpc7vYphfSk89ZEeg) | [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [If I Ever \(feat\. J Boog\) \- Single](https://open.spotify.com/album/5i8MnTWpHcGZdO6F775dWE) | 4:42 |
 | 81 | [Rhythm In My Soul](https://open.spotify.com/track/0gnncXckqtWNoyq77cz0mL) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into The Dread](https://open.spotify.com/album/3v7H49k44hIvj8jKdMt07z) | 6:16 |
 
-Snapshot ID: `ZpB02wAAAAAT8JQTaJBrDEmp1vMGEAny`
+Snapshot ID: `ZpB02wAAAAC9dECPxyrJ/yk36WKd9+lw`

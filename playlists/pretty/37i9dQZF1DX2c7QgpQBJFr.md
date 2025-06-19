@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Giuse The Lizia
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,627 likes - 115 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,636 likes - 115 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

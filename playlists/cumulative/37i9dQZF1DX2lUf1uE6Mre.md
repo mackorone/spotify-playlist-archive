@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: SHABAB
 
-255 songs - 10 hr 47 min
+256 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Criminale](https://open.spotify.com/track/1Be37RqkPZzbGljg38HrBI) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Criminale](https://open.spotify.com/album/0JJkDnJUk7KIZExS9WJZtu) | 2:48 | 2025-02-24 | 2025-05-16 |
 | [Dale](https://open.spotify.com/track/4JeRA6jqXpChOxN0Gnd4tP) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [EUROSPORT](https://open.spotify.com/album/6Bkx66OfElcoOtkxp043SR) | 2:35 | 2024-06-28 | 2024-10-25 |
 | [Delale](https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Delale](https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs) | 2:35 | 2025-02-24 |  |
+| [Denkst du an mich](https://open.spotify.com/track/1og1WUJtEFCnC7FxxHe0C0) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Denkst du an mich](https://open.spotify.com/album/1gCpb6P29znhvymToiydUV) | 2:43 | 2025-06-18 |  |
 | [Desole](https://open.spotify.com/track/5AEzbN2MAAWCvLtRDTNChY) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Der Yavuz](https://open.spotify.com/artist/59qNA3x8KEFnzFWINGlkyt) | [RLR2 \- Runde 4 \- Tag 6: Ein bekanntes Echo](https://open.spotify.com/album/6MOU66GC8I4TyKivmCDgwA) | 2:40 | 2025-04-10 | 2025-04-25 |
 | [Deutsche Pass \(Freestyle \#12\)](https://open.spotify.com/track/4oWEH9TFKh893MH28lDDOD) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Deutsche Pass \(Freestyle \#12\)](https://open.spotify.com/album/1vgrYho7RooKiM7KNh49ag) | 1:44 | 2024-06-28 | 2024-07-27 |
 | [Diadem](https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Diadem](https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI) | 2:44 | 2025-04-10 |  |
@@ -126,7 +127,7 @@
 | [Jupitáá](https://open.spotify.com/track/2eBPKRtfYveuzwy8IExoyF) | [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4) | [Jupitáá](https://open.spotify.com/album/1HZ7PUDTfDAJD6r9Eu4FX5) | 2:24 | 2024-11-18 | 2025-01-17 |
 | [Katastrophe](https://open.spotify.com/track/64PC5XVJuKbvxYHecenRGO) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Jiyo](https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts) | [Katastrophe](https://open.spotify.com/album/2uGdPU34k4wNNAq3qVZRLv) | 3:18 | 2024-06-28 | 2024-08-27 |
 | [KELOKE](https://open.spotify.com/track/70APe9yigyCVZ9bDIv51y3) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [WAGWAN](https://open.spotify.com/album/5oKxG7kTpuQK9kPdQXUI6C) | 2:46 | 2024-10-10 | 2025-03-04 |
-| [Killa](https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Killa](https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi) | 2:48 | 2024-06-28 |  |
+| [Killa](https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Killa](https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi) | 2:48 | 2024-06-28 | 2025-06-19 |
 | [Kings of the Night \(feat\. Finessim, JUU & Ouzzi\)](https://open.spotify.com/track/4xods9Few1O0hJadvKuUOO) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Finessim](https://open.spotify.com/artist/48MK5SlYzMfHwMaBbEoSLs), [JUU](https://open.spotify.com/artist/6XMzUDYpIRqxbSUdpXUysl), [Ouzzi](https://open.spotify.com/artist/6msEnJb2ceDZw4GF1Z2D5o) | [RLR2 \- Runde 4 \- Tag 4: Disco Fever](https://open.spotify.com/album/1NlieTDO0j82IJ2kW5oPJN) | 2:35 | 2025-03-24 | 2025-04-18 |
 | [KIWI](https://open.spotify.com/track/1i0Q1EMNlUIsNQloJbtPm8) | [Riccardo](https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv) | [KIWI](https://open.spotify.com/album/51N5wyt8OKLIXI4lazjf8C) | 3:08 | 2024-08-12 | 2024-12-10 |
 | [Kiyamasa](https://open.spotify.com/track/522cl3tPjPb021NcLwrK1f) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Kiyamasa / Body](https://open.spotify.com/album/4LdIZfwVOYpvwKrsmJzJo9) | 3:12 | 2024-06-28 | 2024-08-27 |

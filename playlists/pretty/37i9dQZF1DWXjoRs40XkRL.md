@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,322 likes - 75 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,341 likes - 75 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Raga Shuddh Kalyan](https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT) | [Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt](https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ) | [Swar Sadhna](https://open.spotify.com/album/303Pkb83Anu8cMovTksOen) | 35:12 |
 | 75 | [Kahe Sataye](https://open.spotify.com/track/5lZWQY94QWVaxjtam5dRqc) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aarambh](https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc) | 3:50 |
 
-Snapshot ID: `aE+iUQAAAAATbs3nn8yg1NTlwebyU0cn`
+Snapshot ID: `aFJIIQAAAAB7EtSkCr35FhUXLklwShon`

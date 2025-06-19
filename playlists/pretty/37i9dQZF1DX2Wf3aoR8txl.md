@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 
 > Music from "YU☆YU☆HAKUSHO" series\. 実写化も話題の人気アニメ「幽☆遊☆白書」主題歌、エンディングソングと人気キャラクターソングを一気にお届け！©Y.T.90\-94/P,S
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,072 likes - 45 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,080 likes - 45 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 | 44 | [桑原のテーマ](https://open.spotify.com/track/1xS1xkpVsxedglgB6awWSC) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック](https://open.spotify.com/album/3jjfgVzSP1ve3ATWDkR36e) | 2:59 |
 | 45 | [幽助パワーアップ!](https://open.spotify.com/track/5WH89dniVjsSZEACH6VrEt) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック Vol.2 ～魔界の扉編～](https://open.spotify.com/album/1ha1rWSxldGVVDH6JdKM2B) | 3:56 |
 
-Snapshot ID: `ZsNB0AAAAACYBoD1IHmKEHoiQEgTJp3A`
+Snapshot ID: `ZsNB0AAAAABgsLClvIPk8FRwQZPKgLJx`

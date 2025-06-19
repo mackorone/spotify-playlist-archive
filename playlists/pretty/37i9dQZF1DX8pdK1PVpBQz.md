@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Acopia
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,033 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,053 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [\(To Be\) Without You](https://open.spotify.com/track/0xWcCvScog258MBi4bD22e) | [Hemi Hemingway](https://open.spotify.com/artist/3yla541s3AnBSCbGe02k56) | [\(To Be\) Without You](https://open.spotify.com/album/2TXbiaQpjG5jNkO20OZNlL) | 4:44 |
 | 100 | [Piggies](https://open.spotify.com/track/1dVKmV9ErGw2ucGzEmWr7d) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU) | [Piggies](https://open.spotify.com/album/2dK5bDdNVgopZB4VklZ7C9) | 2:34 |
 
-Snapshot ID: `aFF08QAAAACe/n/CFdIZXg89CxaosfqR`
+Snapshot ID: `aFF08QAAAADHpKQjcCc66bzIr8BdVYIu`

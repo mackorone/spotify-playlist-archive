@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370,632 likes - 250 songs - 15 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,371,380 likes - 250 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [The Power of Love](https://open.spotify.com/track/1m5eFhE34yyYv2lkjtcKPG) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 4:05 |
 | 250 | [King \- Acoustic](https://open.spotify.com/track/2yybvAviPcX43UHomvHbu8) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR) | 4:03 |
 
-Snapshot ID: `aCTU4AAAAACn3iHI1UaSCKULGvyf3np5`
+Snapshot ID: `aFL95AAAAABWSAqd0H/4h3FYXjVwwZNB`

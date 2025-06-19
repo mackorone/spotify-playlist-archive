@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VplLa7NC0a.md) - [plain]
 
 > The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,839 likes - 60 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,846 likes - 60 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

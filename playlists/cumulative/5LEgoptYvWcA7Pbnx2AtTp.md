@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-171 songs - 9 hr 41 min
+172 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Giorno's Theme](https://open.spotify.com/track/0oFPCGIO4t2cmOkksXknoD) | [Friedrich Habetler](https://open.spotify.com/artist/3VudC1DraV4LjIdLzpqQ80) | [Giorno's Theme](https://open.spotify.com/album/6UDDr9aZsmprJXfgU48Lqa) | 5:06 | 2024-10-28 |  |
 | [Giorno's Theme \(Jay D Remix by JoRoYT\)](https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo) | [AniCast](https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I) | [AniCast](https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I) | 2:30 | 2024-10-27 | 2024-12-10 |
 | [Godspeed](https://open.spotify.com/track/0Jbe7lcwFY5DgX4abMPigH) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:43 | 2023-03-23 |  |
+| [Good Life](https://open.spotify.com/track/0Exrm1yghvQ4ykj23tLsVN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Americanachronism](https://open.spotify.com/album/7kTXiQqgNWxeaZHq3efuVn) | 3:11 | 2025-06-18 |  |
 | [Goodnight Socialite](https://open.spotify.com/track/3lWU0u5AZTmr0vm3m8VV2R) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:19 | 2023-01-07 |  |
 | [H.S](https://open.spotify.com/track/130XZ5bHECnpHvUeUkEPlg) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [H.S](https://open.spotify.com/album/7kcjzW149228s4dQmIIPUu) | 3:57 | 2023-11-20 |  |
 | [Hardware Store](https://open.spotify.com/track/1m6LYAWyCdRjpIr3ttANsr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [The Essential "Weird Al" Yankovic](https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4) | 3:44 | 2023-04-25 |  |

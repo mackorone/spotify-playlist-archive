@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/7C0o4kiZosGwLdgsdHKmtU"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/2xoH0GxWAq8AxivBQdg4SY"
+    },
+    {
+      "album": {
         "name": "All American Singer",
         "url": "https://open.spotify.com/album/4HzLPoajEg28lyK3cHztOY"
       },
@@ -2791,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Turns Out That I Am God",
+        "url": "https://open.spotify.com/album/3EJQOpa5mrtRQwernIVL36"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "Turns Out That I Am God",
+      "url": "https://open.spotify.com/track/6x592JUnn8F8fJuO4y1Zqk"
+    },
+    {
+      "album": {
         "name": "Metamodern Sounds in Country Music",
         "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
@@ -2856,7 +2892,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 169600,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/6tHOHkapttrP6FEfXouCJ5"
@@ -2908,7 +2944,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 235617,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9"

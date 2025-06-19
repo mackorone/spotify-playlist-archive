@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky, Danny Ocean, Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,005 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,065 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 76 | [Bom Bom](https://open.spotify.com/track/6IB6NjSuX9ZCGSAhW0ASgb) | [Los Cadillac's](https://open.spotify.com/artist/44clbgZfF4GkBAyduMPE2W) | [Bom Bom](https://open.spotify.com/album/28YRm0YkztgAFcP02iy8d3) | 3:27 |
 | 77 | [Dame Tu Amor](https://open.spotify.com/track/1gT4h8bz6nKs39oQ8b2uwB) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Da Capo](https://open.spotify.com/album/5necXB57Rq5a4rtzv9ndqH) | 3:38 |
 | 78 | [Secreto](https://open.spotify.com/track/5bvBnLBzfBR3rLtArdiclG) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [8](https://open.spotify.com/album/2JnQQ4NCgc9mN2F0LJkQxl) | 3:20 |
-| 79 | [Tan Enamorados \(Nina Bonita\)](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Haciendo Camino](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 4:12 |
+| 79 | [](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 0:00 |
 | 80 | [Marejada](https://open.spotify.com/track/2SWWEPZJxuEd4LdKN8PHPR) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/6dYS0pl4f4vmoBCJECBaFM) | 4:03 |
 | 81 | [Sé Como Duele](https://open.spotify.com/track/7a8ShNCakt6bJj1GhNEdYF) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY) | 3:13 |
 | 82 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 |

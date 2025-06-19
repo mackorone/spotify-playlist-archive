@@ -4551,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "Kannu Gannu",
+        "url": "https://open.spotify.com/album/3zzsVDlBYFV5tbVqzxZMqb"
+      },
+      "artists": [
+        {
+          "name": "Arun VT",
+          "url": "https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136969,
+      "name": "Kannu Gannu",
+      "url": "https://open.spotify.com/track/3lG1EN7f1IbzjP4otyGXLy"
+    },
+    {
+      "album": {
         "name": "Kannurangu",
         "url": "https://open.spotify.com/album/1irng2JUexiR93eT0cry3k"
       },

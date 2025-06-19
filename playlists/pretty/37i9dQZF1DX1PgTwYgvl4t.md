@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso?si=NuTJ7\-ipTYCwsypXy3z40A>Victoria Orenze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,565 likes - 100 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,673 likes - 100 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [Adoration](https://open.spotify.com/track/2r80jXetPGcYiO0hWjIwlb) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Adoration](https://open.spotify.com/album/4cL97GKu8RwETLtFQ1n4tk) | 6:01 |
 | 100 | [Able God](https://open.spotify.com/track/4CkDjy3zvHHDNm51joKmst) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Able God](https://open.spotify.com/album/6pwOhF1h9S0TKheP28rNLa) | 3:33 |
 
-Snapshot ID: `aEoYxgAAAABe0U83DElSOzcHt95c+FZ8`
+Snapshot ID: `AAAAAKkNK9qzEvUqiVmrb4f0yCe/7CTO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Kings Elliot, Mark Ronson and RAYE, Apache 207, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,343 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,346 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [Toscana](https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Toscana](https://open.spotify.com/album/490sRKuNegyMGAe9gPvI1Q) | 2:46 |
 | 99 | [R&P](https://open.spotify.com/track/5DiJbyNap6gmHX6Bp6iEGm) | [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [R&P](https://open.spotify.com/album/1TD8vJ8fo1V9RO35oJXz6w) | 2:58 |
 
-Snapshot ID: `aEtODQAAAAD/qgIWwZtEXNNOA8sr/9ov`
+Snapshot ID: `aEtODQAAAADBh/TmOERGu/NlpxfW2Da2`

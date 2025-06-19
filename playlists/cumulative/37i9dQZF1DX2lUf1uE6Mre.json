@@ -1387,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Denkst du an mich",
+        "url": "https://open.spotify.com/album/1gCpb6P29znhvymToiydUV"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163149,
+      "name": "Denkst du an mich",
+      "url": "https://open.spotify.com/track/1og1WUJtEFCnC7FxxHe0C0"
+    },
+    {
+      "album": {
         "name": "RLR2 - Runde 4 - Tag 6: Ein bekanntes Echo",
         "url": "https://open.spotify.com/album/6MOU66GC8I4TyKivmCDgwA"
       },
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 168000,
       "name": "Killa",
       "url": "https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN"

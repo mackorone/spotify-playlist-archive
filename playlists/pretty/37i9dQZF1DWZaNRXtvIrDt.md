@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,238 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,240 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 7 | [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 |
 | 8 | [Mountain Ash](https://open.spotify.com/track/6x93d5ZYQzznNCH1MIGVI3) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Big Sky, Liquid Sun](https://open.spotify.com/album/79AlNej6d20ava6Gh0JgF9) | 6:49 |
 | 9 | [Ouss Ouss](https://open.spotify.com/track/7ecwXjoMaObvbz76Pgsh6X) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX), [Yikes](https://open.spotify.com/artist/0ZQ8cND6EyXIO588Wxezi1) | [Come Round](https://open.spotify.com/album/0I6iEBfQOgvF2XFCn4sL8W) | 6:03 |
-| 10 | [CHOP CHOP](https://open.spotify.com/track/7uDUk77t8wU4OljO6LlbI7) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [CHOP CHOP](https://open.spotify.com/album/6ej5LlIZgQmfUlcyLcuy5A) | 3:57 |
+| 10 | [CHOP CHOP](https://open.spotify.com/track/7uDUk77t8wU4OljO6LlbI7) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn) | [CHOP CHOP](https://open.spotify.com/album/6ej5LlIZgQmfUlcyLcuy5A) | 3:57 |
 | 11 | [Seed 2.0 \- The 'Aseed' Mix](https://open.spotify.com/track/5kO3TqdTQWCrCiZymg1TbS) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl \(Deluxe\)](https://open.spotify.com/album/1S2iNRW16JJpPMvwzFBflj) | 3:33 |
 | 12 | [Feel The Friction \(Club Angel Remix\)](https://open.spotify.com/track/1nDHsB3FfyB2QVrfgvUI72) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR), [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Feel The Friction \(Club Angel Remix\)](https://open.spotify.com/album/4I42s0KPRo78apRMuU9W6o) | 3:38 |
 | 13 | [Wicked Sound](https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U) | [seKTa](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD) | [Wicked Rhythm EP](https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj) | 2:53 |

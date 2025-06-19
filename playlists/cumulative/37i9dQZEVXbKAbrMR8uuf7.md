@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,894 songs - 4 day 3 hr 39 min
+1,895 songs - 4 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [De Manhattan Pa El Bronx](https://open.spotify.com/track/6JPCogBdqEPWvw8orbmdx4) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [De Manhattan Pa El Bronx](https://open.spotify.com/album/1dAbiPuNIR5oiA2C3dSl75) | 2:48 | 2021-06-14 | 2021-10-27 |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-07-08 | 2021-09-05 |
 | [DE PAQUETE](https://open.spotify.com/track/0nNPy3D4rBK52KZhjPLHRP) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 2:44 | 2025-05-20 | 2025-05-22 |
-| [De Regalo](https://open.spotify.com/track/1ILjmBTvFF3ExlByvAycOZ) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [212MUSIC](https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq) | [De Regalo](https://open.spotify.com/album/7xxsYX2wlWpNkKeIZvcpbg) | 2:02 | 2024-12-24 |  |
+| [De Regalo](https://open.spotify.com/track/1ILjmBTvFF3ExlByvAycOZ) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [212MUSIC](https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq) | [De Regalo](https://open.spotify.com/album/7xxsYX2wlWpNkKeIZvcpbg) | 2:02 | 2024-12-24 | 2025-06-19 |
 | [De tu amor](https://open.spotify.com/track/0wBewzClu7ZeunloGZpvhu) | [Jay Aponte](https://open.spotify.com/artist/6ZO8MJdmtvD2p4zblbSSQx) | [De tu Amor](https://open.spotify.com/album/5EujZbjMrmSBu7TPvl5HdU) | 2:54 | 2025-01-06 | 2025-01-26 |
 | [Deblokia](https://open.spotify.com/track/028Js3cHeY6MXXWBxtwSka) | [Ricko](https://open.spotify.com/artist/6iMwEtMtogBXXnBUOowaIj), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX) | [Deblokia](https://open.spotify.com/album/1I6wDlRdQAzl0KBdbbzdeK) | 2:20 | 2023-04-17 | 2023-05-01 |
 | [Deconecte](https://open.spotify.com/track/4Re80N9s1sgBbzIiV21zPI) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Black Jonas Point](https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12) | [Deconecte](https://open.spotify.com/album/5iN8QSwK0Fg4c4ZUfh1sLX) | 3:06 | 2024-01-04 | 2024-01-21 |
@@ -790,6 +790,7 @@
 | [Kikito](https://open.spotify.com/track/5N7WygWmT8oIz5PqtLYFYz) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/7psagzimnYXlFd2EhlQU4b), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Kikito](https://open.spotify.com/album/6gAm2BmwhCp23kD5tikCyL) | 2:50 | 2024-10-19 | 2025-04-02 |
 | [Kilimanjaro](https://open.spotify.com/track/29t0v1RwRwxrgxfQNl6VeY) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:38 | 2022-12-03 | 2022-12-05 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-01-12 | 2023-02-24 |
+| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/2GzwtXPlI0gZEOS6xFOZ2j) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\) \(Remixes\)](https://open.spotify.com/album/1mzoF69QOJgXCBjK1shh85) | 2:28 | 2025-06-18 |  |
 | [Kimby](https://open.spotify.com/track/77JWlVYa9aoBa6NRnzuT3T) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:28 | 2023-12-16 | 2023-12-18 |
 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-09-28 | 2024-09-30 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-08-03 |

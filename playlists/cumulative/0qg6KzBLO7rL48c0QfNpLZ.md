@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,109 songs - 2 day 1 hr 1 min
+1,110 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1020,6 +1020,7 @@
 | [Unforgettable](https://open.spotify.com/track/3rvEwBi1mFFHqCnkrGmnWp) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Uncovered](https://open.spotify.com/album/4iu0toRdSjyU0qIdKTWMoY) | 3:45 | 2023-12-22 | 2024-08-20 |
 | [Unforgettable](https://open.spotify.com/track/1eGYvOvJfwKg7ua90ynBei) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G), [Sonaba](https://open.spotify.com/artist/1gy00wREwEJmfbDNFoZk1a) | [Unforgettable](https://open.spotify.com/album/3GnpyLafsnlv250jGQ1pb9) | 3:35 | 2024-09-13 | 2024-11-18 |
 | [Untamed](https://open.spotify.com/track/0w2TCDxeJs053BojGKsYI3) | [6sept](https://open.spotify.com/artist/1Dr9cWCoepl93DSYaiPQHs), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Untamed](https://open.spotify.com/album/7gEssQ64d2ZL8yJLEHHLZs) | 2:53 | 2024-06-28 | 2024-08-10 |
+| [Until The Stars Align](https://open.spotify.com/track/6a8Dcq9EXGwE2ypIE5IC5C) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Until The Stars Align](https://open.spotify.com/album/0z0vBiHkLy4dBWa0I1MF4c) | 3:04 | 2025-06-18 |  |
 | [Used To Be](https://open.spotify.com/track/01Wf71h8dY3QCUzRcHVwJ6) | [This & That](https://open.spotify.com/artist/37CoByDWrze0gglk61NEYb) | [Used To Be](https://open.spotify.com/album/18EC5nKFT4bw5gLU6BgaoJ) | 2:09 | 2024-02-23 | 2024-05-03 |
 | [Verano De Fuego](https://open.spotify.com/track/2zRdNC5V6zbhRExMRgR4hG) | [dj kivalan](https://open.spotify.com/artist/6Et1U8KBFCbZN6CkhE0oyg) | [Verano De Fuego](https://open.spotify.com/album/1dF1WvmU5OO8PPwrkv6FBL) | 2:32 | 2025-06-05 |  |
 | [Vertigo](https://open.spotify.com/track/1BqF6JV7XqXw3aNd35ZDTM) | [March and June](https://open.spotify.com/artist/1xtmHTCQCknIymXwVK23u9), [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Andrada](https://open.spotify.com/artist/7noZM8YzX3rCq0uHcAuBXh) | [Vertigo](https://open.spotify.com/album/0Ii6sLTLnoHLIBzzG7FgRq) | 2:52 | 2024-08-09 | 2024-09-10 |

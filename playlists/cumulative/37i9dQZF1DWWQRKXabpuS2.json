@@ -1783,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Eish Yomak - \u0639\u064a\u0634 \u064a\u0648\u0645\u0643",
+        "url": "https://open.spotify.com/album/6yN1knSzq2HG5Bab3qqd3x"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179910,
+      "name": "Eish Yomak - \u0639\u064a\u0634 \u064a\u0648\u0645\u0643",
+      "url": "https://open.spotify.com/track/5qs0HZcosHPY8VbA8ZPhJ8"
+    },
+    {
+      "album": {
         "name": "Ekhtisar",
         "url": "https://open.spotify.com/album/4VsKu058hl6R9XH7ZsocV3"
       },
@@ -3282,7 +3300,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 270586,
       "name": "Lak Saqeni Al Rab",
       "url": "https://open.spotify.com/track/1UyCd0dfP02R4AUwWllZCx"

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: HxW\)
+> Future K\-Pop hits! \(Cover: ITZY\)
 
-1,312 songs - 2 day 22 hr 59 min
+1,313 songs - 2 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,7 +846,7 @@
 | [Only cry in the rain](https://open.spotify.com/track/0J92BX2A6XcG2ZbWAxtk1x) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Only cry in the rain](https://open.spotify.com/album/5BenIQ2E8TFdZoAtPjUP9a) | 3:04 | 2025-04-21 |  |
 | [Only One](https://open.spotify.com/track/00Ba2PRFeih7voe93Bf5mk) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [ONLY ONE](https://open.spotify.com/album/1gh4MsmIImvxnpiDELpt6S) | 3:10 | 2023-11-24 | 2024-01-20 |
 | [Only One](https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Only One](https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ) | 2:56 | 2024-03-25 | 2024-05-09 |
-| [Only One Story \- Korean ver.](https://open.spotify.com/track/6dQkBnV1lBFrMs5JSwgaJj) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Only One Story \(Korean ver.\)](https://open.spotify.com/album/1YPGq23PZU1vRF7HirCJm9) | 3:35 | 2025-04-17 |  |
+| [Only One Story \- Korean ver.](https://open.spotify.com/track/6dQkBnV1lBFrMs5JSwgaJj) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Only One Story \(Korean ver.\)](https://open.spotify.com/album/1YPGq23PZU1vRF7HirCJm9) | 3:35 | 2025-04-17 | 2025-06-19 |
 | [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 | 2024-07-18 | 2024-09-06 |
 | [ORANGE](https://open.spotify.com/track/3ud65LzKLgdsEzktLvFXgc) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER THREE](https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w) | 4:16 | 2020-11-12 | 2021-02-15 |
 | [OST \( Feat.CHANMINA \)](https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [OST](https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W) | 3:01 | 2024-07-18 | 2024-09-10 |
@@ -1073,6 +1073,7 @@
 | [STUNNER](https://open.spotify.com/track/63j1HWrXmSk1zK7IZYQepo) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [STUNNER \- The 2nd Mini Album](https://open.spotify.com/album/0Q0FQVj4Npz4MmQuNaHh8u) | 3:34 | 2025-03-24 | 2025-06-10 |
 | [Stupid Cool](https://open.spotify.com/track/2fvo8mpaPBkKabJXkd45GU) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Stupid Cool](https://open.spotify.com/album/15SyyufawVdBxltCfLBiNN) | 2:58 | 2022-06-17 | 2022-07-26 |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-06-02 | 2022-07-30 |
+| [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 | 2025-06-18 |  |
 | [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 | 2024-06-12 | 2025-04-09 |
 | [Sugar](https://open.spotify.com/track/4Tu4zn23F50xF0vq5FGzhW) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [2ND DESIRE \[TASTY\]](https://open.spotify.com/album/6kTFUtFLUxFQidclj616It) | 3:03 | 2021-02-10 | 2021-03-01 |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-21 | 2022-07-26 |

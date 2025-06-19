@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatoD1BSWRau.md) - [plain]
 
 > Listen to your favorite songs from Marvel’s Guardians of the Galaxy — including music from Vol\. 3 \(written and directed by James Gunn\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,409,814 likes - 96 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,409,741 likes - 96 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatoD1BSWRau.md) - [plain]
 | 95 | [How the Story Really Ended](https://open.spotify.com/track/10VgzEXCR5ryb6axm7kMKJ) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [The Guardians of the Galaxy Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M) | 1:28 |
 | 96 | [Mantis Reveals Her Secret](https://open.spotify.com/track/74omxTBVKQ6E9zyhvAawfE) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [The Guardians of the Galaxy Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M) | 1:27 |
 
-Snapshot ID: `ZuzzQAAAAAARjaXzb4PvcHLlgS2RIecH`
+Snapshot ID: `AAAAALL0Yo4NPNSfsIbZKk3PGu8RYCHk`

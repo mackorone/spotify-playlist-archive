@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,578 likes - 205 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,601 likes - 205 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 204 | [Essence](https://open.spotify.com/track/2kztZS0zIkHcScoCTDsb1s) | [Quiet Solace](https://open.spotify.com/artist/4FWT8xrufB3LOzBvpoSLQK) | [Essence](https://open.spotify.com/album/4Xn3VUCj8FGLW5M0eBTjdL) | 3:04 |
 | 205 | [Nightscape, Pt\. 1](https://open.spotify.com/track/1NBoFhYZy1gugrVWBpvV0B) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [Nightscape](https://open.spotify.com/album/4mgoGgYqfrfTi6Ozdl73OE) | 2:26 |
 
-Snapshot ID: `aFFSPAAAAACB+zCMm2w1jzGrWI7hFj62`
+Snapshot ID: `AAAAAGu7VvN0J1qseoYAhHCMXJ41eNYQ`

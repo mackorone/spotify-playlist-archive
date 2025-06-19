@@ -1227,6 +1227,28 @@
     },
     {
       "album": {
+        "name": "Ishq Bawla | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/19tJJMKefMTADntQ6RBrAx"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        },
+        {
+          "name": "Xvir Grewal",
+          "url": "https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272400,
+      "name": "Ishq Bawla | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/7ipocikxlJX318tXE4S5nE"
+    },
+    {
+      "album": {
         "name": "Iss Tan Dhan",
         "url": "https://open.spotify.com/album/1WiWIKDEXmUF6X4iCqfOZ8"
       },
@@ -1260,7 +1282,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 387099,
       "name": "Ithlati",
       "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
@@ -3160,7 +3182,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 440999,
       "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
       "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
@@ -3464,6 +3486,24 @@
       "duration_ms": 141459,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
+    },
+    {
+      "album": {
+        "name": "Kohram",
+        "url": "https://open.spotify.com/album/5GC5k7Do8vSJpEBzIbJAsA"
+      },
+      "artists": [
+        {
+          "name": "Amanat Ali",
+          "url": "https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Thumri",
+      "url": "https://open.spotify.com/track/35juQEHtoIcbPmWJoP2t9k"
     },
     {
       "album": {

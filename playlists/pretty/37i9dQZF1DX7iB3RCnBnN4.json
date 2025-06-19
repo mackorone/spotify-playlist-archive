@@ -1,12 +1,12 @@
 {
   "description": "All the songs with more than 1 Billion streams on Spotify. Cover: KAROL G",
-  "num_followers": 769976,
+  "num_followers": 770288,
   "original_name": "BILLIONS CLUB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFGuNQAAAAAKBrVL7L1i7dvozm4OPSaW",
+  "snapshot_id": "aFMqcAAAAAA7zf8uVTMiq1sxL//K/T7k",
   "tracks": [
     {
       "added_at": "2025-06-11 15:37:37",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
+      "added_at": "2025-06-18 21:06:56",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/7DxmOS2dKJgTfLLRNOP4ch"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/4iZxeyibg6w4EFCOoAQ6Eh"
+    },
+    {
       "added_at": "2024-11-21 14:00:00",
       "album": {
         "name": "Die With A Smile",
@@ -149,22 +165,6 @@
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
-      "added_at": "2024-12-02 17:33:17",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
       "added_at": "2025-03-19 19:31:49",
       "album": {
         "name": "HIT ME HARD AND SOFT",
@@ -179,6 +179,22 @@
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-12-02 17:33:17",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2023-03-27 18:27:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,031 likes - 63 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,045 likes - 63 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 19 | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/track/0NkOlirqIz6SiZlOKDO85C) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV) | [Sang Not Slime \(feat\. Frezza, VGL\)](https://open.spotify.com/album/1FqrZtX1JRElTqClzhzk2W) | 2:51 |
 | 20 | [M’SENT L.YAMAL](https://open.spotify.com/track/0Z9tOeFWxdo2ZBKZ8LibiB) | [Bekkeria](https://open.spotify.com/artist/36d2YCS9iJeuNEMS5PLps7) | [M’SENT L.YAMAL](https://open.spotify.com/album/4huksNbMdkUK1jAWUMAMYU) | 2:54 |
 | 21 | [DEMONIA](https://open.spotify.com/track/6sm1I8KQUPFAp6peLEFuZe) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [DEMONIA](https://open.spotify.com/album/1fnvtjULnkhp25og59Xciv) | 2:29 |
-| 22 | [E FORT CHE FORT](https://open.spotify.com/track/0gjleHdL9Q5XpEsYargTsH) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn) | [E FORT CHE FORT](https://open.spotify.com/album/1pCb4h7jlkB9ehLUhsGcOg) | 2:31 |
+| 22 | [E FORT CHE FORT](https://open.spotify.com/track/0gjleHdL9Q5XpEsYargTsH) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [E FORT CHE FORT](https://open.spotify.com/album/1pCb4h7jlkB9ehLUhsGcOg) | 2:31 |
 | 23 | [Veng a int all’infern \(feat\. Ntò\)](https://open.spotify.com/track/4uDt5PdXsJaTwjUm9nnQGl) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 2:02 |
 | 24 | [SMITH 'N' WESSON](https://open.spotify.com/track/5ZcwLwtRfs9x5kbRhFhaCR) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 2:20 |
 | 25 | [GHETTO STORY](https://open.spotify.com/track/1vbayyJl9wjEbA4Ck5biYI) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [GHETTO STORY](https://open.spotify.com/album/5jrLRThUMyz6d3YJmgeoPp) | 3:00 |

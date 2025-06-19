@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-3,432 songs - 6 day 23 hr 8 min
+3,433 songs - 6 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1803,7 +1803,7 @@
 | [Lila](https://open.spotify.com/track/4uzjXVcYivDXD5FHKwVVTR) | [Kida](https://open.spotify.com/artist/0rtILhtW5MNyUqkZzKDd3J), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Lila](https://open.spotify.com/album/7y4wmryNcaZrT17hfa7Ew4) | 3:19 | 2021-05-23 | 2021-06-06 |
 | [LILA](https://open.spotify.com/track/0XXFjHW8325q9sYnYoB38B) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Hell Yes](https://open.spotify.com/artist/3aIp7H1YPzCy4rvdi5Q7ez) | [LILA](https://open.spotify.com/album/6KFLJIo2YU4EmtNm6IseWV) | 2:04 | 2021-06-20 | 2021-06-25 |
 | [Lilien](https://open.spotify.com/track/3ovTEUMYEoiT8ikEMVXBmS) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [In Liebe](https://open.spotify.com/album/3cB6tCOD8fqXuYwbpcrcdV) | 2:40 | 2024-08-17 | 2024-10-29 |
-| [LINEA ROSSA](https://open.spotify.com/track/4oPZjdsQ7wOqHIR74QEnhT) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg) | [LINEA ROSSA](https://open.spotify.com/album/5IVNiLWEhGGJCmXjAWm3f1) | 1:20 | 2025-06-14 |  |
+| [LINEA ROSSA](https://open.spotify.com/track/4oPZjdsQ7wOqHIR74QEnhT) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg) | [LINEA ROSSA](https://open.spotify.com/album/5IVNiLWEhGGJCmXjAWm3f1) | 1:20 | 2025-06-14 | 2025-06-19 |
 | [Lithe Fall Back](https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm) | [Shugoazy](https://open.spotify.com/artist/2U7zA20xu2ncwgm8lr2Itm) | [Lithe Fall Back](https://open.spotify.com/album/6ZBP4mbd4zk3FakTVsXaHs) | 2:09 | 2024-05-11 | 2024-05-14 |
 | [Little Bit of Love](https://open.spotify.com/track/3Iba59sFmGhQ4kbCY5L8AX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:46 | 2021-06-19 | 2021-06-23 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2022-05-21 | 2022-05-27 |
@@ -2954,6 +2954,7 @@
 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 | 2024-11-16 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-07 | 2024-11-17 |
 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 | 2024-01-01 | 2025-01-03 |
+| [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-06-18 |  |
 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 | 2024-05-18 | 2024-05-20 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-13 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-12 | 2022-02-14 |

@@ -2,7 +2,7 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South: YoungBoy Never Broke Again
+> The hottest out the South: R.I.P\. Takeoff
 
 2,040 songs - 3 day 23 hr 30 min
 

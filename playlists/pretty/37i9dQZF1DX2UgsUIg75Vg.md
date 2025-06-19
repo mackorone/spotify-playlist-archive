@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Ciara, Normani, and Teyana Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,379,769 likes - 186 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,379,580 likes - 186 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

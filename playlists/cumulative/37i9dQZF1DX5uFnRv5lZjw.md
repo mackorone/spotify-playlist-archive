@@ -4,7 +4,7 @@
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-82 songs - 3 hr 27 min
+83 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 | 2025-03-07 | 2025-04-03 |
 | [Just Like the Movies](https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Just Like the Movies](https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl) | 2:07 | 2025-03-26 |  |
 | [Laurence](https://open.spotify.com/track/5VW6aFOUabBvUI94eDFVSe) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Laurence](https://open.spotify.com/album/56xYvj6tVsPP8HpZYphfUW) | 3:00 | 2025-03-07 | 2025-04-10 |
+| [Lavender Dreams](https://open.spotify.com/track/1NONSMM1UVlXQSRzbMPh7O) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [Lavender Dreams](https://open.spotify.com/album/0aov7qYtkFDrPA6NRedhO6) | 2:32 | 2025-06-18 |  |
 | [Leggere](https://open.spotify.com/track/6YrLhDigWAMubVqnY3wtBj) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Leggere](https://open.spotify.com/album/4QzaKdPJYa0iJT4iyNH8V4) | 2:29 | 2025-05-02 | 2025-06-11 |
 | [Li](https://open.spotify.com/track/3Pfj28ILjwTSgBsIXSxYlo) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Li](https://open.spotify.com/album/1xOxD86o1JwiJ7YHeVxDKc) | 2:40 | 2025-05-30 |  |
 | [Little House In Silver Lake](https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Little House In Silver Lake](https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs) | 2:52 | 2025-03-07 |  |

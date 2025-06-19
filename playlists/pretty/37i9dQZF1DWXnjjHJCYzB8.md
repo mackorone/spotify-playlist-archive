@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnjjHJCYzB8.md) - [plain]
 
 > Spotify Singles releases in 2024\. Cover: mgk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,982 likes - 63 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,984 likes - 63 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnjjHJCYzB8.md) - [plain]
 | 62 | [BE QUIET AND DRIVE \(FAR AWAY\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [BE QUIET AND DRIVE \(FAR AWAY\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
 | 63 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 |
 
-Snapshot ID: `Z1BIAAAAAABJzMvYcmhoujJ8E6GmMgJa`
+Snapshot ID: `AAAAAI7R1Xg5VtK3HwGpo7iEMOGBHxFu`

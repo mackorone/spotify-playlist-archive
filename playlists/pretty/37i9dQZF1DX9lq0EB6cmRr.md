@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: 리베란테 \(Libelante\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,713 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,717 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

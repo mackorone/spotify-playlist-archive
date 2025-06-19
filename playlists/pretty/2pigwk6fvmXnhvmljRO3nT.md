@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,326 songs - 19 day 1 hr 18 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,335 songs - 19 day 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7334,5 +7334,14 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7324 | [It's Not up to You](https://open.spotify.com/track/4bZnIdaGBf162pZEkxXSgQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:08 |
 | 7325 | [HALO](https://open.spotify.com/track/35wZiQV2QPEEGjyh6XScaz) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [HALO](https://open.spotify.com/album/05X7klCQo760eyhjGMB87Q) | 3:06 |
 | 7326 | [味噌汁とバター \- Miso Soup and Butter](https://open.spotify.com/track/6QrokLHD7AFvDqFH7pCY7U) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [味噌汁とバター](https://open.spotify.com/album/0v2oNQqJLMRZefjFrJg6YN) | 3:52 |
+| 7327 | [Steven Universe](https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Steven Universe](https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5) | 2:14 |
+| 7328 | [미안해요](https://open.spotify.com/track/4iYTrQB2amGPC1xr9f1tlY) | [Page](https://open.spotify.com/artist/2HNClRtQHY6V3Y8oKLwLEU) | [She Is](https://open.spotify.com/album/4wFdwgD88TKvaIesWRNODR) | 4:03 |
+| 7329 | [Nothing To Do](https://open.spotify.com/track/1qKYAXcK5ypglqeCRZm1ZP) | [Unknown Caller](https://open.spotify.com/artist/0gUKK02uECB18NoTtiZngb), [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod) | [Nothing To Do](https://open.spotify.com/album/4gzQU25OlWhpo2TuwQ4AzS) | 2:18 |
+| 7330 | [I Can't Dance](https://open.spotify.com/track/1hPekmlLQeGEDwXCLlVGyK) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [I Can't Dance](https://open.spotify.com/album/18T4HS1T84eGe46CwZZLCY) | 3:34 |
+| 7331 | [The List](https://open.spotify.com/track/5mWh956KP56IWMbLBfxdqj) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Voyager](https://open.spotify.com/album/50lDM3nvxgVdMQJOtuL4ZJ) | 5:05 |
+| 7332 | [Glow Like Dat](https://open.spotify.com/track/7MXcmkmyxEYAJf04cbqKoI) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Amen](https://open.spotify.com/album/4Y2V5TihhuWyKGnUzLQEpH) | 3:30 |
+| 7333 | [Drive Safe](https://open.spotify.com/track/6R7r9D8PQTijGlKbWgXhH7) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/4BmpDhIUZ6x3cdleJkocVq) | 4:00 |
+| 7334 | [The Bare Necessities](https://open.spotify.com/track/0MoBDxWrEsLoTk4kTnCuvK) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 2:05 |
+| 7335 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
 
-Snapshot ID: `AAAHT0JMSr1JBECED401k6Wz8Ww9hiJa`
+Snapshot ID: `AAAHWK4a0rSOAm6d3bmICOmB9XsmV1+h`

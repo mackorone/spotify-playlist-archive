@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Camels",
+        "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
+      },
+      "artists": [
+        {
+          "name": "Paine Galletto",
+          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Camels",
+      "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
+    },
+    {
+      "album": {
         "name": "Can we talk about Isaac?",
         "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
       },

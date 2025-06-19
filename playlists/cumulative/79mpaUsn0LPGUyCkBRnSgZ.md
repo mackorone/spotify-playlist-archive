@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-830 songs - 2 day 7 hr 18 min
+833 songs - 2 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Native Belle](https://open.spotify.com/track/28N9Albx54zeZwhccbk3qR) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Ark](https://open.spotify.com/album/7Mpy0YPUymmzOopyQrMXw5) | 3:52 | 2024-07-22 |  |
 | [Natural Vaudou](https://open.spotify.com/track/7F5taDAEzGYIcKA6mYNlCs) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [Kidayu](https://open.spotify.com/album/76PW5sf4kKQR5jCZ05gilM) | 3:41 | 2024-01-18 | 2024-10-26 |
 | [Necessary](https://open.spotify.com/track/1oAmBK4NtTlQQHVdTNPl6y) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [90059](https://open.spotify.com/album/1fsvlnonD95p6VTEdQ7zJn) | 3:20 | 2022-07-26 |  |
+| [NEVER ENOUGH](https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 4:47 | 2025-06-18 |  |
 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2022-10-22 |  |
 | [New Jeans](https://open.spotify.com/track/7woEDtme8YkFiWeyiinIjy) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 1:48 | 2024-02-23 | 2024-03-28 |
 | [New Low](https://open.spotify.com/track/6Y2bJ2mjDB2zXmVBtVqdXf) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:06 | 2024-10-14 | 2025-01-05 |
@@ -651,6 +652,7 @@
 | [Slo Fuzz](https://open.spotify.com/track/3TXgeGMfOq4jcZT4cfAbQc) | [Sol Seppy](https://open.spotify.com/artist/0qj5XOYNq5KuJbvcWCa9vZ) | [The Bells of 1 2](https://open.spotify.com/album/5XgQr3mTgK0OZhbRA2U4M8) | 6:25 | 2024-01-17 |  |
 | [Smack My Bitch Up](https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:43 | 2024-06-17 | 2024-06-28 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2022-09-25 | 2024-01-30 |
+| [SOFT GIRL SUMMER](https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:32 | 2025-06-18 |  |
 | [Solar Pilgrim](https://open.spotify.com/track/1UhfqG8us3X5rygBwy4POa) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 5:20 | 2024-03-11 |  |
 | [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 | 2023-07-20 |  |
 | [Something To Believe In](https://open.spotify.com/track/6IUqxINlPXvKHIkKMeumwY) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Eat The Acid](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 3:29 | 2024-02-15 |  |
@@ -747,6 +749,7 @@
 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 | 2024-01-01 |  |
 | [Theme From Leaving Philadelphia](https://open.spotify.com/track/4hznb8bMK38TxibW8BQRNK) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Home Constellation Study](https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw) | 3:52 | 2024-09-09 | 2025-01-04 |
 | [There's a Rugged Road \- Remastered](https://open.spotify.com/track/5rIjJkNIY3sRtjPJVOctRE) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Heart Food](https://open.spotify.com/album/40epQ5uLIK1k7mGL0ESpUn) | 3:44 | 2022-12-17 | 2023-04-20 |
+| [Thief](https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:00 | 2025-06-18 |  |
 | [This Is Why](https://open.spotify.com/track/1EZWqtdpu8nw0uKGmWPz5a) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 2:55 | 2024-10-10 | 2024-12-19 |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-03-11 | 2024-01-30 |
 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 | 2023-08-01 | 2023-12-14 |

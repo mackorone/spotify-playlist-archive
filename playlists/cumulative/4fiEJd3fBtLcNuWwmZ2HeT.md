@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-305 songs - 17 hr 19 min
+306 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [青春コンプレックス](https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 | 2023-01-14 |  |
 | [頭ン痛](https://open.spotify.com/track/4gieTwT7brlTD7m4dbKnM6) | [えいぷ](https://open.spotify.com/artist/6AYMMKxeZatIcDKaGNx4Wa) | [頭ン痛](https://open.spotify.com/album/6NQ9OZw5Pg5H2bxK73XFWl) | 2:56 | 2024-09-20 |  |
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 | 2023-01-01 |  |
+| [＃曖昧人生](https://open.spotify.com/track/53hxSCel6qACDWZxH8iscW) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [＃曖昧人生](https://open.spotify.com/album/4eUuJBH7xGW2uNlAX2NTsm) | 3:06 | 2025-06-18 |  |
 | [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-12-17 |  |
 
 \*This playlist was first scraped on 2024-11-24. Prior content cannot be recovered.

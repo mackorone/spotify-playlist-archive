@@ -4,7 +4,7 @@
 
 > 
 
-244 songs - 14 hr 15 min
+245 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [LIBERTY](https://open.spotify.com/track/2uZCji4OCULmOAJE8yxprw) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 3:24 | 2023-07-20 |  |
 | [Lifestream](https://open.spotify.com/track/4Ow784ahnFJQt86XNQiKbI) | [Skit](https://open.spotify.com/artist/6ejpWdV51Wxr3azIpJXwoQ) | [wave 003](https://open.spotify.com/album/4DO3xx1RRiRaTHSTfIpBzt) | 4:33 | 2018-11-27 |  |
 | [Lightspeed](https://open.spotify.com/track/4upMSh6rBk9W57VnpqMSHM) | [Noah B](https://open.spotify.com/artist/4F4w1Gkfja6wPJzuMKCLmk) | [South Hills](https://open.spotify.com/album/4FyBJF9NNfO9Irl0kD1XsV) | 4:49 | 2019-04-01 |  |
+| [LIMIT](https://open.spotify.com/track/1Rs0HacYiBEC4NWm3r4GBh) | [LOSTMANE](https://open.spotify.com/artist/2ntaPzscRw8GRvBFF0SUlh) | [LIMIT](https://open.spotify.com/album/4ZM9OANaQdu2baFIfI3Pzs) | 3:00 | 2025-06-18 |  |
 | [Limit](https://open.spotify.com/track/5Fx4GDrdXHmfwmUdWVP839) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB), [Ytho](https://open.spotify.com/artist/5x0yHFCXMkXydFudgs6o3y) | [Limit](https://open.spotify.com/album/57C6FlZwT2L0p3pqemGmi5) | 3:25 | 2022-04-20 |  |
 | [Limpidity](https://open.spotify.com/track/3GfpW7D7XE1OUqiDK5cGBi) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL), [NVRLUV](https://open.spotify.com/artist/6O8B8YvVVfCAehzlfCVRuc) | [Limpidity](https://open.spotify.com/album/1IZyvyKpA4Cg3Wq8Nq72wL) | 4:06 | 2020-12-08 |  |
 | [Lohka](https://open.spotify.com/track/6bGLFtFT3k6k0OWi4FLSre) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Lohka](https://open.spotify.com/album/1KTDc1mq7gJM93GWEBXdED) | 3:13 | 2020-09-01 |  |

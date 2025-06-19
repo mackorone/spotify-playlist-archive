@@ -8950,7 +8950,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 267106,
       "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
       "url": "https://open.spotify.com/track/3JMDzxsIAxgfEMvmjOgpRr"
@@ -8968,7 +8968,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 267106,
       "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
       "url": "https://open.spotify.com/track/3SjXx3rbNGk8nCho8YEoz5"
@@ -11354,7 +11354,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 156035,
       "name": "Ekko",
       "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
@@ -27931,6 +27931,24 @@
     },
     {
       "album": {
+        "name": "PROYECTO ONE",
+        "url": "https://open.spotify.com/album/0EONaECmaYgR6xR3UT2tPl"
+      },
+      "artists": [
+        {
+          "name": "IurisEkero",
+          "url": "https://open.spotify.com/artist/4yh3pmJ514U9AfOrcPZyID"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239722,
+      "name": "Midnight Drive",
+      "url": "https://open.spotify.com/track/4WIqSwFtfwa8LpUxjvZmud"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi"
       },
@@ -37906,7 +37924,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 202200,
       "name": "Sommartider",
       "url": "https://open.spotify.com/track/1d1BeKPNgaQ36wcxGqnfU3"
@@ -44044,7 +44062,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 198173,
       "name": "Valborg",
       "url": "https://open.spotify.com/track/4vYSe7JHoQ1Y1nFSXwlqQ8"

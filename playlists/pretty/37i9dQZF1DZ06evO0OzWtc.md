@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OzWtc.md) - [plain]
 
 > This is Sebastian Esquivel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,996 likes - 33 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,998 likes - 33 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

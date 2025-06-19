@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY?si=3aVBUGroTxmRhuddmQ\_Fbg">Caiiro</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,619 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,907 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3945,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "Getter Back Song",
+        "url": "https://open.spotify.com/album/0wuyy8Le3WZagNuf0tSEaL"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187436,
+      "name": "Getter Back Song",
+      "url": "https://open.spotify.com/track/6jMpqkLNcXlmECPqbKh6g6"
+    },
+    {
+      "album": {
         "name": "Welcome To Countryland",
         "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 196833,
       "name": "Green in Colorado",
       "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
@@ -6342,7 +6360,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 215960,
       "name": "Life Behind Bars",
       "url": "https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr"
@@ -11346,6 +11364,28 @@
       "duration_ms": 192643,
       "name": "Turn It Down",
       "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
+    },
+    {
+      "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/4pGOuhDwIrhIRAFffciZHf"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        },
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206266,
+      "name": "Two Hands",
+      "url": "https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA"
     },
     {
       "album": {

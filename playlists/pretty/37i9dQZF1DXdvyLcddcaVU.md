@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,685 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,591 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
 | 2 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
-| 3 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 |
-| 4 | [Jen Selter](https://open.spotify.com/track/0lS7ahEMzhAt0cwcMjFWJa) | [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [Ateyaba](https://open.spotify.com/album/5t6841R6FNAGkEqqLb6OC4) | 4:32 |
-| 5 | [Los Angeles](https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Los Angeles](https://open.spotify.com/album/0Kzc5Q79RKy9q77FO6v1hP) | 3:05 |
-| 6 | [Mimi](https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:39 |
-| 7 | [Pa Pa Paw](https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [SARAH SEY](https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:35 |
-| 8 | [Shamballa](https://open.spotify.com/track/00iG5sAUI0DGedMuGvyKo1) | [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg) | [Shamballa](https://open.spotify.com/album/5JD4AQHlyGOR9w0qXtOavf) | 2:27 |
-| 9 | [Code](https://open.spotify.com/track/5dIRTiXv2EkCHARwxGxhMl) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [Repère](https://open.spotify.com/album/4eRNQtftgid6qOHfO7Fw5g) | 3:29 |
+| 3 | [Code](https://open.spotify.com/track/5dIRTiXv2EkCHARwxGxhMl) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [Repère](https://open.spotify.com/album/4eRNQtftgid6qOHfO7Fw5g) | 3:29 |
+| 4 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 |
+| 5 | [Jen Selter](https://open.spotify.com/track/0lS7ahEMzhAt0cwcMjFWJa) | [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [Ateyaba](https://open.spotify.com/album/5t6841R6FNAGkEqqLb6OC4) | 4:32 |
+| 6 | [Los Angeles](https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Los Angeles](https://open.spotify.com/album/0Kzc5Q79RKy9q77FO6v1hP) | 3:05 |
+| 7 | [Mimi](https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:39 |
+| 8 | [Pa Pa Paw](https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [SARAH SEY](https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:35 |
+| 9 | [Shamballa](https://open.spotify.com/track/00iG5sAUI0DGedMuGvyKo1) | [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg) | [Shamballa](https://open.spotify.com/album/5JD4AQHlyGOR9w0qXtOavf) | 2:27 |
 | 10 | [Un Poco](https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:08 |
 | 11 | [Celibataire Polygame](https://open.spotify.com/track/3UR6F2UJP6yClNugKXPOXH) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Celibataire Polygame](https://open.spotify.com/album/7ywV7kOvweiKhg0ntcEB3i) | 2:14 |
 | 12 | [Bwo](https://open.spotify.com/track/4De1ry2yC79qVUR2So9to8) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 3:52 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Super](https://open.spotify.com/track/1rSf5hRY0WREuRfiDLETqZ) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Super](https://open.spotify.com/album/4tPyjMTlhXtroKXgm67zT0) | 1:43 |
 | 90 | [Encore un soir](https://open.spotify.com/track/51yjUe42smRbgWvg9i9pFa) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Encore un soir \(Deluxe Edition\)](https://open.spotify.com/album/34ojCO0ZiLZwJlUFXuGx9R) | 4:23 |
 
-Snapshot ID: `AAAAAFgBDe+N0pT1osc7TBOCtth5YrA7`
+Snapshot ID: `aFJ64wAAAACYs+FhjqN2OXqdsxR5hGcy`

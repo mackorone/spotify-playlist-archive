@@ -4,7 +4,7 @@
 
 > Todo lo nuevo en música tropical 📸 La Nueva Escuela, Guaynaa, Valen, Frijo & URI.
 
-3,915 songs - 9 day 11 hr 8 min
+3,915 songs - 9 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3522,7 +3522,7 @@
 | [Tu Re Amor](https://open.spotify.com/track/5PDBDuocnXPAI2OMr41XzD) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Dj Ronel](https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT) | [Tu Re Amor](https://open.spotify.com/album/75gkJC5PQXpp8NTWn2nTpR) | 2:02 | 2025-04-11 | 2025-05-02 |
 | [Tu Recuerdo](https://open.spotify.com/track/2nQTahwqJWZ8oMSbkAJ8Wh) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy), [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Tu Recuerdo](https://open.spotify.com/album/4VL7GATdDqkJLSGDa4pJgE) | 3:21 | 2023-05-19 | 2023-06-10 |
 | [Tu Silencio](https://open.spotify.com/track/7J3NNz0295XbOZIv10GFLI) | [Daniel Moncion](https://open.spotify.com/artist/28UqZQBivOeUSS4k7Nclv5) | [Tu Silencio](https://open.spotify.com/album/1T7Du1VRDMHhkvsnddzEou) | 3:20 | 2024-11-01 | 2024-11-09 |
-| [Tu Sin Mi](https://open.spotify.com/track/6DEqT4O4pMGraUHJxs3L2s) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Tu Sin Mi](https://open.spotify.com/album/53GHk1DmWwuRAMynyR3H5f) | 47:29 | 2025-06-13 |  |
+| [Tu Sin Mi](https://open.spotify.com/track/6DEqT4O4pMGraUHJxs3L2s) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Tu Sin Mi](https://open.spotify.com/album/53GHk1DmWwuRAMynyR3H5f) | 3:41 | 2025-06-13 |  |
 | [Tu Sin Mi \- En Vivo en Mao Mao](https://open.spotify.com/track/0SQQie0iqa7HRzpMtIyw2C) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [En Vivo en Mao Mao](https://open.spotify.com/album/3EQpcVvzFoeywSzhwLI8i5) | 2:51 | 2023-06-16 | 2023-06-24 |
 | [Tu Sonrisa](https://open.spotify.com/track/2fvS1uq09HxUdb5TacY4af) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Momentos](https://open.spotify.com/album/4otpESFklCmaNyfdxaRueD) | 3:36 | 2024-05-24 | 2024-06-01 |
 | [Tu Turrito](https://open.spotify.com/track/2mb7V5a6iKg1FDo1je1lue) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Turrito](https://open.spotify.com/album/2iJHjdSr4OGX5FipBFCYl3) | 2:42 | 2022-07-22 | 2022-08-06 |

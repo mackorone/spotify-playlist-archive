@@ -2,7 +2,7 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 하현상\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: HYNN \(박혜원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
 1,499 songs - 4 day 1 hr 7 min
 

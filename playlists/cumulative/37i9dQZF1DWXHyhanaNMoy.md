@@ -4,7 +4,7 @@
 
 > Motion & good vibes ✨  Cover: DYSTINCT & J Balvin
 
-1,397 songs - 2 day 14 hr 26 min
+1,398 songs - 2 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [BMS \(feat\. Henkie T\)](https://open.spotify.com/track/3W8JSq7pOdwMdKkFpoEU9N) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Knock Knock 4](https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f) | 3:28 | 2023-10-26 | 2023-12-22 |
 | [BOCA](https://open.spotify.com/track/3RB7BHWMR3lzKzpxV0HLeL) | [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG), [WEF](https://open.spotify.com/artist/1dM4b6mWjcPqIoICG8DZBh), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [BOCA](https://open.spotify.com/album/1Cx9Aef4Hqu026KazG5Wto) | 2:46 | 2023-11-30 | 2024-01-05 |
 | [BODY](https://open.spotify.com/track/2k1WY9Vr6Txc7l3O4Wcfyr) | [Lienz](https://open.spotify.com/artist/11GMr695MGyabd8etqZQWz), [Max Wallin'](https://open.spotify.com/artist/44lBvUBMAoYZEysyPaGrEF) | [BODY](https://open.spotify.com/album/2qxZBNnSXkFqalMsVah8aX) | 3:12 | 2024-09-19 | 2024-10-04 |
+| [Body](https://open.spotify.com/track/6M4tR422E7QDUMnvTTAR7A) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Body](https://open.spotify.com/album/48vZv1GW1F7v8mL0CgYBdI) | 2:18 | 2025-06-18 |  |
 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 | 2023-01-19 | 2023-03-03 |
 | [Body 2 Body](https://open.spotify.com/track/6iqGygfWnXszZbsM4qzV4a) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Body 2 Body](https://open.spotify.com/album/5s23xxxuvlSxrpAhKqjRkE) | 2:35 | 2025-01-30 | 2025-04-18 |
 | [Body 2 Body](https://open.spotify.com/track/3nZUuSajBjZLSuE8T5wiBL) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Body 2 Body](https://open.spotify.com/album/4zrmUS51yIS2ttZtS3WPRo) | 3:07 | 2023-08-10 | 2023-10-13 |
@@ -339,7 +340,7 @@
 | [Devam](https://open.spotify.com/track/55avhPnraGoTdTH3TEaJwq) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC) | [Devam](https://open.spotify.com/album/57cfV5MDVuiNjDnwoTgbm1) | 2:23 | 2022-08-25 | 2022-10-07 |
 | [DEY INSIDE](https://open.spotify.com/track/6HVKsh53jZpEj53hC82rtU) | [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Dey Inside](https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D) | 3:14 | 2022-10-20 | 2022-12-09 |
 | [Deze Is Down \(feat\. Alessio\)](https://open.spotify.com/track/20cjwvKsa3aHrG6redo3xl) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj) | [Deze Is Down \(feat\. Alessio\)](https://open.spotify.com/album/5utViPOWp7hDineXZiLZxy) | 2:16 | 2023-01-09 | 2023-03-18 |
-| [dichterbij \(feat\. Jayh\)](https://open.spotify.com/track/5qBomtjM1hBlPFmWfBKkuV) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [dichterbij \(feat\. Jayh\)](https://open.spotify.com/album/4i8fuWraw9mCUSkkIsKF2f) | 2:51 | 2025-05-08 |  |
+| [dichterbij \(feat\. Jayh\)](https://open.spotify.com/track/5qBomtjM1hBlPFmWfBKkuV) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [dichterbij \(feat\. Jayh\)](https://open.spotify.com/album/4i8fuWraw9mCUSkkIsKF2f) | 2:51 | 2025-05-08 | 2025-06-19 |
 | [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/3V2cE4cuhzhpjQIi3H0tLG) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 2:41 | 2022-08-11 | 2022-09-16 |
 | [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/5M8paKPCqPGbIFpIrko57Y) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/2muVJPTQF1FXQZWgMgAQ3D) | 2:41 | 2022-07-24 | 2022-08-12 |
 | [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/6AhjFgx6oMbUeSy573Wt5t) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/7t3ilQDv7pSEUhpbelfXwR) | 2:41 | 2022-07-24 | 2022-08-03 |

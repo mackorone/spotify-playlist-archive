@@ -4,7 +4,7 @@
 
 > a state of mind.
 
-120 songs - 7 hr 2 min
+121 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Me and Paul](https://open.spotify.com/track/4BZ20FOTCuMpUB55eyHZAB) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Wanted! The Outlaws \(Expanded Edition\)](https://open.spotify.com/album/2QqTYCt0RbRC624nT607fV) | 3:46 | 2023-04-14 |  |
 | [Methadone Blues](https://open.spotify.com/track/1WMhjJguTtmFlvZjqLHzsI) | [Elizabeth Cook](https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s) | [Exodus of Venus](https://open.spotify.com/album/10LuaXEMNLVADDm2dxIlXD) | 3:43 | 2023-04-14 |  |
 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 | 2023-04-14 | 2024-10-19 |
+| [Morning Bail](https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Morning Bail](https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ) | 2:54 | 2025-06-18 |  |
 | [Must Be The Whiskey](https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Lifers](https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J) | 3:25 | 2023-04-14 |  |
 | [Must Be the Whiskey](https://open.spotify.com/track/324iakwekGIBGV93syJsVe) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Lifers](https://open.spotify.com/album/0Y28vln6HsP0J2lS2MDTdP) | 3:25 | 2023-12-22 | 2024-04-19 |
 | [Never Coming Home](https://open.spotify.com/track/1QFS3eH2za5MK7yuRY7af6) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/6fN2WnQAXBxcV3cuRiGCh6) | 3:09 | 2023-04-14 |  |

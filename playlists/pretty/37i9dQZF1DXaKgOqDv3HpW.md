@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,406 likes - 200 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,335 likes - 200 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 199 | [Nova Transit](https://open.spotify.com/track/7FxP1GBPMMmvPSpTWZ9YOv) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Nova Transit](https://open.spotify.com/album/4i1YgFF2n2NzLI2514wsHq) | 2:32 |
 | 200 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 |
 
-Snapshot ID: `aFFegQAAAACKDEW3O9AFvTG9oQ/o4pST`
+Snapshot ID: `aFFegQAAAAD8QQfIkWdg0Fk7XXhlSWV1`

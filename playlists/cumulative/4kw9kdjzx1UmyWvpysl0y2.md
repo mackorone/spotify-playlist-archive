@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,006 songs - 2 day 8 hr 34 min
+1,007 songs - 2 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Breathe](https://open.spotify.com/track/691BUkDzJN4qpyfz5PX2n2) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Breathe](https://open.spotify.com/album/3k0I7evLrcIRNdV1HbNfvW) | 2:29 | 2025-02-27 | 2025-05-24 |
 | [Breathe Me Back To Life](https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Breathe Me Back To Life](https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3) | 2:26 | 2023-01-06 | 2023-03-22 |
 | [Breathe Underwater](https://open.spotify.com/track/6dezSbSW7iJF6f6IJLznU6) | [Psy Trance Mafia](https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Breathe Underwater](https://open.spotify.com/album/4E9AWmsV9POjfg28Mz393X) | 4:30 | 2024-10-21 | 2025-01-29 |
+| [Breathing Underwater \- VIP](https://open.spotify.com/track/5zFkF9JXxS8tlRA7Gyfl2L) | [Hollywood Principle](https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9) | [Alive](https://open.spotify.com/album/664k9hObMi2CQ7cCnV88FO) | 3:26 | 2025-06-18 |  |
 | [Brighter Days](https://open.spotify.com/track/6C78ngoYTzfrg3MTHsIj3V) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu) | [Brighter Days](https://open.spotify.com/album/56IRKHg9FgiNgYyrvIUjTS) | 3:14 | 2024-08-08 | 2024-11-01 |
 | [Bring It On](https://open.spotify.com/track/2PktA4OszTJ9OAy6YSZ3kn) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [COPYCATT](https://open.spotify.com/artist/5XmObiDv74Etc9tJFMRtC4), [Def3](https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG) | [Mechanomorphic](https://open.spotify.com/album/3YSCEubpM4QyBWIMc2fU0w) | 2:29 | 2024-04-12 | 2024-07-03 |
 | [Bring Me Back](https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Bring Me Back](https://open.spotify.com/album/2O9vrpCCTCKdgd6eMGjm8h) | 3:33 | 2022-11-28 | 2023-02-23 |

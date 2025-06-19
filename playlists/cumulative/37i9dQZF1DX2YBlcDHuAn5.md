@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-230 songs - 13 hr 42 min
+231 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Changing Lanes](https://open.spotify.com/track/2Llgpo9AXTBNNHfGwfJzVN) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/5jhFRab152NcnXSPab5GNO) | 2:58 | 2023-08-17 | 2023-09-01 |
 | [Changing Lanes](https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE) | 2:58 | 2023-05-11 | 2024-09-13 |
 | [Changing Waters](https://open.spotify.com/track/3xyHbp6IiNdAIRrteoHs3Q) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Changing Waters](https://open.spotify.com/album/5JJZPG9uKbMw4L0K8IT6qX) | 3:25 | 2025-02-27 | 2025-03-17 |
-| [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 | 2024-07-25 |  |
+| [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 | 2024-07-25 | 2025-06-19 |
 | [Closing Time](https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl), [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Closing Time](https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO) | 3:22 | 2023-04-27 | 2023-05-13 |
 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 | 2023-02-23 | 2024-06-20 |
 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 | 2023-02-23 | 2023-03-18 |
@@ -92,6 +92,7 @@
 | [High Heels](https://open.spotify.com/track/4M3uKxjhfTLfQidMDgEEgC) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 3:22 | 2023-02-23 | 2023-04-28 |
 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 | 2024-03-07 |  |
 | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb) | 3:31 | 2024-09-12 |  |
+| [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-18 |  |
 | [Hold Your Fire](https://open.spotify.com/track/6mzTD4VqE5lEg7MLQ8PKqK) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Hold Your Fire](https://open.spotify.com/album/3AMaRXx8JHkgraFE2koTaY) | 3:16 | 2025-03-13 | 2025-05-03 |
 | [Holding On](https://open.spotify.com/track/4Q5KEZORwgsmQfP9H4Z2M6) | [Mick Stender](https://open.spotify.com/artist/4iRkCYOHNpZ4QKzRQ1GahA) | [Holding On](https://open.spotify.com/album/3m9FmFnqFgKJ1XWgZSHUBE) | 3:06 | 2023-05-31 | 2023-08-03 |
 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2023-02-23 | 2023-10-06 |

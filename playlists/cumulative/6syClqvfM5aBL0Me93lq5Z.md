@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-60 songs - 3 hr 39 min
+61 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Color in Your Cheeks](https://open.spotify.com/track/7MLJb6r8yWftfsGmR0Qbiy) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:40 | 2024-12-07 |  |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2023-12-01 |  |
+| [Good Life](https://open.spotify.com/track/0Exrm1yghvQ4ykj23tLsVN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Americanachronism](https://open.spotify.com/album/7kTXiQqgNWxeaZHq3efuVn) | 3:11 | 2025-06-18 |  |
 | [Great King Rat \- Remastered 2011](https://open.spotify.com/track/57uAYnfX1UHDWn5tD1xbFf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Remastered Version\)](https://open.spotify.com/album/64axF9Amc2ExcZbFs8btdv) | 5:43 | 2023-03-21 |  |
 | [Hammer To Fall](https://open.spotify.com/track/2GCFcbxm61rSA8gzsDk6NJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) | 4:26 | 2023-03-21 |  |
 | [Harbor Me](https://open.spotify.com/track/7nj7vE7w2kQ8XrtlRjaqor) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:07 | 2025-02-16 |  |

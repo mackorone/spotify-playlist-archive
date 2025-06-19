@@ -4,7 +4,7 @@
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-270 songs - 16 hr 11 min
+271 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Crazy](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) | 3:12 | 2024-03-27 | 2024-04-19 |
 | [Crazy](https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [It’s](https://open.spotify.com/album/2yLpZZ6W01CqesccYaxEkL) | 3:07 | 2022-04-19 | 2024-03-28 |
 | [CROOKED](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:44 | 2024-03-27 | 2024-04-19 |
-| [CRUSH](https://open.spotify.com/track/7FLHZtNqn4PfSs6DwtWdY3) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:14 | 2024-03-27 |  |
+| [CRUSH](https://open.spotify.com/track/7FLHZtNqn4PfSs6DwtWdY3) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:14 | 2024-03-27 | 2025-06-19 |
 | [Cry](https://open.spotify.com/track/0MXLWV4FdduvoPeHu0Yaoc) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/4DJLmLRFfzwzm9boS9jK2m) | 3:47 | 2022-04-19 | 2022-07-29 |
 | [Darling](https://open.spotify.com/track/4zM1okF68wbvOCmcyKDXkH) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [GIRL'S DAY EVERYDAY no\. 4](https://open.spotify.com/album/0Hsi6dYQAytY08EJm3zMRT) | 3:13 | 2022-04-19 | 2023-08-12 |
 | [DAY BY DAY](https://open.spotify.com/track/2X1Fg19lRPQD0OXKnkjvpP) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [DAY BY DAY](https://open.spotify.com/album/3iMOnSJt71rQi8Ksdy0KpE) | 3:29 | 2024-03-27 | 2024-04-19 |
@@ -84,6 +84,7 @@
 | [Fantastic Baby](https://open.spotify.com/track/2RF8FYONlJjsHzfEpzdGwz) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/2Bop0HvYsDrF9EhAQGfjUi) | 3:52 | 2022-04-19 | 2022-07-29 |
 | [FANTASTIC BABY \- Japanese ver.](https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM) | 3:51 | 2022-04-19 | 2024-04-19 |
 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 | 2024-03-27 |  |
+| [Fire](https://open.spotify.com/track/2EwOnaGCrPjbmyZlt76NN4) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:42 | 2024-03-27 |  |
 | [FIRE](https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 3:45 | 2022-04-19 |  |
 | [First Love](https://open.spotify.com/track/2LdOm1BBfBbQjw9LrqmfuC) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [After School The 6th Maxi Single 'First Love'](https://open.spotify.com/album/6dIwlMT5nRODXU03vPs1lv) | 3:37 | 2024-03-27 | 2025-04-01 |
 | [Full Moon](https://open.spotify.com/track/3klmHDE1vmBq6FYyPz0QE0) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Lena](https://open.spotify.com/artist/6W5bl0j5Wk58tJjVCwPefI) | [Full Moon](https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu) | 3:22 | 2024-03-27 | 2024-04-19 |

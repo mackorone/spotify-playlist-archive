@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Cameron Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,025,400 likes - 126 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,024,606 likes - 126 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

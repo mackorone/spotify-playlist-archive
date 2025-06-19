@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Akanksha Kashyap, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Dridha, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -446,6 +446,24 @@
       "duration_ms": 253846,
       "name": "Aaja",
       "url": "https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ"
+    },
+    {
+      "album": {
+        "name": "Aakhri Manzil",
+        "url": "https://open.spotify.com/album/2E78vEc480F80QfqbownqU"
+      },
+      "artists": [
+        {
+          "name": "Vishal Kumar",
+          "url": "https://open.spotify.com/artist/63hWLKVUPbT0yJdr1CfzHW"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293760,
+      "name": "Aakhri Manzil",
+      "url": "https://open.spotify.com/track/1WoswTeeU1sYPT6Ryub1sR"
     },
     {
       "album": {
@@ -2396,6 +2414,24 @@
       "duration_ms": 207999,
       "name": "Baatien",
       "url": "https://open.spotify.com/track/1nEaT071zg8IMNtEgYgzhi"
+    },
+    {
+      "album": {
+        "name": "Bachpan",
+        "url": "https://open.spotify.com/album/6WTQRHJm4eu6x6dgoCckSS"
+      },
+      "artists": [
+        {
+          "name": "Sahir",
+          "url": "https://open.spotify.com/artist/44ps55EbqgabgYbgzBJHj2"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160434,
+      "name": "Bachpan",
+      "url": "https://open.spotify.com/track/5Lz2kAnP2BhQ03iV8wO1R3"
     },
     {
       "album": {
@@ -5958,7 +5994,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 270942,
       "name": "Dhamaal",
       "url": "https://open.spotify.com/track/6Z9jblw0HIOQfYwxgBwufA"
@@ -6198,6 +6234,24 @@
       "duration_ms": 220800,
       "name": "Dil",
       "url": "https://open.spotify.com/track/31TNJUESVv25PwVauicMsK"
+    },
+    {
+      "album": {
+        "name": "Dil",
+        "url": "https://open.spotify.com/album/2l0p4u7sgphzuzHa0c2eoo"
+      },
+      "artists": [
+        {
+          "name": "Joshua Singh",
+          "url": "https://open.spotify.com/artist/38HBNhl3BVneu8qCuG8wW9"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Dil",
+      "url": "https://open.spotify.com/track/6e04t5OpdovWt98yAcVTS5"
     },
     {
       "album": {
@@ -12064,7 +12118,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 205006,
       "name": "Jaan E Adaa",
       "url": "https://open.spotify.com/track/3RV18zimaM344hqy84DYiH"
@@ -15086,7 +15140,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 188624,
       "name": "Kho Diya",
       "url": "https://open.spotify.com/track/7b60nLq36aLOEa8L59EiFW"
@@ -24390,7 +24444,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 243857,
       "name": "Saba Ke Baad",
       "url": "https://open.spotify.com/track/7ipRE0SOEQgGgKwPppZKf0"
@@ -24914,6 +24968,32 @@
       "duration_ms": 229131,
       "name": "Samandar",
       "url": "https://open.spotify.com/track/21LueiAOEeMwrXBQaLOGi8"
+    },
+    {
+      "album": {
+        "name": "Samay",
+        "url": "https://open.spotify.com/album/0AIvEsKxRnNoPgPa9joW9e"
+      },
+      "artists": [
+        {
+          "name": "Chayanika Gargg",
+          "url": "https://open.spotify.com/artist/1xXKRokUfPokIaSp8CW4fW"
+        },
+        {
+          "name": "Super Sachinn",
+          "url": "https://open.spotify.com/artist/0u2J3zxGM7btqABBbJq8xq"
+        },
+        {
+          "name": "UNPLG'd",
+          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78620,
+      "name": "Samay",
+      "url": "https://open.spotify.com/track/3UnoRhbtklJ7fge8vmw2tY"
     },
     {
       "album": {
@@ -30471,6 +30551,28 @@
     },
     {
       "album": {
+        "name": "Urmila",
+        "url": "https://open.spotify.com/album/5pMcjjPDKl3uiAGyZwSpsg"
+      },
+      "artists": [
+        {
+          "name": "Dridha",
+          "url": "https://open.spotify.com/artist/1Es2pwZLCpNubImbBdJwyr"
+        },
+        {
+          "name": "daszi",
+          "url": "https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Urmila",
+      "url": "https://open.spotify.com/track/4I3gkjmkUx1uKiQ2vFw7kT"
+    },
+    {
+      "album": {
         "name": "Usey Le Gaye",
         "url": "https://open.spotify.com/album/3Sx0T2iSDA6Ai0jv9L5ytU"
       },
@@ -31794,7 +31896,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 186122,
       "name": "Yahin",
       "url": "https://open.spotify.com/track/7B9J1anTS3WRHwMtJI7SYW"

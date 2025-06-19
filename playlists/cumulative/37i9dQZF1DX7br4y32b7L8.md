@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-724 songs - 1 day 12 hr 38 min
+725 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-23 |  |
 | [The Girl From Ipanema \- Single Version](https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:47 | 2023-06-07 | 2023-07-05 |
 | [The Glen](https://open.spotify.com/track/0ZIxdZXPHnjUT3PdBKRziQ) | [Beluga Lagoon](https://open.spotify.com/artist/0RYoM8xN6lU16c9YGrBuLC) | [The Caledonian Fig Tree](https://open.spotify.com/album/61sSD9oG2awgIu3FRCgrP0) | 4:10 | 2025-05-08 |  |
+| [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-06-18 |  |
 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/7ylQ8ujoKyIN4P7agsVBM5) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/7BPL3AJW7zXLDYXRuJaiUA) | 2:25 | 2024-04-22 | 2025-05-09 |
 | [The Night Was So Young \- Remastered 2000](https://open.spotify.com/track/5Hn97SNflEPyTdfuwOuZ4A) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Love You \(Remastered\)](https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi) | 2:19 | 2024-06-12 | 2024-06-21 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-11-09 | 2024-03-06 |

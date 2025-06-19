@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 La Nueva Escuela, Guaynaa, Valen, Frijo & URI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,293 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,309 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 11 | [Pa Quererte](https://open.spotify.com/track/4pT9TCZn7fbQnejLqsouq0) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [Pa Quererte](https://open.spotify.com/album/6iKkFTvbfrG1hEOIrpIOd7) | 2:54 |
 | 12 | [Mi Ex](https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB) | [Mi Ex](https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj) | 2:21 |
 | 13 | [Se Acabó](https://open.spotify.com/track/1pKC28JiObb99Eu16dvi5r) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [Se Acabó](https://open.spotify.com/album/1GaDwHTEYxPs6GnTnjXs1p) | 4:12 |
-| 14 | [Tu Sin Mi](https://open.spotify.com/track/6DEqT4O4pMGraUHJxs3L2s) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Tu Sin Mi](https://open.spotify.com/album/53GHk1DmWwuRAMynyR3H5f) | 47:29 |
+| 14 | [Tu Sin Mi](https://open.spotify.com/track/6DEqT4O4pMGraUHJxs3L2s) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Tu Sin Mi](https://open.spotify.com/album/53GHk1DmWwuRAMynyR3H5f) | 3:41 |
 | 15 | [Lo Intentamos \- En Vivo](https://open.spotify.com/track/36jvrW1O6gC9ke11k9Quis) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Puro Sabor Original Vol 2](https://open.spotify.com/album/2CjEVbNv5owFgGjhY7qeWc) | 2:02 |
 | 16 | [Bésame Morenita](https://open.spotify.com/track/3w4JtjrEch6xNMXzdE9hZu) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Bésame Morenita](https://open.spotify.com/album/3It9GJkiLRY4rEaSlwsjoH) | 2:43 |
 | 17 | [Te Lo Agradezco \- En Vivo](https://open.spotify.com/track/5NLwnaH6y4VmVwieStWi2B) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Te Lo Agradezco \(En Vivo\)](https://open.spotify.com/album/0gW5Fjb06PdAIegfvMTmWC) | 3:01 |

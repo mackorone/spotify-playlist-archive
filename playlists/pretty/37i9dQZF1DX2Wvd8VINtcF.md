@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Deki Alem✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,215 likes - 115 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,223 likes - 115 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

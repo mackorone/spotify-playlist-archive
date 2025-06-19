@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 理想混蛋 \(Bestards\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,234 likes - 81 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,239 likes - 81 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 2 | [朋友之歌（劇集《拜六禮拜》片頭曲）](https://open.spotify.com/track/6nb3GGgL51Op0qfXmQRv9o) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [朋友之歌（劇集《拜六禮拜》片頭曲）](https://open.spotify.com/album/2k8YE5qrXx4cOHfAD7nWzs) | 3:23 |
 | 3 | [空山灵雨](https://open.spotify.com/track/1giR0EfBVH8Ang7hHMWuSQ) | [新裤子乐队](https://open.spotify.com/artist/3asy14alGCZBDd3Y6pbBbp), [旅行团](https://open.spotify.com/artist/7pK5MAjGCDxupvI1O4QYZC) | [空山灵雨](https://open.spotify.com/album/0m9jMSkU7xa15SNjmem6A6) | 3:12 |
 | 4 | [山野里的太阳](https://open.spotify.com/track/1TaWmBp7v4lOhWcKhXbTwC) | [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF), [大凉山妞妞合唱团](https://open.spotify.com/artist/4WVajhvcBlHdkwknAjgum8) | [山野里的太阳](https://open.spotify.com/album/78HrJ0os5Wf2o5aTWMDHep) | 4:20 |
-| 5 | [Rolling Life](https://open.spotify.com/track/3jw49HkIDAsJ1HHIU96rlm) | [ROLLING SISTERS](https://open.spotify.com/artist/3jgF4ElGLpJQDVKCKUmiET) | [Rolling Life](https://open.spotify.com/album/5odzcJIwfMyJEMjxgDwMY8) | 3:25 |
+| 5 | [Rolling Life](https://open.spotify.com/track/3jw49HkIDAsJ1HHIU96rlm) | [ROLLING SISTERS](https://open.spotify.com/artist/3jgF4ElGLpJQDVKCKUmiET), [刘忻](https://open.spotify.com/artist/5UgeL9yjnOMlBvnP4Teawa), [张予曦](https://open.spotify.com/artist/52JuCUosahcqLX8kfYxKB5), [Guo Bi Ting](https://open.spotify.com/artist/62KEagX4r21jbqdcOp5x5O), [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [Rolling Life](https://open.spotify.com/album/5odzcJIwfMyJEMjxgDwMY8) | 3:25 |
 | 6 | [美國明信片 \- 錯頻沒在稿 OFF THE RECORD \- DEMO](https://open.spotify.com/track/6yj3FKodibql57S8udJM3F) | [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Andrew Su](https://open.spotify.com/artist/4oIhsb4tPloa7dQH0TQfhu), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [美國明信片 \- 錯頻沒在稿 OFF THE RECORD \(DEMO\)](https://open.spotify.com/album/6fxX6iCbBWdKNdE6dQ6T76) | 2:37 |
 | 7 | [不禮貌運動](https://open.spotify.com/track/6fsuvqRBMP7pqJfTHbzqZ7) | [BRBP](https://open.spotify.com/artist/4cr0LDiecyD9HJt7zE58YJ) | [BRBP](https://open.spotify.com/album/2JnB3TyJHmNvoAgHNvmOHv) | 2:26 |
 | 8 | [Spring](https://open.spotify.com/track/7hRJ9DPShYIcGOkKIra3CL) | [Puman](https://open.spotify.com/artist/1V6gBBt9SmuJobwq0VhMqc) | [Spring](https://open.spotify.com/album/5QPQJzkgvZ7UeNISgEFy3d) | 4:23 |

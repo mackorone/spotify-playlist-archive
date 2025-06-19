@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2027241,
+  "num_followers": 2027772,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEbrQwAAAAB/Oh4yurXNXPL7//nK3xO/",
+  "snapshot_id": "aFJHmQAAAABRucv27cWVY79rOfa4WGRL",
   "tracks": [
     {
       "added_at": "2025-04-18 17:03:04",
@@ -23,6 +23,22 @@
       "duration_ms": 160923,
       "name": "makes me want you",
       "url": "https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "BABYDOLL",
+        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "BABYDOLL",
+      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
     },
     {
       "added_at": "2025-06-06 04:00:10",
@@ -71,22 +87,6 @@
       "duration_ms": 165408,
       "name": "a little bit",
       "url": "https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2"
-    },
-    {
-      "added_at": "2025-04-11 04:00:16",
-      "album": {
-        "name": "Five Roses",
-        "url": "https://open.spotify.com/album/6ClZsXgo6T1wbnZifhvsTZ"
-      },
-      "artists": [
-        {
-          "name": "Nic Dean",
-          "url": "https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38"
-        }
-      ],
-      "duration_ms": 111543,
-      "name": "Five Roses",
-      "url": "https://open.spotify.com/track/4R6EMxsqzFplNAIyig4RX4"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "BABYDOLL",
-        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "BABYDOLL",
-      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "eyes don't lie",
         "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
       },
@@ -1021,22 +1005,6 @@
       "url": "https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"
     },
     {
-      "added_at": "2025-03-14 04:00:01",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Still Over It",
@@ -1055,6 +1023,22 @@
       "duration_ms": 231497,
       "name": "No Love (with SZA)",
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+    },
+    {
+      "added_at": "2025-03-14 04:00:01",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
     },
     {
       "added_at": "2025-02-25 17:54:38",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 133608,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "God Needs The Devil",
         "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 180902,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "Favorite",
-      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1679,6 +1663,22 @@
       "duration_ms": 214840,
       "name": "DIRTY LITTLE SECRET",
       "url": "https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP"
+    },
+    {
+      "added_at": "2025-04-11 04:00:16",
+      "album": {
+        "name": "Five Roses",
+        "url": "https://open.spotify.com/album/6ClZsXgo6T1wbnZifhvsTZ"
+      },
+      "artists": [
+        {
+          "name": "Nic Dean",
+          "url": "https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38"
+        }
+      ],
+      "duration_ms": 111543,
+      "name": "Five Roses",
+      "url": "https://open.spotify.com/track/4R6EMxsqzFplNAIyig4RX4"
     },
     {
       "added_at": "2025-02-04 01:02:45",

@@ -4,10 +4,11 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky, Danny Ocean, Yorghaki
 
-174 songs - 10 hr 23 min
+174 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 0:00 | 2021-12-17 |  |
 | [3 de La Mañana \- con Sebastián Yatra & Mora](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana \(con Sebastián Yatra & Mora\)](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 | 2021-12-17 | 2023-09-23 |
 | [A Usted](https://open.spotify.com/track/4PX3v1a24ji1lKcK1XLyOJ) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/7FFD7wBmJN2GA2GiY3Hmfx) | 2:59 | 2021-12-17 |  |
 | [A Usted](https://open.spotify.com/track/5LSC9zM0ppYJJjHwvVvFef) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/5MaoWlg2pDE2YD4meTjq0n) | 2:59 | 2023-11-21 | 2024-04-19 |
@@ -144,7 +145,6 @@
 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 | 2021-12-17 | 2022-04-23 |
 | [Sé Como Duele](https://open.spotify.com/track/7a8ShNCakt6bJj1GhNEdYF) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY) | 3:13 | 2021-12-17 |  |
 | [Sé Cómo Duele](https://open.spotify.com/track/1723G9MmbFUTH8yai7AaWL) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2EeG6eYEpdAovdBFioA4C3) | 3:13 | 2023-03-03 | 2024-04-19 |
-| [Tan Enamorados \(Nina Bonita\)](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Haciendo Camino](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 4:12 | 2021-12-17 |  |
 | [Te Doy Mi Amor](https://open.spotify.com/track/5cgwBlY1oNdnuNsy4PaXAz) | [Bacanos](https://open.spotify.com/artist/3z3dviTNMzuW5GNEfcZQdP) | [Baila Pa Mi](https://open.spotify.com/album/3V12VqHb3oVpbwFGd3tKGn) | 3:48 | 2021-12-17 |  |
 | [Te Regalo](https://open.spotify.com/track/3z5sIFdvh6TJNJeBzRrQIE) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [Te Regalo](https://open.spotify.com/album/2unJkpyUhicgaOswYDXV0p) | 3:25 | 2021-12-17 | 2024-06-08 |
 | [Te Veo](https://open.spotify.com/track/7iG17BHNVVEUr5gIiJX2xX) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Sin Otro Sentido](https://open.spotify.com/album/5TcY3XLRQoEfKOJGeTPbRS) | 3:25 | 2022-04-22 | 2023-02-10 |

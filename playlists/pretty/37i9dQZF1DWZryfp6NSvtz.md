@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: King Gizzard & The Lizard Wizard
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,610 likes - 124 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,675 likes - 124 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 123 | [Blister](https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Blister](https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi) | 2:59 |
 | 124 | [Honestly \- 2025](https://open.spotify.com/track/3HcVnj43hUwrO4LB7dJam7) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Honestly \- 2025](https://open.spotify.com/album/5cOhKZM8PBt1VAIQnIzCvy) | 3:17 |
 
-Snapshot ID: `aEuiawAAAABdLDSVOMFb4r6e4jzhxAIn`
+Snapshot ID: `AAAAAD7yyusyQ2SEV5PRXHaNMXGdsqKO`

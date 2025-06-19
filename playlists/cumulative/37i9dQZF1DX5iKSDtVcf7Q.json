@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193248,
+      "name": "Favorite Country Song",
+      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
+    },
+    {
+      "album": {
         "name": "Seasons Change",
         "url": "https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON"
       },
@@ -2754,7 +2772,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 179800,
       "name": "River Bank",
       "url": "https://open.spotify.com/track/0U6uTxVPeoXFcxlXMIWgAR"
@@ -3330,7 +3348,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 198121,
       "name": "The Outskirts",
       "url": "https://open.spotify.com/track/5ePiRipYivQM29vGNr3S1a"
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 208280,
       "name": "The Way I Talk",
       "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"

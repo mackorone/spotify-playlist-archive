@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 
 > Our editors' picks for best dance songs of the year! Cover: John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,032 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,067 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 74 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 |
 | 75 | [Cheerleader](https://open.spotify.com/track/17aa3AJfqnq75mrK3s6oxl) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/06zkvBCeKh3lMZverXKpLD) | 3:57 |
 
-Snapshot ID: `AAAAACmmnxDpBHmKJ6La5Jx/MctBXt/p`
+Snapshot ID: `Z1BIAAAAAAAi841o7pMRkymjo90Welpm`

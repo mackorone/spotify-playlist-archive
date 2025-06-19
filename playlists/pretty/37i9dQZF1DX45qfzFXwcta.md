@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,999 likes - 120 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,044 likes - 120 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 108 | [Rap Schoolar](https://open.spotify.com/track/6AKQIna8REfb54dtbEOR8w) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Expedition, Vol\. 9 \(Ghetto Fills\)](https://open.spotify.com/album/23VCRGkMolZniUhHTDGGJy) | 3:39 |
 | 109 | [Walking on the Moon](https://open.spotify.com/track/7uKF3UtE3MvhpywiDOwzgE) | [Mawon](https://open.spotify.com/artist/6O8kDoKPbhZTk5417eTBc9), [Vibin'](https://open.spotify.com/artist/5dmHoeGSjjd94vPj9m7m1V) | [Walking on the Moon](https://open.spotify.com/album/3JgUYDalMVyrpBRFCSoEGB) | 2:17 |
 | 110 | [Hear The Vibes](https://open.spotify.com/track/0VR0PrR3URSvUMrOo3MM3f) | [Mobsta Mane](https://open.spotify.com/artist/7xlFYuidFca4KP0IIReFTu), [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2) | [Hear The Vibes](https://open.spotify.com/album/1OLWYenrB1gnk9a28KKOYi) | 2:56 |
-| 111 | [in a mood](https://open.spotify.com/track/3k8P1xEYqQeIQeiJbZmQsQ) | [lazyymii](https://open.spotify.com/artist/1KltShvhgVoF8auxETfs2U), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [in a mood](https://open.spotify.com/album/4C3uHlcnzyXnGtM6jeiaLB) | 1:16 |
+| 111 | [in a mood](https://open.spotify.com/track/3k8P1xEYqQeIQeiJbZmQsQ) | [lazyymii](https://open.spotify.com/artist/1KltShvhgVoF8auxETfs2U) | [in a mood](https://open.spotify.com/album/4C3uHlcnzyXnGtM6jeiaLB) | 1:16 |
 | 112 | [Spray Colors](https://open.spotify.com/track/5B2dAco4S0I8TAQuIW8p3L) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Spray Colors](https://open.spotify.com/album/3Uj1MaF7Fbm3vrnpg8M4ll) | 2:07 |
 | 113 | [Venus](https://open.spotify.com/track/4EnHspKqEoHm7Y7qWsHiio) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [Venus](https://open.spotify.com/album/1yi25ZYDp30WwXwQwMkvlu) | 1:43 |
 | 114 | [The Light \- Instrumental Version](https://open.spotify.com/track/6RQdGCiHnoWPpTAfI97hUR) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Dat's That Shit! \(An Exclusive Collection of Rare Instrumentals from the Dat Vault\)](https://open.spotify.com/album/5gBjsO4i4OjLKWvwezXdIo) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HNmsqZ1nyc.md) - [plain]
 
 > Enjoy the Stray Kids fan meeting LIVE SET including the voices of them on stage! \(스트레이 키즈의 무대 멘트와 목소리가 포함된 서울 팬미팅 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,034 likes - 17 songs - 42 min 53 sec
+[Spotify](https://open.spotify.com/user/spotify) - 140,072 likes - 17 songs - 42 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HNmsqZ1nyc.md) - [plain]
 | 16 | [Ment 5](https://open.spotify.com/track/5RLDEdoLOHhBcgc9Fnpwgc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids \- Fanmeeting Live Set Experience audio liners](https://open.spotify.com/album/5stuzfvUlqJdlmJaMaSbe8) | 0:13 |
 | 17 | [TA](https://open.spotify.com/track/5u1H4quQm0W3sYP2OqvFIJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:28 |
 
-Snapshot ID: `ZhO4CwAAAADDqtzSQdE6Iq/nsks2QH0M`
+Snapshot ID: `AAAAAJgEIbVMqMEadR1sBONwekE7kkw6`

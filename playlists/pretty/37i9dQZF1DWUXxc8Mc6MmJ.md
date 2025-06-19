@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,495 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,747 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 99 | [THUMPING](https://open.spotify.com/track/0OliIx9VT7zckrj1abkjoN) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [She Was Prettty OST Part.1](https://open.spotify.com/album/4X7muDCMjHRPOF7nu9on1U) | 3:25 |
 | 100 | [You Are My Everything \- English Version](https://open.spotify.com/track/659eroHArk1V6qzOBDaLDL) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
 
-Snapshot ID: `aCTd7QAAAABLJy1cG525b6d9rzY7une2`
+Snapshot ID: `aFL8PgAAAABSdNod8gptovba53aNvdOc`

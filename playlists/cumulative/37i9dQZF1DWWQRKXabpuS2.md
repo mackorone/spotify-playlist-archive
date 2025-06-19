@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد
 
-414 songs - 1 day 4 hr 26 min
+415 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Ehssas](https://open.spotify.com/track/0FZ83x8emlQB24jrOSDsYc) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ehssas](https://open.spotify.com/album/4c79IbeNeVTf7a0GXRa0l4) | 4:19 | 2023-09-08 | 2024-04-11 |
 | [Eid Bala Qyoud](https://open.spotify.com/track/4wpTGJzGX2NMSo5xiojbmY) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U), [Hamad Alkhazina](https://open.spotify.com/artist/3p0nJ84LCAtFxqIg2zdAcE) | [Eid Bala Qyoud](https://open.spotify.com/album/2XucnWpj84VDUWf1hEGrK8) | 2:39 | 2024-04-10 | 2024-04-16 |
 | [Einy Aalehom](https://open.spotify.com/track/2hi4t9aTdbdnV3bmTqPnuo) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Einy Aalehom](https://open.spotify.com/album/4wZKwtTMAzCOpU0e9hesAO) | 3:30 | 2024-02-06 | 2024-09-06 |
+| [Eish Yomak \- عيش يومك](https://open.spotify.com/track/5qs0HZcosHPY8VbA8ZPhJ8) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Eish Yomak \- عيش يومك](https://open.spotify.com/album/6yN1knSzq2HG5Bab3qqd3x) | 2:59 | 2025-06-18 |  |
 | [Ekhtisar](https://open.spotify.com/track/1Av47fzk2dSeJJGrcyodMN) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ekhtisar](https://open.spotify.com/album/4VsKu058hl6R9XH7ZsocV3) | 5:13 | 2024-06-24 | 2025-04-24 |
 | [El Gheyab](https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [El Gheyab](https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3) | 5:21 | 2023-08-18 | 2024-02-28 |
 | [El Hajah](https://open.spotify.com/track/1vXGTrgrBe5pPYgd2wBjSx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [El Hajah](https://open.spotify.com/album/0ojU0NHmHEh9756Is45OzT) | 4:23 | 2023-01-24 | 2023-06-24 |
@@ -187,7 +188,7 @@
 | [Laalaha Khierah](https://open.spotify.com/track/6idBQjC1kZMtrvVyWaLsAK) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Laalaha Khierah](https://open.spotify.com/album/58ZvMH4DjAoNkY3r7vx32g) | 5:05 | 2024-02-21 | 2024-10-11 |
 | [Labba Ghalak](https://open.spotify.com/track/7s69csDDFLra4cViwDXG97) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Labba Ghalak](https://open.spotify.com/album/2DlF4zMTimbBjfXtFiNQGE) | 3:32 | 2025-06-02 |  |
 | [Lail EL Mefarag](https://open.spotify.com/track/2jr8YIesCQsPzjLpjwJx20) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Lail EL Mefarag](https://open.spotify.com/album/4lHyB1fOo2GPI34u47qwSD) | 4:34 | 2022-09-30 | 2023-05-03 |
-| [Lak Saqeni Al Rab](https://open.spotify.com/track/1UyCd0dfP02R4AUwWllZCx) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Lak Saqeni Al Rab](https://open.spotify.com/album/4Nh1qUEn7dP8s6Q5FMBfP3) | 4:30 | 2024-08-08 |  |
+| [Lak Saqeni Al Rab](https://open.spotify.com/track/1UyCd0dfP02R4AUwWllZCx) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Lak Saqeni Al Rab](https://open.spotify.com/album/4Nh1qUEn7dP8s6Q5FMBfP3) | 4:30 | 2024-08-08 | 2025-06-19 |
 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 | 2024-07-26 | 2025-04-29 |
 | [Law Hasal](https://open.spotify.com/track/2Jmss8fkY5ekwYG8e5G2P6) | [Assala](https://open.spotify.com/artist/1pGpWJAc8q7SDm620WPbFN) | [Faisaliat](https://open.spotify.com/album/5cQDEwL3OpqanDK8bUjE5j) | 5:08 | 2025-04-23 |  |
 | [Laylat Wasalik](https://open.spotify.com/track/25mXaT1xhfpNLIxzGuZuMM) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [Laylat Wasalik](https://open.spotify.com/album/0dq5lcujNRomZmQF9x4aLk) | 5:40 | 2024-04-18 | 2024-10-19 |

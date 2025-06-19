@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,770,564 likes - 145 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,770,764 likes - 145 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 46 | [Beauty](https://open.spotify.com/track/6LUWbk3Zc6571RYApFYoSl) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Beauty](https://open.spotify.com/album/52dxoUpamcBI8YkS3Ce3iC) | 2:46 |
 | 47 | [Clouds Coming](https://open.spotify.com/track/7bTycbdDfQELplifneZzJj) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Clouds Coming](https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0) | 2:26 |
 | 48 | [Cavaria](https://open.spotify.com/track/6AKvBuBdVSf7uDYJYWtWxC) | [Shea Ada](https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2) | [Cavaria](https://open.spotify.com/album/0ts4SAXbN5D0Di2AQVVXo0) | 2:18 |
-| 49 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 |
+| 49 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 |
 | 50 | [stargazing](https://open.spotify.com/track/5Tm55bnuYOavqPLbueGYS4) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [stargazing](https://open.spotify.com/album/0FCL5YSgPtrC3NQYOCwxZs) | 2:20 |
 | 51 | [Three Sleeping Owls](https://open.spotify.com/track/0ZwtjxyinvQPJy8dZGMXwo) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Three Sleeping Owls](https://open.spotify.com/album/6t44MGK75YLB96QhqNEKCh) | 2:03 |
 | 52 | [As a Rose Blossom](https://open.spotify.com/track/657LOljr0QcBwRX1qtWQy6) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [As a Rose Blossom](https://open.spotify.com/album/2w1FFF4DGgE1DZKKKvujf9) | 2:11 |

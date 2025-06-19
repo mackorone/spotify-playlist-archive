@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa uuden albumin julkaissut Volbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,141 likes - 91 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,145 likes - 91 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

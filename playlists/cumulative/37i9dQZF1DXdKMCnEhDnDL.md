@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Suzan & Freek
+> De beste Nederlandse liedjes\. Cover: Tino Martin
 
 384 songs - 19 hr 41 min
 

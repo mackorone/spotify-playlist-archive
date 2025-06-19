@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-343 songs - 18 hr 41 min
+344 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 | 2024-08-22 | 2024-09-29 |
 | [C'est La Vie](https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Dance Melancholia](https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX) | 3:22 | 2024-06-28 | 2024-09-13 |
 | [C\-60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C\-60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 | 2024-06-28 | 2024-08-16 |
+| [Camels](https://open.spotify.com/track/1t30x389swdoiG08U2X2fz) | [Paine Galletto](https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY) | [Camels](https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa) | 1:54 | 2025-06-18 |  |
 | [Can't Forget](https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [Can't Forget](https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF) | 2:32 | 2024-06-28 | 2025-04-13 |
 | [Cardio](https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Cardio](https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC) | 3:08 | 2024-06-28 | 2025-01-17 |
 | [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 | 2025-05-29 |  |
@@ -189,7 +190,7 @@
 | [Kill Bill \(feat\. Kasino\)](https://open.spotify.com/track/77PM2HhareeItj0VnzTeEr) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Kill Bill \(feat\. Kasino\)](https://open.spotify.com/album/61U8pP2GeqCEJihnyiau83) | 2:51 | 2025-04-10 | 2025-05-29 |
 | [Kiss](https://open.spotify.com/track/1nGgVnr5yhyWfvB6UMiPSj) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [A Letter From Rimini](https://open.spotify.com/album/0vif4YAS95ZZ139gnsXD5t) | 2:53 | 2024-10-10 | 2024-12-02 |
 | [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-08 | 2024-11-09 |
-| [KNEEEES](https://open.spotify.com/track/36pxEPrYre9XxgGuOzEi3P) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [KNEEEES](https://open.spotify.com/album/4T1pGeeiGRtzN0HON6hfQJ) | 2:39 | 2025-06-05 |  |
+| [KNEEEES](https://open.spotify.com/track/36pxEPrYre9XxgGuOzEi3P) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [KNEEEES](https://open.spotify.com/album/4T1pGeeiGRtzN0HON6hfQJ) | 2:39 | 2025-06-05 | 2025-06-19 |
 | [Kom ihåg mig](https://open.spotify.com/track/67yxmfL9tjrE6IflP8Z74P) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Kom ihåg mig](https://open.spotify.com/album/3SF7f8EspsQ7KZNd1Jy6CR) | 3:01 | 2025-05-08 | 2025-06-13 |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-28 | 2024-08-16 |
 | [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 | 2025-06-12 |  |

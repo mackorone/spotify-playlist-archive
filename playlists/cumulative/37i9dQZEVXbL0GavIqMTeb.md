@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,300 songs - 2 day 23 hr 50 min
+1,301 songs - 2 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1087,7 +1087,7 @@
 | [Sola Suelta Soltera](https://open.spotify.com/track/4RtLVq34QEU3ckAl8Tdyro) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:43 | 2024-10-25 | 2025-02-26 |
 | [Sola Suelta Soltera \- Intro \- Remix](https://open.spotify.com/track/5bQNadd97cQeTHLSXDsgbG) | [BRUNO MATEUS](https://open.spotify.com/artist/2zmNIPoyK9m7yOAcZkzN7r) | [Sola Suelta Soltera \- Intro \- Remix](https://open.spotify.com/album/53Exe0wiCy6EbUF4rQQIqU) | 2:38 | 2024-09-01 | 2024-09-04 |
 | [Solcito](https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Solcito](https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2) | 2:24 | 2025-03-25 | 2025-05-08 |
-| [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 | 2025-06-05 |  |
+| [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 | 2025-06-05 | 2025-06-19 |
 | [Solida](https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Solida](https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr) | 2:33 | 2024-08-09 | 2024-11-15 |
 | [Solita](https://open.spotify.com/track/7gcP0NQgB8sPn3Y7iqdAbE) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:23 | 2022-11-25 | 2022-12-03 |
 | [SOLO DIME](https://open.spotify.com/track/76NtZCaYVQHxEkB6mrm1DQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Dj Osar](https://open.spotify.com/artist/1QfMokd89daz2p3JvQFrSB), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 3:19 | 2024-05-31 | 2024-08-28 |
@@ -1294,6 +1294,7 @@
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2022-01-02 | 2022-01-04 |
 | [Yo Vendo Unos Ojos Negros](https://open.spotify.com/track/3X1q26rHZEbW8qS7YvLYeD) | [Los Huasos Quincheros](https://open.spotify.com/artist/4y2njzlk64o4wUdX8Ph8aM) | [Sesion Quincheros](https://open.spotify.com/album/3MyBIty18EaxUVSTvH6wsw) | 3:02 | 2021-09-19 | 2023-09-21 |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-03-14 | 2022-04-20 |
+| [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 | 2025-06-18 |  |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-06-06 | 2023-01-06 |
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-12 | 2024-03-15 |
 | [YUMMY!](https://open.spotify.com/track/3ftB5T412JJ20IgpQgeCW8) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 2:29 | 2024-05-31 | 2024-07-03 |

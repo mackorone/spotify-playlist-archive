@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 295880,
       "name": "AENE",
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
@@ -5902,7 +5902,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 108094,
       "name": "Bauchnabelpiercing",
       "url": "https://open.spotify.com/track/4ZKwUSQNvpU2XRIoYi4Bcg"
@@ -13448,7 +13448,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 84700,
       "name": "DIA DEL\u00cdCIA - Slowed",
       "url": "https://open.spotify.com/track/6T06bLv5OzJf3BuNa81XXD"
@@ -22738,6 +22738,24 @@
       "duration_ms": 137142,
       "name": "HEAT STICK",
       "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "album": {
@@ -32778,7 +32796,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 220019,
       "name": "Ma Tnsani (Yalla Habibi)",
       "url": "https://open.spotify.com/track/24DmXhAP2jAVRnkaSFqNaf"
@@ -58840,6 +58858,28 @@
       "duration_ms": 66057,
       "name": "Tung Tung Tung Sahur Nela",
       "url": "https://open.spotify.com/track/2mdwxhJKH7JWywvZeXDoCJ"
+    },
+    {
+      "album": {
+        "name": "Our World, Our Way",
+        "url": "https://open.spotify.com/album/695bXsHhv9RSU517drUU6w"
+      },
+      "artists": [
+        {
+          "name": "Dem Franchize Boyz",
+          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
+        },
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260320,
+      "name": "Turn Heads",
+      "url": "https://open.spotify.com/track/7uVg9fXqAPpRo7kdoYLKjA"
     },
     {
       "album": {

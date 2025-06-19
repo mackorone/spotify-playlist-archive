@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > featuring 1tsbp's new EP  🤲  it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,597 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,548 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 |
 | 100 | [llamando](https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [llamando](https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb) | 2:36 |
 
-Snapshot ID: `aEuwegAAAAD9dH31IdZDtV1U6+x5tb6s`
+Snapshot ID: `aEuwegAAAADPV5UzBnNThor0fbNagRzS`

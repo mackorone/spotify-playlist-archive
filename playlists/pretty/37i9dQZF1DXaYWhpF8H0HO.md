@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Lukas Will
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,766 likes - 81 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,769 likes - 81 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

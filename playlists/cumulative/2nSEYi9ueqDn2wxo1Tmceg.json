@@ -486,7 +486,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 303506,
       "name": "A Season In Hell",
       "url": "https://open.spotify.com/track/5pYhL6BGZIHGGmDJd9TDZx"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 150791,
       "name": "Adam & Steve",
       "url": "https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s"
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 346533,
       "name": "Babystar",
       "url": "https://open.spotify.com/track/5OcunBpmeye3xYjpCKPxs3"
@@ -4795,6 +4795,24 @@
     },
     {
       "album": {
+        "name": "Cowbella",
+        "url": "https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263537,
+      "name": "Cowbella",
+      "url": "https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu"
+    },
+    {
+      "album": {
         "name": "Coyotes",
         "url": "https://open.spotify.com/album/1VunM6vUqbKR0ASBarnSOi"
       },
@@ -6944,7 +6962,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 168249,
       "name": "Ergelt",
       "url": "https://open.spotify.com/track/3JrdFgcMRFqJMYgfXq2ayo"
@@ -7238,6 +7256,50 @@
       "duration_ms": 172813,
       "name": "Exit Music",
       "url": "https://open.spotify.com/track/3WHGUZGrJiTzi6CTZxH7Dr"
+    },
+    {
+      "album": {
+        "name": "Expression On Your Face",
+        "url": "https://open.spotify.com/album/0SylYxgzz1dgwuN4ItVB3u"
+      },
+      "artists": [
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173321,
+      "name": "Expression On Your Face",
+      "url": "https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn"
+    },
+    {
+      "album": {
+        "name": "Face Of God",
+        "url": "https://open.spotify.com/album/212GSKbV7595aV6uQ2Opef"
+      },
+      "artists": [
+        {
+          "name": "Silverfish",
+          "url": "https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Face Of God",
+      "url": "https://open.spotify.com/track/1TPWOE9KMPihB44CTXyYHE"
     },
     {
       "album": {
@@ -8802,7 +8864,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 280065,
       "name": "Girl",
       "url": "https://open.spotify.com/track/1OIktd4dD53Zdkj2p06PQi"
@@ -10955,6 +11017,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna",
+        "url": "https://open.spotify.com/album/4yD8wtm8g2bo78ZVpBIBAp"
+      },
+      "artists": [
+        {
+          "name": "Sydney Minsky Sargeant",
+          "url": "https://open.spotify.com/artist/67XmpPOLIuRRGNUfXxyZ8J"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "I Don\u2019t Wanna",
+      "url": "https://open.spotify.com/track/4hHizy49Hzl7QfP3mGVJOY"
+    },
+    {
+      "album": {
         "name": "I Forget",
         "url": "https://open.spotify.com/album/03KIBaIUPddEWUj5Rzq8Vj"
       },
@@ -12711,6 +12791,24 @@
     },
     {
       "album": {
+        "name": "JIVE",
+        "url": "https://open.spotify.com/album/6L0MoQQNsJMpIxy2H0g98g"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254897,
+      "name": "JIVE",
+      "url": "https://open.spotify.com/track/4WJ7z7TqsN06ZXcgfVxCJG"
+    },
+    {
+      "album": {
         "name": "Proxy Music",
         "url": "https://open.spotify.com/album/7bCk4cB8DT6ni6Rupnswqz"
       },
@@ -12878,7 +12976,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 296040,
       "name": "Junkie Logic",
       "url": "https://open.spotify.com/track/05EJH4D2ExDyGwYi46QY7A"
@@ -13855,6 +13953,24 @@
     },
     {
       "album": {
+        "name": "transmitter",
+        "url": "https://open.spotify.com/album/4HsILDwhZV4g3nxEN7Gr6T"
+      },
+      "artists": [
+        {
+          "name": "Analog Missionary",
+          "url": "https://open.spotify.com/artist/0bWCwTWyg6crlfnlk5eMKi"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248173,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/4cpXTuUlHVIazaMbs7NGTs"
+    },
+    {
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/4Dl0aFNmh7JKpsiP321k3c"
       },
@@ -14084,7 +14200,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 370120,
       "name": "Long Way Out of Pain",
       "url": "https://open.spotify.com/track/3D3AcPFwoE1V4p9yy63h3M"
@@ -15219,6 +15335,24 @@
     },
     {
       "album": {
+        "name": "Se Amaba As\u00ed",
+        "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194973,
+      "name": "Miraverah\u00ed",
+      "url": "https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9"
+    },
+    {
+      "album": {
         "name": "Miraverah\u00ed",
         "url": "https://open.spotify.com/album/4MYPElQx0iEEaYH7uVz1cr"
       },
@@ -15230,7 +15364,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 194973,
       "name": "Miraverah\u00ed",
       "url": "https://open.spotify.com/track/324vekjzibUPl88T1vR4Tb"
@@ -17945,6 +18079,24 @@
     },
     {
       "album": {
+        "name": "Plastic",
+        "url": "https://open.spotify.com/album/6stNjvJpPojt1aDjpOtK9o"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115817,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/4RMGY1W4sG2a3Ds4Bmyqta"
+    },
+    {
+      "album": {
         "name": "Plastic Pyramid",
         "url": "https://open.spotify.com/album/6EwBOdpvB0ElEPN3Sbpgbv"
       },
@@ -18252,7 +18404,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 217136,
       "name": "Poppy",
       "url": "https://open.spotify.com/track/6FlfA1FkXAT2pmGp5BJtXW"
@@ -26296,7 +26448,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 211617,
       "name": "You died",
       "url": "https://open.spotify.com/track/0oxQsDBiYJGUpzCy8jxVME"

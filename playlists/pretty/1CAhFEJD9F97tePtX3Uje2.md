@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 336 likes - 244 songs - 14 hr 15 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 336 likes - 245 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,5 +252,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 242 | [strange places](https://open.spotify.com/track/3tNoN9RQFDgspAgREXVXeF) | [EMGX](https://open.spotify.com/artist/0fZsTsrLwONPhMzjwCwS8W) | [strange places](https://open.spotify.com/album/6eqNJI63t741nhPVoXHapf) | 2:16 |
 | 243 | [Six Speed](https://open.spotify.com/track/2OwTE82zjaKvfof9MCMj1S) | [MIRAJ](https://open.spotify.com/artist/46vHnBJYdPDQDkSjegluG4) | [Six Speed](https://open.spotify.com/album/6oKGc5saiJohI9J4v8HfK0) | 2:12 |
 | 244 | [Come Back Club](https://open.spotify.com/track/5wAzDSwXLN3tusPndmyDcE) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Come Back Club](https://open.spotify.com/album/4N2dQMTWn8aJOTEcmNQwnI) | 2:59 |
+| 245 | [LIMIT](https://open.spotify.com/track/1Rs0HacYiBEC4NWm3r4GBh) | [LOSTMANE](https://open.spotify.com/artist/2ntaPzscRw8GRvBFF0SUlh) | [LIMIT](https://open.spotify.com/album/4ZM9OANaQdu2baFIfI3Pzs) | 3:00 |
 
-Snapshot ID: `AAABBD4FX5HaAqnqBZYhzV4WbWmv6aKZ`
+Snapshot ID: `AAABBXINe+5G4nzSVrDDgMjiA4I4EKaq`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrating 10 years of the best new hip-hop music from new, independent artists.  Cover: <a href=\"spotify:artist:6557ikOFsjiDmV7gjHYuiD\">Bankroll Ni\n</a> ",
+  "description": "Celebrating 10 years of the best new hip-hop music from new, independent artists.  Cover: <a href=\"spotify:artist:0p2aFROS95bdLkYYL0pYSz\">Lil Novi\n</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 95968,
       "name": "123 (feat. Lefty Gunplay)",
       "url": "https://open.spotify.com/track/3MiL0b0FmUZu2jeUXQIhB5"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 120765,
       "name": "Back Of My Mind (feat. Nino Paid)",
       "url": "https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8"
@@ -6086,7 +6086,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 147120,
       "name": "CANT TTM",
       "url": "https://open.spotify.com/track/5q0eKEIP3exlFo0Wv2f5uz"
@@ -6564,7 +6564,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 115198,
       "name": "CHIT CHAT",
       "url": "https://open.spotify.com/track/5aK1ckdXFQ73ugHwFYASW6"
@@ -7064,6 +7064,24 @@
       "duration_ms": 165944,
       "name": "Convinced",
       "url": "https://open.spotify.com/track/1GlfXjdVNECLDikJRRg3Vu"
+    },
+    {
+      "album": {
+        "name": "BLUE CHIP",
+        "url": "https://open.spotify.com/album/0cQu4Nftdv0hzQJuUM4IEZ"
+      },
+      "artists": [
+        {
+          "name": "Draft Day",
+          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190234,
+      "name": "COST A LOT/ON A MISSION",
+      "url": "https://open.spotify.com/track/0UCjO5TL3CeGMofuVLoA9g"
     },
     {
       "album": {
@@ -11459,6 +11477,24 @@
     },
     {
       "album": {
+        "name": "Freddy Krueger",
+        "url": "https://open.spotify.com/album/0cW2UgwYD43ETCgF8lwhbc"
+      },
+      "artists": [
+        {
+          "name": "Lil Cleno",
+          "url": "https://open.spotify.com/artist/7HTYbG0DEPZsfjbdSkPyYO"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133327,
+      "name": "Freddy Krueger",
+      "url": "https://open.spotify.com/track/7kaIqlm344I5xZqaocwvj9"
+    },
+    {
+      "album": {
         "name": "Soul Tape",
         "url": "https://open.spotify.com/album/5f6Hu9UhbDgljuQV6bwgnA"
       },
@@ -12102,6 +12138,24 @@
       "duration_ms": 147804,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/7LA92Cj5dvCKcJV9QKAfaL"
+    },
+    {
+      "album": {
+        "name": "Get dressed",
+        "url": "https://open.spotify.com/album/70QZqS4zgW0LLMA99aJmGw"
+      },
+      "artists": [
+        {
+          "name": "MIRRAR",
+          "url": "https://open.spotify.com/artist/39zqfoXqVbCNHs3Ip4kbGp"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114147,
+      "name": "Get dressed",
+      "url": "https://open.spotify.com/track/3TOLAb9pdYMG6iIZMTlcQO"
     },
     {
       "album": {
@@ -14353,6 +14407,28 @@
     },
     {
       "album": {
+        "name": "B4 My Time",
+        "url": "https://open.spotify.com/album/4DUTjrybGO7T0lQP2reGFW"
+      },
+      "artists": [
+        {
+          "name": "Yns Corey",
+          "url": "https://open.spotify.com/artist/4jSMh12eaVhFBYTMX2CMLy"
+        },
+        {
+          "name": "Shaudie Man",
+          "url": "https://open.spotify.com/artist/1MPNKNARfonIxUk1GXsEKx"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187012,
+      "name": "Hot Car",
+      "url": "https://open.spotify.com/track/6i66EQj83njMOFPygAKzAX"
+    },
+    {
+      "album": {
         "name": "Hot Friend",
         "url": "https://open.spotify.com/album/2FpQM6aXOAhInjnFoK7tg5"
       },
@@ -15151,6 +15227,24 @@
     },
     {
       "album": {
+        "name": "THE STREETS IS YOURS",
+        "url": "https://open.spotify.com/album/6Jehr1sN2f7tcZrIa2dP8Y"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154022,
+      "name": "Ice Cup",
+      "url": "https://open.spotify.com/track/4ZVwyIN4laYr7KDWgjWXcF"
+    },
+    {
+      "album": {
         "name": "This Is What You Asked For",
         "url": "https://open.spotify.com/album/2zQiS72IsIaalhyndYwtTF"
       },
@@ -15655,6 +15749,24 @@
     },
     {
       "album": {
+        "name": "Invader Zim",
+        "url": "https://open.spotify.com/album/61iEw7LDhG8hduMWM3PKIh"
+      },
+      "artists": [
+        {
+          "name": "Devin Malik",
+          "url": "https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Invader Zim",
+      "url": "https://open.spotify.com/track/0z9FMXTxL5YOpAfFBTwcJU"
+    },
+    {
+      "album": {
         "name": "Ion Need Em",
         "url": "https://open.spotify.com/album/18z0SxiGcfmQK4voZRNvuV"
       },
@@ -15992,6 +16104,24 @@
       "duration_ms": 173114,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9"
+    },
+    {
+      "album": {
+        "name": "JELLO",
+        "url": "https://open.spotify.com/album/2u9l2z9jOvRVqrFasyNz8M"
+      },
+      "artists": [
+        {
+          "name": "Iconic Savvy",
+          "url": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131631,
+      "name": "JELLO",
+      "url": "https://open.spotify.com/track/3XRUpBRItrSlWkOxct38BS"
     },
     {
       "album": {
@@ -16528,7 +16658,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 99705,
       "name": "keep steady",
       "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
@@ -18064,7 +18194,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 109976,
       "name": "Literally",
       "url": "https://open.spotify.com/track/0Ju3rXJ23Y00CNJZsowzk0"
@@ -20191,6 +20321,40 @@
     },
     {
       "album": {
+        "name": "FAMILY REUNION",
+        "url": "https://open.spotify.com/album/2UfKO8jHq78gO3v0GYmvAx"
+      },
+      "artists": [
+        {
+          "name": "CUZZOS",
+          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
+        },
+        {
+          "name": "Milly Mo",
+          "url": "https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u"
+        },
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP"
+        },
+        {
+          "name": "Teaawhy",
+          "url": "https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt"
+        },
+        {
+          "name": "Jasscole",
+          "url": "https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276989,
+      "name": "MOESHA",
+      "url": "https://open.spotify.com/track/4tfnYZHaCYM5Aix5A6rxft"
+    },
+    {
+      "album": {
         "name": "Molly",
         "url": "https://open.spotify.com/album/54m0LjE5y9WgPz9TYXDYmA"
       },
@@ -21354,7 +21518,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 157979,
       "name": "My World",
       "url": "https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans"
@@ -24388,7 +24552,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 119280,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/2r5Jr3cGJh2o1c04Al9pne"
@@ -29320,7 +29484,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 143613,
       "name": "Stick Up",
       "url": "https://open.spotify.com/track/3gB6giw6EyJ1thcB0H2ksZ"
@@ -30146,7 +30310,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 150911,
       "name": "Take A Step",
       "url": "https://open.spotify.com/track/20AE4hwfkFeJtyon4OReIB"

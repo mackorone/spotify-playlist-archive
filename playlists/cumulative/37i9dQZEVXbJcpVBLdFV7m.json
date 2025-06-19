@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 215918,
       "name": "22:22",
       "url": "https://open.spotify.com/track/6Rov6lAeKFILrSHmkUyvxw"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 280560,
       "name": "A\u015fk Yok Olmakt\u0131r",
       "url": "https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7"
@@ -7336,7 +7336,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 221106,
       "name": "En nuit",
       "url": "https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b"
@@ -8244,7 +8244,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 140909,
       "name": "Figa De Guin\u00e9",
       "url": "https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK"
@@ -9701,6 +9701,24 @@
     },
     {
       "album": {
+        "name": "Kunstprodukt",
+        "url": "https://open.spotify.com/album/603jWfAFPn4s2TDaeyAXL1"
+      },
+      "artists": [
+        {
+          "name": "Miss Construction",
+          "url": "https://open.spotify.com/artist/40m16kE896yRgrr1bVeDi9"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311773,
+      "name": "Hass Und Liebe",
+      "url": "https://open.spotify.com/track/5ZSkaSivPY609sNv5MSaux"
+    },
+    {
+      "album": {
         "name": "Ho\u015f\u00e7akal",
         "url": "https://open.spotify.com/album/5GtVQ7Akf89tLbeO4VkcjN"
       },
@@ -9926,6 +9944,24 @@
       "duration_ms": 137142,
       "name": "HEAT STICK",
       "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "album": {
@@ -13650,7 +13686,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -13796,6 +13832,24 @@
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
+    },
+    {
+      "album": {
+        "name": "Loves The Sun Afro House",
+        "url": "https://open.spotify.com/album/70GFdjHP7iYafUoV2mbmDE"
+      },
+      "artists": [
+        {
+          "name": "DJ DANNYBOY Tv",
+          "url": "https://open.spotify.com/artist/0a7JOInyYkEMDWEdt1z8GK"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235572,
+      "name": "Loves The Sun Afro House",
+      "url": "https://open.spotify.com/track/5zy2lCchnuo2uIVp9lLtYE"
     },
     {
       "album": {
@@ -14148,7 +14202,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Ma Tnsani (Yalla Habibi)",
       "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
@@ -14170,7 +14224,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 220019,
       "name": "Ma Tnsani (Yalla Habibi)",
       "url": "https://open.spotify.com/track/24DmXhAP2jAVRnkaSFqNaf"
@@ -16008,7 +16062,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 156774,
       "name": "Mosmor Perde",
       "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
@@ -29365,6 +29419,24 @@
     },
     {
       "album": {
+        "name": "\u0414\u0432\u0435 \u043e\u0447\u0438",
+        "url": "https://open.spotify.com/album/2AMcvvAAEZYPm25fnJ7E33"
+      },
+      "artists": [
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/6VvczX0V7wdn8FU3JUXKNV"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "\u0414\u0432\u0435 \u043e\u0447\u0438",
+      "url": "https://open.spotify.com/track/2jMy35PDcO9Zfmdei9TG9C"
+    },
+    {
+      "album": {
         "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 III: \u041d\u043e\u0432\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435",
         "url": "https://open.spotify.com/album/1jw6k4oMqDpP4JTrry8ZrX"
       },
@@ -30741,6 +30813,28 @@
     },
     {
       "album": {
+        "name": "\u041d\u0430\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u043e",
+        "url": "https://open.spotify.com/album/5C1zzkzaOByykAk3Hj6jYz"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        },
+        {
+          "name": "SKY RAE",
+          "url": "https://open.spotify.com/artist/2hRppUIkq50zRtcqHzubfC"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130778,
+      "name": "\u041d\u0430\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u043e",
+      "url": "https://open.spotify.com/track/5XIoRdNKbhG3uFDB0UXWuw"
+    },
+    {
+      "album": {
         "name": "\u041d\u0430\u0448\u0435\u0442\u043e \u041f\u043e\u0441\u043b\u0435\u0434\u043d\u043e",
         "url": "https://open.spotify.com/album/2T2kuK4jhvL95ZgaPNo2vZ"
       },
@@ -31976,7 +32070,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 151829,
       "name": "\u0422\u0438 \u0441\u0438 \u0441\u044a\u0440\u0446\u0435",
       "url": "https://open.spotify.com/track/6kqv41wnYbzNV3eXnM0jkD"

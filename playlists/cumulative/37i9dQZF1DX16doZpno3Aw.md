@@ -4,7 +4,7 @@
 
 > Almost forgot that this was the whole point ∼ all the best instrumentals & sounds from the internet 🫀
 
-132 songs - 6 hr 39 min
+133 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Inside Out Main Theme \(From "Inside Out"\)](https://open.spotify.com/track/46tmyVH5Fml5WSkw5EI3Dm) | [Jon Pumper](https://open.spotify.com/artist/2x3O1wNk4TFoCPhSmfTUX0) | [Pixar: Relaxing/Sad Piano Covers](https://open.spotify.com/album/4Ef6S1rETCW1UygwoSQY4l) | 2:57 | 2025-02-27 |  |
 | [Into the Woods](https://open.spotify.com/track/7COLWiJDOblr1SiyDnsHae) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Into the Woods](https://open.spotify.com/album/594KW3PGCPKUW14cwUpxVO) | 4:12 | 2025-02-27 |  |
 | [Intro](https://open.spotify.com/track/3x94tRszQo5AJqaLCg6G8K) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 0:54 | 2025-03-14 |  |
+| [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 | 2025-06-18 |  |
 | [Je te laisserai des mots \(Piano Version\)](https://open.spotify.com/track/0APmcWz4dTAgQfdNiVXbvF) | [Micha Philipp](https://open.spotify.com/artist/5ec20jgzuLswoBCBkFgwpi) | [Je te laisserai des mots \(Piano Version\)](https://open.spotify.com/album/5eiWGRiGM4JCg9gyWTF57t) | 2:32 | 2025-05-30 |  |
 | [Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Killswitch Lullaby](https://open.spotify.com/album/6vumqEmQE0Sxag2dWwhe3E) | 2:27 | 2025-02-27 |  |
 | [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 | 2025-02-27 |  |

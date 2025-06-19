@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-695 songs - 1 day 17 hr 21 min
+697 songs - 1 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Get A Dog](https://open.spotify.com/track/4ojft2o33N13eHRlci1G4Z) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Get A Dog](https://open.spotify.com/album/27GYFiztdGdz4Mh1zNiVgD) | 3:18 | 2022-08-26 | 2023-01-27 |
 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 | 2021-12-17 | 2022-07-29 |
 | [Get to Work Whiskey](https://open.spotify.com/track/3RuwbSq7PdzItMwTXYnTT0) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Black Cats and Crows](https://open.spotify.com/album/5b8gsFVIGK4PqrCerkrXSP) | 2:51 | 2021-12-17 | 2022-05-28 |
+| [Getter Back Song](https://open.spotify.com/track/6jMpqkLNcXlmECPqbKh6g6) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Getter Back Song](https://open.spotify.com/album/0wuyy8Le3WZagNuf0tSEaL) | 3:07 | 2025-06-18 |  |
 | [Gettin' By](https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:06 | 2022-01-21 | 2023-09-02 |
 | [Gettin’ By](https://open.spotify.com/track/55QeY7A9H3ioVq1XcBIpBQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Gettin’ By](https://open.spotify.com/album/4Tsf7EtiMsYZyPwAoXK7co) | 3:59 | 2022-04-08 | 2022-07-09 |
 | [Girl from Oklahoma](https://open.spotify.com/track/6mNWosdjTtMrzqhit3h5cz) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [Girl from Oklahoma](https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3) | 3:13 | 2023-01-13 | 2023-07-29 |
@@ -239,7 +240,7 @@
 | [Goodbye Horses](https://open.spotify.com/track/4dM6n7StQUjohoWk0JFLw4) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [What Is It Even?](https://open.spotify.com/album/7pOByvaZQPALod9AwZJi3j) | 3:41 | 2023-08-04 | 2023-10-21 |
 | [Grain of Salt](https://open.spotify.com/track/0Kv4Y5oOn41W93IFXsvcpY) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Grain of Salt](https://open.spotify.com/album/11fYmLaOYK0KKoj77tliqj) | 3:49 | 2022-07-15 | 2022-07-18 |
 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 | 2023-03-24 |  |
-| [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 | 2024-08-23 |  |
+| [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 | 2024-08-23 | 2025-06-19 |
 | [Growing Up](https://open.spotify.com/track/0OQBDgDbMM9eJITeGwZusI) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Growing Up](https://open.spotify.com/album/5RKdHUALvM0KCNPwsHRO1V) | 3:44 | 2022-07-08 | 2022-07-30 |
 | [Guess Some Dreams Come True](https://open.spotify.com/track/3huD0tFdSCq5NZ6rM5G1Ug) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Guess Some Dreams Come True](https://open.spotify.com/album/26WPzOLfAPiBfTd3NLI0l8) | 4:19 | 2022-02-25 | 2022-07-19 |
 | [Haggard Blues](https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Haggard Blues](https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK) | 3:07 | 2025-01-10 | 2025-04-19 |
@@ -349,7 +350,7 @@
 | [Learnin' my Lesson](https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Wes Bayliss](https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f) | [Learnin' my Lesson](https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn) | 3:07 | 2023-07-07 | 2025-05-19 |
 | [Legends](https://open.spotify.com/track/3tMySztcJ2hrYLHOAXpCVc) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Legends](https://open.spotify.com/album/7fw5CcuAmxFL4eSwoDa69u) | 3:31 | 2022-10-28 | 2023-01-06 |
 | [Let Him In](https://open.spotify.com/track/1Ksas5Umdnh7rLfBhK4wNi) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Let Him In](https://open.spotify.com/album/10Am8PcY3Z0DokMgDBmldJ) | 3:59 | 2021-12-17 | 2022-03-19 |
-| [Life Behind Bars](https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [Life Behind Bars](https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT) | 3:35 | 2025-04-18 |  |
+| [Life Behind Bars](https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [Life Behind Bars](https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT) | 3:35 | 2025-04-18 | 2025-06-19 |
 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 | 2021-12-17 | 2022-03-19 |
 | [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 | 2021-12-17 | 2022-03-19 |
 | [Like A Desperado](https://open.spotify.com/track/7aWgiX29nEsq1YSVZ5d4La) | [Savanna Chestnut](https://open.spotify.com/artist/25Q8chabmr7xmJgVsdDErq) | [Like A Desperado](https://open.spotify.com/album/7gQXhnauu1Zn7FliaMAayR) | 3:23 | 2022-02-11 | 2022-07-21 |
@@ -618,6 +619,7 @@
 | [Trouble With You](https://open.spotify.com/track/5WxsXiljdTceevmqvsi4hq) | [Taylor Dunn](https://open.spotify.com/artist/1FfX9825XN0Uy6HBVoQsxr) | [Trouble With You](https://open.spotify.com/album/4aZYrGkb1ZxJql4oUQ3bfs) | 3:30 | 2021-12-17 | 2022-07-10 |
 | [Truth Like a Lie](https://open.spotify.com/track/0QqZqpe0mQJ8R7FYVgJ4qs) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Truth Like a Lie](https://open.spotify.com/album/1udk2S0wk7gC9LUYGZ5Zgu) | 4:12 | 2021-12-17 | 2022-04-29 |
 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 | 2023-09-01 | 2024-06-10 |
+| [Two Hands](https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Two Hands](https://open.spotify.com/album/4pGOuhDwIrhIRAFffciZHf) | 3:26 | 2025-06-18 |  |
 | [Two Hearts in Terlingua](https://open.spotify.com/track/1xzTlHwxVsnI34HgnINYpt) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 5:01 | 2021-12-17 | 2022-07-29 |
 | [Two Left Feet](https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31) | [Cameron James Smith](https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp) | [Two Left Feet](https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK) | 3:14 | 2022-10-07 | 2022-11-28 |
 | [Two Way Drive](https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Two Way Drive](https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H) | 3:42 | 2024-06-21 | 2025-04-18 |

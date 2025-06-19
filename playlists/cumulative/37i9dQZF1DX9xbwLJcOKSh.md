@@ -129,6 +129,6 @@
 | [誰か、海を。](https://open.spotify.com/track/0OL7OMOyaLJizoA6b9mPWa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka) | 4:54 | 2022-02-28 | 2024-04-19 |
 | [誰か、海を。](https://open.spotify.com/track/7H8qFzEiM1TNDh4Mef2Xzw) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 4:54 | 2022-02-28 |  |
 | [走れ走れ](https://open.spotify.com/track/0tP8IbHLyTesf9Q6OMP8Wm) | [Kyoko Endo](https://open.spotify.com/artist/5xOKs0yqtUnyLnZcwtcyEQ) | [ゴールデン☆ベスト 輝きたいの Victor Years 1981\-1985 \(+'99\)](https://open.spotify.com/album/4owLMas5qVNONliIMEmGSJ) | 4:35 | 2022-02-28 |  |
-| [雨あがりのステップ](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3l6ilLuBa9uw4eWgVnzBAL) | [雨あがりのステップ](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 | 2022-02-28 |  |
+| [雨あがりのステップ](https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z) | [新しい地図](https://open.spotify.com/artist/3TjG5u9mNMnDV6GqiiPpMc) | [雨あがりのステップ](https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I) | 5:20 | 2022-02-28 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

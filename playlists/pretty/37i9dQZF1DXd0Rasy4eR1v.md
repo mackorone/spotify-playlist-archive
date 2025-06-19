@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 ### [Fresh Finds Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Sheheryar Rehan
+> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Omar Mukhtar
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,454 likes - 109 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,457 likes - 109 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saza](https://open.spotify.com/track/10woFQBx2lLrHTvh8rLBHG) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS) | [Saza](https://open.spotify.com/album/0Zybm7phKiGuSripA2hqDd) | 3:07 |
-| 2 | [Rush](https://open.spotify.com/track/68vAMcnZxEFjbplSiRVPGG) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Rush](https://open.spotify.com/album/18rQwymQVOui4MFz3cNB8Y) | 2:26 |
-| 3 | [Aarzu](https://open.spotify.com/track/3RHLsLxErxhjH1zcJmyChw) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm) | [Aarzu](https://open.spotify.com/album/2tkM38XBxvUecZ518C5Fcl) | 2:17 |
-| 4 | [Jaa Rahe Ho Tum](https://open.spotify.com/track/0G0w7oXy6Kb7tocOWaCwbD) | [Ahmad Hassan](https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7) | [Jaa Rahe Ho Tum](https://open.spotify.com/album/6WAuYjbM87qeR9CKqDePT2) | 2:58 |
-| 5 | [Bewafai](https://open.spotify.com/track/4k20wiy7FabAx23ZakUVeh) | [Syed Shahroz Abbas](https://open.spotify.com/artist/3B5sYacvtfwKOJxzO6njYK) | [Bewafai](https://open.spotify.com/album/0adgcSLCDhE2Giv3wnlV2T) | 2:56 |
-| 6 | [Jiya Lage Na](https://open.spotify.com/track/1ptIc1nD9hbbIVYhYDkYLf) | [Najaf Ali](https://open.spotify.com/artist/5D04BKowdcEciyByNMzAEX), [Kabeer Khan](https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt) | [Jiya Lage Na](https://open.spotify.com/album/49Q03thNQ6MgFNxVpUlFaR) | 2:59 |
-| 7 | [no sense of love](https://open.spotify.com/track/1wcmjDqKw8OK56kFyfOEwF) | [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [no sense of love](https://open.spotify.com/album/5h0fYuUS4I19uSjYadHKkl) | 3:24 |
-| 8 | [Gumshuda](https://open.spotify.com/track/5RjkVeXvNQOECqDUt86op7) | [SEHER](https://open.spotify.com/artist/4rox3jnGsnm3UIjESqMUCK), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Gumshuda](https://open.spotify.com/album/4SN0QzDRcEKXztHRUbkJep) | 3:06 |
-| 9 | [Thoughts](https://open.spotify.com/track/76iJuLHEpvFyBua6A3YlHw) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9) | [Thoughts](https://open.spotify.com/album/5MgeUvdqhCCkSp7qASx8vB) | 2:42 |
-| 10 | [Jaadu \(feat\. AJ & Momin Aly\)](https://open.spotify.com/track/1k5WMZcnLINfgXnz42yygS) | [Vic Ali](https://open.spotify.com/artist/0y5Wh6DwhRCIGAdfGNExUC), [AJ](https://open.spotify.com/artist/36rX5HFNUTJUDImyws1yud), [Momin Aly](https://open.spotify.com/artist/4L5pRjaACoqdTHx0H0xURZ) | [Jaadu \(feat\. AJ & Momin Aly\)](https://open.spotify.com/album/3J3PtrqYyKi2w7K5QC82fK) | 3:32 |
-| 11 | [Pyar](https://open.spotify.com/track/7ievkd8Nr5VG5JL6pVvOUS) | [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Pyar](https://open.spotify.com/album/3U1AZcBO5SySlcs43HShvN) | 3:01 |
-| 12 | [Satveen Manzil](https://open.spotify.com/track/15Fbjl7q1i0D7iS3RWZfOC) | [Ali Pirzada](https://open.spotify.com/artist/3hbVRwKqgrKHjWQNMex0vG) | [Satveen Manzil](https://open.spotify.com/album/7jB2ecWu6SQZjp7lsK7Hx3) | 3:06 |
-| 13 | [Hosh](https://open.spotify.com/track/64k15krzCDXDyrMroezHWQ) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Hosh](https://open.spotify.com/album/2T4jkmRnXB69V4piFj5Z1M) | 2:39 |
-| 14 | [Dil Ko Kuch Kuch Hota Hay](https://open.spotify.com/track/3ixbQ58k9TUilePU7SuxjH) | [Enarsii](https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70) | [Dil Ko Kuch Kuch Hota Hay](https://open.spotify.com/album/1n6GmYfevNTwZo48G8D487) | 3:38 |
-| 15 | [Chahat Ki Hadd](https://open.spotify.com/track/4cpJDUDuBDi4n0WT1TM4e0) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Chahat Ki Hadd](https://open.spotify.com/album/4CdQ5BYfBsogU91y9m5LU0) | 3:52 |
+| 1 | [Chahat Ki Hadd](https://open.spotify.com/track/4cpJDUDuBDi4n0WT1TM4e0) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Chahat Ki Hadd](https://open.spotify.com/album/4CdQ5BYfBsogU91y9m5LU0) | 3:52 |
+| 2 | [Saza](https://open.spotify.com/track/10woFQBx2lLrHTvh8rLBHG) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS) | [Saza](https://open.spotify.com/album/0Zybm7phKiGuSripA2hqDd) | 3:07 |
+| 3 | [Rush](https://open.spotify.com/track/68vAMcnZxEFjbplSiRVPGG) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Rush](https://open.spotify.com/album/18rQwymQVOui4MFz3cNB8Y) | 2:26 |
+| 4 | [Aarzu](https://open.spotify.com/track/3RHLsLxErxhjH1zcJmyChw) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm) | [Aarzu](https://open.spotify.com/album/2tkM38XBxvUecZ518C5Fcl) | 2:17 |
+| 5 | [Jaa Rahe Ho Tum](https://open.spotify.com/track/0G0w7oXy6Kb7tocOWaCwbD) | [Ahmad Hassan](https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7) | [Jaa Rahe Ho Tum](https://open.spotify.com/album/6WAuYjbM87qeR9CKqDePT2) | 2:58 |
+| 6 | [Bewafai](https://open.spotify.com/track/4k20wiy7FabAx23ZakUVeh) | [Syed Shahroz Abbas](https://open.spotify.com/artist/3B5sYacvtfwKOJxzO6njYK) | [Bewafai](https://open.spotify.com/album/0adgcSLCDhE2Giv3wnlV2T) | 2:56 |
+| 7 | [Jiya Lage Na](https://open.spotify.com/track/1ptIc1nD9hbbIVYhYDkYLf) | [Najaf Ali](https://open.spotify.com/artist/5D04BKowdcEciyByNMzAEX), [Kabeer Khan](https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt) | [Jiya Lage Na](https://open.spotify.com/album/49Q03thNQ6MgFNxVpUlFaR) | 2:59 |
+| 8 | [no sense of love](https://open.spotify.com/track/1wcmjDqKw8OK56kFyfOEwF) | [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [no sense of love](https://open.spotify.com/album/5h0fYuUS4I19uSjYadHKkl) | 3:24 |
+| 9 | [Gumshuda](https://open.spotify.com/track/5RjkVeXvNQOECqDUt86op7) | [SEHER](https://open.spotify.com/artist/4rox3jnGsnm3UIjESqMUCK), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Gumshuda](https://open.spotify.com/album/4SN0QzDRcEKXztHRUbkJep) | 3:06 |
+| 10 | [Thoughts](https://open.spotify.com/track/76iJuLHEpvFyBua6A3YlHw) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9) | [Thoughts](https://open.spotify.com/album/5MgeUvdqhCCkSp7qASx8vB) | 2:42 |
+| 11 | [Jaadu \(feat\. AJ & Momin Aly\)](https://open.spotify.com/track/1k5WMZcnLINfgXnz42yygS) | [Vic Ali](https://open.spotify.com/artist/0y5Wh6DwhRCIGAdfGNExUC), [AJ](https://open.spotify.com/artist/36rX5HFNUTJUDImyws1yud), [Momin Aly](https://open.spotify.com/artist/4L5pRjaACoqdTHx0H0xURZ) | [Jaadu \(feat\. AJ & Momin Aly\)](https://open.spotify.com/album/3J3PtrqYyKi2w7K5QC82fK) | 3:32 |
+| 12 | [Pyar](https://open.spotify.com/track/7ievkd8Nr5VG5JL6pVvOUS) | [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Pyar](https://open.spotify.com/album/3U1AZcBO5SySlcs43HShvN) | 3:01 |
+| 13 | [Satveen Manzil](https://open.spotify.com/track/15Fbjl7q1i0D7iS3RWZfOC) | [Ali Pirzada](https://open.spotify.com/artist/3hbVRwKqgrKHjWQNMex0vG) | [Satveen Manzil](https://open.spotify.com/album/7jB2ecWu6SQZjp7lsK7Hx3) | 3:06 |
+| 14 | [Hosh](https://open.spotify.com/track/64k15krzCDXDyrMroezHWQ) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Hosh](https://open.spotify.com/album/2T4jkmRnXB69V4piFj5Z1M) | 2:39 |
+| 15 | [Dil Ko Kuch Kuch Hota Hay](https://open.spotify.com/track/3ixbQ58k9TUilePU7SuxjH) | [Enarsii](https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70) | [Dil Ko Kuch Kuch Hota Hay](https://open.spotify.com/album/1n6GmYfevNTwZo48G8D487) | 3:38 |
 | 16 | [Adore](https://open.spotify.com/track/0qmdEcU5dg6Es6yhlQtq7H) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Adore](https://open.spotify.com/album/0B16WQiA17u5dzZTrCjEkw) | 2:53 |
 | 17 | [Direct](https://open.spotify.com/track/6cAGIcIqBIbBcoA0UUYcjY) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Direct](https://open.spotify.com/album/1Lxh58fnBhp1GN0oCn3qsa) | 1:57 |
 | 18 | [Niyat\-e\-Shauq](https://open.spotify.com/track/0LqbNetpERqAwILDNpyuT9) | [Rehan Hashmi](https://open.spotify.com/artist/0a0uJilGKuNgp0gonbPDJS) | [Niyat\-e\-Shauq](https://open.spotify.com/album/0QhRcKn4DOqPavhyCHPYf9) | 4:25 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 108 | [Wajah](https://open.spotify.com/track/1TuLMjGiPzleVi88fApvHg) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [Wajah](https://open.spotify.com/album/5tzzJpdENg3qgUEM7IbY3T) | 2:50 |
 | 109 | [Zaroori Hai](https://open.spotify.com/track/5jFwxhVtOnEU4U6aUM1JnR) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Ashal Haider Khan](https://open.spotify.com/artist/2COEn08mrNoQLfsRzjN9MR), [Mohsin Raza Shah](https://open.spotify.com/artist/21iESpk5OYSSJiuH3e7Z2Z) | [Zaroori Hai](https://open.spotify.com/album/4QaDYp8zCslfKI0ljs3oND) | 4:18 |
 
-Snapshot ID: `aFEVxwAAAAAWneEtEXku8Gn8yxByTYIK`
+Snapshot ID: `aFJvgwAAAABzC67z6YZg0SZvi3rox7AS`

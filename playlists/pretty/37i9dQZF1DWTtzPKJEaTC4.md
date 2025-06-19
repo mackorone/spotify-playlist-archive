@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:6HQYnRM4OzToCYPpVBInuU">Kamasi Washington</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,967 likes - 31 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,987 likes - 31 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 30 | [A Remark You Made](https://open.spotify.com/track/0k4XkPxJMQKQa7Ali1qske) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Heavy Weather](https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1) | 6:50 |
 | 31 | [The Time Has Come](https://open.spotify.com/track/0OtCyk1JYW59CntQ0KfjID) | [Rickey C Washington](https://open.spotify.com/artist/0JWBjcXdhsnQ6v9g5k1T8A) | [Star Light](https://open.spotify.com/album/46X9hocYlGTY0jh1kSgOEK) | 5:47 |
 
-Snapshot ID: `Zow04AAAAABJ9Ar663IEhJgVSROzgant`
+Snapshot ID: `Zow04AAAAACU/t+LcJ7Agctn4+EGYrNl`

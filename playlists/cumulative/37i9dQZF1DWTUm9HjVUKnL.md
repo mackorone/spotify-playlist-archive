@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,335 songs - 3 day 8 hr 20 min
+1,336 songs - 3 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1134,6 +1134,7 @@
 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-05-25 |  |
 | [The Falls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0kcgr15TmIyDXJoOfw4zgp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/0dNZGm7WWkiv0TVU8CvXS3) | 2:19 | 2022-01-19 |  |
 | [The Falls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6RasuQ5G0sJNP0v5feNurh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/5XwtoYuub04Jp9e4HA6PNv) | 2:19 | 2022-07-05 | 2024-04-19 |
+| [the fruits \- Spotify Singles](https://open.spotify.com/track/3dFyhY5UE2c9OvMb0hOlNn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Spotify Singles](https://open.spotify.com/album/39IpKI9d9ZwyLFvJwuveKj) | 3:17 | 2025-06-18 |  |
 | [The Garden \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/237AYJ77HK6Lf6DwQ6r7BJ) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 5:30 | 2022-01-19 |  |
 | [The Great Pretender \- Spotify Singles](https://open.spotify.com/track/23pT5oehBgjEfysUkwWouv) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 3:26 | 2023-08-16 |  |
 | [The Greatest Show \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7MhZa55xSOwyRQTsafEEjX) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Spotify Singles](https://open.spotify.com/album/5s0EZrhetG2VJBPKtKtqsq) | 3:57 | 2022-01-19 |  |

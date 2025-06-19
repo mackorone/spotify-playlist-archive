@@ -68,7 +68,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 64285,
       "name": "1 OF NONE",
       "url": "https://open.spotify.com/track/6EvczGDpJ5UFW074wqqSpx"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 187200,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0o5gPZnlIVN0tP2adyxtJd"
@@ -3847,6 +3847,28 @@
     },
     {
       "album": {
+        "name": "Pagod sa Pahinga",
+        "url": "https://open.spotify.com/album/7tFUuaSjjODMLy8r9WlIRr"
+      },
+      "artists": [
+        {
+          "name": "Mike Kosa",
+          "url": "https://open.spotify.com/artist/6RU3UGNOEiiSZpLCpeP3zE"
+        },
+        {
+          "name": "Arvlle",
+          "url": "https://open.spotify.com/artist/3HeqqjBcTrH5gWY3ZNleJW"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186197,
+      "name": "Pagod sa Pahinga",
+      "url": "https://open.spotify.com/track/0FCuH0HdUSVGR9EJTEqHiD"
+    },
+    {
+      "album": {
         "name": "PAKAMA",
         "url": "https://open.spotify.com/album/519RvJVcDRccP78nS8DbwE"
       },
@@ -4012,7 +4034,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 135707,
       "name": "Plain Tee",
       "url": "https://open.spotify.com/track/4F91qq5wxZCpFmUCASXOBm"
@@ -4168,6 +4190,24 @@
       "duration_ms": 200571,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1prSjfNpULtRUDFImzHJHO"
+    },
+    {
+      "album": {
+        "name": "Pusher",
+        "url": "https://open.spotify.com/album/1dvh8vyhbBCnBjXcQWwwTw"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Pusher",
+      "url": "https://open.spotify.com/track/6ukL4PEcXzWfADXyOFcOpU"
     },
     {
       "album": {
@@ -5292,6 +5332,48 @@
       "duration_ms": 243291,
       "name": "Umaga - Spotify Singles",
       "url": "https://open.spotify.com/track/0qOqU6GpnwY1ElwUQMpwnA"
+    },
+    {
+      "album": {
+        "name": "UZI NI LUCKY",
+        "url": "https://open.spotify.com/album/596jTjeeQSaWTOaaXMoBn7"
+      },
+      "artists": [
+        {
+          "name": "GHR",
+          "url": "https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs"
+        },
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        },
+        {
+          "name": "Godd Patron",
+          "url": "https://open.spotify.com/artist/4Rn9rDVPtPwhQns97r95JO"
+        },
+        {
+          "name": "R to the L",
+          "url": "https://open.spotify.com/artist/2gSV3DCNcQNzE1scLe9GcF"
+        },
+        {
+          "name": "Cozy Wrld",
+          "url": "https://open.spotify.com/artist/7j78RtM1knwwcgsZ4bPpFG"
+        },
+        {
+          "name": "Wing Goods",
+          "url": "https://open.spotify.com/artist/23NRuMfzEnH4qMODcsaE6E"
+        },
+        {
+          "name": "SCOOP DOGG",
+          "url": "https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "UZI NI LUCKY",
+      "url": "https://open.spotify.com/track/1FttSFLE8KumSjYCwMYKNJ"
     },
     {
       "album": {

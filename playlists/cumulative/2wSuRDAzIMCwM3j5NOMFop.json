@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Americanachronism",
+        "url": "https://open.spotify.com/album/7kTXiQqgNWxeaZHq3efuVn"
+      },
+      "artists": [
+        {
+          "name": "Shayfer James",
+          "url": "https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/0Exrm1yghvQ4ykj23tLsVN"
+    },
+    {
+      "album": {
         "name": "Counterfeit Arcade",
         "url": "https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux"
       },

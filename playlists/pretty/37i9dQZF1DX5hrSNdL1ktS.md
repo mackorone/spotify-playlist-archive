@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Con Cachirula y LOOJANCITO
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,478 likes - 89 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,892 likes - 89 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

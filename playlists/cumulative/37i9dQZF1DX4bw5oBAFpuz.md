@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-555 songs - 1 day 7 hr 46 min
+556 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 | 2023-02-23 | 2023-04-26 |
 | [Sunshine](https://open.spotify.com/track/3TjE3x4D8uGjEAphQkVzk7) | [Ginger Ninja](https://open.spotify.com/artist/5wnA6TC3CtmprSekn0n59P) | [Wicked Map](https://open.spotify.com/album/4wvNU1fLBizBoBuAZeqnuc) | 3:15 | 2023-02-23 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2024-07-26 | 2024-09-28 |
+| [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-18 |  |
 | [Swim With Sam \- rerecorded](https://open.spotify.com/track/7HWxIBizOFNo505Ljw6IcV) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Swim With Sam](https://open.spotify.com/album/3NSLHcKHZ8422YD7MQO8Ch) | 4:23 | 2023-02-23 |  |
 | [Table Of Fools](https://open.spotify.com/track/0QSJddfRGIfStqy0DZ9pvw) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Table Of Fools](https://open.spotify.com/album/6DNHrREOywqBISE6MW7hCk) | 3:24 | 2023-02-23 |  |
 | [Take A Chance \- Acoustic](https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Take A Chance \(Acoustic\)](https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf) | 2:46 | 2023-02-23 |  |
@@ -534,7 +535,7 @@
 | [What You Meant To Me](https://open.spotify.com/track/0bvh4owohGyhv93QeIZJkr) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [What You Meant To Me](https://open.spotify.com/album/2v2gbLj8H0OJtAtwNmsJxc) | 2:48 | 2025-06-05 |  |
 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 | 2024-03-21 |  |
 | [When Summer Ends](https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk) | [Makelove](https://open.spotify.com/artist/2BkUVGLsgklRhOsWt4VRKY) | [When Summer Ends](https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk) | 3:31 | 2023-02-23 |  |
-| [When We First Met](https://open.spotify.com/track/5Ck86xT1yXsPRi1vRUTECa) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [When We First Met](https://open.spotify.com/album/31CRztMM1ptaxOPfcqDohf) | 3:15 | 2023-04-25 |  |
+| [When We First Met](https://open.spotify.com/track/5Ck86xT1yXsPRi1vRUTECa) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [When We First Met](https://open.spotify.com/album/31CRztMM1ptaxOPfcqDohf) | 3:15 | 2023-04-25 | 2025-06-19 |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2023-02-23 | 2023-07-15 |
 | [When You're Gone](https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:24 | 2023-04-06 | 2023-04-26 |
 | [Whenever](https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Whenever](https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr) | 2:35 | 2024-03-13 |  |

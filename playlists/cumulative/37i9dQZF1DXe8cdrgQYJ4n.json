@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 223019,
       "name": "CO",
       "url": "https://open.spotify.com/track/6CIZHot9XsXxRgwq0xH40S"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 176000,
       "name": "Drink it, Girls!",
       "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
@@ -1130,6 +1130,24 @@
       "duration_ms": 222732,
       "name": "IDOL",
       "url": "https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4"
+    },
+    {
+      "album": {
+        "name": "It's Just Fine",
+        "url": "https://open.spotify.com/album/5LQBToMTG7sXvXg45pg8Of"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/1WsPq8N2MDRRDDjZIJcwq0"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167488,
+      "name": "It's Just Fine",
+      "url": "https://open.spotify.com/track/2z2BkXm7yuYzI28NM3ihxn"
     },
     {
       "album": {
@@ -1860,6 +1878,24 @@
       "duration_ms": 184520,
       "name": "Restart",
       "url": "https://open.spotify.com/track/6BiIJjRjfwTsZjKVK1rGHk"
+    },
+    {
+      "album": {
+        "name": "The Volunteers",
+        "url": "https://open.spotify.com/album/4AvTCepiyBgj75o8ldFp6M"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216265,
+      "name": "S.A.D",
+      "url": "https://open.spotify.com/track/4m5fpN1QBvFPepYfmnXoa0"
     },
     {
       "album": {

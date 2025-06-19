@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Switzerland's biggest hits right now. Cover: Mariana Froes",
+  "description": "Switzerland's biggest hits right now. Cover: Hecht",
   "name": "Hot Hits Switzerland",
   "tracks": [
     {
@@ -2257,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Kuku P\u00ebr Mu",
+        "url": "https://open.spotify.com/album/5lVWwAuajtNt00luBVSjCP"
+      },
+      "artists": [
+        {
+          "name": "EAZ",
+          "url": "https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157346,
+      "name": "Kuku P\u00ebr Mu",
+      "url": "https://open.spotify.com/track/1O3tAoXmEaeV4RoV7GrEP2"
+    },
+    {
+      "album": {
         "name": "KYKY2BONDY",
         "url": "https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq"
       },
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 148135,
       "name": "Location",
       "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"

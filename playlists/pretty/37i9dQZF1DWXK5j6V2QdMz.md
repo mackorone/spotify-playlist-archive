@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXK5j6V2QdMz.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ronniefieg/">Ronnie Fieg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,365 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,396 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXK5j6V2QdMz.md) - [plain]
 | 49 | [The City Is Mine](https://open.spotify.com/track/3qA9K2uI9v3lxq9ZFFtOmN) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:02 |
 | 50 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 
-Snapshot ID: `ZjG+QAAAAAAZo3AJEj8neDJuUX7esWgW`
+Snapshot ID: `ZjG+QAAAAADElaVBE4PzbMcxiBcUOacZ`

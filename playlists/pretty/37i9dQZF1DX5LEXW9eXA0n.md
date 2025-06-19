@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 하현상\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: HYNN \(박혜원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,652 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,800 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/track/6idTWd3WzBZlslTMmElNLz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Ballad, Ryeoyo\_Roy Kim](https://open.spotify.com/album/4x2si1Gvye6X3Jxhqy963K) | 0:05 |
-| 2 | [Flowerpot](https://open.spotify.com/track/67g0FMcEh3KJ7rxNvSL0vi) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Flowerpot](https://open.spotify.com/album/3GRSlFFrRfhcGR6AffFqBx) | 4:02 |
-| 3 | [With Your Love](https://open.spotify.com/track/7Il5jEgeqJmhVRCvcw7f1a) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2J5G4nG3Yld22VHOGA90Lq) | 3:55 |
+| 2 | [With Your Love](https://open.spotify.com/track/7Il5jEgeqJmhVRCvcw7f1a) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2J5G4nG3Yld22VHOGA90Lq) | 3:55 |
+| 3 | [Flowerpot](https://open.spotify.com/track/67g0FMcEh3KJ7rxNvSL0vi) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Flowerpot](https://open.spotify.com/album/3GRSlFFrRfhcGR6AffFqBx) | 4:02 |
 | 4 | [Fixing My Makeup \- 2025 Remake](https://open.spotify.com/track/1DyufQskFnV9W8noGwcsYY) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Fixing My Makeup \(2025 Remake\)](https://open.spotify.com/album/1pQ2H0qIOwbLrg16ZWbEuU) | 4:14 |
 | 5 | [Rebloom](https://open.spotify.com/track/5GbwES8DxcSHpRzVs9vuBQ) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Rebloom \(Oh My Ghost Clients Original Soundtrack Part.3\)](https://open.spotify.com/album/6C6yRunT7sMu9RhL8rvRq1) | 2:48 |
 | 6 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Stitching](https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Stitch](https://open.spotify.com/album/49l21eblkkpfozaTjlpphW) | 2:56 |
 | 100 | [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 |
 
-Snapshot ID: `aFDUNgAAAADHFv7cO5O+bPG/BNmPfrn3`
+Snapshot ID: `aFKGawAAAAD9eM0OTSXflTydcP2R2QWv`

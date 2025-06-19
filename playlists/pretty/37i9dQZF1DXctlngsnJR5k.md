@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctlngsnJR5k.md) - [plain]
 
 > Los mejores éxitos de hoy en Ecuador\. Foto: Jombriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,354 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,528 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctlngsnJR5k.md) - [plain]
 | 49 | [La Jama](https://open.spotify.com/track/1C5jDtYftdFtHNG6iLVyCA) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Waldokinc El Troyano](https://open.spotify.com/artist/59N8mXFSBferA7faj3SE7H), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [La Jama](https://open.spotify.com/album/1Ww0S2OCmX5ppjdWjsWxc3) | 3:44 |
 | 50 | [Robando](https://open.spotify.com/track/5cZIDOH5DaLSXFqo21G24Z) | [DJ Lalo](https://open.spotify.com/artist/4BPiDIdCGWgKy8UzVS1a4S), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Robando](https://open.spotify.com/album/2U62gfLVSaodVIok9szFd7) | 2:34 |
 
-Snapshot ID: `aEwsjwAAAAA6tuasvWT374SnRe1lHThg`
+Snapshot ID: `AAAAAExxKKksEFxmwXK25XIgMJLewyKt`

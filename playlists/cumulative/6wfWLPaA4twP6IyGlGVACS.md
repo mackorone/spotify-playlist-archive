@@ -4,7 +4,7 @@
 
 > 
 
-43 songs - 3 hr 12 min
+44 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Debra](https://open.spotify.com/track/6aLmvz0CPeCNHCXK2H5QIC) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Midnite Vultures](https://open.spotify.com/album/5Mk8LGoWoPg0igqQXprzfR) | 5:43 | 2025-05-23 |  |
 | [Do You Want a Man \- Heaven & Hell Remix](https://open.spotify.com/track/72owuO04tFBFbYbGw84tai) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi), [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA), [John Hill](https://open.spotify.com/artist/7FFISpih28BCUClBnvGgIs), [Rich Costey](https://open.spotify.com/artist/6lGobbUm1o5rF1IOpRFxTL) | [What?!](https://open.spotify.com/album/5K9nDeTEcoMBakMd7KvtCZ) | 2:25 | 2025-05-28 |  |
 | [Does It Float](https://open.spotify.com/track/7K9F3ob3ssnoPVZ28Xw3wA) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Dinosaur](https://open.spotify.com/album/3QqXfyJlWaEUsrnW4cQ03c) | 3:18 | 2025-06-03 |  |
+| [Esemplastic Creeping Eruption](https://open.spotify.com/track/4VMLSOGGtJZooVRPSkQKsg) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Instant Holograms On Metal Film](https://open.spotify.com/album/5nS7jRCPubnZF0OsXEM0D7) | 6:04 | 2025-06-18 |  |
 | [Flowers of Neptune 6](https://open.spotify.com/track/70ZIgslLwMTfNRBO8Kox6A) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [American Head](https://open.spotify.com/album/4H8NX3ovAZdY2iJmwSNqlw) | 4:30 | 2025-05-31 |  |
 | [For You Too](https://open.spotify.com/track/634n0U91zpaqRuJ1DO8jA2) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There's A Riot Going On](https://open.spotify.com/album/05TwuwqwLCm1V0GimPcXrD) | 4:13 | 2025-05-31 |  |
 | [Hazel](https://open.spotify.com/track/2MTSgWdCF4fbqM9sVKtnUm) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Planet Waves](https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R) | 2:49 | 2025-05-31 |  |

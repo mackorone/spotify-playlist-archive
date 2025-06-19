@@ -2569,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/664k9hObMi2CQ7cCnV88FO"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206102,
+      "name": "Breathing Underwater - VIP",
+      "url": "https://open.spotify.com/track/5zFkF9JXxS8tlRA7Gyfl2L"
+    },
+    {
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/56IRKHg9FgiNgYyrvIUjTS"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Dierks Bentley, Kane Brown, Zach Top and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,250 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,336 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 69 | [Here's to You](https://open.spotify.com/track/6jIvMyxwEDXTf3JTZnZEQp) | [2 Lane Summer](https://open.spotify.com/artist/1lpP9gqecnWWWZntVDa391) | [Here's to You](https://open.spotify.com/album/3XfQHBKAL2tHFk3Cn4HSLY) | 3:15 |
 | 70 | [More Like Jesus](https://open.spotify.com/track/2aZ1i4ngczUSujMpuTLKnn) | [Micah Fletcher](https://open.spotify.com/artist/6f78Kz0Wb1MGVk3rSIodth) | [More Like Jesus](https://open.spotify.com/album/5WDh2LvUaeJJueZknrvADZ) | 3:02 |
 
-Snapshot ID: `aEuibwAAAACaIXzQbxEdzlWlJIRIVFrQ`
+Snapshot ID: `aEuibwAAAAACCjJS2MkFzjuGpTN+a7l6`

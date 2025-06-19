@@ -4,7 +4,7 @@
 
 > 
 
-1,054 songs - 2 day 4 hr 41 min
+1,055 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Fly by Night \(feat\. Five Deez\)](https://open.spotify.com/track/5ve8FDBRZEFtikETy4w0Hs) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Five Deez](https://open.spotify.com/artist/2fxf19eScHHFOfmTwxWcGz) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 3:57 | 2023-10-12 | 2024-04-24 |
 | [Foes](https://open.spotify.com/track/7h4aPhIo33ch7SfPPpLD0J) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 2:59 | 2025-05-01 |  |
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-06-01 |  |
+| [Fools Gold](https://open.spotify.com/track/3GrmuJIlhZs8O6SpVhR8yx) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Bars Mitzvah](https://open.spotify.com/album/3Fc5H7NJ2V8SNrUHnpBvV2) | 2:55 | 2025-06-18 |  |
 | [For Da Flex](https://open.spotify.com/track/1U2XsDhee3a0uJayBKA6dy) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix](https://open.spotify.com/album/075lV4wdtLwFvIvCUdSYhL) | 1:57 | 2023-12-08 |  |
 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 4:44 | 2025-06-03 |  |
 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 | 2024-03-04 | 2024-04-24 |

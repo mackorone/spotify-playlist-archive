@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYasTznT0KT.md) - [plain]
 
 > The very best original and synced tracks from film and television in 2024! Cover: Wicked
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,405 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,408 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYasTznT0KT.md) - [plain]
 | 49 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
 | 50 | [\(They Long To Be\) Close To You \- Music From The Motion Picture](https://open.spotify.com/track/3R1GEnPh6Y3rW7bCxRezjw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 2:48 |
 
-Snapshot ID: `Z4BDBQAAAAC4EOfvlxO1gksczoSEmggx`
+Snapshot ID: `Z4BDBQAAAABT6WVM5nKQXQ5sUZQIgunH`

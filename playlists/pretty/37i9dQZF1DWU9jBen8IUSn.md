@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > What Turnstile is listening to..\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,103 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,089 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 49 | [New Ways](https://open.spotify.com/track/6269LuPYYfI56nNNs84YWt) | [CC Dust](https://open.spotify.com/artist/7qjJGP5gCA7FKnsbVLokLy) | [Shinkansen No\. 1 / New Ways](https://open.spotify.com/album/1QI7urUDzC6sx7np1MUpku) | 3:30 |
 | 50 | [Throwing Things](https://open.spotify.com/track/216RkOHYHumLCAob4IDBDg) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [No Pocky for Kitty \(Remastered\)](https://open.spotify.com/album/3cfogdZNlsnkNHfyFBVSBN) | 3:29 |
 
-Snapshot ID: `aErpwgAAAADdruVMm//5+ZWuIUQqum56`
+Snapshot ID: `aErpwgAAAABgEn24PDlOe3FaYjPLqq16`

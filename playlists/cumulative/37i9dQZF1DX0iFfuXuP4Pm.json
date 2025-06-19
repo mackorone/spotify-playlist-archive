@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Over October",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Le John",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 193620,
       "name": "Ayos Lang",
       "url": "https://open.spotify.com/track/1k1emHrNUbvDBVihKDBR2f"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 209187,
       "name": "DAM",
       "url": "https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 234152,
       "name": "Hiraya (Haharanahin Kita)",
       "url": "https://open.spotify.com/track/0Ef1eeZkMKKqcEvUrUrriq"
@@ -2326,6 +2326,24 @@
       "duration_ms": 228500,
       "name": "KABANATA",
       "url": "https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd"
+    },
+    {
+      "album": {
+        "name": "kahel na langit",
+        "url": "https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216382,
+      "name": "kahel na langit",
+      "url": "https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX"
     },
     {
       "album": {
@@ -5177,6 +5195,24 @@
     },
     {
       "album": {
+        "name": "Saksi Ang Langit",
+        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259058,
+      "name": "Saksi Ang Langit",
+      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
+    },
+    {
+      "album": {
         "name": "Talaarawan",
         "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
       },
@@ -5806,6 +5842,24 @@
       "duration_ms": 240000,
       "name": "Tayo Sana",
       "url": "https://open.spotify.com/track/4MJhQ8GToVp8dePnGsv3j8"
+    },
+    {
+      "album": {
+        "name": "Himig at Pag-ibig",
+        "url": "https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232970,
+      "name": "Tayong Dalawa",
+      "url": "https://open.spotify.com/track/0sIoAqI7eBnWUrEDkIgsCI"
     },
     {
       "album": {

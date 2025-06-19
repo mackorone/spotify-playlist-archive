@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover the future of Punjabi Pop!  Cover: Kunwarr
+> Discover the future of Punjabi Pop!  Cover: Nihash
 
-360 songs - 16 hr 54 min
+361 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [4 Peg](https://open.spotify.com/track/5oNUqBljB0cRNPXn9rioIs) | [Baaz Dhaliwal](https://open.spotify.com/artist/5W7gEJq6iQGu1GZofFOcQ5) | [4 Peg](https://open.spotify.com/album/2zT8qrj8Xuiv59GBYJn6Q6) | 2:51 | 2025-04-09 |  |
 | [8 Akhan](https://open.spotify.com/track/43Aeskhtc2KenxvkC8IAAf) | [Meet Gill](https://open.spotify.com/artist/6iQQjo5jipZzr6ziZr22cp), [Jashna](https://open.spotify.com/artist/7gxiuyC2g7K3DFHw28EuiE), [SARDAR SIDHU](https://open.spotify.com/artist/0VWwIN5eZgRulKMCo3cSBF) | [8 Akhan](https://open.spotify.com/album/2JEWt4Ls5ZBuY5iOil6yLz) | 2:00 | 2025-05-07 |  |
 | [900TASK](https://open.spotify.com/track/0J6Y7x3emmC5EL8yB2ST8E) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [Karigar](https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k) | [900TASK](https://open.spotify.com/album/4Bzqv6N0EBpQcycY7PtPyq) | 3:36 | 2024-07-31 | 2024-09-12 |
+| [9M](https://open.spotify.com/track/2KvBPPGQ8LWbPftcepIzJN) | [VISHNU YADAV](https://open.spotify.com/artist/0RsAJllDbxUvG947T82pHV), [Akhil Dhingra](https://open.spotify.com/artist/0jdqhjOcwpnudp2FeRMkCh) | [9M](https://open.spotify.com/album/6wFC7KfdAg9ELKVHeDahIz) | 2:29 | 2025-06-18 |  |
 | [Aadatan](https://open.spotify.com/track/0VKgIuXoAXsLGv5dwMq5jN) | [Prince Jadon](https://open.spotify.com/artist/3O3Ql9NcdVu82xHnvhAyK5) | [Aadatan](https://open.spotify.com/album/58HGDWL4l1rlGr4CQQwP8j) | 3:21 | 2024-07-03 | 2025-01-09 |
 | [About You](https://open.spotify.com/track/5a2OkIZNf6ysvZKZsmIOxR) | [Rav X](https://open.spotify.com/artist/3zaV35echKlPH5F2dlinCq), [Jazz Dee](https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3) | [About You](https://open.spotify.com/album/5ezBLlR4DRjRc3APXkeKQX) | 2:28 | 2024-07-03 | 2024-09-05 |
 | [About you](https://open.spotify.com/track/3G6F2P2IV5Yw6OA2Ze1e75) | [Yograj](https://open.spotify.com/artist/5mW9XVgy7a5PYpqxZn56Di), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv) | [About you](https://open.spotify.com/album/0EliFoBFGkMh1Ns97EXq6T) | 2:35 | 2024-10-10 | 2024-10-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Chxrry
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,279 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,321 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [Oh No! \- Edit](https://open.spotify.com/track/6WNz0P5M39PYy06ujl54Ku) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Oh No! \(Edit\)](https://open.spotify.com/album/1bRxGv1rHtNJmVb6pOXHkv) | 3:26 |
 | 40 | [SENSITIVE](https://open.spotify.com/track/2hM9nXsvOiOcvN7KsiUyXd) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [QUINTESSENTIAL POPSTARDOM](https://open.spotify.com/album/3kevYYeQBn5BDyYCc0P5Xq) | 1:47 |
 
-Snapshot ID: `aEJn3QAAAAC6k7aw8jjcdZ0y42P4WPP+`
+Snapshot ID: `aEJn3QAAAACl7aNQ0ZGdcaFNjFRnKKbp`

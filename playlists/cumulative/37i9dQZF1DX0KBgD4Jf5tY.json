@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3kiRuZtCjfRNm4o0mhMteW\">FREN\u00c8SYA</a> in cover",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:0w3DFcH0s3X5siAjB6C9T7\">Niah Steiner</a> in cover",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 152470,
       "name": "A MI HIJA VITTORIA",
       "url": "https://open.spotify.com/track/39CQEsM6CjOgHm7UYHGgTJ"
@@ -2989,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "ANCHE I COWBOY PIANGONO",
+        "url": "https://open.spotify.com/album/03jgUe8RaBLnPhMYPrcBm3"
+      },
+      "artists": [
+        {
+          "name": "nonpiangere",
+          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250250,
+      "name": "Attico",
+      "url": "https://open.spotify.com/track/3OVPO8ay0u8f3mJdD0Scfz"
+    },
+    {
+      "album": {
         "name": "POCOMALE",
         "url": "https://open.spotify.com/album/3Zo5EsJGkSlbrxSRcQXFD6"
       },
@@ -3377,6 +3395,52 @@
     },
     {
       "album": {
+        "name": "Battelli d'ori",
+        "url": "https://open.spotify.com/album/680Ex28pczCYi1z9cspaLC"
+      },
+      "artists": [
+        {
+          "name": "FOLKTRONICA",
+          "url": "https://open.spotify.com/artist/3220Npaff3LqTFyPcD0S1G"
+        },
+        {
+          "name": "Domenico Celiberti",
+          "url": "https://open.spotify.com/artist/76XuQ9ynqua4ebqxxjXFit"
+        },
+        {
+          "name": "Rosario Nido",
+          "url": "https://open.spotify.com/artist/6kuV2oT3QLHhYUAiaY9D5q"
+        },
+        {
+          "name": "Trevize",
+          "url": "https://open.spotify.com/artist/3lj95u1ucs9JlEjAPO3f06"
+        },
+        {
+          "name": "Giovanni Chirico",
+          "url": "https://open.spotify.com/artist/7JQTuqjmXsmsQcyAMhAo7u"
+        },
+        {
+          "name": "Vincenzo Gagliani",
+          "url": "https://open.spotify.com/artist/3CWSJ8bQnramzct9hcWpgl"
+        },
+        {
+          "name": "Gianni Sciambarruto",
+          "url": "https://open.spotify.com/artist/4QeQquAPAC21nt9W9viM8s"
+        },
+        {
+          "name": "Gioele Nuzzo",
+          "url": "https://open.spotify.com/artist/4s98H8RwhP0JsobO3VacSw"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279919,
+      "name": "Battelli d'ori",
+      "url": "https://open.spotify.com/track/3jFwiYYXZvLmlMJkJmtyQQ"
+    },
+    {
+      "album": {
         "name": "Batto i piedi",
         "url": "https://open.spotify.com/album/29ugj5LiZDBKuCbu7vm8Y7"
       },
@@ -3696,6 +3760,24 @@
       "duration_ms": 153600,
       "name": "BILENU",
       "url": "https://open.spotify.com/track/05gByOn7JH2W8CAY25UJMb"
+    },
+    {
+      "album": {
+        "name": "BINGO",
+        "url": "https://open.spotify.com/album/06SikNLZ6DP9VjOuuVzp1i"
+      },
+      "artists": [
+        {
+          "name": "Guido Cagiva",
+          "url": "https://open.spotify.com/artist/6h3roggb1pYLe0Ei1HcSwK"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131034,
+      "name": "BINGO",
+      "url": "https://open.spotify.com/track/0CKxnwcO5zZlUGzqffZR8Y"
     },
     {
       "album": {
@@ -4386,6 +4468,24 @@
       "duration_ms": 197355,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/73gFn6pgBtaQtPlycYycwR"
+    },
+    {
+      "album": {
+        "name": "B\u00e4ng B\u00e4ng",
+        "url": "https://open.spotify.com/album/4uTLCoI1xOvMU2CI3xvaNr"
+      },
+      "artists": [
+        {
+          "name": "Clam\u00f6",
+          "url": "https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171366,
+      "name": "B\u00e4ng B\u00e4ng",
+      "url": "https://open.spotify.com/track/2aUidrieMDM6fhLUzoj1bf"
     },
     {
       "album": {
@@ -6568,7 +6668,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 163941,
       "name": "COME VOLEVI TU",
       "url": "https://open.spotify.com/track/4RiMq7eFBrGkUwCLJXDZwg"
@@ -7755,6 +7855,28 @@
     },
     {
       "album": {
+        "name": "Plastica Nelle Cuffiette",
+        "url": "https://open.spotify.com/album/3cT5hdCoznDjz4LMU2aBtk"
+      },
+      "artists": [
+        {
+          "name": "Foramacchia",
+          "url": "https://open.spotify.com/artist/6ST078zQG2Ddyc8K6YExIr"
+        },
+        {
+          "name": "Fiabba",
+          "url": "https://open.spotify.com/artist/6eHnWGv1hiGzEEgdUvP2WT"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "di Odio d'Amore",
+      "url": "https://open.spotify.com/track/1EgQnTurQldvDoPBzEcMwr"
+    },
+    {
+      "album": {
         "name": "Di Pi\u00f9",
         "url": "https://open.spotify.com/album/3Na5YNfKtTtkxk4NVEXvyL"
       },
@@ -8393,6 +8515,24 @@
     },
     {
       "album": {
+        "name": "Doppiofantasma",
+        "url": "https://open.spotify.com/album/64UInaPYQ2O7ZRIne1KrMj"
+      },
+      "artists": [
+        {
+          "name": "YOF",
+          "url": "https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200162,
+      "name": "Doppiofantasma",
+      "url": "https://open.spotify.com/track/3pWG1kuWpHNDnZnzMASqTX"
+    },
+    {
+      "album": {
         "name": "dormire",
         "url": "https://open.spotify.com/album/5JAWxK06Q60JLXbjchtla4"
       },
@@ -8422,7 +8562,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 139714,
       "name": "dormir\u00f2 da morto / morir\u00f2 di sonno",
       "url": "https://open.spotify.com/track/6hADvIEdyR5PhqRFLLd52Y"
@@ -11826,7 +11966,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 156455,
       "name": "hands/grow/glass",
       "url": "https://open.spotify.com/track/7MdHIN23dpG5vY5IyJhczA"
@@ -16728,7 +16868,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 199567,
       "name": "Marted\u00ec",
       "url": "https://open.spotify.com/track/72f8rrWu5ZyTkowUCUs1y9"
@@ -18480,7 +18620,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 100273,
       "name": "Nero Tetro",
       "url": "https://open.spotify.com/track/02WIPzYAGtKznU0Awfl9bG"
@@ -19814,7 +19954,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 151066,
       "name": "NON VA",
       "url": "https://open.spotify.com/track/6A9xOwcSqq79q15H2N7ul6"
@@ -23604,7 +23744,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 134709,
       "name": "quasi muoio",
       "url": "https://open.spotify.com/track/0NowSt0aFrOruQ77eMFcpG"
@@ -24071,6 +24211,24 @@
     },
     {
       "album": {
+        "name": "regina di ragni",
+        "url": "https://open.spotify.com/album/2dV9E8Mdr6uBbgJvBJzlHK"
+      },
+      "artists": [
+        {
+          "name": "vilesangue",
+          "url": "https://open.spotify.com/artist/3Cbai4Yx6R1B2nb6oRi6ym"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "regina di ragni",
+      "url": "https://open.spotify.com/track/2As15IePDDCDmgSTpd5z5F"
+    },
+    {
+      "album": {
         "name": "Relax I'm Fine",
         "url": "https://open.spotify.com/album/4RpP5GEvSLaTTpgrToDLo3"
       },
@@ -24330,7 +24488,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 221886,
       "name": "Rimedio D'amore",
       "url": "https://open.spotify.com/track/2iGxhQIkhHZ2PQiVlckF34"
@@ -25471,6 +25629,24 @@
     },
     {
       "album": {
+        "name": "Scusa Caterina",
+        "url": "https://open.spotify.com/album/5eRDKee5B2PXW83hQdXI2q"
+      },
+      "artists": [
+        {
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215817,
+      "name": "Scusa Caterina",
+      "url": "https://open.spotify.com/track/34AoZXtCbcDe2fMG3NhrCY"
+    },
+    {
+      "album": {
         "name": "Scusa se ti amo (ma)",
         "url": "https://open.spotify.com/album/76HBLdyKIDZQOpyJeLsscB"
       },
@@ -25634,7 +25810,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 175462,
       "name": "SECONDA GENERAZIONE",
       "url": "https://open.spotify.com/track/4IaeetR0nHfiXj6YKRXO7U"
@@ -30241,6 +30417,28 @@
     },
     {
       "album": {
+        "name": "Radici",
+        "url": "https://open.spotify.com/album/5qAGbmMM6CQGNDWGB1IAkr"
+      },
+      "artists": [
+        {
+          "name": "Katana Koala Kiwi",
+          "url": "https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2"
+        },
+        {
+          "name": "Macadamia",
+          "url": "https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252096,
+      "name": "Una festa che spesso mi perdo / Radici (Macadamia Remix)",
+      "url": "https://open.spotify.com/track/0G3Urz7y8izQQkYj8tJRlL"
+    },
+    {
+      "album": {
         "name": "Una Litigata a Cas@",
         "url": "https://open.spotify.com/album/49lcE2GrqBYyyyQck1IR3p"
       },
@@ -31808,6 +32006,24 @@
       "duration_ms": 151304,
       "name": "ZERO CASH",
       "url": "https://open.spotify.com/track/2ANdf04vpL9zKMSkO2FNkD"
+    },
+    {
+      "album": {
+        "name": "zero ore di sonno",
+        "url": "https://open.spotify.com/album/0cA0yrVNS4L8X692WxB7Xe"
+      },
+      "artists": [
+        {
+          "name": "Sedici",
+          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174352,
+      "name": "zero ore di sonno",
+      "url": "https://open.spotify.com/track/7JZ5uix7rJdHiJnuaiAngc"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125255,
+  "num_followers": 125257,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUNhnsQ758KIYoVGKSK2SZf2ZmO1gC",
+  "snapshot_id": "AAAUN1OJNYAVgLh+jDxO44zDBbeCNjYJ",
   "tracks": [
+    {
+      "added_at": "2025-06-18 15:06:13",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/664k9hObMi2CQ7cCnV88FO"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        }
+      ],
+      "duration_ms": 206102,
+      "name": "Breathing Underwater - VIP",
+      "url": "https://open.spotify.com/track/5zFkF9JXxS8tlRA7Gyfl2L"
+    },
     {
       "added_at": "2025-06-17 15:20:34",
       "album": {

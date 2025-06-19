@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Diamond Platnumz & Bien
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,912 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,936 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 59 | [Tulia Na Mimi \(feat\. Jay Melody\)](https://open.spotify.com/track/53rL8Pf3wxrrYHK3PzmFJZ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 3:09 |
 | 60 | [Sitaki Mapenzi](https://open.spotify.com/track/5xhHQNRjuITzj9eOFabWWi) | [Treyzah](https://open.spotify.com/artist/1ZEoQ0UaWVoJZE6JCZZUM3) | [Sitaki Mapenzi](https://open.spotify.com/album/2U44P4HPg9FlsYVsAP0457) | 2:40 |
 
-Snapshot ID: `aEvAGgAAAADQdi59NvnW5FvQNe1REnzq`
+Snapshot ID: `AAAAAD6UYQXwzFLnpxZeFlkRStT5pqJw`

@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 안다영\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Zior Park\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-971 songs - 2 day 11 hr 9 min
+972 songs - 2 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,7 +827,7 @@
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-06-20 | 2022-07-05 |
 | [Thirsty](https://open.spotify.com/track/237XyNLeiI0MdnIRGpvlCt) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Thirsty](https://open.spotify.com/album/4UGWbAYWe4N1VawX01am5y) | 2:47 | 2021-12-21 | 2022-07-05 |
 | [This is Beta Testing](https://open.spotify.com/track/5QeEwW9YF2VMaWJ5hjkKOo) | [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [This is Beta Testing](https://open.spotify.com/album/4bf0FX0qrw3lYJETWgIdi5) | 4:39 | 2024-04-30 | 2024-05-10 |
-| [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 | 2025-02-12 |  |
+| [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 | 2025-02-12 | 2025-06-19 |
 | [THOUGHTS](https://open.spotify.com/track/62jVx6znQJGcqaVXtEfNeq) | [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj) | [THOUGHTS](https://open.spotify.com/album/1SryF5L5yTIX1lxiNtD8Zh) | 3:07 | 2025-01-22 | 2025-03-22 |
 | [Three Leaf Clover](https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Four Leaf Clover](https://open.spotify.com/album/4MiP5XpzEudyHgRvaBmYCp) | 2:36 | 2024-10-15 | 2024-11-30 |
 | [Through the Lights](https://open.spotify.com/track/3KQHke0IhjnYVCp8TnWS87) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Through the Lights](https://open.spotify.com/album/2uVG48esI9I6jfX56YFb8E) | 3:46 | 2024-06-18 | 2024-12-11 |
@@ -849,6 +849,7 @@
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-03-31 | 2022-04-10 |
 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 | 2024-03-15 | 2024-05-10 |
 | [Twin](https://open.spotify.com/track/6xBpDSWAn3ovizgJ9WJcax) | [kang](https://open.spotify.com/artist/4WmXMT5h8qV91UNj76WoiG) | [Twin](https://open.spotify.com/album/4jDNuQGVjqkuJMqX2TXyDS) | 3:17 | 2021-12-21 | 2022-04-19 |
+| [TWISTED FANTASY](https://open.spotify.com/track/2gWcql4DxoZe2A6sfIqYFa) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [A BLOODSUCKER](https://open.spotify.com/album/4MqSOAUx06i8FBWbPCMKSQ) | 2:59 | 2025-06-18 |  |
 | [Two Days](https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:36 | 2021-12-12 | 2022-07-28 |
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-07 | 2024-03-09 |
 | [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 | 2025-05-14 | 2025-05-23 |

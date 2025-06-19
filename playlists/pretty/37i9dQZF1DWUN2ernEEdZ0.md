@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Aimi Kobayashi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,089 likes - 98 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,107 likes - 98 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 | 97 | [My Way of Light](https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [My Way of Light](https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF) | 3:16 |
 | 98 | [Tsohle Tsohle](https://open.spotify.com/track/6fPJv5AOm392XonIGAzr9C) | [Abel Selaocoe](https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU), [Manchester Collective](https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ), [Fred Thomas](https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB), [Alan Keary](https://open.spotify.com/artist/6KuGCMBdiLwGRWZE9xAmVe), [Sidiki Dembele](https://open.spotify.com/artist/7wrsYyNdxtOj6XOUv4bx2H), [Dudù Kouate](https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w) | [Hymns of Bantu](https://open.spotify.com/album/4umJVHtks4Dr63htyCQ5nq) | 5:53 |
 
-Snapshot ID: `aAHOZwAAAAB8bUxZ/C2Pmjv7sbrk4COj`
+Snapshot ID: `aAHOZwAAAAAofF67VQqchvt5wAqzhTj9`

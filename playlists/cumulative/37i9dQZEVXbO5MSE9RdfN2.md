@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-1,656 songs - 3 day 15 hr 17 min
+1,657 songs - 3 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1410,7 +1410,7 @@
 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 | 2025-03-04 | 2025-04-30 |
 | [tell you straight](https://open.spotify.com/track/3fMPJ47HnAKqzLYmxnjZ39) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/5Ejt90f4O6IHBHATwuvoJT) | 2:04 | 2025-03-10 | 2025-04-11 |
 | [temperatura](https://open.spotify.com/track/46RJkqAunIte7sXbxPNVMF) | [saint hills](https://open.spotify.com/artist/6FSAMUtb3F7z09jW3tFtGA) | [temperatura](https://open.spotify.com/album/1brkYjEwvxpzLFkEQCEmMu) | 3:06 | 2025-06-03 | 2025-06-11 |
-| [temperatura](https://open.spotify.com/track/28SynAAxPAigz5Xng3vsxy) | [saint hills](https://open.spotify.com/artist/6FSAMUtb3F7z09jW3tFtGA) | [temperatura](https://open.spotify.com/album/6vI7QFdUWNXRUIyERcTNAa) | 3:06 | 2025-06-10 |  |
+| [temperatura](https://open.spotify.com/track/28SynAAxPAigz5Xng3vsxy) | [saint hills](https://open.spotify.com/artist/6FSAMUtb3F7z09jW3tFtGA) | [temperatura](https://open.spotify.com/album/6vI7QFdUWNXRUIyERcTNAa) | 3:06 | 2025-06-10 | 2025-06-19 |
 | [Tempted](https://open.spotify.com/track/5rL3pBAs8eR8UCIpHfMwSm) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Tempted](https://open.spotify.com/album/65S8ytLMPeKARLQDg4HPE6) | 2:56 | 2024-09-10 | 2024-10-19 |
 | [TENTEN](https://open.spotify.com/track/6njivaRY1zUaaEZGf22unI) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [TENTEN](https://open.spotify.com/album/5X7s4cPiT5e5QjvsEUp76Q) | 3:29 | 2025-04-29 | 2025-05-01 |
 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-05-13 | 2024-05-28 |
@@ -1572,6 +1572,7 @@
 | [WELTiTA](https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:07 | 2025-01-21 | 2025-01-26 |
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-10-22 | 2024-11-03 |
 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 | 2024-10-08 | 2024-10-11 |
+| [What Can I Do](https://open.spotify.com/track/4aEKZ3X6SFcrMwI1ejbZ9l) | [Portrait](https://open.spotify.com/artist/0Ysz1bW2Sd03g2f071oXHb) | [What Can I Do](https://open.spotify.com/album/2IR0EN3ATanj5segtVuLwz) | 2:25 | 2025-06-18 |  |
 | [What Have They Done To Us \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2F27IYzFkhhrMChpfhVgPJ) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 1:59 | 2024-12-06 | 2024-12-11 |
 | [What Have They Done To Us \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4ZdFMKqprNtEqdqdhu7gU0) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [What Have They Done To Us \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1rcrVwtk2dbrf7rRNwDhhh) | 1:59 | 2024-12-03 | 2024-12-07 |
 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 | 2024-04-16 | 2024-04-19 |

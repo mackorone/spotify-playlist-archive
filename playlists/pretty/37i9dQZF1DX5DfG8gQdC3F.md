@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Celebrating Juneteenth with new music from Smiley & Drake, Avenoir, ARDN, BAMBII, DEBBY FRIDAY and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,833 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,848 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 79 | [Cry for Me](https://open.spotify.com/track/1eAy1oaGN8LOrcB7dPfjdv) | [Psiryn](https://open.spotify.com/artist/1n700L0EHZQWVPQU9opuFQ) | [In the Key of Us](https://open.spotify.com/album/1PHp9fCP43ql1R5QBc9Jv7) | 3:18 |
 | 80 | [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 |
 
-Snapshot ID: `aEummQAAAABagilsZlRieqSElmpVwvz+`
+Snapshot ID: `AAAAAM2uvgx58a381Vy/NI75Jf/BT6XS`

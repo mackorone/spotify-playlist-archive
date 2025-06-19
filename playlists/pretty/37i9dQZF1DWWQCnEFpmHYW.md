@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQCnEFpmHYW.md) - [plain]
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,767 likes - 125 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,822 likes - 125 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

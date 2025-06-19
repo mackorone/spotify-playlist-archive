@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,086 likes - 64 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,495 likes - 64 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 63 | [Lighthouse](https://open.spotify.com/track/2LxHwJzSVHTyNA9lSi7iap) | [Tom Kha](https://open.spotify.com/artist/7Jx4jOIIdp8GeoR2sA32fY) | [Lighthouse](https://open.spotify.com/album/64wMr9wKchpIuoCfdU9E8R) | 2:26 |
 | 64 | [Parara \(Out Of My Mind\)](https://open.spotify.com/track/3bcp0Y8uvKiidRwXeEZcNi) | [Daniel Etienne](https://open.spotify.com/artist/0HS4eQaqJ9tjYwXUPF7SsS) | [Parara \(Out Of My Mind\)](https://open.spotify.com/album/1Juw9Zx51Zkr5VuBMRKAua) | 3:30 |
 
-Snapshot ID: `aEITnAAAAAAT03whCUm98RV7KcgkCZ0D`
+Snapshot ID: `aFKJdAAAAAB05Hi99WWwrekAJcHDs05b`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,774 likes - 115 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,776 likes - 115 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 114 | [轉呀轉不停](https://open.spotify.com/track/2tMKZ7QHNE9cCv7LDK4Bz7) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [轉呀轉不停](https://open.spotify.com/album/6YLJGQmO9asV6j3JMp3hzH) | 3:47 |
 | 115 | [合照](https://open.spotify.com/track/6fT2hhV2oZqn5bpTrNoktv) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [合照](https://open.spotify.com/album/3jsuXdcBMbWJyM8Uv4ZaLN) | 3:33 |
 
-Snapshot ID: `aE+RAwAAAAAZ9SbuGzcUB8+KGxw+4t3B`
+Snapshot ID: `aE+RAwAAAAAPJDNbkuCaewoYOVJqn7ec`

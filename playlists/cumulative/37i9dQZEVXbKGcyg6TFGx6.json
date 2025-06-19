@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/4caHURAMv4y4vmxiEhyeL0"
+      },
+      "artists": [
+        {
+          "name": "Jasper Gray",
+          "url": "https://open.spotify.com/artist/4GduAXxoRCTWomnaF32nNO"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182204,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/26sVEUsyEC60RPbXxGhu07"
+    },
+    {
+      "album": {
         "name": "All My Life (feat. J. Cole)",
         "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
@@ -13114,7 +13132,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 179996,
       "name": "Deslocado",
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
@@ -14108,7 +14126,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 178401,
       "name": "Dolce Camara",
       "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
@@ -15920,7 +15938,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -24202,7 +24220,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -37265,6 +37283,40 @@
     },
     {
       "album": {
+        "name": "En Attendant Pour Le Peuple...",
+        "url": "https://open.spotify.com/album/1mYefwZcH36OMU31UXJdjU"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Abou Debeing",
+          "url": "https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217259,
+      "name": "Petit g\u00e9nie",
+      "url": "https://open.spotify.com/track/2NcvQ8N9ugSMforAJT0A4Y"
+    },
+    {
+      "album": {
         "name": "Avec le temps",
         "url": "https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8"
       },
@@ -39998,6 +40050,24 @@
       "duration_ms": 103421,
       "name": "Rhude",
       "url": "https://open.spotify.com/track/2uh0bhZlJagjNkX8Du0mRw"
+    },
+    {
+      "album": {
+        "name": "rhythm of the night",
+        "url": "https://open.spotify.com/album/3byvsFBRf82byENeMwgGZ0"
+      },
+      "artists": [
+        {
+          "name": "DJ FUDAL",
+          "url": "https://open.spotify.com/artist/1zziiCmEDytSfa5DAWXdLU"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160004,
+      "name": "rhythm of the night",
+      "url": "https://open.spotify.com/track/5GmoAISFL5GOmboKADVfOB"
     },
     {
       "album": {
@@ -51592,7 +51662,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"

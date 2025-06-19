@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: soap
+> Songs from LGBTQIA+ artists\. Cover: RUSLANA
 
 1,538 songs - 3 day 11 hr 10 min
 

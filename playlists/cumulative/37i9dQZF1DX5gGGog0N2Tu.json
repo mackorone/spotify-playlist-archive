@@ -4797,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "Non \u00e8 pi\u00f9 cos\u00ec",
+        "url": "https://open.spotify.com/album/0V9aBkh8pc9GkRhOZ3OSL5"
+      },
+      "artists": [
+        {
+          "name": "millegalassie",
+          "url": "https://open.spotify.com/artist/0KieEKCxSCnlPaNhIHUZX7"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158988,
+      "name": "Non \u00e8 pi\u00f9 cos\u00ec",
+      "url": "https://open.spotify.com/track/0QthOK187jCc5BdAGOR0nf"
+    },
+    {
+      "album": {
         "name": "Mean Girls (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
@@ -5002,7 +5020,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 235493,
       "name": "Only Girl (In The World)",
       "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"

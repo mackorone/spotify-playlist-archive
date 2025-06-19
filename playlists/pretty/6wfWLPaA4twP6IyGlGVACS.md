@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6wfWLPaA4twP6IyGlGVACS.md) - [plain]
 
 > 
 
-[mui](https://open.spotify.com/user/31opiufqcq4byot27xwoobbeiase) - 0 likes - 45 songs - 3 hr 21 min
+[mui](https://open.spotify.com/user/31opiufqcq4byot27xwoobbeiase) - 0 likes - 46 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/6wfWLPaA4twP6IyGlGVACS.md) - [plain]
 | 43 | [Nowadays Clancy Can't Even Sing](https://open.spotify.com/track/3OL43r2enbxrT9htCmf8C8) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 3:27 |
 | 44 | [Does It Float](https://open.spotify.com/track/7K9F3ob3ssnoPVZ28Xw3wA) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Dinosaur](https://open.spotify.com/album/3QqXfyJlWaEUsrnW4cQ03c) | 3:18 |
 | 45 | [You Shadow](https://open.spotify.com/track/6F09XWGVJ8ZCyAp3QGamP2) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 3:14 |
+| 46 | [Esemplastic Creeping Eruption](https://open.spotify.com/track/4VMLSOGGtJZooVRPSkQKsg) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Instant Holograms On Metal Film](https://open.spotify.com/album/5nS7jRCPubnZF0OsXEM0D7) | 6:04 |
 
-Snapshot ID: `AAAAQ8CPJnv5vigqpRfFxrQMdbYcZ12i`
+Snapshot ID: `AAAAROYu1GQxLaqrRIWccc+uSEq8MY8i`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Kevin Saunderson and Dantiez
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,970 likes - 130 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,040 likes - 130 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

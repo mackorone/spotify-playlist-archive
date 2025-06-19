@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: \uae08\uc8fc\ub97c \ubd80\ud0c1\ud574 (Second Shot at Love)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: \ubbf8\uc9c0\uc758 \uc11c\uc6b8 (Our Unwritten Seoul)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -6614,7 +6614,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-19",
       "duration_ms": 233050,
       "name": "I Feel It Now",
       "url": "https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy"
@@ -13424,6 +13424,36 @@
       "duration_ms": 173861,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2ZDoLZDdB5fewI189RtKaO"
+    },
+    {
+      "album": {
+        "name": "I AM A RUNNING MATE (Original Television Soundtrack) Special Track",
+        "url": "https://open.spotify.com/album/2OvNQjMvT4IVSDK9NcOKQP"
+      },
+      "artists": [
+        {
+          "name": "RICKY",
+          "url": "https://open.spotify.com/artist/4mcsxXTo5xt1vi48nRg0qe"
+        },
+        {
+          "name": "KIM GYU VIN",
+          "url": "https://open.spotify.com/artist/51tgBC1aNg55QKOV9bTmPn"
+        },
+        {
+          "name": "HAN YU JIN",
+          "url": "https://open.spotify.com/artist/5IhVhQmbV61WmPrTm1gIPP"
+        },
+        {
+          "name": "KIM JI WOONG",
+          "url": "https://open.spotify.com/artist/5e51asJO6l5s7jEKKZfbxi"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/33KbiTUjTGGedXHEG2x3o7"
     },
     {
       "album": {

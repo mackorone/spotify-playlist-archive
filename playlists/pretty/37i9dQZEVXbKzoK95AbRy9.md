@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,365 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,413 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Seja Ex \- Ao Vivo](https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 3:12 |
 | 50 | [Fashion](https://open.spotify.com/track/3bpNcH1SCEMn6zuynZGY5e) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [ProdSmile](https://open.spotify.com/artist/468Ift2ngwSQzitOIDjgQO) | [Mixtape Chiró](https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S) | 3:33 |
 
-Snapshot ID: `L+TceAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+Yt+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

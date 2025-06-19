@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-923 songs - 1 day 23 hr 7 min
+924 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-21 | 2025-04-04 |
 | [Call me when you need me](https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Call me when you need me](https://open.spotify.com/album/5DgDuWTZ8cFgfUsymQvD9P) | 3:14 | 2025-06-12 |  |
 | [Call My Name](https://open.spotify.com/track/3zytAI32kYi10jOpO3Knuz) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Call My Name](https://open.spotify.com/album/5dhhR8JBWXHrIKpbY1UZRP) | 3:09 | 2025-04-10 | 2025-05-17 |
+| [Camels](https://open.spotify.com/track/1t30x389swdoiG08U2X2fz) | [Paine Galletto](https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY) | [Camels](https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa) | 1:54 | 2025-06-18 |  |
 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-06 | 2025-03-28 |
 | [Can't Go Back](https://open.spotify.com/track/2u5JUUkazRj0CCfYt4uZSO) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/1ru0RHTdao2mgYC8iJ5yBx) | 2:35 | 2025-05-29 |  |
 | [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 | 2025-05-29 |  |

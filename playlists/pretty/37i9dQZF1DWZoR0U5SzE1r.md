@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Matt Redman
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,948 likes - 200 songs - 18 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,060 likes - 200 songs - 18 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

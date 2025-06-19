@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 
 > A complete collection of Chopin's Nocturnes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,037 likes - 21 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,062 likes - 21 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 | 5 | [Nocturne No\. 2 In E Flat, Op\. 9 No\. 2](https://open.spotify.com/track/503fwzlbWHx5g0CqlU9Giu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 4:02 |
 | 6 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 |
 | 7 | [Nocturne No\. 15 in F Minor, Op\. 55 No\. 1](https://open.spotify.com/track/4BTKLuoeQilGkBi47bt2hs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Chopin: Nocturnes](https://open.spotify.com/album/3zHkuOkUqIgRwCcVnbX9qf) | 4:40 |
-| 8 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 6:06 |
+| 8 | [Chopin: Nocturne No\. 4 in F Major, Op\. 15 No\. 1](https://open.spotify.com/track/4Q37ztBKLNpNTM60J1hHgL) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Chopin: Nocturnes](https://open.spotify.com/album/7y3AsSZqsPwODemRGCpnLZ) | 4:34 |
 | 9 | [Nocturne No\. 11 In G Minor, Op\. 37 No\. 1](https://open.spotify.com/track/6saqyONsKCCJw0gWh95LCi) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 5:21 |
-| 10 | [Chopin: Nocturne No\. 4 in F Major, Op\. 15 No\. 1](https://open.spotify.com/track/4Q37ztBKLNpNTM60J1hHgL) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Chopin: Nocturnes](https://open.spotify.com/album/7y3AsSZqsPwODemRGCpnLZ) | 4:34 |
+| 10 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 6:06 |
 | 11 | [Nocturne No\. 9 in B, Op\. 32 No\. 1](https://open.spotify.com/track/1SItHiHPqABSEgLckb1WHd) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Chopin The Complete Nocturnes](https://open.spotify.com/album/7LKfwOdLM3y0lk4LSARD5t) | 5:09 |
 | 12 | [Nocturne No\. 10 in A\-Flat Major, Op\. 32, No\. 2](https://open.spotify.com/track/5uIEO6lSBDTyKXVnoJ0BWs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:49 |
 | 13 | [Nocturne No\. 7 in C\-Sharp Minor, Op\. 27 No\. 1](https://open.spotify.com/track/6TkDRZTjNLZZcrSQyjUSZZ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Nocturnes; Four Ballades](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) | 5:26 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 | 20 | [Nocturne No\. 6 in G Minor, Op\. 15, No\. 3](https://open.spotify.com/track/7Fs8VvfKUBq9QULOmXDvJ3) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:26 |
 | 21 | [Nocturne in G Major, Op\. 37 No\. 2: Nocturne No\. 12 in G Major, Op\. 37, No\. 2](https://open.spotify.com/track/2QPzPGD9PnzWqnrOGP8yBp) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Nocturnes, Vol\. 2](https://open.spotify.com/album/0FP9XagwY9S38aFqtqYJGC) | 5:43 |
 
-Snapshot ID: `Z4EJqQAAAAAdFKJKyJkqB06Gqz165dRq`
+Snapshot ID: `aFLcSAAAAADjpvZYgU8oczywwwQfVwsj`

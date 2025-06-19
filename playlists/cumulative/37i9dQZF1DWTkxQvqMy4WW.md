@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-456 songs - 1 day 2 hr 6 min
+457 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Farmer's Daughter](https://open.spotify.com/track/5zGqTc1WQUe8XqqdnrpKTV) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:27 | 2019-06-26 | 2019-06-27 |
 | [Fast](https://open.spotify.com/track/2gYiCTytrSRtuaHP1Nac6u) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:26 | 2019-06-24 | 2019-06-28 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-05-18 |  |
+| [Favorite Country Song](https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0) | 3:13 | 2025-06-18 |  |
 | [Feelin’ It](https://open.spotify.com/track/0ABHhxQTaluB94ohp2RLSr) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [See You Tonight](https://open.spotify.com/album/4WzDgE5rtzgdklKFoDvUcw) | 3:18 | 2019-08-09 | 2019-08-10 |
 | [Fires Don't Start Themselves](https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Fires Don't Start Themselves](https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9) | 3:45 | 2023-10-27 | 2024-02-03 |
 | [Five More Minutes](https://open.spotify.com/track/66IULVOTImQG2u0cJ3Ls04) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Five More Minutes](https://open.spotify.com/album/1nuoHWmZeB6SpJFfgYJUiv) | 3:58 | 2019-10-26 | 2022-04-20 |
@@ -168,7 +169,7 @@
 | [Homegrown](https://open.spotify.com/track/1qwnPVOIJjAFfCc40Etb1D) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/1xy141zMRluP7YaE94IawT) | 3:25 | 2019-06-21 | 2022-07-29 |
 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 | 2022-05-13 | 2024-04-19 |
 | [Hometown Girl](https://open.spotify.com/track/5C6uh95eAL0RBTSGXKQwvk) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Deep South](https://open.spotify.com/album/4VRIpRxvAMvewEHzy2GCtc) | 3:35 | 2019-10-26 | 2022-04-20 |
-| [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 | 2019-10-26 |  |
+| [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 | 2019-10-26 | 2025-06-19 |
 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 | 2019-06-23 |  |
 | [How Country Feels](https://open.spotify.com/track/68A4qiCqD9y39N3WNEsJVD) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/1Wcnyz2zYWLIPZ1K63RXdW) | 3:05 | 2019-06-23 | 2022-04-18 |
 | [How Country Feels](https://open.spotify.com/track/26t3KexbqzF3sRWgczYyja) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ) | 3:05 | 2023-12-15 | 2024-02-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: HIT 3",
-  "num_followers": 406398,
+  "num_followers": 406924,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEfZLAAAAAAHxzlkZLmBxlyvHGW17lJc",
+  "snapshot_id": "aFKqXQAAAABe5pZ+eKmZ+DFpyPI5TCo+",
   "tracks": [
     {
       "added_at": "2025-05-09 09:56:17",
@@ -157,6 +157,26 @@
       "url": "https://open.spotify.com/track/5Pqv6e52EWyqxeNyFYqDni"
     },
     {
+      "added_at": "2025-06-18 12:00:29",
+      "album": {
+        "name": "Balu",
+        "url": "https://open.spotify.com/album/4NK8IntrUbxtrNfKkJJEPh"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        }
+      ],
+      "duration_ms": 317063,
+      "name": "Athimettani",
+      "url": "https://open.spotify.com/track/3JQulFhnD222tW1SWtV4fz"
+    },
+    {
       "added_at": "2023-11-06 11:12:57",
       "album": {
         "name": "MAD",
@@ -207,22 +227,6 @@
       "duration_ms": 340906,
       "name": "Pileche",
       "url": "https://open.spotify.com/track/1mOCb1w5n62jLGHJqpGL2W"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Chirutha",
-        "url": "https://open.spotify.com/album/5KEPglkfQDPC5xMCqrrKpa"
-      },
-      "artists": [
-        {
-          "name": "Karunya",
-          "url": "https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2"
-        }
-      ],
-      "duration_ms": 271910,
-      "name": "Endhuko Pichi Pichi",
-      "url": "https://open.spotify.com/track/693359DlfpvoEfIYleKs05"
     },
     {
       "added_at": "2023-08-30 10:44:11",

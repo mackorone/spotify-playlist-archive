@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: KISS OF LIFE\)
+> Trendy & Chill Korean R&B music\. \(Cover: Seori & Paul Blanco\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,734 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,056 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [City View](https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [City View / Her](https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW) | 3:28 |
-| 2 | [Run \(feat\. Paul Blanco\)](https://open.spotify.com/track/1OZV7s6hPW69ryqAUKGSZF) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 2:42 |
+| 1 | [Run \(feat\. Paul Blanco\)](https://open.spotify.com/track/1OZV7s6hPW69ryqAUKGSZF) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 2:42 |
+| 2 | [City View](https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [City View / Her](https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW) | 3:28 |
 | 3 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 |
 | 4 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
 | 5 | [GMK \(feat\. CHANGMO\)](https://open.spotify.com/track/0vTiOnO5rVakyOhAskGO9J) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 74 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 |
 | 75 | [Loser](https://open.spotify.com/track/49uQ4IE8mdDekBDW8tG849) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 2:50 |
 
-Snapshot ID: `aFEy5gAAAABUWv3xW9WbqpPH4JI7bKxz`
+Snapshot ID: `aFJVWwAAAACB4jPLvW07HvdIowSstU8k`

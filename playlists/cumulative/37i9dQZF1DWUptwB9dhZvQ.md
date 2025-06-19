@@ -2,9 +2,9 @@
 
 ### [Kollywood Themes](https://open.spotify.com/playlist/37i9dQZF1DWUptwB9dhZvQ)
 
-> Its time to relish the best themes of Kollywood!<br/>Cover : Jailer
+> Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-206 songs - 6 hr 13 min
+207 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Jailer Drill Theme \- Instrumental](https://open.spotify.com/track/1CCl0ogC6LbX7slaVo7DGG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 0:43 | 2023-07-28 |  |
 | [Jailer Theme \- Instrumental](https://open.spotify.com/track/53Y7ZNZ6p26V460x89B70A) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:02 | 2023-07-28 |  |
 | [Jawan Prevue Theme](https://open.spotify.com/track/29Lsdm869Qk82RS5he08R4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan Prevue Theme](https://open.spotify.com/album/2bE8aLgWEZkHvTRhosPwmC) | 2:07 | 2023-07-14 |  |
-| [JD Intro \- Background Score](https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 | 2021-11-01 |  |
+| [JD Intro \- Background Score](https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 | 2021-11-01 | 2025-06-19 |
 | [Jilla Theme](https://open.spotify.com/track/2ev3UOM2TLhquAupkuTd6v) | [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI) | [Jilla \(Original Music Picture Soundtrack\)](https://open.spotify.com/album/3D6qVncbJK9etDCBZs1lx6) | 3:04 | 2021-11-01 |  |
 | [Kaaki Sattai Theme Music](https://open.spotify.com/track/2O1MQVDpPTEsmYshDAbRvV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaaki Sattai](https://open.spotify.com/album/5emaOiW98UVkv7NYdWhcP9) | 0:47 | 2021-11-01 | 2022-07-09 |
 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/26yOMBYGKZUzYMAfslSjaE) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Uq2YDSGPR3Lb7dw8te7Qm) | 1:10 | 2021-11-01 | 2024-04-12 |
@@ -138,6 +138,7 @@
 | [Petta Theme \- From "Petta"](https://open.spotify.com/track/5fyz50nzC0a96r7UAd2Y5f) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:46 | 2021-11-01 | 2025-05-28 |
 | [Pilot Officer Nedumaran \- Background Score](https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Soorarai Pottru \(Original Background Score\)](https://open.spotify.com/album/3Ptlh3EuSHa9y9OZaNvqnd) | 0:53 | 2021-11-01 |  |
 | [Pokkiri Theme](https://open.spotify.com/track/72kMYIVcqEnJKCC9p4GH2d) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Pokkiri](https://open.spotify.com/album/4Inz90EeQs57Oxc41GF6QO) | 2:37 | 2021-11-01 | 2023-03-11 |
+| [Powerhouse Vibe \(From "Coolie"\)](https://open.spotify.com/track/35qzAcXwtHq1c0lcbSPXLP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Powerhouse Vibe \(From "Coolie"\)](https://open.spotify.com/album/3JoVnOPGiIOqjvXA30w9AE) | 0:52 | 2025-06-18 |  |
 | [Prabanjan Theme \- Background Score](https://open.spotify.com/track/0PHhtgecVrG1HhJ5viLLIG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:56 | 2022-07-08 | 2023-02-07 |
 | [PS vs VT](https://open.spotify.com/track/2s9xmFKi7AHRFPaGi1t7yU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ponniyin Selvan \(Original Score\)](https://open.spotify.com/album/23HAmfHXpbuaGW2PRgHUu1) | 2:25 | 2024-01-08 | 2024-06-08 |
 | [Raayan Rules](https://open.spotify.com/track/1dAe59cjQvKeoO1cfHMAsE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raayan \(Original Background Score\)](https://open.spotify.com/album/0ZlKGiNXYO5G8Gpg5iFTUm) | 0:56 | 2024-12-10 | 2025-06-06 |

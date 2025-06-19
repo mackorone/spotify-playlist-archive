@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Orbit Culture.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,938 likes - 143 songs - 8 hr 31 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,940 likes - 143 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

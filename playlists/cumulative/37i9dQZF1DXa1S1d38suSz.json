@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9"
+    },
+    {
+      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -1680,24 +1698,6 @@
       "duration_ms": 315698,
       "name": "Tabaco y Chanel - Re-Recorded",
       "url": "https://open.spotify.com/track/4HDgFMEOyaqsashrPpeAu2"
-    },
-    {
-      "album": {
-        "name": "Haciendo Camino",
-        "url": "https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "date_added": "2022-01-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252839,
-      "name": "Tan Enamorados (Nina Bonita)",
-      "url": "https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9"
     },
     {
       "album": {

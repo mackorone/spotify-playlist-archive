@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lola Indigo, SAIKO con Omar Courtz, Ovy On The Drums con Quevedo y Beéle, Judeline y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,544 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,594 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 14 | [INCOMPATIBLES](https://open.spotify.com/track/5PceQ1eOJhRu3y5s81hqqW) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [José Rey](https://open.spotify.com/artist/0Wj30bALdN1oOI30Pt44Qj) | [INCOMPATIBLES](https://open.spotify.com/album/17i2TGNCz4914oxjIpP42Q) | 3:33 |
 | 15 | [Sangre](https://open.spotify.com/track/1o8JEYh6oeX0apNZcZMSS2) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Sangre](https://open.spotify.com/album/4e3WHyRRJOsad3dsVBQrUN) | 3:16 |
 | 16 | [Jetski](https://open.spotify.com/track/0M4FCnAqtMJUDwPEiK3hqz) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Jetski](https://open.spotify.com/album/4Dk1uW3ZKuBGVB7dzangr8) | 2:43 |
-| 17 | [Gohan y Goku](https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin](https://open.spotify.com/artist/34NUt5bbbvuSanv8NbZP8l) | [Gohan y Goku](https://open.spotify.com/album/3zHjrzYFFrvxitf8e5sbX7) | 2:44 |
+| 17 | [Gohan y Goku](https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin San](https://open.spotify.com/artist/0TC8XvQTSQMh4beW43FsAH) | [Gohan y Goku](https://open.spotify.com/album/3zHjrzYFFrvxitf8e5sbX7) | 2:44 |
 | 18 | [Lealtad](https://open.spotify.com/track/4w8gJp21rxY7Nrj0vimo89) | [ABHIR](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0) | [Lealtad](https://open.spotify.com/album/6bcFGylibReNujZLVC84wp) | 2:46 |
 | 19 | [Amor mío](https://open.spotify.com/track/2BFmhrBKENzXMaXlzJi34n) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [NO TE ENAMORES](https://open.spotify.com/album/2x0jY9IfCigAOZLUfh9xiW) | 3:12 |
 | 20 | [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 |
