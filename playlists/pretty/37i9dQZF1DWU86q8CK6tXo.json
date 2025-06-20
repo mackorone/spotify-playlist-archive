@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Brandee Younger\n",
-  "num_followers": 63786,
+  "num_followers": 63830,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,26 @@
     {
       "added_at": "2025-06-16 17:52:30",
       "album": {
+        "name": "Oh Lala",
+        "url": "https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 230031,
+      "name": "Oh Lala",
+      "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
+    },
+    {
+      "added_at": "2025-06-16 17:52:30",
+      "album": {
         "name": "ROMEO",
         "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 124823,
       "name": "Im So ATL",
       "url": "https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A"
-    },
-    {
-      "added_at": "2025-06-16 17:52:30",
-      "album": {
-        "name": "Oh Lala",
-        "url": "https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 230031,
-      "name": "Oh Lala",
-      "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
     },
     {
       "added_at": "2025-06-16 17:52:30",
@@ -539,38 +539,6 @@
     {
       "added_at": "2025-06-16 17:52:30",
       "album": {
-        "name": "For Melancholy Brunettes (& sad women)",
-        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Picture Window",
-      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
-    },
-    {
-      "added_at": "2025-06-16 17:52:30",
-      "album": {
-        "name": "Down to be wrong",
-        "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Down to be wrong",
-      "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
-    },
-    {
-      "added_at": "2025-06-16 17:52:30",
-      "album": {
         "name": "Expiration Dating",
         "url": "https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg"
       },
@@ -587,6 +555,22 @@
     {
       "added_at": "2025-06-16 17:52:30",
       "album": {
+        "name": "For Melancholy Brunettes (& sad women)",
+        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Picture Window",
+      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
+    },
+    {
+      "added_at": "2025-06-16 17:52:30",
+      "album": {
         "name": "Chemical Reaction",
         "url": "https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 198778,
       "name": "Chemical Reaction",
       "url": "https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774"
+    },
+    {
+      "added_at": "2025-06-16 17:52:30",
+      "album": {
+        "name": "Down to be wrong",
+        "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Down to be wrong",
+      "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
     },
     {
       "added_at": "2025-06-16 17:52:30",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-06-16 17:52:30",
       "album": {
-        "name": "D R E A M S I C L E",
-        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "too good",
-      "url": "https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J"
-    },
-    {
-      "added_at": "2025-06-16 17:52:30",
-      "album": {
         "name": "Cowboy Sh!t",
         "url": "https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 154438,
       "name": "Cowboy Sh!t",
       "url": "https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs"
+    },
+    {
+      "added_at": "2025-06-16 17:52:30",
+      "album": {
+        "name": "D R E A M S I C L E",
+        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "too good",
+      "url": "https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J"
     },
     {
       "added_at": "2025-06-16 17:52:30",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-06-16 17:52:30",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/7awFCf1IxOUrMpBqt4IZxx"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 184404,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/5ElhrA4i6PX4vkJ6sOEPE3"
+    },
+    {
+      "added_at": "2025-06-16 17:52:30",
+      "album": {
         "name": "I Look Good",
         "url": "https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36"
       },
@@ -895,6 +911,26 @@
     {
       "added_at": "2025-06-16 17:52:30",
       "album": {
+        "name": "I Won't Sleep",
+        "url": "https://open.spotify.com/album/2Cv3X0S014FgbbBahaEQLh"
+      },
+      "artists": [
+        {
+          "name": "XANDRA",
+          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "I Won't Sleep",
+      "url": "https://open.spotify.com/track/0mi2jX9EjiMcG0lRqV2gPB"
+    },
+    {
+      "added_at": "2025-06-16 17:52:30",
+      "album": {
         "name": "Bloodless",
         "url": "https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h"
       },
@@ -907,38 +943,6 @@
       "duration_ms": 183392,
       "name": "Hole In A Frame",
       "url": "https://open.spotify.com/track/0yhZkGZwcvcnUCfJ6MulaT"
-    },
-    {
-      "added_at": "2025-06-16 17:52:30",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/7awFCf1IxOUrMpBqt4IZxx"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 184404,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/5ElhrA4i6PX4vkJ6sOEPE3"
-    },
-    {
-      "added_at": "2025-06-16 17:52:30",
-      "album": {
-        "name": "Savannah",
-        "url": "https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Savannah",
-      "url": "https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP"
     }
   ],
   "unique_name": "EQUAL US",

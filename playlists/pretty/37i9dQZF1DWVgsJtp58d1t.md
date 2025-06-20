@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Happy Black Music Month! Now featuring our  <a href="https://www.instagram.com/p/DKuestyxk7t/?igsh=NTc4MTIwNjQ2YQ==">Frequency Zine</a>  cover star Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,082 likes - 200 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,099 likes - 200 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

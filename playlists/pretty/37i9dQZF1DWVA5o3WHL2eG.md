@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,224 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,241 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |
 | 19 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |
 | 20 | [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 |
-| 21 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 |
-| 22 | [215 fehlstunden](https://open.spotify.com/track/3X4DZ9xR9ASP2mApkmOWg3) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [215 fehlstunden](https://open.spotify.com/album/46Vbi8Z2yGVDa3D1k9ZRmD) | 2:31 |
+| 21 | [215 fehlstunden](https://open.spotify.com/track/3X4DZ9xR9ASP2mApkmOWg3) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [215 fehlstunden](https://open.spotify.com/album/46Vbi8Z2yGVDa3D1k9ZRmD) | 2:31 |
+| 22 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 |
 | 23 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |
-| 24 | [blauäugig](https://open.spotify.com/track/1x9Nayn5si8O2ijcz7lfQe) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/6TsjtXGkd8JKtB400it3nF) | 3:34 |
-| 25 | [Schlalalafen](https://open.spotify.com/track/7xszxxMBk5CPOn0lsk02l3) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schlalalafen](https://open.spotify.com/album/6ZpQhN9Ej76gOrUu1j8aO5) | 2:52 |
+| 24 | [Schlalalafen](https://open.spotify.com/track/7xszxxMBk5CPOn0lsk02l3) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schlalalafen](https://open.spotify.com/album/6ZpQhN9Ej76gOrUu1j8aO5) | 2:52 |
+| 25 | [blauäugig](https://open.spotify.com/track/1x9Nayn5si8O2ijcz7lfQe) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/6TsjtXGkd8JKtB400it3nF) | 3:34 |
 | 26 | [\#billieeilish](https://open.spotify.com/track/1PLNecx91vPpSxVjPI9JTC) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [\#billieeilish](https://open.spotify.com/album/6yZxnZCrzE14iX4C1n1gAr) | 1:45 |
 | 27 | [gegengift](https://open.spotify.com/track/37wSsrdZXwlBAkWdKR25Gn) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [gegengift](https://open.spotify.com/album/5neEPGUpUctNlt9xVO5rug) | 2:36 |
 | 28 | [Vom anderen Stern](https://open.spotify.com/track/3UGJn5ow0N4ilWF2Rj9hbS) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Vom anderen Stern](https://open.spotify.com/album/1NRBe8R8bRHejd698nE1bd) | 3:19 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Healing](https://open.spotify.com/track/4ilObt2d81ny3mrhkHiThh) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Healing](https://open.spotify.com/album/3mAeleHsO986ZPtRTd2I8X) | 2:58 |
 | 33 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 |
 | 34 | [PILOT](https://open.spotify.com/track/2NqVNlEi1EURj6acNnjs7W) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [PILOT](https://open.spotify.com/album/6JjgeAEOPAR84qwQrB1SeQ) | 3:24 |
-| 35 | [Luftmatratze](https://open.spotify.com/track/75nKqTGkhBZrGWD7Tx0kTw) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Luftmatratze](https://open.spotify.com/album/2SLwigOmRvIBuY241sDf9t) | 2:40 |
-| 36 | [Polarität](https://open.spotify.com/track/2McjdvztjQZyJQT3bYsSkq) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Polarität](https://open.spotify.com/album/3yfk9gv4M8GP3AJfP99ZBq) | 2:10 |
+| 35 | [Polarität](https://open.spotify.com/track/2McjdvztjQZyJQT3bYsSkq) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Polarität](https://open.spotify.com/album/3yfk9gv4M8GP3AJfP99ZBq) | 2:10 |
+| 36 | [Luftmatratze](https://open.spotify.com/track/75nKqTGkhBZrGWD7Tx0kTw) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Luftmatratze](https://open.spotify.com/album/2SLwigOmRvIBuY241sDf9t) | 2:40 |
 | 37 | [Mund voll Gold](https://open.spotify.com/track/02xAk8tVXxFFXCREiEzR5t) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [Mund voll Gold](https://open.spotify.com/album/6aj1rjldbn0RyUCN9UzncI) | 3:02 |
 | 38 | [Pacify](https://open.spotify.com/track/4vdIMyvKTGh9kFZhi9Kt7w) | [The Red Flags](https://open.spotify.com/artist/7FIb3f7HlWJre42vwT6rDN) | [Self\-Centred And Delusional](https://open.spotify.com/album/2VGX96Cq2zq9n2tp2lOQ3K) | 2:31 |
 | 39 | [Dark Circus](https://open.spotify.com/track/47cUzqM7rbKDEO0yzUv09h) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Dark Circus](https://open.spotify.com/album/4qV8ICYfScGe9HhIflz4VQ) | 5:39 |

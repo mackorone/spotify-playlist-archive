@@ -3329,6 +3329,24 @@
     },
     {
       "album": {
+        "name": "GRITS",
+        "url": "https://open.spotify.com/album/2MMOnzcdK4oGgi9esE0gKV"
+      },
+      "artists": [
+        {
+          "name": "Shane Stevens",
+          "url": "https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173783,
+      "name": "GRITS",
+      "url": "https://open.spotify.com/track/0Ymuz773KydzWsrvYCjXcX"
+    },
+    {
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/76H4e6RLzuJYEnrItNMq63"
       },
@@ -9190,6 +9208,24 @@
       "duration_ms": 224173,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3"
+      },
+      "artists": [
+        {
+          "name": "Arilena Ara",
+          "url": "https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd"
+        }
+      ],
+      "date_added": "2025-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj"
     },
     {
       "album": {

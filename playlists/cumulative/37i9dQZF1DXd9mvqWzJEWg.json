@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC?si=XBKe9CxIR_-DOdXmVyb3oA\">Sykes</a>, <a href=\"https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=D-ekzJ3LQ8KeHkPAnW7nlw\">DJ Lag</a>, <a href=\"https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY?si=Mc91edoLS2eugpsN3sphHA\">Sir Trill</a>",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=DGtITNlzQeeqC5_ICWZI9A\">Kamo Mphela</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 341617,
       "name": "AI",
       "url": "https://open.spotify.com/track/5PXadPu4oBrqdcg2pFMGaC"
@@ -484,6 +484,24 @@
       "duration_ms": 246683,
       "name": "ATE",
       "url": "https://open.spotify.com/track/2L6GRLwvJJpQ0wWqEoDI3v"
+    },
+    {
+      "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/1E8XVG8kYfGy3kneUMb0SG"
+      },
+      "artists": [
+        {
+          "name": "DJ TKM",
+          "url": "https://open.spotify.com/artist/3orBASckH0kWd1FrlqlJvY"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217787,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/6lKvGAoHwevBamSrULaI2P"
     },
     {
       "album": {
@@ -892,7 +910,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 335882,
       "name": "Beliefs !",
       "url": "https://open.spotify.com/track/7zDVmo6WMWC5Tm4DEwdtSs"
@@ -1240,10 +1258,32 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 272173,
       "name": "Caesar",
       "url": "https://open.spotify.com/track/5gGSeJvMG8fn8CRdwCegG0"
+    },
+    {
+      "album": {
+        "name": "Till Gqom Do Us Apart - EP",
+        "url": "https://open.spotify.com/album/1TbNpy7ySK1Boai4KI6gn8"
+      },
+      "artists": [
+        {
+          "name": "DJ Maeli",
+          "url": "https://open.spotify.com/artist/5MiTkemN8YKoUIxamohVwy"
+        },
+        {
+          "name": "Bhuda M",
+          "url": "https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427102,
+      "name": "Cape Natal",
+      "url": "https://open.spotify.com/track/4V5BJJ0r39vCZOZw2BFN2S"
     },
     {
       "album": {
@@ -1666,7 +1706,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 322324,
       "name": "Dedela",
       "url": "https://open.spotify.com/track/34XVp2e2IOBni6BfXhV03I"
@@ -3026,7 +3066,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 369580,
       "name": "Home Made",
       "url": "https://open.spotify.com/track/7nhPzNU7FLHGwgdYTM2yB7"
@@ -3180,7 +3220,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 371644,
       "name": "iGqom iDombolo, Vol. 2",
       "url": "https://open.spotify.com/track/3uwMKlkKUK46nlzxECVR3C"
@@ -3404,7 +3444,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 374947,
       "name": "Intekhulumayo",
       "url": "https://open.spotify.com/track/58FRZmbYNo7hFMxrCgEZEl"
@@ -4122,7 +4162,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 435826,
       "name": "Just Heal",
       "url": "https://open.spotify.com/track/3U498LtdDBrf100ypKf6N3"
@@ -4428,6 +4468,24 @@
       "duration_ms": 293335,
       "name": "Kwenzakalan",
       "url": "https://open.spotify.com/track/6Nupcrtf9XFpQ2nwHCY0fI"
+    },
+    {
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1F0mYbxstDi7z9qgQ1joky"
+      },
+      "artists": [
+        {
+          "name": "Afro Tech Boyz",
+          "url": "https://open.spotify.com/artist/79FvZ8T3TzuN1bDoEZuSlB"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307670,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4UDysN1OGxyovYsOm6nUGt"
     },
     {
       "album": {
@@ -4922,7 +4980,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 313690,
       "name": "Montana",
       "url": "https://open.spotify.com/track/7y17vhs7SnKHDju8P6OuMl"
@@ -5040,6 +5098,28 @@
       "duration_ms": 308571,
       "name": "Moyowodwa",
       "url": "https://open.spotify.com/track/3K5PUqvI6YnNCnYawBntA8"
+    },
+    {
+      "album": {
+        "name": "Mozambique",
+        "url": "https://open.spotify.com/album/3kZx8xDbpqle2Ek9DG2Yrc"
+      },
+      "artists": [
+        {
+          "name": "TheGqomBoss",
+          "url": "https://open.spotify.com/artist/292Cl4hITfjeJUtUDVokdh"
+        },
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338951,
+      "name": "Mozambique",
+      "url": "https://open.spotify.com/track/5paeoTrCmgG7O4BV1vtRLn"
     },
     {
       "album": {
@@ -5474,7 +5554,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 250932,
       "name": "Ngishutheni - Gqom Remix",
       "url": "https://open.spotify.com/track/6QX7dDnyaL1eloEwRk4RDJ"
@@ -5924,6 +6004,40 @@
       "duration_ms": 300241,
       "name": "Palme D'or - Dee Traits Remix",
       "url": "https://open.spotify.com/track/7xs3B0W9YIwckkd3NX73Ui"
+    },
+    {
+      "album": {
+        "name": "Partii (feat. Aymos, Jay Music, QUE DJ & SpacePose)",
+        "url": "https://open.spotify.com/album/6EUhiZ9tUjp80kpmfX6Oes"
+      },
+      "artists": [
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        },
+        {
+          "name": "QUE DJ",
+          "url": "https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka"
+        },
+        {
+          "name": "SpacePose",
+          "url": "https://open.spotify.com/artist/3FzuMCbtaezJJqkDWm6A6i"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305737,
+      "name": "Partii (feat. Aymos, Jay Music, QUE DJ & SpacePose)",
+      "url": "https://open.spotify.com/track/5DdkXF93YaZC6lB0TrgZQF"
     },
     {
       "album": {
@@ -6608,7 +6722,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 283684,
       "name": "Season 1",
       "url": "https://open.spotify.com/track/7cJYAYnKurSHS9yzDevzHs"
@@ -7384,7 +7498,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 341394,
       "name": "Strings On Fire",
       "url": "https://open.spotify.com/track/1LOdDR94iEJqri4CygoNgG"
@@ -7968,7 +8082,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 356440,
       "name": "Umgqibelo",
       "url": "https://open.spotify.com/track/3z5InwVHOlj7b9KvActfuT"
@@ -8072,7 +8186,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 392145,
       "name": "Umkhosi",
       "url": "https://open.spotify.com/track/0sKXczOHqbvgFhyOu4OTZV"
@@ -8626,7 +8740,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 276033,
       "name": "Vulela",
       "url": "https://open.spotify.com/track/7m5c7Wl9rmvRBisoHdrARf"

@@ -2737,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "This Life",
+        "url": "https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy"
+      },
+      "artists": [
+        {
+          "name": "Michael Sanzone",
+          "url": "https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182507,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS"
+    },
+    {
+      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ"
       },

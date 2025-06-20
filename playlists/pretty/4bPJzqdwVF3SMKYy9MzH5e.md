@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,149 songs - 4 day 19 hr 12 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,151 songs - 4 day 19 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1989,7 +1989,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1979 | [Crash96](https://open.spotify.com/track/326bBMJ92wbiAMJdCyxyZG) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 5:28 |
 | 1980 | [say it right tekkno](https://open.spotify.com/track/6if6TUsJ8CIaPaaLyQoZQB) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [say it right tekkno](https://open.spotify.com/album/3cFyVqw4udu5fvnO3mZMOS) | 2:14 |
 | 1981 | [Bungelrave](https://open.spotify.com/track/658cX1xwwflgoUyLyKNmo0) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Vieze Asbak III](https://open.spotify.com/album/0Xda9HeXDZmLzQAsGr5aK9) | 1:55 |
-| 1982 | [ННД](https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q) | [Tomorrow](https://open.spotify.com/artist/0mmG7ASfGRWIZVC492wpjs) | [ННД](https://open.spotify.com/album/0qQ8tz5aYGHVcnTpxVGgHW) | 1:27 |
+| 1982 | [ННД](https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q) | [TOMÓRROW](https://open.spotify.com/artist/0mmG7ASfGRWIZVC492wpjs) | [ННД](https://open.spotify.com/album/0qQ8tz5aYGHVcnTpxVGgHW) | 1:27 |
 | 1983 | [Fire In My Body](https://open.spotify.com/track/0746AeHaYcU2GsG7ohLfTi) | [Indecorum](https://open.spotify.com/artist/1nDQX7M3T8BvVi3bdCQyrm) | [Sanctus](https://open.spotify.com/album/4FPf6TQDTjuSKhz33YMJlh) | 3:16 |
 | 1984 | [Duality](https://open.spotify.com/track/5NoIDaacAEA4UEWn9qXIhA) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Duality](https://open.spotify.com/album/5t4AQmpVHpPk8vEoLRTlGJ) | 3:26 |
 | 1985 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 |
@@ -2157,5 +2157,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2147 | [Q\-Lo Bendecio](https://open.spotify.com/track/2CadwUJncU5t75YykMmDiu) | [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [DAMNBOW](https://open.spotify.com/album/0f963eZbpaHhVoBQ8K2SWq) | 2:48 |
 | 2148 | [Candy](https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:27 |
 | 2149 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 |
+| 2150 | [Lady Love](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/0wC7LND4olfhUHZK9HVLN5) | 2:54 |
+| 2151 | [kiss](https://open.spotify.com/track/1Y2iRXd3PqKD1HyePXazoF) | [NOVE!L](https://open.spotify.com/artist/1UcQ25atADwnZ2U461XkUV) | [kiss](https://open.spotify.com/album/4Yr43C1F088J9VKwiBI7va) | 2:15 |
 
-Snapshot ID: `AAAERbiHUV+0AQzaYFHk8S6G+63ZZWk8`
+Snapshot ID: `AAAER+RFvbtHKUfsxELB4fDEw5xHOx6T`

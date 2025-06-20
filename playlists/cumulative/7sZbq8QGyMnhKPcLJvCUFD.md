@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-719 songs - 1 day 12 hr 15 min
+720 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [Sinister](https://open.spotify.com/track/5UJe4xKCeK9LshHzyoxMmy) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [SVRT](https://open.spotify.com/artist/0IMi6kEmTfnK7LylEoy59Z), [Chilly](https://open.spotify.com/artist/68XjmGeWauzvqJuWYMuxtA) | [Sinister](https://open.spotify.com/album/2FGXfyoyL7GtjF6Gu69b9e) | 2:55 | 2023-07-05 | 2023-08-28 |
 | [Sinking Ship](https://open.spotify.com/track/6Bq31os4YCoQXzbb8t4w9M) | [Uplink](https://open.spotify.com/artist/4DiPWjMS6eMvPLNfQlA0vq) | [Sinking Ship](https://open.spotify.com/album/6vmb4goIicK9vXUEvO6oQs) | 2:44 | 2022-11-01 | 2023-08-10 |
 | [Sinner](https://open.spotify.com/track/5PjasrTqBLqdxWIBbJDLXA) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Sinner](https://open.spotify.com/album/1SYG3gJWwSjz9paOvyU1NW) | 3:53 | 2024-02-16 | 2024-09-29 |
+| [Sirens](https://open.spotify.com/track/6FVWvpApDE9hSbWDcPhfb3) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Amber Jay](https://open.spotify.com/artist/7DLxDPwjWekXl5meKBu2Ob) | [Sirens](https://open.spotify.com/album/4y1FYMRG7RWebnQuACdKDw) | 4:34 | 2025-06-19 |  |
 | [SKY BRI](https://open.spotify.com/track/7ryzeQvWJM6F6rSTcJlT3f) | [ALVYN](https://open.spotify.com/artist/3lS0YzBEO1IglsFgrAMSrE), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [SKY BRI](https://open.spotify.com/album/6dQHhOOldwSP8sZfzhDHTI) | 1:50 | 2023-08-08 | 2023-12-14 |
 | [Sky High](https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Sky High](https://open.spotify.com/album/1R34FPrGkG7Q0vDJ9xCfrF) | 3:56 | 2023-08-08 | 2024-01-04 |
 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW), [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 | 2025-01-21 |  |

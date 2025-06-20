@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 195713,
       "name": "Angel By My Side",
       "url": "https://open.spotify.com/track/6FLRq82j1YsKLOQb2XU7g6"
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 230715,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
@@ -2561,6 +2561,28 @@
     },
     {
       "album": {
+        "name": "New Country (feat. Blake Shelton)",
+        "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198760,
+      "name": "New Country (feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
+    },
+    {
+      "album": {
         "name": "Nighttime Walk",
         "url": "https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48"
       },
@@ -3206,6 +3228,24 @@
       "duration_ms": 184055,
       "name": "Separate Cars",
       "url": "https://open.spotify.com/track/7hwOnTyzAl6Jf8XIKEKv2A"
+    },
+    {
+      "album": {
+        "name": "Shot In The Dark",
+        "url": "https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0"
+      },
+      "artists": [
+        {
+          "name": "Krezip",
+          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156054,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/2TyMvV89TGLv8Xc38rohrO"
     },
     {
       "album": {

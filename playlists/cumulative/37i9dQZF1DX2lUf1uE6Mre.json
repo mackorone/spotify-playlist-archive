@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die Playlist zur Wasserpfeife. Cover: SHABAB",
+  "description": "Die Playlist zur Wasserpfeife. Cover: Loredana",
   "name": "Shisha Club",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 133529,
       "name": "AMO",
       "url": "https://open.spotify.com/track/67JQWSl5RnfQyqkpaYz8vO"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 166026,
       "name": "APARTMENT (feat. Monet192)",
       "url": "https://open.spotify.com/track/0atxjWna6ikysmEzrqGXLW"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 122917,
       "name": "Baile (feat. Amo, Haaland936 & Kauta)",
       "url": "https://open.spotify.com/track/6p5snXqHBtG6rjO7bwiGZT"
@@ -784,6 +784,24 @@
       "duration_ms": 153303,
       "name": "Best Life",
       "url": "https://open.spotify.com/track/5I4SsIgLyQzduQsxrs09l7"
+    },
+    {
+      "album": {
+        "name": "Beste",
+        "url": "https://open.spotify.com/album/480hFW3UH8eVvm2dydtYbA"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Beste",
+      "url": "https://open.spotify.com/track/3DeVWNbo7ZepNoTGUWXpNv"
     },
     {
       "album": {
@@ -1145,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "Capri Sun",
+        "url": "https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119244,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
+    },
+    {
+      "album": {
         "name": "Champions League (feat. Haaland936, Aymen & Amo)",
         "url": "https://open.spotify.com/album/00GSVkuouhL4n9Iou8s4y7"
       },
@@ -1322,6 +1362,28 @@
       "duration_ms": 158012,
       "name": "CONNECTED",
       "url": "https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1qmgWBUeT9jA0eymE4XRdq"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131812,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/41s30bhCewNKaShnyF4nc1"
     },
     {
       "album": {
@@ -2073,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "GWHF",
+        "url": "https://open.spotify.com/album/6Inm75nG55y057AcG6DjEw"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151427,
+      "name": "GWHF",
+      "url": "https://open.spotify.com/track/2Co26l5ypYisIadzB44Pcz"
+    },
+    {
+      "album": {
         "name": "Hab Bock",
         "url": "https://open.spotify.com/album/3ed84leSokfmj11w7cedZ0"
       },
@@ -2473,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Junimond",
+        "url": "https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150973,
+      "name": "Junimond",
+      "url": "https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh"
+    },
+    {
+      "album": {
         "name": "Jupit\u00e1\u00e1",
         "url": "https://open.spotify.com/album/1HZ7PUDTfDAJD6r9Eu4FX5"
       },
@@ -2679,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/1FiyTkOhZOZYF742GIhHbv"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127350,
+      "name": "La Familia",
+      "url": "https://open.spotify.com/track/3TBFqIc6UwpWIL8i0qADMF"
+    },
+    {
+      "album": {
         "name": "La Money",
         "url": "https://open.spotify.com/album/1bCRla0Yx0JNoTYkbjGqQ9"
       },
@@ -2810,7 +2926,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 187465,
       "name": "Liebestext",
       "url": "https://open.spotify.com/track/6ZBLTqqXM0l8YEw9Rj1JX9"
@@ -2862,6 +2978,28 @@
       "duration_ms": 151384,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/6XR0CCEIctAL3v6sj7XnRr"
+    },
+    {
+      "album": {
+        "name": "LOVE & DRAMA",
+        "url": "https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150146,
+      "name": "LOVE & DRAMA",
+      "url": "https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO"
     },
     {
       "album": {
@@ -3178,7 +3316,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 164771,
       "name": "Milano",
       "url": "https://open.spotify.com/track/1vjLSrChWwFaA59qlovjAv"
@@ -3412,6 +3550,24 @@
       "duration_ms": 138305,
       "name": "MURAKAMI",
       "url": "https://open.spotify.com/track/3gTLaJJbieHBrti47DXTUo"
+    },
+    {
+      "album": {
+        "name": "MURDA MURDA",
+        "url": "https://open.spotify.com/album/0nlebnTFv4fJtWnPnNhsFO"
+      },
+      "artists": [
+        {
+          "name": "Rua",
+          "url": "https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128750,
+      "name": "MURDA MURDA",
+      "url": "https://open.spotify.com/track/1IkWSFtfvIEqdFIG21XllU"
     },
     {
       "album": {
@@ -3652,7 +3808,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 170500,
       "name": "Pa Mu",
       "url": "https://open.spotify.com/track/6aCAQmJMBHve3Tfelte1HR"
@@ -3732,6 +3888,28 @@
       "duration_ms": 180000,
       "name": "PARDONE",
       "url": "https://open.spotify.com/track/6TOrPq1aJ3IgFaGEGMsBGb"
+    },
+    {
+      "album": {
+        "name": "PARFUM",
+        "url": "https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160863,
+      "name": "PARFUM",
+      "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
     },
     {
       "album": {
@@ -3948,6 +4126,28 @@
       "duration_ms": 147226,
       "name": "Rauch",
       "url": "https://open.spotify.com/track/6v1b9nidriM4UBfN7KToko"
+    },
+    {
+      "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/2IvWfJoEYFRNNNOdMqX7QE"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150125,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/773uSnil7arBe7hEZJJf7p"
     },
     {
       "album": {
@@ -4413,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "stop",
+        "url": "https://open.spotify.com/album/6N1m34hNGak9xZiZBmKhLn"
+      },
+      "artists": [
+        {
+          "name": "Zs\u00e1 Zs\u00e1",
+          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106739,
+      "name": "stop",
+      "url": "https://open.spotify.com/track/2qVPNSHjJeJVq4GaFiRb0r"
+    },
+    {
+      "album": {
         "name": "Substanzen (feat. Aymen, Jiyo & ilo 7araga)",
         "url": "https://open.spotify.com/album/6gv4kiVC6pdkz3qV70WKzz"
       },
@@ -4436,7 +4654,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 147731,
       "name": "Substanzen (feat. Aymen, Jiyo & ilo 7araga)",
       "url": "https://open.spotify.com/track/1EypcNrXUoHSv6siw5FNPi"
@@ -4648,6 +4866,24 @@
       "duration_ms": 136062,
       "name": "TOPG",
       "url": "https://open.spotify.com/track/5200qwwFttxV6xvuTehsMV"
+    },
+    {
+      "album": {
+        "name": "TRAPPER'S LULLABY",
+        "url": "https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252865,
+      "name": "TRAPPER'S LULLABY",
+      "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
     },
     {
       "album": {
@@ -5346,6 +5582,24 @@
       "duration_ms": 116005,
       "name": "Zahide Did It Better",
       "url": "https://open.spotify.com/track/6Nt7EMuRkZxoG3B1MDdzpz"
+    },
+    {
+      "album": {
+        "name": "Zeit ist Geld",
+        "url": "https://open.spotify.com/album/5thGMRVpw4Uv3IttUkS57o"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166015,
+      "name": "Zeit ist Geld",
+      "url": "https://open.spotify.com/track/6A8yt5nUqOyBMWpnfxF1kP"
     },
     {
       "album": {

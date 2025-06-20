@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Day",
+        "url": "https://open.spotify.com/album/0NEElyt7JwoVWdJyKObGX2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259573,
+      "name": "Bizarre Love Triangle",
+      "url": "https://open.spotify.com/track/3pslJDAFDwUSOhLxvr7MPl"
+    },
+    {
+      "album": {
         "name": "Peace Love Ukulele",
         "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 183853,
       "name": "Ukulele Bros",
       "url": "https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV"

@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Baapu",
+        "url": "https://open.spotify.com/album/3CloadVWRFcT50PfnGPkUQ"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Gajanan",
+          "url": "https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199180,
+      "name": "Baapu",
+      "url": "https://open.spotify.com/track/59jdncLuldJpVDYfBAm2Co"
+    },
+    {
+      "album": {
         "name": "Badlove",
         "url": "https://open.spotify.com/album/6KbFNnagvVLfTGYRrqvS2L"
       },

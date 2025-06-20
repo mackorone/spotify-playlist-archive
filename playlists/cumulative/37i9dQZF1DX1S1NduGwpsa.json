@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Andr\u00e9 Manoukian",
+  "description": "The best jazz new releases. Cover: Theo Croker",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 255999,
       "name": "An Epic Story",
       "url": "https://open.spotify.com/track/7ikZgNimOqNqnl2zujDdv2"
@@ -3745,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "DON\u2019T LISTEN",
+        "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177042,
+      "name": "DON\u2019T LISTEN",
+      "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
+    },
+    {
+      "album": {
         "name": "Les \u00c9gar\u00e9s (with Ballak\u00e9 Sissoko, Vincent Segal, Emile Parisien & Vincent Peirani)",
         "url": "https://open.spotify.com/album/2mrxRmDXdZFlEKZZx9OcWR"
       },
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 538453,
       "name": "Dum Dum - Our kind of Sabi",
       "url": "https://open.spotify.com/track/7LAbKgVX1TYCyIgn5yGb18"
@@ -4914,7 +4932,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 436130,
       "name": "Found A Light (Beale Street)",
       "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
@@ -6208,7 +6226,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 123908,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/6PDlzfEaUfbN2XP6sq191M"
@@ -6590,6 +6608,40 @@
       "duration_ms": 298680,
       "name": "I've Seen That Face Before (Libertango)",
       "url": "https://open.spotify.com/track/2ZRop5JAfbOZKihY7ufETq"
+    },
+    {
+      "album": {
+        "name": "Words Fall Short",
+        "url": "https://open.spotify.com/album/2toluYLW38SlSkSYLHscpR"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Skylar Tang",
+          "url": "https://open.spotify.com/artist/3i5LkHN45PzgWWyNkzh3nl"
+        },
+        {
+          "name": "Paul Cornish",
+          "url": "https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON"
+        },
+        {
+          "name": "Philip Norris",
+          "url": "https://open.spotify.com/artist/2im20up8riHLPljFBfanoV"
+        },
+        {
+          "name": "Nazir Ebo",
+          "url": "https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384243,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
     },
     {
       "album": {
@@ -7335,6 +7387,24 @@
     },
     {
       "album": {
+        "name": "Just Can't Wait",
+        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382508,
+      "name": "Just Can't Wait",
+      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
+    },
+    {
+      "album": {
         "name": "Just Coolin\u2019",
         "url": "https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa"
       },
@@ -7652,6 +7722,24 @@
       "duration_ms": 337560,
       "name": "La javanaise",
       "url": "https://open.spotify.com/track/5ViznvnYZBURd5hjnxsyQD"
+    },
+    {
+      "album": {
+        "name": "Trio [+]",
+        "url": "https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP"
+      },
+      "artists": [
+        {
+          "name": "Fred Nardin Trio",
+          "url": "https://open.spotify.com/artist/1UHA7lPwTt1jk2UT7afakp"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "La Mer",
+      "url": "https://open.spotify.com/track/1x75lqOHJVV0J4fljYtaS2"
     },
     {
       "album": {
@@ -8484,6 +8572,32 @@
       "duration_ms": 210066,
       "name": "Lucky To Be Me",
       "url": "https://open.spotify.com/track/3lauZVK01epUHhvuVmK2uA"
+    },
+    {
+      "album": {
+        "name": "Necessary Fictions",
+        "url": "https://open.spotify.com/album/5m268XSW8woGIbzi3bPpok"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        },
+        {
+          "name": "Rakhi Singh",
+          "url": "https://open.spotify.com/artist/5TcPHQwyKdZ8fmnlglGKcP"
+        },
+        {
+          "name": "Manchester Collective",
+          "url": "https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308510,
+      "name": "Luminous Giants (feat. Rakhi Singh & Manchester Collective)",
+      "url": "https://open.spotify.com/track/3vuqZI49ke1PTlVx6YYqRg"
     },
     {
       "album": {
@@ -12164,7 +12278,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 197533,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"

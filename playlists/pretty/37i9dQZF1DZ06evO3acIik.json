@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 64065,
+  "num_followers": 64075,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE9egAAAAAB5TuocrKhf03LpuW6Td8JP",
+  "snapshot_id": "aFIBgAAAAADI3/J9XhCSw1gnVzwfXWhJ",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "is it a crime ? (acoustic)",
-        "url": "https://open.spotify.com/album/2GNqL1oFPcMqvFz18Dx6Vp"
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 97714,
-      "name": "is it a crime ? - acoustic",
-      "url": "https://open.spotify.com/track/4FVorHkcyU4kBmK6PchrvT"
+      "duration_ms": 180000,
+      "name": "DISTRACTION",
+      "url": "https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTRACTION / SCREAM MY NAME",
-        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
+        "name": "is it a crime ? (acoustic)",
+        "url": "https://open.spotify.com/album/2GNqL1oFPcMqvFz18Dx6Vp"
       },
       "artists": [
         {
@@ -312,25 +312,29 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 180000,
-      "name": "DISTRACTION",
-      "url": "https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc"
+      "duration_ms": 97714,
+      "name": "is it a crime ? - acoustic",
+      "url": "https://open.spotify.com/track/4FVorHkcyU4kBmK6PchrvT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
+        "name": "i cant tell (love my money)",
+        "url": "https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
         }
       ],
-      "duration_ms": 56000,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/5K6ZJglE2XxqABL3rY2OgB"
+      "duration_ms": 163062,
+      "name": "i cant tell (love my money)",
+      "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
     },
     {
       "added_at": null,
@@ -367,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "i cant tell (love my money)",
-        "url": "https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle"
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
         }
       ],
-      "duration_ms": 163062,
-      "name": "i cant tell (love my money)",
-      "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
+      "duration_ms": 56000,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/5K6ZJglE2XxqABL3rY2OgB"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 276279,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Show the Signs.",
         "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 181682,
       "name": "Show the Signs.",
       "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 276279,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq"
     },
     {
       "added_at": null,

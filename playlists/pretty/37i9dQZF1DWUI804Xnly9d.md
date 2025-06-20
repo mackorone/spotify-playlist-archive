@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,287 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,316 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 4 | [Bheegne De](https://open.spotify.com/track/1eyQsjV2IXXhp5vRbHniEg) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Bheegne De](https://open.spotify.com/album/5n2FEtr5JcMCo6mc2v8u9P) | 3:35 |
 | 5 | [Tum Mere Kya Ho \- Acoustic](https://open.spotify.com/track/2cMu7vAPzdImJKQprhywwI) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tum Mere Kya Ho \(Acoustic\)](https://open.spotify.com/album/2lvcYEZgXXYvWWYEvmvLeY) | 2:47 |
 | 6 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 |
-| 7 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
-| 8 | [Kyun?](https://open.spotify.com/track/5GOeSNgwSD6DnmPRHnXwpg) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31) | [Kyun?](https://open.spotify.com/album/4z2xS1OlMUwBDJX7KcocbD) | 2:27 |
-| 9 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
-| 10 | [Bas Tera Hi \- Duet Version](https://open.spotify.com/track/091vrTnIlp5dp9nzBl3Wjx) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi), [Mouly Ganguly](https://open.spotify.com/artist/420LD7mW7SHgUZzAXQwWUv) | [Bas Tera Hi](https://open.spotify.com/album/4wXHPC3IvGekemV9B9bRwt) | 3:09 |
-| 11 | [Hasde Chehre](https://open.spotify.com/track/3Tgii52Qu85dFdqMdlYwbR) | [Akbar Wasif](https://open.spotify.com/artist/07G9Nz6p26J0cI3VhLzMrT) | [Hasde Chehre](https://open.spotify.com/album/4i5c0yXwzmKQWqvLrUetUM) | 3:07 |
-| 12 | [Bas Hum Yaha](https://open.spotify.com/track/5aT7J46t6jz1qUzMv8xXgG) | [Gaurav Prasad](https://open.spotify.com/artist/50UXkbx3OJnv57kDuYq4go), [KREITTON](https://open.spotify.com/artist/4y0XL6sCyRwXqdIhMLipNz), [Ayush Dolas](https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk) | [Bas Hum Yaha](https://open.spotify.com/album/2GGsM7tiXBfIfW3xtJTZv3) | 3:27 |
-| 13 | [Wahem](https://open.spotify.com/track/5vMtccZkvcmGjrOuhnxc63) | [Hirdhyansh Verma](https://open.spotify.com/artist/3L41cHQWUBnVuQTtoUpBeV) | [Wahem](https://open.spotify.com/album/7qPBfIEJhj4Bgg5SI5hjrB) | 3:22 |
-| 14 | [Lamha \- Acoustic](https://open.spotify.com/track/1nBhlwwJEtw5M1F8BD883x) | [Kakkey](https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp) | [Lamha \(Acoustic\)](https://open.spotify.com/album/6BSGXr1rDhX7ZVk4zkbJ3i) | 4:20 |
-| 15 | [Tera Intezaar](https://open.spotify.com/track/0c3dZF8M9Hl7tBU0dm4Dp9) | [Ajayank Singh](https://open.spotify.com/artist/6Ru6vD6eHEsxgMe9U8qnGM) | [Tera Intezaar](https://open.spotify.com/album/5uH86ypy1NNHHjaseF79ZG) | 3:11 |
-| 16 | [Mile Tum](https://open.spotify.com/track/3ulnIfVAZWrS8vG5iLhrwN) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7) | [Mile Tum](https://open.spotify.com/album/5l2jTpS06ly2SVXMbl8sRb) | 3:25 |
+| 7 | [Ashnaa](https://open.spotify.com/track/3C8ZxQ25aqnr3EtmIgVim7) | [Kajol Chatterjee](https://open.spotify.com/artist/4Li62BrnJU0dFuT40o4k19) | [Ashnaa](https://open.spotify.com/album/7zWt8dmsLiXipRty85huAK) | 4:06 |
+| 8 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
+| 9 | [Kyun?](https://open.spotify.com/track/5GOeSNgwSD6DnmPRHnXwpg) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31) | [Kyun?](https://open.spotify.com/album/4z2xS1OlMUwBDJX7KcocbD) | 2:27 |
+| 10 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
+| 11 | [Bas Tera Hi \- Duet Version](https://open.spotify.com/track/091vrTnIlp5dp9nzBl3Wjx) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi), [Mouly Ganguly](https://open.spotify.com/artist/420LD7mW7SHgUZzAXQwWUv) | [Bas Tera Hi](https://open.spotify.com/album/4wXHPC3IvGekemV9B9bRwt) | 3:09 |
+| 12 | [Hasde Chehre](https://open.spotify.com/track/3Tgii52Qu85dFdqMdlYwbR) | [Akbar Wasif](https://open.spotify.com/artist/07G9Nz6p26J0cI3VhLzMrT) | [Hasde Chehre](https://open.spotify.com/album/4i5c0yXwzmKQWqvLrUetUM) | 3:07 |
+| 13 | [Bas Hum Yaha](https://open.spotify.com/track/5aT7J46t6jz1qUzMv8xXgG) | [Gaurav Prasad](https://open.spotify.com/artist/50UXkbx3OJnv57kDuYq4go), [KREITTON](https://open.spotify.com/artist/4y0XL6sCyRwXqdIhMLipNz), [Ayush Dolas](https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk) | [Bas Hum Yaha](https://open.spotify.com/album/2GGsM7tiXBfIfW3xtJTZv3) | 3:27 |
+| 14 | [Wahem](https://open.spotify.com/track/5vMtccZkvcmGjrOuhnxc63) | [Hirdhyansh Verma](https://open.spotify.com/artist/3L41cHQWUBnVuQTtoUpBeV) | [Wahem](https://open.spotify.com/album/7qPBfIEJhj4Bgg5SI5hjrB) | 3:22 |
+| 15 | [Lamha \- Acoustic](https://open.spotify.com/track/1nBhlwwJEtw5M1F8BD883x) | [Kakkey](https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp) | [Lamha \(Acoustic\)](https://open.spotify.com/album/6BSGXr1rDhX7ZVk4zkbJ3i) | 4:20 |
+| 16 | [Tera Intezaar](https://open.spotify.com/track/0c3dZF8M9Hl7tBU0dm4Dp9) | [Ajayank Singh](https://open.spotify.com/artist/6Ru6vD6eHEsxgMe9U8qnGM) | [Tera Intezaar](https://open.spotify.com/album/5uH86ypy1NNHHjaseF79ZG) | 3:11 |
 | 17 | [Toote Pankh](https://open.spotify.com/track/3L7GzVcwUDZQ0vll4os3zL) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW) | [Toote Pankh](https://open.spotify.com/album/23cm1sJykWZctkBQAbBz9W) | 3:44 |
 | 18 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 |
 | 19 | [bemausam toofaan](https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D) | [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [bemausam toofaan](https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Dil Besabar](https://open.spotify.com/track/5LV90I2HKJFJ8GMNaS75ZA) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Dil Besabar](https://open.spotify.com/album/7bstmsZGHaiZfupqDfk9NA) | 3:10 |
 | 75 | [Shaayad](https://open.spotify.com/track/11u7tMgh1sK1P6fUfL8xFO) | [C&A Kalatva](https://open.spotify.com/artist/6vRAO1pNeHHfXC4cHW9sp6) | [Shaayad](https://open.spotify.com/album/4IdxkUdlEQuQ06brPbXaiZ) | 3:29 |
 
-Snapshot ID: `aFD00AAAAADOp+trDXO3c1oisUVjmsoR`
+Snapshot ID: `aFOJQgAAAAAtCkwEuji4hbgyuIL3eizG`

@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: 2metro
 
-485 songs - 1 day 0 hr 57 min
+486 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [RESPOSTAS](https://open.spotify.com/track/4RP61atk3EOYXQcWJIf1Fh) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [borbabeatz](https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM) | [RESPOSTAS](https://open.spotify.com/album/03OSVIWZ2eWBgiIOKYxyjs) | 2:33 | 2023-10-20 | 2023-12-09 |
 | [Ressurreto](https://open.spotify.com/track/1O50kKRlEch73z6hR1BHzt) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Mais Perto do Céu](https://open.spotify.com/album/0E8SH7T4JSUJ0anUb20KMP) | 2:55 | 2023-11-24 | 2024-09-07 |
 | [Retiro](https://open.spotify.com/track/1BuYlLVF6ySbqiju0iYn6Y) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Retiro](https://open.spotify.com/album/2s5pImhro07IBKAypatAmV) | 4:24 | 2022-03-22 | 2022-04-16 |
-| [RIO](https://open.spotify.com/track/2Q1bfpjE2DwKnn6yLIYZdZ) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [RIO](https://open.spotify.com/album/3Mwopb9Q2Sf0vks90nd4uw) | 2:56 | 2024-12-13 |  |
+| [RIO](https://open.spotify.com/track/2Q1bfpjE2DwKnn6yLIYZdZ) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [RIO](https://open.spotify.com/album/3Mwopb9Q2Sf0vks90nd4uw) | 2:56 | 2024-12-13 | 2025-06-20 |
+| [Rio De Águas Vivas](https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Rio De Águas Vivas](https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr) | 3:03 | 2025-06-20 |  |
 | [Romanos 12:2](https://open.spotify.com/track/1SiitLjEE4RIB5DvPe0PUV) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Romanos 12:2](https://open.spotify.com/album/3C6M4QbrfuYzzJnCeddof8) | 2:52 | 2024-04-26 |  |
 | [Romanos 3: 24](https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4) | [Romanos 3: 24](https://open.spotify.com/album/4zglNpaYV8KryBUTDv9YTq) | 2:06 | 2023-02-24 | 2023-10-07 |
 | [Salmistas](https://open.spotify.com/track/4bjf7cs655AOd4cbh5iJjV) | [ADS Escobar](https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP), [Maia Flow](https://open.spotify.com/artist/0JOgA75ZUJUBNg8Gb3hyBD), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Felipe Vinii](https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP) | [Salmistas](https://open.spotify.com/album/2l5zKUOamk0OYMD1YHxSRM) | 2:59 | 2024-10-07 | 2024-10-26 |

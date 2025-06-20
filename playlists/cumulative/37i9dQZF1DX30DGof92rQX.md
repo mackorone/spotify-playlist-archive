@@ -2,9 +2,9 @@
 
 ### [New Pakistani Pop](https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX)
 
-> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Aashir Wajahat
+> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- HAVI
 
-232 songs - 12 hr 16 min
+235 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Cha Jaa](https://open.spotify.com/track/4XFgcYYXxHYAfCwCDexZa3) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Cha Jaa](https://open.spotify.com/album/0eVCvxA7BnQAMlYLLo7F0J) | 2:44 | 2025-02-14 | 2025-04-19 |
 | [chaar din](https://open.spotify.com/track/5dS4MpBlfhGzlGCG44khTj) | [bitrees](https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb) | [political pollution](https://open.spotify.com/album/6DvoAkju3axxF6zsEWOvhU) | 2:27 | 2024-09-09 | 2024-09-14 |
 | [Challeya](https://open.spotify.com/track/4SrnLielKwQmBq6rVSfcac) | [Rizwan Anwar](https://open.spotify.com/artist/06ACrU1xT9S6tPcT2junyQ) | [Challeya](https://open.spotify.com/album/0IRTY2JShfDtlA9tHavr3s) | 2:23 | 2024-08-09 | 2024-08-17 |
+| [CHAN MAHIYA](https://open.spotify.com/track/5oln63FrKz5uhd6EQt07Es) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [CHAN MAHIYA](https://open.spotify.com/album/3OqPMuRZBTqCfSGh4oUBuM) | 2:21 | 2025-06-19 |  |
 | [Chan Sajna](https://open.spotify.com/track/6k4HmsQJtOmYuG6SYdKUEw) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Roshaan](https://open.spotify.com/artist/1lrhdYficIOHq2CtRyKci3) | [Chan Sajna](https://open.spotify.com/album/770LrCbg29jIjAqg6O1AfX) | 3:10 | 2024-10-04 | 2024-11-08 |
 | [Chann Pichay](https://open.spotify.com/track/3JiPLc0eYusXWnWOcyQwzo) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd), [Sarmad Ghafoor](https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl) | [Chann Pichay](https://open.spotify.com/album/0HbHvB87vlZO82GLvt33f5) | 4:34 | 2025-05-30 |  |
 | [Channa](https://open.spotify.com/track/7HwZ33ysa3zS00P7roQM2N) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Channa](https://open.spotify.com/album/2m2aMdLgZ9rsin4X22kB9t) | 3:27 | 2025-01-31 | 2025-06-06 |
@@ -109,6 +110,7 @@
 | [Khizaan](https://open.spotify.com/track/3WDxldpZLZkjVCwE892DVp) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Khizaan](https://open.spotify.com/album/2PJV2dGwrn0OROSL1sNYUo) | 2:44 | 2024-06-28 | 2024-11-08 |
 | [Khudi](https://open.spotify.com/track/1oPPo0iInHz6DPp0ET9VYF) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Khudi](https://open.spotify.com/album/5FbE8wH5CQLlrHKh1aBaQ1) | 3:26 | 2024-06-28 | 2024-08-10 |
 | [Khushnaseebi](https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Khushnaseebi](https://open.spotify.com/album/6UFJPoceIxfmjOMeodyGFu) | 2:35 | 2024-08-16 | 2025-01-17 |
+| [Khwaab](https://open.spotify.com/track/3KXvsqjNipubJiG8Pjoj8s) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Khwaab](https://open.spotify.com/album/6O9KvPvztUMA3v9pPjYuim) | 3:54 | 2025-06-19 |  |
 | [Kinaaray](https://open.spotify.com/track/3hWb1muCu9ZC4hsj46oDrp) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Kinaaray](https://open.spotify.com/album/38KL7ralFHyW0G5CZnTAn7) | 3:20 | 2025-06-12 |  |
 | [Koi Toh Ho](https://open.spotify.com/track/2NLEk1JDxusReQi55B62J9) | [Salman Masood](https://open.spotify.com/artist/281oSMLaN71SO2JzZgPsKj) | [Koi Toh Ho](https://open.spotify.com/album/2Vq4Qq3etb7wK6C1N1pRdG) | 2:04 | 2024-06-28 | 2024-09-28 |
 | [kya karun?](https://open.spotify.com/track/42jn47wleNbZWTmEXPrbOj) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Taha Hussain](https://open.spotify.com/artist/2Mzajm32z2jxdz7mzjMfZV), [Psychobeats](https://open.spotify.com/artist/378rAmfn0jfhCHR8mCweE2) | [oil 'n syrup](https://open.spotify.com/album/2Z7H1Uezs6Tksnbc40JOfM) | 2:42 | 2024-10-04 | 2024-11-08 |
@@ -184,6 +186,7 @@
 | [Rung Grehan Band](https://open.spotify.com/track/3QnEKN1yEWWcwYCXm4xlV3) | [Grehan Band](https://open.spotify.com/artist/4NjwzFMg5JOIpWmlkZMSKT), [Farheen Raza Jaffry](https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc) | [Rung Grehan Band](https://open.spotify.com/album/4OImWQR8nh4aWoKfjraElo) | 1:52 | 2024-06-28 | 2024-08-10 |
 | [Rush](https://open.spotify.com/track/68vAMcnZxEFjbplSiRVPGG) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Rush](https://open.spotify.com/album/18rQwymQVOui4MFz3cNB8Y) | 2:26 | 2025-05-26 |  |
 | [Saamnay](https://open.spotify.com/track/2A8b65AmkmmxWn2aefltbB) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saamnay](https://open.spotify.com/album/5OcSH00bOVFQj4XYdsFwnA) | 3:44 | 2024-08-22 | 2025-01-17 |
+| [Saat Din](https://open.spotify.com/track/460aVPwkgwa0rCEP9RbQRS) | [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Saat Din](https://open.spotify.com/album/4VgwV8mizo2Wdri3650zZs) | 3:35 | 2025-06-19 |  |
 | [Saathiya](https://open.spotify.com/track/5CPc9T1gV30hT4qka88QUF) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x), [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg) | [Saathiya](https://open.spotify.com/album/1mVUIurPPekbnHs6OBDUEi) | 2:37 | 2024-06-28 | 2024-09-28 |
 | [Sajna](https://open.spotify.com/track/7mLEqVKAkMow4vAlNUtwET) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Lost Path](https://open.spotify.com/album/67clB5WzzIq1DOydWKGVIX) | 2:37 | 2024-11-07 | 2025-01-17 |
 | [Samandar](https://open.spotify.com/track/4b0QZDXdvaQqicZ9OXf3AF) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Samandar](https://open.spotify.com/album/2U9RU7YA5nPtlykb8xHREk) | 2:37 | 2024-06-28 | 2024-09-28 |

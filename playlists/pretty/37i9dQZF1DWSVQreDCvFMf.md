@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Paham
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,327 likes - 113 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,403 likes - 113 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

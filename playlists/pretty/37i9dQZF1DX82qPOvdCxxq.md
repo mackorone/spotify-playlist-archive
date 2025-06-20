@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists! Cover: Ryan Hylton \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,084 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,105 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

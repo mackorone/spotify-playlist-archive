@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: Firdaus Rahmat
+> Listen to the future\. Cover: ICEBOX
 
-189 songs - 10 hr 18 min
+191 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2025-04-15 |  |
 | [Paku Durjana](https://open.spotify.com/track/5vbqoD5GJOqWVqE4KFvnzZ) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Paku Durjana](https://open.spotify.com/album/6WqYQYvMxCFou2gVnk7B4E) | 3:24 | 2024-06-27 | 2025-04-16 |
 | [Panah](https://open.spotify.com/track/1dlgXkjadrhWxlZkrZbO2p) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Panah](https://open.spotify.com/album/2xnDi9OOjyXYXMlQXT1VcG) | 3:33 | 2025-04-15 |  |
+| [PANIC](https://open.spotify.com/track/5YSQoSiK7pm49nIxUGoAxc) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd), [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [PANIC](https://open.spotify.com/album/3CEcLvfS5dT0G9dlvy5vRU) | 3:23 | 2025-06-19 |  |
 | [Parachuting Off The Moon](https://open.spotify.com/track/5ZpxM4VkTOZbkqKlVpfgaJ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Parachuting Off The Moon](https://open.spotify.com/album/4eznk2tF07hjIuoKo7YMJT) | 3:42 | 2025-05-15 |  |
 | [Pasrah](https://open.spotify.com/track/6XtqjjLBLM2rgRXwtn0KdE) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pasrah](https://open.spotify.com/album/0vbNRbVX4WBYMcD9YM5uEg) | 4:13 | 2024-06-27 | 2025-04-16 |
 | [Pedih](https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pedih](https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb) | 3:59 | 2024-06-27 | 2025-04-16 |
@@ -176,6 +177,7 @@
 | [Test](https://open.spotify.com/track/6AfRavwy4mVaixO29wfyco) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Test](https://open.spotify.com/album/4cFcmuZqpUYkroiPVQtSfa) | 2:28 | 2024-09-26 | 2024-12-05 |
 | [Test Drive](https://open.spotify.com/track/6eqRalEQh4aR9KaKCnxSZu) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Test Drive](https://open.spotify.com/album/7KeMDStkuEMZfLyEiHJRxS) | 3:43 | 2025-04-15 |  |
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-06-27 | 2025-04-16 |
+| [THRU THE ROOF](https://open.spotify.com/track/5N1SgEuIi1rC22q58Yj3IO) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Aditya Ojha](https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT) | [THRU THE ROOF](https://open.spotify.com/album/1cuyM7IwnEw6VV63RjZ98k) | 3:54 | 2025-06-19 |  |
 | [Tiap Kali Bertemu](https://open.spotify.com/track/6mmLZi96biKSGiIfXOATwm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:14 | 2024-08-08 | 2024-12-05 |
 | [Time](https://open.spotify.com/track/6XxN0arhVahVrq0JLX4K43) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Time](https://open.spotify.com/album/4kgKn7ydkHXSHQoqIStObO) | 2:43 | 2024-06-27 | 2025-04-16 |
 | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/track/6657DgGU1WPHIopNQ6O4B8) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/album/4Zxcug5c4qmcsYg52BH2yM) | 3:28 | 2025-04-15 |  |

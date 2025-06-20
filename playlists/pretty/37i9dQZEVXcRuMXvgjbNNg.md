@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Let It Go](https://open.spotify.com/track/4TiCZ79upscjJCmwjgsQxC) | [Andy Gullahorn](https://open.spotify.com/artist/3fykZj3M8ojlMrWQZAneXV) | [Everything as It Should Be](https://open.spotify.com/album/6cetywacbnZ6D6D6gl1SwP) | 3:27 |
 | 30 | [Wild Fire \(The House Sessions\)](https://open.spotify.com/track/3sBWmi1GDLTfBt1dqlLln5) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [The House Sessions](https://open.spotify.com/album/1pdVf44zih9FjC3xqS9Odq) | 4:18 |
 
-Snapshot ID: `aE+WwAAAAADgTRTBkxnpOec77GbgjpUo`
+Snapshot ID: `aE+WwAAAAACTa9I+NBv446pUdLJNbuVl`

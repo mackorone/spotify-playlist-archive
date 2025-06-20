@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-287 songs - 15 hr 2 min
+288 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Elevate \- Original Mix](https://open.spotify.com/track/4WxCuOB9TmEVLqmlRgd19D) | [SRVD](https://open.spotify.com/artist/2nhdOVEJpiDFkwcaBxpWCP), [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [Patrick Mason](https://open.spotify.com/artist/36TuJoh0o1hF6TsZIggHH0) | [Elevate](https://open.spotify.com/album/2qGIRzjAMjubg9552YZTOI) | 8:13 | 2023-08-11 | 2023-08-15 |
 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-08-11 | 2023-09-04 |
 | [Energy](https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Energy](https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq) | 2:52 | 2024-02-16 | 2024-08-20 |
+| [Energy](https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Stisema](https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1), [Lulu Voxx](https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu) | [Energy](https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O) | 2:48 | 2025-06-13 |  |
 | [Erased](https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Erased](https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs) | 3:02 | 2025-04-04 | 2025-04-21 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-15 |  |
 | [Ever Been Punched](https://open.spotify.com/track/5ImCWFZ4baU82mNbKyTxCQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Ever Been Punched](https://open.spotify.com/album/4dXQcKAqasUFoPzKAF1hmg) | 2:14 | 2024-07-19 | 2025-02-10 |
@@ -144,7 +145,7 @@
 | [Like An Old Dog \- Enrico Sangiuliano Remix](https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Like An Old Dog \(Enrico Sangiuliano Remix\)](https://open.spotify.com/album/0urbEfySrOpOBUz2rrSZc0) | 8:03 | 2023-08-11 | 2023-10-09 |
 | [Like This](https://open.spotify.com/track/1Ty8EUqUPzUv6nWqqwc9RL) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [STORM](https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Like This](https://open.spotify.com/album/21kaF8OYz66A91XR46Npx0) | 2:22 | 2025-04-25 | 2025-06-07 |
 | [Listen To Your Heart](https://open.spotify.com/track/3h7xA3ooMcxO6QDesmOcQ1) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Listen To Your Heart](https://open.spotify.com/album/1GDvDZpfyuyzTFkBKbLxqo) | 2:19 | 2024-04-05 |  |
-| [Loca](https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Loca](https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc) | 2:36 | 2025-06-06 |  |
+| [Loca](https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Loca](https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc) | 2:36 | 2025-06-06 | 2025-06-20 |
 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-08-11 | 2025-04-05 |
 | [Lose Control](https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lose Control](https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q) | 2:40 | 2024-11-15 | 2025-02-19 |
 | [Lose This Feeling \- Maddix Remix](https://open.spotify.com/track/4k6rfEGWGrv8rOHnjVcXVw) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Lose This Feeling \(Maddix Remix\)](https://open.spotify.com/album/7kGQVU6PHkVJmq6Lg1jf5e) | 3:06 | 2023-11-17 | 2024-02-24 |

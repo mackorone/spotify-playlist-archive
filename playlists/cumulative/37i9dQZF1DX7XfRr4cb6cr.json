@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 141176,
       "name": "all i feel is an empty void",
       "url": "https://open.spotify.com/track/7Fy7wF7CcszlAss8kUVq7D"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 479953,
       "name": "Hlj\u00f3\u00f0",
       "url": "https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs"
@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 195200,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL"
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 265000,
       "name": "Melting Refuge",
       "url": "https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 141198,
       "name": "Moneycomb",
       "url": "https://open.spotify.com/track/5F7uxeMTy6JwRiBZt6TiDs"
@@ -3316,7 +3316,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 243720,
       "name": "Nimmermeer",
       "url": "https://open.spotify.com/track/0UtJl0s4oQCAd7p73uUGi1"
@@ -3985,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "x-plored",
+        "url": "https://open.spotify.com/album/53gF5mQ7sog2CvDmPCRGmi"
+      },
+      "artists": [
+        {
+          "name": "C. Diab",
+          "url": "https://open.spotify.com/artist/4jIb1FKwE3QlPyNYTBLPSA"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Quatsino Sound - Heat Dome Mix",
+      "url": "https://open.spotify.com/track/3TvXsuQlKMJp6kRfc3SSJA"
+    },
+    {
+      "album": {
         "name": "Raintree",
         "url": "https://open.spotify.com/album/3kXDqI7pTeE0GY9u90i4KE"
       },
@@ -4528,6 +4546,24 @@
       "duration_ms": 344000,
       "name": "Snow Path",
       "url": "https://open.spotify.com/track/2LbQFXXIL6JRJodBGTJcXZ"
+    },
+    {
+      "album": {
+        "name": "Sorgj\u00e2l",
+        "url": "https://open.spotify.com/album/4pSwRtFgic9SIdVqAu2oRB"
+      },
+      "artists": [
+        {
+          "name": "Massimo Silverio",
+          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600533,
+      "name": "Sorgj\u00e2l",
+      "url": "https://open.spotify.com/track/1TCMjJrTpnQauIWksCcbzn"
     },
     {
       "album": {
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 360000,
       "name": "The Smoke In The Photo - Remastered",
       "url": "https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B"
@@ -5478,7 +5514,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 188906,
       "name": "Toimetonna",
       "url": "https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq"
@@ -5496,7 +5532,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 399681,
       "name": "Tonality Number Two",
       "url": "https://open.spotify.com/track/4lfuGnhMu24Gt96e0JYVI0"
@@ -5844,7 +5880,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 135062,
       "name": "Wasa Stone Trio",
       "url": "https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G"

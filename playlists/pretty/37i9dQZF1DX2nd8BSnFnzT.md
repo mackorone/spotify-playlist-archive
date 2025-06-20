@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,539 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,479 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Senador](https://open.spotify.com/track/6uALZSrh136doyHHljYo4M) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Senador](https://open.spotify.com/album/5LmC8vcX4HMjnbQ5n9tCTD) | 2:43 |
 | 75 | [Depois Das Seis](https://open.spotify.com/track/5yJdWFkwkD5JmFYojOeks6) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Depois das Seis](https://open.spotify.com/album/4bUVDAco1dV2YNlaTqZma3) | 3:00 |
 
-Snapshot ID: `aDm2IQAAAAChGTNlIj+p88EK74au/sAZ`
+Snapshot ID: `AAAAAFkUoaJ5K6KU4Bet4usJRmcK9qXr`

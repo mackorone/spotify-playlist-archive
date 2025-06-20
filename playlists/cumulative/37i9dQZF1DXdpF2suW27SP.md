@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Jimmy P entra na zona.
+> Ivandro entra na zona.
 
-813 songs - 1 day 19 hr 0 min
+815 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Amazónia](https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ) | [Lutz](https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x) | [Amazónia](https://open.spotify.com/album/5gULMhBkRl7ZCv35O2K5Xm) | 3:14 | 2022-11-11 | 2023-03-10 |
 | [Ami sta ok](https://open.spotify.com/track/0cGOtm4qU6f4LjC058yMxj) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Ami sta ok](https://open.spotify.com/album/4nygd6arCScHn3DyRMXeEt) | 2:44 | 2024-05-30 | 2024-06-28 |
 | [Amor Temporário](https://open.spotify.com/track/3UydUTVPmmmsXjzcedwnXd) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Amor Temporário](https://open.spotify.com/album/7kOJHJ6MwaVERqK7KwB5yF) | 2:54 | 2024-11-22 | 2025-01-03 |
+| [AMÉN](https://open.spotify.com/track/1GeeAeUFbpkFETxWx3XaRX) | [Joint One](https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ), [Yung Juse](https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ) | [PORTOBOYZMAFIA \(Deluxe\)](https://open.spotify.com/album/5DJWDUfatcpcCAew1XkR12) | 3:16 | 2025-06-19 |  |
 | [Ananás](https://open.spotify.com/track/1iTdMDcECY3gL6SuHyrBGD) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Ananás](https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj) | 3:27 | 2022-07-16 | 2022-07-22 |
 | [Andalé](https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT) | [Minguito 283](https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv) | [Andalé](https://open.spotify.com/album/4Z1dmBdlH5t0e9Bhw780gU) | 3:21 | 2022-07-16 | 2023-02-10 |
 | [Andavas Aonde](https://open.spotify.com/track/6odR54fed2QBcqS8saGfUe) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Andavas Aonde](https://open.spotify.com/album/2PXpqKC1PInccbYbX7VXWP) | 3:10 | 2023-09-21 | 2023-11-11 |
@@ -248,7 +249,7 @@
 | [Dona do Love](https://open.spotify.com/track/0yJDSlfiupPOhmBFFZaWrQ) | [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [MOBBERS](https://open.spotify.com/artist/0o2CVefufFC0laiAQozokD) | [Dona do Love](https://open.spotify.com/album/5n6ndgfRieqDfbQ6vJhI7U) | 3:27 | 2024-08-08 | 2025-02-21 |
 | [DONDE](https://open.spotify.com/track/4EiZlZ37Q8EnQIU7e2aD2y) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [DONDE](https://open.spotify.com/album/1YR6A1jw2N2B9WlvqIMjfu) | 3:31 | 2022-12-02 | 2023-10-01 |
 | [Dormi No Carro](https://open.spotify.com/track/45v2Tp3itHwoAD5CoCErgc) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Dormi No Carro](https://open.spotify.com/album/0jiBatlpuclG0BU2C1Ancy) | 2:41 | 2022-12-09 | 2023-01-13 |
-| [Doutros Tempos](https://open.spotify.com/track/68tOsrDRmVLWqXT5UnfEBi) | [Dealema](https://open.spotify.com/artist/2UCac8rxE1lJ1lQHhZ3l7I) | [Doutros Tempos](https://open.spotify.com/album/37Pg6LLOUvYeYgB5dSukTR) | 3:30 | 2025-03-14 |  |
+| [Doutros Tempos](https://open.spotify.com/track/68tOsrDRmVLWqXT5UnfEBi) | [Dealema](https://open.spotify.com/artist/2UCac8rxE1lJ1lQHhZ3l7I) | [Doutros Tempos](https://open.spotify.com/album/37Pg6LLOUvYeYgB5dSukTR) | 3:30 | 2025-03-14 | 2025-06-20 |
 | [Drill Clássico](https://open.spotify.com/track/0kDR6qXUeXyYqeIVdZDVmI) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/5ycFLdPQSqXthLoVmb15GV) | 2:24 | 2023-07-13 | 2023-07-28 |
 | [Drill Clássico](https://open.spotify.com/track/4If6p0UoEWdp9Sh5V907xN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB) | 2:24 | 2023-07-13 | 2023-07-17 |
 | [Drill Clássico](https://open.spotify.com/track/7c7vruftDkTBDv59lHW7VZ) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF) | 2:24 | 2023-07-06 | 2023-07-14 |
@@ -572,6 +573,7 @@
 | [Paper](https://open.spotify.com/track/2eSHRVgM4kA1KcEzfSQaeA) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Paper](https://open.spotify.com/album/1idwx450GZN7DYPcB5KcQA) | 3:12 | 2023-06-22 | 2023-07-21 |
 | [Papo De Ninja](https://open.spotify.com/track/73OkPO9VFbtaHA6Fsu23ZS) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Eric Rodrigues](https://open.spotify.com/artist/28NuJ0rsVhiKovPID7OP1F), [LipeSky](https://open.spotify.com/artist/1xTBlYpqKiGEZfX1J32UPJ) | [My Life In Each Verse](https://open.spotify.com/album/4jWfvZcAhGOeVr0SV9JEzz) | 4:22 | 2023-07-06 | 2023-09-22 |
 | [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 | 2023-06-29 | 2025-01-10 |
+| [PARA SEMPRE](https://open.spotify.com/track/7e0BMVyh5I0imv2MlAOo3d) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [PARA SEMPRE](https://open.spotify.com/album/7ja21jiOzYFy1r3K4EueHN) | 3:03 | 2025-06-19 |  |
 | [PARA SEMPRE](https://open.spotify.com/track/1iGHa37wh2nlr4upmazMdS) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [PARA SEMPRE](https://open.spotify.com/album/7rsjtUS9ofrZ9VTeIzpbtm) | 2:32 | 2023-02-24 | 2023-03-25 |
 | [Para Tu Seres de Onde Eu Sou](https://open.spotify.com/track/718DAFEvZP9MdqiydLCXBa) | [King Bigs](https://open.spotify.com/artist/6WecxeaCHGhmwXiyBQPv61), [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1) | [Para Tu Seres de Onde Eu Sou](https://open.spotify.com/album/5oeT52JszMENaK1nQFDiBm) | 2:53 | 2024-01-26 | 2024-02-23 |
 | [Paranóias](https://open.spotify.com/track/2ANsqdNCaaI2Md6arRnjb9) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Paranóias](https://open.spotify.com/album/3GQT96wZlyupnlsX0lEBl2) | 2:10 | 2025-03-21 | 2025-04-25 |
@@ -789,7 +791,7 @@
 | [Vida Do Crime](https://open.spotify.com/track/5skRnP4WXwsDFtFzJnnrrW) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Altifridi](https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Vida Do Crime](https://open.spotify.com/album/2Z9D6NksxS2fr0JRJYfI89) | 3:33 | 2025-02-07 |  |
 | [Vida Ocupada](https://open.spotify.com/track/54ffrYT7tXvAITRiS3ae4Y) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Vida Ocupada](https://open.spotify.com/album/3a8beQqJbPx7HKijpede8p) | 2:56 | 2024-05-23 | 2024-07-19 |
 | [VIDA RASA](https://open.spotify.com/track/44B0mpzmcDlq3xsJJJznBa) | [PK](https://open.spotify.com/artist/59hToCjzX8t2d3Xa4y069d), [STEF4N](https://open.spotify.com/artist/00tCanu6d5DwGrp8adzYf9) | [VIDA RASA](https://open.spotify.com/album/2Q8MefBLYO7ZIvp03qD9Ab) | 2:46 | 2025-05-01 | 2025-06-13 |
-| [Vim do Norte](https://open.spotify.com/track/3rJ8h9IPsxiq9qlLCW5Vgv) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Vim do Norte](https://open.spotify.com/album/5nl2suSuueLFypTEAph2Vf) | 2:22 | 2025-02-28 |  |
+| [Vim do Norte](https://open.spotify.com/track/3rJ8h9IPsxiq9qlLCW5Vgv) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Vim do Norte](https://open.spotify.com/album/5nl2suSuueLFypTEAph2Vf) | 2:22 | 2025-02-28 | 2025-06-20 |
 | [Vingar](https://open.spotify.com/track/5U9Txm8FYhLTEqP4gNTE5O) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D) | [Vingar](https://open.spotify.com/album/4GLYPwcslvSkasyxtVITE8) | 2:34 | 2024-09-12 | 2024-10-04 |
 | [Visão de Águia](https://open.spotify.com/track/3gg7mDLfD2eTXEXWq1HwRg) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [James Gold](https://open.spotify.com/artist/0YSEe7GqAE2xdoFSzNRT2y) | [Sonhos & Insónias](https://open.spotify.com/album/6MdSiXKQQZU2CUsAx8h8qI) | 3:00 | 2023-12-08 | 2023-12-22 |
 | [Visão Noturna](https://open.spotify.com/track/3UCqd9sT0C9qDayjFHBQjd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:41 | 2023-02-24 | 2025-01-10 |

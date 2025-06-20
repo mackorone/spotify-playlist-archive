@@ -1,48 +1,28 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26158,
+  "num_followers": 26159,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABjaxWNPeLYenyZn/lucTuXL5kp+8+l",
+  "snapshot_id": "AABjc9jm2fCy5iS+NU/3YHknwuCFkrDN",
   "tracks": [
     {
-      "added_at": "2025-06-13 13:09:05",
+      "added_at": "2025-06-19 13:40:18",
       "album": {
-        "name": "Where Do I Begin",
-        "url": "https://open.spotify.com/album/5U72pcyI7IIkp99UGeGjNY"
+        "name": "It's the Weekend",
+        "url": "https://open.spotify.com/album/6qoXP3R1Uue8qsggAQu6MQ"
       },
       "artists": [
         {
-          "name": "Adam Marcos",
-          "url": "https://open.spotify.com/artist/3eqpBvxrHEbR9lMb6MxDqW"
-        },
-        {
-          "name": "Lexi Scatena",
-          "url": "https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd"
+          "name": "Nikita Marasey",
+          "url": "https://open.spotify.com/artist/6LODgGQ6Q8E6szNBq4ao1r"
         }
       ],
-      "duration_ms": 238647,
-      "name": "Where Do I Begin",
-      "url": "https://open.spotify.com/track/5ALYOWoN6M35gGujplTjFU"
-    },
-    {
-      "added_at": "2025-06-13 13:09:05",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/3EcytnDrQB2b6gV2KywNwG"
-      },
-      "artists": [
-        {
-          "name": "SHAYSOVA",
-          "url": "https://open.spotify.com/artist/5CsF56OwZ5XDYzG5LDU1Uj"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/558Ik9HuAwNKnCNbx0HWgK"
+      "duration_ms": 211872,
+      "name": "It's the Weekend",
+      "url": "https://open.spotify.com/track/5Cr0u3jr6NvdW57XxUqiGu"
     },
     {
       "added_at": "2025-06-13 13:09:05",
@@ -67,6 +47,42 @@
     {
       "added_at": "2025-06-13 13:09:05",
       "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU"
+    },
+    {
+      "added_at": "2025-06-13 13:09:05",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/3EcytnDrQB2b6gV2KywNwG"
+      },
+      "artists": [
+        {
+          "name": "SHAYSOVA",
+          "url": "https://open.spotify.com/artist/5CsF56OwZ5XDYzG5LDU1Uj"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/558Ik9HuAwNKnCNbx0HWgK"
+    },
+    {
+      "added_at": "2025-06-13 13:09:05",
+      "album": {
         "name": "innermost",
         "url": "https://open.spotify.com/album/3BE0386OPYWdpOxZBLiVaO"
       },
@@ -87,22 +103,22 @@
     {
       "added_at": "2025-06-13 13:09:05",
       "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU"
+        "name": "Where Do I Begin",
+        "url": "https://open.spotify.com/album/5U72pcyI7IIkp99UGeGjNY"
       },
       "artists": [
         {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+          "name": "Adam Marcos",
+          "url": "https://open.spotify.com/artist/3eqpBvxrHEbR9lMb6MxDqW"
         },
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Lexi Scatena",
+          "url": "https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd"
         }
       ],
-      "duration_ms": 181099,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU"
+      "duration_ms": 238647,
+      "name": "Where Do I Begin",
+      "url": "https://open.spotify.com/track/5ALYOWoN6M35gGujplTjFU"
     },
     {
       "added_at": "2025-06-13 13:09:05",

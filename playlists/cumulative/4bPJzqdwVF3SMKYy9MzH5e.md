@@ -4,7 +4,7 @@
 
 > 
 
-2,170 songs - 4 day 20 hr 35 min
+2,172 songs - 4 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1072,6 +1072,7 @@
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2023-03-05 |  |
 | [Kismet](https://open.spotify.com/track/24hPnL2Yr82INEk0YUWCJr) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [Kismet](https://open.spotify.com/album/516DgQVkrtnV5vmQ5SOxPu) | 2:51 | 2021-08-24 |  |
 | [Kiss](https://open.spotify.com/track/0TXWhNi5BwjGyhlrxZKIsW) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Romantic](https://open.spotify.com/album/4QixGu0dZC6c6ewEcILjfD) | 1:15 | 2022-12-25 |  |
+| [kiss](https://open.spotify.com/track/1Y2iRXd3PqKD1HyePXazoF) | [NOVE!L](https://open.spotify.com/artist/1UcQ25atADwnZ2U461XkUV) | [kiss](https://open.spotify.com/album/4Yr43C1F088J9VKwiBI7va) | 2:15 | 2025-06-19 |  |
 | [Kiss and Make Up](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) | 3:09 | 2021-08-05 |  |
 | [Kiss Me, Son of God](https://open.spotify.com/track/6y2cLmWkuM7u5By6ElBrla) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Lincoln](https://open.spotify.com/album/1D94ri7k6pTBK7tlRClSl7) | 1:52 | 2022-07-23 |  |
 | [Kiss My Super Bowl Ring](https://open.spotify.com/track/4gnmW2jAVmdDe6EGAGppFG) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Kiss My Super Bowl Ring](https://open.spotify.com/album/5JRDThBQfispLDYGCF4JuX) | 3:06 | 2022-12-23 |  |
@@ -1092,6 +1093,7 @@
 | [La Que Me Gusta](https://open.spotify.com/track/59HBsP5zIuEzDsrY9bB2NQ) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Repeat After Me](https://open.spotify.com/album/47E8vMHuQF9PlXtac1uVW3) | 3:59 | 2021-08-05 |  |
 | [La Verdolaga](https://open.spotify.com/track/5PL7k9QH7Kj7B4527dHvon) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga](https://open.spotify.com/album/6NC1xi5hipWfyrwkq3fe4r) | 2:30 | 2025-04-29 |  |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2024-06-29 |  |
+| [Lady Love](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/0wC7LND4olfhUHZK9HVLN5) | 2:54 | 2025-06-19 |  |
 | [Lake Como](https://open.spotify.com/track/0XWEq7N03iwa7ZWuznfU6c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 3:55 | 2025-04-29 |  |
 | [Lalalatte](https://open.spotify.com/track/5IjTpw72dT98mVjCX6rOab) | [Tsundere Twintails](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY) | [Latte and a Muffin](https://open.spotify.com/album/1r3Cw28qOUPLl8Qh7ibDlc) | 2:13 | 2023-01-06 |  |
 | [Lara \(feat\. Clairo\)](https://open.spotify.com/track/4hOIaf53AbFr6BwcaT12S1) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Lara \(feat\. Clairo\)](https://open.spotify.com/album/0aFwaHBnxbzeaHvaBVZr68) | 3:40 | 2022-04-26 |  |
@@ -2168,7 +2170,7 @@
 | [Zombie Ritual](https://open.spotify.com/track/4K3qzy3AR3Lo02ybxs90gW) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Scream Bloody Gore](https://open.spotify.com/album/0PvGbpxBh7faAVbeZM4sIm) | 4:33 | 2021-08-05 |  |
 | [Грустная сука](https://open.spotify.com/track/18hIrODUziu3KyUxeDKlcq) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/1x5XZhwID74j0tqkcU6hCy) | 3:19 | 2021-08-05 |  |
 | [ЗАВОД](https://open.spotify.com/track/0JCG4FU6reipiFnJ0sGloH) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [ЗАВОД](https://open.spotify.com/album/3BT92x77jU94cOAqg92Ijw) | 2:03 | 2024-09-18 |  |
-| [ННД](https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q) | [Tomorrow](https://open.spotify.com/artist/0mmG7ASfGRWIZVC492wpjs) | [ННД](https://open.spotify.com/album/0qQ8tz5aYGHVcnTpxVGgHW) | 1:27 | 2024-10-23 |  |
+| [ННД](https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q) | [TOMÓRROW](https://open.spotify.com/artist/0mmG7ASfGRWIZVC492wpjs) | [ННД](https://open.spotify.com/album/0qQ8tz5aYGHVcnTpxVGgHW) | 1:27 | 2024-10-23 |  |
 | [Смерти Больше Нет](https://open.spotify.com/track/1PPXvuqGAF3UCbsveKoOIV) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сказка](https://open.spotify.com/album/63AxG9uYC7oKufwKXf68jC) | 3:22 | 2021-08-05 |  |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 | 2021-08-05 |  |
 | [траур](https://open.spotify.com/track/4HshIGYVQfbCfS8xPKLNcL) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [север](https://open.spotify.com/album/6L6rz0eEzrl8L8YDSZglvA) | 2:15 | 2021-08-05 |  |

@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 295880,
       "name": "AENE",
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
@@ -4524,7 +4524,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 217411,
       "name": "BA Connect",
       "url": "https://open.spotify.com/track/7Ip6b4A9Kt3N8GMtzzwiTn"
@@ -5902,7 +5902,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 108094,
       "name": "Bauchnabelpiercing",
       "url": "https://open.spotify.com/track/4ZKwUSQNvpU2XRIoYi4Bcg"
@@ -9156,7 +9156,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 175384,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
@@ -13448,7 +13448,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 84700,
       "name": "DIA DEL\u00cdCIA - Slowed",
       "url": "https://open.spotify.com/track/6T06bLv5OzJf3BuNa81XXD"
@@ -16680,7 +16680,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -34364,6 +34364,24 @@
       "duration_ms": 185520,
       "name": "MEGAVERSE",
       "url": "https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO"
+    },
+    {
+      "album": {
+        "name": "Megj\u00e1tszottam magamat",
+        "url": "https://open.spotify.com/album/0FrOqtFJ2DdqwP1l4vJzOB"
+      },
+      "artists": [
+        {
+          "name": "Lakatos Dani",
+          "url": "https://open.spotify.com/artist/6RWpLnBxrQ0wpAGDNH6jqk"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188023,
+      "name": "Megj\u00e1tszottam magamat",
+      "url": "https://open.spotify.com/track/1hxZhF6F4u8WJsqwiLZSLv"
     },
     {
       "album": {
@@ -60334,7 +60352,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 83183,
       "name": "Vem Vem",
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"

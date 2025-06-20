@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-202 songs - 14 hr 2 min
+203 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Moon River](https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [Moon River](https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r) | 5:10 | 2022-06-22 | 2024-04-19 |
 | [Moon River](https://open.spotify.com/track/3azuowB4mADwvYCumctRrs) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [Moon River](https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa) | 5:10 | 2019-05-26\* |  |
 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 | 2020-03-06 |  |
+| [Moonlight Serenade](https://open.spotify.com/track/6Tw9p1kBeDyv9opkP7oDuF) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Mister Romantic](https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0) | [What's Not To Love?](https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2) | 3:05 | 2025-06-19 |  |
 | [Moonlight Serenade](https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:22 | 2022-06-22 | 2024-04-19 |
 | [Moonlight Serenade](https://open.spotify.com/track/3xXrF1nomzDLLMngfZNmKw) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/0eMgf6ydxMDMjoSQXDyQwn) | 4:22 | 2019-05-26\* |  |
 | [My Baby Just Cares For Me](https://open.spotify.com/track/1b8AEwsyE0NTgvySRi6SFz) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Sophie Milman](https://open.spotify.com/album/3E7VyuP30Il3LCV46isqH5) | 3:34 | 2022-05-02 | 2022-12-01 |

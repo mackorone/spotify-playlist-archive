@@ -2,7 +2,7 @@
 
 ### [mint Japan](https://open.spotify.com/playlist/37i9dQZF1DWZASvfwxHkco)
 
-> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Joel Corry, Jennifer Lopez
+> 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Swedish House Mafia
 
 603 songs - 1 day 6 hr 47 min
 

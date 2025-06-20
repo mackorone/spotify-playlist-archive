@@ -542,7 +542,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 188201,
       "name": "Ahora que no estoy yo",
       "url": "https://open.spotify.com/track/0jIfperi4ijSe3FJocs9i4"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 108812,
       "name": "Aleluya",
       "url": "https://open.spotify.com/track/5bmaOrw6KSLv56DRyoEV1T"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 181125,
       "name": "Ay Madrid",
       "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 154500,
       "name": "Consid\u00e9rame",
       "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
@@ -3437,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Cristales",
+        "url": "https://open.spotify.com/album/48ovtSw5rrITbP9eTCk4O9"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/6aT8lnGGGdcKDVxpqJ0SXM"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/69ZNrQXyGpwQ4kp6DUquQS"
       },
@@ -3562,7 +3580,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 197103,
       "name": "CULITO MELOCOT\u00d3N",
       "url": "https://open.spotify.com/track/5GIxhvlvIqiQhE5BRPDqWD"
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 230921,
       "name": "C\u00f3ndor",
       "url": "https://open.spotify.com/track/50RP5Exy718OXAQzjzMcVF"
@@ -3838,7 +3856,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 258325,
       "name": "De M\u00ed para T\u00ed",
       "url": "https://open.spotify.com/track/3wtXsIjHNx1r2wxH4DZwgi"
@@ -4314,6 +4332,44 @@
       "duration_ms": 231270,
       "name": "Donde nac\u00ed",
       "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
+    },
+    {
+      "album": {
+        "name": "Donde se para el reloj",
+        "url": "https://open.spotify.com/album/1N26h4hMwgZ1DPbwhVReJI"
+      },
+      "artists": [
+        {
+          "name": "Miguel Pozuelo",
+          "url": "https://open.spotify.com/artist/7gqc5iF0XVnFo0wBCddGP5"
+        },
+        {
+          "name": "\u00c1lvaro Le\u00f3n",
+          "url": "https://open.spotify.com/artist/4bVoJrIE524tN7laGQ31tf"
+        },
+        {
+          "name": "Jos\u00e9 Manuel Pardo",
+          "url": "https://open.spotify.com/artist/6dOYn7UjepDFuAf0JUrFaz"
+        },
+        {
+          "name": "Antonio Gato",
+          "url": "https://open.spotify.com/artist/1K5wYQmep7zjH7DVUa5bLe"
+        },
+        {
+          "name": "Sara Montilla",
+          "url": "https://open.spotify.com/artist/0sewp4cntUJ5audxubv6Yv"
+        },
+        {
+          "name": "Jos\u00e9 Infiesta",
+          "url": "https://open.spotify.com/artist/1bXTa80viMelqZiiCwwyJr"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311761,
+      "name": "Donde se para el reloj",
+      "url": "https://open.spotify.com/track/2JKMA0wcbxTjgsCT1Oc8pS"
     },
     {
       "album": {
@@ -6399,6 +6455,24 @@
     },
     {
       "album": {
+        "name": "Incre\u00edble",
+        "url": "https://open.spotify.com/album/3Tsw1mmwzaGHrYo83JODVk"
+      },
+      "artists": [
+        {
+          "name": "Lorena \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289078,
+      "name": "Incre\u00edble",
+      "url": "https://open.spotify.com/track/2Zz5YrfcOsM7bCXNjuuOhR"
+    },
+    {
+      "album": {
         "name": "Infinitivamente",
         "url": "https://open.spotify.com/album/3NcmN78eGHVQplMRpILiDL"
       },
@@ -7027,6 +7101,28 @@
     },
     {
       "album": {
+        "name": "La grieta",
+        "url": "https://open.spotify.com/album/2dqrbwOu3us83cXfP9SHxp"
+      },
+      "artists": [
+        {
+          "name": "Hugo Ar\u00e1n",
+          "url": "https://open.spotify.com/artist/3Zz3qh18s4feYw4Q73CSIO"
+        },
+        {
+          "name": "Vinicius Cantuaria",
+          "url": "https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214131,
+      "name": "La grieta",
+      "url": "https://open.spotify.com/track/1NQ5uQg9TcARE2EnF5oTgS"
+    },
+    {
+      "album": {
         "name": "La jugada maestra",
         "url": "https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn"
       },
@@ -7496,6 +7592,28 @@
       "duration_ms": 171390,
       "name": "La Sombra del Olvido",
       "url": "https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR"
+    },
+    {
+      "album": {
+        "name": "La Sospecha",
+        "url": "https://open.spotify.com/album/6nnXyb0nwoUSnyZu4SwWyH"
+      },
+      "artists": [
+        {
+          "name": "El Jose",
+          "url": "https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP"
+        },
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290757,
+      "name": "La Sospecha",
+      "url": "https://open.spotify.com/track/1glFsemN0pBmXZvSXgJxFK"
     },
     {
       "album": {
@@ -8836,7 +8954,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 230952,
       "name": "Me hace feliz, mam\u00e1",
       "url": "https://open.spotify.com/track/5H7RvxJ5Ivd96gT9VYzTlc"
@@ -9976,7 +10094,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 307813,
       "name": "Neve e luz",
       "url": "https://open.spotify.com/track/4rpE0HDsG9fTfa17rxWaGv"
@@ -10190,7 +10308,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 181007,
       "name": "No me acostumbro",
       "url": "https://open.spotify.com/track/1hU5peNB7WdgHKiVLaQ035"
@@ -10722,7 +10840,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 267941,
       "name": "Odio despertar",
       "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
@@ -11714,6 +11832,24 @@
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
+    },
+    {
+      "album": {
+        "name": "Porcelana",
+        "url": "https://open.spotify.com/album/2zjde2ylSi2i2sTaZhia91"
+      },
+      "artists": [
+        {
+          "name": "Minco",
+          "url": "https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139944,
+      "name": "Porcelana",
+      "url": "https://open.spotify.com/track/4C3H915bzmnmU2cNmF0Wtw"
     },
     {
       "album": {
@@ -12975,6 +13111,28 @@
     },
     {
       "album": {
+        "name": "Lo que me cost\u00f3 ponerme en pie",
+        "url": "https://open.spotify.com/album/2ZrYh5wrKtvsDKyNt2zBsQ"
+      },
+      "artists": [
+        {
+          "name": "Migu\u00e9 Chupete",
+          "url": "https://open.spotify.com/artist/6XML1EDalLHbeaLf4FcrjH"
+        },
+        {
+          "name": "Juan Gallardo",
+          "url": "https://open.spotify.com/artist/74y9C4l2kav1cwaFXzzUKt"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213037,
+      "name": "Salto del casi infarto a la monoton\u00eda",
+      "url": "https://open.spotify.com/track/4Cd2HeFtVuSJ7JeF9XMr6a"
+    },
+    {
+      "album": {
         "name": "San Juan",
         "url": "https://open.spotify.com/album/6fcoytjtpLguNPlNxGi2HC"
       },
@@ -13992,7 +14150,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 231642,
       "name": "S\u00edgueme",
       "url": "https://open.spotify.com/track/5RQOPW6ktU849iLLxRRMAs"
@@ -14542,6 +14700,24 @@
       "duration_ms": 264440,
       "name": "Tiempo al Tiempo",
       "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
+    },
+    {
+      "album": {
+        "name": "Tiempo de descuento",
+        "url": "https://open.spotify.com/album/06jIKpFZIel4EaPa1aGu6W"
+      },
+      "artists": [
+        {
+          "name": "Luz\u00eda",
+          "url": "https://open.spotify.com/artist/5QfzdMOVjnsL7nlxQhep6K"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212363,
+      "name": "Tiempo de descuento",
+      "url": "https://open.spotify.com/track/6Pc63BRtECeyeJdBUhAKBd"
     },
     {
       "album": {
@@ -15552,7 +15728,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 235075,
       "name": "Una carta con tu nombre",
       "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
@@ -15966,7 +16142,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 266842,
       "name": "Verdad Amarga",
       "url": "https://open.spotify.com/track/1K7h603LAp9yRbrFfU4ReO"

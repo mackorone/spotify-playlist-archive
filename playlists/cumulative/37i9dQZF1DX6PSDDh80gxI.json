@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Coez ha un nuovo album ed \u00e8 sulla cover di Indie Italia \ud83d\ude42\u200d\u2195\ufe0f",
+  "description": "C'\u00e8 un nuovo brano di Frah Quintale ed \u00e8 sulla cover di Indie Italia\u26a1\ufe0f",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 151473,
       "name": "Colpo di fulmine",
       "url": "https://open.spotify.com/track/6og5H4w1JE71qH1E5y7EKD"
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 200689,
       "name": "due lune",
       "url": "https://open.spotify.com/track/3zq17xnIvCZWv8l167tzdP"
@@ -2819,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Lampo",
+        "url": "https://open.spotify.com/album/33465r4j9CJtOkzdVYfbSv"
+      },
+      "artists": [
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207212,
+      "name": "Lampo",
+      "url": "https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y"
+    },
+    {
+      "album": {
         "name": "Le Cose",
         "url": "https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ"
       },
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 164285,
       "name": "Luce",
       "url": "https://open.spotify.com/track/0mZBQzifh9ST6r6dh4bf6k"
@@ -3188,6 +3206,28 @@
       "duration_ms": 173586,
       "name": "Manifesto Egoista (feat. Carlo Amleto)",
       "url": "https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9"
+    },
+    {
+      "album": {
+        "name": "LA VACANZA",
+        "url": "https://open.spotify.com/album/3feilFBJs9Sth0r4BwizKX"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        },
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152074,
+      "name": "MARCIA INDIETRO (feat. ARIETE)",
+      "url": "https://open.spotify.com/track/0GAXeiEXGHjQl4clO17FRg"
     },
     {
       "album": {
@@ -3433,7 +3473,7 @@
         },
         {
           "name": "Alice",
-          "url": "https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3"
+          "url": "https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk"
         },
         {
           "name": "SANO",
@@ -4492,7 +4532,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 187759,
       "name": "QUANTO TI IMPORTA",
       "url": "https://open.spotify.com/track/4Ot6ndhBUMfsgeJoawYxWX"
@@ -5106,6 +5146,24 @@
       "duration_ms": 214146,
       "name": "spacco tutto (feat. Meg)",
       "url": "https://open.spotify.com/track/3wbuxp0jrSNbgHn6pIeAYG"
+    },
+    {
+      "album": {
+        "name": "spirito guida",
+        "url": "https://open.spotify.com/album/2BGhluJa4YSakZZ0c3OslU"
+      },
+      "artists": [
+        {
+          "name": "Gio Evan",
+          "url": "https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142426,
+      "name": "spirito guida",
+      "url": "https://open.spotify.com/track/0Y9nC4erKdozdD7BrkAxHf"
     },
     {
       "album": {
@@ -6064,6 +6122,24 @@
       "duration_ms": 173893,
       "name": "Your Dog",
       "url": "https://open.spotify.com/track/0rDIjhe1IQJhh3oPDxZJMg"
+    },
+    {
+      "album": {
+        "name": "Zagara",
+        "url": "https://open.spotify.com/album/5N9H0fJEfi0WPpZtr0NKq2"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221078,
+      "name": "Zagara",
+      "url": "https://open.spotify.com/track/39t65cFCSsP6XPguuOB2K7"
     },
     {
       "album": {

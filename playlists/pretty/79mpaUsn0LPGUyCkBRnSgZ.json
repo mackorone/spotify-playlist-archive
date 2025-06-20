@@ -1,12 +1,12 @@
 {
   "description": "albums i plan to listen to eventually",
-  "num_followers": 1,
+  "num_followers": 0,
   "original_name": "Zacklog",
   "owner": {
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAHMdrG7YrzOXHbyxOhA0DsGurIEuXk",
+  "snapshot_id": "AAAHMqOH2Tu+ezxhL4U51GRs/cfKQgxB",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -9163,6 +9163,22 @@
       "duration_ms": 287159,
       "name": "NEVER ENOUGH",
       "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6"
+    },
+    {
+      "added_at": "2025-06-19 04:42:05",
+      "album": {
+        "name": "Cover The Mirrors",
+        "url": "https://open.spotify.com/album/6cXzNHCcql2F15q7OP3Sks"
+      },
+      "artists": [
+        {
+          "name": "Ben Kweller",
+          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+        }
+      ],
+      "duration_ms": 222127,
+      "name": "Going Insane",
+      "url": "https://open.spotify.com/track/7wgjOD4FrtZ0zPPtK7dSn8"
     }
   ],
   "unique_name": "Zacklog",

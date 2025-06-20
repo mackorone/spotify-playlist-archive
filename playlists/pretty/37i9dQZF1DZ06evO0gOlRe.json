@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 34752,
+  "num_followers": 34762,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE9egAAAAABSot1LW7WoI3mxG05U01yE",
+  "snapshot_id": "aFIBgAAAAADvyg1hMj21+cnGk97Aar0v",
   "tracks": [
     {
       "added_at": null,
@@ -523,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Your Life",
-        "url": "https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP"
+        "name": "All Stand Together",
+        "url": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL"
       },
       "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 155998,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP"
+      "duration_ms": 201813,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1ovfVFW6hg0uQuxxvGlhCb"
     },
     {
       "added_at": null,
@@ -555,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Stand Together",
-        "url": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL"
+        "name": "This Is Your Life",
+        "url": "https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP"
       },
       "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 201813,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1ovfVFW6hg0uQuxxvGlhCb"
+      "duration_ms": 155998,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP"
     },
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "STOP & GO",
-        "url": "https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x"
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
       },
       "artists": [
-        {
-          "name": "MIME",
-          "url": "https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 171130,
-      "name": "STOP & GO",
-      "url": "https://open.spotify.com/track/2kpPludPmHagO06IiRChtM"
+      "duration_ms": 148965,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd"
     },
     {
       "added_at": null,
@@ -731,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
+        "name": "STOP & GO",
+        "url": "https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x"
       },
       "artists": [
+        {
+          "name": "MIME",
+          "url": "https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX"
+        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd"
+      "duration_ms": 171130,
+      "name": "STOP & GO",
+      "url": "https://open.spotify.com/track/2kpPludPmHagO06IiRChtM"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Be Sad",
+      "url": "https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You (feat. Alexander Stewart)",
         "url": "https://open.spotify.com/album/1QefxorzxXxbFOgr1anUAg"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 252018,
       "name": "You (feat. Alexander Stewart)",
       "url": "https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Be Sad",
-      "url": "https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq"
     }
   ],
   "unique_name": "This Is Alexander Stewart",

@@ -2405,6 +2405,28 @@
     },
     {
       "album": {
+        "name": "What's Not To Love?",
+        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
+      },
+      "artists": [
+        {
+          "name": "John C. Reilly",
+          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
+        },
+        {
+          "name": "Mister Romantic",
+          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185129,
+      "name": "Moonlight Serenade",
+      "url": "https://open.spotify.com/track/6Tw9p1kBeDyv9opkP7oDuF"
+    },
+    {
+      "album": {
         "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },

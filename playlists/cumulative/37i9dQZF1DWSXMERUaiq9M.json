@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Back To My Love",
+        "url": "https://open.spotify.com/album/26mbxEeOe1nc8tPPYZ1me0"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196714,
+      "name": "Back To My Love",
+      "url": "https://open.spotify.com/track/6w4Z8LfJ7aIU09mmkYADNt"
+    },
+    {
+      "album": {
         "name": "Bad Girls",
         "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
       },
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 149666,
       "name": "eat, sleep, slay, \ud83d\udd01",
       "url": "https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi"
@@ -7928,7 +7946,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 182400,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/6jp2pfVIlIESLROvcHxCDd"
@@ -8026,7 +8044,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 148083,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/0bRzCl937W9PlTCknGfcW8"

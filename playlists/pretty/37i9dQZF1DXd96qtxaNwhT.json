@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 302702,
+  "num_followers": 302714,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-06-17 14:00:16",
       "album": {
+        "name": "Everytime (BBC Radio 1 Live Lounge)",
+        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 181583,
+      "name": "Everytime - BBC Radio 1 Live Lounge",
+      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
+    },
+    {
+      "added_at": "2025-06-17 14:00:16",
+      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
-    },
-    {
-      "added_at": "2025-06-17 14:00:16",
-      "album": {
-        "name": "Everytime (BBC Radio 1 Live Lounge)",
-        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 181583,
-      "name": "Everytime - BBC Radio 1 Live Lounge",
-      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
     },
     {
       "added_at": "2025-06-17 14:00:16",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-06-17 14:00:16",
       "album": {
-        "name": "carry me through",
-        "url": "https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "carry me through",
-      "url": "https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr"
-    },
-    {
-      "added_at": "2025-06-17 14:00:16",
-      "album": {
         "name": "not my job anymore",
         "url": "https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 192818,
       "name": "How I Love You",
       "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
+    },
+    {
+      "added_at": "2025-06-17 14:00:16",
+      "album": {
+        "name": "carry me through",
+        "url": "https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "carry me through",
+      "url": "https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr"
     },
     {
       "added_at": "2025-06-17 14:00:16",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-06-17 14:00:16",
       "album": {
-        "name": "Scared Of Loving You",
-        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 110221,
-      "name": "Scared Of Loving You",
-      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-06-17 14:00:16",
-      "album": {
         "name": "Changes All The Time",
         "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 287567,
       "name": "Kissing In Swimming Pools",
       "url": "https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL"
+    },
+    {
+      "added_at": "2025-06-17 14:00:16",
+      "album": {
+        "name": "Scared Of Loving You",
+        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 110221,
+      "name": "Scared Of Loving You",
+      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
     },
     {
       "added_at": "2025-06-17 14:00:16",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-06-17 14:00:16",
       "album": {
-        "name": "Maria (with Lola Amour)",
-        "url": "https://open.spotify.com/album/4HMeGZ8PYu5TBbRilS2AJJ"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cronin",
-          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
-        },
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 191625,
-      "name": "Maria (with Lola Amour)",
-      "url": "https://open.spotify.com/track/3fRiLrU5dPkZK56HmSKeo1"
-    },
-    {
-      "added_at": "2025-06-17 14:00:16",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 160677,
       "name": "Watching TV",
       "url": "https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd"
+    },
+    {
+      "added_at": "2025-06-17 14:00:16",
+      "album": {
+        "name": "Maria (with Lola Amour)",
+        "url": "https://open.spotify.com/album/4HMeGZ8PYu5TBbRilS2AJJ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        },
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 191625,
+      "name": "Maria (with Lola Amour)",
+      "url": "https://open.spotify.com/track/3fRiLrU5dPkZK56HmSKeo1"
     }
   ],
   "unique_name": "Peaceful Pop",

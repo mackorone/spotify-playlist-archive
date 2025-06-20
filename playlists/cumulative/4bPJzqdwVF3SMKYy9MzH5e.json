@@ -20189,6 +20189,24 @@
     },
     {
       "album": {
+        "name": "kiss",
+        "url": "https://open.spotify.com/album/4Yr43C1F088J9VKwiBI7va"
+      },
+      "artists": [
+        {
+          "name": "NOVE!L",
+          "url": "https://open.spotify.com/artist/1UcQ25atADwnZ2U461XkUV"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135022,
+      "name": "kiss",
+      "url": "https://open.spotify.com/track/1Y2iRXd3PqKD1HyePXazoF"
+    },
+    {
+      "album": {
         "name": "Dua Lipa (Complete Edition)",
         "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
       },
@@ -20570,6 +20588,28 @@
       "duration_ms": 278866,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/0wC7LND4olfhUHZK9HVLN5"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174524,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S"
     },
     {
       "album": {
@@ -41074,7 +41114,7 @@
       },
       "artists": [
         {
-          "name": "Tomorrow",
+          "name": "TOM\u00d3RROW",
           "url": "https://open.spotify.com/artist/0mmG7ASfGRWIZVC492wpjs"
         }
       ],

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-646 songs - 1 day 20 hr 42 min
+647 songs - 1 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,7 +544,8 @@
 | [There You'll Be \- Dal Film Pearl Harbour](https://open.spotify.com/track/41mYwd1noYXctLrGYj32fG) | [Film Orchestra](https://open.spotify.com/artist/6GE3gIjUijpFNel1OIfNr9) | [Film Oscar Vol\. 1 Cover Version](https://open.spotify.com/album/7kJdB7buEQagGUTfcN3nJC) | 4:00 | 2024-07-10 |  |
 | [These Are the Special Times](https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:07 | 2023-12-30 |  |
 | [This Could Take All Night](https://open.spotify.com/track/1VfOrgBJKhvO1ivJ8u6hkf) | [Chris Emerson](https://open.spotify.com/artist/3wMMMz6nznx9XoTHjnOUgS) | [TOURIST](https://open.spotify.com/album/0spxXinrmiHGwjop4hxVIb) | 4:03 | 2024-07-10 |  |
-| [This Is for My Girls \- 128 BPM Workout Remix](https://open.spotify.com/track/0Oxh40DEPR1gtRWT7Qecue) | [Jayne Mendez](https://open.spotify.com/artist/1v0pPpow6FkpRm0M6jOtxx) | [40 Top Workout Hits 2016](https://open.spotify.com/album/1iX5KFclgzSrc4cP3Dje7H) | 4:50 | 2023-12-30 |  |
+| [This Is for My Girls \- 128 BPM Workout Remix](https://open.spotify.com/track/0Oxh40DEPR1gtRWT7Qecue) | [Jayne Mendez](https://open.spotify.com/artist/1v0pPpow6FkpRm0M6jOtxx) | [40 Top Workout Hits 2016](https://open.spotify.com/album/1iX5KFclgzSrc4cP3Dje7H) | 4:50 | 2023-12-30 | 2025-06-20 |
+| [This Is For My Girls \- Workout Remix 128 Bpm](https://open.spotify.com/track/0TpMqAqSdt6xVcaKK4Qe0f) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [This Is For My Girls \(Workout Bundle / Even 32 Count Phrasing\)](https://open.spotify.com/album/4wwCxghE5PkCxPy2XuHbXs) | 4:50 | 2025-06-19 |  |
 | [This River](https://open.spotify.com/track/1phGxlAcLIO3Mwke0XZV1R) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [That's Me](https://open.spotify.com/album/62CDxOlX4fNlDStY5CbSUK) | 5:17 | 2023-12-30 |  |
 | [Through the Storm \(with Elton John\)](https://open.spotify.com/track/2xTzFWaVvNzmz1JXbhOt64) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Through the Storm](https://open.spotify.com/album/0K8kAGeIofQOUkWiMOYr8P) | 4:21 | 2023-12-30 |  |
 | [Ti Amo](https://open.spotify.com/track/0gAbf0NL9no1Urk1Wj8Uui) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [E' nell' aria…ti amo](https://open.spotify.com/album/4mtA5ClPItnUF8yfg5uygI) | 4:05 | 2023-12-30 |  |

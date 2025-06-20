@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd?si=\_S9SDVpeQaqDmtWHrGf99Q>Oncemore Six</a>"
 
-386 songs - 1 day 16 hr 8 min
+387 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 | 2025-05-23 |  |
 | [Amen](https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg), [NUZ VOJ](https://open.spotify.com/artist/5UKtBCqzTmnzTsYqcwt18O), [Jumbo](https://open.spotify.com/artist/3S4LQkYcseGEqdwXe3MWYN) | [Indumiso yaseStezi](https://open.spotify.com/album/5Ci8C1GuiWOK5tWQeq2KPd) | 5:19 | 2024-03-08 |  |
 | [Amen / Moya ongcwele](https://open.spotify.com/track/2MFOFPmxaHNhIuYiVKYX5H) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Amen / Moya ongcwele](https://open.spotify.com/album/1ghmZE9jAHU4b2Srof3eOU) | 5:48 | 2024-10-25 | 2024-12-20 |
+| [Aneliswe Osweleyo](https://open.spotify.com/track/6ZgClg41sq8pnx8d0oIR4W) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Aneliswe Osweleyo](https://open.spotify.com/album/4QAnQG6yJgyqxIni00sRGK) | 4:14 | 2025-06-20 |  |
 | [Anesu \(God with us\) \- Live](https://open.spotify.com/track/3ebUYrBfGD2A0dvOxQx6Cc) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Chairo](https://open.spotify.com/artist/1FFHFMUEGwwivLM3rO42ce) | [Anesu \(God with us\) \[Live\]](https://open.spotify.com/album/5GI13g4MbffMBJe8adYamQ) | 11:06 | 2025-02-28 |  |
 | [Angesabi Lutho \- Live At The Octagon / 2024](https://open.spotify.com/track/7gFKwcRcvDAnE8CP1VtwGJ) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Angesabi Lutho \(Live At The Octagon / 2024\)](https://open.spotify.com/album/601cTavoVncT3R8MamZrZj) | 4:55 | 2025-04-11 | 2025-05-02 |
 | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/6GfjzpCcMHWlpL0NUleD15) | 7:19 | 2023-10-20 | 2024-05-03 |
@@ -296,7 +297,7 @@
 | [Udumo \- Live at Pont De Val](https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Udumo \(Live at Pont De Val\)](https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p) | 6:46 | 2020-10-09 | 2023-06-16 |
 | [Uhlaleleni Kusizani](https://open.spotify.com/track/06xNSNCV9X5fRm0n5wqVAE) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Uhlaleleni Kusizani](https://open.spotify.com/album/1sDS2OlxaG5j2zrYoA7ODt) | 7:25 | 2023-11-03 | 2024-02-02 |
 | [Uhlal’ anjalo](https://open.spotify.com/track/4jhB3YYGR9QNc1vk88nztf) | [Dalimark](https://open.spotify.com/artist/0GbOuh2PSFEDTEHtEtpaIX), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Uhlal’ anjalo](https://open.spotify.com/album/4f5vCgYK6tjtpfZ0Cd2z7m) | 5:04 | 2024-05-17 | 2024-07-12 |
-| [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 |  |
+| [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-06-20 |
 | [Ukholo](https://open.spotify.com/track/6XXwIEbcmh6IKl1qGd3J5i) | [Asanda Mqiki](https://open.spotify.com/artist/0778udtHEQ5T3HZQEDelAf), [StussyV](https://open.spotify.com/artist/3CAwqYTdNKxX52nrkSf52s), [Tee Jay](https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ), [Nonka](https://open.spotify.com/artist/7owh85VxGfhYd41wHZ9nZA), [DJ GHETTO HD](https://open.spotify.com/artist/21B7fICxbXLlcfr3Es8jiS) | [Ukholo](https://open.spotify.com/album/2Io8Y6e1kUIcn4mYL1dfLq) | 5:53 | 2023-10-27 | 2024-03-29 |
 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 | 2023-07-14 |  |
 | [Ukubonga \(Live\)](https://open.spotify.com/track/3unVOzRhnT4N8m5BMpeIER) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 8:41 | 2024-03-29 | 2024-04-05 |

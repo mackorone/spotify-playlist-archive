@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Garvit-Priyansh, Hansika Pareek and other exciting artists.\n",
-  "num_followers": 86898,
+  "num_followers": 86988,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-06-13 06:02:18",
       "album": {
-        "name": "Bhool Bhulaiya",
-        "url": "https://open.spotify.com/album/5UdtpbfhTvDSz6x78eCSNy"
-      },
-      "artists": [
-        {
-          "name": "Hanita Bhambri",
-          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Bhool Bhulaiya",
-      "url": "https://open.spotify.com/track/5En9zOsP5wURF47Fxzh66o"
-    },
-    {
-      "added_at": "2025-06-13 06:02:18",
-      "album": {
         "name": "Kaari Kaari",
         "url": "https://open.spotify.com/album/0nJTuLPIv2lUR4nFer1Y0f"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 180543,
       "name": "Kya Batayein",
       "url": "https://open.spotify.com/track/15WruziiMBbDObB8K0bnWp"
+    },
+    {
+      "added_at": "2025-06-13 06:02:18",
+      "album": {
+        "name": "Bhool Bhulaiya",
+        "url": "https://open.spotify.com/album/5UdtpbfhTvDSz6x78eCSNy"
+      },
+      "artists": [
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Bhool Bhulaiya",
+      "url": "https://open.spotify.com/track/5En9zOsP5wURF47Fxzh66o"
     },
     {
       "added_at": "2025-06-13 06:02:18",
@@ -539,42 +539,6 @@
     {
       "added_at": "2025-06-13 06:02:18",
       "album": {
-        "name": "Peeche Mudke",
-        "url": "https://open.spotify.com/album/1Q5uXL243RxNPyfGVPHB8i"
-      },
-      "artists": [
-        {
-          "name": "SidB",
-          "url": "https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG"
-        },
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Peeche Mudke",
-      "url": "https://open.spotify.com/track/1H35qSJKvmYlVDycuvBWVq"
-    },
-    {
-      "added_at": "2025-06-13 06:02:18",
-      "album": {
-        "name": "Paint It Over Me",
-        "url": "https://open.spotify.com/album/3D9DLneQgDyzaSL9J9DFUe"
-      },
-      "artists": [
-        {
-          "name": "Masala Coffee",
-          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
-        }
-      ],
-      "duration_ms": 201461,
-      "name": "Paint It Over Me",
-      "url": "https://open.spotify.com/track/6zOdT0oZeeYVK8R3B6hzbg"
-    },
-    {
-      "added_at": "2025-06-13 06:02:18",
-      "album": {
         "name": "car keys",
         "url": "https://open.spotify.com/album/2q6jSnuwOqjZAN27G56Z7c"
       },
@@ -599,6 +563,26 @@
     {
       "added_at": "2025-06-13 06:02:18",
       "album": {
+        "name": "Peeche Mudke",
+        "url": "https://open.spotify.com/album/1Q5uXL243RxNPyfGVPHB8i"
+      },
+      "artists": [
+        {
+          "name": "SidB",
+          "url": "https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Peeche Mudke",
+      "url": "https://open.spotify.com/track/1H35qSJKvmYlVDycuvBWVq"
+    },
+    {
+      "added_at": "2025-06-13 06:02:18",
+      "album": {
         "name": "Tera Yaar",
         "url": "https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 225000,
       "name": "Tera Yaar",
       "url": "https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9"
+    },
+    {
+      "added_at": "2025-06-13 06:02:18",
+      "album": {
+        "name": "Paint It Over Me",
+        "url": "https://open.spotify.com/album/3D9DLneQgDyzaSL9J9DFUe"
+      },
+      "artists": [
+        {
+          "name": "Masala Coffee",
+          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
+        }
+      ],
+      "duration_ms": 201461,
+      "name": "Paint It Over Me",
+      "url": "https://open.spotify.com/track/6zOdT0oZeeYVK8R3B6hzbg"
     },
     {
       "added_at": "2025-06-13 06:02:18",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-06-13 06:02:18",
       "album": {
-        "name": "Dil Ki Sada",
-        "url": "https://open.spotify.com/album/0JP7dZnlGJuAHWTht7rEof"
+        "name": "Soz e Dil",
+        "url": "https://open.spotify.com/album/4jydMVHW4fFei0hhkuDzhp"
       },
       "artists": [
         {
-          "name": "Prady J",
-          "url": "https://open.spotify.com/artist/0Z7xTlsSbRQzaCTISzk8jJ"
+          "name": "Yawar Abdal",
+          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
         }
       ],
-      "duration_ms": 247578,
-      "name": "Dil Ki Sada",
-      "url": "https://open.spotify.com/track/41iqI5PyUzXt6gpU4C3OKY"
+      "duration_ms": 372587,
+      "name": "Soz e Dil",
+      "url": "https://open.spotify.com/track/2HsLavkCiRviSxOx57d7UR"
     },
     {
       "added_at": "2025-06-13 06:02:18",
@@ -819,34 +819,18 @@
     {
       "added_at": "2025-06-13 06:02:18",
       "album": {
-        "name": "Seelan Ki Khushboo",
-        "url": "https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f"
+        "name": "Dil Ki Sada",
+        "url": "https://open.spotify.com/album/0JP7dZnlGJuAHWTht7rEof"
       },
       "artists": [
         {
-          "name": "Mansa Jimmy",
-          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
+          "name": "Prady J",
+          "url": "https://open.spotify.com/artist/0Z7xTlsSbRQzaCTISzk8jJ"
         }
       ],
-      "duration_ms": 212460,
-      "name": "Seelan Ki Khushboo",
-      "url": "https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG"
-    },
-    {
-      "added_at": "2025-06-13 06:02:18",
-      "album": {
-        "name": "Soz e Dil",
-        "url": "https://open.spotify.com/album/4jydMVHW4fFei0hhkuDzhp"
-      },
-      "artists": [
-        {
-          "name": "Yawar Abdal",
-          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
-        }
-      ],
-      "duration_ms": 372587,
-      "name": "Soz e Dil",
-      "url": "https://open.spotify.com/track/2HsLavkCiRviSxOx57d7UR"
+      "duration_ms": 247578,
+      "name": "Dil Ki Sada",
+      "url": "https://open.spotify.com/track/41iqI5PyUzXt6gpU4C3OKY"
     },
     {
       "added_at": "2025-06-13 06:02:18",
@@ -871,6 +855,22 @@
     {
       "added_at": "2025-06-13 06:02:18",
       "album": {
+        "name": "Seelan Ki Khushboo",
+        "url": "https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f"
+      },
+      "artists": [
+        {
+          "name": "Mansa Jimmy",
+          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
+        }
+      ],
+      "duration_ms": 212460,
+      "name": "Seelan Ki Khushboo",
+      "url": "https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG"
+    },
+    {
+      "added_at": "2025-06-13 06:02:18",
+      "album": {
         "name": "Ranjheya",
         "url": "https://open.spotify.com/album/6GEYYn428QWQmyfFXApn1s"
       },
@@ -887,6 +887,26 @@
       "duration_ms": 158617,
       "name": "Ranjheya",
       "url": "https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl"
+    },
+    {
+      "added_at": "2025-06-13 06:02:18",
+      "album": {
+        "name": "Hum Dono",
+        "url": "https://open.spotify.com/album/6yMsDsBz0KHlcuusvN8blz"
+      },
+      "artists": [
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "duration_ms": 157419,
+      "name": "Hum Dono",
+      "url": "https://open.spotify.com/track/09wRRnGNVkBFBVvUdatj7i"
     },
     {
       "added_at": "2025-06-13 06:02:18",
@@ -911,26 +931,6 @@
       "duration_ms": 168421,
       "name": "Piya Ji",
       "url": "https://open.spotify.com/track/020y6Y5I0VaZUqUIYcm8oF"
-    },
-    {
-      "added_at": "2025-06-13 06:02:18",
-      "album": {
-        "name": "Hum Dono",
-        "url": "https://open.spotify.com/album/6yMsDsBz0KHlcuusvN8blz"
-      },
-      "artists": [
-        {
-          "name": "somanshu",
-          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
-        },
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        }
-      ],
-      "duration_ms": 157419,
-      "name": "Hum Dono",
-      "url": "https://open.spotify.com/track/09wRRnGNVkBFBVvUdatj7i"
     },
     {
       "added_at": "2025-06-13 06:02:18",

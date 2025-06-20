@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX803vyzYHRCn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/iammilanrouge/">Milan Harris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,770 likes - 49 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,773 likes - 49 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX803vyzYHRCn.md) - [plain]
 | 48 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
 | 49 | [So Special](https://open.spotify.com/track/1phfqF2ZNrLAOMFuLb0ZsN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 3:52 |
 
-Snapshot ID: `AAAAAPdBhszl7b7yftul26mbCSB/I8Re`
+Snapshot ID: `ZWkwEAAAAABEkDbe/fJbEaVSbOLxKI8U`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,074 likes - 83 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,088 likes - 83 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 35 | [Stuck In My Head](https://open.spotify.com/track/35N9LmzkCjMd2ZmAATzG6U) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Stuck In My Head](https://open.spotify.com/album/10e9Xt5aK3eye5TyNb8vx1) | 3:17 |
 | 36 | [CULT](https://open.spotify.com/track/2eZYy3U7eIsjkCnjFfCfV1) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [CULT](https://open.spotify.com/album/3OunieXgYXWUVS4f5HdjoS) | 3:06 |
 | 37 | [NO HOSTAGES](https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [NO HOSTAGES](https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO) | 3:03 |
-| 38 | [Comatose](https://open.spotify.com/track/3vfpG6sl3sTlj7Do56QwVg) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Comatose](https://open.spotify.com/album/7qiHqXCCnwSzWikEfeCANm) | 3:22 |
+| 38 | [Comatose](https://open.spotify.com/track/3vfpG6sl3sTlj7Do56QwVg) | [VIIZERO7](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Comatose](https://open.spotify.com/album/7qiHqXCCnwSzWikEfeCANm) | 3:22 |
 | 39 | [CONTROL BABY](https://open.spotify.com/track/5vQZx1fJP94gDdECHuI4ZR) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [TRUST CEREMONY](https://open.spotify.com/album/0qlhHGeAVsdJNiKJbHFuEY) | 3:19 |
 | 40 | [Death By Entertainment](https://open.spotify.com/track/18Cw4ObhnZl13oRVbWBHkh) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Evenfall](https://open.spotify.com/album/2YeM6NqqTAtcb3kQNFLOKY) | 3:31 |
 | 41 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 82 | [Everyone I please hates me](https://open.spotify.com/track/1KaZWvFJELretod1Gk98nS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [I'm cool...I guess](https://open.spotify.com/album/5duNYF5T14CMxB4V3ps9lA) | 4:44 |
 | 83 | [Vegas Days](https://open.spotify.com/track/2GihXKy7Y9dF3JEs33p4db) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Vegas Days](https://open.spotify.com/album/3iDz7wS8M2d2rZDSoRKqxj) | 3:27 |
 
-Snapshot ID: `aDvQZAAAAABJTDle7YpH7KPXnrwMO/d6`
+Snapshot ID: `aDvQZAAAAAAQ+gvlePCHIzpf5CrzQ+5p`

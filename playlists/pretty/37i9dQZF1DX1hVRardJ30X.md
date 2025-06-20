@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Hamilton, Randy, Tokischa  and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,761 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,812 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [IMPOSIBLE](https://open.spotify.com/track/3vHn11WvOcv3vYG0ZpQd3I) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Argenis Ruiz](https://open.spotify.com/artist/5RE7YMfqaXY9YV1VpaiCUW) | [IMPOSIBLE](https://open.spotify.com/album/1rahrfsDeqESpYVqjyLPEg) | 3:28 |
 | 50 | [VEN](https://open.spotify.com/track/2HOyTAN9AzYSDrDLJtWjg1) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [VEN](https://open.spotify.com/album/4u70tnidSR0T5L5I4qdb8e) | 2:41 |
 
-Snapshot ID: `aEuicgAAAABeK4vMIj1EdfhzXPXkCnC7`
+Snapshot ID: `aEuicgAAAAAe4LARMYvrMydxPtV1V2jH`

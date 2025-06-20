@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Sabrina Carpenter
+> The UK's biggest playlist\. Cover: Skye Newman
 
 328 songs - 17 hr 23 min
 

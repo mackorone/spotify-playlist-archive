@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Superfly
 
-3,141 songs - 8 day 8 hr 45 min
+3,142 songs - 8 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1735,7 +1735,7 @@
 | [Wedding Day](https://open.spotify.com/track/26nJDSHlB0xWTccvL2icjU) | [平原綾香](https://open.spotify.com/artist/2dG2McYlq4NOdcDSsDhzPQ) | [Wedding Day](https://open.spotify.com/album/7D12WuEP2z05yqK5hgnAO3) | 3:27 | 2023-06-06 | 2023-06-08 |
 | [week by week](https://open.spotify.com/track/0QVLNhGF8DhiR2a0uUIJ29) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [MOMENT](https://open.spotify.com/album/2OEsoLGGkvkAt0gThjpO7t) | 3:19 | 2025-04-01 | 2025-04-09 |
 | [WEEKEND](https://open.spotify.com/track/2AJNDcXp8IwJ48IL868i92) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [WEEKEND](https://open.spotify.com/album/6itx7fTirph9qbUKidhIoQ) | 3:28 | 2022-06-02 | 2022-07-20 |
-| [weekly](https://open.spotify.com/track/6DeyonC0kWc9WmHo5PilOA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [weekly](https://open.spotify.com/album/6cc8K3u6TSuN2gOWGFGNpf) | 2:38 | 2025-04-29 |  |
+| [weekly](https://open.spotify.com/track/6DeyonC0kWc9WmHo5PilOA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [weekly](https://open.spotify.com/album/6cc8K3u6TSuN2gOWGFGNpf) | 2:38 | 2025-04-29 | 2025-06-20 |
 | [Wellmade](https://open.spotify.com/track/4c3w3gcinYMP7NiAGr9o30) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Wellmade](https://open.spotify.com/album/3hfhcnGgl5jypAv4eKxkOK) | 4:21 | 2022-11-29 | 2022-12-07 |
 | [What a View](https://open.spotify.com/track/4xeDgkZZMm7e42KRhgynhe) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [I Want to See You So Badly](https://open.spotify.com/album/5AvOgLo5tbPdTxwO1OYB00) | 2:04 | 2023-02-28 | 2023-03-08 |
 | [What the Hell](https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell](https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN) | 4:08 | 2023-11-28 | 2023-12-06 |
@@ -2338,6 +2338,7 @@
 | [マニマニ](https://open.spotify.com/track/7lFjSK6lMzWOLAF0yAoo21) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [マニマニ](https://open.spotify.com/album/75z3f76IhJjL2QgaOMmGg0) | 3:40 | 2024-05-28 | 2024-06-05 |
 | [マルボロ](https://open.spotify.com/track/2ExTNmGAfJqiYnfKjCfbYW) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:53 | 2025-01-07 | 2025-01-15 |
 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 | 2023-07-04 | 2024-01-11 |
+| [マーメイド](https://open.spotify.com/track/5pbnirxLNGIFSwXQlNur4N) | [ささ。](https://open.spotify.com/artist/7aeAmmGrR1nXyZxH67rH1I), [神が残した夢を喰う。](https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o) | [マーメイド](https://open.spotify.com/album/3Zem34Fu282zthdTKWHkCQ) | 3:58 | 2025-06-17 |  |
 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 | 2022-05-29 | 2023-09-13 |
 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 | 2022-11-03 | 2024-03-20 |
 | [ミナミノシマ\(架空\)](https://open.spotify.com/track/7f5PBGyrpm9Ud75Hdpn8qg) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [あおい12 さい](https://open.spotify.com/artist/45NFBA81HM95r4kloukQOZ) | [ミナミノシマ\(架空\)](https://open.spotify.com/album/7eCpcPVSUXuWESh50o306d) | 3:22 | 2022-08-30 | 2022-09-01 |

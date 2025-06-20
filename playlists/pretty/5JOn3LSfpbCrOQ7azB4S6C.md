@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,705 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,699 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 | 24 | [Now Is The Start](https://open.spotify.com/track/10Jy0e8zlU7Q70tR2MnWcd) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [Now Is The Start](https://open.spotify.com/album/3nmBLCDePUMHUk7TUO8rsU) | 4:46 |
 | 25 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/4q7dBdsALA5BSunzryc104) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be the One \(Avicii vs\. Nicky Romero\)](https://open.spotify.com/album/4Xn3jf19ktN3c6pDEGvSIo) | 3:28 |
 | 26 | [Deathwish](https://open.spotify.com/track/3XQfWG8fVuL3Do6C7a7asb) | [Bebe Black](https://open.spotify.com/artist/5Hq1Wd8EWM4xqTriypkCsD) | [Deathwish](https://open.spotify.com/album/0VSPlUL3g1GrilHrLEPROo) | 3:41 |
-| 27 | [Channel 42](https://open.spotify.com/track/2EFjA0bQbpIseUlPHCeIil) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [> Album Title Goes Here <](https://open.spotify.com/album/5cpwmGEav9fYtQi33w0YTj) | 4:51 |
+| 27 | [Channel 42](https://open.spotify.com/track/2EFjA0bQbpIseUlPHCeIil) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [> album title goes here <](https://open.spotify.com/album/5cpwmGEav9fYtQi33w0YTj) | 4:51 |
 | 28 | [One Finger and a Fist](https://open.spotify.com/track/3nEEr9OJ6ikZUJgVOUHcIl) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [One Finger and a Fist](https://open.spotify.com/album/75xWtN8icvxpEDGfgFCvdZ) | 3:06 |
 | 29 | [Please Don't Say You Love Me](https://open.spotify.com/track/4y0GYqBSHEy7e1FOemdLjK) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Please Don't Say You Love Me](https://open.spotify.com/album/18Ni6bqSaSdui11feMiZxA) | 3:01 |
 | 30 | [Secular Haze](https://open.spotify.com/track/1raeiEiXqXcz0eWEkqlrFw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Secular Haze](https://open.spotify.com/album/3TePSB5AqweypLeQwffHlT) | 5:08 |

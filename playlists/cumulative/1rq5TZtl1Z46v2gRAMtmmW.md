@@ -4,7 +4,7 @@
 
 > 
 
-416 songs - 1 day 3 hr 40 min
+418 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Call It Love](https://open.spotify.com/track/1XYby0uDKyROqB5nWWdSOv) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 4:53 | 2024-07-10 | 2024-09-28 |
 | [Camouflage](https://open.spotify.com/track/3HQtrJOoNZjIzIxxNMev0b) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [New Internationale](https://open.spotify.com/album/1ZPLPEVm0f3SSBiDPJZjfx) | 3:55 | 2024-09-27 | 2025-03-05 |
 | [Can We Still Be Friends?](https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Can We Still Be Friends?](https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC) | 4:03 | 2022-05-24 | 2022-10-21 |
+| [Canela Pura](https://open.spotify.com/track/4LNRYNVYULwOSTG6n9lhwi) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Canela Pura](https://open.spotify.com/album/6atxL3AIxGni66ZRtqhku5) | 3:00 | 2025-06-19 |  |
 | [Can’t Dance](https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Can’t Dance](https://open.spotify.com/album/6d9UYPSFq48ckVTCoUjIio) | 3:04 | 2024-08-13 | 2025-04-01 |
 | [CAPONE](https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [4\#TRAX](https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn) | 3:19 | 2023-10-27 | 2024-05-02 |
 | [career day \- Exaktly remix](https://open.spotify.com/track/0tl8pZGQFLfc55G19RHk03) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [career day \(Exaktly remix\)](https://open.spotify.com/album/17FRYdAB2RID2osUWZRroU) | 4:21 | 2024-08-07 | 2024-10-10 |
@@ -112,6 +113,7 @@
 | [DJ Friendly](https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26) | 4:40 | 2023-08-31 | 2024-02-16 |
 | [DJ Friendly \- Chloé Robinson + DJ ADHD Remix](https://open.spotify.com/track/5mvz45UH2VYwENCnzXjBVY) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [DJ Friendly \(Chloé Robinson + DJ ADHD Remix\)](https://open.spotify.com/album/0iZ89vX6yYOPizSvZ6frTW) | 5:11 | 2023-12-19 | 2024-05-11 |
 | [Do It Like Me](https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 3:15 | 2025-03-24 |  |
+| [DON’T LISTEN](https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [DON’T LISTEN](https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN) | 2:57 | 2025-06-19 |  |
 | [Don’t Lose Time](https://open.spotify.com/track/3I1CfmUZZrLAyYY4zm409Y) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Don’t Lose Time](https://open.spotify.com/album/4LertToXpmjRS34cm3TrUq) | 6:13 | 2023-01-20 | 2023-02-15 |
 | [DOPAMINE](https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [DOPAMINE](https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By) | 2:49 | 2025-04-01 |  |
 | [Doubletap](https://open.spotify.com/track/7jGCiFHR79XMX4itdaHiFv) | [Jordan Gardner](https://open.spotify.com/artist/5OeFlYDG6tiOT810MprDQv), [Martyn Bootyspoon](https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC) | [Doubletap](https://open.spotify.com/album/2uSidtx5ambTWR3lQW9FJ4) | 4:48 | 2024-06-19 | 2024-09-11 |

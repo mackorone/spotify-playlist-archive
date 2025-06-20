@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Aditya Rikhari
 
-352 songs - 19 hr 45 min
+354 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Chad Gayi](https://open.spotify.com/track/4YLD5sgxNXXhDrb0Jltp01) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Chad Gayi](https://open.spotify.com/album/7J3VIh1bQTiYvM8yO72l8Z) | 3:39 | 2022-05-20 | 2023-02-07 |
 | [Chai and Sunshine](https://open.spotify.com/track/4MU0QH6w1HZ64ZPFXh3qg4) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Yanchan Produced](https://open.spotify.com/artist/4GKSZvPRVHCR8TrVVWu9HH) | [Chai and Sunshine](https://open.spotify.com/album/5FaDco89rs2DQjsaY0ugLR) | 2:25 | 2025-01-09 | 2025-05-31 |
 | [Cham Cham](https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R) | [Cham Cham](https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx) | 3:46 | 2024-01-12 | 2024-04-09 |
+| [CHAN MAHIYA](https://open.spotify.com/track/5oln63FrKz5uhd6EQt07Es) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [CHAN MAHIYA](https://open.spotify.com/album/3OqPMuRZBTqCfSGh4oUBuM) | 2:21 | 2025-06-19 |  |
 | [Channa](https://open.spotify.com/track/7fHAFcK5IDBlbJMfWuHtYr) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Channa](https://open.spotify.com/album/7HgMJAC8wHOLBGtUmINtCV) | 3:16 | 2024-02-23 | 2024-07-27 |
 | [Cheese](https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cheese](https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG) | 3:15 | 2022-05-20 | 2023-01-21 |
 | [Chhodo Kalaiya](https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Chhodo Kalaiya](https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ) | 3:13 | 2022-06-20 | 2023-02-27 |
@@ -267,6 +268,7 @@
 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-05-20 | 2023-03-18 |
 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 | 2023-11-14 | 2023-11-30 |
 | [Saanjh](https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Saanjh](https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8) | 4:42 | 2023-06-27 | 2023-07-15 |
+| [Saat Din](https://open.spotify.com/track/460aVPwkgwa0rCEP9RbQRS) | [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Saat Din](https://open.spotify.com/album/4VgwV8mizo2Wdri3650zZs) | 3:35 | 2025-06-19 |  |
 | [Saawan](https://open.spotify.com/track/7udmtuYHCGp0ImJAncUj1q) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Saawan](https://open.spotify.com/album/0OBagpEC0U7iCLzITGnlAu) | 3:51 | 2022-09-16 | 2022-12-29 |
 | [Saawariya](https://open.spotify.com/track/4WUjl8l3t5yg2JCGeYa7DV) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saawariya](https://open.spotify.com/album/1PRfv8sVJ5hIxwN2nunPha) | 3:22 | 2023-02-26 | 2023-04-29 |
 | [Saaye](https://open.spotify.com/track/40H5kKnRnnzf31N5UiECJL) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saaye](https://open.spotify.com/album/0J3TKBNNYzrev70LxTKziX) | 3:32 | 2022-05-20 | 2024-02-20 |

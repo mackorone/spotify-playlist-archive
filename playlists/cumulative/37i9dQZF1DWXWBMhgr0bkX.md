@@ -2,9 +2,9 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Homegrown talent feat\. Greta Isaac as Dolly Zoom 🏁
+> Homegrown talent feat\. Alessi Rose
 
-537 songs - 1 day 3 hr 32 min
+543 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Back In My Bed](https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Y2J!](https://open.spotify.com/artist/4j9xWaq0mEloOvk8GW6aNb) | [Back In My Bed](https://open.spotify.com/album/5oKNITqLnzMlc1B0733IKd) | 2:23 | 2025-05-29 | 2025-06-06 |
 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 | 2024-11-22 | 2025-02-07 |
 | [backwards loving](https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [backwards loving](https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4) | 3:52 | 2025-03-21 | 2025-04-11 |
+| [Bad](https://open.spotify.com/track/4HaPoW6VbjC0iWBsuAmw5z) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Bad](https://open.spotify.com/album/3mu4Y69CWMH21RNGDzt9Eu) | 2:32 | 2025-06-19 |  |
 | [Bad Boys](https://open.spotify.com/track/2gpc06jcsNbftjUm0YmoIj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [sooyeon](https://open.spotify.com/artist/1RyvftKC2NYyu8GOkM0qQ3) | [Bad Boys](https://open.spotify.com/album/4XiDBMmpSGoFDFVu03870u) | 1:54 | 2025-03-28 | 2025-04-04 |
 | [Bad Guy](https://open.spotify.com/track/4MNtdN4HlTVQlBBM5fLIQP) | [Sweet Love](https://open.spotify.com/artist/7d9dknRT5j9nng6ACdLCfq) | [Bad Guy](https://open.spotify.com/album/57boUEqytRwqeqtZwBux7r) | 3:00 | 2025-04-10 | 2025-04-25 |
 | [beast](https://open.spotify.com/track/1OSeiaTnrxOyb5zFsCiEIw) | [LALA HAYDEN](https://open.spotify.com/artist/54K6X7R6KvbCryoGE5Dufn) | [viva venus](https://open.spotify.com/album/1iJlcjIoqL9GFY5Gmsf1TE) | 4:07 | 2025-04-10 | 2025-05-02 |
@@ -108,6 +109,7 @@
 | [Cherry Bomb](https://open.spotify.com/track/3UfNmawPadF3k41MMjmm4Q) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [Cherry Bomb](https://open.spotify.com/album/6ksYHL0NSlZR5jTNgLA21w) | 3:01 | 2025-05-22 | 2025-06-06 |
 | [Church in the Morning](https://open.spotify.com/track/3xSRAS1Phe2NuC6xq7IS9V) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Church in the Morning](https://open.spotify.com/album/3JGjyCYhWBO9aVnUBdrDUE) | 2:38 | 2025-04-07 | 2025-05-02 |
 | [Climbing Boots](https://open.spotify.com/track/1EmHM2EFSLgOFfroKd8Gju) | [James McVey](https://open.spotify.com/artist/1LXsEmvNi2vdi1oOfVTK3r) | [Climbing Boots](https://open.spotify.com/album/72n4QC6ANllRa4FFLbxJ1r) | 3:30 | 2025-04-17 | 2025-05-09 |
+| [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-19 |  |
 | [clover](https://open.spotify.com/track/2xUMt6RPghz7Bn26LDAuCX) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [clover](https://open.spotify.com/album/3MRQgU4tdcLOuXtFaomOSS) | 3:03 | 2025-03-14 | 2025-04-11 |
 | [collarbone](https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [collarbone](https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP) | 3:09 | 2025-05-01 | 2025-05-23 |
 | [come to the party](https://open.spotify.com/track/2oKL87EkBCiTowV1ZCgZIh) | [ISABELLA](https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q), [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [come to the party](https://open.spotify.com/album/5RgWoL5eiTQPFfj7wf9Zer) | 2:14 | 2025-03-21 | 2025-04-11 |
@@ -367,8 +369,10 @@
 | [no contact](https://open.spotify.com/track/3RBsK8PzQH8Bo09vi9mAeI) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [no contact](https://open.spotify.com/album/68Wm1wse38WrDG9B50mwUh) | 3:11 | 2025-05-15 | 2025-06-06 |
 | [No Place Like You](https://open.spotify.com/track/5ymenEwTMYQ0Qjj3hu0bWs) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [No Place Like You](https://open.spotify.com/album/6405c6m9bzga6WHRpFRBdz) | 3:36 | 2025-01-17 | 2025-02-21 |
 | [Nostalgic](https://open.spotify.com/track/0GOFwHGJxHHNFhlDKEnCht) | [Eiza Murphy](https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9) | [Nostalgic](https://open.spotify.com/album/7ECV25SOu9xdBJitm5jqea) | 3:16 | 2025-04-03 | 2025-04-18 |
+| [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 | 2025-06-19 |  |
 | [nothing holy is free](https://open.spotify.com/track/2L6346dUqtqPvXj0CbthlR) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [NOTHING HOLY IS FREE](https://open.spotify.com/album/7s8ZJyK9Zqz1YTTFZnwmno) | 4:07 | 2025-02-28 | 2025-03-21 |
 | [nothing stays the same](https://open.spotify.com/track/1G5BjlSpXHxNYrekbizoqB) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [nothing stays the same](https://open.spotify.com/album/5LwN7m2X4JWl0k3Pcpky1v) | 3:49 | 2025-04-22 | 2025-05-16 |
+| [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 | 2025-06-19 |  |
 | [oh my](https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [oh my](https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb) | 3:23 | 2024-09-19 | 2025-01-10 |
 | [okay cool](https://open.spotify.com/track/56Vxhry0axfjZN667iHCMZ) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [okay cool](https://open.spotify.com/album/5z27JiuMszAKGSUkfRVsNg) | 2:32 | 2025-02-21 | 2025-03-21 |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-05-16 |
@@ -388,6 +392,7 @@
 | [Pest](https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:06 | 2025-05-15 | 2025-06-06 |
 | [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 | 2025-04-03 | 2025-04-25 |
 | [Placeholder](https://open.spotify.com/track/6KOsYQ838Oj3pFkLdmmVkm) | [Niamh Evans](https://open.spotify.com/artist/1dpHLLXAn9isdaN15qcGLk) | [Placeholder](https://open.spotify.com/album/07ecydcRbFGRfYKd4BvBqO) | 3:11 | 2025-04-03 | 2025-04-18 |
+| [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 | 2025-06-19 |  |
 | [Plasticine](https://open.spotify.com/track/18L1aGbJenvVoDsXyv85NO) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Don't Tell The Dog](https://open.spotify.com/album/2da40GDH3ygPRRoJc8n7WG) | 3:02 | 2025-06-12 |  |
 | [play dumb](https://open.spotify.com/track/6RWQDZzsJxGuWaQkDz6wms) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj), [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [play dumb](https://open.spotify.com/album/52Yl4If8vcadAmxKGZ2KxW) | 2:54 | 2025-05-22 |  |
 | [Polari](https://open.spotify.com/track/0EBqoXXf1J6hj4Hhs1rZc7) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Polari](https://open.spotify.com/album/2vo3u4aHoJPcwrmwOBDrId) | 1:27 | 2024-11-22 | 2025-01-17 |
@@ -487,6 +492,7 @@
 | [TALES OF A TWENTY SOMETHING](https://open.spotify.com/track/1NTTLmNKj9FZSL40Ouwudu) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [TALES OF A TWENTY SOMETHING](https://open.spotify.com/album/0eqhKrOcjnDnJNQTi3zGkD) | 2:55 | 2024-08-08 | 2024-12-06 |
 | [Taste](https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Taste](https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA) | 2:50 | 2025-05-08 | 2025-05-16 |
 | [Teenage Kinda Love](https://open.spotify.com/track/4gXjYIj0CNWCrzjUeHS3k3) | [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Wings](https://open.spotify.com/album/4yvBDAt1TOrdW0gPYgZJ3T) | 3:42 | 2024-06-04 | 2024-09-06 |
+| [That Could Be Me](https://open.spotify.com/track/6f8IO8eT70DlP1JsN2bjcm) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [That Could Be Me](https://open.spotify.com/album/2zzGDctvygFHOKpEQBS3MN) | 3:17 | 2025-06-19 |  |
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-10 | 2025-04-25 |
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-15 | 2025-06-06 |
 | [The Garden](https://open.spotify.com/track/5V6dYUrFOrRBH86n6OVtDF) | [Annabel Jones](https://open.spotify.com/artist/5koilOAvfuLq4O2yc9UWft) | [The Garden](https://open.spotify.com/album/4VapTMsZr8tsnmjpYir7tN) | 4:10 | 2025-04-17 | 2025-05-09 |
@@ -508,7 +514,7 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 |  |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
-| [Trust Issues](https://open.spotify.com/track/5TIilhHzXMxkFTfZQk94Mz) | [Rachel Newnham](https://open.spotify.com/artist/3fzDJ5NVbesIIRCl7HuQyP) | [Trust Issues](https://open.spotify.com/album/4lfCxwDlQ4ZdpDwQyNxbC9) | 2:43 | 2025-05-22 |  |
+| [Trust Issues](https://open.spotify.com/track/5TIilhHzXMxkFTfZQk94Mz) | [Rachel Newnham](https://open.spotify.com/artist/3fzDJ5NVbesIIRCl7HuQyP) | [Trust Issues](https://open.spotify.com/album/4lfCxwDlQ4ZdpDwQyNxbC9) | 2:43 | 2025-05-22 | 2025-06-20 |
 | [Trust U](https://open.spotify.com/track/7JqopONmTj2Wdd4hlCT5a9) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Trust U](https://open.spotify.com/album/78U64z2IRUy1cPv1VAhEfa) | 2:30 | 2024-06-04 | 2024-09-28 |
 | [TRUTH DARES](https://open.spotify.com/track/6v5idSBv62Ps5UTtn2UdSM) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [BUTTERFLY TO A FLAME](https://open.spotify.com/album/039s679sGg1czeDaW17El4) | 3:48 | 2025-04-24 | 2025-05-16 |
 | [TV Show](https://open.spotify.com/track/1z7bP3RDABUmcONZNAnxN3) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [TV Show](https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI) | 3:17 | 2025-06-12 |  |

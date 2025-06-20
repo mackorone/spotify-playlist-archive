@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-395 songs - 20 hr 32 min
+396 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Signs \- Sped Up](https://open.spotify.com/track/01GqGjLGRvDjbclq4bgHiv) | [NAYM](https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc) | [Signs](https://open.spotify.com/album/1QVAxYd4fdoeNnJc7ECecj) | 3:09 | 2025-03-28 |  |
 | [Silence](https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw) | [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU), [N3b](https://open.spotify.com/artist/3txu4jfa4aSLBjikFcTcWm) | [Silence](https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ) | 3:26 | 2024-09-23 |  |
 | [Sinister](https://open.spotify.com/track/5UJe4xKCeK9LshHzyoxMmy) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [SVRT](https://open.spotify.com/artist/0IMi6kEmTfnK7LylEoy59Z), [Chilly](https://open.spotify.com/artist/68XjmGeWauzvqJuWYMuxtA) | [Sinister](https://open.spotify.com/album/2FGXfyoyL7GtjF6Gu69b9e) | 2:55 | 2023-08-10 |  |
+| [Sirens](https://open.spotify.com/track/6FVWvpApDE9hSbWDcPhfb3) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Amber Jay](https://open.spotify.com/artist/7DLxDPwjWekXl5meKBu2Ob) | [Sirens](https://open.spotify.com/album/4y1FYMRG7RWebnQuACdKDw) | 4:34 | 2025-06-19 |  |
 | [SKY BRI](https://open.spotify.com/track/1coVU0d7tAtEfvfT6Oatwy) | [ALVYN](https://open.spotify.com/artist/3lS0YzBEO1IglsFgrAMSrE), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [SKY BRI](https://open.spotify.com/album/4NtUUouJ4lRqrju5xQXShZ) | 1:47 | 2023-08-10 | 2023-12-09 |
 | [SLASH](https://open.spotify.com/track/6fYk1h3xgXatisxwR5G77O) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH](https://open.spotify.com/album/5ml9nZdFPLJdUdWT8nf0Dx) | 4:11 | 2022-10-28 | 2023-08-11 |
 | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH) | 4:11 | 2022-02-03 | 2022-10-29 |

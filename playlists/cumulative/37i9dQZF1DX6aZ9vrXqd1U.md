@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-370 songs - 1 day 1 hr 7 min
+371 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Believe](https://open.spotify.com/track/3HHjjYG0zXaesYKfJgwjkK) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Believe](https://open.spotify.com/album/6uRMVRVi7VhwAR5e5YM7eJ) | 3:56 | 2022-07-27 | 2022-11-13 |
 | [Beyond Determination \(I\_037A\)](https://open.spotify.com/track/5wKjxMezhcQdtsL2Y5rhX1) | [Seigen Tokuzawa](https://open.spotify.com/artist/5gemsSuKIOTWdBQDf3XtDW) | ["Mobile Suit Gundam GQuuuuuuX" Original Motion Picture Soundtrack \(Advance Release Version1\)](https://open.spotify.com/album/62qqoKizWorbHZMnAvUiua) | 1:49 | 2025-06-09 |  |
 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/7i1xVKKkHExSqUO7zhnsOW) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック](https://open.spotify.com/album/0ZfXlmkU5NfEglCCZLpxjx) | 4:51 | 2022-07-27 |  |
+| [BEYOND THE TIME \(メビウスの宇宙を越えて\) \-2025 Short Edit\-](https://open.spotify.com/track/2WVSXwLzpW8cbyq7q17Qm3) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [BEYOND THE TIME \(メビウスの宇宙を越えて\) \-2025 Version\-](https://open.spotify.com/album/6RQEruKEbGUMQWeMkvz3cB) | 1:47 | 2025-06-20 |  |
 | [Black stars](https://open.spotify.com/track/6f8fyWFdT5XF6asMCPfkog) | [Sumitada Azumano](https://open.spotify.com/artist/1wpB29iz5G3iFDyk4xNZiU) | [Black stars](https://open.spotify.com/album/1FNFSivA9BhWTF0GzvTrB6) | 4:31 | 2023-04-21 | 2024-01-12 |
 | [Black stars](https://open.spotify.com/track/2gQ60rwqTxbsCmYoB0lFiq) | [東野純直](https://open.spotify.com/artist/4QIC8bQUoHTgJrlEqoBm0W) | [Black stars](https://open.spotify.com/album/65HIXno1RLhm6UOgyu5Pj7) | 4:31 | 2022-07-27 | 2023-06-18 |
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-07-27 |  |

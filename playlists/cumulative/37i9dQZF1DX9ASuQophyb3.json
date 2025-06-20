@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Funda Arar x Amo988",
+  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Simge",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Bir G\u00fcle Kand\u0131m",
+        "url": "https://open.spotify.com/album/7lYWTf5SfHr9JE6QuFHKVu"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer",
+          "url": "https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188645,
+      "name": "Bir G\u00fcle Kand\u0131m",
+      "url": "https://open.spotify.com/track/5hueYvvC33fq6N5C38Gm7M"
+    },
+    {
+      "album": {
         "name": "Bir G\u00fcn Ol Yerimde",
         "url": "https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b"
       },
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 141066,
       "name": "Felaket",
       "url": "https://open.spotify.com/track/3oFew1USP4dXQxDsivrTO0"
@@ -1845,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "G\u00fclme Sevgilim",
+        "url": "https://open.spotify.com/album/2o4F9OlxwQq4OLWeSOSKYv"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan \u00d6zen",
+          "url": "https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214990,
+      "name": "G\u00fclme Sevgilim",
+      "url": "https://open.spotify.com/track/1tq2g22lv833CTgldH1Jv0"
+    },
+    {
+      "album": {
         "name": "G\u00fcl\u00fc\u015f\u00fcnde Bi' \u015eeyler Sakl\u0131",
         "url": "https://open.spotify.com/album/04a9Z16kXcdSeFJKaCsEho"
       },
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 154677,
       "name": "HAD\u0130",
       "url": "https://open.spotify.com/track/7pfc8CKlDyrQAflMFD7qyJ"
@@ -2379,6 +2415,28 @@
     },
     {
       "album": {
+        "name": "kollar\u0131n\u0131 bana sar",
+        "url": "https://open.spotify.com/album/55wQUAL8sjEEmDEvYNeFxE"
+      },
+      "artists": [
+        {
+          "name": "I\u015f\u0131l Ayman",
+          "url": "https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0"
+        },
+        {
+          "name": "Batuhan Kordel",
+          "url": "https://open.spotify.com/artist/53GzfAvawfKb966INeFp18"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165862,
+      "name": "kollar\u0131n\u0131 bana sar",
+      "url": "https://open.spotify.com/track/6R3RZMfvNJ39wGrwVLX5rU"
+    },
+    {
+      "album": {
         "name": "Konsun Bir Ku\u015f Gibi",
         "url": "https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75"
       },
@@ -2462,7 +2520,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 146517,
       "name": "KTS",
       "url": "https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK"
@@ -2805,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Mucize",
+        "url": "https://open.spotify.com/album/3rLShAcaMZZls5uZx7bPE4"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157191,
+      "name": "Mucize",
+      "url": "https://open.spotify.com/track/6zfnaEJ1e2pQULGX5Qm3to"
+    },
+    {
+      "album": {
         "name": "M\u00fcptelan\u0131m Bilgine",
         "url": "https://open.spotify.com/album/0wnXAeVnoF5hmh3kqKq4ka"
       },
@@ -2968,7 +3044,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 158000,
       "name": "Olmaz M\u0131",
       "url": "https://open.spotify.com/track/77BVrNAmXhm6ZSaD0i4rU3"
@@ -3277,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Sen Anlamazs\u0131n",
+        "url": "https://open.spotify.com/album/3ZoTNMvjTmVSAVt7FOTh3s"
+      },
+      "artists": [
+        {
+          "name": "G\u00fclden",
+          "url": "https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "Sen Anlamazs\u0131n",
+      "url": "https://open.spotify.com/track/0gpRP7BZ3sfNeZb38CJ3QK"
+    },
+    {
+      "album": {
         "name": "Sen de S\u00f6yle",
         "url": "https://open.spotify.com/album/5meOKGvKMs8Qm4JoJ4kyuT"
       },
@@ -3487,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "Sessiz F\u0131rt\u0131na",
+        "url": "https://open.spotify.com/album/73eBesaXsxW6zexMH331a9"
+      },
+      "artists": [
+        {
+          "name": "\u0130lyas Yal\u00e7\u0131nta\u015f",
+          "url": "https://open.spotify.com/artist/2ekGsQEkeMtYFA16Jjes2M"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225142,
+      "name": "Sessiz F\u0131rt\u0131na",
+      "url": "https://open.spotify.com/track/0sfgJXWsej1M4ukTkI9tPU"
+    },
+    {
+      "album": {
         "name": "Seviyo",
         "url": "https://open.spotify.com/album/7spX1BnxlvDE02ddAgaYps"
       },
@@ -3534,7 +3646,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 125181,
       "name": "Seviyorum Sevmiyorum",
       "url": "https://open.spotify.com/track/59Y3fqKKlBFcoA6huDHBP3"
@@ -3810,7 +3922,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 294300,
       "name": "Vaktimiz Dar Sevgilim",
       "url": "https://open.spotify.com/track/61J7Zh1Nj0vCive6SKdy7O"

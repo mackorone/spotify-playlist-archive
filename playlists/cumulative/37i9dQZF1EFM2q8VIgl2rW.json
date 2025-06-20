@@ -1081,6 +1081,44 @@
     },
     {
       "album": {
+        "name": "Rent (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/0QH3U1gyoxNrIM7M8amRpi"
+      },
+      "artists": [
+        {
+          "name": "Anthony Rapp",
+          "url": "https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR"
+        },
+        {
+          "name": "Adam Pascal",
+          "url": "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        {
+          "name": "Jesse L. Martin",
+          "url": "https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Daphne Rubin-Vega",
+          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        {
+          "name": "Fredi Walker",
+          "url": "https://open.spotify.com/artist/4ZM2YJ9lAgQsmPmKTN6oi3"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330040,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/0Ip05myEt3l3piagk5xZei"
+    },
+    {
+      "album": {
         "name": "Finding Nemo: The Musical",
         "url": "https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC"
       },

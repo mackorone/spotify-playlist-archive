@@ -4,7 +4,7 @@
 
 > sexy afrobeats
 
-139 songs - 7 hr 3 min
+140 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 | 2024-02-09 | 2024-04-19 |
 | [Compromise](https://open.spotify.com/track/6wVEuSE1LpdkJjGOfcHDof) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [3XL](https://open.spotify.com/album/0gpV00scuKXAA6m5GH6wvd) | 2:41 | 2025-05-16 |  |
 | [DARK HORSE \(FREESTYLE\)](https://open.spotify.com/track/1x4GbgellXF8z7JAqWhOua) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH), [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Jake Cromwell](https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh) | [CESSY 2PIECE](https://open.spotify.com/album/2V9eYBqCGlGCOuUHcc6lH7) | 2:18 | 2024-06-28 | 2024-12-07 |
+| [Diamond in the Rough](https://open.spotify.com/track/1PDyQiivbuOGGTxwf6XL3G) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Diamond in the Rough](https://open.spotify.com/album/637gi1okCYO996xTyNDsMP) | 1:51 | 2025-06-20 |  |
 | [Divine Intervention](https://open.spotify.com/track/3wFzFIZFNn0gxYkfdOybqY) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw) | 2:58 | 2024-02-09 | 2024-04-05 |
 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 | 2024-02-09 | 2024-02-22 |
 | [Doing U Better](https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Doing U Better](https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh) | 2:51 | 2024-02-09 | 2025-03-22 |
@@ -51,7 +52,7 @@
 | [Get It \(Oou Wee\)](https://open.spotify.com/track/03TcmxQ6A6IeRb0HE0dTGS) | [Nunu Eluma](https://open.spotify.com/artist/60C5hwoLoFJBdVHx6HZZid), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Get It \(Oou Wee\)](https://open.spotify.com/album/29P2AJTS35lUlsaW6ER6u7) | 2:38 | 2025-02-14 |  |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-23 | 2025-03-22 |
 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 | 2024-02-09 | 2024-07-13 |
-| [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 | 2024-02-23 |  |
+| [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 | 2024-02-23 | 2025-06-20 |
 | [Heart On Fire](https://open.spotify.com/track/1apBZCzXcyW1NUqeUtrldP) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 1:08 | 2024-02-09 |  |
 | [Heat](https://open.spotify.com/track/3KfgASoej5tTxnaB6yVkig) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Noir](https://open.spotify.com/artist/5JKzl6YHvZb50bePL9OcAb) | [Heat](https://open.spotify.com/album/2MVu8eiO2NRdIv54kXHuXl) | 2:18 | 2024-07-12 | 2024-12-17 |
 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 | 2024-02-09 | 2024-06-01 |

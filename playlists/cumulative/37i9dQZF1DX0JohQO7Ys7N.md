@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Muthaka
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Cheruu
 
-274 songs - 15 hr 23 min
+275 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [If You Don't Know](https://open.spotify.com/track/1KWUfVKdBzUY3NAnfGHbRZ) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Nairobi in Love](https://open.spotify.com/album/7f1gWklPYCMk7yotmrn21y) | 3:20 | 2025-02-07 |  |
 | [Ignited](https://open.spotify.com/track/560xVsPybvOmJ0iok2MJGE) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Rafiki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47HCCsYMmSjswC4jLM644r) | 5:45 | 2021-12-28 | 2022-10-28 |
 | [Imia Mor](https://open.spotify.com/track/4kjfnAGaYvr2afZxGB2yyE) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg) | [Blk2541](https://open.spotify.com/album/77yeDBzL9v308FeLoyypPd) | 3:54 | 2021-12-28 | 2022-04-01 |
-| [In Love](https://open.spotify.com/track/5H8VsuRaxPKSSYxmmmuS04) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF), [Nick Agesa](https://open.spotify.com/artist/3908RRjZoX9xUohR7Sqlre) | [TAKE ONE](https://open.spotify.com/album/6Khcp9V99TSaKTsS2Qnq5D) | 4:11 | 2024-05-30 |  |
+| [In Love](https://open.spotify.com/track/5H8VsuRaxPKSSYxmmmuS04) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF), [Nick Agesa](https://open.spotify.com/artist/3908RRjZoX9xUohR7Sqlre) | [TAKE ONE](https://open.spotify.com/album/6Khcp9V99TSaKTsS2Qnq5D) | 4:11 | 2024-05-30 | 2025-06-20 |
 | [in the name of love](https://open.spotify.com/track/2Z8PgUAoQxxdW6NshdJv1Q) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [in the name of love](https://open.spotify.com/album/60IOLifUMf2mvPn2WSwC61) | 2:49 | 2022-04-22 | 2022-10-01 |
 | [Infatuated](https://open.spotify.com/track/6gYNntWr2EDsgTxzl9p6cE) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Jungle Trap](https://open.spotify.com/album/6rdSXm21K45CLRkxFdLQZu) | 3:35 | 2021-12-28 | 2022-02-25 |
 | [Insecure](https://open.spotify.com/track/6dDDPV8S5meV46SamOnDNl) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:10 | 2021-12-28 | 2022-07-30 |
@@ -196,6 +196,7 @@
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-07 | 2024-05-17 |
 | [Penzi Wa Kasi](https://open.spotify.com/track/5YMLJGySuOfRuGJja7LOb8) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb) | 2:44 | 2025-02-13 | 2025-02-21 |
 | [Perfect Design](https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Perfect Design](https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob) | 3:28 | 2025-02-13 | 2025-02-21 |
+| [Pewa](https://open.spotify.com/track/5sggvlcQAAQotkFDmHcMmt) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Pewa](https://open.spotify.com/album/5NHFgvVvnOkrTlGNGPsHSW) | 3:52 | 2025-06-19 |  |
 | [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-23 | 2025-03-14 |
 | [Pick Me Up](https://open.spotify.com/track/5s5cXS6FGVgUpKnvkzPznW) | [Visser O'Brien](https://open.spotify.com/artist/0GIKRKygeFQpKi12hfidcv) | [The Love That Was](https://open.spotify.com/album/6Y5X4f4tdTW6RCeQyzL3ZC) | 3:36 | 2023-10-12 | 2024-01-20 |
 | [Pictures](https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 3:59 | 2021-12-28 | 2023-10-13 |

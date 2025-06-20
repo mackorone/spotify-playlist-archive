@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Nevertel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,494 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,554 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 72 | [Still Playin' For Keeps \(Big Umbrella Remix\)](https://open.spotify.com/track/3xGn1XZ7Jb0g2jPtyXi0Wf) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Jay Royale](https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW), [Pro Dillinger](https://open.spotify.com/artist/27rHpyfeuJ7Rtka10jBojd) | [Still Playin' For Keeps \(Big Umbrella Remix\)](https://open.spotify.com/album/3yjQkaQ9z1yzeej72nsB74) | 3:46 |
 | 73 | [Merciless](https://open.spotify.com/track/3JVa8Bai4qTtm6vkip0IFW) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Merciless](https://open.spotify.com/album/4BMssodRLk2w2YFGGxxGmv) | 3:18 |
 | 74 | [Bomb.com](https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m) | 2:30 |
-| 75 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |
+| 75 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [VIIZERO7](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |
 
 Snapshot ID: `aEuiZgAAAACQ2IBdI7B6v4h5JMqUGj8v`

@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 247034,
+  "num_followers": 247174,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-06-06 03:00:14",
       "album": {
-        "name": "Tour Terral (Tres noches en Las Ventas)",
-        "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 297205,
-      "name": "Qui\u00e9n (feat. Alejandro Sanz) - En directo",
-      "url": "https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E"
-    },
-    {
-      "added_at": "2025-06-06 03:00:14",
-      "album": {
         "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
         "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 316080,
       "name": "La Fuerza Del Coraz\u00f3n - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
       "url": "https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ"
+    },
+    {
+      "added_at": "2025-06-06 03:00:14",
+      "album": {
+        "name": "Tour Terral (Tres noches en Las Ventas)",
+        "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 297205,
+      "name": "Qui\u00e9n (feat. Alejandro Sanz) - En directo",
+      "url": "https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E"
     },
     {
       "added_at": "2025-06-06 03:00:14",

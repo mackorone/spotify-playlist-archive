@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,167 songs - 7 day 4 hr 6 min
+3,168 songs - 7 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1425,6 +1425,7 @@
 | [It's Not Goodbye, It's See You Later](https://open.spotify.com/track/4irV4oqSYZ68tOI3OevIMr) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [It's Not Goodbye, It's See You Later](https://open.spotify.com/album/3GBwSAuS1fqfdGh0yEp0ow) | 1:57 | 2025-03-16 | 2025-03-22 |
 | [It's Really That Simple](https://open.spotify.com/track/41VrGIXMLPaQBOLdXV91Ab) | [Ellie Sax](https://open.spotify.com/artist/29F0PD42gPA2kL7wHWzgAN) | [It's Really That Simple](https://open.spotify.com/album/5uPEVqG2h8DiQUOyS534tM) | 4:22 | 2024-06-21 | 2024-06-29 |
 | [It's Strange](https://open.spotify.com/track/0V3ssu48VOqr1WwkPOD4Yt) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [It’s Strange](https://open.spotify.com/album/4PdIH020EAwcbah7q92WsG) | 3:32 | 2024-05-24 | 2024-06-01 |
+| [It's the Weekend](https://open.spotify.com/track/5Cr0u3jr6NvdW57XxUqiGu) | [Nikita Marasey](https://open.spotify.com/artist/6LODgGQ6Q8E6szNBq4ao1r) | [It's the Weekend](https://open.spotify.com/album/6qoXP3R1Uue8qsggAQu6MQ) | 3:31 | 2025-06-19 |  |
 | [It's You](https://open.spotify.com/track/2kZ1PZF5vdffvaZwICsrL6) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [It's You](https://open.spotify.com/album/1cd6fSCJ2SnMDUVc7UZXip) | 3:37 | 2024-07-05 | 2024-07-12 |
 | [It's You \(C'est Toi\)](https://open.spotify.com/track/497NJiizav24m37hXb7fN6) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [It's You \(C'est Toi\)](https://open.spotify.com/album/71POWBzOMIQg5oM70sX6Zr) | 3:06 | 2024-06-20 | 2024-06-29 |
 | [ITS YOU](https://open.spotify.com/track/3DVps8FDEzerZesxZnOHVs) | [jarradcleofé](https://open.spotify.com/artist/3KSx8jFUIL2SzMp4uLeSJQ) | [LOVE HARD](https://open.spotify.com/album/1OlHk6CpatbFwiWnlHcmtX) | 4:15 | 2024-05-29 | 2024-06-08 |

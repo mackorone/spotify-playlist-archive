@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "Bacilando",
+        "url": "https://open.spotify.com/album/4NAKAQ39iDgxXEF2lDKmzF"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Fafaq",
+          "url": "https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170714,
+      "name": "Bacilando",
+      "url": "https://open.spotify.com/track/4n09v7GgxwrddyFYpT3xJ8"
+    },
+    {
+      "album": {
         "name": "Baile Lotad\u00e3o",
         "url": "https://open.spotify.com/album/7LWs9wqCZIUPsZAllaKjEY"
       },
@@ -1790,7 +1812,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 183370,
       "name": "For",
       "url": "https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG"
@@ -2450,6 +2472,24 @@
       "duration_ms": 221904,
       "name": "I Want Love - Cat Dealers Remix",
       "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
+    },
+    {
+      "album": {
+        "name": "Ibiza Nights",
+        "url": "https://open.spotify.com/album/0rMVLBDIch0xgaVnCkX44D"
+      },
+      "artists": [
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202790,
+      "name": "Ibiza Nights",
+      "url": "https://open.spotify.com/track/74NA1K3QkfFSHVTBa9UW5A"
     },
     {
       "album": {
@@ -3550,7 +3590,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 259680,
       "name": "O Superman",
       "url": "https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA"

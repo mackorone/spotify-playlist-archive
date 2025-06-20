@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Zior Park\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-972 songs - 2 day 11 hr 12 min
+973 songs - 2 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2024-11-07 |
 | [Hug me tight](https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Hug me tight](https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi) | 3:00 | 2025-01-22 | 2025-04-11 |
 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-09-13 | 2024-10-19 |
+| [Hunting](https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q) | [Hunting](https://open.spotify.com/album/7KHSdoq1Z6g462JkEGyJIg) | 3:00 | 2025-06-19 |  |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
 | [I am a Church.](https://open.spotify.com/track/3bcpltXdn1akCRZgDZIz0x) | [정세미](https://open.spotify.com/artist/2PlDWR4wokgOg5S5jhdh4Y) | [I am a Church.](https://open.spotify.com/album/47lVmpjFQlYyIYoHM17A4y) | 6:02 | 2022-03-09 | 2022-04-20 |
@@ -719,7 +720,7 @@
 | [Skate Girl](https://open.spotify.com/track/1ie8aZcGw9YozNv4PBSkiM) | [Charari Danchu](https://open.spotify.com/artist/7pdcbWfteo7RlRRE26KbDB) | [Skate Girl](https://open.spotify.com/album/49xelmp433pcjvXkLvX0GM) | 2:46 | 2024-04-30 | 2024-05-10 |
 | [Sketch](https://open.spotify.com/track/3tJAKYkit1NVqLc3rPHFLt) | [ADYNE](https://open.spotify.com/artist/67h4m3goe8wwHDXBSuOlG4) | [Sketch](https://open.spotify.com/album/6ggGiZQHxDZrTarX59E142) | 3:58 | 2023-03-28 | 2023-04-05 |
 | [sky, hands, balloons](https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [sky, hands, balloons](https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0) | 3:34 | 2024-10-15 | 2024-11-29 |
-| [Sleep All Day](https://open.spotify.com/track/77nCqTRlDYjmfnptxefCZu) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Sleep All Day](https://open.spotify.com/album/3EafnvyVggFzsVrsyLjVNn) | 3:24 | 2025-06-17 |  |
+| [Sleep All Day](https://open.spotify.com/track/77nCqTRlDYjmfnptxefCZu) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Sleep All Day](https://open.spotify.com/album/3EafnvyVggFzsVrsyLjVNn) | 3:24 | 2025-06-17 | 2025-06-20 |
 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2021-12-12 | 2024-06-07 |
 | [Sleepless in Seoul \(feat\. LEE SUHYUN\)](https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(feat\. LEE SUHYUN\)](https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f) | 4:17 | 2025-04-11 |  |
 | [Slow wave](https://open.spotify.com/track/0lyxjX6gsY2ADwwL0D7zk4) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Slow wave](https://open.spotify.com/album/0qBkpCy4NrMI6Yk50eD75x) | 2:38 | 2025-03-21 | 2025-04-12 |

@@ -4,7 +4,7 @@
 
 > 
 
-209 songs - 10 hr 59 min
+216 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Absent](https://open.spotify.com/track/5xFCvuQljmExMweJdsHFsA) | [SHIKO](https://open.spotify.com/artist/2iPDY2fsrFaWhd4f0mQrZD) | [Absent](https://open.spotify.com/album/5skAjxo3bQZLUFI0P4JQCC) | 2:54 | 2025-03-27 | 2025-05-26 |
 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 | 2023-01-29 |  |
 | [All Mirrors](https://open.spotify.com/track/7jL5aGalMaZRfnJ9jasABT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 4:42 | 2023-05-26 |  |
+| [Always Alone](https://open.spotify.com/track/55AqhVteHwT1Fmh4RnVqjn) | [Finn Lavo](https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR) | [Always Alone](https://open.spotify.com/album/1pQyz79NLiyBGSYupMFziF) | 2:11 | 2025-06-19 |  |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2023-01-18 |  |
 | [Amend](https://open.spotify.com/track/4cVSEYmHNy3DBZToQ8sO7r) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Spoils](https://open.spotify.com/album/2pWoWxRIefca1oZuzOkinE) | 1:44 | 2023-04-03 |  |
 | [Another Love](https://open.spotify.com/track/1ywtdRWnpm0EknWw8CFlrK) | [Pianovus](https://open.spotify.com/artist/3LwX6FJHB0VKS1erpB5RR3) | [Another Love](https://open.spotify.com/album/1DS0A6697ToT58u81nZMbA) | 2:29 | 2023-11-14 |  |
@@ -30,6 +31,7 @@
 | [Ashborne Letters \(Rogue VHS Remix\) \- Slowed](https://open.spotify.com/track/3Zq1rz15u9rbWtE5Ngq73T) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB), [Finn Lavo](https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR), [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Ashborne Letters \(Rogue VHS Remix\)](https://open.spotify.com/album/56n3K0wyjHso4L4FjSkgnf) | 3:19 | 2025-05-08 |  |
 | [Away](https://open.spotify.com/track/2NaGl56lq71UMzDSI8jmJ3) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 2:42 | 2023-05-26 |  |
 | [Back to Myself](https://open.spotify.com/track/1ElyI0fk1FJAscrGs3F8Wu) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Back to Myself](https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e) | 3:00 | 2024-12-10 |  |
+| [Backseat](https://open.spotify.com/track/0ajcUBFvXLDWLjijwG8vP5) | [Deny Hanz](https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh) | [Backseat](https://open.spotify.com/album/4IY9NwBsvctjPuKfhXQbJj) | 3:25 | 2025-06-19 |  |
 | [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 | 2023-09-02 |  |
 | [Batman](https://open.spotify.com/track/6m1aafQX1Y1Mr6dzNLVkiW) | [stellar!\*](https://open.spotify.com/artist/28VaZ8XkvVhwZqVgwvHCDz) | [Batman](https://open.spotify.com/album/2vRYwB6h2ZJ9hPRGOTtBvw) | 1:39 | 2023-01-13 | 2025-04-04 |
 | [Be Around](https://open.spotify.com/track/2OeZr9FfbP9rtVmJXeAub4) | [jules cd](https://open.spotify.com/artist/5GQeH6itnSU4EqK67Sgp1J) | [Okay, After Midnight Volume 3](https://open.spotify.com/album/13i5pfWQh1SjxFpQq2eeLK) | 3:21 | 2025-05-25 |  |
@@ -66,6 +68,7 @@
 | [Falling](https://open.spotify.com/track/04pVNNMr3xiBdpQxrOG1ZS) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB), [Enzo Gray](https://open.spotify.com/artist/59oy58P2lR0q2fvVVuTFp8) | [Falling](https://open.spotify.com/album/6LJzU4zmsctHm5AllQwMXg) | 2:11 | 2025-04-17 |  |
 | [Falling Memories](https://open.spotify.com/track/38CjZ6gTrmCQlDasWzvO8x) | [Finn Lavo](https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR) | [Falling Memories](https://open.spotify.com/album/04okqLrzeyF4BGOxAPBsnW) | 3:09 | 2024-12-05 |  |
 | [Fever Dream](https://open.spotify.com/track/2hO6CqpWjPBEzOGDk4eXIw) | [Bellamy Trevor](https://open.spotify.com/artist/4piLbslIVY3r0EHMAAqipD) | [Yesterday](https://open.spotify.com/album/30woklkKadyGtPaHHELF6f) | 2:55 | 2025-04-07 |  |
+| [Fire Inside](https://open.spotify.com/track/3RJc5DpZm0fncTxoB6NcXo) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Fire Inside](https://open.spotify.com/album/2KWnMigCx7xU7E7Y8Zf3BC) | 2:19 | 2025-06-19 |  |
 | [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [泰葉](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 | 2023-01-16 |  |
 | [Flying :\)\)](https://open.spotify.com/track/6gDrPmfRqagFxMK1DZiRV4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:59 | 2023-05-26 |  |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2023-09-25 |  |
@@ -176,6 +179,7 @@
 | [Sunrise\_\_\_](https://open.spotify.com/track/32ZLROie2BHCySw8JFZ9IL) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 1:06 | 2023-05-26 |  |
 | [Take Me Down](https://open.spotify.com/track/4xBmYI9A0YucqiFC8lnER8) | [Deny Hanz](https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh) | [Take Me Down](https://open.spotify.com/album/7CkVFAJfR6J8iexUsdFTYI) | 2:11 | 2025-05-04 |  |
 | [Taking Chances](https://open.spotify.com/track/4V6OQMf2e6cNnwUiV1zTgE) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:50 | 2023-01-23 |  |
+| [Taxi Runs](https://open.spotify.com/track/2fMn8vMG6QBGsWA27yK09F) | [Menout](https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r) | [Taxi Runs](https://open.spotify.com/album/1jjEX9ygrwFlV0iacV1UwN) | 2:04 | 2025-06-19 |  |
 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 | 2023-09-24 |  |
 | [The Answer](https://open.spotify.com/track/62vVbTLJrEWEx7YD584wqs) | [SV](https://open.spotify.com/artist/6ABoiNLC8RChkiFvzIOqKi), [Antonia Marquee](https://open.spotify.com/artist/2knrCbiVXjHbxY4g5U6Vnz), [Kevon Scott](https://open.spotify.com/artist/0QQRd94fteqgMZD8SQiojh) | [Past Partial](https://open.spotify.com/album/3q6jIkvn5lzHN2IKCIbaXY) | 1:57 | 2025-04-11 | 2025-05-10 |
 | [The Beach \(Instrumental\)](https://open.spotify.com/track/5cDNzcok72q3HC0Lw6FyAR) | [mxpheebz](https://open.spotify.com/artist/2WU2zdyBSJwYeG8GPH17Rl) | [The Beach \(Instrumental\)](https://open.spotify.com/album/6qOJD0XTJIv1knNHELSHAm) | 3:50 | 2023-09-21 |  |
@@ -185,10 +189,12 @@
 | [THE RISE](https://open.spotify.com/track/2Rxz3iCuoe1kU1REqI6NUt) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [THE RISE](https://open.spotify.com/album/6u1HCsBewUBMef0mxbG0hA) | 2:39 | 2025-03-10 | 2025-04-18 |
 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 | 2024-09-11 |  |
 | [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 | 2024-03-13 |  |
+| [This Town](https://open.spotify.com/track/57f4bK7AYca0woOd7kHgSP) | [Jaden Rivers](https://open.spotify.com/artist/1dFOsKx4P9gg22CZ9Co2Ts) | [This Town](https://open.spotify.com/album/2VziP2uuYJEVyC7hGBGmEn) | 1:59 | 2025-06-19 |  |
 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 | 2023-01-16 |  |
 | [Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs), [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Treehouse](https://open.spotify.com/album/6bkxg2HCORFlB0akEfqJvY) | 2:38 | 2023-09-21 |  |
 | [TV Dream](https://open.spotify.com/track/19mZWzhbUj27oJA0cl9O9p) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 1:02 | 2023-09-02 |  |
 | [under my...](https://open.spotify.com/track/2ORqB5CJDSbt08oHQ5rWvB) | [Sūn Jùn](https://open.spotify.com/artist/5rAh5dnFRGoHHW4JtpOloz) | [under my...](https://open.spotify.com/album/0slsDnw5I8d8k4xYMiFIKD) | 3:20 | 2025-05-25 |  |
+| [Under Your Skin](https://open.spotify.com/track/3ijD3ggXGpEXjVLb4o6AuO) | [Bellamy Trevor](https://open.spotify.com/artist/4piLbslIVY3r0EHMAAqipD) | [Under Your Skin](https://open.spotify.com/album/3Z7BDg3wWxPNrU8p1z1bSt) | 2:11 | 2025-06-19 |  |
 | [Unfair](https://open.spotify.com/track/0xD23i0X1WjqMSYIxRfO80) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\#000000 & \#FFFFFF \(No DJ Version\)](https://open.spotify.com/album/2mKqHATk7WVbtazVkSe9w0) | 2:26 | 2023-03-20 |  |
 | [Unfucktheworld](https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Burn Your Fire For No Witness \(Deluxe Edition\)](https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC) | 2:05 | 2023-01-23 |  |
 | [Used To Be](https://open.spotify.com/track/6PuuICfJ681uBtrAziwijJ) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Used To Be](https://open.spotify.com/album/5WB9VyC8uP30sjmseRSAFM) | 2:12 | 2025-04-17 |  |
@@ -203,6 +209,7 @@
 | [welcome and goodbye](https://open.spotify.com/track/00RLNHc2jkEjUoCUlFgPVT) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [welcome and goodbye](https://open.spotify.com/album/0hZJDoAmB6xVegy0o1eAZd) | 2:20 | 2023-08-01 |  |
 | [What Did You See](https://open.spotify.com/track/2EdjKHU1kfEM1ZFJ3R44dS) | [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV) | [The Wilderness](https://open.spotify.com/album/0zOn2WhJAtVcsvUUk9Ips7) | 4:24 | 2023-09-21 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2024-03-04 |  |
+| [What would you know?](https://open.spotify.com/track/7kqLCoGIFAgAWwr612LsXC) | [Enzo Gray](https://open.spotify.com/artist/59oy58P2lR0q2fvVVuTFp8) | [What would you know?](https://open.spotify.com/album/1AK9ltITW5vCZRq05GxcB5) | 3:17 | 2025-06-19 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2023-08-08 |  |
 | [Whine For Me](https://open.spotify.com/track/2OlideyYZKnQkHSIpwiPUC) | [BadboyJayl](https://open.spotify.com/artist/1AL9vPmQ6pp7G05r1Pg40z) | [Whine For Me](https://open.spotify.com/album/3cW6oddMAkPG2EKl3MegzP) | 2:06 | 2025-03-04 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-12-01 |  |

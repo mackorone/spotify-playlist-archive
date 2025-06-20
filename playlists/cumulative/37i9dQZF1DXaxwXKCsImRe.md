@@ -4,7 +4,7 @@
 
 > We introduce exciting artists to you from the Benelux: <a href="spotify:artist:3smrOozTm8zGvRfrcIyRg9">Samuel Welten</a> \(cover\)
 
-212 songs - 11 hr 22 min
+213 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Little Greener](https://open.spotify.com/track/50WSTB17FinNJd92BGcRFc) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [A Little Greener](https://open.spotify.com/album/1Ex7TUmPx3WUaujVqsgZXk) | 3:42 | 2021-12-10 | 2022-02-04 |
 | [Adem Je In](https://open.spotify.com/track/3YKAKQVZBybMEWpUtQ1HAW) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:46 | 2023-09-14 |  |
 | [Adem Je In \- Remix](https://open.spotify.com/track/5F469F5Dk2Zzm6BpP0OhVq) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Adem Je In \(Remix\)](https://open.spotify.com/album/2s2Jz2xKZrfaSqY9HK6sOe) | 3:43 | 2021-12-10 | 2022-03-19 |
+| [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-06-19 |  |
 | [Alone](https://open.spotify.com/track/3Cyp0LHyFXXpm6daHDV6oR) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Alone](https://open.spotify.com/album/1Gng9GvjxKFh1QrrHDcfvr) | 3:03 | 2022-03-18 | 2022-06-17 |
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/5AimUqVfhUXe1jCRanTK72) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/5feJik71vEqH5bSdktYTjq) | 2:40 | 2022-05-22 | 2022-06-01 |
 | [Als Thuis](https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Thuis](https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l) | 2:59 | 2023-04-06 | 2023-05-10 |

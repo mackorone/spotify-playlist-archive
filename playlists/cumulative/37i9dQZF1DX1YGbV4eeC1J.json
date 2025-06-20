@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Diamond Platnumz & Bien",
+  "description": "What is your love language? Say it in Swahili.  Cover: Phina",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -552,6 +552,24 @@
       "duration_ms": 186000,
       "name": "Beautiful (Worth Living) [feat. Barnaba]",
       "url": "https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ"
+    },
+    {
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/6S8IiiuJOaVUBK6jwRQGIW"
+      },
+      "artists": [
+        {
+          "name": "Lady Jaydee",
+          "url": "https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150173,
+      "name": "Because Of Love",
+      "url": "https://open.spotify.com/track/6HAygKbSMRxHARvjRkX6jK"
     },
     {
       "album": {
@@ -3502,7 +3520,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 189333,
       "name": "Natamba Nae",
       "url": "https://open.spotify.com/track/5plP08rSnbrT8deupxla78"
@@ -4431,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "Rehab",
+        "url": "https://open.spotify.com/album/1uLzGmzkrwjdbtw76STH6B"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173550,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v"
+    },
+    {
+      "album": {
         "name": "Respect",
         "url": "https://open.spotify.com/album/1FQ5GJT6pJ1nMW7sO6nE4I"
       },
@@ -4854,7 +4890,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 160457,
       "name": "Sitaki Mapenzi",
       "url": "https://open.spotify.com/track/5xhHQNRjuITzj9eOFabWWi"

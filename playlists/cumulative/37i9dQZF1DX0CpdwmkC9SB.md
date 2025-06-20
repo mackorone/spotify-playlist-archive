@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2025.
 
-685 songs - 1 day 22 hr 48 min
+686 songs - 1 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Forever 2 \(Crush Mix\) \- Malugi Remix](https://open.spotify.com/track/1lWiQ34sGK1i862zAFiRNW) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Forever 2 \(Crush Mix\) \[Malugi Remix\]](https://open.spotify.com/album/4GVMrNM51OLbs6tR5gnCUU) | 2:57 | 2025-05-16 |  |
 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 | 2025-04-04 |  |
 | [Forever Dolphin Love \- Erol Alkan Rework](https://open.spotify.com/track/0oNJa6alhhG6rZPROQ3ZTZ) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Forever Dolphin Love](https://open.spotify.com/album/6AuUAuYLT4HCWE47SCH1GB) | 9:38 | 2025-05-16 | 2025-06-07 |
-| [Forever Lost](https://open.spotify.com/track/0CIUacqGuohdes8fdIP4K3) | [The Magic Numbers](https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ) | [The Magic Numbers](https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL) | 4:17 | 2024-05-31 |  |
+| [Forever Lost](https://open.spotify.com/track/0CIUacqGuohdes8fdIP4K3) | [The Magic Numbers](https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ) | [The Magic Numbers](https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL) | 4:17 | 2024-05-31 | 2025-06-20 |
 | [Found God in a Tomato](https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [High Visceral, Pt\. 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo) | 8:54 | 2024-05-31 | 2025-03-07 |
 | [Foundations](https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b) | 4:05 | 2024-05-31 |  |
 | [Freak 2 Freak](https://open.spotify.com/track/0g81MdldjUqcgiN2oFP7pn) | [SICARIA](https://open.spotify.com/artist/0VY1AVQPJaTDllLBhR35gv) | [Freak 2 Freak](https://open.spotify.com/album/73rUExLdOggQN0AAXb4K3q) | 3:43 | 2025-04-04 | 2025-06-07 |
@@ -601,6 +601,7 @@
 | [The Day We Caught The Train](https://open.spotify.com/track/1HkgXusDtcdUch40stX4vp) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/4PNGCsIJUFlEoDFhzcu9Il) | 3:06 | 2024-05-31 | 2025-03-07 |
 | [The Depth](https://open.spotify.com/track/7AFaRQ0QbsM7OzhiCxu5CD) | [Posthuman](https://open.spotify.com/artist/274XKvuYk5OFrvf3wl3xGe) | [The Depth](https://open.spotify.com/album/02wixguai7H3ZJIE6xN1EV) | 7:27 | 2025-04-27 | 2025-06-07 |
 | [The First Cut Is the Deepest](https://open.spotify.com/track/4F7DxkWXedpanBCSnQnpS5) | [P.P\. Arnold](https://open.spotify.com/artist/5TjpsMnYz8lxTr91olqbEh) | [The First Cut](https://open.spotify.com/album/15S9fpq4TGCzEel10aPqpW) | 3:14 | 2025-04-04 | 2025-06-07 |
+| [the fruits \- Spotify Singles](https://open.spotify.com/track/3dFyhY5UE2c9OvMb0hOlNn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Spotify Singles](https://open.spotify.com/album/39IpKI9d9ZwyLFvJwuveKj) | 3:17 | 2025-06-19 |  |
 | [The Hardest Part](https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:56 | 2024-05-31 | 2025-03-07 |
 | [The House Music Anthem \(Move Your Body\)](https://open.spotify.com/track/4dKi8v4oeEpGDz18UXF2E5) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [The House Music Anthem](https://open.spotify.com/album/7IYg1Wsfy5S2wz7H4VYgf8) | 7:48 | 2025-05-02 | 2025-06-07 |
 | [The Line](https://open.spotify.com/track/5Zkwif4hJHnTrYfS7IGF8l) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [The Line](https://open.spotify.com/album/1IbeiXX7cKHTiLAojPJhjU) | 3:34 | 2025-05-22 | 2025-06-07 |

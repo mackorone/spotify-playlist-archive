@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Guga
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Agir & SleepyThePrince
 
-747 songs - 1 day 15 hr 35 min
+749 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 | 2023-09-21 | 2023-10-13 |
 | [Amor](https://open.spotify.com/track/4INDkE9mhwrcfVZdC3GgEr) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [Quente](https://open.spotify.com/album/7osQ0gzVF3aXXawd685gWX) | 1:56 | 2023-10-12 | 2023-10-24 |
 | [Amor Clandestino](https://open.spotify.com/track/1o2ffAulDEI8kH1u74axBB) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Amor Maestro](https://open.spotify.com/album/6EGEv7o4Vbqswmk9iW4ThN) | 3:31 | 2025-05-29 | 2025-06-14 |
-| [Amor de cinema](https://open.spotify.com/track/6xQLAbtixIS2UbHn1aZbAT) | [Matheus Paraizo](https://open.spotify.com/artist/10BT29sUZJ4ZIKOwIfONA4) | [Na vdd,](https://open.spotify.com/album/1C6rjpVuoTtQLMAMb73pJb) | 3:41 | 2025-05-08 |  |
+| [Amor de cinema](https://open.spotify.com/track/6xQLAbtixIS2UbHn1aZbAT) | [Matheus Paraizo](https://open.spotify.com/artist/10BT29sUZJ4ZIKOwIfONA4) | [Na vdd,](https://open.spotify.com/album/1C6rjpVuoTtQLMAMb73pJb) | 3:41 | 2025-05-08 | 2025-06-20 |
 | [Ananás](https://open.spotify.com/track/1iTdMDcECY3gL6SuHyrBGD) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Ananás](https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj) | 3:27 | 2022-07-07 | 2022-07-21 |
 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 | 2024-07-18 |  |
 | [Anos 90](https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl) | [Palazzi](https://open.spotify.com/artist/4jTBGfN0o7LuueW6vtVAK8), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Anos 90](https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T) | 2:58 | 2024-09-13 | 2024-10-18 |
@@ -503,6 +503,7 @@
 | [Palavras](https://open.spotify.com/track/2MvYm5P8id85m0yEupB21n) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3) | [Palavras / De Caras](https://open.spotify.com/album/6EsU2g9F2K4LRqx0GZgpLH) | 2:45 | 2025-05-08 |  |
 | [Papa](https://open.spotify.com/track/5zDpSgXwGPxoFMzU4ibble) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Papa](https://open.spotify.com/album/3aosEAehvS4wa2kTTTYIuY) | 2:58 | 2022-11-11 | 2022-12-02 |
 | [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 | 2023-06-29 | 2025-01-17 |
+| [PARA SEMPRE](https://open.spotify.com/track/7e0BMVyh5I0imv2MlAOo3d) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [PARA SEMPRE](https://open.spotify.com/album/7ja21jiOzYFy1r3K4EueHN) | 3:03 | 2025-06-19 |  |
 | [PARA SEMPRE](https://open.spotify.com/track/1iGHa37wh2nlr4upmazMdS) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [PARA SEMPRE](https://open.spotify.com/album/7rsjtUS9ofrZ9VTeIzpbtm) | 2:32 | 2023-03-01 | 2023-03-25 |
 | [Paralyzed.](https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5) | [zozyy!](https://open.spotify.com/artist/0ZaZIdgE7KOclOmuPzYJYR) | [Paralyzed.](https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5) | 2:12 | 2022-11-11 | 2022-12-02 |
 | [Parque](https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c) | [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Parque](https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb) | 2:21 | 2023-06-22 | 2023-07-14 |
@@ -572,6 +573,7 @@
 | [Ride or Die](https://open.spotify.com/track/1ZBsMNJbdCaAVdzk0P4PV2) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Ride or Die](https://open.spotify.com/album/1ZCksR7ShWHGFFpVWhofcM) | 3:48 | 2025-03-21 | 2025-05-22 |
 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 | 2022-10-13 | 2023-01-06 |
 | [riri](https://open.spotify.com/track/1EFDcUwlgOKUos42aTg3Yx) | [nastyfactor](https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1) | [riri](https://open.spotify.com/album/5S28pmZvCqKH8kg7zF90xT) | 2:39 | 2025-05-29 | 2025-06-14 |
+| [Rivais](https://open.spotify.com/track/0yuhy0CNnGR4u9Skqb4biw) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3) | [Rivais](https://open.spotify.com/album/25q2Ug529AJ7Lgvchfr5Ns) | 2:33 | 2025-06-19 |  |
 | [Rocky&Rihanna](https://open.spotify.com/track/0X4w15pyZl9RWsXLJg9wln) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Rocky&Rihanna](https://open.spotify.com/album/788dLP8HVaRlAwzQSVnRrJ) | 2:24 | 2024-10-10 | 2025-06-06 |
 | [Roll Another One](https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my) | [Jvst Fly](https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa) | [Roll Another One](https://open.spotify.com/album/5QsRYyibg1rSkwTKhWJhPe) | 3:13 | 2023-04-13 | 2023-05-19 |
 | [Rollercoaster](https://open.spotify.com/track/48uh3bC8i1GZRnKuEJiCUP) | [Davinci 1500](https://open.spotify.com/artist/65lRmloGCkHY5yhjtzaXH1) | [Rollercoaster](https://open.spotify.com/album/2BMTQuPI3GeDg3LKV01Vdu) | 3:35 | 2024-01-19 | 2024-02-09 |
@@ -586,7 +588,7 @@
 | [Sabe a Pouco](https://open.spotify.com/track/5AN71cVGPu9ZrRow7QIjnU) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Sabe a Pouco](https://open.spotify.com/album/2nWtjdgJlnz5lvrlaH0pRv) | 3:55 | 2023-01-20 | 2023-02-10 |
 | [Sai Tentação](https://open.spotify.com/track/0F8tCc9fcUXysAdTrr44b1) | [Weyda Mumia](https://open.spotify.com/artist/5q8HFT2ItgzYkBimz2gKpn), [Edsong](https://open.spotify.com/artist/3sr1yJlIkFap6eDUfpvGp5) | [Sai Tentação](https://open.spotify.com/album/6Lf391zTzvrZ0XEKZb3Z0k) | 3:21 | 2023-01-06 | 2023-01-27 |
 | [Saltamos](https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [U7](https://open.spotify.com/album/2YZY4nTMHwhKDuxcQ4lYoT) | 3:00 | 2023-07-06 | 2023-07-28 |
-| [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 | 2022-07-07 |  |
+| [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 | 2022-07-07 | 2025-06-20 |
 | [Sangue](https://open.spotify.com/track/7y7QWBupm0DyjCDOZFUmci) | [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Sangue](https://open.spotify.com/album/6lT4K9CWMJN0y3tfRspMuW) | 3:02 | 2023-03-14 | 2023-03-31 |
 | [Saudade](https://open.spotify.com/track/3OS9HqgLoWRd8JQWiSogyo) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/6sNUelgfRXdVV76YIOuGzY) | 5:06 | 2022-07-07 | 2024-04-20 |
 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 | 2022-07-21 | 2024-04-19 |

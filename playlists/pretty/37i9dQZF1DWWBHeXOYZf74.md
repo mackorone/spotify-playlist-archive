@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Kevin Abstract
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,584 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,576 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 18 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 19 | [Not In Surrender](https://open.spotify.com/track/1RP8ezSFLQ3hIDQ3GqKbw7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:19 |
 | 20 | [Mar](https://open.spotify.com/track/2ajB55qQ0zekQ6xt6v3UAK) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Naturaleza](https://open.spotify.com/album/1BJfh8rSwcWBik5tcT9REf) | 3:55 |
-| 21 | ["Affirmatively" \(Part II\)](https://open.spotify.com/track/2BH5y9jPjh1QEA0c5Ce9A9) | [Maiya Blaney](https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl) | [A Room With A Door That Closes](https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV) | 1:21 |
+| 21 | ["Affirmatively." Pt II](https://open.spotify.com/track/2BH5y9jPjh1QEA0c5Ce9A9) | [Maiya Blaney](https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl) | [A Room With A Door That Closes](https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV) | 1:21 |
 | 22 | [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 |
 | 23 | [guapa \- Fcukers Remix](https://open.spotify.com/track/0D9N14fy8z1AWC12c7V2Uf) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [guapa \(Fcukers Remix\)](https://open.spotify.com/album/4rr8sZSyaYKRze8kf5AN8D) | 5:18 |
 | 24 | [Watchin' U](https://open.spotify.com/track/6fGSaSn3veQ0wNU8Q8cKhU) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Watchin' U](https://open.spotify.com/album/2q5RS4MQHN27EUUnfw6a32) | 3:02 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 124 | [Woman](https://open.spotify.com/track/3tlav4JW2DJkza7zskaLK2) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Woman](https://open.spotify.com/album/5XXtHaMgI6jW8y69OXGUbq) | 3:50 |
 | 125 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 
-Snapshot ID: `aEw2DwAAAACeDD9kkmS+0WwY+Wv9d95r`
+Snapshot ID: `AAAAANRiz0NgeATTw3bcwp08xcSX/3MP`

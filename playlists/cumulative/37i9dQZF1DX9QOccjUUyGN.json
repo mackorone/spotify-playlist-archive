@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "RomantiDog",
+        "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187627,
+      "name": "Anos Luz",
+      "url": "https://open.spotify.com/track/5qdALoQduXND3os6yJGRkr"
+    },
+    {
+      "album": {
         "name": "Escamosa",
         "url": "https://open.spotify.com/album/0eV2v4FSzFvn8fi5AY0VGf"
       },

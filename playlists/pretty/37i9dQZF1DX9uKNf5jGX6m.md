@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,042,169 likes - 170 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,042,401 likes - 170 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 169 | [Shaping](https://open.spotify.com/track/52dK8dvRR0CE4FvQi6HeVv) | [Kim Nalah](https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ) | [Clouds](https://open.spotify.com/album/2y4o1nOSUMFUmlGJxWCS31) | 3:18 |
 | 170 | [Dragonfruit](https://open.spotify.com/track/5WVVYmJEomLxE4BUsvNk0h) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Samadhi](https://open.spotify.com/album/7phmahFTX46shF30MD8sn6) | 3:16 |
 
-Snapshot ID: `aFFdqgAAAAAgCEUMV75NkjYokqigzczY`
+Snapshot ID: `AAAAAJegbfm7r9dIBkarrDlmOl6kM4w1`

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,773 songs - 5 day 0 hr 50 min
+1,774 songs - 5 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -843,6 +843,7 @@
 | [Kenosis](https://open.spotify.com/track/5KHdxy6xR8d7j1U3cHvDtw) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:42 | 2020-03-16 | 2021-09-11 |
 | [Kerosene](https://open.spotify.com/track/1G1VR90B2GQsKMQQiLRDeI) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Kerosene](https://open.spotify.com/album/03gMbLE7KyhTi1nCFSk1LH) | 2:48 | 2020-04-12 | 2020-10-09 |
 | [Kids \(Reprise\) \(Instrumental\)](https://open.spotify.com/track/3ZOaNQgZd1KfkTvbEtZhQy) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids \(The Instrumentals\)](https://open.spotify.com/album/77StEacT5IhWZLdj0Rj2W2) | 6:03 | 2020-03-19 | 2020-07-18 |
+| [Kids of the Sun](https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Kids of the Sun](https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA) | 2:39 | 2025-06-13 |  |
 | [Killing Time](https://open.spotify.com/track/2809JajDHqH4QeQ3H8DP7s) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Trouble](https://open.spotify.com/album/7rXJOnBDZk3yPmpMXFNsPZ) | 3:13 | 2020-05-20 | 2020-07-03 |
 | [Kindling](https://open.spotify.com/track/3As9CmgGJakuyTqtXTlFHg) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 4:45 | 2020-03-22 | 2020-10-09 |
 | [Know Love](https://open.spotify.com/track/3PRRRSkNfeZmA5xUEUkK2L) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Know Love](https://open.spotify.com/album/7mzWmaUptdaV1nA6CsgVNo) | 4:02 | 2020-03-16 | 2021-03-06 |
@@ -1344,7 +1345,7 @@
 | [Seasons](https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy) | [Seasons](https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO) | 2:33 | 2023-02-24 | 2024-03-02 |
 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 | 2024-07-13 |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-02-17 | 2024-03-23 |
-| [See You In Dreams](https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [See You In Dreams](https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz) | 4:31 | 2024-06-21 |  |
+| [See You In Dreams](https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [See You In Dreams](https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz) | 4:31 | 2024-06-21 | 2025-06-20 |
 | [Seeker](https://open.spotify.com/track/6weYVdQPXtbS7CjdCdBgZs) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Seeker](https://open.spotify.com/album/4keAjNKZJURwQIgMIkzthP) | 4:57 | 2020-07-18 | 2020-10-09 |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2021-03-10 | 2021-06-19 |
 | [Sentir](https://open.spotify.com/track/5xb2vxUeGJ7Yeclvfaq1O8) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/3CqVFoJ77PdxzkiXxm8gjG) | 2:20 | 2021-11-12 | 2022-12-29 |

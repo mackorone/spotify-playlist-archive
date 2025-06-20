@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Ashnaa",
+        "url": "https://open.spotify.com/album/7zWt8dmsLiXipRty85huAK"
+      },
+      "artists": [
+        {
+          "name": "Kajol Chatterjee",
+          "url": "https://open.spotify.com/artist/4Li62BrnJU0dFuT40o4k19"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246702,
+      "name": "Ashnaa",
+      "url": "https://open.spotify.com/track/3C8ZxQ25aqnr3EtmIgVim7"
+    },
+    {
+      "album": {
         "name": "Awaara",
         "url": "https://open.spotify.com/album/3IdThrYvDFw688tR3DxfCF"
       },
@@ -6808,7 +6826,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 205067,
       "name": "Mile Tum",
       "url": "https://open.spotify.com/track/3ulnIfVAZWrS8vG5iLhrwN"

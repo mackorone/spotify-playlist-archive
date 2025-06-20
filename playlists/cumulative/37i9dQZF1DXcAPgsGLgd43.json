@@ -5169,6 +5169,24 @@
     },
     {
       "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "album": {
         "name": "Matador",
         "url": "https://open.spotify.com/album/1s44DLWFcVvwNNfE45KKPr"
       },
@@ -7186,7 +7204,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 167459,
       "name": "SI TE VAS",
       "url": "https://open.spotify.com/track/70wWSIgYuecaVcB0Uy1TpV"

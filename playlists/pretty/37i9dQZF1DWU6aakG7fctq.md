@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Nsqk
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,789 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,710 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [DIOS](https://open.spotify.com/track/0S9lhabZo4B1re5RUYuHip) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [DIOS](https://open.spotify.com/album/2l6abpB0yohJnsGni3l2Cv) | 4:24 |
 | 50 | [Marejada](https://open.spotify.com/track/4uXEdv1ZUHj3CSaqaLnTIC) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL), [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y) | [Marejada](https://open.spotify.com/album/12EDSXMGc3MyzAp8pOd2Dt) | 3:48 |
 
-Snapshot ID: `AAAAAGyBAvSPUpeubQ7vxanX1LAxbqR0`
+Snapshot ID: `aEuidQAAAACgVpPwzgJx7ca0DVw59RPO`

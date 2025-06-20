@@ -422,7 +422,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 169677,
       "name": "33",
       "url": "https://open.spotify.com/track/7JtCTnYXJvn2tcD5MmEjgQ"
@@ -606,6 +606,24 @@
       "duration_ms": 205520,
       "name": "AAN MILO",
       "url": "https://open.spotify.com/track/57yFUb45xU65dGzc3G6aam"
+    },
+    {
+      "album": {
+        "name": "Aar Ya Paar",
+        "url": "https://open.spotify.com/album/586EQTFpH8IgibIzjJLNX8"
+      },
+      "artists": [
+        {
+          "name": "Tarsem Jassar",
+          "url": "https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156530,
+      "name": "Aar Ya Paar",
+      "url": "https://open.spotify.com/track/6FR9OA3KA8TNVpM8oW1ALE"
     },
     {
       "album": {
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 188202,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/30zRC8Lm6rXgCauxTnazbc"
@@ -7367,6 +7385,32 @@
     },
     {
       "album": {
+        "name": "Lalkaara",
+        "url": "https://open.spotify.com/album/3fMtjRGAc6z39J2S41mzgI"
+      },
+      "artists": [
+        {
+          "name": "Raman Lakhesar",
+          "url": "https://open.spotify.com/artist/13D2fLGET14YoWFecILMTh"
+        },
+        {
+          "name": "Squad Kings",
+          "url": "https://open.spotify.com/artist/66c9co78BNh4XWw1GXq2Ls"
+        },
+        {
+          "name": "Buta",
+          "url": "https://open.spotify.com/artist/3vsKnqGN0DuEGAsHeQge8t"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144414,
+      "name": "Lalkaara",
+      "url": "https://open.spotify.com/track/07JIXpis8gbdIKo0vOvvPc"
+    },
+    {
+      "album": {
         "name": "Experimento",
         "url": "https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY"
       },
@@ -8320,7 +8364,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 139603,
       "name": "MOB",
       "url": "https://open.spotify.com/track/4jcXe8ZPh1tbww116de3Md"
@@ -8572,6 +8616,24 @@
       "duration_ms": 170000,
       "name": "My Thoughts",
       "url": "https://open.spotify.com/track/5Zasc5jHaWCLLRKStYVeyx"
+    },
+    {
+      "album": {
+        "name": "My World 2",
+        "url": "https://open.spotify.com/album/4EQ9zabvxMea4355kQpNgM"
+      },
+      "artists": [
+        {
+          "name": "Raman Lakhesar",
+          "url": "https://open.spotify.com/artist/13D2fLGET14YoWFecILMTh"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182022,
+      "name": "My World 2",
+      "url": "https://open.spotify.com/track/18mupiDOivCDs7lviTVaTO"
     },
     {
       "album": {
@@ -10778,7 +10840,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 158356,
       "name": "RR",
       "url": "https://open.spotify.com/track/4xNXAn3HasaJSwdBQSyHYK"
@@ -11410,6 +11472,24 @@
       "duration_ms": 219200,
       "name": "Shohrat",
       "url": "https://open.spotify.com/track/2SMVMeQdop9x1cW3wCr6Y4"
+    },
+    {
+      "album": {
+        "name": "Shor",
+        "url": "https://open.spotify.com/album/3gfy9EeVJt89ga8433EdKK"
+      },
+      "artists": [
+        {
+          "name": "Sanam Parowal",
+          "url": "https://open.spotify.com/artist/64cOAUo78rSuaU9nacfSLF"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197045,
+      "name": "Shor",
+      "url": "https://open.spotify.com/track/6L3PdTjEI5iH3F48bhZsXO"
     },
     {
       "album": {

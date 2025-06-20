@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/18sNNLd89IAKHL7T707yyk"
+      },
+      "artists": [
+        {
+          "name": "PLAIINS",
+          "url": "https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/7J5zrmSVeayUtEr8VMDljA"
+    },
+    {
+      "album": {
         "name": "Cabriolet",
         "url": "https://open.spotify.com/album/4KkqzAcyfYG4bGsRdnCwcf"
       },
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 165323,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/6RO6Qx1tiKfz7DM64r0e80"
@@ -6174,7 +6192,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 155527,
       "name": "Summertime Love",
       "url": "https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC"
@@ -6908,6 +6926,24 @@
       "duration_ms": 219142,
       "name": "viele",
       "url": "https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV"
+    },
+    {
+      "album": {
+        "name": "vitamin",
+        "url": "https://open.spotify.com/album/0nP3FfwgJAXHSMgRTQzlkd"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172613,
+      "name": "vitamin",
+      "url": "https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55"
     },
     {
       "album": {

@@ -837,6 +837,28 @@
     },
     {
       "album": {
+        "name": "Diamond in the Rough",
+        "url": "https://open.spotify.com/album/637gi1okCYO996xTyNDsMP"
+      },
+      "artists": [
+        {
+          "name": "Dessire\u00e9",
+          "url": "https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Diamond in the Rough",
+      "url": "https://open.spotify.com/track/1PDyQiivbuOGGTxwf6XL3G"
+    },
+    {
+      "album": {
         "name": "DiH",
         "url": "https://open.spotify.com/album/4GdkgZNWIKgGqOihh5r3TY"
       },
@@ -2741,6 +2763,32 @@
     },
     {
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/0amvXNgJirvXyNjTTxIQfp"
+      },
+      "artists": [
+        {
+          "name": "Kwame Vybz",
+          "url": "https://open.spotify.com/artist/16MxvE6X1uGG7ddY3XLgdY"
+        },
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        },
+        {
+          "name": "Toyboi",
+          "url": "https://open.spotify.com/artist/3KDvNtvNs8H5Z0ghklIeRn"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1Sq1LKyAnaHjc3OXQ8bq0k"
+    },
+    {
+      "album": {
         "name": "Prayed Up",
         "url": "https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB"
       },
@@ -2828,7 +2876,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 189440,
       "name": "Princess Going Digital",
       "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"

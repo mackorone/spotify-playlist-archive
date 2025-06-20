@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Jun 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Jun 03:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -16397,6 +16397,24 @@
     },
     {
       "album": {
+        "name": "Close to you",
+        "url": "https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103441,
+      "name": "Close to you",
+      "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
+    },
+    {
+      "album": {
         "name": "Closer to the moon",
         "url": "https://open.spotify.com/album/2Akcv0BSbX9D1CjsaT0Ndl"
       },
@@ -27307,6 +27325,24 @@
     },
     {
       "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/4y8T0X9xIUtoM2rS7BWaxd"
+      },
+      "artists": [
+        {
+          "name": "prettifun",
+          "url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128320,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/29p90fE70mB2S7tR91r4TD"
+    },
+    {
+      "album": {
         "name": "TTYL",
         "url": "https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg"
       },
@@ -35986,7 +36022,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 171026,
       "name": "Heat",
       "url": "https://open.spotify.com/track/0sNsZCef65VCDnsxvS6NFF"
@@ -54996,7 +55032,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 121690,
       "name": "Murda",
       "url": "https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im"
@@ -86004,7 +86040,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 175788,
       "name": "Type Dangerous",
       "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
@@ -87944,6 +87980,28 @@
       "duration_ms": 275213,
       "name": "Voodoo Lady - Demo",
       "url": "https://open.spotify.com/track/0pg7hStao1AjHACJuqnu6Z"
+    },
+    {
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/6ZLwxabqBUzrwpzYtoBimy"
+      },
+      "artists": [
+        {
+          "name": "TURQUOISEDEATH",
+          "url": "https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B"
+        },
+        {
+          "name": "IX Fall$",
+          "url": "https://open.spotify.com/artist/2dSovjwYl3QCrqyppFIovD"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383414,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/5cy8Ra0V23WVJB1aLd39IM"
     },
     {
       "album": {

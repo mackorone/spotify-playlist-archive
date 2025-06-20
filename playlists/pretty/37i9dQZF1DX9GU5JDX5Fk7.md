@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GU5JDX5Fk7.md) - [plain]
 
 > Enjoy the soundtrack of the drama 'Reborn Rich'! This playlist contains 10 songs to listen to to get revenge on the person/world that gave you a hard time selected by the actors\. \(드라마 '재벌집 막내아들'의 사운드 트랙을 감상해보세요! 본 플레이리스트에는 배우진들이 선정한 '날 힘들게 한 사람/세상에게 복수하기 위해 들어야 할 노래 10 곡'이 포함되어 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,207 likes - 22 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,211 likes - 22 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

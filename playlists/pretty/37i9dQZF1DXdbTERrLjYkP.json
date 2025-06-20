@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Ren Martinez",
-  "num_followers": 218491,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Madilyn Mei",
+  "num_followers": 218500,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuiewAAAADXgKj9Qy2mkjYzxeJFKOli",
+  "snapshot_id": "aFSkggAAAAADgyifqSbQBiMPgImSnDW2",
   "tracks": [
+    {
+      "added_at": "2025-06-20 00:00:02",
+      "album": {
+        "name": "Can't Fit In His Shoes",
+        "url": "https://open.spotify.com/album/04B5ZWqYNINxcXVyAAlrIu"
+      },
+      "artists": [
+        {
+          "name": "Juno James",
+          "url": "https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE"
+        }
+      ],
+      "duration_ms": 195365,
+      "name": "Can't Fit In His Shoes",
+      "url": "https://open.spotify.com/track/3UWjQb72k8bhV56HKYAgnT"
+    },
     {
       "added_at": "2025-06-13 04:00:59",
       "album": {
@@ -895,22 +911,6 @@
     {
       "added_at": "2025-03-07 05:00:33",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/4tGIrqpwEBRV2EbB0ckVDe"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/3J0ALYQczECrd6tmUr5WUH"
-    },
-    {
-      "added_at": "2025-03-07 05:00:33",
-      "album": {
         "name": "Josephine",
         "url": "https://open.spotify.com/album/1smFBTxb71pr5K3rVjc1Yt"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 211150,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi"
-    },
-    {
-      "added_at": "2025-02-28 20:01:35",
-      "album": {
-        "name": "Before and After",
-        "url": "https://open.spotify.com/album/0UR3jVqkxNWkQq1jtNcyyb"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "Before and After",
-      "url": "https://open.spotify.com/track/35h9op1g3NEzO6hsCVg4WC"
     },
     {
       "added_at": "2025-02-21 05:00:19",

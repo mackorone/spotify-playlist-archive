@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-26",
-  "description": "Way 2 Slizzy. Click into the feed to learn all about the movement. Cover: Lil Yachty",
+  "description": "Way 2 Slizzy. Click into the feed to learn all about the movement. Cover: Cash Cobain",
   "name": "Sexy Drill",
   "tracks": [
     {
@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Lyin'",
+        "url": "https://open.spotify.com/album/1AiGt6FH47Bt58JvGAiF1B"
+      },
+      "artists": [
+        {
+          "name": "Cleotrapa",
+          "url": "https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Lyin'",
+      "url": "https://open.spotify.com/track/3iwHtBrb7BV03RkmCHuVXV"
+    },
+    {
+      "album": {
         "name": "MADE4ME",
         "url": "https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT"
       },
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 163921,
       "name": "TEN",
       "url": "https://open.spotify.com/track/6C6X1c4FCvzxQZcparVtKN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: The Kentucky Gentlemen, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,632 likes - 170 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,662 likes - 170 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 169 | [High On You](https://open.spotify.com/track/3Sbf3VHkyZSTiHCZUhPHHY) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [High On You](https://open.spotify.com/album/0RdWoRN0HHygQcwoefgR8g) | 2:46 |
 | 170 | [In a Small Town](https://open.spotify.com/track/09aa8Si9JB36S128Q2uixL) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [In a Small Town](https://open.spotify.com/album/5KP9VeQdXzQopRFE0Dh2Bs) | 3:44 |
 
-Snapshot ID: `aFI50QAAAAAWgdltT6d2w253sCeaqbTf`
+Snapshot ID: `aFI50QAAAACWr1dUtR4pIcnNwQ8n7CdC`

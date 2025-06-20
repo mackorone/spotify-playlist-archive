@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,493 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,545 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 9 | [Rich Guys \(Feat\. Babyfxce E\)](https://open.spotify.com/track/7a1Iw4S1eNozL4C4gv5xSg) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [ZOO LIFE](https://open.spotify.com/album/7LwqjY4eF2SI9q7MB8PxBu) | 2:58 |
 | 10 | [GEESKI SHAKE July 13](https://open.spotify.com/track/1CPSTNpmnXJyLd2TviHkYM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:54 |
 | 11 | [WE NOT DONE](https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [WE NOT DONE](https://open.spotify.com/album/7oBIAS28VRW3MK7WOcQtIo) | 2:55 |
-| 12 | [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 4:17 |
+| 12 | [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 2:47 |
 | 13 | [pink dreads](https://open.spotify.com/track/5sHRrp6kmVEgYGQFMu11yR) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:00 |
 | 14 | [PALACE](https://open.spotify.com/track/5qQ7We7WCL06X9aa4HwlLl) | [thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [PALACE](https://open.spotify.com/album/3ZJwolWlPeF1Rqdjy9YeBz) | 2:43 |
 | 15 | [They Want To Be You \(feat\. Future\)](https://open.spotify.com/track/2SDKEjkjZQxxSt8e9ZiqKx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 99 | [Stash\-house in Dearborn](https://open.spotify.com/track/666q7QhLYIjiTziKEA0CaN) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Forever My Moment](https://open.spotify.com/album/6D2Olfcbdp07vl4RwPkPRg) | 1:48 |
 | 100 | [2\-Double\-O Dash](https://open.spotify.com/track/50YIryYZfcbdqTt20Lb0F1) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again](https://open.spotify.com/album/0pSIFVPHDByTEX6LztYz9M) | 2:11 |
 
-Snapshot ID: `aExcgAAAAADJbE+7++YSiwI7O//xaqHT`
+Snapshot ID: `AAAAANLzEyc/o2cxRotPDAZwLVNUhulI`

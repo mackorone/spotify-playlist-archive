@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: bartek turski",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: emi",
   "name": "up next",
   "tracks": [
     {
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 167225,
       "name": "CHYBA NA ODWR\u00d3T",
       "url": "https://open.spotify.com/track/3VznGkVEDvrNr3yljrmqIs"
@@ -1530,6 +1530,24 @@
       "duration_ms": 264150,
       "name": "cytryny",
       "url": "https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7"
+    },
+    {
+      "album": {
+        "name": "Ptaki",
+        "url": "https://open.spotify.com/album/5ZCDmvazUKV7RbKBSQX9Di"
+      },
+      "artists": [
+        {
+          "name": "Markus ivi",
+          "url": "https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235178,
+      "name": "Czas",
+      "url": "https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04"
     },
     {
       "album": {
@@ -2249,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "Fa\u0142szywy Alarm",
+        "url": "https://open.spotify.com/album/60P2rzRXJzgHhwDBTfo55l"
+      },
+      "artists": [
+        {
+          "name": "elis",
+          "url": "https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157660,
+      "name": "Fa\u0142szywy Alarm",
+      "url": "https://open.spotify.com/track/3LD6yLhUAuuL5blEvO3CAz"
+    },
+    {
+      "album": {
         "name": "Fikcje",
         "url": "https://open.spotify.com/album/30272fiEqUNicMf5MoTo26"
       },
@@ -2572,7 +2608,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 199255,
       "name": "Great White Sharks",
       "url": "https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou"
@@ -3262,6 +3298,24 @@
       "duration_ms": 155213,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
+    },
+    {
+      "album": {
+        "name": "KEEP IT COOL",
+        "url": "https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173247,
+      "name": "KEEP IT COOL",
+      "url": "https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj"
     },
     {
       "album": {
@@ -4832,6 +4886,10 @@
         {
           "name": "Jan Marczewski",
           "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "wojtman.fm",
+          "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
         }
       ],
       "date_added": "2025-05-29",
@@ -4854,7 +4912,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 188606,
       "name": "Nic ci nie powiem",
       "url": "https://open.spotify.com/track/6sDsmLE2BicdfXfLhCl6nW"
@@ -5504,7 +5562,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 165913,
       "name": "o tobie wers",
       "url": "https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af"
@@ -5548,6 +5606,28 @@
       "duration_ms": 210241,
       "name": "Ob\u0142\u0119d",
       "url": "https://open.spotify.com/track/2zgEt2hzvZmOFn5WcVieFF"
+    },
+    {
+      "album": {
+        "name": "oddaj mi b\u00f3l",
+        "url": "https://open.spotify.com/album/0JG8YGJo5gVX7tUQIrBV0S"
+      },
+      "artists": [
+        {
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
+        },
+        {
+          "name": "Gmeniu",
+          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "oddaj mi b\u00f3l",
+      "url": "https://open.spotify.com/track/1JhR66lrh2u9LylvZ0TSjj"
     },
     {
       "album": {
@@ -6788,7 +6868,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 141686,
       "name": "r\u00f3\u017cowa kurtka",
       "url": "https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd"
@@ -7862,7 +7942,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 232597,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
@@ -7934,7 +8014,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 236525,
       "name": "Too Pretty For Buffalo",
       "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
@@ -9188,7 +9268,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 167389,
       "name": "\u017byczenie",
       "url": "https://open.spotify.com/track/1fQHKxZhGY3uZRVlPqZelN"

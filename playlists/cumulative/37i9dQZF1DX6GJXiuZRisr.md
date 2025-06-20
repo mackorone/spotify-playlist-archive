@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-595 songs - 1 day 17 hr 17 min
+596 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 | 2024-08-30 | 2025-02-01 |
 | [Free Your Mind](https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Free Your Mind](https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r) | 5:38 | 2023-06-02 | 2024-01-22 |
 | [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 | 2024-11-28 |
-| [Freyja](https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Freyja](https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM) | 3:49 | 2024-01-26 |  |
+| [Freyja](https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Freyja](https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM) | 3:49 | 2024-01-26 | 2025-06-20 |
 | [Friend Of Mine](https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Friend Of Mine](https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS) | 3:33 | 2024-01-19 |  |
 | [Further Away](https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Further Away](https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB) | 3:14 | 2023-08-04 | 2024-05-26 |
 | [Future](https://open.spotify.com/track/4Gvh60vRr6cKdB3RVtBiOg) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Future](https://open.spotify.com/album/1FmCbkv8Sr05gSWeRq0T4G) | 3:24 | 2021-05-07 | 2022-06-18 |
@@ -411,6 +411,7 @@
 | [Re\_Jaded](https://open.spotify.com/track/5HDn8fl53QzZxejNpx1q9w) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Jaded](https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV) | 12:00 | 2024-11-08 | 2025-05-24 |
 | [Reaction \(feat\. Jodie Knight\)](https://open.spotify.com/track/4FHxkl2hihkgRUQNRUSHAI) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Reaction \(feat\. Jodie Knight\)](https://open.spotify.com/album/4NaqYNwxEZOITr1SWBU1wt) | 2:57 | 2021-05-07 | 2022-06-27 |
 | [Ready For More](https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Two Are](https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD), [Alar](https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a) | [Ready For More](https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm) | 4:07 | 2021-12-10 | 2024-04-13 |
+| [Real Talk](https://open.spotify.com/track/5f0vwo5khI5V5cCUj5W6nu) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3) | [Real Talk](https://open.spotify.com/album/1tMIVsxkC62u0U9M8T3YK4) | 3:24 | 2025-06-13 |  |
 | [Reclaim Me \(feat\. Nimmo\) \- Maya Jane Coles Remix \[Edit\]](https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby) | [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Reclaim Me \(feat\. Nimmo\) \[Maya Jane Coles Remix\]](https://open.spotify.com/album/2a6PATwWoogkNkzaWI05vU) | 3:23 | 2021-05-07 | 2022-05-21 |
 | [Red Sky](https://open.spotify.com/track/6db3K1345xcIVsYaofJauI) | [DoubleV](https://open.spotify.com/artist/6Ess5QdnNvdRhAMhGNq1uS) | [Red Sky](https://open.spotify.com/album/6Le1yadSvu8kwHwS15Pfxh) | 3:29 | 2021-05-07 | 2022-04-13 |
 | [Remember](https://open.spotify.com/track/7B2ytzid2B2D1Wg83Iyt66) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Yourney](https://open.spotify.com/album/3P2oam7JHSOjZMH6IVf04U) | 3:29 | 2023-06-02 | 2023-08-22 |

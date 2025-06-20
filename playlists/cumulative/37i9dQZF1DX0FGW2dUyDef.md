@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Era7capone x Poizi x SNOW
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: manifest
 
 161 songs - 8 hr 6 min
 

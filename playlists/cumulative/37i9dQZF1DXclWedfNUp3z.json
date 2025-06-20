@@ -2315,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Traves\u00edas",
+        "url": "https://open.spotify.com/album/1MLkED8Yzrbs5wLlUnjSgI"
+      },
+      "artists": [
+        {
+          "name": "Oksana Linde",
+          "url": "https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "Estrellas II",
+      "url": "https://open.spotify.com/track/1QQL5JeQJH0S4gMYthiqLd"
+    },
+    {
+      "album": {
         "name": "Subtle Vertigo",
         "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
       },
@@ -2738,6 +2756,32 @@
       "duration_ms": 145800,
       "name": "From Shores To Mountains",
       "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
+    },
+    {
+      "album": {
+        "name": "Interstitial",
+        "url": "https://open.spotify.com/album/04L37SYhkClPOmKjQfsXBz"
+      },
+      "artists": [
+        {
+          "name": "Oh No Noh",
+          "url": "https://open.spotify.com/artist/3lpaAfKISKw6QKpcRXMhOL"
+        },
+        {
+          "name": "Jenny Berger Myhre",
+          "url": "https://open.spotify.com/artist/3BMzPhmI2cSwN4VzYbOJyw"
+        },
+        {
+          "name": "F.S.Blumm",
+          "url": "https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 627500,
+      "name": "Fsjbmmr",
+      "url": "https://open.spotify.com/track/35emZczLftp0mZcTCYWKWw"
     },
     {
       "album": {
@@ -3502,7 +3546,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
@@ -7596,7 +7640,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 250000,
       "name": "Trapped in an Oil Painting",
       "url": "https://open.spotify.com/track/2CXI4cnhzLHf4zR3uncwPe"

@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Sarkodie
 
-777 songs - 1 day 15 hr 23 min
+781 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-01-15 | 2024-08-30 |
 | [Akola Bone](https://open.spotify.com/track/1Vi1DSdUuLHCaYTtGSHj8a) | [M3dal](https://open.spotify.com/artist/2djlkuPiXmdN2kTGSuX9Qq) | [Akola Bone](https://open.spotify.com/album/2Zgeh7loAPbVlmcT6yIVsn) | 2:57 | 2025-03-28 | 2025-04-12 |
 | [Akorfa](https://open.spotify.com/track/3CL86NHbA0NjfdS28TE2Wb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Lighter Tod](https://open.spotify.com/artist/3b3Vzpjyj5I1xOmVVKglUk) | [Akorfa](https://open.spotify.com/album/7gCyJwNjycvJfQDeVXGUrk) | 3:04 | 2025-01-31 | 2025-05-17 |
+| [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 | 2025-06-20 |  |
 | [All Black](https://open.spotify.com/track/6k0JvWV5AzGlnoWe0IQxNq) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Bar 2 Mixtape](https://open.spotify.com/album/4TjcXQcmjVk3Fta78FewRe) | 5:13 | 2025-03-06 | 2025-03-14 |
 | [All Gas No Breaks](https://open.spotify.com/track/5kVP6wqCnZIvSkAExR0qdX) | [Kev the Topic](https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [All Gas No Breaks](https://open.spotify.com/album/563vOOWujyM8dwQKzYhGMP) | 2:54 | 2023-07-20 | 2023-09-22 |
 | [All the Way](https://open.spotify.com/track/3H85mB1a9OFV7DyVdbMklg) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [All the Way](https://open.spotify.com/album/3lkY9AIk80VSuSruRvGkdG) | 4:00 | 2024-07-26 | 2024-08-30 |
@@ -177,6 +178,7 @@
 | [D.N.D](https://open.spotify.com/track/6kdYEpC7B7I76yz6ETGwgr) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [The ART](https://open.spotify.com/artist/5NZIIfoevjWHc2TLS9CRqT) | [Dilemma](https://open.spotify.com/album/7tNLNZJgihBpbi17j2aVrO) | 2:18 | 2023-11-17 | 2023-12-08 |
 | [Daa Nyame](https://open.spotify.com/track/5ePJ4T94147xulnSWvar0q) | [KayMad](https://open.spotify.com/artist/4YFAU57dP6be9kXSoDBazU) | [Daa Nyame](https://open.spotify.com/album/4TCrtQ7zhKCVQLvifP0GOh) | 2:21 | 2023-11-03 | 2023-11-10 |
 | [Daakye](https://open.spotify.com/track/3Y8OCjck8ETm5VfKfOJKGk) | [Holyrina](https://open.spotify.com/artist/7rTbmW7MnQQjLKpFdZrTuv) | [Daakye](https://open.spotify.com/album/5YCNI7m6CQt8zzGovlQakC) | 2:55 | 2024-05-24 | 2024-07-06 |
+| [Daily Prayer](https://open.spotify.com/track/0KZYNik7Bf9E739gFwEwSp) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Daily Prayer](https://open.spotify.com/album/0dZKZlhFDcHGaZ4rSfXIOG) | 3:24 | 2025-06-20 |  |
 | [DALI](https://open.spotify.com/track/3VCEHvGRFLH1UVt3hizyA3) | [Keeny Ice](https://open.spotify.com/artist/6sMwIoUs3p68hRHw26j36X), [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [DALI](https://open.spotify.com/album/2Jzg4s6O8xmPi4UE7a4wE2) | 2:45 | 2024-07-05 | 2024-09-20 |
 | [Dangerous](https://open.spotify.com/track/71ozkaqkgsWV2aUl7zYHty) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Dangerous](https://open.spotify.com/album/6qPd7nTNkXx4VhmgryxRVH) | 4:51 | 2022-06-30 | 2022-10-14 |
 | [Danjuma](https://open.spotify.com/track/64X4sdsIErlSmK7PtbqA9u) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw) | [Musah Abonko Ne Nana](https://open.spotify.com/album/1XqsjZN6wEsM9WjSqB7LMt) | 2:34 | 2023-09-09 | 2023-09-15 |
@@ -237,6 +239,7 @@
 | [Fall Apart](https://open.spotify.com/track/0fg9wPWAwHRPg2lccpwo8o) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Kid Kwesi](https://open.spotify.com/artist/2k5bJbEP7zZz1vK1p7jRPj) | [Trenches Babies; Kid Kwesi \- Mary Jane](https://open.spotify.com/album/6sBHhJTvCUeqTlyLgu1WeT) | 1:44 | 2023-07-14 | 2023-07-28 |
 | [Fallen](https://open.spotify.com/track/6JKx5fvU8Qc782hH0tOIBz) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT), [Vacs](https://open.spotify.com/artist/2d8bfdQy488Ppx30WvzO2x) | [Fallen](https://open.spotify.com/album/1jnLZzBfLVy6VC3VgraOYn) | 3:17 | 2024-02-16 | 2024-03-22 |
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-05 | 2025-05-30 |
+| [Fallout](https://open.spotify.com/track/6Ap3JyyZxrTOTeTncbWeNs) | [Ugly Dray](https://open.spotify.com/artist/4CY7OYb1eZFkEy5FL9okDS), [June](https://open.spotify.com/artist/1gidejgSJUhxLfE6QHtaPI) | [Fallout](https://open.spotify.com/album/279AyCku6KCklv9lBiol1w) | 3:17 | 2025-06-20 |  |
 | [Family Ties](https://open.spotify.com/track/2XnkVFOGOPxAvrCuB1JmgJ) | [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Family Ties](https://open.spotify.com/album/1xBa35mS2sxLQYJsoDE9Ot) | 2:22 | 2024-06-21 | 2024-08-09 |
 | [Fatality](https://open.spotify.com/track/3lkTPfHvhCzWril97gU7Sr) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Fatality](https://open.spotify.com/album/28wC0MyLi5Mg2KPphGUiN8) | 2:32 | 2025-03-21 |  |
 | [FEATURES](https://open.spotify.com/track/20KFpjdNFUpEMHmnMgLbjs) | [Jaleel Thomas](https://open.spotify.com/artist/3p527f59GZVV7u3bgsE8kZ) | [FEATURES](https://open.spotify.com/album/3Ns2QcqBKv6IbenFmPP0Bi) | 2:11 | 2023-12-08 | 2024-01-05 |
@@ -586,6 +589,7 @@
 | [Real Love](https://open.spotify.com/track/0dnsE50rhcduXpWKMwauYF) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Real Love](https://open.spotify.com/album/5RaIUa4in9b3Pgs2In3VeW) | 2:23 | 2025-02-28 |  |
 | [Realest](https://open.spotify.com/track/1sUUwtbL9A4edhaThMUboc) | [Slim Drumz](https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT) | [Realest](https://open.spotify.com/album/64qM0Ulp6jyKd9zroh7crz) | 3:37 | 2025-02-28 | 2025-03-21 |
 | [REAP](https://open.spotify.com/track/5Vyk1ZOgNJ7bNHEYNTbjjh) | [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [REAP](https://open.spotify.com/album/5kfARkxs4m1f93ON8p8JLV) | 3:31 | 2023-04-14 | 2023-05-05 |
+| [Red card](https://open.spotify.com/track/03AGC3VTCzkTeBNVhqTCkV) | [Kiki](https://open.spotify.com/artist/46SsdaRxdoCG7gKU4HR0r8), [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [Red card](https://open.spotify.com/album/4bLUE77cQ9TLYD3TqhXHRe) | 3:57 | 2025-06-20 |  |
 | [RED EYE](https://open.spotify.com/track/7tUKHfSeO5IQ6Nedra6CmE) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [RED EYE](https://open.spotify.com/album/5Er3xWcthAHZ3cm5gysmHq) | 2:30 | 2025-01-17 |  |
 | [Reggae](https://open.spotify.com/track/2KmDY8HnTtvQb8bDoJpfIH) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [Reggae](https://open.spotify.com/album/7iiwo2OJGz1Fzt5ZxvRXy6) | 2:17 | 2024-10-12 |  |
 | [Rich Dad, Poor Dad](https://open.spotify.com/track/7y5qrtSMxmpqWpOQezMD5h) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [For My Brothers](https://open.spotify.com/album/3Qk29AVYqARa0R6YVipB2B) | 3:27 | 2025-03-06 | 2025-03-14 |

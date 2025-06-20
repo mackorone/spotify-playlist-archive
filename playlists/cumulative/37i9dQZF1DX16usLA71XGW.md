@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> Celebration of IWD with East Africa queens\. Cover: Fena
+> Celebration of IWD with East Africa queens\. Cover: Lady Jaydee
 
-165 songs - 8 hr 46 min
+167 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2023-03-31 |
 | [My Cherrie](https://open.spotify.com/track/4k7pec9Cchlj8kxi0vJd0D) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [My Cherie](https://open.spotify.com/album/1l7rj6E7ai2q5wPKGWis2S) | 4:38 | 2022-11-24 | 2024-02-24 |
 | [Nabo](https://open.spotify.com/track/2ounUVg5MLgyykUalI0VsC) | [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [NABO](https://open.spotify.com/album/0dEvZv2bvBamdD39FOIpv1) | 2:37 | 2022-07-18 | 2022-10-14 |
+| [Namna Hiyo](https://open.spotify.com/track/20uBG9S6zwD3IhAU8jcjBN) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Silver](https://open.spotify.com/album/6S8IiiuJOaVUBK6jwRQGIW) | 4:02 | 2025-06-19 |  |
 | [Ndaga](https://open.spotify.com/track/07QL7I0hus6iP59GPUqwhy) | [Irene Ntale](https://open.spotify.com/artist/1jDjOhgibO7KheCwzZ1W5W) | [Ndaga](https://open.spotify.com/album/3rKkCRAuaWHPOZF07ds6H7) | 3:12 | 2022-07-18 | 2023-09-08 |
 | [NEMANYI](https://open.spotify.com/track/078II2LP3ll9bCGHAeHMJc) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [NEMANYI](https://open.spotify.com/album/6MLCSfgN9nR1KdegiFY1HN) | 3:21 | 2025-01-09 |  |
 | [Never Ever](https://open.spotify.com/track/19aCgeY2NVaGsZLEd6aTWh) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 2:54 | 2022-07-18 | 2024-09-28 |
@@ -128,6 +129,7 @@
 | [Pwita](https://open.spotify.com/track/6y1tOPuICUUq5f5yMUphnU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Pwita](https://open.spotify.com/album/6QsCgfgZ8Z53yNlq8oXMVU) | 3:24 | 2024-08-29 |  |
 | [Ra\(Mna\)fiki](https://open.spotify.com/track/3xjATULksJEFygp6yZHXmt) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF) | [TAKE ONE](https://open.spotify.com/album/6Khcp9V99TSaKTsS2Qnq5D) | 3:12 | 2024-05-30 |  |
 | [Raha](https://open.spotify.com/track/5L9ABMBidJ9jzZLJEM8ShZ) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Raha](https://open.spotify.com/album/1wroced4483UjUHEPZXfzA) | 3:14 | 2023-06-01 |  |
+| [Rehab](https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rehab](https://open.spotify.com/album/1uLzGmzkrwjdbtw76STH6B) | 2:53 | 2025-06-19 |  |
 | [Risk It All](https://open.spotify.com/track/3Dix08cudd9BszjPeaaxME) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Fenergy](https://open.spotify.com/album/4ajMZYIrf0jKAfLz78SABl) | 2:26 | 2025-02-06 |  |
 | [Rotate](https://open.spotify.com/track/4EBvUhVhJQVlUueTvH2Hnl) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Rotate](https://open.spotify.com/album/4XYAAKYsUt7MvnhwWdtj0e) | 2:49 | 2022-07-18 | 2023-10-20 |
 | [Salsa \(Ready\)](https://open.spotify.com/track/4sA3oaBmIceYBuileHFjEf) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Salsa \(Ready\)](https://open.spotify.com/album/0nrKiDxIeeLFYem4v6vae6) | 3:39 | 2022-07-18 | 2023-01-28 |

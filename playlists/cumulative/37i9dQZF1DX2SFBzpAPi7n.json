@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "All About Blue",
+        "url": "https://open.spotify.com/album/68bPbXzJiC73kBZzXu9jmX"
+      },
+      "artists": [
+        {
+          "name": "YOOK SUNGJAE",
+          "url": "https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "at last",
+      "url": "https://open.spotify.com/track/2U50ylcJ8KwDS1lZlb91wI"
+    },
+    {
+      "album": {
         "name": "At the end of season",
         "url": "https://open.spotify.com/album/6iZsMVpUgsbhyc2IejVaYo"
       },
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 177213,
       "name": "Broken Party",
       "url": "https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf"
@@ -4826,7 +4844,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 237160,
       "name": "Forever Has Always Been",
       "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
@@ -13366,7 +13384,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 204389,
       "name": "Sleep All Day",
       "url": "https://open.spotify.com/track/77nCqTRlDYjmfnptxefCZu"
@@ -14650,7 +14668,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 223026,
       "name": "The 6th Summer",
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
@@ -16280,7 +16298,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Faris Adam
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,293 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,308 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,18 +26,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 16 | [Hanya Aku](https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg) | [Hyper Act](https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb) | [Impian](https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt) | 3:20 |
 | 17 | [Sampai Waktu](https://open.spotify.com/track/519OmlAPKhdZEf0mVVJmv9) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Sampai Waktu](https://open.spotify.com/album/1oG8WqFtOIB5aZurerbiTG) | 3:40 |
 | 18 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
-| 19 | [Restu](https://open.spotify.com/track/3gfVuMwfrz8cxZjfoMg9xk) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR) | [Restu](https://open.spotify.com/album/2KIOvOWzcVgkzOAIRkDX99) | 3:31 |
-| 20 | [Masa](https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Teruntuk Jantung](https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr) | 2:49 |
-| 21 | [Hijab Rindu](https://open.spotify.com/track/1rb3QqlRtKqLOecqhnfyj8) | [Black Hanifah](https://open.spotify.com/artist/0PDGnVNduk5dCW4m47ls3d) | [Hijab Rindu](https://open.spotify.com/album/5Id1pVSdoY2giuqJuhVyXj) | 4:17 |
-| 22 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 |
-| 23 | [Sesuatu Janji \(A Certain Promise\)](https://open.spotify.com/track/4IzVvnH3cYn45P4VNgsrCB) | [Taufik Batisah](https://open.spotify.com/artist/2lUOtL7ynpi6qacshqiA5m) | [All Because of You](https://open.spotify.com/album/4j9ccIZrRLIhk4BYtViRBX) | 3:44 |
-| 24 | [Tenggelam](https://open.spotify.com/track/6zOdig3aaYjNtB0lnhP7Wu) | [Ismail Izzani](https://open.spotify.com/artist/63Ns0cyE751e5RlTCS2lpO) | [Tenggelam](https://open.spotify.com/album/3T9mjtIhso8sWWGj2WyqYR) | 2:47 |
-| 25 | [Sahabat](https://open.spotify.com/track/2ddeYr2sDs3EJmtYwL9r5M) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Sahabat](https://open.spotify.com/album/5g5wpu2Vmcbiflv5nwPvfi) | 4:01 |
-| 26 | [Arus & Arah](https://open.spotify.com/track/65oQyasDR8yC76NLeVQ5Fi) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Arus & Arah](https://open.spotify.com/album/5Vva6ynjE5EkmvgnxmLpvi) | 3:30 |
-| 27 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 |
-| 28 | [Mencintaimu \- \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/track/2gsRMFzelZuRQo8r11RsLr) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mencintaimu \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/album/0TzkM6DQnhO5jydrJu2IyK) | 4:54 |
-| 29 | [lowkey](https://open.spotify.com/track/2ABV2OYzFdpWsNTpMDLZaL) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/7ztS9ILcFuesq0fDeolS7r) | 3:37 |
-| 30 | [Alasanmu \- Versi 2025](https://open.spotify.com/track/2ou2l5ZuIw2ZUKVbSmr1X0) | [Exists](https://open.spotify.com/artist/1ibFtPHzpqHJKA0PdAC8TH) | [Alasanmu \(Versi 2025\)](https://open.spotify.com/album/1MAaz8pIBpjY4zyMAuwZRR) | 5:38 |
+| 19 | [Masa](https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Teruntuk Jantung](https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr) | 2:49 |
+| 20 | [Hijab Rindu](https://open.spotify.com/track/1rb3QqlRtKqLOecqhnfyj8) | [Black Hanifah](https://open.spotify.com/artist/0PDGnVNduk5dCW4m47ls3d) | [Hijab Rindu](https://open.spotify.com/album/5Id1pVSdoY2giuqJuhVyXj) | 4:17 |
+| 21 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 |
+| 22 | [Sesuatu Janji \(A Certain Promise\)](https://open.spotify.com/track/4IzVvnH3cYn45P4VNgsrCB) | [Taufik Batisah](https://open.spotify.com/artist/2lUOtL7ynpi6qacshqiA5m) | [All Because of You](https://open.spotify.com/album/4j9ccIZrRLIhk4BYtViRBX) | 3:44 |
+| 23 | [Tenggelam](https://open.spotify.com/track/6zOdig3aaYjNtB0lnhP7Wu) | [Ismail Izzani](https://open.spotify.com/artist/63Ns0cyE751e5RlTCS2lpO) | [Tenggelam](https://open.spotify.com/album/3T9mjtIhso8sWWGj2WyqYR) | 2:47 |
+| 24 | [Sahabat](https://open.spotify.com/track/2ddeYr2sDs3EJmtYwL9r5M) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Sahabat](https://open.spotify.com/album/5g5wpu2Vmcbiflv5nwPvfi) | 4:01 |
+| 25 | [Arus & Arah](https://open.spotify.com/track/65oQyasDR8yC76NLeVQ5Fi) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Arus & Arah](https://open.spotify.com/album/5Vva6ynjE5EkmvgnxmLpvi) | 3:30 |
+| 26 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 |
+| 27 | [Mencintaimu \- \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/track/2gsRMFzelZuRQo8r11RsLr) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mencintaimu \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/album/0TzkM6DQnhO5jydrJu2IyK) | 4:54 |
+| 28 | [lowkey](https://open.spotify.com/track/2ABV2OYzFdpWsNTpMDLZaL) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/7ztS9ILcFuesq0fDeolS7r) | 3:37 |
+| 29 | [Alasanmu \- Versi 2025](https://open.spotify.com/track/2ou2l5ZuIw2ZUKVbSmr1X0) | [Exists](https://open.spotify.com/artist/1ibFtPHzpqHJKA0PdAC8TH) | [Alasanmu \(Versi 2025\)](https://open.spotify.com/album/1MAaz8pIBpjY4zyMAuwZRR) | 5:38 |
+| 30 | [Calon Mantu Idaman \(feat\. Ncum\)](https://open.spotify.com/track/5EWyweCJ5igLl6bjbGRmGm) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs), [Ncum](https://open.spotify.com/artist/7J6fZ8wiC84JWju54ZmD65) | [Calon Mantu Idaman \(feat\. Ncum\)](https://open.spotify.com/album/4n4ZdQUXAs9BevRhBHtGdr) | 3:09 |
 | 31 | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tahta Hatiku \#Pendampingmu](https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy) | 4:05 |
 | 32 | [Reminisensi](https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Kepala Batu EP](https://open.spotify.com/album/6U1Imk9cN9VSNQrnHMgGkY) | 4:25 |
 | 33 | [Menjaga Hati](https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Menjaga Hati](https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Penjuara](https://open.spotify.com/track/5wCgAMzw2tyi16DmbdLBqJ) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Penjuara](https://open.spotify.com/album/7oIUnZx5u15hRjp1y0lFuC) | 3:50 |
 | 50 | [Ruang & Waktu](https://open.spotify.com/track/3aEQOmXkgUHsIR3A1oiEgR) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Ruang & Waktu](https://open.spotify.com/album/1FFwUNyTkk83wxQwiPECTo) | 2:49 |
 
-Snapshot ID: `aFJWpAAAAAA7oMAvP1gQ0BMrT5x3UkZE`
+Snapshot ID: `aFQ1NQAAAADQlNHi/QzLoTD5+sF55AAN`

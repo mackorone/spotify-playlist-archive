@@ -3343,6 +3343,28 @@
     },
     {
       "album": {
+        "name": "GVR",
+        "url": "https://open.spotify.com/album/0cMBtBBF5nh5VcFr6XCBto"
+      },
+      "artists": [
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "G Rose",
+          "url": "https://open.spotify.com/artist/6JI8BKa8Bjfhqr5dT1fXIn"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115122,
+      "name": "GVR",
+      "url": "https://open.spotify.com/track/29M2qN6Vs2cVnsRZnFusCl"
+    },
+    {
+      "album": {
         "name": "Hablan De Mi (Italian Remix)",
         "url": "https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh"
       },
@@ -5590,7 +5612,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 120205,
       "name": "NAS",
       "url": "https://open.spotify.com/track/3tDcxacC9wGhYM0vyicVuC"

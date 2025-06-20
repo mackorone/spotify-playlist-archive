@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,261 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,233 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 |
 | 100 | [Paralyzed](https://open.spotify.com/track/5daukHTha42iYpSjSKD3yA) | [Dallas Rodin](https://open.spotify.com/artist/2FE2eCphvCG692DX58OOmw) | [Paralyzed](https://open.spotify.com/album/4lWtdgloy9tjX4ZflBElaa) | 2:45 |
 
-Snapshot ID: `aEuiawAAAABvyYe58tykVqcw4HdbDH9h`
+Snapshot ID: `AAAAAHQ1+bCx7h+99XJK+Mjr3TlpYHML`

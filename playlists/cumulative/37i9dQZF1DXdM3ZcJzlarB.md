@@ -4,7 +4,7 @@
 
 > Electrónica nacional\. Portada: Peces Raros.
 
-255 songs - 1 day 1 hr 10 min
+256 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Undertones 2 \- Remix](https://open.spotify.com/track/3NCaewb7OXm9eXmW3ECd0b) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI), [Rumanians](https://open.spotify.com/artist/5Hu2cTdWpxnck5aaCeirWv) | [Undertones 2 \(Remix\)](https://open.spotify.com/album/4uLKTeYiEOsqZDLg9m2hCl) | 7:12 | 2023-12-22 | 2025-03-20 |
 | [Utopia](https://open.spotify.com/track/3YqN04q8uUceD8HKM0VCd3) | [Stjepanek](https://open.spotify.com/artist/3CbZyG68qYiKTYyN7ya6SG), [Bob Tosh](https://open.spotify.com/artist/3CSNiJzkKeRXlfiXyzEygS) | [Utopia](https://open.spotify.com/album/0eWoQrhgpAaO1RoGQ0G6ck) | 6:57 | 2025-03-19 |  |
 | [Vectoria \- Original Mix](https://open.spotify.com/track/0Ww28y8TkdNMhijhYgNbe7) | [John Cosani](https://open.spotify.com/artist/2LRGIZMAT8HDCNQvMqgcFg) | [Vectoria](https://open.spotify.com/album/4Vs7EUAgcGDxfZ7SFpauhH) | 8:00 | 2020-09-04 | 2023-11-18 |
+| [VIP](https://open.spotify.com/track/0LAFayAntIMUW9ymqbb2bv) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [VIP](https://open.spotify.com/album/0FaaeP7LODf38af0yuv2Xd) | 2:37 | 2025-06-20 |  |
 | [Vivere \- Rokazer Remix](https://open.spotify.com/track/4dvU4ZGcBBZtouh6YfMw9t) | [Rocio Portillo](https://open.spotify.com/artist/0IWaN7iu4zEYq5u1jl1lib), [Rokazer](https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV) | [Vivere](https://open.spotify.com/album/7zEbJeVhd4FbVv296MIaj7) | 7:09 | 2024-05-24 | 2025-03-20 |
 | [Voltaire](https://open.spotify.com/track/2qNyupNqF0BTrEXAu8DWwy) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire EP](https://open.spotify.com/album/1XPSLd8egeo4SE72lE2yjn) | 10:41 | 2020-09-04 | 2023-11-18 |
 | [Voltaire](https://open.spotify.com/track/6RhZ3wEOHmJpZGuXhfl2HJ) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire](https://open.spotify.com/album/1fLFRG742JTDx3eilXsbnM) | 10:41 | 2020-09-04 | 2022-07-29 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE9egAAAAADhs/HRU2vzdjQ1dnQmImgY",
+  "snapshot_id": "aFIBgAAAAAAZTUgIiVwVq6TifWUVq0vI",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
       },
@@ -291,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popsicle (Extra Sticky)",
-        "url": "https://open.spotify.com/album/0eM1beQrKuuFSAWCqBHWlg"
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
       },
       "artists": [
         {
@@ -300,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 110000,
-      "name": "Popsicle",
-      "url": "https://open.spotify.com/track/7BcQVXI8S1PQVNhuX3Z6uH"
+      "duration_ms": 158996,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
       "duration_ms": 159069,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popsicle (Extra Sticky)",
+        "url": "https://open.spotify.com/album/0eM1beQrKuuFSAWCqBHWlg"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "Popsicle",
+      "url": "https://open.spotify.com/track/7BcQVXI8S1PQVNhuX3Z6uH"
     },
     {
       "added_at": null,

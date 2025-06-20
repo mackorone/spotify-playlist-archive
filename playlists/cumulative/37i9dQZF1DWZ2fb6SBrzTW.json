@@ -737,6 +737,32 @@
     },
     {
       "album": {
+        "name": "Com Amor Brazil",
+        "url": "https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143722,
+      "name": "Atabaque Riddim",
+      "url": "https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH"
       },
@@ -5614,7 +5640,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 285663,
       "name": "Komasava (Comment \u00c7a Va) [feat. Khalil Harrison, Chley Nkosi] [Remix]",
       "url": "https://open.spotify.com/track/0WmNSVQAT1HHzhrJPwAjyI"

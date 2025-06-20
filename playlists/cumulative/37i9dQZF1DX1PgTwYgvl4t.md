@@ -4,11 +4,11 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso?si=NuTJ7\-ipTYCwsypXy3z40A>Victoria Orenze</a>
 
-203 songs - 1 day 0 hr 18 min
+204 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Able God](https://open.spotify.com/track/4CkDjy3zvHHDNm51joKmst) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Able God](https://open.spotify.com/album/6pwOhF1h9S0TKheP28rNLa) | 3:33 | 2025-04-25 |  |
+| [Able God](https://open.spotify.com/track/4CkDjy3zvHHDNm51joKmst) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Able God](https://open.spotify.com/album/6pwOhF1h9S0TKheP28rNLa) | 3:33 | 2025-04-25 | 2025-06-20 |
 | [Adonai \(Live\)](https://open.spotify.com/track/6EO8yo02KrqUeJ19p0DEVF) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Adonai \(Live\)](https://open.spotify.com/album/043Bn5dBFA5O0wNTGG7uGm) | 4:41 | 2024-11-15 | 2025-01-10 |
 | [Adoration](https://open.spotify.com/track/2r80jXetPGcYiO0hWjIwlb) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Adoration](https://open.spotify.com/album/4cL97GKu8RwETLtFQ1n4tk) | 6:01 | 2025-03-28 |  |
 | [Adun \- Acoustic](https://open.spotify.com/track/6U6GLUbyFxsQJZw1iFfkc8) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Adun \(Acoustic\)](https://open.spotify.com/album/61Sq2uHcC0aHls8ZwuR15u) | 5:26 | 2025-02-07 |  |
@@ -196,6 +196,7 @@
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-05-09 |  |
 | [Yabo da Sujada \(Live at Tbc, 2022\)](https://open.spotify.com/track/7yM2XvqAs7E5kiVOeabHs9) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Yabo da Sujada \(Live at Tbc, 2022\)](https://open.spotify.com/album/2795cWWoRqDPQGsz1CFGNx) | 8:35 | 2025-01-10 | 2025-02-14 |
 | [Yabo da Sujada \-a Worship Experience \(Live\)](https://open.spotify.com/track/0L7X9VDmvgtXVFuqO1lt7g) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Koinonia Worship Team](https://open.spotify.com/artist/3Gu1HyCRYShWIkeEM75HsP) | [Yabo da Sujada \-a Worship Experience \(Live\)](https://open.spotify.com/album/624n5JDuYk636uDrB7T9Yh) | 5:40 | 2024-07-12 | 2024-10-18 |
+| [Yahweh](https://open.spotify.com/track/0wlZMHkTTTHjUMudVOO3PZ) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Yahweh](https://open.spotify.com/album/1hvBhzoIX98bfsaSWkr8FV) | 4:02 | 2025-06-20 |  |
 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-04-25 |  |
 | [Yahweh \- Live](https://open.spotify.com/track/17JCFTaxVL74FTHZQhTvtj) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Yahweh \(Live\)](https://open.spotify.com/album/5gfXo9c2wtj5CTsbWmFc1D) | 16:28 | 2024-11-15 | 2025-02-28 |
 | [YESHUA](https://open.spotify.com/track/04Qt7m7pOUmOPFM3ivDtkR) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [YESHUA](https://open.spotify.com/album/65AzitOWZVn6TG7M2DYZYq) | 9:27 | 2025-03-21 | 2025-03-28 |

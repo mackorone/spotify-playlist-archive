@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "det e forseint",
+        "url": "https://open.spotify.com/album/55BkMznhU5jRXVWpjaefby"
+      },
+      "artists": [
+        {
+          "name": "Erika Norwich",
+          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170594,
+      "name": "det e forseint",
+      "url": "https://open.spotify.com/track/4064Yl3WIEFwTIrU9T1djx"
+    },
+    {
+      "album": {
         "name": "Dette er livet (feat. OnklP)",
         "url": "https://open.spotify.com/album/5SrPHNFUtPbv5RgRlRe61v"
       },

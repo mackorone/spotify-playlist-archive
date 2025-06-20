@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: Quamina MP
+> The hottest and recent Ghana party starters\. Cover: AratheJay
 
-510 songs - 1 day 2 hr 29 min
+512 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 | 2023-09-15 |
 | [Akohwie](https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Akohwie](https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51) | 2:54 | 2023-05-12 | 2023-05-20 |
 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-01-15 | 2025-02-28 |
+| [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 | 2025-06-20 |  |
 | [All of a Sudden](https://open.spotify.com/track/6gexVsMvwjIr5NQPDrmrkp) | [Abochi](https://open.spotify.com/artist/1yCRHs6DWub2XayDl4GEEw) | [All of a Sudden](https://open.spotify.com/album/694ZgcasfENDbZ8pq9fNGp) | 3:13 | 2022-11-18 | 2022-12-02 |
 | [Aluta](https://open.spotify.com/track/42zyObr3pHrqizANcRdSQK) | [OV](https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0) | [Aluta](https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t) | 3:04 | 2023-09-14 | 2023-10-13 |
 | [Ama](https://open.spotify.com/track/76zukaAYK7FPmUD0nXJfaY) | [Sh3lter](https://open.spotify.com/artist/7qiwVpjpqGq1wD3VtSLnVX), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Ama](https://open.spotify.com/album/6IejK7EjUjEdnqvuhAHVN0) | 3:02 | 2025-03-07 | 2025-04-01 |
@@ -57,8 +58,8 @@
 | [asem](https://open.spotify.com/track/0G2fnj3aEvWLBfte6LkUyp) | [Kojo Manuel](https://open.spotify.com/artist/25ybMiGzi0JBQhRKg7VEO6), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [asem](https://open.spotify.com/album/3eWqe3ZDHqK3ssXTwtOp2e) | 2:12 | 2024-11-22 | 2024-12-07 |
 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 | 2023-05-19 | 2024-06-28 |
 | [Asikyire](https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Lighthouse](https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL) | 4:46 | 2023-11-24 | 2024-01-13 |
-| [Asikyire \(Sugar\)](https://open.spotify.com/track/38847Svxy8cNXO49MHVdvQ) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Asikyire \(Sugar\)](https://open.spotify.com/album/6f84SfO7ex6EsUpL4uaFrr) | 3:15 | 2025-06-13 |  |
-| [Asor](https://open.spotify.com/track/1au4kwJno8TJB5tR4ocQnZ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Asor](https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi) | 3:06 | 2025-05-30 |  |
+| [Asikyire \(Sugar\)](https://open.spotify.com/track/38847Svxy8cNXO49MHVdvQ) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Asikyire \(Sugar\)](https://open.spotify.com/album/6f84SfO7ex6EsUpL4uaFrr) | 3:15 | 2025-06-13 | 2025-06-20 |
+| [Asor](https://open.spotify.com/track/1au4kwJno8TJB5tR4ocQnZ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Asor](https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi) | 3:06 | 2025-05-30 | 2025-06-20 |
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-01 |  |
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2022-11-04 | 2024-03-22 |
 | [Atide](https://open.spotify.com/track/6scZrxPXUjUM5CdkV4onSp) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen](https://open.spotify.com/album/1Bl9nHpcgJFp5rwcHCyV4Y) | 3:22 | 2023-12-22 | 2024-03-01 |
@@ -137,6 +138,7 @@
 | [Destiny](https://open.spotify.com/track/4o288GFXXDZIo745sGSFRJ) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9) | [Destiny](https://open.spotify.com/album/3wKyONrSgO5XaH4ojx5bw5) | 3:00 | 2023-09-14 | 2023-10-13 |
 | [Diin](https://open.spotify.com/track/6AeZAnCDzuqJm6iYgzMs1l) | [Wutah Kobby](https://open.spotify.com/artist/4XdiQkB8WIPxaSdp0uRWox) | [Diin](https://open.spotify.com/album/1bIuBtSeDc4JpTj3akJLUe) | 1:50 | 2024-03-29 | 2024-04-05 |
 | [Dime Piece](https://open.spotify.com/track/6bgjMZChZYKtzs8XphG5it) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Brudda Nay](https://open.spotify.com/artist/3NMrMxQ07cD29ZJfgwolzV) | [Dime Piece](https://open.spotify.com/album/2EkyJfTgda1FKQUdSl7Y1Y) | 3:41 | 2023-02-16 | 2023-04-28 |
+| [Do Better](https://open.spotify.com/track/3CqYU4M2gHSXybegYvquPo) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Do Better](https://open.spotify.com/album/40gTIoaMmvc21n7Q1jPZ69) | 2:38 | 2025-06-20 |  |
 | [Do You Know?](https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Do You Know?](https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0) | 2:25 | 2025-03-21 |  |
 | [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2022-11-04 | 2023-11-24 |
 | [Don't Shout](https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Don't Shout](https://open.spotify.com/album/63VnNwKfyWmgoaOTTc5LX3) | 3:25 | 2022-11-04 | 2023-02-24 |
@@ -418,7 +420,7 @@
 | [Shine](https://open.spotify.com/track/0OK6S8OsDnbBm5zbcTsb0C) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3), [Gizmo Original](https://open.spotify.com/artist/6rrtn6So9bRb6mZLTMjGMX) | [Shine](https://open.spotify.com/album/0gmJlZaO0ZJcCF7O3krzXl) | 2:58 | 2024-03-29 | 2024-04-04 |
 | [SHINE](https://open.spotify.com/track/2WkW3W22rauip3BbmDN99e) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [UP & RUNNIN6](https://open.spotify.com/album/5EomOd5HdWMyenGsSv61D2) | 5:18 | 2024-10-25 | 2024-11-22 |
 | [Sho \(feat\. Mr Drew\)](https://open.spotify.com/track/0FsTHHgr5E08aW0H7xcuF9) | [Maya Blu](https://open.spotify.com/artist/3CppyKARAo3Uldd5ZA04ye), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Sho \(feat\. Mr Drew\)](https://open.spotify.com/album/5s7AjDdIfLDiYOBrga9T2f) | 2:13 | 2023-03-30 | 2023-04-15 |
-| [Shoulder](https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Shoulder](https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ) | 3:35 | 2025-06-06 |  |
+| [Shoulder](https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Shoulder](https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ) | 3:35 | 2025-06-06 | 2025-06-20 |
 | [Shut Up! \(Pretense\)](https://open.spotify.com/track/15lWYnbT7m7Fc4d3AsjQD2) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Shut Up! \(Pretense\)](https://open.spotify.com/album/4SjA1IpIv4OEBzrWXx54Iw) | 2:56 | 2025-06-06 |  |
 | [Sika](https://open.spotify.com/track/39tkLEnvhdTLJ8pNEa5q52) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Sika](https://open.spotify.com/album/6zSbBDmwWajDb3VFjqthNi) | 2:55 | 2024-09-06 | 2024-10-13 |
 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 | 2023-08-10 | 2025-03-14 |

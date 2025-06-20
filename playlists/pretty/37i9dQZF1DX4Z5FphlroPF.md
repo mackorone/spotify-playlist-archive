@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Z5FphlroPF.md) - [plain]
 
 > Listen to the soundtrack of the SBS Mon\-Tue drama CHEER UP and the songs recommended by the cast! \(SBS 월, 화 드라마 치얼업의 사운드 트랙과 배우진이 추천하는 노래를 들어보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,442 likes - 33 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,450 likes - 33 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Z5FphlroPF.md) - [plain]
 | 32 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 |
 | 33 | [Consolation](https://open.spotify.com/track/6uYBDTTolezL3ne2HsXDm0) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0EfkBr9UoX191Mv24RuesI) | 3:16 |
 
-Snapshot ID: `AAAAAND+cCqyKGc6qaAGDWNtdp2CxAYn`
+Snapshot ID: `ZIsVbgAAAADqPNxUhCie7it2CZNn7si4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Listen to the future. Cover: Firdaus Rahmat",
+  "description": "Listen to the future. Cover: ICEBOX",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -2461,6 +2461,32 @@
     },
     {
       "album": {
+        "name": "PANIC",
+        "url": "https://open.spotify.com/album/3CEcLvfS5dT0G9dlvy5vRU"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        },
+        {
+          "name": "teem",
+          "url": "https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd"
+        },
+        {
+          "name": "Umar Sirhan",
+          "url": "https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "PANIC",
+      "url": "https://open.spotify.com/track/5YSQoSiK7pm49nIxUGoAxc"
+    },
+    {
+      "album": {
         "name": "Parachuting Off The Moon",
         "url": "https://open.spotify.com/album/4eznk2tF07hjIuoKo7YMJT"
       },
@@ -3226,6 +3252,28 @@
       "duration_ms": 158400,
       "name": "the cutest pair",
       "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
+    },
+    {
+      "album": {
+        "name": "THRU THE ROOF",
+        "url": "https://open.spotify.com/album/1cuyM7IwnEw6VV63RjZ98k"
+      },
+      "artists": [
+        {
+          "name": "karan",
+          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
+        },
+        {
+          "name": "Aditya Ojha",
+          "url": "https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "THRU THE ROOF",
+      "url": "https://open.spotify.com/track/5N1SgEuIi1rC22q58Yj3IO"
     },
     {
       "album": {

@@ -823,6 +823,28 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1ytnZ8jmwW5KYIvsh3fXdp"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "FLORES",
+          "url": "https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205068,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1rb65ahUV0k2QYq4x3Fi9y"
+    },
+    {
+      "album": {
         "name": "Bloom Again",
         "url": "https://open.spotify.com/album/3Yz3PNoOnlwYwoARFkEydC"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aCIGeSe3p4.md) - [plain]
 
 > qué me importan las noches de junio, la luna de octubre o cualquier primavera 💅🏽💖💐 Cosechando los éxitos del internet 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,226 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,418 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aCIGeSe3p4.md) - [plain]
 | 74 | [James B.](https://open.spotify.com/track/6T9mi3HBKG2T21JvM9zowV) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [James B.](https://open.spotify.com/album/0SopcVXw2oPUQTAJYZv6UQ) | 2:54 |
 | 75 | [No Regreses](https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 2:53 |
 
-Snapshot ID: `AAAAAJMu/yPX4TnZVMurGBm4FV8ms7pz`
+Snapshot ID: `aFMWugAAAABiZNlanODcTce0qw3qOmqI`

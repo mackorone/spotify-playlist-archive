@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Henrique & Juliano e os artistas mais ouvidos no Brasil em 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,375 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,526 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 49 | [Automotivo Tudo Nelas](https://open.spotify.com/track/7ECHxu3vfDU0ocNONHvmBU) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [DJ Miller Oficial](https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP), [Metralha dos Bailes](https://open.spotify.com/artist/5z1ItYd4p2dhSTZ2PynIT7) | [Automotivo Tudo Nelas](https://open.spotify.com/album/3EMq1ENabGZyxjXjn5VUt4) | 2:47 |
 | 50 | [Sou Pagodeiro \(Love Yourself\) \- Ao Vivo](https://open.spotify.com/track/6sWrtSw5H8crwA6fR4dyFb) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Diferentão 2 \(Ao Vivo\)](https://open.spotify.com/album/1LwkJFwTJKcWycn5C11tFL) | 3:19 |
 
-Snapshot ID: `Z1CZ+AAAAAC9UGRAZuTkvoTC7kNkqjWq`
+Snapshot ID: `Z1CZ+AAAAAB2ThaBqUns8cygr78u/aHB`

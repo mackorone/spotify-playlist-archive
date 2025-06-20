@@ -2,9 +2,9 @@
 
 ### [Rock 2025](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: Depresión Sonora.
+> Súbete a la nueva ola del rock español\. Foto: Casero.
 
-405 songs - 20 hr 42 min
+408 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Barrio](https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL) | [Impacto Vudu](https://open.spotify.com/artist/4q9S9g5IA3WQtjeNa11obo) | [Barrio](https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93) | 3:05 | 2024-06-27 | 2024-12-06 |
 | [Bats \- Bonus Track](https://open.spotify.com/track/1MrCEloTvLxizWYBaCsJcF) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [VIVA HINDS](https://open.spotify.com/album/4uZYu8YuWfnDcEAnmJ0UQj) | 3:03 | 2024-10-04 | 2024-10-25 |
 | [BOCARRIBA](https://open.spotify.com/track/6YCUCIY5O2AswUtBgx96KZ) | [CANTEO!](https://open.spotify.com/artist/5wuRxXOBRZ1Zt0EvCi7xis) | [BOCARRIBA](https://open.spotify.com/album/454Jw8XR7LdygHcbqYlWdz) | 3:17 | 2025-01-23 | 2025-02-14 |
-| [Bolsas](https://open.spotify.com/track/7qrBjMQLyq04f4SNAAf1B5) | [Cabo Ventura](https://open.spotify.com/artist/5YWx6f5YHavV3E98NKzNP9) | [Bolsas](https://open.spotify.com/album/7lAYpqqrJca3zzO7lhcG4N) | 2:11 | 2025-06-12 |  |
+| [Bolsas](https://open.spotify.com/track/7qrBjMQLyq04f4SNAAf1B5) | [Cabo Ventura](https://open.spotify.com/artist/5YWx6f5YHavV3E98NKzNP9) | [Bolsas](https://open.spotify.com/album/7lAYpqqrJca3zzO7lhcG4N) | 2:11 | 2025-06-12 | 2025-06-20 |
 | [Bravo](https://open.spotify.com/track/16qvtKnS487O30LPpF3CiR) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Bravo](https://open.spotify.com/album/1JObf8Yr4RiYqteGM8IbIZ) | 3:09 | 2025-03-13 | 2025-04-11 |
 | [Brigitte](https://open.spotify.com/track/0QoBr11hbbxOcH5wntSrlL) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [Brigitte](https://open.spotify.com/album/4m8R9GyWjTEFgz9NBR6L94) | 3:07 | 2025-03-20 | 2025-04-11 |
 | [Cada instante](https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH) | [Ártico](https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ) | [Cada instante](https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR) | 3:25 | 2024-08-15 | 2025-01-17 |
@@ -82,7 +82,7 @@
 | [Cúcú](https://open.spotify.com/track/3b3E5M5gouQX1ttI6XBNsD) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx) | [The Very Best of Mediapunta](https://open.spotify.com/album/79NKwxLkELvPJ0GB3uX8mZ) | 2:21 | 2024-11-07 | 2024-11-29 |
 | [Dando gracias](https://open.spotify.com/track/0EFMaoZyXD11x3s5K7oDiX) | [Oh! Marlene](https://open.spotify.com/artist/1hTkLSI3jqW4AWmNTrfuPM) | [Dando gracias](https://open.spotify.com/album/2AQDRjVXwwllusH5uF8kZ3) | 3:35 | 2025-05-08 | 2025-05-23 |
 | [Dante](https://open.spotify.com/track/2ksRvauNFgEHWlK7bpD8UW) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [Dante](https://open.spotify.com/album/3zSiRCflmQR6x2AeErQBQb) | 2:48 | 2025-01-30 | 2025-02-21 |
-| [Dante](https://open.spotify.com/track/201fVFglh8ZrS7zbiMHn10) | [Sita Rizzi](https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3) | [Dante](https://open.spotify.com/album/2YD9zf9zExAKectIJm7zfm) | 2:31 | 2025-06-12 |  |
+| [Dante](https://open.spotify.com/track/201fVFglh8ZrS7zbiMHn10) | [Sita Rizzi](https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3) | [Dante](https://open.spotify.com/album/2YD9zf9zExAKectIJm7zfm) | 2:31 | 2025-06-12 | 2025-06-20 |
 | [Danza de la muerte](https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Danza de la muerte](https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc) | 2:44 | 2024-10-31 | 2025-05-11 |
 | [Darveider](https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Darveider](https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT) | 2:36 | 2024-06-27 | 2024-10-11 |
 | [De aquí a un mes](https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL) | [Error 97](https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1) | [De aquí a un mes](https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w) | 2:21 | 2024-08-29 |  |
@@ -93,6 +93,7 @@
 | [Demasiados Deseos](https://open.spotify.com/track/1A6dbG3FyqNIt3uQbQDSPu) | [el momento incómodo](https://open.spotify.com/artist/5aWqwamv84KqpNLOestUqh) | [Demasiados Deseos](https://open.spotify.com/album/7HsP5xchqdjIduuOr5tGTy) | 2:53 | 2025-02-27 | 2025-03-14 |
 | [DESPEGUE](https://open.spotify.com/track/1zJ6PReu9PhAURqVRTOuwx) | [Eli Rodríguez](https://open.spotify.com/artist/50X9TlUqrFra9QIAmPEgSY) | [NUEVAS TÉCNICAS DE MEDITACIÓN](https://open.spotify.com/album/0IqwXTJ5iYhUkonb0CubS7) | 2:19 | 2025-05-29 | 2025-06-06 |
 | [Despierta](https://open.spotify.com/track/1jqOv7hQoCmw4XxIkNOHV8) | [Quizás Mañana](https://open.spotify.com/artist/1VsLvsLzVoBjPcNcnCTLO6) | [Despierta](https://open.spotify.com/album/4VdeQ3UgFRoW4OPlJr6oTu) | 3:07 | 2024-08-22 | 2024-08-30 |
+| [DESUBICAO](https://open.spotify.com/track/4dc6Bdv25xg0zztKbYjOcM) | [Modelo](https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht) | [DESUBICAO](https://open.spotify.com/album/3I4v5BPwjGOo45mbTcC0Jm) | 2:19 | 2025-06-19 |  |
 | [Diciendo que Me Quieres](https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Diciendo que Me Quieres](https://open.spotify.com/album/6Hnnk5RRXAfkpVheJde33u) | 3:26 | 2024-06-27 | 2024-07-12 |
 | [Dientes rotos](https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN), [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92) | [Dientes rotos](https://open.spotify.com/album/1GPSLnxbpMHl4vMCmrFbyZ) | 2:31 | 2025-01-09 | 2025-05-09 |
 | [Dime baby](https://open.spotify.com/track/1IvS2wj9PQ4toK49jomLDn) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ), [Chelsea King](https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj) | [Dime baby](https://open.spotify.com/album/5Lgm0aSegBiEQI3nQPYp2g) | 2:56 | 2024-12-19 | 2025-01-10 |
@@ -152,7 +153,7 @@
 | [Hamburguesas](https://open.spotify.com/track/6FUFVQrn1RvyydcLsL4xdJ) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Hamburguesas](https://open.spotify.com/album/2KH4h632xtY2Y0u9C4I7Jw) | 3:04 | 2024-10-24 | 2025-02-21 |
 | [Ham´a´cuckoo \- Un Tributo a Lori Meyers](https://open.spotify.com/track/0hGFXZrmSUiu7XcKAsN3J4) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [Ham´a´cuckoo \(Un Tributo a Lori Meyers\)](https://open.spotify.com/album/1qpoC7TXuoiaC87OXtZbD6) | 2:45 | 2024-12-12 | 2024-12-20 |
 | [Hasta Que Duela La Noche](https://open.spotify.com/track/2Ewof13ashAsGOzFRJXv3A) | [Kitai](https://open.spotify.com/artist/2TQyVG4JdI6hdRsOMEFOg4) | [Hasta Que Duela La Noche](https://open.spotify.com/album/1FwNFfWQVmoTlSNX6vSkeD) | 3:33 | 2025-03-20 | 2025-04-11 |
-| [Hawai](https://open.spotify.com/track/67lL344uB5ste8dehjLCqG) | [Rata Negra](https://open.spotify.com/artist/7KjdFWj7ujhSLbzWYAAgVe) | [Hawai](https://open.spotify.com/album/1n1v3dETgKPAEvayIhaCjD) | 1:59 | 2025-06-05 |  |
+| [Hawai](https://open.spotify.com/track/67lL344uB5ste8dehjLCqG) | [Rata Negra](https://open.spotify.com/artist/7KjdFWj7ujhSLbzWYAAgVe) | [Hawai](https://open.spotify.com/album/1n1v3dETgKPAEvayIhaCjD) | 1:59 | 2025-06-05 | 2025-06-20 |
 | [Hay un hueco bajo tu cama y está lleno de mierda](https://open.spotify.com/track/5eTkrLxHf8W24yGPo5gEG2) | [el momento incómodo](https://open.spotify.com/artist/5aWqwamv84KqpNLOestUqh) | [Hay un hueco bajo tu cama y está lleno de mierda](https://open.spotify.com/album/78BfDF2Ci4pdNhfmdEEZGL) | 2:43 | 2025-03-27 | 2025-04-18 |
 | [Himno de las flores](https://open.spotify.com/track/5gKX2PDvk4682feasZf58s) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN), [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Himno de las flores](https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T) | 3:48 | 2024-10-03 |  |
 | [Historia Triste](https://open.spotify.com/track/2mis3ZNjBoMXR7DCejSSZC) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [DIRECTOS AL INFIERNO](https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP) | 2:02 | 2024-10-31 | 2025-03-28 |
@@ -191,7 +192,7 @@
 | [Las horas pasan](https://open.spotify.com/track/0GfqERTJm2jdiIfNBowmTi) | [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Las horas pasan](https://open.spotify.com/album/0VGBrWhfTw00SKnPVy7yBP) | 3:32 | 2025-02-27 | 2025-03-21 |
 | [Las Victorias y Derrotas](https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Desde Flores y Entrañas](https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm) | 3:26 | 2024-06-27 | 2024-12-06 |
 | [Lento](https://open.spotify.com/track/0f1QC1Emch84pONpGMEQd4) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Brindis](https://open.spotify.com/album/79YdnVubJaG6D8QDEgkm46) | 3:18 | 2025-01-16 |  |
-| [Llévame Más Lejos](https://open.spotify.com/track/1j4q60WIyYw73q39sxfrFQ) | [Gato Ventura](https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ) | [Llévame Más Lejos](https://open.spotify.com/album/2Ur3sb6K1VElD5PJz8uOLI) | 3:17 | 2025-06-12 |  |
+| [Llévame Más Lejos](https://open.spotify.com/track/1j4q60WIyYw73q39sxfrFQ) | [Gato Ventura](https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ) | [Llévame Más Lejos](https://open.spotify.com/album/2Ur3sb6K1VElD5PJz8uOLI) | 3:17 | 2025-06-12 | 2025-06-20 |
 | [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 | 2024-06-27 | 2025-05-23 |
 | [Lo Que Viste En Mí](https://open.spotify.com/track/5iVUmBJsDgXzDqkscvnOkA) | [Iguana Tango](https://open.spotify.com/artist/5P4gTu22GQje4EDwps9cht) | [Lo Que Viste En Mí](https://open.spotify.com/album/7kZTRyM0YjLXiArfHdQ70F) | 3:35 | 2025-05-29 |  |
 | [LOPE DE VEGA](https://open.spotify.com/track/5mbv9VI6wt8NqC6phjC10P) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [LOPE DE VEGA](https://open.spotify.com/album/1ur0ogHivs329HXnYpGWF7) | 1:54 | 2025-04-24 | 2025-05-02 |
@@ -244,6 +245,7 @@
 | [música infinita](https://open.spotify.com/track/720CqaGLhexdPJpjUeO7pI) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [música infinita](https://open.spotify.com/album/5eyLKFG2laZ2c3ly36uhbz) | 2:56 | 2025-02-13 | 2025-03-07 |
 | [Na'](https://open.spotify.com/track/5rYcUiQP1RVixCYzm0AEMw) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8) | [Na'](https://open.spotify.com/album/2e66NyNpzWMVN5xgcqUQPA) | 2:52 | 2025-05-01 | 2025-06-01 |
 | [Nacho Fernández](https://open.spotify.com/track/1zCYOQTuQE48x5vcXkmi6k) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Nacho Fernández](https://open.spotify.com/album/47aaiQ9Idp7Luvp5ryErjD) | 2:17 | 2024-07-04 | 2024-07-12 |
+| [Nada es suficiente](https://open.spotify.com/track/2BvN03SIqklDId5TWonuhq) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Nada es suficiente](https://open.spotify.com/album/4vWOImq9W2P7gOZqzrbSoA) | 3:09 | 2025-06-19 |  |
 | [Nadie Se Muere De Amor](https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8) | [Talleres Molina](https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2) | [Nadie Se Muere De Amor](https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO) | 2:46 | 2025-01-09 | 2025-02-28 |
 | [Nena, no estás](https://open.spotify.com/track/0008pgN5Z0F4pXYYsbb2mm) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr) | [Nena, no estás](https://open.spotify.com/album/7pwjXZKNYOqhKBRTJwDmTZ) | 2:36 | 2025-02-27 |  |
 | [Nirvana](https://open.spotify.com/track/4JY44DPb89RJztHekdCeiV) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Nirvana](https://open.spotify.com/album/5ZYYYVWdLbVb8vc3nSfFEX) | 2:47 | 2025-02-20 | 2025-03-14 |
@@ -309,7 +311,7 @@
 | [Regla y purpurina](https://open.spotify.com/track/5vZx86TYr9NSY8IRjng270) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [Aún no sé nada del amor](https://open.spotify.com/album/5t7rzhHnSjbEtTQeBGKQHb) | 3:14 | 2025-05-22 |  |
 | [Relío](https://open.spotify.com/track/2otP8TzPK3k5oUN4WMQCzi) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [2 canciones para el fomo](https://open.spotify.com/album/6hRE8se5sdDi37Fo9urH3J) | 2:42 | 2025-06-05 |  |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 | 2024-07-27 |
-| [Rob Gordon](https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Rob Gordon](https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR) | 2:03 | 2024-08-29 | 2025-06-13 |
+| [Rob Gordon](https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Rob Gordon](https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR) | 2:03 | 2024-08-29 |  |
 | [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 | 2024-09-26 | 2025-06-06 |
 | [ROMANTICÓMANA](https://open.spotify.com/track/4u27In1Np7ZXGK6XL7nRfE) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [ROMANTICÓMANA](https://open.spotify.com/album/0BfL4OgoGJ19ZCZYJqD3F9) | 2:13 | 2025-03-13 | 2025-04-04 |
 | [Rosquilla de canela](https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF) | [Marta Movidas](https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5) | [Rosquilla de canela](https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh) | 3:37 | 2024-06-27 | 2024-08-02 |
@@ -334,6 +336,7 @@
 | [Subcampeón](https://open.spotify.com/track/4h6ByEnmpCr88TTFpMhyBo) | [Joaquín Fénix](https://open.spotify.com/artist/4nElXUxyGrDvNpZrbyU6Tg) | [Subcampeón](https://open.spotify.com/album/38hWqRtfW7CiwMImcvPuAg) | 2:31 | 2025-03-13 | 2025-03-21 |
 | [SUMMER NOSTALGIA](https://open.spotify.com/track/1MlLMl7vrGvoR7LOHdqdv0) | [Johnny Garso](https://open.spotify.com/artist/6zvsUJE9zNUpP3mV3tQsCg) | [SUMMER NOSTALGIA](https://open.spotify.com/album/61S51d00CHdUHH7FTTVhtL) | 2:57 | 2024-09-05 | 2024-09-27 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-23 |
+| [Sé Lo Que Quiero](https://open.spotify.com/track/0hjmqetCUhd1EQBnVEulLI) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Sé Lo Que Quiero](https://open.spotify.com/album/7pWL1LAJaW1TZnH2VJFvMD) | 2:35 | 2025-06-19 |  |
 | [Sé que no](https://open.spotify.com/track/3jT4rZmbAUDRH2sd9508Px) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Sé que no](https://open.spotify.com/album/2IEcBXMQw4Zyrv77VoiPRH) | 2:36 | 2024-10-31 | 2024-11-22 |
 | [T E R A P I A](https://open.spotify.com/track/1NzgTx7ZC91tQkwsCYZTFg) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [T E R A P I A](https://open.spotify.com/album/2diKSpEGcWiSRxa1jopIw1) | 2:34 | 2024-12-05 | 2025-04-12 |
 | [TDA](https://open.spotify.com/track/2mIpVnpIHhIAOXo9Uzr0Hm) | [Los Bengala](https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW) | [TDA](https://open.spotify.com/album/0eBbJ6ZPUz9WcJGhnu4Hpp) | 2:24 | 2024-08-29 | 2024-10-11 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday\. Cover: Lone Assembly, Artwork: Isu Kim
+> Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday\. Cover: Julie, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,465 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,471 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Let Me](https://open.spotify.com/track/5WO3T0V4TOjFaCk1jJQZZn) | [LAOURA](https://open.spotify.com/artist/3WL9RuDCKPrbcKpfCRe7Np) | [Let Me](https://open.spotify.com/album/4Kwv7Hv9cYhCvDgz1nTP1c) | 3:09 |
 | 80 | [Hearts](https://open.spotify.com/track/2e5hQSDJdqRHt16WXL5APx) | [REYAS](https://open.spotify.com/artist/3yDFcHwsp5EnO8CFzFlBxp) | [Hearts](https://open.spotify.com/album/3UrqjC92EgHYmXyqbLGH69) | 2:44 |
 
-Snapshot ID: `aFKOMwAAAACtw7qKqJ24a4NADH6H4Tdk`
+Snapshot ID: `aFPEKQAAAABgAiv0B7F51IFJ5P7BOxL9`

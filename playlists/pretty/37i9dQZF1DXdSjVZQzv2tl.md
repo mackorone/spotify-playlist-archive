@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Zé Neto & Cristiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,954,641 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,955,907 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 |
 | 50 | [Filho da Mãe \- Ao Vivo](https://open.spotify.com/track/7opE9OJaqrvkQspmfJdVsS) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Filho da Mãe \(Ao Vivo\)](https://open.spotify.com/album/0qRxN9Kk8579hU3yTjyR92) | 2:17 |
 
-Snapshot ID: `aEylqQAAAACBiLA3oDIpGH3Th9KmXFoB`
+Snapshot ID: `aEylqQAAAAB+SjJmTKYcqxFYajvAOJvi`

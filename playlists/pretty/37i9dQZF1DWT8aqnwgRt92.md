@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,930 likes - 85 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,894 likes - 85 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [口づけは Signed piece](https://open.spotify.com/track/18ZwNPgz5o6lv1yRP4xkfl) | [古川 慎](https://open.spotify.com/artist/7cqs65sOpEfqF5T0XFnAWc) | [Catch Me If You Can](https://open.spotify.com/album/0a7rR52SGukgTrMlLAcrzA) | 3:35 |
 | 85 | [Queen of the Stars](https://open.spotify.com/track/2FpsGq0taPPk9pPsIJSFk2) | [髙田龍一](https://open.spotify.com/artist/2uvfeDvDN0QpUIhUVX63fP) | [Queen of the Stars](https://open.spotify.com/album/4i4PVe7BLvYApdjBdbdffJ) | 3:36 |
 
-Snapshot ID: `aFGTMwAAAAA8Ca6Gvo5FpHYF/5Z55Xes`
+Snapshot ID: `AAAAAJXFt2dG9Gc7jA6h7PKMA8VBx8XO`

@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박찬영\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-582 songs - 1 day 10 hr 26 min
+583 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-04-21 | 2024-05-06 |
 | [apocalyptic serenade](https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [apocalyptic serenade](https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B) | 4:28 | 2025-05-13 |  |
 | [Apricot](https://open.spotify.com/track/7aNOH4B73XDeLOL1yGhwU5) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:15 | 2022-01-13 | 2022-02-07 |
-| [Ash \- Acoustic](https://open.spotify.com/track/3YLKumEaNPhR9ylIJLFXyv) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Ash \(Acoustic\)](https://open.spotify.com/album/4hFFT091ahBzpl6YHrHzgB) | 2:05 | 2025-06-09 |  |
+| [Ash \- Acoustic](https://open.spotify.com/track/3YLKumEaNPhR9ylIJLFXyv) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Ash \(Acoustic\)](https://open.spotify.com/album/4hFFT091ahBzpl6YHrHzgB) | 2:05 | 2025-06-09 | 2025-06-20 |
 | [At the end of the day](https://open.spotify.com/track/0nJLLHH6Y3iOe5uGou2m6s) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [At the end of the day](https://open.spotify.com/album/6arlyz7d91rjANtfyPQ1t6) | 3:55 | 2022-03-31 | 2022-04-15 |
 | [Autumn breeze](https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI) | 2:54 | 2021-12-10 | 2022-07-29 |
 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 | 2022-07-08 | 2024-04-19 |
@@ -174,6 +174,7 @@
 | [Goodnight](https://open.spotify.com/track/7z1eVxVhlrs4St5OC8ReG8) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 3:03 | 2022-03-31 | 2022-04-18 |
 | [goodnight, dear](https://open.spotify.com/track/3c8LgCeqvBz0qtCRrS72yD) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 4:04 | 2021-12-10 | 2022-07-28 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-04 |  |
+| [Green Tree Frog](https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [Green Tree Frog](https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8) | 2:29 | 2025-06-19 |  |
 | [Grumbling](https://open.spotify.com/track/4JWHofUzxD62YSXO00iqbw) | [TAEKWOO](https://open.spotify.com/artist/5Zu4Ot9NEWCHZ8IP7poTDw) | [Grumbling](https://open.spotify.com/album/0BGKFTtfBmXVf72amsr4ZL) | 3:04 | 2022-02-10 | 2022-04-16 |
 | [HAAN DEMO 2](https://open.spotify.com/track/40pFXhQsyPJvXICzULkc8v) | [DWIGON](https://open.spotify.com/artist/43IGet85Estmbg7gKpsOJa) | [All the Month I spent with you : OCTOBER](https://open.spotify.com/album/4DoGu8sHkPjfynT0GSA1wc) | 2:38 | 2021-12-10 | 2022-04-06 |
 | [Happy Birthday](https://open.spotify.com/track/53LsGc9un1ZfoatZsDhaLP) | [Joochan](https://open.spotify.com/artist/2yyL9EIPSIx2l88MVRdtfW) | [Happy Birthday](https://open.spotify.com/album/78rGEV4Hsdblw0sK6t7Zo0) | 3:18 | 2022-01-13 | 2022-04-13 |

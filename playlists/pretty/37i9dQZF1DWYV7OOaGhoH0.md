@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from  Big Thief
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,789,052 likes - 102 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,788,583 likes - 102 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 101 | [Love's Changing](https://open.spotify.com/track/3iVCKpWyKO17f7FLpTle5e) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Love's Changing](https://open.spotify.com/album/3YLGKAVQGU3HoHTTGuAU7a) | 4:30 |
 | 102 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
 
-Snapshot ID: `aExccAAAAABeIoMZD8a3GgRLvFmnyA7t`
+Snapshot ID: `aExccAAAAAAzw6cQfnbroz082Omml5ph`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,285 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,229 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 |
 | 75 | [Somebody To You \(feat\. Cory Wong & Vincen García\)](https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Vincen García](https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 4:11 |
 
-Snapshot ID: `AAAAAKhauWZovTFo16qBfzEjo8PSpe9q`
+Snapshot ID: `aEJnzwAAAAA93fRTr+vVaXk7cE5iVJbr`

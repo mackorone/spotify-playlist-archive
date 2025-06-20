@@ -30427,6 +30427,24 @@
     },
     {
       "album": {
+        "name": "It's the Weekend",
+        "url": "https://open.spotify.com/album/6qoXP3R1Uue8qsggAQu6MQ"
+      },
+      "artists": [
+        {
+          "name": "Nikita Marasey",
+          "url": "https://open.spotify.com/artist/6LODgGQ6Q8E6szNBq4ao1r"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211872,
+      "name": "It's the Weekend",
+      "url": "https://open.spotify.com/track/5Cr0u3jr6NvdW57XxUqiGu"
+    },
+    {
+      "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/1cd6fSCJ2SnMDUVc7UZXip"
       },

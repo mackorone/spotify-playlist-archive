@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,349 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,357 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 149 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 |
 | 150 | [Délire](https://open.spotify.com/track/4A0Jb75jdmpzmTjLKIBPLq) | [Ethan Mark](https://open.spotify.com/artist/20ZHmYNQXa3NoerXEAADpl), [Flo Rynn](https://open.spotify.com/artist/1znEU6ZKZcYBGxyRLMQhVc) | [Délire](https://open.spotify.com/album/4wA9HffWEHfbTdCI1ToPM0) | 2:34 |
 
-Snapshot ID: `Z8tszQAAAABKjy8XTP6uDxGfV5A5ChcG`
+Snapshot ID: `Z8tszQAAAABhn4kAV6X979VVzpeZJlLh`

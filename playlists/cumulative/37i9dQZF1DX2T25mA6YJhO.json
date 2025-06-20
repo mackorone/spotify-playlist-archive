@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Depresi\u00f3n Sonora.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Casero.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 131230,
       "name": "Bolsas",
       "url": "https://open.spotify.com/track/7qrBjMQLyq04f4SNAAf1B5"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 151771,
       "name": "Dante",
       "url": "https://open.spotify.com/track/201fVFglh8ZrS7zbiMHn10"
@@ -1588,6 +1588,24 @@
       "duration_ms": 187656,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/1jqOv7hQoCmw4XxIkNOHV8"
+    },
+    {
+      "album": {
+        "name": "DESUBICAO",
+        "url": "https://open.spotify.com/album/3I4v5BPwjGOo45mbTcC0Jm"
+      },
+      "artists": [
+        {
+          "name": "Modelo",
+          "url": "https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139384,
+      "name": "DESUBICAO",
+      "url": "https://open.spotify.com/track/4dc6Bdv25xg0zztKbYjOcM"
     },
     {
       "album": {
@@ -2708,7 +2726,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 119924,
       "name": "Hawai",
       "url": "https://open.spotify.com/track/67lL344uB5ste8dehjLCqG"
@@ -3438,7 +3456,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 197222,
       "name": "Ll\u00e9vame M\u00e1s Lejos",
       "url": "https://open.spotify.com/track/1j4q60WIyYw73q39sxfrFQ"
@@ -4422,6 +4440,24 @@
       "duration_ms": 137237,
       "name": "Nacho Fern\u00e1ndez",
       "url": "https://open.spotify.com/track/1zCYOQTuQE48x5vcXkmi6k"
+    },
+    {
+      "album": {
+        "name": "Nada es suficiente",
+        "url": "https://open.spotify.com/album/4vWOImq9W2P7gOZqzrbSoA"
+      },
+      "artists": [
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189075,
+      "name": "Nada es suficiente",
+      "url": "https://open.spotify.com/track/2BvN03SIqklDId5TWonuhq"
     },
     {
       "album": {
@@ -5630,7 +5666,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 123309,
       "name": "Rob Gordon",
       "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
@@ -6078,6 +6114,24 @@
       "duration_ms": 242870,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Lo Que Quiero",
+        "url": "https://open.spotify.com/album/7pWL1LAJaW1TZnH2VJFvMD"
+      },
+      "artists": [
+        {
+          "name": "La Paloma",
+          "url": "https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155403,
+      "name": "S\u00e9 Lo Que Quiero",
+      "url": "https://open.spotify.com/track/0hjmqetCUhd1EQBnVEulLI"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 162059,
+  "num_followers": 162130,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Diggin' On Dylan",
-        "url": "https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh"
-      },
-      "artists": [
-        {
-          "name": "Denny Freeman",
-          "url": "https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv"
-        }
-      ],
-      "duration_ms": 288613,
-      "name": "Gotta Serve Somebody",
-      "url": "https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Big Town Playboy",
         "url": "https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 200520,
       "name": "Since I Met You Baby",
       "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Diggin' On Dylan",
+        "url": "https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh"
+      },
+      "artists": [
+        {
+          "name": "Denny Freeman",
+          "url": "https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv"
+        }
+      ],
+      "duration_ms": 288613,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -571,22 +571,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Cold Snap",
-        "url": "https://open.spotify.com/album/5huupthUYwYsiR9jGyxm0O"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "I Ain't Drunk",
-      "url": "https://open.spotify.com/track/6MsrmoeiVpoNUAc4FsNPPP"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 236026,
       "name": "Sugar Coated Love",
       "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Cold Snap",
+        "url": "https://open.spotify.com/album/5huupthUYwYsiR9jGyxm0O"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "I Ain't Drunk",
+      "url": "https://open.spotify.com/track/6MsrmoeiVpoNUAc4FsNPPP"
     },
     {
       "added_at": "2016-03-18 21:56:19",

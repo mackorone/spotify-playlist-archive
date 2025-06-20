@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Biffy Clyro ",
+  "description": "The UK's biggest rock playlist. Cover: Muse",
   "name": "The Rock List",
   "tracks": [
     {
@@ -3563,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "Cowbella",
+        "url": "https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263537,
+      "name": "Cowbella",
+      "url": "https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu"
+    },
+    {
+      "album": {
         "name": "LETHAL",
         "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
       },
@@ -3650,7 +3668,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 152613,
       "name": "CRUISING TO SELF SOOTHE",
       "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
@@ -4552,7 +4570,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 205086,
       "name": "Eighteen Crows",
       "url": "https://open.spotify.com/track/6NFU9CdbiesVSuApjQf5NT"
@@ -4678,7 +4696,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 172509,
       "name": "even as if never//",
       "url": "https://open.spotify.com/track/2nNhgnteeWCDPYM4Q9RxHX"
@@ -5356,7 +5374,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 201333,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4t4veTYSVvPHSWSlLMAvRC"
@@ -6367,6 +6385,42 @@
     },
     {
       "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193182,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
+    },
+    {
+      "album": {
+        "name": "McCartney, It'll Be OK",
+        "url": "https://open.spotify.com/album/72ngHbkK2oI4I3FRqN4cxR"
+      },
+      "artists": [
+        {
+          "name": "UNIVERSITY",
+          "url": "https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376240,
+      "name": "Gorilla Panic",
+      "url": "https://open.spotify.com/track/5NRVsdXTLb1LpXegpEbINf"
+    },
+    {
+      "album": {
         "name": "GOSSIP (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
@@ -6436,7 +6490,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 224080,
       "name": "Ha Ha Ha",
       "url": "https://open.spotify.com/track/13psHLwbqlx8k9OHmBVL58"
@@ -6494,6 +6548,24 @@
       "duration_ms": 200244,
       "name": "HAMMER",
       "url": "https://open.spotify.com/track/49p6Jr3v4lrHxoUa7XnMN5"
+    },
+    {
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
     },
     {
       "album": {
@@ -8009,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "Into Hell",
+        "url": "https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192210,
+      "name": "Into Hell",
+      "url": "https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC"
+    },
+    {
+      "album": {
         "name": "Into the Trap",
         "url": "https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE"
       },
@@ -8312,7 +8402,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 183046,
       "name": "Julia's War",
       "url": "https://open.spotify.com/track/3BMOWnSBFfWK6iI215a7sl"
@@ -8792,7 +8882,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 145331,
       "name": "Lawn Tennis",
       "url": "https://open.spotify.com/track/2NYND3Ka9Y4DW6IfaAPDHG"
@@ -9445,6 +9535,24 @@
     },
     {
       "album": {
+        "name": "Love Is Cruel",
+        "url": "https://open.spotify.com/album/2BYbTmMxBbBxP2d7uPTxIo"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193984,
+      "name": "Love Is Cruel",
+      "url": "https://open.spotify.com/track/0u7sy3s6Wu2VrYwqub4Rp2"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -9644,6 +9752,24 @@
       "duration_ms": 181377,
       "name": "Man Of The Hour",
       "url": "https://open.spotify.com/track/3c6UDCA6oRifiwLJMkTgfh"
+    },
+    {
+      "album": {
+        "name": "Man On A Mission",
+        "url": "https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211721,
+      "name": "Man On A Mission",
+      "url": "https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG"
     },
     {
       "album": {
@@ -11799,6 +11925,24 @@
     },
     {
       "album": {
+        "name": "Paint A Picture",
+        "url": "https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168555,
+      "name": "Paint A Picture",
+      "url": "https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh"
+    },
+    {
+      "album": {
         "name": "PANIC",
         "url": "https://open.spotify.com/album/7fQtRHWEgTOHz0kdl1twdv"
       },
@@ -12654,7 +12798,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 176965,
       "name": "Ratbag",
       "url": "https://open.spotify.com/track/3BvjuuVPy8VcfTIFXE5QWE"
@@ -13699,6 +13843,24 @@
     },
     {
       "album": {
+        "name": "Sick Of Being Down",
+        "url": "https://open.spotify.com/album/38sDUnAK5fzcaPIvxVXvyB"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204012,
+      "name": "Sick Of Being Down",
+      "url": "https://open.spotify.com/track/6S33PGYHXqJQY5pSrdJsUP"
+    },
+    {
+      "album": {
         "name": "Sickle Walk",
         "url": "https://open.spotify.com/album/6MQNLn5s50T013YCvy9ZXN"
       },
@@ -13908,7 +14070,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 168554,
       "name": "Smash It Like Belushi",
       "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
@@ -14124,7 +14286,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 133853,
       "name": "Soprano",
       "url": "https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX"
@@ -15542,7 +15704,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 161200,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/27JSigS6OO6Ezo3b5WzF1m"
@@ -15726,6 +15888,24 @@
       "duration_ms": 190574,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
+    },
+    {
+      "album": {
+        "name": "Raspberry Moon",
+        "url": "https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141834,
+      "name": "The Scene",
+      "url": "https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP"
     },
     {
       "album": {
@@ -15956,7 +16136,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 248480,
       "name": "Thorn",
       "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
@@ -16472,6 +16652,24 @@
       "duration_ms": 135831,
       "name": "Uno II",
       "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
+    },
+    {
+      "album": {
+        "name": "Unravelling",
+        "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238002,
+      "name": "Unravelling",
+      "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
     },
     {
       "album": {

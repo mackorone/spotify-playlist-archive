@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Ocean Alley",
+  "description": "New and local indie noise. Cover: MAY-A",
   "name": "Local Noise",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 233034,
       "name": "'Til Kingdom Come",
       "url": "https://open.spotify.com/track/4zR1HXnD4sqt1UGf7dFsgn"
+    },
+    {
+      "album": {
+        "name": "149",
+        "url": "https://open.spotify.com/album/2i36YYbumEwDEY5jtmLUW6"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150577,
+      "name": "149",
+      "url": "https://open.spotify.com/track/2IuIgcXrJoxcJwgOIA57cY"
     },
     {
       "album": {
@@ -135,6 +153,24 @@
     },
     {
       "album": {
+        "name": "[REDACTED]",
+        "url": "https://open.spotify.com/album/1G9pxhwLN4hLvoTh470a2E"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144533,
+      "name": "[REDACTED]",
+      "url": "https://open.spotify.com/track/6BNaYgSwdHidtDzOuVH5qS"
+    },
+    {
+      "album": {
         "name": "Dead-end Rodeo",
         "url": "https://open.spotify.com/album/4q7uK6eP7CXcfH96FqBiVD"
       },
@@ -222,6 +258,24 @@
       "duration_ms": 168624,
       "name": "ADELINE",
       "url": "https://open.spotify.com/track/5nyBSIq6IisubcU7xoPdoO"
+    },
+    {
+      "album": {
+        "name": "Phantom Island",
+        "url": "https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286764,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG"
     },
     {
       "album": {
@@ -1144,7 +1198,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 182962,
       "name": "Breaking Into Heaven",
       "url": "https://open.spotify.com/track/1FG6yTry6hBsOcnb21fCNt"
@@ -1670,6 +1724,24 @@
       "duration_ms": 217914,
       "name": "City Limits",
       "url": "https://open.spotify.com/track/7sEDFfSn2m88Clrjq8V8Sv"
+    },
+    {
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/1XrG4FbpWriXEqBBriZD50"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211814,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0YwpENNbchlW7WKAhgxEov"
     },
     {
       "album": {
@@ -2401,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Don't Take It To Heart",
+        "url": "https://open.spotify.com/album/0SECD7bPZhpTxADW36KlZa"
+      },
+      "artists": [
+        {
+          "name": "The Southern River Band",
+          "url": "https://open.spotify.com/artist/77giZvm3lPMYiI79FmmS31"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "Don't Take It To Heart",
+      "url": "https://open.spotify.com/track/7kXm0qklFJmunGqWtAJa79"
+    },
+    {
+      "album": {
         "name": "(un)adored",
         "url": "https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd"
       },
@@ -2654,7 +2744,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 169850,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
@@ -4488,7 +4578,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 230975,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/6ZecuudU12fEeagIYQiETo"
@@ -4758,7 +4848,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 244628,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/6XspU6BKukYQauL7z4xjhV"
@@ -4776,7 +4866,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 246713,
       "name": "Just Because You Can",
       "url": "https://open.spotify.com/track/1v9mSbytPydcNpzKojTWZp"
@@ -4816,6 +4906,24 @@
       "duration_ms": 243000,
       "name": "Keep Falling",
       "url": "https://open.spotify.com/track/6zSutfSvyxSKezddCTisfr"
+    },
+    {
+      "album": {
+        "name": "Kickstarter",
+        "url": "https://open.spotify.com/album/7nVx4ts91IVTfihEXqaDzt"
+      },
+      "artists": [
+        {
+          "name": "The Sooks",
+          "url": "https://open.spotify.com/artist/7AJRbMEkOOcr3YRQqR75tj"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171630,
+      "name": "Kickstarter",
+      "url": "https://open.spotify.com/track/4nUp3Nkh8hpNUhWjyM8wA1"
     },
     {
       "album": {
@@ -5000,7 +5108,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 254946,
       "name": "Left Of The Dealer",
       "url": "https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D"
@@ -5112,6 +5220,24 @@
       "duration_ms": 151106,
       "name": "Like No Other",
       "url": "https://open.spotify.com/track/5Hjj61HTqfrvxORvRs7fDH"
+    },
+    {
+      "album": {
+        "name": "Late Fee",
+        "url": "https://open.spotify.com/album/7c1h0tdyNGHrRtcFfZJ3Vm"
+      },
+      "artists": [
+        {
+          "name": "DIVEBAR YOUTH",
+          "url": "https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218761,
+      "name": "living",
+      "url": "https://open.spotify.com/track/0HfGVMPCyfCrVNKhbZC4ON"
     },
     {
       "album": {
@@ -5364,7 +5490,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 170398,
       "name": "Malvern Star",
       "url": "https://open.spotify.com/track/0bM2w4E0VbUi3Fjb89FTZI"
@@ -5602,6 +5728,24 @@
       "duration_ms": 173949,
       "name": "Mess Me Around",
       "url": "https://open.spotify.com/track/15iqr1fwQeT6bJR2T43WtG"
+    },
+    {
+      "album": {
+        "name": "MESSED UP",
+        "url": "https://open.spotify.com/album/5xLGQn1M8PM1LIHzBl59Jv"
+      },
+      "artists": [
+        {
+          "name": "SoSo",
+          "url": "https://open.spotify.com/artist/4bdIMnDadxc6M1bnaHieL0"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "MESSED UP",
+      "url": "https://open.spotify.com/track/0EQhrV6nAIehIXqsblyi7S"
     },
     {
       "album": {
@@ -6560,7 +6704,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 206829,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/6ez4bGJoi57CgMuCxiYFz3"
@@ -7652,6 +7796,28 @@
       "duration_ms": 161848,
       "name": "Scared Of The Dog",
       "url": "https://open.spotify.com/track/5caxlhOAQN2XN5BKKp0gtf"
+    },
+    {
+      "album": {
+        "name": "Scene",
+        "url": "https://open.spotify.com/album/5fJ57H1kJ7aP1usIWAjMUX"
+      },
+      "artists": [
+        {
+          "name": "Full Flower Moon Band",
+          "url": "https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4"
+        },
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191249,
+      "name": "Scene",
+      "url": "https://open.spotify.com/track/2petumqUp7aFgl9n6HEMiI"
     },
     {
       "album": {
@@ -9255,6 +9421,24 @@
     },
     {
       "album": {
+        "name": "The Gospel of Luke",
+        "url": "https://open.spotify.com/album/2FcwdH64bFHPbWUBQGnmoG"
+      },
+      "artists": [
+        {
+          "name": "British India",
+          "url": "https://open.spotify.com/artist/7FbzGvWpjaY6o3AkdWoZVO"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "The Gospel of Luke",
+      "url": "https://open.spotify.com/track/4sSBioiRxTC66Jwu8ARepx"
+    },
+    {
+      "album": {
         "name": "The Hogg",
         "url": "https://open.spotify.com/album/4ONoMe87kCX6GV7gAs6DdA"
       },
@@ -9266,7 +9450,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 200453,
       "name": "The Hogg",
       "url": "https://open.spotify.com/track/0EafyqIHJGK9WuTX5KaqZ7"
@@ -10098,7 +10282,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 151646,
       "name": "What We're Livin' For - NRL Anthem",
       "url": "https://open.spotify.com/track/282EtkCLlLmxpEqSjmRga3"

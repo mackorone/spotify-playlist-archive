@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWClqdpciZPJ.md) - [plain]
 
 > Music from "The Irregular at Magic High School"! /音楽で辿る「魔法科高校の劣等生」の世界。©2023 佐島 勤/KADOKAWA/魔法科高校3製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,587 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,589 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWClqdpciZPJ.md) - [plain]
 | 49 | [failure](https://open.spotify.com/track/22uhSqZzwwG1KCElYXDnP3) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [劇場版 魔法科高校の劣等生 星を呼ぶ少女 オリジナルサウンドトラック \(Selected Edition\)](https://open.spotify.com/album/24FfgBhdr1PRRCYGlYgXlz) | 2:02 |
 | 50 | [×\-game](https://open.spotify.com/track/0wA8J8cTPTMJghORaZV9Q5) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [劇場版 魔法科高校の劣等生 星を呼ぶ少女 オリジナルサウンドトラック \(Selected Edition\)](https://open.spotify.com/album/24FfgBhdr1PRRCYGlYgXlz) | 1:23 |
 
-Snapshot ID: `ZqkA5QAAAABHY+vxsTIo3jhZykpqJbnL`
+Snapshot ID: `AAAAAHIvEoZIk5P+eCdFn1Ib8367SoJY`

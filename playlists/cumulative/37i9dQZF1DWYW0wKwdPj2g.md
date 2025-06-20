@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-238 songs - 1 day 7 hr 40 min
+239 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Army is Rising \- Live](https://open.spotify.com/track/6WSfFc0qnMc45aUKjTA3ZS) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Army is Rising \(Live\)](https://open.spotify.com/album/5csDDcnxHvHQdtHnRMWqb6) | 8:56 | 2025-04-04 | 2025-05-09 |
 | [Assurance \- Live](https://open.spotify.com/track/6UuD65fHX7kRFVQEGiitXC) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [Achiaamusic](https://open.spotify.com/artist/5xPYTQWXbUEcjrT6pMrksd) | [Assurance \(Live\)](https://open.spotify.com/album/0AMn3yQQM1wjEiXNbFY2Ed) | 3:42 | 2025-03-07 | 2025-04-11 |
 | [AWAKE](https://open.spotify.com/track/7aazbjtRjChzjEmsVYSv39) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [AWAKE](https://open.spotify.com/album/2J7DouFwiT7iuub7sFWmkb) | 12:10 | 2025-01-31 | 2025-02-21 |
-| [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 | 2025-05-16 |  |
+| [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 | 2025-05-16 | 2025-06-20 |
 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 | 2024-02-23 |  |
 | [Baba \- Live](https://open.spotify.com/track/1oKrZGoL2m5XjJ6455wPMy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Baba \(Live\)](https://open.spotify.com/album/2DBgaWfBAVa8fUvZ3zrAAN) | 13:51 | 2025-05-30 |  |
 | [BABA \- Live](https://open.spotify.com/track/10nL0WbPekKR9seUzj62E9) | [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [BABA \(Live\)](https://open.spotify.com/album/2Ju0GzV87aNJ98mm21XjGJ) | 7:01 | 2025-05-09 |  |
@@ -172,6 +172,7 @@
 | [Omemma](https://open.spotify.com/track/12g6OxatpkEvYBdiSTUI9C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/58wrEUE51xyTyZ4A4uL091) | 6:34 | 2024-02-23 | 2024-04-19 |
 | [Omemma \- \(Live\)](https://open.spotify.com/track/7oWP17AUvTig60GCXuXeFl) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/0YUY2M4XWrK5xMFJ0HDS1H) | 6:34 | 2024-02-23 |  |
 | [Omemma \- Live](https://open.spotify.com/track/428iORDSeSdLxmoQS7DAjn) | [Winifred Afimoni](https://open.spotify.com/artist/00Poc6DBc5Gpu8m8lJhsZ5) | [Omemma \(Live\)](https://open.spotify.com/album/0T5EcQSUH8gOwlpwI3riqR) | 9:24 | 2025-02-28 | 2025-05-23 |
+| [Only You \(Live\)](https://open.spotify.com/track/6PQ6xxWWDUJJeD6sIZWetL) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Only You \(Live\)](https://open.spotify.com/album/2Z0pI31oUNhphHR8wAXP88) | 5:13 | 2025-06-20 |  |
 | [Only You \- Live](https://open.spotify.com/track/5GaU7VE0s3s0swmNvfMDmt) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Only You \- Live](https://open.spotify.com/album/45JvaXvxfvciQ8CA4HhNgG) | 9:30 | 2024-09-06 | 2024-10-04 |
 | [Osivwi \(My Redeemer\)](https://open.spotify.com/track/1W9mDCe9Gum4XlBtKMux0r) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Osivwi \(My Redeemer\)](https://open.spotify.com/album/0S6zkrcx4YFxAWAGYrTqqW) | 9:39 | 2024-11-22 | 2025-01-17 |
 | [Otshepehile \(Live\)](https://open.spotify.com/track/0KDDwVykcd6tqsIKBT7w9j) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Spirit Of Praise 10 \(Live\)](https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv) | 8:03 | 2024-09-06 | 2025-01-17 |

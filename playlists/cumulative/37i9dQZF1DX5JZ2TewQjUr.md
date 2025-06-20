@@ -4,12 +4,13 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Paula Au
 
-1,444 songs - 3 day 9 hr 25 min
+1,449 songs - 3 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(this year\) november is still very hot](https://open.spotify.com/track/341z7uCOO89yihzdmWm8OL) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [\(this year\) november is still very hot](https://open.spotify.com/album/32CbRChHsKNXNIjtmNIX5i) | 3:12 | 2024-12-26 | 2025-04-25 |
 | [\*醉曖♥suck眠xD](https://open.spotify.com/track/6x0tJyZTvgJWltU5IVjwLX) | [Tynull](https://open.spotify.com/artist/0Xda6eqKjS4xRDAVFXoYNH) | [\*醉曖♥suck眠xD](https://open.spotify.com/album/3kyqAEJGtbMnxHzGyypdH5) | 4:39 | 2022-05-26 | 2022-07-29 |
+| [+852](https://open.spotify.com/track/71hGU6wZ22gCou5MfHyX1a) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [+852](https://open.spotify.com/album/7ovihG7DFAeJQkQiBmCrUm) | 2:41 | 2025-06-19 |  |
 | [1 puff 2 puff](https://open.spotify.com/track/43mJLfoJdfYR9y4kNlIOCe) | [李三鳩](https://open.spotify.com/artist/10AU7r92ACndtTFKsDJTVm) | [1 puff 2 puff](https://open.spotify.com/album/0OYN6aHLM2cpoyo5yNO7Q6) | 3:50 | 2022-07-28 | 2022-09-09 |
 | [1 step at a time](https://open.spotify.com/track/5OWPByz3yIouPj6rmFBZIE) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [1 step at a time](https://open.spotify.com/album/636IBCgeztGgfsNQRGJyUk) | 3:07 | 2023-03-16 | 2023-07-14 |
 | [10khours sketch \#2 \(you're jazzy in some ways..\)](https://open.spotify.com/track/2YxPNFMlQGZxQ5sSZHQ1b4) | [Denni N](https://open.spotify.com/artist/0yDDyHmNe83A0flHy0CalI) | [10khours sketch \#2 \(you're jazzy in some ways..\)](https://open.spotify.com/album/7LKbgrjKJOqJMw9V9eSt0r) | 1:11 | 2025-03-20 |  |
@@ -641,6 +642,7 @@
 | [outrun](https://open.spotify.com/track/6xYJ0n8OBSbYxJ746skLnf) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [outrun](https://open.spotify.com/album/5mLWUEjcJzpbY9TQIqvkrP) | 4:00 | 2023-04-13 | 2023-07-14 |
 | [overthinking](https://open.spotify.com/track/4WSID4u69gGKFwCeOP1lLk) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [overthinking](https://open.spotify.com/album/28ZQdT8zN4AvVF5qGcDlzp) | 2:38 | 2022-05-26 | 2022-07-29 |
 | [overthinking](https://open.spotify.com/track/1jCbIFQyPDiJ1cW2LBSxUx) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [overthinking](https://open.spotify.com/album/0MrwbhIr37SlyUDMw3ly8m) | 3:22 | 2022-05-26 | 2022-09-09 |
+| [Pacific Ocean 太平洋](https://open.spotify.com/track/2Sszm6AzRIs1tDLJFpHk7u) | [Big Spoon](https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz) | [Pacific Ocean 太平洋](https://open.spotify.com/album/3Zh1ixYqJvCVbmoKr48Pue) | 2:53 | 2025-06-19 |  |
 | [paper love](https://open.spotify.com/track/0sa48wOE7TieaeNNnc6iMB) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [paper love](https://open.spotify.com/album/5x3RRytmYQQQE8eZ5kpRUD) | 4:21 | 2025-05-01 |  |
 | [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 | 2024-10-03 | 2025-02-14 |
 | [Paranoid](https://open.spotify.com/track/5p386vqrXRc5nwLFj17lZW) | [Squarehead](https://open.spotify.com/artist/2WK00atpKQCYHAEReN2nD2), [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy) | [Paranoid](https://open.spotify.com/album/2ex4x3YbrlsJbiv7QoMG76) | 3:14 | 2022-11-03 | 2023-02-03 |
@@ -1023,6 +1025,7 @@
 | [今次動真格](https://open.spotify.com/track/43TAdcNSQwqX5kfXiwvbzG) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH) | [今次動真格](https://open.spotify.com/album/0EAiKz8T1MvS8G6EcV5bxF) | 3:19 | 2024-03-28 | 2024-06-07 |
 | [仍在你的夢不醒](https://open.spotify.com/track/04UxeVD8jCvGX7EYF0v06m) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Then I Met You](https://open.spotify.com/album/4aGIraPDXO9Xu1lzVehNnw) | 3:20 | 2024-08-29 | 2024-12-13 |
 | [以後我哋雲上見。](https://open.spotify.com/track/0RPpegE2YhCM0MZxQF8uG7) | [NTopic](https://open.spotify.com/artist/3MUbd9Eo7TQznhqjzxSVuQ) | [以後我哋雲上見。](https://open.spotify.com/album/73DFH6KerjLm8D2Anh7xYM) | 2:13 | 2023-02-09 | 2023-07-14 |
+| [似乎又明白了一些事](https://open.spotify.com/track/1J0SrGzCOVvtgPZDIpwISf) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [似乎又明白了一些事](https://open.spotify.com/album/18ujp6HqNic7iOay1gSiMQ) | 4:18 | 2025-06-19 |  |
 | [但願你有覺好瞓](https://open.spotify.com/track/3LPJb0DtlhMzxerZAU76Ni) | [CoverDog](https://open.spotify.com/artist/7HZmsgw0Cz0bKN1ftoUKHI), [土風舞冬菇](https://open.spotify.com/artist/25jiiIgcjKdTo9PkuCg55i) | [但願你有覺好瞓](https://open.spotify.com/album/3B6UfBw4cVwVmDHi5k2wuc) | 3:19 | 2025-03-06 | 2025-04-25 |
 | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/track/3jfn6a5nJ1Arc0xWuvsYmi) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/album/2QL7B3R6G4TWXHWOyHHOLd) | 3:38 | 2022-05-26 | 2022-07-29 |
 | [佛道說](https://open.spotify.com/track/5tFw3RidRO4E35LEjdUYgM) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [佛道說](https://open.spotify.com/album/23bUb8IAQi2bj9Z3wbvFID) | 3:48 | 2024-06-20 | 2024-11-15 |
@@ -1304,6 +1307,7 @@
 | [溫飽藝術家Grounded](https://open.spotify.com/track/3uirvgoCuUj6dHsFKC4hEy) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [溫飽藝術家Grounded](https://open.spotify.com/album/0WAWOZlVkEwV9V7aIhcWzE) | 2:42 | 2023-11-02 | 2024-01-05 |
 | [滄海一聲笑 \(Laughter in the Vast Sea\)](https://open.spotify.com/track/40NwIyGA1UvEnYuiQ6RBHC) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6) | [江湖救急 \(Emergencies among Lakes and Rivers\)](https://open.spotify.com/album/1eRi1YsHyU8sdkPKib7f4A) | 3:40 | 2024-09-26 | 2025-02-14 |
 | [漂流鯨](https://open.spotify.com/track/71MtuDzB0yuqB5Zx8ayf5X) | [INTROVERSE](https://open.spotify.com/artist/71md0yuGVfBVCun7P4AyKn) | [漂流鯨](https://open.spotify.com/album/3zo9y6MG8FWBcouA05hQSk) | 4:31 | 2024-05-23 | 2024-11-15 |
+| [漪 {Ripple ver.}](https://open.spotify.com/track/2W346APeNn2vYyrPGsSp2m) | [Just a broken machine](https://open.spotify.com/artist/1DLbiQXsesKp5HMktwfC64), [dlwindle](https://open.spotify.com/artist/1UNh3VR67drIdOJaau0wOH) | [《漪》](https://open.spotify.com/album/0cuVA3cYepTiSirlWus68L) | 4:39 | 2025-06-19 |  |
 | [漸空](https://open.spotify.com/track/4M5wtKptoXz2Qfopqmmk03) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [漸空](https://open.spotify.com/album/2UNf7Yb57Ywuz3eH1TMlZ1) | 3:56 | 2023-12-21 | 2024-02-16 |
 | [潛意識喜歡你 \- live](https://open.spotify.com/track/1E0SqeptBemNRhFz0lHcqF) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [潛意識喜歡你 \(live\)](https://open.spotify.com/album/1xwIg2YdBPNmzNjXQhkaWV) | 3:06 | 2025-02-27 |  |
 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 | 2023-01-05 | 2023-09-15 |
@@ -1400,6 +1404,7 @@
 | [轉個身擁抱](https://open.spotify.com/track/4Lr6oJWXDw4dH9j6Gx9DKr) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [轉個身擁抱](https://open.spotify.com/album/4Bxi1DFRqMZ4ZgZup60baS) | 3:57 | 2023-08-10 | 2023-12-01 |
 | [轉生友誼戰隊](https://open.spotify.com/track/2y0FdmpncYoiJhPXa16ziY) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV), [FUNGMADE 卓峰整嘅](https://open.spotify.com/artist/2anUMLZS9l0BCp2edXOz9I), [KRAY](https://open.spotify.com/artist/1Vknqy3noTujdCjbI3xxF1) | [00](https://open.spotify.com/album/1GXxkt7bWKXlCzl6yADbOa) | 2:27 | 2023-02-24 | 2023-07-14 |
 | [返公司](https://open.spotify.com/track/4CKVDUZQpCfoIakasDGT2v) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [叫咩名好？](https://open.spotify.com/album/3gRcvKNtsmHWcy5UXrY3SQ) | 3:20 | 2024-02-01 | 2024-05-10 |
+| [迷宮內在 inner maze](https://open.spotify.com/track/4DtMGsa2QTLJ74HHLdubVM) | [王和平](https://open.spotify.com/artist/0QZFObHsPNvgQzKquyuVvt), [bright](https://open.spotify.com/artist/74Ul6MwHluMULyDRZMxcUu) | [迷宮內在 inner maze](https://open.spotify.com/album/7qDuXLeJ3tLReHW8fICsP2) | 3:38 | 2025-06-19 |  |
 | [迷魂大結界](https://open.spotify.com/track/2dPsqF5JKM91BTNBcChMHT) | [HUIJING](https://open.spotify.com/artist/17rS7q68uYpuNcvfWpPVid) | [迷魂大結界](https://open.spotify.com/album/1j6PISUpxdDQK88fcCuVzN) | 2:36 | 2022-12-15 | 2023-03-18 |
 | [這一刻](https://open.spotify.com/track/040s2wMjsI6dx2s4jxotsW) | [章尾而](https://open.spotify.com/artist/15lQfNMoKWIjKGF0UQsy0M) | [這一刻](https://open.spotify.com/album/0UymFV8EXC7fpLEHjD3lvY) | 3:13 | 2025-02-14 | 2025-04-25 |
 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 | 2022-05-26 | 2022-07-29 |

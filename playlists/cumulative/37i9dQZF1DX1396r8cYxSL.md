@@ -2,7 +2,7 @@
 
 ### [Yaz Hitleri 2025](https://open.spotify.com/playlist/37i9dQZF1DX1396r8cYxSL)
 
-> 2025 yazına damga vuracak şarkılar\. Kapak: Selin
+> 2025 yazına damga vuracak şarkılar\. Kapak: Zeynep Bastık
 
 141 songs - 6 hr 45 min
 

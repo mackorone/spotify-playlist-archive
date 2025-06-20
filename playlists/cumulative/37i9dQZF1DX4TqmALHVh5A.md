@@ -2,16 +2,16 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : Feu! Chatterton
+> La scène francophone branchée sur courant alternatif\. Photo : Axel Bauer & Brigitte Fontaine
 
-312 songs - 16 hr 42 min
+314 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(\(\(Stup Lore\)\)\) \(Antidote remix\)](https://open.spotify.com/track/17aqoGw7X6YcC0qnwMJ9Pf) | [Stupeflip](https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai) | [\(\(\(Stup Lore\)\)\) \(Antidote remix\)](https://open.spotify.com/album/7xmJFpCu5kIp7pBwlaM5vC) | 2:54 | 2024-11-21 | 2025-04-11 |
 | [200 km/h](https://open.spotify.com/track/17UYpnAQnpJLBJCeg8YFUX) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [200 km/h](https://open.spotify.com/album/5xjwqRzTw2YqtxbthiC1JM) | 2:40 | 2023-10-12 | 2023-12-08 |
 | [500 Vices](https://open.spotify.com/track/6kbSkAiySurZ6RwcauNVnF) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [500 Vices](https://open.spotify.com/album/3RU6yV2zzVAS9DX6TZHgyV) | 2:51 | 2023-11-23 | 2024-06-21 |
-| [<3](https://open.spotify.com/track/0kZ3M4DN0ml4ZH1AvpVzAl) | [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [<3](https://open.spotify.com/album/1dwZRTtMqOnrSJ2ytzKcyB) | 3:12 | 2025-02-13 |  |
+| [<3](https://open.spotify.com/track/0kZ3M4DN0ml4ZH1AvpVzAl) | [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [<3](https://open.spotify.com/album/1dwZRTtMqOnrSJ2ytzKcyB) | 3:12 | 2025-02-13 | 2025-06-20 |
 | [A l'envers](https://open.spotify.com/track/6sHyC8rtNTwKFqbYLYQRqz) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [A l'envers](https://open.spotify.com/album/2c3YboUmihsseuzBSeTOI9) | 2:51 | 2023-12-08 | 2024-04-19 |
 | [ABSENT](https://open.spotify.com/track/1l9i7t6NVvq99nVjzpd4wh) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [ABSENT](https://open.spotify.com/album/5dD02Ii745F2d6Fsa71Irb) | 1:51 | 2025-03-13 |  |
 | [Adios](https://open.spotify.com/track/1hKbnXEH8nAJlVpG9mtadI) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy), [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Adios](https://open.spotify.com/album/68HnsbMad7vqV3qg7a9NPY) | 3:20 | 2024-01-11 | 2024-02-02 |
@@ -99,6 +99,7 @@
 | [Encore](https://open.spotify.com/track/0kEJMP9Dtn4BV6oBQt2STI) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [ENCORE](https://open.spotify.com/album/1EK3ArOlQEaQCqBOlx59V0) | 1:57 | 2025-03-13 | 2025-06-06 |
 | [Encore](https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Encore](https://open.spotify.com/album/2vVTXNxUtGmHacca457lb7) | 3:02 | 2023-11-02 | 2023-11-24 |
 | [Encore](https://open.spotify.com/track/0MMwBokFBDp14xOgnqeVnR) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Encore](https://open.spotify.com/album/0sLK1piaW1NCzkFXVcQEjq) | 3:02 | 2024-05-16 | 2024-09-13 |
+| [ENCORE!](https://open.spotify.com/track/5HEAExffQ9taEhirCvDKZS) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ENCORE!](https://open.spotify.com/album/65SZnjdnG7PQt6HruiqQUY) | 2:06 | 2025-06-19 |  |
 | [EREX](https://open.spotify.com/track/1feBH7mhbbUMNdNWkQSBmb) | [EREX](https://open.spotify.com/artist/0XnzHfOGCVgYHiIImA595j) | [EREX](https://open.spotify.com/album/3jcZdyIm8YTnqChzI213uU) | 3:28 | 2024-10-17 | 2024-11-08 |
 | [Faded](https://open.spotify.com/track/7cLOHXK3Rst9Uhx2e4kbjm) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [PENNY](https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq) | [Faded](https://open.spotify.com/album/2ZhmKc7LGzKJ1s0n5EDwcJ) | 3:18 | 2025-02-20 |  |
 | [fermer les yeux](https://open.spotify.com/track/71lrP6Unh3jKzRDyTPU6ov) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [fermer les yeux](https://open.spotify.com/album/3ROY9Wamd7k7dFoPYzp4I6) | 2:10 | 2024-02-01 | 2024-03-08 |
@@ -192,7 +193,7 @@
 | [Monumental](https://open.spotify.com/track/7tJlVzsLzzmA7bLI9ytgS9) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Trois, Deux, Un](https://open.spotify.com/album/20yAmWJJUpuJpB3qkkWCng) | 3:11 | 2024-09-12 | 2024-10-25 |
 | [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 | 2024-08-15 | 2024-10-18 |
 | [MOURIR POUR MIEUX RENAITRE](https://open.spotify.com/track/5Lg3qeO2tE4mgADlzDsn6t) | [NAEKO](https://open.spotify.com/artist/0pyq140jTsiXoxlv1KKYzK) | [MOURIR POUR MIEUX RENAITRE](https://open.spotify.com/album/1LrbtJgbcgtDa5BmG8t90r) | 2:13 | 2025-05-15 |  |
-| [Mouvement](https://open.spotify.com/track/7GbsZEZ8zLcCU8TAbG6K7a) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Mouvement](https://open.spotify.com/album/3y809BPCmRsly2fQFKXDt3) | 2:38 | 2025-02-20 |  |
+| [Mouvement](https://open.spotify.com/track/7GbsZEZ8zLcCU8TAbG6K7a) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Mouvement](https://open.spotify.com/album/3y809BPCmRsly2fQFKXDt3) | 2:38 | 2025-02-20 | 2025-06-20 |
 | [Music on Hold 4 Ever](https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5) | [Music On Hold](https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda) | [4 Ever](https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO) | 3:08 | 2023-12-14 | 2024-05-03 |
 | [My Way \(with Creams\)](https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [My Way \(with Creams\)](https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo) | 3:14 | 2024-01-18 | 2024-03-29 |
 | [Méchant garçon](https://open.spotify.com/track/0UxirFJ2VwSeVI2xLXgSuU) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h), [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Méchant garçon](https://open.spotify.com/album/2mGz7zRWccHazZEIZnXqBJ) | 2:56 | 2024-09-12 | 2025-02-28 |
@@ -247,6 +248,7 @@
 | [Ring Ring](https://open.spotify.com/track/7j3EV0nEZTEAd01BBv56XU) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ), [Lulu Van Trapp](https://open.spotify.com/artist/6N9HDXBvQ0Nd9GVtHg3DMZ), [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1), [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Ring Ring](https://open.spotify.com/album/6b8tet4RtcjxGDU4Vc8tnD) | 2:32 | 2024-12-05 | 2025-05-02 |
 | [Rock 2000](https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Rock 2000](https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV) | 3:43 | 2024-01-12 | 2024-10-04 |
 | [Rocket](https://open.spotify.com/track/4bVxD1TfLNNlbridccs1cq) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB) | [What Can I Test ?](https://open.spotify.com/album/5Uuu85yxP9yb8EU310hfUW) | 3:44 | 2024-10-24 | 2025-03-14 |
+| [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 | 2025-06-19 |  |
 | [Rupture](https://open.spotify.com/track/4259dOSNSYPUdCr2xc7Z1I) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Rupture](https://open.spotify.com/album/5iVTpAPuVs7ge7EkDkitIP) | 4:42 | 2024-11-21 | 2025-04-18 |
 | [RÊVES](https://open.spotify.com/track/0cvQgykWnezK58jPRB8kBe) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [RÊVES](https://open.spotify.com/album/1uBZ6ZYFcFFP26QuX06Bmu) | 2:08 | 2025-05-22 |  |
 | [Rôles](https://open.spotify.com/track/2RihAENLznkliKDPEWV5qJ) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Rôles](https://open.spotify.com/album/3Obub0X33yuxKfEVvSAjXi) | 2:44 | 2023-11-23 | 2024-04-26 |

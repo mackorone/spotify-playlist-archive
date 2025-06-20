@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > Our editor’s picks for best songs from the misfits 2.0 universe in 2024\. Cover: Bambie Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,049 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,059 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 32 | [POISONOUS](https://open.spotify.com/track/6EgopYXPE6JT3xLc6oUwg0) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [POISONOUS](https://open.spotify.com/album/0PrQ1CHicF8l6f8K1Xcb0L) | 3:14 |
 | 33 | [April, I'm Dying](https://open.spotify.com/track/5MHFJVkIvhFA9qhkixxwJe) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Dead Forever](https://open.spotify.com/album/73j7d7GaTzG55d34VTVj7Y) | 4:56 |
 | 34 | [Maverick](https://open.spotify.com/track/32tVSXXTlx4uRl1T3IwRSP) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Evil, Hate Filled Female](https://open.spotify.com/album/3qm5HVQQS9WHTgl41jGe3z) | 3:34 |
-| 35 | [Black Metal](https://open.spotify.com/track/3WBo5OHxMalb1q7ZH1wt1S) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Black Metal](https://open.spotify.com/album/4KU1RDm144lhI773PVysE5) | 2:53 |
+| 35 | [Black Metal](https://open.spotify.com/track/3WBo5OHxMalb1q7ZH1wt1S) | [VIIZERO7](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Black Metal](https://open.spotify.com/album/4KU1RDm144lhI773PVysE5) | 2:53 |
 | 36 | [ACHOO!](https://open.spotify.com/track/0hc08eaPJJbYq9yQcaC3kj) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [CRITTERS REMIXED](https://open.spotify.com/album/4qfXgCrwxq4ygQZKPgRoAX) | 1:39 |
 | 37 | [Taste Better](https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Taste Better](https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ) | 2:53 |
 | 38 | [ASHAMED \[FEAT\. LAUREN MAYBERRY\]](https://open.spotify.com/track/6hzB661UwvHzs4ewpeaGCj) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [RAT WARS ULTRA EDITION](https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS) | 3:01 |

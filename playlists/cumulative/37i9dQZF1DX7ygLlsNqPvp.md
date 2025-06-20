@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Kwaku DMC
 
-250 songs - 12 hr 35 min
+251 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Pull Up](https://open.spotify.com/track/3cWvkCD9isTVUZ72ETXWyO) | [MAGESTY](https://open.spotify.com/artist/3V6xbGSuk5cJrzTAD0AG7p) | [Pull Up](https://open.spotify.com/album/3UwtSP7zqETH2kmP8HG1ww) | 3:36 | 2023-08-03 | 2023-08-11 |
 | [Radio](https://open.spotify.com/track/3OJTZiHmdYT2USRnRglgnm) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/23XvGYaFe7fU1bRteOPIVj) | 2:52 | 2023-01-13 | 2024-04-19 |
 | [Radio](https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/3e9ZA55qDYcenxT4REJ14g) | 2:52 | 2022-09-01 |  |
-| [Real Love](https://open.spotify.com/track/0dnsE50rhcduXpWKMwauYF) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Real Love](https://open.spotify.com/album/5RaIUa4in9b3Pgs2In3VeW) | 2:23 | 2025-02-28 |  |
+| [Real Love](https://open.spotify.com/track/0dnsE50rhcduXpWKMwauYF) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Real Love](https://open.spotify.com/album/5RaIUa4in9b3Pgs2In3VeW) | 2:23 | 2025-02-28 | 2025-06-20 |
 | [Realest](https://open.spotify.com/track/1sUUwtbL9A4edhaThMUboc) | [Slim Drumz](https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT) | [Realest](https://open.spotify.com/album/64qM0Ulp6jyKd9zroh7crz) | 3:37 | 2025-02-28 | 2025-03-21 |
 | [Ride \(feat\. Terrist Carter & O'Kenneth\)](https://open.spotify.com/track/4EPXk7ufo9aCCPHNnEN0lZ) | [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Terrist Carter](https://open.spotify.com/artist/0kSLW8DI5S6rqiJJD5f1zF), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Ride \(feat\. Terrist Carter & O'Kenneth\)](https://open.spotify.com/album/6VX52TW9PBvJAroJE1vHHt) | 2:48 | 2023-06-16 | 2024-05-24 |
 | [Rockstar](https://open.spotify.com/track/4nnqdKMZmJm6M5UhCjh0Fo) | [Kojo Loki](https://open.spotify.com/artist/0FK086itIMJLIcYnZGf1Bw), [Akola Kituwa](https://open.spotify.com/artist/1kcpQRC6ZsprIfhrtaom5l), [Freeza Gigs](https://open.spotify.com/artist/1fkPHUbvQGPgsHgPHfeKOo) | [Rockstar](https://open.spotify.com/album/1tCD72gxYMjtPcWeuBOBL2) | 3:14 | 2022-10-13 | 2022-11-26 |
@@ -241,6 +241,7 @@
 | [Vanessa](https://open.spotify.com/track/3S1aMkzTcbcC2GSjlSNotQ) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw) | [Vanessa](https://open.spotify.com/album/23ThKUslTMHbdXwzvQlsLs) | 3:05 | 2024-07-06 | 2024-07-12 |
 | [Vawulence](https://open.spotify.com/track/7oNKjJYsdUUmshMyxjKHTl) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Vawulence](https://open.spotify.com/album/119mHn5zmu5HNlZhQKcuVB) | 3:05 | 2022-08-26 | 2022-11-26 |
 | [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 | 2022-08-12 | 2022-11-05 |
+| [Virgin Anthem](https://open.spotify.com/track/12pO4bFrRpk1HdDHRbhUka) | [Pemifemi](https://open.spotify.com/artist/562OG3IK7uwibZ6V4DmQHx) | [Virgin Anthem](https://open.spotify.com/album/2CGt0VaAjlRVskDtaWO4zO) | 2:18 | 2025-06-20 |  |
 | [Wala \(Life\)](https://open.spotify.com/track/3QRqEQahFD0lDIlO8bPMmm) | [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Wala \(Life\)](https://open.spotify.com/album/5JIa3OsxDjkbiq1FOt1Tal) | 2:57 | 2024-03-15 | 2024-04-19 |
 | [Warzone](https://open.spotify.com/track/2Y1pXK2i2FRUvJEUUn02hY) | [Kamafo](https://open.spotify.com/artist/6Mf8MtQqWKe5kg5qfKYxp1), [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf) | [Warzone](https://open.spotify.com/album/6jghz4cNjcipKNWdSAI2eE) | 3:26 | 2024-06-28 | 2024-07-27 |
 | [We Goofed](https://open.spotify.com/track/1yN9EQOrLJlcAuBx6fCakL) | [Appietus](https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN), [Asenke](https://open.spotify.com/artist/2xroUocjdynbenU8vVWwer), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [We Goofed](https://open.spotify.com/album/0kxiSbstlxUDwPdOVGnwxO) | 3:02 | 2023-09-14 | 2023-10-20 |

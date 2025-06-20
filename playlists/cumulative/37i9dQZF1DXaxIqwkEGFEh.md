@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: PayGotti
 
-1,879 songs - 3 day 14 hr 11 min
+1,879 songs - 3 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,7 @@
 | [Frozen](https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Frozen](https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq) | 2:59 | 2022-04-29 | 2022-10-01 |
 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 | 2022-12-02 | 2023-01-21 |
 | [FTO Crazy](https://open.spotify.com/track/0l8UCTwD27stsBhnxEHZHT) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d) | [FTO Crazy](https://open.spotify.com/album/6Ax3ElW08TYGTzTCv6m2Cb) | 1:58 | 2024-03-08 | 2024-03-23 |
-| [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 4:17 | 2025-06-13 |  |
+| [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 2:47 | 2025-06-13 |  |
 | [Fuck Around & Find Out](https://open.spotify.com/track/61KPSucpAHpMNo1AxjsVMT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Fuck Around & Find Out](https://open.spotify.com/album/4WPMyya2jn2GoVAEHEUBr8) | 2:30 | 2024-05-17 | 2025-03-15 |
 | [Fuck It](https://open.spotify.com/track/7kNmljSMkECHUdaEZLJJLp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 2:59 | 2023-11-17 | 2024-06-29 |
 | [Fuck My Cousin](https://open.spotify.com/track/0GKL48LCKK6zIhLYcHG1Gk) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Fuck My Cousin](https://open.spotify.com/album/2LrrA5Jsh1ZqIqRg2eQLU1) | 2:01 | 2022-03-25 | 2022-06-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grelo, Orochi, Luedji Luna e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,104,347 likes - 91 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,104,566 likes - 91 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 69 | [Chama](https://open.spotify.com/track/6NadLF4QyijMRzRdwrfeOR) | [Sarah Guedes](https://open.spotify.com/artist/3ybwxfy04ny7tphw3AXobG), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Cizco](https://open.spotify.com/artist/1oV3vsb8OqejiWBzfpdhUe), [Abu](https://open.spotify.com/artist/4Pxmy4yuGcDal5Zf26D8d5) | [Feita de Amor](https://open.spotify.com/album/6wFKU8aU0wWXlaKwVvZ0db) | 2:26 |
 | 70 | [Amor de Cria](https://open.spotify.com/track/3kU9RmAkjBKhFUZ5zXuf6V) | [Daniel Cruz](https://open.spotify.com/artist/3rz9EEzOyMgtVEnrplaD7h), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Amor de Cria](https://open.spotify.com/album/58LzcUigfFQWk6IiS2J9al) | 2:50 |
 | 71 | [Toda Experiente](https://open.spotify.com/track/3R3kxryQs7QABbhT89oiPd) | [Silfer](https://open.spotify.com/artist/5w5BtUWqLSlrXePRVsfXup), [Liip Beats](https://open.spotify.com/artist/3Pr7FENKcGB6uHVbHDXcPC), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Toda Experiente](https://open.spotify.com/album/2velP5TsSQrKIv1f5Ps54u) | 2:42 |
-| 72 | [Baile](https://open.spotify.com/track/5c8mQgHCY1phngs2GCGHl7) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c) | [Pra Não Dizer Que Não Falei das Flores](https://open.spotify.com/album/3W1E3TNUu1xEZW3VYxtZYg) | 3:00 |
+| 72 | [Baile](https://open.spotify.com/track/5c8mQgHCY1phngs2GCGHl7) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c), [Malu Original](https://open.spotify.com/artist/3UgDjYJgPcLRrFoLa1YzTY) | [Pra Não Dizer Que Não Falei das Flores](https://open.spotify.com/album/3W1E3TNUu1xEZW3VYxtZYg) | 3:00 |
 | 73 | [12 de Junho](https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [12 de Junho](https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4) | 3:10 |
 | 74 | [Uma Noite de Putaria](https://open.spotify.com/track/2b2sVEFjQVnaQuYMZrZ60o) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [Uma Noite de Putaria](https://open.spotify.com/album/5394PYlupAC4hOfOZylaEv) | 4:21 |
 | 75 | [Palavra Certa](https://open.spotify.com/track/4VK07cFahaOvnAN6Mc0QIJ) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Taramps](https://open.spotify.com/artist/4ZEOtfy8YKar5Jqu1yR3TH) | [VIDA LOKA TAMBÉM AMA](https://open.spotify.com/album/6CCADFkIl2uMHg1a1bfz2t) | 3:12 |

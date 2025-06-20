@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rapcha
 
-242 songs - 13 hr 34 min
+243 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Kama Juzi](https://open.spotify.com/track/1OokFjg7JSECGHoQJDxYAh) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Old Skool Local](https://open.spotify.com/artist/43y0iNSEYUKnAXh1XdV23X) | [Kama Juzi](https://open.spotify.com/album/3X00CVKm7RcR6UKohKgtfU) | 3:37 | 2022-05-12 | 2023-08-31 |
 | [Kanairo](https://open.spotify.com/track/08n07M6D2ifhYH0P4hJcEm) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Kanairo](https://open.spotify.com/album/6KGQvHlJ4Tup07FyOahrXj) | 3:21 | 2023-09-21 | 2024-05-17 |
 | [Kesho Njoo Dar](https://open.spotify.com/track/4uIN98bcH2GA6ERDsfSn6h) | [FreshlikeUhhh](https://open.spotify.com/artist/6KsXeVjMePiwK5H33s3Xk1) | [Kesho Njoo Dar](https://open.spotify.com/album/3X1Zk48cfTJrrCBp4vXYCq) | 2:36 | 2023-08-28 | 2024-01-20 |
+| [Key Utu Uzima](https://open.spotify.com/track/0ndD5TNvyIM5a7HeXjrXMP) | [Adam Mchomvu](https://open.spotify.com/artist/3utcZ5XfyGEu1okzABoJXn) | [Key Utu Uzima](https://open.spotify.com/album/3JqZVahbHB8kY2WGGXpGsM) | 4:27 | 2025-06-19 |  |
 | [Khali champlin/KASUKU](https://open.spotify.com/track/6OoNk1BMjQ8v7urbPgLdkJ) | [Ebebé Jamal](https://open.spotify.com/artist/7AzVO32lt5KYfoYAxqu0UA) | [Khali champlin/KASUKU](https://open.spotify.com/album/1zyRqHQkLh9rHJkwD3wyse) | 3:02 | 2023-08-30 | 2024-04-19 |
 | [Kick\-Off](https://open.spotify.com/track/4TEIGXuCB5mCJgVUxgcDXe) | [Nacha](https://open.spotify.com/artist/6y4QyXMrMWdhgSFY2JMbXt) | [TOP SCORER OF ALL TIME EP](https://open.spotify.com/album/1Dh42XiejQ9Vvo6YdedWfA) | 3:20 | 2022-03-28 | 2023-04-15 |
 | [Kimeumana](https://open.spotify.com/track/7x5mCt9GPFKHYbDh3DRK7G) | [MEX CORTEZ](https://open.spotify.com/artist/1jw2gjV9qktnWQIhOniCyc), [Dizastavina](https://open.spotify.com/artist/68WwHSERVsu2UKbvG55EaB), [G\-Nako](https://open.spotify.com/artist/2xV1YJDP923tSj9FRsvuZ6) | [Kimeumana](https://open.spotify.com/album/74RJHXcFCouIbGCJlfSShJ) | 5:06 | 2025-03-28 |  |

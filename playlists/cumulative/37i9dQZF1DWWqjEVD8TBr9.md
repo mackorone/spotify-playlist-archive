@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-347 songs - 18 hr 49 min
+351 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [ITEM](https://open.spotify.com/track/1EWTsgQAEsUrnQ8iawhDSN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:11 | 2023-06-02 | 2024-04-19 |
 | [ITEM](https://open.spotify.com/track/61leYl0z8jpaj8t9X7IkWG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS) | 3:11 | 2023-11-10 |  |
 | [JJAM](https://open.spotify.com/track/4KRgLn8XQmriYbqY0PX9eC) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:05 | 2024-07-19 |  |
+| [just a little](https://open.spotify.com/track/1yNeAh3cX84gBWHyPS1x6V) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/6iUla7aKk5hk4JRC3AZ7Ww) | 4:04 | 2025-06-20 |  |
 | [JUST BREATHE \- feat\. 3RACHA of Stray Kids](https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [3RACHA of Stray Kids](https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO) | [JUST BREATHE \(feat\. 3RACHA of Stray Kids\)](https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8) | 3:50 | 2022-03-18 |  |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-10 | 2024-04-19 |
 | [LALALALA](https://open.spotify.com/track/79f5CcWzdkkDVD4XAIQgKr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:02 | 2023-11-10 |  |
@@ -224,6 +225,7 @@
 | [My Universe \(Seungmin, I.N\)](https://open.spotify.com/track/4a2TlUwtrzLwjcHe1vPvj9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Changbin \(Stray Kids\)](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:23 | 2022-03-18 | 2024-04-19 |
 | [N/S](https://open.spotify.com/track/1YXrdkQxSzDI3eh08Fmp9j) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e) | 3:44 | 2022-03-18 |  |
 | [N/S](https://open.spotify.com/track/4awANMW1SGfKtN5283lWjN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv) | 3:44 | 2022-03-18 | 2024-04-19 |
+| [Never Alone](https://open.spotify.com/track/5LnShWVCui4AMNAg6FY9p7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/6iUla7aKk5hk4JRC3AZ7Ww) | 2:53 | 2025-06-20 |  |
 | [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 | 2024-10-06 |  |
 | [NIGHT \-English ver.\-](https://open.spotify.com/track/6xITCUnfaUXYnv7ZJjxg44) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:55 | 2024-11-12 |  |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-06-24 |  |
@@ -231,6 +233,7 @@
 | [Pacemaker](https://open.spotify.com/track/1QChR5f7Yavg2fA7Q11jdk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:10 | 2022-10-07 | 2022-11-14 |
 | [Pacemaker](https://open.spotify.com/track/4MHeQ9324LT2oNH1cu2l4Z) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:10 | 2022-03-18 | 2024-04-19 |
 | [Pacemaker](https://open.spotify.com/track/53StevmjK3N3aYHwoxRsBQ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:10 | 2022-03-18 |  |
+| [Parade](https://open.spotify.com/track/6aPbaBc3q9ibrYZivvrhXi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/6iUla7aKk5hk4JRC3AZ7Ww) | 3:05 | 2025-06-20 |  |
 | [Phobia](https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [I'm the Queen in This Life \(Original Soundtrack\) Part.2](https://open.spotify.com/album/7vuG4RLkjvNts1Hy8QK49m) | 2:53 | 2024-03-18 |  |
 | [Phobia](https://open.spotify.com/track/1KC5Y3kIiHvEDdinY0OcRL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:32 | 2022-03-18 | 2024-04-19 |
 | [Phobia](https://open.spotify.com/track/6m8vPz16wTojmAnVgdWtls) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:32 | 2022-03-18 |  |
@@ -351,6 +354,7 @@
 | [Youtiful](https://open.spotify.com/track/7LxAgqV8gb3F0sMpMn8TGn) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS) | 3:29 | 2023-11-10 |  |
 | [ZONE \(Bang Chan, Changbin, HAN\)](https://open.spotify.com/track/56ZpFy1kLsXwtbHWX1CgJ4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:32 | 2022-12-21 |  |
 | [ソリクン \-Japanese ver.\-](https://open.spotify.com/track/3oCzyOYIjAMAg1rGvTmr5o) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ソリクン \-Japanese ver.\-](https://open.spotify.com/album/1cLhSvzTZTV3dbtRQsPFEP) | 3:03 | 2023-02-21 |  |
+| [宿命 \(FATE\)](https://open.spotify.com/track/6yjxHDFmbPrsk20w6NoOka) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/6iUla7aKk5hk4JRC3AZ7Ww) | 3:00 | 2025-06-20 |  |
 | [愛をくれたのに、なぜ](https://open.spotify.com/track/0nCviJkLm2XImxFyFHXgzt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 3:15 | 2024-11-12 |  |
 | [蜘蛛の糸 \(VENOM\) \-Japanese ver.\-](https://open.spotify.com/track/14s7yMIqLhXW31laHmKFr9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 3:15 | 2022-06-21 |  |
 | [끝나지 않을 이야기](https://open.spotify.com/track/0KHCa8hM5Jff6Ji0JxQYMb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Extraordinary You Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/03A9VqGceT6tpVwHV0X8dn) | 4:04 | 2022-03-18 |  |

@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Bella Sombra",
+        "url": "https://open.spotify.com/album/6YvbrwNJKq3WFADv4xrgvu"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202031,
+      "name": "Bella Sombra",
+      "url": "https://open.spotify.com/track/2YXoGNmpkWhURcKVv4TLf1"
+    },
+    {
+      "album": {
         "name": "BELLADONA",
         "url": "https://open.spotify.com/album/11F5CawaCLROtEtELC12mv"
       },
@@ -3498,7 +3516,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 134400,
       "name": "DISL\u00c9XICO",
       "url": "https://open.spotify.com/track/3UHyzWMmejguTcP0SrC56S"
@@ -4084,7 +4102,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 123711,
       "name": "El \u00faltimo p\u00e9talo",
       "url": "https://open.spotify.com/track/15UYG8hXEA1Be1pVtFTSJh"
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 164000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1lCVw5qZ1TSZ7KKFMFBWCm"
@@ -7488,7 +7506,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 243424,
       "name": "Mi \u00c1ngel de la Guarda",
       "url": "https://open.spotify.com/track/01EVenejVbeTArpS4HtCKL"
@@ -8239,6 +8257,28 @@
     },
     {
       "album": {
+        "name": "No Puedo Seguir",
+        "url": "https://open.spotify.com/album/0gtNPIH2iN1i83W9J1DSqr"
+      },
+      "artists": [
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        },
+        {
+          "name": "SOTAN",
+          "url": "https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "No Puedo Seguir",
+      "url": "https://open.spotify.com/track/0mU7XasCSrWAvndQqM3Rfu"
+    },
+    {
+      "album": {
         "name": "No Se Emula",
         "url": "https://open.spotify.com/album/2E4cM64H1dU8IOYsd25qQA"
       },
@@ -8462,6 +8502,28 @@
       "duration_ms": 180000,
       "name": "O CABALO",
       "url": "https://open.spotify.com/track/6D0CqCZh3B2V4OLYTt4KLk"
+    },
+    {
+      "album": {
+        "name": "Odiseo",
+        "url": "https://open.spotify.com/album/51f7yqRl8jjHbLaFjg4uNG"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Richie Rasheed",
+          "url": "https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163158,
+      "name": "Odiseo",
+      "url": "https://open.spotify.com/track/0oJMLJAkF5RkpvxiDRFQqb"
     },
     {
       "album": {
@@ -11770,6 +11832,32 @@
       "duration_ms": 170425,
       "name": "UN BESO A LOS ANILLOS",
       "url": "https://open.spotify.com/track/31ueh1AXGU25LTgXGs6YgL"
+    },
+    {
+      "album": {
+        "name": "Una canci\u00f3n de amor a m\u00ed",
+        "url": "https://open.spotify.com/album/6qO5PMQGOA83m74o9ijc0E"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201247,
+      "name": "Una canci\u00f3n de amor a m\u00ed",
+      "url": "https://open.spotify.com/track/5WkxR84GfZlNffsGoPPNqx"
     },
     {
       "album": {

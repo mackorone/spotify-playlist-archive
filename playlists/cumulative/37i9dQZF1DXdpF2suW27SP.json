@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Jimmy P entra na zona. ",
+  "description": "Ivandro entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1156,6 +1156,28 @@
       "duration_ms": 174653,
       "name": "Amor Tempor\u00e1rio",
       "url": "https://open.spotify.com/track/3UydUTVPmmmsXjzcedwnXd"
+    },
+    {
+      "album": {
+        "name": "PORTOBOYZMAFIA (Deluxe)",
+        "url": "https://open.spotify.com/album/5DJWDUfatcpcCAew1XkR12"
+      },
+      "artists": [
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        },
+        {
+          "name": "Yung Juse",
+          "url": "https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "AM\u00c9N",
+      "url": "https://open.spotify.com/track/1GeeAeUFbpkFETxWx3XaRX"
     },
     {
       "album": {
@@ -4980,7 +5002,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 210322,
       "name": "Doutros Tempos",
       "url": "https://open.spotify.com/track/68tOsrDRmVLWqXT5UnfEBi"
@@ -11722,6 +11744,28 @@
     {
       "album": {
         "name": "PARA SEMPRE",
+        "url": "https://open.spotify.com/album/7ja21jiOzYFy1r3K4EueHN"
+      },
+      "artists": [
+        {
+          "name": "Agir",
+          "url": "https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC"
+        },
+        {
+          "name": "SleepyThePrince",
+          "url": "https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "PARA SEMPRE",
+      "url": "https://open.spotify.com/track/7e0BMVyh5I0imv2MlAOo3d"
+    },
+    {
+      "album": {
+        "name": "PARA SEMPRE",
         "url": "https://open.spotify.com/album/7rsjtUS9ofrZ9VTeIzpbtm"
       },
       "artists": [
@@ -16262,7 +16306,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 142309,
       "name": "Vim do Norte",
       "url": "https://open.spotify.com/track/3rJ8h9IPsxiq9qlLCW5Vgv"

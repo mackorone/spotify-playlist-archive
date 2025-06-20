@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-857 songs - 1 day 20 hr 4 min
+858 songs - 1 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Godsent](https://open.spotify.com/track/4FMj1VNLl5qMy3m3M3rS7g) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Godsent & All Eyes On You](https://open.spotify.com/album/6AqHQHsbeyr6G94BGyslQN) | 3:34 | 2022-03-24 | 2022-04-21 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-07-07 | 2023-10-07 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2022-03-17 | 2022-07-29 |
-| [Good Feeling About You](https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT) | 3:06 | 2024-04-19 |  |
+| [Good Feeling About You](https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT) | 3:06 | 2024-04-19 | 2025-06-20 |
 | [GOOD FOR HER](https://open.spotify.com/track/76YyKbh4QI8Sfxm9Id2mBz) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [GOOD FOR HER](https://open.spotify.com/album/4HSsLhmoneSVz1GmqFTFdK) | 2:13 | 2022-03-24 | 2022-05-30 |
 | [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5LJsMlAwHdRzyq6Z3lLCat) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:19 | 2023-09-08 | 2024-04-19 |
 | [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V1](https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk) | 2:19 | 2023-05-05 | 2023-11-02 |
@@ -570,6 +570,7 @@
 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 | 2022-03-24 | 2022-04-18 |
 | [Oh! Euphoria!](https://open.spotify.com/track/2OvzjLYX3s6VvJV7ziT5gQ) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [POWER](https://open.spotify.com/album/6PLmgYwFKrlLKiZjXK2hXV) | 3:41 | 2022-03-24 | 2022-04-12 |
 | [On A Roll](https://open.spotify.com/track/4nfyVhVlkZTk6TaPTpPoMV) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [On A Roll](https://open.spotify.com/album/70DEbKXsKrPVj72Ebqj5qJ) | 4:00 | 2022-03-24 | 2022-04-13 |
+| [ON YOUR LIPS](https://open.spotify.com/track/6Yc3Jz75oRKoA0abpy3eB3) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [FEVER](https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F) | 3:13 | 2025-06-13 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 | 2022-03-17 | 2022-07-29 |
 | [One of the Guys](https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One of the Guys](https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb) | 1:58 | 2022-11-11 |  |
 | [ONE SIZE FITS ALL](https://open.spotify.com/track/5R7ZGxCZElz3ivYaui4IKn) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [ONE SIZE FITS ALL](https://open.spotify.com/album/0wzhWxSywM34dLDPvxWkUT) | 3:31 | 2022-06-16 | 2022-07-05 |

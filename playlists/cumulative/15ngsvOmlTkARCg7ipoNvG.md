@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,984 songs - 1 day 16 hr 11 min
+1,985 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Aurora](https://open.spotify.com/track/5S0fH5Qyi4yxa4JXTbVCVC) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Aurora](https://open.spotify.com/album/7kEf7DoJHnwK9nQBKrRJlr) | 1:00 | 2023-06-21 |  |
 | [Aurora Arr\. For Cello](https://open.spotify.com/track/0HhPAEHrTScWAID2XJ5MLi) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Two Ambient Cello Preludes](https://open.spotify.com/album/0eIrD6HWVSGLHqnIHQ3y48) | 1:00 | 2023-06-27 |  |
 | [Aurora Arr\. For Violin](https://open.spotify.com/track/2s52fWDWhKTZgEaGXbNHiT) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Aurora Arr\. For Violin](https://open.spotify.com/album/1LCPIRZ1Slm9JG4iPXY5Kv) | 1:00 | 2023-06-24 |  |
+| [Autumn Light](https://open.spotify.com/track/64G2sysZI1FpAvn5P5HzEa) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Autumn Light](https://open.spotify.com/album/2726iiffCUJnbWWvhpYDKQ) | 1:00 | 2025-06-19 |  |
 | [Autumn Love](https://open.spotify.com/track/4bGbnMQPvPnjBTvFNH3nON) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Autumn Love](https://open.spotify.com/album/77womLwqvHPEFIF6oC7Qaj) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Autumn Love \- Strings Version](https://open.spotify.com/track/1hum1mcNIILCOtIjVPlwIZ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Autumn Love](https://open.spotify.com/album/1s01k3AI562WSpqca9cmfX) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Autumn Moonlight](https://open.spotify.com/track/3WifCtcnBd0xrh9fOZ3U9a) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Moonlight](https://open.spotify.com/album/0dWGKr31tTlKjqZDr95mYO) | 1:00 | 2024-10-20 |  |

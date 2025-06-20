@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "IO NESSUNO",
+        "url": "https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211909,
+      "name": "parquet",
+      "url": "https://open.spotify.com/track/5SCqOU0YAOMn3MiopPrddY"
+    },
+    {
+      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },

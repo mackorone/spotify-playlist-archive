@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,337 songs - 3 day 17 hr 5 min
+2,338 songs - 3 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [Dark Places](https://open.spotify.com/track/0JSQbdSkJ5xKu8OQB3g5wO) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Dark Places](https://open.spotify.com/album/3hpc6SGom48hjionKuXgjZ) | 2:18 | 2022-07-29 | 2022-08-12 |
 | [DaSpritzers](https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [DaSpritzers](https://open.spotify.com/album/4yfR0jwF5CrWmy6U02rgsU) | 2:24 | 2022-11-18 | 2025-05-24 |
 | [Daunout](https://open.spotify.com/track/2NpcAVGqqapVHBPae0vwSb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Daunout](https://open.spotify.com/album/0KypY3PnGTQyr5nz79njeR) | 1:54 | 2023-01-20 |  |
-| [day by day](https://open.spotify.com/track/5K5k3QaMvZdwlrrJX1Qqnf) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [day by day](https://open.spotify.com/album/2aeDFGJgAVpDjEg9kw17Qk) | 2:34 | 2025-04-04 |  |
+| [day by day](https://open.spotify.com/track/5K5k3QaMvZdwlrrJX1Qqnf) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [day by day](https://open.spotify.com/album/2aeDFGJgAVpDjEg9kw17Qk) | 2:34 | 2025-04-04 | 2025-06-20 |
 | [Daydream](https://open.spotify.com/track/01lS197HXZ7HwSd7LVy1ce) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Daydream](https://open.spotify.com/album/3gFsPMTHGuOB5N4ZUiXkVZ) | 2:08 | 2022-04-22 | 2022-11-12 |
 | [Daydream](https://open.spotify.com/track/1Fn2CPmhCDYPrbTh8X6H9U) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Daydream](https://open.spotify.com/album/2oxBdzyXCm7wpYdvFgO6el) | 2:14 | 2025-05-16 |  |
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 |  |
@@ -1372,6 +1372,7 @@
 | [Nectarine](https://open.spotify.com/track/2E0MaI4AusMzMzzfkMH3jx) | [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Nectarine](https://open.spotify.com/album/7rmDR2gehCVCaYoDHfPYZL) | 3:52 | 2022-06-17 | 2022-07-08 |
 | [Need 2 \- Lo\-Fi](https://open.spotify.com/track/0zgKQMP8ryYvYLAiVTuyK4) | [prizzzm nites](https://open.spotify.com/artist/3lHGOdyB76HnANCjXgDyEX) | [Need 2 \(Lo\-Fi\)](https://open.spotify.com/album/0KoqkZANcskMAV50liFTOD) | 2:32 | 2024-07-26 | 2024-08-17 |
 | [neo](https://open.spotify.com/track/7o5tomJPSAXGCtZYO3HEZ3) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [neo](https://open.spotify.com/album/5REnxnbgrYcLXIKp74eKwG) | 2:43 | 2022-11-18 | 2024-10-11 |
+| [Neon Glow](https://open.spotify.com/track/7JN0som7jrebrW6nhcmF9y) | [Andayo](https://open.spotify.com/artist/1DVQwJxtRAvYVMA7SdYh5o) | [Neon Glow](https://open.spotify.com/album/5MeP9bKXpfpN6r2YGbmZ5p) | 2:18 | 2025-06-18 |  |
 | [neon glow](https://open.spotify.com/track/4R3zRuU2z2QkZP8lim6fMe) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [neon glow](https://open.spotify.com/album/1vkxeA90QkysyBu9kAdS0f) | 2:41 | 2024-09-27 | 2025-01-11 |
 | [Neon Stream](https://open.spotify.com/track/2aYv8pk0KYKoVTFXYBvUYe) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Retrospect](https://open.spotify.com/album/5xVxxvGLW9KLlHSYeizyJK) | 2:28 | 2022-04-15 | 2022-08-12 |
 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-03-20 | 2023-10-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y8kMPjaqrb.md) - [plain]
 
 > Music from Studio Chizu's new movie "BELLE"!  ©︎STUDIO CHIZU/ 映画『竜とそばかすの姫』の音楽をプレイリストで。豪華ミュージシャン、作家陣が音楽の魅力を語る「Music+Talk」版は<a href="spotify:show:0GVl86Z7umr9JEu8EhN22m">こちら</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,276 likes - 71 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,275 likes - 71 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y8kMPjaqrb.md) - [plain]
 | 70 | [Skies of Song \- English Version](https://open.spotify.com/track/67HcCqjH5d1w4DgHO2rltp) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc), [Kylie McNeill](https://open.spotify.com/artist/7kFUdDZGQF2aCT9v48z2qG) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:02 |
 | 71 | [A Million Miles Away \(reprise\) \- English Version](https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 6:27 |
 
-Snapshot ID: `ZIxX8AAAAAA7/HmP7Z6+VxTGKLVSU7A3`
+Snapshot ID: `AAAAABDNGJjj6lrkvn0vPWBlH4Egz6Hl`

@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "Aneliswe Osweleyo",
+        "url": "https://open.spotify.com/album/4QAnQG6yJgyqxIni00sRGK"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        },
+        {
+          "name": "Mphostoli We Keyboard",
+          "url": "https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254380,
+      "name": "Aneliswe Osweleyo",
+      "url": "https://open.spotify.com/track/6ZgClg41sq8pnx8d0oIR4W"
+    },
+    {
+      "album": {
         "name": "Anesu (God with us) [Live]",
         "url": "https://open.spotify.com/album/5GI13g4MbffMBJe8adYamQ"
       },
@@ -5744,7 +5766,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 399706,
       "name": "Ujesu Ulidwala",
       "url": "https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5"

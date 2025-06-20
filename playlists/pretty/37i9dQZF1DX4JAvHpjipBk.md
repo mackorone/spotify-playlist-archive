@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > Celebrating Juneteenth with new music from Gunna, Kehlani, Lil Tecca, Kevin Abstract & Dominic Fike, Tanner Adell, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,390,024 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,389,760 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Dad & Me](https://open.spotify.com/track/0LlrkES70TIK6lJkKrkFBU) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Dad & Me](https://open.spotify.com/album/7aMdlBQgW4XJzsncvFjXXd) | 3:57 |
 | 100 | [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 |
 
-Snapshot ID: `aEumoAAAAADYpPJ0+upb7o0zlYvhTx/h`
+Snapshot ID: `aEumoAAAAADHYul4V8QS+vusNLetkio+`

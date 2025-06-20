@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,638 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,699 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 31 | [Ki Ni Big Deal](https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M) | [Nateo C](https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU) | [U Know My P](https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw) | 4:28 |
 | 32 | [Stalemate](https://open.spotify.com/track/039djQX5LwqXM93UxvktmR) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 12:54 |
 | 33 | [Nwa Baby \- Ashawo Remix](https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy) | 4:17 |
-| 34 | [Temptation](https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:44 |
-| 35 | [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 |
-| 36 | [Ten over Ten](https://open.spotify.com/track/6Y8oFiPAZ7L0kYzeRV8GSE) | [Naeto C](https://open.spotify.com/artist/5wJBdwIAg6nZoCaWbFhc1r) | [Super C Season](https://open.spotify.com/album/7w9ML6i2GudIqvF6OM3Tfg) | 3:38 |
+| 34 | [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 |
+| 35 | [Temptation](https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:44 |
+| 36 | [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 |
 | 37 | [Roforofo Fight \- Edit](https://open.spotify.com/track/4JkMvo5aRm2oJLmVklQ6hn) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Roforofo Fight \(Edit\)](https://open.spotify.com/album/294gpzP3HeeoHAssMTLlyd) | 3:31 |
-| 38 | [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 |
-| 39 | [Bizzy Body](https://open.spotify.com/track/78dTPqstG8GigLVkHe5OM4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:49 |
-| 40 | [If You Ask Me](https://open.spotify.com/track/1tsCod19WhQKq198y5jyhq) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj) | [Lasso of Truth](https://open.spotify.com/album/07CpwfF3iM9vj2oIqTuk2w) | 3:43 |
+| 38 | [Ten over Ten](https://open.spotify.com/track/6Y8oFiPAZ7L0kYzeRV8GSE) | [Naeto C](https://open.spotify.com/artist/5wJBdwIAg6nZoCaWbFhc1r) | [Super C Season](https://open.spotify.com/album/7w9ML6i2GudIqvF6OM3Tfg) | 3:38 |
+| 39 | [If You Ask Me](https://open.spotify.com/track/1tsCod19WhQKq198y5jyhq) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj) | [Lasso of Truth](https://open.spotify.com/album/07CpwfF3iM9vj2oIqTuk2w) | 3:43 |
+| 40 | [Bizzy Body](https://open.spotify.com/track/78dTPqstG8GigLVkHe5OM4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:49 |
 | 41 | [Imagine That](https://open.spotify.com/track/7zZdhUwZnYEtjBRv9VFY1J) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 4:59 |
 | 42 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
 | 43 | [Yes/No](https://open.spotify.com/track/0ZaMQuEmdsGaKQOXtiqrHn) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/0n1PpUAHQ6DZvQ4mOiSztv) | 4:07 |

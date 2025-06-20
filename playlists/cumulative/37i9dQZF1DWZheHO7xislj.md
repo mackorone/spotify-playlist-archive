@@ -4,7 +4,7 @@
 
 > Selection of soul music for the perfect dinner.
 
-490 songs - 1 day 7 hr 36 min
+491 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 | 2023-01-09 | 2023-06-28 |
 | [Defence](https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Defence EP](https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0) | 4:39 | 2025-02-10 |  |
 | [Demise \- Radio Edit](https://open.spotify.com/track/5I4Pd5lxfocsnQbTx5itEF) | [Wouter Hamel](https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0) | [De Zwarte Lijst](https://open.spotify.com/album/4mb8ZVI5MmAApY7909j5YK) | 3:54 | 2025-02-10 |  |
-| [Do I Move You?](https://open.spotify.com/track/0F4uVFLLDzkpJppPZT1bZt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of](https://open.spotify.com/album/3WVB8a1INWqY6TUieQzn9t) | 2:44 | 2024-10-25 |  |
+| [Do I Move You?](https://open.spotify.com/track/0F4uVFLLDzkpJppPZT1bZt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of](https://open.spotify.com/album/3WVB8a1INWqY6TUieQzn9t) | 2:44 | 2024-10-25 | 2025-06-20 |
 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 | 2023-06-27 | 2024-04-19 |
 | [Don't Let Him Get the Best of You](https://open.spotify.com/track/0x9Z8I4miDuAQcKYS3LANF) | [Whirlwind](https://open.spotify.com/artist/6SLspaTtZOpWHtv7oqZsRJ) | [Roulette Disco: Original Club Classics From The Dawn Of The Disco Era](https://open.spotify.com/album/6uuNeT2pIWGWrdWP6Q8GfM) | 2:44 | 2023-01-09 | 2023-06-28 |
 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In Philadelphia](https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase) | 2:49 | 2023-01-09 | 2023-06-28 |
@@ -461,6 +461,7 @@
 | [We Go Back a Ways](https://open.spotify.com/track/20VIqsYwrYRcG4s8qKO7qb) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [Finally Got Myself Together](https://open.spotify.com/album/62KlgIw0M53UiV1WmTXR96) | 3:49 | 2023-01-09 | 2023-06-28 |
 | [We're in This Love Together](https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 3:46 | 2023-01-09 |  |
 | [What Does It Take](https://open.spotify.com/track/2yn8BJ5Iy6A2SzMeehFHVW) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [William Devaughn EP](https://open.spotify.com/album/65w5dNsN0Dgi2JH7iiHAjy) | 3:18 | 2023-01-09 | 2023-06-28 |
+| [What Kind of Cool \- Will We Think of Next](https://open.spotify.com/track/2zjiWPb1i2SWu9Cco49vkO) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Landing On a Hundred](https://open.spotify.com/album/45Mk7SLfzqvkwKzxjgE3FH) | 5:08 | 2025-05-19 |  |
 | [What Will It Be?](https://open.spotify.com/track/5Z6Y7HWyIQJ1Y5DaepehAp) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo? \[ International Version \]](https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2) | 3:59 | 2024-04-16 |  |
 | [What's Going On](https://open.spotify.com/track/0IUTOvJZ6brXtvMZWipush) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [The Best Of Marvin Gaye](https://open.spotify.com/album/1qTM6Za6nPUuEshVSmlZnO) | 3:48 | 2024-07-08 | 2024-11-09 |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2023-01-09 | 2024-04-19 |

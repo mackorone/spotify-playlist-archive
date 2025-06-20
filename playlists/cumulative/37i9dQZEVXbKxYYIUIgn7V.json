@@ -3936,7 +3936,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
@@ -6150,7 +6150,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 119244,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
@@ -12222,7 +12222,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 210000,
       "name": "F\u00fchlst Du Das Auch",
       "url": "https://open.spotify.com/track/1En3PlNQnAKxrLY2QRgVbD"
@@ -17642,7 +17642,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -22116,6 +22116,24 @@
     {
       "album": {
         "name": "Dark Country, Vol. 1",
+        "url": "https://open.spotify.com/album/7g9gxP9crUKplGnJQv9yKC"
+      },
+      "artists": [
+        {
+          "name": "Aventhis",
+          "url": "https://open.spotify.com/artist/0a97V3mDhGyNg93Dcf9Ahj"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239799,
+      "name": "Mercy on my Grave",
+      "url": "https://open.spotify.com/track/0pCVgDlHV0bcf3DNfVClN7"
+    },
+    {
+      "album": {
+        "name": "Dark Country, Vol. 1",
         "url": "https://open.spotify.com/album/4MKvDAkZBOTV75JBQ4xO7U"
       },
       "artists": [
@@ -22126,7 +22144,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 239799,
       "name": "Mercy on my Grave",
       "url": "https://open.spotify.com/track/5EA88w5X3vkTOPRWUauJGD"
@@ -28132,7 +28150,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 108258,
       "name": "RUHEST\u00d6RUNG - Slowed",
       "url": "https://open.spotify.com/track/3Nd5oVi0st1rFWIdafdd5Q"
@@ -32461,6 +32479,24 @@
     },
     {
       "album": {
+        "name": "Teams",
+        "url": "https://open.spotify.com/album/0jmMkNCnv23dExMKtKqGL3"
+      },
+      "artists": [
+        {
+          "name": "Kasim",
+          "url": "https://open.spotify.com/artist/1mNkPjgo8CEUV0aRnKoh3L"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213428,
+      "name": "Teams",
+      "url": "https://open.spotify.com/track/1vZMtmVOqKlCh11HmXsfIo"
+    },
+    {
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
       },
@@ -33507,6 +33543,32 @@
     },
     {
       "album": {
+        "name": "Tipo Nino Vs Kabrinha",
+        "url": "https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH"
+      },
+      "artists": [
+        {
+          "name": "DJ Biel Divulga",
+          "url": "https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "Mc Lek\u00e3o",
+          "url": "https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Tipo Nino Vs Kabrinha",
+      "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
+    },
+    {
+      "album": {
         "name": "Tiryakinim",
         "url": "https://open.spotify.com/album/2akaQMyROHMG8Hy17lUwYE"
       },
@@ -34230,7 +34292,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 116916,
       "name": "Ueli Vuitton",
       "url": "https://open.spotify.com/track/79ujmth6sYasgCRxEQ0PL6"

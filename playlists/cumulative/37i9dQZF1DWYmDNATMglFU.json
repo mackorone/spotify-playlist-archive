@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "[REDACTED]",
+        "url": "https://open.spotify.com/album/1G9pxhwLN4hLvoTh470a2E"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2025-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144533,
+      "name": "[REDACTED]",
+      "url": "https://open.spotify.com/track/6BNaYgSwdHidtDzOuVH5qS"
+    },
+    {
+      "album": {
         "name": "re:start",
         "url": "https://open.spotify.com/album/4mHuGNBWQFa1G7xdOsGYon"
       },

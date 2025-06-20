@@ -1,13 +1,65 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Jun 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Jun 03:04 UTC.",
   "num_followers": 94,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAASqfrQuT6Q0uVuDK/siHUelocLQj7R",
+  "snapshot_id": "AAASrWY/Lrbs0nfUoHqV14wx6I/b5TD2",
   "tracks": [
+    {
+      "added_at": "2025-06-20 03:04:31",
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/4y8T0X9xIUtoM2rS7BWaxd"
+      },
+      "artists": [
+        {
+          "name": "prettifun",
+          "url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+        }
+      ],
+      "duration_ms": 128320,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/29p90fE70mB2S7tR91r4TD"
+    },
+    {
+      "added_at": "2025-06-20 03:04:31",
+      "album": {
+        "name": "Close to you",
+        "url": "https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 103441,
+      "name": "Close to you",
+      "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
+    },
+    {
+      "added_at": "2025-06-19 08:04:34",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/6ZLwxabqBUzrwpzYtoBimy"
+      },
+      "artists": [
+        {
+          "name": "TURQUOISEDEATH",
+          "url": "https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B"
+        },
+        {
+          "name": "IX Fall$",
+          "url": "https://open.spotify.com/artist/2dSovjwYl3QCrqyppFIovD"
+        }
+      ],
+      "duration_ms": 383414,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/5cy8Ra0V23WVJB1aLd39IM"
+    },
     {
       "added_at": "2025-06-18 22:04:31",
       "album": {
@@ -791,54 +843,6 @@
       "duration_ms": 168026,
       "name": "Dancing in the dark",
       "url": "https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy"
-    },
-    {
-      "added_at": "2025-06-06 08:03:04",
-      "album": {
-        "name": "Type Dangerous",
-        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 175788,
-      "name": "Type Dangerous",
-      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
-    },
-    {
-      "added_at": "2025-06-06 08:03:04",
-      "album": {
-        "name": "Murda",
-        "url": "https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "Murda",
-      "url": "https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im"
-    },
-    {
-      "added_at": "2025-06-06 08:03:04",
-      "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/5s4knDoiWEB5pLS5eRu9Bo"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/0sNsZCef65VCDnsxvS6NFF"
     }
   ],
   "unique_name": "New Singles Now",

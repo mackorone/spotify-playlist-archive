@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: Obongjayar",
+  "description": "No tags, no labels - just free form. Cover: Loyle Carner",
   "name": "Free Form",
   "tracks": [
     {
@@ -588,6 +588,24 @@
       "duration_ms": 147954,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw"
+    },
+    {
+      "album": {
+        "name": "all i need",
+        "url": "https://open.spotify.com/album/1gK0aKOhqwRRASeRhD2hRQ"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213542,
+      "name": "all i need",
+      "url": "https://open.spotify.com/track/449zwwLd5mT6AmRZMFJC96"
     },
     {
       "album": {
@@ -3386,7 +3404,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 192018,
       "name": "Give Us Some Time",
       "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
@@ -9037,6 +9055,24 @@
     },
     {
       "album": {
+        "name": "time to go",
+        "url": "https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209362,
+      "name": "time to go",
+      "url": "https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB"
+    },
+    {
+      "album": {
         "name": "Ting Tun Up",
         "url": "https://open.spotify.com/album/2J9GEqXO1d7Bx8bVHZwsno"
       },
@@ -10156,7 +10192,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 180481,
       "name": "Younger",
       "url": "https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4"

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: lucidrari
+> The best tracks from the world of music\. Cover: Naim Daniel, Adnin Roslan
 
-345 songs - 19 hr 35 min
+346 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-19 | 2025-03-20 |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-14 | 2024-09-12 |
 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-07-31 | 2024-10-03 |
+| [Calon Mantu Idaman \(feat\. Ncum\)](https://open.spotify.com/track/5EWyweCJ5igLl6bjbGRmGm) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs), [Ncum](https://open.spotify.com/artist/7J6fZ8wiC84JWju54ZmD65) | [Calon Mantu Idaman \(feat\. Ncum\)](https://open.spotify.com/album/4n4ZdQUXAs9BevRhBHtGdr) | 3:09 | 2025-06-19 |  |
 | [Cherish \(My Love\)](https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:56 | 2024-11-06 | 2024-11-13 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-10-30 | 2024-12-05 |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:20 | 2025-04-16 |  |
@@ -237,7 +238,7 @@
 | [Raya Nak Ke Mana?](https://open.spotify.com/track/6JP44OePn2eTN3Pw8veYII) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Raya Nak Ke Mana?](https://open.spotify.com/album/1aYTsMxY3Nd1WwsJLb7j90) | 3:17 | 2025-03-19 | 2025-04-10 |
 | [Remaja Selamanya](https://open.spotify.com/track/1GaPhwDdtZuLaTWOy9xM2c) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Kaset](https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC) | 3:49 | 2025-04-30 | 2025-05-29 |
 | [Reminisensi](https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Kepala Batu EP](https://open.spotify.com/album/6U1Imk9cN9VSNQrnHMgGkY) | 4:25 | 2024-10-09 |  |
-| [Restu](https://open.spotify.com/track/3gfVuMwfrz8cxZjfoMg9xk) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR) | [Restu](https://open.spotify.com/album/2KIOvOWzcVgkzOAIRkDX99) | 3:31 | 2025-06-18 |  |
+| [Restu](https://open.spotify.com/track/3gfVuMwfrz8cxZjfoMg9xk) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR) | [Restu](https://open.spotify.com/album/2KIOvOWzcVgkzOAIRkDX99) | 3:31 | 2025-06-18 | 2025-06-20 |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-03-05 | 2025-05-01 |
 | [RICOCHET](https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [RICOCHET](https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3) | 3:17 | 2024-10-16 | 2024-11-13 |
 | [Rindu Itu Berat \- Adaptasi Novel Yang Paling Patah Antara Kita](https://open.spotify.com/track/62gst8GBgKP8nLRyO07At9) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Rindu Itu Berat \(Adaptasi Novel Yang Paling Patah Antara Kita\)](https://open.spotify.com/album/06T0Iv10qityI3dnwC6kdZ) | 3:30 | 2025-05-07 | 2025-06-19 |

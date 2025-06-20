@@ -1,13 +1,49 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Littlefingers",
-  "num_followers": 110888,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Rifki Soeria, Natasya Elvira",
+  "num_followers": 110904,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEsV+gAAAADWsrNdkpIafU0jKMGDVLGv",
+  "snapshot_id": "aFReMQAAAABBEDv9Fc6eTFR96nGXTrjc",
   "tracks": [
+    {
+      "added_at": "2025-06-19 19:00:01",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1rxTWJtKxXQqJkMZNC7og3"
+      },
+      "artists": [
+        {
+          "name": "Rifki Soeria",
+          "url": "https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT"
+        },
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4gg9OMKfF6rZwxlzLIlYjJ"
+    },
+    {
+      "added_at": "2025-06-19 19:00:01",
+      "album": {
+        "name": "Orang Jakarta",
+        "url": "https://open.spotify.com/album/2lJi3eOuFlBdMexfz8ICJy"
+      },
+      "artists": [
+        {
+          "name": "ArumtaLa",
+          "url": "https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev"
+        }
+      ],
+      "duration_ms": 194792,
+      "name": "Orang Jakarta",
+      "url": "https://open.spotify.com/track/69Ar7P0Vt5KHtZlcKET7SZ"
+    },
     {
       "added_at": "2025-06-12 18:01:30",
       "album": {
@@ -27,6 +63,26 @@
       "duration_ms": 258510,
       "name": "Essence",
       "url": "https://open.spotify.com/track/43P2BUpH7mWjOx9nLZpC8C"
+    },
+    {
+      "added_at": "2025-06-19 19:00:01",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5aZTeDxVxx01FWD69SgOCS"
+      },
+      "artists": [
+        {
+          "name": "Rafi Muhammad",
+          "url": "https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF"
+        },
+        {
+          "name": "Tuantigabelas",
+          "url": "https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn"
+        }
+      ],
+      "duration_ms": 225071,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/3Ylx3R1CYXZfbjod3V6byM"
     },
     {
       "added_at": "2025-06-12 18:01:30",

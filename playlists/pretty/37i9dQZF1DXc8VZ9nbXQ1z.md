@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,560 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,695 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 99 | [Deme](https://open.spotify.com/track/2tlU0ZWQjbUUPR1ZMFGLpH) | [Zulu Mageba](https://open.spotify.com/artist/2oWStpJ5ThCzjyF9TyrRgA) | [Deme](https://open.spotify.com/album/6veHh1CgP0TpUHCa18Ah3S) | 7:30 |
 | 100 | [Kutafuta](https://open.spotify.com/track/1UVHbFgL6EjtoQOcNIrup9) | [Emanuele Modigliani](https://open.spotify.com/artist/2ny876pDy9p8XITSMNs4sF), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Kutafuta](https://open.spotify.com/album/3iktLd1X9mDlgvxTdMCnwj) | 6:43 |
 
-Snapshot ID: `aEqxnwAAAABrLtxJvlJLF56shtoENmsq`
+Snapshot ID: `AAAAAJp/77lRAeyXwNKiJqKGTkrRs7kB`

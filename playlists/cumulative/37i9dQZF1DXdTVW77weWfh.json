@@ -1791,6 +1791,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Complete Piano Sonatas & Concertos",
+        "url": "https://open.spotify.com/album/62VlldLNKK8OGw8vbyIFED"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317386,
+      "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/59N2oEyhMF01rjlSVln5HU"
+    },
+    {
+      "album": {
         "name": "Beethoven: The Piano Sonatas, Volume II (Live)",
         "url": "https://open.spotify.com/album/3yG6WwxrY6WHFsSXjDymzH"
       },
@@ -1806,7 +1828,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 314186,
       "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile - Live at Tonhalle Z\u00fcrich, 2004",
       "url": "https://open.spotify.com/track/2zExp0TMKzbEkssEDJ7uf2"
@@ -3548,7 +3570,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 443240,
       "name": "Violin Sonata No. 1 in D Major, Op. 12 No. 1: II. Theme and Variations. Andante con moto",
       "url": "https://open.spotify.com/track/4yYkowDjUM5WyRrclBvjir"
@@ -3682,6 +3704,32 @@
       "duration_ms": 312333,
       "name": "Violin Sonata No. 2 in A, Op. 12: No. 2 - Andante piu tosto allegretto",
       "url": "https://open.spotify.com/track/2har8mF0vE5j22P69bMxpP"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Violin Sonatas",
+        "url": "https://open.spotify.com/album/2bPI0JkdxxZTh9YM6zED1n"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Lena Neudauer",
+          "url": "https://open.spotify.com/artist/1QN6dYxRU85iKZ1ZlvfuHS"
+        },
+        {
+          "name": "Paul Rivinius",
+          "url": "https://open.spotify.com/artist/7tel0tV6cxXwvoVjmS8qsy"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582521,
+      "name": "Violin Sonata No. 5 in F Major, Op. 24 \"Spring\": I. Allegro",
+      "url": "https://open.spotify.com/track/0USiZChC6ltqyAHq4oPxnn"
     },
     {
       "album": {

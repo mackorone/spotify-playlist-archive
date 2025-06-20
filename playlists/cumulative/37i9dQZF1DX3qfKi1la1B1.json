@@ -799,6 +799,32 @@
     },
     {
       "album": {
+        "name": "Bedrock",
+        "url": "https://open.spotify.com/album/1LTgGG5Alb70K8ka5kdGaq"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Talos",
+          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
+        },
+        {
+          "name": "Sandrayati",
+          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280040,
+      "name": "Bedrock",
+      "url": "https://open.spotify.com/track/3ICG89Y1Rtb8Z35IPMXufB"
+    },
+    {
+      "album": {
         "name": "glisten",
         "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
       },
@@ -5368,7 +5394,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 177933,
       "name": "Out The Blue",
       "url": "https://open.spotify.com/track/6shs8JgU7UnKHYCohd8iUo"

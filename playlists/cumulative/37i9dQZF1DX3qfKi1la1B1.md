@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-452 songs - 1 day 5 hr 0 min
+453 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [balloon](https://open.spotify.com/track/3a7cMaM3fudhTYRvHRrStL) | [kijin](https://open.spotify.com/artist/2TGFerbsk04KUysNlVQyv0) | [balloon](https://open.spotify.com/album/20tx2Al1zE8eWZIVTPzBb6) | 3:16 | 2022-10-20 | 2022-12-14 |
 | [Barcelona Part IV](https://open.spotify.com/track/3gpppuXHsul092Cw0gtq0T) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [LIVE](https://open.spotify.com/album/1eRiTL1A6peNzZTokLv5HO) | 3:41 | 2023-05-18 | 2023-06-09 |
 | [Bed Room](https://open.spotify.com/track/1ZLB7XGT8I56pR9ibUlEQR) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:07 | 2023-11-28 | 2024-01-11 |
+| [Bedrock](https://open.spotify.com/track/3ICG89Y1Rtb8Z35IPMXufB) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc), [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [Bedrock](https://open.spotify.com/album/1LTgGG5Alb70K8ka5kdGaq) | 4:40 | 2025-06-12 |  |
 | [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 | 2022-10-20 | 2024-04-19 |
 | [Better Than I Imagined \[Feat\. H.E.R., Meshell Ndegeocello\]](https://open.spotify.com/track/5hv2fqqM4B2Oi9VoM4Oxhn) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Black Radio III \(Supreme Edition\)](https://open.spotify.com/album/0koSNz785od22spE0DlKO7) | 4:51 | 2022-12-13 | 2023-02-10 |
 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 | 2023-11-09 | 2025-03-01 |
@@ -280,7 +281,7 @@
 | [Off The Wall](https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:11 | 2023-03-21 | 2023-05-12 |
 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-09-07 |  |
 | [Origami Song](https://open.spotify.com/track/20jLunM1GMasrScNWN45mP) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 4:21 | 2023-12-05 | 2023-12-22 |
-| [Out The Blue](https://open.spotify.com/track/6shs8JgU7UnKHYCohd8iUo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Out The Blue](https://open.spotify.com/album/32SZQwbKHdXkMB7dGJxYFg) | 2:57 | 2025-04-04 |  |
+| [Out The Blue](https://open.spotify.com/track/6shs8JgU7UnKHYCohd8iUo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Out The Blue](https://open.spotify.com/album/32SZQwbKHdXkMB7dGJxYFg) | 2:57 | 2025-04-04 | 2025-06-20 |
 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 | 2022-10-20 |  |
 | [Overthinker \- Stones Taro Remix](https://open.spotify.com/track/0mPLsl9A6JdPBqRws85AYk) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Overthinker\(Stones Taro Remix\)](https://open.spotify.com/album/53fRA0u4akvEtfL4POeEX5) | 4:54 | 2022-11-24 | 2022-12-24 |
 | [Panic Attacks](https://open.spotify.com/track/0Y2DVH8AJKYRUxwmI0VfYd) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Apple Pie](https://open.spotify.com/album/0f02wMNqFZiSplA2H8C6kf) | 3:46 | 2022-11-10 | 2022-11-13 |

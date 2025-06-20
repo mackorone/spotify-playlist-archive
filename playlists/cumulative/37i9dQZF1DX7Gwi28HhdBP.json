@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Bondoq",
+        "url": "https://open.spotify.com/album/6YlOABngrEM2C1ENL7xatb"
+      },
+      "artists": [
+        {
+          "name": "\u0631\u062d\u0627\u0628 \u0633\u0644\u064a\u0645",
+          "url": "https://open.spotify.com/artist/1tkRquDjElKJKzRY15zOWS"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Bondoq",
+      "url": "https://open.spotify.com/track/3EEf5wmPtiznSbTCLGo0Mv"
+    },
+    {
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/4IhnA20aSZK2h7cj9naprD"
       },
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 205635,
       "name": "Kol Youm",
       "url": "https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz"

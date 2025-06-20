@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0l8j0CSU0A1CHpY9ku48z9?si=6VIx7NO0RuqsMOrVYWI5pA">The SN Project</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb?si=I3LD\_dX5RrKdubQlHWqEbw">Anabel Rose</a>\. Artwork: Isu Kim.
 
-1,333 songs - 2 day 18 hr 39 min
+1,334 songs - 2 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [HOME](https://open.spotify.com/track/4MKnbbcCLbuTMWo8JBk8ej) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Karabo](https://open.spotify.com/artist/2nPtQTbG4YCBrkSftUoiG3) | [FOR YOU, FOREVER](https://open.spotify.com/album/6q8rLOzjZMAGt2M1f4syHl) | 3:22 | 2024-04-03 | 2024-05-02 |
 | [Honey \(K.I.S.S.I.N.G\)](https://open.spotify.com/track/3BP2NL1f7Q2OjfcfKW8dZx) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [Aurientation](https://open.spotify.com/album/5EiEQlGR045stLX3LSitAi) | 3:44 | 2024-03-06 | 2024-04-03 |
 | [Hope](https://open.spotify.com/track/3P2OZnZ6xpFYI7bWMB28ui) | [Nemisis Loso](https://open.spotify.com/artist/1TFtIpOdyzFIEiuEagyGi4) | [Hope](https://open.spotify.com/album/4PKXI1kFAKNwWgU1P0ruMC) | 3:17 | 2022-09-02 | 2022-10-01 |
+| [House Of Mirrors](https://open.spotify.com/track/0m52oHvaK7uThwe3HkumYY) | [TAYKATRIP](https://open.spotify.com/artist/31I01TL25gP5IiHHh0Xjez) | [House Of Mirrors](https://open.spotify.com/album/5LDVm6ENmcKqoQfWc4YzgK) | 3:28 | 2025-06-19 |  |
 | [How Far](https://open.spotify.com/track/6FmwAa0zRuVRkAYqeehjlD) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [How Far](https://open.spotify.com/album/2LbebMjAaKVuNyzGY3rRux) | 2:49 | 2022-10-28 | 2023-01-26 |
 | [How I Want It](https://open.spotify.com/track/0IsysGvtKPy8kY1s94kP3p) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [How I Want It](https://open.spotify.com/album/27ntNIe5RuATV5gXDrmYYV) | 3:02 | 2025-06-04 |  |
 | [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 | 2022-10-28 | 2023-01-26 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,082 songs - 3 day 6 hr 9 min
+1,083 songs - 3 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [Shell Game \- Original Mix](https://open.spotify.com/track/4HpKLgvBpFlLgW5RhXGGc7) | [DMX Krew](https://open.spotify.com/artist/4W1v5X4x0ObMOJVJreZX3k) | [Glad To Be Sad](https://open.spotify.com/album/3FequuV4vTOYFOFhRqCKCm) | 2:03 | 2019-06-19\* | 2022-04-15 |
 | [Shibori](https://open.spotify.com/track/3cUYvBTqGjS6zknck89Yio) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr) | [Boro](https://open.spotify.com/album/6F8oFWdnaDZKe7PuEPI2Gk) | 6:28 | 2021-07-12 | 2022-07-28 |
 | [Shimmer](https://open.spotify.com/track/7dy1n3TtiCfmCYG1EeAXGZ) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:02 | 2019-06-19\* |  |
+| [Shimmering Lake](https://open.spotify.com/track/26iHdLEmhqo2ZyW3CyCzWC) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Shimmering Lake](https://open.spotify.com/album/5cvIHfDo9BCdE5M2qKMtZU) | 3:00 | 2025-06-13 |  |
 | [shivelight \- 7"](https://open.spotify.com/track/6PVsaZR8yTyGZW3lOWSCwQ) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [shivelight](https://open.spotify.com/album/5LrmWygOLU1oKMEe5GTza4) | 4:05 | 2025-04-15 | 2025-04-25 |
 | [Show Me](https://open.spotify.com/track/5k4MVfklNSMZZHB1jxvKrr) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:38 | 2019-06-19\* | 2020-10-21 |
 | [Signal \- Jean\-Michel Blais Piano Version](https://open.spotify.com/track/0L5j9vktiQmWZ34gvf1UCM) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Juvenile \(Remixed\)](https://open.spotify.com/album/3yjnnlJE5S5cbRQ1zGOFsf) | 4:29 | 2022-07-01 | 2024-04-19 |
@@ -929,7 +930,7 @@
 | [The Crab](https://open.spotify.com/track/1UTdsgXAFqyJjEERtaVT8r) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [The Crab](https://open.spotify.com/album/4w4QHtEa8uW6u0nANHjLNi) | 2:45 | 2019-06-19\* | 2020-10-22 |
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-08-27 | 2023-05-06 |
 | [The Departure](https://open.spotify.com/track/70a2Em6lDF6zowPLHWjWTA) | [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum) | [The Departure](https://open.spotify.com/album/04hOO4j9BcyvVAy2s5rCW1) | 3:30 | 2019-06-19\* | 2020-08-26 |
-| [The Fall](https://open.spotify.com/track/0DSWzEDLX2QjkBIUzFuQAX) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM) | [The Fall](https://open.spotify.com/album/18Jz4mjnghTjTztG4LQNGJ) | 4:58 | 2024-09-14 |  |
+| [The Fall](https://open.spotify.com/track/0DSWzEDLX2QjkBIUzFuQAX) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM) | [The Fall](https://open.spotify.com/album/18Jz4mjnghTjTztG4LQNGJ) | 4:58 | 2024-09-14 | 2025-06-20 |
 | [the family we find](https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [the family we find](https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK) | 4:57 | 2024-06-14 |  |
 | [The Frequency of the Universe](https://open.spotify.com/track/33xzOMLKWD1QdYYKETCkY5) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/0AWWSwlrkbHqGUKDLil3vo) | 3:45 | 2021-02-22 | 2023-12-16 |
 | [The Frequency of the Universe](https://open.spotify.com/track/5KfM7YEZPwfW7ooacdlJmm) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/7eNWltkpqeyaNNnbQkbOWt) | 3:45 | 2024-02-02 | 2024-04-19 |

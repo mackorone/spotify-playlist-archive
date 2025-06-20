@@ -1,6 +1,6 @@
 {
   "description": "S\u0142o\u0144ce, le\u017cak i letnia b\u0142ogo\u015b\u0107 w d\u017awi\u0119kach \u2600\ufe0f",
-  "num_followers": 336137,
+  "num_followers": 336359,
   "original_name": "Letni chill",
   "owner": {
     "name": "Spotify",
@@ -398,6 +398,10 @@
         {
           "name": "Jan Marczewski",
           "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "wojtman.fm",
+          "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
         }
       ],
       "duration_ms": 160470,
@@ -571,38 +575,6 @@
     {
       "added_at": "2025-06-16 09:01:41",
       "album": {
-        "name": "Unexplainable",
-        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 241888,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/4H5tU13iR2Sl2Ohogn5DTz"
       },
@@ -627,6 +599,38 @@
     {
       "added_at": "2025-06-16 09:01:41",
       "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
+        "name": "Unexplainable",
+        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 241888,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
         "name": "Momenty",
         "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
       },
@@ -639,30 +643,6 @@
       "duration_ms": 178893,
       "name": "O Pani!",
       "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
-        "name": "samoloty i nadprzestrzenie",
-        "url": "https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        },
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "nadprzestrzenie",
-      "url": "https://open.spotify.com/track/65ysPMey1kkR7Ccsxw5ZrZ"
     },
     {
       "added_at": "2025-06-16 09:01:41",
@@ -687,6 +667,30 @@
       "duration_ms": 163636,
       "name": "where the sunlight glows",
       "url": "https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
+        "name": "samoloty i nadprzestrzenie",
+        "url": "https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "nadprzestrzenie",
+      "url": "https://open.spotify.com/track/65ysPMey1kkR7Ccsxw5ZrZ"
     },
     {
       "added_at": "2025-06-16 09:01:41",
@@ -795,86 +799,6 @@
     {
       "added_at": "2025-06-16 09:01:41",
       "album": {
-        "name": "Ma\u0142a \u015bmier\u0107",
-        "url": "https://open.spotify.com/album/2Zl2KBb0nzJPELpXSCGXXH"
-      },
-      "artists": [
-        {
-          "name": "Lordofon",
-          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "Ma\u0142a \u015bmier\u0107",
-      "url": "https://open.spotify.com/track/0Xp2tlF530SLSkUFJQ3DxH"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
-        "name": "Swedish Girl",
-        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 153937,
-      "name": "Swedish Girl",
-      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
-        "name": "Do\u015b\u0107",
-        "url": "https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu"
-      },
-      "artists": [
-        {
-          "name": "Kuba i Kuba",
-          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Do\u015b\u0107",
-      "url": "https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
-        "name": "Aeroplan",
-        "url": "https://open.spotify.com/album/3FsDemDGc79lWoHf2MqZm9"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 203825,
-      "name": "Aeroplan",
-      "url": "https://open.spotify.com/track/39p0zf55b56ftZa2bvz0fQ"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
-        "name": "U Mnie",
-        "url": "https://open.spotify.com/album/0vrIGLBI2cOmncq4YO83yT"
-      },
-      "artists": [
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
-        }
-      ],
-      "duration_ms": 146843,
-      "name": "U Mnie",
-      "url": "https://open.spotify.com/track/6fy7TMTFuqxruaEDCdXcFr"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
         "name": "Do Ko\u0144ca Dni",
         "url": "https://open.spotify.com/album/3rb5K0ms8c8AzXU3ceoIZw"
       },
@@ -895,6 +819,86 @@
       "duration_ms": 224415,
       "name": "Do Ko\u0144ca Dni",
       "url": "https://open.spotify.com/track/7ELp0ZdB87mvVupvWUDoov"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
+        "name": "Ma\u0142a \u015bmier\u0107",
+        "url": "https://open.spotify.com/album/2Zl2KBb0nzJPELpXSCGXXH"
+      },
+      "artists": [
+        {
+          "name": "Lordofon",
+          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "Ma\u0142a \u015bmier\u0107",
+      "url": "https://open.spotify.com/track/0Xp2tlF530SLSkUFJQ3DxH"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
+        "name": "Do\u015b\u0107",
+        "url": "https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Do\u015b\u0107",
+      "url": "https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
+        "name": "U Mnie",
+        "url": "https://open.spotify.com/album/0vrIGLBI2cOmncq4YO83yT"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "duration_ms": 146843,
+      "name": "U Mnie",
+      "url": "https://open.spotify.com/track/6fy7TMTFuqxruaEDCdXcFr"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
+        "name": "Swedish Girl",
+        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 153937,
+      "name": "Swedish Girl",
+      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
+        "name": "Aeroplan",
+        "url": "https://open.spotify.com/album/3FsDemDGc79lWoHf2MqZm9"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 203825,
+      "name": "Aeroplan",
+      "url": "https://open.spotify.com/track/39p0zf55b56ftZa2bvz0fQ"
     },
     {
       "added_at": "2025-06-16 09:01:41",
@@ -935,22 +939,6 @@
     {
       "added_at": "2025-06-16 09:01:41",
       "album": {
-        "name": "no hard feelings",
-        "url": "https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 141424,
-      "name": "no hard feelings",
-      "url": "https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
         "name": "Dzwonisz",
         "url": "https://open.spotify.com/album/2mL2OPLHnpGw8IT5WC20Xg"
       },
@@ -963,6 +951,22 @@
       "duration_ms": 203168,
       "name": "Dzwonisz",
       "url": "https://open.spotify.com/track/6f0jOhp2WuvDXGUFYAzDRb"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
+        "name": "no hard feelings",
+        "url": "https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 141424,
+      "name": "no hard feelings",
+      "url": "https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE"
     },
     {
       "added_at": "2025-06-16 09:01:41",
@@ -1015,22 +1019,6 @@
     {
       "added_at": "2025-06-16 09:01:41",
       "album": {
-        "name": "\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc68",
-        "url": "https://open.spotify.com/album/5s9dplQwHJK8LmzepvzvvK"
-      },
-      "artists": [
-        {
-          "name": "Linia Nocna",
-          "url": "https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc68",
-      "url": "https://open.spotify.com/track/4wb0tiHtOUiEqhR4NKwSFp"
-    },
-    {
-      "added_at": "2025-06-16 09:01:41",
-      "album": {
         "name": "Pi\u0119kne Dni",
         "url": "https://open.spotify.com/album/4TqMQlaBY1JDYjWxFEvXG8"
       },
@@ -1047,18 +1035,34 @@
     {
       "added_at": "2025-06-16 09:01:41",
       "album": {
-        "name": "Hotelowe piosenki",
-        "url": "https://open.spotify.com/album/0xHVSF52jWBSJRx7TxlNNS"
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/0DgOhmSqyWoxpSKFmDJFvZ"
       },
       "artists": [
         {
-          "name": "Pawe\u0142 Domaga\u0142a",
-          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Do jutra",
-      "url": "https://open.spotify.com/track/5lxEfHFCyhsJFDGiYlTWoZ"
+      "duration_ms": 232721,
+      "name": "everafter",
+      "url": "https://open.spotify.com/track/0TkB9DU3RHSmpz0AwzMIz9"
+    },
+    {
+      "added_at": "2025-06-16 09:01:41",
+      "album": {
+        "name": "\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc68",
+        "url": "https://open.spotify.com/album/5s9dplQwHJK8LmzepvzvvK"
+      },
+      "artists": [
+        {
+          "name": "Linia Nocna",
+          "url": "https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc68",
+      "url": "https://open.spotify.com/track/4wb0tiHtOUiEqhR4NKwSFp"
     }
   ],
   "unique_name": "Letni chill",

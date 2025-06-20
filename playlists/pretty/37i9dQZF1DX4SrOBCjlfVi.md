@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gunna, Lil Tecca, 2 Chainz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,924 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,082 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 45 | [aseverancesickness](https://open.spotify.com/track/0zRrJ3GZksBSeFp337heKm) | [millkzy](https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR) | [aseverancesickness](https://open.spotify.com/album/3R9bMrY5xmIpjB5uk5jWQQ) | 3:48 |
 | 46 | [Lil Sexy](https://open.spotify.com/track/56MxbYXHEVqbCsjDN0kaSO) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Lil Sexy](https://open.spotify.com/album/1iNGyxPArFfBTySJ8bbWSv) | 3:19 |
 | 47 | [Quarter Ticket](https://open.spotify.com/track/3LGiB4Ob9eVyzJ7cJZaPxn) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Quarter Ticket](https://open.spotify.com/album/4dpls6koRxTxejtPm3SKMz) | 1:42 |
-| 48 | [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 4:17 |
+| 48 | [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 2:47 |
 | 49 | [Certified Shit Talker](https://open.spotify.com/track/3u8k6ipVAwvWJItJ9IcQor) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Certified Shit Talker](https://open.spotify.com/album/0gWtmN0dqgEJHmwhSLqOaO) | 2:28 |
 | 50 | [Documents](https://open.spotify.com/track/2GZIuPFHBY7yanCa7pzxak) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [VICTORY](https://open.spotify.com/album/5S7fMBF2TiKtLPKgVVAARB) | 2:49 |
 | 51 | [Alright](https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Baby Truth](https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD) | [Alright](https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 59 | [JELLO](https://open.spotify.com/track/3XRUpBRItrSlWkOxct38BS) | [Iconic Savvy](https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC) | [JELLO](https://open.spotify.com/album/2u9l2z9jOvRVqrFasyNz8M) | 2:11 |
 | 60 | [SON SHINES](https://open.spotify.com/track/2VMQV9fnebDrBN1DEdp9T3) | [NEMS](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4) | [AMERICA’S SWEETHEART \(DELUXE\)](https://open.spotify.com/album/0mWfzVzBpjbOpnHEgs4GHk) | 2:02 |
 
-Snapshot ID: `AAAAALKcmMfWG/D+cBEALvfpqMZttG6g`
+Snapshot ID: `aEuicgAAAABC12ncBinqxSd4UccS+YHE`

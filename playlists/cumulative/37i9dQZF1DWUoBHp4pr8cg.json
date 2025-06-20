@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from  BabyDaiz, LaCabra, Lil Tecca and more.",
+  "description": "Only the hottest Hip Hop from  Seru The Ellipsis, Tony Dayimane, Offset and more",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -1137,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "Bodies (with JID)",
+        "url": "https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178708,
+      "name": "Bodies (with JID)",
+      "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
+    },
+    {
+      "album": {
         "name": "Bolide Noir",
         "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
       },
@@ -1956,6 +1978,28 @@
       "duration_ms": 221624,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/69WbDrmumjFCiIF1QRJle5"
+    },
+    {
+      "album": {
+        "name": "Dilikiyane",
+        "url": "https://open.spotify.com/album/27MeITMWujxNfD6zhMDcIv"
+      },
+      "artists": [
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139893,
+      "name": "Dilikiyane",
+      "url": "https://open.spotify.com/track/5lfxJKi3xX7grIPzdnnK1p"
     },
     {
       "album": {
@@ -5191,6 +5235,32 @@
     },
     {
       "album": {
+        "name": "Paco Rabbane",
+        "url": "https://open.spotify.com/album/0AKcmO1mQfDLofcg82pwrU"
+      },
+      "artists": [
+        {
+          "name": "Seru the Ellipsis",
+          "url": "https://open.spotify.com/artist/53P7uxJr3YQx2pmEtrSHmA"
+        },
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162711,
+      "name": "Paco Rabbane",
+      "url": "https://open.spotify.com/track/25X5JxSQzUPOS48EFQItLW"
+    },
+    {
+      "album": {
         "name": "5LBS OF PRESSURE",
         "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
       },
@@ -8336,6 +8406,24 @@
       "duration_ms": 162000,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/2SSFTrPWqgX1JaDNs1OrQo"
+    },
+    {
+      "album": {
+        "name": "Where To Start",
+        "url": "https://open.spotify.com/album/55wb82Be19wprPto18OIX6"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214193,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/260EW8FU6e45oZ6sylXrfS"
     },
     {
       "album": {

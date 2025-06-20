@@ -4,7 +4,7 @@
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-143 songs - 8 hr 59 min
+146 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dead To Me](https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Dead To Me](https://open.spotify.com/album/3wwd2L3ATRhjkbmnGUhsJG) | 3:49 | 2024-08-05 |  |
 | [Deranged](https://open.spotify.com/track/4nvwl26KP8LtXaztmBjxPp) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 4:24 | 2024-08-05 | 2025-04-02 |
 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 | 2024-08-05 | 2025-04-25 |
+| [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 | 2025-06-19 |  |
 | [Down](https://open.spotify.com/track/7dtZcMZlJNOKL71wF3Iojn) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [\[O\]](https://open.spotify.com/album/0ZA7uOEgtdQ1iwSHio6iO1) | 3:41 | 2024-08-05 | 2025-04-02 |
 | [Echo](https://open.spotify.com/track/6sAbC7IL9cUG4x1S1CORn4) | [Shin Seol Hee](https://open.spotify.com/artist/2IJDF3Fg5VCCynlwWd467a) | [Echo](https://open.spotify.com/album/5NUvmOyxJs12PaJQPXdpin) | 3:15 | 2024-09-04 | 2025-04-02 |
 | [even if fall into a fail](https://open.spotify.com/track/1uTHCZukKvnXHC9TGjhsV0) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 2:27 | 2024-08-05 | 2025-04-02 |
@@ -52,6 +53,7 @@
 | [Footsteps](https://open.spotify.com/track/0THLCaRFeCPbgjvtNQ6hxD) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:05 | 2024-08-05 | 2025-04-02 |
 | [Freak](https://open.spotify.com/track/3lp31hQPvi0XcHxoMcks2o) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Suzanne](https://open.spotify.com/album/205ULvVnNjNAGQ3rpxzbcS) | 4:59 | 2024-08-05 | 2025-04-02 |
 | [free love \- dream edit](https://open.spotify.com/track/3HAsf0o0TJY9WL4zKCzE3u) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [nswy: dream edits](https://open.spotify.com/album/2EafeoPywXvcSudYSeSMWO) | 4:09 | 2025-03-14 |  |
+| [Frozen](https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 4:04 | 2025-06-19 |  |
 | [Got To Give](https://open.spotify.com/track/0pbo6zLqhafAy4r1T4F4jD) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:37 | 2024-08-05 | 2025-04-02 |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-08-05 | 2025-05-02 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2025-05-30 |  |
@@ -102,7 +104,7 @@
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-08-05 |  |
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2024-08-05 | 2025-04-02 |
 | [Rollover](https://open.spotify.com/track/39HDwkTjW1KfzqqvcZ9Ytg) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [The High Tide Club](https://open.spotify.com/album/5q0iAwNwPXjXfatRJ2sdYs) | 3:20 | 2024-08-05 | 2025-04-02 |
-| [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 | 2025-06-05 |  |
+| [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 | 2025-06-05 | 2025-06-20 |
 | [Saturday Nights](https://open.spotify.com/track/75w5oOMuHqeq46MRN3uSR6) | [INOHA](https://open.spotify.com/artist/0uoN6ea8SXzhV7WxyrvT1h) | [ALOHA INOHA](https://open.spotify.com/album/1HMeh1teqzXLKqiNfn7kWX) | 2:56 | 2024-08-05 | 2025-04-02 |
 | [Saturday On The Balcony](https://open.spotify.com/track/7zrIKb3BoogRzvthM8vsKT) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Sink!](https://open.spotify.com/album/0TC7LUFXxxgSkmN82yLMTo) | 4:02 | 2024-08-05 | 2025-04-02 |
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2024-08-05 |  |
@@ -115,9 +117,9 @@
 | [Snow](https://open.spotify.com/track/6tVKPxx1xz5Ve4yPS4sD5H) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Aren't You?](https://open.spotify.com/album/1pyBgBOQTAvZcIEcCluNj6) | 4:34 | 2024-08-05 | 2025-04-02 |
 | [so real](https://open.spotify.com/track/6Y3DptA1KtLCr0ii61x2Sl) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:33 | 2024-08-05 | 2025-04-02 |
 | [Something Special](https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:06 | 2024-08-05 | 2025-05-31 |
-| [Spectator](https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 3:03 | 2024-08-05 |  |
+| [Spectator](https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 3:03 | 2024-08-05 | 2025-06-20 |
 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-08-05 |  |
-| [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 | 2024-08-05 |  |
+| [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 | 2024-08-05 | 2025-06-20 |
 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 | 2025-04-17 | 2025-05-02 |
 | [Sunsetz](https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 3:34 | 2025-05-01 |  |
 | [Superstar](https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:13 | 2024-08-05 | 2025-06-16 |
@@ -140,6 +142,7 @@
 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 | 2024-08-05 |  |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2025-03-14 |  |
 | [Wednesday Afternoon](https://open.spotify.com/track/71QuZsn6oeJz1hV8TOQQLJ) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Wednesday Afternoon](https://open.spotify.com/album/43xJu9O3OvpJsxfLerJhIZ) | 3:39 | 2024-08-05 | 2025-04-02 |
+| [What Are You Looking for?](https://open.spotify.com/track/67MxXviUVpL6GoJ1h4tgFk) | [KIDO3008](https://open.spotify.com/artist/2SHgCtwY30kRZcgtuyjqyj) | [What Are You Looking for?](https://open.spotify.com/album/4PlHepUdKFjBqIqb7UPWOM) | 4:10 | 2025-06-19 |  |
 | [Where am i right now!](https://open.spotify.com/track/3uAZIOmiESli35v3sHdXaP) | [Born In March](https://open.spotify.com/artist/5Q6hLfOPSUR25OhEIUHTvO) | [Where am i right now!](https://open.spotify.com/album/11n9Qvjc98AT38nPyQkv2Y) | 4:59 | 2024-08-05 | 2025-04-02 |
 | [wish i was a robot](https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots and wishing i was one](https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg) | 2:57 | 2024-08-05 | 2025-04-02 |
 | [Wish You Were Here](https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View XXIII](https://open.spotify.com/album/7klngx9L0dt47tEgiNFY0Z) | 3:32 | 2024-08-05 | 2025-05-02 |

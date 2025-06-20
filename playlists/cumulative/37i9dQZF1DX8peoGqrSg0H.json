@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Daou Pittaya",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 130231,
       "name": "Keep a Secret",
       "url": "https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 179362,
       "name": "Move In Or Move On",
       "url": "https://open.spotify.com/track/2ZF7OJDJxFNHHDVQAWYqvg"
@@ -2898,6 +2898,24 @@
       "duration_ms": 166857,
       "name": "Smash or Pass - Original Soundtrack From Out of the nest",
       "url": "https://open.spotify.com/track/442Za23vtvJthRqBVBkSc5"
+    },
+    {
+      "album": {
+        "name": "GLOW",
+        "url": "https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179830,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk"
     },
     {
       "album": {
@@ -7624,7 +7642,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 220909,
       "name": "\u0e21\u0e2d\u0e1a\u0e15\u0e31\u0e27 (MY BAD)",
       "url": "https://open.spotify.com/track/3oeT53La3Qz8PNNBI2pxLr"
@@ -8140,6 +8158,24 @@
       "duration_ms": 244000,
       "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Good Old Days \u0e23\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (One More Time)",
+        "url": "https://open.spotify.com/album/3EC1riMrzHubUs2FHkg0XW"
+      },
+      "artists": [
+        {
+          "name": "Peck Palitchoke",
+          "url": "https://open.spotify.com/artist/5rbWOWw5jmpe6zbIHCzMpm"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249214,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (One More Time)",
+      "url": "https://open.spotify.com/track/6vxYIdCKMheBW4NvfhP5hH"
     },
     {
       "album": {
@@ -13080,6 +13116,24 @@
       "duration_ms": 172500,
       "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5avoDIqACMBIPebBXBQCFK"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e48\u0e2d\u0e21 (MA OM)",
+        "url": "https://open.spotify.com/album/7FsiPYG8FK7NsKznU0wgrk"
+      },
+      "artists": [
+        {
+          "name": "bamm",
+          "url": "https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e48\u0e2d\u0e21 (MA OM)",
+      "url": "https://open.spotify.com/track/5UN9Yme7Z4kDGNGxA6bYWY"
     },
     {
       "album": {

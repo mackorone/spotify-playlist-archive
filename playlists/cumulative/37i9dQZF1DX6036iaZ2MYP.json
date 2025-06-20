@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Lisandro Cuxi",
+  "description": "Tracks popping off in the Afro scene. Cover:  Olamide",
   "name": "Afro Station",
   "tracks": [
     {
@@ -2317,6 +2317,28 @@
     },
     {
       "album": {
+        "name": "Bouche de femme",
+        "url": "https://open.spotify.com/album/2lTS6t5wGOtKYFeUXMLTaH"
+      },
+      "artists": [
+        {
+          "name": "Devone",
+          "url": "https://open.spotify.com/artist/42n26sVrqcTkYhNLFQ4UFF"
+        },
+        {
+          "name": "Suspect95",
+          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Bouche de femme",
+      "url": "https://open.spotify.com/track/52fg8djWU2TOoJXNH2iWSy"
+    },
+    {
+      "album": {
         "name": "Bouchekaraille",
         "url": "https://open.spotify.com/album/5m2o4mk2FM50Qi6hrPWhW8"
       },
@@ -2888,7 +2910,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 131186,
       "name": "CAVA",
       "url": "https://open.spotify.com/track/1z68vWLVC9g7v2GucB0eFI"
@@ -3160,7 +3182,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 157066,
       "name": "Coll\u00e9",
       "url": "https://open.spotify.com/track/0K6X2IJ2tWabhvR0RvTnNy"
@@ -3270,7 +3292,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 191160,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
@@ -4504,7 +4526,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 174552,
       "name": "Dripology",
       "url": "https://open.spotify.com/track/2FImvg6RiQ3QHBWtYKjkMI"
@@ -5604,6 +5626,28 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+    },
+    {
+      "album": {
+        "name": "FINAL (feat. Frescool)",
+        "url": "https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Frescool",
+          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215103,
+      "name": "FINAL (feat. Frescool)",
+      "url": "https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G"
     },
     {
       "album": {
@@ -7494,7 +7538,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 118106,
       "name": "Je me balade",
       "url": "https://open.spotify.com/track/0onNp1Qd10STTRCddjkQWq"
@@ -8915,6 +8959,28 @@
     },
     {
       "album": {
+        "name": "Love Is Forever",
+        "url": "https://open.spotify.com/album/0sDCTuDE6AwjkxF0zlLqLZ"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "David Acekeyz",
+          "url": "https://open.spotify.com/artist/4QlxtMchAil1VX7K1aKJzs"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Love Is Forever",
+      "url": "https://open.spotify.com/track/1JeYfu8pc5FtsRtGlwp49p"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
       },
@@ -9020,6 +9086,24 @@
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170191,
+      "name": "Luvaluvah",
+      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
     },
     {
       "album": {
@@ -10192,6 +10276,24 @@
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
+    },
+    {
+      "album": {
+        "name": "Mr Goumin, chapitre 3",
+        "url": "https://open.spotify.com/album/2zF5QloVYoPmJU6HhPc2aH"
+      },
+      "artists": [
+        {
+          "name": "Allan Zut",
+          "url": "https://open.spotify.com/artist/6gbw7LgcJjVXjJwvxUjjbr"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "Mr Goumin, chapitre 3",
+      "url": "https://open.spotify.com/track/2jck5Acts0lhkBa90BllmY"
     },
     {
       "album": {
@@ -11494,7 +11596,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 136411,
       "name": "On fait comment",
       "url": "https://open.spotify.com/track/3vlbhli0NWUFbCeuZhmLqf"
@@ -15018,7 +15120,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 194436,
       "name": "Toro - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
@@ -15354,6 +15456,28 @@
       "duration_ms": 127058,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/2wA8FxoYNLqnxEBUDNmbsD"
+    },
+    {
+      "album": {
+        "name": "TU ES F\u00c2CH\u00c9 ?",
+        "url": "https://open.spotify.com/album/6hYXrbvuzul17gGXjYYWbM"
+      },
+      "artists": [
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "TU ES F\u00c2CH\u00c9 ?",
+      "url": "https://open.spotify.com/track/5uJ3iAk2E5cqjcXrpJMSaE"
     },
     {
       "album": {
@@ -15712,7 +15836,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 120000,
       "name": "Wagwan",
       "url": "https://open.spotify.com/track/01Yfxp4rdAdoo7gX8HRWs6"
@@ -16412,7 +16536,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 161729,
       "name": "YOU AND ME",
       "url": "https://open.spotify.com/track/3SAacqnIY8kK9McSIRC9Rv"
@@ -16594,6 +16718,24 @@
       "duration_ms": 184705,
       "name": "\u00c7A VA ALLER",
       "url": "https://open.spotify.com/track/5QJGbhcXcWHUOxyNRRMiWi"
+    },
+    {
+      "album": {
+        "name": "\u00c9toile",
+        "url": "https://open.spotify.com/album/3G2MywX1jsJ2iB9HVGUXFS"
+      },
+      "artists": [
+        {
+          "name": "T2R",
+          "url": "https://open.spotify.com/artist/6aH4CaxRV988XUNLVSi1dZ"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "\u00c9toile",
+      "url": "https://open.spotify.com/track/4z8HNbVIVhJ2eJ4NDtrOo5"
     },
     {
       "album": {

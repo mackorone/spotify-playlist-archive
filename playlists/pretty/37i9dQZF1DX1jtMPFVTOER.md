@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,956 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,970 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Runnin'](https://open.spotify.com/track/76q8RxpJisulRDVQZaW7b2) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Dream Mclean](https://open.spotify.com/artist/0ojBbzNVKsx1wFf7Ag3YIv), [Dame](https://open.spotify.com/artist/7lKsazBrIDEv76YQzFt05s), [Wallace Rice](https://open.spotify.com/artist/2jBrnxIU5OlEBG0DQY3Lqu) | [Runnin'](https://open.spotify.com/album/0egI36OMLEcADQ8zJSbZGm) | 3:26 |
 | 100 | [Patience](https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [NEONE the Wonderer](https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:41 |
 
-Snapshot ID: `AAAAABZT4LWm6yUvdxEbPzGjzgq1W0JO`
+Snapshot ID: `aEuiXwAAAABcEnBvLjKiUe15zlqHC6Fi`

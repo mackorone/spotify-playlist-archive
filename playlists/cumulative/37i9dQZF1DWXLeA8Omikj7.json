@@ -15223,6 +15223,24 @@
     },
     {
       "album": {
+        "name": "Shimmering Lake",
+        "url": "https://open.spotify.com/album/5cvIHfDo9BCdE5M2qKMtZU"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Shimmering Lake",
+      "url": "https://open.spotify.com/track/26iHdLEmhqo2ZyW3CyCzWC"
+    },
+    {
+      "album": {
         "name": "shivelight",
         "url": "https://open.spotify.com/album/5LrmWygOLU1oKMEe5GTza4"
       },
@@ -17494,7 +17512,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 298000,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/0DSWzEDLX2QjkBIUzFuQAX"

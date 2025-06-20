@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,626 likes - 130 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,692 likes - 130 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 129 | [Shayad X Samjhawan \- Lofi Flip](https://open.spotify.com/track/6qSNgCUyjfThWCLkFlvEIe) | [Amtee](https://open.spotify.com/artist/1NRWp10vx6p2j92O8r68bG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA) | [Shayad X Samjhawan \(Lofi Flip\)](https://open.spotify.com/album/7csWftLNoIiQtxeeJFvi6G) | 3:08 |
 | 130 | [Afreen Afreen \- Chillout Mix](https://open.spotify.com/track/3JGZmr9lA9RlkLpVBRytbc) | [Harshal Rajput](https://open.spotify.com/artist/5zoUMrQEbTPTnFKgO8Xd6a), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Afreen Afreen \- Chillout Mix](https://open.spotify.com/album/7yd19buyX1hHoL2elpoOYu) | 2:54 |
 
-Snapshot ID: `Z+ZdOAAAAAB07AIRKEF6Z4A1xXmhqFVR`
+Snapshot ID: `Z+ZdOAAAAAAJz+qKksQ4WzKu2Ckx7/ws`

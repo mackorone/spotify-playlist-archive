@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Adriatique, Bipolar Sunshine
 
-542 songs - 1 day 21 hr 27 min
+543 songs - 1 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Ayana](https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ayana](https://open.spotify.com/album/4DdIBvo6xW2iXFqoNyJx5g) | 3:21 | 2024-06-06 | 2024-08-09 |
 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 | 2022-04-15 | 2024-05-17 |
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2025-01-20 | 2025-06-10 |
+| [Bad Habit \- Clüb De Combat Remix](https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Lisa Millett](https://open.spotify.com/artist/5zrJTNerdQM2zcG6G2mCo5), [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Bad Habit \(Clüb De Combat Remix\)](https://open.spotify.com/album/4qUmkVbtxvTPeT7mXp29cC) | 3:45 | 2025-06-17 |  |
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2024-02-13 | 2024-03-08 |
 | [Barry](https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Barry](https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU) | 6:49 | 2023-01-13 | 2023-03-04 |
 | [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 | 2025-03-10 |  |
@@ -154,7 +155,7 @@
 | [El Tiempo](https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Combinations EP](https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9) | 6:11 | 2023-04-07 | 2024-08-22 |
 | [Elamy](https://open.spotify.com/track/6jdaBz780wecXanS9elu68) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Elamy](https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6) | 4:38 | 2022-04-15 | 2024-03-08 |
 | [En Route to Atlanta](https://open.spotify.com/track/5ubs1jwENWd53GCdfSOuuW) | [Lützenkirchen](https://open.spotify.com/artist/22kkH3Nik327a1kc4OXz8d) | [Run Coward Run](https://open.spotify.com/album/5E6UfUKKYZ3Ks5lhYe5hxf) | 6:22 | 2022-04-15 | 2022-07-03 |
-| [ENERGY](https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [THIS IS NOT AN ALBUM](https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt) | 6:17 | 2024-08-21 |  |
+| [ENERGY](https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [THIS IS NOT AN ALBUM](https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt) | 6:17 | 2024-08-21 | 2025-06-20 |
 | [EPICA MAXIMA](https://open.spotify.com/track/1ln3mQQP4daxuTtvcJTSyP) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [OXYMOREWORKS](https://open.spotify.com/album/41E84NAYxLXdVsVW2cslo0) | 5:17 | 2023-11-27 | 2024-04-26 |
 | [ESOTERIC TULUM BANGER](https://open.spotify.com/track/7xIbwmLl3uXs0J47x7uHev) | [Adryiano](https://open.spotify.com/artist/2fRT8ojJkJjfr6Z2zNo0WH) | [ESOTERIC TULUM BANGER](https://open.spotify.com/album/20kO9E9eeZzyRGap6tEXJ5) | 6:49 | 2022-06-24 | 2022-07-19 |
 | [Espíritu de la Tierra](https://open.spotify.com/track/2Wrsk3l6kA2LBjs2V7krgx) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU), [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Espíritu de la Tierra](https://open.spotify.com/album/3OXOruY0PfamK5rjL4fuHW) | 6:48 | 2022-04-15 | 2022-07-26 |

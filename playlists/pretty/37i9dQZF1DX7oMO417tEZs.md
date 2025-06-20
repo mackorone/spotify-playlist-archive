@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: DEBBY FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,860 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,875 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Beekeeping](https://open.spotify.com/track/2AxK0NAXg7kJPdHr5We5cW) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Beekeeping](https://open.spotify.com/album/6XJ1XxYA8Qipawm3xHhwZ8) | 4:23 |
 | 100 | [Room333](https://open.spotify.com/track/5cLQee4gGYNJICVYNvrsP9) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Room333](https://open.spotify.com/album/0izv1Zqu92mh9DMBsxQkca) | 3:00 |
 
-Snapshot ID: `aEuicgAAAABQ7iq7iUjU8qaNuC/HvlA8`
+Snapshot ID: `aEuicgAAAADk80oNN2/TAfvApvxnqlA7`

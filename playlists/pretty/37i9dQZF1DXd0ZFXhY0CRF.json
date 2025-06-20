@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: The Warning",
-  "num_followers": 769952,
+  "num_followers": 769969,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "There's No Future In Optimism",
-        "url": "https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 200089,
-      "name": "There's No Future In Optimism",
-      "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "TOMBSTONE TOWN (feat. Slash)",
         "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 194653,
       "name": "TOMBSTONE TOWN (feat. Slash)",
       "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "There's No Future In Optimism",
+        "url": "https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 200089,
+      "name": "There's No Future In Optimism",
+      "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
     },
     {
       "added_at": "2025-04-25 15:04:55",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "T&A",
-        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "T&A",
-      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "A Million Knives",
         "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
       },
@@ -1143,22 +1127,34 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "My House (feat. Courtney LaPlante)",
-        "url": "https://open.spotify.com/album/542T5OevZIJxjdzZs5eBUC"
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
       },
       "artists": [
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "Courtney LaPlante",
-          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 243293,
-      "name": "My House - feat. Courtney LaPlante",
-      "url": "https://open.spotify.com/track/7wSVu2ZvscLgaHbS5g5m6o"
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "My Apologies To The Chef",
+        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 174778,
+      "name": "You Look Like A Drunk Phoebe Bridgers",
+      "url": "https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN"
     },
     {
       "added_at": "2025-04-25 15:04:55",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "My Apologies To The Chef",
-        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+        "name": "My House (feat. Courtney LaPlante)",
+        "url": "https://open.spotify.com/album/542T5OevZIJxjdzZs5eBUC"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
         }
       ],
-      "duration_ms": 174778,
-      "name": "You Look Like A Drunk Phoebe Bridgers",
-      "url": "https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN"
+      "duration_ms": 243293,
+      "name": "My House - feat. Courtney LaPlante",
+      "url": "https://open.spotify.com/track/7wSVu2ZvscLgaHbS5g5m6o"
     },
     {
       "added_at": "2025-04-25 15:04:55",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "I Got Heaven",
-      "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "Welcome To My House",
         "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 190611,
       "name": "By The Time You're Reading This",
       "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "I Got Heaven",
+      "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
     },
     {
       "added_at": "2025-04-25 15:04:55",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
-      },
-      "artists": [
-        {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "Love Me Forever",
         "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 196942,
       "name": "the kids aren't alright",
       "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
     },
     {
       "added_at": "2025-04-25 15:04:55",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-04-25 15:04:55",
       "album": {
-        "name": "Champagne Taste",
-        "url": "https://open.spotify.com/album/2zsxtYFYCBeElrDzjLu0uG"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Champagne Taste",
-      "url": "https://open.spotify.com/track/0oJ2ViRL2hbmUAkWwCSDib"
-    },
-    {
-      "added_at": "2025-04-25 15:04:55",
-      "album": {
         "name": "She Said",
         "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 241334,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
+    },
+    {
+      "added_at": "2025-04-25 15:04:55",
+      "album": {
+        "name": "Champagne Taste",
+        "url": "https://open.spotify.com/album/2zsxtYFYCBeElrDzjLu0uG"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 192371,
+      "name": "Champagne Taste",
+      "url": "https://open.spotify.com/track/0oJ2ViRL2hbmUAkWwCSDib"
     },
     {
       "added_at": "2025-04-25 15:04:55",

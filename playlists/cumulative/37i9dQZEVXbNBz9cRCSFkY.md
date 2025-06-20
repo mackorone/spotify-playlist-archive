@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,015 songs - 2 day 13 hr 21 min
+1,016 songs - 2 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2023-06-27 | 2025-03-14 |
 | [Kabilang Buhay](https://open.spotify.com/track/0knRQzgvbUed6K74mX81hG) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kabilang Buhay](https://open.spotify.com/album/1bXVfDuQen1YkHWKudAi2c) | 5:25 | 2021-03-27\* | 2021-04-08 |
 | [Kagome](https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Kagome](https://open.spotify.com/album/4CIT1BsHQams5FP5RUSydD) | 3:58 | 2022-05-02 | 2023-01-14 |
+| [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-06-19 |  |
 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 | 2025-02-22 |  |
 | [Kampana Ng Simbahan](https://open.spotify.com/track/3WJNclt6udgjcPiSy0hMNb) | [Leo Valdez](https://open.spotify.com/artist/55yK9bebS7rDYaiTiR0slN) | [Pamasko Ng Mga Bituin](https://open.spotify.com/album/1CIUzJ8OkF00ewxIQgVzhq) | 2:54 | 2023-12-25 | 2023-12-27 |
 | [Kapangyarihan \- feat\. SB19](https://open.spotify.com/track/6FFtbC1K2aNeCS376paoHN) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pebble House, Vol\. 1: Kuwaderno](https://open.spotify.com/album/0UeeygFdIo8k7PgxpLEGWI) | 4:29 | 2021-08-31 | 2021-09-09 |
@@ -787,7 +788,7 @@
 | [Sigurado](https://open.spotify.com/track/4wnY5k0diSG5naOgbtCOqK) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Sigurado](https://open.spotify.com/album/3acG1SpY8w8Od6dBqaHEWl) | 3:25 | 2021-07-25 | 2021-09-18 |
 | [Silly Hoes](https://open.spotify.com/track/7jaW3zW1UquUY4I2j7OoAZ) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Silly Hoes](https://open.spotify.com/album/5FFcOsqb6a7g8rIXYh2BrM) | 2:59 | 2023-08-19 | 2023-12-17 |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-26 |  |
-| [Sino](https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Grandma](https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg) | 4:40 | 2023-01-31 |  |
+| [Sino](https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Grandma](https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg) | 4:40 | 2023-01-31 | 2025-06-20 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-08-06 | 2021-08-20 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-25 | 2022-12-27 |
 | [SLMT](https://open.spotify.com/track/0AbJoAxuqYgMrmXvtFOc0K) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 3:19 | 2021-07-24 | 2021-07-25 |

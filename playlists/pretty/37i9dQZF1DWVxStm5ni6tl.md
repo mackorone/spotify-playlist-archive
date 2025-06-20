@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: KARABA, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,988 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,999 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [No Newports](https://open.spotify.com/track/1UiDdfoJTca08N18DmPxY9) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn) | [No Newports](https://open.spotify.com/album/3e61Kyl5WnhiPQoPF4HelY) | 1:39 |
 | 50 | [Is It My Thoughts?](https://open.spotify.com/track/4nhl6fZX0fPhSANr394ui6) | [Bouvier Normal](https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp) | [True Love](https://open.spotify.com/album/0DLM3IycaraZWJncHV2XDw) | 3:35 |
 
-Snapshot ID: `aFK5/wAAAAC5EMyHFEGXtoPV+5N/cANN`
+Snapshot ID: `aFK5/wAAAAB8VE5LQ67fHS8d0Hlb/h/5`

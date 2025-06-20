@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Sleep Token
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,390 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,435 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 14 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
 | 15 | [Aerodynamic](https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7) | 4:46 |
 | 16 | [This Is Mongol \[Warrior Souls\] \(feat\. William DuVall and Trevor McNevan\) \- Teerawk Remix](https://open.spotify.com/track/4OruiIHdTbT87xOOm9hIxu) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [William DuVall](https://open.spotify.com/artist/7i706LwoMxh1uYYnrMuQUR), [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Trevor McNevan](https://open.spotify.com/artist/0RXO2ozd11vyo8ehxYGnZ6), [Teerawk](https://open.spotify.com/artist/1UfT3ZzOH5k7Wk4gYrtkzZ) | [Echos of Thunder](https://open.spotify.com/album/3rD7cHSRlai9MWh3R04sVL) | 3:58 |
-| 17 | [Bii Biyelgee \(feat\. Tyler Glenn of Neon Trees\)](https://open.spotify.com/track/5wHMEcEJngLFnyJjutyb7T) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE), [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Echos of Thunder](https://open.spotify.com/album/3rD7cHSRlai9MWh3R04sVL) | 4:20 |
-| 18 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 |
-| 19 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
-| 20 | [Rabbit Hole \- Cowards, Pt\. 1](https://open.spotify.com/track/4Zy7UaHmzAxD3V1qNkTaIq) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Rabbit Hole \(Cowards, Pt\. 1\)](https://open.spotify.com/album/40yjj7ZS1HT3jXrhACMmur) | 4:09 |
-| 21 | [WORSHIP](https://open.spotify.com/track/7IF328weNbUocWsxzosLsB) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [WORSHIP](https://open.spotify.com/album/1CanZLFJLY6jv5G5pWlZpn) | 3:09 |
-| 22 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 |
-| 23 | [Modus Operandi](https://open.spotify.com/track/5gfyyaTLKR8HgF5afzwdDe) | [Midnight Fusic](https://open.spotify.com/artist/3qzktAIByIWbxVB5XjxpqL) | [Modus Operandi EP](https://open.spotify.com/album/059WQTG9AuxaKOUfvQkusg) | 5:07 |
+| 17 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 |
+| 18 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
+| 19 | [Rabbit Hole \- Cowards, Pt\. 1](https://open.spotify.com/track/4Zy7UaHmzAxD3V1qNkTaIq) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Rabbit Hole \(Cowards, Pt\. 1\)](https://open.spotify.com/album/40yjj7ZS1HT3jXrhACMmur) | 4:09 |
+| 20 | [WORSHIP](https://open.spotify.com/track/7IF328weNbUocWsxzosLsB) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [WORSHIP](https://open.spotify.com/album/1CanZLFJLY6jv5G5pWlZpn) | 3:09 |
+| 21 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 |
+| 22 | [Modus Operandi](https://open.spotify.com/track/5gfyyaTLKR8HgF5afzwdDe) | [Midnight Fusic](https://open.spotify.com/artist/3qzktAIByIWbxVB5XjxpqL) | [Modus Operandi EP](https://open.spotify.com/album/059WQTG9AuxaKOUfvQkusg) | 5:07 |
+| 23 | [Bii Biyelgee \(feat\. Tyler Glenn of Neon Trees\)](https://open.spotify.com/track/5wHMEcEJngLFnyJjutyb7T) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE), [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Echos of Thunder](https://open.spotify.com/album/3rD7cHSRlai9MWh3R04sVL) | 4:20 |
 | 24 | [Rupture](https://open.spotify.com/track/29Gzo9QkbCKQR3U5khDzh1) | [Typecast](https://open.spotify.com/artist/7vbAIeiw0afuAqTiReJItY) | [Rupture](https://open.spotify.com/album/70fMhKu0kVZEcufcCi05Xm) | 4:31 |
 | 25 | [Fracture](https://open.spotify.com/track/0xNkOct9CjawQLrxI9DPqw) | [Patriots](https://open.spotify.com/artist/4kbQeef0lyT1hmytT6xyUJ) | [Blue Robins](https://open.spotify.com/album/1193BmiWEv84k72ZY7dM8W) | 4:23 |
 | 26 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Set It Free](https://open.spotify.com/track/0Ot51JMkm0YpEjvs2MNfc4) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Set It Free](https://open.spotify.com/album/0HoKHAI0L9m464mk7Q7frg) | 3:29 |
 | 75 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 
-Snapshot ID: `aFKFywAAAACPc4ut7HPMaEURSkBq+L22`
+Snapshot ID: `aFPzgQAAAADcgTvj3XyMMm3UbJ0nSKKp`

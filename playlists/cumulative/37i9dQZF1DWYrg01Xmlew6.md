@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-476 songs - 21 hr 55 min
+477 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [GUAJ \(feat\. Yung Snapp\)](https://open.spotify.com/track/3AuxMngBpEvLcnQgkDanyI) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [GUAJ \(feat\. Yung Snapp\)](https://open.spotify.com/album/2uD1OAzfhTtIdLC86AwQzO) | 2:49 | 2024-04-11 | 2024-05-10 |
 | [GUERRA](https://open.spotify.com/track/1l1L3dTj4VkpB5oYFduKGu) | [Matto Llorar](https://open.spotify.com/artist/4NEmGznKcAVErjDkcrFH3l), [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [GUERRA](https://open.spotify.com/album/2GFZh6hkFCFQSaI6MOphzr) | 2:55 | 2023-02-09 | 2023-03-10 |
 | [GUNDAM](https://open.spotify.com/track/1yEACt2XZhwPNQtt8U8jkT) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Raimo](https://open.spotify.com/artist/4dzoQsokmVsBXQf6VG80Hm) | [GUNDAM](https://open.spotify.com/album/1dQRFh53er57NXlUdbfXLi) | 2:12 | 2024-01-11 | 2024-01-26 |
+| [GVR](https://open.spotify.com/track/29M2qN6Vs2cVnsRZnFusCl) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [G Rose](https://open.spotify.com/artist/6JI8BKa8Bjfhqr5dT1fXIn) | [GVR](https://open.spotify.com/album/0cMBtBBF5nh5VcFr6XCBto) | 1:55 | 2025-06-19 |  |
 | [Hablan De Mi \- Italian Remix](https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Hablan De Mi \(Italian Remix\)](https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh) | 2:08 | 2022-05-16 | 2023-11-03 |
 | [HASTA LA MUERTE](https://open.spotify.com/track/7rb3Fo6N2NhbsBlCtNjYUk) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [HASTA LA MUERTE](https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5) | 2:34 | 2024-12-12 |  |
 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 | 2024-10-24 |  |
@@ -267,7 +268,7 @@
 | [Napoletana](https://open.spotify.com/track/7bQ3KZmW8L1LlP7Q4F4mUe) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [G\-Lex](https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y) | [CRIATUR](https://open.spotify.com/album/3ygQSRBTf3raxCUcF05s7s) | 2:22 | 2024-06-27 | 2024-09-04 |
 | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS) | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl) | 2:56 | 2023-08-03 | 2024-09-20 |
 | [Napoli \- Juve](https://open.spotify.com/track/1iAlOKxg0GhqHmvK9Uz8Zh) | [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6), [Young Donghito](https://open.spotify.com/artist/4Ll4sOvxN7VHLMX7d04FB4) | [Napoli \- Juve](https://open.spotify.com/album/3YsfetOoVTPVFv5LRwzwbf) | 3:20 | 2024-09-19 | 2024-11-07 |
-| [NAS](https://open.spotify.com/track/3tDcxacC9wGhYM0vyicVuC) | [ARNONE](https://open.spotify.com/artist/0tbCfksIrpbfmzIdVCbaRP) | [NAS](https://open.spotify.com/album/1AmKa1eq78uP87M9fqRy3A) | 2:00 | 2025-05-29 |  |
+| [NAS](https://open.spotify.com/track/3tDcxacC9wGhYM0vyicVuC) | [ARNONE](https://open.spotify.com/artist/0tbCfksIrpbfmzIdVCbaRP) | [NAS](https://open.spotify.com/album/1AmKa1eq78uP87M9fqRy3A) | 2:00 | 2025-05-29 | 2025-06-20 |
 | [NATA HIT](https://open.spotify.com/track/0g0N74YGdNt02vUlP9Can0) | [The Pure](https://open.spotify.com/artist/72zFcHuGI78MerlEFQhKWt) | [NATA HIT](https://open.spotify.com/album/0URkSDI4ZoX2x1ckCnQcdT) | 2:22 | 2025-05-15 | 2025-05-30 |
 | [NIENT'](https://open.spotify.com/track/4mvwSiraeuWHTaVUNJacCh) | [UNDICI](https://open.spotify.com/artist/3iZD47sbWX79D67jUK8MKT) | [NIENT'](https://open.spotify.com/album/3px1C5m3ENUE1F9ciL4t03) | 2:15 | 2025-02-27 | 2025-04-04 |
 | [Niente](https://open.spotify.com/track/1BN4YTnHEAFAg5HRxIC1af) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:48 | 2023-05-10 | 2023-07-21 |

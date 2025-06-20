@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Lidia Buble
+> Cele mai noi hituri pop românești\. Cover: rares
 
-261 songs - 12 hr 21 min
+263 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Cenușăreaso](https://open.spotify.com/track/63vAGBl8LbaEjMhAvZysFo) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Cenușăreaso](https://open.spotify.com/album/7wvwQYMqixR49p8UVsi6ij) | 3:09 | 2024-09-19 | 2024-10-25 |
 | [Cerul](https://open.spotify.com/track/2eDzUqD9Lzq54IiH5nwqJR) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Cerul](https://open.spotify.com/album/3u0KID3tzWUtK2zm1SDMXW) | 3:02 | 2024-06-27 | 2024-08-09 |
 | [Cerule](https://open.spotify.com/track/4ZeSr0aitBN1EizbCRSJAM) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Cerule](https://open.spotify.com/album/13AqB7Um8RDiGbqIHHeMdg) | 2:37 | 2024-10-24 | 2025-03-07 |
+| [Ciao Amore!](https://open.spotify.com/track/3KgJ6MzX3OJgFmsCsYl2rZ) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ciao Amore!](https://open.spotify.com/album/6NU62gfLSe6N4qMzOJZQZT) | 2:37 | 2025-06-19 |  |
 | [Cine, cine](https://open.spotify.com/track/6paw0zreuIzEn8CmhPGwct) | [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Cine, cine](https://open.spotify.com/album/5xTwLaYlDYZFxqWTFeOLV9) | 2:53 | 2025-03-06 |  |
 | [Clipe \- Special Guest: 3 Sud Est](https://open.spotify.com/track/3QyAi6P49gug9kWKIg8YdY) | [Yuka](https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2), [3 Sud Est](https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC) | [Clipe \(Special Guest: 3 Sud Est\)](https://open.spotify.com/album/7n37zmyFBIDZD3JgH6DfDP) | 3:39 | 2024-06-27 | 2024-07-05 |
 | [Compromis](https://open.spotify.com/track/2iUFBWn0r43yVWxS99R8Lz) | [Karmen](https://open.spotify.com/artist/2S3C9sCcaSXmGzH4dVoiHF) | [Compromis](https://open.spotify.com/album/37jrMjKiHDLlKwGnm9hRcz) | 2:26 | 2024-11-07 | 2024-11-29 |
@@ -115,6 +116,7 @@
 | [Hanorac](https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt) | [Aria Moon](https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj) | [Hanorac](https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw) | 2:34 | 2024-08-29 | 2024-10-04 |
 | [Hater](https://open.spotify.com/track/2QKhzYvb3bDYQKSCNjSf8t) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Hater](https://open.spotify.com/album/4zy9TEiWZIqI2bJn4DL8Lt) | 2:22 | 2025-03-20 | 2025-04-18 |
 | [Hearts in Stereo \- Radio Edit](https://open.spotify.com/track/2M3TPAGbcyQySxZn9OGsyI) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Hearts in Stereo \(Versions\)](https://open.spotify.com/album/2vdlQ1eSzJYe5jdfwEeapn) | 2:27 | 2024-07-18 | 2024-08-09 |
+| [Hora fetelor](https://open.spotify.com/track/4axfTALAQ2kM35X35fCnc7) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Hora fetelor](https://open.spotify.com/album/580phVNDwAGjBZvhc19gwO) | 2:24 | 2025-06-19 |  |
 | [How I Love It](https://open.spotify.com/track/2bO0NmmJrvHGoJGoxT3A0f) | [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy), [Cezar Guna](https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa) | [How I Love It](https://open.spotify.com/album/49OZpI4ewmwdYOYR09LB4J) | 2:35 | 2024-07-04 | 2024-08-30 |
 | [I Did](https://open.spotify.com/track/2Lcd6VzN6n80RhW3SbPqoM) | [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [I Did](https://open.spotify.com/album/0IAyUqUPKPMc2WPZlwe6m1) | 2:20 | 2025-04-24 |  |
 | [Iartă\-mă](https://open.spotify.com/track/1JqBNY2paANmDYF8gbvZW0) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Iartă\-mă](https://open.spotify.com/album/14au6hLrWkjxAloraOqoMX) | 3:04 | 2024-12-05 | 2025-01-10 |
@@ -141,7 +143,7 @@
 | [LOIALITATE](https://open.spotify.com/track/5yiok0QSYdoP4L2Nn6ny1T) | [Cezar Guna](https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa) | [LOIALITATE](https://open.spotify.com/album/3SgXAsStmkXfSMsr9Sn00B) | 2:25 | 2025-03-20 | 2025-06-06 |
 | [Lose My Mind](https://open.spotify.com/track/2yqRofXpLseanc6HhxJD10) | [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Lose My Mind](https://open.spotify.com/album/7qJTvPgy2GXFN20yVHHYnH) | 2:45 | 2025-04-24 | 2025-06-06 |
 | [Love Is Harder](https://open.spotify.com/track/1g07YHuWwMdjqlrWcVp2ie) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Love Is Harder](https://open.spotify.com/album/1oZEw4wsKHqNxpVCIzifvB) | 2:09 | 2024-09-26 | 2024-12-20 |
-| [Lucky](https://open.spotify.com/track/2Qzvu6KH3kzdvagAG3lzDg) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Lucky](https://open.spotify.com/album/3dM2QCvKEt1HiHY2vUBqSC) | 2:29 | 2025-06-05 |  |
+| [Lucky](https://open.spotify.com/track/2Qzvu6KH3kzdvagAG3lzDg) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Lucky](https://open.spotify.com/album/3dM2QCvKEt1HiHY2vUBqSC) | 2:29 | 2025-06-05 | 2025-06-20 |
 | [Lumea mea](https://open.spotify.com/track/6L9fmQDOhcYCS0hit70XQj) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Lumea mea](https://open.spotify.com/album/0PYxCYbxahfOkLVKok1KMq) | 2:23 | 2024-07-11 | 2024-08-02 |
 | [Lumea n\-ar mai fi](https://open.spotify.com/track/0cmwnlJSvOX4PUqOYmvhc0) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Lumea n\-ar mai fi](https://open.spotify.com/album/2tamkWSKugOV7hkZdJV91K) | 3:00 | 2025-02-20 |  |
 | [Lumea toată](https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Lumea toată](https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT) | 2:15 | 2025-03-06 |  |
@@ -179,7 +181,7 @@
 | [Nu Știi](https://open.spotify.com/track/6pIzd6GX9dJtx73xeHcxPR) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb), [Blacklist](https://open.spotify.com/artist/3QvMYjA3Hfu62w8XUkRR4P) | [Nu Știi](https://open.spotify.com/album/6UJtTFwqorh9xVUjsagaFc) | 3:02 | 2024-06-27 | 2024-09-27 |
 | [Numai una](https://open.spotify.com/track/0OEKRaMZgxBfwdHZdFW8il) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Numai una](https://open.spotify.com/album/1rA1kXCUIW5DSQyrYSKv3b) | 2:52 | 2025-05-30 |  |
 | [Număr Ascuns](https://open.spotify.com/track/10XrbvdxmCjP1zpZHigxAy) | [Edine](https://open.spotify.com/artist/69liRSrij8eMDTX2fKbICm) | [Număr Ascuns](https://open.spotify.com/album/1eXS1CYAvYYLtxfJV38Q13) | 2:34 | 2024-06-27 | 2024-07-12 |
-| [O femeie iubește mult](https://open.spotify.com/track/5Ch1v28VJ8IkfiiqR3h4KY) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [O femeie iubește mult](https://open.spotify.com/album/7GxI7LsSi4Hf4TjKDxYtCC) | 3:02 | 2025-04-17 |  |
+| [O femeie iubește mult](https://open.spotify.com/track/5Ch1v28VJ8IkfiiqR3h4KY) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [O femeie iubește mult](https://open.spotify.com/album/7GxI7LsSi4Hf4TjKDxYtCC) | 3:02 | 2025-04-17 | 2025-06-20 |
 | [O lume minunată](https://open.spotify.com/track/0hn4ruKYjzmEe56Ygyye76) | [Andreea Balan](https://open.spotify.com/artist/0EzdKL71gSNlSxnAmEQeGV), [Ella Maya](https://open.spotify.com/artist/0NqiVrEQRCymGqZEF7alce), [Clara](https://open.spotify.com/artist/7qpc9jUNPbkUlegmS5pbke) | [O lume minunată](https://open.spotify.com/album/6jcAdXkiZHrDDvQxgA6gQk) | 3:26 | 2024-08-29 | 2024-09-20 |
 | [O nouă viață](https://open.spotify.com/track/0Ey8ZOPxPIzZjLLQzjlv5r) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [O nouă viață](https://open.spotify.com/album/2yKIVLtFm6v7fmCZIN7uqE) | 3:00 | 2024-11-14 | 2024-12-13 |
 | [O Piesă RnB](https://open.spotify.com/track/4Hl4L9Zqqb3iY2PONU2P9p) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [O Piesă RnB](https://open.spotify.com/album/2xqwXOCbyxyYuUcgo55zsj) | 2:11 | 2025-03-13 | 2025-04-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Feu! Chatterton",
+  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Axel Bauer & Brigitte Fontaine",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 192000,
       "name": "<3",
       "url": "https://open.spotify.com/track/0kZ3M4DN0ml4ZH1AvpVzAl"
@@ -1664,6 +1664,24 @@
       "duration_ms": 182500,
       "name": "Encore",
       "url": "https://open.spotify.com/track/0MMwBokFBDp14xOgnqeVnR"
+    },
+    {
+      "album": {
+        "name": "ENCORE!",
+        "url": "https://open.spotify.com/album/65SZnjdnG7PQt6HruiqQUY"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126592,
+      "name": "ENCORE!",
+      "url": "https://open.spotify.com/track/5HEAExffQ9taEhirCvDKZS"
     },
     {
       "album": {
@@ -3388,7 +3406,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 158318,
       "name": "Mouvement",
       "url": "https://open.spotify.com/track/7GbsZEZ8zLcCU8TAbG6K7a"
@@ -4404,6 +4422,24 @@
       "duration_ms": 224687,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/4bVxD1TfLNNlbridccs1cq"
+    },
+    {
+      "album": {
+        "name": "Romy",
+        "url": "https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED"
+      },
+      "artists": [
+        {
+          "name": "James Baker",
+          "url": "https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199620,
+      "name": "Romy",
+      "url": "https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg"
     },
     {
       "album": {

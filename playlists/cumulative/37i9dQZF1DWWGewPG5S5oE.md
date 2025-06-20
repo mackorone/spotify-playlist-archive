@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 桑原あい
 
-418 songs - 1 day 9 hr 50 min
+419 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Car 16 15 A](https://open.spotify.com/track/79bAHiH5Ffx3dgv5MgETPW) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Car 16 15 A](https://open.spotify.com/album/6OhjjaRUKSQjKRSYwcJNIu) | 5:02 | 2025-02-11 | 2025-04-07 |
 | [Caught Up \- grooveman Spot Remix](https://open.spotify.com/track/4E31kWZbuig1EQozBK4j5b) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [多和田えみ](https://open.spotify.com/artist/75lvsN9jSpGRWcQhERynWS), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Caught Up \(grooveman Spot Remix\)](https://open.spotify.com/album/3KqRiPSde1pa2WVEtBSu3b) | 4:06 | 2023-04-04 | 2023-04-22 |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-12 |  |
-| [Chapter 0](https://open.spotify.com/track/6rEFHgdmQha1VyCG7pYtEN) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dosukoi SS](https://open.spotify.com/album/6Lap8GJr0DW8VQP2BRj8Y4) | 0:44 | 2025-05-27 |  |
+| [Chapter 0](https://open.spotify.com/track/6rEFHgdmQha1VyCG7pYtEN) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dosukoi SS](https://open.spotify.com/album/6Lap8GJr0DW8VQP2BRj8Y4) | 0:44 | 2025-05-27 | 2025-06-20 |
 | [Child's eye](https://open.spotify.com/track/72CKhZXYJbieI0Rzy3I8wq) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [YELLOW](https://open.spotify.com/album/5KAYYjNX5y00ARgTjI2kVN) | 2:15 | 2023-11-21 | 2024-02-07 |
 | [Children of Peace](https://open.spotify.com/track/2lnYMX79vLI5cj2LrNlRUN) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 5:33 | 2022-09-27 | 2022-10-21 |
 | [China Girl](https://open.spotify.com/track/2Wt2CcSsjOyHiVGekE46Pw) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3), [Yusuke Orita](https://open.spotify.com/artist/0Axix53b6tHd1GpZUTAkba), [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [China Girl](https://open.spotify.com/album/6x1N7LotYPwMbe7Gsz44Xe) | 4:57 | 2025-05-13 | 2025-05-21 |
@@ -317,6 +317,7 @@
 | [Theme of “Muscle King”](https://open.spotify.com/track/6adzrDs94f06CWv2rktMGC) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Theme of “Muscle King”](https://open.spotify.com/album/775ACjpCE3Q79Kbn5JioP1) | 3:37 | 2022-11-22 | 2022-12-21 |
 | [This city is too jazzy to be in love](https://open.spotify.com/track/1VM8oNBd8x3v7yN3VW386h) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [cure jazz](https://open.spotify.com/album/5oFEWNhXgLNuMbwNuzcVXz) | 3:30 | 2024-01-31 | 2024-04-03 |
 | [This city is too jazzy to be in love](https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [cure jazz](https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf) | 3:30 | 2024-05-28 |  |
+| [This Love](https://open.spotify.com/track/0uE3xERre9NAXyAaKSKREg) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [This Love](https://open.spotify.com/album/0RCDCLcXJS9tVbOgqryJ0U) | 4:54 | 2025-06-17 |  |
 | [Thoth](https://open.spotify.com/track/7yDAKkaZFBjl4jdvXMPivN) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Thoth](https://open.spotify.com/album/1lQNAXOx50YgaTyKxK5jM7) | 4:43 | 2025-03-18 | 2025-04-30 |
 | [tietie](https://open.spotify.com/track/22QIfhCJOZweyxywstzKVy) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [吉田沙良](https://open.spotify.com/artist/1ViGD87a75ygr0WdYoildM), [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [tietie](https://open.spotify.com/album/5QN9QmFzpMU0Et8mqbSvdb) | 3:11 | 2022-10-25 | 2022-12-21 |
 | [TIGER MARCH](https://open.spotify.com/track/6Oclj8mALO4Qt1apY6X37T) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [Walter Blanding](https://open.spotify.com/artist/2CSZMV16BjcsK0LttyHTky), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK), [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [DANSE MACABRE](https://open.spotify.com/album/3wiRd5fP0VKdPR7xGRTMmg) | 4:21 | 2024-10-23 | 2025-04-20 |

@@ -5003,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/0FaaeP7LODf38af0yuv2Xd"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157065,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/0LAFayAntIMUW9ymqbb2bv"
+    },
+    {
+      "album": {
         "name": "Vivere",
         "url": "https://open.spotify.com/album/7zEbJeVhd4FbVv296MIaj7"
       },

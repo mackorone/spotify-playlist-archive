@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 111803,
+  "num_followers": 111844,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,18 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
+        "name": "Erva e Calor",
+        "url": "https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd"
       },
       "artists": [
         {
-          "name": "Becca Perret",
-          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
-        },
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
         }
       ],
-      "duration_ms": 188210,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
+      "duration_ms": 197968,
+      "name": "Erva e Calor",
+      "url": "https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -343,6 +339,26 @@
       "duration_ms": 180394,
       "name": "Vem de L\u00e1",
       "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
+      },
+      "artists": [
+        {
+          "name": "Becca Perret",
+          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
+        },
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 188210,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -371,18 +387,22 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Erva e Calor",
-        "url": "https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd"
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
       "artists": [
         {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
         }
       ],
-      "duration_ms": 197968,
-      "name": "Erva e Calor",
-      "url": "https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV"
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -407,54 +427,22 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+        "name": "Vamos Fugir",
+        "url": "https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         },
         {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
         }
       ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
-        "name": "O Amor Descansa Na Varanda",
-        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 204998,
-      "name": "O Amor Descansa Na Varanda",
-      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
+      "duration_ms": 241825,
+      "name": "Vamos Fugir",
+      "url": "https://open.spotify.com/track/79zYUn0eJrYl9nJWAtzp3E"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -479,22 +467,34 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Raio de Sol",
-        "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
       },
       "artists": [
         {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
-        },
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 206779,
-      "name": "Raio de Sol",
-      "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "O Amor Descansa Na Varanda",
+        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "O Amor Descansa Na Varanda",
+      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -523,38 +523,22 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Vamos Fugir",
-        "url": "https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv"
+        "name": "Raio de Sol",
+        "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
         },
         {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
         }
       ],
-      "duration_ms": 241825,
-      "name": "Vamos Fugir",
-      "url": "https://open.spotify.com/track/79zYUn0eJrYl9nJWAtzp3E"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
-        "name": "Mais Raro",
-        "url": "https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Mais Raro",
-      "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
+      "duration_ms": 206779,
+      "name": "Raio de Sol",
+      "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -575,18 +559,18 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "cheia de vontade",
-        "url": "https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv"
+        "name": "Mais Raro",
+        "url": "https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 146700,
-      "name": "cheia de vontade",
-      "url": "https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz"
+      "duration_ms": 180000,
+      "name": "Mais Raro",
+      "url": "https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -607,6 +591,22 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
+        "name": "cheia de vontade",
+        "url": "https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 146700,
+      "name": "cheia de vontade",
+      "url": "https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
         "name": "Caf\u00e9 Da MaLu",
         "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
         "name": "raiz",
         "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 164705,
       "name": "cora\u00e7\u00e3o tambor",
       "url": "https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "N\u00f3s Dois Aqui",
-        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        }
-      ],
-      "duration_ms": 241572,
-      "name": "N\u00f3s Dois Aqui",
-      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
         "name": "ME TER",
         "url": "https://open.spotify.com/album/5F6qyDnWRJilSkIcb0VYLc"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 166869,
       "name": "ME TER",
       "url": "https://open.spotify.com/track/0JNUvoyofX61tZzOiwLzWv"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "N\u00f3s Dois Aqui",
+        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        }
+      ],
+      "duration_ms": 241572,
+      "name": "N\u00f3s Dois Aqui",
+      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
         "name": "Vai sacudir, vai abalar",
         "url": "https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 140210,
       "name": "Vai sacudir, vai abalar",
       "url": "https://open.spotify.com/track/0NCo0U5CIPaclauxTLWZkG"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2025-06-13 07:51:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-06-13 07:51:12",
       "album": {
-        "name": "Atr\u00e1s do Pared\u00e3o",
-        "url": "https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13"
-      },
-      "artists": [
-        {
-          "name": "Tom Rezende",
-          "url": "https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI"
-        }
-      ],
-      "duration_ms": 170140,
-      "name": "Atr\u00e1s do Pared\u00e3o",
-      "url": "https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ"
-    },
-    {
-      "added_at": "2025-06-13 07:51:12",
-      "album": {
         "name": "Minha Preta",
         "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 175350,
       "name": "Minha Preta",
       "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
+    },
+    {
+      "added_at": "2025-06-13 07:51:12",
+      "album": {
+        "name": "Atr\u00e1s do Pared\u00e3o",
+        "url": "https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13"
+      },
+      "artists": [
+        {
+          "name": "Tom Rezende",
+          "url": "https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI"
+        }
+      ],
+      "duration_ms": 170140,
+      "name": "Atr\u00e1s do Pared\u00e3o",
+      "url": "https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ"
     },
     {
       "added_at": "2025-06-13 07:51:12",

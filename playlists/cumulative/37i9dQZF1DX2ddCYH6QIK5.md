@@ -2,7 +2,7 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday\. Cover: Lone Assembly, Artwork: Isu Kim
+> Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday\. Cover: Julie, Artwork: Isu Kim
 
 1,412 songs - 3 day 7 hr 52 min
 

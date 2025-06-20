@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-654 songs - 2 day 1 hr 52 min
+655 songs - 2 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [EDM \(E\-Dependent Mind\)](https://open.spotify.com/track/1XUxOG4MhpHiKpZbKZdNdK) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [EDM \(E\-Dependent Mind\)](https://open.spotify.com/album/28VAgEj6MKG8Tf6NCtKSyt) | 4:25 | 2022-07-13 | 2022-07-29 |
 | [Eine Kleine Nachtmusik](https://open.spotify.com/track/2XDlcivRrN2RZ4M1Tr1Gnc) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Eine Kleine Nachtmusik](https://open.spotify.com/album/2CJDx6sBOqtrKwXeYCB7rv) | 2:45 | 2022-09-16 | 2022-10-08 |
 | [Electric Sun](https://open.spotify.com/track/1Lut7VOwl82gWkLuBrKGo6) | [Abnormal Thought Patterns](https://open.spotify.com/artist/5b8wRjxaDeV24tdTzSjM4F) | [Abnormal Thought Patterns](https://open.spotify.com/album/3jEOakH8OYOaEZm8pZTNsk) | 5:10 | 2022-07-13 | 2022-07-27 |
-| [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 | 2022-06-17 |  |
+| [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 | 2022-06-17 | 2025-06-20 |
 | [Empire of Oppression](https://open.spotify.com/track/09N6uBQMVshys8RmezKkRx) | [Syberia](https://open.spotify.com/artist/6kCPpsg07MsL7lm6tWzyCY) | [Empire of Oppression](https://open.spotify.com/album/7iX7NtfolSJlCXJB7Llyui) | 6:07 | 2022-07-13 | 2022-07-29 |
 | [En Route To Mayhem](https://open.spotify.com/track/6Limlq29b8C9GxABDC4iaw) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [En Route To Mayhem](https://open.spotify.com/album/6nqjuNc9S9Kt94YrPNGgVv) | 5:28 | 2022-07-13 | 2022-07-30 |
 | [En souvenir des jours que nous n'aurons pas vécus](https://open.spotify.com/track/5r8CpcGojoowvB0RbBX0Vg) | [WuW](https://open.spotify.com/artist/66aBc6jaQsqwDVbmGs5wsB) | [En souvenir des jours que nous n'aurons pas vécus](https://open.spotify.com/album/4JE4e06FES56xLC1Byz7wN) | 7:11 | 2022-07-13 | 2022-07-27 |
@@ -599,6 +599,7 @@
 | [Two Worlds](https://open.spotify.com/track/7h2VMgWJQXFRZyv1VqZAPF) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Two Worlds](https://open.spotify.com/album/3Dk6K6o5C7CYneaR4CWTqM) | 7:08 | 2024-06-24 | 2024-07-27 |
 | [Unchain Utopia \- Omega Alive](https://open.spotify.com/track/2I1ml34WPSIeQnlN9pgopo) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Unchain Utopia \- Omega Alive \-](https://open.spotify.com/album/4QPerJ3mCkAymtt7Bs2cOb) | 4:47 | 2021-09-11 | 2021-10-09 |
 | [Under the Sign of a Black Star](https://open.spotify.com/track/321Glo8bhlWANqTOxRelna) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Under the Sign of a Black Star](https://open.spotify.com/album/2iV2mZ1iEpYVUiHsi6zYht) | 4:13 | 2020-11-29\* | 2021-05-14 |
+| [Unity](https://open.spotify.com/track/1Ruq0S95EaKQK0qi0F013c) | [Fairyland](https://open.spotify.com/artist/7rPnZRgv1UGUDzmNBIe5QJ) | [The Story Remains](https://open.spotify.com/album/7LMU4m0EhOeHUBzt0jGGAi) | 5:30 | 2025-06-13 |  |
 | [Unmasking the Jesper](https://open.spotify.com/track/3WLORcI6m4ddhvPx6CSQPQ) | [Breath of Nibiru](https://open.spotify.com/artist/56ah5RM3gK8BYvP9qe9TrC) | [Skyline Bazaar](https://open.spotify.com/album/1MNv5oexwPOYeAuSbXnthW) | 6:25 | 2022-07-13 | 2022-07-27 |
 | [Unstoppable](https://open.spotify.com/track/34PyjNWa7g78Yqu4ffXlf8) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Unstoppable](https://open.spotify.com/album/7MPUVa0izbsrLh6YGCiEOA) | 4:13 | 2021-08-28 | 2021-10-09 |
 | [Urashima](https://open.spotify.com/track/4b3vUunn8VnsabUJqBMhJx) | [Drakum](https://open.spotify.com/artist/2egqZI7Cz9JqioUoUBxM9H) | [Urashima](https://open.spotify.com/album/0cTeiY5plUveJMonn5O1VR) | 4:29 | 2020-11-29\* | 2021-07-04 |

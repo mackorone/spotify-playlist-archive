@@ -2,9 +2,9 @@
 
 ### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Pedro Pastor y Silvio Rodríguez.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Ana Belén.
 
-339 songs - 21 hr 41 min
+341 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2022-06-09 |  |
 | [Ahora Que Te Encuentro](https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 7:22 | 2022-08-11 |  |
 | [Al alba](https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY) | [Jose Merce](https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8) | [Aire](https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk) | 4:16 | 2022-06-09 |  |
-| [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 | 2022-06-09 |  |
+| [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 | 2022-06-09 | 2025-06-20 |
 | [al llegar \(feat\. Jorge Drexler\)](https://open.spotify.com/track/1BHvRyi5xRpGV2AJkwaLO1) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [al llegar \(feat\. Jorge Drexler\)](https://open.spotify.com/album/7mMDhocLaic7E94svff9JM) | 3:35 | 2023-04-13 | 2023-06-23 |
 | [Alabanza](https://open.spotify.com/track/3eYYMWH1rnLqBwLqSMBhCB) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Alabanza](https://open.spotify.com/album/4Sj66PMH6HgszQqlZHSrYH) | 3:24 | 2024-04-19 | 2024-08-02 |
 | [Alacena de las Monjas](https://open.spotify.com/track/6s60h2vLt1dHWBao0i9vSf) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [Mis 30 Grandes Canciones](https://open.spotify.com/album/3nh8HgQfEGkdBNc17NblF6) | 4:11 | 2022-06-09 | 2022-07-14 |
@@ -45,6 +45,7 @@
 | [Aunque ya no estés](https://open.spotify.com/track/0iazekHlqaDN5x05wiXz4L) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Aunque ya no estés](https://open.spotify.com/album/3ZVfdRLce6u9UnwQGeE7Ic) | 2:56 | 2025-05-26 | 2025-06-06 |
 | [Autorretrato](https://open.spotify.com/track/3Uz1KaJF1jegGuaBfQG3A7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Autorretrato](https://open.spotify.com/album/4fUe77nJs8dqGdzS8SO5FI) | 3:36 | 2022-09-22 | 2022-11-11 |
 | [Aves Enjauladas](https://open.spotify.com/track/7vi5ATzi8QEwPb2flP5V2J) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Aves Enjauladas](https://open.spotify.com/album/3JEIMeWN0Tc09w0sAyDHbg) | 3:33 | 2022-06-09 | 2022-07-29 |
+| [Bachátame](https://open.spotify.com/track/4ivtiiEjQ2TNRSeCAsw7We) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Bachátame](https://open.spotify.com/album/5u69aTzxEb8XG4oRO6t4JE) | 3:55 | 2025-06-19 |  |
 | [Bella Ciao](https://open.spotify.com/track/6ko4yN7ImVhM3wQHlhDhIZ) | [Marina Rossell](https://open.spotify.com/artist/4VtMHmnigTKtWyQR71len2), [Paco Ibanez](https://open.spotify.com/artist/1jClQHR1Ny69QAXeDWERq0) | [Bella Ciao](https://open.spotify.com/album/5XYJ8jQemoSY8kkGh5AW4J) | 2:03 | 2022-06-09 | 2022-07-28 |
 | [Ben poca cosa tens](https://open.spotify.com/track/6bjEfCnfH1aTkDVxmXkptn) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Ben poca cosa tens](https://open.spotify.com/album/4eBnmtZBcmN8eGCALV5SdL) | 5:10 | 2025-04-17 | 2025-05-29 |
 | [Blue \(feat\. Jorge Drexler & Joan Manuel Serrat\) \- Diminuto Planeta Azul](https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 5:01 | 2022-06-30 | 2024-04-19 |
@@ -183,6 +184,7 @@
 | [Lucía](https://open.spotify.com/track/4vGMLLZQbanPA7CxiUndM7) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Lucía](https://open.spotify.com/album/69XgctIStwKPPFJ0ZhXNjW) | 3:04 | 2022-06-30 | 2022-07-24 |
 | [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 | 2023-05-29 | 2025-01-31 |
 | [Luz de Luna](https://open.spotify.com/track/74f3f2OeIyXFvxSs2xk5IG) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Rozalén por Chavela](https://open.spotify.com/album/25dLCScmY71x60dbg002J2) | 3:22 | 2025-02-27 | 2025-04-28 |
+| [Mala Para Los Huesos Esta Humedad](https://open.spotify.com/track/3HToc9eJEi09RjduiQQgDz) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Vengo Con Los Ojos Nuevos](https://open.spotify.com/album/1iuRiSCibNZMbSuHMkDIUD) | 3:48 | 2025-06-19 |  |
 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 | 2022-09-08 | 2024-04-19 |
 | [María la portuguesa](https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 3:52 | 2022-06-09 | 2023-03-03 |
 | [Mascaritas de Cristal](https://open.spotify.com/track/7wXNrDKCtYQGqtw1GFptJ0) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 6:25 | 2025-04-24 |  |

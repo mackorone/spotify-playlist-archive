@@ -8901,6 +8901,24 @@
     },
     {
       "album": {
+        "name": "Hey Ya",
+        "url": "https://open.spotify.com/album/63WdnJPbGqRE6ZseCWvUyG"
+      },
+      "artists": [
+        {
+          "name": "Yiqi",
+          "url": "https://open.spotify.com/artist/6VKFK8E6qs6ETzKWP13jOG"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147501,
+      "name": "Hey Ya",
+      "url": "https://open.spotify.com/track/5TO1M1H1ScRoxF4GiWubrO"
+    },
+    {
+      "album": {
         "name": "Hidden Feelings",
         "url": "https://open.spotify.com/album/35gq2hfvlL5rdsf9ct5qOV"
       },
@@ -16974,6 +16992,36 @@
       "duration_ms": 197557,
       "name": "Raymo",
       "url": "https://open.spotify.com/track/7zpxgaoaixzogb59CJy3EV"
+    },
+    {
+      "album": {
+        "name": "REAL LIFE",
+        "url": "https://open.spotify.com/album/7lUdvHl0m00OpLop2tjfZD"
+      },
+      "artists": [
+        {
+          "name": "EMOCA",
+          "url": "https://open.spotify.com/artist/5rk2n2NIB3kKhIl880B08S"
+        },
+        {
+          "name": "KHALIFI",
+          "url": "https://open.spotify.com/artist/4PRc7pQGdXBgop2csGN0Lx"
+        },
+        {
+          "name": "Aidan Auci",
+          "url": "https://open.spotify.com/artist/6JcfiwT0FLFv3LFnUgLxyV"
+        },
+        {
+          "name": "Aziz Baker",
+          "url": "https://open.spotify.com/artist/1WJxnuwYPYbjfFcY1aZxgW"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159104,
+      "name": "REAL LIFE",
+      "url": "https://open.spotify.com/track/5IWw83EL0g4ppWtGf94gu3"
     },
     {
       "album": {

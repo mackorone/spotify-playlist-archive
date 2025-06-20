@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Natalia Natalia
 
-275 songs - 14 hr 31 min
+276 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 | 2024-04-12 |  |
 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 | 2023-08-11 | 2024-09-27 |
 | [la otra cara](https://open.spotify.com/track/7pn1SS8zolJoQbQgmz3fLj) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [la otra cara](https://open.spotify.com/album/7lm0XYr2ENJ40dOgfYGTlj) | 2:27 | 2024-02-02 | 2024-04-13 |
+| [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 | 2025-06-20 |  |
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-02-17 | 2023-05-20 |
 | [LA VENTANA \(Acto VII: Cómo Culpar Al Viento Del Desastre\)](https://open.spotify.com/track/5juzwMrJh33IQXW4g8VTj3) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [El Amor Es Fácil, Las Relaciones No](https://open.spotify.com/album/16DzOyNlcS27ZRvYxYZHXu) | 3:02 | 2024-07-26 | 2025-05-24 |
 | [La Vida](https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 1:10 | 2023-02-17 |  |
@@ -251,7 +252,7 @@
 | [Tu Boca Y La Luna](https://open.spotify.com/track/3PvFp8J1cylf64wSk6vSZQ) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Tu Boca Y La Luna](https://open.spotify.com/album/6JfJllak7zt7nHOrjxGKMP) | 2:37 | 2024-04-12 |  |
 | [Tu Boca Y La Luna](https://open.spotify.com/track/7iWRX4dsq8NZCHQY0JmzbN) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Tu Boca Y La Luna](https://open.spotify.com/album/7lpcWjAiYabaqHaoW7PUjK) | 2:37 | 2023-02-17 | 2024-04-19 |
 | [Tu Despertador](https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tu Despertador](https://open.spotify.com/album/59YFx65z9ZB7oXbNdyzZDr) | 3:18 | 2023-02-17 |  |
-| [Tus Mejores Días](https://open.spotify.com/track/5lommDP2j9oFKKEaaoLzc1) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Tus Mejores Días](https://open.spotify.com/album/5elwCEtmwG7h8A8DqwuLEq) | 3:21 | 2024-09-27 |  |
+| [Tus Mejores Días](https://open.spotify.com/track/5lommDP2j9oFKKEaaoLzc1) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Tus Mejores Días](https://open.spotify.com/album/5elwCEtmwG7h8A8DqwuLEq) | 3:21 | 2024-09-27 | 2025-06-20 |
 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 | 2023-02-17 |  |
 | [Un Amor De Verdad](https://open.spotify.com/track/6laxrBQusEMVUW92KusI4J) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Un Amor De Verdad](https://open.spotify.com/album/2Mh1V5ysHk7qVTTIOckchc) | 3:48 | 2023-08-25 |  |
 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 | 2023-02-17 | 2023-03-18 |

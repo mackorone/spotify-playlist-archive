@@ -715,6 +715,40 @@
     },
     {
       "album": {
+        "name": "Beyond Music Vol. 4 - Social Change",
+        "url": "https://open.spotify.com/album/47t8nHiTV6chufKdAouUsc"
+      },
+      "artists": [
+        {
+          "name": "Beyond Music",
+          "url": "https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Pesa Bazz",
+          "url": "https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp"
+        },
+        {
+          "name": "Siddhartha El Primero",
+          "url": "https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE"
+        },
+        {
+          "name": "Shocktraderz",
+          "url": "https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214013,
+      "name": "Chica de Favela",
+      "url": "https://open.spotify.com/track/0ZOzw2q41KqZasV4bonLRZ"
+    },
+    {
+      "album": {
         "name": "Choose Love (Synematik Remix)",
         "url": "https://open.spotify.com/album/1aV8lZKPSOe8REki2GDnk3"
       },
@@ -1942,7 +1976,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 179226,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"

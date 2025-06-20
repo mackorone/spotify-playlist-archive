@@ -2,9 +2,9 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: Ado
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: Fujii Kaze
 
-798 songs - 1 day 21 hr 34 min
+799 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Easy Breezy](https://open.spotify.com/track/4B0iIMQz88iQiMlRP47fJ1) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [maze](https://open.spotify.com/album/6t1kYddCW5E9StZEf0UxMd) | 3:28 | 2023-05-09 | 2023-12-08 |
 | [EAT THE PAST \- English Ver.](https://open.spotify.com/track/1hsy3NzhPkuCvA1pVesSlZ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [EAT THE PAST \(English Ver.\)](https://open.spotify.com/album/0KgHMAHdQyquQ61s5Zlj1w) | 4:00 | 2025-06-12 |  |
 | [Edison](https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:13 | 2023-05-09 | 2024-02-16 |
+| [EKO EKO](https://open.spotify.com/track/2QE61cQ0tyWWDMNkWFtHeX) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [EKO EKO](https://open.spotify.com/album/17VDRp9RX5rp7GPc5r1XuO) | 3:06 | 2025-06-19 |  |
 | [Elf](https://open.spotify.com/track/0235CQ0hquNPhCvcDVPj0Y) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Elf](https://open.spotify.com/album/6d02avZaDV4URKHIAlEJAk) | 4:20 | 2025-01-23 | 2025-03-14 |
 | [Emerald](https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:40 | 2023-05-30 | 2023-07-12 |
 | [Episode X](https://open.spotify.com/track/3lsd1CbDC5ejAOJhPn5dB9) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Episode X](https://open.spotify.com/album/7ohQtSfUhD61t9OaO1jb39) | 3:22 | 2025-01-16 | 2025-01-24 |
@@ -239,7 +240,7 @@
 | [Mainstream](https://open.spotify.com/track/3nmlrhJ5PHN764qiJ7lZyI) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/1yd9khWAAwJn9QxnN0STCm) | 3:27 | 2023-09-12 | 2023-09-14 |
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-09-12 | 2023-10-04 |
 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 | 2025-04-08 | 2025-05-09 |
-| [Make or Break](https://open.spotify.com/track/7vvZ1QHTdkoEXBiOBdxdIo) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [Make or Break](https://open.spotify.com/album/2XzwRtcQv72OKjvEV5cJUb) | 3:23 | 2025-05-29 |  |
+| [Make or Break](https://open.spotify.com/track/7vvZ1QHTdkoEXBiOBdxdIo) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [Make or Break](https://open.spotify.com/album/2XzwRtcQv72OKjvEV5cJUb) | 3:23 | 2025-05-29 | 2025-06-20 |
 | [mango run](https://open.spotify.com/track/7rNUK4QIV620qEc7SsYStu) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [mango run](https://open.spotify.com/album/1nGrzFVUAaBwaukXqcfLMx) | 2:46 | 2023-07-06 | 2023-07-08 |
 | [mango run](https://open.spotify.com/track/6Ak5Z0cZdXBGxIwBDduvHd) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 2:46 | 2023-07-06 | 2023-07-26 |
 | [MANINGEN](https://open.spotify.com/track/1nXJ9tQgg3f3NzxHiQLooI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [MANINGEN](https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN) | 2:51 | 2023-08-17 | 2023-09-13 |
@@ -593,7 +594,7 @@
 | [ブライダルドリーム](https://open.spotify.com/track/6gtqm6Hpuyq133BvPG4oBu) | [兎田ぺこら](https://open.spotify.com/artist/4JlcSp9i5LcilRSMqaVimt), [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [ブライダルドリーム](https://open.spotify.com/album/3fkZh6fm03KR3njtLJNG4T) | 3:11 | 2023-12-27 | 2024-04-17 |
 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-07-09 | 2024-10-11 |
 | [ブルーバード](https://open.spotify.com/track/11DLTQBqAjK86RX7T4cGl0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 3:37 | 2024-02-13 | 2024-03-22 |
-| [プロポーズ](https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Let me battle](https://open.spotify.com/album/0lrzLq3f2hFBaaTHN0xURv) | 3:54 | 2025-02-13 | 2025-05-23 |
+| [プロポーズ](https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Let me battle](https://open.spotify.com/album/0lrzLq3f2hFBaaTHN0xURv) | 3:54 | 2025-02-13 |  |
 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 | 2025-06-05 |  |
 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 | 2025-01-16 | 2025-02-28 |
 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-07-09 | 2024-09-27 |
@@ -741,7 +742,7 @@
 | [甘噛みでおねがい](https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/574wcOE5FGFbHlkEzgio8j) | 3:22 | 2023-05-16 | 2023-05-18 |
 | [生きる](https://open.spotify.com/track/2fVaeXxHlTXGg2lwRzOKOw) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [春火燎原](https://open.spotify.com/album/0PuAbMj3Q0pg3XuNTYY9yM) | 4:01 | 2024-04-18 | 2024-05-24 |
 | [異議なし](https://open.spotify.com/track/3KBEHEIakrZyndL4sh28v6) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [EP!!!!NI\-HAO!!!!](https://open.spotify.com/album/0VgkAbqypRDe2ryOnf9rtF) | 1:57 | 2025-02-27 | 2025-03-14 |
-| [癖っっっ毛ナ](https://open.spotify.com/track/3Vxk7m2An8KdWC48Ejrsrb) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [すずめのめ](https://open.spotify.com/artist/4cifhCWjXaMshfZxoAltRF), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [癖っっっ毛ナ](https://open.spotify.com/album/7mEDrODFnPVAedqbqknJcM) | 1:59 | 2025-06-12 |  |
+| [癖っっっ毛ナ](https://open.spotify.com/track/3Vxk7m2An8KdWC48Ejrsrb) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [すずめのめ](https://open.spotify.com/artist/4cifhCWjXaMshfZxoAltRF), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [癖っっっ毛ナ](https://open.spotify.com/album/7mEDrODFnPVAedqbqknJcM) | 1:59 | 2025-06-12 | 2025-06-20 |
 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2025-01-16 | 2025-06-13 |
 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 | 2023-11-02 | 2025-01-17 |
 | [紺色に憧れて](https://open.spotify.com/track/0uNELWoVBRVsmeeGjNgGfc) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [紺色に憧れて](https://open.spotify.com/album/0pamS1zgtw84s4qocKynlk) | 4:02 | 2024-06-20 | 2024-09-27 |

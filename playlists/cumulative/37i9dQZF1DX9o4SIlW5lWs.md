@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-547 songs - 1 day 6 hr 54 min
+548 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 | 2022-01-14 |  |
 | [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 | 2022-01-14 | 2023-03-25 |
 | [El Último Romántico](https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Último Romántico](https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT) | 4:11 | 2022-10-28 |  |
-| [Elegante](https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Elegante](https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7) | 3:25 | 2024-02-16 |  |
+| [Elegante](https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Elegante](https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7) | 3:25 | 2024-02-16 | 2025-06-20 |
 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 | 2022-01-14 |  |
 | [Ella Es Mi Todo](https://open.spotify.com/track/7MLFa0eKyW4FfDjXNY4Qnr) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Ella Es Mi Todo](https://open.spotify.com/album/2Diitd6eEo8ttiRAK9KJdL) | 3:22 | 2022-01-14 | 2022-07-27 |
 | [En El Lugar Menos Pensado](https://open.spotify.com/track/3hGNU1G9uQA1WpiXeLFXAT) | [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q) | [En El Lugar Menos Pensado](https://open.spotify.com/album/261UsKjHjZoPKo3u919VoG) | 2:48 | 2022-04-01 | 2022-07-17 |
@@ -491,6 +491,7 @@
 | [Tu Me Obligaste](https://open.spotify.com/track/1gSwrI4t1a9gxSZNK6yvOY) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Enamorada y Loca](https://open.spotify.com/album/07UKRZ4qhxWZlichi47U2R) | 3:19 | 2022-01-21 | 2022-07-28 |
 | [Tu Poeta](https://open.spotify.com/track/60t05P6me4qnDI0kiwM8Bc) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Tu Poeta](https://open.spotify.com/album/1oUixzP0TwaYjsSBAZN9Sm) | 2:44 | 2024-06-07 | 2024-06-15 |
 | [Tu Primera Vez](https://open.spotify.com/track/6qpD9LFLX62kiiBxE2ntyJ) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Tu primera vez](https://open.spotify.com/album/75Zjr4JRxJfsTk6yV68TV4) | 2:45 | 2025-02-28 | 2025-04-25 |
+| [Tu Sacaganas](https://open.spotify.com/track/2E7VxFwGSmvqLfsFoGDSi9) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tu Sacaganas](https://open.spotify.com/album/7vWrU6A3G7XhVUKEFnspB0) | 3:13 | 2025-06-20 |  |
 | [Tuyo Siempre](https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Tuyo Siempre](https://open.spotify.com/album/5iWCGpIviT851tliidHWm7) | 2:53 | 2024-04-05 | 2024-08-18 |
 | [Tú Me Vas a Echar de Menos](https://open.spotify.com/track/6jiS1kqPccU61Fu7oWLIu7) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Tú Me Vas a Echar de Menos](https://open.spotify.com/album/1VzIhQunhg24cGndrK9yZS) | 3:04 | 2024-10-04 | 2025-03-30 |
 | [Tú, la más bella \- En Vivo](https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tú, la más bella \(En Vivo\)](https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL) | 2:29 | 2024-11-01 |  |

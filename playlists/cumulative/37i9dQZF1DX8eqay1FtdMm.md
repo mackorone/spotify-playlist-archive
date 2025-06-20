@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 이무진\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 육성재\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-606 songs - 1 day 15 hr 37 min
+607 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [As always](https://open.spotify.com/track/2vwbkdH4deV947bonfeKI4) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [As always](https://open.spotify.com/album/6tMA69q44j87tm123uSouo) | 3:49 | 2024-06-05 | 2024-08-13 |
 | [As Autumn Brings Cold Wind](https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [As Autumn Brings Cold Wind](https://open.spotify.com/album/45hrhqXvP86clCVmptlKBA) | 4:19 | 2023-10-05 | 2023-11-10 |
 | [As Is](https://open.spotify.com/track/5cr5ffcY53WvwLnsnlgcvY) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [As Is](https://open.spotify.com/album/0aSUdhZA53QNrR3uERvnFU) | 4:06 | 2025-04-02 |  |
+| [at last](https://open.spotify.com/track/2U50ylcJ8KwDS1lZlb91wI) | [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [All About Blue](https://open.spotify.com/album/68bPbXzJiC73kBZzXu9jmX) | 3:45 | 2025-06-19 |  |
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2021-12-27 | 2022-07-24 |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-20 | 2025-03-20 |
 | [Autumn Night](https://open.spotify.com/track/05f49QdY08agCPBn5ihwt2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [50 X HALF](https://open.spotify.com/album/6Gb67WVk3hjMcQ6WhQmuRK) | 3:04 | 2022-03-24 | 2022-04-20 |
@@ -346,7 +347,7 @@
 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 | 2022-09-06 | 2024-04-16 |
 | [My Dream, My Love](https://open.spotify.com/track/2XU6mwelJymDUz2WfYv6xi) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [The Queen Who Crowns OST Part.3](https://open.spotify.com/album/2R22prFpAEhkn5unRy3buY) | 4:43 | 2025-02-03 | 2025-03-10 |
 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 | 2022-12-14 | 2025-01-05 |
-| [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-21 |  |
+| [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-21 | 2025-06-20 |
 | [MY OCEAN](https://open.spotify.com/track/7hRHXvvVKgPHIml5Semtor) | [Jeong Young Eun](https://open.spotify.com/artist/2XX6AOq6HuYXNj4l9FQTJ1) | [MY OCEAN](https://open.spotify.com/album/5YhzIq7UftXN1fwluhNgXV) | 3:49 | 2022-03-31 | 2022-04-17 |
 | [My Only One](https://open.spotify.com/track/3wbPvkTGox700oY5oDJPzY) | [2BiC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [Calendar Of 2BIC \(August\)](https://open.spotify.com/album/3c8FoccgwEnlIVbF2fSItA) | 4:36 | 2022-02-10 | 2022-04-21 |
 | [My Only One](https://open.spotify.com/track/6JX4Pt45ZBFwrWkHkb3ty0) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Tomorrow OST Part.5](https://open.spotify.com/album/56Yr8Mpxlo419j32FhcPKg) | 4:22 | 2022-05-11 | 2022-10-25 |

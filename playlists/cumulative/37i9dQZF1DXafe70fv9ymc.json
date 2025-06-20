@@ -489,6 +489,28 @@
     },
     {
       "album": {
+        "name": "Diamond in the Rough",
+        "url": "https://open.spotify.com/album/637gi1okCYO996xTyNDsMP"
+      },
+      "artists": [
+        {
+          "name": "Dessire\u00e9",
+          "url": "https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Diamond in the Rough",
+      "url": "https://open.spotify.com/track/1PDyQiivbuOGGTxwf6XL3G"
+    },
+    {
+      "album": {
         "name": "Galatea",
         "url": "https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw"
       },
@@ -898,7 +920,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 225468,
       "name": "Guide Me",
       "url": "https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL"

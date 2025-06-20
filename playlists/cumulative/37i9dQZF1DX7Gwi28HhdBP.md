@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6?si=gD4aiSLdQxONDTYraTL03A">  محمود الليثي </a>
 
-294 songs - 21 hr 16 min
+295 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bet Ya Helwa](https://open.spotify.com/track/4YF7Mrdj25M0rCtb3iiY43) | [Ismail El\-lethi](https://open.spotify.com/artist/2ksh3ZKKnIFDl0HZjVbI3i) | [Bet Ya Helwa](https://open.spotify.com/album/7kD9idyzxKPp3mjV5LoJyi) | 4:03 | 2021-12-16 | 2024-04-23 |
 | [Betkhony Ya Waleed](https://open.spotify.com/track/76CDBfhrgF0pgL1ygK6q7y) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Betkhony Ya Waleed](https://open.spotify.com/album/6UKoFFHNtrat5J7yztu4sJ) | 3:08 | 2023-09-01 | 2023-09-20 |
 | [Bonbonaya](https://open.spotify.com/track/5ekfw4C7jpdLtbfQ1A5SYo) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Bonbonaya](https://open.spotify.com/album/0OY59LMcxeUJqfLgknZg4M) | 3:57 | 2021-12-16 | 2023-07-12 |
+| [Bondoq](https://open.spotify.com/track/3EEf5wmPtiznSbTCLGo0Mv) | [رحاب سليم](https://open.spotify.com/artist/1tkRquDjElKJKzRY15zOWS) | [Bondoq](https://open.spotify.com/album/6YlOABngrEM2C1ENL7xatb) | 3:03 | 2025-06-19 |  |
 | [Bye Bye](https://open.spotify.com/track/5gb1HXr2CFFMURJRLzpzHi) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Bye Bye](https://open.spotify.com/album/4IhnA20aSZK2h7cj9naprD) | 3:16 | 2021-12-16 | 2022-09-26 |
 | [Chicolata](https://open.spotify.com/track/2gMTpYNYooniYFd3qXZcOe) | [Bosy](https://open.spotify.com/artist/3CYfsLhei8oA3TUsEW8w8X), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Aman Ya Sahby](https://open.spotify.com/album/6lhOzHXoc8yFo60o0sXOdT) | 2:43 | 2021-12-16 | 2021-12-29 |
 | [Daq El Hawa Daqa](https://open.spotify.com/track/0616KTViZeKjYJx1fM4Wzv) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Daq El Hawa Daqa](https://open.spotify.com/album/2FmJLnDFQL0hMsytTGP4bk) | 4:38 | 2023-01-12 | 2023-09-02 |
@@ -110,7 +111,7 @@
 | [Kan Men Nesak](https://open.spotify.com/track/4SHJ4l3zvzk6dVq4KumFuI) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Mahmoud Ellithy's Songs](https://open.spotify.com/album/4pCg7FV1hI503OwG7YSMyK) | 4:57 | 2021-12-16 | 2022-07-28 |
 | [Ketab Hayaty](https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx) | [Hassan El Asmar](https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax) | [Mesh Hasebak](https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV) | 5:48 | 2021-12-16 |  |
 | [Khat Ahmer](https://open.spotify.com/track/0yKWnmxtLzjBDMnCRaMbFg) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Khat Ahmer](https://open.spotify.com/album/593tL5YfuCdOECk5Z6fuus) | 4:16 | 2025-02-14 |  |
-| [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-16 |  |
+| [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-16 | 2025-06-20 |
 | [Kolak Agebny](https://open.spotify.com/track/1mBQMkL8NOQ0akkTr8kqba) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Kolak Agebny](https://open.spotify.com/album/7bDP2wd3ijXZIARnkpOWMm) | 6:24 | 2021-12-16 | 2022-12-21 |
 | [Kollo Shmal](https://open.spotify.com/track/0Y1xET6NicWkYTnrKtFv4v) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Wagih Elaspany](https://open.spotify.com/artist/0AJIecs3dW9ALRevRVAPfs) | [Kollo Shmal](https://open.spotify.com/album/72OIxMzGUrFbsxzhC655QW) | 3:51 | 2021-12-16 | 2022-07-27 |
 | [Kolo Rah](https://open.spotify.com/track/6C5DOnAWpXh3do5wpXyGg7) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Kolo Rah](https://open.spotify.com/album/4OzNGm3meIPIHdvfPwYmER) | 4:31 | 2022-02-10 | 2022-10-08 |

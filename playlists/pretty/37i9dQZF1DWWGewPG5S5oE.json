@@ -1,13 +1,49 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u6851\u539f\u3042\u3044",
-  "num_followers": 44968,
+  "num_followers": 44991,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFGDAAAAAACwk1fMQl+igQ03jsbeEyNX",
+  "snapshot_id": "aFO6pAAAAAD02Za+N/iehZ6gdmRmti4N",
   "tracks": [
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/0RCDCLcXJS9tVbOgqryJ0U"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        }
+      ],
+      "duration_ms": 294733,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/0uE3xERre9NAXyAaKSKREg"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+    },
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
@@ -35,26 +71,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 223443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 345533,
       "name": "N.E.W.",
       "url": "https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
-        "name": "Zatto",
-        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
-      },
-      "artists": [
-        {
-          "name": "Nariaki",
-          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
-        }
-      ],
-      "duration_ms": 367966,
-      "name": "Zatto",
-      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -147,18 +147,18 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
       },
       "artists": [
         {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
         }
       ],
-      "duration_ms": 231722,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
+      "duration_ms": 367966,
+      "name": "Zatto",
+      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -175,6 +175,22 @@
       "duration_ms": 264986,
       "name": "Ri:ng",
       "url": "https://open.spotify.com/track/0Kv39zmy409KWK8xZ3xpVs"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 231722,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -247,6 +263,22 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
         "name": "AUTHENTIC",
         "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
       },
@@ -259,6 +291,22 @@
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "ELECTRIC RIDER",
+        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "WHAT IS ??",
+      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -299,22 +347,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "EVERYDAY",
         "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
       },
@@ -347,22 +379,6 @@
       "duration_ms": 270806,
       "name": "Crossing",
       "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
-        "name": "ELECTRIC RIDER",
-        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
-      },
-      "artists": [
-        {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "WHAT IS ??",
-      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -403,22 +419,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "Invisible Diary",
-        "url": "https://open.spotify.com/album/3IzqWngysRH0gUHR2FKkxh"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u6d77\u6597",
-          "url": "https://open.spotify.com/artist/4rsih0eDP701WyFRusmZ5c"
-        }
-      ],
-      "duration_ms": 215500,
-      "name": "Part 1. Hometown",
-      "url": "https://open.spotify.com/track/4SFuOhV1kZccCuWoRK0Gfl"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "New World feat.ELAIZA",
         "url": "https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "The Toro",
-        "url": "https://open.spotify.com/album/77AWJqA0ENHe9WRW6g0tC5"
+        "name": "Invisible Diary",
+        "url": "https://open.spotify.com/album/3IzqWngysRH0gUHR2FKkxh"
       },
       "artists": [
         {
-          "name": "\u5e02\u5ddd\u7a7a",
-          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+          "name": "\u4e2d\u6751\u6d77\u6597",
+          "url": "https://open.spotify.com/artist/4rsih0eDP701WyFRusmZ5c"
         }
       ],
-      "duration_ms": 403747,
-      "name": "The Toro",
-      "url": "https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S"
+      "duration_ms": 215500,
+      "name": "Part 1. Hometown",
+      "url": "https://open.spotify.com/track/4SFuOhV1kZccCuWoRK0Gfl"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
+        "name": "The Toro",
+        "url": "https://open.spotify.com/album/77AWJqA0ENHe9WRW6g0tC5"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+        }
+      ],
+      "duration_ms": 403747,
+      "name": "The Toro",
+      "url": "https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
         "name": "Workaholic",
         "url": "https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG"
       },
@@ -483,30 +499,6 @@
       "duration_ms": 266140,
       "name": "Workaholic",
       "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
-        "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
-        "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
-      "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -535,6 +527,30 @@
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
+        "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
+      "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -747,6 +763,22 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
+        "name": "Night Flight",
+        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        }
+      ],
+      "duration_ms": 230057,
+      "name": "Night flight",
+      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ"
       },
@@ -767,22 +799,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "Night Flight",
-        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
-      },
-      "artists": [
-        {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        }
-      ],
-      "duration_ms": 230057,
-      "name": "Night flight",
-      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "Rhapsody in Summer",
         "url": "https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw"
       },
@@ -795,6 +811,22 @@
       "duration_ms": 258183,
       "name": "Rhapsody in Summer",
       "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "HAGAKURE",
+        "url": "https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 221494,
+      "name": "HAGAKURE",
+      "url": "https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -815,22 +847,6 @@
       "duration_ms": 310264,
       "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fbfeat.\u6728\u6751\u30a4\u30aa\u30ea",
       "url": "https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
-        "name": "HAGAKURE",
-        "url": "https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 221494,
-      "name": "HAGAKURE",
-      "url": "https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -871,6 +887,22 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 240315,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
         "name": "Made In New York",
         "url": "https://open.spotify.com/album/6j23V92RmuD9h6SbZeXULT"
       },
@@ -895,22 +927,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 240315,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "SEIKO JAZZ 3",
         "url": "https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 337471,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
-        "name": "Dosukoi SS",
-        "url": "https://open.spotify.com/album/6Lap8GJr0DW8VQP2BRj8Y4"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 44077,
-      "name": "Chapter 0",
-      "url": "https://open.spotify.com/track/6rEFHgdmQha1VyCG7pYtEN"
     }
   ],
   "unique_name": "Modern Jazz Japan",

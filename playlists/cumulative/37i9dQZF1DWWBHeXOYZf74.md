@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Affirmatively" \(Part II\)](https://open.spotify.com/track/2BH5y9jPjh1QEA0c5Ce9A9) | [Maiya Blaney](https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl) | [A Room With A Door That Closes](https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV) | 1:21 | 2025-06-13 |  |
+| ["Affirmatively." Pt II](https://open.spotify.com/track/2BH5y9jPjh1QEA0c5Ce9A9) | [Maiya Blaney](https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl) | [A Room With A Door That Closes](https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV) | 1:21 | 2025-06-13 |  |
 | [\#RICHAXXHAITIAN](https://open.spotify.com/track/5Jl0mQEHMn82Ed0SBuEdu8) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [\#RICHAXXHAITIAN](https://open.spotify.com/album/1ieee5ixJ8UZUyVAlPk6QQ) | 2:47 | 2024-05-10 | 2024-06-29 |
 | [$$$$](https://open.spotify.com/track/2qpaF08CjieNZtUU4DmfTi) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [$$$$](https://open.spotify.com/album/0JcZZ5rceNRasPUJA3Zyvv) | 2:30 | 2023-08-04 | 2023-09-30 |
 | [$payforhaiti \(feat\. Mach\-Hommy\)](https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:03 | 2021-11-19 | 2022-03-26 |

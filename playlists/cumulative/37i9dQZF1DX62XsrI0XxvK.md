@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Inara
+> Irama R&B tanah air yang merasuk jiwa\. Cover: GRACE.
 
-125 songs - 7 hr 31 min
+127 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baby \(Let Me Go\)](https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Latinka](https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [Baby \(Let Me Go\)](https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H) | 4:08 | 2025-02-14 |  |
 | [Bagaimana?](https://open.spotify.com/track/7lSoylIrvMa71W7pZLw8kD) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Bagaimana?](https://open.spotify.com/album/5BCij7vEkrydrOYN3EcDoG) | 4:06 | 2024-10-03 | 2025-05-02 |
 | [Bangkit \(Apa Yang Kau Takutkan?\)](https://open.spotify.com/track/5fltq57JdvtjPOz9V13N3a) | [SIVIA](https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy) | [Bangkit \(Apa Yang Kau Takutkan?\)](https://open.spotify.com/album/1eNZ8gzpfe4ElR9U9q0iIE) | 4:24 | 2025-04-24 |  |
+| [Bentang Jarak Asmara](https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP) | [Man Osman](https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF), [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Bentang Jarak Asmara](https://open.spotify.com/album/4ewZa5YumUphw89U7lhM6g) | 3:54 | 2025-06-20 |  |
 | [Bercanda \(Original Soundtrack Bandelnya Judith\)](https://open.spotify.com/track/71GnMKT8WQeuxB5n3yinLh) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Bercanda \(Original Soundtrack Bandelnya Judith\)](https://open.spotify.com/album/7qfAolwdBXIeV9bewwMCeA) | 4:05 | 2024-10-03 | 2025-05-02 |
 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 | 2024-10-03 |  |
 | [BJMM](https://open.spotify.com/track/5xp39HWCZYWr6JjaI4w2T6) | [Gege Tiwa](https://open.spotify.com/artist/7FqmJMb5F7oFXHQ50ORYVX) | [BJMM](https://open.spotify.com/album/2ldzMi8etA6VDdOhObFsss) | 4:05 | 2024-10-03 | 2025-05-02 |
@@ -124,6 +125,7 @@
 | [Terlambat Sudah](https://open.spotify.com/track/3OGuS5aNjsncDLJfburqTo) | [Alfin Harce](https://open.spotify.com/artist/42eVd9A0XjQMzlPErbPIvy), [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Terlambat Sudah](https://open.spotify.com/album/4FQnWd3nDjvwQW0s91eExP) | 3:41 | 2024-10-03 | 2025-05-02 |
 | [Terlena](https://open.spotify.com/track/2BCvg2cfrJ0wFrRiOQyU9G) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Kasitau](https://open.spotify.com/album/3AWoEbNv1rF4sZ1Wrg751k) | 3:27 | 2025-04-24 |  |
 | [Thing I Desire](https://open.spotify.com/track/0S7dD8zNVFIWOyoi06MNEQ) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Thing I Desire](https://open.spotify.com/album/5pQjlI6nRKo113Opt38Oiy) | 3:51 | 2024-10-03 | 2025-05-02 |
+| [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 | 2025-06-20 |  |
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 |  |
 | [Visions \(from under the rubble\)](https://open.spotify.com/track/1VQbvX2gQXcElkgAMrIgUE) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Pendulum](https://open.spotify.com/album/5fwCfAtOwiSs4EOAr4mzam) | 4:11 | 2024-10-10 | 2025-05-02 |
 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 | 2024-11-21 |  |

@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Lukas Will
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Voxxes
 
-389 songs - 22 hr 43 min
+393 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Gentle Agreement](https://open.spotify.com/track/5qAMhRsnjUtrY6Y9XJEkk6) | [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Gentle Agreement](https://open.spotify.com/album/7F7VLs071GYrSmTEzqRjJ8) | 3:30 | 2024-07-25 | 2024-11-29 |
 | [Get It Wrong](https://open.spotify.com/track/5uR0cwWtzvrlJrrDfg4ePY) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Get It Wrong](https://open.spotify.com/album/2K3fBzHN62qn1cIp5umUDy) | 3:32 | 2024-12-12 |  |
 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2024-06-27 | 2025-01-24 |
+| [Give Me a Reason to Stay](https://open.spotify.com/track/7uEsXzSqN7GJCSgw3zGguX) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Give Me a Reason to Stay](https://open.spotify.com/album/2YtnecByrTLnJtk88Hn42D) | 3:26 | 2025-06-19 |  |
 | [Give Me Loving](https://open.spotify.com/track/7Dfc3RHXzYeUlJaXqRyG0j) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Give Me Loving](https://open.spotify.com/album/4n6iTjYCSwT61NrbcnfjyB) | 3:30 | 2025-02-13 | 2025-04-25 |
 | [Give You All](https://open.spotify.com/track/3HOdjNK4buCsboOYKEWzjy) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3) | [Give You All](https://open.spotify.com/album/51t5UHMtDLOVZavCGJnloA) | 3:51 | 2025-05-15 |  |
 | [Going Up](https://open.spotify.com/track/41vUwaUD16ClRyqIQmClRT) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Going Up](https://open.spotify.com/album/5WoZedpwDHzf7auzddAjLN) | 2:58 | 2024-10-03 | 2024-11-16 |
@@ -251,6 +252,7 @@
 | [Midnight and Gold](https://open.spotify.com/track/3Ynk6NortYpA8KHYCtDgQB) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Midnight and Gold](https://open.spotify.com/album/6SAihKFiXuTAeogJTUqIPI) | 2:16 | 2024-09-26 | 2024-11-29 |
 | [Mighty Island](https://open.spotify.com/track/4kb4LkXzpvmb8PgbqPRQC6) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [Mighty Island](https://open.spotify.com/album/0ySITSHIav16LX5l16jg3t) | 3:53 | 2025-02-13 | 2025-04-25 |
 | [Missing You](https://open.spotify.com/track/3lIyZOz2hZLeMD8KK8br7Z) | [DAY](https://open.spotify.com/artist/5wz16QPWwXLAjpGxHaJoUS) | [have a nice DAY](https://open.spotify.com/album/0IjmpdtaR7N8HQeEViTew0) | 4:15 | 2024-12-12 | 2025-04-18 |
+| [Missing You](https://open.spotify.com/track/5MVf4vkfI1Y6jvV4m9pBZC) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Daydream](https://open.spotify.com/album/3UTMJp4fLna0RpWH6v1oeT) | 3:39 | 2025-06-19 |  |
 | [mr\. worldwide](https://open.spotify.com/track/1u98uNlFDonggbCFabg2ck) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [mr\. worldwide](https://open.spotify.com/album/5OzCeyucGcabUw0nBoV6Sq) | 3:03 | 2024-10-31 | 2025-01-24 |
 | [My Bad](https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [CTRL+N](https://open.spotify.com/album/7lds73q5sTxvsqVcOj1ZYc) | 3:09 | 2025-06-12 |  |
 | [My Heaven](https://open.spotify.com/track/2ufbxjFk8tNQLYqslJCxsl) | [Ravi Andika](https://open.spotify.com/artist/2Nvkc0Qs0ErmxRzhL3bqNl) | [My Heaven](https://open.spotify.com/album/1lMeaxiRHXDAS0FN9lWcOB) | 3:42 | 2024-07-25 | 2024-09-27 |
@@ -352,6 +354,8 @@
 | [The Way You Look At Me](https://open.spotify.com/track/4jS2jYLMO71ZsIvtBxASXg) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [The Way You Look At Me](https://open.spotify.com/album/7IsX0Gy9v558vLczlUVqe5) | 4:10 | 2024-06-27 | 2025-01-24 |
 | [Thing I Desire](https://open.spotify.com/track/6xiR9KifftI2POJ091SlIw) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Thing I Desire](https://open.spotify.com/album/3X175TeVLuIdBCfd61jSDm) | 3:51 | 2024-08-01 | 2025-01-24 |
 | [Things I Didn't Do](https://open.spotify.com/track/5t2KYFWkhdPZ5YVyiSXtiA) | [Niki Mawarni](https://open.spotify.com/artist/1YZlQtrfT9K3702wBxnHIK) | [Things I Didn't Do](https://open.spotify.com/album/5xFhLv6LmBRAcq5uTUfFfX) | 3:33 | 2024-06-27 | 2025-01-24 |
+| [THUNDER!!!!!!!!!!](https://open.spotify.com/track/5XzURZIO52HHAN5pWaglnH) | [Sunwich](https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO) | [THUNDER!!!!!!!!!!](https://open.spotify.com/album/5z3Jb4z7T5G8DzrWQY2dr5) | 3:25 | 2025-06-19 |  |
+| [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 | 2025-06-19 |  |
 | [To Lose Someone](https://open.spotify.com/track/1pGoLLnUz6S4dOrw0bYKBW) | [VIONA](https://open.spotify.com/artist/6Ng5PoEhU9eoRDsu6f3pUa), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL) | [To Lose Someone](https://open.spotify.com/album/0VOlrQEeNJGP5Qg1AyZWGL) | 3:58 | 2024-06-27 | 2024-08-02 |
 | [Toast to Those Days](https://open.spotify.com/track/6irIltxYE4Exl8Mf6LyWeB) | [Bryan Jonathan](https://open.spotify.com/artist/1vNzfNaaBW5seGFJn0IYbG), [Rexa Buyung](https://open.spotify.com/artist/2zfyxpdCcnpgQwJaapDaXE) | [Toast to Those Days](https://open.spotify.com/album/5unIruhbSL2xCPnbH3dEGP) | 4:18 | 2025-01-17 | 2025-05-09 |
 | [TONIGHT](https://open.spotify.com/track/0lioQgT9edE4iwCx4tsHBe) | [CLDGRAY](https://open.spotify.com/artist/0w7Y9t1I6Bxzxsvu4Slpvw) | [TONIGHT](https://open.spotify.com/album/4ID9aUi9LK1oI8eNgCcdyF) | 3:08 | 2024-10-31 | 2024-11-29 |

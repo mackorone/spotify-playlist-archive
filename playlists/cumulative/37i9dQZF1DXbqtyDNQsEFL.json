@@ -418,6 +418,28 @@
     {
       "album": {
         "name": "Anointing",
+        "url": "https://open.spotify.com/album/0DX5TH4X6En3Loqa13PYXB"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/20HgSwpqVFZ7KGwXvqyn5o"
+    },
+    {
+      "album": {
+        "name": "Anointing",
         "url": "https://open.spotify.com/album/6L29vxHk81JWQMORz8e1Y3"
       },
       "artists": [
@@ -912,7 +934,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 204841,
       "name": "Blast - tongues",
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
@@ -1504,7 +1526,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 192000,
       "name": "Controller",
       "url": "https://open.spotify.com/track/6I38Il7uZyXN35rm1aqRri"
@@ -4482,7 +4504,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 201176,
       "name": "International",
       "url": "https://open.spotify.com/track/2soBXygYhWgiUyPFBzIFSJ"
@@ -5270,7 +5292,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 202893,
       "name": "Lean",
       "url": "https://open.spotify.com/track/3qJdny0ZhWHHxJVrEt0yIT"
@@ -5310,6 +5332,24 @@
       "duration_ms": 201798,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368416,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz"
     },
     {
       "album": {
@@ -5382,6 +5422,28 @@
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "album": {
+        "name": "Made Me Glad",
+        "url": "https://open.spotify.com/album/1O5MNGC6A0szwSEcMfvCQd"
+      },
+      "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Made Me Glad",
+      "url": "https://open.spotify.com/track/5bOzP0pJX3zTS5KnuZ5S3p"
     },
     {
       "album": {
@@ -7429,6 +7491,24 @@
     },
     {
       "album": {
+        "name": "Only You (Live)",
+        "url": "https://open.spotify.com/album/2Z0pI31oUNhphHR8wAXP88"
+      },
+      "artists": [
+        {
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313714,
+      "name": "Only You (Live)",
+      "url": "https://open.spotify.com/track/6PQ6xxWWDUJJeD6sIZWetL"
+    },
+    {
+      "album": {
         "name": "Future Now",
         "url": "https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ"
       },
@@ -8074,7 +8154,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 510485,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/24DLQbUsCuHfQ6QeAy3aQX"
@@ -8668,6 +8748,32 @@
       "duration_ms": 160000,
       "name": "Stand Up for Jesus",
       "url": "https://open.spotify.com/track/1XWRCvOmdhWGkxyId5CoBY"
+    },
+    {
+      "album": {
+        "name": "Standing with God",
+        "url": "https://open.spotify.com/album/0amrBLErPuWAUmHWMcxqXN"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Angeloh",
+          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "Standing with God",
+      "url": "https://open.spotify.com/track/0IjJfbaR6GPnXekNzyU2aC"
     },
     {
       "album": {

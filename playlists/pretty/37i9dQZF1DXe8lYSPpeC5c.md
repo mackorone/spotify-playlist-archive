@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8lYSPpeC5c.md) - [plain]
 
 > From gamer to racer\. Listen to the music from and inspired by Gran Turismo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,963 likes - 26 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,005 likes - 26 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Faris Adam
 
-727 songs - 1 day 21 hr 24 min
+728 songs - 1 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Butakah Cinta](https://open.spotify.com/track/6440wcQF6nOmu5e16vjGmo) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Butakah Cinta](https://open.spotify.com/album/5bx75ZifBiS9csZJMraB9E) | 4:31 | 2022-08-31 | 2022-10-28 |
 | [BY YOUR SIDE](https://open.spotify.com/track/7gG4zvBiCXLSiTi5M6qqhv) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [BY YOUR SIDE](https://open.spotify.com/album/2uuBBXx7DYRQF7jAg06SsT) | 2:41 | 2024-02-07 | 2024-02-22 |
 | [CACACA](https://open.spotify.com/track/7Hmp5cIfG5ZzJxRjelM2aB) | [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO), [Bella Astillah](https://open.spotify.com/artist/3MPMcG7cDVBwFnEEzAQcKk) | [CACACA](https://open.spotify.com/album/03vDoMGgAVkjlwbqUy1oWP) | 2:38 | 2024-12-18 | 2025-01-23 |
+| [Calon Mantu Idaman \(feat\. Ncum\)](https://open.spotify.com/track/5EWyweCJ5igLl6bjbGRmGm) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs), [Ncum](https://open.spotify.com/artist/7J6fZ8wiC84JWju54ZmD65) | [Calon Mantu Idaman \(feat\. Ncum\)](https://open.spotify.com/album/4n4ZdQUXAs9BevRhBHtGdr) | 3:09 | 2025-06-19 |  |
 | [Camaraderie](https://open.spotify.com/track/4ifkFslxRF6O8n5BkQA3CJ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Masih Yuna](https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm) | 3:19 | 2023-05-03 | 2023-05-24 |
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2022-06-30 | 2023-03-02 |
 | [Cemburu](https://open.spotify.com/track/3fbNkHTrMF0bAL9IV6z9dC) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Cemburu](https://open.spotify.com/album/1huyLizjNAl9LhQCgdGQgO) | 2:45 | 2024-02-07 | 2024-02-22 |
@@ -535,7 +536,7 @@
 | [Renjana](https://open.spotify.com/track/7EuvHaRZ55DWE5r9om7dQO) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 4:08 | 2024-01-31 | 2024-02-29 |
 | [Resah Kerinduan](https://open.spotify.com/track/1K8cHn6DX4FUtdI0wdx6md) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Resah Kerinduan](https://open.spotify.com/album/2IjeneKtJJ6WBd7XhlgMgw) | 4:14 | 2022-05-25 | 2022-08-18 |
 | [Resipi Berkasih](https://open.spotify.com/track/0jgd1sjvJ06EY9nayv6jJo) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Muna Shahirah](https://open.spotify.com/artist/5SRNnJxN0REYoX7HR7SUgL) | [Resipi Berkasih](https://open.spotify.com/album/4AaqJw3ajMYvPZmtZdeZqR) | 5:19 | 2024-05-15 | 2024-06-27 |
-| [Restu](https://open.spotify.com/track/3gfVuMwfrz8cxZjfoMg9xk) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR) | [Restu](https://open.spotify.com/album/2KIOvOWzcVgkzOAIRkDX99) | 3:31 | 2025-06-18 |  |
+| [Restu](https://open.spotify.com/track/3gfVuMwfrz8cxZjfoMg9xk) | [Fiq7](https://open.spotify.com/artist/1qTtRgrpqIXPRJnmc8QlMR) | [Restu](https://open.spotify.com/album/2KIOvOWzcVgkzOAIRkDX99) | 3:31 | 2025-06-18 | 2025-06-20 |
 | [Retak Hatiku](https://open.spotify.com/track/2yMJuPe0zsr8bxjEY3dZTi) | [Iera Milpan](https://open.spotify.com/artist/5zz4cBU2JXvmlgFuiCmiPI) | [Retak Hatiku](https://open.spotify.com/album/0mT3VnoXzEFUJWCTOSXUe6) | 4:12 | 2023-08-02 | 2024-07-25 |
 | [Retreat](https://open.spotify.com/track/7m1c0Scsxcqc1tV5gmkYyP) | [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Retreat](https://open.spotify.com/album/2XdkuBgdYMYlPau3nTMZsh) | 2:10 | 2022-12-21 | 2023-02-02 |
 | [Rezeki](https://open.spotify.com/track/3CTv8cxTBz7jHsVF2ObbwE) | [Elizabeth Tan](https://open.spotify.com/artist/17bFKNQu8Ov9bwgUzMygRH) | [Rezeki](https://open.spotify.com/album/4Jk9CU0A9rxasLDWwSWK0p) | 2:40 | 2025-04-30 | 2025-05-31 |

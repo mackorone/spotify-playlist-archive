@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 328566,
+  "num_followers": 328695,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
+        "name": "Gorilla Manor",
+        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 266053,
+      "name": "Wide Eyes",
+      "url": "https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
         "name": "Teen Dream",
         "url": "https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 230480,
       "name": "Plage",
       "url": "https://open.spotify.com/track/6y4sVRatVOlBRref1xUqTO"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
-        "name": "Gorilla Manor",
-        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 266053,
-      "name": "Wide Eyes",
-      "url": "https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -1387,6 +1387,38 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
+        "name": "Before Today",
+        "url": "https://open.spotify.com/album/1dO7qBlkQXYENJaHfK7h56"
+      },
+      "artists": [
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        }
+      ],
+      "duration_ms": 308680,
+      "name": "Round And Round",
+      "url": "https://open.spotify.com/track/2qKTOaX1ZeMWn3aKhpxkz5"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/4sYpTER2iT2Y7Kf4VsfUne"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/0ZAhJvqW67Epg4IsLIaSTR"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
         "name": "Journal of Ardency",
         "url": "https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw"
       },
@@ -1435,38 +1467,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Dye It Blonde",
-        "url": "https://open.spotify.com/album/6QOvRYGw29xOPkcraXsRH4"
-      },
-      "artists": [
-        {
-          "name": "Smith Westerns",
-          "url": "https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
-        "name": "Before Today",
-        "url": "https://open.spotify.com/album/1dO7qBlkQXYENJaHfK7h56"
-      },
-      "artists": [
-        {
-          "name": "Ariel Pink",
-          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
-        }
-      ],
-      "duration_ms": 308680,
-      "name": "Round And Round",
-      "url": "https://open.spotify.com/track/2qKTOaX1ZeMWn3aKhpxkz5"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Fields",
         "url": "https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll"
       },
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/4sYpTER2iT2Y7Kf4VsfUne"
+        "name": "Dye It Blonde",
+        "url": "https://open.spotify.com/album/6QOvRYGw29xOPkcraXsRH4"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Smith Westerns",
+          "url": "https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl"
         }
       ],
-      "duration_ms": 288720,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/0ZAhJvqW67Epg4IsLIaSTR"
+      "duration_ms": 202026,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn"
     },
     {
       "added_at": "2025-03-14 11:46:42",

@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-506 songs - 1 day 1 hr 39 min
+507 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [As I Wake Up](https://open.spotify.com/track/2j6L2Mqm0HWLQWuw5Vythm) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [As I Wake Up](https://open.spotify.com/album/5T8xA88j50McKpbcK7RRP3) | 3:27 | 2023-08-03 | 2023-08-08 |
 | [Aso](https://open.spotify.com/track/5wHk6dHg0L0wf969TA1p9b) | [Skrilla Ghad](https://open.spotify.com/artist/0WkzfB1NFXWyYF2rDbtJ93) | [Aso](https://open.spotify.com/album/2lnTdMbJf9eNCzFrPL2web) | 1:46 | 2022-06-16 | 2022-07-25 |
 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 | 2022-11-25 | 2024-06-01 |
+| [Atabaque Riddim](https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Com Amor Brazil](https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy) | 2:23 | 2025-06-20 |  |
 | [Atenu](https://open.spotify.com/track/7LKOOxFzqTRkzsTwipxXFQ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:24 | 2022-06-23 | 2022-07-28 |
 | [Aunty Lovina](https://open.spotify.com/track/53gPrOWfnUvZSzx4erfaG1) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Aunty Lovina](https://open.spotify.com/album/41TFQ5OW8R2G36vyKu3U0H) | 4:00 | 2021-09-21 | 2022-07-29 |
 | [AVAILABU](https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 | 2023-03-04 | 2023-11-17 |
@@ -269,7 +270,7 @@
 | [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 | 2022-04-28 | 2024-04-19 |
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-04-28 | 2022-12-19 |
 | [Koma](https://open.spotify.com/track/05QBSYagui3cfuxySqprhx) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Koma](https://open.spotify.com/album/5f4J2kU6M8Dax39aE7wNeo) | 2:31 | 2023-01-13 | 2023-01-28 |
-| [Komasava \(Comment Ça Va\) \[feat\. Khalil Harrison, Chley Nkosi\] \[Remix\]](https://open.spotify.com/track/0WmNSVQAT1HHzhrJPwAjyI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Chley Nkosi](https://open.spotify.com/artist/2v7YXam9kQflXAOQ1C58Q2), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp) | [Komasava \(Comment Ça Va\) \[feat\. Khalil Harrison, Chley Nkosi\] \[Remix\]](https://open.spotify.com/album/4ACYyDQVF6TML1G4ge3IAs) | 4:45 | 2024-07-26 |  |
+| [Komasava \(Comment Ça Va\) \[feat\. Khalil Harrison, Chley Nkosi\] \[Remix\]](https://open.spotify.com/track/0WmNSVQAT1HHzhrJPwAjyI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Chley Nkosi](https://open.spotify.com/artist/2v7YXam9kQflXAOQ1C58Q2), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp) | [Komasava \(Comment Ça Va\) \[feat\. Khalil Harrison, Chley Nkosi\] \[Remix\]](https://open.spotify.com/album/4ACYyDQVF6TML1G4ge3IAs) | 4:45 | 2024-07-26 | 2025-06-20 |
 | [Korlebu](https://open.spotify.com/track/6XNbESCL31jctqJLxRjv51) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [The Teacher](https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY) | 3:47 | 2023-09-09 | 2023-09-28 |
 | [KOTTO](https://open.spotify.com/track/5BAfLzpEj8hMH5rutSNkh7) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [KOTTO](https://open.spotify.com/album/6OxX9IbomGk92OPbDgbEVV) | 3:50 | 2022-11-18 | 2023-01-20 |
 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 | 2024-10-18 |  |

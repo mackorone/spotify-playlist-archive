@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ghard
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,619 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,627 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Bombay](https://open.spotify.com/track/7xOZEfVDgkQ57eh9xJprh7) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [SNIF](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw), [ÉoDan](https://open.spotify.com/artist/2wJTFunFUfIEZBoSRtgGzl) | [Bombay](https://open.spotify.com/album/3BEJ1eLNwA0aHHleVjSLA5) | 4:21 |
 | 75 | [A Volta Do Detroit](https://open.spotify.com/track/3XDMhkNXAWqm03dwBDn39T) | [Danike](https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK), [Shark47](https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F), [AçúK](https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM) | [A Volta Do Detroit](https://open.spotify.com/album/1cewX8x8yQwTq5AusFLXzC) | 2:46 |
 
-Snapshot ID: `aEuUjAAAAABBnJTuo+4STUyB7fVH/JDS`
+Snapshot ID: `AAAAAMxSd5oYUUmWeed46G4k6+gxDNgi`

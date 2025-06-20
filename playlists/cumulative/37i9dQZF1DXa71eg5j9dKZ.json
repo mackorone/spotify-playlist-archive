@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Leon Vynehall",
+  "description": "The home for alternative electronic music. Cover: Four Tet",
   "name": "Altar",
   "tracks": [
     {
@@ -938,6 +938,28 @@
       "duration_ms": 296864,
       "name": "An Amazing",
       "url": "https://open.spotify.com/track/2FcKjPu6Ni72VBQ2YSM0GF"
+    },
+    {
+      "album": {
+        "name": "An Angel / Girl Reborn",
+        "url": "https://open.spotify.com/album/3v61eqpd90ZMP5iJy7w75i"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "Tom Rasmussen",
+          "url": "https://open.spotify.com/artist/1FWk2wt5rW1viTKVsPd4Gf"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236417,
+      "name": "An Angel",
+      "url": "https://open.spotify.com/track/5XJ4yeRHNDMSwHLO47NTMP"
     },
     {
       "album": {
@@ -2692,7 +2714,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 239500,
       "name": "Born",
       "url": "https://open.spotify.com/track/4tNDzrYXeUKoySi7pzcvQa"
@@ -3397,6 +3419,32 @@
     },
     {
       "album": {
+        "name": "Stunt Doubles (Pt.1)",
+        "url": "https://open.spotify.com/album/5IojwjmyW2P4khwkyMmHlA"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Stunt Doubles",
+          "url": "https://open.spotify.com/artist/1ahVS2kBsugjETX6enVfPH"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240506,
+      "name": "Chalo Chalo",
+      "url": "https://open.spotify.com/track/2SGstv7MXy37wAuK82jLmr"
+    },
+    {
+      "album": {
         "name": "Change / Take My Time",
         "url": "https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5"
       },
@@ -3676,7 +3724,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 312307,
       "name": "CHROMA 008 TANGZ",
       "url": "https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b"
@@ -6698,7 +6746,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 188348,
       "name": "F*Me",
       "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
@@ -9515,6 +9563,28 @@
     },
     {
       "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217216,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr"
+    },
+    {
+      "album": {
         "name": "hollaback bitch (with Shygirl & Channel Tres)",
         "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
       },
@@ -10206,7 +10276,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 161184,
       "name": "I NEED U",
       "url": "https://open.spotify.com/track/0KuEyc7OvadLoAjQ3VwjEU"
@@ -10842,6 +10912,24 @@
       "duration_ms": 493000,
       "name": "Intimate Fantasy",
       "url": "https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs"
+    },
+    {
+      "album": {
+        "name": "Into Dust (Still Falling)",
+        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333779,
+      "name": "Into Dust (Still Falling)",
+      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
     },
     {
       "album": {
@@ -12480,7 +12568,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 220157,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/1fHVz3ffi5k4kASyAITzpN"
@@ -14834,7 +14922,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 195890,
       "name": "nothing left 2 say",
       "url": "https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG"
@@ -17021,6 +17109,58 @@
     },
     {
       "album": {
+        "name": "Remember (feat. Ravyn Lenae & Scrufizzer)",
+        "url": "https://open.spotify.com/album/0kZqWs6NFg0w3xY2yMD0YQ"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165105,
+      "name": "Remember (feat. Ravyn Lenae & Scrufizzer)",
+      "url": "https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW"
+    },
+    {
+      "album": {
+        "name": "Resurge / Genesis",
+        "url": "https://open.spotify.com/album/6IpJ5zO1adtncJdyP4ZBU3"
+      },
+      "artists": [
+        {
+          "name": "NIGHT manoeuvres",
+          "url": "https://open.spotify.com/artist/2CanvvhMZkqCFDFEOvcdNE"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Resurge",
+      "url": "https://open.spotify.com/track/6a1tJFmwr2R3mThLUWxvHs"
+    },
+    {
+      "album": {
         "name": "Revision feat. Giovanni",
         "url": "https://open.spotify.com/album/4fmY2RxbdZcvt2cgMmCJNZ"
       },
@@ -17280,6 +17420,24 @@
       "duration_ms": 286026,
       "name": "Room With A View (Digital Underground)",
       "url": "https://open.spotify.com/track/5j8QROQWSq9cnHAs89U2uf"
+    },
+    {
+      "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/7MCwzmur3bRHZABbvWNWK9"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217380,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/3YMTTRGYIWqt96klVOkBP0"
     },
     {
       "album": {
@@ -18086,7 +18244,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 250000,
       "name": "Searchin'",
       "url": "https://open.spotify.com/track/75SbZJwQU37Tn90qmppqpf"
@@ -20064,7 +20222,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 298292,
       "name": "Sunset With You",
       "url": "https://open.spotify.com/track/17E8GBhE2zPF38TNts7GxL"
@@ -20915,6 +21073,28 @@
     },
     {
       "album": {
+        "name": "the one",
+        "url": "https://open.spotify.com/album/6LntWVFC7jAmt6zIfFNFm1"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "the one",
+      "url": "https://open.spotify.com/track/6uBOGvxsHEn9rJyzwQSc1Z"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv"
       },
@@ -21190,7 +21370,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 155170,
       "name": "Thirst Day - Radio Edit",
       "url": "https://open.spotify.com/track/5jGLpmADscdE30FfRdvqru"
@@ -22505,6 +22685,32 @@
     },
     {
       "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "album": {
         "name": "Visited By Astronauts (SHERELLE Had A Groove Remix)",
         "url": "https://open.spotify.com/album/7uWrC80CdnlDRoe9pUI1yn"
       },
@@ -22724,6 +22930,28 @@
       "duration_ms": 344516,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/2StmBgb1tIVUK5xysDHAUM"
+    },
+    {
+      "album": {
+        "name": "w.o.w. (walk on water) [feat. shiv]",
+        "url": "https://open.spotify.com/album/4vBnwDHLcOvPMHuK58ocP2"
+      },
+      "artists": [
+        {
+          "name": "fka.m4a",
+          "url": "https://open.spotify.com/artist/4hNyVzQ8PL0LLA3fROBEuY"
+        },
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "w.o.w. (walk on water) [feat. shiv]",
+      "url": "https://open.spotify.com/track/5jEBt8pRv5GGyTFxH9SMFX"
     },
     {
       "album": {
@@ -23658,7 +23886,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 266375,
       "name": "Yosemite",
       "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"

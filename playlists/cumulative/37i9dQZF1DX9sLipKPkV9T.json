@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "I hate it when somebody says your name (dark take)",
+        "url": "https://open.spotify.com/album/68tDf75xrpXzD1Unos3Ujx"
+      },
+      "artists": [
+        {
+          "name": "Roby Fayer",
+          "url": "https://open.spotify.com/artist/4jGepMIeeVxeLrikEinXMs"
+        },
+        {
+          "name": "Amit Shauli",
+          "url": "https://open.spotify.com/artist/5v5wCcs3M7J6VcD30IEscJ"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156599,
+      "name": "I hate it when somebody says your name - dark take",
+      "url": "https://open.spotify.com/track/7EMQxdKwHiETdT5c3LOQgv"
+    },
+    {
+      "album": {
         "name": "Iron Lion Zion",
         "url": "https://open.spotify.com/album/4CdjTaYdvWsAgkvo7ixPu4"
       },
@@ -4762,7 +4784,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 178659,
       "name": "\u05de\u05d4 \u05e9\u05e9\u05dc\u05d9 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/2wdKNiN0XwLCrSQ0axU057"

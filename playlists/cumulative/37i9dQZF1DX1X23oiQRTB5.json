@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Siaka au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Damso au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 170800,
       "name": "Bolide Noir",
       "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 195744,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/1kaxixqEIs3Z5KEWw6AA0a"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 132173,
       "name": "Bo\u00eete noire",
       "url": "https://open.spotify.com/track/4JWfNhdM9tl2i7W866sS8x"
@@ -940,6 +940,24 @@
       "duration_ms": 211613,
       "name": "Br\u00fble",
       "url": "https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy"
+    },
+    {
+      "album": {
+        "name": "BUSINESSMAN",
+        "url": "https://open.spotify.com/album/2TRO0EH6oX6a4ffGjUllN6"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "Businessman",
+      "url": "https://open.spotify.com/track/0lsTAaJDMe45X5hna0LwYg"
     },
     {
       "album": {
@@ -1634,6 +1652,32 @@
       "duration_ms": 177618,
       "name": "Dans un verre",
       "url": "https://open.spotify.com/track/4Cfp58HxOboMxAQ6x4vyVY"
+    },
+    {
+      "album": {
+        "name": "David Douillet",
+        "url": "https://open.spotify.com/album/2JwFfov1vRzJTJMxfN0rwg"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "iDS",
+          "url": "https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "David Douillet",
+      "url": "https://open.spotify.com/track/1pDNTAJjd9nRChEiGXxnr7"
     },
     {
       "album": {
@@ -5354,6 +5398,24 @@
       "duration_ms": 168849,
       "name": "P\u00e9riph",
       "url": "https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb"
+    },
+    {
+      "album": {
+        "name": "Pyramide 2",
+        "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211239,
+      "name": "P\u00e9tunias",
+      "url": "https://open.spotify.com/track/2W6vLX1eHNKf5HpD7uH8oj"
     },
     {
       "album": {

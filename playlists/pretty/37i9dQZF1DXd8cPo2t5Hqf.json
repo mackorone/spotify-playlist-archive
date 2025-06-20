@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 393460,
+  "num_followers": 393517,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
-        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
-      },
-      "artists": [
-        {
-          "name": "ryo (supercell)",
-          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 -MIKUNOPOLIS in LOS ANGELES Live-",
-      "url": "https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
         "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 263640,
       "name": "\u53f3\u80a9\u306e\u8776",
       "url": "https://open.spotify.com/track/3g3aU6Rlwv4DRSv63KsL4d"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
+        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
+      },
+      "artists": [
+        {
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 -MIKUNOPOLIS in LOS ANGELES Live-",
+      "url": "https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
-        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
-      },
-      "artists": [
-        {
-          "name": "LamazeP",
-          "url": "https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e"
-        }
-      ],
-      "duration_ms": 111233,
-      "name": "\u307d\u3063\u3074\u3063\u307d\u30fc -MIKU EXPO 2014 in INDONESIA Live-",
-      "url": "https://open.spotify.com/track/5ghOdH6CnAEfu8LaJriOwd"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Just Be Friends",
         "url": "https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 301469,
       "name": "Just Be Friends",
       "url": "https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
+        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
+      },
+      "artists": [
+        {
+          "name": "LamazeP",
+          "url": "https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e"
+        }
+      ],
+      "duration_ms": 111233,
+      "name": "\u307d\u3063\u3074\u3063\u307d\u30fc -MIKU EXPO 2014 in INDONESIA Live-",
+      "url": "https://open.spotify.com/track/5ghOdH6CnAEfu8LaJriOwd"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -916,22 +916,6 @@
       },
       "artists": [
         {
-          "name": "\u30ac\u30eb\u30ca(\u30aa\u30ef\u30bfP)",
-          "url": "https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "\u30d1\u30e9\u30b8\u30af\u30ed\u30ed\u30d9\u30f3\u30bc\u30f3",
-      "url": "https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
-        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
-      },
-      "artists": [
-        {
           "name": "Yuuyu",
           "url": "https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi"
         }
@@ -943,18 +927,34 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
-        "url": "https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW"
+        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
+        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
       },
       "artists": [
         {
-          "name": "Nanashi Hachiya",
-          "url": "https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P"
+          "name": "\u30ac\u30eb\u30ca(\u30aa\u30ef\u30bfP)",
+          "url": "https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd"
         }
       ],
-      "duration_ms": 210000,
-      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
-      "url": "https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u"
+      "duration_ms": 216066,
+      "name": "\u30d1\u30e9\u30b8\u30af\u30ed\u30ed\u30d9\u30f3\u30bc\u30f3",
+      "url": "https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "EXIT TUNES ACADEMY BEST 3",
+        "url": "https://open.spotify.com/album/2K74HeWdEwYJ4sJKeFK57V"
+      },
+      "artists": [
+        {
+          "name": "CyoucyoP",
+          "url": "https://open.spotify.com/artist/7CXpI4kbhvfqUGd7LiXbUJ"
+        }
+      ],
+      "duration_ms": 207108,
+      "name": "\u3048?\u3042\u3041\u3001\u305d\u3046\u3002",
+      "url": "https://open.spotify.com/track/6bZHvI7CVr3QBPW1rd4j5H"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -975,18 +975,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "EXIT TUNES ACADEMY BEST 3",
-        "url": "https://open.spotify.com/album/2K74HeWdEwYJ4sJKeFK57V"
+        "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+        "url": "https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW"
       },
       "artists": [
         {
-          "name": "CyoucyoP",
-          "url": "https://open.spotify.com/artist/7CXpI4kbhvfqUGd7LiXbUJ"
+          "name": "Nanashi Hachiya",
+          "url": "https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P"
         }
       ],
-      "duration_ms": 207108,
-      "name": "\u3048?\u3042\u3041\u3001\u305d\u3046\u3002",
-      "url": "https://open.spotify.com/track/6bZHvI7CVr3QBPW1rd4j5H"
+      "duration_ms": 210000,
+      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
-        "url": "https://open.spotify.com/album/6EjzwcflTxIFvHlOhyb9m8"
-      },
-      "artists": [
-        {
-          "name": "Mikito P",
-          "url": "https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52"
-        }
-      ],
-      "duration_ms": 265846,
-      "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
-      "url": "https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
         "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 285813,
       "name": "\u30b9\u30ad\u30ad\u30e9\u30a4",
       "url": "https://open.spotify.com/track/43571bfzMoPeXhUCVWayue"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
+        "url": "https://open.spotify.com/album/6EjzwcflTxIFvHlOhyb9m8"
+      },
+      "artists": [
+        {
+          "name": "Mikito P",
+          "url": "https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52"
+        }
+      ],
+      "duration_ms": 265846,
+      "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
+      "url": "https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "\u30c6\u30ec\u30ab\u30af\u30b7\u601d\u6625\u671f",
+        "url": "https://open.spotify.com/album/2xIPHUU6LqDneqJA8sI603"
+      },
+      "artists": [
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
+        }
+      ],
+      "duration_ms": 207164,
+      "name": "\u30c6\u30ec\u30ab\u30af\u30b7\u601d\u6625\u671f",
+      "url": "https://open.spotify.com/track/5n7KTWl0A7Zbb3au8PTSHW"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
         "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
       },
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30c6\u30ec\u30ab\u30af\u30b7\u601d\u6625\u671f",
-        "url": "https://open.spotify.com/album/2xIPHUU6LqDneqJA8sI603"
+        "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8/\u672a\u6765\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU"
       },
       "artists": [
         {
-          "name": "HoneyWorks",
-          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2"
         }
       ],
-      "duration_ms": 207164,
-      "name": "\u30c6\u30ec\u30ab\u30af\u30b7\u601d\u6625\u671f",
-      "url": "https://open.spotify.com/track/5n7KTWl0A7Zbb3au8PTSHW"
+      "duration_ms": 302135,
+      "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8",
+      "url": "https://open.spotify.com/track/71NH427DUc6APJ2kQ8sVZf"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1659,22 +1675,6 @@
       "duration_ms": 183384,
       "name": "\u4e8c\u606f\u6b69\u884c (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/01MsqQ89M1tOEfxgWmEsWL"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8/\u672a\u6765\u306e\u6b4c",
-        "url": "https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU"
-      },
-      "artists": [
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2"
-        }
-      ],
-      "duration_ms": 302135,
-      "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8",
-      "url": "https://open.spotify.com/track/71NH427DUc6APJ2kQ8sVZf"
     },
     {
       "added_at": "2021-05-26 02:37:36",

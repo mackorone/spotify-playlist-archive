@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김뮤즈 \(Kimmuse\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-1,558 songs - 3 day 15 hr 36 min
+1,559 songs - 3 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [HOW YOU FEEL?](https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [HOW YOU FEEL?](https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW) | 2:44 | 2021-12-02 | 2022-01-11 |
 | [How’s your weather \(feat\. WILRO\)](https://open.spotify.com/track/46LPpV2pIj7XughkHsx3ws) | [Sean.K](https://open.spotify.com/artist/37BFwc5MqodHMtm68RhYQv), [WILRO](https://open.spotify.com/artist/0n2Pt2CZP9z8xx0vzRg4OV) | [How’s your weather](https://open.spotify.com/album/2AdBZWzddMXDNnxegQmfaH) | 3:53 | 2022-06-18 | 2022-07-15 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-02 | 2023-01-12 |
+| [Hunting](https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q) | [Hunting](https://open.spotify.com/album/7KHSdoq1Z6g462JkEGyJIg) | 3:00 | 2025-06-19 |  |
 | [Hurt](https://open.spotify.com/track/0fqFpVkTs8dY5SZMmyY9Bh) | [SRA](https://open.spotify.com/artist/6ajLYP0hhsrxlmJQWqDruk) | [Hurt](https://open.spotify.com/album/1Ip0Q63pL9yWhLTLbyqKw6) | 3:19 | 2025-04-22 |  |
 | [HUSH](https://open.spotify.com/track/6Of6IZabcu8f9UnAocPqxl) | [Lee Dahye](https://open.spotify.com/artist/7gc8zw3BiCRjq9PNgingF5) | [HUSH](https://open.spotify.com/album/7kYyb4HSoOXrXIyjDtNNk4) | 3:12 | 2024-04-03 | 2024-08-02 |
 | [i](https://open.spotify.com/track/6TgZn4L1lPFBDSSBYUENOH) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [i](https://open.spotify.com/album/4Isqr04kGZjdCo3rMiouQf) | 3:01 | 2023-06-01 | 2023-09-21 |
@@ -828,7 +829,7 @@
 | [Mayfly \(feat\. Miki Fiki\)](https://open.spotify.com/track/7q6M1GG2uQHq7HYQtP1vjq) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK), [Miki Fiki](https://open.spotify.com/artist/1O1r2qVtIFqlTJoB4jsJKd) | [Messy Sexy](https://open.spotify.com/album/5LCeFe4nJ1TWW0tY9YyYQP) | 2:38 | 2022-11-07 | 2023-02-01 |
 | [Maze](https://open.spotify.com/track/4ajdU7CN9sShzGyrWh4XdE) | [HANDAM](https://open.spotify.com/artist/6rh2Qeb3PJ8dFCL7F3Xuyn) | [Maze](https://open.spotify.com/album/1uNKnhsP47vP4zmrq94dSc) | 3:19 | 2023-06-01 | 2023-09-21 |
 | [MBTI](https://open.spotify.com/track/3WM2CFHyBvOyQCNhgfVeCk) | [Around](https://open.spotify.com/artist/30imnk1KS3eh6441SlwbGt) | [MBTI](https://open.spotify.com/album/67wxzRPqlaU2jyE0DCkYBn) | 3:04 | 2023-05-01 | 2023-06-02 |
-| [MBTI \(feat\. JEONAIN\)](https://open.spotify.com/track/00ngsIo6DNIRty1ARrAeDk) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [MBTI \(feat\. JEONAIN\)](https://open.spotify.com/album/24Sw3o1rDxEav4eqz20jMp) | 2:39 | 2025-03-31 |  |
+| [MBTI \(feat\. JEONAIN\)](https://open.spotify.com/track/00ngsIo6DNIRty1ARrAeDk) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [MBTI \(feat\. JEONAIN\)](https://open.spotify.com/album/24Sw3o1rDxEav4eqz20jMp) | 2:39 | 2025-03-31 | 2025-06-20 |
 | [ME TIME \(Feat\. Ritz\)](https://open.spotify.com/track/4KGnjlQahmWHfo6tlemGTK) | [224](https://open.spotify.com/artist/13ZHzHNIEhnKrn9po7bHrT), [리츠\(Ritz\)](https://open.spotify.com/artist/2Z1MrwBK0lLXPZb76PYIT3) | [ME TIME](https://open.spotify.com/album/67Ov6UMNbslZTArXqlnShW) | 3:29 | 2022-06-09 | 2022-06-21 |
 | [Meaningless](https://open.spotify.com/track/3Xw9c9Fpk94rE2A1jD3eKj) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [Meaningless](https://open.spotify.com/album/3znAVjVjQNsAzC89kpfGEf) | 2:54 | 2023-07-27 | 2024-03-06 |
 | [Medicine \(feat\. 10CM\)](https://open.spotify.com/track/4nBguHEdWhaWYhw5bOpXLh) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Medicine \(feat\. 10CM\)](https://open.spotify.com/album/2WoDp3yDQZOoCH9qVQlKFn) | 2:57 | 2024-07-03 | 2024-09-25 |

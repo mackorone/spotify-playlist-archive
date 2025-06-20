@@ -4,7 +4,7 @@
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-259 songs - 16 hr 6 min
+261 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [วันนี้เธอเก่งมากแล้ว](https://open.spotify.com/track/550qprwsd0ICIzDcrVhzhY) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [วันนี้เธอเก่งมากแล้ว](https://open.spotify.com/album/1yxMwyiGUaOeVmoK0fwyIG) | 4:39 | 2023-08-25 | 2023-11-22 |
 | [สดใส \(Keep it\)](https://open.spotify.com/track/2xO0vsM5wNXXa9LRtQzfXG) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [สดใส \(Keep it\)](https://open.spotify.com/album/5wra0606tchWv5Ez6h9yxj) | 2:54 | 2024-03-28 | 2024-10-05 |
 | [สำคัญแต่สำรอง](https://open.spotify.com/track/6lervPyDIbvSzaXc6mvY38) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [สำคัญแต่สำรอง](https://open.spotify.com/album/26DspK99DPtbGZGujPNCQz) | 3:12 | 2024-03-28 | 2025-03-02 |
+| [สิ่งที่เธอทิ้งง่ายที่สุด](https://open.spotify.com/track/75Jyk0TvMndNJ3IMl4YRSe) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG), [JAO YENTED](https://open.spotify.com/artist/7lycdBzDpGzmlQ2glOwa4K) | [สิ่งที่เธอทิ้งง่ายที่สุด](https://open.spotify.com/album/7B2nBELFv0kCW3zUZcBKuA) | 3:26 | 2025-06-19 |  |
 | [สุขสันต์วันครบรอบ](https://open.spotify.com/track/34dOw4pfjiyTNOr4tSLf3Z) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [สุขสันต์วันครบรอบ](https://open.spotify.com/album/4hT9XktGfBnIarFtL2kpcZ) | 4:50 | 2023-05-08 | 2023-06-23 |
 | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H) | 3:35 | 2025-02-17 | 2025-03-28 |
 | [สุขสันต์วันเกิด \(Happybirthday\)](https://open.spotify.com/track/5CSVcRzUmYOVVYoTiIT3vT) | [Pearprapa](https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47) | [สุขสันต์วันเกิด \(Happybirthday\)](https://open.spotify.com/album/6Mq2QvmBKurSz2bL5ZB7tI) | 3:33 | 2025-03-27 |  |
@@ -267,5 +268,6 @@
 | [ไม่อยากคบกับเธอแล้ว \(Enough\)](https://open.spotify.com/track/7jnlhPTH91Ptp9micbXluM) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [The First Flirt](https://open.spotify.com/album/29yi52Vm2QON9liLm9a1qe) | 3:33 | 2025-03-27 |  |
 | [ไม่เป็นไรหรอกมั้ง](https://open.spotify.com/track/3mtHA5dSJW9DsCh1NjhwtX) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 5:24 | 2022-09-15 | 2023-11-30 |
 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 | 2023-04-13 | 2023-11-30 |
+| [ไว้ชีวิตฉันไว้ทำไม](https://open.spotify.com/track/2aoklI3ZwqWJoQd5OyVf3F) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ไว้ชีวิตฉันไว้ทำไม](https://open.spotify.com/album/1pKbASKAb3jVQiQscVGuZR) | 5:12 | 2025-06-19 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

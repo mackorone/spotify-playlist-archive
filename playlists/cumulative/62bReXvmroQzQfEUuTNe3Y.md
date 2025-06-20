@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for Summer 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-476 songs - 1 day 2 hr 42 min
+477 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Black Light](https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj) | [SJAY Music](https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Black Light](https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas) | 2:55 | 2022-05-20 |  |
 | [Bleecker](https://open.spotify.com/track/5GHXtGjgoX5EKQTiuNX6Fc) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Bleecker](https://open.spotify.com/album/3E7WTyyZV0bx1EcLJFQQDh) | 3:30 | 2023-08-18 | 2023-12-14 |
 | [Bliss](https://open.spotify.com/track/0fc0Asyn18uW8soZ3bhFS7) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Bliss](https://open.spotify.com/album/72vTCgZbrVnszdSeWQ6ajA) | 2:59 | 2020-12-18 | 2021-03-06 |
+| [Bloom](https://open.spotify.com/track/1rb65ahUV0k2QYq4x3Fi9y) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [FLORES](https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY) | [Bloom](https://open.spotify.com/album/1ytnZ8jmwW5KYIvsh3fXdp) | 3:25 | 2025-06-20 |  |
 | [Bloom Again](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Bloom Again](https://open.spotify.com/album/3Yz3PNoOnlwYwoARFkEydC) | 3:09 | 2024-05-24 |  |
 | [Body](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Body](https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa) | 3:24 | 2024-04-12 |  |
 | [Body 2 Body \- 6am Remix](https://open.spotify.com/track/0TdPfmZ2ZJGwNXXembBO0T) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Body 2 Body \(Remixes\)](https://open.spotify.com/album/6aQ0edKuYRIOHUjfvwFkCt) | 3:59 | 2020-09-13\* |  |

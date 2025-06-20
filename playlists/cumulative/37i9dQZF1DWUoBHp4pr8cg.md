@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from  BabyDaiz, LaCabra, Lil Tecca and more.
+> Only the hottest Hip Hop from  Seru The Ellipsis, Tony Dayimane, Offset and more
 
-392 songs - 20 hr 59 min
+396 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 | 2025-01-31 |  |
 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 | 2022-09-22 | 2022-11-04 |
 | [Blush](https://open.spotify.com/track/6MWUqZrDQWyoRde2pYSlpA) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Blush](https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY) | 3:10 | 2023-03-06 | 2023-03-23 |
+| [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 | 2025-06-20 |  |
 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 | 2024-08-23 | 2025-04-18 |
 | [Bon Appétit](https://open.spotify.com/track/0IfhFWyoPV2kz0JBkm2DbJ) | [RAF DON](https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [YOU KNOW THE DRILL](https://open.spotify.com/album/2pwys5fUDgcQpipmj3eMrQ) | 3:05 | 2024-03-07 | 2024-04-19 |
 | [Bon Appétit](https://open.spotify.com/track/6uPML1wimIHQJbTysDFKzQ) | [RAF DON](https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [YOU KNOW THE DRILL](https://open.spotify.com/album/0Sy4e6u2MN8w06xF0U80sh) | 3:05 | 2024-03-07 | 2024-08-23 |
@@ -101,6 +102,7 @@
 | [Detty](https://open.spotify.com/track/4Ait68EQ4BdYBDhwNxUuJJ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Detty](https://open.spotify.com/album/3EiTw7yDAgcyrmi8QY10NT) | 1:36 | 2023-02-23 | 2023-03-07 |
 | [Devil's Work 2](https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Devil's Work 2](https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr) | 5:01 | 2023-03-10 | 2023-09-23 |
 | [Dilemma](https://open.spotify.com/track/69WbDrmumjFCiIF1QRJle5) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Bite the Bullet](https://open.spotify.com/album/3euOg7fkkA8Ix4P0R75BOQ) | 3:41 | 2025-02-28 |  |
+| [Dilikiyane](https://open.spotify.com/track/5lfxJKi3xX7grIPzdnnK1p) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Dilikiyane](https://open.spotify.com/album/27MeITMWujxNfD6zhMDcIv) | 2:19 | 2025-06-20 |  |
 | [Do It Again \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Do It Again \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 | 2022-10-06 | 2022-11-15 |
 | [DO RiGHT iNTRO](https://open.spotify.com/track/7reUZ4hqXXuX1GTQBkIGDE) | [FLVME](https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r) | [DO RiGHT iNTRO](https://open.spotify.com/album/587mPNauyjBubSMMDJCfxF) | 3:40 | 2023-09-22 | 2024-02-09 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-09-29 | 2024-02-09 |
@@ -249,6 +251,7 @@
 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 | 2022-11-14 | 2023-02-24 |
 | [ORIGHT](https://open.spotify.com/track/7mGUhdodjJtyTZobpLUANt) | [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [ORIGHT](https://open.spotify.com/album/3uozcnWR0UJO4Ilg6xqEm1) | 2:46 | 2023-05-05 | 2023-06-24 |
 | [OWA OWA](https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:12 | 2025-06-13 |  |
+| [Paco Rabbane](https://open.spotify.com/track/25X5JxSQzUPOS48EFQItLW) | [Seru the Ellipsis](https://open.spotify.com/artist/53P7uxJr3YQx2pmEtrSHmA), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT) | [Paco Rabbane](https://open.spotify.com/album/0AKcmO1mQfDLofcg82pwrU) | 2:42 | 2025-06-20 |  |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-03-06 | 2023-10-06 |
 | [PAINTING PICTURES](https://open.spotify.com/track/6RGH7mvHffrBcHuW60vgZB) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/1mHSRTfrDnc4LmEOH0ISTC) | 2:05 | 2023-10-05 | 2024-02-17 |
 | [Paralyzed You \(Freestyle\)](https://open.spotify.com/track/4wAf5NY0jmmJuM3mezQ6UT) | [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk) | [Paralyzed You \(Freestyle\)](https://open.spotify.com/album/2m0QUSdap7lqjERuTVk81G) | 2:14 | 2023-09-29 | 2024-08-02 |
@@ -391,6 +394,7 @@
 | [What If? \(Mngani\)](https://open.spotify.com/track/7Ez1p7fKxXISiD4bEwo57E) | [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk) | [Lord Faku \- The Life Of A Dyan](https://open.spotify.com/album/0ZEMOVswIWO9Hp3nLcolRK) | 3:05 | 2025-03-07 |  |
 | [WHATCHU MEAN!? \(feat\. Brotherkupa & KindlyNxsh\)](https://open.spotify.com/track/7tNGUhxQRi4HvT9zf6RRdR) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r), [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [THE SECRET FREQUENCY](https://open.spotify.com/album/30f4LWkDnRrxoJ7pt539M4) | 2:26 | 2025-06-06 |  |
 | [Where I'm From](https://open.spotify.com/track/2SSFTrPWqgX1JaDNs1OrQo) | [Grixxly](https://open.spotify.com/artist/0xiB1aRWUlJi2H2ZPRxur4), [PDOT O](https://open.spotify.com/artist/7KAvy18LeTZXBZhYxfqN3l) | [Bear With Me](https://open.spotify.com/album/4aUeJt0ZuMswU54lOJYvGp) | 2:42 | 2025-03-21 |  |
+| [Where To Start](https://open.spotify.com/track/260EW8FU6e45oZ6sylXrfS) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Where To Start](https://open.spotify.com/album/55wb82Be19wprPto18OIX6) | 3:34 | 2025-06-20 |  |
 | [Where's Reason?](https://open.spotify.com/track/2PDA3LgLfquPTz1zgfH4Gl) | [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Lwamii](https://open.spotify.com/artist/5Luqa4k8lZ6rSFGcUbXfNg), [ReasonHD](https://open.spotify.com/artist/5TnRfMYYlRqpLPRRmQngDO) | [Where's Reason?](https://open.spotify.com/album/52m6hoGhYp31OhmXKEYHac) | 4:55 | 2024-07-25 | 2025-01-24 |
 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 | 2024-10-11 | 2025-06-14 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-23 | 2024-06-28 |

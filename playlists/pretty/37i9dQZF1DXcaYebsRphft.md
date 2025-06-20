@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『2025 LE SSERAFIM TOUR ‘EASY CRAZY HOT’ IN JAPAN』 のセットリストをMCとあわせて公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,851 likes - 37 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,871 likes - 37 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 36 | [Ending Comment](https://open.spotify.com/track/1xNZ5peKeJ0GCXLoAQzzjw) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [2025 LE SSERAFIM TOUR ‘EASY CRAZY HOT’ IN JAPAN](https://open.spotify.com/album/2rG1zOkeWLIYsxRzUI3zfV) | 0:36 |
 | 37 | [No\-Return \(Into the unknown\)](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 |
 
-Snapshot ID: `aE61ywAAAAAWwXWA7BecAUnSdjaxlUKP`
+Snapshot ID: `AAAAALsV5unMbd7UX2WMTlpP1ADYe/Xw`

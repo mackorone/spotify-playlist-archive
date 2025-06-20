@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3146,
+  "num_followers": 3145,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE9egAAAAAANhp+Ru33tFbBIwrCXl6Bx",
+  "snapshot_id": "aFIBgAAAAABlC/HXKooy7dpPiXTPxT4L",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Guilty Ones (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        }
+      ],
+      "duration_ms": 211956,
+      "name": "The Guilty Ones - Rise Cast Version",
+      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rise Season 1: The Album (Music from the TV Series)",
         "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 111160,
       "name": "Those You've Known - Rise Cast Version",
       "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Guilty Ones (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
-        }
-      ],
-      "duration_ms": 211956,
-      "name": "The Guilty Ones - Rise Cast Version",
-      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
     },
     {
       "added_at": null,

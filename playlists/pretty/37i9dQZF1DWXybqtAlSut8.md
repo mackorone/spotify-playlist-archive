@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,858 likes - 82 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,892 likes - 82 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 81 | [Why Me Lord](https://open.spotify.com/track/411ZfwAK5QeHY9CZQoCmrt) | [Domino Praise](https://open.spotify.com/artist/2ndypNpmwkNBOuaFqMgt5s) | [Why Me Lord](https://open.spotify.com/album/0OjPxdEnCQusHAwbxeyUxX) | 2:33 |
 | 82 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 |
 
-Snapshot ID: `aEgrugAAAAB20fuI81HNvU5DCiXWNo5H`
+Snapshot ID: `aEgrugAAAABL9fBspxHWjCFeZH5jqd1s`

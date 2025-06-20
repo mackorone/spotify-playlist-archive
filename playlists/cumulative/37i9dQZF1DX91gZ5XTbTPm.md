@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: G Herbo
 
-1,226 songs - 2 day 8 hr 15 min
+1,226 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [From The Hood](https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 3:24 | 2023-07-14 | 2023-11-25 |
 | [FTO](https://open.spotify.com/track/1yOtYpY4gvkAs91aAvGdyZ) | [FWC Big Key](https://open.spotify.com/artist/1Iqj2pasBQAqLQMfTCKZDD) | [Key To The World](https://open.spotify.com/album/276U4UvwJizfadnc8j77Az) | 1:32 | 2022-02-11 | 2022-02-19 |
 | [FTW](https://open.spotify.com/track/3FtdFxk3mXsBtmCICjIYOZ) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [FTW](https://open.spotify.com/album/3QopZMe12YsPHvz3LXJAx4) | 2:28 | 2025-03-28 | 2025-05-17 |
-| [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 4:17 | 2025-06-13 |  |
+| [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 2:47 | 2025-06-13 |  |
 | [Fuck Fame PT\. 2 \(feat\. Lola Brooke\)](https://open.spotify.com/track/5ocQrLeov9liXKoO5tjiEl) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Fuck Fame PT\. 2 \(feat\. Lola Brooke\)](https://open.spotify.com/album/24VvrSk68HBYD1eHDG2IKa) | 3:39 | 2023-10-27 | 2023-12-09 |
 | [Fuck It](https://open.spotify.com/track/7kNmljSMkECHUdaEZLJJLp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 2:59 | 2023-11-17 | 2024-03-16 |
 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 | 2022-07-29 | 2022-10-29 |

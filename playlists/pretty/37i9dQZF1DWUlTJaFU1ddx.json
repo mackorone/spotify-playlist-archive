@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 31086,
+  "num_followers": 31093,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Manama",
-        "url": "https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe"
-      },
-      "artists": [
-        {
-          "name": "Dub Caravan",
-          "url": "https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF"
-        },
-        {
-          "name": "Almukhtar",
-          "url": "https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8"
-        }
-      ],
-      "duration_ms": 220904,
-      "name": "Manama",
-      "url": "https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Hold Your Ground",
         "url": "https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 275017,
       "name": "Hold Your Ground",
       "url": "https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Manama",
+        "url": "https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe"
+      },
+      "artists": [
+        {
+          "name": "Dub Caravan",
+          "url": "https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF"
+        },
+        {
+          "name": "Almukhtar",
+          "url": "https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8"
+        }
+      ],
+      "duration_ms": 220904,
+      "name": "Manama",
+      "url": "https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -571,18 +571,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Black Iris",
-        "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
+        "name": "Xvibe",
+        "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
       },
       "artists": [
         {
-          "name": "AceQuared",
-          "url": "https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r"
+          "name": "Ayham",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        },
+        {
+          "name": "Bader Azem",
+          "url": "https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D"
         }
       ],
-      "duration_ms": 174315,
-      "name": "OCB",
-      "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
+      "duration_ms": 167499,
+      "name": "7ai",
+      "url": "https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -603,22 +607,18 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Xvibe",
-        "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
+        "name": "Black Iris",
+        "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
       },
       "artists": [
         {
-          "name": "Ayham",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        },
-        {
-          "name": "Bader Azem",
-          "url": "https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D"
+          "name": "AceQuared",
+          "url": "https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r"
         }
       ],
-      "duration_ms": 167499,
-      "name": "7ai",
-      "url": "https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y"
+      "duration_ms": 174315,
+      "name": "OCB",
+      "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
     },
     {
       "added_at": "2024-12-21 19:38:19",

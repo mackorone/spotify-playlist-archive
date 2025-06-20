@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Reddy Allor",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Thauane",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 150858,
       "name": "@Trouxa - Ao vivo",
       "url": "https://open.spotify.com/track/0gciGoNhDpuJHlIEM8siNQ"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 188443,
       "name": "Abaixa o Ego",
       "url": "https://open.spotify.com/track/7fHSqZK1m3WLiYb5b9Cykd"
@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "Ao vivo n\u00e3o d\u00e1",
+        "url": "https://open.spotify.com/album/0qaLtrI4X0KZ7sMcSxk2by"
+      },
+      "artists": [
+        {
+          "name": "Gle Duran",
+          "url": "https://open.spotify.com/artist/42UYX37vhPtaBEDA2DkfB6"
+        },
+        {
+          "name": "Bruno & Denner",
+          "url": "https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155709,
+      "name": "Ao vivo n\u00e3o d\u00e1",
+      "url": "https://open.spotify.com/track/1ZHkmHRfbo89cflECELaxi"
+    },
+    {
+      "album": {
         "name": "Aquela Boca",
         "url": "https://open.spotify.com/album/3Ni1CNs60Ri6DKjMSBa2Bd"
       },
@@ -454,6 +476,28 @@
       "duration_ms": 161685,
       "name": "Barraca De Espeto",
       "url": "https://open.spotify.com/track/3si8TV4xhXAkvCMeARjZSh"
+    },
+    {
+      "album": {
+        "name": "Bate e Volta",
+        "url": "https://open.spotify.com/album/1nKommPLM7t2AIzRU5TIot"
+      },
+      "artists": [
+        {
+          "name": "Matheus Marcolino",
+          "url": "https://open.spotify.com/artist/2XQpug45cVZnFbLlpe58HQ"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "Bate e Volta",
+      "url": "https://open.spotify.com/track/6bWIGsHaPL4gfOCDpzn0SF"
     },
     {
       "album": {
@@ -1003,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Do Nosso Jeito (Ao vivo)",
+        "url": "https://open.spotify.com/album/0nNQYIJzAnjLdrWuXrpFNe"
+      },
+      "artists": [
+        {
+          "name": "Jonatha e Cristiano",
+          "url": "https://open.spotify.com/artist/4ZIYJpELcoJlJcro8xZF20"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167808,
+      "name": "COLETE - Ao Vivo",
+      "url": "https://open.spotify.com/track/5c8VdPpwOtMdKe3gZIdoig"
+    },
+    {
+      "album": {
         "name": "Confus\u00e3o (Na Bebura, Ao Vivo)",
         "url": "https://open.spotify.com/album/4546X7nU7qqGNxlRICKMAJ"
       },
@@ -1014,7 +1076,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 135754,
       "name": "Confus\u00e3o - Na Bebura, Ao Vivo",
       "url": "https://open.spotify.com/track/3SVIYmfxpvXfQklBemGtLP"
@@ -1642,7 +1704,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 159479,
       "name": "Empina - Ao Vivo",
       "url": "https://open.spotify.com/track/4oczeUNybUZBv9qY22Ylkx"
@@ -2206,7 +2268,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 160573,
       "name": "Fraquinho De Apar\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/0PkYUMQMDzb9ynyVKCuAYV"
@@ -3366,7 +3428,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 135810,
       "name": "N\u00e3o Vai Ser - Live",
       "url": "https://open.spotify.com/track/48w60sRyGWN85UlOERlqKL"
@@ -3853,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "Ponta solta & Potpourri Calma / Cora\u00e7\u00e3o deu Pt",
+        "url": "https://open.spotify.com/album/6UBmSVUUYiZRsOGDJynKKQ"
+      },
+      "artists": [
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156288,
+      "name": "Ponta Solta",
+      "url": "https://open.spotify.com/track/2pb7iXsypar8wNILL1WFIB"
+    },
+    {
+      "album": {
         "name": "Porteira Fechada",
         "url": "https://open.spotify.com/album/5HkI1qlhatLKxYYlG0K9LA"
       },
@@ -4139,6 +4219,24 @@
     },
     {
       "album": {
+        "name": "Quarto Escuro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4cYmEhZZlG2QjGsuIGovhq"
+      },
+      "artists": [
+        {
+          "name": "Thayn\u00e1 Vasconcelos",
+          "url": "https://open.spotify.com/artist/7GgeeUpJBE0HsHbpkHTq2l"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217260,
+      "name": "Quarto Escuro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qdJvgmh0HOmJ6c8Fwp2cr"
+    },
+    {
+      "album": {
         "name": "Que Se Dane o Mundo",
         "url": "https://open.spotify.com/album/22lJColC3GwIfrjQYUWK9y"
       },
@@ -4296,6 +4394,28 @@
       "duration_ms": 138816,
       "name": "Resenha Do Interior (Ao Vivo)",
       "url": "https://open.spotify.com/track/1zYdQv7Ee1fX0k1IwULBZS"
+    },
+    {
+      "album": {
+        "name": "Nossa Ess\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5y2BoZmayWE5wgBb5aAExa"
+      },
+      "artists": [
+        {
+          "name": "Netto & Henrique",
+          "url": "https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe"
+        },
+        {
+          "name": "Fiduma & Jeca",
+          "url": "https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160234,
+      "name": "Rodeios Da Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/3cvE7L04DUCTEQr9Ug1MtN"
     },
     {
       "album": {
@@ -4582,7 +4702,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 156083,
       "name": "Sem Flash",
       "url": "https://open.spotify.com/track/6cwGVxzcIw5cbdETpuT88s"
@@ -4776,6 +4896,24 @@
       "duration_ms": 159596,
       "name": "Sombra - Ao Vivo",
       "url": "https://open.spotify.com/track/24JKKMLMakHdlegIba1jf7"
+    },
+    {
+      "album": {
+        "name": "Versos Guardados",
+        "url": "https://open.spotify.com/album/2sZ2EBHrMbb7oy9ZOEcc4j"
+      },
+      "artists": [
+        {
+          "name": "Lorena Cristine",
+          "url": "https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162353,
+      "name": "Sou Bruta",
+      "url": "https://open.spotify.com/track/21LrSjN7qRM0WGNlEXsoDI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-222 songs - 11 hr 35 min
+223 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Call My Name](https://open.spotify.com/track/3zytAI32kYi10jOpO3Knuz) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Call My Name](https://open.spotify.com/album/5dhhR8JBWXHrIKpbY1UZRP) | 3:09 | 2025-04-10 | 2025-06-13 |
 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 | 2024-06-27 | 2024-10-28 |
 | [Catalonia](https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:38 | 2024-06-27 | 2025-05-03 |
-| [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 | 2025-04-10 |  |
+| [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 | 2025-04-10 | 2025-06-20 |
 | [Close to Dying](https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Close to Dying](https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM) | 3:00 | 2024-08-29 | 2024-09-07 |
 | [Coming Home \(from NRK\-scenen at P3 Gull\) \[feat\. Ruben, Chris Holsten, Hillari, Anna Lille\]](https://open.spotify.com/track/2uqMA5ZyEWiau08lBqmO8Q) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Coming Home \(from NRK\-scenen at P3 Gull\) \[feat\. Ruben, Chris Holsten, Hillari, Anna Lille\]](https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf) | 3:46 | 2025-01-16 | 2025-06-17 |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2024-06-27 | 2025-05-03 |
@@ -125,6 +125,7 @@
 | [Lighter \- Acoustic Version](https://open.spotify.com/track/25EzP86Xze8SSGc8TBqMf9) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter \(Acoustic Version\)](https://open.spotify.com/album/1KH0I9bOnO9prC9b0TACEe) | 3:13 | 2025-04-03 | 2025-06-13 |
 | [Likeable](https://open.spotify.com/track/6FZDnWB0T4D8it98dfhOkO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Papaya](https://open.spotify.com/album/5J83TBJ13dS8FXyvqOlWTi) | 3:43 | 2025-04-24 |  |
 | [Lips](https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Lips](https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9) | 2:15 | 2024-06-27 |  |
+| [Lose You](https://open.spotify.com/track/5PQ0O0KVFAG6Cp9rTgQXba) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Lose You](https://open.spotify.com/album/0f9Fht4xJkBuqX90ZaDJxg) | 2:54 | 2025-06-19 |  |
 | [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 |  |
 | [Love That Hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 | 2025-03-13 |  |
 | [LOVELIFE](https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [LOVELIFE](https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq) | 3:05 | 2025-03-27 |  |

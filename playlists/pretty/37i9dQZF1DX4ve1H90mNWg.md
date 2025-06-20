@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Southern music breaking waves\. <br/>Curated by: <a href="spotify:artist:5QJ1y0hIIbgStShX3562mw">Turbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,789 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,805 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 59 | [Same Yung Nigga \(feat\. Playboi Carti\)](https://open.spotify.com/track/1q9jq5X5vwmewjOa2mHtQ1) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 3:00 |
 | 60 | [livin wild](https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:22 |
 
-Snapshot ID: `ZmH6ewAAAACC1AoZzSL3qdzBhoFgNnw4`
+Snapshot ID: `ZmH6ewAAAABXzsVRZ6QOsytUY0biEF9y`

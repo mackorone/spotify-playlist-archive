@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Lady Donli",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Obongjayar",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -206,6 +206,24 @@
       "duration_ms": 184077,
       "name": "All On Me - Spotify Singles",
       "url": "https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm"
+    },
+    {
+      "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R"
+      },
+      "artists": [
+        {
+          "name": "PSILK",
+          "url": "https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143187,
+      "name": "All That I Am",
+      "url": "https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb"
     },
     {
       "album": {
@@ -710,7 +728,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 239666,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/2gaOQtBVaSWYOd6r1LKS1D"
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 122251,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/0EozgtHJL578iobhVcodiS"
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 199635,
       "name": "Liberate Woman",
       "url": "https://open.spotify.com/track/4Oof3yvBa2qUVo0uFfTTrQ"
@@ -3699,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "Streets Say",
+        "url": "https://open.spotify.com/album/3Ie0JkHmVK6allUK42Qz6s"
+      },
+      "artists": [
+        {
+          "name": "S3kyerewaa",
+          "url": "https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177297,
+      "name": "Streets Say",
+      "url": "https://open.spotify.com/track/75EFhE2N1WAdE6xxR0yYe2"
+    },
+    {
+      "album": {
         "name": "Sun Spot",
         "url": "https://open.spotify.com/album/0dMANuJKGeHXJ6BsXd60jy"
       },
@@ -4098,7 +4134,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 180000,
       "name": "Too Young To Go",
       "url": "https://open.spotify.com/track/3WaMdVfPf5vsjRQTpyiVHz"

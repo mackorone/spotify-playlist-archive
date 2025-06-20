@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,187 likes - 60 songs - 2 hr 44 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,187 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 19 | [trip](https://open.spotify.com/track/4ljcumInyzzQp8JicJ5Dii) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [trip](https://open.spotify.com/album/4kOsEMnnuhHOwOMMLTi6Qt) | 2:43 |
 | 20 | [Going Ghost](https://open.spotify.com/track/4wgR82L889SQURRNs9fQOB) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Going Ghost](https://open.spotify.com/album/7pHoF370JYMvRyRf1LTHm1) | 3:30 |
 | 21 | [IF](https://open.spotify.com/track/0hI3mK4VgcsjmtYrGIM5y5) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [IF](https://open.spotify.com/album/2oPWmrwa9UU0jasSyc9hap) | 3:04 |
-| 22 | [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 4:17 |
+| 22 | [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 2:47 |
 | 23 | [Ana wiyek \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2Ygl2wWQFopuu7x8pNTWws) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Diaspora, Vol.2](https://open.spotify.com/album/7gFbdDDS1BRaE1NwDtrUYo) | 3:23 |
 | 24 | [I Just Wanna Know](https://open.spotify.com/track/3XLSJ7wHFJBdl4uw5gZ4jW) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [sunniest of days](https://open.spotify.com/album/5X0cdPab6cpcyE9qekzCJ7) | 3:21 |
 | 25 | [Curbstomp](https://open.spotify.com/track/4BB0tGNObfMmcO99RVrJJ8) | [Resentvul](https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH) | [Resentir](https://open.spotify.com/album/74YMuTrJpfVjUJeaN4ZTHQ) | 1:46 |

@@ -11257,6 +11257,24 @@
     },
     {
       "album": {
+        "name": "Hunting",
+        "url": "https://open.spotify.com/album/7KHSdoq1Z6g462JkEGyJIg"
+      },
+      "artists": [
+        {
+          "name": "HwA",
+          "url": "https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "Hunting",
+      "url": "https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/1Ip0Q63pL9yWhLTLbyqKw6"
       },
@@ -15736,7 +15754,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 159247,
       "name": "MBTI (feat. JEONAIN)",
       "url": "https://open.spotify.com/track/00ngsIo6DNIRty1ARrAeDk"

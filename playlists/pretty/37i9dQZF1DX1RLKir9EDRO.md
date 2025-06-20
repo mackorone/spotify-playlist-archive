@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşiflerin 10\. yılını kutluyoruz! Kapak: aslı  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,563 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,556 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 6 | [Dilimin Tam Ucunda](https://open.spotify.com/track/3rHCD2jqROn6BUMMelK5tO) | [Ilgaz Altın](https://open.spotify.com/artist/2Tu3kqfmezkw99AWCkww4P) | [Dilimin Tam Ucunda](https://open.spotify.com/album/2riFqH9YsCw8qdq0bpXvFN) | 3:50 |
 | 7 | [Bu Gece](https://open.spotify.com/track/1DC3S9HXLJdpBHpu1hTWwv) | [Evren](https://open.spotify.com/artist/2vn6ieqfLt99Xdy9KciQJW) | [Bu Gece](https://open.spotify.com/album/4wIWQx1G4vcCFPyPg4mI1w) | 2:15 |
 | 8 | [uydu bu aşk](https://open.spotify.com/track/5E3pd3QlpaN3cnoY4oVzvs) | [Tutku](https://open.spotify.com/artist/5hgO3u5FjBwpPJZFP8W7DX) | [uydu bu aşk](https://open.spotify.com/album/0Xk8HEwM4wnUPyABbNqgUR) | 3:10 |
-| 9 | [I'm Here](https://open.spotify.com/track/63zQxIH0qL37l2ynJLigQz) | [Ece Era](https://open.spotify.com/artist/6UMFKxAYDGjZtbUBvMn3xu) | [I'm Here](https://open.spotify.com/album/6MKuqsiiitHF8HxbMz9JO2) | 3:39 |
+| 9 | [I'm Here](https://open.spotify.com/track/63zQxIH0qL37l2ynJLigQz) | [ece era](https://open.spotify.com/artist/6UMFKxAYDGjZtbUBvMn3xu) | [I'm Here](https://open.spotify.com/album/6MKuqsiiitHF8HxbMz9JO2) | 3:39 |
 | 10 | [anka](https://open.spotify.com/track/0TFqQ9FlzDwQGmO75bJ7uc) | [heryol](https://open.spotify.com/artist/07gIXu2S9eYLSxe3SnABHg) | [anka](https://open.spotify.com/album/33ITUME4LGW6iqlmhpMqDr) | 3:55 |
 | 11 | [Yağmurlu Günlerde](https://open.spotify.com/track/1cDdxHiRCre89RMFhpSGDN) | [Vahşi Çiçek](https://open.spotify.com/artist/1fpXojNHtvBLJH9m8l75GM) | [Yağmurlu Günlerde](https://open.spotify.com/album/4Ab2fw0UEOUJOYzwlC2rNU) | 2:32 |
 | 12 | [Denerim](https://open.spotify.com/track/2SSA0UN1VcHakUXH4JPqzS) | [KAOL](https://open.spotify.com/artist/1boFLjOE17z2zp7BtHLB3v) | [Denerim](https://open.spotify.com/album/2rTW4ASwjLM8D17NcbrcYH) | 4:42 |

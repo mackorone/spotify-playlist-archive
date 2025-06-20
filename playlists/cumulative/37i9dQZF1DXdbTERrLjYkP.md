@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Ren Martinez
+> Discover the next wave of talent writing their own songs\. Cover: Madilyn Mei
 
-882 songs - 1 day 23 hr 12 min
+883 songs - 1 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Becoming Unbecoming](https://open.spotify.com/track/5QjcxcxCdbvuMDrDm1etzB) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Becoming Unbecoming](https://open.spotify.com/album/2uQryGgbiVHdvqjLbky4Bz) | 3:26 | 2024-08-09 | 2025-01-18 |
 | [Bedroom Floor](https://open.spotify.com/track/2GjPJVgqtF8uSyoedh5Inf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/1UdFJz9ptrLSmsTI87B2Ym) | 4:09 | 2022-08-26 | 2022-10-15 |
 | [Bedroom Floor](https://open.spotify.com/track/5QIIqyaKqjpDisjYNGZlAf) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Bedroom Floor](https://open.spotify.com/album/5S8Ucc9rGzrOTHz3Z4AsgQ) | 4:09 | 2022-08-26 | 2022-09-02 |
-| [Before and After](https://open.spotify.com/track/35h9op1g3NEzO6hsCVg4WC) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Before and After](https://open.spotify.com/album/0UR3jVqkxNWkQq1jtNcyyb) | 2:48 | 2025-02-28 |  |
+| [Before and After](https://open.spotify.com/track/35h9op1g3NEzO6hsCVg4WC) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Before and After](https://open.spotify.com/album/0UR3jVqkxNWkQq1jtNcyyb) | 2:48 | 2025-02-28 | 2025-06-20 |
 | [Before I Go](https://open.spotify.com/track/3IcTA0EbqrgXbhAoY0b98r) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Before I Go](https://open.spotify.com/album/1GDfKTurt5heggkwUFwRbj) | 3:24 | 2022-09-02 | 2022-12-24 |
 | [Behind](https://open.spotify.com/track/0BlgC4imZTBffVrXaQmLet) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/06LmgunKECYo7FL0kVZmbs) | 3:18 | 2023-12-29 | 2024-02-14 |
 | [Behind](https://open.spotify.com/track/3l3Zi7uotwaynXHtawz3C9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/2bx5KKxt6vrWVZXMIWDXZY) | 3:18 | 2024-02-09 | 2024-04-06 |
@@ -139,6 +139,7 @@
 | [Can't Blame A Girl For Trying](https://open.spotify.com/track/75pX0ccn359gZ7nqWWDac5) | [Anja Kotar](https://open.spotify.com/artist/5a71BOwXAojkstqJFlg7GT) | [Can't Blame A Girl For Trying](https://open.spotify.com/album/1LfeBAZnBjfMt9uBshppAC) | 2:45 | 2023-04-14 | 2023-08-19 |
 | [can't breathe](https://open.spotify.com/track/2bobQfCbPqFBOgGRF4XU0S) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/3L1LukRPJqre4Ib2kQ3iFy) | 2:43 | 2022-09-09 | 2022-12-24 |
 | [can't breathe](https://open.spotify.com/track/5DVj0t8Y4LMA5gFfPyflaC) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/4X7aWf2s9uffKN4LL7jqHc) | 2:43 | 2022-09-02 | 2022-10-14 |
+| [Can't Fit In His Shoes](https://open.spotify.com/track/3UWjQb72k8bhV56HKYAgnT) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Can't Fit In His Shoes](https://open.spotify.com/album/04B5ZWqYNINxcXVyAAlrIu) | 3:15 | 2025-06-20 |  |
 | [can't hate you yet](https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [can't hate you yet](https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP) | 3:22 | 2022-02-25 | 2022-04-29 |
 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Emmeline Gracie](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 | 2022-12-16 | 2023-03-04 |
 | [cape cod](https://open.spotify.com/track/6WtjO8jDFxMRiixTCKbHyF) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [cape cod](https://open.spotify.com/album/5T8mQXWW0lTpfy4M9diWU1) | 3:00 | 2024-04-05 | 2024-07-02 |
@@ -764,7 +765,7 @@
 | [The End of the World](https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO) | 2:55 | 2022-09-16 | 2022-10-15 |
 | [The End of the World](https://open.spotify.com/track/20UbaFXoGiRFSU1IpFOSAb) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/1xIxBF7LvxRAVehVr6oXKR) | 2:55 | 2022-09-16 | 2022-12-24 |
 | [The Favorite](https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P) | [India Thieriot](https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg) | [The Favorite](https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43) | 3:05 | 2024-04-05 | 2024-08-10 |
-| [The Garden](https://open.spotify.com/track/3J0ALYQczECrd6tmUr5WUH) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/4tGIrqpwEBRV2EbB0ckVDe) | 3:16 | 2025-03-07 |  |
+| [The Garden](https://open.spotify.com/track/3J0ALYQczECrd6tmUr5WUH) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/4tGIrqpwEBRV2EbB0ckVDe) | 3:16 | 2025-03-07 | 2025-06-20 |
 | [The Gift You Gave Me](https://open.spotify.com/track/0RPA0br4CEgb7RNKp38PXv) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [The Gift You Gave Me](https://open.spotify.com/album/3fknXxnIlMlk8tLRrTQxdG) | 2:49 | 2024-12-20 | 2025-04-19 |
 | [The Girl Who Cried Love](https://open.spotify.com/track/68zmVEhY9iI1WumxzVqAoi) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Blurry Vision](https://open.spotify.com/album/442bxdGV3makrW5UlF1Ws4) | 2:57 | 2024-01-19 | 2024-07-02 |
 | [the last laugh](https://open.spotify.com/track/4j25oHEZNvFt1m3P9WUJlv) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [the last laugh](https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL) | 3:17 | 2023-03-31 | 2023-08-12 |

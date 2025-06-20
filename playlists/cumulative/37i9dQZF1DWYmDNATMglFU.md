@@ -4,7 +4,7 @@
 
 > new gen alt ⛓ ft\. twenty one pilots
 
-953 songs - 1 day 23 hr 45 min
+954 songs - 1 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [5150](https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:54 | 2022-03-25 | 2022-09-30 |
 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 | 2022-08-04 | 2023-06-09 |
 | [90 Seconds To Midnight](https://open.spotify.com/track/2AiR5oaCmZX5pEQwZda4IY) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [90 Seconds To Midnight](https://open.spotify.com/album/2rzgXrtLDm0MSy1xCns9yV) | 2:36 | 2025-03-19 | 2025-05-17 |
+| [\[REDACTED\]](https://open.spotify.com/track/6BNaYgSwdHidtDzOuVH5qS) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\[REDACTED\]](https://open.spotify.com/album/1G9pxhwLN4hLvoTh470a2E) | 2:24 | 2025-06-18 |  |
 | [a girl is a gun](https://open.spotify.com/track/1DizkiqT4coHh4lNMyEPtU) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [re:start](https://open.spotify.com/album/4mHuGNBWQFa1G7xdOsGYon) | 3:20 | 2023-08-24 | 2023-09-29 |
 | [A Sad Sad Song](https://open.spotify.com/track/5b9M4d2UlAOwPDAur72Z1G) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [People R Ugly](https://open.spotify.com/album/7zokQXDSsOzWWswmtKjZrL) | 2:52 | 2023-07-27 | 2023-12-01 |
 | [A Session With My Therapist](https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [A Session With My Therapist](https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV) | 3:19 | 2022-02-11 | 2022-07-22 |

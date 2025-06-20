@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time.
 
-194 songs - 11 hr 45 min
+197 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Everywhere I Go](https://open.spotify.com/track/3WJeD93DKPKn7Gd7k2B1DW) | [Tobias](https://open.spotify.com/artist/7rRC4fXWvwnQXuudPlqkqP) | [Everywhere I Go](https://open.spotify.com/album/1mxEIPvyBlQpowlC8n4IVd) | 3:40 | 2024-03-21 |  |
 | [Everywhere I Go](https://open.spotify.com/track/6RyeoIZK8rVZU32I7sPzzl) | [Tobias](https://open.spotify.com/artist/7rRC4fXWvwnQXuudPlqkqP) | [Everywhere I Go](https://open.spotify.com/album/4s6ma32KrDz0jfVOxW22SN) | 3:40 | 2023-11-28 | 2024-04-19 |
 | [Faith Move Mountain](https://open.spotify.com/track/5JUbMpqDP45qztzumxQNE1) | [King Kong](https://open.spotify.com/artist/6kDCaFSkqskhFf9agShfSY), [Little Lion Sound](https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj) | [Faith Move Mountain](https://open.spotify.com/album/14Wj8Q8pqxfcqF4RZZCOnK) | 2:52 | 2025-05-22 |  |
+| [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 | 2025-06-19 |  |
 | [Fly Away](https://open.spotify.com/track/0EG09SESP3E5eJRkrqZBAn) | [Fin Rah Zel](https://open.spotify.com/artist/2LHIjyp5jNwOU2bJftD6K3) | [Fly Away](https://open.spotify.com/album/5SzJDGnRPqvtu7qFpeGVDK) | 3:01 | 2023-11-28 | 2024-04-19 |
 | [Fly Away](https://open.spotify.com/track/6gPZOZCuXSwHEhMpESG10M) | [Fin Rah Zel](https://open.spotify.com/artist/2LHIjyp5jNwOU2bJftD6K3) | [Fly Away](https://open.spotify.com/album/4jYXZwhax8Q7wery2bFf0e) | 3:01 | 2024-03-21 |  |
 | [Forever and Ever, Amen](https://open.spotify.com/track/5mxR8sYZymOcGLG1sxmN9h) | [TJ & Huri](https://open.spotify.com/artist/7CrlVRAQ7WaU72RdObvC8g) | [Forever and Ever, Amen](https://open.spotify.com/album/758MwX9V1M0oWv4XL9y8tx) | 3:55 | 2025-01-23 |  |
@@ -146,6 +147,7 @@
 | [Reflections](https://open.spotify.com/track/5GqcirB8G9rh9EfPW7Fk3w) | [Lost Tribe Aotearoa](https://open.spotify.com/artist/5x10mOUChQveAjluQr4UgT) | [Reflections](https://open.spotify.com/album/3zSdaX8mXyWXHbULFkr0Vi) | 4:02 | 2023-11-28 | 2024-04-19 |
 | [Rewind](https://open.spotify.com/track/2RaD5S9RsfE7ejbvEa8Kwi) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui) | [Keepers of the Flame](https://open.spotify.com/album/48sBiiWcETqvuPAVhVCpYN) | 3:56 | 2023-11-28 |  |
 | [Rewind](https://open.spotify.com/track/5uqMY6WG2JqLZsRoaG1iMY) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui) | [Keepers of the Flame](https://open.spotify.com/album/4xoHtnUcBU8hxdloQAfeEj) | 3:56 | 2024-02-28 | 2024-04-19 |
+| [Rhythm of Resistance](https://open.spotify.com/track/7MzxvyJafDJT4jKWHlPBd8) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Rhythm of Resistance](https://open.spotify.com/album/4yo9rXcdQl0k21GRixwESf) | 3:29 | 2025-06-19 |  |
 | [Road Trip](https://open.spotify.com/track/4z7cAWJg5EfFoaYXmx15xj) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/4MCqdqhhPcrOmyVBPsnRzh) | 3:09 | 2023-11-28 | 2024-04-19 |
 | [Road Trip](https://open.spotify.com/track/7eC3ll1MUIMrZxYREU7uc0) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/6mbJNoKiwm5OP4M8s4jJYl) | 3:09 | 2024-03-21 | 2024-11-08 |
 | [Rooftop Party](https://open.spotify.com/track/3CchmR5go8G2rCJuAQSJYq) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Rooftop Party](https://open.spotify.com/album/0cAd39kqDKEKA7GJYWIgJd) | 3:43 | 2023-11-28 | 2024-04-19 |
@@ -174,6 +176,7 @@
 | [Summer Roots](https://open.spotify.com/track/0aYqYGU4vWXVOtv6YIk5PZ) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Teina Mamaori](https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp) | [Summer Roots](https://open.spotify.com/album/35J3yKS1y03AeCfgZfPudX) | 3:25 | 2025-03-20 |  |
 | [Summertime in Aotearoa](https://open.spotify.com/track/0of1ijyiq9iGJWXoijoIod) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime in Aotearoa](https://open.spotify.com/album/4S3lE2h37snPZ3ERMIKGF8) | 3:57 | 2024-03-21 | 2024-11-08 |
 | [Summertime In Aotearoa](https://open.spotify.com/track/0ovU4fKL5J7V80YNwuqUYg) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime In Aotearoa](https://open.spotify.com/album/6G4gwoemNI7fz9j1l79qVu) | 3:57 | 2023-11-28 | 2024-04-19 |
+| [Sunshine on my Shoulders](https://open.spotify.com/track/361r4erY5uhCVFFNmerFod) | [The Mighty Rootsmen](https://open.spotify.com/artist/3HZNJxRu48Cxt6dlPcIhnH), [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK), [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [Sunshine on my Shoulders](https://open.spotify.com/album/55AAJ0zxDJTxVNi75HaeDG) | 4:24 | 2025-06-19 |  |
 | [SURE \(KISS ME\)](https://open.spotify.com/track/1eTV72tqhTQqonSousLmEr) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [SURE \(KISS ME\)](https://open.spotify.com/album/3wk4dEAwHtuNdQ89QoB3Le) | 3:42 | 2024-03-21 |  |
 | [SURE \(KISS ME\)](https://open.spotify.com/track/2sQueUGJVtYDrCA8DUnszL) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Albert Cook](https://open.spotify.com/artist/3OU7HewcnwzxdR1ZezPkZH) | [SURE \(KISS ME\)](https://open.spotify.com/album/0KE4y8tMW0MUdfrH5n35f2) | 3:42 | 2023-11-28 | 2024-04-19 |
 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 | 2025-05-01 |  |

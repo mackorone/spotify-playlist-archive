@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: עדן גולן
 
-373 songs - 19 hr 42 min
+374 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 | 2024-08-22 | 2025-01-10 |
 | [Green](https://open.spotify.com/track/7kPHa9XgJ7AR8zD4bloBQU) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [A Place for Lovers](https://open.spotify.com/album/3JN9hDwOAxjplHEwaQ09Jl) | 3:08 | 2024-09-12 | 2024-10-25 |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-06-27 | 2024-09-13 |
+| [I hate it when somebody says your name \- dark take](https://open.spotify.com/track/7EMQxdKwHiETdT5c3LOQgv) | [Roby Fayer](https://open.spotify.com/artist/4jGepMIeeVxeLrikEinXMs), [Amit Shauli](https://open.spotify.com/artist/5v5wCcs3M7J6VcD30IEscJ) | [I hate it when somebody says your name \(dark take\)](https://open.spotify.com/album/68tDf75xrpXzD1Unos3Ujx) | 2:36 | 2025-06-19 |  |
 | [Iron Lion Zion](https://open.spotify.com/track/0ZwJlSQ41Pys44mY6F5MVD) | [Lion in Zion](https://open.spotify.com/artist/0m8yx6cyjVL0U9dS8XxKkd), [Montana Tucker](https://open.spotify.com/artist/1JoFybEqNl2AqFWbhSy5gQ), [Sarai Givaty](https://open.spotify.com/artist/5U11HpBwUI2obAmeIVkOr0), [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd), [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr), [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g), [Moshe Reuven](https://open.spotify.com/artist/1qJlHo34rHLy2B4xfNo3Qn) | [Iron Lion Zion](https://open.spotify.com/album/4CdjTaYdvWsAgkvo7ixPu4) | 2:24 | 2024-08-01 | 2024-09-13 |
 | [It's So Hard](https://open.spotify.com/track/0g8AjHiTKGUrJbcfpsAnkO) | [Red Band](https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs), [Moran Aharoni](https://open.spotify.com/artist/4gGJEwNPz197Aa5KjB6JIA), [הכוכב הבא](https://open.spotify.com/artist/5vzETUgvElb2xfKJ1e0VHN) | [It's So Hard](https://open.spotify.com/album/3Nk6oEVn6jQl29Eb5DVT9i) | 3:42 | 2025-01-09 | 2025-03-21 |
 | [Leave Me](https://open.spotify.com/track/4v61IPd59ilTDCEjvWFWJj) | [Hadar Sopher](https://open.spotify.com/artist/4ept0xjPF374lsJA76Y4rU) | [Leave Me](https://open.spotify.com/album/6rhJZ6qI0oMAXUDC9PlOSC) | 2:34 | 2025-02-27 | 2025-04-18 |
@@ -255,7 +256,7 @@
 | [מה יבוא](https://open.spotify.com/track/5JU5xtaUvWXK5IkyUIFd03) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [מה יבוא](https://open.spotify.com/album/0BGH0loFudBYXf13fjYb1O) | 2:31 | 2025-06-12 |  |
 | [מה משאיר אותנו כאן](https://open.spotify.com/track/1kyeOM8HD1bul7kEViTEEB) | [עידו מלכה](https://open.spotify.com/artist/2UAEpEEwnaFVjWZGwxHWL3) | [מה משאיר אותנו כאן](https://open.spotify.com/album/2KZJTCuZwYmw7GSpJhQsiu) | 2:53 | 2025-05-29 |  |
 | [מה שאני צריכה](https://open.spotify.com/track/5Uu5mT5IafIRISL6lOAdBK) | [ענבל רז](https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y), [Eli Huli](https://open.spotify.com/artist/0pVfuGHwDRXhSWJw7tzygH) | [מה שאני צריכה](https://open.spotify.com/album/2g7MF7C7MOylJ4WmMWqdqz) | 2:30 | 2024-06-27 | 2024-09-13 |
-| [מה ששלי שלי](https://open.spotify.com/track/2wdKNiN0XwLCrSQ0axU057) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [טוהר](https://open.spotify.com/album/4daZgs5ldX57soeQHk6Jg7) | 2:58 | 2025-03-27 |  |
+| [מה ששלי שלי](https://open.spotify.com/track/2wdKNiN0XwLCrSQ0axU057) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [טוהר](https://open.spotify.com/album/4daZgs5ldX57soeQHk6Jg7) | 2:58 | 2025-03-27 | 2025-06-20 |
 | [מודה אני](https://open.spotify.com/track/7dFXMRBRtLu6GMku07kYGD) | [Moshe Peretz](https://open.spotify.com/artist/2kOE3Jm5tMqLh65EiDkHJi), [Mooki](https://open.spotify.com/artist/2RMH8nqc3YmaUEikglXlXm) | [מודה אני](https://open.spotify.com/album/7arNglLP1SeJUbR2IFETpn) | 3:19 | 2024-07-04 | 2024-07-12 |
 | [מודה אני](https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic) | [Safe Space Sessions](https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg), [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [מרחב מוגן](https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X) | 4:39 | 2025-04-03 | 2025-06-06 |
 | [מונסון](https://open.spotify.com/track/1PoMO7QsjAFyggq2KtUEQ7) | [Liel Nahtom](https://open.spotify.com/artist/3kdL0pLB4ZtIwBOLpeh58o) | [מונסון](https://open.spotify.com/album/5Qa6dgTuqTE92tmzHPm0rR) | 3:00 | 2025-04-10 | 2025-06-06 |

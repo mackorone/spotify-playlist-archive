@@ -4,7 +4,7 @@
 
 > Sweet R&B straight out of Africa\. Cover: Ckay
 
-448 songs - 23 hr 45 min
+450 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 | 2023-03-30 | 2024-04-26 |
 | [Give Me Love](https://open.spotify.com/track/5XUZN3xXUYEXAKwV5O8I0x) | [Ally Jordan](https://open.spotify.com/artist/3E38IZrADn8V282z6ydx8S) | [Give Me Love](https://open.spotify.com/album/0q7P39Z2s5LFSrhhaB7dM4) | 3:30 | 2021-03-25 | 2023-03-04 |
 | [Give Me Something \(feat\. Rowlene\)](https://open.spotify.com/track/5cRuXf4RQjrNEGkTVNlBrv) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Give Me Something \(feat\. Rowlene\)](https://open.spotify.com/album/4beeF1a8TR0ZAmHGbVmcjV) | 2:44 | 2022-08-25 | 2022-11-04 |
+| [Glory](https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Glory](https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ) | 2:38 | 2025-06-20 |  |
 | [Gone Girl](https://open.spotify.com/track/4SVjVLpHngzqTzGfQe0hGz) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Gone Girl](https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN) | 4:13 | 2021-12-16 | 2024-10-26 |
 | [GOOD GIRL](https://open.spotify.com/track/6BE8bqvWBLL6Fcfrs69i37) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [BENEATH THE SURFACE](https://open.spotify.com/album/6YhxNnqUw2nbojF8o1aCge) | 3:57 | 2022-06-23 | 2022-07-08 |
 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 | 2021-06-18 | 2023-02-04 |
@@ -186,6 +187,7 @@
 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2024-03-07 |  |
 | [I can't believe I get to call you mine](https://open.spotify.com/track/675I0oCNoCDWK9uNojeIfl) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [I can't believe I get to call you mine](https://open.spotify.com/album/3e2yFxa6oEvYyGibyDAHwR) | 4:40 | 2021-11-25 | 2022-05-27 |
 | [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 | 2024-10-18 |  |
+| [I Got You](https://open.spotify.com/track/1TidyHnfWZJ2GcDMESuYUt) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I Got You](https://open.spotify.com/album/0WeoxAxwZklVIPYUGE0mRf) | 2:54 | 2025-06-20 |  |
 | [I Hate That I Care](https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [I Hate That I Care](https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3) | 2:46 | 2023-11-17 | 2024-10-26 |
 | [I Know](https://open.spotify.com/track/2ZJj6KjYRpl8oDAdoniXCJ) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [I Know](https://open.spotify.com/album/0uPJ8tLFVNO3dUBiOijfZ8) | 2:50 | 2021-03-05 | 2022-04-22 |
 | [I Lay](https://open.spotify.com/track/7mENpuXFCcZ68NNqaZHxPW) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [I Lay](https://open.spotify.com/album/6tpBTjH8adtHgfx0hdPlFL) | 2:22 | 2023-06-08 | 2024-06-28 |

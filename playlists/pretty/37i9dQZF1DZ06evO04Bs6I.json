@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 114821,
+  "num_followers": 114840,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE9egAAAAADmkdej4efdrh2/X4QDi6VP",
+  "snapshot_id": "aFIBgAAAAADbrXF5uokCZjRHBdFaCXYk",
   "tracks": [
     {
       "added_at": null,
@@ -118,15 +118,11 @@
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 224920,
-      "name": "Hey, Pai - Ao Vivo",
-      "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
+      "duration_ms": 247960,
+      "name": "Eu Sei Que Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv"
     },
     {
       "added_at": null,
@@ -147,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Nunca Antes",
-        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "Como Nunca Antes",
-      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vai Passar (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm"
       },
@@ -179,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+        "name": "Como Nunca Antes",
+        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
       },
       "artists": [
         {
@@ -188,9 +168,29 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 247960,
-      "name": "Eu Sei Que Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv"
+      "duration_ms": 283360,
+      "name": "Como Nunca Antes",
+      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Hey, Pai - Ao Vivo",
+      "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
     },
     {
       "added_at": null,
@@ -299,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
       "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Sua Paz",
-      "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
+      "duration_ms": 658333,
+      "name": "Casinha Favorita",
+      "url": "https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH"
     },
     {
       "added_at": null,
@@ -335,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
       "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 658333,
-      "name": "Casinha Favorita",
-      "url": "https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH"
+      "duration_ms": 205266,
+      "name": "Sua Paz",
+      "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
+      "duration_ms": 420453,
+      "name": "Se Eu Pudesse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 420453,
-      "name": "Se Eu Pudesse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
+      "duration_ms": 226240,
+      "name": "Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
     },
     {
       "added_at": null,
@@ -435,38 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
         },
         {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 265906,
-      "name": "Processo",
-      "url": "https://open.spotify.com/track/1YVzZ98wN0QQB19fP6M4Tq"
+      "duration_ms": 259862,
+      "name": "Assume A Responsa",
+      "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
     },
     {
       "added_at": null,
@@ -487,22 +471,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
       "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 259862,
-      "name": "Assume A Responsa",
-      "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
+      "duration_ms": 265906,
+      "name": "Processo",
+      "url": "https://open.spotify.com/track/1YVzZ98wN0QQB19fP6M4Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O"
     },
     {
       "added_at": null,
@@ -547,26 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seu Amor",
-        "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
       "artists": [
         {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 192402,
-      "name": "Seu Amor",
-      "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
+      "duration_ms": 354493,
+      "name": "Minha Alma Te Ama (Ao Vivo)",
+      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
     },
     {
       "added_at": null,
@@ -587,18 +579,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+        "name": "Seu Amor",
+        "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
       },
       "artists": [
         {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 354493,
-      "name": "Minha Alma Te Ama (Ao Vivo)",
-      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
+      "duration_ms": 192402,
+      "name": "Seu Amor",
+      "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
     },
     {
       "added_at": null,

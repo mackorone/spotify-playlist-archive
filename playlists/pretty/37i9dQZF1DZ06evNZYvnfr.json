@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE9egAAAAAB9Q33Ww4txYhWz1SYG0wjh",
+  "snapshot_id": "aFIBgAAAAAA5EPxT064Bzb72C9AKsA4q",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Story Your Glory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
       "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 188544,
-      "name": "My Story Your Glory - Micah Tyler Collab Version",
-      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
+      "duration_ms": 184911,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
+        "name": "My Story Your Glory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
       },
       "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 184911,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO"
+      "duration_ms": 188544,
+      "name": "My Story Your Glory - Micah Tyler Collab Version",
+      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
     },
     {
       "added_at": null,

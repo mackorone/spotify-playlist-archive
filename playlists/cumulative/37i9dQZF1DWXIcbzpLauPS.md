@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: We Came As Romans
 
-1,257 songs - 3 day 5 hr 6 min
+1,258 songs - 3 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-07-13 | 2022-07-18 |
 | [Cave](https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 3:43 | 2024-06-10 | 2024-12-18 |
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-07-13 | 2022-07-23 |
+| [CBRTRK](https://open.spotify.com/track/3DWOvMcZ6llI3IsaRib8kL) | [Callejon](https://open.spotify.com/artist/1ce15ppX5OYxPsBVESZG3W) | [CBRTRK](https://open.spotify.com/album/3Lk2RFqiUIHcRlTIcetmlz) | 2:37 | 2025-06-13 |  |
 | [Cellar Door](https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1) | 4:43 | 2023-10-27 | 2024-08-13 |
 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 | 2023-10-27 | 2024-04-19 |
 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 | 2022-07-13 | 2022-07-21 |
@@ -997,7 +998,7 @@
 | [Something In The Way](https://open.spotify.com/track/3V28Eb87Y8du002uxsxUDn) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Something In The Way](https://open.spotify.com/album/1ZyprDf0216EbtcBS48cjz) | 3:39 | 2025-03-31 | 2025-04-26 |
 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-30 |  |
 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 | 2023-11-27 | 2024-06-05 |
-| [Soul Drown](https://open.spotify.com/track/0eKzIDG9gSnnwfT6ZoCeHB) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Soul Drown](https://open.spotify.com/album/3AZRPLiZlufomxOHGYAkNk) | 2:44 | 2025-05-23 |  |
+| [Soul Drown](https://open.spotify.com/track/0eKzIDG9gSnnwfT6ZoCeHB) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Soul Drown](https://open.spotify.com/album/3AZRPLiZlufomxOHGYAkNk) | 2:44 | 2025-05-23 | 2025-06-20 |
 | [Souls Devoured](https://open.spotify.com/track/74Z3FMsY0mXzN8MpkXcvB7) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [Souls Devoured](https://open.spotify.com/album/56sumLuEYimoOtQb1KKnWr) | 4:15 | 2025-05-02 | 2025-06-13 |
 | [SOWHAT1999](https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [ODDWORLD](https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF) | 3:00 | 2024-11-22 | 2025-02-22 |
 | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK) | 3:10 | 2022-04-08 | 2022-07-22 |

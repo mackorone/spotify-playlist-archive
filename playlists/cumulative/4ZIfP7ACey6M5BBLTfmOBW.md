@@ -4,7 +4,7 @@
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-639 songs - 1 day 6 hr 10 min
+639 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [French Tips \(feat\. Coco Jones\)](https://open.spotify.com/track/3pPlFiN3TLqHd5uXnRr4Cv) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 3:06 | 2024-11-08 | 2025-02-22 |
 | [Frenzy](https://open.spotify.com/track/3PsnfhVFH0oTAUoOAomNlD) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Frenzy](https://open.spotify.com/album/3fQBWEl9ZczvIT6Zrxec3A) | 2:48 | 2024-05-24 | 2024-07-27 |
 | [FTJ](https://open.spotify.com/track/5ltfVoYrzGkTMECzg3tGJ5) | [Versailles The Everything](https://open.spotify.com/artist/67imuUXDxRK3um7NYO4HnG) | [FTJ](https://open.spotify.com/album/54jfMnJslfjnxPLFMX287g) | 2:32 | 2024-02-02 | 2024-02-17 |
-| [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 4:17 | 2025-06-13 |  |
+| [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 2:47 | 2025-06-13 |  |
 | [FU](https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FU](https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ) | 2:16 | 2023-12-08 | 2024-04-06 |
 | [Fuck Fame PT\. 2 \(feat\. Lola Brooke\)](https://open.spotify.com/track/5ocQrLeov9liXKoO5tjiEl) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Fuck Fame PT\. 2 \(feat\. Lola Brooke\)](https://open.spotify.com/album/24VvrSk68HBYD1eHDG2IKa) | 3:39 | 2023-12-08 | 2024-02-10 |
 | [Fuck Then Dub Her \(feat\. Lil Mabu\)](https://open.spotify.com/track/2Zt56VjHNT4257K0OLm34t) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [Fuck Then Dub Her \(feat\. Lil Mabu\)](https://open.spotify.com/album/3UhF76O6AGUVnAlktwlXBo) | 2:32 | 2024-07-19 | 2024-09-07 |

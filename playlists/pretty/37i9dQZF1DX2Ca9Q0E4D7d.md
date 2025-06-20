@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,941 likes - 67 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,015 likes - 67 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 66 | [Binaural Beta Sinus](https://open.spotify.com/track/4yXbhHBEhNEI86re9lKLHh) | [BINURL](https://open.spotify.com/artist/69I5xjzATrKcmS8e3NQ9af) | [12.5 Hz Focus \- Binaural Beats](https://open.spotify.com/album/56NlInK7Vjb0iCyYX1ZHUM) | 2:56 |
 | 67 | [Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/track/7j3vvNlU8fl0VNrwHTzd73) | [Sonic Lab](https://open.spotify.com/artist/0UJY3iGsud9VYG9W3MmTYS) | [Sonic Lab](https://open.spotify.com/album/3gkY3lXfjzHTnNifNDjQuL) | 3:20 |
 
-Snapshot ID: `AAAAANimLB0tyr9++Wd+oSiYom+vzTMu`
+Snapshot ID: `aEA+aQAAAADhEgUtyN+PtuJEZhx3qPad`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Vincent Delerm",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: H\u00e9l\u00e8ne Sio",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 243306,
       "name": "Adieu Paris",
       "url": "https://open.spotify.com/track/32LDvHPd4N3gMoDMqUNWZy"
@@ -114,10 +114,28 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 247813,
       "name": "alma",
       "url": "https://open.spotify.com/track/1s6kke7dkGw3VfU4Zq9Mg8"
+    },
+    {
+      "album": {
+        "name": "Les M\u00e9t\u00e9ores",
+        "url": "https://open.spotify.com/album/07ya5hGHzB0hBzwVdOAiCV"
+      },
+      "artists": [
+        {
+          "name": "Anjaa",
+          "url": "https://open.spotify.com/artist/59bBzMdhPynQmBjE3dyrTz"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196587,
+      "name": "Ami Amour",
+      "url": "https://open.spotify.com/track/72IpO8YdavUCpqTsqh0FRM"
     },
     {
       "album": {
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 181986,
       "name": "L'oiseau",
       "url": "https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 192626,
       "name": "La sublime solitude",
       "url": "https://open.spotify.com/track/2j7W51fI2zpTfOkAigFJTX"
@@ -1750,6 +1768,24 @@
       "duration_ms": 157281,
       "name": "Le Lapin",
       "url": "https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA"
+    },
+    {
+      "album": {
+        "name": "Parenth\u00e8ses",
+        "url": "https://open.spotify.com/album/7yxHHSSB4poItMD3ejJyjk"
+      },
+      "artists": [
+        {
+          "name": "ESTL",
+          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Le lundi au soleil",
+      "url": "https://open.spotify.com/track/4Q50Sr8134kzmb971o6GJv"
     },
     {
       "album": {
@@ -2194,7 +2230,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 171801,
       "name": "l\u2019exil et l\u2019asile",
       "url": "https://open.spotify.com/track/3LBn8ucmgGyPe5se5y2UB1"
@@ -2457,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "Oh la guitare",
+        "url": "https://open.spotify.com/album/0eHyxDFGFhWcUzNCDEUsvn"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262666,
+      "name": "Oh la guitare",
+      "url": "https://open.spotify.com/track/4SLSQ1QE7xOjmMS7bIgo1r"
+    },
+    {
+      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -2533,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Paris Amour",
+        "url": "https://open.spotify.com/album/5UPeTy8r4aoKnZtRP6PnMa"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "Paris Amour",
+      "url": "https://open.spotify.com/track/3uJvgK0JVKNVbOHQe0RPfR"
+    },
+    {
+      "album": {
         "name": "Partir un jour",
         "url": "https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf"
       },
@@ -2548,6 +2620,24 @@
       "duration_ms": 212240,
       "name": "Partir un jour",
       "url": "https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU"
+    },
+    {
+      "album": {
+        "name": "pas assez de toi",
+        "url": "https://open.spotify.com/album/6nv6PS50Hyh34ZIAzjuXUy"
+      },
+      "artists": [
+        {
+          "name": "Lili Em",
+          "url": "https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "pas assez de toi",
+      "url": "https://open.spotify.com/track/19Z9JUc7IvI5KmYSg6HXms"
     },
     {
       "album": {

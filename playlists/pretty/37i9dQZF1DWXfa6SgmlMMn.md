@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain]
 
 > 2023 was a YEAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,740 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,741 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain]
 | 54 | [GETTN OVA U](https://open.spotify.com/track/1BmnsC2XFnCuuxwB1ULcOa) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [WE STILL YOUNG](https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz) | 2:40 |
 | 55 | [Happiness Is An 8 Ball](https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR) | 2:31 |
 
-Snapshot ID: `ZWcrRAAAAAAmmyZWTIAxT5afFnBfC5Xz`
+Snapshot ID: `ZWcrRAAAAAB1PLUwbqmVno7OHxOtctO0`

@@ -4,13 +4,13 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,085 songs - 3 day 7 hr 6 min
+1,087 songs - 3 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Don't Let 'Em\) Grind Ya Down \- Live at Glasgow Apollo, 18th March 1982](https://open.spotify.com/track/48dAc10HfSHfosBJM01QQ9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [\(Don't Let 'Em\) Grind Ya Down \[Live at Glasgow Apollo, 18th March 1982\]](https://open.spotify.com/album/75gdLiRVeqWyS4YWJwF7XH) | 3:33 | 2022-09-16 | 2022-10-08 |
 | [\(We make\) Sweden Rock](https://open.spotify.com/track/3N56fEJqHbCpcDav9wcThU) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [\(We Make\) Sweden Rock](https://open.spotify.com/album/1k8eg8tVFM6NBEdeGTUopG) | 4:15 | 2021-12-29 | 2022-04-21 |
-| [+ sargasso +](https://open.spotify.com/track/5B3xFiAHesPmNHpW2eDJp8) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ sargasso +](https://open.spotify.com/album/2x2oSr03mohnIV021ZWg1R) | 6:45 | 2025-03-11 |  |
+| [+ sargasso +](https://open.spotify.com/track/5B3xFiAHesPmNHpW2eDJp8) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ sargasso +](https://open.spotify.com/album/2x2oSr03mohnIV021ZWg1R) | 6:45 | 2025-03-11 | 2025-06-20 |
 | [1000 Friends](https://open.spotify.com/track/1pTF9dR6s1GKw2TmvVtIfq) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [1000 Friends](https://open.spotify.com/album/7yPZRysASodtpM0ueSBTNC) | 3:21 | 2025-03-11 | 2025-05-18 |
 | [1066](https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [1066](https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe) | 4:32 | 2024-08-23 | 2025-05-13 |
 | [111 – the Number of the Angels](https://open.spotify.com/track/3bbAEbvxWvrhSjYYPusrlo) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [111 – the Number of the Angels](https://open.spotify.com/album/7JAj5D6w9vUT3IkcG5iLs4) | 3:50 | 2022-03-22 | 2022-04-20 |
@@ -124,6 +124,7 @@
 | [Brave New World](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Brave New World](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 | 2024-05-03 |  |
 | [Break Away](https://open.spotify.com/track/6wtfIonPBuxMmgPZUCM0kj) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Firewind](https://open.spotify.com/album/0eABZjNzoxwU6UVDyPzg3y) | 5:13 | 2021-12-17 | 2022-07-29 |
 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 | 2022-08-19 | 2025-02-01 |
+| [Break the Silence](https://open.spotify.com/track/0lUykx87qMYn0VYGN2SCzN) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Break the Silence](https://open.spotify.com/album/2xDONBAfy61NbCoI1F8BBa) | 4:21 | 2025-06-13 |  |
 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 | 2022-08-19 | 2024-02-10 |
 | [Breaking The Chains](https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu) | 3:51 | 2024-01-26 | 2024-04-19 |
 | [Breaking the Habit](https://open.spotify.com/track/3Rk9g2PzzHrDRiskq8qV9m) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Invicta](https://open.spotify.com/album/5dcybGJ0n1KmH23J4a8mnr) | 4:09 | 2021-12-17 | 2022-07-29 |
@@ -534,7 +535,7 @@
 | [Long Live Rock N Roll](https://open.spotify.com/track/2ilsr4UkwAL10MspiJtKA3) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Long Live Rock 'n' Roll](https://open.spotify.com/album/0abggihGZTIzf1GfHhrjwE) | 4:24 | 2022-08-19 | 2024-03-09 |
 | [Lost In Isolation](https://open.spotify.com/track/4yHU8GXDmorOZ6eZfd8TGu) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi), [God Forbid](https://open.spotify.com/artist/2OgQ0tvf2ldbdlm8sXyx3M) | [NINE](https://open.spotify.com/album/48doH9nnym0XhIm1587p3F) | 4:01 | 2025-04-25 | 2025-06-14 |
 | [Lost in the Dark](https://open.spotify.com/track/29icHp3xGk5PGfzPSKsXrg) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Lost in the Dark](https://open.spotify.com/album/40jVhBsza03byS968oOfi3) | 3:18 | 2024-04-19 |  |
-| [Lot Lizard](https://open.spotify.com/track/70WEa9Zr8g28Qe2nZRueQ3) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Lot Lizard](https://open.spotify.com/album/1jM2ATJEA1K1LKqMBVfXqH) | 2:24 | 2025-04-25 |  |
+| [Lot Lizard](https://open.spotify.com/track/70WEa9Zr8g28Qe2nZRueQ3) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Lot Lizard](https://open.spotify.com/album/1jM2ATJEA1K1LKqMBVfXqH) | 2:24 | 2025-04-25 | 2025-06-20 |
 | [Love is Gonna Get You Killed](https://open.spotify.com/track/4BopOUl5fmRZHrjKIR2L3S) | [Axxis](https://open.spotify.com/artist/2kGeYVloFXuKXgXnhQTcIT) | [Love is Gonna Get You Killed](https://open.spotify.com/album/2eKvO8SeApDc4id1XahaiC) | 3:59 | 2021-12-29 | 2022-04-20 |
 | [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 | 2023-04-14 | 2023-10-30 |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-29 | 2023-04-17 |
@@ -913,6 +914,7 @@
 | [The Great Heathen Army](https://open.spotify.com/track/15rzwcnr5ZRaRF7xQjg9Wd) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/2Ge7U7lz8QrfTEI9RmBEhc) | 4:04 | 2022-07-08 | 2022-10-02 |
 | [The Hammer of Witches](https://open.spotify.com/track/54Zpik1kydPmySK4dnQARZ) | [Sorcerer](https://open.spotify.com/artist/2O1JmZHgbLq9ttqx0AqjVm) | [The Hammer of Witches](https://open.spotify.com/album/5yNMvmRUiuKnvzA16MuRNA) | 5:17 | 2021-12-17 | 2022-07-20 |
 | [The Heist](https://open.spotify.com/track/5eEvLYyyDHWqz4QYIhmnf6) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [The Heist](https://open.spotify.com/album/36CPcyqm6fMthJLOVX56sH) | 5:45 | 2022-03-22 | 2022-04-16 |
+| [The Hunter](https://open.spotify.com/track/0xOgkEEMiNu0KaYL3mmloE) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [The Hunter](https://open.spotify.com/album/0g8UW1dAXpkg2iHwltfvMd) | 4:20 | 2025-06-13 |  |
 | [The Inevitable End](https://open.spotify.com/track/1e77ThmggJKvG4NeRWUrLB) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [The Inevitable End](https://open.spotify.com/album/14nCqNpoBt32m822qAyCsI) | 4:32 | 2021-12-17 | 2022-07-27 |
 | [The Inmost Light](https://open.spotify.com/track/2OKcPu7AjhRK3d0M3gFpxV) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Michael Kiske](https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET) | [The Inmost Light](https://open.spotify.com/album/1b2YboU69bMXC2QOtjHx4b) | 3:26 | 2022-09-23 | 2022-10-28 |
 | [The Inmost Light](https://open.spotify.com/track/75JDr0zjNQHKybrvUL1otS) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Michael Kiske](https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET) | [A Paranormal Evening with the Moonflower Society](https://open.spotify.com/album/2iJh6o9qiZHBukshvWoRXI) | 3:26 | 2022-10-21 | 2023-01-02 |

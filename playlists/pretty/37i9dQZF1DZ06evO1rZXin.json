@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6585,
+  "num_followers": 6586,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE9egAAAAABdxgYm5J80y7HipM9jvRS4",
+  "snapshot_id": "aFIBgAAAAAAU6RsIKsvwTa1LCLnDsBup",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Charanga Coste\u00f1a",
-      "url": "https://open.spotify.com/track/7riOaIGe43ftJHJzFBv09Z"
+      "duration_ms": 196933,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/1ssWsWaHvCgUkV4X4lz1hK"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 196933,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/1ssWsWaHvCgUkV4X4lz1hK"
+      "duration_ms": 196706,
+      "name": "Charanga Coste\u00f1a",
+      "url": "https://open.spotify.com/track/7riOaIGe43ftJHJzFBv09Z"
     },
     {
       "added_at": null,
@@ -323,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Me Esta Esperando Mar\u00eda",
-      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
+      "duration_ms": 204026,
+      "name": "Hueso No Ma",
+      "url": "https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 204026,
-      "name": "Hueso No Ma",
-      "url": "https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw"
+      "duration_ms": 168200,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
       "duration_ms": 144306,
       "name": "Corrido De Nayarit",
       "url": "https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "El Tirador",
-      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
     },
     {
       "added_at": null,
@@ -443,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Adorable Mentirosa",
-      "url": "https://open.spotify.com/track/1GrZlDbDiaHTeRtmR22ohK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tirador",
         "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
@@ -472,9 +436,25 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Rock y Banda",
-      "url": "https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV"
+      "duration_ms": 191000,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Adorable Mentirosa",
+      "url": "https://open.spotify.com/track/1GrZlDbDiaHTeRtmR22ohK"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Rock y Banda",
+      "url": "https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
         "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
       },
@@ -523,26 +523,6 @@
       "duration_ms": 128000,
       "name": "Donde Andara",
       "url": "https://open.spotify.com/track/5ljCJFL7Xm01KHh6SKlJiu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/4C1rjOklvN6ydlOUwkoOJ3"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/4C1rjOklvN6ydlOUwkoOJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
         "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'Yo (29 Aniversario)",
-        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 171135,
-      "name": "Pa'Yo (29 Aniversario)",
-      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busca Amor",
         "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 157586,
       "name": "Busca Amor",
       "url": "https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'Yo (29 Aniversario)",
+        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 171135,
+      "name": "Pa'Yo (29 Aniversario)",
+      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
-        "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 184900,
-      "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
-      "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meneaito",
         "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 217234,
       "name": "Meneaito",
       "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+        "url": "https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 184900,
+      "name": "Si No Est\u00e1s T\u00fa (Black Is Black)",
+      "url": "https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A"
     },
     {
       "added_at": null,

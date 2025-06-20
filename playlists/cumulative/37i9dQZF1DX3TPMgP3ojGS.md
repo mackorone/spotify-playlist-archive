@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,812 songs - 3 day 9 hr 11 min
+1,813 songs - 3 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [Ellebori](https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Ellebori](https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS) | 2:59 | 2022-12-22 | 2023-04-16 |
 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 | 2023-10-17 |  |
 | [Ellipses](https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Ellipses](https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM) | 2:31 | 2022-03-29 | 2022-12-24 |
-| [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-26 |  |
+| [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-26 | 2025-06-20 |
 | [Elysium](https://open.spotify.com/track/2XtkXvXNsqpTBddG6W4dkA) | [Reese Willis](https://open.spotify.com/artist/4iw6QArXcxuKkS1v2mo47u) | [Elysium](https://open.spotify.com/album/55W5st1xVSvmwGKR5xWkms) | 2:19 | 2021-03-09 | 2022-04-05 |
 | [Emerald Enlightenment](https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [Emerald Enlightenment](https://open.spotify.com/album/26dTk7VugnkScRBYCv8s2W) | 1:39 | 2023-04-15 | 2023-07-23 |
 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 | 2022-04-14 | 2022-08-09 |
@@ -926,7 +926,7 @@
 | [Lullaby to Brooklyn](https://open.spotify.com/track/7mHoDy7ategfWEYV51DltL) | [Jenna Elizabeth](https://open.spotify.com/artist/5If5kZtYCXDNwUSgVqu5Fr) | [Fireflies](https://open.spotify.com/album/4rvQEuLUZZGCov0t4LU6rX) | 2:27 | 2021-03-09 | 2022-06-22 |
 | [Lullaby to Ruth](https://open.spotify.com/track/4JwA892QX8Y3AAeKRVu9RF) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Reflection of the Unknown](https://open.spotify.com/album/2sEt3v9MeWzhFfQR0Qy8yD) | 2:22 | 2021-05-11 | 2022-04-16 |
 | [Lumina](https://open.spotify.com/track/7j7h7BivqAe8X5SvoiJvpp) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Lumina](https://open.spotify.com/album/49G5Mxmaf8jL8SRFNWwU1w) | 2:06 | 2021-05-16 | 2022-06-06 |
-| [Luminous](https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Luminous](https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE) | 2:05 | 2023-10-03 |  |
+| [Luminous](https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Luminous](https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE) | 2:05 | 2023-10-03 | 2025-06-20 |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2021-10-28 | 2022-04-14 |
 | [Luna From Soyuz](https://open.spotify.com/track/3Kprog2Huf1Zztj1Os7IeY) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Luna From Soyuz](https://open.spotify.com/album/7niGMO3LuLtEMeY3VeIIfH) | 3:43 | 2021-03-16 | 2021-03-20 |
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2022-03-29 | 2022-04-15 |
@@ -1504,7 +1504,7 @@
 | [That day](https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB) | [Leroy Bolander](https://open.spotify.com/artist/667m0gdFzATbXE189xJwOl) | [That day](https://open.spotify.com/album/5ygk6D7doJkoxOJs9uNLJp) | 1:58 | 2021-05-13 | 2022-04-21 |
 | [That kind of day](https://open.spotify.com/track/2HrQsRsCx8Pnv9BYNgmVwz) | [Cauã Cavalcanti Azevedo](https://open.spotify.com/artist/1FOppiOpSLfxmS2pYUWXal) | [That kind of day](https://open.spotify.com/album/0uOyOXBYsr53gf8Jnscb3K) | 2:28 | 2021-03-19 | 2022-03-27 |
 | [That morning](https://open.spotify.com/track/2JhJZ1b5JQKcDolFvw5edc) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [That morning](https://open.spotify.com/album/61JrVGvUW3Tb0p8cGome0d) | 1:14 | 2021-04-23 | 2022-07-14 |
-| [The Approaching Night](https://open.spotify.com/track/4eoDPVbSx04PlypRDwjsXk) | [Philip Wesley](https://open.spotify.com/artist/7xaLfXBI5MSy3aNX7m4X3O) | [Dark Night of the Soul](https://open.spotify.com/album/2z7fcGI8oW7BXab2U9ikK1) | 6:39 | 2021-03-09 | 2022-04-09 |
+| [The Approaching Night](https://open.spotify.com/track/4eoDPVbSx04PlypRDwjsXk) | [Philip Wesley](https://open.spotify.com/artist/7xaLfXBI5MSy3aNX7m4X3O) | [Dark Night of the Soul](https://open.spotify.com/album/2z7fcGI8oW7BXab2U9ikK1) | 6:39 | 2021-03-09 |  |
 | [The Book of Jen](https://open.spotify.com/track/7LnU4vflcZ8fyuFaVxGtuN) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [The Book of Jen](https://open.spotify.com/album/02TTz5Zlr3FHrlmEdDqab6) | 2:47 | 2021-04-24 | 2022-04-04 |
 | [The Broad Sun](https://open.spotify.com/track/7qRXesZGmMS1K2ZgLyIMvE) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [The Broad Sun](https://open.spotify.com/album/5Rh0euybxLozKjyzzkaSf3) | 3:28 | 2021-05-10 | 2022-04-14 |
 | [The Carousel](https://open.spotify.com/track/0065zxtT6XKaQww7cLne0h) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [The Carousel](https://open.spotify.com/album/0pW05Utvz8I9DxAnn83Qfc) | 2:47 | 2022-04-14 | 2022-04-18 |
@@ -1782,6 +1782,7 @@
 | [Wisdom Valley](https://open.spotify.com/track/2yHHq5iNkGv3Vh0mn3GZ0p) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [The Piano Inside](https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO) | 2:28 | 2021-03-14 | 2022-04-16 |
 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 | 2023-12-12 |  |
 | [Wish of the Progeny](https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:29 | 2021-04-22 | 2021-04-23 |
+| [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 | 2025-05-22 |  |
 | [Wishful Wanderer](https://open.spotify.com/track/5husUYtd9ElDB9PD4HydC0) | [Echo Whisperer](https://open.spotify.com/artist/7KOsbhLZ2NZUBx6VNOJSjK) | [Spaces EP](https://open.spotify.com/album/6GKOSpGxG4x0G0Bo75pdcW) | 2:54 | 2021-05-06 | 2022-04-09 |
 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 | 2021-05-23 | 2022-04-05 |
 | [Within the Light](https://open.spotify.com/track/5XEQ6jikGETqgv35kIKGZN) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light](https://open.spotify.com/album/1FcJUiNxamA08n20zaHHMT) | 1:59 | 2021-03-19 | 2022-01-12 |

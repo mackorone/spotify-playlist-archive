@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Vitrioli](https://open.spotify.com/track/3wWzGmd7gBBijifqExipEg) | [Selofan](https://open.spotify.com/artist/1StVGGYOC5FM3aNpJQ74Vj) | [Vitrioli](https://open.spotify.com/album/3as8D8sQme1il9W9o1MCs6) | 3:15 |
 | 30 | [Conflicting Ideas](https://open.spotify.com/track/5o15dbqEK0jd0YkJzFiFoQ) | [Tragedy](https://open.spotify.com/artist/6H0LnhDF6W7g2H234i6z3Q) | [Vengeance](https://open.spotify.com/album/6FGBRj83Ml0qLnQCVsqtMM) | 4:35 |
 
-Snapshot ID: `aE+WwAAAAACO2Sq7RoJy0CPI391RRS9L`
+Snapshot ID: `aE+WwAAAAABmQ/zzIeuGX3TNaSa3jIec`

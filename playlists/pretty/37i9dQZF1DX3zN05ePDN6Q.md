@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Link do Zap
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,377 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,403 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [NASCI PRA ISSO](https://open.spotify.com/track/4WwJ4xNXqRjNJOXYm38QNa) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [HIGHBOYZ](https://open.spotify.com/album/0LXnhPYep0AOA1c7BFg7Vm) | 3:06 |
 | 75 | [Reflexo \#10 \- Inestimável](https://open.spotify.com/track/4pKeqCqPF4JkqJi3Lq6nZZ) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [SARTØR](https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4) | [Reflexo \#10 \- Inestimável](https://open.spotify.com/album/0gGjGKzagGb1tn0E0UI7tR) | 2:12 |
 
-Snapshot ID: `aExHBAAAAACHIzo8NCP/HpE3ekxKmgVj`
+Snapshot ID: `aExHBAAAAADBTQQaRTXT+Fc/aqx5vqrP`

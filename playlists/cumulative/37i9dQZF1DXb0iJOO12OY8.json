@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 169263,
       "name": "Ambassad\u00f8r",
       "url": "https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 169142,
       "name": "Gode Tider - feat. Streetboys",
       "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 200681,
       "name": "KARL JOHAN",
       "url": "https://open.spotify.com/track/5C01Phi3ylbwe4Z2v7OS6B"
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 118451,
       "name": "stemmene i hodet",
       "url": "https://open.spotify.com/track/6XH1lfxmbIpzWXiJk9sqyG"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 161706,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/0w2rnChlsC41RjhxBFwufW"
@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 106701,
       "name": "Tinnitus",
       "url": "https://open.spotify.com/track/1Vg8nVA7saUhI7DhJ2OuRQ"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
@@ -2808,6 +2808,24 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "album": {
+        "name": "Vestkantvilla",
+        "url": "https://open.spotify.com/album/6hHY52SUkdHlv8tHeckjAX"
+      },
+      "artists": [
+        {
+          "name": "Metropolen",
+          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Vestkantvilla",
+      "url": "https://open.spotify.com/track/3SHHJUbeOcqef74LsHVkM9"
     },
     {
       "album": {

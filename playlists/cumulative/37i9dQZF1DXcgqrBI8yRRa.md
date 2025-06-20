@@ -4,7 +4,7 @@
 
 > As heard on the FYP\.  Cover: Skales
 
-744 songs - 1 day 17 hr 0 min
+745 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Beamer](https://open.spotify.com/track/4i3wDQa5VBDPUiREGaS44Z) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:46 | 2024-12-30 | 2025-04-01 |
 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Beamer \(Bad Boys\)](https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh) | 3:15 | 2023-11-18 | 2024-01-16 |
 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 | 2022-01-10 | 2022-09-09 |
-| [Because of English](https://open.spotify.com/track/0NJK3YUezigLx4Q7rA8Ly8) | [Bright Chimezie](https://open.spotify.com/artist/1BrE2BQLz65hYIFq90pNK4) | [Because of English](https://open.spotify.com/album/4o3DG8aAH38ddgDKCNJBsW) | 10:35 | 2025-05-26 |  |
+| [Because of English](https://open.spotify.com/track/0NJK3YUezigLx4Q7rA8Ly8) | [Bright Chimezie](https://open.spotify.com/artist/1BrE2BQLz65hYIFq90pNK4) | [Because of English](https://open.spotify.com/album/4o3DG8aAH38ddgDKCNJBsW) | 10:35 | 2025-05-26 | 2025-06-20 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-10-19 | 2022-02-10 |
 | [Beginning](https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:38 | 2024-09-29 | 2024-10-06 |
 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-06-26 | 2023-07-07 |
@@ -695,6 +695,7 @@
 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 | 2024-10-18 | 2024-11-30 |
 | [Upgrade U \(feat\. Jay\-Z\)](https://open.spotify.com/track/6V1nOgkrGmr6Wx1x4RQ6Bc) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [B'Day](https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO) | 4:32 | 2023-07-06 | 2023-11-23 |
 | [US](https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [US](https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3) | 1:16 | 2025-04-07 |  |
+| [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 | 2025-06-20 |  |
 | [Uyavala](https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4) | [Uyavala](https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ) | 5:48 | 2023-06-26 | 2023-07-07 |
 | [Valentine is Coming \- Verse 5](https://open.spotify.com/track/2FzGairEDfMJZQA3lzMTQz) | [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Valentine Is Coming \(Verse 5\)](https://open.spotify.com/album/4mXfTrLboHjAtZVpUjnOTZ) | 1:29 | 2025-01-31 | 2025-02-22 |
 | [Valentines \(feat\. Kabza De Small\)](https://open.spotify.com/track/4GMKUNUvrS8xkaKBgEdAcB) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Uthingo Le Nkosazana](https://open.spotify.com/album/3uJs8ecQGgEsACraT8ucQ7) | 6:22 | 2023-06-26 | 2023-07-07 |

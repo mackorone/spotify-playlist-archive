@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Kes
 
-373 songs - 20 hr 22 min
+374 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Platonic](https://open.spotify.com/track/5Rqnq7qGsoMQzFLEWBiORE) | [Ms\. Desire](https://open.spotify.com/artist/2vVDtbiXfnr5M3gGJmqQrb) | [Platonic](https://open.spotify.com/album/773k5LdH3r8YFsr4KaIuOC) | 3:24 | 2023-08-11 | 2024-07-25 |
 | [Play Harder](https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:39 | 2022-08-18 | 2023-02-22 |
 | [Play Harder](https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Pop's Guitar Riddim](https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg) | 3:41 | 2022-08-18 | 2022-10-05 |
+| [PORTAL](https://open.spotify.com/track/2jLKAPwUGTji359kOZl3c9) | [BENJI BEATZ](https://open.spotify.com/artist/5BKnVBJCdHSzMtQnVm92mJ), [DASH](https://open.spotify.com/artist/6vpIE3IMD7dLTRAtCfZmYG), [WATER DADDIES](https://open.spotify.com/artist/3bXQrKP6beUfeoDhncrNpo) | [BISON RIDDIM](https://open.spotify.com/album/1u5QLXe5LXgHiz7hkpSzgo) | 2:26 | 2025-06-05 |  |
 | [Position](https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Position](https://open.spotify.com/album/5qdP2o3JzTFe5ip7ljcEtX) | 2:46 | 2023-05-15 |  |
 | [Practice](https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT) | [Practice](https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977) | 3:05 | 2023-02-21 | 2025-06-06 |
 | [Practice](https://open.spotify.com/track/1EKknHsn1t1VDiNhLpRDdz) | [Gbmnutron](https://open.spotify.com/artist/4EfvuRX05W5WiDkij0nTbq) | [Get Soca 2019](https://open.spotify.com/album/3qJ8JcldZ96pkx426P1coj) | 3:01 | 2021-08-26 | 2022-02-27 |
@@ -330,7 +331,7 @@
 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 | 2023-05-15 |  |
 | [The Best](https://open.spotify.com/track/7MSjpZ5DdJ2zFWLc285tBs) | [Sekon Sta](https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk) | [Kan Kan Riddim](https://open.spotify.com/album/66FwUGgw5yPa4fql5ZtKkx) | 3:08 | 2023-05-15 | 2023-07-09 |
 | [The Greatest Bend Over](https://open.spotify.com/track/6mZtcDKqMyUOcG0qi11zeE) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Big Links Riddim](https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi) | 2:50 | 2025-02-06 |  |
-| [The Return](https://open.spotify.com/track/5chYvk5kMc2LR63HNN6BX7) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [The Return](https://open.spotify.com/album/79542xz2Nujk9ast0aVnNl) | 3:45 | 2024-08-05 |  |
+| [The Return](https://open.spotify.com/track/5chYvk5kMc2LR63HNN6BX7) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [The Return](https://open.spotify.com/album/79542xz2Nujk9ast0aVnNl) | 3:45 | 2024-08-05 | 2025-06-20 |
 | [The Spirit](https://open.spotify.com/track/6mbYbtYsmCRQmeHuJJpgr4) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Spirit Of Carnival Project](https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu) | 3:01 | 2023-07-11 | 2024-10-18 |
 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 | 2023-05-15 | 2023-07-12 |
 | [Tilt](https://open.spotify.com/track/4boWnSLvtMns64y7Ns6fYx) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Tilt Riddim, Pt\. 1](https://open.spotify.com/album/2uJ638CIojgWY2CA1hFbEi) | 2:59 | 2022-02-24 | 2022-08-19 |

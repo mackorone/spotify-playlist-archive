@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: CKay",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Himra",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -3171,6 +3171,28 @@
     },
     {
       "album": {
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200458,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
+    },
+    {
+      "album": {
         "name": "Choupompom",
         "url": "https://open.spotify.com/album/0NVRT6idOH6DcJurh54vip"
       },
@@ -4160,6 +4182,28 @@
       "duration_ms": 184827,
       "name": "Dilemme",
       "url": "https://open.spotify.com/track/1yRXFMwYvvoCG6Q2lDngzD"
+    },
+    {
+      "album": {
+        "name": "Dingue ! (feat. Jungeli)",
+        "url": "https://open.spotify.com/album/5yv0njpIZTEZl1XvKTDmg6"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225821,
+      "name": "Dingue ! (feat. Jungeli)",
+      "url": "https://open.spotify.com/track/0caQCtKgoJV8rgAbdriaBF"
     },
     {
       "album": {
@@ -6786,7 +6830,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 239743,
       "name": "Honey Honey",
       "url": "https://open.spotify.com/track/1NX7EOqKo7KW3YmquIAa29"
@@ -15108,7 +15152,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 126191,
       "name": "Tout g\u00e2cher",
       "url": "https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok"

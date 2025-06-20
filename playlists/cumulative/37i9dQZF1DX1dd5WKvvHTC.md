@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Kyle Sturrock
 
-504 songs - 1 day 3 hr 14 min
+506 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Gorgeous](https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Gorgeous](https://open.spotify.com/album/0bCdGyOL3c0jJlKvxisXeE) | 3:34 | 2025-01-10 | 2025-02-08 |
 | [Got You Right](https://open.spotify.com/track/1AMvRbr8thMA47fC6iNJa2) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Got You Right](https://open.spotify.com/album/11oZY5iihgl7EdaWNqEzy6) | 3:25 | 2025-02-07 | 2025-04-05 |
 | [Great Expectations](https://open.spotify.com/track/2bKMUbbsjZ6Rusud4ivwdO) | [Casper Caan](https://open.spotify.com/artist/0dtmnZBKsEGpSCpdcr3pRc) | [Great Expectations](https://open.spotify.com/album/103uUNennMSrzCzH9NlNnq) | 4:01 | 2024-06-17 | 2024-07-06 |
+| [GRITS](https://open.spotify.com/track/0Ymuz773KydzWsrvYCjXcX) | [Shane Stevens](https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr) | [GRITS](https://open.spotify.com/album/2MMOnzcdK4oGgi9esE0gKV) | 2:53 | 2025-06-04 |  |
 | [Growing Pains](https://open.spotify.com/track/216jWgl9L5G0dYgyEIOSni) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/76H4e6RLzuJYEnrItNMq63) | 3:28 | 2025-02-07 | 2025-04-05 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-02-07 | 2025-04-05 |
 | [Guitar Lady](https://open.spotify.com/track/2udjw7nsVoZCCVbhuFuQ65) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Guitar Lady](https://open.spotify.com/album/2hoJ9aIgXluLym9FZUqLLk) | 3:19 | 2024-10-04 | 2024-12-07 |
@@ -484,6 +485,7 @@
 | [Waterfall \- From "The End We Start From" Soundtrack](https://open.spotify.com/track/5GTakY4LrlkGej5mtfs8Tq) | [Anna Meredith](https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2) | [Waterfall \(From "The End We Start From" Soundtrack\)](https://open.spotify.com/album/6arMgYKYwkMBG2IOzUrDeF) | 2:07 | 2024-01-22 | 2024-03-01 |
 | [Way Back When](https://open.spotify.com/track/1o505AK5rGw5zZtcRiNxim) | [Wayland](https://open.spotify.com/artist/5DG4mAvzfoF70wDbSd4wAJ) | [Way Back When](https://open.spotify.com/album/1tH8ImLMqeCQ6vIVtxzj5g) | 2:58 | 2024-01-22 | 2024-03-01 |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-07 | 2025-02-08 |
+| [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 | 2025-06-04 |  |
 | [What A Devastating Turn of Events](https://open.spotify.com/track/6CxdeM5S42kp7GyMlLs1Ea) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB) | 4:19 | 2024-03-01 | 2024-04-06 |
 | [What If](https://open.spotify.com/track/3PcFKgSulT1nbrMXiic7xe) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2wMvRkueUbvXZHYEg0CSs0) | 3:38 | 2024-04-05 | 2024-12-07 |
 | [What Sundays Are For](https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [What Sundays Are For](https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5) | 2:52 | 2024-03-01 | 2024-04-06 |

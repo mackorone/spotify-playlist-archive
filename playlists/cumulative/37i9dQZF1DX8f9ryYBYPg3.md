@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. © King Record Co., Ltd\. All rights reserved.
 
-275 songs - 1 day 23 hr 14 min
+276 songs - 1 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [威風颯爽](https://open.spotify.com/track/6vTYK0VoX8pAYJCQ9LgXPs) | [ヒプノシスマイク \-D.R.B\- \(神宮寺寂雷\)](https://open.spotify.com/artist/6GLJqeXo7O5WlJFHjCrYDg) | [.麻天狼](https://open.spotify.com/album/7CBvmjdl9hfBuPahlmbDFz) | 4:32 | 2024-09-17 |  |
 | [悪魔の華](https://open.spotify.com/track/0EwpurqdBrnoyuifM6wBs4) | [アルゴξ楽団](https://open.spotify.com/artist/2UCKfsLp3FhiQ9Tr3y1Zml) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 3:57 | 2023-08-22 |  |
 | [月光陰 \-Moonlight Shadow\-](https://open.spotify.com/track/5MKOwGFsUcF1HwyUiDlzGf) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(四十物 十四\)](https://open.spotify.com/artist/0T5lSNqv0Utp1JPA21CWDw) | [ヒプノシスマイク ナゴヤ・ディビジョン 「Bad Ass Temple Funky Sounds」](https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt) | 3:45 | 2022-06-09 |  |
+| [木村昴 Voice COMMENT](https://open.spotify.com/track/7fqcr2zC9R32ZYdrxvyuo6) | [ヒプノシスマイク \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/0Q4b3goxiGXuYGFVLWpzhg) | [木村昴 Voice COMMENT](https://open.spotify.com/album/593kfLNun1JX0QTlAWsNcl) | 0:42 | 2025-06-19 |  |
 | [朱夏](https://open.spotify.com/track/4cOZ0PnacmkqQZzpC0qlaD) | [ヒプノシスマイク \-D.R.B\- \(山田三郎\)](https://open.spotify.com/artist/2sXk5JWxoBwkLftnTcCFN8) | [.Buster Bros!!!](https://open.spotify.com/album/2x5qJ7vdhpXxBqcMpbRhIB) | 4:09 | 2024-06-25 |  |
 | [毎度!生きたろかい! ～OSAKA Big Up～](https://open.spotify.com/track/0nkUNtATJUrbmJyyOw45tw) | [ヒプノシスマイク \-D.R.B\- \(白膠木簓\)](https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G), [ヒプノシスマイク \-D.R.B\- \(躑躅森盧笙\)](https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 3:58 | 2023-08-22 |  |
 | [燐火](https://open.spotify.com/track/64toKps5VNmkZmEmhfobfk) | [ヒプノシスマイク \-D.R.B\- \(碧棺左馬刻\)](https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 4:09 | 2023-08-22 |  |

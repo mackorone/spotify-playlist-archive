@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: Anabel Rose
 
-203 songs - 10 hr 4 min
+205 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dance](https://open.spotify.com/track/3JA0kbj6KphgPEEUbA0oCK) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [Dance](https://open.spotify.com/album/0kBF3qqZJXTShw1ciBy2nz) | 2:29 | 2024-09-27 | 2024-11-08 |
 | [Den Ntia](https://open.spotify.com/track/5BY8AEIgzfBrz8kF5617Et) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Odo Awaamu](https://open.spotify.com/album/4WaNXQQ2WOLMVtfkE7r7HM) | 2:28 | 2024-09-13 | 2024-11-08 |
 | [Dey Your Body](https://open.spotify.com/track/1el5WbAYDx8J7WDRuREUJn) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [Dey Your Body](https://open.spotify.com/album/6FO4InYtI5NJS7GWW9Ymke) | 3:18 | 2025-04-04 |  |
+| [Diamond in the Rough](https://open.spotify.com/track/1PDyQiivbuOGGTxwf6XL3G) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Diamond in the Rough](https://open.spotify.com/album/637gi1okCYO996xTyNDsMP) | 1:51 | 2025-06-20 |  |
 | [DiH](https://open.spotify.com/track/0jqTpSEBeasDrkNykprjwY) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [DiH](https://open.spotify.com/album/4GdkgZNWIKgGqOihh5r3TY) | 2:55 | 2025-02-14 | 2025-03-29 |
 | [Disco Died For You](https://open.spotify.com/track/4so4VxaOKJntIuVanu2Rg6) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS) | [Dance on the Moon](https://open.spotify.com/album/1fDHNMngJx3ckf30bkr5Wx) | 2:14 | 2024-07-12 | 2024-07-27 |
 | [Divine Feminine](https://open.spotify.com/track/1L07DzSHZutfFs0ikZZavO) | [Spc.GH.st](https://open.spotify.com/artist/4EpGPJu4qMimlNUcWbd58q), [Kaus D'Greatest](https://open.spotify.com/artist/49Hs1WEehcdagW17vQh2Y9) | [Divine Feminine](https://open.spotify.com/album/4pHKjFWDO0WQWF9mOeBISm) | 3:11 | 2024-05-10 | 2024-07-12 |
@@ -142,11 +143,12 @@
 | [Pew \(feat\. KwakuBs, KiddBlack, RJZ\)](https://open.spotify.com/track/4r1z8Rx2ycUDtdAwEqhQV3) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [KwakuBs](https://open.spotify.com/artist/4WIDKbsLcrvVVwUrzihgxo), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb) | [La Même Tape](https://open.spotify.com/album/6rTmz2G8NKu9GkrAA5Yumv) | 3:00 | 2024-05-10 | 2024-09-13 |
 | [Pick a Date \(J33J3\)](https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Pick a Date \(J33J3\)](https://open.spotify.com/album/3n0V8MzBccV6epodNBh3zq) | 2:12 | 2024-08-30 |  |
 | [Pot Of Gold](https://open.spotify.com/track/24aPq6ylt4RAjjIMkt7jUy) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [Pot Of Gold](https://open.spotify.com/album/2QFJa4Sjbu9rSFrVPGF5lC) | 3:24 | 2025-05-09 |  |
+| [Pray](https://open.spotify.com/track/1Sq1LKyAnaHjc3OXQ8bq0k) | [Kwame Vybz](https://open.spotify.com/artist/16MxvE6X1uGG7ddY3XLgdY), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Toyboi](https://open.spotify.com/artist/3KDvNtvNs8H5Z0ghklIeRn) | [Pray](https://open.spotify.com/album/0amvXNgJirvXyNjTTxIQfp) | 3:06 | 2025-06-20 |  |
 | [Prayed Up](https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Prayed Up](https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB) | 2:48 | 2024-05-10 | 2024-06-01 |
 | [Prayer \- Live](https://open.spotify.com/track/7xosA2c0k6mBhqnghpA4au) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Nkyinkyim Band](https://open.spotify.com/artist/1qoUQEmRFGuO84lrxksaE1) | [Prayer \- Live](https://open.spotify.com/album/1eXgEtovqYHW2jbv3WXRqn) | 3:06 | 2024-05-31 | 2024-08-31 |
 | [Pressure](https://open.spotify.com/track/4BOIp4SgirfXxcZltWzllK) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Pressure](https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE) | 3:27 | 2024-05-10 |  |
 | [Pretty Skin](https://open.spotify.com/track/14bnrZmjiq53rCk9yFfYLR) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Pretty Skin](https://open.spotify.com/album/4lbdxmlhINAIpkt144gzgQ) | 3:19 | 2024-05-10 |  |
-| [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 | 2024-05-10 |  |
+| [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 | 2024-05-10 | 2025-06-20 |
 | [PUFF PUFF](https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [PUFF PUFF](https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm) | 2:44 | 2024-10-18 |  |
 | [Real Love](https://open.spotify.com/track/0dnsE50rhcduXpWKMwauYF) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Real Love](https://open.spotify.com/album/5RaIUa4in9b3Pgs2In3VeW) | 2:23 | 2025-02-28 |  |
 | [Reckless](https://open.spotify.com/track/3G3QcqaC26EBmyNGPb6MbN) | [Muanda](https://open.spotify.com/artist/7FY23WzyHwLPLK7VSHb7gV), [Q\_tbg](https://open.spotify.com/artist/0wFLYvCxudspfL2gU0QzVr) | [Reckless](https://open.spotify.com/album/33XZjZBFIPWOiKabwum8bg) | 2:59 | 2024-06-14 | 2024-09-13 |

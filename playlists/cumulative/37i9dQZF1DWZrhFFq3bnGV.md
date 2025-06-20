@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Rifki Soeria, Natasya Elvira
 
-244 songs - 17 hr 7 min
+247 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Last Day of Summer](https://open.spotify.com/track/4oUIfcycGoAKSDYhgeiFLA) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Last Day of Summer](https://open.spotify.com/album/7rqSiJ0ZaTI1nNWhGCdItB) | 3:02 | 2022-09-02 |  |
 | [Late Motion](https://open.spotify.com/track/6i0NdwSm1upF6v8Sd89jIO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Late Motion](https://open.spotify.com/album/3objZ0Q20F9f5R42HfB1B3) | 2:34 | 2022-09-02 | 2022-11-18 |
 | [Layla](https://open.spotify.com/track/0c7K8PhzxpCpmKBGnMvTRS) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Layla](https://open.spotify.com/album/5efLFZQ6F0ThH0y4m7ux3g) | 2:45 | 2024-07-08 | 2025-05-30 |
+| [Legacy](https://open.spotify.com/track/3Ylx3R1CYXZfbjod3V6byM) | [Rafi Muhammad](https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn) | [Legacy](https://open.spotify.com/album/5aZTeDxVxx01FWD69SgOCS) | 3:45 | 2025-06-19 |  |
 | [Leila \- Instrumental](https://open.spotify.com/track/3epfDlHCiGJMICVRFngWfm) | [David Manuhutu](https://open.spotify.com/artist/3qCCL9ki2Y4XCEJamluKMC), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ), [Pete Bernstein](https://open.spotify.com/artist/6bd5oX2lDq7HtWnKrHm64C) | [A Journey \(Instrumental\)](https://open.spotify.com/album/4yCGYsN6zT7hhpJD5IbDYw) | 5:45 | 2023-03-03 | 2023-08-25 |
 | [Life Is Good](https://open.spotify.com/track/0G7ZgoA6iHgwdIAx8fv0Qb) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Tricia Anggoman](https://open.spotify.com/artist/0ddcmx5t9oz2G6B4xPvCIC) | [Life Is Good](https://open.spotify.com/album/31UgRFCQms3Oqtr2UTi8HB) | 4:24 | 2024-05-30 | 2025-05-30 |
 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 | 2023-09-07 | 2024-04-19 |
@@ -185,6 +186,7 @@
 | [Nyomennyoh](https://open.spotify.com/track/3vbjE0uKesNplB2q37pLqr) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX) | [Etude](https://open.spotify.com/album/0TQFBksym24sKgT6KMsjEL) | 5:54 | 2024-07-25 | 2025-05-30 |
 | [Ode To Benny Liku](https://open.spotify.com/track/0InqZFiygFkZpMlLBHZV76) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/6hgX3x5ONatp8wWMVWVEUn) | 6:20 | 2022-09-02 | 2025-05-30 |
 | [Opening a New Door](https://open.spotify.com/track/1ch8swW6xldwsUsxvQP7DF) | [Gerald Situmorang](https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2) | [Meta](https://open.spotify.com/album/07m8bchmHOvYqyu8mGmeQS) | 1:44 | 2024-11-15 |  |
+| [Orang Jakarta](https://open.spotify.com/track/69Ar7P0Vt5KHtZlcKET7SZ) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Orang Jakarta](https://open.spotify.com/album/2lJi3eOuFlBdMexfz8ICJy) | 3:14 | 2025-06-19 |  |
 | [Out For Myself](https://open.spotify.com/track/1vod4ABB5ohyWCR9q43kdO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Out For Myself](https://open.spotify.com/album/1FR6iORwa5Pjjpch7cNUQo) | 2:49 | 2022-09-02 | 2023-11-04 |
 | [Overthinking](https://open.spotify.com/track/68axzsHTzuRwz7taOKwh3r) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Overthinking](https://open.spotify.com/album/33zlUHkFoO6zWb1sUthe43) | 3:35 | 2022-09-02 | 2023-07-14 |
 | [Padmaskara](https://open.spotify.com/track/5kQpYeaQvEMyCkCv3VUQod) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Padmaskara](https://open.spotify.com/album/7jwpaXb1Aze8GHnIpDHGfW) | 4:05 | 2023-09-07 | 2025-02-07 |
@@ -250,6 +252,7 @@
 | [Wandering \- Live Session](https://open.spotify.com/track/5UldVnKxq9ZMcITiRPh2qx) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Wanderer \(Trilogy Live Session\)](https://open.spotify.com/album/6zfxCTaB6i47pzlFBJQZlh) | 3:47 | 2025-03-06 |  |
 | [Wanna Do](https://open.spotify.com/track/5orukLs2BbGTNROGzqviF1) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Wanna Do](https://open.spotify.com/album/09xopQN6jbRdCZdgywTJ10) | 3:17 | 2024-05-30 |  |
 | [Winter Blues](https://open.spotify.com/track/66s1u8mRLGBU8h0vYrLC5v) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 7:13 | 2022-09-02 | 2023-11-04 |
+| [With You](https://open.spotify.com/track/4gg9OMKfF6rZwxlzLIlYjJ) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT), [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [With You](https://open.spotify.com/album/1rxTWJtKxXQqJkMZNC7og3) | 3:48 | 2025-06-19 |  |
 | [Would You Be Mine](https://open.spotify.com/track/7pJBJRbkvwHvrsNwss0Z8I) | [Kevin Yosua](https://open.spotify.com/artist/1uLcc17o9i3d6maIgWD1g8), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Elfa Zulham](https://open.spotify.com/artist/48uVjt6LfI2I0yI8QLXG0H), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p) | [Would You Be Mine](https://open.spotify.com/album/7rEKGX1ZcmvYBfrd1ghw8t) | 7:49 | 2022-09-02 | 2023-06-09 |
 | [Would You Be Mine?](https://open.spotify.com/track/4nXyj91XfduRt8IXp6xQ6M) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp), [Keita Ogawa](https://open.spotify.com/artist/4JCRE56zJVJMC4vPuSAXdg) | [Would You Be Mine?](https://open.spotify.com/album/6sfAdQBtM7R1MYfVhPtp7g) | 3:47 | 2022-09-02 |  |
 

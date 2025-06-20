@@ -2401,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "\u4fb5\u611b\u7684",
+        "url": "https://open.spotify.com/album/731QZbPSFDoRfAQSD4r9rc"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Chen",
+          "url": "https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187862,
+      "name": "\u4fb5\u611b\u7684",
+      "url": "https://open.spotify.com/track/3KpEurrnrmdhqsR2wyAZ9B"
+    },
+    {
+      "album": {
         "name": "\u4fef\u885d\u7684\u9748\u9b42",
         "url": "https://open.spotify.com/album/690mx56BtcjEFRKB4uXLJz"
       },
@@ -3343,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "\u53bb\u8fdc\u65b9",
+        "url": "https://open.spotify.com/album/2JUAHaj7X6yYYv4DyBqGsM"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u963f\u4e03",
+          "url": "https://open.spotify.com/artist/7tDLiRbNQalA5uvTpX2bKh"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212045,
+      "name": "\u53bb\u8fdc\u65b9",
+      "url": "https://open.spotify.com/track/1gZYnX5kpxvRApp6UjrBe7"
+    },
+    {
+      "album": {
         "name": "\u53cd\u6b63\u7ed3\u5c40\u90fd\u4e00\u6837",
         "url": "https://open.spotify.com/album/7phQ9qRnZcI0Eamso7dkcG"
       },
@@ -3650,7 +3686,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 262400,
       "name": "\u542c\u4e0d\u89c1\u7684\u6b4c - \u7535\u5f71\u300a\u4e0d\u8bf4\u8bdd\u7684\u7231\u300b\u5ba3\u4f20\u66f2",
       "url": "https://open.spotify.com/track/1RxBfINup60wJQw7xehLDI"
@@ -4714,6 +4750,24 @@
       "duration_ms": 228077,
       "name": "\u5982\u679c\u6709\u4e00\u5929",
       "url": "https://open.spotify.com/track/3DsCeoEQokQYMUOchEKi4A"
+    },
+    {
+      "album": {
+        "name": "\u5982\u679c\u6709\u4e00\u5929\u6211\u5011\u9084\u80fd\u91cd\u4f86\u904e",
+        "url": "https://open.spotify.com/album/2Bua0qFm6oaPuvDTQ900rP"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u79be",
+          "url": "https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197014,
+      "name": "\u5982\u679c\u6709\u4e00\u5929\u6211\u5011\u9084\u80fd\u91cd\u4f86\u904e",
+      "url": "https://open.spotify.com/track/3YJN7jjE8cdZ0aqCJOCjav"
     },
     {
       "album": {
@@ -8298,7 +8352,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 205005,
       "name": "\u6bd2\u85e5",
       "url": "https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE"
@@ -8540,7 +8594,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 271018,
       "name": "\u6eab\u67d4 #MaydayBlue20th - feat.\u5b6b\u71d5\u59ff",
       "url": "https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J"
@@ -8930,6 +8984,24 @@
       "duration_ms": 210236,
       "name": "\u751f\u547d\u7dda - \u96fb\u8996\u5287\u300a\u9662\u9577\u7238\u7238\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/3ZuyyfGJqx9qhWTVtdMCWz"
+    },
+    {
+      "album": {
+        "name": "\u751f\u65e5\u665a\u9910",
+        "url": "https://open.spotify.com/album/6OAhRnrNviz9Bb2ZqBesU5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Tan",
+          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226541,
+      "name": "\u751f\u65e5\u665a\u9910",
+      "url": "https://open.spotify.com/track/30VXBKujwGZ8aQyh8W3Hkw"
     },
     {
       "album": {
@@ -9803,6 +9875,24 @@
     },
     {
       "album": {
+        "name": "\u81f4\u9060\u65b9\u7684\u601d\u5ff5\u4fe1",
+        "url": "https://open.spotify.com/album/4ej0umdkwoOOaEidKiOV9n"
+      },
+      "artists": [
+        {
+          "name": "Ben Hum",
+          "url": "https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217119,
+      "name": "\u81f4\u9060\u65b9\u7684\u601d\u5ff5\u4fe1",
+      "url": "https://open.spotify.com/track/0rhHnW81Z25YbxMR05mFVS"
+    },
+    {
+      "album": {
         "name": "\u65e5\u8207\u591c\uff0c\u8ddf\u81ea\u5df1\u8aaa\u665a\u5b89",
         "url": "https://open.spotify.com/album/6eZ6GBoYL3HAezneabIq49"
       },
@@ -10326,7 +10416,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 243490,
       "name": "\u8a18\u61b6\u5496\u5561 (\u6232\u5287\u300a\u6b61\u8fce\u5149\u81e8\u4e8c\u4ee3\u5496\u5561\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/7hcmgiSVOlbAZuwkgJnrFm"
@@ -10636,7 +10726,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 258911,
       "name": "\u8db3\u5920\u7684\u5931\u843d",
       "url": "https://open.spotify.com/track/3UbGYr5LCtLUNDpHjjvdg5"

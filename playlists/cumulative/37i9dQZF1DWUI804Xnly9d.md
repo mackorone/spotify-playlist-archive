@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-557 songs - 1 day 7 hr 11 min
+558 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Alvida \- Unplugged](https://open.spotify.com/track/2MEviVXfyeaCCbro4ewCiJ) | [Dhiren](https://open.spotify.com/artist/1sRgove6hd99H244tmsvxZ) | [Alvida \(Unplugged\)](https://open.spotify.com/album/6HMp56pHJKt4f6q2r2EwD8) | 3:30 | 2023-05-17 | 2023-07-25 |
 | [Andhere Ka Sawera](https://open.spotify.com/track/75vCRbmPdxOKzkkLDpgLCU) | [Lavanya Dixit](https://open.spotify.com/artist/4TIlUf7GZgIhIHnLrdYxLm) | [Andhere Ka Sawera](https://open.spotify.com/album/6kbg7stADaZUYHWduMBzw4) | 1:22 | 2024-04-19 | 2024-05-29 |
 | [Arziyaan](https://open.spotify.com/track/49zLvT6TozhbD6ZYue8DUO) | [himRAAG](https://open.spotify.com/artist/79mjISM2eHu96BNO8xZx6X) | [Arziyaan](https://open.spotify.com/album/6spzdYgHt3Q6CHn0puHuOi) | 4:28 | 2025-05-05 | 2025-05-30 |
+| [Ashnaa](https://open.spotify.com/track/3C8ZxQ25aqnr3EtmIgVim7) | [Kajol Chatterjee](https://open.spotify.com/artist/4Li62BrnJU0dFuT40o4k19) | [Ashnaa](https://open.spotify.com/album/7zWt8dmsLiXipRty85huAK) | 4:06 | 2025-06-19 |  |
 | [Awaara](https://open.spotify.com/track/6e57KndbKvAeQzzSXiNjbn) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Awaara](https://open.spotify.com/album/3IdThrYvDFw688tR3DxfCF) | 2:52 | 2025-03-07 |  |
 | [Aye Ajnabi](https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Aye Ajnabi](https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W) | 2:56 | 2023-05-31 | 2023-09-23 |
 | [Baahon Mein Teri \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/10iPsqVBevgJOVj77WnaPe) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 4:43 | 2023-12-11 | 2024-06-22 |
@@ -336,7 +337,7 @@
 | [Meri Jaan](https://open.spotify.com/track/0VlepsCPuzUblC3ogHFnct) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Meri Jaan](https://open.spotify.com/album/4R9zeNJdQ5HIUeacMzTC42) | 5:33 | 2023-09-21 | 2023-12-14 |
 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 | 2024-10-01 |  |
 | [Mi Amore](https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W), [Sunep A Jamir](https://open.spotify.com/artist/0CFC42AIQYwitBM9VnCtLB), [Hanu Dixit](https://open.spotify.com/artist/07gFC10uxiHKauD9MYFHT5), [Gaia Meera](https://open.spotify.com/artist/1UELyRsYJIZC0QrOayNKxw), [Inga](https://open.spotify.com/artist/3xVqskuXhRRXOpBTA5PwrK), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx) | [Mi Amore](https://open.spotify.com/album/5K34Wla7iosOmFiIzvsdY2) | 3:06 | 2025-02-10 |  |
-| [Mile Tum](https://open.spotify.com/track/3ulnIfVAZWrS8vG5iLhrwN) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7) | [Mile Tum](https://open.spotify.com/album/5l2jTpS06ly2SVXMbl8sRb) | 3:25 | 2025-06-05 |  |
+| [Mile Tum](https://open.spotify.com/track/3ulnIfVAZWrS8vG5iLhrwN) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7) | [Mile Tum](https://open.spotify.com/album/5l2jTpS06ly2SVXMbl8sRb) | 3:25 | 2025-06-05 | 2025-06-20 |
 | [Miley Ho Jabse Tum](https://open.spotify.com/track/5ntKA7jOftFX3P4DMsMSmM) | [Mohit Pathak](https://open.spotify.com/artist/7JAb5WcSjSHwqFR1Pstmuz) | [Miley Ho Jabse Tum](https://open.spotify.com/album/6x4hATQjmDmL77YB03Xkdq) | 3:33 | 2024-12-21 | 2025-01-24 |
 | [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 | 2023-07-25 | 2024-01-05 |
 | [Milke Jana](https://open.spotify.com/track/7wAwgWLLMxigAvV6paLAUN) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/6nqK1OgKuhp2I2fMTqOlz6) | 3:10 | 2024-01-04 | 2024-01-20 |

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Himra",
+  "description": "Le meilleur du rap africain francophone. Photo : EBOLOKO",
   "name": "Afro Rap",
   "tracks": [
+    {
+      "album": {
+        "name": "15500 Volts",
+        "url": "https://open.spotify.com/album/5JtOdStbV6Djj4aBRp6u9e"
+      },
+      "artists": [
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107142,
+      "name": "15500 Volts",
+      "url": "https://open.spotify.com/track/0FvmJPfFiqoFz1HRrGLFHN"
+    },
     {
       "album": {
         "name": "3X NDOSS (feat. Yorssy)",
@@ -104,6 +122,28 @@
       "duration_ms": 219428,
       "name": "ASSAUT",
       "url": "https://open.spotify.com/track/31WSI64DMREFNsVBVdZ3z6"
+    },
+    {
+      "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5988Gg5hyH4c210UeBuTY3"
+      },
+      "artists": [
+        {
+          "name": "Saamou",
+          "url": "https://open.spotify.com/artist/4TuSbcM9N0XoSrJDj06qtg"
+        },
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179672,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/3YNVBH9e3rVHToCBxnWVyu"
     },
     {
       "album": {
@@ -293,6 +333,28 @@
     },
     {
       "album": {
+        "name": "C'KOMEN ?",
+        "url": "https://open.spotify.com/album/3IMMnyzz9L1WkzeFtxweYe"
+      },
+      "artists": [
+        {
+          "name": "Le Petit Mandelha",
+          "url": "https://open.spotify.com/artist/43pdc0kZ3PvkKhcA7CfDij"
+        },
+        {
+          "name": "Le Niangboy",
+          "url": "https://open.spotify.com/artist/6GvoC0QtVxej96Urd8BFmg"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155063,
+      "name": "C'KOMEN ?",
+      "url": "https://open.spotify.com/track/0X3WWjm26tlB1UNTpH8qtg"
+    },
+    {
+      "album": {
         "name": "Kountchala Vibz",
         "url": "https://open.spotify.com/album/58ExDT5CthRuLojn76SdlL"
       },
@@ -311,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/4Ko7zAShNmYKNLE9U8JWlC"
+      },
+      "artists": [
+        {
+          "name": "EBOLOKO",
+          "url": "https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/2x8SaiCPgnkqakvBn5ovk6"
+    },
+    {
+      "album": {
         "name": "Vision d'Or",
         "url": "https://open.spotify.com/album/3M3R6SXI5wLge4Y2No3eee"
       },
@@ -326,7 +406,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 177423,
       "name": "Comme \u00e7a",
       "url": "https://open.spotify.com/track/3iZmDuQ50BXFi6bYcCsUto"
@@ -348,6 +428,24 @@
       "duration_ms": 121982,
       "name": "Deodorant",
       "url": "https://open.spotify.com/track/1ZXvWdX8l4j7JLL9kSoiT5"
+    },
+    {
+      "album": {
+        "name": "LIBANDA",
+        "url": "https://open.spotify.com/album/5Ozrs01s4MBs5AyLhOfzi1"
+      },
+      "artists": [
+        {
+          "name": "FETTY ND0SS",
+          "url": "https://open.spotify.com/artist/3qnEYx6CH97HzOhFZPWasv"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176535,
+      "name": "DINAGONTOH",
+      "url": "https://open.spotify.com/track/0w2NbCHORTRKYIWtOXpE1G"
     },
     {
       "album": {
@@ -396,7 +494,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 145320,
       "name": "Dosabado",
       "url": "https://open.spotify.com/track/4aNH8EI5bVz8z7qTQPs5BS"
@@ -436,7 +534,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 185500,
       "name": "D\u00e9cal\u00e9 chinois",
       "url": "https://open.spotify.com/track/6XbDnaBXrY0rhEbWG9miWX"
@@ -846,7 +944,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 149166,
       "name": "MOUMAN",
       "url": "https://open.spotify.com/track/0S1Hb8ROnRtcyMpq8xznz1"
@@ -900,7 +998,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 151764,
       "name": "NOUVEAU DEPART",
       "url": "https://open.spotify.com/track/4g84qKeORneas4FmwngVr1"
@@ -930,7 +1028,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 240695,
       "name": "Nueve All Stars",
       "url": "https://open.spotify.com/track/3ge2z62ntXayt5YRYtpvZJ"
@@ -974,10 +1072,28 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 162000,
       "name": "PERSONNE M'ATTENDAIT",
       "url": "https://open.spotify.com/track/1fyJZuCFSQOZvQZbgRoN2f"
+    },
+    {
+      "album": {
+        "name": "Ponce pilate",
+        "url": "https://open.spotify.com/album/4XP2kJMq9X7P3CHluZ942V"
+      },
+      "artists": [
+        {
+          "name": "Mink's",
+          "url": "https://open.spotify.com/artist/3R5HSF8rhNgBBgeOo0slI9"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "Ponce pilate",
+      "url": "https://open.spotify.com/track/2PgxG5BNSsJ407TrpfNU5X"
     },
     {
       "album": {
@@ -1054,7 +1170,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 169737,
       "name": "Satanana (feat. DRE-A)",
       "url": "https://open.spotify.com/track/0QgxlcdUM6wUniw0ppYQlG"
@@ -1076,6 +1192,24 @@
       "duration_ms": 184615,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5YiLCgVBgBt8fUuf8M3pLz"
+    },
+    {
+      "album": {
+        "name": "T'en Parler",
+        "url": "https://open.spotify.com/album/1is6fQBY8PogRRpjFlyH8T"
+      },
+      "artists": [
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138695,
+      "name": "T'en Parler",
+      "url": "https://open.spotify.com/track/6zJbQ5MCr2ZxGAJ8XgJ1j4"
     },
     {
       "album": {
@@ -1170,7 +1304,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 201977,
       "name": "Voil\u00e0 moi, Afro Beats Ivoire 3",
       "url": "https://open.spotify.com/track/3R39pWOhoMLNY77jxRcSt6"
@@ -1196,6 +1330,54 @@
       "duration_ms": 172881,
       "name": "Yako",
       "url": "https://open.spotify.com/track/6G43nkxTAkhPDTema2kixZ"
+    },
+    {
+      "album": {
+        "name": "YPM",
+        "url": "https://open.spotify.com/album/7n3iaSiyFvU172FHDEYCjM"
+      },
+      "artists": [
+        {
+          "name": "Drino",
+          "url": "https://open.spotify.com/artist/2zQfW0dSrpcyuJZTQMeRgC"
+        },
+        {
+          "name": "Kadja",
+          "url": "https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "YPM",
+      "url": "https://open.spotify.com/track/4wgHqq6QkVdAC9ElkBegdC"
+    },
+    {
+      "album": {
+        "name": "\u00c7a Teh",
+        "url": "https://open.spotify.com/album/6jNmGOsUiXuRaJmiHvbmzF"
+      },
+      "artists": [
+        {
+          "name": "Trois Officiel",
+          "url": "https://open.spotify.com/artist/26zFi9Jf1jdloqRU2UEhrb"
+        },
+        {
+          "name": "Abdel Kader",
+          "url": "https://open.spotify.com/artist/16p6gSJtGyIV7oLyPocwP5"
+        },
+        {
+          "name": "L'Otre L\u00e0",
+          "url": "https://open.spotify.com/artist/1WUKbTkRm6vjx6szJx5s3c"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185754,
+      "name": "\u00c7a Teh",
+      "url": "https://open.spotify.com/track/1E2kz3QFoOi3tQDmZ1SN9g"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3oRZ26ZzwxF"

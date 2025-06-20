@@ -2,7 +2,7 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Dydy Yeman
+> African dance party music from the continent to Paris\. Photo : Team Paiya
 
 241 songs - 13 hr 23 min
 

@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-369 songs - 22 hr 8 min
+370 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Apashampakirikiri](https://open.spotify.com/track/5Aq0ncMH951va6Rm3owSLy) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Apashampakirikiri](https://open.spotify.com/album/7ycxolhPIqW83cNKuRsecS) | 2:21 | 2025-04-11 |  |
 | [Ayyayyo](https://open.spotify.com/track/1uQrWxg5XuFXAtgADRgQQP) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Ayyayyo](https://open.spotify.com/album/6rhrJYqtqsse4H6b5gVoTB) | 4:30 | 2023-03-17 | 2024-01-03 |
 | [Ayyo](https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o) | [Jedediah.wtf](https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Ayyo](https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt) | 3:38 | 2024-02-14 |  |
+| [Baapu](https://open.spotify.com/track/59jdncLuldJpVDYfBAm2Co) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP) | [Baapu](https://open.spotify.com/album/3CloadVWRFcT50PfnGPkUQ) | 3:19 | 2025-06-19 |  |
 | [Badlove](https://open.spotify.com/track/4JKJkslEo77sWeJ5dAAIxp) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [Badlove](https://open.spotify.com/album/6KbFNnagvVLfTGYRrqvS2L) | 3:20 | 2025-02-03 |  |
 | [Beach Road Melody](https://open.spotify.com/track/0MbZn4qAeUUDKYhJiE8z0T) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Beach Road Melody](https://open.spotify.com/album/5ezBMNOkmFeF5KLdBB5qch) | 1:37 | 2024-04-25 | 2024-05-09 |
 | [Befikr Maama](https://open.spotify.com/track/4BkVCo1tvqkr9Px00GISlZ) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Befikr Maama](https://open.spotify.com/album/5Gn4r9bX0z3jYM1oY6B7h5) | 2:58 | 2023-05-16 | 2024-06-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adrianne Lenker
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,208 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,233 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 99 | [Magic](https://open.spotify.com/track/6mZhXvfSTARcgspWAQ1qMm) | [Treya Lam](https://open.spotify.com/artist/2UZMgbfsiicKZre8YW3MnA) | [Magic](https://open.spotify.com/album/3gqUf0GqXWKlliwflp00ZV) | 3:33 |
 | 100 | [I Built a Fire](https://open.spotify.com/track/7FQSs4owsx8rP4JJPaROAn) | [Indiana Queen](https://open.spotify.com/artist/3qHYX4FhICcNzTzbyJdBMC) | [I Built a Fire](https://open.spotify.com/album/3X4ielSlohvGH3d0ee8xo3) | 5:23 |
 
-Snapshot ID: `AAAAAMB35L//9BUkWI90XCOkSfodFmjn`
+Snapshot ID: `Z8FDBQAAAAC5ckUeKHl0mYcb6Toa14Mt`

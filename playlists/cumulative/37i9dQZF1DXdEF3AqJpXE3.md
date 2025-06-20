@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: SEVENTEEN
+> The best tracks from the world of music\. Cover: sombr
 
 470 songs - 1 day 1 hr 24 min
 

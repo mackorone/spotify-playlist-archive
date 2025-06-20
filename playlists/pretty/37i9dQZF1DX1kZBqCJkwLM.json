@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: JENNIE",
-  "num_followers": 89264,
+  "num_followers": 89279,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
-        "name": "CUT UP",
-        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "CUT UP",
-      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
-    },
-    {
-      "added_at": "2025-05-01 04:00:07",
-      "album": {
         "name": "UNDEFEATED",
         "url": "https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 173105,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
+    },
+    {
+      "added_at": "2025-05-01 04:00:07",
+      "album": {
+        "name": "CUT UP",
+        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "CUT UP",
+      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
     },
     {
       "added_at": "2025-05-01 04:00:07",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
-        "name": "Bodyology",
-        "url": "https://open.spotify.com/album/3TrkqEFslRqaWu7FDhomTU"
-      },
-      "artists": [
-        {
-          "name": "Snow Wife",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 148836,
-      "name": "Bodyology",
-      "url": "https://open.spotify.com/track/5jbJxbG9cqhRknyCjr741q"
-    },
-    {
-      "added_at": "2025-05-01 04:00:07",
-      "album": {
         "name": "Haute Couture",
         "url": "https://open.spotify.com/album/7JSfGOO7cNbejGCHjgGDRL"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 130350,
       "name": "Haute Couture",
       "url": "https://open.spotify.com/track/3Umaao8VD5w6SWKR8RO9Sp"
+    },
+    {
+      "added_at": "2025-05-01 04:00:07",
+      "album": {
+        "name": "Bodyology",
+        "url": "https://open.spotify.com/album/3TrkqEFslRqaWu7FDhomTU"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 148836,
+      "name": "Bodyology",
+      "url": "https://open.spotify.com/track/5jbJxbG9cqhRknyCjr741q"
     },
     {
       "added_at": "2025-05-01 04:00:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
-        "name": "Bad Girls Behave",
-        "url": "https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT"
-      },
-      "artists": [
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
-        }
-      ],
-      "duration_ms": 170007,
-      "name": "Bad Girls Behave",
-      "url": "https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4"
-    },
-    {
-      "added_at": "2025-05-01 04:00:07",
-      "album": {
         "name": "Oops! Ur Single Now",
         "url": "https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
-        "name": "Too Many Things",
-        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+        "name": "Bad Girls Behave",
+        "url": "https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
         }
       ],
-      "duration_ms": 155893,
-      "name": "Too Many Things",
-      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
+      "duration_ms": 170007,
+      "name": "Bad Girls Behave",
+      "url": "https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4"
     },
     {
       "added_at": "2025-05-01 04:00:07",
@@ -743,6 +727,22 @@
       "duration_ms": 167640,
       "name": "PLAYTHING",
       "url": "https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39"
+    },
+    {
+      "added_at": "2025-05-01 04:00:07",
+      "album": {
+        "name": "Too Many Things",
+        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 155893,
+      "name": "Too Many Things",
+      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
     },
     {
       "added_at": "2025-05-01 04:00:07",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
+        "name": "NOT RN!",
+        "url": "https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3"
+      },
+      "artists": [
+        {
+          "name": "Lara Andallo",
+          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "NOT RN!",
+      "url": "https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT"
+    },
+    {
+      "added_at": "2025-05-01 04:00:07",
+      "album": {
         "name": "Rowdy",
         "url": "https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
-        "name": "NOT RN!",
-        "url": "https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3"
-      },
-      "artists": [
-        {
-          "name": "Lara Andallo",
-          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "NOT RN!",
-      "url": "https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT"
-    },
-    {
-      "added_at": "2025-05-01 04:00:07",
-      "album": {
         "name": "Am I Human?",
         "url": "https://open.spotify.com/album/2wagkL8o47G71cciBICnsI"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
-        "name": "Stomachache",
-        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
+        "name": "GORGEOUS",
+        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
       },
       "artists": [
         {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+          "name": "BODUR",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Stomachache",
-      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
+      "duration_ms": 149973,
+      "name": "GORGEOUS",
+      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
     },
     {
       "added_at": "2025-05-01 04:00:07",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
-        "name": "GORGEOUS",
-        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
+        "name": "Stomachache",
+        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
       },
       "artists": [
         {
-          "name": "BODUR",
-          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
         }
       ],
-      "duration_ms": 149973,
-      "name": "GORGEOUS",
-      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
+      "duration_ms": 184500,
+      "name": "Stomachache",
+      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
     },
     {
       "added_at": "2025-05-01 04:00:07",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
-        "name": "Broken English",
-        "url": "https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 182296,
-      "name": "Broken English",
-      "url": "https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z"
-    },
-    {
-      "added_at": "2025-05-01 04:00:07",
-      "album": {
         "name": "Replay - Trance Mix",
         "url": "https://open.spotify.com/album/2TSTyf1PAKHLKuJIi9HFCA"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 206240,
       "name": "Replay - Trance Mix",
       "url": "https://open.spotify.com/track/6p30rogHHSjLzFM3cMyDt9"
+    },
+    {
+      "added_at": "2025-05-01 04:00:07",
+      "album": {
+        "name": "Broken English",
+        "url": "https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 182296,
+      "name": "Broken English",
+      "url": "https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z"
     },
     {
       "added_at": "2025-05-01 04:00:07",

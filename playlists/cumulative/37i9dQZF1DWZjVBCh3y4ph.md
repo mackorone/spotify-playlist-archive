@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Kalipsxau
+> Les hits zouk du moment\. Photo : DJ Kawest x Aya Nakamura
 
-271 songs - 14 hr 30 min
+272 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Ce que tu veux de nous \- Baby boo](https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Incomprise](https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur) | 2:59 | 2024-09-26 | 2024-10-25 |
 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-04-17 |  |
 | [Cho](https://open.spotify.com/track/6sGcYTh3pBs5zkL33svsCB) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Cho](https://open.spotify.com/album/0Jtw3H0L4jpNYKHwb4wT3Y) | 2:47 | 2025-06-05 |  |
+| [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 | 2025-06-19 |  |
 | [Chouchou des nanas](https://open.spotify.com/track/2Z08p878IwLZbXK8JVyt4L) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Reine](https://open.spotify.com/album/1EeNyCbW7tysQZiGzoc1h3) | 2:33 | 2025-04-03 | 2025-05-23 |
 | [City Road](https://open.spotify.com/track/543ZRVYyMZD1oK6gYrH6p5) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [City Road](https://open.spotify.com/album/6soACghzfAs1FQ2m48lGG1) | 2:14 | 2024-01-04 | 2024-06-14 |
 | [Coeur Noir](https://open.spotify.com/track/2POhFt7cVOzqLYNuLOfQH0) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Coeur Noir](https://open.spotify.com/album/334Q8mA07Ahjjj9nrj2TPF) | 3:39 | 2023-09-28 | 2023-10-06 |
@@ -182,7 +183,7 @@
 | [Partons](https://open.spotify.com/track/6x549B62Wsm1IytHDL9VbQ) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [Partons](https://open.spotify.com/album/0445yJTHQ6gwNVabVcbMT1) | 3:13 | 2024-06-20 | 2024-09-20 |
 | [Pas de Ralentir](https://open.spotify.com/track/3s3LcEdYzo77TOqFOuvjVF) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Pas de Ralentir](https://open.spotify.com/album/1UEYHUqi81046VKwNXVjAv) | 2:34 | 2025-02-13 | 2025-04-18 |
 | [Patché Pata](https://open.spotify.com/track/2fHdAwgVFYMqRs0Gul1jji) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI) | [Patché Pata](https://open.spotify.com/album/52Vqc4Gt6W0W0ymKeaOftd) | 2:47 | 2024-09-05 | 2024-09-27 |
-| [Pedi kontwol](https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 3:29 | 2024-09-12 |  |
+| [Pedi kontwol](https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 3:29 | 2024-09-12 | 2025-06-20 |
 | [Petit cœur](https://open.spotify.com/track/40CR8Fb13bKFSPOV7cxDPg) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Petit cœur](https://open.spotify.com/album/2xk6KpXikarOhvLzLpTaOe) | 2:46 | 2024-10-03 | 2025-03-07 |
 | [Piment](https://open.spotify.com/track/1f6EwfjaBu3O5uzJ0p5IQr) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Piment](https://open.spotify.com/album/44VUYrsApFS6oxUNy1Hk9E) | 2:29 | 2023-10-19 | 2023-11-17 |
 | [Pimenté](https://open.spotify.com/track/5hUCXgQwqHRPJXLxkTVcVA) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Obligée](https://open.spotify.com/album/760U6s9PCeFAa4YYPcoze9) | 2:47 | 2025-05-08 | 2025-06-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,246 likes - 100 songs - 5 hr 7 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,243 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 82 | [Still Think About You](https://open.spotify.com/track/3IXBadXz4oaYZCuJNwHDFD) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [MAZE](https://open.spotify.com/artist/5A0NriHXv9tLlUYztVXeGP) | [Still Think About You](https://open.spotify.com/album/58GpWonAE9FAuHf4wDawKy) | 3:21 |
 | 83 | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB) | 3:02 |
 | 84 | [KIDS](https://open.spotify.com/track/2SHKnOAz5CbUYhyxipfWr9) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [KIDS](https://open.spotify.com/album/2o9v5fIWqt0P0aeKtBnzxE) | 3:04 |
-| 85 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
+| 85 | [Turn Up This Song](https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL) | [Lorenz Koin](https://open.spotify.com/artist/7yzXj2QmcZKis5V7qetC7A) | [Turn Up This Song](https://open.spotify.com/album/2Q4uiWyQlOr9P2mFdCxbym) | 2:56 |
 | 86 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
-| 87 | [Turn Up This Song](https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL) | [Lorenz Koin](https://open.spotify.com/artist/7yzXj2QmcZKis5V7qetC7A) | [Turn Up This Song](https://open.spotify.com/album/2Q4uiWyQlOr9P2mFdCxbym) | 2:56 |
+| 87 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
 | 88 | [Another Day In Paradise](https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp) | [Another Day In Paradise](https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8) | 2:07 |
 | 89 | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 |
 | 90 | [Torn](https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn) | [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp), [Evan Cole](https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO) | [Torn](https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [Kill Me Better](https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Kill Me Better](https://open.spotify.com/album/0X2wKcQKmWG5Jn9ajbbD4G) | 3:13 |
 | 100 | [Be On Your Mind](https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3) | [Luis Elba](https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le) | [Be On Your Mind](https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i) | 3:15 |
 
-Snapshot ID: `AAAICo/uDklNEQTrI+oxtOdglY3kZwOC`
+Snapshot ID: `AAAIC6hhTRWxjBNh3T3drJiEoWjOVDzL`

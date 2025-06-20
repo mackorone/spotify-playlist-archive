@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Muthaka",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Cheruu",
   "name": "NairoBae",
   "tracks": [
     {
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 251872,
       "name": "In Love",
       "url": "https://open.spotify.com/track/5H8VsuRaxPKSSYxmmmuS04"
@@ -3738,6 +3738,28 @@
       "duration_ms": 208695,
       "name": "Perfect Design",
       "url": "https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu"
+    },
+    {
+      "album": {
+        "name": "Pewa",
+        "url": "https://open.spotify.com/album/5NHFgvVvnOkrTlGNGPsHSW"
+      },
+      "artists": [
+        {
+          "name": "Cheruu",
+          "url": "https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB"
+        },
+        {
+          "name": "Modest Chabari",
+          "url": "https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Pewa",
+      "url": "https://open.spotify.com/track/5sggvlcQAAQotkFDmHcMmt"
     },
     {
       "album": {

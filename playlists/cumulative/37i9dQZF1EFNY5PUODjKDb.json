@@ -6975,6 +6975,36 @@
     },
     {
       "album": {
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
+        },
+        {
+          "name": "Grace Hodgett Young",
+          "url": "https://open.spotify.com/artist/0CjuMsWheFt1DoaQ3imIjZ"
+        },
+        {
+          "name": "Sunset Boulevard",
+          "url": "https://open.spotify.com/artist/1CtU6kNQgf8jjBKiVFSqr5"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434880,
+      "name": "Let's Do Lunch",
+      "url": "https://open.spotify.com/track/0ZANS9l61Yq7qARSCbh34w"
+    },
+    {
+      "album": {
         "name": "Sunset Boulevard (Original Broadway Cast)",
         "url": "https://open.spotify.com/album/0dTZmPIYidWSINfyQlm94q"
       },
@@ -7006,7 +7036,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 415266,
       "name": "Let's Have Lunch",
       "url": "https://open.spotify.com/track/4XuYq7S4UQC9VKf305KLjc"

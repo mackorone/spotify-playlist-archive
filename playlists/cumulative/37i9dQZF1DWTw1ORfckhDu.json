@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Sexmane ja Jukka Poika.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Averagekidluke.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -128,6 +128,28 @@
       "duration_ms": 192550,
       "name": "1987",
       "url": "https://open.spotify.com/track/3tRXMGfCoxiC0BNecVprR3"
+    },
+    {
+      "album": {
+        "name": "2 tone (feat. Ares)",
+        "url": "https://open.spotify.com/album/6GvQ3Y54cSOMg5bQOekotv"
+      },
+      "artists": [
+        {
+          "name": "DAVI",
+          "url": "https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179190,
+      "name": "2 tone (feat. Ares)",
+      "url": "https://open.spotify.com/track/5Fggrl5jqihP50JYhFUeLt"
     },
     {
       "album": {
@@ -1273,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Bando",
+        "url": "https://open.spotify.com/album/0g93pTi2E9miygXhTNRcWT"
+      },
+      "artists": [
+        {
+          "name": "Krissemane",
+          "url": "https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158873,
+      "name": "Bando",
+      "url": "https://open.spotify.com/track/0F0aWPaZV3c8HifEk0mu4X"
+    },
+    {
+      "album": {
         "name": "Banksy",
         "url": "https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx"
       },
@@ -2300,7 +2340,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 169183,
       "name": "Drive In",
       "url": "https://open.spotify.com/track/1NKrlaVAGeYryDnz36voww"
@@ -4096,7 +4136,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 161290,
       "name": "Harmaampii (feat. Diandra)",
       "url": "https://open.spotify.com/track/4hxBtIIVwckqlp7tRx22Cz"
@@ -4762,7 +4802,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 118100,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/1w6TIY2vLkpGI9pXwfIfAd"
@@ -8293,6 +8333,24 @@
     },
     {
       "album": {
+        "name": "Liian Monta Mestaa",
+        "url": "https://open.spotify.com/album/3KLFPs4IIu1aYlW1UR60r9"
+      },
+      "artists": [
+        {
+          "name": "Young Mike",
+          "url": "https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Liian Monta Mestaa",
+      "url": "https://open.spotify.com/track/6axn0XqR2rhAHaVngTaXay"
+    },
+    {
+      "album": {
         "name": "liian usein (feat. ARTEM)",
         "url": "https://open.spotify.com/album/4OMp46nqX1L2HcfC2TB1Yu"
       },
@@ -8464,6 +8522,24 @@
       "duration_ms": 152335,
       "name": "LITTY FREESTYLE",
       "url": "https://open.spotify.com/track/0iKUV5r3kZ4t6wsyIrrJ3o"
+    },
+    {
+      "album": {
+        "name": "Lomastyge",
+        "url": "https://open.spotify.com/album/4JT9fPrnpmRL1cOYtbKowM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4k G\u00e4lis",
+          "url": "https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "Lomastyge",
+      "url": "https://open.spotify.com/track/3ZK7smGZ5ecyz9loKv5pFD"
     },
     {
       "album": {
@@ -18510,7 +18586,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 207080,
       "name": "Yks mun ongelmist (feat. Jore & Zpoppa)",
       "url": "https://open.spotify.com/track/7FsF80Hta5P4bSZ3HL6KRr"

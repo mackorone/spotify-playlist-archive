@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Gunna, Lil Tecca, 2 Chainz and more!
 
-7,734 songs - 14 day 20 hr 27 min
+7,734 songs - 14 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2469,7 +2469,7 @@
 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 | 2022-12-02 | 2022-12-10 |
 | [FTCU \(feat\. Travis Scott, Chris Brown & Sexyy Red\) \- SLEEZEMIX](https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FTCU \(SLEEZEMIX\)](https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2) | 3:59 | 2024-04-19 | 2024-04-27 |
 | [FTW](https://open.spotify.com/track/3FtdFxk3mXsBtmCICjIYOZ) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [FTW](https://open.spotify.com/album/3QopZMe12YsPHvz3LXJAx4) | 2:28 | 2025-03-28 | 2025-04-05 |
-| [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 4:17 | 2025-06-13 |  |
+| [FTW](https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [FTW](https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO) | 2:47 | 2025-06-13 |  |
 | [Fucced Up](https://open.spotify.com/track/6KIjIfEuQiN18c8NbOAWEW) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [Fucced Up](https://open.spotify.com/album/3CrVq8nxkbcrBdQg0CZYUN) | 2:25 | 2022-12-02 | 2022-12-10 |
 | [Fuck Around & Find Out](https://open.spotify.com/track/61KPSucpAHpMNo1AxjsVMT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Fuck Around & Find Out](https://open.spotify.com/album/4WPMyya2jn2GoVAEHEUBr8) | 2:30 | 2024-05-17 | 2024-05-25 |
 | [Fuck Em Up Moses](https://open.spotify.com/track/4tH1p1TYEtXkLNtPDPHnvI) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Fuck Em Up Moses](https://open.spotify.com/album/5LxED8zuZ1X7XUMdQS60E6) | 3:39 | 2023-09-01 | 2023-09-09 |

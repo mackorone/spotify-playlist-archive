@@ -4,7 +4,7 @@
 
 > Your frequency for today's pop tracks, via the south of Africa\. Cover: <a href="https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7?si=eBJLnUQYTPm4YMPeLdRaaA">Mikhaela Faye</a>
 
-488 songs - 1 day 2 hr 13 min
+490 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-07-11 | 2024-11-08 |
 | [Cocaine Kisses](https://open.spotify.com/track/2eIvCJ0Fe47ihAq8FQy6cd) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Cocaine Kisses](https://open.spotify.com/album/0Rt3EXbUHOvhD26EnoYwEo) | 3:13 | 2024-11-21 | 2024-11-29 |
 | [come over](https://open.spotify.com/track/23G0Q5CFkkilmq70XRBKZe) | [Zoë Cupido](https://open.spotify.com/artist/06QBpd9kLcrz7NHPYr3UkA) | [come over](https://open.spotify.com/album/1o5oIJttHdJyqvaZKS5myh) | 2:24 | 2025-05-01 | 2025-05-31 |
+| [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-06-12 |  |
 | [Coming Home](https://open.spotify.com/track/53b78FSVY1CDHJ3jWRnKsO) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Coming Home](https://open.spotify.com/album/2iD2kdwipf2zMCTjzN2fgS) | 4:25 | 2025-01-09 | 2025-01-24 |
 | [Common Things](https://open.spotify.com/track/2h6cKVFurOfEBB4GewcGOI) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Common Things](https://open.spotify.com/album/2xuJei4z9I237JoWuR9gbE) | 5:36 | 2024-07-18 | 2024-10-11 |
 | [COMMUNION](https://open.spotify.com/track/6MjkMyEG79nsgBFCfZCUmC) | [cooogi](https://open.spotify.com/artist/4zEjmKFibpJouP3yVumP3d) | [COMMUNION](https://open.spotify.com/album/3hbvNmZmxQbqVCQo2jaJ1H) | 1:20 | 2024-08-02 | 2024-08-16 |
@@ -198,7 +199,7 @@
 | [Hope It Hurts](https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:29 | 2025-04-17 | 2025-04-30 |
 | [Hot Mess](https://open.spotify.com/track/5tewOYXM6gHZ1Lux0JkIjm) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [Hot Mess](https://open.spotify.com/album/3F5Y3MJeZyHUEORFQHpB9q) | 3:31 | 2024-06-27 | 2024-07-12 |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-11-07 | 2025-04-04 |
-| [How I'm Feeling Now \- Orchestral Version](https://open.spotify.com/track/7HVuQuXAEcI1fkrIHcQ4FT) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [All The Rest EP](https://open.spotify.com/album/42fNgf84AGweDFXI7JMrpr) | 3:45 | 2025-05-15 |  |
+| [How I'm Feeling Now \- Orchestral Version](https://open.spotify.com/track/7HVuQuXAEcI1fkrIHcQ4FT) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [All The Rest EP](https://open.spotify.com/album/42fNgf84AGweDFXI7JMrpr) | 3:45 | 2025-05-15 | 2025-06-20 |
 | [How is Summer Over?](https://open.spotify.com/track/52SjgHZpjJtAxy867ZT3NK) | [Nasrene](https://open.spotify.com/artist/1OnltwuE09tqRxUgAK4UHB) | [How is Summer Over?](https://open.spotify.com/album/7L1LfkPke0zvF5gRRJAzB1) | 2:59 | 2024-07-18 | 2024-08-16 |
 | [Hurricane](https://open.spotify.com/track/46NJWAiuNPijihxZbgkJ8A) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Hurricane](https://open.spotify.com/album/0UEd6eNlfFIdQNbXWrvTd0) | 3:27 | 2025-04-04 | 2025-04-18 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2025-03-27 | 2025-04-04 |
@@ -417,7 +418,7 @@
 | [The End](https://open.spotify.com/track/42fMohrkvO2T9xEj5TQTTY) | [Sarah Leigh](https://open.spotify.com/artist/6AG4GBfdIqR4XRGz7LteeJ) | [The End](https://open.spotify.com/album/7zh18JD5fyKQgP9Lhg566E) | 2:56 | 2024-08-15 | 2024-11-22 |
 | [The First and Last of the Perfect Parties](https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [The First and Last of the Perfect Parties](https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2) | 4:08 | 2025-04-17 | 2025-06-16 |
 | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The First Time Ever I Saw Your Face \(with Hozier\)](https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B) | 4:33 | 2025-05-01 | 2025-05-16 |
-| [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-06-06 |  |
+| [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-06-06 | 2025-06-20 |
 | [The Last Goodbye](https://open.spotify.com/track/2hXMAR5vGgK4LzVORy6VJP) | [Darren Scharneck](https://open.spotify.com/artist/60gNiJdb4q1gsu8NvyZjQV) | [The Last Goodbye](https://open.spotify.com/album/1zfLP1s2WzUyaM36b38wIw) | 3:22 | 2024-10-10 | 2024-10-19 |
 | [the place i use to hide](https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my) | [Yum Yuck](https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE), [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod) | [the place i use to hide](https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z) | 3:20 | 2025-04-10 | 2025-05-02 |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2025-03-20 | 2025-04-11 |
@@ -471,6 +472,7 @@
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2025-03-20 | 2025-04-04 |
 | [When I'm With You](https://open.spotify.com/track/6VUupbPVzQc9KsAnUECeP2) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [When I'm With You](https://open.spotify.com/album/27FX6DWdFHstVDi6ZK2Aaa) | 2:21 | 2024-06-27 | 2024-07-27 |
 | [Where Did You Go? \- Bonus Track](https://open.spotify.com/track/6vLs1SrgbJkCclbn1Hqhyd) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:02 | 2025-05-29 |  |
+| [Wherever You Are](https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Wherever You Are](https://open.spotify.com/album/1HgEAeacUjkt2NlLgOiSm9) | 4:10 | 2025-06-12 |  |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-25 | 2024-08-03 |
 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 | 2025-05-22 |  |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2024-11-16 |

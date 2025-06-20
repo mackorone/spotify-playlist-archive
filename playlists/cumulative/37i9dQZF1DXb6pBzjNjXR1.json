@@ -409,6 +409,62 @@
     },
     {
       "album": {
+        "name": "Amabele",
+        "url": "https://open.spotify.com/album/3R8Y5YKldy4nMHhCcRLtxK"
+      },
+      "artists": [
+        {
+          "name": "DJ LESOUL",
+          "url": "https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm"
+        },
+        {
+          "name": "Deep Narratives",
+          "url": "https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c"
+        },
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy"
+        },
+        {
+          "name": "BlaQRhythm",
+          "url": "https://open.spotify.com/artist/2o9225GgSICygCOxroILhb"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363917,
+      "name": "Amabele",
+      "url": "https://open.spotify.com/track/4svj1eqfxNKHzw0r4l6oeh"
+    },
+    {
+      "album": {
+        "name": "Amadolo",
+        "url": "https://open.spotify.com/album/17WDWhQKzom3Tpl5mWq3TD"
+      },
+      "artists": [
+        {
+          "name": "BlaQRhythm",
+          "url": "https://open.spotify.com/artist/2o9225GgSICygCOxroILhb"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399600,
+      "name": "Amadolo",
+      "url": "https://open.spotify.com/track/3N6UJdbV4gFUMK7m19APbN"
+    },
+    {
+      "album": {
         "name": "Ghetto King",
         "url": "https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r"
       },
@@ -428,7 +484,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 501600,
       "name": "Amanga - Da Capo Remix",
       "url": "https://open.spotify.com/track/2GruCVtoanVo3j3fEWXdM7"
@@ -1149,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/1Po1pJ8v81cEzbfxCk52Dm"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Sam K",
+          "url": "https://open.spotify.com/artist/48bm9IjMTyMQjNmcFnqcBn"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442763,
+      "name": "Cries Of The Motherland",
+      "url": "https://open.spotify.com/track/2k46iqHrhqENRkHSukPpD4"
+    },
+    {
+      "album": {
         "name": "Dana",
         "url": "https://open.spotify.com/album/6bQYUoU3ZyMIffDHYglMxL"
       },
@@ -1234,6 +1312,32 @@
       "duration_ms": 360255,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/4HeWkyuI8CoNMbRibOIj7c"
+    },
+    {
+      "album": {
+        "name": "Don't Wake Up (Citizen Blaq Mix) (feat. Sir Trill)",
+        "url": "https://open.spotify.com/album/0ot7uPauEdSTO2iwWfAdCX"
+      },
+      "artists": [
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333250,
+      "name": "Don't Wake Up (Citizen Blaq Mix) (feat. Sir Trill)",
+      "url": "https://open.spotify.com/track/577gR2DoV0c6ZUtkRRo36g"
     },
     {
       "album": {
@@ -1944,7 +2048,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 362020,
       "name": "Imithandazo",
       "url": "https://open.spotify.com/track/0A4jDbgV8Y1dSmQsURjONR"
@@ -2496,7 +2600,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 444866,
       "name": "Kunitamale",
       "url": "https://open.spotify.com/track/446T86UmUBOvGnzYYCCttb"
@@ -3696,7 +3800,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 262379,
       "name": "Nomvula (feat. Nia Pearl & Bontle Smith)",
       "url": "https://open.spotify.com/track/43yHwDUgHXuRx4Ntur15dL"
@@ -4824,7 +4928,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 387884,
       "name": "Tefillah",
       "url": "https://open.spotify.com/track/5PWeX5914fChzC5PbIew3t"
@@ -5118,7 +5222,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 441972,
       "name": "Thula",
       "url": "https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG"
@@ -5284,7 +5388,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 444000,
       "name": "Trance",
       "url": "https://open.spotify.com/track/0aF4gogXGgHg6fgrnX5Vfb"
@@ -5769,6 +5873,28 @@
     },
     {
       "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5AzXeukxvO8Wb1vMMY4v58"
+      },
+      "artists": [
+        {
+          "name": "DJ Bongz",
+          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
+        },
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294556,
+      "name": "Uyakhuluma Umoya",
+      "url": "https://open.spotify.com/track/75LjpFrtUjZCZTCm9xdFoN"
+    },
+    {
+      "album": {
         "name": "Vaudzeyi Vanamate",
         "url": "https://open.spotify.com/album/27Zl6RHfLP9hDmzpEkZUVN"
       },
@@ -5908,7 +6034,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 415204,
       "name": "WAKANDA",
       "url": "https://open.spotify.com/track/3WCODje7CHd3YiPkZy7iSf"
@@ -6094,7 +6220,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 306782,
       "name": "Webaba - Dazz-B MusiQ & Slaga Remix",
       "url": "https://open.spotify.com/track/7LfiTwkJMnPASx0WsY48ZD"

@@ -1,13 +1,65 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Inara",
-  "num_followers": 12861,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: GRACE.",
+  "num_followers": 12866,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtrEgAAAAARZVxfpwF+VB2K3KkSlfx8",
+  "snapshot_id": "aFSmEwAAAAAZM2+/y3m0Q2ytVi4FCr6Z",
   "tracks": [
+    {
+      "added_at": "2025-06-20 00:06:43",
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ"
+      },
+      "artists": [
+        {
+          "name": "GRACE.",
+          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
+        }
+      ],
+      "duration_ms": 255618,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM"
+    },
+    {
+      "added_at": "2025-06-20 00:06:43",
+      "album": {
+        "name": "Bentang Jarak Asmara",
+        "url": "https://open.spotify.com/album/4ewZa5YumUphw89U7lhM6g"
+      },
+      "artists": [
+        {
+          "name": "Man Osman",
+          "url": "https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF"
+        },
+        {
+          "name": "Traffic Jam",
+          "url": "https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM"
+        }
+      ],
+      "duration_ms": 234224,
+      "name": "Bentang Jarak Asmara",
+      "url": "https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP"
+    },
+    {
+      "added_at": "2025-06-12 18:01:31",
+      "album": {
+        "name": "Pelupa",
+        "url": "https://open.spotify.com/album/49VsFd3bLsFnppQt4bQPIH"
+      },
+      "artists": [
+        {
+          "name": "TERUNA",
+          "url": "https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Pelupa",
+      "url": "https://open.spotify.com/track/1TaC3GhBKRo8wUHQ4jpCaM"
+    },
     {
       "added_at": "2025-06-12 18:01:31",
       "album": {
@@ -27,22 +79,6 @@
       "duration_ms": 186352,
       "name": "Light",
       "url": "https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ"
-    },
-    {
-      "added_at": "2025-06-12 18:01:31",
-      "album": {
-        "name": "Pelupa",
-        "url": "https://open.spotify.com/album/49VsFd3bLsFnppQt4bQPIH"
-      },
-      "artists": [
-        {
-          "name": "TERUNA",
-          "url": "https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Pelupa",
-      "url": "https://open.spotify.com/track/1TaC3GhBKRo8wUHQ4jpCaM"
     },
     {
       "added_at": "2025-06-05 17:05:22",

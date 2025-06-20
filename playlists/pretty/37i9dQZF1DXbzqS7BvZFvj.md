@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,957 likes - 67 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,965 likes - 67 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

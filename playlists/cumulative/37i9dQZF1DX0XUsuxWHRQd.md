@@ -4,7 +4,7 @@
 
 > New music from Lil Tecca, Gunna and Lil Wayne.
 
-2,401 songs - 5 day 4 hr 19 min
+2,402 songs - 5 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1391,6 +1391,7 @@
 | [No Hook 2](https://open.spotify.com/track/2eLrDMQnosvAOTzoZ8bRZZ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Hook 2](https://open.spotify.com/album/4VnhVzYgluzloFMMY5cCf5) | 2:22 | 2023-10-13 | 2023-11-11 |
 | [No Idea](https://open.spotify.com/track/3VyjsVV24RmBIbWJAeUJNu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea](https://open.spotify.com/album/1jAxVdQ2FFtbHu6kLNM0au) | 2:34 | 2019-12-20 | 2020-03-27 |
 | [No Introduction](https://open.spotify.com/track/0zgcef8wT0O27OI2vPGnB9) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:41 | 2025-01-24 | 2025-03-01 |
+| [No Love](https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:59 | 2025-06-19 |  |
 | [No Love For A Thug](https://open.spotify.com/track/2IyD3ugrNb0LIV4x2RyHIP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Love For A Thug](https://open.spotify.com/album/0pYqfL98U56ocG8caO8uBe) | 5:05 | 2023-04-14 | 2023-04-29 |
 | [No More](https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 3:10 | 2023-08-18 | 2023-08-26 |
 | [No More Heroes](https://open.spotify.com/track/47XV8Js6lsAPdT0W90eFKZ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [No More Heroes](https://open.spotify.com/album/2aM0jFwChVIDIIpF6hUO0t) | 2:24 | 2024-11-29 | 2024-12-14 |

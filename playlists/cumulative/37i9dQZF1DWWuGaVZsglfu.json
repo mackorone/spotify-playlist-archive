@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best tracks from the world of music. Cover: lucidrari",
+  "description": "The best tracks from the world of music. Cover: Naim Daniel, Adnin Roslan",
   "name": "Hot Hits Malaysia",
   "tracks": [
     {
@@ -1090,6 +1090,28 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "album": {
+        "name": "Calon Mantu Idaman (feat. Ncum)",
+        "url": "https://open.spotify.com/album/4n4ZdQUXAs9BevRhBHtGdr"
+      },
+      "artists": [
+        {
+          "name": "Rombongan Bodonk Koplo",
+          "url": "https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs"
+        },
+        {
+          "name": "Ncum",
+          "url": "https://open.spotify.com/artist/7J6fZ8wiC84JWju54ZmD65"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Calon Mantu Idaman (feat. Ncum)",
+      "url": "https://open.spotify.com/track/5EWyweCJ5igLl6bjbGRmGm"
     },
     {
       "album": {
@@ -4462,7 +4484,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 211764,
       "name": "Restu",
       "url": "https://open.spotify.com/track/3gfVuMwfrz8cxZjfoMg9xk"

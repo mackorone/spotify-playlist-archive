@@ -1,13 +1,157 @@
 {
-  "description": "Illuminating Asian artists everywhere. Cover: yung kai",
-  "num_followers": 288442,
+  "description": "Illuminating Asian artists everywhere. Cover: Tiger La Flor",
+  "num_followers": 288432,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJn2AAAAACOZUfnECbEAvEbkWpmFMSn",
+  "snapshot_id": "aFSkgQAAAACM6QkLMaJlTy2JThnUdh88",
   "tracks": [
+    {
+      "added_at": "2025-06-20 00:00:01",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5v0P8kC3YaPk15zhRdOIfh"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6ykxTAkzk0zvJykFM02Taa"
+    },
+    {
+      "added_at": "2025-06-20 00:00:01",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 156221,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB"
+    },
+    {
+      "added_at": "2025-06-06 04:00:24",
+      "album": {
+        "name": "Tough Luck",
+        "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Tough Luck",
+      "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "added_at": "2025-06-20 00:00:01",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/7obtmvKbzq38Uw45UeOpa4"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 180814,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y"
+    },
+    {
+      "added_at": "2025-06-06 04:00:24",
+      "album": {
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "Witching Hour",
+      "url": "https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA"
+    },
+    {
+      "added_at": "2025-06-20 00:00:01",
+      "album": {
+        "name": "Skin & Bone",
+        "url": "https://open.spotify.com/album/1m4YyZeN2OxQPguJoCcJRW"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 163220,
+      "name": "Just for Tonight",
+      "url": "https://open.spotify.com/track/3f2MxvJB9kQYSJFADpwE0A"
+    },
+    {
+      "added_at": "2025-06-20 00:00:01",
+      "album": {
+        "name": "Tell Me The Name",
+        "url": "https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Tell Me The Name",
+      "url": "https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT"
+    },
+    {
+      "added_at": "2025-06-06 04:00:24",
+      "album": {
+        "name": "Headlock - Spotify Singles",
+        "url": "https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 220762,
+      "name": "Headlock - Spotify Singles",
+      "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
+    },
+    {
+      "added_at": "2025-06-20 00:00:01",
+      "album": {
+        "name": "made for this",
+        "url": "https://open.spotify.com/album/5OBT1UMbDPQ0OXwAKLATXz"
+      },
+      "artists": [
+        {
+          "name": "Anya Gupta",
+          "url": "https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL"
+        }
+      ],
+      "duration_ms": 191725,
+      "name": "made for this",
+      "url": "https://open.spotify.com/track/0vfZT35Ij2c2o8lA7ox3EQ"
+    },
     {
       "added_at": "2025-06-06 04:00:24",
       "album": {
@@ -33,36 +177,20 @@
       "url": "https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu"
     },
     {
-      "added_at": "2025-06-06 04:00:24",
+      "added_at": "2025-06-20 00:00:01",
       "album": {
-        "name": "Witching Hour",
-        "url": "https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i"
+        "name": "Start From Scratch",
+        "url": "https://open.spotify.com/album/5AMoUPAX2XWSQRzQionmYO"
       },
       "artists": [
         {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
         }
       ],
-      "duration_ms": 173906,
-      "name": "Witching Hour",
-      "url": "https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
-        "name": "Tough Luck",
-        "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Tough Luck",
-      "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+      "duration_ms": 222496,
+      "name": "Start From Scratch",
+      "url": "https://open.spotify.com/track/1ZJAQ3uE0jzFYm6aipAyJE"
     },
     {
       "added_at": "2025-06-06 04:00:24",
@@ -87,22 +215,6 @@
       "duration_ms": 169772,
       "name": "just a girl",
       "url": "https://open.spotify.com/track/0A53ixVdk0LYKSJKPQzm9q"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
-        "name": "Headlock - Spotify Singles",
-        "url": "https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 220762,
-      "name": "Headlock - Spotify Singles",
-      "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
     },
     {
       "added_at": "2025-06-06 04:00:24",
@@ -167,6 +279,22 @@
       "duration_ms": 178213,
       "name": "Picture Window",
       "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
+    },
+    {
+      "added_at": "2025-06-20 00:00:01",
+      "album": {
+        "name": "sportscar [scrapped]",
+        "url": "https://open.spotify.com/album/0hjVhkaZ8DyCysvTk9e4fJ"
+      },
+      "artists": [
+        {
+          "name": "meg elsier",
+          "url": "https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT"
+        }
+      ],
+      "duration_ms": 194206,
+      "name": "sportscar [scrapped]",
+      "url": "https://open.spotify.com/track/2QhcLYzYqCUSv1fSxmFaog"
     },
     {
       "added_at": "2025-06-06 04:00:24",
@@ -307,22 +435,6 @@
     {
       "added_at": "2025-06-06 04:00:24",
       "album": {
-        "name": "Door",
-        "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 197113,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
         "name": "GOOD GRACES",
         "url": "https://open.spotify.com/album/3NP6l91Kvu5rHf8trQXmM7"
       },
@@ -451,26 +563,6 @@
       "duration_ms": 155693,
       "name": "buzzkill",
       "url": "https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
-        "name": "Girl at the Station (feat. Jeremy Passion)",
-        "url": "https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Jeremy Passion",
-          "url": "https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv"
-        }
-      ],
-      "duration_ms": 145136,
-      "name": "Girl at the Station",
-      "url": "https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m"
     },
     {
       "added_at": "2025-06-06 04:00:24",
@@ -771,38 +863,6 @@
     {
       "added_at": "2025-06-06 04:00:24",
       "album": {
-        "name": "Drugstore Cowgirl",
-        "url": "https://open.spotify.com/album/2gfUHArIC05tLSlaB0rYj6"
-      },
-      "artists": [
-        {
-          "name": "Tiger La Flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
-        }
-      ],
-      "duration_ms": 200129,
-      "name": "AMERICAN DREAMS",
-      "url": "https://open.spotify.com/track/6qZmQu0eIzO7VErrOVUCPc"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
-        "name": "Only Boy",
-        "url": "https://open.spotify.com/album/1D1l81UaKfMsEbEdXksCgf"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 131165,
-      "name": "Only Boy",
-      "url": "https://open.spotify.com/track/2fcbp4jpBI7pXYgozMafFT"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
         "name": "Butcher Shop",
         "url": "https://open.spotify.com/album/6O23FrFj880TG8CqVElyRn"
       },
@@ -1055,22 +1115,6 @@
     {
       "added_at": "2025-06-06 04:00:24",
       "album": {
-        "name": "Fled Into The Night",
-        "url": "https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Fled Into The Night",
-      "url": "https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
         "name": "all that heaven allows",
         "url": "https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI"
       },
@@ -1103,38 +1147,6 @@
       "duration_ms": 234812,
       "name": "Fantasy (with Raveena)",
       "url": "https://open.spotify.com/track/6g8cxooV9l2dluphzZyJDg"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
-        "name": "Good Graces",
-        "url": "https://open.spotify.com/album/3U3HVZbtIufxFOYtESjNti"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Good Graces",
-      "url": "https://open.spotify.com/track/78RBJyLx2g2tS8YHFyWIpB"
     },
     {
       "added_at": "2025-06-06 04:00:24",
@@ -1215,22 +1227,6 @@
       "duration_ms": 129084,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/0wjxF29m74k2qwi6wVGVDC"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
-        "name": "Movie Scene",
-        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 180661,
-      "name": "Movie Scene",
-      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     },
     {
       "added_at": "2025-06-06 04:00:24",
@@ -1503,22 +1499,6 @@
     {
       "added_at": "2025-06-06 04:00:24",
       "album": {
-        "name": "If Only With You",
-        "url": "https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 194388,
-      "name": "If Only With You",
-      "url": "https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/6tzccxVEVRfVEHQ3mvOAH3"
       },
@@ -1655,22 +1635,6 @@
       "duration_ms": 142000,
       "name": "Bite",
       "url": "https://open.spotify.com/track/1PebqTQikPJyfPQRPE7HHp"
-    },
-    {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
-        "name": "everynight",
-        "url": "https://open.spotify.com/album/3R9vuiAZi6vgkn6aSDh7uu"
-      },
-      "artists": [
-        {
-          "name": "Cherrykim",
-          "url": "https://open.spotify.com/artist/2oOKucHCVvvG0s9F2AdG8l"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "everynight",
-      "url": "https://open.spotify.com/track/6HDnyFl06LuoAMf89QFF21"
     },
     {
       "added_at": "2025-06-06 04:00:24",

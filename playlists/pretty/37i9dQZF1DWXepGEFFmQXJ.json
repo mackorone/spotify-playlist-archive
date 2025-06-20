@@ -1,175 +1,15 @@
 {
-  "description": "The cream of today's country crop. Cover: Kane Brown",
-  "num_followers": 427731,
+  "description": "The cream of today's country crop. Cover: Josh Ross, Akon",
+  "num_followers": 427768,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aErdfgAAAADW7wowiI8J/f7y2EeLRmuB",
+  "snapshot_id": "aFQX+AAAAACNxbEG5c2sU2Tg4hMz4FHQ",
   "tracks": [
     {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/328tuPAI8AlyW6AC51ud4R"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "Till I Can't, I Will",
-      "url": "https://open.spotify.com/track/3GLjg6Zmjw3gPrKUheQZfR"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "2 Pair",
-        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 151534,
-      "name": "2 Pair",
-      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 184517,
-      "name": "What I Want (feat. Tate McRae)",
-      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "Backup Plan (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 181518,
-      "name": "Backup Plan (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "Somewhere Over Laredo",
-        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "Nose On The Grindstone",
-        "url": "https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "Nose On The Grindstone",
-      "url": "https://open.spotify.com/track/41qeQaiSa09dPsGzgechek"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "Stop the Rain",
-        "url": "https://open.spotify.com/album/3adLs6t310ioozmbD7Z7kL"
-      },
-      "artists": [
-        {
-          "name": "The Wet Whistles",
-          "url": "https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj"
-        }
-      ],
-      "duration_ms": 237241,
-      "name": "Stop the Rain",
-      "url": "https://open.spotify.com/track/6PF349MLcNA4Z0RCvdFGHY"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 300113,
-      "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197403,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Drunk Right Now (Na Na Na) with Akon",
         "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
@@ -189,7 +29,219 @@
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "2 Pair",
+        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 151534,
+      "name": "2 Pair",
+      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "Backup Plan (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 181518,
+      "name": "Backup Plan (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "6 Months Later",
+        "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 182868,
+      "name": "6 Months Later",
+      "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/328tuPAI8AlyW6AC51ud4R"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "Till I Can't, I Will",
+      "url": "https://open.spotify.com/track/3GLjg6Zmjw3gPrKUheQZfR"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "Stop the Rain",
+        "url": "https://open.spotify.com/album/3adLs6t310ioozmbD7Z7kL"
+      },
+      "artists": [
+        {
+          "name": "The Wet Whistles",
+          "url": "https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj"
+        }
+      ],
+      "duration_ms": 237241,
+      "name": "Stop the Rain",
+      "url": "https://open.spotify.com/track/6PF349MLcNA4Z0RCvdFGHY"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "Somewhere Over Laredo",
+        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "Nose On The Grindstone",
+        "url": "https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "Nose On The Grindstone",
+      "url": "https://open.spotify.com/track/41qeQaiSa09dPsGzgechek"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "BUY THAT GIRL A BEER",
+        "url": "https://open.spotify.com/album/7iLO3TbfF2jL6BpeTzivYy"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "BUY THAT GIRL A BEER",
+      "url": "https://open.spotify.com/track/0D4mEEQzrRd6Amxt4T1ZqJ"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "New Country (feat. Blake Shelton)",
+        "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "New Country (feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 300113,
+      "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+    },
+    {
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "WHERE YOU BEEN",
         "url": "https://open.spotify.com/album/4oKXrvmebPe6GZ0LWLJyld"
@@ -205,7 +257,7 @@
       "url": "https://open.spotify.com/track/26kFs0e2PJjeJQDJeljHnt"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Sweet Lady",
         "url": "https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM"
@@ -221,7 +273,7 @@
       "url": "https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Cadillac Sessions",
         "url": "https://open.spotify.com/album/2ZkbHQYgET2xmH1NLVTadE"
@@ -237,7 +289,7 @@
       "url": "https://open.spotify.com/track/23sot0mxmxT3nhmxS4cNbb"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Glass Half Empty",
         "url": "https://open.spotify.com/album/7uwwX1yRH3vlKorIlq5Fpf"
@@ -253,7 +305,7 @@
       "url": "https://open.spotify.com/track/0cwo2CCBN8M8HuFm2pVvL0"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "About A Woman (From A Small Town)",
         "url": "https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci"
@@ -273,7 +325,7 @@
       "url": "https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Man of the Year",
         "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
@@ -289,7 +341,7 @@
       "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Bottom Of It",
         "url": "https://open.spotify.com/album/2EyPgamG50VNLOgAot4T95"
@@ -305,7 +357,7 @@
       "url": "https://open.spotify.com/track/6q4TIe9sV117tVe9yIhMIK"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Comin' In Cold",
         "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
@@ -321,7 +373,7 @@
       "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Cowboy Sh!t",
         "url": "https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz"
@@ -337,7 +389,7 @@
       "url": "https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Lonely Won\u2019t Leave Me Alone",
         "url": "https://open.spotify.com/album/5qJewTgyfF1zVZp3VkGw8n"
@@ -353,27 +405,7 @@
       "url": "https://open.spotify.com/track/3GwKOYN4tbFSSCiKXqBnMZ"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "You Had To Be There (feat. Kenny Chesney)",
-        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 220157,
-      "name": "You Had To Be There (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/4zIdNaXDFfhaWyCxNCNyCC"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/4uIU4x2TFZCVLM4bFDIyF5"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Snakeskin",
         "url": "https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr"
@@ -405,7 +437,7 @@
       "url": "https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Gasoline & Matches",
         "url": "https://open.spotify.com/album/42vPgsTXxfdGBMO8uRu933"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/0xii687ClH6fEvkLJfFAgQ"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Big Sky",
         "url": "https://open.spotify.com/album/4sbFij3rJCbuzDUbGiOlae"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/0syywgDoE7Qaud0Kz1L3H0"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Me & You",
         "url": "https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Polaroids",
         "url": "https://open.spotify.com/album/54tGe0uM8bFgZMWdxr8HdI"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/71cIncNYZRMrpqWARKNcoc"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Learn The Hard Way",
         "url": "https://open.spotify.com/album/5FjaXd6Hjfzta2vJiPB7ra"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "For Recreational Use Only",
         "url": "https://open.spotify.com/album/4m1rrBwb9R421U1CS0MzYV"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/7Itz5KrLl0ITKRR1iYL7Ud"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Ring On It",
         "url": "https://open.spotify.com/album/6mJNwKLjfUifIFmkXhUgVw"
@@ -541,7 +573,7 @@
       "url": "https://open.spotify.com/track/6jsILzXZH4g0bIT56ophdx"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Man Of His Word",
         "url": "https://open.spotify.com/album/3siwquvKbr45XEkLwMhuEi"
@@ -557,7 +589,7 @@
       "url": "https://open.spotify.com/track/7Ea6jWtb0dC4rWySB39iqM"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "D R E A M S I C L E",
         "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
@@ -573,23 +605,7 @@
       "url": "https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "BUY THAT GIRL A BEER",
-        "url": "https://open.spotify.com/album/7iLO3TbfF2jL6BpeTzivYy"
-      },
-      "artists": [
-        {
-          "name": "Casey Barnes",
-          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "BUY THAT GIRL A BEER",
-      "url": "https://open.spotify.com/track/0D4mEEQzrRd6Amxt4T1ZqJ"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "What Not To",
         "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "The Cost of Growing Up",
         "url": "https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "RIGHT ON TRACK",
         "url": "https://open.spotify.com/album/58m21NWAdq1miS65qwCBUc"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/2stzMSLIhrWoCOwzSBkxag"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Dreams Don\u2019t Die",
         "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Can't See The Sky",
         "url": "https://open.spotify.com/album/00IP1eiD3oFWl36Jj8lkP7"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/7kGzAyUWmnLFg4szDxdX6x"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Bar None",
         "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Honkytonk Hollywood",
         "url": "https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/3MlvvRRwYfCpgIqUUPeYQ0"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Australian Made",
         "url": "https://open.spotify.com/album/1JxdyAmXemYguICS7ierfM"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/1iZfAxPO56DBIAUXyXr84u"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Stay Country or Die Tryin'",
         "url": "https://open.spotify.com/album/3SlFBTVQSdKBW6KVp5bulU"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/2OVJMopnpJFev3n1NxDJ92"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Cowboys Were Kings",
         "url": "https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Smoke & Embers",
         "url": "https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "The Long Road",
         "url": "https://open.spotify.com/album/5kaT5I1IWXC0wzd1cFZtt5"
@@ -805,23 +821,7 @@
       "url": "https://open.spotify.com/track/1tQ4HWy7mZwHoValxwQD76"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
-      "album": {
-        "name": "I Hate Whiskey",
-        "url": "https://open.spotify.com/album/4UZDav6Q6S0NxVSjUkZFDV"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "I Hate Whiskey",
-      "url": "https://open.spotify.com/track/30tE9El5bERNsT8Fkl1yLT"
-    },
-    {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Southern Man",
         "url": "https://open.spotify.com/album/5zHojVp7gn4ROaLWuLNSYu"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/0VJYIAaQ3ZIGXKaBorG5RT"
     },
     {
-      "added_at": "2025-06-12 14:00:30",
+      "added_at": "2025-06-19 14:00:24",
       "album": {
         "name": "Same Moon",
         "url": "https://open.spotify.com/album/3RLCkCsMPZZ8WFDXrnbjNV"

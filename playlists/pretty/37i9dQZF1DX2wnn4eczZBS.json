@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Norah Hendriks",
-  "num_followers": 10580,
+  "num_followers": 10581,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-06-06 06:03:24",
       "album": {
-        "name": "De Tijd",
-        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
-      },
-      "artists": [
-        {
-          "name": "Flaire",
-          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
-        }
-      ],
-      "duration_ms": 213336,
-      "name": "De Tijd",
-      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
-    },
-    {
-      "added_at": "2025-06-06 06:03:24",
-      "album": {
         "name": "Verlaten Terrein",
         "url": "https://open.spotify.com/album/1lFypumlh0lupowvAr4zFQ"
       },
@@ -551,18 +535,38 @@
     {
       "added_at": "2025-06-06 06:03:24",
       "album": {
-        "name": "Diep In De Nacht (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu"
+        "name": "De Tijd",
+        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
         }
       ],
-      "duration_ms": 114390,
-      "name": "Wauw",
-      "url": "https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm"
+      "duration_ms": 213336,
+      "name": "De Tijd",
+      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
+    },
+    {
+      "added_at": "2025-06-06 06:03:24",
+      "album": {
+        "name": "Vager!",
+        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        },
+        {
+          "name": "MAZOO",
+          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Vager!",
+      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
     },
     {
       "added_at": "2025-06-06 06:03:24",
@@ -599,22 +603,18 @@
     {
       "added_at": "2025-06-06 06:03:24",
       "album": {
-        "name": "Vager!",
-        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
+        "name": "Diep In De Nacht (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu"
       },
       "artists": [
         {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        },
-        {
-          "name": "MAZOO",
-          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 132727,
-      "name": "Vager!",
-      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
+      "duration_ms": 114390,
+      "name": "Wauw",
+      "url": "https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm"
     },
     {
       "added_at": "2025-06-06 06:03:24",

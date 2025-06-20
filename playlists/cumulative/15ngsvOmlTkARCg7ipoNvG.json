@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Autumn Light",
+        "url": "https://open.spotify.com/album/2726iiffCUJnbWWvhpYDKQ"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60408,
+      "name": "Autumn Light",
+      "url": "https://open.spotify.com/track/64G2sysZI1FpAvn5P5HzEa"
+    },
+    {
+      "album": {
         "name": "Autumn Love",
         "url": "https://open.spotify.com/album/77womLwqvHPEFIF6oC7Qaj"
       },

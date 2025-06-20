@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"M'envoler\" de Jeck & Carla est le Grand Hit de la semaine.",
+  "description": "\"J'avoue\" de Linh est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 178293,
       "name": "Amour cyclone",
       "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
+    },
+    {
+      "album": {
+        "name": "APPELLE TA COPINE",
+        "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "APPELLE TA COPINE",
+      "url": "https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ"
     },
     {
       "album": {
@@ -356,6 +374,28 @@
       "duration_ms": 191479,
       "name": "Bravo",
       "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        },
+        {
+          "name": "RORI",
+          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223493,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4FsPvaASzHNVGs0vFXavBo"
     },
     {
       "album": {
@@ -816,7 +856,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 192120,
       "name": "Compl\u00e9mentaires",
       "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
@@ -3879,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/5AhSxVn64fh0jERnQaJIRL"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Quoi qu'il arrive \u00e7a va aller",
+      "url": "https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc"
+    },
+    {
+      "album": {
         "name": "Recommence-moi",
         "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
       },
@@ -4110,7 +4168,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 181586,
       "name": "Saute !",
       "url": "https://open.spotify.com/track/4CJ21bns7CtA8cjBNxupwW"
@@ -4230,7 +4288,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 169578,
       "name": "Sinc\u00e8re",
       "url": "https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU"

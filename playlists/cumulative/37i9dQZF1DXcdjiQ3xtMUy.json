@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Evangelia",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marseaux, DJ.Silence",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 127846,
       "name": "Check",
       "url": "https://open.spotify.com/track/7ockkWsWaZ1rl5YvC75RQ2"
@@ -1016,6 +1016,24 @@
       "duration_ms": 199354,
       "name": "Disco-Tech",
       "url": "https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc"
+    },
+    {
+      "album": {
+        "name": "THE VILLAIN HEROINE",
+        "url": "https://open.spotify.com/album/28JL3mgiF606cEw7jVB6kS"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170245,
+      "name": "DOMINO",
+      "url": "https://open.spotify.com/track/3zUMsRcLeCalOaEBVkdwg6"
     },
     {
       "album": {
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 157845,
       "name": "Feggaria Kalokairina",
       "url": "https://open.spotify.com/track/2xOqLMz8ZKBaWYHy3s5Wyo"
@@ -3346,6 +3364,28 @@
       "duration_ms": 177240,
       "name": "Tour\u00edsta",
       "url": "https://open.spotify.com/track/2XTxnII8KE0wRoIqyf3nsx"
+    },
+    {
+      "album": {
+        "name": "Trelane Mas",
+        "url": "https://open.spotify.com/album/5q5Yc64p2GhKiM2deSXvBi"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198837,
+      "name": "Trelane Mas",
+      "url": "https://open.spotify.com/track/5CnaKQEtOPnY8jf1npotRQ"
     },
     {
       "album": {

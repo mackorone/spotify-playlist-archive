@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Acid Storm EP",
+        "url": "https://open.spotify.com/album/1ZVYq8l5LSGKYhW3IudefF"
+      },
+      "artists": [
+        {
+          "name": "Molothav",
+          "url": "https://open.spotify.com/artist/1GuDzgOAU3C16mO3H3lZic"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168642,
+      "name": "Acid Storm",
+      "url": "https://open.spotify.com/track/1nVQAGX2lYXIDTjk7UvRNk"
+    },
+    {
+      "album": {
         "name": "Sonic Texture x Desolate",
         "url": "https://open.spotify.com/album/6LjAsXMdbZaxnZeUwRBOwv"
       },
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 198260,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/74G9RmDoDdfIXWu5eZl5wf"
@@ -1868,6 +1886,24 @@
       "duration_ms": 278181,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4AqLfv5PWtRBhDm0VA8ewq"
+    },
+    {
+      "album": {
+        "name": "Surrogate EP",
+        "url": "https://open.spotify.com/album/1piYbY1oJno1q3rRcTb4Q8"
+      },
+      "artists": [
+        {
+          "name": "Luigi Madonna",
+          "url": "https://open.spotify.com/artist/16LyZ7r3rzPJqljgvz0fvq"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326917,
+      "name": "Blueberry",
+      "url": "https://open.spotify.com/track/7cbo1DLnlfPbMhUjfueDEj"
     },
     {
       "album": {
@@ -3664,6 +3700,28 @@
     {
       "album": {
         "name": "Darkness",
+        "url": "https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        },
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222672,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/78CcHDIIw093COMGylrkXj"
+    },
+    {
+      "album": {
+        "name": "Darkness",
         "url": "https://open.spotify.com/album/6hvtrXVsDvAqAdDj7YWfrU"
       },
       "artists": [
@@ -3980,6 +4038,24 @@
       "duration_ms": 236691,
       "name": "Desert Queen",
       "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/4HiWCUeSZCed1Ry7Wp3zTq"
+      },
+      "artists": [
+        {
+          "name": "Torsten Kanzler",
+          "url": "https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/0b5QTyMSoMPLl5r6YQco2D"
     },
     {
       "album": {
@@ -4550,7 +4626,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 245217,
       "name": "Drip Trip",
       "url": "https://open.spotify.com/track/6w3o2djAN4wuatmKlcocZB"
@@ -6591,6 +6667,28 @@
     },
     {
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/3FeWl6ywFsdfxcu5ndSgjr"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "The Post Brothers",
+          "url": "https://open.spotify.com/artist/7ltZPdxAvYDkb3dqstX4sn"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270607,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5o8U7JLG1JRqE4GRLIijEM"
+    },
+    {
+      "album": {
         "name": "Getting Close To Me EP",
         "url": "https://open.spotify.com/album/2xogkX5Sn7hBEQtxMcGju4"
       },
@@ -8382,7 +8480,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 185529,
       "name": "Inside Your Mind",
       "url": "https://open.spotify.com/track/3nNbqm1EeqEOcOc0um0rCb"
@@ -8668,7 +8766,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 173913,
       "name": "Kabuki",
       "url": "https://open.spotify.com/track/0YMRivbsc8HtrD0JTme5US"
@@ -9548,7 +9646,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 238292,
       "name": "Lunae",
       "url": "https://open.spotify.com/track/2fkqwhO8lxBATiFxYJD6v9"
@@ -9788,6 +9886,24 @@
       "duration_ms": 331354,
       "name": "MAVI",
       "url": "https://open.spotify.com/track/5WIskb28ahYuXWm7CwGQ59"
+    },
+    {
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/0xjNC8JzxwmRGSdfbFQkkv"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280751,
+      "name": "Maxed Out",
+      "url": "https://open.spotify.com/track/0AD5BUa7CcxesarZeXKL7E"
     },
     {
       "album": {
@@ -10108,6 +10224,24 @@
       "duration_ms": 376119,
       "name": "Midnight Paradox",
       "url": "https://open.spotify.com/track/0ItHtlutZ5R49NjmUkjgor"
+    },
+    {
+      "album": {
+        "name": "Mind Body Soul",
+        "url": "https://open.spotify.com/album/3lwCWMsEeTEijLZuwT7NaW"
+      },
+      "artists": [
+        {
+          "name": "Veerus",
+          "url": "https://open.spotify.com/artist/7GZGpDZcYVX1wrbaOoDWOH"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267072,
+      "name": "Mind Body Soul",
+      "url": "https://open.spotify.com/track/5knFikjbQt5qvc3LJ9JrKU"
     },
     {
       "album": {
@@ -11918,7 +12052,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 405784,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/1qZNtUhzKRdh7DsqvkCuzd"
@@ -11980,6 +12114,24 @@
       "duration_ms": 204444,
       "name": "Parallel Reality",
       "url": "https://open.spotify.com/track/5XD4lTy3lQPvC953mXjbN6"
+    },
+    {
+      "album": {
+        "name": "Paranomia",
+        "url": "https://open.spotify.com/album/1a5Nsy8n3Sy53nFEapCyHs"
+      },
+      "artists": [
+        {
+          "name": "Deat Marotta",
+          "url": "https://open.spotify.com/artist/4pRQaBi7FbVAebJ7vputEJ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346392,
+      "name": "Paranomia",
+      "url": "https://open.spotify.com/track/4cdS15FF1eSgdooHlxgd30"
     },
     {
       "album": {
@@ -13004,6 +13156,24 @@
       "duration_ms": 208695,
       "name": "Reactivated",
       "url": "https://open.spotify.com/track/3ZgT3Y2EnCnu3Yf1X0gEPj"
+    },
+    {
+      "album": {
+        "name": "Four on Jam 13",
+        "url": "https://open.spotify.com/album/4spxVEJ5iNnXKqAxeTyZu0"
+      },
+      "artists": [
+        {
+          "name": "Mik&Ale",
+          "url": "https://open.spotify.com/artist/0nkFs8HFEpiXrE5ejO4rS1"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322311,
+      "name": "Read My Lips",
+      "url": "https://open.spotify.com/track/1mRxU1IBnlr6w6putztX2c"
     },
     {
       "album": {
@@ -14592,7 +14762,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 196942,
       "name": "Shift",
       "url": "https://open.spotify.com/track/6gEPwabV1DrOpNGpGzSGEe"
@@ -18406,7 +18576,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 228000,
       "name": "Wtf",
       "url": "https://open.spotify.com/track/44FzAuwRPPXIb2dngVtHvX"
@@ -18702,7 +18872,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 269204,
       "name": "Your Madness",
       "url": "https://open.spotify.com/track/1kVs2W1r9xxWq9oW4iTRCN"

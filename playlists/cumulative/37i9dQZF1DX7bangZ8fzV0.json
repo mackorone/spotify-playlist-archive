@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Jay",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Werner Van Der Hoven, Bok Van Blerk en Ricus Nel",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1887,6 +1887,32 @@
     },
     {
       "album": {
+        "name": "Hart Se Taal",
+        "url": "https://open.spotify.com/album/3IDe6qUpf3OD9dphpCaR7o"
+      },
+      "artists": [
+        {
+          "name": "Werner Van Der Hoven",
+          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
+        },
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        },
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165697,
+      "name": "Hart Se Taal",
+      "url": "https://open.spotify.com/track/2xsi5mXx1oQqW3Zu3zoHiA"
+    },
+    {
+      "album": {
         "name": "Proe Soos Nog",
         "url": "https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS"
       },
@@ -2572,7 +2598,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 190819,
       "name": "Karolis (Sensasie Remix) (feat. Sensasie)",
       "url": "https://open.spotify.com/track/754aujqA7I9JEGPdt1sa1x"
@@ -3531,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "Memories Maak",
+        "url": "https://open.spotify.com/album/28qOth6mq7ANU4Pgrb5KK9"
+      },
+      "artists": [
+        {
+          "name": "Ariana Venus",
+          "url": "https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216562,
+      "name": "Memories Maak",
+      "url": "https://open.spotify.com/track/3Iue15EbnjaD5dfgYCw7mf"
+    },
+    {
+      "album": {
         "name": "Moegdans",
         "url": "https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq"
       },
@@ -4078,7 +4122,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 163035,
       "name": "Ouens Soos Ek",
       "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"

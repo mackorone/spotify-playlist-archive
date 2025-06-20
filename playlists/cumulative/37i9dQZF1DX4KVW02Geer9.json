@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 383506,
       "name": "Another Place - feat. Greentea Peng & Wu-Lu",
       "url": "https://open.spotify.com/track/5iCYvkgXKa0v9BEjoRAfTy"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 242383,
       "name": "Backlash",
       "url": "https://open.spotify.com/track/2kal3BQdZRLuzSvFiVfqH8"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 191000,
       "name": "Blaze Out",
       "url": "https://open.spotify.com/track/19SmTjEStlSHnH8o2eLRIN"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 195000,
       "name": "Bossa Nova",
       "url": "https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 275323,
       "name": "Cannon Ball",
       "url": "https://open.spotify.com/track/5gWMeppz3QNXXM6pMw1QbF"
@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "DON\u2019T LISTEN",
+        "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177042,
+      "name": "DON\u2019T LISTEN",
+      "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
+    },
+    {
+      "album": {
         "name": "Drive Z",
         "url": "https://open.spotify.com/album/3SPIk7QWbbQ2WqG2kGr3Qb"
       },
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 156232,
       "name": "felicity",
       "url": "https://open.spotify.com/track/3tES0yEyOhPrL5DVcRvAGN"
@@ -2471,6 +2489,28 @@
     },
     {
       "album": {
+        "name": "How I Became a Madman",
+        "url": "https://open.spotify.com/album/5EViAeAyM4Mry14Sb9u7Zw"
+      },
+      "artists": [
+        {
+          "name": "Ami Taf Ra",
+          "url": "https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413929,
+      "name": "How I Became a Madman",
+      "url": "https://open.spotify.com/track/2vWxZV2grxa10qiqyNQ51a"
+    },
+    {
+      "album": {
         "name": "How to Love",
         "url": "https://open.spotify.com/album/1FcXtMTP3QAlVA357yLiTi"
       },
@@ -2614,7 +2654,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
@@ -2694,6 +2734,28 @@
       "duration_ms": 191000,
       "name": "ILa",
       "url": "https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL"
+    },
+    {
+      "album": {
+        "name": "Midnight Wave",
+        "url": "https://open.spotify.com/album/2kbZB80jta9imn73yW7bts"
+      },
+      "artists": [
+        {
+          "name": "Greg Foat",
+          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
+        },
+        {
+          "name": "Forest Law",
+          "url": "https://open.spotify.com/artist/5Mf1H5qdqjBmqWad8RtY08"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303274,
+      "name": "Imaginary Magnitude",
+      "url": "https://open.spotify.com/track/329J9HAKX1HXzg7qiUtE6f"
     },
     {
       "album": {
@@ -3543,6 +3605,32 @@
     },
     {
       "album": {
+        "name": "Necessary Fictions",
+        "url": "https://open.spotify.com/album/5m268XSW8woGIbzi3bPpok"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        },
+        {
+          "name": "Rakhi Singh",
+          "url": "https://open.spotify.com/artist/5TcPHQwyKdZ8fmnlglGKcP"
+        },
+        {
+          "name": "Manchester Collective",
+          "url": "https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308510,
+      "name": "Luminous Giants (feat. Rakhi Singh & Manchester Collective)",
+      "url": "https://open.spotify.com/track/3vuqZI49ke1PTlVx6YYqRg"
+    },
+    {
+      "album": {
         "name": "Gen",
         "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
       },
@@ -4180,7 +4268,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 285150,
       "name": "New Moves",
       "url": "https://open.spotify.com/track/7w2XWh4lyIxIGV0Hqc1rEW"
@@ -4240,7 +4328,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 177460,
       "name": "Next To Me - Remix",
       "url": "https://open.spotify.com/track/3OUfio1ZxFPJPozEbUE3dQ"
@@ -4729,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "das Ding",
+        "url": "https://open.spotify.com/album/4VfO3IGtm6QAZDgx5DTwsJ"
+      },
+      "artists": [
+        {
+          "name": "aldo van eyck",
+          "url": "https://open.spotify.com/artist/0f0NPoMq6pvtisxkGo9uJ0"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300312,
+      "name": "Plastic Gold",
+      "url": "https://open.spotify.com/track/29kz8GF3MV3jgC5elnCrXa"
+    },
+    {
+      "album": {
         "name": "Pleasure",
         "url": "https://open.spotify.com/album/7vG8PwEHf0uwf6ImQttrKn"
       },
@@ -4810,6 +4916,28 @@
       "duration_ms": 499234,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4Kh0yUcMyxVENH4lgtcuHX"
+    },
+    {
+      "album": {
+        "name": "Quest",
+        "url": "https://open.spotify.com/album/4EYj3HPbozGCseBHUDVbMS"
+      },
+      "artists": [
+        {
+          "name": "dawgss",
+          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
+        },
+        {
+          "name": "\u7a7a\u97f3",
+          "url": "https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164874,
+      "name": "Quest",
+      "url": "https://open.spotify.com/track/3zxJ6XarODJny9sO3UBmL5"
     },
     {
       "album": {
@@ -5101,6 +5229,32 @@
     },
     {
       "album": {
+        "name": "Shibuya Meltdown",
+        "url": "https://open.spotify.com/album/0XZEdoHFGF6KkSlX7bGvN6"
+      },
+      "artists": [
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        },
+        {
+          "name": "Gianluca Pellerito",
+          "url": "https://open.spotify.com/artist/6aV2vnPLlORDtjoaMg1zTJ"
+        },
+        {
+          "name": "Riccardo Oliva",
+          "url": "https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Shibuya Meltdown",
+      "url": "https://open.spotify.com/track/6PoD4jfdnh0N1GpqW7L2ky"
+    },
+    {
+      "album": {
         "name": "ECHOES OF PRAYER",
         "url": "https://open.spotify.com/album/37gmVglfhCEkWwiefTKuC6"
       },
@@ -5188,7 +5342,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 250253,
       "name": "Smell The Daisies",
       "url": "https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6"
@@ -5945,6 +6099,32 @@
     },
     {
       "album": {
+        "name": "Transformations",
+        "url": "https://open.spotify.com/album/3pGVHliOsYNnjjQLjZaClb"
+      },
+      "artists": [
+        {
+          "name": "Wu-Lu",
+          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
+        },
+        {
+          "name": "Leif Maine",
+          "url": "https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147987,
+      "name": "Transporter",
+      "url": "https://open.spotify.com/track/0mQo8pALF313P3mtXFQj1T"
+    },
+    {
+      "album": {
         "name": "Tranxit",
         "url": "https://open.spotify.com/album/4JQlMc2S92oia3nGxWETMz"
       },
@@ -6153,6 +6333,28 @@
     },
     {
       "album": {
+        "name": "Still Smokin.III.",
+        "url": "https://open.spotify.com/album/3vmcQwoo56JsUl2M0AtrqO"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "El\u00e9wa",
+          "url": "https://open.spotify.com/artist/4yga9zVKyeLfF0fnGLEYru"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243986,
+      "name": "Waiting A Minute",
+      "url": "https://open.spotify.com/track/6VuZtqlKrLUpGylzDxpeBr"
+    },
+    {
+      "album": {
         "name": "Wanna Die",
         "url": "https://open.spotify.com/album/0YqvrdD8O5aT8f1u2ojphY"
       },
@@ -6270,6 +6472,32 @@
       "duration_ms": 241904,
       "name": "WE ARE",
       "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
+    },
+    {
+      "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141795,
+      "name": "WeMaj (feat. Rapsody)",
+      "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
     },
     {
       "album": {
@@ -6440,7 +6668,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 273146,
       "name": "Wires (Lazarus Version)",
       "url": "https://open.spotify.com/track/4Wjhmh0mRCKDSBCMcIyWut"
@@ -6740,6 +6968,32 @@
       "duration_ms": 167900,
       "name": "\u60d1\u661f",
       "url": "https://open.spotify.com/track/2uA4yw2tDNXdfKLSQ6F0GL"
+    },
+    {
+      "album": {
+        "name": "\u671d",
+        "url": "https://open.spotify.com/album/50PBnbz7veU24IONeaTtMc"
+      },
+      "artists": [
+        {
+          "name": "\u7e54\u7530\u7950\u4eae",
+          "url": "https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD"
+        },
+        {
+          "name": "TRI4TH",
+          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
+        },
+        {
+          "name": "Solitary Circus",
+          "url": "https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194572,
+      "name": "\u671d",
+      "url": "https://open.spotify.com/track/5KUzNgtrmfP7Gai6YwC34x"
     },
     {
       "album": {

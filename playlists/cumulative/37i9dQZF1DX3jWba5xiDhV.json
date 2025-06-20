@@ -332,7 +332,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 192866,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
@@ -601,6 +601,36 @@
     },
     {
       "album": {
+        "name": "Croccante",
+        "url": "https://open.spotify.com/album/0K95zImK465Wa8M0AZLcPJ"
+      },
+      "artists": [
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "Bruno Belissimo",
+          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
+        },
+        {
+          "name": "Hey Cabrera!",
+          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+        },
+        {
+          "name": "Hard Ton",
+          "url": "https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153193,
+      "name": "Croccante",
+      "url": "https://open.spotify.com/track/4GFe5vaZYjORRV0pBt66Ya"
+    },
+    {
+      "album": {
         "name": "Autostrada Galattica",
         "url": "https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9"
       },
@@ -732,7 +762,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 265663,
       "name": "Desiderio",
       "url": "https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01"
@@ -1842,6 +1872,24 @@
       "duration_ms": 350082,
       "name": "La Bagarre",
       "url": "https://open.spotify.com/track/6VmPUcwaFV2ZCkWT3IrkHm"
+    },
+    {
+      "album": {
+        "name": "Kapote presents Italomania Vol. 3",
+        "url": "https://open.spotify.com/album/5ZD6dHZ3XudQGMhFDrKFrY"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "La Notte Infinita",
+      "url": "https://open.spotify.com/track/6JZEpNCioYdAeWOyAgni3d"
     },
     {
       "album": {

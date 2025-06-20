@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Drevo
+> Найпопулярніші пісні сьогодення\. Обкладинка: IVAN LIULENOV & DAMNITSKYI
 
 129 songs - 6 hr 23 min
 

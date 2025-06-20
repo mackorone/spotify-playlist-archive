@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,365,302 likes - 209 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,365,396 likes - 209 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 208 | [Before Sunset](https://open.spotify.com/track/6e5hLCZOkS5Mx2OqQyRaEN) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Before Sunset](https://open.spotify.com/album/19kItHgBmgAPD5WDpeDj7Z) | 3:00 |
 | 209 | [Sunset Skybar](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q) | [Palma Dreams](https://open.spotify.com/artist/6g6CC8hzY5pFe9trUEoty9) | [Dive In](https://open.spotify.com/album/3ITTHt0Eu1doM1Q4wh1I8U) | 2:40 |
 
-Snapshot ID: `aEwhxgAAAADg3tv1VAdlgGPpMlJszhB4`
+Snapshot ID: `aEwhxgAAAAB8fpXW6zrIXAra0w/a+rwD`

@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 186206,
       "name": "Dreamers - Embody Remix",
       "url": "https://open.spotify.com/track/5vfYmoD0Of4mxxg23HBb9Z"
@@ -8099,6 +8099,24 @@
     },
     {
       "album": {
+        "name": "From Sparta to Padre",
+        "url": "https://open.spotify.com/album/5H12u8bLTbrdlLQ96iETPL"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127767,
+      "name": "Hoodtrapstar",
+      "url": "https://open.spotify.com/track/7N1AiJjucLwjTBvRajtnW0"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
       },
@@ -10880,7 +10898,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 75302,
       "name": "MENTE M\u00c1",
       "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
@@ -11288,10 +11306,32 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
+    },
+    {
+      "album": {
+        "name": "Montagem Bandido",
+        "url": "https://open.spotify.com/album/6uB5gLHk5SnUN9oDP0ADBy"
+      },
+      "artists": [
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "Itamar Mc",
+          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86953,
+      "name": "Montagem Bandido",
+      "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
     },
     {
       "album": {
@@ -14784,7 +14824,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -14802,7 +14842,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -17258,7 +17298,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
@@ -20950,7 +20990,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 143001,
       "name": "\u0411\u041e\u0412\u042c",
       "url": "https://open.spotify.com/track/2trZjmaOBQRzDSklsz5BDQ"
@@ -21772,6 +21812,24 @@
       "duration_ms": 108800,
       "name": "\u0412\u043e\u0434\u043a\u0430 2",
       "url": "https://open.spotify.com/track/50kfjdmN1bXx0p6KKe02J9"
+    },
+    {
+      "album": {
+        "name": "\u0411\u044b\u043b\u044c \u0432 \u0433\u043b\u0430\u0437\u0430",
+        "url": "https://open.spotify.com/album/0HQRLT73BJSUnojMuFQdv9"
+      },
+      "artists": [
+        {
+          "name": "Kasta",
+          "url": "https://open.spotify.com/artist/5I37oVgAnT7OGiqKJSMVRH"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0428\u0443\u043c",
+      "url": "https://open.spotify.com/track/5NqhAFTgPTsxhm7kDhfVCw"
     },
     {
       "album": {
@@ -22914,7 +22972,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 250682,
       "name": "\u0414\u0438\u0447\u0430\u0435\u0442 \u0410\u043f\u0440\u0435\u043b\u044c",
       "url": "https://open.spotify.com/track/3xdqF0IgxkVBSNihnP2K9U"
@@ -24510,7 +24568,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 132800,
       "name": "\u041a\u0443\u0445\u043d\u0438 - Acoustic Version",
       "url": "https://open.spotify.com/track/2kdqEnDyLr9ZzEn92O3HRn"
@@ -29190,7 +29248,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 102258,
       "name": "\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0430\u044f \u0432\u043e\u0439\u043d\u0430",
       "url": "https://open.spotify.com/track/51hYk2CuUoZPd003ENH5lO"
@@ -31470,7 +31528,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 81258,
       "name": "\u0426\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/0IDdiaECyWUdUNkCEZ4FKy"

@@ -1577,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Elhob W Bass",
+        "url": "https://open.spotify.com/album/3aSlIC2iDpGkBqQ9a10CnG"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320384,
+      "name": "Elhob W Bass",
+      "url": "https://open.spotify.com/track/6YRF4GAwHXeHJXoQ4MRLvC"
+    },
+    {
+      "album": {
         "name": "Elshamkh El Gowwani",
         "url": "https://open.spotify.com/album/3AMNAJajdOaMy0HCXgKNEv"
       },
@@ -2794,7 +2812,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-20",
       "duration_ms": 224113,
       "name": "Lela",
       "url": "https://open.spotify.com/track/2QAi4scKA8gb5QdbFPHpa6"

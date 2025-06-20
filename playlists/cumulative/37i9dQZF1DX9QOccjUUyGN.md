@@ -4,7 +4,7 @@
 
 > trap 🤝 piseiro\. Foto: Arthurzim
 
-747 songs - 1 day 11 hr 23 min
+748 songs - 1 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Ampulheta](https://open.spotify.com/track/4JDFZho5o7NiDmN3u8AwBR) | [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [Ari Falcão](https://open.spotify.com/artist/1tJcpyjn4f1vbRJW1E7P3b), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ampulheta](https://open.spotify.com/album/59rPrkTt8G1ffLlaMl49qN) | 2:02 | 2023-04-14 | 2023-06-17 |
 | [Andy](https://open.spotify.com/track/1Pd71Xo8MTPEPb9w5yXiHv) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [Fábio Casagrande](https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn) | [Andy](https://open.spotify.com/album/5c0rtaRdPbRbOme8uZtq51) | 3:06 | 2023-01-13 | 2023-04-22 |
 | [Ano da Prata](https://open.spotify.com/track/43fI3nySSR1PwjTEJ63dsC) | [Artthur Lima](https://open.spotify.com/artist/1wh3EI7Bcs149sCxjJtdDn), [Trelli](https://open.spotify.com/artist/6rt4HppOC4vLG5CIF4AnSM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Ano da Prata](https://open.spotify.com/album/7nHLdQg1wP747fTOsZpIRC) | 3:12 | 2023-11-17 | 2024-02-10 |
+| [Anos Luz](https://open.spotify.com/track/5qdALoQduXND3os6yJGRkr) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [RomantiDog](https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW) | 3:07 | 2025-06-20 |  |
 | [Ansiedade](https://open.spotify.com/track/6PV5hk2zCS3nkUZxMmDnw4) | [Diomedes Chinaski](https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK), [racine neto](https://open.spotify.com/artist/3OVuZhlGMASlYTZUDr6VxW) | [Escamosa](https://open.spotify.com/album/0eV2v4FSzFvn8fi5AY0VGf) | 2:48 | 2022-12-23 | 2023-03-03 |
 | [Antes do Sol](https://open.spotify.com/track/0dpBttVzTiIFzn3gsAWUhv) | [Psych](https://open.spotify.com/artist/56cqVCO3vabMghliZvW9S1) | [Antes do Sol](https://open.spotify.com/album/1FmIcNzKUDVdnxrBuxc2iV) | 2:13 | 2022-03-18 | 2022-07-30 |
 | [Apenas o Começo](https://open.spotify.com/track/6lTq6zVD3RUTkCW0AIy92N) | [Baby V](https://open.spotify.com/artist/2fqG2rNsyOSNUiDeCWIS3U), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Bubblegun Studios](https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx) | [Apenas o Começo](https://open.spotify.com/album/7A69JKVv8hLqycZNInl7PW) | 3:25 | 2022-11-25 | 2023-04-15 |

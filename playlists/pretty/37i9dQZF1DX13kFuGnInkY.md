@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 
 > Congratulations to all of the ACM Awards nominees and winners! Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,735 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,729 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 | 49 | [A Life Where We Work Out \(with Kaitlin Butts\)](https://open.spotify.com/track/4NE69YmyQbfKwVcNvq4f5J) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Flatland Forever](https://open.spotify.com/album/6hsLVJIMa6eZ0eo0sEeVbg) | 3:10 |
 | 50 | [Take Me Home \(feat\. Sugarland\)](https://open.spotify.com/track/0De7Oco4TirVIWui6RCjs8) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Take Me Home \(feat\. Sugarland\)](https://open.spotify.com/album/5ok0rVro7SFihfF73FPdm8) | 5:08 |
 
-Snapshot ID: `aB7ClwAAAAA8LT9yTHHze7Z86M8NTumB`
+Snapshot ID: `aB7ClwAAAADIdtwhTvZs/UHu+Ch/922R`

@@ -1,6 +1,6 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 19410,
+  "num_followers": 19414,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Bouquets (Freestyle)",
-        "url": "https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq"
-      },
-      "artists": [
-        {
-          "name": "G-SALIH",
-          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "Bouquets (Freestyle)",
-      "url": "https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Ganay Albreedo",
         "url": "https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 335960,
       "name": "Ganay Albreedo",
       "url": "https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Bouquets (Freestyle)",
+        "url": "https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq"
+      },
+      "artists": [
+        {
+          "name": "G-SALIH",
+          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "Bouquets (Freestyle)",
+      "url": "https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Matalib",
-        "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
+        "name": "Qamar Al Massa (Moon of the Night)",
+        "url": "https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh"
       },
       "artists": [
         {
-          "name": "Sammany",
-          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+          "name": "Abu Obaida Hassan",
+          "url": "https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj"
         }
       ],
-      "duration_ms": 288008,
-      "name": "Matalib",
-      "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
+      "duration_ms": 495442,
+      "name": "Qamar Al Massa (Moon of the Night)",
+      "url": "https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Fan3",
-        "url": "https://open.spotify.com/album/0RTNur3c132jazOHMua1wU"
-      },
-      "artists": [
-        {
-          "name": "Tmsa7",
-          "url": "https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e"
-        }
-      ],
-      "duration_ms": 139345,
-      "name": "Fan3",
-      "url": "https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Amir Al Oud Part 1",
         "url": "https://open.spotify.com/album/5o0S5hIDn2PKf8g8zsvywN"
       },
@@ -743,18 +727,34 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Qamar Al Massa (Moon of the Night)",
-        "url": "https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh"
+        "name": "Fan3",
+        "url": "https://open.spotify.com/album/0RTNur3c132jazOHMua1wU"
       },
       "artists": [
         {
-          "name": "Abu Obaida Hassan",
-          "url": "https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj"
+          "name": "Tmsa7",
+          "url": "https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e"
         }
       ],
-      "duration_ms": 495442,
-      "name": "Qamar Al Massa (Moon of the Night)",
-      "url": "https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2"
+      "duration_ms": 139345,
+      "name": "Fan3",
+      "url": "https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Matalib",
+        "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
+      },
+      "artists": [
+        {
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+        }
+      ],
+      "duration_ms": 288008,
+      "name": "Matalib",
+      "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Two Niles to Sing a Melody: The Violins & Synths of Sudan",
-        "url": "https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ"
-      },
-      "artists": [
-        {
-          "name": "Saied Khalifa",
-          "url": "https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy"
-        }
-      ],
-      "duration_ms": 267856,
-      "name": "Igd Allooli (The Pearl Necklace)",
-      "url": "https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
+        "name": "Two Niles to Sing a Melody: The Violins & Synths of Sudan",
+        "url": "https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ"
+      },
+      "artists": [
+        {
+          "name": "Saied Khalifa",
+          "url": "https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy"
+        }
+      ],
+      "duration_ms": 267856,
+      "name": "Igd Allooli (The Pearl Necklace)",
+      "url": "https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
         "name": "Ya Dunya",
         "url": "https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 431280,
       "name": "Ya Dunya",
       "url": "https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Tuna",
+        "url": "https://open.spotify.com/album/0HZVyBD9JHeViJEPJ5tWbs"
+      },
+      "artists": [
+        {
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
+        }
+      ],
+      "duration_ms": 165663,
+      "name": "Tuna",
+      "url": "https://open.spotify.com/track/6zX6YvuzrPl0jzZ6EmBtaQ"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Tuna",
-        "url": "https://open.spotify.com/album/0HZVyBD9JHeViJEPJ5tWbs"
-      },
-      "artists": [
-        {
-          "name": "MaMan",
-          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
-        }
-      ],
-      "duration_ms": 165663,
-      "name": "Tuna",
-      "url": "https://open.spotify.com/track/6zX6YvuzrPl0jzZ6EmBtaQ"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "\u0628\u0633\u062d\u0631\u0648\u0643",
         "url": "https://open.spotify.com/album/374yLPef14svHDy8PJ8WRQ"
       },
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Apocalypto",
-        "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
+        "name": "Moya wa Zait",
+        "url": "https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA"
       },
       "artists": [
         {
-          "name": "TooDope",
-          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+          "name": "Walgz",
+          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
+        },
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
         }
       ],
-      "duration_ms": 177884,
-      "name": "Apocalypto",
-      "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
+      "duration_ms": 158709,
+      "name": "Moya wa Zait",
+      "url": "https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Moya wa Zait",
-        "url": "https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA"
+        "name": "Apocalypto",
+        "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
       },
       "artists": [
         {
-          "name": "Walgz",
-          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
-        },
-        {
-          "name": "Ntitled",
-          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+          "name": "TooDope",
+          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
         }
       ],
-      "duration_ms": 158709,
-      "name": "Moya wa Zait",
-      "url": "https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc"
+      "duration_ms": 177884,
+      "name": "Apocalypto",
+      "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
+        "name": "Queen of Hena",
+        "url": "https://open.spotify.com/album/6f17UYNXDEEUeyvK7BF41O"
+      },
+      "artists": [
+        {
+          "name": "Setona",
+          "url": "https://open.spotify.com/artist/7onpo1rmu1ntYWiRSHaQq9"
+        },
+        {
+          "name": "Said Ahmed",
+          "url": "https://open.spotify.com/artist/5BbKEtc0HwubSydwtnOxfF"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Labis Toubo",
+      "url": "https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
         "name": "Langa",
         "url": "https://open.spotify.com/album/6SlvwtudjfJmPilWo38MS3"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 195039,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/14r1JJrfqFar4ZP3WelS33"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
-        "name": "Queen of Hena",
-        "url": "https://open.spotify.com/album/6f17UYNXDEEUeyvK7BF41O"
-      },
-      "artists": [
-        {
-          "name": "Setona",
-          "url": "https://open.spotify.com/artist/7onpo1rmu1ntYWiRSHaQq9"
-        },
-        {
-          "name": "Said Ahmed",
-          "url": "https://open.spotify.com/artist/5BbKEtc0HwubSydwtnOxfF"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Labis Toubo",
-      "url": "https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1AsD9IvZZjFvhrpTpTBDW2"
-      },
-      "artists": [
-        {
-          "name": "Rotation",
-          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/02Ddh1rBZbk5dmsfBWp6hn"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "\u062d\u0628\u0643 \u0648\u0637\u0646",
         "url": "https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 219675,
       "name": "\u062d\u0628\u0643 \u0648\u0637\u0646",
       "url": "https://open.spotify.com/track/1mGZJfUNitNntilLqPdS0k"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1AsD9IvZZjFvhrpTpTBDW2"
+      },
+      "artists": [
+        {
+          "name": "Rotation",
+          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+        }
+      ],
+      "duration_ms": 210430,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/02Ddh1rBZbk5dmsfBWp6hn"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Safra",
-        "url": "https://open.spotify.com/album/4cjgzOqf8YI2CEtb4hSQau"
-      },
-      "artists": [
-        {
-          "name": "Karet Safar",
-          "url": "https://open.spotify.com/artist/40wbwbsa9FeuL2pmB68nG9"
-        }
-      ],
-      "duration_ms": 212954,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/0Uz6OrAFUnaRPV3TzpslHR"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "\u0641\u0631\u0635\u0629",
         "url": "https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 124027,
       "name": "\u0641\u0631\u0635\u0629",
       "url": "https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Safra",
+        "url": "https://open.spotify.com/album/4cjgzOqf8YI2CEtb4hSQau"
+      },
+      "artists": [
+        {
+          "name": "Karet Safar",
+          "url": "https://open.spotify.com/artist/40wbwbsa9FeuL2pmB68nG9"
+        }
+      ],
+      "duration_ms": 212954,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/0Uz6OrAFUnaRPV3TzpslHR"
     },
     {
       "added_at": "2024-08-14 15:57:08",
