@@ -751,6 +751,28 @@
     },
     {
       "album": {
+        "name": "Amor da Rua",
+        "url": "https://open.spotify.com/album/6sdhF6aVoMVGjwaRIjiEpT"
+      },
+      "artists": [
+        {
+          "name": "MISAEL",
+          "url": "https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208819,
+      "name": "Amor da Rua",
+      "url": "https://open.spotify.com/track/1B0AoYdruYJazl8VJMPyZg"
+    },
+    {
+      "album": {
         "name": "Amor de Fogo",
         "url": "https://open.spotify.com/album/5TmDlCB5G3QQFI7nWrWetz"
       },
@@ -796,28 +818,6 @@
       "duration_ms": 150096,
       "name": "Amor de Mentira",
       "url": "https://open.spotify.com/track/6Ee8h3EvlpKCwy4Odd6jfx"
-    },
-    {
-      "album": {
-        "name": "Amor de Rua",
-        "url": "https://open.spotify.com/album/6sdhF6aVoMVGjwaRIjiEpT"
-      },
-      "artists": [
-        {
-          "name": "MISAEL",
-          "url": "https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR"
-        },
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "date_added": "2025-06-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208819,
-      "name": "Amor de Rua",
-      "url": "https://open.spotify.com/track/1B0AoYdruYJazl8VJMPyZg"
     },
     {
       "album": {

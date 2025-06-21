@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-354 songs - 20 hr 46 min
+355 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,8 @@
 | [You Don't Tell Me](https://open.spotify.com/track/3eEcGQFM12d9PcMg3FBdLo) | [Diahann Carroll](https://open.spotify.com/artist/1xUs1QVa416s6LPsHRcRxx) | [No Strings \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7rQ4Pl2ZPoBwluuOWiEPwn) | 1:54 | 2024-07-26 |  |
 | [You Have Cast Your Shadow On The Sea](https://open.spotify.com/track/3DRjt9HoD3bPaZ1ZtvGfpt) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 3:50 | 2024-07-26 |  |
 | [You Mustn't Kick It Around](https://open.spotify.com/track/787jMCTWWUcdirC4JyArXB) | [Joel Grey](https://open.spotify.com/artist/64WqSGPXrSf1YbxoimVNbd) | [Only the Beginning / Black Sheep Boy](https://open.spotify.com/album/25juTvFz2VxEPSiWz4zib7) | 2:18 | 2024-07-26 |  |
-| [You Took Advantage of Me \- Remastered](https://open.spotify.com/track/7AIcoEEaAvlpOoC1kWqeRe) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Rosie Solves the Swinging Riddle](https://open.spotify.com/album/03hz9YvV6vbKkjZVzGkHPV) | 2:59 | 2024-07-26 |  |
+| [You Took Advantage Of Me \- Remastered](https://open.spotify.com/track/25lrKinv3HY7jqMYGMHjtx) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Is June Christy](https://open.spotify.com/album/0r274gvTVTQlx7MwUeWDEC) | 2:29 | 2025-06-20 |  |
+| [You Took Advantage of Me \- Remastered](https://open.spotify.com/track/7AIcoEEaAvlpOoC1kWqeRe) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Rosie Solves the Swinging Riddle](https://open.spotify.com/album/03hz9YvV6vbKkjZVzGkHPV) | 2:59 | 2024-07-26 | 2025-06-21 |
 | [You Took Advantage of Me / Do I Hear You Saying ''I Love You'' \- From the Musical ''Present Arms''](https://open.spotify.com/track/3ewJOBNYDB8utP7crgHr5g) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Deane Janis](https://open.spotify.com/artist/6kJih1Kejtd8n7KShKto1T) | [Smash Song Hits by Rodgers & Hart](https://open.spotify.com/album/2wvr5n6mleHMPmiXkGDCv2) | 2:59 | 2024-07-26 |  |
 | [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 | 2024-07-26 |  |
 | [You're A Queer One, Julie Jordan](https://open.spotify.com/track/0qWFfmu78XFDGlKghWKWpw) | [Barbara Ruick](https://open.spotify.com/artist/3hlVtWfnDNqQUVFmLq0hkK), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok) | [Carousel \( 1956 Film Score\)](https://open.spotify.com/album/1kVq56y4ijrH7nFwR6tS9w) | 1:23 | 2024-07-26 |  |

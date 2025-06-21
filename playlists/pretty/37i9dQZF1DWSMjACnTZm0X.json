@@ -603,26 +603,6 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "MASTERCLASS",
-        "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 170492,
-      "name": "MASTERCLASS",
-      "url": "https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
         "name": "Children of Africa",
         "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 163539,
       "name": "MACHO (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
+        "name": "MASTERCLASS",
+        "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 170492,
+      "name": "MASTERCLASS",
+      "url": "https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE"
     },
     {
       "added_at": "2025-06-19 22:00:40",

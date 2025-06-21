@@ -4,7 +4,7 @@
 
 > 
 
-210 songs - 8 hr 18 min
+211 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2025-04-12 |  |
 | [For The Night](https://open.spotify.com/track/2To3FpmzHogJ6FbR6o2Ic1) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [For The Night](https://open.spotify.com/album/6jdMgrdvmAjom2IZFhpHhJ) | 1:25 | 2025-05-28 |  |
 | [FUCK NIGGERS](https://open.spotify.com/track/0JZvx8sGxOBzVHnfASqrv7) | [Echo Datii](https://open.spotify.com/artist/4CMdC57EfHLnO1ifsTyenV), [2ooDarkive](https://open.spotify.com/artist/3vLqK6ywGHAaZtPuTcG5cy) | [FUCK NIGGERS](https://open.spotify.com/album/7KHeMoBJXe24fv7FRRBDMJ) | 2:24 | 2025-04-29 | 2025-05-01 |
+| [FUKKIRETA PLUGGNB](https://open.spotify.com/track/4RVdONWEZk40bK8PNKXEgo) | [prodvera](https://open.spotify.com/artist/40jroOrX9vVTFb19bwKuoh) | [FUKKIRETA PLUGGNB](https://open.spotify.com/album/5oUvwMrGLyJLsaGFXqgo4Z) | 1:24 | 2025-06-20 |  |
 | [galaxy](https://open.spotify.com/track/0eCHafxWdcpnivREAbWlbc) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X) | [galaxy](https://open.spotify.com/album/7BBL1R0SvKo026lLHx2Ssl) | 2:16 | 2025-02-23 | 2025-04-12 |
 | [GAMEBOY](https://open.spotify.com/track/4wrkpUJBsqdpfDUtb4zH6d) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [HEY ASSHOLE!](https://open.spotify.com/album/4WUzvidSHP2O30d27dShPZ) | 1:37 | 2025-02-18 | 2025-04-10 |
 | [GANGY](https://open.spotify.com/track/0j3Xssa57CUUOxYwlxLBHk) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed), [reaptokyo](https://open.spotify.com/artist/62ghDL8bmpEuoBLrxMKwUH) | [GANGY](https://open.spotify.com/album/0Av2zKZh1Usr1ekhROB5BU) | 1:02 | 2025-04-11 |  |

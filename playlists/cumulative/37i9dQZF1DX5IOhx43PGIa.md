@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Tiger La Flor
 
-1,175 songs - 2 day 13 hr 8 min
+1,176 songs - 2 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-27 | 2022-07-24 |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-17 | 2025-05-02 |
 | [Same Energy](https://open.spotify.com/track/4wBGgXXCq5pjwgkiI7evhw) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Same Energy](https://open.spotify.com/album/7wLUa7Te2hgRruz9hFIeGc) | 2:31 | 2023-07-07 | 2023-08-12 |
+| [Sane](https://open.spotify.com/track/4a8OowLwNQ9sY8xrvFW5YP) | [Wendy Wang](https://open.spotify.com/artist/7znQY25vppSqJD7K9OjRqv) | [Sane](https://open.spotify.com/album/23vV2rysVPJcXbdb0gRuZO) | 2:44 | 2025-06-20 |  |
 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 | 2022-06-03 | 2022-11-12 |
 | [Satisfy](https://open.spotify.com/track/0EWUew0pxdYClLrBIRDu3x) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [In Transit](https://open.spotify.com/album/3Hpduk2uMFN021IlWCjgFJ) | 3:00 | 2022-09-23 | 2022-10-08 |
 | [satuRday](https://open.spotify.com/track/4i3AJ5JPsXdyhlmIEw21ir) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [satuRday](https://open.spotify.com/album/0BPFOQCqPhIVx9h5yxMmmn) | 3:13 | 2023-05-26 | 2023-08-20 |

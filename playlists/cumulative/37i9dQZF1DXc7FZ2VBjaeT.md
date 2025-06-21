@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-143 songs - 8 hr 55 min
+144 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Hair](https://open.spotify.com/track/2uk0YH2ahN0UE5jaCMa5jn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 5:07 | 2022-05-09 | 2024-04-19 |
 | [Hair](https://open.spotify.com/track/4u8q2Gddnu8jqCFzxm5IZs) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 5:07 | 2020-10-16\* |  |
 | [Hair](https://open.spotify.com/track/27pMfH0ba5cWg2tEl3zegS) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Uplifting Pop](https://open.spotify.com/album/3p5jlBmgiaEtU6UtOcD9I5) | 5:08 | 2022-05-09 | 2022-11-13 |
-| [Hair Body Face](https://open.spotify.com/track/4gdfWGyzB9j4ZVc2JWdpv2) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:22 | 2024-04-06 |  |
+| [Hair Body Face](https://open.spotify.com/track/4gdfWGyzB9j4ZVc2JWdpv2) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:22 | 2024-04-06 | 2025-06-21 |
 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 | 2020-10-16\* | 2024-04-07 |
 | [Hey Girl](https://open.spotify.com/track/554PnB96IltLzVlbinBstw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 4:15 | 2024-04-06 |  |
 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-09 |  |
@@ -123,6 +123,7 @@
 | [Stupid Love](https://open.spotify.com/track/2kJu14V7hbZw3I4K8L8SXb) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Stupid Love](https://open.spotify.com/album/2HDW1EX8IBI3jqobswAfrZ) | 3:13 | 2020-10-16\* | 2022-07-29 |
 | [Stupid Love](https://open.spotify.com/track/4K3Do0kIWdq1ZIEwhBa7ct) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Shower Studio](https://open.spotify.com/album/3CHZ4q1Z6A47iYz0opP8gB) | 3:13 | 2022-05-09 | 2022-11-13 |
 | [Stupid Love](https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:13 | 2022-05-09 |  |
+| [Summerboy](https://open.spotify.com/track/1c31md8UrbHONSycrFi3Jy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:13 | 2025-06-20 |  |
 | [Teeth](https://open.spotify.com/track/0E7g5bxgqdGYaChfGqdKER) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 3:40 | 2022-05-09 | 2024-04-19 |
 | [Teeth](https://open.spotify.com/track/1fs2Dab8RbaOfbLvaiOsX7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(UK Deluxe\)](https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x) | 3:40 | 2020-10-16\* |  |
 | [Teeth](https://open.spotify.com/track/2OycPJAn1YudMCWtEjUlXO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster](https://open.spotify.com/album/58WSd6SDPOcbnnJ2tq0Ph8) | 3:40 | 2022-05-09 | 2022-11-13 |

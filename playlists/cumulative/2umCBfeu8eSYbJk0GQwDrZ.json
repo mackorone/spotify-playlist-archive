@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/08lwoqbPtnLRzBZW92dm0l"
+    },
+    {
+      "album": {
         "name": "EKKSTACY",
         "url": "https://open.spotify.com/album/0YniEi1T1eJUOAL3Cyjh7u"
       },
@@ -609,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/6jHSyQcBaclT9b7b8SX7zC"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274859,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/3QuRaBONpN1s2aZB9l6mbg"
+    },
+    {
+      "album": {
         "name": "A Grey Area",
         "url": "https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0"
       },
@@ -772,7 +808,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 148285,
       "name": "At Zero",
       "url": "https://open.spotify.com/track/2sFKoiRU1CetXG3n0wSdZQ"
@@ -2000,7 +2036,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 222720,
       "name": "Buses Replace Trains",
       "url": "https://open.spotify.com/track/6zxK1aQo9e61wi9UJWJfrv"
@@ -3072,7 +3108,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 142681,
       "name": "Cry For You",
       "url": "https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC"
@@ -3426,7 +3462,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 248722,
       "name": "Did You Love Somebody (feat. Sir Chloe)",
       "url": "https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz"
@@ -3748,7 +3784,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 194623,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC"
@@ -3802,7 +3838,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 249120,
       "name": "Down to be wrong",
       "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
@@ -4679,6 +4715,28 @@
     },
     {
       "album": {
+        "name": "Melanchronica",
+        "url": "https://open.spotify.com/album/3O8PFNPk6h4MIvV6nxPT9k"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "The Hics",
+          "url": "https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236973,
+      "name": "Four Walls",
+      "url": "https://open.spotify.com/track/413Pc87SwoEUIui4hFyGOU"
+    },
+    {
+      "album": {
         "name": "Foxes in the Snow",
         "url": "https://open.spotify.com/album/68ZJ05Jh9Gw1nCcioGScpr"
       },
@@ -4798,7 +4856,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 215094,
       "name": "FUFN",
       "url": "https://open.spotify.com/track/0dfexwGBjaANxD7ZDXFtFX"
@@ -8136,10 +8194,28 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 194387,
       "name": "Lights Fall",
       "url": "https://open.spotify.com/track/1W8cWE4mphc5mmCqaRhACZ"
+    },
+    {
+      "album": {
+        "name": "Lion",
+        "url": "https://open.spotify.com/album/619Wh8C4Di3SWsdyeYrhFq"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/5aM7hLOmeWtQt0M8wAJQ8k"
     },
     {
       "album": {
@@ -8754,7 +8830,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 195213,
       "name": "Malabar Princess",
       "url": "https://open.spotify.com/track/1IDXNg3gfcSsriLY3seMNB"
@@ -8844,7 +8920,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 136153,
       "name": "Mascara",
       "url": "https://open.spotify.com/track/1534vlcyiYVm7xvkrAvUka"
@@ -9819,6 +9895,24 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1Rx0kVYmGys2Lcg6TtnVKu"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184074,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4POSbPMxN0VrfighTfRtuc"
+    },
+    {
+      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/54zYvqlh1tgWoe5edGHC8r"
       },
@@ -10226,7 +10320,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 198380,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/4yiiRbfHkqhCj0ChW62ASx"
@@ -10342,6 +10436,24 @@
       "duration_ms": 149366,
       "name": "Over You",
       "url": "https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs"
+    },
+    {
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/1LkmLrGj33RzJTSu0ZMzKC"
+      },
+      "artists": [
+        {
+          "name": "Zackery",
+          "url": "https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219796,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/2laFygRs4Cft2jsQN1oJud"
     },
     {
       "album": {
@@ -10529,6 +10641,24 @@
     },
     {
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156221,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB"
+    },
+    {
+      "album": {
         "name": "Emerald Year",
         "url": "https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR"
       },
@@ -10544,6 +10674,24 @@
       "duration_ms": 275277,
       "name": "Penthouse in The Sky",
       "url": "https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA"
+    },
+    {
+      "album": {
+        "name": "piano in the sky",
+        "url": "https://open.spotify.com/album/5Pn3JRVnxuR5dROybezUyK"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130203,
+      "name": "piano in the sky",
+      "url": "https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW"
     },
     {
       "album": {
@@ -11172,7 +11320,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
@@ -12092,6 +12240,24 @@
       "duration_ms": 378375,
       "name": "Sliverado",
       "url": "https://open.spotify.com/track/2sNZotEI4Y4ieSgAc3GPY0"
+    },
+    {
+      "album": {
+        "name": "slow dance in the diner",
+        "url": "https://open.spotify.com/album/0m4mFKvycRZ4QstEEjzfKl"
+      },
+      "artists": [
+        {
+          "name": "Chris LaRocca",
+          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215412,
+      "name": "slow dance in the diner",
+      "url": "https://open.spotify.com/track/44tkU5OWulSCRn01iTyAXK"
     },
     {
       "album": {
@@ -13491,6 +13657,24 @@
     },
     {
       "album": {
+        "name": "The Jamie Oliver Petrol Station",
+        "url": "https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323960,
+      "name": "The Jamie Oliver Petrol Station",
+      "url": "https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U"
+    },
+    {
+      "album": {
         "name": "the mom song",
         "url": "https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI"
       },
@@ -13542,6 +13726,24 @@
       "duration_ms": 170925,
       "name": "The Same",
       "url": "https://open.spotify.com/track/42aN26zSK9ZNZcJQrYUURv"
+    },
+    {
+      "album": {
+        "name": "Raspberry Moon",
+        "url": "https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141834,
+      "name": "The Scene",
+      "url": "https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP"
     },
     {
       "album": {
@@ -14366,6 +14568,24 @@
       "duration_ms": 236575,
       "name": "Untangling",
       "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
+    },
+    {
+      "album": {
+        "name": "Space Hurts",
+        "url": "https://open.spotify.com/album/2Ui10TWQIabivg41HaHP41"
+      },
+      "artists": [
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166130,
+      "name": "Used To",
+      "url": "https://open.spotify.com/track/0SfX0rZzC8ymheif5BVAci"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Mohammad Faiz, Tulsi Kumar and more. ",
+  "description": "Latest music from Simran Choudhary, Armaan Malik and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -336,6 +336,36 @@
       "duration_ms": 121935,
       "name": "Aadat - Alt",
       "url": "https://open.spotify.com/track/2qDZyNVo5t6Pw7HDk5MDER"
+    },
+    {
+      "album": {
+        "name": "Aadatein",
+        "url": "https://open.spotify.com/album/2hlxexwIUQGofoY40u8Bq6"
+      },
+      "artists": [
+        {
+          "name": "Deedar Kaur",
+          "url": "https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q"
+        },
+        {
+          "name": "Abdul Shaikh",
+          "url": "https://open.spotify.com/artist/1MTOgGJe7WMSxF6Ex0Jdjk"
+        },
+        {
+          "name": "Gaurav Chatterji",
+          "url": "https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT"
+        },
+        {
+          "name": "Meggha Bali",
+          "url": "https://open.spotify.com/artist/7oGJfQzTX3UMsN098bd5mF"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157983,
+      "name": "Aadatein",
+      "url": "https://open.spotify.com/track/7qUt0RO6NYeau9G7TmAEpp"
     },
     {
       "album": {
@@ -720,7 +750,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 153387,
       "name": "Aankhon (feat. Ankur Tewari)",
       "url": "https://open.spotify.com/track/7As3z7YWrNvOQWFxFn7fGr"
@@ -1371,6 +1401,28 @@
     },
     {
       "album": {
+        "name": "Adhoora",
+        "url": "https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234683,
+      "name": "Adhoora",
+      "url": "https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk"
+    },
+    {
+      "album": {
         "name": "Adhoora Pyaar",
         "url": "https://open.spotify.com/album/4BSyKNBE490vCnuCscS0Q6"
       },
@@ -1646,6 +1698,28 @@
       "duration_ms": 163554,
       "name": "Ahista",
       "url": "https://open.spotify.com/track/0SLMQa8gdZQIIlTsUbM3s5"
+    },
+    {
+      "album": {
+        "name": "Ai No Imi",
+        "url": "https://open.spotify.com/album/5uY3pTEaqWaibym3qzeBUF"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "MINA",
+          "url": "https://open.spotify.com/artist/4oy2bSvGHRtPW7Wn9ijR12"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203592,
+      "name": "Ai No Imi",
+      "url": "https://open.spotify.com/track/4ELNqZskpQv9jaPiW5WluZ"
     },
     {
       "album": {
@@ -2476,7 +2550,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 193695,
       "name": "Baahon Mein",
       "url": "https://open.spotify.com/track/17CteCRn40IfzafbH5R5ho"
@@ -2524,6 +2598,32 @@
       "duration_ms": 294615,
       "name": "Baalama",
       "url": "https://open.spotify.com/track/4970eHla8KU6fnI6HwBG5T"
+    },
+    {
+      "album": {
+        "name": "Baari Baari",
+        "url": "https://open.spotify.com/album/1O4Niv4qNjk0c5nAvklHQb"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151826,
+      "name": "Baari Baari",
+      "url": "https://open.spotify.com/track/3JzOgUOqUKgkWwlb7rpg1J"
     },
     {
       "album": {
@@ -3077,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "Bade Adab",
+        "url": "https://open.spotify.com/album/2KWzHafYEYIXTuRwqMQHmZ"
+      },
+      "artists": [
+        {
+          "name": "Soham Naik",
+          "url": "https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187279,
+      "name": "Bade Adab",
+      "url": "https://open.spotify.com/track/3ozW90Dd4X6TTVXLKtXQoH"
+    },
+    {
+      "album": {
         "name": "Badle Badle [From \"Vikram Hitlist (Hindi)\"]",
         "url": "https://open.spotify.com/album/21eyeUuI1KpCZdFmZ1oS57"
       },
@@ -3226,6 +3344,24 @@
       "duration_ms": 194142,
       "name": "Bana Hi Nahi Tha",
       "url": "https://open.spotify.com/track/6hEDk4meQkfuUB4MVMCsMP"
+    },
+    {
+      "album": {
+        "name": "Bana Le Tera",
+        "url": "https://open.spotify.com/album/543Vp6mQ5MRb45H1XxFv0O"
+      },
+      "artists": [
+        {
+          "name": "Aditya Narayan",
+          "url": "https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255877,
+      "name": "Bana Le Tera",
+      "url": "https://open.spotify.com/track/0hKu8neeba4O8JEWeuoSMh"
     },
     {
       "album": {
@@ -3832,7 +3968,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 194000,
       "name": "Bechara",
       "url": "https://open.spotify.com/track/5GTpmHZKqhHWccoJ3o86KJ"
@@ -9249,6 +9385,24 @@
     },
     {
       "album": {
+        "name": "Strongest Boy Alive",
+        "url": "https://open.spotify.com/album/6vOxlZDxoELkXhGGBppWKK"
+      },
+      "artists": [
+        {
+          "name": "Savera",
+          "url": "https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Fiza",
+      "url": "https://open.spotify.com/track/6tv7ryf9SGmYEWO1olKwcC"
+    },
+    {
+      "album": {
         "name": "Fizool",
         "url": "https://open.spotify.com/album/21syGm5hk5cQUB9CsFkh8C"
       },
@@ -14142,7 +14296,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 181826,
       "name": "Jiya",
       "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
@@ -15246,7 +15400,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 236800,
       "name": "Kaisi Hoti Hogi",
       "url": "https://open.spotify.com/track/1kCoZBd8RpdxUANVMuxvOY"
@@ -16266,7 +16420,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 162685,
       "name": "Khoobsurat",
       "url": "https://open.spotify.com/track/6fiUepvZzEWr1U1x1lWeVs"
@@ -21836,7 +21990,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 209750,
       "name": "Nindiya",
       "url": "https://open.spotify.com/track/6N3eNNJ0keMMr3rSUgQPAA"
@@ -22520,7 +22674,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 176938,
       "name": "Pani Warga",
       "url": "https://open.spotify.com/track/5ERZYoEUzjLFf7h56b6IPH"
@@ -23142,7 +23296,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 214535,
       "name": "Pehli Dafa",
       "url": "https://open.spotify.com/track/3atTMfK2NxUgyqahq81jK8"
@@ -23860,7 +24014,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 171789,
       "name": "Qatal",
       "url": "https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9"
@@ -25727,6 +25881,28 @@
     },
     {
       "album": {
+        "name": "Saiyyan Na Maane",
+        "url": "https://open.spotify.com/album/1vL10WzZmWzUi2Ez5QfpEn"
+      },
+      "artists": [
+        {
+          "name": "Simran Choudhary",
+          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        },
+        {
+          "name": "Amritanshu Dutta",
+          "url": "https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167045,
+      "name": "Saiyyan Na Maane",
+      "url": "https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK"
+    },
+    {
+      "album": {
         "name": "Saiyyonni",
         "url": "https://open.spotify.com/album/6bSDbw5h5eKffNWKcQdzVj"
       },
@@ -27203,6 +27379,24 @@
     },
     {
       "album": {
+        "name": "Space Mein",
+        "url": "https://open.spotify.com/album/4jubWvEu3uV0ZOeopMayOA"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176156,
+      "name": "Space Mein",
+      "url": "https://open.spotify.com/track/2k0etpq0NUhxhMy5ZvWvEO"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr"
       },
@@ -27284,7 +27478,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 230676,
       "name": "Story of a Bird",
       "url": "https://open.spotify.com/track/5nBOV8rbNUi6SQb4SOrdx0"
@@ -30742,7 +30936,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 186279,
       "name": "Tu Mileeya",
       "url": "https://open.spotify.com/track/4gBjcUkn7Q6WYRKFpQPFTy"
@@ -32219,6 +32413,28 @@
     },
     {
       "album": {
+        "name": "Vichorra",
+        "url": "https://open.spotify.com/album/7AfaUfruKGgDQy1gDXnZU7"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "Vichorra",
+      "url": "https://open.spotify.com/track/4Oq6ReS6lMHCb5kgULJcN9"
+    },
+    {
+      "album": {
         "name": "Voh Raaz",
         "url": "https://open.spotify.com/album/1uhAKbw5vUMmAuDPLKn1gD"
       },
@@ -32974,6 +33190,28 @@
       "duration_ms": 159782,
       "name": "Zamaana",
       "url": "https://open.spotify.com/track/6lsm8EHNoxB4AbhindOSub"
+    },
+    {
+      "album": {
+        "name": "Zara",
+        "url": "https://open.spotify.com/album/5TlkJUm6t99NyzeyeUCL6O"
+      },
+      "artists": [
+        {
+          "name": "Nasir Hameed",
+          "url": "https://open.spotify.com/artist/2eyF3W3ivD7vpcOlZea9OW"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "Zara",
+      "url": "https://open.spotify.com/track/14l9V3PXCrnFvDdn3sgxnw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,392 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,339 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 99 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/1iilSLhyTDanY7cCPwZ3tl) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/5Ac9bCzeHTohN8KxBwDkzl) | 2:54 |
 | 100 | [What They Say](https://open.spotify.com/track/6KbsA9kAmOcECPJeCy58XO) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/15qeyD4UdDxtNCAQyWEb44) | 2:46 |
 
-Snapshot ID: `Z7nc2QAAAAB/zoDFnGJEo22PRu/raVGO`
+Snapshot ID: `Z7nc2QAAAAAC9nWvIwE58XFrbhLREoZE`

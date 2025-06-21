@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 327600,
       "name": "Guitarra",
       "url": "https://open.spotify.com/track/1rUAQW8ZDGYVL3tzgn5cmY"
@@ -7805,6 +7805,28 @@
     },
     {
       "album": {
+        "name": "peliNEGRA",
+        "url": "https://open.spotify.com/album/4onF6IEHaOkdlK6WRNlT7w"
+      },
+      "artists": [
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        },
+        {
+          "name": "Dubosky",
+          "url": "https://open.spotify.com/artist/6tMb6Fah1HWzlaHE9ylNGJ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226046,
+      "name": "peliNEGRA",
+      "url": "https://open.spotify.com/track/7AHNRb8S3Woc0ZvZGoOJhY"
+    },
+    {
+      "album": {
         "name": "Pensamientos Locos",
         "url": "https://open.spotify.com/album/0yzba755yWZ56UHjvm3BGE"
       },
@@ -11072,6 +11094,32 @@
       "duration_ms": 160853,
       "name": "UNA VAINA LOKA",
       "url": "https://open.spotify.com/track/5yTkmQFKrr3raDab181y59"
+    },
+    {
+      "album": {
+        "name": "uno de prueba",
+        "url": "https://open.spotify.com/album/0Krv6KtbugjtstQwXPL5z3"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "uno de prueba",
+      "url": "https://open.spotify.com/track/5sn6g2N55J9UHdO5bDsRY2"
     },
     {
       "album": {

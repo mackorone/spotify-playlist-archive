@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > The prince and Simon are determined to be together, but will they jeopardize their freedom and love in conflict with Royal ideals, traditions, and responsibilities?? Young Royals season 3, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,376 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,364 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [As Long As You’re Here \- Young Royals Remix](https://open.spotify.com/track/29HY0czVeZzgSUvdF4VSPu) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [As Long As You’re Here \(Young Royals Remix\)](https://open.spotify.com/album/2LxgqfXXCD8qJJm1yIRzXQ) | 3:30 |
-| 2 | [Alice](https://open.spotify.com/track/51h6uOquXeixp8G1oUEgsx) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Alice](https://open.spotify.com/album/7CrTya5irJU9curyyVD1FM) | 3:20 |
+| 2 | [Alice](https://open.spotify.com/track/51h6uOquXeixp8G1oUEgsx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Alice](https://open.spotify.com/album/7CrTya5irJU9curyyVD1FM) | 3:20 |
 | 3 | [Revolution \- Apotech Remix](https://open.spotify.com/track/4AfQ3ft8zT69SfQzgUSUT8) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf), [Apotech](https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec) | [Revolution \(Apotech Remix\)](https://open.spotify.com/album/5EgbTRpxahr9YPitc5IuVt) | 5:01 |
 | 4 | [C’est la Vie \- Graham Lake Edit](https://open.spotify.com/track/6pWPMNxEGOhuiBWwtFvg8w) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [C’est la Vie \(Graham Lake Edit\)](https://open.spotify.com/album/6WG8xBDH9ia8hFSH72QSWA) | 2:24 |
 | 5 | [Like Whoa](https://open.spotify.com/track/7r5juAqtvBaRRnz7uLQuD4) | [yung cxreal](https://open.spotify.com/artist/4Djzby5Qy3BtJRvLgdwltC), [baby frankie](https://open.spotify.com/artist/2c0coYXF1pNawxDyEwd7MZ) | [Like Whoa](https://open.spotify.com/album/2lhoBzwUVQoWGJSZpQoKRt) | 1:53 |

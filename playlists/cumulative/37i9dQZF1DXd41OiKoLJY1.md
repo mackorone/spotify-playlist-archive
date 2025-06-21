@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: rienne Artwork: Isu Kim
 
-3,334 songs - 8 day 3 hr 27 min
+3,335 songs - 8 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2455,6 +2455,7 @@
 | [rain on me](https://open.spotify.com/track/1fee18mlyrReMegptaJ9pM) | [Ryu Temples](https://open.spotify.com/artist/4apdMdM1s7jhXy4ox4TU6d), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [rain on me](https://open.spotify.com/album/7bgMotfq7ZSwfXJ4HfVH3j) | 2:44 | 2023-07-06 | 2023-07-28 |
 | [Rainbow](https://open.spotify.com/track/0kNYNYQMcwaXIl6Wci7iG9) | [Krishnah Gravidez](https://open.spotify.com/artist/07zsd76LIHK96rwVQkzx18) | [Rainbow](https://open.spotify.com/album/5SgEfLubHqInNd5bQO3nVE) | 5:02 | 2025-05-30 |  |
 | [Rainbow Coffee](https://open.spotify.com/track/5JMgdosuqGaEEfItCh9gET) | [Dune 32](https://open.spotify.com/artist/09iCssmMxNmpBqYP05TSPU) | [P.S\. \(Party Serenade\)](https://open.spotify.com/album/7APZrZtoXbpRF2nWwVzS54) | 2:45 | 2022-04-07 | 2022-04-22 |
+| [Rainbow Connection](https://open.spotify.com/track/1N0ET35cZrVe3MUC8xEu6b) | [Marc Biala](https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg) | [Rainbow Connection](https://open.spotify.com/album/6QKYiQlVvZ9NnfdAhewsOK) | 3:00 | 2025-06-19 |  |
 | [Rainman](https://open.spotify.com/track/5LYel7cXR1MM5A8k0Sao4L) | [G.Lonzo](https://open.spotify.com/artist/1IxojqPnoRQg4l7C2mnJ7l) | [Rainman](https://open.spotify.com/album/5uon23HFPCFWE0dtvyz3He) | 2:57 | 2025-02-14 | 2025-04-04 |
 | [Raket Man](https://open.spotify.com/track/2XUSOL2OnPnZh6JFxV06Wk) | [Boss Toyo](https://open.spotify.com/artist/6yFPknOGs7put18465dKo6) | [Raket Man](https://open.spotify.com/album/2FQd1uTzSzqL0QFCThmcpr) | 2:37 | 2024-09-26 | 2024-11-08 |
 | [RARA!](https://open.spotify.com/track/1I3Yg4SlqnqObPpjSrFRni) | [HULYO](https://open.spotify.com/artist/40W53wWBmd1vKv3C8DUH58), [VITO MIRANDA](https://open.spotify.com/artist/0J2C9ogdY1dgGqjfmO925H), [HENER](https://open.spotify.com/artist/0bZVNqnIJhXWvto23u7aNS) | [RARA!](https://open.spotify.com/album/5htdCMWg6eSqAAVH8472Cf) | 3:50 | 2025-06-05 |  |

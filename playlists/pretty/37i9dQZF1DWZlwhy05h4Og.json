@@ -1,13 +1,45 @@
 {
-  "description": "The sweetest bops. Cover: no na",
-  "num_followers": 61027,
+  "description": "The sweetest bops. Cover: ILLIT",
+  "num_followers": 61035,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEythQAAAAD+W+OuP96hVCi4isYyXxRI",
+  "snapshot_id": "aFTc9AAAAACRJnKqllvM4l7qwsN5waiA",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "bomb",
+        "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 188641,
+      "name": "Billyeoon Goyangi (Do the Dance)",
+      "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
     {
       "added_at": "2025-05-09 04:00:04",
       "album": {
@@ -59,6 +91,22 @@
       "duration_ms": 130442,
       "name": "See U Tonight (feat. YUNAH & MINJU of ILLIT)",
       "url": "https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
     },
     {
       "added_at": "2025-05-02 04:00:32",
@@ -275,22 +323,6 @@
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2025-05-02 04:00:32",
-      "album": {
-        "name": "All I Wanna Do Is Party",
-        "url": "https://open.spotify.com/album/798r27lMaBnS3WizkInhhc"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 218354,
-      "name": "All I Wanna Do Is Party",
-      "url": "https://open.spotify.com/track/7iN74jtHyyQlqHZt8slpdk"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -569,22 +601,6 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "I'LL LIKE YOU",
-        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 176854,
-      "name": "Cherish (My Love)",
-      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
-    },
-    {
       "added_at": "2024-10-04 04:27:59",
       "album": {
         "name": "Moonlit Floor (Kiss Me)",
@@ -835,22 +851,6 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/6qnk2D0xy1jzmfnyDd8pBe"
-      },
-      "artists": [
-        {
-          "name": "f5ve",
-          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
-        }
-      ],
-      "duration_ms": 141782,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/2QzOxrOZeP95cy5fEKzfwQ"
     },
     {
       "added_at": "2024-07-26 04:00:00",

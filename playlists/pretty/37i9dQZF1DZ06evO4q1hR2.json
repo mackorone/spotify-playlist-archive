@@ -1,29 +1,13 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 66314,
+  "num_followers": 66424,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFIBgAAAAADYSA3MRxjHl1NQnyw84/ca",
+  "snapshot_id": "aFNTAAAAAAAXS+w5cd5ez5PAAKzFkc4d",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "50 y Pico",
-        "url": "https://open.spotify.com/album/3NffwOXCg95YitW7ABdZnm"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "50 y Pico",
-      "url": "https://open.spotify.com/track/2hSrqMfABPszeVC8L4UkmN"
-    },
     {
       "added_at": null,
       "album": {
@@ -775,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "Pase Y Pase",
-      "url": "https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
       },
@@ -807,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "Pase Y Pase",
+      "url": "https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Concedeme",
         "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 146533,
       "name": "Amargo Dolor",
       "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "50 y Pico",
+        "url": "https://open.spotify.com/album/3NffwOXCg95YitW7ABdZnm"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "50 y Pico",
+      "url": "https://open.spotify.com/track/2hSrqMfABPszeVC8L4UkmN"
     },
     {
       "added_at": null,

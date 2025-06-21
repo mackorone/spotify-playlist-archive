@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Morat en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Denisse Guerrero en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 172013,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
@@ -669,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Aplauso",
+        "url": "https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232153,
+      "name": "Aplauso",
+      "url": "https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR"
+    },
+    {
+      "album": {
         "name": "Apolo",
         "url": "https://open.spotify.com/album/1jZEKOKau3v85vo6PxyHwy"
       },
@@ -974,7 +996,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 138143,
       "name": "Bate",
       "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
@@ -2120,7 +2142,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 160322,
       "name": "Cuando Estamos Solas",
       "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
@@ -4135,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Honestamente",
+        "url": "https://open.spotify.com/album/3mk8FlBc3u4c2XQ7pNlLjJ"
+      },
+      "artists": [
+        {
+          "name": "Denisse Guerrero",
+          "url": "https://open.spotify.com/artist/1vVOBTQuNsGrbHedkTKUD5"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216463,
+      "name": "Honestamente",
+      "url": "https://open.spotify.com/track/5OdLvP4LOpu3H388nhnmBd"
+    },
+    {
+      "album": {
         "name": "Hora Cero",
         "url": "https://open.spotify.com/album/6RtOO5ZEjNLcugOS1BymHk"
       },
@@ -5384,7 +5424,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 171788,
       "name": "Me Promet\u00ed",
       "url": "https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od"
@@ -6556,7 +6596,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 144000,
       "name": "ONE SHOT",
       "url": "https://open.spotify.com/track/5eiinOqRCTAXl5RIJmby8o"
@@ -8359,6 +8399,24 @@
     },
     {
       "album": {
+        "name": "SUAVE",
+        "url": "https://open.spotify.com/album/6XhJKRBMJiZY4QGDAdFmDy"
+      },
+      "artists": [
+        {
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236720,
+      "name": "SUAVE",
+      "url": "https://open.spotify.com/track/1j2kPibv9umaq6GBl0IrV7"
+    },
+    {
+      "album": {
         "name": "Suerte",
         "url": "https://open.spotify.com/album/7oggcTW87RNFibNUQLi1hB"
       },
@@ -8666,7 +8724,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 189360,
       "name": "Te Fuiste",
       "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
@@ -9620,6 +9678,28 @@
       "duration_ms": 175058,
       "name": "vuelta atr\u00e1s",
       "url": "https://open.spotify.com/track/4FMMjc5dSWjVAXPniOgPMm"
+    },
+    {
+      "album": {
+        "name": "vueltas",
+        "url": "https://open.spotify.com/album/20XSXzDkDRy5gZm1xMA9Vi"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198480,
+      "name": "vueltas",
+      "url": "https://open.spotify.com/track/2xsnZhD0hhA3JWBz0ahCSX"
     },
     {
       "album": {

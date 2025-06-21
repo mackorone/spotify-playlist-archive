@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,258 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,554 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 49 | [Ancient Words](https://open.spotify.com/track/61JkOF5R9vLDam50DGBeye) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Ancient Words](https://open.spotify.com/album/4WZLaWNU2LQkmK4xcDB7Nt) | 2:55 |
 | 50 | [Never](https://open.spotify.com/track/3IQdVOoiyUFhW00lDwJn8g) | [Chad Prins](https://open.spotify.com/artist/0Pw2kX5DUyKzek3ClK1Dvg), [Seve MusicKid](https://open.spotify.com/artist/7rc5DX7anRXeXWjgDEAdbn) | [Never](https://open.spotify.com/album/3H0raKStqrLreTil7aNlDM) | 3:38 |
 
-Snapshot ID: `aEQFYAAAAACZz7jIhGdw7TcK1SyLXfwj`
+Snapshot ID: `aEQFYAAAAAC6EeAfu9K0uxNitQrscz1d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 
 > The songs of Detty December 2024 as chosen by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,592 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,598 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 43 | [Tabbu](https://open.spotify.com/track/4kIz5ju9JjYrN8IEJHxM5f) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [Ava Peace](https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE) | [Tabbu](https://open.spotify.com/album/5Qj0H4VqbtcwQ1wDxqqmTU) | 3:07 |
 | 44 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 |
 | 45 | [NAMKATAA](https://open.spotify.com/track/6PNJlK25YXKwjtgppI9Ejp) | [HOOD BOYZ](https://open.spotify.com/artist/1yONcOLoE5kSfTqTHmqrdR) | [NAMKATAA](https://open.spotify.com/album/0hsAL9NL1ioXQV6qT6Cgwt) | 2:24 |
-| 46 | [Wale Wale \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/0XFBfGFjH7oG2fs1LUMUwI) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Wale Wale \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/47dA6MzeREthztzSXZB1TU) | 3:53 |
-| 47 | [NO SIR](https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NO SIR](https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr) | 2:21 |
+| 46 | [NO SIR](https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NO SIR](https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr) | 2:21 |
+| 47 | [Wale Wale \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/0XFBfGFjH7oG2fs1LUMUwI) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Wale Wale \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/47dA6MzeREthztzSXZB1TU) | 3:53 |
 | 48 | [Dawa \- Remix](https://open.spotify.com/track/7zzFvz0n4YK0hjZVAtx0PS) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [Swangz Avenue Presents: Swangz All Star, Vol\. 1](https://open.spotify.com/album/2X2gEowa6OeYS9NlUP9kt3) | 3:12 |
 | 49 | [Gucci](https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Gucci \(Deleted\)](https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8) | 4:07 |
 | 50 | [L F G](https://open.spotify.com/track/7hvdKKnWyrXNVcqOtCd1lH) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R) | [L F G](https://open.spotify.com/album/5az02YEzbbxWfFv2kkPw5V) | 4:26 |

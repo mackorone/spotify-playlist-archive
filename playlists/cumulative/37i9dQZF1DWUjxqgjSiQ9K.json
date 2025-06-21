@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Son Celestial, Peter Manjarr\u00e9s, y Bola\u00f1ito",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Mosaic MSC",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 199400,
       "name": "Cu\u00e1nto Te Amo",
       "url": "https://open.spotify.com/track/5WEXhzo0KnKg06SdyDYgr0"
@@ -6582,7 +6582,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 286402,
       "name": "Gracia Sublime Es",
       "url": "https://open.spotify.com/track/71z9EO7E5NuQQinTyqh5L2"
@@ -6758,7 +6758,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 308989,
       "name": "Gracias A La Cruz",
       "url": "https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF"
@@ -7350,6 +7350,36 @@
       "duration_ms": 317805,
       "name": "Holy Forever - Espa\u00f1ol",
       "url": "https://open.spotify.com/track/0ZxUHxwz0iPK0wnTCetbss"
+    },
+    {
+      "album": {
+        "name": "Holy Forever - Espa\u00f1ol (feat. Miel San Marcos)",
+        "url": "https://open.spotify.com/album/1tn8OCv830LdTI1G6GGZPF"
+      },
+      "artists": [
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308131,
+      "name": "Holy Forever - Espa\u00f1ol (feat. Miel San Marcos)",
+      "url": "https://open.spotify.com/track/18uc7CE54coTBtZ9OXKkb2"
     },
     {
       "album": {
@@ -9330,7 +9360,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 580150,
       "name": "Mi Dios Es El Primero",
       "url": "https://open.spotify.com/track/5hkIqZsDpgfm7hhtXqc602"
@@ -9844,7 +9874,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 210058,
       "name": "M\u00e1s Que Ayer",
       "url": "https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH"
@@ -9866,6 +9896,24 @@
       "duration_ms": 162734,
       "name": "M\u00e1s Rico Del Mundo",
       "url": "https://open.spotify.com/track/5pBLTLl8OqgNtHc6Mll3J5"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Santo",
+        "url": "https://open.spotify.com/album/5orjxofGwmP5Yg1JcgA16n"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446666,
+      "name": "M\u00e1s Santo",
+      "url": "https://open.spotify.com/track/1ajhhCEKHZxoS9SksLH0IY"
     },
     {
       "album": {
@@ -10780,6 +10828,28 @@
       "duration_ms": 243837,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/3lKlApf4R2kgiD9Lim9dMZ"
+    },
+    {
+      "album": {
+        "name": "Nuestro Dios Es Fiel (En Vivo)",
+        "url": "https://open.spotify.com/album/2aVa1BUvnd5DppqSEDCzR8"
+      },
+      "artists": [
+        {
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343696,
+      "name": "Nuestro Dios Es Fiel - En Vivo",
+      "url": "https://open.spotify.com/track/6OXPcHNL0Y4GHe8EImPOOf"
     },
     {
       "album": {
@@ -12098,6 +12168,28 @@
       "duration_ms": 140332,
       "name": "RESPIRA",
       "url": "https://open.spotify.com/track/4R85uGZlT9AOnIjPp1DXHu"
+    },
+    {
+      "album": {
+        "name": "RESPIRA (REMIX)",
+        "url": "https://open.spotify.com/album/2OJ2gviPiOzoZIEpXtQZ9p"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208687,
+      "name": "RESPIRA - REMIX",
+      "url": "https://open.spotify.com/track/4o484IYTgU4rWMjg6OEv1L"
     },
     {
       "album": {
@@ -13934,7 +14026,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 237711,
       "name": "Te Necesito Tanto",
       "url": "https://open.spotify.com/track/7gDbSsPfuSB7vn2vqZfT6g"
@@ -14350,6 +14442,24 @@
       "duration_ms": 154999,
       "name": "Todo Gracias Al Se\u00f1or",
       "url": "https://open.spotify.com/track/5uVPqmFDUeveJ1bQFtWTyY"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e1nto Te Amo",
+        "url": "https://open.spotify.com/album/5RAfoek4jngJ5JXhDdRbdn"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Todo lo entrego a Ti",
+      "url": "https://open.spotify.com/track/7jwcIVhWVZINSsHaLjDEuK"
     },
     {
       "album": {
@@ -16150,6 +16260,28 @@
       "duration_ms": 164217,
       "name": "Z99",
       "url": "https://open.spotify.com/track/7rb5NtvK1x0NTSGIxyrmyM"
+    },
+    {
+      "album": {
+        "name": "\u00a1RUIDO!",
+        "url": "https://open.spotify.com/album/6ZHISMBt3iTl5zCG3bk697"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "\u00a1RUIDO!",
+      "url": "https://open.spotify.com/track/2XTFltfNEENsCMSQuZ7SQ3"
     },
     {
       "album": {

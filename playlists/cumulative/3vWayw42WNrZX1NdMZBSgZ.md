@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Becky G &amp; Manuel Turizo
 
-897 songs - 1 day 23 hr 47 min
+898 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [ANTES QUE SALGA EL SOL](https://open.spotify.com/track/1vucS7X4otbyQSZ9RXYXFI) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ANTES QUE SALGA EL SOL](https://open.spotify.com/album/1LRi8tnlnSaxAcffcxzhwi) | 3:03 | 2022-02-02 | 2023-05-26 |
 | [AOK \- with Manuel Turizo](https://open.spotify.com/track/4mMVfVrFM6b0boY4EXTFvK) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [AOK \(with Manuel Turizo\)](https://open.spotify.com/album/6oKpggTx92dsXIbFgfUgDf) | 3:13 | 2022-02-02 | 2023-05-26 |
 | [Apapáchame Lento](https://open.spotify.com/track/04BffOVFlbFBHZMy8hBK9N) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Apapáchame Lento](https://open.spotify.com/album/3517qoFZybOtp9VKJh62Gp) | 3:21 | 2024-06-07 |  |
+| [Aplauso](https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Aplauso](https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb) | 3:52 | 2025-06-20 |  |
 | [Aplicándola](https://open.spotify.com/track/3SG1fjipMfzWjvFLUQjPba) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Aplicándola](https://open.spotify.com/album/66gnFlDdHytTZGkGRVK1IA) | 3:07 | 2025-04-25 |  |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-07 | 2023-05-26 |
 | [Apreton](https://open.spotify.com/track/3bUhvt1PcJVZdliG1XtpXW) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Apreton](https://open.spotify.com/album/3Li9ZLoAyR7PSnJ1YojaFH) | 4:18 | 2022-12-09 | 2023-06-01 |

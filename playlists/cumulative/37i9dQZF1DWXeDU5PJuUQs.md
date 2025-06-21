@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-216 songs - 13 hr 25 min
+217 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 | 2021-12-10 | 2023-12-18 |
 | [La Ventanita / Beso a Beso](https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 8:03 | 2021-12-10 | 2025-03-01 |
 | [Labios Compartidos \- En Vivo](https://open.spotify.com/track/4mbZ7lM957Ljb3grkhrs2q) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:32 | 2021-12-10 | 2022-07-28 |
+| [Latidos](https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [El Club de la Cumbia](https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU) | [Rambla De Montevideo](https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l) | 2:57 | 2025-06-20 |  |
 | [Llamala / Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/7wvG7AxaUlgrfhnl4LozrZ) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En Vivo](https://open.spotify.com/album/3KwyevLnQNE7nXJtmIOLc9) | 3:57 | 2025-03-14 |  |
 | [Lloraras mas de diez veces](https://open.spotify.com/track/3nYGOZ9rTj1czXLrKHoFqQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aniversario](https://open.spotify.com/album/40PFDic0PjqdNetzrHp1zD) | 3:29 | 2025-02-28 |  |
 | [Lo Intentamos \- En Vivo](https://open.spotify.com/track/63Du15jCCnjjM2nzQ3OIS4) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Lo Intentamos \(En Vivo\)](https://open.spotify.com/album/6ZG2zkEkNlpiEq8SRcn7tT) | 2:20 | 2022-03-18 | 2022-12-25 |
@@ -122,7 +123,7 @@
 | [Me Vas a Extrañar](https://open.spotify.com/track/26WHTbuQHbpkx3TBNR4afU) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Magoman](https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc) | [Un Soñador Eterno](https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo) | 2:45 | 2021-12-10 |  |
 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 | 2021-12-10 |  |
 | [Mentiras / Es Mi Culpa / Lo Intentamos \- En Vivo](https://open.spotify.com/track/6T3rr3WFTuwQ35v178QIyk) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Mentiras / Es Mi Culpa / Lo Intentamos \(En Vivo\)](https://open.spotify.com/album/5SU7PDzbzYTJW9ZkfzM9yM) | 7:54 | 2021-12-10 | 2022-07-24 |
-| [Mi celosa hermosa](https://open.spotify.com/track/3FtWgxYcMusd1RWw9Up16U) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Sergio Torres \- Session \#50 \(Sin Miedo: Lado S\)](https://open.spotify.com/album/3Q4Pml7HR06oTRmvXfdIiq) | 3:02 | 2025-03-25 |  |
+| [Mi celosa hermosa](https://open.spotify.com/track/3FtWgxYcMusd1RWw9Up16U) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Sergio Torres \- Session \#50 \(Sin Miedo: Lado S\)](https://open.spotify.com/album/3Q4Pml7HR06oTRmvXfdIiq) | 3:02 | 2025-03-25 | 2025-06-21 |
 | [Mi Condena \- En Vivo](https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:00 | 2021-12-10 | 2023-06-22 |
 | [Mi Unico Amor \- En Vivo](https://open.spotify.com/track/1D4uvZibCvsPF4iaBcyQ57) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:48 | 2022-01-03 | 2024-10-07 |
 | [Mi Único Amor \- En Vivo](https://open.spotify.com/track/0OAtejSvmMXbiClNIYOndX) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En Vivo](https://open.spotify.com/album/3KwyevLnQNE7nXJtmIOLc9) | 2:53 | 2025-03-14 |  |

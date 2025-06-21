@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Granuja en portada ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Apache y Reker en portada ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 203073,
       "name": "(A) COMBATE",
       "url": "https://open.spotify.com/track/4Ib8zxCJ6XStdUsJzXHlog"
+    },
+    {
+      "album": {
+        "name": "BAJO EL SOLAR",
+        "url": "https://open.spotify.com/album/3BMiTVbG2769lF6MyNjtXs"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "Ecks One",
+          "url": "https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221298,
+      "name": "(B) BULLDOZER",
+      "url": "https://open.spotify.com/track/1DJ4jEr0PB5G4fsscFLZxE"
     },
     {
       "album": {
@@ -722,7 +744,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 194838,
       "name": "ACRU // Round 15",
       "url": "https://open.spotify.com/track/3CWsQCk670Rlq01J7xZAHZ"
@@ -908,6 +930,24 @@
       "duration_ms": 210148,
       "name": "Agua Bendita",
       "url": "https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV"
+    },
+    {
+      "album": {
+        "name": "Agua Fr\u00eda",
+        "url": "https://open.spotify.com/album/1vdYukyGnVgL5QwyXJXWS7"
+      },
+      "artists": [
+        {
+          "name": "Escandaloso Xp\u00f3sito",
+          "url": "https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151246,
+      "name": "Agua Fr\u00eda",
+      "url": "https://open.spotify.com/track/4fUBKCoGBu0P62la0xGzwG"
     },
     {
       "album": {
@@ -1462,7 +1502,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 170322,
       "name": "Anfeta",
       "url": "https://open.spotify.com/track/6bVPOzKI4R5PbnpNVQoeR2"
@@ -3688,7 +3728,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 155890,
       "name": "COCINE Y COCINE",
       "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
@@ -4632,7 +4672,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 160000,
       "name": "De Niro",
       "url": "https://open.spotify.com/track/61hMgj0Y74kOf3GXItObEf"
@@ -9741,6 +9781,32 @@
     },
     {
       "album": {
+        "name": "Le Pido a la Noche",
+        "url": "https://open.spotify.com/album/5A2O82embthnUakFLo7US1"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241656,
+      "name": "Le Pido a la Noche",
+      "url": "https://open.spotify.com/track/1qb2uXjDs1Oms1RLJkJP4q"
+    },
+    {
+      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/49UsGxXPbBwqLL3HW11TYU"
       },
@@ -10544,7 +10610,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 182045,
       "name": "MAGMA",
       "url": "https://open.spotify.com/track/0bMc9QJk0k7Pir54IGuRVL"
@@ -12299,6 +12365,32 @@
     },
     {
       "album": {
+        "name": "APUESTA AL NEGRO",
+        "url": "https://open.spotify.com/album/2Thjjg1KbIfaWJPyQpKnlu"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Reke",
+          "url": "https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4"
+        },
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "N.E.R",
+      "url": "https://open.spotify.com/track/36JN9OBi1oQHVdw0KzCTgD"
+    },
+    {
+      "album": {
         "name": "North West",
         "url": "https://open.spotify.com/album/6RpmPpmhVfGyDuk2I4orjk"
       },
@@ -12494,7 +12586,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 142767,
       "name": "NASSY",
       "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
@@ -12826,7 +12918,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 280559,
       "name": "No Confundan",
       "url": "https://open.spotify.com/track/6gAd7ImfhKB5xYr546A0xC"
@@ -14722,6 +14814,28 @@
       "duration_ms": 232320,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
+    },
+    {
+      "album": {
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/1kJTTM9L2r7C4biyAJQqRY"
+      },
+      "artists": [
+        {
+          "name": "menteabierta",
+          "url": "https://open.spotify.com/artist/3Z5jrGaclyPGZxbGcVuCFy"
+        },
+        {
+          "name": "Pap\u00e1 C\u00f3digo",
+          "url": "https://open.spotify.com/artist/75A5TNmwmWjnnMaqA2OYPY"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267145,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/1Eniu6iGhu0BYtLSZIKCVt"
     },
     {
       "album": {
@@ -17917,6 +18031,28 @@
     },
     {
       "album": {
+        "name": "Todo Ir\u00e1 Bien",
+        "url": "https://open.spotify.com/album/6QsEigzBAgnkBS9AHbRIRP"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191713,
+      "name": "Todo Ir\u00e1 Bien",
+      "url": "https://open.spotify.com/track/3jX12gKsZ4bPUne2d9b4aQ"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/6sNtRiZlTv2j2wNN65pOxm"
       },
@@ -18228,6 +18364,28 @@
       "duration_ms": 178257,
       "name": "Tu Tu",
       "url": "https://open.spotify.com/track/4wsUPhojb4szqoJdIaL6H6"
+    },
+    {
+      "album": {
+        "name": "Turro Original",
+        "url": "https://open.spotify.com/album/6PxyH2ldzlbuuXNpgApE5O"
+      },
+      "artists": [
+        {
+          "name": "R Flakkkk",
+          "url": "https://open.spotify.com/artist/1cTlHtGv0loztFIBKGtvll"
+        },
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Turro Original",
+      "url": "https://open.spotify.com/track/1ZmdOMDKMnnmEzyRUrwjKJ"
     },
     {
       "album": {

@@ -1,15 +1,15 @@
 {
   "description": "The home of Josh Ross and Canadian country music. ",
-  "num_followers": 80960,
+  "num_followers": 80961,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aExQJAAAAACq9yhxZBga2GygwM0t1mTC",
+  "snapshot_id": "aFTc4QAAAABx5SXrjG9hHLp7RZRB1Nl0",
   "tracks": [
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Drunk Right Now (Na Na Na) with Akon",
         "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Somebody I Know",
         "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
@@ -45,23 +45,7 @@
       "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Never Drinking Again",
-        "url": "https://open.spotify.com/album/6cIFKlwoPIhIaEohKz99Py"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        }
-      ],
-      "duration_ms": 149854,
-      "name": "Never Drinking Again",
-      "url": "https://open.spotify.com/track/6h6ncnPmJ1qa75RcjmlkuK"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
@@ -81,7 +65,23 @@
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Never Drinking Again",
+        "url": "https://open.spotify.com/album/6cIFKlwoPIhIaEohKz99Py"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "duration_ms": 149854,
+      "name": "Never Drinking Again",
+      "url": "https://open.spotify.com/track/6h6ncnPmJ1qa75RcjmlkuK"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/0tDsJddA8lRaQC2Y5zE5X2"
@@ -101,135 +101,23 @@
       "url": "https://open.spotify.com/track/2J2lkDj2UeHdCLLkszHN6s"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+        "name": "Smooth Like Vinyl",
+        "url": "https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
         }
       ],
-      "duration_ms": 169331,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
+      "duration_ms": 219545,
+      "name": "Smooth Like Vinyl",
+      "url": "https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Woman In The Mirror",
-        "url": "https://open.spotify.com/album/269aSTuFbQ4tyn7JhyjUS5"
-      },
-      "artists": [
-        {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
-        }
-      ],
-      "duration_ms": 179546,
-      "name": "Woman In The Mirror",
-      "url": "https://open.spotify.com/track/3wqgVvpgIt2bqlDP4T65kU"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Middle Of The Bed",
-        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Middle Of The Bed - Single Version",
-      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/0pxs1IYZuNx6olT6kyP6vj"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ryan",
-          "url": "https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK"
-        }
-      ],
-      "duration_ms": 141401,
-      "name": "Issues",
-      "url": "https://open.spotify.com/track/0lWZk9KrUPf9TV9E1mnuy2"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Days Like This",
-        "url": "https://open.spotify.com/album/0HFWQXxhxtlJ4ztZUIkjpW"
-      },
-      "artists": [
-        {
-          "name": "Tony Stevens",
-          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
-        }
-      ],
-      "duration_ms": 184155,
-      "name": "You Problem",
-      "url": "https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Let It Ride",
-        "url": "https://open.spotify.com/album/1tMjcGC2FhekVNtpytOO8H"
-      },
-      "artists": [
-        {
-          "name": "Aaron Pritchett",
-          "url": "https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX"
-        }
-      ],
-      "duration_ms": 182002,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/79pw9LTjx6RO0PCPdIgOnH"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "I Saw the Devil",
-        "url": "https://open.spotify.com/album/0ZALmMpegki8cMOJzwoqCe"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "I Saw the Devil",
-      "url": "https://open.spotify.com/track/44ehKJU7RkPnu9O3oWy5Wd"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Crushin' Cans",
-        "url": "https://open.spotify.com/album/1Ohy30OrKy7b0ewzmnuHYN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Langdon",
-          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
-        }
-      ],
-      "duration_ms": 150138,
-      "name": "Crushin' Cans",
-      "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Let Your Horses Run - The Album",
         "url": "https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa"
@@ -245,7 +133,187 @@
       "url": "https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Drinkin' Hand",
+        "url": "https://open.spotify.com/album/04bJuRgewEbjeGiSrQgPWT"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goodvin",
+          "url": "https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW"
+        }
+      ],
+      "duration_ms": 184150,
+      "name": "Said No Redneck Ever",
+      "url": "https://open.spotify.com/track/55x4wIhw8MZMAxJocbnebF"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Woman In The Mirror",
+        "url": "https://open.spotify.com/album/269aSTuFbQ4tyn7JhyjUS5"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "duration_ms": 179546,
+      "name": "Woman In The Mirror",
+      "url": "https://open.spotify.com/track/3wqgVvpgIt2bqlDP4T65kU"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Mitch Zorn",
+        "url": "https://open.spotify.com/album/2WYoAwG03kFOyL8oIqOnfP"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "duration_ms": 143675,
+      "name": "Stray Bullet",
+      "url": "https://open.spotify.com/track/5e6nn5XHkxlE03vG6Hp8XH"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Middle Of The Bed",
+        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Middle Of The Bed - Single Version",
+      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/0pxs1IYZuNx6olT6kyP6vj"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ryan",
+          "url": "https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK"
+        }
+      ],
+      "duration_ms": 141401,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/0lWZk9KrUPf9TV9E1mnuy2"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/0HFWQXxhxtlJ4ztZUIkjpW"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "duration_ms": 184155,
+      "name": "You Problem",
+      "url": "https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/1tMjcGC2FhekVNtpytOO8H"
+      },
+      "artists": [
+        {
+          "name": "Aaron Pritchett",
+          "url": "https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX"
+        }
+      ],
+      "duration_ms": 182002,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/79pw9LTjx6RO0PCPdIgOnH"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "I Saw the Devil",
+        "url": "https://open.spotify.com/album/0ZALmMpegki8cMOJzwoqCe"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 200066,
+      "name": "I Saw the Devil",
+      "url": "https://open.spotify.com/track/44ehKJU7RkPnu9O3oWy5Wd"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "PICTURE [feat. Marie-Mai]",
+        "url": "https://open.spotify.com/album/42l9D8nuCx9jxheZeQSDDG"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Jacques",
+          "url": "https://open.spotify.com/artist/14nCwwni6uqZyDrhqRmwSM"
+        },
+        {
+          "name": "Marie-Mai",
+          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+        }
+      ],
+      "duration_ms": 266403,
+      "name": "PICTURE [feat. Marie-Mai]",
+      "url": "https://open.spotify.com/track/0wOZIDRrEEM2GCo1JN9gEH"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Crushin' Cans",
+        "url": "https://open.spotify.com/album/1Ohy30OrKy7b0ewzmnuHYN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Langdon",
+          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
+        }
+      ],
+      "duration_ms": 150138,
+      "name": "Crushin' Cans",
+      "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Chainsmokin Memories",
         "url": "https://open.spotify.com/album/3rt7VMQTX8Iw19AuWgTzOz"
@@ -261,7 +329,23 @@
       "url": "https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Alabama Way",
+        "url": "https://open.spotify.com/album/7wDibrtVMCs2DGXh3pSusG"
+      },
+      "artists": [
+        {
+          "name": "Ty Wilson",
+          "url": "https://open.spotify.com/artist/4RkiQ55j8u1VDG5TH9cSl1"
+        }
+      ],
+      "duration_ms": 159517,
+      "name": "Alabama Way",
+      "url": "https://open.spotify.com/track/3oYBQOjoXySfvg6ftSfzoq"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Airplane Bottle",
         "url": "https://open.spotify.com/album/6KRroYi7h81O1Aqg0DFsMR"
@@ -277,7 +361,7 @@
       "url": "https://open.spotify.com/track/4WLBwTpJGtdgQajrx3p27V"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Unbecoming",
         "url": "https://open.spotify.com/album/3O17GWIWMvwHsAlXtJyWG0"
@@ -293,7 +377,7 @@
       "url": "https://open.spotify.com/track/4i8qtmA24GECXY98t8reqM"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Scraps",
         "url": "https://open.spotify.com/album/34nunss6fUKT9SoQDOXVv0"
@@ -309,7 +393,23 @@
       "url": "https://open.spotify.com/track/4a5eCFMZrwy4WPZdWmLsjx"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Tequila Knows Me",
+        "url": "https://open.spotify.com/album/4hCnVX8rygqrjc1SBnC1hH"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 184218,
+      "name": "Tequila Knows Me",
+      "url": "https://open.spotify.com/track/5j8IqsMA9wFn7zRuVfh22E"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "7 Words",
         "url": "https://open.spotify.com/album/6BuB9ZxCxGsYZV0iSkv1xv"
@@ -325,7 +425,7 @@
       "url": "https://open.spotify.com/track/1DXBG86wW6xaOoaEryBaAa"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "I Ain't Country",
         "url": "https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO"
@@ -341,7 +441,7 @@
       "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Leave the Tab Open",
         "url": "https://open.spotify.com/album/6m3N5BjxA8SxB47RrTPGCN"
@@ -357,7 +457,7 @@
       "url": "https://open.spotify.com/track/2magbsrEX1TSYoCTO1Zocl"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "My Expense",
         "url": "https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL"
@@ -377,7 +477,7 @@
       "url": "https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim"
@@ -397,7 +497,7 @@
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "I've Learned",
         "url": "https://open.spotify.com/album/0RSR5g34ZYX9i8XkVcuU8V"
@@ -413,7 +513,7 @@
       "url": "https://open.spotify.com/track/0JpfPOgw7MU1io1tUpPXSF"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L"
@@ -437,7 +537,7 @@
       "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Western Wind",
         "url": "https://open.spotify.com/album/5zh5UmVMhLKwa1yJX8pSq7"
@@ -453,7 +553,7 @@
       "url": "https://open.spotify.com/track/5FuDbCYf4LAn3BjMMN85Y1"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Easy Man",
         "url": "https://open.spotify.com/album/5CYzJyJn3mc2qyhUdUdK6g"
@@ -469,23 +569,7 @@
       "url": "https://open.spotify.com/track/4PlLk1253CbpRzsdytzEWF"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Think Of Me",
-        "url": "https://open.spotify.com/album/0i3IraI8JUUOsVQtf1yL9k"
-      },
-      "artists": [
-        {
-          "name": "Mitch Zorn",
-          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Think Of Me",
-      "url": "https://open.spotify.com/track/5JvvemygdB8jliIliR3Zuw"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "How Do You Miss Me",
         "url": "https://open.spotify.com/album/2JmjXSDe7gzx5v8zQ7DOV7"
@@ -505,7 +589,7 @@
       "url": "https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Burn the Boats",
         "url": "https://open.spotify.com/album/0b2pYSIafKMLboovEJ6dzt"
@@ -521,7 +605,7 @@
       "url": "https://open.spotify.com/track/2KrEkvgkkqQo0PapU8OCm9"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Worth The Double",
         "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
@@ -537,23 +621,7 @@
       "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Hearing From Me Tonight",
-        "url": "https://open.spotify.com/album/5OQLrNUbrYfa75ccI6e0A2"
-      },
-      "artists": [
-        {
-          "name": "Cam Galloway",
-          "url": "https://open.spotify.com/artist/7qVBtsyA0sy6IleYAfiaT9"
-        }
-      ],
-      "duration_ms": 184308,
-      "name": "Hearing From Me Tonight",
-      "url": "https://open.spotify.com/track/6gyfxIu0ZhXqbGDhyxqnk4"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Tears That You'll Never Find",
         "url": "https://open.spotify.com/album/207ZWbh7bQe4q7nr9RzYXI"
@@ -569,7 +637,7 @@
       "url": "https://open.spotify.com/track/4yWUtE6IG23QQozUMqkUa2"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Second Thoughts",
         "url": "https://open.spotify.com/album/1cgInVw8eQwJr3ABMgRgPz"
@@ -585,7 +653,7 @@
       "url": "https://open.spotify.com/track/6Wacy9LPydA1qTJ1krIcuV"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Rally Around",
         "url": "https://open.spotify.com/album/7Lamznt9F1wvIzbOGvIrf0"
@@ -601,23 +669,7 @@
       "url": "https://open.spotify.com/track/7tH9XCkn5VJVtEsKli7GPt"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Sounds Like A Memory",
-        "url": "https://open.spotify.com/album/2bhbjNWxofLWAFddocTZd8"
-      },
-      "artists": [
-        {
-          "name": "Rob Fitzgerald",
-          "url": "https://open.spotify.com/artist/20qDnAzxoDhdA6eU6Ua6UT"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Sounds Like A Memory",
-      "url": "https://open.spotify.com/track/1C6Gh0FdaWKzE8qSiuWz6y"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Cowboys Were Kings",
         "url": "https://open.spotify.com/album/37Tv8IeglyTwzYmu4ODsep"
@@ -633,7 +685,7 @@
       "url": "https://open.spotify.com/track/3ycLnlRMlN9dOdGsJMWTJU"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Little Of The Drunk Me",
         "url": "https://open.spotify.com/album/1uHVq7dDuZi6gi5raL2yWj"
@@ -649,7 +701,7 @@
       "url": "https://open.spotify.com/track/3PYSxGSw6vMAWHhotPCvhx"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0RdWoRN0HHygQcwoefgR8g"
@@ -665,7 +717,7 @@
       "url": "https://open.spotify.com/track/3Sbf3VHkyZSTiHCZUhPHHY"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Slow Go the Days",
         "url": "https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg"
@@ -681,7 +733,7 @@
       "url": "https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Every Once In a While",
         "url": "https://open.spotify.com/album/5j71tQSZuhWVTjEntqM992"
@@ -697,23 +749,7 @@
       "url": "https://open.spotify.com/track/43qxCAP9QX3HoCVxRPUZdC"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "One Headlight",
-        "url": "https://open.spotify.com/album/103eblTnUASz74xoe9R7Vu"
-      },
-      "artists": [
-        {
-          "name": "The Redhill Valleys",
-          "url": "https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "One Headlight",
-      "url": "https://open.spotify.com/track/6CCtwKO9crJAAZkOM0wnit"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Gettin' By",
         "url": "https://open.spotify.com/album/3GE8zt1rkVQXcpYudJq4TI"
@@ -729,23 +765,7 @@
       "url": "https://open.spotify.com/track/4RrNZfwHpJO5Stb1xAOnij"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Wake Up!",
-        "url": "https://open.spotify.com/album/6iO7wwA1u9kt0YIIVHZwzb"
-      },
-      "artists": [
-        {
-          "name": "Bree Taylor",
-          "url": "https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA"
-        }
-      ],
-      "duration_ms": 156544,
-      "name": "Wake Up!",
-      "url": "https://open.spotify.com/track/71F7hwQLoQelYmYOfmkgQC"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Doin' What She Does",
         "url": "https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "All Roads Lead To You",
         "url": "https://open.spotify.com/album/6mHyBVGp4Xa0hCoNCGEnFG"
@@ -781,43 +801,7 @@
       "url": "https://open.spotify.com/track/4WAjW3T2fTS4RjX8UHIjVS"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Hometown (feat. Chris P\u00e9rez)",
-        "url": "https://open.spotify.com/album/6FG9eGF96Hx4liw1E1NbhV"
-      },
-      "artists": [
-        {
-          "name": "Louie TheSinger",
-          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
-        },
-        {
-          "name": "Chris Perez",
-          "url": "https://open.spotify.com/artist/6LCh5KjtTCSrYPwozzjrF1"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "Hometown (feat. Chris P\u00e9rez)",
-      "url": "https://open.spotify.com/track/7x1pTelZYfHkz0AKwNU9DX"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
-      "album": {
-        "name": "Reason To Love",
-        "url": "https://open.spotify.com/album/5tg7NcUK6SS93Q1QNJl51f"
-      },
-      "artists": [
-        {
-          "name": "Chad Brownlee",
-          "url": "https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU"
-        }
-      ],
-      "duration_ms": 161796,
-      "name": "Reason To Love",
-      "url": "https://open.spotify.com/track/7zmPA1n8avOloSbeTkGrRq"
-    },
-    {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Write About You",
         "url": "https://open.spotify.com/album/4hBVxzzLZoFO6eTn7dA4ix"
@@ -833,7 +817,7 @@
       "url": "https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes"
     },
     {
-      "added_at": "2025-06-13 16:21:56",
+      "added_at": "2025-06-20 04:00:33",
       "album": {
         "name": "Never Not Care",
         "url": "https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv"
@@ -851,6 +835,22 @@
       "duration_ms": 155740,
       "name": "Never Not Care",
       "url": "https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Wake Up!",
+        "url": "https://open.spotify.com/album/6iO7wwA1u9kt0YIIVHZwzb"
+      },
+      "artists": [
+        {
+          "name": "Bree Taylor",
+          "url": "https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA"
+        }
+      ],
+      "duration_ms": 156544,
+      "name": "Wake Up!",
+      "url": "https://open.spotify.com/track/71F7hwQLoQelYmYOfmkgQC"
     }
   ],
   "unique_name": "North Country",

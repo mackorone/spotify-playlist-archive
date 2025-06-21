@@ -1,6 +1,6 @@
 {
   "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sigma, Stefflon Don, Yung Saber",
-  "num_followers": 1467601,
+  "num_followers": 1467580,
   "original_name": "Massive Drum & Bass",
   "owner": {
     "name": "Spotify",
@@ -428,12 +428,12 @@
       },
       "artists": [
         {
-          "name": "KINGH",
-          "url": "https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo"
-        },
-        {
           "name": "SHY FX",
           "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "KINGH",
+          "url": "https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo"
         }
       ],
       "duration_ms": 152640,

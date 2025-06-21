@@ -2,9 +2,9 @@
 
 ### [New Music Friday France](https://open.spotify.com/playlist/37i9dQZF1DX742okrrpwah)
 
-> Amir, Hoshi, Mark Ronson & RAYE  au top des nouveautés de la semaine !
+> Hamza,  Benson Boone et GIMS x Jul  au top des nouveautés de la semaine !
 
-5,183 songs - 11 day 5 hr 21 min
+5,186 songs - 11 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1283,7 +1283,7 @@
 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-24 | 2025-05-02 |
 | [Down To The Sea](https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn) | 3:19 | 2024-05-09 | 2024-05-17 |
 | [Downcast](https://open.spotify.com/track/2u87z2dIbSA5PNIik6bLM5) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Downcast](https://open.spotify.com/album/57awDgLzQYvC60Rzw9CpRE) | 4:04 | 2024-05-23 | 2024-06-01 |
-| [DRAGONS](https://open.spotify.com/track/6bhObRBG732wGeTWWR1781) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 3:58 | 2025-06-19 |  |
+| [DRAGONS](https://open.spotify.com/track/6bhObRBG732wGeTWWR1781) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 3:58 | 2025-06-19 |  |
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2025-01-02 | 2025-01-10 |
 | [Drawbridge & The Baroness](https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:41 | 2024-10-24 | 2024-11-01 |
 | [DREAM](https://open.spotify.com/track/3DIhIFClJnFyEdxj2ONqlw) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [DREAM](https://open.spotify.com/album/0KbWlqnCqZYyjiMR1t1pBn) | 2:40 | 2024-07-18 | 2024-07-27 |
@@ -1718,6 +1718,7 @@
 | [G\-SPEC](https://open.spotify.com/track/2xMN9DrMLQowSz0YxyDp07) | [Jabberwocky](https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R) | [G\-SPEC](https://open.spotify.com/album/0uMbmbN85HgDEqCu2uxmO2) | 3:01 | 2025-04-17 | 2025-04-25 |
 | [G.O.A.T](https://open.spotify.com/track/5fOt4iG6Xty1zMAlUt1niy) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Mirror 25](https://open.spotify.com/album/4KtT8KV2JUWB12p5SlQd22) | 2:58 | 2024-08-08 | 2024-08-16 |
 | [G8](https://open.spotify.com/track/4N51VVwDAoGTW4jJhdNwr8) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [G8](https://open.spotify.com/album/3nqyxAfeK2AfZUPfAkONU9) | 2:43 | 2024-05-16 | 2024-05-24 |
+| [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-19 |  |
 | [gabrielle](https://open.spotify.com/track/4TWX5BksMy9AFocaA4XHRI) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [gabrielle](https://open.spotify.com/album/6gHhYmagYFKWXVEoIRjfXZ) | 3:06 | 2025-06-19 |  |
 | [Gaga](https://open.spotify.com/track/19rOwjZfoShTrdIeBvvLEs) | [Dalí](https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo) | [Marilyn](https://open.spotify.com/album/41XXYpnFnCCVxp0UnuoHWU) | 3:00 | 2024-12-12 | 2024-12-20 |
 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 | 2024-07-11 | 2024-07-19 |
@@ -3498,6 +3499,7 @@
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-27 | 2024-07-05 |
 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-04-25 | 2024-05-03 |
 | [Out Of This World](https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Out Of This World](https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or) | 2:56 | 2024-05-02 | 2024-05-10 |
+| [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 | 2025-06-19 |  |
 | [Outsider](https://open.spotify.com/track/58P6RRJJmKNwHJj0bjIi21) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [Outsider](https://open.spotify.com/album/3h11CYH0TbZKY2TJkS7edw) | 2:43 | 2025-06-12 | 2025-06-20 |
 | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib) | 2:39 | 2024-11-21 | 2024-11-29 |
 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-24 | 2024-11-01 |
@@ -3526,6 +3528,7 @@
 | [Papa dis\-moi](https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Luna](https://open.spotify.com/artist/6WoNc6jV6PQq1wtZLmGJDY) | [Freedom](https://open.spotify.com/album/4dRr6s3IPF9OWzr6qIBQEt) | 2:35 | 2024-06-20 | 2024-06-28 |
 | [Paparazzi](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Paparazzi](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 | 2024-05-23 | 2024-06-01 |
 | [Paparigo](https://open.spotify.com/track/1FHE8HWaTOW9vMXBuJOsS6) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Pygmalion](https://open.spotify.com/album/7IBIYHkyHgpQ8xXxx9sUiA) | 2:51 | 2024-11-28 | 2024-12-06 |
+| [Papasito](https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:47 | 2025-06-19 |  |
 | [Paper Cup](https://open.spotify.com/track/6qYIxqCTc7JSpLrJEOMyML) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Paper Cup](https://open.spotify.com/album/0NQmRiFIkoGduRJ8Prnggn) | 3:16 | 2024-08-22 | 2024-08-30 |
 | [Papillons](https://open.spotify.com/track/2aEJXWy7CCD2Is4uJIOuF9) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Papillons](https://open.spotify.com/album/2Lt3QrjElVGml6G9gvv48c) | 2:33 | 2024-10-31 | 2024-11-08 |
 | [Paquet \(feat\. Leila AD\)](https://open.spotify.com/track/5zruGz0gblq9GkXC05MwES) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV), [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Sans Valentin \(Chapitre I\)](https://open.spotify.com/album/05o4lVIodeRee9p6cYwlGg) | 2:25 | 2025-02-20 | 2025-03-01 |
@@ -4725,7 +4728,7 @@
 | [Toutes les femmes de ta vie](https://open.spotify.com/track/4FCPmgBL7GBcSmhC2cxKEb) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Toutes les femmes de ta vie](https://open.spotify.com/album/6ssnzGVbWrn8zssfMS3Aol) | 3:54 | 2024-09-26 | 2024-10-04 |
 | [toutes les fleurs](https://open.spotify.com/track/4105wlfhkrp2TfDJI6WdCB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [les rêves sont dangereux](https://open.spotify.com/album/5nQ77Ms0SO65x0MASlVDBd) | 1:40 | 2024-12-12 | 2024-12-20 |
 | [Toutânkhamon](https://open.spotify.com/track/4sq01o2lvPbvvPCxTRq5j4) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd) | [Toutânkhamon](https://open.spotify.com/album/0sJngtYOVsjIJyh2GQ9F4d) | 2:43 | 2024-10-17 | 2024-10-25 |
-| [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-19 |  |
+| [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-19 |  |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-01-17 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-01-24 |

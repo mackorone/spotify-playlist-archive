@@ -4,7 +4,7 @@
 
 > Instrumentals from the North Indian school of music.
 
-67 songs - 17 hr 5 min
+68 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,10 +69,11 @@
 | [Raga Tilak Kamod](https://open.spotify.com/track/0XZL66ITXbLl9CmXUb3Tw7) | [Gajanan Madhav Karnad](https://open.spotify.com/artist/6ATI0pyCp6Oso19MTG0PvL) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:15 | 2021-12-07 |  |
 | [Raga Tilak Kamodi](https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Guitar A La Hindustan](https://open.spotify.com/album/0p2uVASndftECemYMJM80y) | 17:07 | 2021-12-07 |  |
 | [Raga: Pahari](https://open.spotify.com/track/1rj7pkUmfcB7fFirFRGU4s) | [Shujaat Khan](https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0) | [Sweet Melodies](https://open.spotify.com/album/1a70UazMSgoClPn3Ee2KfJ) | 8:14 | 2021-12-07 |  |
-| [Ragmala](https://open.spotify.com/track/4W2QrZuT0QE9QmZPkDsIQG) | [Rais Khan](https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK) | [Rag\-Rang](https://open.spotify.com/album/4i2Oqn8s2LlKdGnsPmzsHk) | 23:05 | 2021-12-07 |  |
+| [Ragmala](https://open.spotify.com/track/4W2QrZuT0QE9QmZPkDsIQG) | [Rais Khan](https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK) | [Rag\-Rang](https://open.spotify.com/album/4i2Oqn8s2LlKdGnsPmzsHk) | 23:05 | 2021-12-07 | 2025-06-21 |
 | [Rāg Mīyā kī Todī](https://open.spotify.com/track/3fTFxU65ADeMwBgyVX97YI) | [Imrat Khan](https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg), [Shafaatullah Khan](https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp), [Wajahat Khan](https://open.spotify.com/artist/6fdCOQgyq1Pxw6LrJL54Uw) | [Rāg Mīyā kī Todī / Rāg Bilāskhānī Todī](https://open.spotify.com/album/0okl3bTNr5H1pw7XR9KNzS) | 38:14 | 2021-12-07 | 2022-07-29 |
 | [Satyagrah](https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Yogesh Samsi](https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck), [Shravan Samsi](https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6), [Steve Kottoor](https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N) | [Satyagrah](https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy) | 7:14 | 2024-08-22 |  |
 | [The Beauty of Sangat \(feat\. Pt\. Shivkumar Sharma\)](https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 16:40 | 2021-12-07 |  |
+| [The Beginning](https://open.spotify.com/track/4BIq5SZHEJ4DEbC859nZnS) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 3:36 | 2025-06-19 |  |
 | [Tilak Kamod](https://open.spotify.com/track/1B9Y1TJJYIqtdCZcMXIEv0) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 20:36 | 2023-04-19 |  |
 | [Tilak trance](https://open.spotify.com/track/0aTqK5U3bUrttp8Btpv9sI) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Tilak trance](https://open.spotify.com/album/1yTrlL1nwaX0K5y9oegtIK) | 5:14 | 2021-12-07 | 2023-04-20 |
 

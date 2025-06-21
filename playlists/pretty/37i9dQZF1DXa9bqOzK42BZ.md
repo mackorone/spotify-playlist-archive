@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,399 likes - 99 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,424 likes - 99 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 98 | [Hatua Nyingine](https://open.spotify.com/track/3KxKo4HOHceQbD1wRQCtVU) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Hatua Nyingine](https://open.spotify.com/album/5tyFYjcZ8ZZuIEPupzmWph) | 3:01 |
 | 99 | [Awesome God](https://open.spotify.com/track/6wZVduxtSmYnioxOjIsA5s) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Awesome God](https://open.spotify.com/album/5VpaMGKUtmyKP3lx7zo0gN) | 1:39 |
 
-Snapshot ID: `aFSkyAAAAADy7KY/XhpZmTh2pVUVznmn`
+Snapshot ID: `aFSkyAAAAAAzXAz+r80DztFsy3BXIuiR`

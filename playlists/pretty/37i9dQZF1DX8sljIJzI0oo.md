@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Jovaan is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932,206 likes - 20 songs - 58 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,932,196 likes - 20 songs - 58 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 5 | [BANDIDA](https://open.spotify.com/track/1vvWri6BpgA6Pqz6JixNFa) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:32 |
 | 6 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 7 | [KLOuFRENS](https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:19 |
-| 8 | [Facecard](https://open.spotify.com/track/5Q4UuBc4zX6LgSGinXyjtJ) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Facecard](https://open.spotify.com/album/4vDESk8j4jFSPKUEPGGUrw) | 2:15 |
+| 8 | [Facecard](https://open.spotify.com/track/5Q4UuBc4zX6LgSGinXyjtJ) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [Davvinccii](https://open.spotify.com/artist/6X5NjzqRMaossDssdlxdu8), [AndrahPR](https://open.spotify.com/artist/3ICR0LgQlwZ2F78lTexRYS) | [Facecard](https://open.spotify.com/album/4vDESk8j4jFSPKUEPGGUrw) | 2:15 |
 | 9 | [CUANDO VUELVO A VERTE](https://open.spotify.com/track/0Szad34dH8IBaZ8bTg3lrb) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [CUANDO VUELVO A VERTE](https://open.spotify.com/album/6EtZSfytsIt4zJFiL2HjFv) | 2:46 |
 | 10 | [K Chula](https://open.spotify.com/track/6BQ13I6TnfZw6kv0hXxFyb) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [K Chula](https://open.spotify.com/album/4lGeTVuxQaXo47lU1aTpTa) | 3:13 |
 | 11 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |

@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273684,
+      "name": "back of the club",
+      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
+    },
+    {
+      "album": {
         "name": "Back Out",
         "url": "https://open.spotify.com/album/5MIBZZe2AKhvd9eQ4sP8KL"
       },
@@ -3208,6 +3226,28 @@
       "duration_ms": 174000,
       "name": "Bottom of the Trap (feat. Icewear Vezzo & EST Gee)",
       "url": "https://open.spotify.com/track/6PlWlDkvdyfiy9R5C52C3F"
+    },
+    {
+      "album": {
+        "name": "Boujee Baby",
+        "url": "https://open.spotify.com/album/4RmhI3BdBeIY7JjzsndQfQ"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Boujee Baby",
+      "url": "https://open.spotify.com/track/0Mq7egfvtSRmwVjkGkmPfI"
     },
     {
       "album": {
@@ -5998,7 +6038,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 188562,
       "name": "do what i say",
       "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
@@ -10570,7 +10610,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -17472,7 +17512,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 144113,
       "name": "Rock",
       "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
@@ -20361,6 +20401,24 @@
     },
     {
       "album": {
+        "name": "Take Her Down",
+        "url": "https://open.spotify.com/album/2W0MQtufPFPzM3m4GuRyzz"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195265,
+      "name": "Take Her Down",
+      "url": "https://open.spotify.com/track/6VKn4n4FoI0Ktx7M6eIh99"
+    },
+    {
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD"
       },
@@ -21156,7 +21214,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 149374,
       "name": "Time To Heal",
       "url": "https://open.spotify.com/track/65zPESBI4Z3CoIKrrtrWly"
@@ -23574,7 +23632,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 217054,
       "name": "YAYO (WHITE PARIS)",
       "url": "https://open.spotify.com/track/59D9vOTh76FzHljuwnxbcp"

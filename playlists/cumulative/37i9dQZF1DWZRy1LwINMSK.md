@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de AQUA VS.
 
-280 songs - 14 hr 22 min
+282 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [512 \- Remix](https://open.spotify.com/track/1Fs8wvSOyhNiFyMS35AufX) | [Maickyel](https://open.spotify.com/artist/3iuxTg8tCKBuRDIrAADvqI), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [512 \(Remix\)](https://open.spotify.com/album/4cgQ9rirfimR3nOxZ4fXvb) | 2:58 | 2022-01-20 | 2024-12-07 |
 | [6.5 Papá](https://open.spotify.com/track/4AGkM2FEoejzLmLmlJqXqH) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Noiss](https://open.spotify.com/artist/5nhjhOrmCpnfUR6GHyU9ca) | [6.5 Papá](https://open.spotify.com/album/5eQCzjqUvD6bRCte70vk9l) | 2:45 | 2022-01-20 | 2023-03-11 |
 | [A fuego](https://open.spotify.com/track/27vwyCYHvKYjb7Wl5dJUPl) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [A fuego](https://open.spotify.com/album/1LKQhcknuHIBlnIsnXuQNj) | 3:53 | 2022-01-20 | 2023-09-16 |
+| [A Tu Manera](https://open.spotify.com/track/3SOPWx87eWyKGJ68V08zZu) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [A Tu Manera](https://open.spotify.com/album/2StLvH80masSd4Y4ZK3NP5) | 2:38 | 2025-06-20 |  |
 | [Aborrecio](https://open.spotify.com/track/3ADriUpeN2lGE8tfcAr1oP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Nikxz](https://open.spotify.com/artist/1hQJhlI1r2oa893f8N6wcg) | [Aborrecio](https://open.spotify.com/album/3mvr64wBs7lsr2jwzwlWKR) | 4:02 | 2022-01-20 | 2025-04-01 |
 | [Aborrecio](https://open.spotify.com/track/0z2Z7f3Osa9lZm3od9A47Y) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Aborrecio](https://open.spotify.com/album/344jAFq72ipLqCH5QSFh61) | 2:55 | 2023-07-07 | 2023-09-09 |
 | [Aburrido](https://open.spotify.com/track/1QX8IaUVnmdZo8jqyGyZfZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup), [Inti Illimani Histórico](https://open.spotify.com/artist/3ofeDjH3XD66EbnLIHWk8i) | [Aburrido](https://open.spotify.com/album/2MCIfa3wYX8ru8do68PxfJ) | 3:49 | 2022-01-20 | 2024-02-03 |
@@ -63,6 +64,7 @@
 | [Con Glock](https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Con Glock](https://open.spotify.com/album/1yr9r8pILee4JMzmFT2XZs) | 1:54 | 2023-08-18 |  |
 | [Confianza](https://open.spotify.com/track/7CquxKxAKutufMzvMI7s7Z) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Confianza](https://open.spotify.com/album/4iHuREHIFuAaFBAB8McYx6) | 2:37 | 2025-04-25 |  |
 | [CRISTIANA](https://open.spotify.com/track/4jiUVMoCC5j5WbPob3YmnF) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [EL NIÑO BENDITO](https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja) | 2:25 | 2024-04-26 |  |
+| [Cuatro Rifles](https://open.spotify.com/track/6bZPqpsLzf3YZ11CxQl3Mo) | [Spiff TV](https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Cuatro Rifles](https://open.spotify.com/album/3zXtxi6ZKERDLxy8yQswkh) | 2:34 | 2025-06-20 |  |
 | [Dale Tu Kolin](https://open.spotify.com/track/40n3urD4QnPkPi7kSlk7kx) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Flaites NY](https://open.spotify.com/album/2q7TNii8WNMbkmNRbenrgV) | 3:27 | 2022-01-20 | 2025-04-26 |
 | [Death Row](https://open.spotify.com/track/41RaYCqOHnXyOMLmU0J87O) | [Shisosaloud](https://open.spotify.com/artist/6TBZdTaCa4lbCCi8BQemuD), [HDR](https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M), [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Luih Parce](https://open.spotify.com/artist/43QmXVBWtjrpL01tnA0uiT) | [Death Row](https://open.spotify.com/album/61gXjL6E58XBTriFPqB7I3) | 3:15 | 2024-05-03 | 2024-06-22 |
 | [Denssy](https://open.spotify.com/track/7klrg9kfWJ2te3oJZIZjSU) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Moods](https://open.spotify.com/album/707uAk4QeoapehDGCcZeWb) | 3:01 | 2022-01-20 | 2023-02-25 |

@@ -1,340 +1,336 @@
 {
   "description": "The hottest new songs rocking Kerrang!'s world, updated every Friday!",
-  "num_followers": 6789,
+  "num_followers": 6794,
   "original_name": "Kerrang! Chart",
   "owner": {
     "name": "Kerrang!",
     "url": "https://open.spotify.com/user/kerrangmagazine"
   },
-  "snapshot_id": "AAAM5740UPGb/jBigNC7uMaiudKZ8sWY",
+  "snapshot_id": "AAAM6nPGm2QsX4hZchG/UDZThxkeOFn6",
   "tracks": [
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "Headstones",
-        "url": "https://open.spotify.com/album/3AscAyjq1SctzFVi1YoC4U"
+        "name": "The American Machine",
+        "url": "https://open.spotify.com/album/4fv7VXYisoENeLelvaHA4H"
       },
       "artists": [
         {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
         }
       ],
-      "duration_ms": 181043,
-      "name": "Headstones",
-      "url": "https://open.spotify.com/track/4nHFfSDh3pX9uBr86FLVwf"
+      "duration_ms": 223820,
+      "name": "The American Machine",
+      "url": "https://open.spotify.com/track/0Uy5b6576ZKlmXutMgIZXl"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC"
+        "name": "Into Hell",
+        "url": "https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS"
       },
       "artists": [
         {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 215517,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr"
+      "duration_ms": 192210,
+      "name": "Into Hell",
+      "url": "https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "who am i?",
-        "url": "https://open.spotify.com/album/0nPc7GBdemUzf6YsHc3YpS"
+        "name": "She Is Afraid",
+        "url": "https://open.spotify.com/album/70TxacMkoyDk6aOAdkb4bA"
       },
       "artists": [
         {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
         }
       ],
-      "duration_ms": 169640,
-      "name": "who am i?",
-      "url": "https://open.spotify.com/track/0pfFn3KYKI6mc6fd4blgxA"
+      "duration_ms": 221951,
+      "name": "She Is Afraid",
+      "url": "https://open.spotify.com/track/0cISdDwOwlJbdYE0FnRS2Y"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "And a Big Load",
-        "url": "https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx"
+        "name": "Anita Ride",
+        "url": "https://open.spotify.com/album/0RipZBFRz6HZfS55MyNv7P"
       },
       "artists": [
         {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
         }
       ],
-      "duration_ms": 173791,
-      "name": "And a Big Load",
-      "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
+      "duration_ms": 205380,
+      "name": "Anita Ride",
+      "url": "https://open.spotify.com/track/28KqDZ2qWkxHHKWL32LlpN"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "politix",
-        "url": "https://open.spotify.com/album/3siWh7rJo3ncwWHq8SjnFq"
+        "name": "Unravelling",
+        "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
       },
       "artists": [
         {
-          "name": "BEX",
-          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 165000,
-      "name": "politix",
-      "url": "https://open.spotify.com/track/4hZYlamBpLerJCoFjJ6BBq"
+      "duration_ms": 238002,
+      "name": "Unravelling",
+      "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "Fight Like A Girl (feat. K.Flay)",
-        "url": "https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF"
+        "name": "Wahoo",
+        "url": "https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
         }
       ],
-      "duration_ms": 186068,
-      "name": "Fight Like A Girl (feat. K.Flay)",
-      "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
+      "duration_ms": 125400,
+      "name": "Wahoo",
+      "url": "https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "So",
-        "url": "https://open.spotify.com/album/7rvvISzXxlwKHXFZkjryfw"
+        "name": "Sick Of Being Down",
+        "url": "https://open.spotify.com/album/38sDUnAK5fzcaPIvxVXvyB"
       },
       "artists": [
         {
-          "name": "Zetra",
-          "url": "https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f"
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 282346,
-      "name": "So",
-      "url": "https://open.spotify.com/track/2NhdvNfoYNOf9zsLB4mrug"
+      "duration_ms": 204012,
+      "name": "Sick Of Being Down",
+      "url": "https://open.spotify.com/track/6S33PGYHXqJQY5pSrdJsUP"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "There's A Whole World Out There",
-        "url": "https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE"
+        "name": "Heresy",
+        "url": "https://open.spotify.com/album/6Q9fIeW2TiXynicAcBkxCJ"
       },
       "artists": [
         {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+          "name": "Defects",
+          "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
         }
       ],
-      "duration_ms": 407773,
-      "name": "Morning Person",
-      "url": "https://open.spotify.com/track/4DqoLkU8GJ7AlvcGKx2Fva"
+      "duration_ms": 215534,
+      "name": "Heresy",
+      "url": "https://open.spotify.com/track/23YX7zK3ThgfI1AMNZD8Wl"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "Easier Said Than Done",
-        "url": "https://open.spotify.com/album/53sHMpu1fjrLTFBwPJZ8lC"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3KujdnfhASvMZsSFTDf5Go"
       },
       "artists": [
         {
-          "name": "Pool Kids",
-          "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f"
+          "name": "Ho99o9",
+          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
         }
       ],
-      "duration_ms": 185904,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/4bmFe4XlRDAvx0BW5Lc3bd"
+      "duration_ms": 197317,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6FX3esU21yEcnwhZtFlloL"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "Dance Like That",
-        "url": "https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/57P6518jygT3Hj9Il7x4o0"
       },
       "artists": [
         {
-          "name": "BLACKGOLD",
-          "url": "https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa"
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
         }
       ],
-      "duration_ms": 194848,
-      "name": "Dance Like That",
-      "url": "https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A"
+      "duration_ms": 204540,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3vpAWGsnUk6YESo071ahXA"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "Clouded Retinas (feat. Will Ramos)",
-        "url": "https://open.spotify.com/album/6GpJYLV6rt9lPXz84nZuaM"
+        "name": "AT&T",
+        "url": "https://open.spotify.com/album/107Uua7AGroSfWPeLsEO5Z"
       },
       "artists": [
         {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        },
+          "name": "Liquid Mike",
+          "url": "https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "AT&T",
+      "url": "https://open.spotify.com/track/7nlsFEDlKhALHl1NTR2CJe"
+    },
+    {
+      "added_at": "2025-06-20 15:43:11",
+      "album": {
+        "name": "At Hope / In Civic Pride",
+        "url": "https://open.spotify.com/album/4HmiDTGvUPJ2nERU1LiHnx"
+      },
+      "artists": [
         {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+          "name": "THE NONE",
+          "url": "https://open.spotify.com/artist/4h8RlQSJtDtEOgT800Q2OG"
+        }
+      ],
+      "duration_ms": 159227,
+      "name": "In Civic Pride",
+      "url": "https://open.spotify.com/track/77yRtHy4YBnM0IQOvDUiSQ"
+    },
+    {
+      "added_at": "2025-06-20 15:43:11",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/18sNNLd89IAKHL7T707yyk"
+      },
+      "artists": [
+        {
+          "name": "PLAIINS",
+          "url": "https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/7J5zrmSVeayUtEr8VMDljA"
+    },
+    {
+      "added_at": "2025-06-20 15:43:11",
+      "album": {
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/0q7wiOqTy6c42gTbf9gdRs"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 213021,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/38jtfBswHjY19sicV4KVC3"
+    },
+    {
+      "added_at": "2025-06-20 15:43:11",
+      "album": {
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "duration_ms": 227529,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
+    },
+    {
+      "added_at": "2025-06-20 15:43:11",
+      "album": {
+        "name": "Rising High",
+        "url": "https://open.spotify.com/album/4moCWORbafoaBEmSJqmTZo"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
         }
       ],
       "duration_ms": 192500,
-      "name": "Clouded Retinas (feat. Will Ramos)",
-      "url": "https://open.spotify.com/track/4uuG66FRhvdVenLtyfWx5h"
+      "name": "Rising High",
+      "url": "https://open.spotify.com/track/61seLcHUDSr6ysOCmeTrQr"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/2Q0XmU6dUpl6ckyMwVd5Mj"
+        "name": "SET IN FLOW",
+        "url": "https://open.spotify.com/album/370kc4uLAidXP9YqCiU2px"
       },
       "artists": [
         {
-          "name": "Harpy",
-          "url": "https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX"
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
         }
       ],
-      "duration_ms": 185357,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/5ifPlR8w2NUCq3sHyrfd5a"
+      "duration_ms": 172500,
+      "name": "SET IN FLOW",
+      "url": "https://open.spotify.com/track/45muARIbE2PvMA3XeEki3o"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "Nervous Impulse",
-        "url": "https://open.spotify.com/album/4unGjfdBSsyj1mJF9GZiai"
+        "name": "Day of Iva",
+        "url": "https://open.spotify.com/album/5CMIWpAQKWsTH3ovIF9dxt"
       },
       "artists": [
         {
-          "name": "Still In Love",
-          "url": "https://open.spotify.com/artist/5pEdaTDQ6Q4pHaLf3qhs3Q"
+          "name": "Beauty School",
+          "url": "https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6"
+        },
+        {
+          "name": "Artio",
+          "url": "https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5"
         }
       ],
-      "duration_ms": 105142,
-      "name": "Nervous Impulse",
-      "url": "https://open.spotify.com/track/2LHqScBDjrCPSBt19haUqP"
+      "duration_ms": 221340,
+      "name": "Day of Iva",
+      "url": "https://open.spotify.com/track/51bJlHHLoe1t3vIX3swfRW"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "GUTSY",
-        "url": "https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ"
+        "name": "Mercy Death",
+        "url": "https://open.spotify.com/album/6A2cdVM01jHmpwztDJ2eVH"
       },
       "artists": [
         {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+          "name": "lowheaven",
+          "url": "https://open.spotify.com/artist/0LCI5aIo6Wd80D1AzHEu0F"
         }
       ],
-      "duration_ms": 281124,
-      "name": "GUTSY",
-      "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
+      "duration_ms": 250320,
+      "name": "Mercy Death",
+      "url": "https://open.spotify.com/track/7p2GGrbDlqspBkGKpDudvx"
     },
     {
-      "added_at": "2025-06-06 11:23:30",
+      "added_at": "2025-06-20 15:43:11",
       "album": {
-        "name": "CURSED (The Complete Edition)",
-        "url": "https://open.spotify.com/album/4HvT7gjlwJ1q1Lt5Bm19dE"
+        "name": "Today's Gonna Be Our Day",
+        "url": "https://open.spotify.com/album/2qOlW0bYCf4NPtpqid2apZ"
       },
       "artists": [
         {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "The Molotovs",
+          "url": "https://open.spotify.com/artist/3DL0niCT8vzd0DQ0AXaLly"
         }
       ],
-      "duration_ms": 201426,
-      "name": "I Am A Cursed One",
-      "url": "https://open.spotify.com/track/7oxDYQjmntWkVkXWCUbd3R"
-    },
-    {
-      "added_at": "2025-06-06 11:23:30",
-      "album": {
-        "name": "Bitter Seeds",
-        "url": "https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB"
-      },
-      "artists": [
-        {
-          "name": "LASTELLE",
-          "url": "https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ"
-        }
-      ],
-      "duration_ms": 271285,
-      "name": "Bitter Seeds",
-      "url": "https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ"
-    },
-    {
-      "added_at": "2025-06-06 11:23:30",
-      "album": {
-        "name": "Silence Like The Grave",
-        "url": "https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH"
-      },
-      "artists": [
-        {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
-        }
-      ],
-      "duration_ms": 287160,
-      "name": "Silence Like The Grave",
-      "url": "https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId"
-    },
-    {
-      "added_at": "2025-06-06 11:23:30",
-      "album": {
-        "name": "Waiting 4 U",
-        "url": "https://open.spotify.com/album/23m95jy1nHet435Uc3Z5Yi"
-      },
-      "artists": [
-        {
-          "name": "Not Enough Space",
-          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Waiting 4 U",
-      "url": "https://open.spotify.com/track/7bu8SZx5uGDoEqu5eYsb4z"
-    },
-    {
-      "added_at": "2025-06-06 11:23:30",
-      "album": {
-        "name": "Abuser",
-        "url": "https://open.spotify.com/album/3BCbSqpHb7wjJgz2yUxV1s"
-      },
-      "artists": [
-        {
-          "name": "Shields",
-          "url": "https://open.spotify.com/artist/7axtOAPWPWUITkUpTHL34I"
-        }
-      ],
-      "duration_ms": 75000,
-      "name": "Abuser",
-      "url": "https://open.spotify.com/track/3JaHVziVDhwtOX4wNWyUGL"
-    },
-    {
-      "added_at": "2025-06-06 11:23:30",
-      "album": {
-        "name": "Seed",
-        "url": "https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Seed",
-      "url": "https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD"
+      "duration_ms": 208373,
+      "name": "Today's Gonna Be Our Day",
+      "url": "https://open.spotify.com/track/7nSwB34Jx0X10dzbw7LLrX"
     }
   ],
   "unique_name": "Kerrang! Chart",

@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto:  RUSLANA.
 
-201 songs - 9 hr 56 min
+202 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [FANCY](https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [FANCY](https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH) | 2:23 | 2024-10-01 | 2025-06-04 |
 | [Fanática](https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Fanática](https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb) | 2:56 | 2025-04-01 | 2025-05-07 |
 | [Fatty Fairy](https://open.spotify.com/track/7yZrh7dzQLjYrGZ4NdDTfN) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Fatty Fairy](https://open.spotify.com/album/06331uDlz3m9Uliot3gZmb) | 2:27 | 2025-04-01 | 2025-06-04 |
-| [filosofar](https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [filosofar](https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4) | 3:43 | 2025-06-03 |  |
+| [filosofar](https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [filosofar](https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4) | 3:43 | 2025-06-03 | 2025-06-21 |
 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 | 2024-12-04 |  |
 | [FOTOMATÓN](https://open.spotify.com/track/4nOYt1P3xyq9LhC8DYCC8T) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [FOTOMATÓN](https://open.spotify.com/album/5mJTu2hHXeFE8tBNxIuZVA) | 2:43 | 2025-01-07 | 2025-02-05 |
 | [Full Lace y el Tuck](https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Full Lace y el Tuck](https://open.spotify.com/album/22CPf2eEYMEPz2zm1BRVbw) | 2:53 | 2025-05-06 |  |
@@ -146,6 +146,7 @@
 | [Nublado](https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Nublado](https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF) | 2:48 | 2025-02-04 | 2025-06-04 |
 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 | 2024-06-05 | 2025-04-02 |
 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 | 2025-02-04 |  |
+| [ojeras](https://open.spotify.com/track/0isUWT0Nadg2JBuCFw9FUo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [ojeras](https://open.spotify.com/album/0qAn74lSp8DJhhEWekVt0p) | 2:52 | 2025-06-20 |  |
 | [Olor a perfume caro y tabaco](https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [El Grimorio](https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72) | 2:41 | 2024-11-05 | 2025-02-05 |
 | [Otra cara](https://open.spotify.com/track/32leyUmGACtpxGIXE2pFE4) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3) | [Otra cara](https://open.spotify.com/album/3a5SAZ034CPmJx5bksWpHp) | 2:32 | 2025-04-01 | 2025-04-11 |
 | [PAPITO](https://open.spotify.com/track/0GZrsDyEvTyaEZjgtgO6UK) | [MIGUELITA](https://open.spotify.com/artist/5ft3Lm4NT2TwfPbzEmudjN), [TALAVERA](https://open.spotify.com/artist/6b2CBcPqqXYhjAy7h2yjku) | [PAPITO](https://open.spotify.com/album/1VQQ7iG6C1AV75cDsK4NOj) | 2:18 | 2024-06-05 | 2024-07-03 |

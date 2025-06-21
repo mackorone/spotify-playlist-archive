@@ -4,7 +4,7 @@
 
 > Rossi & Jazzy with the ID we've been craving!
 
-1,269 songs - 3 day 22 hr 34 min
+1,270 songs - 3 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1096,6 +1096,7 @@
 | [The Muze](https://open.spotify.com/track/5XyTlJId7s85wGD4uESdR6) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [The Muze](https://open.spotify.com/album/7zWaxBsAwtyRjAKkwTnzWo) | 3:43 | 2023-04-27 | 2023-07-15 |
 | [the one](https://open.spotify.com/track/6uBOGvxsHEn9rJyzwQSc1Z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [the one](https://open.spotify.com/album/6LntWVFC7jAmt6zIfFNFm1) | 3:38 | 2025-06-19 |  |
 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 | 2023-04-13 | 2023-10-03 |
+| [The One \(feat\. Jocelyn Brown\) \[Obskür Remix\]](https://open.spotify.com/track/0LbwAu16siBMH6jnRPM3Jc) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq), [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [The One \(feat\. Jocelyn Brown\) \[Obskür Remix\]](https://open.spotify.com/album/3DDaASK8dwKf2cvJ7pyT0B) | 3:15 | 2025-06-20 |  |
 | [The Only One \(feat\. SAÍGO\)](https://open.spotify.com/track/4mCr3lxi33KfNkGsdcX8lM) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [SAÍGO](https://open.spotify.com/artist/2Gu2iejmc6pUo0ZR7thZCO) | [The Only One \(feat\. SAÍGO\)](https://open.spotify.com/album/6N7WsWfTXGn6RyoSTMc4ci) | 3:25 | 2025-01-23 |  |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-08 | 2024-02-23 |
 | [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 | 2023-12-08 |

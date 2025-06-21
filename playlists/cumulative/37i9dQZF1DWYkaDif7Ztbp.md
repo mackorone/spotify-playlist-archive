@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: Master KG, Goon Flavour & Eemoh
+> The tracks heating up the continent right now!  Cover: Olamide
 
 517 songs - 1 day 6 hr 32 min
 

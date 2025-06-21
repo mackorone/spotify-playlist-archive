@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-254 songs - 14 hr 48 min
+256 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Adore You \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Adore You \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq) | 3:18 | 2021-11-19 | 2023-09-30 |
 | [All Alone on Christmas](https://open.spotify.com/track/2unlAFQCz1ePlJiPA7GUDb) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [All Alone on Christmas](https://open.spotify.com/album/5EcpnZGAYJ1w8s68bKQK00) | 4:24 | 2024-12-10 | 2025-02-22 |
 | [All By Myself \(Arr\. Piano\) \- 2025 Mix](https://open.spotify.com/track/76UE9aH4TupYJoAWapa3Qq) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [All By Myself \(Arr\. Piano\) \[2025 Mix\]](https://open.spotify.com/album/4Suw0PmPehd0J0VR1rqyMn) | 2:37 | 2025-04-25 |  |
+| [All I Ask](https://open.spotify.com/track/5lORjRKywwKPX1kwgVHKYq) | [Adele Adkins](https://open.spotify.com/artist/6HZ5IH5ksF7cs4mg0HQlSN), [Brody Brown](https://open.spotify.com/artist/0aXiHgA8ucn4HJsLiCYvdW), [Peter Gene Hernandez](https://open.spotify.com/artist/3CUvr9w49GAFsfIMb9V7ei), [Philip Lawrence](https://open.spotify.com/artist/45wuKcOpGlFuFWdWuBFfkO), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [All I Ask](https://open.spotify.com/album/0KfDMGahV1xG8oCTJnIo9b) | 4:39 | 2025-06-20 |  |
 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 | 2022-07-08 | 2024-04-19 |
 | [All Of Me](https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo) | 3:18 | 2021-11-19 |  |
 | [America \(Arr\. for Piano by Noah Luna\)](https://open.spotify.com/track/7oXj6NwhbxjHM7FirgQUQ2) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Lara Downes](https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS) | [This Land](https://open.spotify.com/album/0IXW2nCmhfprq7V4HwYhxE) | 3:09 | 2024-09-04 |  |
@@ -172,6 +173,7 @@
 | [Numb \- Piano Version](https://open.spotify.com/track/6leIpO0toh6VjmmqnFNgqP) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Numb \(Piano Version\)](https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT) | 3:09 | 2023-06-09 |  |
 | [OMG](https://open.spotify.com/track/315jwR0MNIp2N1MK0f4yeZ) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [OMG](https://open.spotify.com/album/2q93SQOfQA0ZHrQMIm8KTj) | 1:31 | 2024-03-01 |  |
 | [ON](https://open.spotify.com/track/5SFOSF6lKcEI7678ri3i4v) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ON](https://open.spotify.com/album/6NCqruF6K4nEKcugO6Cr2p) | 3:54 | 2022-10-07 | 2023-09-30 |
+| [Ordinary](https://open.spotify.com/track/1WYDk8XsjBqrlLetgTlPC1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2025, Vol\. 1](https://open.spotify.com/album/6zVzIXdCpItzGUetIXfsPW) | 3:03 | 2025-06-20 |  |
 | [P.I.M.P](https://open.spotify.com/track/3pc4KWkfyB9EUKi0JsTyRY) | [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [The Strings 'n' Things Album](https://open.spotify.com/album/6gIUSFzJgnHeF2WjGZQuCW) | 2:08 | 2021-11-19 |  |
 | [Paint It Black](https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs) | 2:25 | 2022-12-02 |  |
 | [Perfect](https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Perfect](https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE) | 4:19 | 2021-11-19 |  |

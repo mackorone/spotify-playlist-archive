@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "cranes",
+        "url": "https://open.spotify.com/album/4yhPJHgCUPnXWi0d0SbsAx"
+      },
+      "artists": [
+        {
+          "name": "casual smart",
+          "url": "https://open.spotify.com/artist/6hQ9aQfQsvuN6Y7NK1J7ou"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "cranes",
+      "url": "https://open.spotify.com/track/5lB4myWC3zyPO4AjDCINfk"
+    },
+    {
+      "album": {
         "name": "still waters, empty house",
         "url": "https://open.spotify.com/album/7frVxZoUWY2IajDOpCexo4"
       },

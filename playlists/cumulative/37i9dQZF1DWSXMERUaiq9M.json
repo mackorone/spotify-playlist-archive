@@ -5001,6 +5001,28 @@
     },
     {
       "album": {
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/4K6cOnk67OJZAbFS3maaJf"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/0Ba0tdpmErpaTYxtT0wvr8"
+    },
+    {
+      "album": {
         "name": "slash 004 - Leave it to the vibe",
         "url": "https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs"
       },
@@ -8810,7 +8832,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 206500,
       "name": "The Beat",
       "url": "https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh"

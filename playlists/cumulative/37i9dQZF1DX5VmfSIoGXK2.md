@@ -2,9 +2,9 @@
 
 ### [Jazz House](https://open.spotify.com/playlist/37i9dQZF1DX5VmfSIoGXK2)
 
-> Jazz house is our love language  🌳  with  Chaos In The CBD
+> Jazz house is our love language  🌳  with Chaos In The CBD
 
-118 songs - 8 hr 2 min
+120 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,10 +93,11 @@
 | [Osmose](https://open.spotify.com/track/2J2ins3k6g7XWzU4pf0mho) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Cours Dillon EP](https://open.spotify.com/album/6M2gLTva9OmO1p5OxqNHoa) | 2:22 | 2025-04-04 |  |
 | [Piebald](https://open.spotify.com/track/2N6hpU8eByX5z4QBKEyEKy) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Piebald](https://open.spotify.com/album/1W7ZZyfSuQlkLvCDUu7Dn1) | 3:54 | 2025-02-28 | 2025-05-10 |
 | [Pont des Arts](https://open.spotify.com/track/6kicsnoSgwTPWYPlxTDB2t) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 7:26 | 2025-02-21 |  |
-| [Puissance 4 \- Original](https://open.spotify.com/track/4WpCuNxZesqHlUPPfBBRgI) | [Angles Morts](https://open.spotify.com/artist/5BNiKTcezPk3bmiuVaiB5s) | [Dérive Asphalte](https://open.spotify.com/album/4oNqNhyWRG9T0oKNVlPygO) | 5:12 | 2025-05-23 |  |
+| [Puissance 4 \- Original](https://open.spotify.com/track/4WpCuNxZesqHlUPPfBBRgI) | [Angles Morts](https://open.spotify.com/artist/5BNiKTcezPk3bmiuVaiB5s) | [Dérive Asphalte](https://open.spotify.com/album/4oNqNhyWRG9T0oKNVlPygO) | 5:12 | 2025-05-23 | 2025-06-21 |
 | [Quali Kalimba](https://open.spotify.com/track/67Ah3dFoFunjecD6jhEXyq) | [S\-Pazz](https://open.spotify.com/artist/1ffTeCgQT9dcVyl4Cm3M0L) | [Tales of Dancing Waters](https://open.spotify.com/album/6hHIFR6sXL9TNeNr6Cxvjd) | 4:12 | 2025-02-21 |  |
 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 | 2025-02-21 |  |
 | [Reach Into Your Soul](https://open.spotify.com/track/3gkM4jhqalnNnyTqZN4308) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Reach Into Your Soul](https://open.spotify.com/album/6HyBHvtA4ZLhFLceK1yIRm) | 3:34 | 2025-03-21 |  |
+| [Remember When I Found You](https://open.spotify.com/track/4MSs9TipVz4HBRyUbJryMN) | [Altone Dieux](https://open.spotify.com/artist/5jaLmESXLLyV6XXvGkJFNv), [Omar Soliman](https://open.spotify.com/artist/6nwi8VSN9s3BwDn9rBEdGJ), [EMALU](https://open.spotify.com/artist/5f7EBtZkvqUYxAQlshT55s) | [Remember When I Found You](https://open.spotify.com/album/1EkKSB0rKEkGt4I0wNMDpY) | 3:06 | 2025-06-20 |  |
 | [rest](https://open.spotify.com/track/61EB06W5tI4TPL7qTnKYsQ) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [rest](https://open.spotify.com/album/5Oc68WoBe2ccnCpbJ1WOYy) | 4:40 | 2025-03-28 |  |
 | [Rhodes, 3AM](https://open.spotify.com/track/2RkW8H3tq7sVtqKNaL0iXn) | [Hokuto Sato](https://open.spotify.com/artist/6Dx27W6zWaZDopif8H7N8H) | [Years](https://open.spotify.com/album/3drdxf9dVPHUx8RgdH7P3y) | 5:39 | 2025-02-28 |  |
 | [Rise Up](https://open.spotify.com/track/6JT715eygcNEXD49ft9VVp) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [The Color of Sound](https://open.spotify.com/album/6hVUBys8AtFvmKGVimFVPl) | 5:03 | 2025-02-21 |  |
@@ -106,6 +107,7 @@
 | [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 |  |
 | [Six Am](https://open.spotify.com/track/6KsDQA0pYkNs1kiN1u9V6T) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Mythic Music](https://open.spotify.com/album/52N4nKcwVerlZ2xgFJurJa) | 3:24 | 2025-02-21 |  |
 | [Society's Man](https://open.spotify.com/track/6qVGWZQgaXFdC3rhT3NEOw) | [Spiral Deluxe](https://open.spotify.com/artist/2VGvrUaPzdqxyTXv9k81hw) | [The Love Pretender](https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr) | 7:24 | 2025-04-04 |  |
+| [SOMEWHERE IN MANHATTAN](https://open.spotify.com/track/2oOi12NtTZZGJkujoAK3cL) | [Luke Andy](https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS) | [SOMEWHERE IN MANHATTAN](https://open.spotify.com/album/6fAfX2xL2iNUSapSs32lOa) | 3:30 | 2025-06-20 |  |
 | [Spore](https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Spore](https://open.spotify.com/album/07GHP3BBVp2qdkZaPlabZz) | 2:30 | 2025-06-06 |  |
 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 | 2025-03-21 |  |
 | [Sundials](https://open.spotify.com/track/6fwIywo8F6JE8Y6GRYQlgM) | [Brawther](https://open.spotify.com/artist/6UV6mehn2Fs0ropWUpGWtI), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sundials EP](https://open.spotify.com/album/2gUTGkvfNNYhojlNAtGm29) | 6:26 | 2025-02-21 |  |
@@ -123,7 +125,7 @@
 | [waxed & sealed](https://open.spotify.com/track/5cYSLRDc9jRWaPfxcR5LjJ) | [birdnote](https://open.spotify.com/artist/7MYkDdtnQI7XS31ohILPVY) | [waxed & sealed](https://open.spotify.com/album/37BirUtJ0E36jf0uuLsZAb) | 1:56 | 2025-05-09 |  |
 | [We and The Sea](https://open.spotify.com/track/65B61dm7yda9zq0DE6QZCO) | [S\-Pazz](https://open.spotify.com/artist/1ffTeCgQT9dcVyl4Cm3M0L) | [We and The Sea](https://open.spotify.com/album/4PEoNVQo1eFLtJUEVPfRmD) | 5:24 | 2025-02-21 |  |
 | [We Can Make It Happen](https://open.spotify.com/track/4lrCbQ95wplebijZj2PnCk) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY) | [Live Or Die By Love](https://open.spotify.com/album/5MfghNciw5uWTAtcdh5fO2) | 4:32 | 2025-02-21 | 2025-03-22 |
-| [we still wanna dance](https://open.spotify.com/track/1NqKuaIJkJXB7yxYLNyKyR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [we still wanna dance](https://open.spotify.com/album/0vBGL6ey5Qg1FY1eksUwc7) | 7:37 | 2025-04-18 |  |
+| [we still wanna dance](https://open.spotify.com/track/1NqKuaIJkJXB7yxYLNyKyR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [we still wanna dance](https://open.spotify.com/album/0vBGL6ey5Qg1FY1eksUwc7) | 7:37 | 2025-04-18 | 2025-06-21 |
 | [Why they fly.](https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Why they fly.](https://open.spotify.com/album/41Fvn0ICyKC4Kuvu9ZRuWQ) | 1:44 | 2025-02-28 | 2025-04-26 |
 | [Would appear to be jazz.](https://open.spotify.com/track/7zM1h1j8HCCj7y27NC0J4t) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/2tdNyBAIoCMhXwAJtAO8vH) | 2:39 | 2025-04-25 |  |
 

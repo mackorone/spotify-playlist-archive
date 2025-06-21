@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-313 songs - 1 day 5 hr 55 min
+315 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-12-16 | 2023-01-21 |
 | [Dualism](https://open.spotify.com/track/5BOR3weDfPrKSU01sHiaY9) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Dualism](https://open.spotify.com/album/0pQ00YF0S5Xj68eJlWxwAN) | 3:56 | 2022-10-07 | 2023-01-28 |
 | [Dualist](https://open.spotify.com/track/5fth5wifwmOsWuE0RnhJzz) | [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [My Method](https://open.spotify.com/album/2nkGcXqbOo0YQYzloSC4TZ) | 9:46 | 2023-08-18 | 2024-01-27 |
+| [Dub Sequence](https://open.spotify.com/track/2JCYp7MkOal5Gjm3CvOx6h) | [Moto Moto](https://open.spotify.com/artist/1WEZB9rnrxrk1FQePn7apt), [Jaiden Wild](https://open.spotify.com/artist/0n2dih2MZCKKJyOpMUFeNs) | [Dub Sequence](https://open.spotify.com/album/3xuGzz4Xs9SrtyfTjfIXXJ) | 4:01 | 2025-06-20 |  |
 | [Echodeltaalfaxray](https://open.spotify.com/track/4dDCPZhr8fCiCIMKEXZYnk) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 7:20 | 2022-11-07 | 2022-12-17 |
 | [Echodeltaalfaxray \- AKA AKA Remix](https://open.spotify.com/track/5OmDWhyNKMjew4AXxs9QwD) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72) | [Echodeltaalfaxray](https://open.spotify.com/album/2U2sD0FAmRORmxhmJBDSJB) | 5:34 | 2022-12-16 | 2024-01-27 |
 | [Ego Rave B](https://open.spotify.com/track/1PhMiQKoYQr0jX0XZbh3sb) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Ego Rave](https://open.spotify.com/album/1FZjqtGarKJCB38L042Vdw) | 6:42 | 2022-09-16 | 2023-05-03 |
@@ -307,6 +308,7 @@
 | [Voices](https://open.spotify.com/track/1FwFv6kS81a4lsx9tJD2hE) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Voices](https://open.spotify.com/album/4REOwk3rHoHIETrGt1m1YX) | 4:54 | 2023-10-06 | 2023-12-09 |
 | [Voices \(feat\. Dan Diamond\)](https://open.spotify.com/track/1rzg4NUtl1hbo08uqWtAO4) | [Carlo Reutz](https://open.spotify.com/artist/58zpCe706KHkMTIGCC4HSq), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Global Underground: Select \#6 \(Unmixed\)](https://open.spotify.com/album/73RcWGhmonTvHLdN5iuVwn) | 7:19 | 2022-09-16 | 2023-02-11 |
 | [Voices of Caladan](https://open.spotify.com/track/7fW4t2EhyPSqxyYYfcVC2V) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT), [Moto Moto](https://open.spotify.com/artist/1WEZB9rnrxrk1FQePn7apt) | [Voices of Caladan](https://open.spotify.com/album/0FtwDzvr0hCwR88BZ8lN2o) | 4:30 | 2024-12-17 | 2025-05-30 |
+| [We Begin](https://open.spotify.com/track/2M5L3hRA23q2eQXgAqTNcW) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [We Begin](https://open.spotify.com/album/0lXCiIEET1JsMzGDaOcJAS) | 3:44 | 2025-06-20 |  |
 | [Welcome To The Discotheque \- Si Begg Total Fusion Remix](https://open.spotify.com/track/6uA4gn96bLNgFfmm6cvG6G) | [Si Begg](https://open.spotify.com/artist/7nhc8jNe7dTkmv3UIF5iII) | [Welcome To The Discotheque 2024](https://open.spotify.com/album/4tRr5qdrbGk8kCsAWAJQnT) | 5:11 | 2024-11-08 | 2025-05-30 |
 | [Wetterleuchten \- Edit](https://open.spotify.com/track/4J17SL5qZhXMbbTJYLmwVD) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Wetterleuchten](https://open.spotify.com/album/5MhknX4cQ1JJa449x4s3JE) | 3:10 | 2022-12-09 | 2023-02-04 |
 | [What This](https://open.spotify.com/track/7s6IGlhtEvsSNnhzuln3C8) | [Max Koval](https://open.spotify.com/artist/0NByPzOcGHKJ2XgUztC6CR) | [A Little Bit Of Jazz](https://open.spotify.com/album/7Fz1MqDsGxpsoNpSR8SPtV) | 7:42 | 2023-03-03 | 2023-07-29 |

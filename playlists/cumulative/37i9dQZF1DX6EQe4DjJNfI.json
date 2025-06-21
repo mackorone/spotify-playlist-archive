@@ -2019,6 +2019,28 @@
     },
     {
       "album": {
+        "name": "Fim do Mundo",
+        "url": "https://open.spotify.com/album/0uVLNBvgHwsZ9hZdJiVOD9"
+      },
+      "artists": [
+        {
+          "name": "Annick",
+          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147321,
+      "name": "Fim do Mundo",
+      "url": "https://open.spotify.com/track/20tCRW9BLgyBXSdiprQ6bB"
+    },
+    {
+      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT"
       },
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 143741,
       "name": "Golpe",
       "url": "https://open.spotify.com/track/08ZMOYMV4PK54Vb4XuiVYN"
@@ -3086,7 +3108,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 137000,
       "name": "Me Diz Que C\u00ea Sente",
       "url": "https://open.spotify.com/track/61YXVtkd0EWz6qVkk51zn6"
@@ -5688,6 +5710,28 @@
       "duration_ms": 194974,
       "name": "Tempo pra Perder",
       "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+    },
+    {
+      "album": {
+        "name": "Tempo Que N\u00e3o Volta",
+        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
+      },
+      "artists": [
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Tempo Que N\u00e3o Volta",
+      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
     },
     {
       "album": {

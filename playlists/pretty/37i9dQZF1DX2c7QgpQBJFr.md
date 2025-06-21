@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Samurai Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,655 likes - 110 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,739 likes - 110 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

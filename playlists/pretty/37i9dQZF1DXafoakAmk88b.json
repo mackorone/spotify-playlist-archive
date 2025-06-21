@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: John Glacier",
-  "num_followers": 56538,
+  "num_followers": 56545,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-06-13 18:04:13",
       "album": {
+        "name": "Tether",
+        "url": "https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 362880,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l"
+    },
+    {
+      "added_at": "2025-06-13 18:04:13",
+      "album": {
         "name": "The Rest Of Me",
         "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 212848,
       "name": "hunting days",
       "url": "https://open.spotify.com/track/6zsCOSqaG0QiWoTqJkRpEG"
-    },
-    {
-      "added_at": "2025-06-13 18:04:13",
-      "album": {
-        "name": "Tether",
-        "url": "https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 362880,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l"
     },
     {
       "added_at": "2025-06-13 18:04:13",

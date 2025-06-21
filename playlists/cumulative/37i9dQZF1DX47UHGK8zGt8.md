@@ -4,13 +4,14 @@
 
 > Aquelas pra começar o dia de alma leve
 
-296 songs - 16 hr 43 min
+297 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 | 2022-04-01 |  |
 | [48K Apresenta \#4: Eu Ainda Te Amo](https://open.spotify.com/track/5UvrBOUdaADTBCV63v9cqD) | [48k](https://open.spotify.com/artist/607zxx4kUoATMyFz7FahmI), [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [48K Apresenta \#4: Eu Ainda Te Amo](https://open.spotify.com/album/4oTmatehS94y8mIDCHACbx) | 2:43 | 2022-02-18 | 2022-04-18 |
 | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [A BELEZA É VOCÊ MENINA](https://open.spotify.com/album/0VIVSFkDikh8A0WBM0cN13) | 3:27 | 2023-12-01 | 2024-01-13 |
+| [A Cidade](https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [As Cores, as Curvas e as Dores do Mundo](https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX) | 2:43 | 2025-06-20 |  |
 | [A Coisa Mais Linda Que Existe](https://open.spotify.com/track/6aATs7AGA2Er7FwEPZFKD9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [A Coisa Mais Linda Que Existe](https://open.spotify.com/album/2gi7OZoy2d0VHMQBeV8OJV) | 3:52 | 2022-02-18 | 2022-07-29 |
 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 | 2024-07-19 |  |
 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 | 2022-04-01 |  |
@@ -113,7 +114,7 @@
 | [Destino e Verdade](https://open.spotify.com/track/1gxTYhtlVJF9ECG4VhTUQl) | [Conrado Pera](https://open.spotify.com/artist/69kv07xFTjUnlXnWON5vMB), [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Destino e Verdade](https://open.spotify.com/album/5gfGcAFlWZhoxt7X7FRDQe) | 3:50 | 2023-09-01 | 2023-09-23 |
 | [Deusa do Amor](https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Moreno Veloso Solo in Tokyo](https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB) | 5:09 | 2022-04-01 | 2022-04-20 |
 | [Dez Anjos](https://open.spotify.com/track/2yV0N09wOvcuh1PfDm7592) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Existe Amor](https://open.spotify.com/album/0SeIP7LbyFTNlmdFKH8zHi) | 4:53 | 2022-04-01 | 2022-04-21 |
-| [Dia Clarear](https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 3:41 | 2022-04-01 |  |
+| [Dia Clarear](https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 3:41 | 2022-04-01 | 2025-06-21 |
 | [Dia Manso](https://open.spotify.com/track/1nqUUPdNzRce8f7Z4SNTNV) | [KELVEN](https://open.spotify.com/artist/1ZRRvGObHNC7IyqB7sH2zz), [Mayana Neiva](https://open.spotify.com/artist/0MeEhWG8kXBAETvF1DZPcc) | [Dia Manso](https://open.spotify.com/album/0FgQPssMLOgG7XQcWS7vD4) | 3:29 | 2024-10-04 | 2024-10-19 |
 | [Dizeres](https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK) | 4:17 | 2022-10-14 | 2024-04-19 |
 | [Dizeres](https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ) | 4:17 | 2022-02-18 | 2022-10-15 |

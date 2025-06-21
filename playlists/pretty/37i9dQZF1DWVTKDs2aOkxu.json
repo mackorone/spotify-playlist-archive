@@ -1,12 +1,12 @@
 {
   "description": "The best indie music of the moment. Cover: HAIM",
-  "num_followers": 721589,
+  "num_followers": 721563,
   "original_name": "The Indie List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSWgwAAAAC+lgMC8qXbBNgFuoWU3N2t",
+  "snapshot_id": "aFVHMQAAAADrnxjACHm5RgXSrmAFHGFh",
   "tracks": [
     {
       "added_at": "2025-06-19 23:00:19",
@@ -151,6 +151,22 @@
       "duration_ms": 233307,
       "name": "Incomprehensible",
       "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
+    },
+    {
+      "added_at": "2025-06-20 11:34:09",
+      "album": {
+        "name": "Wall Of Arms",
+        "url": "https://open.spotify.com/album/5ToJ9pG8YEetqP7qlFQP49"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/3GHXx8uF1IUDzrxFV631qf"
     },
     {
       "added_at": "2025-06-19 23:00:19",

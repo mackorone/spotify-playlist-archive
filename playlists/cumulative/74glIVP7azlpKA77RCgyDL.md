@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Orbit Culture.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Malevolence.
 
-1,017 songs - 2 day 15 hr 40 min
+1,022 songs - 2 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Crawl Space](https://open.spotify.com/track/0pV3HjvJ2nKCiRueKe5SId) | [Filth is Eternal](https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0) | [Crawl Space](https://open.spotify.com/album/0Cy99fFT5llj7iYW0jkldr) | 1:31 | 2023-06-23 | 2024-02-03 |
 | [Crazed Killer](https://open.spotify.com/track/0AcEacMQ5DjNKK6Nynh9pl) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Crazed Killer](https://open.spotify.com/album/27PfQknaNIiFDWsKxYM93n) | 1:37 | 2025-02-14 |  |
 | [Cries of Domination](https://open.spotify.com/track/48pcLjb7fjc5v0kCEVs7GT) | [DON’T TRY](https://open.spotify.com/artist/0Tm5nFdsHOR6LFBDK7l5x9) | [Cries of Domination](https://open.spotify.com/album/6qxy0PZufi1mo7cFHzR4zn) | 3:04 | 2025-04-18 |  |
+| [Cronenberged \(feat\. Jonny Davy of Job for a Cowboy\)](https://open.spotify.com/track/3VSOcZD4E4XPj3hs34AFEt) | [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3), [Jonny Davy](https://open.spotify.com/artist/4GT998lcoHv6ELVhuOfLu4), [Job For A Cowboy](https://open.spotify.com/artist/5L3QTPofDwMPGlNnQkyHK1) | [Cronenberged \(feat\. Jonny Davy of Job for a Cowboy\)](https://open.spotify.com/album/5OB29coslfu9vHLs51kR69) | 3:29 | 2025-06-20 |  |
 | [Cross To Bear](https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP) | [Aversed](https://open.spotify.com/artist/0NnC3YeMSgqiGQtfe5KEkF) | [Cross To Bear](https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx) | 4:04 | 2024-10-11 | 2025-04-11 |
 | [Cruel Times](https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Cruel Times](https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT) | 2:58 | 2025-02-21 |  |
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-02-28 |  |
@@ -331,6 +332,7 @@
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2023-07-15 |
 | [Forgotten](https://open.spotify.com/track/277kkbKWZtQUpnK19WcEM6) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Forgotten](https://open.spotify.com/album/4RnQzNSS5tZCgSOSuK7dM1) | 2:55 | 2023-08-11 | 2024-02-03 |
 | [Forlorn](https://open.spotify.com/track/7F9ZH9FyBocFd8VoJg0yRR) | [Amenra](https://open.spotify.com/artist/0N1jE1EIrhZjvQSfuLupUu) | [Forlorn](https://open.spotify.com/album/6QEJNodzY85qNeuDUmrxKU) | 8:00 | 2025-02-21 |  |
+| [Forsaken](https://open.spotify.com/track/38jtfBswHjY19sicV4KVC3) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Forsaken](https://open.spotify.com/album/0q7wiOqTy6c42gTbf9gdRs) | 3:33 | 2025-06-20 |  |
 | [Fortress of Torture](https://open.spotify.com/track/5XHC0TN0uBzgUulFXUaSXj) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Fortress of Torture](https://open.spotify.com/album/1HAZFcWJWu9RWbND8aqkAN) | 1:28 | 2022-08-12 | 2023-07-15 |
 | [Fouled Sanctity](https://open.spotify.com/track/1yHIWvdf7X7oJdU8STMjXp) | [Volcandra](https://open.spotify.com/artist/09uP3sh4NKm3ysw9lLT9PC) | [Fouled Sanctity](https://open.spotify.com/album/1cxb9AnpDt5SNyBzCTJPxs) | 4:04 | 2024-02-02 | 2025-04-11 |
 | [fourthh.love](https://open.spotify.com/track/069TWN782MDQjfc4k3JdgF) | [Weeping Wound](https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn) | [fourthh.love](https://open.spotify.com/album/5Rc9t2bIIWY7XfQczIhlAd) | 3:42 | 2022-08-12 | 2023-07-15 |
@@ -341,6 +343,7 @@
 | [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 | 2025-04-04 |  |
 | [From The Inside](https://open.spotify.com/track/6ROHkoMA1RohwSGFgnEQzI) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [From The Inside](https://open.spotify.com/album/5rLz0FCrDlU8zsSjFpKQo2) | 6:08 | 2023-07-07 | 2024-02-03 |
 | [FTS \(KYS\)](https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [FTS \(KYS\)](https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy) | 2:19 | 2023-03-10 | 2024-02-03 |
+| [Fury, My Master](https://open.spotify.com/track/1KgCNolwH1by6iGqmNTj4R) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [End Time Lightning](https://open.spotify.com/album/71wuS8oPWthj7E6XEYpjzh) | 4:27 | 2025-06-20 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 | 2023-07-15 |
 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-02 | 2024-02-03 |
 | [Gaping Wounds of Earth](https://open.spotify.com/track/6ByaglD7LytHznZXw8v5ic) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Gaping Wounds of Earth](https://open.spotify.com/album/5rZPCnjwemvz1b0qfGfZrB) | 2:43 | 2023-08-18 | 2024-02-03 |
@@ -755,6 +758,7 @@
 | [Snack Run](https://open.spotify.com/track/676pwcDn6OiyTWFF0LXX9O) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Snack Run](https://open.spotify.com/album/5RMfiR0EZQ1lfNK1PDjOnK) | 0:56 | 2023-05-19 | 2024-02-03 |
 | [Snapshot](https://open.spotify.com/track/3FyGUTC41cUpXhugPyQaz6) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:29 | 2023-09-29 | 2024-02-03 |
 | [snuff.tape](https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [snuff.tape](https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y) | 3:39 | 2024-08-09 | 2025-04-11 |
+| [So Help Me God](https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Where Only The Truth Is Spoken](https://open.spotify.com/album/1qs6bVTbcreJUBB3yuspkq) | 4:18 | 2025-06-20 |  |
 | [So True To My Own](https://open.spotify.com/track/7pMBk0u7EMExWF4vYJ1EiT) | [Hold My Own](https://open.spotify.com/artist/0wX6EizFx2wnsU3jGd1luW), [Disgrace](https://open.spotify.com/artist/6xmtgaO9Xsepypg9XN1YtA), [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Da Trifecta](https://open.spotify.com/album/0xqcjJzWNGCLSAWAjmvZVA) | 2:39 | 2024-07-05 | 2025-04-11 |
 | [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 | 2023-06-30 | 2024-02-03 |
 | [Social Grace](https://open.spotify.com/track/7aOPJzvWO4RrUOpEemI15I) | [BRAT](https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF) | [Social Grace](https://open.spotify.com/album/6T0UIDL3VPU5byHMcV19jV) | 3:01 | 2023-10-20 | 2024-02-03 |
@@ -1017,6 +1021,7 @@
 | [You And Me](https://open.spotify.com/track/2yy0YCSswjOTc9mexfMEyC) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [You And Me](https://open.spotify.com/album/0UlZ9xS2gir6JfRee7jYwd) | 2:28 | 2023-08-18 | 2024-02-03 |
 | [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 | 2024-02-03 |
 | [You're On The List \(minus one\)](https://open.spotify.com/track/0hKmeXmY7wJSfEUqrL7pTD) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [You're On The List \(minus one\)](https://open.spotify.com/album/1NlppsZ2UrWiYjwWGgoXk8) | 3:01 | 2023-05-19 | 2024-02-03 |
+| [Your Flowers](https://open.spotify.com/track/1f6jZXsVuoSb2imgfJ91Vx) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Your Flowers](https://open.spotify.com/album/5IF7a6vg9C8HbltPfq0giv) | 3:10 | 2025-06-20 |  |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-11 | 2023-07-15 |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-08 | 2023-07-15 |
 | [Zombie Inferno](https://open.spotify.com/track/3kDii17lJocLG2jfWGzecS) | [Bloodbath](https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ) | [Zombie Inferno](https://open.spotify.com/album/6OsZBopYtCRSANJJ7FwI7Y) | 4:07 | 2022-07-01 | 2023-07-15 |

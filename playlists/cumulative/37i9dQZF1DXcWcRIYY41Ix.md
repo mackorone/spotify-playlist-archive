@@ -2,7 +2,7 @@
 
 ### [Cancionistas](https://open.spotify.com/playlist/37i9dQZF1DXcWcRIYY41Ix)
 
-> La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
+> La nueva ola de trovadores del siglo XXI\. En portada: Lorena Álvarez.
 
 854 songs - 2 day 2 hr 52 min
 

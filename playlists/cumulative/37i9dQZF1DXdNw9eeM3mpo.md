@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Camiseta 22 y Los Miserables en portada.
 
-394 songs - 23 hr 42 min
+395 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Tiran Bombas](https://open.spotify.com/track/1mWukoi0qibt7ejatbGPKW) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Los Intocables](https://open.spotify.com/album/0S4yC2DkQoKjw55hqehYTJ) | 3:03 | 2021-12-21 | 2022-03-07 |
 | [Tocando Fondo](https://open.spotify.com/track/3p8EcRVUPb6y2P04ep5vag) | [Ska Beat City](https://open.spotify.com/artist/4ZrOD7qBmuKV06QXkC9j6o), [Mavi Díaz](https://open.spotify.com/artist/4vxmDBcHT1ibxYBYKirIaW) | [Tocando Fondo](https://open.spotify.com/album/4odxo1WkylfY4tnzNYRl3t) | 3:45 | 2021-12-21 | 2022-02-23 |
 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 | 2022-09-29 | 2025-06-14 |
-| [Todo Crazy](https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [Todo Crazy](https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a) | 2:55 | 2025-01-10 |  |
+| [Todo Crazy](https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [Todo Crazy](https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a) | 2:55 | 2025-01-10 | 2025-06-21 |
 | [Todo me recuerda a ti](https://open.spotify.com/track/0id59vSiBNpJR2FFtXNs6E) | [Olmont](https://open.spotify.com/artist/48lZM974DsZhWQ0TanouFW) | [Todo me recuerda a ti](https://open.spotify.com/album/2RsY27hzTgZKEn70ttT3zm) | 3:29 | 2025-01-10 | 2025-03-12 |
 | [Todo va lento](https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP) | [Guachupé](https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K) | [El Club del Amigo](https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB) | 3:30 | 2021-12-21 | 2023-04-22 |
 | [Todos Locos](https://open.spotify.com/track/20j3mg8wGS2d3HbTrYWLsk) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:22 | 2021-12-21 | 2023-04-22 |
@@ -378,6 +378,7 @@
 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 | 2021-12-21 | 2024-04-19 |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2021-12-21 | 2023-04-22 |
 | [Un Amor Violento](https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Alvaro Henriquez](https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP) | [Un Amor Violento](https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1) | 4:49 | 2024-08-09 |  |
+| [Un Millón De Rosas](https://open.spotify.com/track/128UN7cVI7n20v2ouXTGkk) | [La Banda de Grillo](https://open.spotify.com/artist/1TscVCk7XePD3K4FjwCzpq), [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Un Millón De Rosas](https://open.spotify.com/album/27FVlD8YoGMeu3Lamhvu58) | 2:52 | 2025-06-13 |  |
 | [Un Niño Solo](https://open.spotify.com/track/6262h7kntg2FVQYUTfejhb) | [Los Pies Negros](https://open.spotify.com/artist/0WtbEWWoAzRJ2q3bU8bpeN) | [Un Niño Solo](https://open.spotify.com/album/6T7GSTv5SK09OHMtYkaiZF) | 2:45 | 2021-12-21 | 2022-02-25 |
 | [Una buena noche](https://open.spotify.com/track/4g2c6CYEWKLeGhwZPOkaj6) | [Staya Staya](https://open.spotify.com/artist/7mjXsxiQz6X6LS6SxGmCQf) | [Ya Suena](https://open.spotify.com/album/6kniUnB793nb2Fav2huCdm) | 2:57 | 2022-09-03 | 2023-05-06 |
 | [Una Lagrima Por Ti 2005](https://open.spotify.com/track/2bYf9Popw7l8tdffqeFj4v) | [Jamaica 69](https://open.spotify.com/artist/5WR89QzeMWyvWN9l4thUHM) | [The Rough and Tough Anthology](https://open.spotify.com/album/0btV40JfMq3w7X1YY7Oqhu) | 3:23 | 2021-12-21 | 2022-07-29 |

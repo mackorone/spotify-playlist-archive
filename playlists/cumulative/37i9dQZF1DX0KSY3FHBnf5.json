@@ -223,6 +223,28 @@
     },
     {
       "album": {
+        "name": "afterglow",
+        "url": "https://open.spotify.com/album/5l2uqc6E9ftgAxlQPqt2eE"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        },
+        {
+          "name": "julez",
+          "url": "https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "afterglow",
+      "url": "https://open.spotify.com/track/4PF3vUCj0sgG4TPt0tt2e0"
+    },
+    {
+      "album": {
         "name": "again,",
         "url": "https://open.spotify.com/album/47r3322kHDasMS04TNX2N6"
       },
@@ -1662,7 +1684,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 149543,
       "name": "fever dream",
       "url": "https://open.spotify.com/track/5aoS1GszAqFXDYPQKOzCiM"
@@ -2835,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "lost dreams",
+        "url": "https://open.spotify.com/album/1rkRCCvXKooa1UGwxuLOUb"
+      },
+      "artists": [
+        {
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "lost dreams",
+      "url": "https://open.spotify.com/track/2nYgSunrOnRmt3NBvJHyAa"
+    },
+    {
+      "album": {
         "name": "lost in the dark",
         "url": "https://open.spotify.com/album/0WAroIsf5GE65Ek0dZupn2"
       },
@@ -3220,7 +3260,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 145283,
       "name": "Need You Again",
       "url": "https://open.spotify.com/track/2vxt4kG6YIub0FM8ZvUVtq"
@@ -4486,7 +4526,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 117822,
       "name": "sunrays",
       "url": "https://open.spotify.com/track/4lYd4WNMVLK5J80MAoVBbw"

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Perunggu
 
-951 songs - 2 day 13 hr 21 min
+952 songs - 2 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [Tempat Bersandar](https://open.spotify.com/track/1wl8Ebwaxy89mjVjtFLPpw) | [Bagas Ran](https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i) | [Tempat Bersandar](https://open.spotify.com/album/4ggw3MKcFEIaBpVTuNnkiZ) | 3:49 | 2024-10-10 | 2024-12-06 |
 | [Tempat Ini](https://open.spotify.com/track/6cRn17cMoOEwT5xtas7TvY) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tempat Ini](https://open.spotify.com/album/4ESNDvZ9RyS0B6FpoxRtU4) | 3:22 | 2024-12-05 | 2025-04-11 |
 | [Tentang Arah](https://open.spotify.com/track/3k7JKDg3FHbBJMQi2tfedP) | [Samuel Cipta](https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc) | [Tentang Arah](https://open.spotify.com/album/2aOQqOGgPHEOJNfmy548RT) | 4:29 | 2024-10-10 | 2024-11-22 |
+| [Tentangmu Kawan](https://open.spotify.com/track/66ezuYO3MpV4dKWLHuVbFY) | [Karnamereka](https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq) | [FORTUNE](https://open.spotify.com/album/1W5R7RlqOBgDCuStruo4G8) | 3:19 | 2025-06-20 |  |
 | [Terakhir Kali](https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Terakhir Kali](https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB) | 4:54 | 2024-12-05 | 2025-06-06 |
 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 | 2024-03-21 | 2024-07-27 |
 | [Terbaik](https://open.spotify.com/track/4oZYiXBwrd8w8drTisFtku) | [Hugo Kasela](https://open.spotify.com/artist/1SBsX2VwIcpPKcjTqrtIiz) | [Terbaik](https://open.spotify.com/album/6za6C9lT3O7eixKkcxAudM) | 5:13 | 2024-11-14 | 2024-12-06 |

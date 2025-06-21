@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Peter Napo, LILCR ed Enny P in cover della playlist con il futuro del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,964 likes - 79 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,009 likes - 79 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 36 | [racks](https://open.spotify.com/track/7IR6nIXIBBQ9yPoIcq5zGW) | [HERESIA](https://open.spotify.com/artist/3HG7cwBJ7k7m2JBfFo21tL), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [racks](https://open.spotify.com/album/1p3o6GoGcfYpFCQzr0AFmB) | 1:48 |
 | 37 | [RESTA](https://open.spotify.com/track/3urkb8sNrNeIT1TfwMAgxj) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [RESTA](https://open.spotify.com/album/789pMbMUOcAWVLvI1xvIjG) | 2:32 |
 | 38 | [SANTA MONICA](https://open.spotify.com/track/5lSAeyT9OvLAOuDE9sEPfz) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [SIC](https://open.spotify.com/artist/0Hj8b0XnX4W9Kufo4XKu6v) | [SANTA MONICA](https://open.spotify.com/album/3P2FSVctsCegPBuiFpNUCZ) | 2:26 |
-| 39 | [Moto](https://open.spotify.com/track/3zbGSvWZ5LwQV7xlKl261l) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Tokyo](https://open.spotify.com/artist/2PISS1HSw6N8WODR2RLBS6) | [Moto](https://open.spotify.com/album/6WFdqm2KWxEvCquYDA6DoW) | 2:58 |
+| 39 | [Moto](https://open.spotify.com/track/3zbGSvWZ5LwQV7xlKl261l) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [Moto](https://open.spotify.com/album/6WFdqm2KWxEvCquYDA6DoW) | 2:58 |
 | 40 | [Apposto \(feat\. LILCR\)](https://open.spotify.com/track/2uxmWymjG8RPGUTFnW3gtD) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [Apposto \(feat\. LILCR\)](https://open.spotify.com/album/6YbZ08mCKA4YokmYtGxaHp) | 2:20 |
 | 41 | [Fantasy](https://open.spotify.com/track/7zhjHihJHGKrsM0TxEY7h8) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Fantasy](https://open.spotify.com/album/1G9WIUURtWtUwEdjLooHgo) | 2:53 |
 | 42 | [Altitudine](https://open.spotify.com/track/4riAC36P3s72GYBDo3k9VO) | [yungenob](https://open.spotify.com/artist/2wpyNCDCcqIpRZgAGdHRgg) | [Odyssea](https://open.spotify.com/album/05Fg29JDxiy508hSWjud9S) | 2:08 |

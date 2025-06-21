@@ -1,13 +1,77 @@
 {
-  "description": "Underground indie rock gems. Cover: Quadeca",
-  "num_followers": 308820,
+  "description": "Underground indie rock gems. Cover: bar italia",
+  "num_followers": 308830,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuicQAAAACxHa6JauJYbr7TATYbD8wF",
+  "snapshot_id": "aFTc+QAAAAApbOkGiQdqE+pDsCU5GMTa",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:57",
+      "album": {
+        "name": "Cowbella",
+        "url": "https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 263537,
+      "name": "Cowbella",
+      "url": "https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu"
+    },
+    {
+      "added_at": "2025-06-20 04:00:57",
+      "album": {
+        "name": "Alright Alright Alright",
+        "url": "https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 124733,
+      "name": "Alright Alright Alright",
+      "url": "https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "What About Jane",
+        "url": "https://open.spotify.com/album/6Q8Gg8OonDNqgw0jQVrZgU"
+      },
+      "artists": [
+        {
+          "name": "Still Blank",
+          "url": "https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71"
+        }
+      ],
+      "duration_ms": 271025,
+      "name": "What About Jane",
+      "url": "https://open.spotify.com/track/0uKN1ZPSqDz51vYb8CLkkD"
+    },
+    {
+      "added_at": "2025-06-20 04:00:57",
+      "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/1ah2CY1w0eG8Zy8Ur1fVJ1"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "duration_ms": 228604,
+      "name": "Fold",
+      "url": "https://open.spotify.com/track/0tbQ08FI6iX6IKS9EgSsC8"
+    },
     {
       "added_at": "2025-06-13 04:00:49",
       "album": {
@@ -23,6 +87,54 @@
       "duration_ms": 164956,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS"
+    },
+    {
+      "added_at": "2025-06-06 04:00:16",
+      "album": {
+        "name": "Life Signs",
+        "url": "https://open.spotify.com/album/23FGt38MJC249Agj7U6Z5o"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 272165,
+      "name": "Life Signs",
+      "url": "https://open.spotify.com/track/6cw1KW5j5xuG6nu7i0C1xM"
+    },
+    {
+      "added_at": "2025-06-13 04:00:49",
+      "album": {
+        "name": "I Only Feel Love When It's Missing",
+        "url": "https://open.spotify.com/album/7AYc6SxopEbaf1c9jXdGyW"
+      },
+      "artists": [
+        {
+          "name": "Small Forward",
+          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
+        }
+      ],
+      "duration_ms": 192235,
+      "name": "I Only Feel Love When It's Missing",
+      "url": "https://open.spotify.com/track/75FGTIaiv5Y5vjTNVVp6xo"
+    },
+    {
+      "added_at": "2025-06-20 04:00:57",
+      "album": {
+        "name": "Loaded Painted Red",
+        "url": "https://open.spotify.com/album/4AzwB5nkoGoyATPe5v5M8C"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 338858,
+      "name": "Loaded Painted Red",
+      "url": "https://open.spotify.com/track/3vzm8VDNwqxJbQHQLvZVv9"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -41,20 +153,20 @@
       "url": "https://open.spotify.com/track/3BA0pgBBU4MzXwnOUFwIOB"
     },
     {
-      "added_at": "2025-06-13 04:00:49",
+      "added_at": "2025-06-20 04:00:57",
       "album": {
-        "name": "What About Jane",
-        "url": "https://open.spotify.com/album/6Q8Gg8OonDNqgw0jQVrZgU"
+        "name": "Bluff",
+        "url": "https://open.spotify.com/album/4lyaxz47Hv2pxOzFS1vPYL"
       },
       "artists": [
         {
-          "name": "Still Blank",
-          "url": "https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71"
+          "name": "Forth Wanderers",
+          "url": "https://open.spotify.com/artist/5UjbehtgZGbNmmanbVW9Bs"
         }
       ],
-      "duration_ms": 271025,
-      "name": "What About Jane",
-      "url": "https://open.spotify.com/track/0uKN1ZPSqDz51vYb8CLkkD"
+      "duration_ms": 154106,
+      "name": "Bluff",
+      "url": "https://open.spotify.com/track/3Egw5YY3FnbOFBBukF1ran"
     },
     {
       "added_at": "2025-06-06 04:00:16",
@@ -87,22 +199,6 @@
       "duration_ms": 474662,
       "name": "FORGONE",
       "url": "https://open.spotify.com/track/6LfLoYQHYaj6E7jlNj0SlN"
-    },
-    {
-      "added_at": "2025-06-06 04:00:16",
-      "album": {
-        "name": "Life Signs",
-        "url": "https://open.spotify.com/album/23FGt38MJC249Agj7U6Z5o"
-      },
-      "artists": [
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 272165,
-      "name": "Life Signs",
-      "url": "https://open.spotify.com/track/6cw1KW5j5xuG6nu7i0C1xM"
     },
     {
       "added_at": "2025-06-13 04:00:49",
@@ -139,22 +235,6 @@
       "duration_ms": 141767,
       "name": "Panic Mode",
       "url": "https://open.spotify.com/track/6RU2GfSiznYHOXOsVzwLqP"
-    },
-    {
-      "added_at": "2025-06-13 04:00:49",
-      "album": {
-        "name": "I Only Feel Love When It's Missing",
-        "url": "https://open.spotify.com/album/7AYc6SxopEbaf1c9jXdGyW"
-      },
-      "artists": [
-        {
-          "name": "Small Forward",
-          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
-        }
-      ],
-      "duration_ms": 192235,
-      "name": "I Only Feel Love When It's Missing",
-      "url": "https://open.spotify.com/track/75FGTIaiv5Y5vjTNVVp6xo"
     },
     {
       "added_at": "2025-06-13 04:00:49",

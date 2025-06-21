@@ -3565,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/1wXAdBWXzFArynFkW7DYE4"
+      },
+      "artists": [
+        {
+          "name": "VLURE",
+          "url": "https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196297,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/639XFvehVKK7taRxmg4IFE"
+    },
+    {
+      "album": {
         "name": "Fighter",
         "url": "https://open.spotify.com/album/0xq3KVLWzl2BYEVjYfqwbr"
       },
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 233203,
       "name": "FIMBULVETR",
       "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
@@ -8903,6 +8921,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/235idE3k4hW8nuG0kpjFak"
+      },
+      "artists": [
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241655,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/40bUQSpKvHml9ZSFEtL6pf"
+    },
+    {
+      "album": {
         "name": "Stay Away",
         "url": "https://open.spotify.com/album/7mdDDc1sH2RZZcOjhvsYOU"
       },
@@ -9024,7 +9060,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 174213,
       "name": "Straight To Heart",
       "url": "https://open.spotify.com/track/7GdF52qhqJGoNNmPl8Lx2A"

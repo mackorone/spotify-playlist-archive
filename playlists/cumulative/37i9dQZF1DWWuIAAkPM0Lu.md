@@ -4,7 +4,7 @@
 
 > Det er fredag! Ny musik fra Ella Augusta, Sivas, Benson Boone og mange flere 👀
 
-6,026 songs - 12 day 22 hr 57 min
+6,029 songs - 12 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [All Night](https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/album/0Ef6pDrlRVps38PdMIgfLV) | 2:00 | 2024-08-22 | 2024-08-30 |
 | [All Night](https://open.spotify.com/track/4IGT69nbtQdRXNVIZaulOf) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 3:53 | 2024-09-05 | 2024-09-13 |
 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-19 | 2025-01-03 |
+| [All over me](https://open.spotify.com/track/4Wrj8ktJKiJ8T9Kn9eOalv) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6nFdbH0K0K16DZsjALaBov) | 3:22 | 2025-06-20 |  |
 | [All Right](https://open.spotify.com/track/3J5LoP6UnLst7xADfb5ZtY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [All Right](https://open.spotify.com/album/4eikW8HEWg7LLFCzPQc8zi) | 5:19 | 2025-03-13 | 2025-03-21 |
 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 | 2025-02-13 | 2025-02-21 |
 | [All The Love](https://open.spotify.com/track/3hAfmM8O1VgtFmSfbm5FSc) | [Everything Is Art](https://open.spotify.com/artist/4CNfRyL59In8QRz94NE63M), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [All The Love](https://open.spotify.com/album/0AfvonhHpPRUz6fpPy7RHu) | 3:36 | 2025-03-06 | 2025-03-14 |
@@ -2028,7 +2029,7 @@
 | [Gir dig ord](https://open.spotify.com/track/781UlxKZOmRvU2CoXvn6ry) | [Rasmus Rydahl](https://open.spotify.com/artist/6tbEOV15fjBGjAJMGDIl3q) | [Gir dig ord](https://open.spotify.com/album/0745zzt0gHgrLYG7nQNf8D) | 3:27 | 2024-12-05 | 2024-12-13 |
 | [Girl at the Station](https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Girl at the Station \(feat\. Jeremy Passion\)](https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK) | 2:25 | 2025-05-01 | 2025-05-09 |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-13 | 2024-06-21 |
-| [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/3z4L3novn4XHxQiHUsoCqP) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 | 2025-06-19 |  |
+| [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 | 2025-06-19 |  |
 | [Girl on the Run](https://open.spotify.com/track/0vs3aUZFrub43yKs0lXUoV) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Girl on the Run](https://open.spotify.com/album/10sVj48b0wtFRrLY0rY40t) | 3:19 | 2025-04-17 | 2025-04-25 |
 | [girl talk](https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [tiny but scary](https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR) | 3:10 | 2024-08-09 | 2024-08-16 |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-06 | 2024-06-14 |
@@ -3800,6 +3801,7 @@
 | [News](https://open.spotify.com/track/4qN4tkCfiadEu14pnlQVbw) | [LINA](https://open.spotify.com/artist/1LMKaIjNuFe4Rs8ONIEprG) | [News](https://open.spotify.com/album/6QfAA0R0FcULuAV8vT0KDF) | 2:52 | 2024-05-23 | 2024-06-01 |
 | [Next 2 U](https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Next 2 U](https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA) | 2:41 | 2024-05-30 | 2024-06-07 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-27 | 2025-03-07 |
+| [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 | 2025-06-20 |  |
 | [Next to you](https://open.spotify.com/track/0cT4AriTAEW9cG1eTTURoc) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Passengers](https://open.spotify.com/album/5Phsy4wbNbfbRCUVpbyYcY) | 3:18 | 2024-12-05 | 2024-12-13 |
 | [next to you](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [next to you](https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW) | 2:34 | 2024-10-24 | 2024-11-01 |
 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 | 2025-04-03 | 2025-04-11 |
@@ -4137,6 +4139,7 @@
 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 | 2024-10-10 | 2024-10-18 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-03 | 2024-10-11 |
 | [paopu fruit](https://open.spotify.com/track/7kyYEezYgo6nBOeVLP2CGJ) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [paopu fruit](https://open.spotify.com/album/5m2mczqQbbozBYhkyqepIU) | 4:10 | 2024-07-04 | 2024-07-12 |
+| [Papasito](https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:47 | 2025-06-20 |  |
 | [Paper, Filter, Smøger, Chips og..](https://open.spotify.com/track/73V30rm6j7YIXG2g5dpTBM) | [Fuld Effekt](https://open.spotify.com/artist/54iausUP3JYJBeQ0rWUxPh) | [Paper, Filter, Smøger, Chips og..](https://open.spotify.com/album/4StS5fv4MGxeFVhHlHJekv) | 2:37 | 2024-06-20 | 2024-06-28 |
 | [Papkasser](https://open.spotify.com/track/2I8XG00v3dTpgO1mnNWcpI) | [YAKUZA](https://open.spotify.com/artist/0kaFVAigKQNC5TaXTo7Cm7) | [Papkasser](https://open.spotify.com/album/47eR36M2GJBwd7QxAuDk12) | 2:20 | 2025-05-29 | 2025-06-06 |
 | [Paracet](https://open.spotify.com/track/5YBHSdtxnWtSequElwqDAz) | [KARLA](https://open.spotify.com/artist/23QaxTC9xXcLtYoJEFxhlZ) | [Paracet](https://open.spotify.com/album/1HqpneeaN3FjJDuxOWfLFE) | 2:37 | 2025-01-02 | 2025-01-10 |
@@ -4409,7 +4412,7 @@
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-09 | 2024-08-16 |
 | [Regntid \(feat\. Kabusa Oriental Choir\)](https://open.spotify.com/track/3qIvu40vMOHaTx7GLhthhn) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Regntid \(feat\. Kabusa Oriental Choir\)](https://open.spotify.com/album/1XyPY2lf8S8WJWxaoBA6us) | 3:26 | 2025-02-06 | 2025-02-14 |
 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-06-19 |  |
-| [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-13 |  |
+| [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-13 | 2025-06-21 |
 | [Relentless Love](https://open.spotify.com/track/0hzt5MB7hjMWDPkM5BLDLt) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Relentless Love](https://open.spotify.com/album/3c8dzx8Vhy0w4eLH8ns5Zj) | 4:03 | 2025-03-27 | 2025-04-04 |
 | [Remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 | 2025-02-27 | 2025-03-07 |
 | [Remember Me](https://open.spotify.com/track/15RPmc9LVulYANNiuyDQBC) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE) | [Remember Me](https://open.spotify.com/album/41b7QZKNWavDjxpKa7D5aW) | 2:20 | 2025-03-27 | 2025-04-04 |

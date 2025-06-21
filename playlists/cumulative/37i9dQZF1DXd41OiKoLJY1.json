@@ -47063,6 +47063,24 @@
     },
     {
       "album": {
+        "name": "Rainbow Connection",
+        "url": "https://open.spotify.com/album/6QKYiQlVvZ9NnfdAhewsOK"
+      },
+      "artists": [
+        {
+          "name": "Marc Biala",
+          "url": "https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Rainbow Connection",
+      "url": "https://open.spotify.com/track/1N0ET35cZrVe3MUC8xEu6b"
+    },
+    {
+      "album": {
         "name": "Rainman",
         "url": "https://open.spotify.com/album/5uon23HFPCFWE0dtvyz3He"
       },

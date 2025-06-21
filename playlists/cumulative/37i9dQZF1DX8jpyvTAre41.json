@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Mother Mother",
+  "description": "The best rock songs of the moment. Cover: Turnstile",
   "name": "Rock Now",
   "tracks": [
     {
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 186906,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
@@ -4358,7 +4358,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 184417,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
@@ -4661,6 +4661,24 @@
     },
     {
       "album": {
+        "name": "DAYLIGHT LIGHTNING",
+        "url": "https://open.spotify.com/album/1IrcEJX1JUqRyn1aMWMUfq"
+      },
+      "artists": [
+        {
+          "name": "Headstones",
+          "url": "https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214148,
+      "name": "DAYLIGHT LIGHTNING",
+      "url": "https://open.spotify.com/track/3QNjrEt8SKvutz1nRFAyp8"
+    },
+    {
+      "album": {
         "name": "Formentera II",
         "url": "https://open.spotify.com/album/4SH7eiRuT8MdrLnL52gB1O"
       },
@@ -4798,7 +4816,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 191614,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI"
@@ -5101,6 +5119,24 @@
     },
     {
       "album": {
+        "name": "Dominate",
+        "url": "https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Dominate",
+      "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Get Lost In The Dark",
         "url": "https://open.spotify.com/album/1fi6QeTNVtN9yGXrVbHtfM"
       },
@@ -5282,6 +5318,28 @@
       "duration_ms": 147886,
       "name": "Down To You",
       "url": "https://open.spotify.com/track/6xwNNvcmwj9fG5E3RUw4TL"
+    },
+    {
+      "album": {
+        "name": "Drain The Blood",
+        "url": "https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Drain The Blood",
+      "url": "https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0"
     },
     {
       "album": {
@@ -5938,7 +5996,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 180827,
       "name": "Erase Me",
       "url": "https://open.spotify.com/track/0PcJ2m0cg6F00BB7mNnZva"
@@ -7399,6 +7457,24 @@
     },
     {
       "album": {
+        "name": "Fuck You I'm Leaving",
+        "url": "https://open.spotify.com/album/4bK8fWB91EsY8XPeiOCWPw"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219144,
+      "name": "Fuck You I'm Leaving",
+      "url": "https://open.spotify.com/track/5zr1Fe5h48QXRNSBTuLFjm"
+    },
+    {
+      "album": {
         "name": "Fate & Alcohol",
         "url": "https://open.spotify.com/album/6wVB0HHN4WuzbsMHAnfMIo"
       },
@@ -7619,6 +7695,24 @@
     },
     {
       "album": {
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386181,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
+    },
+    {
+      "album": {
         "name": "Ghosts Again",
         "url": "https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF"
       },
@@ -7818,6 +7912,24 @@
       "duration_ms": 188553,
       "name": "Golden Woman",
       "url": "https://open.spotify.com/track/1T3H1dYVlvYrt8Jmbp1Ui0"
+    },
+    {
+      "album": {
+        "name": "Edge Of The Earth",
+        "url": "https://open.spotify.com/album/3dzRpXVj0YAmnCkeJ6Lt6M"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199613,
+      "name": "Gone Baby Gone",
+      "url": "https://open.spotify.com/track/3oKBUb6PiBsOvHl3zBKfDo"
     },
     {
       "album": {
@@ -8698,7 +8810,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 203866,
       "name": "Home",
       "url": "https://open.spotify.com/track/3hyV8JBxMuARHhVwVDj6Qx"
@@ -9582,6 +9694,24 @@
       "duration_ms": 184591,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3Exir4RkVCbkr9svN3Z2gW"
+    },
+    {
+      "album": {
+        "name": "Into Hell",
+        "url": "https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192210,
+      "name": "Into Hell",
+      "url": "https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC"
     },
     {
       "album": {
@@ -10866,7 +10996,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 189720,
       "name": "Left on Dilworth",
       "url": "https://open.spotify.com/track/1RbYgLrtVNDRI1PmwmRnA6"
@@ -11361,6 +11491,24 @@
     },
     {
       "album": {
+        "name": "Dilworth",
+        "url": "https://open.spotify.com/album/1DmUukUnrzc984oVIyUhFR"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163765,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/4ePRLYhdtPjS0d6Ai0Ibwi"
+    },
+    {
+      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
       },
@@ -11430,7 +11578,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 234560,
       "name": "Little Bit Closer",
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
@@ -11470,6 +11618,24 @@
       "duration_ms": 199746,
       "name": "Little High Little Low",
       "url": "https://open.spotify.com/track/0OzLuAmu5XNIPhCSsPAYer"
+    },
+    {
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/0OCyOitkLLngXx6ruICxwz"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207167,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1F8VIxEby8PSPYPbgnt72L"
     },
     {
       "album": {
@@ -13670,7 +13836,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 180186,
       "name": "No Angels In This Town",
       "url": "https://open.spotify.com/track/3qupTJW7N5ngjPt7tlJKb3"
@@ -14652,7 +14818,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 249109,
       "name": "Oubliette",
       "url": "https://open.spotify.com/track/21yMSodGqrS6nZyexAy3t1"
@@ -16355,6 +16521,24 @@
     },
     {
       "album": {
+        "name": "The Red Garden",
+        "url": "https://open.spotify.com/album/15flfz9h1HyFYyRc9SvDwo"
+      },
+      "artists": [
+        {
+          "name": "Freeze the Fall",
+          "url": "https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217637,
+      "name": "Rot",
+      "url": "https://open.spotify.com/track/6leXzAS4DAnwOI0luKXqj6"
+    },
+    {
+      "album": {
         "name": "Rotoscope",
         "url": "https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds"
       },
@@ -16922,7 +17106,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 185379,
       "name": "Self-Made",
       "url": "https://open.spotify.com/track/75BUXZ2Ry0BfQNzvdEhflU"
@@ -18560,7 +18744,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 158667,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
@@ -20642,7 +20826,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 188898,
       "name": "Tree Of Life",
       "url": "https://open.spotify.com/track/3WBecJY7EJ8KWZikPhP7Rf"
@@ -20999,6 +21183,24 @@
     },
     {
       "album": {
+        "name": "Unravelling",
+        "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238002,
+      "name": "Unravelling",
+      "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "album": {
         "name": "Unshatter",
         "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
       },
@@ -21228,6 +21430,24 @@
       "duration_ms": 265226,
       "name": "Vegas Strip",
       "url": "https://open.spotify.com/track/0OHPMrQooY9uyPDdO4HdSj"
+    },
+    {
+      "album": {
+        "name": "Venom Moon Rising",
+        "url": "https://open.spotify.com/album/3Hdnx8p9dHNOuZCCDSVo3A"
+      },
+      "artists": [
+        {
+          "name": "Pig Pen",
+          "url": "https://open.spotify.com/artist/5gz02MKm1uxQLcjE5Cs9Hr"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187658,
+      "name": "Venom Moon Rising",
+      "url": "https://open.spotify.com/track/0Ofxy9VZ4OHQ40HgPwF8Or"
     },
     {
       "album": {
@@ -21852,6 +22072,24 @@
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire",
       "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
+    },
+    {
+      "album": {
+        "name": "Grief and Purpose",
+        "url": "https://open.spotify.com/album/7fxQXUHIq7niVDD9ZZkGEf"
+      },
+      "artists": [
+        {
+          "name": "Drives the Common Man",
+          "url": "https://open.spotify.com/artist/2wcZTsK9T9ANPCLWDHtFIZ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185966,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/0jQqAuHe3GaJTdNvAyTwqi"
     },
     {
       "album": {
@@ -23114,7 +23352,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"

@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-301 songs - 19 hr 16 min
+303 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [La luna \(Flica’s Moonlight Remix\)](https://open.spotify.com/track/0CgocE5K72fz4Ej7uEroti) | [D & the Compass](https://open.spotify.com/artist/3ilD695ywPm5CrM65QwoXF), [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [La luna \(Flica's Moonlight Remix\)](https://open.spotify.com/album/3jNccBInH9Dktpo4tvhumR) | 3:09 | 2024-01-19 | 2024-04-13 |
 | [Let It Burn](https://open.spotify.com/track/0DxInsKBRdvAJTTLgO57tE) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [A Song For You](https://open.spotify.com/artist/4P3LplvLge34bs0R6bQ7kP) | [Let It Burn](https://open.spotify.com/album/4MrtqISO50u3fvNmr7VHPJ) | 3:59 | 2024-03-01 | 2024-03-29 |
 | [Level Up](https://open.spotify.com/track/6ECYH4enN8ZTIeMyCGxcDt) | [Mr\. Hong](https://open.spotify.com/artist/7tDDk9WbLrXl0DuDXH4sId), [Hiyasu Cuts](https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO) | [Level Up](https://open.spotify.com/album/5682kTPqzp8r3xY2UHnVG4) | 2:24 | 2024-06-14 | 2024-07-13 |
+| [Like I Used To \- Steven Weston Revisit](https://open.spotify.com/track/3xZLRzqumdhYhWjnhu4Pud) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To \(Steven Weston Revisit\)](https://open.spotify.com/album/6FPX05WEzjO21ZteyYxGq8) | 4:43 | 2025-06-20 |  |
 | [Lilo](https://open.spotify.com/track/0ZTzCztdWzB6vlXrebWJzI) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Lilo](https://open.spotify.com/album/0oNtXBVJ5eoUcqA1Ovtu9Z) | 3:39 | 2024-04-19 | 2024-05-11 |
 | [Linhai](https://open.spotify.com/track/3AVsyrFJEzEdMMCCJ3dedr) | [Mr\. Hong](https://open.spotify.com/artist/7tDDk9WbLrXl0DuDXH4sId), [Hiyasu Cuts](https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO) | [Linhai](https://open.spotify.com/album/709dZyTlh3r0nXeVAcJniA) | 3:22 | 2024-05-23 | 2024-07-27 |
 | [List](https://open.spotify.com/track/5h2VlnpWCVv9OjFC8LHXTG) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Meliadi](https://open.spotify.com/album/2uerceDrS1RHxnrpNq8Zz7) | 4:23 | 2025-01-13 |  |
@@ -221,6 +222,7 @@
 | [Pandora](https://open.spotify.com/track/5e5Q1bAFyR6o3dpB5gufQw) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Pandora](https://open.spotify.com/album/4L7o78mSbrbTB6AXSzqgdj) | 6:38 | 2024-09-20 | 2025-01-14 |
 | [Peaceful Avenues \- Unplugged Instrumental](https://open.spotify.com/track/2ucQtiO5cCdbGJGiRfYC3H) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Peaceful Avenues](https://open.spotify.com/album/2tSLZZXtD1PDRuRTNNKnst) | 4:00 | 2024-04-16 | 2024-12-07 |
 | [Persevere \- An Evening With Wife's Piano Playing](https://open.spotify.com/track/2uy39vRSVXKvYzEwJfbCRu) | [Alex Rusin](https://open.spotify.com/artist/5ncIkDwysG4a84OvqiL4uS) | [Reflections 09](https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5) | 2:25 | 2024-07-19 | 2024-10-12 |
+| [Potential](https://open.spotify.com/track/5cY1HAqMCWX6O8NsmvIaEP) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Potential EP](https://open.spotify.com/album/5sOXGKshInDELSldm7D7Vx) | 3:55 | 2025-06-20 |  |
 | [Push](https://open.spotify.com/track/1R7IHRsBICbt7ye7EihWsS) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Anjunadeep pres\. Reflections Vol\. 3](https://open.spotify.com/album/0OAHHOQXOuk6Srzu8Y8D8k) | 4:28 | 2025-01-13 | 2025-02-22 |
 | [Put You Back Together](https://open.spotify.com/track/4wRgSUpELGyDeKnaG3sFUW) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Put You Back Together](https://open.spotify.com/album/2iE2GaYIZCGqCcJdMBFv3v) | 3:00 | 2024-06-21 | 2024-11-30 |
 | [Reach Out To Me \- Acoustic Rework](https://open.spotify.com/track/64kE0BmqaVFfjWSvZRgkiJ) | [Blank Page](https://open.spotify.com/artist/1ZwCQVciFsCneJFpwSdA0r), [Dan Kol](https://open.spotify.com/artist/36sSK0wDGzRTTplBKWP8TQ) | [Reach Out To Me \(Acoustic Rework\)](https://open.spotify.com/album/3U8NDP92i6IjQgecTL3TE1) | 2:21 | 2025-05-16 |  |

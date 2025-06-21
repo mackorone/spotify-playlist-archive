@@ -2,7 +2,7 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> the best new metalcore\. where brutality and technicality collide\. Cover: We Came As Romans
+> the best new metalcore\. where brutality and technicality collide\. Cover: Killswitch Engage
 
 1,258 songs - 3 day 5 hr 8 min
 

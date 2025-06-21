@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-290 songs - 14 hr 15 min
+291 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Nosso Jeito](https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Nosso Jeito](https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B) | 3:10 | 2022-03-18 | 2023-12-09 |
 | [Não Demora](https://open.spotify.com/track/2upeA1eDVdtH4t7zUdGULn) | [Mati](https://open.spotify.com/artist/6q4OTLGMcroTVXFFKSkzzC), [Ni Munhoz](https://open.spotify.com/artist/3e0wWnjJSczRhvjFKT7kQZ) | [Não Demora](https://open.spotify.com/album/0NtFR23BCN7A9jCfbaj54z) | 2:46 | 2022-03-18 | 2023-11-14 |
 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 | 2023-11-24 | 2024-06-15 |
+| [Não É Amor \(Só P\* e Tchau\)](https://open.spotify.com/track/17PSpje8Gh2NYwSnXLeZsw) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [PL](https://open.spotify.com/artist/2IWSQjDY5SXgnSyiCRUiP1) | [Não É Fácil Ser Eu](https://open.spotify.com/album/4rnCfBilA1yONDvb8q8OBT) | 2:09 | 2025-06-20 |  |
 | [nãonãonão](https://open.spotify.com/track/6hdZ7hhPlKF1bRd9CfB4os) | [offshino](https://open.spotify.com/artist/4N4kqyYIGUt0KAQQFpanfK), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Blamecrxz](https://open.spotify.com/artist/5EtcGIS9EWCiIvdSr42BG5) | [nãonãonão](https://open.spotify.com/album/6moRjSWrvFow701BF7Q2uE) | 2:18 | 2025-05-23 |  |
 | [O Tempo](https://open.spotify.com/track/31oOBluQP0TkfUprY5V1Pg) | [Viped](https://open.spotify.com/artist/6lL3PBXaqTkAznwSvfySSi), [BlackMura](https://open.spotify.com/artist/1CENG2Rr3cDIP6HKNGe7Nd), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [O Tempo](https://open.spotify.com/album/6XhdOkOS1GRBKVwaD5Oxsw) | 2:45 | 2022-12-23 | 2023-01-28 |
 | [ODONTO](https://open.spotify.com/track/1igEF1TAmrJMHVjEuSxII3) | [Bezin](https://open.spotify.com/artist/4AnMglEwY1PN8UbURN3YiW), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [ODONTO](https://open.spotify.com/album/3NXeur7OH6URG3TOR5ATp1) | 3:20 | 2024-05-03 | 2024-08-17 |

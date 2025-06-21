@@ -1,13 +1,29 @@
 {
   "description": "iykyk",
-  "num_followers": 4165417,
+  "num_followers": 4165776,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSCAgAAAAAFmTImIdpC2vaAvIaSIKEH",
+  "snapshot_id": "aFXajgAAAAAtSJIxSnGX46hw6iU9jdyU",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:53",
+      "album": {
+        "name": "we never dated",
+        "url": "https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 196931,
+      "name": "we never dated",
+      "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
+    },
     {
       "added_at": "2025-05-27 15:47:05",
       "album": {
@@ -71,6 +87,22 @@
       "duration_ms": 187133,
       "name": "Your Love Is My Drug",
       "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
+    },
+    {
+      "added_at": "2025-06-20 04:28:53",
+      "album": {
+        "name": "LABUBU",
+        "url": "https://open.spotify.com/album/1v8GlDaMR1SYcLdy8uYLQZ"
+      },
+      "artists": [
+        {
+          "name": "Coke Duck",
+          "url": "https://open.spotify.com/artist/0mwuL4cAIS4ea0Wh5CZEyn"
+        }
+      ],
+      "duration_ms": 70766,
+      "name": "LABUBU",
+      "url": "https://open.spotify.com/track/2gZ6ZxCxLiDfupcpLNQWtu"
     },
     {
       "added_at": "2025-02-26 18:11:23",
@@ -253,6 +285,22 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
+      "added_at": "2025-06-20 22:02:54",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Summerboy",
+      "url": "https://open.spotify.com/track/1c31md8UrbHONSycrFi3Jy"
+    },
+    {
       "added_at": "2025-06-17 22:54:20",
       "album": {
         "name": "Loveworm",
@@ -283,6 +331,22 @@
       "duration_ms": 147492,
       "name": "Bunna Summa",
       "url": "https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV"
+    },
+    {
+      "added_at": "2025-06-20 04:00:53",
+      "album": {
+        "name": "Close to you",
+        "url": "https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 103441,
+      "name": "Close to you",
+      "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
     },
     {
       "added_at": "2025-05-27 15:47:05",
@@ -581,22 +645,6 @@
       "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
     },
     {
-      "added_at": "2025-05-30 04:00:37",
-      "album": {
-        "name": "would've been you",
-        "url": "https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "would've been you",
-      "url": "https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu"
-    },
-    {
       "added_at": "2025-02-07 20:56:50",
       "album": {
         "name": "Ordinary",
@@ -737,26 +785,6 @@
       "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
     },
     {
-      "added_at": "2025-06-17 22:54:20",
-      "album": {
-        "name": "Shark (feat. Rio Da Yung Og)",
-        "url": "https://open.spotify.com/album/5AeSZptvGXqI5ZTsjgXtkq"
-      },
-      "artists": [
-        {
-          "name": "Jorjiana",
-          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
-        },
-        {
-          "name": "Rio Da Yung Og",
-          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
-        }
-      ],
-      "duration_ms": 138943,
-      "name": "Shark (feat. Rio Da Yung Og)",
-      "url": "https://open.spotify.com/track/3KO7ESpzP1ktVJ6p0u5113"
-    },
-    {
       "added_at": "2025-05-07 16:11:06",
       "album": {
         "name": "Gnarly",
@@ -787,22 +815,6 @@
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
-    },
-    {
-      "added_at": "2025-03-20 17:30:24",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 272360,
-      "name": "Someone To Call My Lover",
-      "url": "https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM"
     },
     {
       "added_at": "2025-03-25 04:03:35",
@@ -991,22 +1003,6 @@
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
-    },
-    {
-      "added_at": "2025-02-04 01:17:17",
-      "album": {
-        "name": "Stephanie",
-        "url": "https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk"
-      },
-      "artists": [
-        {
-          "name": "Nafeesisboujee",
-          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
-        }
-      ],
-      "duration_ms": 126969,
-      "name": "Stephanie",
-      "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
     },
     {
       "added_at": "2025-02-26 18:11:23",

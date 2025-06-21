@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Ari Abdul",
+  "description": "Dark, hard hitting pop. Cover: DYLAN",
   "name": "SALT",
   "tracks": [
     {
@@ -936,6 +936,24 @@
       "duration_ms": 158840,
       "name": "Backtrack",
       "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
+    },
+    {
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/3mu4Y69CWMH21RNGDzt9Eu"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152786,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/4HaPoW6VbjC0iWBsuAmw5z"
     },
     {
       "album": {
@@ -6090,7 +6108,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 147540,
       "name": "GRASS IS GREENER",
       "url": "https://open.spotify.com/track/03NGvMraKPHuigMw4pSLyv"
@@ -6558,7 +6576,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 139848,
       "name": "Heart In A Cage",
       "url": "https://open.spotify.com/track/4gYH75alQBWW7Y5UCwBDNX"
@@ -8090,7 +8108,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 162000,
       "name": "Itty Bitty",
       "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
@@ -9641,6 +9659,24 @@
     },
     {
       "album": {
+        "name": "ME PROBLEM",
+        "url": "https://open.spotify.com/album/6RFpS6ilotaQU0WbIWYIXf"
+      },
+      "artists": [
+        {
+          "name": "EHLE",
+          "url": "https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166639,
+      "name": "ME PROBLEM",
+      "url": "https://open.spotify.com/track/4EhGpvcGNl3h9pj92AB0rr"
+    },
+    {
+      "album": {
         "name": "me-a-holic",
         "url": "https://open.spotify.com/album/7oRhBhXgzzU1dB8svLcEaP"
       },
@@ -10698,6 +10734,24 @@
       "duration_ms": 183750,
       "name": "Obsessed (feat. Ashley Sienna)",
       "url": "https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH"
+    },
+    {
+      "album": {
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107266,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
       "album": {

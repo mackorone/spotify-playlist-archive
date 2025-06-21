@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 276249,
+  "num_followers": 276251,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuifAAAAACBCGxWT4y8OSbaRh5Ihxdg",
+  "snapshot_id": "aFTc8QAAAABekG/mUF2eUGw1wpAnQ85M",
   "tracks": [
     {
       "added_at": "2025-06-06 04:00:31",
@@ -27,6 +27,54 @@
       "duration_ms": 205611,
       "name": "Love Me Alive",
       "url": "https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC"
+    },
+    {
+      "added_at": "2025-06-20 04:00:49",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2dWmHY90dhPLu5pKnI5qDh"
+      },
+      "artists": [
+        {
+          "name": "Moyka",
+          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+        }
+      ],
+      "duration_ms": 157752,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b"
+    },
+    {
+      "added_at": "2025-06-20 04:00:49",
+      "album": {
+        "name": "Odin St",
+        "url": "https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1"
+      },
+      "artists": [
+        {
+          "name": "Ryn Weaver",
+          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
+        }
+      ],
+      "duration_ms": 188877,
+      "name": "Odin St",
+      "url": "https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg"
+    },
+    {
+      "added_at": "2025-06-20 04:00:49",
+      "album": {
+        "name": "Lion",
+        "url": "https://open.spotify.com/album/619Wh8C4Di3SWsdyeYrhFq"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/5aM7hLOmeWtQt0M8wAJQ8k"
     },
     {
       "added_at": "2025-06-13 04:01:00",
@@ -911,26 +959,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP"
-      },
-      "artists": [
-        {
-          "name": "King Henry",
-          "url": "https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 235533,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/2UYNxBhod7KpjKEFlmHm2b"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Kissing In the Cold",
         "url": "https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA"
       },
@@ -1055,26 +1083,6 @@
       "duration_ms": 303306,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/0FrCX7P2C2hcRTcuhjEvK4"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Myth of a Salesman",
-        "url": "https://open.spotify.com/album/2TQwm6ITBJ6QCm1HFyGMjI"
-      },
-      "artists": [
-        {
-          "name": "Revenge Wife",
-          "url": "https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT"
-        },
-        {
-          "name": "NZCA LINES",
-          "url": "https://open.spotify.com/artist/1pmvcZaqyRJw8o6at71MJP"
-        }
-      ],
-      "duration_ms": 264294,
-      "name": "Myth of a Salesman",
-      "url": "https://open.spotify.com/track/09o8N7h2RixsjpfBqbfRfk"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1367,22 +1375,6 @@
       "duration_ms": 190720,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/3plxwjwJXQ7dyRFzJEyQ9r"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Rear View",
-        "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
-      },
-      "artists": [
-        {
-          "name": "Moyka",
-          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Rear View",
-      "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
     },
     {
       "added_at": "2024-08-30 04:00:00",

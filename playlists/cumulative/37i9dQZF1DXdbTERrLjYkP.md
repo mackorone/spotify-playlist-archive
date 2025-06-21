@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Madilyn Mei
 
-883 songs - 1 day 23 hr 15 min
+884 songs - 1 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 | 2023-12-08 | 2024-08-17 |
 | [Astronaut](https://open.spotify.com/track/7oC2PFdQllzwRhsaTWQUAX) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Astronaut](https://open.spotify.com/album/1lvviZbYiV4VJpawVDcXVm) | 4:29 | 2022-06-03 | 2022-11-05 |
 | [At All](https://open.spotify.com/track/5H8ya4qN720Db0uZ8ZdpBZ) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW) | [At All](https://open.spotify.com/album/76BePXh9SRqKiYOKlDhZCg) | 3:29 | 2023-08-11 | 2023-12-14 |
+| [At Least I'd Be A Cowboy!](https://open.spotify.com/track/0NKXYXa5Fw1IZpZa494SIW) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [At Least I'd Be A Cowboy!](https://open.spotify.com/album/3LaOLtlVtwETFzfSnae2zb) | 3:23 | 2025-06-20 |  |
 | [at the end of the world](https://open.spotify.com/track/5ivyykAJXgoxXRTaNli7JB) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [at the end of the world](https://open.spotify.com/album/1zyZ6yfGnOV4zgYFwglVsS) | 3:04 | 2023-11-10 | 2024-01-05 |
 | [Attention](https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Attention](https://open.spotify.com/album/4aEpV2d6LOIsKqsmdueLTD) | 3:37 | 2024-01-12 | 2024-08-17 |
 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 | 2022-01-14 | 2022-02-26 |

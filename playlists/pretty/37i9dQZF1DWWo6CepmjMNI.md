@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: TOFU \(TH\)
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: HAPPILY
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,971 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,980 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
-| 2 | [boohoo \(จำไว้เลย\)](https://open.spotify.com/track/2iVVlPFUbce9jO8vk2E9m0) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [boohoo \(จำไว้เลย\)](https://open.spotify.com/album/18jiO1Q8waxP9sSoDqSGAB) | 4:55 |
-| 3 | [มิถุนา \(Amygdala\)](https://open.spotify.com/track/25GbVBQ3uetWjmMIaZAJN3) | [Jurassic.Pew](https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q) | [มิถุนา \(Amygdala\)](https://open.spotify.com/album/3wTVRAUB8LRtfouX1zcSaj) | 3:49 |
-| 4 | [NOISE CANCELLING](https://open.spotify.com/track/4M6UHs4hOdufqwjElfKseZ) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9) | [NOISE CANCELLING](https://open.spotify.com/album/7Jl5enjlOnil6RheLKFyft) | 3:36 |
-| 5 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
-| 6 | [ถือมือถือ, มือเธอ](https://open.spotify.com/track/5yF8KXUpYFpiEoLpx7Jg9k) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [ถือมือถือ, มือเธอ](https://open.spotify.com/album/1rTDLoubvmz7sv0xVSw9qG) | 4:02 |
-| 7 | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/track/4LiBQyn6xxusJnzmIDnRT6) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/album/2SjUAS5K9R9dpckSx0zA4p) | 3:36 |
-| 8 | [ขอบคุณ \(Good Luck\)](https://open.spotify.com/track/2dT0pOU0tGTbgcbaNShERl) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [ขอบคุณ \(Good Luck\)](https://open.spotify.com/album/1j4IwsMSBfK7DN7TRgv1fK) | 2:46 |
-| 9 | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK) | 3:51 |
-| 10 | [ปรากฏการณ์](https://open.spotify.com/track/3toRtI5cws8X1MNt2n4y1x) | [Cloud Behind](https://open.spotify.com/artist/2w7ZO8NKvma45y9mTO3zLN) | [Troposphere](https://open.spotify.com/album/45stlce2xG66nrFIaWXWNb) | 6:33 |
-| 11 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
-| 12 | [ของขวัญชิ้นโปรด](https://open.spotify.com/track/22te6vaQcSVteo4jkhR2gW) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [ของขวัญชิ้นโปรด](https://open.spotify.com/album/55iAagwDnXspkk3cWTVIFQ) | 4:12 |
-| 13 | [ก่อนที่เราจะไม่พบกันอีกตลอดไป](https://open.spotify.com/track/5IsuBsJjpErpS8ZGtvcSVO) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ก่อนที่เราจะไม่พบกันอีกตลอดไป](https://open.spotify.com/album/0RTMZBbgV85oonTIV6jbj2) | 4:03 |
-| 14 | [บุหรี่...](https://open.spotify.com/track/3pZlqkXcdPqZPkx5SqMki3) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [บุหรี่...](https://open.spotify.com/album/3mpGWSAGz2UvDIu4tdsPhD) | 7:08 |
+| 1 | [ขอบคุณ \(Good Luck\)](https://open.spotify.com/track/2dT0pOU0tGTbgcbaNShERl) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [ขอบคุณ \(Good Luck\)](https://open.spotify.com/album/1j4IwsMSBfK7DN7TRgv1fK) | 2:46 |
+| 2 | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/track/4LiBQyn6xxusJnzmIDnRT6) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/album/2SjUAS5K9R9dpckSx0zA4p) | 3:36 |
+| 3 | [เตียงสีขาว \(ROM\)](https://open.spotify.com/track/4W3wTU3qXwR9BdTqMZacXB) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เตียงสีขาว \(ROM\)](https://open.spotify.com/album/6yBvzGc1gAp5ytTORtcjua) | 5:33 |
+| 4 | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK) | 3:51 |
+| 5 | [โชคดีของเธอคือการไม่ได้รักฉัน \(Luck for her\)](https://open.spotify.com/track/6Y5WpQAluaPgaJTKsO4vbn) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [โชคดีของเธอคือการไม่ได้รักฉัน \(Luck for her\)](https://open.spotify.com/album/2VSCeYcYpJ89xCOeH3h3sp) | 6:02 |
+| 6 | [มิถุนา \(Amygdala\)](https://open.spotify.com/track/25GbVBQ3uetWjmMIaZAJN3) | [Jurassic.Pew](https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q) | [มิถุนา \(Amygdala\)](https://open.spotify.com/album/3wTVRAUB8LRtfouX1zcSaj) | 3:49 |
+| 7 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
+| 8 | [boohoo \(จำไว้เลย\)](https://open.spotify.com/track/2iVVlPFUbce9jO8vk2E9m0) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [boohoo \(จำไว้เลย\)](https://open.spotify.com/album/18jiO1Q8waxP9sSoDqSGAB) | 4:55 |
+| 9 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
+| 10 | [NOISE CANCELLING](https://open.spotify.com/track/4M6UHs4hOdufqwjElfKseZ) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9) | [NOISE CANCELLING](https://open.spotify.com/album/7Jl5enjlOnil6RheLKFyft) | 3:36 |
+| 11 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
+| 12 | [ถือมือถือ, มือเธอ](https://open.spotify.com/track/5yF8KXUpYFpiEoLpx7Jg9k) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [ถือมือถือ, มือเธอ](https://open.spotify.com/album/1rTDLoubvmz7sv0xVSw9qG) | 4:02 |
+| 13 | [ของขวัญชิ้นโปรด](https://open.spotify.com/track/22te6vaQcSVteo4jkhR2gW) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [ของขวัญชิ้นโปรด](https://open.spotify.com/album/55iAagwDnXspkk3cWTVIFQ) | 4:12 |
+| 14 | [ก่อนที่เราจะไม่พบกันอีกตลอดไป](https://open.spotify.com/track/5IsuBsJjpErpS8ZGtvcSVO) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ก่อนที่เราจะไม่พบกันอีกตลอดไป](https://open.spotify.com/album/0RTMZBbgV85oonTIV6jbj2) | 4:03 |
 | 15 | [คงไม่เป็นไร \(ok\)](https://open.spotify.com/track/3Uzn9sjceYOxR6fQD45KyG) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [คงไม่เป็นไร \(ok\)](https://open.spotify.com/album/4tYlA8XszQGNNnBj0q4tXN) | 5:00 |
 | 16 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 |
 | 17 | [From Now On](https://open.spotify.com/track/2CGjGKiz7HdaqOKLR4jE75) | [rubberstamp](https://open.spotify.com/artist/0fhLQtdb7qygZd7WCl3oY0) | [From Now On](https://open.spotify.com/album/1RhnfelKFOeXpfGoTScAZm) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 |
 | 50 | [ดอกไม้ของเรา](https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ดอกไม้ของเรา](https://open.spotify.com/album/2qRRzS3sK16Ab7FFtvVXqC) | 4:42 |
 
-Snapshot ID: `aEv+KQAAAAB4IhUoBcjYtpTWCe7jcPbz`
+Snapshot ID: `aFU+sAAAAABH43HC2e/VpTVA5CO3GAYR`

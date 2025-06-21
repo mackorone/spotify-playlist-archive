@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: youz)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: BIG Naughty)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 222037,
       "name": "Chantepleure",
       "url": "https://open.spotify.com/track/3uFqbKQm8939lVJf14iOtl"
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 195895,
       "name": "drr",
       "url": "https://open.spotify.com/track/1MFbFqpSYFYbpvafKihLfP"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 223280,
       "name": "frozen",
       "url": "https://open.spotify.com/track/15cVnQOz5SoIoNHbbvfSxD"
@@ -3877,6 +3877,28 @@
     },
     {
       "album": {
+        "name": "Green (Korean Version)",
+        "url": "https://open.spotify.com/album/6pHyGhqsTeSu7EXQB32bAw"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Green (feat. Sonny Zero) - Korean Version",
+      "url": "https://open.spotify.com/track/2mg7e1agZxXUaFHfkejgul"
+    },
+    {
+      "album": {
         "name": "Groove Missing",
         "url": "https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0"
       },
@@ -4045,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "happy",
+        "url": "https://open.spotify.com/album/308X7VnHvLw6VLfWL1jgfD"
+      },
+      "artists": [
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195411,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/6LUwzeiiPlUXQEO6Ke8sEt"
+    },
+    {
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO"
       },
@@ -4158,7 +4198,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 164842,
       "name": "heartache",
       "url": "https://open.spotify.com/track/2W3eDfdnFboHHilObGYmJm"
@@ -6261,6 +6301,28 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/1dWHATlZ1wxvpTwCUV0TR0"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "MUSIC (Feat. LEE CHANHYUK)",
+      "url": "https://open.spotify.com/track/3SYveDpgawfdQtiMDlm4gi"
+    },
+    {
+      "album": {
         "name": "My Home",
         "url": "https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL"
       },
@@ -6464,6 +6526,24 @@
       "duration_ms": 127868,
       "name": "Never walk away",
       "url": "https://open.spotify.com/track/3JcdQdCAgzqOndLZfenPJN"
+    },
+    {
+      "album": {
+        "name": "Next Door",
+        "url": "https://open.spotify.com/album/0TaAh5f5eAFwJDsxRCpuBW"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208883,
+      "name": "Next Door",
+      "url": "https://open.spotify.com/track/5wqPCOdRrcTitxgPP23G9o"
     },
     {
       "album": {
@@ -8846,7 +8926,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 235008,
       "name": "Think About' Chu",
       "url": "https://open.spotify.com/track/48A4FNfWYoOZq1R021ePMR"
@@ -9530,6 +9610,24 @@
       "duration_ms": 212571,
       "name": "what is love",
       "url": "https://open.spotify.com/track/5HukOZte1mcNcOgufptAOp"
+    },
+    {
+      "album": {
+        "name": "what we had",
+        "url": "https://open.spotify.com/album/2cJKI9QLquRkirz7tSNNY2"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180762,
+      "name": "what we had",
+      "url": "https://open.spotify.com/track/14u6EgH6LkumPzEmJTggtG"
     },
     {
       "album": {

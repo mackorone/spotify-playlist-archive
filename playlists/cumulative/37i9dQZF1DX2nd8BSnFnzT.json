@@ -4501,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Lazer",
+        "url": "https://open.spotify.com/album/7cUGVKRbiG3ixceTm1gpyJ"
+      },
+      "artists": [
+        {
+          "name": "NAVALA",
+          "url": "https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191333,
+      "name": "Lazer",
+      "url": "https://open.spotify.com/track/6eGIfHn9hZq39RtyVz7WBF"
+    },
+    {
+      "album": {
         "name": "Letargia",
         "url": "https://open.spotify.com/album/3VXvMsoLDtXaGsq4JcwRlR"
       },
@@ -6846,7 +6864,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 213920,
       "name": "Os Calo",
       "url": "https://open.spotify.com/track/24K3sHL1SMhwT4p9rslFI4"
@@ -9280,7 +9298,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 196513,
       "name": "Teu Sangue",
       "url": "https://open.spotify.com/track/2Qh8h9ulpgaoBpKslweA75"
@@ -9508,6 +9526,24 @@
       "duration_ms": 178930,
       "name": "Troglomitus Broncossaurus",
       "url": "https://open.spotify.com/track/0KzAD3JNICUb07omGGlY5s"
+    },
+    {
+      "album": {
+        "name": "Troquei",
+        "url": "https://open.spotify.com/album/5RcZDeySj4BEcn82o8LkcT"
+      },
+      "artists": [
+        {
+          "name": "Marrakesh",
+          "url": "https://open.spotify.com/artist/7eQKpZlY4A3fynoiLXIvjF"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Troquei",
+      "url": "https://open.spotify.com/track/517qrLznf3kAbvr9xjyjg6"
     },
     {
       "album": {
@@ -9790,7 +9826,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 151279,
       "name": "Um Sonho",
       "url": "https://open.spotify.com/track/2khoFTxsVy8Y0crHrk6GRq"

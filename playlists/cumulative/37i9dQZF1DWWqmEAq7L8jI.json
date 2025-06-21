@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "+ Te Vale",
+        "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144731,
+      "name": "+ Te Vale",
+      "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
@@ -190,7 +212,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 195431,
       "name": "Abraz\u00e1ndonos",
       "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
@@ -2823,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/7tmYqv0YQlj4RR9PAlxOc8"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200686,
+      "name": "Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/5TOKON4rLzA59p6gvuYUxr"
+    },
+    {
+      "album": {
         "name": "INVENCIBLES",
         "url": "https://open.spotify.com/album/2mNwGeWhgEIOe9ZN0gaBHa"
       },
@@ -3975,6 +4015,24 @@
     },
     {
       "album": {
+        "name": "Menos Diez",
+        "url": "https://open.spotify.com/album/6wVJTjK2hUMnqBRS8jw7wJ"
+      },
+      "artists": [
+        {
+          "name": "Un Verano",
+          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173671,
+      "name": "Menos Diez",
+      "url": "https://open.spotify.com/track/4ENjCgsNkv8JxJUzQ8gfFo"
+    },
+    {
+      "album": {
         "name": "Mi una en 1M",
         "url": "https://open.spotify.com/album/65DjpBrXK7A4gp9r5j3UlQ"
       },
@@ -4866,7 +4924,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 165360,
       "name": "PENDEJO",
       "url": "https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7"
@@ -6139,6 +6197,28 @@
     },
     {
       "album": {
+        "name": "Te Quise Tanto",
+        "url": "https://open.spotify.com/album/56ZCaH9J7ZcU2bWtk6yr7k"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Te Quise Tanto",
+      "url": "https://open.spotify.com/track/0AtlvKnsA1bUsupXEcze0S"
+    },
+    {
+      "album": {
         "name": "Bravo 3.0",
         "url": "https://open.spotify.com/album/5MbiCyKaJUmw2sc731hgnF"
       },
@@ -6172,7 +6252,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 167332,
       "name": "TE VAS",
       "url": "https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU"
@@ -6884,7 +6964,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 144491,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"

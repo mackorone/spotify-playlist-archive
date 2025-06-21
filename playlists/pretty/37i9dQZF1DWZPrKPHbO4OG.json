@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 31135,
+  "num_followers": 31154,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-06-09 09:13:49",
       "album": {
+        "name": "Jatra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 323184,
+      "name": "Ye Go Ye Ye Maina",
+      "url": "https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV"
+    },
+    {
+      "added_at": "2025-06-09 09:13:49",
+      "album": {
         "name": "Ved (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 231165,
       "name": "Ved Lavlay",
       "url": "https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn"
-    },
-    {
-      "added_at": "2025-06-09 09:13:49",
-      "album": {
-        "name": "Jatra (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 323184,
-      "name": "Ye Go Ye Ye Maina",
-      "url": "https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV"
     },
     {
       "added_at": "2025-06-09 09:13:49",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-06-09 09:13:49",
       "album": {
+        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 305805,
+      "name": "Mauli Mauli",
+      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
+    },
+    {
+      "added_at": "2025-06-09 09:13:49",
+      "album": {
         "name": "Ajay - Atul Hits",
         "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 306464,
       "name": "Kombdi Palali - From \"Jatra\"",
       "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
-    },
-    {
-      "added_at": "2025-06-09 09:13:49",
-      "album": {
-        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 305805,
-      "name": "Mauli Mauli",
-      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
     },
     {
       "added_at": "2025-06-09 09:13:49",
@@ -311,26 +311,6 @@
     {
       "added_at": "2025-06-09 09:13:49",
       "album": {
-        "name": "Rege (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 307304,
-      "name": "Shitti Wajali Gaadi Sutali",
-      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
-    },
-    {
-      "added_at": "2025-06-09 09:13:49",
-      "album": {
         "name": "Angaat Aalaya - Zombivli",
         "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 226008,
       "name": "Angaat Aalaya",
       "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
+    },
+    {
+      "added_at": "2025-06-09 09:13:49",
+      "album": {
+        "name": "Rege (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        }
+      ],
+      "duration_ms": 307304,
+      "name": "Shitti Wajali Gaadi Sutali",
+      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
     },
     {
       "added_at": "2025-06-09 09:13:49",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-06-09 09:13:49",
       "album": {
+        "name": "Zindagi Virat",
+        "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "Malhar",
+      "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
+    },
+    {
+      "added_at": "2025-06-09 09:13:49",
+      "album": {
         "name": "O Sheth (DJ Remix)",
         "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 260943,
       "name": "Raja Aala",
       "url": "https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8"
-    },
-    {
-      "added_at": "2025-06-09 09:13:49",
-      "album": {
-        "name": "Zindagi Virat",
-        "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
-      },
-      "artists": [
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "Malhar",
-      "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
     },
     {
       "added_at": "2025-06-09 09:13:49",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-06-09 09:13:49",
       "album": {
-        "name": "Meri Madhubala",
-        "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
-      },
-      "artists": [
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 238864,
-      "name": "Meri Madhubala",
-      "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
-    },
-    {
-      "added_at": "2025-06-09 09:13:49",
-      "album": {
         "name": "Lagan",
         "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 246671,
       "name": "Payee Fufata",
       "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
+    },
+    {
+      "added_at": "2025-06-09 09:13:49",
+      "album": {
+        "name": "Meri Madhubala",
+        "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
+      },
+      "artists": [
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        }
+      ],
+      "duration_ms": 238864,
+      "name": "Meri Madhubala",
+      "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
     },
     {
       "added_at": "2025-06-09 09:13:49",

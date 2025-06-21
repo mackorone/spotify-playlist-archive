@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Zach Top",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Noah Cyrus and Blake Shelton",
   "name": "New Boots",
   "tracks": [
     {
@@ -1182,6 +1182,24 @@
       "duration_ms": 185223,
       "name": "Ain't Bad For A Good Ol' Boy",
       "url": "https://open.spotify.com/track/4doX5ayrVPyTDzSLXcT8iw"
+    },
+    {
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/4O05wlo4QK908vJiOQGpJc"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Nichols",
+          "url": "https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165866,
+      "name": "Ain't Country",
+      "url": "https://open.spotify.com/track/6fjJaCurUYhcMp9ZZ94u04"
     },
     {
       "album": {
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 193357,
       "name": "Bad Taste",
       "url": "https://open.spotify.com/track/14gufL5clDcEdwim7n1Xo5"
@@ -5966,7 +5984,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 147893,
       "name": "CAMO",
       "url": "https://open.spotify.com/track/6mMxElBV1pT0B7hPonG8rR"
@@ -10963,6 +10981,24 @@
     },
     {
       "album": {
+        "name": "EASY ON ME",
+        "url": "https://open.spotify.com/album/2XsrTQH7HejG6s8Y72DrXL"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139333,
+      "name": "EASY ON ME",
+      "url": "https://open.spotify.com/track/3Z9znuwSxbmnexupwI8T36"
+    },
+    {
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/1ttV5Nga8CAgetgj5MGaRN"
       },
@@ -13219,6 +13255,24 @@
     },
     {
       "album": {
+        "name": "Funny Seeing You Here",
+        "url": "https://open.spotify.com/album/0yZ5ADnfvKrxV9iP1i1OBy"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178303,
+      "name": "Funny Seeing You Here",
+      "url": "https://open.spotify.com/track/7BVzUgIqxwiwPbMz35z3ZE"
+    },
+    {
+      "album": {
         "name": "Game Boy",
         "url": "https://open.spotify.com/album/0JWWy0KUUmYUrZMITODId7"
       },
@@ -13884,7 +13938,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 131612,
       "name": "Girl In Green",
       "url": "https://open.spotify.com/track/3r5dLsCxsir9EIzl5NtMZB"
@@ -14526,7 +14580,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 205800,
       "name": "God Winks",
       "url": "https://open.spotify.com/track/28kp6rXNaNZm0FQzdvrRD9"
@@ -15410,7 +15464,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 160635,
       "name": "Good Times & Tan Lines",
       "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
@@ -23113,6 +23167,24 @@
     },
     {
       "album": {
+        "name": "Killin' Me",
+        "url": "https://open.spotify.com/album/5ipnDefEcplOlPk0F9KV3Q"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "Killin\u2019 Me",
+      "url": "https://open.spotify.com/track/6rznVDgylyz2uq9MxJNsnV"
+    },
+    {
+      "album": {
         "name": "Kiss Her",
         "url": "https://open.spotify.com/album/4CR78cQqMeAlOVbmWswvOe"
       },
@@ -27460,7 +27532,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 174758,
       "name": "Morning Bail",
       "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
@@ -28098,7 +28170,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 173181,
       "name": "Necklace",
       "url": "https://open.spotify.com/track/5VjK9hpou3ESZDyIjyn8Vd"
@@ -28448,8 +28520,8 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
-      "duration_ms": 174893,
+      "date_removed": null,
+      "duration_ms": 175990,
       "name": "Never Call Again",
       "url": "https://open.spotify.com/track/6cEckA5rG2RkkXKaqNMrt9"
     },
@@ -28760,6 +28832,28 @@
       "duration_ms": 260439,
       "name": "New Boots (Pts. 1 & 2)",
       "url": "https://open.spotify.com/track/6YtCK20X07ftXeG7ukTXUV"
+    },
+    {
+      "album": {
+        "name": "New Country (feat. Blake Shelton)",
+        "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198760,
+      "name": "New Country (feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
     },
     {
       "album": {
@@ -37204,6 +37298,28 @@
       "duration_ms": 218860,
       "name": "Southern Rock",
       "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
+    },
+    {
+      "album": {
+        "name": "Southern Summer Sundown",
+        "url": "https://open.spotify.com/album/4bHCGt8qI6G7AjiS0KkIYf"
+      },
+      "artists": [
+        {
+          "name": "Brian Fuller",
+          "url": "https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo"
+        },
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188442,
+      "name": "Southern Summer Sundown",
+      "url": "https://open.spotify.com/track/2tgAkRW0AA1Y5U0cY2uvfm"
     },
     {
       "album": {

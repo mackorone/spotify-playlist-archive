@@ -6010,7 +6010,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 170320,
       "name": "MARVIN GAYE.",
       "url": "https://open.spotify.com/track/03PYqIVNer7nBktg44SFDz"
@@ -7078,7 +7078,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 210649,
       "name": "P.O.P Hold It Down",
       "url": "https://open.spotify.com/track/2Wmc9yRZJH0xcfPUbnu4rj"
@@ -9726,7 +9726,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 236873,
       "name": "To You (feat. Robert Glasper, Emi Secrest)",
       "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
@@ -9870,6 +9870,32 @@
       "duration_ms": 334374,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
+    },
+    {
+      "album": {
+        "name": "Up Close",
+        "url": "https://open.spotify.com/album/2nSpeH8yrpEeJgA63xBtVc"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        },
+        {
+          "name": "Slippery Elm",
+          "url": "https://open.spotify.com/artist/4jcD1ANurqD6PHZUpcZckI"
+        },
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197543,
+      "name": "Up Close",
+      "url": "https://open.spotify.com/track/46tRTHBQcE46tKkSfGjYNL"
     },
     {
       "album": {

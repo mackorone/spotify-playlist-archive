@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125255,
+  "num_followers": 125248,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUN1OJNYAVgLh+jDxO44zDBbeCNjYJ",
+  "snapshot_id": "AAAUO9QTMamyf9SDpgl5FtMY/6nQt3rT",
   "tracks": [
+    {
+      "added_at": "2025-06-20 13:53:33",
+      "album": {
+        "name": "Pretty Race Girl",
+        "url": "https://open.spotify.com/album/69AaJSfAe4CSBfHCiDA0Og"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        }
+      ],
+      "duration_ms": 199300,
+      "name": "Distant Dreams",
+      "url": "https://open.spotify.com/track/2o6nImD3OPpIoeDLOleeX8"
+    },
+    {
+      "added_at": "2025-06-20 13:52:57",
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/56BxdRTc1g4MEO0Tqx0vLZ"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1P1ffwyNHcTVNisfPj7VZd"
+    },
     {
       "added_at": "2025-06-18 15:06:13",
       "album": {

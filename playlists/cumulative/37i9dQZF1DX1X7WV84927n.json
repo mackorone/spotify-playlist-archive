@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Ghost",
+  "description": "For full-volume lovers. Cover: Halestorm",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -5342,6 +5342,24 @@
       "duration_ms": 244466,
       "name": "Dogs Of War",
       "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
+    },
+    {
+      "album": {
+        "name": "Dominate",
+        "url": "https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Dominate",
+      "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
     },
     {
       "album": {
@@ -12562,7 +12580,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 215840,
       "name": "MADNESS",
       "url": "https://open.spotify.com/track/70F8xtqeP0nUwSKwlkNa6B"
@@ -13614,6 +13632,28 @@
       "duration_ms": 257799,
       "name": "MY GOD HAS GOT A GUN",
       "url": "https://open.spotify.com/track/7ERQTqX4DWDF3onsWpxu4T"
+    },
+    {
+      "album": {
+        "name": "My Premonition",
+        "url": "https://open.spotify.com/album/0CVTsXjjIZOgKtkKYnM6n9"
+      },
+      "artists": [
+        {
+          "name": "Gus G.",
+          "url": "https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O"
+        },
+        {
+          "name": "Ronnie Romero",
+          "url": "https://open.spotify.com/artist/5uURCTdE7ztucOBpi5PmY2"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229785,
+      "name": "My Premonition",
+      "url": "https://open.spotify.com/track/3NZgI9BHRodryHU95WgwuD"
     },
     {
       "album": {
@@ -17142,7 +17182,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 206916,
       "name": "said and done",
       "url": "https://open.spotify.com/track/1Wj6SS4J8pMpad7CgCjgIH"

@@ -2,9 +2,9 @@
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The coldest sounds in hip\-hop, coming out of Canada\. Cover: ARDN
+> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Smiley & Drake
 
-1,902 songs - 3 day 16 hr 5 min
+1,904 songs - 3 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,7 @@
 | [Glory](https://open.spotify.com/track/3vLPMgS9AtFGiYm07KMEaP) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Glory](https://open.spotify.com/album/5nfZctvxgTW2UfKFl1hf8J) | 2:35 | 2023-03-17 | 2023-04-15 |
 | [Glory](https://open.spotify.com/track/4COycddAqITG8mAFCajiSH) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Glory](https://open.spotify.com/album/3qZZ32xbFZ29Oo1I5X8sUk) | 2:35 | 2022-06-17 | 2022-09-03 |
 | [GloryLand](https://open.spotify.com/track/4eykaECsbZiZSSwbzEbMww) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [GloryLand](https://open.spotify.com/album/180DmRts9RJODPqN4vdOUp) | 3:13 | 2022-01-07 | 2022-01-15 |
-| [Go Crazy](https://open.spotify.com/track/47HFATJeP2t6PH3ixzreEf) | [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv), [Fredro Starr](https://open.spotify.com/artist/5OsWN8awq2bN7q5upCCgWf) | [Go Crazy](https://open.spotify.com/album/4oViOZmwRnFiAVHzJhgSMC) | 2:58 | 2025-01-17 |  |
+| [Go Crazy](https://open.spotify.com/track/47HFATJeP2t6PH3ixzreEf) | [JD Era](https://open.spotify.com/artist/3dUYZBl2y8BsN6PSH9x8Kv), [Fredro Starr](https://open.spotify.com/artist/5OsWN8awq2bN7q5upCCgWf) | [Go Crazy](https://open.spotify.com/album/4oViOZmwRnFiAVHzJhgSMC) | 2:58 | 2025-01-17 | 2025-06-21 |
 | [GO GETTA \(GO GET HER\)](https://open.spotify.com/track/7KG53z3HkeZ0iazucFnO84) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK) | [TEN TOES & TESTIMONIES](https://open.spotify.com/album/5NIl0HX7PvIT6LFzYGjBFq) | 2:09 | 2025-05-30 |  |
 | [Go Mode](https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Go Mode](https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc) | 3:44 | 2024-04-12 | 2024-04-19 |
 | [Go To Sleep](https://open.spotify.com/track/5yPN6daDWtbMa3Osyqq5FH) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Go To Sleep](https://open.spotify.com/album/1FYYGbPi1ZRituR7b6THpY) | 2:04 | 2023-05-05 | 2023-09-30 |
@@ -732,6 +732,7 @@
 | [haunted](https://open.spotify.com/track/7tD2Uvsi2rWlaKfnzpIrpS) | [st4r](https://open.spotify.com/artist/6o9JSxpjLpB79jMeynTN8o), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [haunted](https://open.spotify.com/album/23CcQZNHWmvlkkF9IDhqjO) | 3:11 | 2023-07-21 | 2023-09-09 |
 | [Have Her](https://open.spotify.com/track/5nilJ4BHbGwuawFBy11z6Q) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Have Her](https://open.spotify.com/album/5WxgA8Keibxzjvo85Z2fWN) | 2:49 | 2024-06-21 | 2024-10-05 |
 | [Have To Live](https://open.spotify.com/track/2Rjs4zV8vjYjtFgW18Y1cT) | [Mill Israel](https://open.spotify.com/artist/4bIjWTMfvvXNTmiHDeeCAd) | [Have To Live](https://open.spotify.com/album/6LOSbBmSn947HkB8DKo943) | 2:31 | 2023-09-22 | 2023-11-11 |
+| [He's So Good](https://open.spotify.com/track/5YLueSVe0qza50oLBlXCSI) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [He's So Good](https://open.spotify.com/album/51v5Ci3MQ6c7Lh2ziU1Sdp) | 2:47 | 2025-06-20 |  |
 | [Head Space Freestyle](https://open.spotify.com/track/6gAjaV0vxSuKVw6DIuplvP) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa) | [Head Space Freestyle](https://open.spotify.com/album/4pNVj7o6u8ol0UmQlHzJJa) | 1:49 | 2022-04-29 | 2022-09-17 |
 | [Heartbeat](https://open.spotify.com/track/2biaqxwEf266oMOY3pxXKP) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Heartbeat](https://open.spotify.com/album/40wFPXrk3kdTPmgKMu0mFY) | 2:03 | 2024-07-19 | 2024-09-14 |
 | [HEARTTHROB](https://open.spotify.com/track/78oMoQOlMbl4n3Qqhbwhp2) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [HEARTTHROB](https://open.spotify.com/album/6gXGwUsnLexh9FJw9EtQS8) | 2:29 | 2023-07-28 | 2023-08-12 |
@@ -1622,7 +1623,7 @@
 | [TALK FACTS](https://open.spotify.com/track/3KKojv9TOtGrCA89rX8oHu) | [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0) | [TALK FACTS](https://open.spotify.com/album/6dMGjefs9QApnGJycCwByY) | 2:08 | 2022-01-21 | 2022-03-18 |
 | [Talk My Shit](https://open.spotify.com/track/4KRxwVcCvgybdQvoRC1VO2) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Talk My Shit](https://open.spotify.com/album/6oQIu057GL27SpPjVzwaxu) | 2:45 | 2024-06-07 | 2024-08-17 |
 | [TALK MY SHIT](https://open.spotify.com/track/1vcsdCE0qlLxRIWv9lsKDh) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [TALK MY SHIT](https://open.spotify.com/album/0CysnkIC4fHFHF2FMT4WbQ) | 2:04 | 2025-04-11 |  |
-| [Target](https://open.spotify.com/track/7aWZ8TUWalNC1KHaAAliBo) | [Juicy Blue](https://open.spotify.com/artist/7wscvaNJFmhbzWxKVN1dqN) | [Target](https://open.spotify.com/album/2stG2feaNAKbhmwE11i1Mv) | 2:26 | 2025-04-11 |  |
+| [Target](https://open.spotify.com/track/7aWZ8TUWalNC1KHaAAliBo) | [Juicy Blue](https://open.spotify.com/artist/7wscvaNJFmhbzWxKVN1dqN) | [Target](https://open.spotify.com/album/2stG2feaNAKbhmwE11i1Mv) | 2:26 | 2025-04-11 | 2025-06-21 |
 | [Tax File Revolt](https://open.spotify.com/track/7HxIGYWUOUtoOGuV0Tzinh) | [BrxkenBxy](https://open.spotify.com/artist/53kxfycKPtWuSFpIuEHlGi) | [Tax File Revolt](https://open.spotify.com/album/4tD4LzshWUp8jqIQy1Krfy) | 2:46 | 2024-07-19 | 2024-10-19 |
 | [Teal Cutlass](https://open.spotify.com/track/2u79Sx1OWs52ng5hR4vo4q) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Ghost Notes](https://open.spotify.com/artist/3p3RulJ5SgVjRUywR2RKup), [Pro Dillinger](https://open.spotify.com/artist/27rHpyfeuJ7Rtka10jBojd) | [The Estes Method](https://open.spotify.com/album/6b5WBALGvWU1C9bJMJGKsy) | 2:44 | 2025-03-07 | 2025-05-24 |
 | [Tell Em How You Feel](https://open.spotify.com/track/4FRHo2eXjShYV7555U7hD0) | [Velow](https://open.spotify.com/artist/2UOHBwSdgEwpUgbRDkY8mA) | [Tell Em How You Feel](https://open.spotify.com/album/2QZAfZUDUfTDVwDrPTIwHv) | 3:18 | 2022-01-14 | 2022-02-19 |
@@ -1768,6 +1769,7 @@
 | [UNSTOPPABLE FREESTYLE](https://open.spotify.com/track/309L3Xv3OhZcxDGzxSua9T) | [TARiiiQ](https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g) | [UNSTOPPABLE FREESTYLE](https://open.spotify.com/album/0qshc4hFbH0jd5iV6eYXz1) | 3:16 | 2023-10-06 | 2023-12-02 |
 | [untitled.2021](https://open.spotify.com/track/6n0CQr6jvP4OEE2BYXyH4N) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4) | [untitled.2021](https://open.spotify.com/album/0IRI1eUMxLQd1MXXbLCa4f) | 2:17 | 2023-04-28 | 2023-06-03 |
 | [Up](https://open.spotify.com/track/4mcld85GmqHZZErJUjzZKM) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [Cloud Capsule](https://open.spotify.com/album/6WqPjj3hBDKGxkEQ3OwBex) | 2:14 | 2022-01-07 | 2022-02-26 |
+| [Up Close](https://open.spotify.com/track/46tRTHBQcE46tKkSfGjYNL) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Slippery Elm](https://open.spotify.com/artist/4jcD1ANurqD6PHZUpcZckI), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Up Close](https://open.spotify.com/album/2nSpeH8yrpEeJgA63xBtVc) | 3:17 | 2025-06-20 |  |
 | [Up Now](https://open.spotify.com/track/6Xwnfdd4MWXdCVke3SSDM0) | [Spitty](https://open.spotify.com/artist/3o4GlelHWI6tlB04MACpS6), [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [Up Now](https://open.spotify.com/album/5s8J6plePGRwusav0k3mVb) | 2:59 | 2023-03-24 | 2023-06-24 |
 | [Up On My Grind](https://open.spotify.com/track/7oTLEDm36pG3KjRaykbrcp) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Up On My Grind](https://open.spotify.com/album/0uP1eXbNjgN2xTXHgfLY8d) | 2:09 | 2025-03-21 | 2025-04-19 |
 | [Up to Me](https://open.spotify.com/track/58B2ieBYxkKBC8Mh8ZKSa2) | [L.O.](https://open.spotify.com/artist/5XpcrcXGEHtDYmjXHExHQf), [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [Up to Me](https://open.spotify.com/album/0IH897jVoiAJrmcJf7DGE0) | 2:51 | 2022-01-07 | 2022-04-23 |

@@ -1523,6 +1523,28 @@
     },
     {
       "album": {
+        "name": "More Than Just Tonight",
+        "url": "https://open.spotify.com/album/0sQqUTjRb4TvSK4P0n66cV"
+      },
+      "artists": [
+        {
+          "name": "Jake Miller",
+          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
+        },
+        {
+          "name": "\u65c5\u884c\u65b0\u871c\u8702",
+          "url": "https://open.spotify.com/artist/0Co7hkWLCC463zD7G8HJCj"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "More Than Just Tonight",
+      "url": "https://open.spotify.com/track/1WABlgH3Z97o1deFXffGvV"
+    },
+    {
+      "album": {
         "name": "Mr. Peanutbutter",
         "url": "https://open.spotify.com/album/41HM09Vmhun3ziBD7DbEXM"
       },

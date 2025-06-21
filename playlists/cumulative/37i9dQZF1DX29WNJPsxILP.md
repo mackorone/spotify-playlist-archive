@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Emiway Bantai
+> Best of Hindi Hip\-Hop! Cover: Karma
 
-256 songs - 13 hr 5 min
+257 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Dilli](https://open.spotify.com/track/7yVqIPygOGA57KoWbwpGcc) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Dilli](https://open.spotify.com/album/5Uw4CQIzBTgd2PeGnlFnvc) | 2:53 | 2023-05-04 | 2023-10-13 |
 | [Dilli Hood](https://open.spotify.com/track/65ahEdvNV5Iifc0P3WvlE7) | [Wonder Boy](https://open.spotify.com/artist/5wEks61BYKXplJOIIFHA6f) | [Dilli Hood](https://open.spotify.com/album/6Szj7ohKeYWizDzIiRvhUF) | 2:30 | 2023-12-06 | 2023-12-19 |
 | [Dilli Se Bombay](https://open.spotify.com/track/75hdIsv64EGOTdCl2TpC5s) | [Yaxlit](https://open.spotify.com/artist/2HdZ3kBNYPY6yMRt110fcr), [Emcine Music](https://open.spotify.com/artist/2NocjKVOMst5vwjVFVmH7n) | [MIXER GRINDER](https://open.spotify.com/album/3lQH5qILmsT2batsqfGqEv) | 2:51 | 2024-12-11 | 2025-01-07 |
+| [Do U Wanna](https://open.spotify.com/track/44rrSQBslEo1gcKIpA4j9q) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [Do U Wanna](https://open.spotify.com/album/3HlToFtXIxxVNW5LSD9F6Y) | 2:17 | 2025-06-20 |  |
 | [Doon](https://open.spotify.com/track/6nthwAxdXDMU0LczZ5FUFd) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Doon](https://open.spotify.com/album/0SoxFtfAbIOHktfwT5NPSC) | 2:26 | 2024-04-09 | 2025-01-07 |
 | [Dooriyaan](https://open.spotify.com/track/6X7v8svA1VDvf2moH1ak4T) | [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [Rum, Racks & Roses](https://open.spotify.com/album/3245DFN5KDH97r6PbUznuu) | 3:46 | 2024-12-06 |  |
 | [Dream Girl](https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 1](https://open.spotify.com/album/3Tlu6jzZC14qM7ywCYA1Hq) | 3:18 | 2023-11-08 | 2024-12-21 |
@@ -221,7 +222,7 @@
 | [Still Here](https://open.spotify.com/track/3z42ixTYDNj4Y4aUMvXKBY) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Katya Krishnan](https://open.spotify.com/artist/7lBm5iiDlqxI60UzJSdlLD) | [Priceless](https://open.spotify.com/album/4LIP8NVDDBNIdqPBqwXhT9) | 4:30 | 2025-05-30 |  |
 | [STILL THE SAME](https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [STILL THE SAME](https://open.spotify.com/album/3Plp851iYv9SGH6Fjp6xV9) | 2:45 | 2024-06-07 |  |
 | [Sukoon](https://open.spotify.com/track/7e9eUqJIIKwN95T7Xsx8Jn) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:30 | 2023-03-10 | 2023-12-16 |
-| [SuppaMario](https://open.spotify.com/track/29qsHiYIUmkFU5cifL56o5) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [SuppaMario](https://open.spotify.com/album/23L6roAS9IqxMwbt7x1rCB) | 3:03 | 2025-01-06 |  |
+| [SuppaMario](https://open.spotify.com/track/29qsHiYIUmkFU5cifL56o5) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [SuppaMario](https://open.spotify.com/album/23L6roAS9IqxMwbt7x1rCB) | 3:03 | 2025-01-06 | 2025-06-21 |
 | [Surma](https://open.spotify.com/track/7mwm44cHIEM0FcDHGgQl4J) | [SNIPER](https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK), [Aashmeen](https://open.spotify.com/artist/3F9peZNbNLHGTXY4PqbD5D) | [On Air](https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp) | 2:25 | 2024-08-29 | 2025-02-05 |
 | [Taakat](https://open.spotify.com/track/3RGalL1QdsfG6b8mzATGKx) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:36 | 2023-08-28 | 2025-01-07 |
 | [Tantrums](https://open.spotify.com/track/5eXDRkSaTVIAhKplQUmYJf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Tantrums](https://open.spotify.com/album/379jp5oYITtA8JhdSouHQN) | 2:22 | 2024-12-20 |  |

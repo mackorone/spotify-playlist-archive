@@ -4,7 +4,7 @@
 
 > trap 🤝 piseiro\. Foto: Arthurzim
 
-748 songs - 1 day 11 hr 26 min
+749 songs - 1 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Nova Vadia](https://open.spotify.com/track/6gabkcablmWygvs5nhzHIj) | [Mc Lullu](https://open.spotify.com/artist/62NFUnRQI3ctTgZdCquSHD), [SMOKE P](https://open.spotify.com/artist/0jIrG5vuzhEx5sjJD0FBn2), [Dreey](https://open.spotify.com/artist/0o5ExKejzq5LNmUnE4gokW) | [Nova Vadia](https://open.spotify.com/album/66FZePfrqnOU8uj54QearK) | 2:57 | 2024-04-12 | 2024-06-22 |
 | [Nova Vida](https://open.spotify.com/track/69iaJ3H1FGI8ALmTdLxULm) | [NN3RD](https://open.spotify.com/artist/1Z03arRtzZ9BC49yiCQ839), [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Nova Vida](https://open.spotify.com/album/3Hvo3t9A0OvQ4pwG8X44w2) | 2:12 | 2023-02-03 | 2023-04-15 |
 | [Novinha da Lancha](https://open.spotify.com/track/234hlFlKjMokIVGIMakFAN) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Novinha da Lancha](https://open.spotify.com/album/0iRAfyQVKFLQO8ti290R9u) | 2:48 | 2022-11-18 | 2022-11-26 |
+| [NÃO CHORE NA MINHA FRENTE \- Remix](https://open.spotify.com/track/16l3EwkpeWiB1PGSAO0AD0) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [FUNKNB](https://open.spotify.com/album/2F8BQaLH031O7ZS25Rila1) | 1:39 | 2025-06-20 |  |
 | [Não Demora](https://open.spotify.com/track/0VLpFyP3NruiPE3dKsACJ1) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Não Demora](https://open.spotify.com/album/6oY1X6NazfNiHtKCbNYwww) | 2:23 | 2022-03-18 | 2022-07-23 |
 | [Não fiz só por mim](https://open.spotify.com/track/0IlaOJtwoeprlNwrke0wYc) | [Apollo](https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6) | [Não fiz só por mim](https://open.spotify.com/album/2AsrM9S5Zme59BsbOuCp4E) | 2:32 | 2022-07-01 | 2022-10-15 |
 | [Não Foi Em Vão](https://open.spotify.com/track/0gGhzkV3HePnt92jHCLMda) | [POLLO](https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23) | [Não Foi Em Vão](https://open.spotify.com/album/4WCPW45LtiHrdinC9AjZwI) | 2:50 | 2023-09-22 | 2023-09-30 |

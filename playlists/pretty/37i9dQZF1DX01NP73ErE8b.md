@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  BLANCO in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,535 likes - 68 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,692 likes - 68 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 30 | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1) | 2:20 |
 | 31 | [Chill](https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Chill](https://open.spotify.com/album/4kgJXn6V8rscGUuTO8P9EF) | 2:15 |
 | 32 | [Non sono io](https://open.spotify.com/track/7sYfMtqd7jxWzRSTrMCA2n) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non sono io](https://open.spotify.com/album/5236ysAzQAdy67A3fM6etk) | 2:52 |
-| 33 | [OH MA](https://open.spotify.com/track/4ioRUWVvdz03s3FjUCsQrH) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/6mb62aOsgJ2yItwqViACbE) | 2:49 |
+| 33 | [OH MA](https://open.spotify.com/track/1uymk7hJ8fAi75Jxh79h63) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [OH MA](https://open.spotify.com/album/1BjNwysLqaHy252RUVsLjA) | 2:49 |
 | 34 | [Avion](https://open.spotify.com/track/2RjEVSy0X1X9LMOeke924W) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Avion](https://open.spotify.com/album/6Ft2AKbiVmJiRYGIzS1I9y) | 3:13 |
 | 35 | [Occhi a cuore](https://open.spotify.com/track/0Z6AQ7qjeS6ClJpYzNeqyL) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il corpo umano VOL\. 1](https://open.spotify.com/album/5wmEx3LNBWO5ayUKVyoV0a) | 3:28 |
 | 36 | [PRONTO COME VA](https://open.spotify.com/track/6CvJtmzjDkWCeGt4nT2l1O) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [PRONTO COME VA](https://open.spotify.com/album/7GYhXN89GS5QQBqd1xv62f) | 2:57 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 67 | [Perdutamente](https://open.spotify.com/track/5pk3bAZLMs1PqdMuHITZU9) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Mortali](https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5) | 4:04 |
 | 68 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 |
 
-Snapshot ID: `aFSIxAAAAAA5ZnFDUBJX4qMOzPUlury9`
+Snapshot ID: `aFUZdAAAAABbqihcL2d3AoMbNgrt8/um`

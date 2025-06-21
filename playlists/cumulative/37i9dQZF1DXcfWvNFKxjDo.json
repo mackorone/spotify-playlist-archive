@@ -834,16 +834,16 @@
           "url": "https://open.spotify.com/artist/0L0xv70ynMMcSbjzLgAaQK"
         },
         {
-          "name": "Meanz",
-          "url": "https://open.spotify.com/artist/0C9LwpLAq3sMKpVwCRadBI"
-        },
-        {
           "name": "Elon Bass",
           "url": "https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr"
         },
         {
           "name": "Max Ivory",
           "url": "https://open.spotify.com/artist/5uXGdtqEmxnW7mK46u1iqJ"
+        },
+        {
+          "name": "Meanz",
+          "url": "https://open.spotify.com/artist/0C9LwpLAq3sMKpVwCRadBI"
         }
       ],
       "date_added": "2025-06-19",
@@ -43408,6 +43408,28 @@
       "duration_ms": 140496,
       "name": "Last Unicorn",
       "url": "https://open.spotify.com/track/6CZkrPwBl0rxtM98UPq4sD"
+    },
+    {
+      "album": {
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/4K6cOnk67OJZAbFS3maaJf"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/0Ba0tdpmErpaTYxtT0wvr8"
     },
     {
       "album": {

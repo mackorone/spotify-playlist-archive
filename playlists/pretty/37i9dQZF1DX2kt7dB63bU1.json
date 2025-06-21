@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Tyreek McDole",
-  "num_followers": 157995,
+  "num_followers": 158016,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuiXwAAAAAmh0kQcC0q6obAdacgzWdT",
+  "snapshot_id": "aFTc3QAAAACnvS0id2rqQCxm5lnMcS/b",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:29",
+      "album": {
+        "name": "You'll Learn",
+        "url": "https://open.spotify.com/album/54LKTmr6ZGJr9dz4dB3HC8"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "You'll Learn",
+      "url": "https://open.spotify.com/track/3cI5JVAk4elOMjt4QzQUno"
+    },
     {
       "added_at": "2025-06-06 04:00:06",
       "album": {
@@ -85,20 +101,20 @@
       "url": "https://open.spotify.com/track/5W9A9tWBv4Hud2PXg9biDA"
     },
     {
-      "added_at": "2025-05-16 04:00:22",
+      "added_at": "2025-06-20 04:00:29",
       "album": {
-        "name": "That Doesn't Matter",
-        "url": "https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg"
+        "name": "They Can't Take That Away from Me",
+        "url": "https://open.spotify.com/album/1C5IMggxt35j85bUv5RqPL"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+          "name": "Andy Bey",
+          "url": "https://open.spotify.com/artist/6nnjKHTxPpJtw08NqB0gvJ"
         }
       ],
-      "duration_ms": 169386,
-      "name": "That Doesn't Matter",
-      "url": "https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b"
+      "duration_ms": 192480,
+      "name": "They Can't Take That Away from Me",
+      "url": "https://open.spotify.com/track/1OJ2GWymJkmjgoKXsLNpok"
     },
     {
       "added_at": "2025-05-09 04:00:26",
@@ -1911,22 +1927,6 @@
       "duration_ms": 280624,
       "name": "Wonder in the Waiting",
       "url": "https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 260918,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo"
     }
   ],
   "unique_name": "Vocal Jazz",

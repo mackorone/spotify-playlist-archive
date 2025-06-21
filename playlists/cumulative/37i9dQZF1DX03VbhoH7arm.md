@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: Papatinho, MC Cabelinho, Anitta
+> Grandes hits do BR e do 🌎 / Foto: Bruno Mars
 
 384 songs - 18 hr 47 min
 

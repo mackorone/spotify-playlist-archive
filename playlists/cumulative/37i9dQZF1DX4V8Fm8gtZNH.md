@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-337 songs - 19 hr 56 min
+338 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Legendary Lyricist](https://open.spotify.com/track/30YsASCRej4BsR48PMKPQ9) | [Percee P](https://open.spotify.com/artist/3jOh5Hdrc5A8nQxBf5Q6gN), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Perseverance: The Madlib Remix](https://open.spotify.com/album/3QkCDwfEfigHrHSkzWCFPZ) | 3:41 | 2023-10-18 |  |
 | [Lemon Pepper Wings](https://open.spotify.com/track/3hD8O27M5vmBkTAAS5RIvY) | [Rae](https://open.spotify.com/artist/0utsXXc4i5jfRRiZf5lsm3) | [Lemon Pepper Wings](https://open.spotify.com/album/2DCzyOJ9AU6Eaca5LZ0x5B) | 3:21 | 2023-10-18 |  |
 | [Let the Horns Blow \(feat\. Homeboy Sandman\)](https://open.spotify.com/track/1sCeyN1qc6ZED5A4hLSVBY) | [Evitan](https://open.spotify.com/artist/6fzMpJdUUk726BGGwCr6IC), [Homeboy Sandman](https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb) | [Speed of Life](https://open.spotify.com/album/6yW9RTxNp7h7TkY0liCiXi) | 3:34 | 2023-10-18 |  |
+| [Let's Chill](https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 5:23 | 2025-06-20 |  |
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2024-05-17 |  |
 | [Libations](https://open.spotify.com/track/36HgC7vFvjVnKc3tUeZD57) | [Novel](https://open.spotify.com/artist/5EkPgNzxiQ16jv7ajN5feK) | [Libations](https://open.spotify.com/album/1Lv9AfFZfgnTqQKKuKE0yx) | 3:57 | 2025-05-23 |  |
 | [Lifetimes](https://open.spotify.com/track/5c913GVjOVRzS1e7Dr3trd) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Lifetimes](https://open.spotify.com/album/66pt9gYLhrURu6u5LZPLqC) | 2:47 | 2023-10-18 |  |

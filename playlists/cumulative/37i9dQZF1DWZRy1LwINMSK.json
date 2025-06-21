@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/2StLvH80masSd4Y4ZK3NP5"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158833,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/3SOPWx87eWyKGJ68V08zZu"
+    },
+    {
+      "album": {
         "name": "Aborrecio",
         "url": "https://open.spotify.com/album/3mvr64wBs7lsr2jwzwlWKR"
       },
@@ -1164,6 +1186,28 @@
       "duration_ms": 145454,
       "name": "CRISTIANA",
       "url": "https://open.spotify.com/track/4jiUVMoCC5j5WbPob3YmnF"
+    },
+    {
+      "album": {
+        "name": "Cuatro Rifles",
+        "url": "https://open.spotify.com/album/3zXtxi6ZKERDLxy8yQswkh"
+      },
+      "artists": [
+        {
+          "name": "Spiff TV",
+          "url": "https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154391,
+      "name": "Cuatro Rifles",
+      "url": "https://open.spotify.com/track/6bZPqpsLzf3YZ11CxQl3Mo"
     },
     {
       "album": {

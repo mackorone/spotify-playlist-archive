@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: ITZY)",
+  "description": "Future K-Pop hits! (Cover: Hearts2Hearts)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -890,7 +890,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 166000,
       "name": "Always a Good Time (Prod. THE HUB)",
       "url": "https://open.spotify.com/track/5qPb6NHs4nX6LKBWo390mx"
@@ -7969,6 +7969,24 @@
     },
     {
       "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "album": {
         "name": "My Collection",
         "url": "https://open.spotify.com/album/5ac2nsiqAv1y1Bv0pG0iZr"
       },
@@ -10304,7 +10322,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 171440,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/6RX842AkuW01Sb15Mcix6l"
@@ -20800,6 +20818,24 @@
       "duration_ms": 207560,
       "name": "Take You Down (Feat. Coogie)",
       "url": "https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
     },
     {
       "album": {

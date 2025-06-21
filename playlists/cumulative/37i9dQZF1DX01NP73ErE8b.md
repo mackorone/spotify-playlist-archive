@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  BLANCO in cover
 
-326 songs - 16 hr 39 min
+327 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Occhi a cuore](https://open.spotify.com/track/0Z6AQ7qjeS6ClJpYzNeqyL) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il corpo umano VOL\. 1](https://open.spotify.com/album/5wmEx3LNBWO5ayUKVyoV0a) | 3:28 | 2025-05-15 |  |
 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 | 2024-10-22 | 2025-02-12 |
 | [OCEANICA](https://open.spotify.com/track/3WSkb6GtQyroIam9uCmA4w) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [OCEANICA](https://open.spotify.com/album/0PHtGRre3r6eHO3kHKvgGL) | 3:00 | 2025-06-19 |  |
-| [OH MA](https://open.spotify.com/track/4ioRUWVvdz03s3FjUCsQrH) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/6mb62aOsgJ2yItwqViACbE) | 2:49 | 2025-06-19 |  |
+| [OH MA](https://open.spotify.com/track/1uymk7hJ8fAi75Jxh79h63) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [OH MA](https://open.spotify.com/album/1BjNwysLqaHy252RUVsLjA) | 2:49 | 2025-06-20 |  |
+| [OH MA](https://open.spotify.com/track/4ioRUWVvdz03s3FjUCsQrH) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/6mb62aOsgJ2yItwqViACbE) | 2:49 | 2025-06-19 | 2025-06-21 |
 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 | 2025-01-10 | 2025-06-20 |
 | [oh my god](https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [oh my god](https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye) | 3:03 | 2024-11-14 | 2025-01-11 |
 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 | 2024-09-25 |  |

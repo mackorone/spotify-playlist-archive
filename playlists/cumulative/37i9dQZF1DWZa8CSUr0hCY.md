@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-266 songs - 11 hr 43 min
+267 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [](https://open.spotify.com/track/3okj5Ww1BYh7k5VsBFXUw3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4MwwELQPwTdgaoz0YfiJoR) | 0:00 | 2020-10-20\* | 2022-08-31 |
 | [1222 Miles](https://open.spotify.com/track/2NM2GmtDfb8LGcjfdKDIJe) | [Thomas Lemmer](https://open.spotify.com/artist/01Ix2zdjR4PQ2eYMpclD9d), [Oine](https://open.spotify.com/artist/3BnZE8V5fUS3QFE5mGSDGr) | [One Vision](https://open.spotify.com/album/0FINe2R7XrhI47PtPP493x) | 2:48 | 2024-02-23 |  |
 | [A Beautiful Eve](https://open.spotify.com/track/54ah8liCv9mF0VLrvisQeI) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [The Day After](https://open.spotify.com/album/2TB0dVyAIenZAbADN8PWcL) | 4:18 | 2020-10-20\* | 2022-01-29 |
-| [a day with the kids](https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [a day with the kids](https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ) | 2:00 | 2024-08-29 |  |
+| [a day with the kids](https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [a day with the kids](https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ) | 2:00 | 2024-08-29 | 2025-06-21 |
 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 | 2020-10-20\* | 2022-08-31 |
 | [A Place I Know](https://open.spotify.com/track/2P2lnaf2K0dNnN5mKcjGzl) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [A Place I Know](https://open.spotify.com/album/5GWiZ1O8WsRvc2LN6W1uFH) | 2:07 | 2020-10-20\* | 2022-08-31 |
 | [Above Surface](https://open.spotify.com/track/5jQ6ck8G3eqQfU0IS16EJK) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Above Surface](https://open.spotify.com/album/1oCtA60JsHMz92tEMexQ6D) | 2:34 | 2022-08-30 |  |
@@ -144,6 +144,7 @@
 | [Let It Go](https://open.spotify.com/track/3gBnmlTKVkAL0JnclQuz8s) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Let It Go](https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA) | 2:35 | 2022-08-30 |  |
 | [Letdown](https://open.spotify.com/track/27Yu59D18hcYTp03CAo3vY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Letdown](https://open.spotify.com/album/36rlZHCSOIgwDvQSjXa282) | 2:40 | 2022-08-30 |  |
 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 | 2024-08-29 |  |
+| [Letting Go](https://open.spotify.com/track/4p3VoeW620zFuYmGBBBlUK) | [Avira](https://open.spotify.com/artist/1wytsm0cwx7Vw9kIVyyWWI), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Letting Go](https://open.spotify.com/album/3BYrdOwkgixfEOY8YbeOjv) | 2:36 | 2025-06-20 |  |
 | [Lifted](https://open.spotify.com/track/30DefWKNhQ6Ibyp4Ge3dV4) | [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Lifted](https://open.spotify.com/album/3N63kOvGxPKdidXl5o0yDE) | 1:53 | 2025-04-11 |  |
 | [Limbo](https://open.spotify.com/track/3fnAQeFKgQKsgNylfxBdc7) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip\-Hop Symposium, Vol\. 3 \(Childhood\)](https://open.spotify.com/album/50PVjxN9VnL451ll774Xfd) | 3:35 | 2022-04-28 | 2022-08-31 |
 | [Limbo](https://open.spotify.com/track/3mgRwzfkoOQROm3ksVpypG) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip Hop Symposium \(Full Compilation\)](https://open.spotify.com/album/1EOH2XDgfavkFltfZkX2TW) | 3:35 | 2020-10-20\* | 2022-07-29 |

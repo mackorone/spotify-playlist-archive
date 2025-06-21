@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-506 songs - 1 day 7 hr 46 min
+507 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/track/74859SONTVsXf1Cpdl8t3g) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr), [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/album/4N1XvwsjPGm2ghapARnpn3) | 3:39 | 2023-11-09 | 2023-11-17 |
 | [Lalala \- 4am Club Mix](https://open.spotify.com/track/2BrjxcaFVwTVyObNix7d5W) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz), [Zinda Reinhardt](https://open.spotify.com/artist/5UwjmM9lYXJ4RIyabSSE8s) | [Lalala](https://open.spotify.com/album/78tFhBC20K9FouxalWWWAK) | 5:36 | 2024-12-28 | 2025-01-07 |
 | [Last Time Under Purple Skies](https://open.spotify.com/track/1JYACIHJjFOUzOnbxUBmLm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Last Time Under Purple Skies](https://open.spotify.com/album/0SH7q3HmEjk11tNZNzbHOr) | 3:21 | 2025-01-30 | 2025-03-04 |
+| [Late At Night](https://open.spotify.com/track/0Ba0tdpmErpaTYxtT0wvr8) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/4K6cOnk67OJZAbFS3maaJf) | 2:36 | 2025-06-20 |  |
 | [Leave it to the vibe](https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 6:58 | 2023-05-18 | 2023-07-14 |
 | [Left On Read](https://open.spotify.com/track/6KNrgoXljii0isy9i7JaqP) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:10 | 2024-10-10 | 2024-10-18 |
 | [Let UwU Go](https://open.spotify.com/track/3QSBy7qDcKaBCCLxNCvSRe) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt) | [Let UwU Go](https://open.spotify.com/album/0XPTuN0nuRwzgbSGJod0Gg) | 2:55 | 2023-11-23 | 2023-12-01 |
@@ -439,7 +440,7 @@
 | [Techno Installation](https://open.spotify.com/track/2FSqCe7FJvmFit3u1UXVHf) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Techno Installation](https://open.spotify.com/album/7snbKvrdJ6oCp4qmhUsEdO) | 6:48 | 2023-03-10 | 2023-03-25 |
 | [Tell Me Daddy](https://open.spotify.com/track/09p7aiG886Vev83CeQyjPh) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Tell Me Daddy](https://open.spotify.com/album/4HMoL4sjAVMylMnSdcLbMs) | 2:49 | 2024-01-29 | 2024-07-19 |
 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 | 2025-03-13 |  |
-| [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 | 2025-06-12 |  |
+| [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 | 2025-06-12 | 2025-06-21 |
 | [The Birds](https://open.spotify.com/track/4y5vPe12J3gvJnHGWhQHIw) | [Question Mark](https://open.spotify.com/artist/41REvYlvUU3FCP5f65Jllh) | [The Birds](https://open.spotify.com/album/604EFAWi0vIAt9PTqSd5eb) | 5:48 | 2024-07-04 | 2025-01-07 |
 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 | 2023-03-10 | 2025-01-19 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2024-12-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Crate Classics",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Keo",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2286,6 +2286,24 @@
       "duration_ms": 180245,
       "name": "I Don't Want Your Money",
       "url": "https://open.spotify.com/track/1a2fG9pKo7jR6Fot0GJQM1"
+    },
+    {
+      "album": {
+        "name": "I Lied, Amber",
+        "url": "https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "I Lied, Amber",
+      "url": "https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG"
     },
     {
       "album": {

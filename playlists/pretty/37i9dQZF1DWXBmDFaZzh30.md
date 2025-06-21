@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBmDFaZzh30.md) - [plain]
 
 > Exclusive playlist by the author of "Tokyo Ghoul" © I/S © I/S,TGPC © I/S,TGRPC
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,173 likes - 36 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,229 likes - 36 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

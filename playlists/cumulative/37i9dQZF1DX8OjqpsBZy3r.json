@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The trending country songs and viral hits you need to know. Cover: Elizabeth Nichols",
+  "description": "The trending country songs and viral hits you need to know. Cover: Jake Banfield",
   "name": "Viral Country",
   "tracks": [
     {
@@ -1689,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Lasso",
+        "url": "https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129860,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9"
+    },
+    {
+      "album": {
         "name": "Like A Boy",
         "url": "https://open.spotify.com/album/57IFh9v1WO3rBi7NVO7gR3"
       },
@@ -2140,6 +2158,24 @@
       "duration_ms": 158329,
       "name": "My Truck",
       "url": "https://open.spotify.com/track/6jGyDvL1Rf4XfwTb25o1HN"
+    },
+    {
+      "album": {
+        "name": "Watch My Necklace Swing",
+        "url": "https://open.spotify.com/album/1JKhMKZo4K3zAnYn0b97os"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173181,
+      "name": "Necklace",
+      "url": "https://open.spotify.com/track/5VjK9hpou3ESZDyIjyn8Vd"
     },
     {
       "album": {

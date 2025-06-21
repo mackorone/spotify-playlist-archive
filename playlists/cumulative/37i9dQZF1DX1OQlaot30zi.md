@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Fibra, Tony Boy e Lazza, Don Joe, Dargen, CoCo e tanti altri.
 
-5,688 songs - 10 day 13 hr 23 min
+5,689 songs - 10 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1191,6 +1191,7 @@
 | [Codice](https://open.spotify.com/track/1ZcV6U81HZ8GTAeB7hHi9I) | [Pope](https://open.spotify.com/artist/2JAV8xlKxmuPHq3NxsCPz4) | [Codice](https://open.spotify.com/album/7aNE4D5lWfee1Mhj5tYnHV) | 2:25 | 2024-10-17 | 2024-11-08 |
 | [CODICI](https://open.spotify.com/track/3OGn99XvFjs3RSfETQvYGe) | [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [CODICI](https://open.spotify.com/album/5TIXAujZtKBUobZi8aLIGD) | 3:07 | 2024-04-11 | 2024-04-19 |
 | [COFFEESHOP](https://open.spotify.com/track/3g8HReZDD24p8S5R4DGzM8) | [Nemesi](https://open.spotify.com/artist/7BgAHTZgNxHUV16qMX9fom), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [COFFEESHOP](https://open.spotify.com/album/7B2ZAsYjaMRkvb7WyBMF38) | 2:40 | 2025-04-10 | 2025-05-02 |
+| [Cognac](https://open.spotify.com/track/67Q1q8qimE7qPaGehMqih8) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S) | [Cognac](https://open.spotify.com/album/5nCMpBVzwTqBa3oRt4JZee) | 2:12 | 2025-06-20 |  |
 | [Coke](https://open.spotify.com/track/1SeeuHhkRdrU5mJJRxopEL) | [PAMELA](https://open.spotify.com/artist/6axz7rtKzaIhG8bnaME1vX) | [Coke](https://open.spotify.com/album/5DxC31EEMIZgdEIONVdYUq) | 3:12 | 2023-03-09 | 2023-03-25 |
 | [Coki \(con Tony Effe, Noyz Narcos, Ketama126 & Guè\)](https://open.spotify.com/track/19MTV4slq11KeCGoF7RQZ6) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:53 | 2022-09-15 | 2022-10-14 |
 | [COL FUOCO NEGLI OCCHI](https://open.spotify.com/track/5awt4TsOuuY2vFKRfAsX70) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [COL FUOCO NEGLI OCCHI](https://open.spotify.com/album/4mEP2tMcVmwZ9rTioZ59Op) | 2:24 | 2025-04-10 | 2025-05-02 |
@@ -3338,7 +3339,7 @@
 | [mostri lovers](https://open.spotify.com/track/4Cfmb6VYYsGuigxl0sqAoJ) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [mostri lovers](https://open.spotify.com/album/1UYOUC7DmoaOwTsbHzzObL) | 2:58 | 2023-07-20 | 2023-08-25 |
 | [MOTARD](https://open.spotify.com/track/1eMlp9lwJqs9Bnh2WeZhPu) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [MOTARD](https://open.spotify.com/album/0z0F6lC6Mdo7fOvk6sXGiH) | 2:22 | 2024-05-09 | 2024-06-01 |
 | [Motivation](https://open.spotify.com/track/4kionrCqThBodAxp88m0EP) | [Dayv](https://open.spotify.com/artist/0TTBL9D4ZfIZA71tpLMCro) | [Tra La Nebbia](https://open.spotify.com/album/0D7JqssXCUBTtRQtS38sig) | 3:30 | 2025-03-06 | 2025-04-04 |
-| [Moto](https://open.spotify.com/track/3zbGSvWZ5LwQV7xlKl261l) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Tokyo](https://open.spotify.com/artist/2PISS1HSw6N8WODR2RLBS6) | [Moto](https://open.spotify.com/album/6WFdqm2KWxEvCquYDA6DoW) | 2:58 | 2025-06-19 |  |
+| [Moto](https://open.spotify.com/track/3zbGSvWZ5LwQV7xlKl261l) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [Moto](https://open.spotify.com/album/6WFdqm2KWxEvCquYDA6DoW) | 2:58 | 2025-06-19 |  |
 | [Moto e Stasi](https://open.spotify.com/track/4yMkWeaJyioQxy9225fKPC) | [Mas](https://open.spotify.com/artist/21E7HIusv4ooGtetpAtxNk), [Marta Brando](https://open.spotify.com/artist/5NUfGi0PaKeSBkvCtgtAD3) | [Moto e Stasi](https://open.spotify.com/album/5CecYKuN34jKMnfoO7XaYL) | 3:04 | 2024-01-12 | 2024-01-19 |
 | [MOTO GP](https://open.spotify.com/track/5Nk8EEtOy5vwWfes83OW3n) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 1:56 | 2022-05-10 | 2022-05-13 |
 | [Motor Valley \(feat\. Caneda, Vray & KAYLER\) \- RMX](https://open.spotify.com/track/4HPf8G5nieVW4avos2U4K8) | [Murcielago](https://open.spotify.com/artist/4pfWOZ7iBNyq7pBaTJRXC4), [Vray](https://open.spotify.com/artist/5h8JAjXGnNssIFMFFfCyWK), [KAYLER](https://open.spotify.com/artist/3RfIKCBcJ6Nb7OLrk2fV4S), [Caneda](https://open.spotify.com/artist/0sFpREh3MXhfRxOFZVStVG) | [Motor Valley \(feat\. Caneda, Vray & KAYLER\) \[RMX\]](https://open.spotify.com/album/14GLUh4vk8vHHE5e0GsLWm) | 2:40 | 2023-07-20 | 2023-07-28 |

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-276 songs - 20 hr 1 min
+277 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Aural Exciter \- Original Mix](https://open.spotify.com/track/5jk06siNYQ9lK5ba3qAC7B) | [Glenn Wilson](https://open.spotify.com/artist/1k0bnsqmUolxbTWG00U8Zb), [Mike Humphries](https://open.spotify.com/artist/1N1e7TFA0jcGad0NlnlMP1) | [Aural Exciter \- The Remixes](https://open.spotify.com/album/6RopaDNX28CL1wdag8gzmk) | 5:20 | 2024-08-13 | 2024-09-16 |
 | [Bad Man](https://open.spotify.com/track/6VUuhROHTsIPFXvSKx5WRW) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Bad Man](https://open.spotify.com/album/3x9sCjoQM0mMhh3sn5Cljy) | 2:33 | 2025-01-18 |  |
 | [Bang Bang Bang](https://open.spotify.com/track/1vwCoX1Pi1pRd6ufweSSc7) | [SIKOTI](https://open.spotify.com/artist/7qWvKoQVe3UdZhG9clKb1y) | [Save Yourself](https://open.spotify.com/album/7z3b4hNGlm067JLa44sujv) | 5:08 | 2024-04-09 | 2025-03-20 |
-| [Bass Powah](https://open.spotify.com/track/5Ruv1o6qTBlssVnzbNbR8f) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [Bass Powah](https://open.spotify.com/album/6CvFaZxzH1jcxBH71uDQ2Q) | 2:59 | 2025-02-20 |  |
+| [Bass Powah](https://open.spotify.com/track/5Ruv1o6qTBlssVnzbNbR8f) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [Bass Powah](https://open.spotify.com/album/6CvFaZxzH1jcxBH71uDQ2Q) | 2:59 | 2025-02-20 | 2025-06-21 |
 | [Bassline Slut](https://open.spotify.com/track/65KTsqXbjSr9k8K6X65CIa) | [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Bassline Slut](https://open.spotify.com/album/6PVUkdViXIPjlmfrX0AzBX) | 2:17 | 2025-05-16 |  |
 | [Beat Back](https://open.spotify.com/track/09p4eclqTGbBzstGGAp6EC) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Beat Back](https://open.spotify.com/album/5ImWcsae8kUiIYZ3eN4uHt) | 2:29 | 2025-05-16 |  |
 | [Because They Want Our Seat](https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Because They Want Our Seat](https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9) | 3:51 | 2024-09-06 |  |
@@ -97,6 +97,7 @@
 | [FEEL THE BEAT](https://open.spotify.com/track/07lXTVglyFGmstcLnDpdAT) | [ABØV](https://open.spotify.com/artist/4k8953mhpM1f8sNe50ZPlm), [BLURREDMOVEMENT](https://open.spotify.com/artist/6OlOGcrJ8WIRYJXcsGjed4) | [RCKLSS011](https://open.spotify.com/album/3gAy86fN8Re5XXsPpG3jrg) | 5:30 | 2024-04-09 | 2024-08-29 |
 | [Feet Down](https://open.spotify.com/track/3BrEKAZM9dwKV21dGxURHQ) | [NineTed](https://open.spotify.com/artist/2Vo7TSjLpWTibQkpZeoEz7) | [COVEN, Vol\. 3](https://open.spotify.com/album/6btbrFS9tvKTEGk4idAK4r) | 6:09 | 2024-04-09 | 2025-01-17 |
 | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/track/3RotPxA6cgLQ9sduyM64yX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/album/4hnP64S9CyCy6LzzcOiseW) | 3:50 | 2024-04-09 |  |
+| [Flute \(KNTRLVRLST Remix\)](https://open.spotify.com/track/1ezQNsp5el8von7KkY99py) | [New World Sound](https://open.spotify.com/artist/4RQQEu24E1oQAQXvkxsLxE), [DJ Thomas Newson](https://open.spotify.com/artist/0tZlnuodIwYzEMCLP86mnt), [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V) | [Flute \(KNTRLVRLST Remix\)](https://open.spotify.com/album/4AAypVDSpB05qmvIeArFso) | 3:07 | 2025-06-20 |  |
 | [Follow Me](https://open.spotify.com/track/1GgYSbkGStGbUey8oyB5LH) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO) | [Follow Me](https://open.spotify.com/album/6pRYh2gOVr4GW3Qkv9Kmuh) | 3:42 | 2025-01-18 | 2025-06-16 |
 | [Forever Melancholia](https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs) | 7:01 | 2024-11-15 |  |
 | [Fractured Reality](https://open.spotify.com/track/6cIOLPd3uInITUTJKmnTO7) | [BLNK](https://open.spotify.com/artist/6c4dKwBxfp4bTz118Y3LJf), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Resident of Evil](https://open.spotify.com/album/6scBDlzufkha65gcJlfLTN) | 5:50 | 2024-04-09 | 2024-04-29 |

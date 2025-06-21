@@ -2,7 +2,7 @@
 
 ### [OFF POP](https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA)
 
-> New music off the beaten track\. Cover: Monolink
+> New music off the beaten track\. Cover: Monolink, Sam Shure
 
 1,173 songs - 3 day 5 hr 46 min
 

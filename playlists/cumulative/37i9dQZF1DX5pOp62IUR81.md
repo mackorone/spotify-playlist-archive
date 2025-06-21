@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-215 songs - 9 hr 14 min
+216 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Infinity War](https://open.spotify.com/track/51Amo7fyI2jL3sf2UgX75i) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Infinity War \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O) | 2:35 | 2024-01-05 |  |
 | [Iron Man \(1966 Theme\) \- 2024 Stereo Remaster](https://open.spotify.com/track/6aptHccREaN8qfxJBQFrCx) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Iron Man \(1966 Theme\) \[2024 Stereo Remaster\]](https://open.spotify.com/album/4GbxSvZN0SkeulVJY3XBf9) | 0:56 | 2024-09-05 | 2025-01-31 |
 | [Iron Man 3](https://open.spotify.com/track/7u5XBHnht6dyoRXRBb5soK) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Iron Man 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi) | 2:23 | 2024-01-05 |  |
+| [Ironheart \(Riri's Theme\) \- From "Marvel's Ironheart"](https://open.spotify.com/track/1HyzgWZRW17hyzwpluQ0fK) | [Dara Taylor](https://open.spotify.com/artist/5eVXLULHT8OSFJmZusDtwg) | [Ironheart \(Riri's Theme\) \[From "Marvel's Ironheart"\]](https://open.spotify.com/album/3cTqynScPj6Ip36E0YFs4S) | 2:17 | 2025-06-20 |  |
 | [It Is Time](https://open.spotify.com/track/4bJXN7i3AtEA8C8JnXtS7u) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Eternals \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qBn8Lw72Fs6zWyA7yFrMn) | 2:17 | 2024-01-05 |  |
 | [Jeet Hai Hamari \- From "What If...?: Season 3"](https://open.spotify.com/track/6SNNdNs5SGyFF2jX2Pr1Lc) | [GAAYATRI](https://open.spotify.com/artist/3VaCKO3u7bekl0FhJBFE7E), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jeet Hai Hamari \(From "What If...?: Season 3"\)](https://open.spotify.com/album/3j0exGo4lFFT53h9DDsigU) | 4:43 | 2025-02-28 |  |
 | [Kaboom](https://open.spotify.com/track/6iGKLc3npqmbmWJzyIOESo) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...? \(Episode 7\) \[Original Soundtrack\]](https://open.spotify.com/album/5I4rXFyypt4FaRCtrAxcIS) | 0:40 | 2024-01-05 |  |

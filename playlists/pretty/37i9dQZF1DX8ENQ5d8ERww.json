@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12751,
+  "num_followers": 12752,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -359,38 +359,6 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
-      },
-      "artists": [
-        {
-          "name": "Tinguely d\u00e4 Chn\u00e4cht",
-          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Mini Homeboys",
-      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Golden Greats",
-        "url": "https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Mais o\u00fa? - Single Version",
-      "url": "https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/5cLUhcAm3X2MR9P9yiCn0H"
       },
@@ -411,6 +379,38 @@
       "duration_ms": 235906,
       "name": "So simer",
       "url": "https://open.spotify.com/track/5O9S52yM9oARUeeHZgLgPb"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Golden Greats",
+        "url": "https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Mais o\u00fa? - Single Version",
+      "url": "https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
+      },
+      "artists": [
+        {
+          "name": "Tinguely d\u00e4 Chn\u00e4cht",
+          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Mini Homeboys",
+      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
     },
     {
       "added_at": "2024-12-09 12:11:25",

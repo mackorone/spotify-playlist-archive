@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Quadeca
+> Underground indie rock gems\. Cover: bar italia
 
-1,621 songs - 3 day 21 hr 18 min
+1,626 songs - 3 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Almuatin](https://open.spotify.com/track/3q8NkyunIl3nVwv48deAv0) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Almuatin](https://open.spotify.com/album/08viFcrlyEHRK04mH0zRsy) | 3:04 | 2024-01-19 | 2024-02-17 |
 | [Alone But Not Lonely](https://open.spotify.com/track/45b6AZg2JJFKqOgYL1Rne4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Alone But Not Lonely](https://open.spotify.com/album/2IORnkfSCkRnHGIKsN0r4w) | 1:46 | 2021-06-02 | 2022-03-23 |
 | [Alone In December](https://open.spotify.com/track/2hHLMZd2Jwg3ytJGxpN40m) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [Alone In December](https://open.spotify.com/album/25DQdkYKZ6gA3MU3jEbUDw) | 2:50 | 2023-07-14 | 2023-09-09 |
+| [Alright Alright Alright](https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Alright Alright Alright](https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw) | 2:04 | 2025-06-20 |  |
 | [Always](https://open.spotify.com/track/1GPwRKJ5g2tfJ2kLbwB5kM) | [skirts](https://open.spotify.com/artist/41KJC6FjOhZR0wut8TO1Nl) | [Always](https://open.spotify.com/album/0RMknPzSaFRDBxhScoISSm) | 4:02 | 2021-07-16 | 2022-04-29 |
 | [Always Gonna Happen](https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Always Gonna Happen](https://open.spotify.com/album/7Jp1J2Smum2GeJRpkZDohG) | 3:59 | 2022-05-20 | 2022-08-27 |
 | [Always Something](https://open.spotify.com/track/1bxIDIIuSxGo4AsM4XmFGs) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Always Something](https://open.spotify.com/album/0pMwpKB8BTFmLJHVW6M94J) | 3:30 | 2024-02-23 | 2024-08-10 |
@@ -183,6 +184,7 @@
 | [BLUE](https://open.spotify.com/track/1Jsrkn70ZpnAVEC7cAPrgh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 3:05 | 2022-07-29 | 2022-09-29 |
 | [BLUE](https://open.spotify.com/track/5ogl7JWflmR7b0fedAgQOI) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [BLUE b/w TWIRL](https://open.spotify.com/album/65VvEIy3GWf6o5Xk9gZYIq) | 3:05 | 2022-07-29 | 2022-09-28 |
 | [Blue Tuesday](https://open.spotify.com/track/37pvGnY30NAi7FdtB2HhJL) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Blue Tuesday](https://open.spotify.com/album/43f2MIFJtD0hEWs1KQkvnw) | 2:38 | 2024-01-30 | 2024-04-13 |
+| [Bluff](https://open.spotify.com/track/3Egw5YY3FnbOFBBukF1ran) | [Forth Wanderers](https://open.spotify.com/artist/5UjbehtgZGbNmmanbVW9Bs) | [Bluff](https://open.spotify.com/album/4lyaxz47Hv2pxOzFS1vPYL) | 2:34 | 2025-06-20 |  |
 | [bodies](https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [bodies](https://open.spotify.com/album/6nJVoyXol3qPhMdBS4VaFh) | 3:02 | 2022-09-02 | 2023-05-06 |
 | [Bodies Lie](https://open.spotify.com/track/3EmPt5Hsx40X5xKsZF0sOP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Bodies Lie](https://open.spotify.com/album/3tTPYeDCoc0Z3sc1EALUGx) | 3:38 | 2021-07-02 | 2022-09-03 |
 | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/track/1x6xmj2HRJDYJB94sgzkpp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/album/3t7PD8kmLJdX3rLGwxmwT1) | 2:21 | 2021-10-29 | 2022-01-17 |
@@ -322,6 +324,7 @@
 | [Cosmic Gloom](https://open.spotify.com/track/3mdIQJJq43lXYpGcBKWYfU) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Cosmic Gloom](https://open.spotify.com/album/1ZijZNiEcbRIzSWhqGtkhq) | 3:30 | 2021-06-02 | 2022-04-18 |
 | [Costumes](https://open.spotify.com/track/31vJeKw9YQBoKLzw1pbxvy) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Costumes](https://open.spotify.com/album/5NQ3LtPwZHIfxtXFB69LL9) | 2:16 | 2023-04-21 | 2023-06-10 |
 | [Country](https://open.spotify.com/track/0Hlfo1A9sxNTPsk9QQXWb2) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Country](https://open.spotify.com/album/3Rfhc4oWiP4wvPNlZKhcro) | 4:00 | 2022-04-29 | 2022-07-02 |
+| [Cowbella](https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Cowbella](https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH) | 4:23 | 2025-06-20 |  |
 | [Cowboy Bepop](https://open.spotify.com/track/4YYsjhh2xuXbUwn435W2WI) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Cowboy Bepop](https://open.spotify.com/album/3GMkAcRznb2cX3lRypqLCh) | 2:53 | 2022-07-20 | 2022-09-03 |
 | [Cowboy Boots](https://open.spotify.com/track/71jdngFJlIYfkwYZXHRQP1) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Cowboy Boots](https://open.spotify.com/album/7DcpreV9l4SVhit3cWhMBm) | 3:00 | 2021-08-27 | 2022-03-12 |
 | [Cowboy Killer](https://open.spotify.com/track/3WQuo1C5WhP15EBv9aXbQy) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Cowboy Killer](https://open.spotify.com/album/6GlVNhYfePusaOwiqbENkR) | 6:39 | 2023-03-03 | 2023-04-22 |
@@ -533,6 +536,7 @@
 | [Flowers](https://open.spotify.com/track/2zL3Tut6HrIV6tVAGw8Gh7) | [High.](https://open.spotify.com/artist/59LpxUqe2EStKGfpogJqxi) | [Come Back Down](https://open.spotify.com/album/5ihJcyfSetmfGtCCJoWhzR) | 3:57 | 2025-02-07 | 2025-05-24 |
 | [Fly](https://open.spotify.com/track/4nJABCg1GAbrmnUHyiXFGb) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Fly](https://open.spotify.com/album/7eWnEj17GFuDUwzBMdcy2d) | 3:10 | 2025-02-21 | 2025-05-31 |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2021-03-05 | 2022-06-19 |
+| [Fold](https://open.spotify.com/track/0tbQ08FI6iX6IKS9EgSsC8) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Fold](https://open.spotify.com/album/1ah2CY1w0eG8Zy8Ur1fVJ1) | 3:48 | 2025-06-20 |  |
 | [fool for you](https://open.spotify.com/track/4uhx82pIQtY9S3xmHKbztZ) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/2RrAue7Ur84t4Qe6MAJwsP) | 3:19 | 2023-12-08 | 2024-02-24 |
 | [fool for you](https://open.spotify.com/track/2WN6K7GSUcYh90kSq6bVAz) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/4CpWJqS8wfTKf3Osp4uwoz) | 3:19 | 2023-09-08 | 2023-12-09 |
 | [Foolish and Fast](https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:12 | 2024-09-27 | 2024-12-14 |
@@ -894,6 +898,7 @@
 | [Lizzy](https://open.spotify.com/track/7GWGiYSGyN5CuKN0U2acXD) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Lizzy](https://open.spotify.com/album/6Y183V3T55txTmHKcjtv9N) | 3:50 | 2021-03-05 | 2022-04-15 |
 | [loaded gun](https://open.spotify.com/track/0pZsHpKYy6BpBpez1X1dBs) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [loaded gun](https://open.spotify.com/album/2Ez698EgVsoo910TP135N2) | 3:50 | 2021-03-05 | 2022-04-20 |
 | [Loaded Gun](https://open.spotify.com/track/7mH0fZKktrJ5Hbijrnp7OF) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [I Am Bubblegum](https://open.spotify.com/album/45YoZEm1LM9BkOFKTBsjM3) | 3:42 | 2023-03-31 | 2023-06-16 |
+| [Loaded Painted Red](https://open.spotify.com/track/3vzm8VDNwqxJbQHQLvZVv9) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Loaded Painted Red](https://open.spotify.com/album/4AzwB5nkoGoyATPe5v5M8C) | 5:38 | 2025-06-20 |  |
 | [Locket](https://open.spotify.com/track/0DKeB7jEvtKNoNgNhyJi81) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Locket](https://open.spotify.com/album/5uijemnh4nVq5ZXeAtf79R) | 2:53 | 2023-04-14 | 2023-06-16 |
 | [Lonely](https://open.spotify.com/track/4AS90Bmd19h087YiA1xnv4) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Lonely](https://open.spotify.com/album/5Rcadhergn7V5fLo9ejYoA) | 2:42 | 2023-05-19 | 2023-06-10 |
 | [Lonely](https://open.spotify.com/track/6VVKpaJkY7dc4uGP0pE1KX) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Lonely](https://open.spotify.com/album/3i8tDk6FlRAutGZtoKGlUB) | 2:41 | 2023-03-03 | 2023-05-13 |

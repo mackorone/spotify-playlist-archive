@@ -4,7 +4,7 @@
 
 > Nilüfer ve haftanın en iyi çıkışları!
 
-1,725 songs - 3 day 15 hr 27 min
+1,729 songs - 3 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-02-27 | 2025-03-07 |
 | [Fırtınam](https://open.spotify.com/track/5xbVWh4zxwzUfi8dnhgAfz) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fırtınam](https://open.spotify.com/album/5ZAihw7AqO2Q0Yu0AWQqT5) | 3:12 | 2025-02-20 | 2025-02-28 |
 | [Fısıldasana](https://open.spotify.com/track/1EidI5a4x88LktnlRcNoMc) | [Beray Gökçen](https://open.spotify.com/artist/6zhd7Jmq1jJWokiLlBbMy5) | [Fısıldasana](https://open.spotify.com/album/3gmKMH3CFetUVRFHm9XV7W) | 4:00 | 2025-06-05 | 2025-06-13 |
+| [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-19 |  |
 | [GANİ](https://open.spotify.com/track/5MLDp0HeoyYZbASXcKUax8) | [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t), [Aga B](https://open.spotify.com/artist/3QKeYTHlgDrec7FDej6XiN), [Kxrgx](https://open.spotify.com/artist/1BhDrRu3XqEiu2zkPP2FUc) | [GANİ](https://open.spotify.com/album/0Uq1XsuqjDk4Gfpu8QJnlu) | 3:20 | 2025-05-08 | 2025-05-16 |
 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-07 | 2025-03-14 |
 | [Geberecektim](https://open.spotify.com/track/2t5wV6RxDM523d7ejP2oI8) | [Can Baydar](https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv) | [Her Şey Geçer](https://open.spotify.com/album/2uA2aFYXzwtzDIPLlh95zI) | 2:54 | 2025-05-08 | 2025-05-16 |
@@ -1040,6 +1041,7 @@
 | [Nasıl Sevdim?](https://open.spotify.com/track/75epLa34SOuPRT2wBI5iis) | [Zeynep Dizdar](https://open.spotify.com/artist/1XZNZT3xecy9Wt5LtMOJVk) | [Nasıl Sevdim?](https://open.spotify.com/album/4Z7rsEd45gKmnGy7txTa3Z) | 2:48 | 2025-04-24 | 2025-05-02 |
 | [Nasılsın Başkan?](https://open.spotify.com/track/3nSvP7pSpV5y6zadHX0wVa) | [Burak Eldemir](https://open.spotify.com/artist/7khmKE8vNPiJ7QR7m4oLR3) | [Nasılsın Başkan?](https://open.spotify.com/album/3xc1b5oInrADDeqxB1aJlG) | 2:05 | 2025-05-29 | 2025-06-06 |
 | [Nazardan Sözlerden](https://open.spotify.com/track/6uzeDP8WKxCO3kO5T3qHYQ) | [Erdal Toprak](https://open.spotify.com/artist/4bAps3o4FKhgEplEbh3CUe) | [Nazardan Sözlerden](https://open.spotify.com/album/3eVmwtfbXj7KvcP8DcGmpw) | 2:09 | 2025-05-08 | 2025-05-16 |
+| [Nazardayım](https://open.spotify.com/track/6TONJm5nWPoZPiJy4467Jo) | [Samet Durukan](https://open.spotify.com/artist/1B3MUx78soeORRI8OgaOhz) | [Nazardayım](https://open.spotify.com/album/7C42GmqTvlHQs9zo3e39ca) | 2:16 | 2025-06-19 |  |
 | [Nazım Oldun](https://open.spotify.com/track/0U4l0M7uUGmW3Xviawl6se) | [Ilkay Akkaya](https://open.spotify.com/artist/1fIyC6Oj6CHRcB4jyVnw6t) | [Nazım Oldun](https://open.spotify.com/album/0P8tACW47LNLZWCyWOP0Rs) | 4:16 | 2025-02-27 | 2025-03-07 |
 | [NE DİCEN](https://open.spotify.com/track/7c9Y5Mb0UuRzd8iyK83H79) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [NE DİCEN](https://open.spotify.com/album/7lQoaZEVMHMeFY456pUfGs) | 2:00 | 2025-02-27 | 2025-03-07 |
 | [Ne Fark Eder](https://open.spotify.com/track/3OOYwCiPIjC64b2VXLk3cH) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [Ne Fark Eder](https://open.spotify.com/album/0bTEq84HsGhDpimlYCIGNe) | 3:07 | 2025-04-24 | 2025-05-02 |
@@ -1109,9 +1111,11 @@
 | [ORIGINAL](https://open.spotify.com/track/5cGVzKtpAVYJakSGLg323D) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [ORIGINAL](https://open.spotify.com/album/7cskRHFG3WHGxv1BRXDPRH) | 3:10 | 2025-05-29 | 2025-06-06 |
 | [Otur Bi Anlatayım 3](https://open.spotify.com/track/7wb3BZFJ0eO38JB6TnV4k9) | [Groz](https://open.spotify.com/artist/2dg2w8X3b1Sjh4MMzXkfXx) | [Otur Bi Anlatayım 3](https://open.spotify.com/album/5cURM0yD0XAeropFbXm3WF) | 2:39 | 2025-02-27 | 2025-03-07 |
 | [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 | 2025-04-03 | 2025-04-11 |
+| [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 | 2025-06-19 |  |
 | [Overthink](https://open.spotify.com/track/0JuRcGO6mi97bGNbsGfXZ8) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC), [Asil Slang](https://open.spotify.com/artist/3e9tJNBWrydJK3VKpkyWyT) | [Overthink](https://open.spotify.com/album/5NdPZ3nXaH17l96iJrVIaH) | 2:50 | 2025-04-10 | 2025-04-18 |
 | [Oyuncak](https://open.spotify.com/track/0Zv701rOMkkM79eUlF7Wlj) | [Eda Suluki](https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb) | [Oyuncak](https://open.spotify.com/album/7snkj9WU2CVaP0UM5N0Ury) | 3:27 | 2025-03-27 | 2025-04-04 |
 | [Oyunlarınız Var](https://open.spotify.com/track/0ORNRYPi7XbkGI9eTtodk1) | [Can Baydar](https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv) | [Oyunlarınız Var](https://open.spotify.com/album/1uLg0XoCrRCI2DJB63nj33) | 2:53 | 2025-04-10 | 2025-04-18 |
+| [Papasito](https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:47 | 2025-06-19 |  |
 | [PARANOYA](https://open.spotify.com/track/3erIoJU8sErz8f1DMFGnSc) | [Asha](https://open.spotify.com/artist/4ozOEKNkMhtvfYjY7u2CeJ) | [PARANOYA](https://open.spotify.com/album/7AtoCMhbvDutPj9Sy73MiX) | 2:11 | 2025-06-19 |  |
 | [PARANOYA](https://open.spotify.com/track/5IINsSIZVPvc3tHIaKnPOH) | [Baz](https://open.spotify.com/artist/2jWuOY32qjFiAbGbm0AodM), [Slugz](https://open.spotify.com/artist/6DKwCmRzmAkCFzhnxcOZJC) | [PARANOYA](https://open.spotify.com/album/3D3LVGiILTiJZHYC3SwMUR) | 2:59 | 2025-06-05 | 2025-06-13 |
 | [Paranoya](https://open.spotify.com/track/2iGbfyJbuxSstkx9RejAaQ) | [Öge471](https://open.spotify.com/artist/0aS9UPqODEOPZaUT0cWYMw) | [Paranoya](https://open.spotify.com/album/1PbGMIuieeyGKDv6cTN2G8) | 2:25 | 2025-04-17 | 2025-04-25 |

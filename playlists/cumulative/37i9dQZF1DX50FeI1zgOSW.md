@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-551 songs - 1 day 7 hr 23 min
+552 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Kaadhal Trap](https://open.spotify.com/track/4MQM1DjOGvi65msWaaxT1F) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Sudarshan Arumugam](https://open.spotify.com/artist/6D4IJcXCBRLOro4B4wg02E) | [Kaadhal Trap](https://open.spotify.com/album/5oaBaOnUSwGCJho4cy0oAI) | 3:23 | 2023-05-26 | 2023-11-16 |
 | [Kaadhal Valarthen](https://open.spotify.com/track/5W1diDZnsE3BIbyHDeXZxB) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf) | [Kaadhal Valarthen](https://open.spotify.com/album/2GTKKH8hwOOJFg9uM1sEHn) | 3:46 | 2024-08-01 | 2024-12-06 |
 | [Kaanavey](https://open.spotify.com/track/2h4nw55zlCdrWkNea2gFfp) | [PRI](https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit) | [Kaanavey](https://open.spotify.com/album/0dIt8XjLq2MCcI6ukszh8B) | 3:38 | 2025-04-22 | 2025-05-07 |
+| [Kaathadi](https://open.spotify.com/track/2F3oivF0j2938HjVa5Pr5g) | [Martin Jazz](https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu), [ParthaSarathi](https://open.spotify.com/artist/0GiCGz0OMwab6QvzZ1oKfb), [Dextorexx](https://open.spotify.com/artist/6pITA4IFyrbQNbsjIPLlfO), [Pj.Onanaa](https://open.spotify.com/artist/0wzG5kttDiuzWmxD8m2cPA) | [Kaathadi](https://open.spotify.com/album/04YrzMRld5PzwChbdVbaJN) | 3:05 | 2025-06-20 |  |
 | [Kaatril Panju Pola](https://open.spotify.com/track/1Le18sKyKKy70uJfPlfweT) | [Kisshore Nainar](https://open.spotify.com/artist/2QWNPT8IbPvLzja85UIWTG), [Sriram Seethapathy](https://open.spotify.com/artist/294LTYgwMylGoWZp3O6CCX) | [Kaatril Panju Pola](https://open.spotify.com/album/6MN2YQ6cBKSBxSZqdvQ8pP) | 3:21 | 2023-08-16 | 2023-11-29 |
 | [Kaatrile](https://open.spotify.com/track/3ozRf60fIEOFABQB5r792F) | [Sperience](https://open.spotify.com/artist/6hM2eMbTUUKLLDIeRBLClE), [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Kaatrile](https://open.spotify.com/album/4fBs9f1HRGZYbwM7ghvy3W) | 2:49 | 2023-03-21 | 2023-09-26 |
 | [Kaatru Veesum Iravu](https://open.spotify.com/track/07SIWwrjT2cJ5jagVJenNR) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW), [Barath Veeraraghavan](https://open.spotify.com/artist/4ETiJc9RAbA86dY1xqbCcS) | [Kaatru Veesum Iravu](https://open.spotify.com/album/2q47FkCa5UVtofElv8PlfG) | 4:03 | 2024-02-01 | 2024-02-27 |

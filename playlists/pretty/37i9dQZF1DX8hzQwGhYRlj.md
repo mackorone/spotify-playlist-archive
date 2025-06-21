@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 
 > A collection of Grieg's finest songs, symphonies and suites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,584 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,591 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

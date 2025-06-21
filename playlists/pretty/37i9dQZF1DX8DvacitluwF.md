@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ?si=kaPi9CvdQcicRbNmXRKSqg"> Khamari</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,219 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,266 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

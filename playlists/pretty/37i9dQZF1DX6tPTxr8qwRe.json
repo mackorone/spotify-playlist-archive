@@ -1,13 +1,45 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Ari Abdul",
-  "num_followers": 426467,
+  "description": "Dark, hard hitting pop. Cover: DYLAN",
+  "num_followers": 426472,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuiegAAAABDjCUM6etwwOqIQ4F7gYBK",
+  "snapshot_id": "aFXB7gAAAADFSpymrw6tXu3ZbjJZLxlx",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:50",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/3mu4Y69CWMH21RNGDzt9Eu"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/4HaPoW6VbjC0iWBsuAmw5z"
+    },
+    {
+      "added_at": "2025-06-20 04:00:50",
+      "album": {
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 107266,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
+    },
     {
       "added_at": "2025-06-13 04:00:58",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 240012,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1BolvPHesuoFdC8hSPp4IW"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC"
+    },
+    {
+      "added_at": "2025-06-20 20:17:50",
+      "album": {
+        "name": "ME PROBLEM",
+        "url": "https://open.spotify.com/album/6RFpS6ilotaQU0WbIWYIXf"
+      },
+      "artists": [
+        {
+          "name": "EHLE",
+          "url": "https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q"
+        }
+      ],
+      "duration_ms": 166639,
+      "name": "ME PROBLEM",
+      "url": "https://open.spotify.com/track/4EhGpvcGNl3h9pj92AB0rr"
     },
     {
       "added_at": "2025-06-13 04:00:58",
@@ -55,22 +119,6 @@
       "duration_ms": 186728,
       "name": "You're the only one I trust",
       "url": "https://open.spotify.com/track/3BN2hEZ2TxqjzYVpAVLTzV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "HUSH",
-        "url": "https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "HUSH",
-      "url": "https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -733,22 +781,6 @@
       "url": "https://open.spotify.com/track/1ijN5LBIyxoC2iIEaI618m"
     },
     {
-      "added_at": "2025-04-04 04:00:32",
-      "album": {
-        "name": "GRASS IS GREENER",
-        "url": "https://open.spotify.com/album/2eCZsqAFPqiGQ3Uy8jZzoQ"
-      },
-      "artists": [
-        {
-          "name": "KANNER",
-          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
-        }
-      ],
-      "duration_ms": 147540,
-      "name": "GRASS IS GREENER",
-      "url": "https://open.spotify.com/track/03NGvMraKPHuigMw4pSLyv"
-    },
-    {
       "added_at": "2025-04-11 04:00:29",
       "album": {
         "name": "made you cry",
@@ -779,38 +811,6 @@
       "duration_ms": 153931,
       "name": "leech",
       "url": "https://open.spotify.com/track/0qQmftapZMHDS8blo8Cl4y"
-    },
-    {
-      "added_at": "2025-04-11 04:00:29",
-      "album": {
-        "name": "Heart In A Cage",
-        "url": "https://open.spotify.com/album/543I0lfy3jT3Vj5XpAd7sL"
-      },
-      "artists": [
-        {
-          "name": "Emi Grace",
-          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
-        }
-      ],
-      "duration_ms": 139848,
-      "name": "Heart In A Cage",
-      "url": "https://open.spotify.com/track/4gYH75alQBWW7Y5UCwBDNX"
-    },
-    {
-      "added_at": "2025-03-21 04:00:48",
-      "album": {
-        "name": "Itty Bitty",
-        "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Itty Bitty",
-      "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
     }
   ],
   "unique_name": "SALT",

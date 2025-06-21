@@ -1,566 +1,226 @@
 {
-  "description": " <a href=\"spotify:artist:6HQYnRM4OzToCYPpVBInuU\">Kamasi Washington</a> shares his jazz favorites",
-  "num_followers": 161999,
-  "original_name": "Kamasi Washington Digs Jazz",
+  "description": " <a href=\"spotify:artist:0uZRjholJ0fVC2J9EvnYnj\">Meshell Ndegeocello</a> shares her jazz favorites",
+  "num_followers": 162004,
+  "original_name": "Meshell Ndegeocello Digs Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zow04AAAAABJ9Ar663IEhJgVSROzgant",
+  "snapshot_id": "aFV/zAAAAAD3gXTd+MHrTuX2M1g8FUY/",
   "tracks": [
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2025-06-20 15:35:40",
       "album": {
-        "name": "Power To The People [Keepnews Collection] (Remastered)",
-        "url": "https://open.spotify.com/album/4ZlES861bCGKTdlHUto1Gv"
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 524000,
-      "name": "Power To The People",
-      "url": "https://open.spotify.com/track/1iRHLY0nRyrLZNE3zZ4GLH"
+      "duration_ms": 1107266,
+      "name": "Bismillahi 'Rrahmani 'Rrahim",
+      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2025-06-20 15:35:40",
       "album": {
-        "name": "The Complete Science Fiction Sessions",
-        "url": "https://open.spotify.com/album/1WEi45sOKRTSC1UkQWN74b"
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
       "artists": [
         {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 400133,
-      "name": "Broken Shadows",
-      "url": "https://open.spotify.com/track/49V9bhX50RcEfdF6x8Esqu"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "74 Miles Away/Walk Tall (Live)",
-        "url": "https://open.spotify.com/album/1OClIzUGmW1kc29DBRppRE"
-      },
-      "artists": [
-        {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
-        }
-      ],
-      "duration_ms": 834546,
-      "name": "74 Miles Away - Live In Hollywood, CA/1967",
-      "url": "https://open.spotify.com/track/1dYEB12iGts9wznDFwojCq"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "One Flight Up",
-        "url": "https://open.spotify.com/album/2cSjt8faWKSq4v8y074JVt"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 1098506,
-      "name": "Tanya - Remastered",
-      "url": "https://open.spotify.com/track/0oOTs8t06ERAHkWCjViVB7"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "The Artist Selects",
-        "url": "https://open.spotify.com/album/3fLRh1CZLT0hjH2bf6BN2Q"
-      },
-      "artists": [
-        {
-          "name": "Gerald Wilson",
-          "url": "https://open.spotify.com/artist/2gSkBqzo1VXaWnAyjhoYk7"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         },
         {
-          "name": "Richard \"Groove\" Holmes",
-          "url": "https://open.spotify.com/artist/7izkpvBGc31hUccjdSNz8k"
-        }
-      ],
-      "duration_ms": 188746,
-      "name": "Moody Blue - Remastered 2000",
-      "url": "https://open.spotify.com/track/4dfTBua2YgdOzBsxpZtIw6"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Fearless Movement",
-        "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 805684,
-      "name": "Road to Self (KO)",
-      "url": "https://open.spotify.com/track/3q86PCSg8aPzibw2FUZ8sl"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Sama Layuca",
-        "url": "https://open.spotify.com/album/74JxnRC4sJf0brcrya2ibP"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 516773,
-      "name": "Sama Layuca",
-      "url": "https://open.spotify.com/track/3xJYQYsNt0u78pXGG5atXJ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Hip Harp (Japan)",
-        "url": "https://open.spotify.com/album/43iQtyCXjLLnDY4aWz0rlq"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 315240,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/3m4Sa4nRYUqsnTVbu0eMJB"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Enigmatic Society",
-        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
-      },
-      "artists": [
-        {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Watts Renaissance",
-      "url": "https://open.spotify.com/track/6WSlb2JFC7RiP7DPsiAr3s"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "DRONES",
-        "url": "https://open.spotify.com/album/4hUrJlyPeYFNhUanFrwBFc"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 203748,
-      "name": "Griots of the Crenshaw District (feat. Hit-Boy, Kamasi Washington & Robert Glasper)",
-      "url": "https://open.spotify.com/track/692pLaatS8ZoWXxXbd6jjH"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Ryan Porter (Live at New Morning, Paris)",
-        "url": "https://open.spotify.com/album/5H2zAaFYSm31CbY1SpvkWl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Porter",
-          "url": "https://open.spotify.com/artist/1kiNqP5rOEbTchaFXyTY5c"
-        }
-      ],
-      "duration_ms": 712649,
-      "name": "Madiba (Live at New Morning, Paris)",
-      "url": "https://open.spotify.com/track/1SbZDTB3C3BSu96e1qby52"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Resistance",
-        "url": "https://open.spotify.com/album/5CoW7EEjCrnqM6ChKHmtE0"
-      },
-      "artists": [
-        {
-          "name": "Brandon Coleman",
-          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
-        }
-      ],
-      "duration_ms": 111505,
-      "name": "Resistance",
-      "url": "https://open.spotify.com/track/60BLxRR3jyokgVkcbwXeAV"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Enter the Dynasty",
-        "url": "https://open.spotify.com/album/7dua2cOQr2ICh9zrln8g5G"
-      },
-      "artists": [
-        {
-          "name": "Dontae Winslow",
-          "url": "https://open.spotify.com/artist/7eyDpUsaGy4plNy33ahyca"
-        },
-        {
-          "name": "Winslowdynasty",
-          "url": "https://open.spotify.com/artist/2VrN7BvtHiZjamazx4mjjV"
-        },
-        {
-          "name": "West Coast Get Down",
-          "url": "https://open.spotify.com/artist/53LGH6gvNEaH5YBmEJIEUf"
-        }
-      ],
-      "duration_ms": 556652,
-      "name": "Blaxploitation & Revolution (feat. West Coast Get Down)",
-      "url": "https://open.spotify.com/track/7F69ReJU8lj3JeEewzIN5D"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "UPRISING",
-        "url": "https://open.spotify.com/album/4umCb5k2dpFqgJD35qipAl"
-      },
-      "artists": [
-        {
-          "name": "Miles Mosley",
-          "url": "https://open.spotify.com/artist/61s1uLqt9FobVIJirJo2gA"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Abraham",
-      "url": "https://open.spotify.com/track/2UOygvDjk6zRB98F1semSq"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "R+R=Now Live",
-        "url": "https://open.spotify.com/album/5tKVgcTumS8Nz7xSdeWnCv"
-      },
-      "artists": [
-        {
-          "name": "R+R=NOW",
-          "url": "https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        },
-        {
-          "name": "Derrick Hodge",
-          "url": "https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes"
-        },
-        {
-          "name": "Taylor McFerrin",
-          "url": "https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6"
-        },
-        {
-          "name": "Justin Tyson",
-          "url": "https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI"
-        }
-      ],
-      "duration_ms": 1521266,
-      "name": "Resting Warrior - Live",
-      "url": "https://open.spotify.com/track/41aDXCPMli7VuFB4jGyhPT"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Members Don't Get Weary",
-        "url": "https://open.spotify.com/album/4IsvKtWOhpW3iutOJ8pU96"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 280226,
-      "name": "Absolutions",
-      "url": "https://open.spotify.com/track/2C3gN84NVsPpFyJOSpdSTX"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Who Killed AI?",
-        "url": "https://open.spotify.com/album/0NWzesYQBXWfqpLTg8MUVE"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        },
-        {
-          "name": "Svoy",
-          "url": "https://open.spotify.com/artist/2xEdZTDak84WNqm4fopNxO"
-        }
-      ],
-      "duration_ms": 390066,
-      "name": "Convergence",
-      "url": "https://open.spotify.com/track/0b2BIhpIdUtTk6CVzlH5iR"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Triumph",
-        "url": "https://open.spotify.com/album/4I4bCmaVpT8MSkvrcYE1Fl"
-      },
-      "artists": [
-        {
-          "name": "Ronald Bruner Jr.",
-          "url": "https://open.spotify.com/artist/1no0SQZN9toovc6SvuOcp1"
-        },
-        {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
-        }
-      ],
-      "duration_ms": 463468,
-      "name": "Geome Deome",
-      "url": "https://open.spotify.com/track/7ARh6eP97DaOHj2AnDDFS2"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
-      },
-      "artists": [
-        {
-          "name": "Cameron Graves",
-          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/3N1K8fdVp2UrAiZth96URw"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "The Beyond / Where the Giants Roam",
-        "url": "https://open.spotify.com/album/1atZ1TiIPZZec0oiyY1mBl"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 328965,
-      "name": "Lone Wolf and Cub",
-      "url": "https://open.spotify.com/track/0k9qTztS0zqywidVgaEoDq"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "The Complete Africa / Brass Sessions",
-        "url": "https://open.spotify.com/album/04nfBhMWMp1Y6zhl4o0psq"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 443666,
-      "name": "Blues Minor",
-      "url": "https://open.spotify.com/track/5aHasH4hKtCnqdVdzVLNz5"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
-      },
-      "artists": [
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 729293,
-      "name": "Out To Lunch - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",
-        "url": "https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX"
-      },
-      "artists": [
-        {
-          "name": "Mulatu Astatke",
-          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Y\u00e8k\u00e8rmo S\u00e8w (A Man of Experience and Wisdom)",
-      "url": "https://open.spotify.com/track/6eNOgE9gdpOx8Tztf4tbCF"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Mosaic (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0ROzOHhkPnjLnHFLJ49Xco"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 531546,
-      "name": "Children Of The Night - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1PzZSuQybSmPEj6ikj2YMH"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Symbiosis",
-        "url": "https://open.spotify.com/album/0WKeD3HWbimSq1MjE23htS"
-      },
-      "artists": [
         {
           "name": "Bill Evans",
           "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 710865,
-      "name": "Symbiosis, 1st Movement: Moderato. Various Tempi, Pt. 3",
-      "url": "https://open.spotify.com/track/6fK9XOxrV19bkFoZMnqC5c"
+      "duration_ms": 337733,
+      "name": "Blue in Green (feat. John Coltrane & Bill Evans)",
+      "url": "https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2025-06-20 15:35:40",
       "album": {
-        "name": "The Inflated Tear",
-        "url": "https://open.spotify.com/album/5xduKf7XKIvw4JV3fHcItg"
+        "name": "Get Up With It",
+        "url": "https://open.spotify.com/album/0CFS3jvFwutIt5ewGIa7Sq"
       },
       "artists": [
         {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 298600,
-      "name": "The Inflated Tear - Live Version",
-      "url": "https://open.spotify.com/track/1gtBt4RuqguF7CfIBrDJ5s"
+      "duration_ms": 1933000,
+      "name": "He Loved Him Madly",
+      "url": "https://open.spotify.com/track/4lZpLYUCRXmIiwdtNIbxVq"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2025-06-20 15:35:40",
       "album": {
-        "name": "A Saga da Travessia",
-        "url": "https://open.spotify.com/album/6QHk2m38W1FbKTuEq0h4Fh"
+        "name": "Jazz Profile: Wayne Shorter",
+        "url": "https://open.spotify.com/album/02skoawlF51dDWdTctUZhw"
       },
       "artists": [
         {
-          "name": "Letieres Leite",
-          "url": "https://open.spotify.com/artist/6PfM3hmcsbnVIKi8sW6VuC"
-        },
-        {
-          "name": "Orkestra Rumpilezz",
-          "url": "https://open.spotify.com/artist/0j9HPSnsAl2lZqg66QuYfX"
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
         }
       ],
-      "duration_ms": 589013,
-      "name": "Professor Luminoso",
-      "url": "https://open.spotify.com/track/4eE5150phyZL0zVTjld9Xq"
+      "duration_ms": 490600,
+      "name": "Witch Hunt",
+      "url": "https://open.spotify.com/track/4ISR8jbfn5x4deKzPflL6B"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2025-06-20 15:35:40",
       "album": {
-        "name": "The Dark Tree 1 & 2",
-        "url": "https://open.spotify.com/album/6FHFszJOheVBvux15J1nnB"
+        "name": "Music for Meditation and Relaxation, Vol. 2",
+        "url": "https://open.spotify.com/album/14Rv6hRFbMHosk3ltwi0DD"
       },
       "artists": [
         {
-          "name": "Horace Tapscott",
-          "url": "https://open.spotify.com/artist/0Oe2Yqemm6pHTT7YlToE7u"
-        },
-        {
-          "name": "John Carter",
-          "url": "https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT"
-        },
-        {
-          "name": "Cecil McBee",
-          "url": "https://open.spotify.com/artist/4ubqlM8o4mDUo33CnxRFqM"
-        },
-        {
-          "name": "Andrew Cyrille",
-          "url": "https://open.spotify.com/artist/47hexMV8ZbDWZ9MSwSWD50"
+          "name": "Jason Marsalis",
+          "url": "https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6"
         }
       ],
-      "duration_ms": 1256848,
-      "name": "The Dark Tree",
-      "url": "https://open.spotify.com/track/0cjEuu5EusdLdixWS1rTXb"
+      "duration_ms": 435895,
+      "name": "Daydreaming by the Sea",
+      "url": "https://open.spotify.com/track/7zWOz3N1HoJBdKb1kfCPrc"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2025-06-20 15:35:40",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+        "name": "The Omnichord Real Book",
+        "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "The HawtPlates",
+          "url": "https://open.spotify.com/artist/0u0ab9zlxulr37gZolmOWs"
         }
       ],
-      "duration_ms": 579760,
-      "name": "Actual Proof",
-      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
+      "duration_ms": 324684,
+      "name": "The 5th Dimension (feat. The HawtPlates)",
+      "url": "https://open.spotify.com/track/2mZ54R5qegUMg4hTp0GiI5"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2025-06-20 15:35:40",
       "album": {
-        "name": "Heavy Weather",
-        "url": "https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1"
+        "name": "Clifford Brown And Max Roach",
+        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Daahoud",
+      "url": "https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "...And His Mother Called Him Bill",
+        "url": "https://open.spotify.com/album/39ZPIDYNwj9B5x9eUpE2Ie"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Lotus Blossom",
+      "url": "https://open.spotify.com/track/38HJAmGAl3oJc9umq0awe3"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 378426,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Comfort Woman (U.S. Version)",
+        "url": "https://open.spotify.com/album/0EEXYJTOYUVweuXxm2j7wu"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Come Smoke My Herb",
+      "url": "https://open.spotify.com/track/36l0kcuXVPKwine0EqGE6W"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Unusual Object",
+        "url": "https://open.spotify.com/album/4fRgDwDwRmTwK7s0PhI9DA"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "duration_ms": 85389,
+      "name": "Who Happens If",
+      "url": "https://open.spotify.com/track/6Pzse6lWkAcycBgo9cuDtF"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "The Omnichord Real Book",
+        "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "An Invitation",
+      "url": "https://open.spotify.com/track/7tj7ZNzjiasOcD2jdlb4mm"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Domino Theory",
+        "url": "https://open.spotify.com/album/0tXYdgzPsy67uuS0Ugirb7"
       },
       "artists": [
         {
@@ -568,27 +228,435 @@
           "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
         }
       ],
-      "duration_ms": 410533,
-      "name": "A Remark You Made",
-      "url": "https://open.spotify.com/track/0k4XkPxJMQKQa7Ali1qske"
+      "duration_ms": 242000,
+      "name": "Can It Be Done",
+      "url": "https://open.spotify.com/track/4cgiKFwwjBQat87TjxGRgv"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2025-06-20 15:35:40",
       "album": {
-        "name": "Star Light",
-        "url": "https://open.spotify.com/album/46X9hocYlGTY0jh1kSgOEK"
+        "name": "Sugar (CTI Records 40th Anniversary Edition - Original recording remastered)",
+        "url": "https://open.spotify.com/album/4yXSeJYkh0gCmU9C8ss8NA"
       },
       "artists": [
         {
-          "name": "Rickey C Washington",
-          "url": "https://open.spotify.com/artist/0JWBjcXdhsnQ6v9g5k1T8A"
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
         }
       ],
-      "duration_ms": 347050,
-      "name": "The Time Has Come",
-      "url": "https://open.spotify.com/track/0OtCyk1JYW59CntQ0KfjID"
+      "duration_ms": 603413,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/73UXONNvcyKDlw27FC0E2B"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Invisible Cinema",
+        "url": "https://open.spotify.com/album/3xfueIrMUw57owAiYVKt8S"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 579933,
+      "name": "Peaceful Warrior",
+      "url": "https://open.spotify.com/track/58T0f2PXPkbptGMj4ffpiu"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Comet, Come to Me",
+        "url": "https://open.spotify.com/album/1P1pB5OEU2oEofH2T7wLJ5"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Doyle Bramhall",
+          "url": "https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4"
+        }
+      ],
+      "duration_ms": 172672,
+      "name": "Tom",
+      "url": "https://open.spotify.com/track/2JB7Lvx9i0Hx64klDp9bBW"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Blues Blood",
+        "url": "https://open.spotify.com/album/06soS30HJn1VxcuucuWydD"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "MOTION (feat. June McDoom)",
+      "url": "https://open.spotify.com/track/0mA1YV1e0cNcrX6YOQZ2iV"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Perceive Its Beauty, Acknowledge Its Grace",
+        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        }
+      ],
+      "duration_ms": 448133,
+      "name": "Body To Inhabit (feat. E L U C I D)",
+      "url": "https://open.spotify.com/track/1ZGPcAX9U3VKesItqhxZpe"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "In A World of Mallets",
+        "url": "https://open.spotify.com/album/4PPGEX21SF1MzyPRpuh4mS"
+      },
+      "artists": [
+        {
+          "name": "Jason Marsalis Vibes Quartet",
+          "url": "https://open.spotify.com/artist/5VrPHzOIeluaWDdnlMs8hG"
+        }
+      ],
+      "duration_ms": 104066,
+      "name": "Discipline Discovers a World of Mallets",
+      "url": "https://open.spotify.com/track/6T9pxA3tmL84sGlxuqYbqh"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "The Parable Of The Poet",
+        "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 465306,
+      "name": "PRAYER",
+      "url": "https://open.spotify.com/track/5tCCNYQmWxZtrA51eN7ZOF"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Cirrus",
+        "url": "https://open.spotify.com/album/3An1NTNESBxBoI5baA4N7x"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 460080,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/2wMdJf5DSkL9EHWNGdRhon"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Body And Shadow",
+        "url": "https://open.spotify.com/album/02LCzhJYIuhocX6uCzTPJh"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade & The Fellowship Band",
+          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
+        }
+      ],
+      "duration_ms": 501710,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/27YLzmcjtwz0NJv5pamptZ"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "No More Water: The Gospel Of James Baldwin",
+        "url": "https://open.spotify.com/album/2ba5r7icQRIInoWJYUrsSJ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2BFIPXGjO8v1ng8mRtzoV0"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Ella and Louis",
+        "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Can't We Be Friends?",
+      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Blues Blood",
+        "url": "https://open.spotify.com/album/06soS30HJn1VxcuucuWydD"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 363800,
+      "name": "DARK EYES SMILE (feat. C\u00e9cile McLorin Salvant)",
+      "url": "https://open.spotify.com/track/4YHc1x0vb2TjkH0rsqEJsa"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Double Booked",
+        "url": "https://open.spotify.com/album/4VWTfhCRysym3Ge7fE0i7F"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper Trio",
+          "url": "https://open.spotify.com/artist/1X9fqdEbrb6E8KjqC09GDJ"
+        }
+      ],
+      "duration_ms": 486213,
+      "name": "Yes I'm Country (And That's OK)",
+      "url": "https://open.spotify.com/track/7MtunCDM0OHDNpAIAhzJsQ"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Red Hot & Ra : The Magic City",
+        "url": "https://open.spotify.com/album/0DasJUmo5vuNbhrMWehX5x"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Justin Hicks",
+          "url": "https://open.spotify.com/artist/1Yx5pL1TAa3lysQ8Uw7rQW"
+        },
+        {
+          "name": "Marshall Allen",
+          "url": "https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Stuart Bogie",
+          "url": "https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf"
+        }
+      ],
+      "duration_ms": 330440,
+      "name": "Bedlam Blues",
+      "url": "https://open.spotify.com/track/1NKgMTUyj6RqVrJ5qWIvoH"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Red Hot & Ra : The Magic City",
+        "url": "https://open.spotify.com/album/0DasJUmo5vuNbhrMWehX5x"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Deantoni Parks",
+          "url": "https://open.spotify.com/artist/1RLjVRaoIxtiVZiV6NNIBX"
+        },
+        {
+          "name": "Stuart Bogie",
+          "url": "https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "LQ1TY - 29 Years",
+      "url": "https://open.spotify.com/track/2GNWq8bTsW0C3S3rPwQXYa"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "The Omnichord Real Book",
+        "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 114114,
+      "name": "Call The Tune",
+      "url": "https://open.spotify.com/track/5hSSnysnDye7PcCIZl9Awd"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Schizophrenia",
+        "url": "https://open.spotify.com/album/4Ngkptf4tipkoTOIjoF2kW"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Curtis Fuller",
+          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
+        },
+        {
+          "name": "James Spaulding",
+          "url": "https://open.spotify.com/artist/6F5uZAPmezDckVTqNpmpn2"
+        },
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Joe Chambers",
+          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
+        }
+      ],
+      "duration_ms": 410093,
+      "name": "Schizophrenia",
+      "url": "https://open.spotify.com/track/2XWf0cmzSfHYrD6E2O16YE"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "A Night At Birdland",
+        "url": "https://open.spotify.com/album/6r7judxVxuABrzdTYhNQCr"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey Quintet",
+          "url": "https://open.spotify.com/artist/180iCL28IiUTkC6epvZfYI"
+        }
+      ],
+      "duration_ms": 524106,
+      "name": "Split Kick (Live)",
+      "url": "https://open.spotify.com/track/0cPyXMBxMjponr6t4pWETB"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Indeed!",
+        "url": "https://open.spotify.com/album/5CTJzwjsB4ydtP76LO1DyR"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Gaza Strip - Remastered 2007/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0FsT9ESpVw6ufZ0S5T3GGy"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "The Magic Of Ju-Ju",
+        "url": "https://open.spotify.com/album/6lNAzoeQjlcJduquuA9BNt"
+      },
+      "artists": [
+        {
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+        }
+      ],
+      "duration_ms": 1115306,
+      "name": "The Magic Of Ju-Ju",
+      "url": "https://open.spotify.com/track/3WKutBsj7bDhPIaFVWXpO8"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Fool of Me",
+      "url": "https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3"
+    },
+    {
+      "added_at": "2025-06-20 15:35:40",
+      "album": {
+        "name": "Comet, Come to Me",
+        "url": "https://open.spotify.com/album/1P1pB5OEU2oEofH2T7wLJ5"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 165535,
+      "name": "Shopping for Jazz",
+      "url": "https://open.spotify.com/track/6WZMuaEkTTUMvNj5QyxAA8"
     }
   ],
-  "unique_name": "Kamasi Washington Digs Jazz",
+  "unique_name": "Meshell Ndegeocello Digs Jazz",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTtzPKJEaTC4"
 }

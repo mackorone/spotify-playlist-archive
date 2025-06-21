@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "...The Stories We Could Tell (with Commentary)",
+        "url": "https://open.spotify.com/album/44HotGTgeuj0hQheoFlP7j"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34397,
+      "name": "What If We Were New? - Commentary",
+      "url": "https://open.spotify.com/track/0lCKYje4d2ykxK0SWQKH7f"
+    },
+    {
+      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 232011,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/76DyL56b4yuQy5PwCUYDCS"

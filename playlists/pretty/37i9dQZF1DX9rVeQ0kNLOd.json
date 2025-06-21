@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 27012,
+  "num_followers": 27014,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-06-10 15:00:38",
       "album": {
-        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 254138,
-      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
-    },
-    {
-      "added_at": "2025-06-10 15:00:38",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2025-06-10 15:00:38",
+      "album": {
+        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 254138,
+      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
       "added_at": "2025-06-10 15:00:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-06-10 15:00:38",
       "album": {
-        "name": "HEART (Special Edition)",
-        "url": "https://open.spotify.com/album/4jyUe6Y3P9HrzUq27jP83B"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 183612,
-      "name": "Usual Kiss",
-      "url": "https://open.spotify.com/track/0dazDTi5V3pplttPiEosT9"
-    },
-    {
-      "added_at": "2025-06-10 15:00:38",
-      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 175871,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0"
+    },
+    {
+      "added_at": "2025-06-10 15:00:38",
+      "album": {
+        "name": "HEART (Special Edition)",
+        "url": "https://open.spotify.com/album/4jyUe6Y3P9HrzUq27jP83B"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 183612,
+      "name": "Usual Kiss",
+      "url": "https://open.spotify.com/track/0dazDTi5V3pplttPiEosT9"
     },
     {
       "added_at": "2025-06-10 15:00:38",

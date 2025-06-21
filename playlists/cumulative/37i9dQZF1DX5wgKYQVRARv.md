@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-804 songs - 2 day 21 hr 2 min
+805 songs - 2 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Infinion](https://open.spotify.com/track/2ZPlZDKXW57qLyQoXMEAiT) | [Shylmagoghnar](https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA) | [Convergence](https://open.spotify.com/album/0dXuF6u3SQPBT53qTWbHYl) | 7:01 | 2023-12-06 | 2024-04-19 |
 | [Innocence Was Long Forgotten](https://open.spotify.com/track/38xswHmNWqoAFznp81djgj) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Innocence Was Long Forgotten](https://open.spotify.com/album/59i8Qqzatwq6dKpHDsrjcU) | 4:20 | 2024-07-23 |  |
 | [Innocent](https://open.spotify.com/track/6wviLxwR04XGjTRH8LkJ3R) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Innocent](https://open.spotify.com/album/2bleSQYUwyI2O785GsosnE) | 5:39 | 2021-12-17 | 2022-07-25 |
+| [Into The Ether](https://open.spotify.com/track/2ZErxAtLkav1xSNNIuUJM5) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [Into The Ether](https://open.spotify.com/album/7kTTeCH5BZEh51P3nYF1CP) | 5:18 | 2025-06-20 |  |
 | [Into the Fall](https://open.spotify.com/track/7rWczgig0np2zhmR6CyzMF) | [Ancestors](https://open.spotify.com/artist/4aGLoZx4GdlR6fqtmY7rNV) | [Suspended in Reflections](https://open.spotify.com/album/5gWycJLVfdSFcDYGU5IvP2) | 5:07 | 2021-12-17 | 2022-01-13 |
 | [Into the Light](https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Into the Light](https://open.spotify.com/album/2jnmtzzMUJhgPmcYD62WVV) | 4:55 | 2024-03-29 |  |
 | [Into The Light](https://open.spotify.com/track/2JTdFSYyzyj5ROdcVMvcDD) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Into The Light](https://open.spotify.com/album/0RKHPAUyqVuBWrqTQ2OcwM) | 4:55 | 2024-01-30 | 2024-03-11 |
@@ -536,7 +537,7 @@
 | [Ray of Light](https://open.spotify.com/track/1NQlXj1pg6LiZbOuIbOYLg) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A), [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv) | [Ray of Light](https://open.spotify.com/album/6b4Q0HLy4dZotblQ1lmemW) | 3:31 | 2021-12-17 | 2022-07-28 |
 | [Reaching for the Sky](https://open.spotify.com/track/3qtdGRlnee4fQPXsiFz0Nk) | [Transatlantic](https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC) | [Reaching for the Sky](https://open.spotify.com/album/7MB6phnSBj1c7Bh1CIay2K) | 5:40 | 2021-12-31 | 2022-04-18 |
 | [Reclaim](https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4) | [From Sorrow To Serenity](https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5) | [Reclaim](https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0) | 3:16 | 2022-07-13 | 2024-11-23 |
-| [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 |  |
+| [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 | 2025-06-21 |
 | [Reflection](https://open.spotify.com/track/6suhC134iU9dsegUGIngx6) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Different Kinds of Losses](https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni) | 6:04 | 2022-12-09 | 2025-02-08 |
 | [Reimagined \- Set 1 \- Live From Atlanta](https://open.spotify.com/track/1AozJrg5k08jsn54Watygb) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Retrospective: Live From Atlanta \(Box Set\)](https://open.spotify.com/album/6nSjuxftoDh07XO5uNNpMg) | 4:30 | 2023-12-06 | 2024-04-19 |
 | [Reimagined \- Set 1 \- Live From Atlanta](https://open.spotify.com/track/46m4ysq3XUa8qf9nZO2kmS) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Retrospective: Live From Atlanta \(Box Set\)](https://open.spotify.com/album/3uzkgSIJnLReaw1R3zLXSC) | 4:30 | 2023-12-06 | 2023-12-24 |

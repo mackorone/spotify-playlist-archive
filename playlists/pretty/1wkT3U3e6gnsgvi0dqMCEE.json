@@ -6,8 +6,24 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACx3Mke1kWVyuuCEw2JhRCmoOPOypi",
+  "snapshot_id": "AAACydXKktfULKWFYhFw2CClxwbiwyPM",
   "tracks": [
+    {
+      "added_at": "2025-06-20 13:33:37",
+      "album": {
+        "name": "Rest Easy (In My Love)",
+        "url": "https://open.spotify.com/album/6EAwIklBmHcymXHbRY7org"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Rest Easy (In My Love)",
+      "url": "https://open.spotify.com/track/0zgPMsAPO8JbD5jDQKglXw"
+    },
     {
       "added_at": "2025-06-13 19:52:46",
       "album": {

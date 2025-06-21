@@ -3392,7 +3392,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 194500,
       "name": "Llamadas Extra\u00f1as",
       "url": "https://open.spotify.com/track/6bHoFFcQEzEjhOHZ9Dzfhw"
@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 211213,
       "name": "Llorar\u00e1s M\u00e1s de Diez Veces",
       "url": "https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt"
@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 145204,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd"
@@ -4095,6 +4095,28 @@
     },
     {
       "album": {
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/5yjDJtknHO2VELdHCa4HD6"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159396,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/48vTF7lR3E9iQDAzOPTW1v"
+    },
+    {
+      "album": {
         "name": "Motines del Tigre",
         "url": "https://open.spotify.com/album/0ki41yGycf5fljXPjKT14s"
       },
@@ -4114,6 +4136,24 @@
       "duration_ms": 140810,
       "name": "Motines del Tigre",
       "url": "https://open.spotify.com/track/4cmCLvdwEveJvuqHSJJEMI"
+    },
+    {
+      "album": {
+        "name": "Muchachita",
+        "url": "https://open.spotify.com/album/4t4jtMlrqgxGocIYwgYd0Y"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123500,
+      "name": "Muchachita",
+      "url": "https://open.spotify.com/track/0avQMVdnEr62ASNvUDho0S"
     },
     {
       "album": {
@@ -4712,7 +4752,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 276960,
       "name": "Paisaje",
       "url": "https://open.spotify.com/track/4EDCymZo79P1adudaFnOmj"
@@ -5144,7 +5184,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 165648,
       "name": "Por Dios Que No - En Vivo",
       "url": "https://open.spotify.com/track/3GQtDlWeuibWgxJe0Feuan"
@@ -6708,6 +6748,28 @@
       "duration_ms": 210236,
       "name": "Tu Marca",
       "url": "https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH"
+    },
+    {
+      "album": {
+        "name": "Tu Sacaganas",
+        "url": "https://open.spotify.com/album/7vWrU6A3G7XhVUKEFnspB0"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193083,
+      "name": "Tu Sacaganas",
+      "url": "https://open.spotify.com/track/2E7VxFwGSmvqLfsFoGDSi9"
     },
     {
       "album": {

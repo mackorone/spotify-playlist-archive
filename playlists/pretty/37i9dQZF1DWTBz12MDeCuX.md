@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: OTIS x NØAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,158 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,110 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 100 | [Dieser Sommer](https://open.spotify.com/track/1mNZy3V8CrvH3MolrOuhjA) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Dieser Sommer](https://open.spotify.com/album/3he4eOv3L7dCAF0ree527e) | 2:06 |
 | 101 | [Nachtschicht](https://open.spotify.com/track/3eD2oSWXQJpfvAjhIBzbDa) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [Nachtschicht](https://open.spotify.com/album/1UB7EhQQzPvYQL8jIMbrLg) | 2:14 |
 
-Snapshot ID: `AAAAANJDHnbrY7u9NQoEqmY9Zd9qe+Oc`
+Snapshot ID: `aFSIhwAAAACN/GViplQwjoI8HoQLbbKj`

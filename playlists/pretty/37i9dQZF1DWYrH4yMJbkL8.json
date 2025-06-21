@@ -1,508 +1,420 @@
 {
-  "description": "A free space for Indigenous creators. Currently curated by Shub. ",
-  "num_followers": 59546,
+  "description": "A free space for Indigenous creators. Currently curated by Sister Ray. ",
+  "num_followers": 59551,
   "original_name": "Indigenous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCa4XgAAAAAZqlxm5lFavZ5Ad/6wI35W",
+  "snapshot_id": "aFTc7gAAAAA+xmZM/feTWSq/dNEfhCpS",
   "tracks": [
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "Mino Bimaadiziwin (A Good Way of Life)",
-        "url": "https://open.spotify.com/album/1dGzZnC2qf98ctc78fCOMX"
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/1KBkF61ISnjx8xoTWBQoEf"
       },
       "artists": [
         {
-          "name": "Boogey the Beat",
-          "url": "https://open.spotify.com/artist/0Kc8I2nrf9po7TU4VH3lnK"
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
         }
       ],
-      "duration_ms": 206315,
-      "name": "Mino Bimaadiziwin (A Good Way of Life)",
-      "url": "https://open.spotify.com/track/6GPpr4RjiqJtIym1wx8U0L"
+      "duration_ms": 226972,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2VCRAAwvKoK3ayloj1yNW8"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "CONVOY",
-        "url": "https://open.spotify.com/album/3GfhCqX1y0EdVBaCGdyNXH"
+        "name": "Bekka Ma'iingan",
+        "url": "https://open.spotify.com/album/64yrprE6N9NjkNwLmh7Ilh"
       },
       "artists": [
         {
-          "name": "GDubz (CAN)",
-          "url": "https://open.spotify.com/artist/7e4GnIJkqjJMa701v5bqEi"
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
+        }
+      ],
+      "duration_ms": 261965,
+      "name": "All Around You",
+      "url": "https://open.spotify.com/track/4zNqYtVDeBI4zj8TxBSKsm"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "Empress",
+        "url": "https://open.spotify.com/album/3M0rTVmwqGgFVs2KPU6p0a"
+      },
+      "artists": [
+        {
+          "name": "Cassia Hardy",
+          "url": "https://open.spotify.com/artist/3fFY5AAAmeRY1s7sZZSqgV"
+        }
+      ],
+      "duration_ms": 161106,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/5ukBmvi6MEg8mPsf2dkFHs"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "Dark Legacy III",
+        "url": "https://open.spotify.com/album/5YhPErVUQ3RiyBriYf33jQ"
+      },
+      "artists": [
+        {
+          "name": "Indian Giver",
+          "url": "https://open.spotify.com/artist/4P6gOC9QpCSfZ7lgLqsZfH"
+        }
+      ],
+      "duration_ms": 113214,
+      "name": "Today Is a Good Day",
+      "url": "https://open.spotify.com/track/4fOBeXEJtHm8IFc2aEoR95"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "Time Limits",
+        "url": "https://open.spotify.com/album/2vJsMhdlpOiChctVjEvFIM"
+      },
+      "artists": [
+        {
+          "name": "Ziibiwan",
+          "url": "https://open.spotify.com/artist/1Fk6ySmmjjKIctYB9OX2P2"
+        }
+      ],
+      "duration_ms": 295810,
+      "name": "Manitou",
+      "url": "https://open.spotify.com/track/1OEVyme44uQWHneFBxHrqY"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/1KBkF61ISnjx8xoTWBQoEf"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "duration_ms": 223437,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/1b24mahrKbFmtoLAxmIELe"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "Chandler",
+        "url": "https://open.spotify.com/album/6n4MUgNl5I0ZndmMO3AaZV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+        }
+      ],
+      "duration_ms": 211348,
+      "name": "Bobtail Road",
+      "url": "https://open.spotify.com/track/6Q5bKwwVhuqZxT30pkWjQf"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "Winston and I",
+        "url": "https://open.spotify.com/album/3EQnvxHmj4LpyJVNkPFE9o"
+      },
+      "artists": [
+        {
+          "name": "Brianna Lizotte",
+          "url": "https://open.spotify.com/artist/3iM7lgMJ6zvTZko7DvNbun"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "For Leon and Phoebe",
+      "url": "https://open.spotify.com/track/1hgK0DzOAkEjVjpk60rucG"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "Spirit Child",
+        "url": "https://open.spotify.com/album/7Bds13HXMHFcAXyHVQvsMH"
+      },
+      "artists": [
+        {
+          "name": "Willie Thrasher",
+          "url": "https://open.spotify.com/artist/1tQFd76V3HmxyEWwv8JN5k"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5zv2mqpCqY3II1EFoSJ6Eb"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/0qTgjB2tNg37YuKErwsS2o"
+      },
+      "artists": [
+        {
+          "name": "Richard Inman",
+          "url": "https://open.spotify.com/artist/0eha96FtThymbm5svvfopg"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4qWcVb5uRwCPMYU8G2Cwtj"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "C\u00eepayak Joy",
+        "url": "https://open.spotify.com/album/4d3FTWhuRnLVDpKHDziJcz"
+      },
+      "artists": [
+        {
+          "name": "Ghostkeeper",
+          "url": "https://open.spotify.com/artist/3aNeKUntysMTujH191jiGX"
+        }
+      ],
+      "duration_ms": 241321,
+      "name": "Sleep Dream",
+      "url": "https://open.spotify.com/track/5umJjmtOBixKtdl9hmVzLp"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/3np0vPfAslCNcAhV4SjrDk"
+      },
+      "artists": [
+        {
+          "name": "Evan Redsky",
+          "url": "https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Florabelle",
+      "url": "https://open.spotify.com/track/3QmC4piU7EFAYrcKrlqtjh"
+    },
+    {
+      "added_at": "2025-06-20 04:00:46",
+      "album": {
+        "name": "N\u00eekan",
+        "url": "https://open.spotify.com/album/6DPF7JA16Bg02eL3Yko2yD"
+      },
+      "artists": [
+        {
+          "name": "Joel Wood",
+          "url": "https://open.spotify.com/artist/2LCxG1teJ4wVU5lQazmadd"
         },
         {
-          "name": "Tripzy Leary",
-          "url": "https://open.spotify.com/artist/0lmP3WmCVHEjRvoE9GyYAX"
+          "name": "Tonia Jo Hall",
+          "url": "https://open.spotify.com/artist/1c7mdxgZKHwETq1HepA9rl"
         }
       ],
-      "duration_ms": 202388,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/5Dsyj3yTusq8JvR3nP93lq"
+      "duration_ms": 251000,
+      "name": "Sisikwan Iskwew",
+      "url": "https://open.spotify.com/track/5wYaYEMxRmymDISNFDEAVP"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/5cM5G3KGa7pDt6s7uXUJSn"
+        "name": "The Ballad of the Runaway Girl",
+        "url": "https://open.spotify.com/album/4RzQdR4i7HsNmi6EFrJdV1"
       },
       "artists": [
         {
-          "name": "Wolf Castle",
-          "url": "https://open.spotify.com/artist/4a0kFZeBNUTvD2iN55HBwq"
-        }
-      ],
-      "duration_ms": 167725,
-      "name": "Woop!",
-      "url": "https://open.spotify.com/track/6JHNJY9d8D9hUlOCWfZZMw"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "Echos of the Drum",
-        "url": "https://open.spotify.com/album/11RWZvIinHNI6CxoN95MbL"
-      },
-      "artists": [
-        {
-          "name": "Classic Roots",
-          "url": "https://open.spotify.com/artist/4YQjNhLunv796aZqzTGCaY"
-        }
-      ],
-      "duration_ms": 478208,
-      "name": "Echos of the Drum",
-      "url": "https://open.spotify.com/track/1W3qqvRkn7cXal0GkoXoVZ"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "H\u00f3zh\u00f3",
-        "url": "https://open.spotify.com/album/5YzDlp6f4kBz1LEF3WDvTe"
-      },
-      "artists": [
-        {
-          "name": "Neon Nativez",
-          "url": "https://open.spotify.com/artist/0XO3TAJW7HsdayTYqhYN9X"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         },
         {
-          "name": "Alex Rose Holiday",
-          "url": "https://open.spotify.com/artist/01LUSyrrBgrSuyu6SEO1Xy"
+          "name": "Joe Grass",
+          "url": "https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv"
         }
       ],
-      "duration_ms": 311771,
-      "name": "Solstice",
-      "url": "https://open.spotify.com/track/5vBQVrXnfkp7czAj3Y2pnI"
+      "duration_ms": 158117,
+      "name": "Wolves Don\u2019t Live by the Rules",
+      "url": "https://open.spotify.com/track/4PANWwnFZTWjpfkOCSDPBt"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "Tattoo Muzik 4",
-        "url": "https://open.spotify.com/album/2hlj8K0RGY3yImK3OjJhi2"
+        "name": "Modern Waste",
+        "url": "https://open.spotify.com/album/6rmNz2v1woa9M5NvktjO07"
       },
       "artists": [
         {
-          "name": "Sten Joddi",
-          "url": "https://open.spotify.com/artist/55U1IXgTHcRNpl1tRRrV3d"
+          "name": "CHAIN",
+          "url": "https://open.spotify.com/artist/2ycGGFujBRMNUIOPsZpuJa"
         }
       ],
-      "duration_ms": 168179,
-      "name": "Greasy FryBread",
-      "url": "https://open.spotify.com/track/4yAYsIAHfMWwnMmnOhU9Xz"
+      "duration_ms": 192896,
+      "name": "Modern Waste",
+      "url": "https://open.spotify.com/track/0YebpZ9yUhqz1n2mOpZC8L"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "Thunderbird",
-        "url": "https://open.spotify.com/album/404e7x6YmiTvr8fWZCLbII"
+        "name": "YOY",
+        "url": "https://open.spotify.com/album/2HVlK1DJeSbvU6z4hTf2x4"
       },
       "artists": [
         {
-          "name": "Leonard Sumner",
-          "url": "https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5"
+          "name": "Siibii",
+          "url": "https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi"
         }
       ],
-      "duration_ms": 208699,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/4zeDqxmK6x1ZGqQZGz1jOr"
+      "duration_ms": 166226,
+      "name": "YOY",
+      "url": "https://open.spotify.com/track/5YV4MInWZIzAEO9X1btIuN"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "LOVECHILD",
-        "url": "https://open.spotify.com/album/1IjwNTRNehIQO82BY37uZg"
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/1KBkF61ISnjx8xoTWBQoEf"
       },
       "artists": [
         {
-          "name": "Sebastian Gaskin",
-          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
         }
       ],
-      "duration_ms": 240713,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/61pkf1uAAXP8WmJYEUCKjp"
+      "duration_ms": 172152,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/5FXZUZe0aA3GVS2F1dmrUv"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "Water & Fire",
-        "url": "https://open.spotify.com/album/1v9l870RkJzFEeO5TMLi8W"
+        "name": "nipiy",
+        "url": "https://open.spotify.com/album/3Jco6in23tJMrvZFLtLqyT"
       },
       "artists": [
         {
-          "name": "City Natives",
-          "url": "https://open.spotify.com/artist/7GWd504iMjuUD15xvZEHvQ"
+          "name": "n\u00eahiyawak",
+          "url": "https://open.spotify.com/artist/1ABpOPFTkd957JpeQUN3U4"
         }
       ],
-      "duration_ms": 225044,
-      "name": "Rez Thang",
-      "url": "https://open.spotify.com/track/5zbl0ucTPjU8YPHVCuoCYI"
+      "duration_ms": 196760,
+      "name": "somnambulist",
+      "url": "https://open.spotify.com/track/4qZKt7X9tbe90PqSQQLTmb"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "RED FUTURE",
-        "url": "https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a"
+        "name": "Animism",
+        "url": "https://open.spotify.com/album/68Lm6RKQW5GKrzFMhaIhG4"
       },
       "artists": [
         {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
-        },
-        {
-          "name": "Drezus",
-          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
         }
       ],
-      "duration_ms": 241363,
-      "name": "LET YA HAIR DOWN (feat. Drezus)",
-      "url": "https://open.spotify.com/track/1FnuxeLNZ886FhaF42Qm0q"
+      "duration_ms": 169280,
+      "name": "Uja",
+      "url": "https://open.spotify.com/track/7G0bCNHvrRH9myw1yxdfDw"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "A Light in the Attic",
-        "url": "https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6"
+        "name": "Motewolonuwok",
+        "url": "https://open.spotify.com/album/0GSKrVvb8FZlMfsBpTLFjL"
       },
       "artists": [
         {
-          "name": "Logan Staats",
-          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
         }
       ],
-      "duration_ms": 224584,
-      "name": "Deadman",
-      "url": "https://open.spotify.com/track/30fLbJvDKHjP079STO4VZK"
+      "duration_ms": 222215,
+      "name": "Pomawsuwinuwok Wonakiyawolotuwok",
+      "url": "https://open.spotify.com/track/7vjh9C0Dd2E9gm58AzWBy0"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "It's Begun",
-        "url": "https://open.spotify.com/album/1jLBG2Tc4AAR86zgx2AFwh"
+        "name": "Sewn Back Together",
+        "url": "https://open.spotify.com/album/08YlFLF1PnZw9k7l2nU5Zs"
       },
       "artists": [
         {
-          "name": "Trurez Crew",
-          "url": "https://open.spotify.com/artist/5VzDJZutOp6wz9JnTtepl3"
-        },
-        {
-          "name": "Sakkred Blood",
-          "url": "https://open.spotify.com/artist/2vsXbazbd6UHNZ8c5LASJQ"
+          "name": "OMBIIGIZI",
+          "url": "https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG"
         }
       ],
-      "duration_ms": 257626,
-      "name": "We're Tha Originalz",
-      "url": "https://open.spotify.com/track/30T5BheGnP40hqSWnoktzv"
+      "duration_ms": 181959,
+      "name": "Cherry Coke",
+      "url": "https://open.spotify.com/track/0IJrtDPknuRyaiEhF6xDlC"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "Penimitawe Ota",
-        "url": "https://open.spotify.com/album/086EnbvULCJAEmZ4YQghWA"
+        "name": "Surely Travel",
+        "url": "https://open.spotify.com/album/7MXMjkvH9vPFBStl97xkBt"
       },
       "artists": [
         {
-          "name": "The Resilience",
-          "url": "https://open.spotify.com/artist/7I7yu4Dlg4XTxwDHORmjGs"
+          "name": "Status/Non-Status",
+          "url": "https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK"
         }
       ],
-      "duration_ms": 149387,
-      "name": "Penimitawe Ota",
-      "url": "https://open.spotify.com/track/2QNYy4o5DGjCSZDNT5vfsQ"
+      "duration_ms": 237640,
+      "name": "Mainly Crows",
+      "url": "https://open.spotify.com/track/3ZpMk5t5dianB0Ehf3WBsc"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "PO$T AMERICAN",
-        "url": "https://open.spotify.com/album/2gcUPDHYzGcIEKjYHQW8sk"
+        "name": "Bite Down",
+        "url": "https://open.spotify.com/album/2eFz77f8mY5Spt3cCH6ZNN"
       },
       "artists": [
         {
-          "name": "Dead Pioneers",
-          "url": "https://open.spotify.com/artist/3t0cq15eUtB2wvb1wJARsv"
+          "name": "Ribbon Skirt",
+          "url": "https://open.spotify.com/artist/4Ymrgi3r6TZQwmBSp3jBca"
         }
       ],
-      "duration_ms": 162121,
-      "name": "My Spirit Animal Ate Your Spirit Animal",
-      "url": "https://open.spotify.com/track/1SXXrIUa7FuJJN3P7pOVqR"
+      "duration_ms": 212880,
+      "name": "Wrong Planet",
+      "url": "https://open.spotify.com/track/2zSvNyq5LUgOKHjDlXcH6V"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "Here and Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5U1SO7vSCl10H2zH7kDe0o"
+        "name": "Asterisms",
+        "url": "https://open.spotify.com/album/61EevZB9kkovbe5EqXm7Nk"
       },
       "artists": [
         {
-          "name": "Aysanabee",
-          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+          "name": "Matthew Cardinal",
+          "url": "https://open.spotify.com/artist/2sQcQc1C5ns0yPsDHGo2Sp"
         }
       ],
-      "duration_ms": 173808,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/6Gz3b510KWltPbVn6On7DI"
+      "duration_ms": 268125,
+      "name": "May 24th",
+      "url": "https://open.spotify.com/track/0KPV68dqzfIxvfj1mS9xzU"
     },
     {
-      "added_at": "2025-05-16 04:00:30",
+      "added_at": "2025-06-20 04:00:46",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/5KywtzdDkXG08mN21Fq6iC"
+        "name": "M\u00e9tis Fiddling for Dancing",
+        "url": "https://open.spotify.com/album/5DvIAqXsIa8HK2E8hxoqIz"
       },
       "artists": [
         {
-          "name": "TheRa11n",
-          "url": "https://open.spotify.com/artist/4RDMINCXGiYXCVGJDv0wTZ"
+          "name": "M\u00e9tis Fiddling for Dancing",
+          "url": "https://open.spotify.com/artist/10kRmecRvzjWfmiIfv02il"
         }
       ],
-      "duration_ms": 131976,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/0vHR1t6b5OCofUnvE1cqvA"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "Dreamweaver",
-        "url": "https://open.spotify.com/album/39gvn7LqSbcAVjl3nbvVWZ"
-      },
-      "artists": [
-        {
-          "name": "Anachnid",
-          "url": "https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO"
-        }
-      ],
-      "duration_ms": 180074,
-      "name": "Windigo",
-      "url": "https://open.spotify.com/track/4mKj2fDfP39TaXBktqH3Or"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "Land Protectors",
-        "url": "https://open.spotify.com/album/5iP9kgUrNypEoeKfdeC5Or"
-      },
-      "artists": [
-        {
-          "name": "Skoden",
-          "url": "https://open.spotify.com/artist/1Fwdtw1w867gSixxAAXm7b"
-        },
-        {
-          "name": "PhatCap!",
-          "url": "https://open.spotify.com/artist/1HISum1D6BwPt3SMXbZMLs"
-        }
-      ],
-      "duration_ms": 164637,
-      "name": "Land Protectors",
-      "url": "https://open.spotify.com/track/4LuNMSKRH09M0ltMATvIYI"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "Rock Your World (Handsome Tiger Remix)",
-        "url": "https://open.spotify.com/album/4nAFGZvuTwVMmkYolNffcY"
-      },
-      "artists": [
-        {
-          "name": "Chubby Cree",
-          "url": "https://open.spotify.com/artist/5ZpbycjHo6oFH1UmUBxMnh"
-        },
-        {
-          "name": "Handsome Tiger",
-          "url": "https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Rock Your World - Handsome Tiger Remix",
-      "url": "https://open.spotify.com/track/3vMZvXjkzFvjnS7pj1efgF"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "Shadowbox",
-        "url": "https://open.spotify.com/album/0U1evnGrQh3AzFyNepQwKc"
-      },
-      "artists": [
-        {
-          "name": "Beats Antique",
-          "url": "https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm"
-        },
-        {
-          "name": "Tatyana Kalmykova",
-          "url": "https://open.spotify.com/artist/2yRDg9eD2z1c62WQW1oz6D"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Three Sisters",
-      "url": "https://open.spotify.com/track/1aG6z2rVKmLrgqoXcxzxFS"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "Heritage (Part One)",
-        "url": "https://open.spotify.com/album/3hvBFHhPPdRPKcEJauYQdx"
-      },
-      "artists": [
-        {
-          "name": "Shub",
-          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
-        },
-        {
-          "name": "Tia Wood",
-          "url": "https://open.spotify.com/artist/4JR1NSxLF5bSQ68VGjIv9k"
-        }
-      ],
-      "duration_ms": 270927,
-      "name": "Victorious (feat. Tia Wood)",
-      "url": "https://open.spotify.com/track/4xv1i5AOp2BTHmyGjHC4fi"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "Heritage (Part One)",
-        "url": "https://open.spotify.com/album/3hvBFHhPPdRPKcEJauYQdx"
-      },
-      "artists": [
-        {
-          "name": "Shub",
-          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
-        },
-        {
-          "name": "JRDN",
-          "url": "https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Part Of Me (feat. JRDN)",
-      "url": "https://open.spotify.com/track/0BIsZagCCvfUYPx4oUDSPF"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "Heritage (Part One)",
-        "url": "https://open.spotify.com/album/3hvBFHhPPdRPKcEJauYQdx"
-      },
-      "artists": [
-        {
-          "name": "Shub",
-          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
-        },
-        {
-          "name": "Badlook",
-          "url": "https://open.spotify.com/artist/0X1pUgwNe1hDigWHccoRvo"
-        }
-      ],
-      "duration_ms": 229645,
-      "name": "Long Way Down (feat. Badlook)",
-      "url": "https://open.spotify.com/track/5Ghkt4G1RbXYoTI0enom1Y"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "BACK FROM THE DEAD",
-        "url": "https://open.spotify.com/album/4wyicwK44c0YwC1PkV7Il3"
-      },
-      "artists": [
-        {
-          "name": "MAKADE",
-          "url": "https://open.spotify.com/artist/5Jbq6H59iN88hb5YmHwodS"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "BACK FROM THE DEAD",
-      "url": "https://open.spotify.com/track/6PGK9mcGCWiFudZqGhkfPp"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "The Deadleez",
-        "url": "https://open.spotify.com/album/4DsL01rmcJStmt2QewNrnl"
-      },
-      "artists": [
-        {
-          "name": "Shub",
-          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
-        },
-        {
-          "name": "Boog\u00e1t",
-          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "Let's Get It (feat. Boog\u00e1t)",
-      "url": "https://open.spotify.com/track/3bN1e331Tw9AayyhKLLhGj"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "In the Way",
-        "url": "https://open.spotify.com/album/0IkBn9UUO9n49DODTUDg6q"
-      },
-      "artists": [
-        {
-          "name": "Travis Thompson",
-          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "In the Way",
-      "url": "https://open.spotify.com/track/2IZzZYcpuQtORIK4mZWXyg"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "Rock The Boat",
-        "url": "https://open.spotify.com/album/7yRUuQmhK9JTmwPS2eTZZo"
-      },
-      "artists": [
-        {
-          "name": "Stella Standingbear",
-          "url": "https://open.spotify.com/artist/5AyaQq63U3Zym36xcT7120"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Rock The Boat",
-      "url": "https://open.spotify.com/track/6HQ3ntsL6fpe3s4WLeW17i"
-    },
-    {
-      "added_at": "2025-05-16 04:00:30",
-      "album": {
-        "name": "where do we go?",
-        "url": "https://open.spotify.com/album/1ZU9PwAu241pxnKihotrLv"
-      },
-      "artists": [
-        {
-          "name": "Natasha Fisher",
-          "url": "https://open.spotify.com/artist/644igyu4xfNmbD8r0SJmGJ"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "where do we go?",
-      "url": "https://open.spotify.com/track/6UoZFinSpXFeZu1dgJMRLX"
+      "duration_ms": 170640,
+      "name": "Whiskey Before Breakfast, Big John McNeil (Alex Kusturok)",
+      "url": "https://open.spotify.com/track/5WY5SFU22maREtNYoi0Ga0"
     }
   ],
   "unique_name": "Indigenous",

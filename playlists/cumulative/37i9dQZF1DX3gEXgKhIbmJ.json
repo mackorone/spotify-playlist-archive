@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "100K",
+        "url": "https://open.spotify.com/album/0ClKIOKox7o6tgqzAbZBwp"
+      },
+      "artists": [
+        {
+          "name": "jonV",
+          "url": "https://open.spotify.com/artist/5AQibAVLyEju1MqDIeVd6E"
+        },
+        {
+          "name": "luqeta",
+          "url": "https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ"
+        },
+        {
+          "name": "prodbasti",
+          "url": "https://open.spotify.com/artist/5QTPbRSGSNYeda25Vcqafa"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/5PLIJvayRm0R4N6Hbczfas"
+    },
+    {
+      "album": {
         "name": "12Mola",
         "url": "https://open.spotify.com/album/0cREHZhIYWPFHg6yQlMcMP"
       },
@@ -2340,6 +2366,24 @@
       "duration_ms": 183594,
       "name": "Frango \u00e9 Frango! Travesti \u00e9 Travesti!",
       "url": "https://open.spotify.com/track/6I1rsNRIdyuqVq4JirGDyp"
+    },
+    {
+      "album": {
+        "name": "Fui na Favela",
+        "url": "https://open.spotify.com/album/22eqMNkJMlrDnMygrMdHqZ"
+      },
+      "artists": [
+        {
+          "name": "MC Gustavinho",
+          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Fui na Favela",
+      "url": "https://open.spotify.com/track/59RtHm2pgKmQPueDh5l5Fq"
     },
     {
       "album": {
@@ -4710,6 +4754,36 @@
       "duration_ms": 156812,
       "name": "PUFFER",
       "url": "https://open.spotify.com/track/7KhdkN22ZBdIPcjqad9jnz"
+    },
+    {
+      "album": {
+        "name": "Quando a Noite Cai",
+        "url": "https://open.spotify.com/album/2ba7d830GgJKuwRbHcWFO4"
+      },
+      "artists": [
+        {
+          "name": "Dochama",
+          "url": "https://open.spotify.com/artist/4nU5vkjznD2C4rwyElrPvv"
+        },
+        {
+          "name": "Colli",
+          "url": "https://open.spotify.com/artist/1pvieTyV0mvUsgs8jZfqwN"
+        },
+        {
+          "name": "Faro G",
+          "url": "https://open.spotify.com/artist/4seDADXKokUxbtWnCczwcK"
+        },
+        {
+          "name": "prodcerqueira",
+          "url": "https://open.spotify.com/artist/0mOhVQ5TtY2dmbjo354qBk"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Quando a Noite Cai",
+      "url": "https://open.spotify.com/track/0jrHQSbJANZpd3AzCBO79L"
     },
     {
       "album": {

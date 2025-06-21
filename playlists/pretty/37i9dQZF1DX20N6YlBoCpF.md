@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Chris Steyn, Bella, Werner Van Der Hoven, Bok Van Blerk, Ricus Nel, Refentse en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,922 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,093 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

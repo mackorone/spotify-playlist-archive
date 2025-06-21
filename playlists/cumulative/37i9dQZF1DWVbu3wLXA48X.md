@@ -2,9 +2,9 @@
 
 ### [Indie Shuffle](https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X)
 
-> Current indie tunes from Asia and around the world\. Cover: Japanese Breakfast
+> Current indie tunes from Asia and around the world\. Cover: Se So Neon
 
-2,256 songs - 5 day 15 hr 32 min
+2,260 songs - 5 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 | 2023-09-22 | 2024-01-17 |
 | [All Night](https://open.spotify.com/track/4AW0BzuXMC1SL1mFwOHKat) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [All Night / There Was A Time](https://open.spotify.com/album/6S1YZ4eSwNc1CUbaOvlzIf) | 2:57 | 2024-07-19 | 2024-09-14 |
 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 | 2024-09-13 | 2024-10-05 |
+| [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 |  |
 | [All Star Breakfast \(feat\. Field Medic\)](https://open.spotify.com/track/7oupu5OOCa2YUSSyPfo9Iw) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [All Star Breakfast \(feat\. Field Medic\)](https://open.spotify.com/album/0PTSGLXARMVnr0YIGjxYyH) | 3:08 | 2024-11-22 | 2025-02-07 |
 | [All That School For Nothing](https://open.spotify.com/track/6ckOC3ymTQEZbXRUyUyM7L) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [All That School For Nothing](https://open.spotify.com/album/2LeTmrHscWxX2dt8CI1zVL) | 5:20 | 2024-05-17 | 2024-07-05 |
 | [all the time](https://open.spotify.com/track/6Nu5cxzpasHJnmurZX7kjC) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [all the time](https://open.spotify.com/album/6nGFbbawsrjZLzo1w6wJxN) | 3:57 | 2024-09-13 | 2024-10-05 |
@@ -816,6 +817,7 @@
 | [Gumshoe \(Dracula From Arkansas\)](https://open.spotify.com/track/4AeR8QPRYY15NDvSGJLUZi) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Gumshoe \(Dracula From Arkansas\)](https://open.spotify.com/album/1khJIMCfPXkYqb3yUmtg4s) | 4:06 | 2025-02-21 | 2025-04-18 |
 | [Hadsel](https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Hadsel](https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA) | 4:54 | 2023-11-13 | 2024-02-23 |
 | [Half A Lifetime](https://open.spotify.com/track/0QB5eVi93kcyM7fj4y9PH5) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Half A Lifetime](https://open.spotify.com/album/2w2jWl13EhflQmdbm7uEHF) | 3:20 | 2025-03-21 | 2025-04-18 |
+| [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 | 2025-06-20 |  |
 | [Hang Around](https://open.spotify.com/track/7daRchta9Ken9nB9WcLt2s) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Hang Around](https://open.spotify.com/album/0MvIJlGFttUP85ySMqpJbq) | 3:02 | 2022-06-24 | 2022-07-23 |
 | [Hang In There](https://open.spotify.com/track/6AVxU4b0LAUVG1jkc6HFaN) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Hang In There](https://open.spotify.com/album/3Yv6aDkU6nqTl9nUNc5UDX) | 3:57 | 2024-04-28 | 2024-05-24 |
 | [Hanging By A Moment](https://open.spotify.com/track/7gwMABXj9PBmNyVIAFQZsY) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Hanging By A Moment](https://open.spotify.com/album/2zXWTmzp8t0y8Fhz00WWvj) | 3:38 | 2024-04-19 | 2024-05-24 |
@@ -1574,6 +1576,7 @@
 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 | 2025-05-15 | 2025-06-06 |
 | [Red Wine](https://open.spotify.com/track/5C0EJsIQXMQt97tTs3ZVh6) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Red Wine](https://open.spotify.com/album/7EyqNdG1L28OzpwISAfef5) | 3:41 | 2022-02-10 | 2022-04-01 |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-13 | 2025-06-14 |
+| [Remember! \(English Version\)](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 | 2025-06-20 |  |
 | [Residue](https://open.spotify.com/track/3FqdsybsFLPLP9z6cvgRNl) | [Midnight Fusic](https://open.spotify.com/artist/3qzktAIByIWbxVB5XjxpqL) | [Residue](https://open.spotify.com/album/25erL3lsyVhn3UhkzNs0YN) | 5:13 | 2025-02-21 | 2025-04-12 |
 | [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 | 2023-05-26 | 2023-07-07 |
 | [Retro Petrol](https://open.spotify.com/track/59oQuPQ71B9TcwbO6kJOUv) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Retro Petrol](https://open.spotify.com/album/55xrlm8rZBYBJ3KoSYOCzT) | 3:20 | 2024-10-04 | 2025-01-25 |
@@ -1698,6 +1701,7 @@
 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-10-06 | 2024-01-17 |
 | [Simulation Swarm](https://open.spotify.com/track/0kVBi81VO9ewtpOlSvRLOV) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Simulation Swarm](https://open.spotify.com/album/7sI35CBhFIbUwNYeiKxcO2) | 4:12 | 2022-01-20 | 2022-03-11 |
 | [Sin](https://open.spotify.com/track/5k59VaLMbV9UsrEPasU5me) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Sin](https://open.spotify.com/album/2x9OXzRHaYZ3tmTLVaXSLF) | 6:49 | 2025-06-13 |  |
+| [Sink](https://open.spotify.com/track/2YgkzkCXMHLUAlCyomymc7) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Sink](https://open.spotify.com/album/2n8eGRpSFWWRml7x0g7j2m) | 4:00 | 2025-06-20 |  |
 | [Sins](https://open.spotify.com/track/3vjnUr46dGHzinr7hgdIed) | [The Finest Tree](https://open.spotify.com/artist/2ulBHCwCzh9OYkEfDICUyo) | [Sins](https://open.spotify.com/album/4WE3nVzgNZHInTKYO8TyUv) | 4:56 | 2022-01-28 | 2022-02-18 |
 | [Sirens](https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Sirens](https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D) | 4:28 | 2023-08-01 | 2023-09-23 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ) | 3:58 | 2022-04-01 | 2022-04-15 |

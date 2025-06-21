@@ -4,7 +4,7 @@
 
 > this and golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-90 songs - 4 hr 54 min
+95 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [amber](https://open.spotify.com/track/600oQJ0EL0L1WoxQQ8Mq8s) | [STELLA.](https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [amber](https://open.spotify.com/album/0k3nJYuhQ0qQAfPpgv2dyN) | 3:08 | 2025-04-28 |  |
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-04-28 |  |
 | [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-04-28 |  |
+| [Beach Jazz](https://open.spotify.com/track/3PbtKwVUqIZPvbQZarAC0w) | [Tom Jarmey](https://open.spotify.com/artist/005aNwS2ayjqoZxwakSyt4), [MarBlu](https://open.spotify.com/artist/65nACqz1rZqZ56YHg6XFZ9) | [Beach Jazz](https://open.spotify.com/album/1RbvwcgCLiKlsYtEJO5r2g) | 5:20 | 2025-06-20 |  |
 | [Beauty In Imperfection](https://open.spotify.com/track/3n3QkTkGqcVM0qHCNFKUAw) | [gabriel](https://open.spotify.com/artist/0Hm7cDeuRoPAqqRfnHYpu2), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Beauty In Imperfection](https://open.spotify.com/album/2nwe25XVtwpynPEj6hRKim) | 2:23 | 2025-04-28 |  |
 | [Bellini](https://open.spotify.com/track/61KnzdL9uPVpaXB5oBLGYE) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Bellini / Macua](https://open.spotify.com/album/0xe6EIYh6ZuU2XOT7KD22j) | 4:37 | 2025-04-28 |  |
 | [Blue Velocity](https://open.spotify.com/track/7xOgWonAlkYsvDJ9AnSQ3T) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf) | [Blue Velocity](https://open.spotify.com/album/73TZklRtwcc2Y4W4oQbhHC) | 2:14 | 2025-04-28 |  |
@@ -30,8 +31,10 @@
 | [CPH](https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [CPH](https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T) | 2:05 | 2025-04-28 |  |
 | [Detour](https://open.spotify.com/track/3by9FL229vI2ofAhvlsh8w) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Detour](https://open.spotify.com/album/6wgHlnjiA6cJ1E4ifmewgC) | 3:56 | 2025-04-28 |  |
 | [Don't Worry](https://open.spotify.com/track/2xiGIym6L3C987k7wIP1nU) | [Jajoi](https://open.spotify.com/artist/0Z6mxb1MO8OcangtXO3RSh) | [Don't Worry](https://open.spotify.com/album/7KFG2x2Ts82qohnEncS6Y8) | 2:15 | 2025-04-28 |  |
+| [Drifting On](https://open.spotify.com/track/0OCT3zd8kEYOUU1gjRBVo2) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Doble Espresso](https://open.spotify.com/album/2Ub48SgCtdDBsf1ZatJpXY) | 6:41 | 2025-06-20 |  |
 | [Easy](https://open.spotify.com/track/0HCiOcjtEYQPCd9iMxgkzb) | [Jajoi](https://open.spotify.com/artist/0Z6mxb1MO8OcangtXO3RSh) | [Easy](https://open.spotify.com/album/7dDbUVvG3U0HnOOBNf8pcl) | 1:57 | 2025-05-15 |  |
 | [Elegant Ways \- Edit](https://open.spotify.com/track/3CjPc376uBgtzW0GT7dcIt) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Elegant Ways \- Edit](https://open.spotify.com/album/3illteh3qcoK3L5kCCG29h) | 2:33 | 2025-04-28 |  |
+| [Emotional Bliss](https://open.spotify.com/track/1ENiBKN4IA9gNgv0bW2cVK) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh) | [Emotional Bliss](https://open.spotify.com/album/5zDEYsdtoOjL2ilppCg0Jr) | 3:48 | 2025-06-20 |  |
 | [En Marbella](https://open.spotify.com/track/6D0j9ktiBZfkxdvJnz6pEV) | [Rayo del Sol](https://open.spotify.com/artist/5tiQHiU8wfer1sBZAR0sPe) | [En Marbella](https://open.spotify.com/album/2eeVD2oRJ8MMRD0DgMtc4W) | 1:58 | 2025-05-15 |  |
 | [Far Away](https://open.spotify.com/track/1cFU29X7CFSlTIhLZPkfX4) | [Mygg An](https://open.spotify.com/artist/1YaivDyy6lgWBZF6fQfuRz) | [Far Away](https://open.spotify.com/album/0HTTsQqgYoI2B4i9XqKKpO) | 2:04 | 2025-04-28 |  |
 | [Fascination](https://open.spotify.com/track/47WewSqip6G4BSSi8V8O8N) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr) | [Fascination](https://open.spotify.com/album/5v5R3JtW0bvAqJWAcJRpnR) | 2:39 | 2025-04-28 |  |
@@ -50,8 +53,10 @@
 | [Jam 1](https://open.spotify.com/track/1z1aMsw1uBpAqTzAsqVOp3) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Jam 1](https://open.spotify.com/album/6pgzD3xbdM1hG8vZSEqMvi) | 4:54 | 2025-04-28 |  |
 | [joycelyn's dance](https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:18 | 2025-04-28 |  |
 | [Keep Movin](https://open.spotify.com/track/7cQZ4iXYbeMhlLFX26MTDc) | [Sun Fighters](https://open.spotify.com/artist/3MI5lIsreyUVcmNEFMd32S) | [Keep Movin](https://open.spotify.com/album/6CAXs9Jhk790hLVNYaJgg5) | 2:11 | 2025-05-30 |  |
+| [L'amour](https://open.spotify.com/track/4xtzWiQjZDRsw6yhhk2Nry) | [Cartizze](https://open.spotify.com/artist/4pqFKYdHL4v9PiG6gnL54n) | [L'amour](https://open.spotify.com/album/5NsibKuMUwuYKBcJ1Z2Gwi) | 2:16 | 2025-06-20 |  |
 | [Leftside](https://open.spotify.com/track/5vjlMzjjYZS9WyAPUjkDFj) | [Jordan Moon](https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1) | [Leftside](https://open.spotify.com/album/3LvDHJRgfFbnKz7BylMp6D) | 2:41 | 2025-04-28 |  |
 | [Let it go](https://open.spotify.com/track/6n98ksIuCy2xLFjIZwICSw) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Let it go](https://open.spotify.com/album/2WTIBzTeNC85d6sxOyQEW2) | 2:21 | 2025-04-28 |  |
+| [Listen to the Barman](https://open.spotify.com/track/6EVtr6emiHxxQ8zbgGmGT9) | [Nebulae Waves](https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2), [Moryla](https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0) | [Listen to the Barman](https://open.spotify.com/album/3KKFgf4P1GcxU8MbGYAabz) | 2:00 | 2025-06-20 |  |
 | [Loop No 1](https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Minor Thought](https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA) | 6:12 | 2025-04-28 |  |
 | [Macua](https://open.spotify.com/track/7fEQnBW0z7XFpIIebOPXV4) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Bellini / Macua](https://open.spotify.com/album/0xe6EIYh6ZuU2XOT7KD22j) | 5:07 | 2025-04-28 |  |
 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 | 2025-05-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,823 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,839 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 8 | [DUMB SHIT](https://open.spotify.com/track/04vrwY17rgvbUP8Mtfj1Ea) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [DUMB SHIT](https://open.spotify.com/album/2dL1auHnm4IxVGvfDShbWO) | 2:46 |
 | 9 | [CLOVER](https://open.spotify.com/track/0ceAnr7yV1CO6Hseca0vrB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CLOVER](https://open.spotify.com/album/5Qd57v5SWaP70VXJBzmu1j) | 3:10 |
 | 10 | [STACEY DASH](https://open.spotify.com/track/0J9YLQGnB9cFavyuUNeQED) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [KEEP YOUR EYE ON THE SPARROW](https://open.spotify.com/album/1Lpe2J6iS42mPh7yoQGr6o) | 3:06 |
-| 11 | [Jeep \- feat\. Terror Reid](https://open.spotify.com/track/6EZOHEegsRf5kp4pLfkTjt) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [Jeep \(feat\. Terror Reid\)](https://open.spotify.com/album/29cSXGzONKVj5qcODEbzfl) | 2:00 |
+| 11 | [Jeep \(feat\. Terror Reid\)](https://open.spotify.com/track/6EZOHEegsRf5kp4pLfkTjt) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [Jeep \(feat\. Terror Reid\)](https://open.spotify.com/album/29cSXGzONKVj5qcODEbzfl) | 2:00 |
 | 12 | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/album/2xOT5KaLwXnsOVBZbyordn) | 3:53 |
 | 13 | [MINIVAN](https://open.spotify.com/track/68RAkH2eP79AT3NKF0wvcT) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [Junii](https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun) | [LINE LEADERS](https://open.spotify.com/album/01Rjv79w0OMjPQQRNsQvJk) | 2:07 |
 | 14 | [YOU CRY LOVE.](https://open.spotify.com/track/7iDkEUp4KuUIWR9HPOyvXZ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [YOU CRY LOVE.](https://open.spotify.com/album/2QKuLOLIQ8rD4aPXNr6rxR) | 2:38 |

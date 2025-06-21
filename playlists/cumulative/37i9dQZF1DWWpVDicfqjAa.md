@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-357 songs - 22 hr 4 min
+358 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Impossible \- Jax Jones Remix](https://open.spotify.com/track/2wIOPCQd8yC90Xxbwo6w0B) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Impossible \(Remixes\)](https://open.spotify.com/album/3MadsCbTHSp47zATZr1wdJ) | 3:54 | 2024-07-22 |  |
 | [Inhale Exhale](https://open.spotify.com/track/0jl8XWES6VNZ5eMVvzZN0M) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Inhale Exhale](https://open.spotify.com/album/4PgKGF2Ey6keEkcbqGpAGv) | 3:25 | 2023-02-17 | 2024-05-18 |
 | [Intersexy](https://open.spotify.com/track/1L0nJ5i4BWQJf2LzAi3pEw) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Intersexy](https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm) | 4:41 | 2024-12-27 |  |
+| [Island Criminal \(feat\. Aluna\)](https://open.spotify.com/track/1orEDNdMOuS2O7DDEfx8pZ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:09 | 2025-06-20 |  |
 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2024-02-02 |  |
 | [IT GIRL](https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw) | 2:41 | 2024-02-16 | 2024-04-19 |
 | [It Girl \(Jaded Remix\)](https://open.spotify.com/track/3zwsE6MoxEDKiPaJqIDv8h) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl \(Jaded Remix\)](https://open.spotify.com/album/1Q5xQLLBWToWgQuvg2jdLk) | 4:58 | 2023-03-08 | 2023-06-08 |

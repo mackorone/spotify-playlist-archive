@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,804 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,813 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 5 | [Vagabundo Apaixonou](https://open.spotify.com/track/2gaXhafenjWSGgr9VBA1G4) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Vagabundo Apaixonou](https://open.spotify.com/album/5QaJ2FnPEpY5nImwOvPffv) | 2:25 |
 | 6 | [Invisível pt.2](https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Invisível pt.2](https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir) | 2:54 |
 | 7 | [Dona da Minha Vida](https://open.spotify.com/track/7Mw6z69iGhfLYAwwmVKJDC) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [DiCastro](https://open.spotify.com/artist/4B0PCTFMn7yjoobr2b1WKm) | [Dona da Minha Vida](https://open.spotify.com/album/5uSEaVIrDQVfuyHheNfTIH) | 2:41 |
-| 8 | [Amor de Rua](https://open.spotify.com/track/1B0AoYdruYJazl8VJMPyZg) | [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Amor de Rua](https://open.spotify.com/album/6sdhF6aVoMVGjwaRIjiEpT) | 3:28 |
+| 8 | [Amor da Rua](https://open.spotify.com/track/1B0AoYdruYJazl8VJMPyZg) | [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Amor da Rua](https://open.spotify.com/album/6sdhF6aVoMVGjwaRIjiEpT) | 3:28 |
 | 9 | [Eu Sou Só Minha \- Live](https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Eu Sou Só Minha \(Live from Vevo\)](https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80) | 3:04 |
 | 10 | [Desejo](https://open.spotify.com/track/4pF7G2zT7SBecIWp6jiN5i) | [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [MANO R7](https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB), [Racovi Oficial](https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Outra Face](https://open.spotify.com/album/06OGKCXuM75bAiSY5aGv2A) | 4:25 |
 | 11 | [Amor Bandido](https://open.spotify.com/track/2m1SIWS1ysGw7CAERtidJ7) | [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv), [Dee Double Dee](https://open.spotify.com/artist/3qeTcXLyWKs2wFY1zNGFhC), [Aura Soul](https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT) | [Amor Bandido](https://open.spotify.com/album/6sEfuSOq7AvwrVeWjrLH6O) | 2:28 |

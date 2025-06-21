@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-858 songs - 1 day 20 hr 8 min
+860 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ben & Jerry](https://open.spotify.com/track/2sg5fd4wF4r6NKMj9Zm3Rr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ben & Jerry](https://open.spotify.com/album/1Hn5Rbk7431cLlGNQw32Cj) | 2:38 | 2022-03-17 | 2022-06-23 |
 | [Best Night of My Life](https://open.spotify.com/track/3quDzhlfgfAvPzmCG3qzIg) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Night of My Life](https://open.spotify.com/album/2rIJP88CPNzBrvHW06R3Ve) | 2:34 | 2024-03-08 | 2024-04-21 |
 | [Best Part](https://open.spotify.com/track/40CASSesK4IyM8Ud5sMsdp) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Best Part](https://open.spotify.com/album/3l4loBBd1uB1EpgWPCrJvQ) | 2:57 | 2022-03-24 | 2022-03-27 |
+| [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 | 2025-06-20 |  |
 | [Better \- Radio Edit](https://open.spotify.com/track/6CMjbzFLwnkX9pbIyDz2Lz) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Love, Death & Dancing \(Vol\. 2\)](https://open.spotify.com/album/24bHIfXiGsXYu6sbaz4D22) | 3:11 | 2022-03-24 | 2022-04-19 |
 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 | 2022-03-24 | 2023-03-18 |
 | [Better Off](https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Better Off](https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS) | 2:24 | 2025-02-04 |  |
@@ -158,7 +159,7 @@
 | [Change Your Mind](https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Change Your Mind](https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc) | 3:19 | 2024-04-19 | 2025-02-15 |
 | [Chaos!](https://open.spotify.com/track/55yM0hdUnpUEyrbHlhhqoW) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Chaos!](https://open.spotify.com/album/5M6uz7KvjkyodNn2h1TOwk) | 2:17 | 2022-03-24 | 2022-05-04 |
 | [Cheer Up Baby](https://open.spotify.com/track/4U7B8upa2xDTudFoGrBJ6G) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cheer Up Baby](https://open.spotify.com/album/2DSLcvO3yEHoEKlxmdL4k1) | 3:53 | 2022-03-24 | 2022-04-12 |
-| [cheerleader \(ft\. Waterparks\)](https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [cheerleader \(ft\. Waterparks\)](https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw) | 2:39 | 2024-03-08 |  |
+| [cheerleader \(ft\. Waterparks\)](https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [cheerleader \(ft\. Waterparks\)](https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw) | 2:39 | 2024-03-08 | 2025-06-21 |
 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 | 2022-03-24 | 2022-07-25 |
 | [Choker](https://open.spotify.com/track/3ydI3CesHBnaY01Qff9jOr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Choker](https://open.spotify.com/album/5UHiYkfptKdKDXacKUqKvl) | 3:43 | 2022-03-24 | 2022-07-24 |
 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 | 2022-07-07 | 2023-03-25 |
@@ -719,8 +720,9 @@
 | [Stuck](https://open.spotify.com/track/2hYIxXhvyT8HTwBkDH4C72) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Stuck](https://open.spotify.com/album/3uEsYesieHjW7zSAN1x3a8) | 2:18 | 2022-03-24 | 2022-04-06 |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-05-08 |  |
 | [Sucker Punch](https://open.spotify.com/track/0y0xWEzCRBY47WRw67r4Ab) | [Dead Emerson](https://open.spotify.com/artist/4Qlr4ok7GGJw8tmCWdQOP3) | [Sucker Punch](https://open.spotify.com/album/1hB7OK8nNlPLslFuHoeC5e) | 2:26 | 2022-04-14 | 2022-04-21 |
+| [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-20 |  |
 | [Summer Is a Curse](https://open.spotify.com/track/5WzgYEfub2pFJAAZfrOult) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [State of Mind](https://open.spotify.com/album/0C8bAFI1POhzztBVShuzll) | 3:01 | 2022-03-24 | 2022-04-13 |
-| [Survival in Motion](https://open.spotify.com/track/46tFOsvuIJTXqT0of0ZyTX) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Survival in Motion](https://open.spotify.com/album/7MLciyYz4wb1vQkFdX9MEE) | 2:15 | 2024-08-23 |  |
+| [Survival in Motion](https://open.spotify.com/track/46tFOsvuIJTXqT0of0ZyTX) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Survival in Motion](https://open.spotify.com/album/7MLciyYz4wb1vQkFdX9MEE) | 2:15 | 2024-08-23 | 2025-06-21 |
 | [Symphony \- Inner City Youth Orchestra of Los Angeles Version](https://open.spotify.com/track/6qJqN1SbjwxAEoDkjfnAwr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Symphony \(Inner City Youth Orchestra of Los Angeles Version\)](https://open.spotify.com/album/2fGxoIq6W6i4p9cavzwWP4) | 3:08 | 2023-06-23 | 2023-11-18 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2022-03-17 | 2023-03-18 |
 | [Take It Back](https://open.spotify.com/track/4DLiXw3uGMe45QwJtPNOVc) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Take It Back](https://open.spotify.com/album/6yk0QeDWJQJ4GGUGJbEWvy) | 2:28 | 2022-03-24 | 2022-04-13 |

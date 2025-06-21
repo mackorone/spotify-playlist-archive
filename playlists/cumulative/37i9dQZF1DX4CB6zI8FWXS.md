@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Yaya Bey
 
-903 songs - 2 day 0 hr 38 min
+904 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -787,6 +787,7 @@
 | [The Woman](https://open.spotify.com/track/0F7J5lCUj8AI7tUwfCPs0t) | [KADOKAWA DREAMS](https://open.spotify.com/artist/7M8zIrlEAfMONHBkFhKpII), [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [The Woman](https://open.spotify.com/album/2UwnnyuVKnrS6MxOln4loe) | 2:41 | 2023-04-06 | 2023-05-05 |
 | [THE WORLD\. JOURNEY \~君との旅\~ \(feat\. RIRIARAI\)](https://open.spotify.com/track/1kUJKvVlnkNyKERtgHML8V) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp), [Riri Arai](https://open.spotify.com/artist/1BuSctKNRqnPhEVxiIXmsN) | [THE WORLD\. JOURNEY \~君との旅\~ \(feat\. RIRIARAI\)](https://open.spotify.com/album/6IOD6ijGk7gRUytPCK2cPe) | 3:54 | 2024-11-29 | 2025-01-17 |
 | [THERAPIST](https://open.spotify.com/track/6NNHjz7NGblXyvh3aQH5Ow) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST](https://open.spotify.com/album/6tVAcTDtnax17x6U6rpcQp) | 2:30 | 2025-02-13 | 2025-03-07 |
+| [There You Go](https://open.spotify.com/track/0qvHRINnwOV6Y1wK6lvPDV) | [Mick Schultz](https://open.spotify.com/artist/7JWyHEtxGUHWLrIjWz55ar), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [There You Go](https://open.spotify.com/album/5GpPBUlb6YCz2c14bDLcIT) | 4:10 | 2025-06-19 |  |
 | [Think Different](https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:07 | 2024-06-27 | 2024-10-11 |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-03-16 | 2023-06-16 |
 | [This Is Why](https://open.spotify.com/track/6BjVkcvUiZ40CI6ckLadnU) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [This Is Why](https://open.spotify.com/album/6M4UH3NOkiHKymVfpW4vn5) | 2:53 | 2025-04-13 |  |

@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-284 songs - 18 hr 32 min
+285 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Rebel Yell](https://open.spotify.com/track/2HFJ24aoUuS9mvcfCt9yiw) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell \(Expanded Edition\)](https://open.spotify.com/album/7toLJZQWTgBbSFE07O2s9D) | 4:48 | 2024-05-23 |  |
 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 | 2024-06-07 |  |
 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 | 2023-10-16 | 2024-05-24 |
+| [Rest Easy \(In My Love\)](https://open.spotify.com/track/0zgPMsAPO8JbD5jDQKglXw) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Rest Easy \(In My Love\)](https://open.spotify.com/album/6EAwIklBmHcymXHbRY7org) | 3:22 | 2025-06-20 |  |
 | [Rise Up Singing](https://open.spotify.com/track/3VZXbrdQnGkt9gUwosnKM0) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [Rise Up Singing](https://open.spotify.com/album/6eNJoilR2M8wVoMDDQdoRm) | 3:02 | 2024-05-23 |  |
 | [River](https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:36 | 2023-10-16 | 2024-05-24 |
 | [Rocket Man \( I Think It's Going To Be A Long Long Time\) \- Live At The Royal Festival Hall, London, UK / 1972](https://open.spotify.com/track/42uzh2SYbDO6m1Jm9c8eCS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Château \(50th Anniversary Edition\)](https://open.spotify.com/album/30ey65p5ZWsi82MsferipB) | 4:26 | 2024-05-23 |  |

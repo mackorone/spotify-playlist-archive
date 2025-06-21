@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Cardi B",
-  "num_followers": 35221,
+  "num_followers": 35233,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "aFSkzgAAAAAyswmrsZrug1HvftH9DBXf",
   "tracks": [
+    {
+      "added_at": "2025-06-20 00:01:18",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 206711,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
+    },
     {
       "added_at": "2025-06-20 00:01:18",
       "album": {

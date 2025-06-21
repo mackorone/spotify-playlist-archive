@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: GRACE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,866 likes - 91 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,872 likes - 91 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

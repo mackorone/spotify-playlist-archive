@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 282109,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/4tUd2NeGnRx8ioUevRV4WL"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 248195,
       "name": "antonio banderas",
       "url": "https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5"
@@ -5171,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "Juguete",
+        "url": "https://open.spotify.com/album/1SEsHTEsKqNHVogHOV96xT"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216250,
+      "name": "Juguete",
+      "url": "https://open.spotify.com/track/1AP0YC81s5Gxk3wUIoQE5Q"
+    },
+    {
+      "album": {
         "name": "Junto a Mi",
         "url": "https://open.spotify.com/album/1TjUpLBVrDItGQ9EsQ05lg"
       },
@@ -8573,6 +8591,32 @@
     },
     {
       "album": {
+        "name": "Olvidate de Mi",
+        "url": "https://open.spotify.com/album/046AD0Hp3KrQCqghLOdpG3"
+      },
+      "artists": [
+        {
+          "name": "ZEEVA",
+          "url": "https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH"
+        },
+        {
+          "name": "xKori",
+          "url": "https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI"
+        },
+        {
+          "name": "Tahto",
+          "url": "https://open.spotify.com/artist/3XiF0wUp56DKF5FV5Uv6wK"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Olvidate de Mi",
+      "url": "https://open.spotify.com/track/1zpBOh5oLeU3OZOKaJoSUS"
+    },
+    {
+      "album": {
         "name": "One Of Us",
         "url": "https://open.spotify.com/album/3AJYPsY4GZ1nZjSh71TidN"
       },
@@ -8784,6 +8828,40 @@
       "duration_ms": 225104,
       "name": "Para\u00edso Lunar",
       "url": "https://open.spotify.com/track/7uMBJGgc3QWdDQWBtBoPzj"
+    },
+    {
+      "album": {
+        "name": "Parison",
+        "url": "https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        },
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291074,
+      "name": "Parison",
+      "url": "https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl"
     },
     {
       "album": {
@@ -12458,7 +12536,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 182060,
       "name": "\u00bfPor qu\u00e9 me tengo yo que enamorar?",
       "url": "https://open.spotify.com/track/6wUCQr6hrpOfwWJ0PVP5hG"

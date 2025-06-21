@@ -179,6 +179,32 @@
     },
     {
       "album": {
+        "name": "Aur Mohabbat Kitni Karoon (From \"Metro ... In Dino\")",
+        "url": "https://open.spotify.com/album/0qw6c6SD4zDzm2l3Xx3cSH"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sandeep Srivastava",
+          "url": "https://open.spotify.com/artist/4dCok2LKf2hwVPxQt65a95"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236101,
+      "name": "Aur Mohabbat Kitni Karoon (From \"Metro ... In Dino\")",
+      "url": "https://open.spotify.com/track/3EIMdrD4DstJVklUH9Ai7Y"
+    },
+    {
+      "album": {
         "name": "Band Baaja Baaraat",
         "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
       },
@@ -3934,7 +3960,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 252071,
       "name": "Tumhe Dillagi (From \"Raid 2\")",
       "url": "https://open.spotify.com/track/4DwVCjFTWdqyC3Bx4oGtYs"

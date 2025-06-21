@@ -6422,7 +6422,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 166606,
       "name": "Day in the life",
       "url": "https://open.spotify.com/track/4zKZtaw84QdwbbXHK1awcC"
@@ -9792,7 +9792,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -9810,7 +9810,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -17742,7 +17742,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "Juhannusy\u00f6",
       "url": "https://open.spotify.com/track/2lwbCSDiToiRgz0W79aW3D"
@@ -18362,6 +18362,24 @@
       "duration_ms": 206716,
       "name": "Kahvimaito - Vain el\u00e4m\u00e4\u00e4 kausi 12",
       "url": "https://open.spotify.com/track/3eDb5H84TV9gEng0yYNhqU"
+    },
+    {
+      "album": {
+        "name": "Kaihosielu",
+        "url": "https://open.spotify.com/album/2HzpsSW18GUAl2FI75EIes"
+      },
+      "artists": [
+        {
+          "name": "Komiat",
+          "url": "https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165185,
+      "name": "Kaihosielu",
+      "url": "https://open.spotify.com/track/625qY3SEapY3D5tPoeG5Rz"
     },
     {
       "album": {
@@ -45402,7 +45420,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 187267,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm"

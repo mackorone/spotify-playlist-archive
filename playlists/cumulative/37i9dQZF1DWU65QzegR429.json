@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Latin music making waves. Cover: Key-Key",
+  "description": "Latin music making waves. Cover: Apeche & Reke",
   "name": "Latin Frequency",
   "tracks": [
     {
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 185002,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 200930,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
@@ -2960,6 +2960,32 @@
       "duration_ms": 187897,
       "name": "M\u00cdRENME AHORA",
       "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
+    },
+    {
+      "album": {
+        "name": "APUESTA AL NEGRO",
+        "url": "https://open.spotify.com/album/2Thjjg1KbIfaWJPyQpKnlu"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Reke",
+          "url": "https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4"
+        },
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "N.E.R",
+      "url": "https://open.spotify.com/track/36JN9OBi1oQHVdw0KzCTgD"
     },
     {
       "album": {
@@ -5156,6 +5182,24 @@
       "duration_ms": 183653,
       "name": "Who Who",
       "url": "https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU"
+    },
+    {
+      "album": {
+        "name": "Y por ahi me dicen y que",
+        "url": "https://open.spotify.com/album/2OolB2SHuxKs1p0MgGSCc4"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168331,
+      "name": "Y por ahi me dicen y que",
+      "url": "https://open.spotify.com/track/2rOS6hOkqDfOllGK9XY9V1"
     },
     {
       "album": {

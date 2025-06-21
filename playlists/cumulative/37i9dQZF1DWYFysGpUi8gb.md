@@ -4,7 +4,7 @@
 
 > underground and experimental\. greetings from bar italia.
 
-368 songs - 23 hr 8 min
+369 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Cow Song](https://open.spotify.com/track/2MdQxjWvScaM3NXNXQRXNK) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Cow Song](https://open.spotify.com/album/42CkWCbOfwaVsTk5TrWsTv) | 6:21 | 2025-06-18 |  |
 | [Cowbella](https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Cowbella](https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH) | 4:23 | 2025-06-18 |  |
 | [cowboy in the west](https://open.spotify.com/track/6dE7Smi37fxI4EnDPdg7hc) | [Vincent Jäger](https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft) | [cowboy in the west \(ingleby demos\)](https://open.spotify.com/album/5HC2PdDFSyZX0NVpoUeIdW) | 1:49 | 2025-01-17 | 2025-05-02 |
+| [cranes](https://open.spotify.com/track/5lB4myWC3zyPO4AjDCINfk) | [casual smart](https://open.spotify.com/artist/6hQ9aQfQsvuN6Y7NK1J7ou) | [cranes](https://open.spotify.com/album/4yhPJHgCUPnXWi0d0SbsAx) | 4:16 | 2025-06-20 |  |
 | [Crawl Ball](https://open.spotify.com/track/7lBbcQXJ83SJzpaORoYkY4) | [foot foot](https://open.spotify.com/artist/2p5r5XfjZiMvulO5tvIMw3) | [still waters, empty house](https://open.spotify.com/album/7frVxZoUWY2IajDOpCexo4) | 3:49 | 2025-05-20 |  |
 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 | 2024-11-22 | 2025-03-25 |
 | [Cro\-Magnon Man](https://open.spotify.com/track/1HrrotHTdlartBG4CdFCr1) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cro\-Magnon Man](https://open.spotify.com/album/5VL1958b50wIWuafmVofL6) | 4:07 | 2025-02-07 | 2025-05-02 |

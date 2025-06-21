@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Naya Hip-Hop Hindi! Cover: Naezy",
+  "description": "Naya Hip-Hop Hindi! Cover: J Trix",
   "name": "New Rap Hindi",
   "tracks": [
     {
@@ -244,6 +244,24 @@
       "duration_ms": 159954,
       "name": "2025 Flow",
       "url": "https://open.spotify.com/track/0mM9A0fFFgKQkAPgS16DfC"
+    },
+    {
+      "album": {
+        "name": "3 DRAGS",
+        "url": "https://open.spotify.com/album/22qni5DTd8Sx2W08kkSNV9"
+      },
+      "artists": [
+        {
+          "name": "vichaar",
+          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167074,
+      "name": "3 DRAGS",
+      "url": "https://open.spotify.com/track/4tHJc5agHg9LVsijAwtooy"
     },
     {
       "album": {
@@ -734,7 +752,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 149852,
       "name": "Aaj Kal",
       "url": "https://open.spotify.com/track/0OmN4CFIm9Q6s3rFl6tbaJ"
@@ -1417,7 +1435,7 @@
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 233200,
+      "duration_ms": 233028,
       "name": "Angad",
       "url": "https://open.spotify.com/track/2UdlQw2xa81KSZtHjvKZZh"
     },
@@ -2079,6 +2097,36 @@
     },
     {
       "album": {
+        "name": "Fauji 2",
+        "url": "https://open.spotify.com/album/6cxpqLhzdx09wp7qRfLp8B"
+      },
+      "artists": [
+        {
+          "name": "Pavneet Singh",
+          "url": "https://open.spotify.com/artist/6Jwh8lKPA9Rj9wUFfeVkNt"
+        },
+        {
+          "name": "Zaid Darbar",
+          "url": "https://open.spotify.com/artist/47dLKDmeCDTgKjwCjFnsLC"
+        },
+        {
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
+        },
+        {
+          "name": "Prashant Ingole",
+          "url": "https://open.spotify.com/artist/5DNHuR9u8DFVasxQZgREO5"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171069,
+      "name": "Bagheera",
+      "url": "https://open.spotify.com/track/2oL4D0fC2SYikzb7V4SbNr"
+    },
+    {
+      "album": {
         "name": "Loka Yaha Hai",
         "url": "https://open.spotify.com/album/0SOdtFMbmVADfBZZY8cqTc"
       },
@@ -2266,7 +2314,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 148714,
       "name": "Bannee Thani - Drill Rap Version",
       "url": "https://open.spotify.com/track/3hJsNZuCVU3wxpmTjNJHam"
@@ -2666,7 +2714,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 136100,
       "name": "Bhai Tu Kaisa Hai",
       "url": "https://open.spotify.com/track/1Gd7pqzob6iTk0u7veEZxy"
@@ -3785,6 +3833,24 @@
     },
     {
       "album": {
+        "name": "Calling Me",
+        "url": "https://open.spotify.com/album/1qwH0GJgmwPiNt1axMF0b2"
+      },
+      "artists": [
+        {
+          "name": "Flowbo",
+          "url": "https://open.spotify.com/artist/1zZAfmD9oBMBxA8RhSukbf"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136778,
+      "name": "Calling Me",
+      "url": "https://open.spotify.com/track/0CPBJ1TSmfSeIgVkB28tht"
+    },
+    {
+      "album": {
         "name": "MONOPOLY MOVES",
         "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
       },
@@ -3840,7 +3906,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 132571,
       "name": "Car Fly",
       "url": "https://open.spotify.com/track/6mD8Xq3Wks56x3J0bvJnxm"
@@ -4864,7 +4930,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 166666,
       "name": "Cyclone - From \"Kesari Chapter 2\"",
       "url": "https://open.spotify.com/track/6wWfSELIYaOi1gCScOFCpG"
@@ -5026,6 +5092,32 @@
       "duration_ms": 196000,
       "name": "Dark Night",
       "url": "https://open.spotify.com/track/7hShU0pwZf9CgLUPWaq4We"
+    },
+    {
+      "album": {
+        "name": "Chehre",
+        "url": "https://open.spotify.com/album/4BGBilCN63p0cNjkTn6Fxa"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF"
+        },
+        {
+          "name": "Frappe Ash",
+          "url": "https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH"
+        },
+        {
+          "name": "Baajewala",
+          "url": "https://open.spotify.com/artist/43Xkqbz8Q2y8XG95VqpxqF"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192828,
+      "name": "Darta Hu",
+      "url": "https://open.spotify.com/track/62CHxWnd7jJm34dE4yPtEZ"
     },
     {
       "album": {
@@ -6546,7 +6638,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 226874,
       "name": "Fikar",
       "url": "https://open.spotify.com/track/0apMr0sLHr7Ds71csUk5zn"
@@ -9372,7 +9464,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 132000,
       "name": "Josh Mei",
       "url": "https://open.spotify.com/track/4rp5sYagMaZK9TH3S5CG1d"
@@ -9518,6 +9610,28 @@
       "duration_ms": 135167,
       "name": "Kaali Gaddi",
       "url": "https://open.spotify.com/track/2fp7ibEUx13oq4CkmKS6k1"
+    },
+    {
+      "album": {
+        "name": "Kaali Raatein (From \"Nikita Roy\")",
+        "url": "https://open.spotify.com/album/2bZUCQPes9L8YPFKZc3auW"
+      },
+      "artists": [
+        {
+          "name": "Abhinav Shekhar",
+          "url": "https://open.spotify.com/artist/7bBqAz65fp8BVnuHQTFgSQ"
+        },
+        {
+          "name": "Pratiksha Vashishtha",
+          "url": "https://open.spotify.com/artist/1kkz7GtycrTZlHi5bvwFmS"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157692,
+      "name": "Kaali Raatein (From \"Nikita Roy\")",
+      "url": "https://open.spotify.com/track/68QlU0Kf0be1JQhzT4LdX0"
     },
     {
       "album": {
@@ -10470,7 +10584,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 168888,
       "name": "Kone Wala Ghar",
       "url": "https://open.spotify.com/track/29Q43blbsqTh1bewBGCRcN"
@@ -11418,7 +11532,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 169846,
       "name": "Madira",
       "url": "https://open.spotify.com/track/3ue7PTXmpCbn3LXfkZWxll"
@@ -11696,7 +11810,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 205750,
       "name": "Mama Told Me",
       "url": "https://open.spotify.com/track/5lipuOu9TYJM0qzOQaUFsQ"
@@ -11762,6 +11876,24 @@
       "duration_ms": 261923,
       "name": "MANKA",
       "url": "https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5"
+    },
+    {
+      "album": {
+        "name": "Mannat",
+        "url": "https://open.spotify.com/album/6fuxz5nJkIhVY7WppwtOtC"
+      },
+      "artists": [
+        {
+          "name": "Prasoon Shah",
+          "url": "https://open.spotify.com/artist/7dcwxElVqo7NYDpV8jtfaa"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147944,
+      "name": "Mannat",
+      "url": "https://open.spotify.com/track/1cyby3RBGEGkYi7LfLoOeX"
     },
     {
       "album": {
@@ -12096,6 +12228,36 @@
       "duration_ms": 167481,
       "name": "Mawali",
       "url": "https://open.spotify.com/track/7DSCoo2K1eECVyaAopqDKa"
+    },
+    {
+      "album": {
+        "name": "Chehre",
+        "url": "https://open.spotify.com/album/4BGBilCN63p0cNjkTn6Fxa"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF"
+        },
+        {
+          "name": "UNIYAL",
+          "url": "https://open.spotify.com/artist/0EdBUkJHdLP4GGx3EN8AH0"
+        },
+        {
+          "name": "Lambo Drive",
+          "url": "https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y"
+        },
+        {
+          "name": "GHILDIYAL",
+          "url": "https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Mazza",
+      "url": "https://open.spotify.com/track/2zAF4M2Tl57KD8TzKfs2w5"
     },
     {
       "album": {
@@ -14439,6 +14601,24 @@
     },
     {
       "album": {
+        "name": "Paisa Paisa",
+        "url": "https://open.spotify.com/album/3f4IXfdh2675rAhyHU1AFx"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Paisa Paisa",
+      "url": "https://open.spotify.com/track/5Yyi121XIsVNEfCHcHFbcG"
+    },
+    {
+      "album": {
         "name": "PAISE KI NAAD",
         "url": "https://open.spotify.com/album/5mcwWHILAF7xzS8NjZdauf"
       },
@@ -14794,7 +14974,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 168870,
       "name": "Podcast",
       "url": "https://open.spotify.com/track/6SorIaYYy2gcxL6ii2ZTWB"
@@ -14940,7 +15120,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 178417,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/0cff3YCYbencqVuLys9Ae2"
@@ -15342,6 +15522,24 @@
       "duration_ms": 160613,
       "name": "Rapman",
       "url": "https://open.spotify.com/track/3ZNuiPTvvowPRSUMpHoNz6"
+    },
+    {
+      "album": {
+        "name": "Ravas",
+        "url": "https://open.spotify.com/album/1pziFMIPuLO4md57CBnlMa"
+      },
+      "artists": [
+        {
+          "name": "Ace aka Mumbai",
+          "url": "https://open.spotify.com/artist/4RmQ7RmhDf5tDx8xZe2ldm"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178908,
+      "name": "Ravas",
+      "url": "https://open.spotify.com/track/3PTa3bTBQGV1ibH2AiB5JD"
     },
     {
       "album": {
@@ -16056,6 +16254,28 @@
       "duration_ms": 180500,
       "name": "Sapna",
       "url": "https://open.spotify.com/track/31KMOBuqN0JbE1YuQi3Hfg"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/5kooe8w4NBetE3fyHnHNJG"
+      },
+      "artists": [
+        {
+          "name": "J Trix",
+          "url": "https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf"
+        },
+        {
+          "name": "Subspace",
+          "url": "https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Sapna",
+      "url": "https://open.spotify.com/track/7nji35NLUFBGgwwkwzgYyP"
     },
     {
       "album": {
@@ -17111,6 +17331,28 @@
     },
     {
       "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/5kooe8w4NBetE3fyHnHNJG"
+      },
+      "artists": [
+        {
+          "name": "J Trix",
+          "url": "https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf"
+        },
+        {
+          "name": "Subspace",
+          "url": "https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Sundowner",
+      "url": "https://open.spotify.com/track/611W1h3FlwFNGCVO2Gvtme"
+    },
+    {
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/0mm3AL75qCfr16gctwZyO8"
       },
@@ -17787,6 +18029,24 @@
     },
     {
       "album": {
+        "name": "Teri Bhenki",
+        "url": "https://open.spotify.com/album/0ykqOgy6ZZbOlRP8iZ7NvY"
+      },
+      "artists": [
+        {
+          "name": "Indeep Bakshi",
+          "url": "https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145472,
+      "name": "Teri Bhenki",
+      "url": "https://open.spotify.com/track/7Ay5YS5AKYTpGEvS72sT06"
+    },
+    {
+      "album": {
         "name": "R4RE",
         "url": "https://open.spotify.com/album/2MxdQTVDGJTgfqdatQ1K5y"
       },
@@ -17985,6 +18245,28 @@
     },
     {
       "album": {
+        "name": "Thehera Sa Hoon",
+        "url": "https://open.spotify.com/album/51GtBs7D1leP8886JDr1A7"
+      },
+      "artists": [
+        {
+          "name": "KnoXx",
+          "url": "https://open.spotify.com/artist/5RcpRxAwu6hjd2pFg0OdZw"
+        },
+        {
+          "name": "Satvik Vishwakarma",
+          "url": "https://open.spotify.com/artist/1NqaIZ9x4y8BeWJZfYqoL6"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138357,
+      "name": "Thehera Sa Hoon",
+      "url": "https://open.spotify.com/track/1FmefOkBWy8sBQ1e1LoT18"
+    },
+    {
+      "album": {
         "name": "Thehra",
         "url": "https://open.spotify.com/album/511wcTtnR6shsUf6CFiwOd"
       },
@@ -18014,7 +18296,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 178650,
       "name": "They Know Me",
       "url": "https://open.spotify.com/track/0hOYYqyzFpzWiP7yyYAYOo"

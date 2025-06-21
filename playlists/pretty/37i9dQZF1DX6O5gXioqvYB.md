@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 🫧 Cover: Myricae
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,619 likes - 110 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,640 likes - 110 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 10 | [Scusa Caterina](https://open.spotify.com/track/34AoZXtCbcDe2fMG3NhrCY) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Scusa Caterina](https://open.spotify.com/album/5eRDKee5B2PXW83hQdXI2q) | 3:35 |
 | 11 | [a fondo](https://open.spotify.com/track/744tBHA3W776oIUA21dmNW) | [sadly](https://open.spotify.com/artist/0ggVSorfyEaA6RLczJtFMC) | [a fondo](https://open.spotify.com/album/0j4TZqgGibMHclUDkaPam9) | 2:55 |
 | 12 | [Come i cori](https://open.spotify.com/track/10ktgacapot6Yy0k8pUaT8) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Malpelo](https://open.spotify.com/artist/3yfbIVTJBT6kawT1yjQvOZ), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Come i cori](https://open.spotify.com/album/16jekJc3IR6f5mwvzPu7fn) | 2:29 |
-| 13 | [Isadora](https://open.spotify.com/track/54F4sYjoxbp8gRTNIb3mQw) | [Modivari](https://open.spotify.com/artist/0FW2nr07DG4O1uVfofqe41) | [Isidora](https://open.spotify.com/album/6bCOMC2tZ1Pq1bJAC7ji1v) | 3:07 |
+| 13 | [Isidora](https://open.spotify.com/track/54F4sYjoxbp8gRTNIb3mQw) | [Modivari](https://open.spotify.com/artist/0FW2nr07DG4O1uVfofqe41) | [Isidora](https://open.spotify.com/album/6bCOMC2tZ1Pq1bJAC7ji1v) | 3:07 |
 | 14 | [no, non mi va](https://open.spotify.com/track/68vz7EWbnCoUEVgihTA5HS) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [no, non mi va](https://open.spotify.com/album/3rnRTdKBGUu19Vv1kaEafF) | 2:31 |
 | 15 | [VENEZIA\-MESTRE](https://open.spotify.com/track/1MkUONQLtlRV8MJ9bkowbV) | [RIVERA](https://open.spotify.com/artist/5k49BRqiNw8x7q5N6Lgwkh) | [TRASPARENTE](https://open.spotify.com/album/5EyFutnEplyZ81PXaEIKq8) | 2:52 |
 | 16 | [PARANOIA](https://open.spotify.com/track/1F79creq17hCEaFLADFPWy) | [Still Alice](https://open.spotify.com/artist/5p3O4QZMhOXyZw9QnmWv48), [laiv](https://open.spotify.com/artist/3xaDIExFRMerdcD3ebnHM0), [MEIS](https://open.spotify.com/artist/16YgI3Hb4LCEIGOgyoxqmx) | [PARANOIA](https://open.spotify.com/album/0ktAWRcEOUoY3heFyhniED) | 2:43 |

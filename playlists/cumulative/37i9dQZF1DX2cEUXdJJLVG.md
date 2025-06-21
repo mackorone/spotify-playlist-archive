@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-420 songs - 1 day 1 hr 6 min
+421 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [New Earth](https://open.spotify.com/track/2E4vDslJtI2rF1sibFUXO5) | [Joshua Bredow](https://open.spotify.com/artist/1TXaey5ct7JzJsUQFSmCnF) | [New Earth](https://open.spotify.com/album/5x37IsVtadwOD6ELuEG0W1) | 3:24 | 2022-09-09 | 2022-09-16 |
 | [New Love](https://open.spotify.com/track/6O4IrYYhx5YFcneT5Oxtd6) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Sunflower](https://open.spotify.com/album/6JWuJhE6y7PR9WoNiEvM4s) | 4:00 | 2022-09-09 | 2022-09-16 |
 | [New View](https://open.spotify.com/track/5ovfNHvYoSkgotc30bn8uL) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN) | [New View](https://open.spotify.com/album/4SLW1wlhfhuYnikmMFhumC) | 3:27 | 2023-08-15 | 2025-05-20 |
+| [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 | 2025-06-19 |  |
 | [Nirvana](https://open.spotify.com/track/3XqZ6qWdX7pKa4sbLZaFDk) | [Cezaire](https://open.spotify.com/artist/6BqtukFFVB3LgyyOIH8t1z), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Nirvana](https://open.spotify.com/album/5IKPyU8dOpvPFQXxE9aekm) | 3:40 | 2024-07-04 |  |
 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 | 2022-09-22 | 2024-09-27 |
 | [No Pressure](https://open.spotify.com/track/30YcRhbM8ChTRp9ocwxCQh) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [No Pressure](https://open.spotify.com/album/0lHku96pxwHcs2PMQhVrUK) | 3:21 | 2022-09-09 | 2024-02-02 |

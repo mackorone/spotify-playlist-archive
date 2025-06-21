@@ -4,10 +4,11 @@
 
 > bands and tracks on the rise in heavy music\. Cover: PRESIDENT
 
-270 songs - 15 hr 39 min
+271 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1000 Tons](https://open.spotify.com/track/0naGnDg0TAf08RptWY9F1Q) | [Chained Saint](https://open.spotify.com/artist/6JChzL9HQEspINhiTqSURd) | [1000 Tons](https://open.spotify.com/album/5TrOsdUOjhRluNLFkiOygo) | 2:59 | 2025-06-20 |  |
 | [70% Dead \(with Corey Taylor\)](https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [70% Dead](https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC) | 3:42 | 2024-07-15 | 2024-12-11 |
 | [A Fly on the Wall \(Nobody is Home\)](https://open.spotify.com/track/6dpyMuO35p1DMpxk3GNrCV) | [We Weren't Invited](https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa) | [Flesh Vehicle, Pt\. 2](https://open.spotify.com/album/2lWsY39nOBqKeV5HKsIlXf) | 4:34 | 2023-01-13 | 2023-06-21 |
 | [A.D.D](https://open.spotify.com/track/7v0Pll0A9YnsiyYpzIRXDy) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:37 | 2024-07-15 |  |
@@ -228,7 +229,7 @@
 | [The Debt](https://open.spotify.com/track/30y0r3xRBzngsUXJ2FeTgn) | [Lift The Curse](https://open.spotify.com/artist/5mVUxlgnywxeahNtMpoCiv) | [The Debt](https://open.spotify.com/album/1tYh4lKvftUG55PLQPQ4WE) | 3:45 | 2023-01-06 | 2024-07-16 |
 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:45 | 2022-07-29 | 2022-10-01 |
 | [The Enemy](https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET) | [The GFM Band](https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK), [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [The Enemy](https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty) | 4:21 | 2022-07-29 | 2023-01-14 |
-| [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 | 2024-07-15 |  |
+| [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 | 2024-07-15 | 2025-06-21 |
 | [The Future Says Thank You](https://open.spotify.com/track/0ZJ2BP0U1H8uhy0LnYDXjk) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/6RHap8m4NlsvCq2v2fPvCP) | 3:38 | 2022-07-29 | 2022-09-17 |
 | [The Hunt](https://open.spotify.com/track/5OmePrjGCL3dSla3Fx3ws3) | [Breakdown of Sanity](https://open.spotify.com/artist/20reGZ0TQPGvwx5U4xx6D8) | [The Hunt](https://open.spotify.com/album/2eih2wArYhmr3X6Un0R9Rd) | 4:26 | 2025-06-06 |  |
 | [The Killing Womb](https://open.spotify.com/track/7m33lSfrWtRfQDG6QmKP0L) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 2:32 | 2022-07-29 | 2022-08-20 |

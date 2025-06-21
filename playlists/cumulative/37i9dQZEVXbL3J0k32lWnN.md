@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,038 songs - 4 day 9 hr 21 min
+2,039 songs - 4 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,7 +716,7 @@
 | [god mand/dårlig verden](https://open.spotify.com/track/6p8Rbcc201eH113uZRAFs6) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:12 | 2023-09-02 | 2023-09-09 |
 | [God nats søvn](https://open.spotify.com/track/3RJPzC0EONNC7lwaKozCIJ) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [PÅ GEN5YN](https://open.spotify.com/album/1UwgdrQVaJBueo48c2GM8x) | 2:24 | 2024-06-29 | 2024-07-01 |
 | [God Pige \(feat\. TopGunn\)](https://open.spotify.com/track/71JW11U2IpJQBRicrFUzMZ) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [BOYBAND](https://open.spotify.com/album/5SorawwOwcnSYnDfXzU2ot) | 2:47 | 2023-04-01 | 2024-01-04 |
-| [God Til Fransk \(feat\. Ella Augusta\)](https://open.spotify.com/track/5khdP62tJApmeyNbS61deL) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 3:25 | 2025-06-14 |  |
+| [God Til Fransk \(feat\. Ella Augusta\)](https://open.spotify.com/track/5khdP62tJApmeyNbS61deL) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 3:25 | 2025-06-14 | 2025-06-21 |
 | [GOD'S COUNTRY](https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:07 | 2023-07-29 | 2023-07-31 |
 | [Gode Dage, Gode Drinks](https://open.spotify.com/track/5nGAVhhCo2sev68RzHrQJ5) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Gode Dage, Gode Drinks](https://open.spotify.com/album/3VhCfnPU8oabodFfd9pqlA) | 2:20 | 2022-08-06 | 2022-09-04 |
 | [Gode Dage, Gode Drinks](https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:20 | 2022-09-03 | 2024-01-15 |
@@ -1095,6 +1095,7 @@
 | [København \(feat\. Suspekt & Benjamin Hav\)](https://open.spotify.com/track/5NjehIS8G8xWKsIJCiQov8) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [København \(feat\. Suspekt & Benjamin Hav\)](https://open.spotify.com/album/2Dj8zC44xsrq1HtjSVGN4o) | 2:44 | 2024-05-31 | 2024-11-05 |
 | [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2024-12-29 | 2025-01-31 |
 | [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2024-12-28 | 2025-02-02 |
+| [La Mig Se Dig Gå](https://open.spotify.com/track/6T3w5NyTD51l6vlcTekJGl) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Joey Moe](https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc) | [La Mig Se Dig Gå](https://open.spotify.com/album/6gjNCAiTmSJzasLYikdLKj) | 2:07 | 2025-06-20 |  |
 | [Lad Dig Gå](https://open.spotify.com/track/5aLQybTzAGTgbY9QFkMzMH) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Lad Dig Gå](https://open.spotify.com/album/2e4MVybCUxC94Ic5obJPvA) | 2:57 | 2025-04-19 | 2025-05-04 |
 | [Lad Livet Gå](https://open.spotify.com/track/4cJMK2yd6GMlmNFyXvlUYX) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:33 | 2022-10-15 | 2022-10-19 |
 | [Lad Livet Gå](https://open.spotify.com/track/5KGpEaZ4vxLixw8q1gA8Vi) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:33 | 2022-10-18 | 2022-10-23 |

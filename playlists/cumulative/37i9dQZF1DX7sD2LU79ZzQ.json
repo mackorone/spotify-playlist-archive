@@ -16607,6 +16607,24 @@
     },
     {
       "album": {
+        "name": "FORTUNE",
+        "url": "https://open.spotify.com/album/1W5R7RlqOBgDCuStruo4G8"
+      },
+      "artists": [
+        {
+          "name": "Karnamereka",
+          "url": "https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Tentangmu Kawan",
+      "url": "https://open.spotify.com/track/66ezuYO3MpV4dKWLHuVbFY"
+    },
+    {
+      "album": {
         "name": "Terakhir Kali",
         "url": "https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB"
       },

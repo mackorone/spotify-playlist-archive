@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,151 songs - 4 day 19 hr 18 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,164 songs - 4 day 19 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2157,7 +2157,20 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2147 | [Q\-Lo Bendecio](https://open.spotify.com/track/2CadwUJncU5t75YykMmDiu) | [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [DAMNBOW](https://open.spotify.com/album/0f963eZbpaHhVoBQ8K2SWq) | 2:48 |
 | 2148 | [Candy](https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:27 |
 | 2149 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 |
-| 2150 | [Lady Love](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/0wC7LND4olfhUHZK9HVLN5) | 2:54 |
-| 2151 | [kiss](https://open.spotify.com/track/1Y2iRXd3PqKD1HyePXazoF) | [NOVE!L](https://open.spotify.com/artist/1UcQ25atADwnZ2U461XkUV) | [kiss](https://open.spotify.com/album/4Yr43C1F088J9VKwiBI7va) | 2:15 |
+| 2150 | [Merengacha](https://open.spotify.com/track/2iSeLHT9pJ7gSpyP6UJlXf) | [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [A Mover Los Zapatitos](https://open.spotify.com/album/5tshdbWMJFoLEwMNOzZfqE) | 3:54 |
+| 2151 | [Lady Love](https://open.spotify.com/track/4YvoBTTCWFCus0R5pFPN9S) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/0wC7LND4olfhUHZK9HVLN5) | 2:54 |
+| 2152 | [kiss](https://open.spotify.com/track/1Y2iRXd3PqKD1HyePXazoF) | [NOVE!L](https://open.spotify.com/artist/1UcQ25atADwnZ2U461XkUV) | [kiss](https://open.spotify.com/album/4Yr43C1F088J9VKwiBI7va) | 2:15 |
+| 2153 | [Shaking My Ass Up In Heaven](https://open.spotify.com/track/3TlW2mSnjOUKjdR944olsH) | [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA) | [Dopamine Machine 2](https://open.spotify.com/album/2HCb4GnmQIp84i1ghqzVss) | 2:10 |
+| 2154 | [Let's go](https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw) | 2:26 |
+| 2155 | [+Dti](https://open.spotify.com/track/1TFcz69v0KJ6QY1xznGoDL) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [SoBlack / +Dti / AcidSuperstar](https://open.spotify.com/album/6SJENbjHrI4Q82Iz31JiUM) | 2:39 |
+| 2156 | [Schneeregen](https://open.spotify.com/track/2VUEgkK07QFkVaXCakaszE) | [Maeksll](https://open.spotify.com/artist/6ElI8iHCEayoMkB2AAdb8Z) | [Limbus](https://open.spotify.com/album/0L08iy3wPuFtQUVa5ZrKCs) | 3:08 |
+| 2157 | [A Place in My Heart](https://open.spotify.com/track/63nVw57nNdzTH9amMniqHz) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Club 8](https://open.spotify.com/album/21tH9UVpP8QCb3ErUMS2rB) | 3:40 |
+| 2158 | [WANTED \(pt.2\)](https://open.spotify.com/track/7cQzN3zVJy60FStEAHh2qZ) | [Passing Currents](https://open.spotify.com/artist/1IOfE2EZJLsJ5H87ucZmrq) | [WANTED](https://open.spotify.com/album/6qJCjlc0nWYzApHHlgDnUi) | 2:40 |
+| 2159 | [Picanya 2400 \- Edit](https://open.spotify.com/track/5DiQ3VjKVa9GgSoKj4Fwgh) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Picanya 2400](https://open.spotify.com/album/57kBut65htYBqDDN41dx0E) | 4:09 |
+| 2160 | [2008](https://open.spotify.com/track/4FOuhsFBiLRtEzabE3SL3c) | [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA) | [Trenches](https://open.spotify.com/album/6o0CfxDsM79Gluv6UAIXa0) | 1:21 |
+| 2161 | [Letting A New Day Begin](https://open.spotify.com/track/1We5almLPSlFDsUGzJ1DeX) | [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA) | [Dopamine Machine 2](https://open.spotify.com/album/2HCb4GnmQIp84i1ghqzVss) | 2:01 |
+| 2162 | [rotten \- DJmegan23 Remix](https://open.spotify.com/track/1ZSpxoeuaZdAljvVFY3aHq) | [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA), [anna luna](https://open.spotify.com/artist/6uGADSP0D3HW4ZpALfJwUR) | [rotten \(DJmegan23 Remix\)](https://open.spotify.com/album/3GYZdhEpz1PIemHn6L34lL) | 1:53 |
+| 2163 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 |
+| 2164 | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa) | 3:09 |
 
-Snapshot ID: `AAAER+RFvbtHKUfsxELB4fDEw5xHOx6T`
+Snapshot ID: `AAAEVS6udk9qfa3S0ZW0wvob36087rgf`

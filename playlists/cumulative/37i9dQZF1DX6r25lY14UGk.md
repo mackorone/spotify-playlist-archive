@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Peppa Pig
 
-824 songs - 1 day 10 hr 21 min
+828 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [I Got You](https://open.spotify.com/track/4rjxhh5jLt8hXp8OUG6Mk4) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [I Got You](https://open.spotify.com/album/6ybR7fgjhTI8njwICEmxZx) | 2:21 | 2022-10-07 | 2024-01-05 |
 | [I Had Some Help](https://open.spotify.com/track/51qlmIzRQ4umywvb5O3eUX) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [I Had Some Help](https://open.spotify.com/album/0g4y8DkKHPBewuVozOUU7a) | 2:59 | 2024-08-30 | 2025-03-08 |
 | [I Have a Loose Tooth](https://open.spotify.com/track/77XFzyzPZi8X0TAXZk0WzX) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I Have a Loose Tooth](https://open.spotify.com/album/2dYOvjxlMbMezaJaQrBBh8) | 3:02 | 2024-08-30 | 2025-03-08 |
+| [I Have a Toy](https://open.spotify.com/track/2pDyKDiUqgp3VaAc93pzwK) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [I Have a Toy](https://open.spotify.com/album/1vXDA9v7im4gShYYwP7nRl) | 2:10 | 2025-06-20 |  |
 | [I Hear America Singing](https://open.spotify.com/track/0nUSS3iQn8xRRbaHlluzZ6) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA), [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9) | [I Hear America Singing](https://open.spotify.com/album/2U9PJN4oTDBDxoe4yJX0uU) | 4:04 | 2022-04-15 | 2023-10-21 |
 | [I Like How You Think](https://open.spotify.com/track/3YGZI41Qm5cX8o2qQtC7FH) | [Dee & Friends](https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln) | [Believe](https://open.spotify.com/album/50TXQU2HIBdII7vExsqUpA) | 1:17 | 2024-10-11 | 2025-03-08 |
 | [I Like to Draw](https://open.spotify.com/track/2F2u288TfV1GT81hcAvG8M) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I Like to Draw](https://open.spotify.com/album/5Ufkpxj1zB3GYxiNWhFWSJ) | 2:25 | 2024-09-13 | 2025-03-08 |
@@ -464,6 +465,7 @@
 | [Magic Day](https://open.spotify.com/track/5X0GFoSX2gq0VfPqgsK3Jf) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Orbit Deen](https://open.spotify.com/artist/17tuJG7gcopBASfFsVr4pb) | [Magic Day](https://open.spotify.com/album/7CdnhWwYTOWWdMKlxJFwcp) | 2:59 | 2022-04-15 | 2023-10-21 |
 | [Magic Words](https://open.spotify.com/track/2kDyYf1ltjSVcMV0rjkyEz) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Magic Words](https://open.spotify.com/album/1dHOus3prUwqULN5eOKjL5) | 3:06 | 2025-05-30 |  |
 | [Magic Words Song](https://open.spotify.com/track/4lopHo0eInAeE6hvH4MMXh) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Magic Words Song](https://open.spotify.com/album/5QjBWvb6JUgjAYaCebeN9O) | 2:11 | 2024-01-26 | 2024-08-24 |
+| [Magical Birthday Wish](https://open.spotify.com/track/1d96ZT2BOzJyD5A1uWUNqI) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark's Birthday Splash](https://open.spotify.com/album/4X8BvKUJ2Pt5N2NNJm8LvM) | 2:06 | 2025-06-20 |  |
 | [Major Tom \(Coming Home\)](https://open.spotify.com/track/7iIqM6aRzrWFJ54bqRJFNY) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Major Tom \(Coming Home\)](https://open.spotify.com/album/3BlZf2W4J410EXrzHoIDu4) | 3:55 | 2024-07-26 | 2025-03-08 |
 | [Make a Card](https://open.spotify.com/track/1x4me9n59zLrAD1mlmYxGs) | [Bebefinn](https://open.spotify.com/artist/0HOIrKyqmmjsxXIhuIx1Q3), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Bebefinn 3 \(Pt\. 2\)](https://open.spotify.com/album/0nbreTSoNFYfw1HhpzZaUe) | 3:06 | 2025-01-24 |  |
 | [Make a Funny Face](https://open.spotify.com/track/63Q5CyN54WQ6ZSyCQTAoM1) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Make a Funny Face](https://open.spotify.com/album/3jiIk4C1Nt70CuLoVFahg2) | 2:21 | 2024-03-29 | 2024-08-24 |
@@ -625,6 +627,7 @@
 | [Six Little Ducks](https://open.spotify.com/track/7jgMcaafsL3YvZyymuuJSy) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Six Little Ducks](https://open.spotify.com/album/1JBMMyIQyBfemZCWRmPDx1) | 1:58 | 2025-04-04 |  |
 | [Skating Together Is Fun](https://open.spotify.com/track/0yRgMWkb51x8Vy9xZbxOSu) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel, Vol\. 2](https://open.spotify.com/album/5hvcBoGCAjemINxJxpfkKT) | 3:41 | 2024-05-03 | 2025-03-08 |
 | [Skidamarink](https://open.spotify.com/track/5YYShxMDEWiqNqlB67KuDj) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Baby Shark's Valentine's Day Songs](https://open.spotify.com/album/7nzHS1N3KZXUcdRYi712T1) | 1:32 | 2025-02-14 |  |
+| [Skye’s Music Party: Fly With Me](https://open.spotify.com/track/3sVY2WwtyqkvOAmXjbNKxJ) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Skye’s Music Party: Fly With Me](https://open.spotify.com/album/0k5MKGh0dENMjjUpylu7OX) | 1:58 | 2025-06-20 |  |
 | [Slime Song](https://open.spotify.com/track/3fp5qGSSnfUkiezSv6h2MG) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Slime Song](https://open.spotify.com/album/4YXdbEwhK7W9JXsJEAWKtZ) | 1:51 | 2024-02-02 | 2024-08-24 |
 | [Sloth Song](https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Sloth Song](https://open.spotify.com/album/1CRGwitVzCfM6ruhkkCUjY) | 2:40 | 2024-03-01 | 2024-08-24 |
 | [Smile and Roar](https://open.spotify.com/track/1LOcWc29BlHNEGrWSHHMfH) | [D.I.N.O.](https://open.spotify.com/artist/4sZ3HWBA7p8ijTBLIwbJ0j) | [Smile and Roar](https://open.spotify.com/album/7teO541Mbi2wT6TrIUadwS) | 1:40 | 2024-11-08 | 2025-03-08 |
@@ -665,6 +668,7 @@
 | [Sun Safety](https://open.spotify.com/track/4mjJBfM3AbvdR3yATMYQQV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [It's Gonna Be A Great, Great Day!](https://open.spotify.com/album/63IsFT9czhPYdLK7SnKg1z) | 2:42 | 2023-09-22 | 2024-02-10 |
 | [Sunny Day \(Come and Play With Me\)](https://open.spotify.com/track/73fEHe5tfU3aXBNQHjugOP) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Finny the Shark](https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i) | [Sunny Day \(Come and Play With Me\)](https://open.spotify.com/album/4AFXU4JtA5uKIQn2CCPB8m) | 2:26 | 2024-05-10 | 2025-03-08 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-04-15 | 2024-01-05 |
+| [Surprise Eggs with Little Chicks](https://open.spotify.com/track/6s5tqboU2TUb1dZsfAkIfy) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Surprise Eggs with Little Chicks](https://open.spotify.com/album/37DM3KIndLeIwXTuXei0MX) | 2:37 | 2025-06-20 |  |
 | [Sway](https://open.spotify.com/track/2Y2pWaHeqp0W7OqhFSj0ra) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Sway](https://open.spotify.com/album/5YH1c6XadFeBRLXRiyQUR8) | 3:14 | 2022-04-15 | 2023-11-11 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 | 2022-04-15 | 2023-10-21 |
 | [Syzygy](https://open.spotify.com/track/1LBKOcvDxeoPzsP1hgQB5o) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Eclipse: The Musical](https://open.spotify.com/album/4bLwHgjmfLPcT1jl3zno2L) | 3:16 | 2024-03-22 | 2024-08-24 |

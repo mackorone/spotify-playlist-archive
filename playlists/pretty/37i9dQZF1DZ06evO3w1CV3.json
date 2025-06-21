@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 29262,
+  "num_followers": 29279,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFIBgAAAAACP+CL6kGmBU3bUFCtH1nnG",
+  "snapshot_id": "aFNTAAAAAACPPOBpcS2Et4usuHCUIwBb",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Crime",
+        "url": "https://open.spotify.com/album/6m8aWBP7ptNMPyt7W3NvRa"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 152643,
+      "name": "Perfect Crime",
+      "url": "https://open.spotify.com/track/5HavXKjua26Sg0OB8LY7YD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE NEW WORLD",
         "url": "https://open.spotify.com/album/7mNF4Ef0UZpZyOc9NTOmx1"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Since I Left You (Demo)",
-        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 207048,
-      "name": "Since I Left You - Demo",
-      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 188926,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/0RVEAF3XFF2dZFhI8O58JF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Since I Left You (Demo)",
+        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 207048,
+      "name": "Since I Left You - Demo",
+      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
     },
     {
       "added_at": null,
@@ -475,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 189371,
+      "name": "19th Floor",
+      "url": "https://open.spotify.com/track/3fKmIoHvrhBQMOITJYeyeb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
       },
@@ -491,22 +523,6 @@
       "duration_ms": 201933,
       "name": "Strength (R U Ready) [feat. Joy Crookes]",
       "url": "https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 189371,
-      "name": "19th Floor",
-      "url": "https://open.spotify.com/track/3fKmIoHvrhBQMOITJYeyeb"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Influence EP",
-        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "New Manhattan",
-      "url": "https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 215300,
       "name": "Wild Jasmine",
       "url": "https://open.spotify.com/track/02AtJRkWiLd5rl0oFjSxhR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Influence EP",
+        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "New Manhattan",
+      "url": "https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX"
     }
   ],
   "unique_name": "This Is Joy Crookes",

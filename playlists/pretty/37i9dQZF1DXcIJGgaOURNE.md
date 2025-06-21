@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,434 likes - 110 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,445 likes - 110 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brand New Drop \- Nikki Nair Remix](https://open.spotify.com/track/6z3G0fCIaFUiClsBaaHrqc) | [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Fred Neutron Remixes](https://open.spotify.com/album/3vt6HI0pJDrtTfhsrxuStp) | 6:45 |
 | 2 | [Swing King](https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Swing King](https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo) | 4:29 |
-| 3 | [Spacey \- Doctor Jeep Remix](https://open.spotify.com/track/7IdvWUtnKuI3usOHI5WoVF) | [Bell Curve](https://open.spotify.com/artist/1DMtZ4G72tuqMxRiJNTkQf), [Strategy](https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs), [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Unstable Orbit \(The Remixes\)](https://open.spotify.com/album/2zu5uGwEgcsO309JA5aRcm) | 6:01 |
+| 3 | [Spacey \- Doctor Jeep Remix](https://open.spotify.com/track/7IdvWUtnKuI3usOHI5WoVF) | [Bell Curve](https://open.spotify.com/artist/1DMtZ4G72tuqMxRiJNTkQf), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Unstable Orbit \(The Remixes\)](https://open.spotify.com/album/2zu5uGwEgcsO309JA5aRcm) | 6:01 |
 | 4 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 |
 | 5 | [KILL DEM](https://open.spotify.com/track/1KVjRdgbrpn8M3b7SdIfHf) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 3:43 |
 | 6 | [Ticket in my pocket](https://open.spotify.com/track/6cgCvgBPc6e7zlndVVzcrW) | [Regal86](https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613) | [Pro Club XL](https://open.spotify.com/album/1JM2cyK61qWuBa8jr4B3ft) | 5:14 |

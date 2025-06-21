@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,129 likes - 137 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,142 likes - 137 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 | 136 | [Beneath a Summer Sky](https://open.spotify.com/track/3jqgSCeCfn179Gu9gVHFOL) | [Stan Curley](https://open.spotify.com/artist/2FjuSwXleCYb93E7k8NE2d) | [Beneath a Summer Sky](https://open.spotify.com/album/4qj5YJf1p4Qf0SA7Kxi5Jg) | 1:47 |
 | 137 | [Look at All The Roses](https://open.spotify.com/track/57a0L2Q550npr3z6ORLDb2) | [Sky McKinley](https://open.spotify.com/artist/3cRPaSpbayvCIRIhpsmVt0) | [Look at All The Roses](https://open.spotify.com/album/1S17gV9u9JIDAQCPLciFR0) | 2:24 |
 
-Snapshot ID: `AAAAAC5cKQ1iYmvfthQs24h0ExJ0y6JQ`
+Snapshot ID: `aEaWEAAAAAAr1bgdFAiH037iv23Xheid`

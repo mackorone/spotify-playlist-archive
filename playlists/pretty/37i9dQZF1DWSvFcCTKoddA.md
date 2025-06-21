@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,028 likes - 27 songs - 22 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,029 likes - 27 songs - 22 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 22 | [Se faire boloss en amour](https://open.spotify.com/episode/1kDp07WITosfn1lBzZt1Kd) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 37:38 |
 | 23 | [Cher journal \(update life omg\)](https://open.spotify.com/episode/6bQIlujl7Aaf4JGSU1YDWM) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 41:14 |
 | 24 | [Simple connexion ou relation amoureuse? \(ou tu te crée une connexion solo?\)](https://open.spotify.com/episode/3WUiEOOIT1SKZZar0pVQp4) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 34:08 |
-| 25 | [Juliette Katz \- "J’ai jamais bu de margarita de ma vie"](https://open.spotify.com/episode/4pARlnLT2XTiq9bbEHCoSe) | [](https://open.spotify.com/show/null) | [](https://open.spotify.com/album/null) | 51:25 |
-| 26 | [J'emménage avec Monsieur de Brauer](https://open.spotify.com/episode/7qGa1yqTIp02WqL8E7MTO8) | [](https://open.spotify.com/show/null) | [](https://open.spotify.com/album/null) | 27:11 |
-| 27 | [Pierre Delahousse \- "Je mangeais la fourchette en bois"](https://open.spotify.com/episode/1XQxu8J4s6svFGWilzPPNH) | [](https://open.spotify.com/show/null) | [](https://open.spotify.com/album/null) | 59:21 |
+| 25 | [Juliette Katz \- "J’ai jamais bu de margarita de ma vie"](https://open.spotify.com/episode/4pARlnLT2XTiq9bbEHCoSe) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 51:25 |
+| 26 | [J'emménage avec Monsieur de Brauer](https://open.spotify.com/episode/7qGa1yqTIp02WqL8E7MTO8) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 27:11 |
+| 27 | [Pierre Delahousse \- "Je mangeais la fourchette en bois"](https://open.spotify.com/episode/1XQxu8J4s6svFGWilzPPNH) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 59:21 |
 
 Snapshot ID: `Z6odSwAAAADKVSTnhaoi64SrPT+G8Pqa`

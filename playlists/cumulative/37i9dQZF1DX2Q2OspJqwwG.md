@@ -4,7 +4,7 @@
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-329 songs - 16 hr 24 min
+330 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Dacă n\-Ai Fi Tu](https://open.spotify.com/track/5fK0HneU3A3fOz50vmC4hw) | [Codu Penal](https://open.spotify.com/artist/0rpYH1tgF3MSY4BgFF3XFD), [Moni\-K](https://open.spotify.com/artist/3mVdqlXNluZ40cwSAQKcjq) | [Apocalipsa](https://open.spotify.com/album/0M9bY9klg5YX8i7eym3J3j) | 4:40 | 2025-05-05 | 2025-06-10 |
 | [Dacă știam](https://open.spotify.com/track/4kjB0T0RDwjUPEnCJC7yI0) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Aylin](https://open.spotify.com/artist/7q7ky3reAgSwLwfVEqnMPd) | [Erupt](https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf) | 3:13 | 2025-03-17 | 2025-03-25 |
 | [Dale](https://open.spotify.com/track/1kJZcZ9lGFv7wRvLEr8mA7) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9) | [Cancel Culture](https://open.spotify.com/album/35AgiQflCImmCiONnAetsh) | 2:18 | 2025-04-14 | 2025-04-24 |
+| [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-06-20 |  |
 | [Damelo](https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Mr\. Juve](https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8) | [Damelo](https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW) | 2:37 | 2025-04-28 |  |
 | [Dansez Plangand](https://open.spotify.com/track/2NwTDWyCkEAsNFWh4JGlAp) | [BiBi](https://open.spotify.com/artist/501jZ73SyTVmMX5oAPYwEX) | [Dansez Plangand](https://open.spotify.com/album/3NqeTGAkEd4EcTU4zVc3RV) | 2:53 | 2024-11-18 | 2024-12-03 |
 | [DE BINE DE RAU](https://open.spotify.com/track/74ouvojzES41ppFAXSI5FU) | [Raul Ws](https://open.spotify.com/artist/0jd4rNLzxZYyxEcvOGRtO4) | [ELWS](https://open.spotify.com/album/1dWPc88PBVd7ura4W4kZa7) | 3:07 | 2025-06-09 |  |
@@ -328,7 +329,7 @@
 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 | 2024-07-29 | 2025-03-11 |
 | [XS](https://open.spotify.com/track/2sebxyE9xtgikJ9D70p6xL) | [Cezar Guna](https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [XS](https://open.spotify.com/album/2ptqzIwRIKe37Wlsuix74E) | 2:19 | 2025-01-13 | 2025-01-28 |
 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 | 2025-01-20 |  |
-| [Yali, Yali](https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Yali, Yali](https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g) | 2:35 | 2024-08-26 |  |
+| [Yali, Yali](https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Yali, Yali](https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g) | 2:35 | 2024-08-26 | 2025-06-21 |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-15 |  |
 | [ZARI](https://open.spotify.com/track/3wRgk5tGQzfNXtSawH8O3S) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 3:00 | 2024-07-01 | 2024-07-23 |
 | [Zhurek](https://open.spotify.com/track/0ZyiSPeBaGwuisTDjyiZwh) | [Adam](https://open.spotify.com/artist/2Rx9jnSfHGgsERd4A525rV) | [Zhurek](https://open.spotify.com/album/5IQAGqXWPrDHx76Vw08FcY) | 3:16 | 2024-07-01 | 2025-01-21 |

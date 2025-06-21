@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Tropical Fuck Storm
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,374 likes - 125 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,634 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Heavy Jelly](https://open.spotify.com/track/0WWJZU5HrQHxshzma0h9LC) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVIER JELLY](https://open.spotify.com/album/3Rz31xgqFQGTlkABzhv7Qo) | 2:36 |
 | 125 | [Cat Guy](https://open.spotify.com/track/1ZG6oGxZ6DrXhJCBbWno5T) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Cat Guy](https://open.spotify.com/album/0L0DIAjgEFhy08JmNgXMeL) | 4:21 |
 
-Snapshot ID: `aFSWhgAAAABu7O4W7okJBFyOACm09Zq+`
+Snapshot ID: `aFSWhgAAAACznBu1xi2vKZIHPzoS4T9F`

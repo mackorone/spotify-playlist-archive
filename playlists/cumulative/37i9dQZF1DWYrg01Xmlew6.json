@@ -1845,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "Cognac",
+        "url": "https://open.spotify.com/album/5nCMpBVzwTqBa3oRt4JZee"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "EMDI",
+          "url": "https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132989,
+      "name": "Cognac",
+      "url": "https://open.spotify.com/track/67Q1q8qimE7qPaGehMqih8"
+    },
+    {
+      "album": {
         "name": "Colpa Mia",
         "url": "https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P"
       },

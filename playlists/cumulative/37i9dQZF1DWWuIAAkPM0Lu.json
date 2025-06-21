@@ -4091,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/6nFdbH0K0K16DZsjALaBov"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/4Wrj8ktJKiJ8T9Kn9eOalv"
+    },
+    {
+      "album": {
         "name": "All Right",
         "url": "https://open.spotify.com/album/4eikW8HEWg7LLFCzPQc8zi"
       },
@@ -39631,7 +39649,7 @@
       "artists": [
         {
           "name": "Eli",
-          "url": "https://open.spotify.com/artist/3z4L3novn4XHxQiHUsoCqP"
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
         }
       ],
       "date_added": "2025-06-19",
@@ -74301,6 +74319,28 @@
     },
     {
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245951,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
+    },
+    {
+      "album": {
         "name": "Passengers",
         "url": "https://open.spotify.com/album/5Phsy4wbNbfbRCUVpbyYcY"
       },
@@ -80879,6 +80919,24 @@
     },
     {
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167180,
+      "name": "Papasito",
+      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
+    },
+    {
+      "album": {
         "name": "Paper, Filter, Sm\u00f8ger, Chips og..",
         "url": "https://open.spotify.com/album/4StS5fv4MGxeFVhHlHJekv"
       },
@@ -86246,7 +86304,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"

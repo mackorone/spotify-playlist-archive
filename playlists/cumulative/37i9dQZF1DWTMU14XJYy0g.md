@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 Santiago Motorizado.
 
-396 songs - 1 day 0 hr 34 min
+398 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Amnesia](https://open.spotify.com/track/0pKq8NLJDwYbT7Ja7AEUYE) | [Francia 98](https://open.spotify.com/artist/6me7j5R08ARYKASHiqhvcu) | [Amnesia](https://open.spotify.com/album/4OMEnSsFgeenZiIVNjBIn6) | 3:47 | 2024-10-18 | 2025-02-08 |
 | [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 | 2022-07-29 | 2023-03-11 |
 | [Anarquía en Buenos Aires](https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Anarquía en Buenos Aires](https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5) | 3:58 | 2024-12-06 |  |
-| [Angel](https://open.spotify.com/track/20G3beDqFyupoDqEhAfunp) | [Los Títeres](https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ) | [Angel](https://open.spotify.com/album/1LGGUBSviv7Bwf8pKoSmsc) | 2:57 | 2025-02-21 |  |
+| [Angel](https://open.spotify.com/track/20G3beDqFyupoDqEhAfunp) | [Los Títeres](https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ) | [Angel](https://open.spotify.com/album/1LGGUBSviv7Bwf8pKoSmsc) | 2:57 | 2025-02-21 | 2025-06-21 |
 | [Arañas Bebé](https://open.spotify.com/track/5ftNxlkQO9WD9yKWn8K60f) | [Richard Coleman](https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Arañas Bebé](https://open.spotify.com/album/295GI99A9OkBbikjcuNavc) | 3:50 | 2023-11-10 | 2024-02-10 |
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-06-16 | 2024-04-06 |
 | [Ataque de Nervios](https://open.spotify.com/track/5ohwtgVYVXy9nOc7J9h5ab) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Ataque de Nervios](https://open.spotify.com/album/0oXboB0KtD8JPyMgY5SNYj) | 3:31 | 2022-06-24 | 2022-12-17 |
@@ -81,6 +81,7 @@
 | [Corazón de Neón](https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [El Último Que Apague la Luz](https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX) | 4:32 | 2022-06-24 | 2022-12-10 |
 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 | 2022-11-18 |  |
 | [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 | 2023-06-02 | 2023-09-02 |
+| [Corpiños](https://open.spotify.com/track/0he2pDZz4tYGsSTNDZUWex) | [Las Tussi](https://open.spotify.com/artist/5Zc1hvy8HoaA0vymJgcx6Q) | [Corpiños](https://open.spotify.com/album/1X3h0cRHuVDj42UFh0OyBR) | 4:05 | 2025-06-20 |  |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-06-24 | 2023-09-27 |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-21 |  |
 | [Cotillón](https://open.spotify.com/track/34raiVdzCIF5JvhHidN6mN) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:39 | 2025-05-16 |  |
@@ -173,6 +174,7 @@
 | [Hay Un Tirano Que Es para Vos](https://open.spotify.com/track/0ohAzwHz8iAtqu2QFUfnwG) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Hay Un Tirano Que Es para Vos](https://open.spotify.com/album/6iQsETOWDbUaRrvnoIKXL9) | 4:03 | 2025-01-09 | 2025-02-22 |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 | 2023-09-27 |
 | [Himno de Mi Corazón](https://open.spotify.com/track/34IdqsIJU7LvCOZbxMkmdt) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [Himno de Mi Corazón](https://open.spotify.com/album/486m3Z1LXcVvDl3uRZNE38) | 4:11 | 2023-12-08 | 2024-11-23 |
+| [HIPNOTIZA](https://open.spotify.com/track/1Tl1F40U1OuJeKLXEPoD4m) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [HIPNOTIZA](https://open.spotify.com/album/2fJHye9ew7HofQm30vGG0W) | 2:19 | 2025-06-20 |  |
 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 | 2022-06-24 | 2024-09-13 |
 | [Imaginación](https://open.spotify.com/track/3VJSyskDmUm115nQaDhlHr) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 3:21 | 2024-09-27 | 2025-04-05 |
 | [Imposible](https://open.spotify.com/track/2ogIId7Mb4XbHbP70aANN9) | [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Imposible](https://open.spotify.com/album/0T7oqLj0aXoS2ZCIegMEXQ) | 3:39 | 2023-12-15 | 2024-06-08 |

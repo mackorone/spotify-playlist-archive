@@ -4,10 +4,11 @@
 
 > The new wave of Latin pop 🌊 Cover: Alleh & Yorghaki
 
-972 songs - 2 day 0 hr 39 min
+974 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 | 2025-06-20 |  |
 | [10 Lágrimas](https://open.spotify.com/track/1Q4kIUJC6FMudx4jHoqMvi) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [10 Lágrimas](https://open.spotify.com/album/3bLEQfCe9Y6HSWmDyG591u) | 3:18 | 2022-04-15 | 2022-07-26 |
 | [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 | 2024-03-08 | 2024-05-18 |
 | [12,000 km](https://open.spotify.com/track/5DnX36CDWrLguHKaZehTOy) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH) | [Btw..\. Lo Intenté](https://open.spotify.com/album/2IuLknyBgn1Fe0yhdqh0zW) | 2:56 | 2025-03-21 | 2025-05-03 |
@@ -308,6 +309,7 @@
 | [Entre Nosotros](https://open.spotify.com/track/0551s9ptYuk27SQfPb5uQu) | [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [KARMA](https://open.spotify.com/album/3n9mxahL1taHRBm02WOvAC) | 3:25 | 2024-10-25 | 2025-01-11 |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-11-10 | 2024-02-03 |
 | [ENVIDIOSA](https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [ENVIDIOSA](https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM) | 2:28 | 2022-09-23 | 2022-12-10 |
+| [Es Lo Que Hay](https://open.spotify.com/track/6GnU9T36zfadwOpveFyl1L) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Lo Que Hay](https://open.spotify.com/album/3f1lwfRbfZCji5I02PqmCo) | 2:22 | 2025-06-20 |  |
 | [Es Tan Corta la Vida](https://open.spotify.com/track/7gySsUqpWJhn76VDeAAV3Y) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Es Tan Corta la Vida](https://open.spotify.com/album/5kvEHpZK5jxDLnthN7GB5D) | 2:48 | 2025-05-30 |  |
 | [escala en Panamá](https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:12 | 2024-08-09 | 2024-11-23 |
 | [escapar de mí](https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [escapar de mí](https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1) | 3:48 | 2024-03-15 | 2024-06-08 |

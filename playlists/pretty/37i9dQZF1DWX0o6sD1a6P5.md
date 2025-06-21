@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Himra
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,545 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,798 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Ballon d'or](https://open.spotify.com/track/79VtonGgvoyENawzktwOrt) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Ballon d'or](https://open.spotify.com/album/3WScTyJbc0q5X7xb9rei6O) | 2:11 |
 | 50 | [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 |
 
-Snapshot ID: `aFSIhwAAAAAF5aSRRF078mKkXw1DyM+K`
+Snapshot ID: `aFSIhwAAAABYl1RpqXTuGIwFcAef4YVA`

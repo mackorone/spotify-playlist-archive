@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: kwn
 
-1,541 songs - 3 day 5 hr 51 min
+1,543 songs - 3 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 | 2024-11-15 |
 | [Forward Motion \- Original](https://open.spotify.com/track/4wrrjT0SKCv2Edoqj6M74K) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Forward Motion](https://open.spotify.com/album/6Nt79d5qlmaomNePah92jP) | 5:26 | 2023-09-16 | 2023-09-19 |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-02-25 | 2022-03-11 |
-| [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-03-28 |  |
+| [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-03-28 | 2025-06-21 |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-10 | 2024-11-26 |
 | [FREE SLIME / SEXY GIRLS](https://open.spotify.com/track/4KzbUS6vwCexTYH7JZgAOy) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FREE SLIME / SEXY GIRLS](https://open.spotify.com/album/6AJW9zpQPn7MOgxky2YeEB) | 4:25 | 2023-07-27 | 2023-09-08 |
 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 | 2023-07-27 | 2023-08-18 |
@@ -1033,6 +1033,7 @@
 | [Out the Mud](https://open.spotify.com/track/3nujAezaSHNaF7s3covrQC) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [AV Allure](https://open.spotify.com/artist/7tjcbOzzgu3LU36xMW1Giy) | [The Archives](https://open.spotify.com/album/0Y93AVSi3ozJWfL0DrOsix) | 3:28 | 2025-01-03 | 2025-04-04 |
 | [Outings](https://open.spotify.com/track/6hL6yqDgATebDYnao2AgLV) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Outings](https://open.spotify.com/album/6ZdcnQXEiP6JGjydmvvyaZ) | 2:45 | 2023-06-08 | 2023-08-04 |
 | [Outside](https://open.spotify.com/track/4T6e6kmXWZor5vuviPDrR8) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Outside](https://open.spotify.com/album/0Ml1rHhHIimsKY5G6AZh2b) | 2:19 | 2023-06-29 | 2023-08-18 |
+| [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 | 2025-06-20 |  |
 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 | 2022-03-25 | 2022-05-06 |
 | [Overboard](https://open.spotify.com/track/2melgMWdSgph1i1zC3xORu) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Overboard](https://open.spotify.com/album/6SEs8vv2s6shts0RJBopIx) | 2:54 | 2025-03-21 | 2025-06-13 |
 | [Overdue](https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Overdue](https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3) | 2:57 | 2022-08-23 | 2022-08-31 |
@@ -1440,6 +1441,7 @@
 | [Veteran](https://open.spotify.com/track/2cHetITRRw9TZtcmsVdjbS) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Veteran](https://open.spotify.com/album/2NkaFioRIq3TyUiQLtz1i7) | 2:20 | 2023-07-20 | 2023-08-01 |
 | [VEX \(FEAT\. GHETTS & BACKROAD GEE\)](https://open.spotify.com/track/5W3J4sNMvx5H7ZjWobJvls) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [VEX \(FEAT\. GHETTS & BACKROAD GEE\)](https://open.spotify.com/album/74ZPUtGu9yZ0kf7ctOHiDS) | 3:43 | 2023-02-24 | 2023-04-09 |
 | [ViBRATiON](https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [LOVE is WAR, Volume 6](https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq) | 3:50 | 2024-03-08 | 2024-03-09 |
+| [Victory Lap](https://open.spotify.com/track/1jorBT8jSOAK3IIVxAvCh8) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [USB](https://open.spotify.com/album/0KtLq4mTF0Qoz4rVTcHeg7) | 2:45 | 2025-06-20 |  |
 | [Victory Lap](https://open.spotify.com/track/1hiHsWOKJq9KNgCwFiKjmf) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Victory Lap](https://open.spotify.com/album/3t692xd7MH6fZ0XqeemiA6) | 2:00 | 2024-05-24 | 2024-06-14 |
 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 | 2024-04-25 | 2024-06-01 |
 | [Voice Of The Streets Freestyle](https://open.spotify.com/track/41dlOOI3YbvcEscyhRqUud) | [Catch](https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT) | [Voice Of The Streets Freestyle](https://open.spotify.com/album/3SykZIXcS65tQGxuqzNJ1s) | 6:52 | 2024-09-25 | 2024-10-04 |

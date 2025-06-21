@@ -5745,6 +5745,24 @@
     },
     {
       "album": {
+        "name": "Broken Branches",
+        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Standing In The Sun",
+      "url": "https://open.spotify.com/track/52oGivE4l0e5L5D9faGDO1"
+    },
+    {
+      "album": {
         "name": "Stayin' Quit",
         "url": "https://open.spotify.com/album/6dMpzHaEE4fND0GXkqHMc7"
       },

@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,789 likes - 20 songs - 1 hr 10 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,794 likes - 20 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Headstones](https://open.spotify.com/track/4nHFfSDh3pX9uBr86FLVwf) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Headstones](https://open.spotify.com/album/3AscAyjq1SctzFVi1YoC4U) | 3:01 |
-| 2 | [Fearless](https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Fearless](https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC) | 3:35 |
-| 3 | [who am i?](https://open.spotify.com/track/0pfFn3KYKI6mc6fd4blgxA) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [who am i?](https://open.spotify.com/album/0nPc7GBdemUzf6YsHc3YpS) | 2:49 |
-| 4 | [And a Big Load](https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [And a Big Load](https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx) | 2:53 |
-| 5 | [politix](https://open.spotify.com/track/4hZYlamBpLerJCoFjJ6BBq) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [politix](https://open.spotify.com/album/3siWh7rJo3ncwWHq8SjnFq) | 2:45 |
-| 6 | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF) | 3:06 |
-| 7 | [So](https://open.spotify.com/track/2NhdvNfoYNOf9zsLB4mrug) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f) | [So](https://open.spotify.com/album/7rvvISzXxlwKHXFZkjryfw) | 4:42 |
-| 8 | [Morning Person](https://open.spotify.com/track/4DqoLkU8GJ7AlvcGKx2Fva) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 6:47 |
-| 9 | [Easier Said Than Done](https://open.spotify.com/track/4bmFe4XlRDAvx0BW5Lc3bd) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Easier Said Than Done](https://open.spotify.com/album/53sHMpu1fjrLTFBwPJZ8lC) | 3:05 |
-| 10 | [Dance Like That](https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Dance Like That](https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ) | 3:14 |
-| 11 | [Clouded Retinas \(feat\. Will Ramos\)](https://open.spotify.com/track/4uuG66FRhvdVenLtyfWx5h) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Clouded Retinas \(feat\. Will Ramos\)](https://open.spotify.com/album/6GpJYLV6rt9lPXz84nZuaM) | 3:12 |
-| 12 | [Last Time](https://open.spotify.com/track/5ifPlR8w2NUCq3sHyrfd5a) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Last Time](https://open.spotify.com/album/2Q0XmU6dUpl6ckyMwVd5Mj) | 3:05 |
-| 13 | [Nervous Impulse](https://open.spotify.com/track/2LHqScBDjrCPSBt19haUqP) | [Still In Love](https://open.spotify.com/artist/5pEdaTDQ6Q4pHaLf3qhs3Q) | [Nervous Impulse](https://open.spotify.com/album/4unGjfdBSsyj1mJF9GZiai) | 1:45 |
-| 14 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 |
-| 15 | [I Am A Cursed One](https://open.spotify.com/track/7oxDYQjmntWkVkXWCUbd3R) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED \(The Complete Edition\)](https://open.spotify.com/album/4HvT7gjlwJ1q1Lt5Bm19dE) | 3:21 |
-| 16 | [Bitter Seeds](https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Bitter Seeds](https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB) | 4:31 |
-| 17 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
-| 18 | [Waiting 4 U](https://open.spotify.com/track/7bu8SZx5uGDoEqu5eYsb4z) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Waiting 4 U](https://open.spotify.com/album/23m95jy1nHet435Uc3Z5Yi) | 3:01 |
-| 19 | [Abuser](https://open.spotify.com/track/3JaHVziVDhwtOX4wNWyUGL) | [Shields](https://open.spotify.com/artist/7axtOAPWPWUITkUpTHL34I) | [Abuser](https://open.spotify.com/album/3BCbSqpHb7wjJgz2yUxV1s) | 1:15 |
-| 20 | [Seed](https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Seed](https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK) | 4:49 |
+| 1 | [The American Machine](https://open.spotify.com/track/0Uy5b6576ZKlmXutMgIZXl) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The American Machine](https://open.spotify.com/album/4fv7VXYisoENeLelvaHA4H) | 3:43 |
+| 2 | [Into Hell](https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Into Hell](https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS) | 3:12 |
+| 3 | [She Is Afraid](https://open.spotify.com/track/0cISdDwOwlJbdYE0FnRS2Y) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [She Is Afraid](https://open.spotify.com/album/70TxacMkoyDk6aOAdkb4bA) | 3:41 |
+| 4 | [Anita Ride](https://open.spotify.com/track/28KqDZ2qWkxHHKWL32LlpN) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Anita Ride](https://open.spotify.com/album/0RipZBFRz6HZfS55MyNv7P) | 3:25 |
+| 5 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
+| 6 | [Wahoo](https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Wahoo](https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq) | 2:05 |
+| 7 | [Sick Of Being Down](https://open.spotify.com/track/6S33PGYHXqJQY5pSrdJsUP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Sick Of Being Down](https://open.spotify.com/album/38sDUnAK5fzcaPIvxVXvyB) | 3:24 |
+| 8 | [Heresy](https://open.spotify.com/track/23YX7zK3ThgfI1AMNZD8Wl) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Heresy](https://open.spotify.com/album/6Q9fIeW2TiXynicAcBkxCJ) | 3:35 |
+| 9 | [Upside Down](https://open.spotify.com/track/6FX3esU21yEcnwhZtFlloL) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Upside Down](https://open.spotify.com/album/3KujdnfhASvMZsSFTDf5Go) | 3:17 |
+| 10 | [Waterfall](https://open.spotify.com/track/3vpAWGsnUk6YESo071ahXA) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Waterfall](https://open.spotify.com/album/57P6518jygT3Hj9Il7x4o0) | 3:24 |
+| 11 | [AT&T](https://open.spotify.com/track/7nlsFEDlKhALHl1NTR2CJe) | [Liquid Mike](https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN) | [AT&T](https://open.spotify.com/album/107Uua7AGroSfWPeLsEO5Z) | 2:18 |
+| 12 | [In Civic Pride](https://open.spotify.com/track/77yRtHy4YBnM0IQOvDUiSQ) | [THE NONE](https://open.spotify.com/artist/4h8RlQSJtDtEOgT800Q2OG) | [At Hope / In Civic Pride](https://open.spotify.com/album/4HmiDTGvUPJ2nERU1LiHnx) | 2:39 |
+| 13 | [C'est La Vie](https://open.spotify.com/track/7J5zrmSVeayUtEr8VMDljA) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [C'est La Vie](https://open.spotify.com/album/18sNNLd89IAKHL7T707yyk) | 2:48 |
+| 14 | [Forsaken](https://open.spotify.com/track/38jtfBswHjY19sicV4KVC3) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Forsaken](https://open.spotify.com/album/0q7wiOqTy6c42gTbf9gdRs) | 3:33 |
+| 15 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
+| 16 | [Rising High](https://open.spotify.com/track/61seLcHUDSr6ysOCmeTrQr) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Rising High](https://open.spotify.com/album/4moCWORbafoaBEmSJqmTZo) | 3:12 |
+| 17 | [SET IN FLOW](https://open.spotify.com/track/45muARIbE2PvMA3XeEki3o) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [SET IN FLOW](https://open.spotify.com/album/370kc4uLAidXP9YqCiU2px) | 2:52 |
+| 18 | [Day of Iva](https://open.spotify.com/track/51bJlHHLoe1t3vIX3swfRW) | [Beauty School](https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6), [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Day of Iva](https://open.spotify.com/album/5CMIWpAQKWsTH3ovIF9dxt) | 3:41 |
+| 19 | [Mercy Death](https://open.spotify.com/track/7p2GGrbDlqspBkGKpDudvx) | [lowheaven](https://open.spotify.com/artist/0LCI5aIo6Wd80D1AzHEu0F) | [Mercy Death](https://open.spotify.com/album/6A2cdVM01jHmpwztDJ2eVH) | 4:10 |
+| 20 | [Today's Gonna Be Our Day](https://open.spotify.com/track/7nSwB34Jx0X10dzbw7LLrX) | [The Molotovs](https://open.spotify.com/artist/3DL0niCT8vzd0DQ0AXaLly) | [Today's Gonna Be Our Day](https://open.spotify.com/album/2qOlW0bYCf4NPtpqid2apZ) | 3:28 |
 
-Snapshot ID: `AAAM5740UPGb/jBigNC7uMaiudKZ8sWY`
+Snapshot ID: `AAAM6nPGm2QsX4hZchG/UDZThxkeOFn6`

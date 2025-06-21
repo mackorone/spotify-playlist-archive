@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Randy & Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,927 likes - 200 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,957 likes - 200 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jetski](https://open.spotify.com/track/0M4FCnAqtMJUDwPEiK3hqz) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Jetski](https://open.spotify.com/album/4Dk1uW3ZKuBGVB7dzangr8) | 2:43 |
 | 2 | [K Chula](https://open.spotify.com/track/6BQ13I6TnfZw6kv0hXxFyb) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [K Chula](https://open.spotify.com/album/4lGeTVuxQaXo47lU1aTpTa) | 3:13 |
-| 3 | [Facecard](https://open.spotify.com/track/5Q4UuBc4zX6LgSGinXyjtJ) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Facecard](https://open.spotify.com/album/4vDESk8j4jFSPKUEPGGUrw) | 2:15 |
+| 3 | [Facecard](https://open.spotify.com/track/5Q4UuBc4zX6LgSGinXyjtJ) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [Davvinccii](https://open.spotify.com/artist/6X5NjzqRMaossDssdlxdu8), [AndrahPR](https://open.spotify.com/artist/3ICR0LgQlwZ2F78lTexRYS) | [Facecard](https://open.spotify.com/album/4vDESk8j4jFSPKUEPGGUrw) | 2:15 |
 | 4 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
 | 5 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
 | 6 | [UNA NOCHE DE LOCURA](https://open.spotify.com/track/3L5V6BpgH5g9V5sMR24MWg) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Sebastian Ledher](https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [Joseph Ren](https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb) | [UNA NOCHE DE LOCURA](https://open.spotify.com/album/7oyUvM6kWg2uedggrMM21Y) | 2:44 |

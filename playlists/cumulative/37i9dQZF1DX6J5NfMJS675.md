@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-974 songs - 3 day 15 hr 21 min
+975 songs - 3 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Don't Stop \- Original Mix](https://open.spotify.com/track/4pw5gSfin1mgzW8mciI1Rr) | [Xenia \(UA\)](https://open.spotify.com/artist/4Ge7e4OovxABUtAAhLhk8n) | [Don't Stop](https://open.spotify.com/album/2xKakGV3jfL6ghykptVMpF) | 4:44 | 2022-02-11 | 2022-04-29 |
 | [Don't Stop No Sleep \- Marco Faraone Remix](https://open.spotify.com/track/5iFx62onp7Jnz9TeTuFs0Q) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [The Marco Faraone Remixes](https://open.spotify.com/album/2FntPA1J388o9Sg7aYW403) | 7:16 | 2020-12-18 | 2021-10-02 |
 | [Donde Vas \- Original Mix](https://open.spotify.com/track/3SJq5TjZOB01Q1nG2bzAYO) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Donde Vas](https://open.spotify.com/album/7xWRiEVFSxnHy2yekbTOav) | 6:00 | 2021-08-14 | 2021-12-04 |
-| [Dooms Night](https://open.spotify.com/track/0V8yBXUvXv5PascZlSTKVc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/1gXOorzuKBK9WnfX7AU5wc) | 3:25 | 2025-01-03 |  |
+| [Dooms Night](https://open.spotify.com/track/0V8yBXUvXv5PascZlSTKVc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/1gXOorzuKBK9WnfX7AU5wc) | 3:25 | 2025-01-03 | 2025-06-21 |
 | [Dopamine Nation](https://open.spotify.com/track/4R1exZqdXsGJrJrhvtzq8T) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Dopamine Nation](https://open.spotify.com/album/7yxLcZvEOqY0BS4HRSZ5EM) | 3:53 | 2025-01-20 | 2025-04-11 |
 | [Double Slap](https://open.spotify.com/track/19I2mi8kcf0fmoDphv1SOC) | [ROBPM](https://open.spotify.com/artist/6QfZgJa0nrIKLwAdso7ai9) | [Saprei](https://open.spotify.com/album/5eckZl80UblFBSpdZHUJur) | 5:30 | 2020-04-18\* | 2020-05-24 |
 | [Dovercourt](https://open.spotify.com/track/6vRiWzbzZJAKCi3x0aIfzC) | [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Dovercourt / Limelight](https://open.spotify.com/album/58yWqIo8RZgI3p9cRAMoSa) | 4:29 | 2023-02-24 | 2023-04-29 |
@@ -476,6 +476,7 @@
 | [Landa](https://open.spotify.com/track/4BMCwBiTAtmoYc3PXe7QJQ) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Elements EP](https://open.spotify.com/album/6ZAcpP2mOVx1ekWGxVKApE) | 6:22 | 2020-04-18\* | 2020-05-24 |
 | [Last Step](https://open.spotify.com/track/2LJFyZegquP5reY4Qi0egR) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Last Step](https://open.spotify.com/album/6XWhttNgTS13vXLKnZn0BC) | 7:36 | 2020-04-18\* | 2020-09-04 |
 | [Last Summer](https://open.spotify.com/track/6phXaP28ZIrCuAfBKSnSpc) | [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [Last Summer](https://open.spotify.com/album/6kamVfNDZrZOTpsEsyiP3J) | 4:59 | 2020-11-21 | 2021-05-03 |
+| [Late At Night](https://open.spotify.com/track/0Ba0tdpmErpaTYxtT0wvr8) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/4K6cOnk67OJZAbFS3maaJf) | 2:36 | 2025-06-20 |  |
 | [Latex](https://open.spotify.com/track/7Lp0NobaOnTfqcHPjVXzA6) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Latex](https://open.spotify.com/album/3kjWRIgz8s6hTVx2PmvpI9) | 7:19 | 2021-07-10 | 2022-02-26 |
 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 | 2024-07-25 |  |
 | [Leader Of The Pack](https://open.spotify.com/track/4p0KJzcSeiaihxl3lu6iJW) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack](https://open.spotify.com/album/7uUewrCrnDQ9NE77MGp62p) | 3:58 | 2024-12-09 | 2025-05-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542 likes - 330 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 330 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 68 | [The Sweetest Sounds](https://open.spotify.com/track/3KmFKS3s2pySq6MK4f53NZ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [By Request](https://open.spotify.com/album/4UM7lHyZMHzj6o5PpmtAqp) | 2:47 |
 | 69 | [Overture](https://open.spotify.com/track/08HghSeJijBjRfaGdi3LyG) | [Rodgers + Hammerstein's Cinderella Original Broadway Ensemble](https://open.spotify.com/artist/7rjt55EjP0H1aMS8LYaA0z) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 2:25 |
 | 70 | [Everything I've Got](https://open.spotify.com/track/526RZHnkSJs51Zqr3LW3qZ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:29 |
-| 71 | [You Took Advantage of Me \- Remastered](https://open.spotify.com/track/7AIcoEEaAvlpOoC1kWqeRe) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Rosie Solves the Swinging Riddle](https://open.spotify.com/album/03hz9YvV6vbKkjZVzGkHPV) | 2:59 |
+| 71 | [You Took Advantage Of Me \- Remastered](https://open.spotify.com/track/25lrKinv3HY7jqMYGMHjtx) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Is June Christy](https://open.spotify.com/album/0r274gvTVTQlx7MwUeWDEC) | 2:29 |
 | 72 | [Many A New Day \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/37vZmkPWMYUnsFgykCqZsA) | [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 3:06 |
 | 73 | [Ten Cents a Dance](https://open.spotify.com/track/3VdeI5BS6OVO9K28zG6KoW) | [Ruth Etting](https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI) | [Love Me or Leave Me](https://open.spotify.com/album/5WgHTrc8Aslw3cFA3hyVHy) | 3:15 |
 | 74 | [Prologue](https://open.spotify.com/track/2gHJQUD3XDpesXvcOoIBs5) | [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF), [Rodgers + Hammerstein's Cinderella Original Broadway Ensemble](https://open.spotify.com/artist/7rjt55EjP0H1aMS8LYaA0z) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 1:24 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `Ab0ligAAAACYoQHpb5gGAvRg2UM53Gv4`
+Snapshot ID: `Ab0rKgAAAABqviKPKbNT5XKHvsF44R5A`

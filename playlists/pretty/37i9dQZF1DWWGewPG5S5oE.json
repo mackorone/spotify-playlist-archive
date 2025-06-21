@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u6851\u539f\u3042\u3044",
-  "num_followers": 44991,
+  "num_followers": 45001,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
+        "name": "CROSSING",
+        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 270806,
+      "name": "Crossing",
+      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
         "name": "EVERYDAY",
         "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 223820,
       "name": "Must Have Known",
       "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
-        "name": "CROSSING",
-        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 270806,
-      "name": "Crossing",
-      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "Invisible Diary",
-        "url": "https://open.spotify.com/album/3IzqWngysRH0gUHR2FKkxh"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u6d77\u6597",
-          "url": "https://open.spotify.com/artist/4rsih0eDP701WyFRusmZ5c"
-        }
-      ],
-      "duration_ms": 215500,
-      "name": "Part 1. Hometown",
-      "url": "https://open.spotify.com/track/4SFuOhV1kZccCuWoRK0Gfl"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "Workaholic",
-        "url": "https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG"
+        "name": "Invisible Diary",
+        "url": "https://open.spotify.com/album/3IzqWngysRH0gUHR2FKkxh"
       },
       "artists": [
         {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+          "name": "\u4e2d\u6751\u6d77\u6597",
+          "url": "https://open.spotify.com/artist/4rsih0eDP701WyFRusmZ5c"
         }
       ],
-      "duration_ms": 266140,
-      "name": "Workaholic",
-      "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
+      "duration_ms": 215500,
+      "name": "Part 1. Hometown",
+      "url": "https://open.spotify.com/track/4SFuOhV1kZccCuWoRK0Gfl"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -527,6 +511,22 @@
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "Workaholic",
+        "url": "https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 266140,
+      "name": "Workaholic",
+      "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
-      },
-      "artists": [
-        {
-          "name": "N.S. DANCEMBLE",
-          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
-        }
-      ],
-      "duration_ms": 241904,
-      "name": "WE ARE",
-      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "Answer to Remember II",
         "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 281914,
       "name": "1-0",
       "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
+      },
+      "artists": [
+        {
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+        }
+      ],
+      "duration_ms": 241904,
+      "name": "WE ARE",
+      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
     },
     {
       "added_at": "2025-06-17 15:00:16",

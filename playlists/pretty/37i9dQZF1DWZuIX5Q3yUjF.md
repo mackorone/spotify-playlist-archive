@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > STE in cover della playlist dell'R&B italiano 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,742 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,754 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 99 | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/track/6rLucMumW03LDVEUU2yxB1) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/album/4XS9V9SP8L92wLHgyn7z7n) | 2:45 |
 | 100 | [Blu \- Settembre](https://open.spotify.com/track/43CsR5UOJYTC8d9sKDgrmS) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Blu \- Settembre](https://open.spotify.com/album/6jo07dwFj7Go9cxTyIPp8R) | 2:39 |
 
-Snapshot ID: `aFSIwwAAAACB6QiG5HkaH9mkRAt/AuJo`
+Snapshot ID: `aFSIwwAAAABuTE3vj/8IkVBlvwUFnrHG`

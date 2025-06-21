@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59682,
+  "num_followers": 59718,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
         "name": "Som i en dr\u00f6m",
         "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
       },
@@ -371,18 +387,18 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
+        "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
+        "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
       },
       "artists": [
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 163320,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
+      "duration_ms": 172053,
+      "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
+      "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -403,22 +419,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Josephine",
         "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
       },
@@ -435,18 +435,18 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
-        "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
+        "name": "Camels",
+        "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Paine Galletto",
+          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
         }
       ],
-      "duration_ms": 172053,
-      "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
-      "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
+      "duration_ms": 114000,
+      "name": "Camels",
+      "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Camels",
-        "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
-      },
-      "artists": [
-        {
-          "name": "Paine Galletto",
-          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Camels",
-      "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "02:30",
         "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
         "name": "Sv\u00e5rt",
         "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 179616,
       "name": "Sv\u00e5rt",
       "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Lampan t\u00e4nd f\u00f6r dig",
+        "url": "https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "Lampan t\u00e4nd f\u00f6r dig",
+      "url": "https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -547,22 +563,6 @@
       "duration_ms": 187782,
       "name": "Aldrig g\u00e5",
       "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "Lampan t\u00e4nd f\u00f6r dig",
-        "url": "https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl"
-      },
-      "artists": [
-        {
-          "name": "Dom F\u00f6rsta",
-          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "Lampan t\u00e4nd f\u00f6r dig",
-      "url": "https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Tom Cruisin'",
-        "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
-      },
-      "artists": [
-        {
-          "name": "JUNG",
-          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
-        }
-      ],
-      "duration_ms": 172432,
-      "name": "Tom Cruisin'",
-      "url": "https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Slutat bry mig",
         "url": "https://open.spotify.com/album/0kPBXLUWO15ZXKE1yKg370"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 193846,
       "name": "ELOISE",
       "url": "https://open.spotify.com/track/1N90TLVkjG5s85lSYUg3DX"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Tom Cruisin'",
+        "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
+      },
+      "artists": [
+        {
+          "name": "JUNG",
+          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
+        }
+      ],
+      "duration_ms": 172432,
+      "name": "Tom Cruisin'",
+      "url": "https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -903,6 +903,38 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
+        "name": "Kransen",
+        "url": "https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "duration_ms": 223201,
+      "name": "Kransen",
+      "url": "https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Alla Tittar P\u00e5 Mig",
+        "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "Alla Tittar P\u00e5 Mig",
+      "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
         "name": "Murphy",
         "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
       },
@@ -951,18 +983,18 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Alla Tittar P\u00e5 Mig",
-        "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
+        "name": "INATT IGEN",
+        "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
         }
       ],
-      "duration_ms": 144586,
-      "name": "Alla Tittar P\u00e5 Mig",
-      "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
+      "duration_ms": 139310,
+      "name": "INATT IGEN",
+      "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -987,22 +1019,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "INATT IGEN",
-        "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        }
-      ],
-      "duration_ms": 139310,
-      "name": "INATT IGEN",
-      "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Shades of Blue",
         "url": "https://open.spotify.com/album/7IzlLkqdAibLpnesmvwknW"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Kransen",
-        "url": "https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr"
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
       },
       "artists": [
         {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
         }
       ],
-      "duration_ms": 223201,
-      "name": "Kransen",
-      "url": "https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe"
+      "duration_ms": 182133,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "FEST",
-        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
+        "name": "Rocko",
+        "url": "https://open.spotify.com/album/4vUQaIMVDKzpKVjXHG20qU"
       },
       "artists": [
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+          "name": "Junior Brielle",
+          "url": "https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc"
         }
       ],
-      "duration_ms": 173040,
-      "name": "FEST",
-      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
+      "duration_ms": 198000,
+      "name": "Rocko",
+      "url": "https://open.spotify.com/track/1JpvGIVCdc7BRbHEVEk27r"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1079,6 +1095,22 @@
       "duration_ms": 159773,
       "name": "Fortfarande du",
       "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "FEST",
+        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "FEST",
+      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1115,38 +1147,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Rocko",
-        "url": "https://open.spotify.com/album/4vUQaIMVDKzpKVjXHG20qU"
-      },
-      "artists": [
-        {
-          "name": "Junior Brielle",
-          "url": "https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Rocko",
-      "url": "https://open.spotify.com/track/1JpvGIVCdc7BRbHEVEk27r"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
-      },
-      "artists": [
-        {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "K\u00e4nner ni igen er",
         "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
@@ -1159,6 +1159,54 @@
       "duration_ms": 279303,
       "name": "K\u00e4nner ni igen er",
       "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "It Was You",
+        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
+      },
+      "artists": [
+        {
+          "name": "Natalie Reigo",
+          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Side Effect",
+        "url": "https://open.spotify.com/album/2JHwZDprkm6TLWrYdxaOCS"
+      },
+      "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        }
+      ],
+      "duration_ms": 126855,
+      "name": "Side Effect",
+      "url": "https://open.spotify.com/track/5Q6anRiSkE00pWfDlLiN58"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 196321,
+      "name": "112",
+      "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1183,22 +1231,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 196321,
-      "name": "112",
-      "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Feel Free",
         "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
       },
@@ -1211,38 +1243,6 @@
       "duration_ms": 182372,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "F\u00f6rst\u00f6raren",
-        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
-      },
-      "artists": [
-        {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
-        }
-      ],
-      "duration_ms": 146778,
-      "name": "F\u00f6rst\u00f6raren",
-      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "It Was You",
-        "url": "https://open.spotify.com/album/37nOE66PHzAKTKLt4IiHIa"
-      },
-      "artists": [
-        {
-          "name": "Natalie Reigo",
-          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/0wddijpAy5fIqKk9KAkD6R"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "PAUS",
-        "url": "https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2"
+        "name": "F\u00f6rst\u00f6raren",
+        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
       },
       "artists": [
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
         }
       ],
-      "duration_ms": 154971,
-      "name": "PAUS",
-      "url": "https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4"
+      "duration_ms": 146778,
+      "name": "F\u00f6rst\u00f6raren",
+      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Side Effect",
-        "url": "https://open.spotify.com/album/2JHwZDprkm6TLWrYdxaOCS"
+        "name": "PAUS",
+        "url": "https://open.spotify.com/album/5Sex1byhqJdLxAWW9Ru3D2"
       },
       "artists": [
         {
-          "name": "Raghd",
-          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
         }
       ],
-      "duration_ms": 126855,
-      "name": "Side Effect",
-      "url": "https://open.spotify.com/track/5Q6anRiSkE00pWfDlLiN58"
+      "duration_ms": 154971,
+      "name": "PAUS",
+      "url": "https://open.spotify.com/track/3o8OGngNtrVMigN3cMGnc4"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "D\u00c9J\u00c0 VU",
-        "url": "https://open.spotify.com/album/0j9hFcsDrRYHSCKRIkXEkr"
-      },
-      "artists": [
-        {
-          "name": "Bella Leonette",
-          "url": "https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt"
-        }
-      ],
-      "duration_ms": 184876,
-      "name": "D\u00c9J\u00c0 VU",
-      "url": "https://open.spotify.com/track/1em9RQjkGpFaASpp7jvTJ6"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 188601,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "D\u00c9J\u00c0 VU",
+        "url": "https://open.spotify.com/album/0j9hFcsDrRYHSCKRIkXEkr"
+      },
+      "artists": [
+        {
+          "name": "Bella Leonette",
+          "url": "https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt"
+        }
+      ],
+      "duration_ms": 184876,
+      "name": "D\u00c9J\u00c0 VU",
+      "url": "https://open.spotify.com/track/1em9RQjkGpFaASpp7jvTJ6"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Dansa med mig sj\u00e4lv",
-        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
+        "name": "t-shirt",
+        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
       },
       "artists": [
         {
-          "name": "NOVELLEN",
-          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
         }
       ],
-      "duration_ms": 127250,
-      "name": "Dansa med mig sj\u00e4lv",
-      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
+      "duration_ms": 152629,
+      "name": "t-shirt",
+      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
     }
   ],
   "unique_name": "p\u00e5 repeat",

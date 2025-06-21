@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 179760,
       "name": "I Wanna Rock",
       "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 152026,
       "name": "I'm So Free",
       "url": "https://open.spotify.com/track/71T5P0hVVyAq871Ml864SX"
@@ -1604,6 +1604,24 @@
       "duration_ms": 198706,
       "name": "My Generation - Stereo Version",
       "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
+    },
+    {
+      "album": {
+        "name": "Walk This Road",
+        "url": "https://open.spotify.com/album/7aPVm5JTgslETzxylWaywk"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230657,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/4wuVgdYCcCEsBQsuC5fIvx"
     },
     {
       "album": {
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 275026,
       "name": "RISE",
       "url": "https://open.spotify.com/track/2HSzFijVYyUpdw0Aezukdn"
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 209133,
       "name": "Set It Free",
       "url": "https://open.spotify.com/track/5qIPBYRXCc6sC2ccS4sKrx"
@@ -2544,6 +2562,46 @@
       "duration_ms": 214666,
       "name": "T.N.T.",
       "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+    },
+    {
+      "album": {
+        "name": "Tailspin",
+        "url": "https://open.spotify.com/album/2qtMLDwO5ktiVtFVATsL0O"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Tailspin",
+      "url": "https://open.spotify.com/track/74ouav2arWYgDA656JHLzJ"
+    },
+    {
+      "album": {
+        "name": "Take Yer Meds",
+        "url": "https://open.spotify.com/album/1VxbwC3jq5hj69AHQKi4ZE"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        },
+        {
+          "name": "The Fixin's",
+          "url": "https://open.spotify.com/artist/7p0Qfaqk7McuS5iRrxYyLH"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223226,
+      "name": "Take Yer Meds",
+      "url": "https://open.spotify.com/track/4D6Q0SpfBPae88bwbLXKmo"
     },
     {
       "album": {
@@ -2832,6 +2890,24 @@
       "duration_ms": 303200,
       "name": "White Room",
       "url": "https://open.spotify.com/track/5X76oXHcR5uCXali0gOyX5"
+    },
+    {
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/3sRejvJQPdligiHOLnsnMK"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257773,
+      "name": "Wild Ones",
+      "url": "https://open.spotify.com/track/0Jt6jvNztmehl8yQ66ngvi"
     },
     {
       "album": {

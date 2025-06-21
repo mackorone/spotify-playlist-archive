@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Alice](https://open.spotify.com/track/51h6uOquXeixp8G1oUEgsx) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Alice](https://open.spotify.com/album/7CrTya5irJU9curyyVD1FM) | 3:20 | 2024-03-18 |  |
+| [Alice](https://open.spotify.com/track/51h6uOquXeixp8G1oUEgsx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Alice](https://open.spotify.com/album/7CrTya5irJU9curyyVD1FM) | 3:20 | 2024-03-18 |  |
 | [ALPHA](https://open.spotify.com/track/1gerU6xf4IsgfUX8dUbjbS) | [Yung Titties](https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY) | [ALPHA](https://open.spotify.com/album/1NOSSl2tx6r4HzFkJiePks) | 2:37 | 2022-11-01 |  |
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2024-03-10 |  |
 | [As Long As You’re Here \- Young Royals Remix](https://open.spotify.com/track/29HY0czVeZzgSUvdF4VSPu) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [As Long As You’re Here \(Young Royals Remix\)](https://open.spotify.com/album/2LxgqfXXCD8qJJm1yIRzXQ) | 3:30 | 2024-03-18 |  |

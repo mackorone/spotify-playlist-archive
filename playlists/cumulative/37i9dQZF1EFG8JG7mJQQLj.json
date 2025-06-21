@@ -4789,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "Just Keep Watching",
+        "url": "https://open.spotify.com/album/1QEuCJJdAmSA2QjXPx3wNb"
+      },
+      "artists": [
+        {
+          "name": "life illustrated",
+          "url": "https://open.spotify.com/artist/5tRfNOLfhTaTHDdkE6O8a4"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91394,
+      "name": "Just Keep Watching",
+      "url": "https://open.spotify.com/track/7xb25ayvRaBdC8mSQ9ApYa"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/46qvtQZ4HJruB02lbzUGKc"
       },

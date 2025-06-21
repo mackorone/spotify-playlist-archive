@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-477 songs - 21 hr 57 min
+478 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [CLS \(feat\. Yung Snapp, MV Killa, Lele Blade\)](https://open.spotify.com/track/5EbuKgB6acYhza2WOztvXQ) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 4:07 | 2024-06-06 | 2024-11-22 |
 | [COCO \(feat\. Frezza\)](https://open.spotify.com/track/0Ii2R9SawfnxkhNtUI5d7s) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [COCO \(feat\. Frezza\)](https://open.spotify.com/album/6cFTdq80CJtMxJSoXm760u) | 2:49 | 2024-06-27 |  |
 | [Coco Chanel](https://open.spotify.com/track/4yZmG7r6lneTHug5nMkSrp) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Coco Chanel](https://open.spotify.com/album/2BYuvdrD9fVKpSdnrChbqE) | 2:54 | 2024-04-11 | 2024-05-17 |
+| [Cognac](https://open.spotify.com/track/67Q1q8qimE7qPaGehMqih8) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S) | [Cognac](https://open.spotify.com/album/5nCMpBVzwTqBa3oRt4JZee) | 2:12 | 2025-06-20 |  |
 | [Colpa Mia](https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [Colpa Mia](https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P) | 2:54 | 2024-01-25 | 2024-05-10 |
 | [Comandamento \(feat\. Geolier\)](https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:09 | 2022-05-10 | 2022-08-13 |
 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-01-12 | 2024-03-22 |

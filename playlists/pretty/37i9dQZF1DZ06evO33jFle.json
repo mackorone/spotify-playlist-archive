@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 504762,
+  "num_followers": 504819,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFIBgAAAAACrPtCccKMiv3lguw40ET1H",
+  "snapshot_id": "aFNTAAAAAAAUHIj7zkq8sWwxFlevT3TJ",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 263893,
-      "name": "Amiga Si Lo Ves",
-      "url": "https://open.spotify.com/track/5FSZ1u0m46BQPGNXZEO5AS"
+      "duration_ms": 172013,
+      "name": "Ovarios",
+      "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Misma Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 172013,
-      "name": "Ovarios",
-      "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
+      "duration_ms": 263893,
+      "name": "Amiga Si Lo Ves",
+      "url": "https://open.spotify.com/track/5FSZ1u0m46BQPGNXZEO5AS"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aparentemente Bien",
-        "url": "https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 257721,
-      "name": "Aparentemente Bien - Versi\u00f3n Sencillo",
-      "url": "https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Gran Se\u00f1ora (En Vivo)",
         "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 184026,
       "name": "\u00c9l - Banda",
       "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aparentemente Bien",
+        "url": "https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 257721,
+      "name": "Aparentemente Bien - Versi\u00f3n Sencillo",
+      "url": "https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH"
     },
     {
       "added_at": null,

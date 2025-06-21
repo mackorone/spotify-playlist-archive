@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Todd Dulaney
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,518 likes - 75 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,559 likes - 75 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

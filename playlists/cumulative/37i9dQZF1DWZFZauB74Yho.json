@@ -5431,6 +5431,28 @@
     },
     {
       "album": {
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/7gsPmIEDFjrAdllrla7Q9Z"
+      },
+      "artists": [
+        {
+          "name": "Special Consensus",
+          "url": "https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt"
+        },
+        {
+          "name": "Rick Faris",
+          "url": "https://open.spotify.com/artist/6VNJpZ2LKFFRPksNJsDFqJ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196150,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/1holuZdD0AW09F7tVnYYDV"
+    },
+    {
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
       },

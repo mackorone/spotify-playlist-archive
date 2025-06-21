@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31430,
+  "num_followers": 31431,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAQX9hjvvkULrMOqvh+Lx5YhOY3a/Fy",
+  "snapshot_id": "AAAQYvOJT39Ux4S5Jln4qpFeiO4crS+S",
   "tracks": [
     {
       "added_at": "2025-06-10 13:51:24",
@@ -39,6 +39,22 @@
       "duration_ms": 210716,
       "name": "About To Begin",
       "url": "https://open.spotify.com/track/5bF7tpXlhyfA7EwQ5sdOZh"
+    },
+    {
+      "added_at": "2025-06-19 14:38:54",
+      "album": {
+        "name": "DON\u2019T LISTEN",
+        "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 177042,
+      "name": "DON\u2019T LISTEN",
+      "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
     },
     {
       "added_at": "2025-05-30 13:30:27",
@@ -247,6 +263,22 @@
       "duration_ms": 236417,
       "name": "An Angel",
       "url": "https://open.spotify.com/track/5XJ4yeRHNDMSwHLO47NTMP"
+    },
+    {
+      "added_at": "2025-06-20 14:58:09",
+      "album": {
+        "name": "Alma\u2019s Cove",
+        "url": "https://open.spotify.com/album/4YMU4V3o2VqhlI5TEu1d8i"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 236135,
+      "name": "Open At Noon",
+      "url": "https://open.spotify.com/track/3xhfFEHJOnXfsMGKKrUsz9"
     },
     {
       "added_at": "2025-05-14 16:30:45",
@@ -831,7 +863,7 @@
     {
       "added_at": "2024-11-13 18:02:43",
       "album": {
-        "name": "Heaven In Your Arms",
+        "name": "heaven in your arms",
         "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
       },
       "artists": [
@@ -845,7 +877,7 @@
         }
       ],
       "duration_ms": 248415,
-      "name": "Heaven In Your Arms",
+      "name": "heaven in your arms",
       "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
     },
     {
@@ -1267,22 +1299,6 @@
       "duration_ms": 188106,
       "name": "RESPEK - CESCO REMIX",
       "url": "https://open.spotify.com/track/18u5yyIXATQr7QPFXlX1ds"
-    },
-    {
-      "added_at": "2025-06-19 14:38:54",
-      "album": {
-        "name": "DON\u2019T LISTEN",
-        "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 177042,
-      "name": "DON\u2019T LISTEN",
-      "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,996 songs - 5 day 4 hr 8 min
+1,997 songs - 5 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [BEYOND](https://open.spotify.com/track/0cbxHYeQrL9Bz6IjyIWSQi) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [BEYOND](https://open.spotify.com/album/6kC3TwttInYBMtp7jQK06T) | 3:44 | 2024-07-05 | 2024-10-04 |
 | [Beyond](https://open.spotify.com/track/3j8TJsOphpnaBhMATCPFFY) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Beyond](https://open.spotify.com/album/3BPNImslHm4iPPcqObqWPs) | 4:06 | 2023-01-24 | 2023-02-22 |
 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 | 2022-07-05 | 2022-08-03 |
+| [BEYOND THE TIME \(メビウスの宇宙を越えて\) \-2025 Short Edit\-](https://open.spotify.com/track/2WVSXwLzpW8cbyq7q17Qm3) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [BEYOND THE TIME \(メビウスの宇宙を越えて\) \-2025 Version\-](https://open.spotify.com/album/6RQEruKEbGUMQWeMkvz3cB) | 1:47 | 2025-06-20 |  |
 | [BEYOND★CLASSIC](https://open.spotify.com/track/1d8CDCjTTjo4cqXQXjWhef) | [Gran★MyStar](https://open.spotify.com/artist/3Y79J0AaOjCQmf040QNknU) | [BEYOND★CLASSIC](https://open.spotify.com/album/1hDre0iaVSJ6mvjdKWLWRc) | 3:33 | 2025-04-05 | 2025-04-18 |
 | [Bigger Bigger BaNG!!!](https://open.spotify.com/track/1nEMHSBmyQMN5KCpO7PUdN) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Opening Show \-Battle of Unity\- Unit A](https://open.spotify.com/album/2oX3jgGmhPQn8XLMm2gO1C) | 3:35 | 2024-10-22 | 2025-01-08 |
 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2023-11-17 | 2024-01-17 |

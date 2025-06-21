@@ -8511,6 +8511,28 @@
     },
     {
       "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/6tiniFk2nzrYIHNjgE0yn5"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        },
+        {
+          "name": "Jay Jody",
+          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176009,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/7sopysSZT7mUipbIcwOZ97"
+    },
+    {
+      "album": {
         "name": "Year 24",
         "url": "https://open.spotify.com/album/0Z1s1zNLmgxefGwmalRsR3"
       },

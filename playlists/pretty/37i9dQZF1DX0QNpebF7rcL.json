@@ -1,13 +1,101 @@
 {
   "description": "The best in blues right now. Cover: Robert Randolph",
-  "num_followers": 139793,
+  "num_followers": 139804,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEuiYAAAAADwgUUPdZxjY0bRVXnjo3qY",
+  "snapshot_id": "aFTc4AAAAAB0U5hy330oQNNZn6nLgkS8",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:32",
+      "album": {
+        "name": "How Blues Is That (feat. Joe Walsh)",
+        "url": "https://open.spotify.com/album/5cdbGAB813CdwjVGPpcVzU"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "How Blues Is That (feat. Joe Walsh)",
+      "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
+    },
+    {
+      "added_at": "2025-06-20 04:00:32",
+      "album": {
+        "name": "Talkin' Heavy",
+        "url": "https://open.spotify.com/album/3B613bVZ4d0OVnJwRykrIo"
+      },
+      "artists": [
+        {
+          "name": "D.K. Harrell",
+          "url": "https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx"
+        }
+      ],
+      "duration_ms": 243802,
+      "name": "A Little Taste",
+      "url": "https://open.spotify.com/track/1VT2rOnHpF6DV7qZnPQC4Q"
+    },
+    {
+      "added_at": "2025-06-20 04:00:32",
+      "album": {
+        "name": "Nobody loves me like you",
+        "url": "https://open.spotify.com/album/4Dfv7zGhbEiXwrzO2leHeI"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 228763,
+      "name": "Nobody loves me like you",
+      "url": "https://open.spotify.com/track/10Cw1rt1ISPjoNBpJvDOTN"
+    },
+    {
+      "added_at": "2025-06-20 04:00:32",
+      "album": {
+        "name": "I Was Wrong",
+        "url": "https://open.spotify.com/album/3sDjzJO62PTyeEXspT2LUX"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Everyone's Invited",
+      "url": "https://open.spotify.com/track/5XsA2lri15tlZmRPYWQy3X"
+    },
+    {
+      "added_at": "2025-06-20 04:00:32",
+      "album": {
+        "name": "Oh Yeah!",
+        "url": "https://open.spotify.com/album/3eH9SphT1cNB3G6qeYXJc5"
+      },
+      "artists": [
+        {
+          "name": "Willie Buck",
+          "url": "https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB"
+        },
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        }
+      ],
+      "duration_ms": 193570,
+      "name": "Brand New Cell Phone",
+      "url": "https://open.spotify.com/track/1BTZwnC6IqYFpw8vQUuYWa"
+    },
     {
       "added_at": "2025-06-13 04:00:32",
       "album": {
@@ -255,22 +343,6 @@
       "duration_ms": 244069,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/0iwCmwNw208SJPWr2ffvfn"
-    },
-    {
-      "added_at": "2025-05-02 04:00:20",
-      "album": {
-        "name": "Grown Now",
-        "url": "https://open.spotify.com/album/0WU81ML0nzuJwgxRTgSdBk"
-      },
-      "artists": [
-        {
-          "name": "D.K. Harrell",
-          "url": "https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx"
-        }
-      ],
-      "duration_ms": 232242,
-      "name": "Grown Now",
-      "url": "https://open.spotify.com/track/1G4QXkxFkadwNDEJSDWnfl"
     },
     {
       "added_at": "2025-04-25 04:00:41",
@@ -1477,22 +1549,6 @@
       "url": "https://open.spotify.com/track/6hN0tXlbsFFPJ3rADk48hk"
     },
     {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 230459,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
-    },
-    {
       "added_at": "2023-10-06 04:01:00",
       "album": {
         "name": "Sweet Feeling",
@@ -1701,26 +1757,6 @@
       "url": "https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Get Your Back Into It!",
-        "url": "https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2"
-      },
-      "artists": [
-        {
-          "name": "Nick Moss Band",
-          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
-        },
-        {
-          "name": "Dennis Gruenling",
-          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Get Your Back Into It",
-      "url": "https://open.spotify.com/track/6c2cTUj9tG273blULygzpg"
-    },
-    {
       "added_at": "2023-09-08 04:01:00",
       "album": {
         "name": "Animal In Me",
@@ -1735,22 +1771,6 @@
       "duration_ms": 174886,
       "name": "Animal In Me",
       "url": "https://open.spotify.com/track/0FIeSr04FRgHFAQsDDlaqo"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Work Until My Days Are Done",
-        "url": "https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx"
-      },
-      "artists": [
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "Work Until My Days Are Done",
-      "url": "https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1783,22 +1803,6 @@
       "duration_ms": 202536,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Unhinged",
-        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 203338,
-      "name": "Unhinged",
-      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
     }
   ],
   "unique_name": "Got Blues",

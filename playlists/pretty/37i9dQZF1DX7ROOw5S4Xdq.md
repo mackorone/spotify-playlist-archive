@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Marcelo Markes, Theo Rubia
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,856 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,161 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Oferta Agradável a Ti \(Ao Vivo\)](https://open.spotify.com/track/2qej2jlM2feuPreuzzLVcs) | [Thais Helena](https://open.spotify.com/artist/4CQRgSDOYuQZkcDEXZdOzw) | [Oferta Agradável a Ti \(Ao Vivo\)](https://open.spotify.com/album/4Joed3SpzCvss2fOyMuILg) | 3:35 |
 | 50 | [Tu És Maravilhoso](https://open.spotify.com/track/1soUx5z2GUgpABlTQbwpiP) | [Jeser Pires](https://open.spotify.com/artist/01PC7nidJabM3Z9igap9GD) | [Tu És Maravilhoso](https://open.spotify.com/album/5Rpb9Df2femAdeQyoG0c6y) | 3:42 |
 
-Snapshot ID: `AAAAAJRik0JAnvH7ELOGaUeOxGBKRHSb`
+Snapshot ID: `aFTPCQAAAACTj/fmdswWvIWIrqSECYUn`

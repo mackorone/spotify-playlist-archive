@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 172425,
       "name": "Don't Let This Feeling",
       "url": "https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 197142,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 149944,
       "name": "f\u00fcr Meesha",
       "url": "https://open.spotify.com/track/2QZwhaG5da1frWBQZsallH"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 220160,
       "name": "I Need More Time",
       "url": "https://open.spotify.com/track/75Oa9mi7bauMdSPxw8c6Tm"
@@ -3920,7 +3920,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 271877,
       "name": "Late Fragment",
       "url": "https://open.spotify.com/track/309vkrkSuy5NNmloyXdxM2"
@@ -4688,7 +4688,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 201818,
       "name": "Missing Pieces",
       "url": "https://open.spotify.com/track/7J8NRiotZlWOT9t3ZnVeAc"
@@ -5089,6 +5089,24 @@
     },
     {
       "album": {
+        "name": "Ocean Fall and Rise",
+        "url": "https://open.spotify.com/album/4FdtzYT2vkln2Bf9XohbYI"
+      },
+      "artists": [
+        {
+          "name": "Letsko",
+          "url": "https://open.spotify.com/artist/5v0lzsRGgOxJ0FdpvokBv8"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113901,
+      "name": "Ocean Fall and Rise",
+      "url": "https://open.spotify.com/track/7kMiAEfbdKScZc3xwjC3Y1"
+    },
+    {
+      "album": {
         "name": "Old Dream",
         "url": "https://open.spotify.com/album/14omTB3Kcd5DUtpH3NE6rh"
       },
@@ -5104,6 +5122,32 @@
       "duration_ms": 484311,
       "name": "Old Dream",
       "url": "https://open.spotify.com/track/6q3VgaiJGI3MoB64ygMEyW"
+    },
+    {
+      "album": {
+        "name": "Openness",
+        "url": "https://open.spotify.com/album/5fThzHVAwnDedRdlqsQQTc"
+      },
+      "artists": [
+        {
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199495,
+      "name": "Openness",
+      "url": "https://open.spotify.com/track/4UoPQ2JPcVLpb3J45ddOyK"
     },
     {
       "album": {
@@ -5136,7 +5180,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 135250,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK"
@@ -5775,6 +5819,28 @@
     },
     {
       "album": {
+        "name": "Rose Bay (Reworked by Leo Einaudi)",
+        "url": "https://open.spotify.com/album/4rmTjpTDKhaTKl2VLhSbH2"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Leo Einaudi",
+          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217574,
+      "name": "Rose Bay - Reworked by Leo Einaudi",
+      "url": "https://open.spotify.com/track/2nsGRmMFJlYuvNsalF5RzZ"
+    },
+    {
+      "album": {
         "name": "Royal Fern",
         "url": "https://open.spotify.com/album/3nudB0yRd6bc9QNKP1YJUx"
       },
@@ -6032,6 +6098,24 @@
       "duration_ms": 317970,
       "name": "She Brought the Sun - Donna Lewis Remix",
       "url": "https://open.spotify.com/track/6DLteOyb98BgjzLPFdVGul"
+    },
+    {
+      "album": {
+        "name": "Shimmering Lake",
+        "url": "https://open.spotify.com/album/5cvIHfDo9BCdE5M2qKMtZU"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Shimmering Lake",
+      "url": "https://open.spotify.com/track/26iHdLEmhqo2ZyW3CyCzWC"
     },
     {
       "album": {
@@ -6562,7 +6646,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 594562,
       "name": "Spiral of Memories",
       "url": "https://open.spotify.com/track/6wG0rNJYAu39a8RHSiZd1u"

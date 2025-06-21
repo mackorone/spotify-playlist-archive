@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Montana, JR Torres en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Estevan Plazola en portada.",
   "name": "Corridos 2025",
   "tracks": [
     {
@@ -3056,6 +3056,24 @@
       "duration_ms": 129132,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt"
+    },
+    {
+      "album": {
+        "name": "Buenos Corridos",
+        "url": "https://open.spotify.com/album/5WpBqFnoHIOmxwTUmujWlv"
+      },
+      "artists": [
+        {
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146707,
+      "name": "Buenos Corridos",
+      "url": "https://open.spotify.com/track/5a4v8K3csLQa5PweXvg48u"
     },
     {
       "album": {
@@ -11224,7 +11242,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 176494,
       "name": "El Mochomo - Live",
       "url": "https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB"
@@ -17744,7 +17762,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 135585,
       "name": "La Caguama - En Vivo",
       "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
@@ -19962,7 +19980,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 166720,
       "name": "Las Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
@@ -21134,6 +21152,24 @@
       "duration_ms": 206216,
       "name": "Los Piratitas (En Vivo)",
       "url": "https://open.spotify.com/track/6nRj2PrDyGyKIz964KK4eG"
+    },
+    {
+      "album": {
+        "name": "Los Porros",
+        "url": "https://open.spotify.com/album/5rKpjDbXY9JmVEspfZclGk"
+      },
+      "artists": [
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245391,
+      "name": "Los Porros",
+      "url": "https://open.spotify.com/track/6ZMrcVHRBmD3ICTIRKbtYK"
     },
     {
       "album": {
@@ -26041,6 +26077,28 @@
     },
     {
       "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158391,
+      "name": "Puro Pa\u2019 Delante",
+      "url": "https://open.spotify.com/track/7LB36Pf828QzWhZ4F33wXK"
+    },
+    {
+      "album": {
         "name": "Corridos De Encargo",
         "url": "https://open.spotify.com/album/77e78AIb7Qrihuvdjg7pqB"
       },
@@ -29033,6 +29091,28 @@
     },
     {
       "album": {
+        "name": "Tarantino",
+        "url": "https://open.spotify.com/album/1kMfYUqiUuood0fm6mbLaw"
+      },
+      "artists": [
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Brian Santin",
+          "url": "https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/4yNiC8goCyCe8g80LQhA2D"
+    },
+    {
+      "album": {
         "name": "Te La Pasas",
         "url": "https://open.spotify.com/album/42dMHR2xyumQt9c39MzUau"
       },
@@ -29308,6 +29388,28 @@
       "duration_ms": 161120,
       "name": "Tiro Veneno",
       "url": "https://open.spotify.com/track/6NQOzi65xjcVERfKrMec9k"
+    },
+    {
+      "album": {
+        "name": "TODO DE AMIRI (En Vivo desde Los \u00c1ngeles)",
+        "url": "https://open.spotify.com/album/5v6xboDhAiFOGGFijg65WT"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125631,
+      "name": "TODO DE AMIRI - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/5LgqflBrNewltSebcYlLMk"
     },
     {
       "album": {

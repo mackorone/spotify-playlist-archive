@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-705 songs - 2 day 20 hr 7 min
+706 songs - 2 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Dark in Paradise](https://open.spotify.com/track/0p1ZIzmiFz7BcdBFmS2wvp) | [M0B](https://open.spotify.com/artist/1czB7ak5HgzWC5a3MppcmP) | [Dark in Paradise](https://open.spotify.com/album/4TWxweZn0f80leFukuzAxe) | 7:00 | 2019-08-06\* | 2019-08-08 |
 | [Dark Ocean](https://open.spotify.com/track/6djw4hnA30Rbn7Jq8qOqGe) | [Lost Rhythm](https://open.spotify.com/artist/6HKc9lMN8B5NoN113ncFLN) | [Dark Ocean](https://open.spotify.com/album/4IIH55DVtjzmOcPgTNQtmx) | 6:08 | 2023-04-28 | 2023-05-06 |
 | [Dark Woods](https://open.spotify.com/track/23pxKVLwTeaBuzzwkLDF59) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Dark Woods](https://open.spotify.com/album/0WITdoXCPTiq90HCDvOe0g) | 2:51 | 2021-12-17 | 2022-05-17 |
-| [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 | 2022-10-28 |  |
+| [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 | 2022-10-28 | 2025-06-21 |
 | [Daydreams](https://open.spotify.com/track/7mn5kDo1LR7wXf8hny9NIr) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Daydreams](https://open.spotify.com/album/5JsrcGuJKI1ix4GRTORug2) | 6:47 | 2020-02-05 | 2020-04-10 |
 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 | 2021-05-07 | 2021-10-30 |
 | [Deciduous 2022](https://open.spotify.com/track/4RaLwUHOWiLVPOC9CDEzGV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Till Krüger](https://open.spotify.com/artist/3U7VS6CCYQTl65zsyMRYlD) | [Deciduous 2022](https://open.spotify.com/album/4lofrfLhOFLqyt3niwH8RF) | 7:05 | 2022-02-01 | 2022-07-29 |
@@ -572,6 +572,7 @@
 | [Subterranean](https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Subterranean](https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn) | 3:30 | 2023-11-11 |  |
 | [Suvi](https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Suvi](https://open.spotify.com/album/6OYVQ5iCKjq6jIddKMJBds) | 3:11 | 2020-09-19 | 2023-05-19 |
 | [Suvi](https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:11 | 2023-05-05 | 2023-07-01 |
+| [Sweat](https://open.spotify.com/track/2KSyOw1xmLPbINlgSY6DsV) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Sweat](https://open.spotify.com/album/3QUQnOG82oidJv6LrMZAkH) | 3:24 | 2025-06-13 |  |
 | [Synthetic Blues](https://open.spotify.com/track/2ykjMnet1sBwPpmbTEqdYm) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Synthetic Blues](https://open.spotify.com/album/2vIDyBeyfo1obTIkaXTIE0) | 3:28 | 2020-10-10 | 2022-11-12 |
 | [Tachyon](https://open.spotify.com/track/7m7nVRARGzxro7OMeGRauC) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh), [Jordan Bakker](https://open.spotify.com/artist/304E4EmFCfUL4r24KJ0iu6) | [Tachyon](https://open.spotify.com/album/1q2TlIW6JOGmMMlUz9qmdy) | 6:21 | 2020-01-12 | 2021-08-12 |
 | [Take Care](https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Take Care](https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7) | 3:25 | 2023-04-05 | 2024-10-17 |

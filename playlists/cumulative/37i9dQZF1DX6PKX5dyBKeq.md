@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Aitch
 
-2,112 songs - 4 day 9 hr 15 min
+2,113 songs - 4 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1397,7 +1397,7 @@
 | [Outplayed](https://open.spotify.com/track/2C5uNQSSIMwwzRel5pPgha) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Outplayed](https://open.spotify.com/album/6wlmcFPJTTKQOqvxH4TjhS) | 3:13 | 2022-08-04 | 2022-09-10 |
 | [Outside](https://open.spotify.com/track/4T6e6kmXWZor5vuviPDrR8) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Outside](https://open.spotify.com/album/0Ml1rHhHIimsKY5G6AZh2b) | 2:19 | 2023-06-29 | 2023-08-25 |
 | [OUTTIE](https://open.spotify.com/track/6tpexQbea9dfCfbbpwp1B3) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [OUTTIE](https://open.spotify.com/album/2AKnMUdKA2f5xZ2NciFLHJ) | 2:29 | 2020-07-11 | 2020-08-01 |
-| [Overboard](https://open.spotify.com/track/2melgMWdSgph1i1zC3xORu) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Overboard](https://open.spotify.com/album/6SEs8vv2s6shts0RJBopIx) | 2:54 | 2025-03-21 |  |
+| [Overboard](https://open.spotify.com/track/2melgMWdSgph1i1zC3xORu) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Overboard](https://open.spotify.com/album/6SEs8vv2s6shts0RJBopIx) | 2:54 | 2025-03-21 | 2025-06-21 |
 | [Overpriced](https://open.spotify.com/track/7sV2u9PuacBt62EgwqAPFC) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Overpriced](https://open.spotify.com/album/62ZHVbE8x65GyJvztZDInF) | 2:10 | 2021-02-20 | 2021-04-17 |
 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 | 2021-11-23 | 2022-05-28 |
 | [Own Brand \(Baddie\)](https://open.spotify.com/track/2mWzSF26sdZn453GgoiJcz) | [Dreya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP), [FelixThe1st](https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg), [Finch Fetti](https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi) | [Own Brand \(Baddie\)](https://open.spotify.com/album/4QuvmxeqZfWWTBJqSeHrwq) | 1:49 | 2022-03-08 | 2022-03-09 |
@@ -1987,6 +1987,7 @@
 | [Veteran](https://open.spotify.com/track/2cHetITRRw9TZtcmsVdjbS) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Veteran](https://open.spotify.com/album/2NkaFioRIq3TyUiQLtz1i7) | 2:20 | 2023-07-20 | 2023-09-15 |
 | [VEX \(FEAT\. GHETTS & BACKROAD GEE\)](https://open.spotify.com/track/5W3J4sNMvx5H7ZjWobJvls) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [VEX \(FEAT\. GHETTS & BACKROAD GEE\)](https://open.spotify.com/album/74ZPUtGu9yZ0kf7ctOHiDS) | 3:43 | 2023-02-24 | 2023-03-25 |
 | [Vibes](https://open.spotify.com/track/0ncRcYBWZzkn1XrIJ4n6Ot) | [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Vibes](https://open.spotify.com/album/59EHEkoj0mFpW3LFUlqJy5) | 3:21 | 2023-03-08 | 2023-03-09 |
+| [Victory Lap](https://open.spotify.com/track/1jorBT8jSOAK3IIVxAvCh8) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [USB](https://open.spotify.com/album/0KtLq4mTF0Qoz4rVTcHeg7) | 2:45 | 2025-06-20 |  |
 | [Victory Lap](https://open.spotify.com/track/1hiHsWOKJq9KNgCwFiKjmf) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Victory Lap](https://open.spotify.com/album/3t692xd7MH6fZ0XqeemiA6) | 2:00 | 2024-05-24 | 2024-09-06 |
 | [Victory Lap](https://open.spotify.com/track/0E6i96Gpn3otnwCgoYOSAF) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Victory Lap](https://open.spotify.com/album/15SSmyng4aNTvJLtKRjFjg) | 2:01 | 2025-05-01 |  |
 | [Villain](https://open.spotify.com/track/095r7Md0ir4u10BOr5lhQ6) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Hakkz](https://open.spotify.com/artist/1D7I4dxMMjjxxwpO90ezb1) | [Villain](https://open.spotify.com/album/2aGFkdt9ic0SfrPrHoHfLb) | 3:16 | 2020-12-18 | 2021-01-15 |

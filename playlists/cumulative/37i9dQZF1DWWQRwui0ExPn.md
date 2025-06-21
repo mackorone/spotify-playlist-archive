@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, updated daily...
 
-7,404 songs - 11 day 16 hr 19 min
+7,405 songs - 11 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4032,6 +4032,7 @@
 | [Midnight Express](https://open.spotify.com/track/0bHSNYDw6S7Pn9AM30Pedt) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [Midnight Express](https://open.spotify.com/album/4uGGm4ALjrhH8E5pEwAkd8) | 1:59 | 2022-06-17 | 2022-10-07 |
 | [Midnight Jazz](https://open.spotify.com/track/54YGBpBBs1KCukkkdrrAwk) | [JkoMusic](https://open.spotify.com/artist/4yfTRYcDsN9jYp5y5cOR48), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Midnight Jazz](https://open.spotify.com/album/4g6xr97TaY7w2jO833JYt8) | 2:38 | 2022-12-09 | 2024-01-19 |
 | [Midnight Mirage](https://open.spotify.com/track/6aWTPDfnex83b0LJc5wXid) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Midnight Mirage](https://open.spotify.com/album/41rUzFjUFhrEc44CqHxpUA) | 2:17 | 2024-09-13 |  |
+| [Midnight Oil](https://open.spotify.com/track/5eeMubQcvPt7XWUbzhqBPF) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Midnight Oil](https://open.spotify.com/album/0UbPsLxoEowQtyWjROs1oL) | 2:08 | 2025-06-19 |  |
 | [Midnight Oil](https://open.spotify.com/track/1QvbfgUFrYBT9IuvELJw5x) | [kidstrange](https://open.spotify.com/artist/5SrifLuNGSnEP0v4epVwJ3), [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [To Water](https://open.spotify.com/album/3uGjzbny1zoYgoai05cFHB) | 1:53 | 2022-01-07 | 2022-07-08 |
 | [Midnight Ramen](https://open.spotify.com/track/3CKN2fuEcuKDSfmiX1g6ZB) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Dusk\-Sunrise](https://open.spotify.com/album/4NimyZAHUqHJ45ihyHktQq) | 1:33 | 2022-01-21 | 2022-07-16 |
 | [Midnight Skies](https://open.spotify.com/track/6dakTGdGGasSumP62Qm8P9) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Midnight Skies](https://open.spotify.com/album/2jmN4HB0Q9KAD1W9NpTdfI) | 1:32 | 2022-07-15 | 2022-10-28 |
@@ -5488,7 +5489,7 @@
 | [Search for Tomorrow](https://open.spotify.com/track/1uTxXCU8uNiOB8iTg3sjcs) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Search for Tomorrow](https://open.spotify.com/album/1mA1yze65ZUBv1xqClnnc2) | 2:08 | 2019-07-23 | 2020-10-21 |
 | [Seashells](https://open.spotify.com/track/2UOaLTPCnWUO8aMDmsIuKr) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Seashells](https://open.spotify.com/album/65mSvsHnM4RjAgBGEcTvar) | 1:55 | 2022-06-10 | 2022-09-30 |
 | [Seaside Stroll](https://open.spotify.com/track/3nmMrM1q7bEHMen6XtrZFg) | [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O) | [Seaside Stroll](https://open.spotify.com/album/70rRWiCBg4IZCxHXKJbC3N) | 2:27 | 2022-11-11 | 2023-09-29 |
-| [Seasonal](https://open.spotify.com/track/1SOZjvB0VxG5CXSKLUvyOD) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Boyd](https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA) | [Seasonal](https://open.spotify.com/album/19p8Fb1MkQkskoxzgnrGi0) | 1:58 | 2024-03-15 |  |
+| [Seasonal](https://open.spotify.com/track/1SOZjvB0VxG5CXSKLUvyOD) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Boyd](https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA) | [Seasonal](https://open.spotify.com/album/19p8Fb1MkQkskoxzgnrGi0) | 1:58 | 2024-03-15 | 2025-06-21 |
 | [SeasonFinale](https://open.spotify.com/track/6FGTbQJnH027zYeF1SbSTr) | [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT) | [LifesATrip](https://open.spotify.com/album/1iOKhYAhLvEdcttxz6tdBW) | 2:04 | 2022-05-27 | 2022-09-16 |
 | [seasons](https://open.spotify.com/track/0YWgwHqQsS3qMiTZIDPKGN) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Dryden](https://open.spotify.com/artist/49THH4OZsjvk5CNT714qwq) | [seasons](https://open.spotify.com/album/1R1jVV9kxrImLBWyhOjlXX) | 2:09 | 2024-10-25 |  |
 | [seasons](https://open.spotify.com/track/4iPGpKiAzJCg1PsrMRZesS) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Alejo](https://open.spotify.com/artist/4zXkBiz56l3LiruH26i2RE) | [seasons](https://open.spotify.com/album/2lrOfd7OyEZnDilfuFIQil) | 2:09 | 2023-01-06 | 2024-01-19 |

@@ -4,7 +4,7 @@
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Kirk Franklin
 
-681 songs - 2 day 10 hr 18 min
+682 songs - 2 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,8 @@
 | [Love Me to Death](https://open.spotify.com/track/2F23ScUfmepIITJDZf3FgL) | [Thomas Ware](https://open.spotify.com/artist/5czwQsY7himQixSYkBvJ8Y) | [Love Me to Death](https://open.spotify.com/album/2vJv8qf2pB3qyVXCriwkkM) | 3:37 | 2022-02-25 | 2022-03-26 |
 | [Made A Way](https://open.spotify.com/track/2Ksw9oPrXQbcemCq4t4oew) | [Keyondra Lockett](https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7), [Q Parker](https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4) | [Made A Way](https://open.spotify.com/album/3kENXjs8dh7VkOSdEHPWCK) | 3:57 | 2022-02-18 | 2022-12-03 |
 | [Made It Over \(Radio Edit\) \- Live](https://open.spotify.com/track/2er9IAfbXuRPvZ8TtHqDlf) | [Darius Twyman](https://open.spotify.com/artist/6XyPyNOdCFdhQeiXIr06T0) | [Made It Over \(Radio Edit\) \[Live\]](https://open.spotify.com/album/5S11WEgPEtWf6JOqLrNEPF) | 4:10 | 2023-06-02 | 2023-09-09 |
-| [Made New \(feat\. Madison Ryann Ward\) \- Live](https://open.spotify.com/track/6mfJKMNZwH8BLPBaD4L9nF) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [You Belong \(Live\)](https://open.spotify.com/album/4aesqG8k2g3YN5yBd3HdSq) | 7:34 | 2024-06-07 |  |
+| [Made New \(feat\. Madison Ryann Ward\) \- Live](https://open.spotify.com/track/6mfJKMNZwH8BLPBaD4L9nF) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [You Belong \(Live\)](https://open.spotify.com/album/4aesqG8k2g3YN5yBd3HdSq) | 7:34 | 2024-06-07 | 2025-06-21 |
+| [Made New \- Radio Edit](https://open.spotify.com/track/38GV2hTJoKJwhHsDRi9WbA) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Made New \(Radio Edit\)](https://open.spotify.com/album/00RBYgE7x0XFvLHCPZrPQq) | 3:39 | 2025-06-20 |  |
 | [Majesty](https://open.spotify.com/track/5FtW9IlslazN8yBYT3WtvU) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Majesty](https://open.spotify.com/album/3nU609EFqE2v7BvWMW3NOk) | 4:10 | 2024-03-29 | 2024-06-22 |
 | [Make It](https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ) | [Josiah Russell](https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL), [Mod G](https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6) | [Make It](https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST) | 2:50 | 2022-06-10 | 2023-04-09 |
 | [Make Me Better](https://open.spotify.com/track/3F9YKA0taoh6ofIXcNKSfy) | [Carnel Davis & Incorporated to Praise](https://open.spotify.com/artist/67xmsPTJBnWHzUhjVa3J4b), [Larry Jones](https://open.spotify.com/artist/5xGWDG9rY3Nk8V1q4vOzxJ) | [Make Me Better](https://open.spotify.com/album/4whwjfYkjmVuYSnbDbVwRj) | 5:51 | 2022-02-18 | 2022-04-23 |

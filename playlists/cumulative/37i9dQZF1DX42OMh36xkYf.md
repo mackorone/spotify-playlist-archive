@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con ha$lopablito en portada.
 
-179 songs - 9 hr 59 min
+180 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 | 2024-06-14 |  |
 | [El Chico](https://open.spotify.com/track/1nqygnk3xAUcTbrIcjsgIW) | [Lao Ra](https://open.spotify.com/artist/5GDuUaYx3PW3Wa64KxAAAO) | [El Chico](https://open.spotify.com/album/09L0kJ4RHQXNPVD9rG4rWP) | 2:54 | 2024-02-09 | 2024-03-02 |
 | [El corazón no engaña a su dueño \(ECNEASD\)](https://open.spotify.com/track/68xkXOW4aA6oFOsXGsg0Gj) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Iluso](https://open.spotify.com/artist/0i51gGztiY5rG4qdmkQeCP) | [El corazón no engaña a su dueño \(ECNEASD\)](https://open.spotify.com/album/3zvfgER0YAVkUu64r72r8P) | 2:53 | 2023-09-22 | 2023-10-21 |
+| [El Juego](https://open.spotify.com/track/32JCK5B9YEYNVpDNdZKZ32) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [El Juego](https://open.spotify.com/album/2azntgtYhJNnQqjMNglofk) | 3:37 | 2025-06-20 |  |
 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-09-22 | 2023-10-14 |
 | [El Triste](https://open.spotify.com/track/0u7u1vVxQHagcqOK1lANhL) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [El Triste](https://open.spotify.com/album/6ZvocIvlt006fUlDF1d7Nq) | 4:45 | 2025-04-04 |  |
 | [En La Oscuridad](https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:22 | 2023-10-13 | 2024-03-30 |
@@ -108,7 +109,7 @@
 | [Los Lugares Más Bonitos](https://open.spotify.com/track/4slJEqinbznsUEVXQ6GeFW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Los Lugares Más Bonitos](https://open.spotify.com/album/1jxXdXtX2trPeB1i32e0W5) | 2:38 | 2024-07-19 |  |
 | [Límites](https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Límites](https://open.spotify.com/album/66tUKjngOsWoJj7ccwktRD) | 3:30 | 2023-11-24 | 2024-03-02 |
 | [ma, peiname otra vez](https://open.spotify.com/track/4iBGu9YdrM40sX0kQ52Kd0) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [ma, peiname otra vez](https://open.spotify.com/album/0UB3hW289IUID3CA3IMiOB) | 2:27 | 2024-07-19 |  |
-| [Mango](https://open.spotify.com/track/0J1XAvHf8lhfDJ4MjnPcM6) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Mango](https://open.spotify.com/album/3clTKY9OQcm7aX83a3Aa3K) | 2:54 | 2025-05-23 |  |
+| [Mango](https://open.spotify.com/track/0J1XAvHf8lhfDJ4MjnPcM6) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Mango](https://open.spotify.com/album/3clTKY9OQcm7aX83a3Aa3K) | 2:54 | 2025-05-23 | 2025-06-21 |
 | [Me Persigue](https://open.spotify.com/track/1rBEVWJbexy1EjoaT9ZZxA) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Me Persigue](https://open.spotify.com/album/6tpSWTW6Vrw3x8hjgqkVM6) | 3:02 | 2023-10-06 | 2023-12-02 |
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-09-22 | 2024-03-02 |
 | [Medusa](https://open.spotify.com/track/5u4WtYlz4AVrsVwu58mKbv) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Medusa](https://open.spotify.com/album/2Hy8fPqK6DM1nVXECN5qKU) | 3:00 | 2024-02-23 |  |

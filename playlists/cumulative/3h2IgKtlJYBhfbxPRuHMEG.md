@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Torcha
 
-175 songs - 9 hr 50 min
+176 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Touch](https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [L8NCY](https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD) | [Touch](https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g) | 3:40 | 2023-12-08 | 2024-11-09 |
 | [Trippy Land](https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Trippy Land](https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI) | 3:06 | 2024-05-03 | 2024-11-09 |
 | [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 | 2024-03-15 | 2024-11-09 |
+| [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-06-20 |  |
 | [Violet](https://open.spotify.com/track/3jRNepPc6XflVWsvFzQEqs) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Enter Achroma](https://open.spotify.com/album/7mHNFaknoAm23oYOmnbi4J) | 3:10 | 2023-12-01 | 2024-11-30 |
 | [WARTYPE](https://open.spotify.com/track/0aA9tEKfugk00Ru0Z44Wbt) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq) | [NU\-TYPE vol\. 1](https://open.spotify.com/album/7CFctl9XFeGEcX2tBYEgZR) | 3:09 | 2024-11-29 |  |
 | [WARTYPE](https://open.spotify.com/track/51Ao1TuzuVa8lB7aW4ovEe) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq) | [WARTYPE](https://open.spotify.com/album/7JZQdnIDCbjzcru5K8KJNk) | 3:09 | 2024-09-27 | 2024-11-09 |

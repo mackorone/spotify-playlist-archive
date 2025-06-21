@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-109 songs - 6 hr 52 min
+110 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Santa Maria \(Del Buen Ayre\)](https://open.spotify.com/track/3sPkMFWk9zi5LAA0T1qvpc) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 5:57 | 2023-08-04 | 2024-04-19 |
 | [Santa María \(del Buen Ayre\)](https://open.spotify.com/track/65MDo5mxRY45IHpyVkLEU5) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La revancha del tango](https://open.spotify.com/album/2riLhxE3UzS3evEXAwjEJq) | 5:57 | 2023-11-24 |  |
 | [Sin Rumbo](https://open.spotify.com/track/6WGeW1Ooa2dndzIGwXCVFW) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Otros Aires](https://open.spotify.com/album/24uMVkq4ni8tDFHwva5e8p) | 3:53 | 2023-08-04 | 2024-04-19 |
-| [Solari Yacumenza \(feat\. Cuareim 1080\)](https://open.spotify.com/track/7lciS00OFhCmBXzoUxjngt) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Cuareim 1080](https://open.spotify.com/artist/177Gcd3X7PujhTwSyV8QmV) | [Solari Yacumenza \(feat\. Cuareim 1080\)](https://open.spotify.com/album/6ZJ5IrE0WDU988QElJJ3PG) | 6:39 | 2023-11-24 |  |
+| [Solari Yacumenza \(feat\. Cuareim 1080\)](https://open.spotify.com/track/7lciS00OFhCmBXzoUxjngt) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Cuareim 1080](https://open.spotify.com/artist/177Gcd3X7PujhTwSyV8QmV) | [Solari Yacumenza \(feat\. Cuareim 1080\)](https://open.spotify.com/album/6ZJ5IrE0WDU988QElJJ3PG) | 6:39 | 2023-11-24 | 2025-06-21 |
 | [SOLO](https://open.spotify.com/track/6XdSYm8aBk5cp4tAA8Cgie) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:33 | 2023-08-04 |  |
 | [Sonido Nativo del Río](https://open.spotify.com/track/74yqyT2QjK9CZJcK6szEqD) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Sonido Nativo del Río](https://open.spotify.com/album/4tDzS7KjJcwKdeEZXoErsl) | 3:18 | 2023-08-04 |  |
 | [Sube Y Baja](https://open.spotify.com/track/4W6EyV83P9GxKHGiQ2uoUQ) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh) | [Mlnga Club](https://open.spotify.com/album/1WuCYVq8MBofBOluFpLK73) | 4:04 | 2023-08-04 |  |
@@ -101,6 +101,7 @@
 | [Tango del Falluto](https://open.spotify.com/track/1iT5XNmkXSDBUSBoSk2LSD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tango del Falluto](https://open.spotify.com/album/065br6DY3VQsvlio0EHar2) | 3:09 | 2023-08-04 | 2023-12-10 |
 | [Tanguera](https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV) | [Diego Schissi Quinteto](https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ) | [Tanguera](https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX) | 4:14 | 2023-08-04 |  |
 | [Taquito Militar](https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb) | [Octavio Caruso](https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP) | [De Arrabal](https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq) | 2:43 | 2023-08-04 | 2025-02-16 |
+| [Tic Toc Toc](https://open.spotify.com/track/6LbAefeQKQUgx77v18BL3q) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Tic Toc Toc](https://open.spotify.com/album/2KgO323uBA7a3EoxIDmPdY) | 2:23 | 2025-06-20 |  |
 | [Tiempo \(Me Niego A Rendirme\) \[feat\. Abel Pintos\]](https://open.spotify.com/track/027J6JzyLXCWdG5dfuMLAd) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Tiempo \(Me Niego A Rendirme\) \[feat\. Abel Pintos\]](https://open.spotify.com/album/6ctAqEhLBzrUw3QytwLoh9) | 3:50 | 2023-08-04 | 2024-01-09 |
 | [Traje Unos Tangos](https://open.spotify.com/track/5NNgc8no4aMgbrCWQFkdZ7) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Traje Unos Tangos](https://open.spotify.com/album/3AcBHnQqIHtKEnUNaTPEIl) | 2:31 | 2023-08-04 | 2024-04-19 |
 | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \- Medley Premios Gardel](https://open.spotify.com/track/2kGq3Hvr0714szg3vpzkJa) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \(Medley Premios Gardel\)](https://open.spotify.com/album/6oXwPnW5e2VN6A5A71XiFV) | 3:31 | 2023-08-04 |  |

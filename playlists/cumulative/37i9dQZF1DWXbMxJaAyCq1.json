@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Brray, Feid, De La Rose, Yan Block, NTG",
+  "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Daizak, Uzielito Mix, El Bogueto, Ak-Boyz",
   "name": "Remixes Urbanos",
   "tracks": [
     {
@@ -1489,6 +1489,36 @@
     },
     {
       "album": {
+        "name": "CHEROKEE RMX (Remix)",
+        "url": "https://open.spotify.com/album/4U7MjT7JnGYGK3DL7VhLnu"
+      },
+      "artists": [
+        {
+          "name": "Daizak",
+          "url": "https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Ak\u2013Boyz",
+          "url": "https://open.spotify.com/artist/3JerkQMiofnR6Ciot3l0bt"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "CHEROKEE RMX - Remix",
+      "url": "https://open.spotify.com/track/3sADWXuKGeGcprocykh67J"
+    },
+    {
+      "album": {
         "name": "Chingar (Remix)",
         "url": "https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5"
       },
@@ -2110,7 +2140,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-27",
+      "date_removed": null,
       "duration_ms": 259242,
       "name": "Diosa - Remix",
       "url": "https://open.spotify.com/track/1kIWef5hc2uAqkNxOTakzP"
@@ -4018,7 +4048,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 330240,
       "name": "La Cama (Remix)",
       "url": "https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9"
@@ -4818,7 +4848,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 266616,
       "name": "Lollipop - Remix",
       "url": "https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4"
@@ -6963,6 +6993,32 @@
     },
     {
       "album": {
+        "name": "Pr\u00e9stame (Remix)",
+        "url": "https://open.spotify.com/album/6pLgFmSrejC3SLJ9uojWkv"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234820,
+      "name": "Pr\u00e9stame - Remix",
+      "url": "https://open.spotify.com/track/6zltLA09hCYa1UI39WjE4b"
+    },
+    {
+      "album": {
         "name": "Que Mas Pues (Remix)",
         "url": "https://open.spotify.com/album/5bad2QvDKLifbAK9O75U8Y"
       },
@@ -8116,7 +8172,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 321600,
       "name": "Te Colaboro - Remix",
       "url": "https://open.spotify.com/track/2KZE9HGmohrETJEFb2K5Ek"

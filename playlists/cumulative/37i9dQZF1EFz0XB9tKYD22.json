@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 209000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I"
@@ -1302,6 +1302,24 @@
       "duration_ms": 168280,
       "name": "Denim & Rhinestones",
       "url": "https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY"
+    },
+    {
+      "album": {
+        "name": "Dig A Hole",
+        "url": "https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171522,
+      "name": "Dig A Hole",
+      "url": "https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY"
     },
     {
       "album": {

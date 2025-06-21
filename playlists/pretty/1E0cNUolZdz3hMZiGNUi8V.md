@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,327 likes - 100 songs - 4 hr 41 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,325 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 | 99 | [To Da Face \(feat\. Ohgeesy\)](https://open.spotify.com/track/1uHFYluv1msgbvQeo35KM8) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [To Da Face \(feat\. Ohgeesy\)](https://open.spotify.com/album/0lPBWyeZP1fdyE2e93tDfz) | 2:18 |
 | 100 | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj) | 3:12 |
 
-Snapshot ID: `AAAfs3k3f4BkIz6tLmjsv/lEjiIoKNFg`
+Snapshot ID: `AAAftRTyIxyraD1RkC9WxvzMIvzDS677`

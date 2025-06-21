@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Gama WNTD
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,851 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,880 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 16 | [Amar Pela Metade](https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Amar Pela Metade / Aimer À Moitié](https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu) | 3:06 |
 | 17 | [Castelo de Cartas](https://open.spotify.com/track/62xeHoENK0PawhDUYct28N) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Castelo de Cartas](https://open.spotify.com/album/6ojRYc1j9BARLjVFC5dYVs) | 2:58 |
 | 18 | [Desliza](https://open.spotify.com/track/5CYWaMpBev0t7JgscBAeYv) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Desliza](https://open.spotify.com/album/4XfQRVwDQnE6Rd0OX8sTER) | 2:40 |
-| 19 | [Sozinha \(sozinha\)](https://open.spotify.com/track/5YPp2OpITgckNXF71jBdW9) | [Ágata](https://open.spotify.com/artist/4hjRolqjkmfAWhjkUPFJiI), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Sozinha \(sozinha\)](https://open.spotify.com/album/6ctUih3rczyZp9INZyUQjZ) | 2:58 |
+| 19 | [Sozinha](https://open.spotify.com/track/5YPp2OpITgckNXF71jBdW9) | [Ágata](https://open.spotify.com/artist/4hjRolqjkmfAWhjkUPFJiI), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Sozinha](https://open.spotify.com/album/6ctUih3rczyZp9INZyUQjZ) | 2:58 |
 | 20 | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc) | 3:36 |
 | 21 | [Mariana](https://open.spotify.com/track/13tuN5MKAurqUEOzb5VaaE) | [Pedro Gonçalves](https://open.spotify.com/artist/234hezB1llSvVZqgtLVdzf) | [Mariana](https://open.spotify.com/album/4TEz0OWNPdJPRgZJ7697AB) | 3:23 |
 | 22 | [Leva Tudo](https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Leva Tudo](https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN) | 3:11 |

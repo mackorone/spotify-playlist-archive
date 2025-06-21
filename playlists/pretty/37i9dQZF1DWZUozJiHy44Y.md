@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,388,546 likes - 39 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,388,729 likes - 39 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 | 38 | [Many Shades of Black](https://open.spotify.com/track/1nX4VLG50VzERLthNEXWtY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 4:28 |
 | 39 | [Hometown Glory \(High Contrast Remix\)](https://open.spotify.com/track/7pfObKU7pvD5ZQPNNNsl62) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Hometown Glory](https://open.spotify.com/album/0waVqJjsfINWbs3aMK9y4s) | 6:36 |
 
-Snapshot ID: `AAAAABmQDnYq5N9ghOukeQJQk63/8cr+`
+Snapshot ID: `aCNCdwAAAAAimIQjasx58gblkYMHzqO0`

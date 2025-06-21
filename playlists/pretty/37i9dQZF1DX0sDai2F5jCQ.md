@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: ONEFOUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,596 likes - 85 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,585 likes - 85 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 84 | [Flip The Switch x Songer](https://open.spotify.com/track/50b6wWNZ9QqemALLtaMPEd) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Take Flight](https://open.spotify.com/artist/6qBVj3gXPWbEl45U8wyliG) | [Flip The Switch x Songer](https://open.spotify.com/album/3gPIe4coVzscTdurYNNz2R) | 3:16 |
 | 85 | [FINGERTIPS](https://open.spotify.com/track/7bXsZsdN7cMvjnJiyUHk56) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [FINGERTIPS](https://open.spotify.com/album/46gWaeqUSADSwWwv9tQVeF) | 2:29 |
 
-Snapshot ID: `AAAAAPlSZE3VxQgy83wzRWMr4geYAK6h`
+Snapshot ID: `aFQX+AAAAACfcs2pFYfc/A3yChXmPdH7`

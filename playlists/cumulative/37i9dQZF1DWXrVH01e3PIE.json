@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Matias Fisher & Ramma  en la casa del Trap Argentino.",
+  "description": "KHEA en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -792,7 +792,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 170847,
       "name": "Algo caro",
       "url": "https://open.spotify.com/track/5DTnSsgoupDjCQGNH54Q4F"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 152021,
       "name": "CARA DEL NORTE",
       "url": "https://open.spotify.com/track/4ncRoHduCPgYZENngHf1xE"
@@ -3939,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "Trece",
+        "url": "https://open.spotify.com/album/2WvPZwDVFO1r87hmaOWOP0"
+      },
+      "artists": [
+        {
+          "name": "Matias Fisher",
+          "url": "https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144632,
+      "name": "FREEBARS #3",
+      "url": "https://open.spotify.com/track/704sCiLlE5FjPm3d4Gwxqt"
+    },
+    {
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/3T3ASZMwh27Wu7WwDexPiA"
       },
@@ -4924,10 +4942,32 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 117600,
       "name": "Inteligencia Artificial",
       "url": "https://open.spotify.com/track/433hXwSwCf1c83p4uGVQE6"
+    },
+    {
+      "album": {
+        "name": "Inter de Miami",
+        "url": "https://open.spotify.com/album/5Vfot3mK6yhKMINXtCjDbH"
+      },
+      "artists": [
+        {
+          "name": "turrobaby",
+          "url": "https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB"
+        },
+        {
+          "name": "Zell",
+          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144324,
+      "name": "Inter de Miami",
+      "url": "https://open.spotify.com/track/5BaHrPaicKmvM5C2hBBelo"
     },
     {
       "album": {
@@ -5192,7 +5232,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 112620,
       "name": "LA MILI",
       "url": "https://open.spotify.com/track/4MyyDrxun1Sf8iocfYaW2t"
@@ -5658,6 +5698,32 @@
       "duration_ms": 346460,
       "name": "Loca Remix",
       "url": "https://open.spotify.com/track/2CRbiMK0W14l71SpDKqKZM"
+    },
+    {
+      "album": {
+        "name": "LOLIPOP",
+        "url": "https://open.spotify.com/album/2ibHPRrguoWVU6tNFSmPFl"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "SANCHO",
+          "url": "https://open.spotify.com/artist/5uqh1Uqiz8OGPO18RU2YVu"
+        },
+        {
+          "name": "AYWA",
+          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149892,
+      "name": "LOLIPOP",
+      "url": "https://open.spotify.com/track/4ucIG4eV4qbz2VOGJVzp4M"
     },
     {
       "album": {
@@ -6356,6 +6422,28 @@
       "duration_ms": 190496,
       "name": "MODELITO",
       "url": "https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff"
+    },
+    {
+      "album": {
+        "name": "MOLY",
+        "url": "https://open.spotify.com/album/5pHPBVeDljoGm8bInIBa67"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "Kerse Beats",
+          "url": "https://open.spotify.com/artist/732nQsVUxEkVKUnUSLqUU4"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "MOLY",
+      "url": "https://open.spotify.com/track/5y6Og9OS4zZv8G6a57zfcO"
     },
     {
       "album": {
@@ -7327,6 +7415,24 @@
     },
     {
       "album": {
+        "name": "Oreo de Fresa",
+        "url": "https://open.spotify.com/album/7mZZliPH0SWI2qPuCQHD0Y"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139125,
+      "name": "Oreo de Fresa",
+      "url": "https://open.spotify.com/track/0cG9750fXdoi8xEdIa3jtZ"
+    },
+    {
+      "album": {
         "name": "ORGULLO",
         "url": "https://open.spotify.com/album/7E89jZLvQK2eKBnpYtlmV8"
       },
@@ -7766,7 +7872,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 183221,
       "name": "Persigui\u00e9ndome",
       "url": "https://open.spotify.com/track/18EMa7Rorie3sd7Xdz40vp"
@@ -8592,6 +8698,36 @@
       "duration_ms": 168000,
       "name": "RPSNT",
       "url": "https://open.spotify.com/track/1IhWFLPAiD30fCt2YoIa5Y"
+    },
+    {
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/7BMiJw94UFIYi7UwwFX0f9"
+      },
+      "artists": [
+        {
+          "name": "ill quentin",
+          "url": "https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH"
+        },
+        {
+          "name": "Leston",
+          "url": "https://open.spotify.com/artist/5vU7O06Mto29k2V4oBBbDZ"
+        },
+        {
+          "name": "Underaiki",
+          "url": "https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo"
+        },
+        {
+          "name": "Cl\u00faster",
+          "url": "https://open.spotify.com/artist/77T5XlEwCRjlmRIioW5OXB"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189252,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/0DDXL4wNNUXuz4RHUn0EJ3"
     },
     {
       "album": {
@@ -10962,7 +11098,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 180965,
       "name": "Vivo Fresh",
       "url": "https://open.spotify.com/track/4BWwoRrK8TgoTJFscf10YL"

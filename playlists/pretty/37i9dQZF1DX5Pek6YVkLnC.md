@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: TORRRES
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,765 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,767 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
-| 2 | [Facecard](https://open.spotify.com/track/5Q4UuBc4zX6LgSGinXyjtJ) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Facecard](https://open.spotify.com/album/4vDESk8j4jFSPKUEPGGUrw) | 2:15 |
+| 2 | [Facecard](https://open.spotify.com/track/5Q4UuBc4zX6LgSGinXyjtJ) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [Davvinccii](https://open.spotify.com/artist/6X5NjzqRMaossDssdlxdu8), [AndrahPR](https://open.spotify.com/artist/3ICR0LgQlwZ2F78lTexRYS) | [Facecard](https://open.spotify.com/album/4vDESk8j4jFSPKUEPGGUrw) | 2:15 |
 | 3 | [CUANDO VUELVO A VERTE](https://open.spotify.com/track/0Szad34dH8IBaZ8bTg3lrb) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [CUANDO VUELVO A VERTE](https://open.spotify.com/album/6EtZSfytsIt4zJFiL2HjFv) | 2:46 |
 | 4 | [MI REINA](https://open.spotify.com/track/5BITTj2JpsNu2PBONOlg27) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [BABY LION](https://open.spotify.com/album/561w3uRRvWGdRJ1M5suSFp) | 2:23 |
 | 5 | [Jetski](https://open.spotify.com/track/0M4FCnAqtMJUDwPEiK3hqz) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Jetski](https://open.spotify.com/album/4Dk1uW3ZKuBGVB7dzangr8) | 2:43 |

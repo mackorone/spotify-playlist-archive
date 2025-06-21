@@ -2,7 +2,7 @@
 
 ### [Best of: Coke Studio Bharat](https://open.spotify.com/playlist/37i9dQZF1DXbw9rGYPXetO)
 
-> Hottest tracks from Coke Studio Bharat\. Cover: Punjabi Vekh Ke
+> Hottest tracks from Coke Studio Bharat\. Cover: Dhanda Nyoliwala & Xvir Grewal
 
 61 songs - 14 hr 38 min
 

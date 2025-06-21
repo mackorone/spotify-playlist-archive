@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb?si=I3LD\_dX5RrKdubQlHWqEbw">Anabel Rose</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,104 likes - 66 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,150 likes - 66 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,344 likes - 53 songs - 2 hr 47 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,348 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,12 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 51 | [Nine](https://open.spotify.com/track/40ke3SW7c7wKWes88tDy31) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA) | [Nine EP](https://open.spotify.com/album/7GIpF4tVU2wNPfTJodCeNW) | 3:50 |
 | 52 | [Magnetic \(with Tomike\)](https://open.spotify.com/track/5EylWPZIChpm3yGjstNAnU) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Magnetic \(with Tomike\)](https://open.spotify.com/album/2Hg7lIHQVvvweJZv5u3Nmv) | 2:47 |
 | 53 | [Lunar](https://open.spotify.com/track/0nrQxqGbbPVmBu4WAetg3R) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Lunar](https://open.spotify.com/album/5EdPiKRP9HGklPbX5mcwND) | 4:12 |
+| 54 | [Baby Got Back](https://open.spotify.com/track/2DC888t0oMQlVOyda1QNn9) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Baby Got Back](https://open.spotify.com/album/4r3WUqVHJWP3msnUHACMQ9) | 3:01 |
+| 55 | [Goodies](https://open.spotify.com/track/5TcsyxRBkIjgmaoSW9oaZL) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Goodies](https://open.spotify.com/album/4y9b6DMmobsAxtUvMO7xcT) | 3:13 |
+| 56 | [Funky Ish](https://open.spotify.com/track/12NRga6lPDI6T9uIcbCrkc) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5), [ALL BLAKK](https://open.spotify.com/artist/3Pcowxcw7rdB9Z0fIzh6yc) | [MIAMI REECORDSBOX](https://open.spotify.com/album/1szAeTHztUXciMBS6g6u4R) | 4:09 |
+| 57 | [Ladies](https://open.spotify.com/track/2bPNN7sEDCqEntToNtu6YS) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Ladies](https://open.spotify.com/album/2VqQBkjmdYMkUKMu6yjQqR) | 6:10 |
+| 58 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
+| 59 | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/track/58JdlahcAaLgM7ftInMf4M) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Is Everybody Having Fun? \(feat\. rhys from the sticks\)](https://open.spotify.com/album/0saGsR6TeTVKV7rJHOYgR8) | 2:49 |
+| 60 | [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cash Out](https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR) | 3:02 |
 
-Snapshot ID: `AAAmPYx/kustG1vU7wkP9A7E2UY5ynQh`
+Snapshot ID: `AAAmRF0NdIaa+vNAKrYzqYuuEkKNjbYQ`

@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1416849,
+  "num_followers": 1417064,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Mentiras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 178892,
-      "name": "Mentiras - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 205915,
       "name": "Mutir\u00e3o de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Mentiras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 178892,
+      "name": "Mentiras - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Constru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc"
+        "name": "Meus Caros Amigos",
+        "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
       },
       "artists": [
         {
           "name": "Chico Buarque",
           "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 383706,
-      "name": "Constru\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT"
+      "duration_ms": 166573,
+      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
+      "url": "https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1607,22 +1611,18 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Meus Caros Amigos",
-        "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
+        "name": "Constru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc"
       },
       "artists": [
         {
           "name": "Chico Buarque",
           "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 166573,
-      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
-      "url": "https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4"
+      "duration_ms": 383706,
+      "name": "Constru\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT"
     },
     {
       "added_at": "2025-05-30 05:19:13",

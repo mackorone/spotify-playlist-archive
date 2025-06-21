@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3124031,
+  "num_followers": 3124334,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz"
+        "name": "Legend (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
       },
       "artists": [
         {
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I"
+      "duration_ms": 256493,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "The Melodians",
+          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Riding the Roots Chariot",
         "url": "https://open.spotify.com/album/3K82f6Jv1CtvO5JYMWbsnB"
       },
@@ -1559,6 +1575,38 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Blackheart Man",
+        "url": "https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm"
+      },
+      "artists": [
+        {
+          "name": "Bunny Wailer",
+          "url": "https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "Dream Land",
+      "url": "https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "The Harder They Come",
+        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Police And Thieves",
         "url": "https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt"
       },
@@ -1587,58 +1635,6 @@
       "duration_ms": 183853,
       "name": "Girlie Girlie",
       "url": "https://open.spotify.com/track/1BIXp9KalUDVgsN9xqfcNe"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "Dave & Ansell Collins",
-          "url": "https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9"
-        }
-      ],
-      "duration_ms": 150253,
-      "name": "Monkey Spanner",
-      "url": "https://open.spotify.com/track/5tn8ftoAruutNf8AqoSWHv"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "Bob Andy",
-          "url": "https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4"
-        },
-        {
-          "name": "Marcia Griffiths",
-          "url": "https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "To Be Young Gifted and Black",
-      "url": "https://open.spotify.com/track/1mS95GjtVbZM0rIDjsOVW3"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Poor Man Style",
-        "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
-      },
-      "artists": [
-        {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm"
     }
   ],
   "unique_name": "Reggae Classics",

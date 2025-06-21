@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "A List",
+        "url": "https://open.spotify.com/album/5U9rq3EstZqlpBfE3wjnnQ"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181366,
+      "name": "A List",
+      "url": "https://open.spotify.com/track/3NXP2HTEq16sosI8BSjDM7"
+    },
+    {
+      "album": {
         "name": "Spanish Fly Riddim",
         "url": "https://open.spotify.com/album/1DlfMapYkUFtvl1WliOjHH"
       },
@@ -1850,7 +1872,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 173124,
       "name": "Down Dey - Refix",
       "url": "https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1"
@@ -1962,6 +1984,28 @@
       "duration_ms": 201594,
       "name": "Engine Room",
       "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
+    },
+    {
+      "album": {
+        "name": "Erupt",
+        "url": "https://open.spotify.com/album/3iy6Yo9PjVy9OSDQqZzBqx"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Fireman Hooper",
+          "url": "https://open.spotify.com/artist/3zuZixv8wHya7KVinVss9T"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Erupt",
+      "url": "https://open.spotify.com/track/48y8ZvIDhRd1iU7hffnzL2"
     },
     {
       "album": {
@@ -2811,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Hello (Iced Heart Riddim)",
+        "url": "https://open.spotify.com/album/6zVypAXMxiDbknsJ5dK0N4"
+      },
+      "artists": [
+        {
+          "name": "muddy",
+          "url": "https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Hello (Iced Heart Riddim)",
+      "url": "https://open.spotify.com/track/6coofViEiuNH9OT1T1piL1"
+    },
+    {
+      "album": {
         "name": "The Best of J.W. Colllections",
         "url": "https://open.spotify.com/album/35QG2dkD2Bu1FksvC3nF2T"
       },
@@ -3276,7 +3338,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 99720,
       "name": "Instruction 2",
       "url": "https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38"
@@ -4898,7 +4960,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 146556,
       "name": "PORTAL",
       "url": "https://open.spotify.com/track/2jLKAPwUGTji359kOZl3c9"

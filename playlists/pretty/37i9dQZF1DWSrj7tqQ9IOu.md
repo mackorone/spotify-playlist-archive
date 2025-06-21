@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Odetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,643 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,637 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Sunlight](https://open.spotify.com/track/6kkBXPMpoQPFQ6SrgSQ7IK) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Sunlight](https://open.spotify.com/album/0J4ZjIpLALO2xXcyUBxI6G) | 2:51 |
 | 50 | [Voyeurisme](https://open.spotify.com/track/4wkoMRbuxd07GbA7ZDy3fi) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Voyeurisme](https://open.spotify.com/album/13cOuw1n2MIymW6G8Fvnrt) | 2:44 |
 
-Snapshot ID: `aFSIiQAAAAAtBeZxk26FEOuvPL/9WK7l`
+Snapshot ID: `aFSIiQAAAABMa29BMNc3LuYjgvbHW0oA`

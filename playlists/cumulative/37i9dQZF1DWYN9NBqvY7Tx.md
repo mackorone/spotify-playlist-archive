@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-664 songs - 1 day 10 hr 12 min
+665 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 | 2024-08-02 |  |
 | [Artemis](https://open.spotify.com/track/4xwdCGKQNzjHy7y4DLD6KH) | [Sineflow](https://open.spotify.com/artist/2viEI92b5w5qUwpKI9YZ46), [Nocturnal Zen](https://open.spotify.com/artist/6HTNZNtQhxaKlu3mNiFjxv), [Loudsilence](https://open.spotify.com/artist/6PllcnuKXZ9fHMUSZdCnRg) | [Artemis](https://open.spotify.com/album/0uTWn07xZxhYj8DuNcMXwc) | 2:22 | 2022-05-13 | 2022-08-13 |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-08-18 | 2023-09-22 |
+| [Ascension \(Alesso Remix\)](https://open.spotify.com/track/3dVfQl8ZXN12zIRUfqC5bT) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV), [EWC](https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K), [Hollywood Scoring](https://open.spotify.com/artist/7kmiZAOBxtLgx7CMSGOXxg) | [Ascension \(Alesso Remix\)](https://open.spotify.com/album/1A1ZYfPpq7zeYlSTK7N3vp) | 3:30 | 2025-06-20 |  |
 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo) | 2:08 | 2022-07-14 | 2024-04-19 |
 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/25dOYUvTT4wyw7r3vS37ca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/3DMIESlogCaK0E3W0awobM) | 2:08 | 2022-05-06 | 2022-07-29 |
 | [Atomic](https://open.spotify.com/track/21BfslzLCx6jrXwjqV6Cpg) | [Infraction](https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ), [Alexi Action](https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw) | [Atomic](https://open.spotify.com/album/3rzmWTVkeK9EwI7gDIsbt3) | 2:53 | 2022-07-04 | 2022-07-09 |
@@ -426,7 +427,7 @@
 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 | 2025-01-18 | 2025-05-21 |
 | [OneHundred](https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [OneHundred](https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE) | 3:09 | 2024-01-19 | 2024-06-25 |
 | [Oohla Oohla](https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Oohla Oohla](https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs) | 2:23 | 2022-06-10 | 2024-07-20 |
-| [Open Your Eyes](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Open Your Eyes](https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK) | 3:05 | 2024-07-19 |  |
+| [Open Your Eyes](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Open Your Eyes](https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK) | 3:05 | 2024-07-19 | 2025-06-21 |
 | [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 | 2023-05-05 | 2025-01-21 |
 | [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2022-07-14 | 2022-07-27 |
 | [Pandora](https://open.spotify.com/track/3ihpDP7D2ZK769grmaGjlO) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/4dxh48ZuZtwKbMQ5GCm0UI) | 3:41 | 2022-05-06 | 2022-07-29 |

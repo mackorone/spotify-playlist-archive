@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "At Least I'd Be A Cowboy!",
+        "url": "https://open.spotify.com/album/3LaOLtlVtwETFzfSnae2zb"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Mei",
+          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "At Least I'd Be A Cowboy!",
+      "url": "https://open.spotify.com/track/0NKXYXa5Fw1IZpZa494SIW"
+    },
+    {
+      "album": {
         "name": "at the end of the world",
         "url": "https://open.spotify.com/album/1zyZ6yfGnOV4zgYFwglVsS"
       },

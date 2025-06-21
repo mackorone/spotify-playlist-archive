@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : K\-Rosif
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,242 likes - 40 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,363 likes - 40 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 5 | [Shatta Confessions](https://open.spotify.com/track/7zywuMtaJQL7Nz2aTCOBCU) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [Shatta Confessions](https://open.spotify.com/album/4mPjrlSA27gzo3nomTW6GP) | 2:01 |
 | 6 | [Shamballa](https://open.spotify.com/track/00iG5sAUI0DGedMuGvyKo1) | [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg) | [Shamballa](https://open.spotify.com/album/5JD4AQHlyGOR9w0qXtOavf) | 2:27 |
 | 7 | [Alpha](https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:48 |
-| 8 | [LOCATION](https://open.spotify.com/track/1o4TctoKCsjJ2iLM34LZon) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 3:00 |
+| 8 | [LOCATION](https://open.spotify.com/track/1o4TctoKCsjJ2iLM34LZon) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 3:00 |
 | 9 | [Money Pull Up](https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [Money Pull Up](https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn) | 2:08 |
 | 10 | [AIR FORCE 1](https://open.spotify.com/track/1tAd9VYVekTTNSOESqBX1j) | [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i) | [AIR FORCE 1](https://open.spotify.com/album/0jllUXKBq8duDAVSvKdxAr) | 2:17 |
 | 11 | [Celibataire Polygame](https://open.spotify.com/track/3UR6F2UJP6yClNugKXPOXH) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Celibataire Polygame](https://open.spotify.com/album/7ywV7kOvweiKhg0ntcEB3i) | 2:14 |

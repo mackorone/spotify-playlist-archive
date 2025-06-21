@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1143243,
+  "num_followers": 1142965,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "always you",
-        "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
-      },
-      "artists": [
-        {
-          "name": "COULOU",
-          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
-        }
-      ],
-      "duration_ms": 188799,
-      "name": "always you",
-      "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Orange Tree",
         "url": "https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 192106,
       "name": "Orange Tree",
       "url": "https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "always you",
+        "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
+      },
+      "artists": [
+        {
+          "name": "COULOU",
+          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
+        }
+      ],
+      "duration_ms": 188799,
+      "name": "always you",
+      "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
+        "name": "Oh Mama Won't You Write Me",
+        "url": "https://open.spotify.com/album/2DJxAEeSLkLJexjmdPDpja"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "Oh Mama Won't You Write Me",
+      "url": "https://open.spotify.com/track/0Q7g49HqCHs3Se4F1lo4Cg"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
         "name": "Sleeping with Headphones",
         "url": "https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 251833,
       "name": "Sleeping with Headphones",
       "url": "https://open.spotify.com/track/1YjbOF5pRNTMKnIvZxYEfY"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
-        "name": "Oh Mama Won't You Write Me",
-        "url": "https://open.spotify.com/album/2DJxAEeSLkLJexjmdPDpja"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Oh Mama Won't You Write Me",
-      "url": "https://open.spotify.com/track/0Q7g49HqCHs3Se4F1lo4Cg"
     }
   ],
   "unique_name": "Morning Acoustic",

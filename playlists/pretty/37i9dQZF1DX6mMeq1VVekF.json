@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Loyle Carner",
-  "num_followers": 179624,
+  "num_followers": 179674,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2025-06-19 23:00:20",
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 225444,
-      "name": "BAD BITCHES",
-      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
-    },
-    {
-      "added_at": "2025-06-19 23:00:20",
-      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 146719,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe"
+    },
+    {
+      "added_at": "2025-06-19 23:00:20",
+      "album": {
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 225444,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
     },
     {
       "added_at": "2025-06-19 23:00:20",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-06-19 23:00:20",
       "album": {
+        "name": "time to go",
+        "url": "https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 209362,
+      "name": "time to go",
+      "url": "https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB"
+    },
+    {
+      "added_at": "2025-06-19 23:00:20",
+      "album": {
         "name": "Date Nite",
         "url": "https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 206451,
       "name": "Straight Drop X5",
       "url": "https://open.spotify.com/track/3kUbJTF3u2Ge4j4IzCwlz5"
-    },
-    {
-      "added_at": "2025-06-19 23:00:20",
-      "album": {
-        "name": "time to go",
-        "url": "https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 209362,
-      "name": "time to go",
-      "url": "https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB"
     },
     {
       "added_at": "2025-06-19 23:00:20",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-06-19 23:00:20",
       "album": {
-        "name": "What Can I Say",
-        "url": "https://open.spotify.com/album/3VO4UKvjQDYYseML7IyGJN"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 162577,
-      "name": "What Can I Say",
-      "url": "https://open.spotify.com/track/6HVlPPWZcwAQOtvPbNnJMI"
-    },
-    {
-      "added_at": "2025-06-19 23:00:20",
-      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 187192,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw"
+    },
+    {
+      "added_at": "2025-06-19 23:00:20",
+      "album": {
+        "name": "What Can I Say",
+        "url": "https://open.spotify.com/album/3VO4UKvjQDYYseML7IyGJN"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 162577,
+      "name": "What Can I Say",
+      "url": "https://open.spotify.com/track/6HVlPPWZcwAQOtvPbNnJMI"
     },
     {
       "added_at": "2025-06-19 23:00:20",
@@ -767,26 +767,6 @@
     {
       "added_at": "2025-06-19 23:00:20",
       "album": {
-        "name": "lost my mind",
-        "url": "https://open.spotify.com/album/6wFuPwowIDNpICX9oqXFc5"
-      },
-      "artists": [
-        {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
-        },
-        {
-          "name": "Yvnnis",
-          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "lost my mind",
-      "url": "https://open.spotify.com/track/3AXwlM0fd6zL2fm5KANQRO"
-    },
-    {
-      "added_at": "2025-06-19 23:00:20",
-      "album": {
         "name": "ceremonial contrafact (empathogen deluxe)",
         "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 159200,
       "name": "wanted",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+    },
+    {
+      "added_at": "2025-06-19 23:00:20",
+      "album": {
+        "name": "lost my mind",
+        "url": "https://open.spotify.com/album/6wFuPwowIDNpICX9oqXFc5"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        },
+        {
+          "name": "Yvnnis",
+          "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "lost my mind",
+      "url": "https://open.spotify.com/track/3AXwlM0fd6zL2fm5KANQRO"
     },
     {
       "added_at": "2025-06-19 23:00:20",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-06-19 23:00:20",
       "album": {
-        "name": "dream girl / wake up b*tch",
-        "url": "https://open.spotify.com/album/1Kpt6L8hF6bDLSgoPdHLHv"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 121234,
-      "name": "dream girl",
-      "url": "https://open.spotify.com/track/44MckRqvFUyYmPIl3mYMjp"
-    },
-    {
-      "added_at": "2025-06-19 23:00:20",
-      "album": {
         "name": "Miss Independent",
         "url": "https://open.spotify.com/album/2sd3mb5KsqYDA8sML6e93P"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 126956,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR"
+    },
+    {
+      "added_at": "2025-06-19 23:00:20",
+      "album": {
+        "name": "dream girl / wake up b*tch",
+        "url": "https://open.spotify.com/album/1Kpt6L8hF6bDLSgoPdHLHv"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 121234,
+      "name": "dream girl",
+      "url": "https://open.spotify.com/track/44MckRqvFUyYmPIl3mYMjp"
     },
     {
       "added_at": "2025-06-19 23:00:20",

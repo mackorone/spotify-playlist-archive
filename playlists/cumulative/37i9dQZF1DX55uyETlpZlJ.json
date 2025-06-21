@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "Abhisaarike",
+        "url": "https://open.spotify.com/album/5MHBsATqDOBb9vd0xRfyx7"
+      },
+      "artists": [
+        {
+          "name": "Sathya Radhakrishna",
+          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208235,
+      "name": "Abhisaarike",
+      "url": "https://open.spotify.com/track/2vBD05KARnYraiXJaCxvs3"
+    },
+    {
+      "album": {
         "name": "Adhvik Hogabeda",
         "url": "https://open.spotify.com/album/1SHbmeeFoEzZagz8MZNluA"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 283771,
       "name": "Doora Doora",
       "url": "https://open.spotify.com/track/2kHvNJ3FUeOQP2Y6ubdQJD"
@@ -5196,7 +5214,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 186461,
       "name": "Madhura Saagara",
       "url": "https://open.spotify.com/track/0M2sipZTcTQTfhj6TthgnU"
@@ -7722,6 +7740,32 @@
       "duration_ms": 215998,
       "name": "Nina Myaale",
       "url": "https://open.spotify.com/track/1DeCiMxWuLboZByKwPgrvz"
+    },
+    {
+      "album": {
+        "name": "Mareyada Manasu",
+        "url": "https://open.spotify.com/album/1Ul1IAgpVLYCJa9v1pH6zP"
+      },
+      "artists": [
+        {
+          "name": "John Bharath",
+          "url": "https://open.spotify.com/artist/1DwEUE84q0o4QP3hVHhxCE"
+        },
+        {
+          "name": "LIKITH GAYAK",
+          "url": "https://open.spotify.com/artist/05qCSs06CfFg2O3jnR6szj"
+        },
+        {
+          "name": "Maansi S",
+          "url": "https://open.spotify.com/artist/4fjGeGJzLA555aFQl4rp9F"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185444,
+      "name": "Ninade Nenapu",
+      "url": "https://open.spotify.com/track/2WZy5hRa0nET4W1Wj7bcsc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Hannah Mae
 
-988 songs - 1 day 23 hr 18 min
+989 songs - 1 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [23](https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [23](https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2) | 2:50 | 2023-11-02 | 2024-03-29 |
 | [25](https://open.spotify.com/track/6PBphKhLXuAMBW6yWUNXby) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [25](https://open.spotify.com/album/3k8KS3JIhc7mdrtX46JbFd) | 2:11 | 2025-01-06 | 2025-03-14 |
 | [25 Nachten \(Wonderful Days\)](https://open.spotify.com/track/3vc8nuTPR0eNE06rnywF8V) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [25 Nachten \(Wonderful Days\)](https://open.spotify.com/album/3VOCrc5wbid37e9Yj4B2RO) | 2:19 | 2023-11-16 | 2024-03-15 |
-| [5 tot 9](https://open.spotify.com/track/4FI7zyKGbFnbbwd3q5HnaH) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [5 tot 9](https://open.spotify.com/album/3aD8IP06IwdmShiEPyYo7R) | 2:29 | 2025-06-19 |  |
+| [5 tot 9](https://open.spotify.com/track/4FI7zyKGbFnbbwd3q5HnaH) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [5 tot 9](https://open.spotify.com/album/3aD8IP06IwdmShiEPyYo7R) | 2:29 | 2025-06-19 | 2025-06-21 |
+| [5 tot 9 \(feat\. Joël Domingos\)](https://open.spotify.com/track/2zT6AK44ot39NQ7xVdLi75) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm), [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [5 tot 9 \(feat\. Joël Domingos\)](https://open.spotify.com/album/3MHKLkXnHafqRAqR64SJYK) | 2:29 | 2025-06-20 |  |
 | [5 Voor 12](https://open.spotify.com/track/7vblfnm2TktVX9LIK6KB3f) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [5 Voor 12](https://open.spotify.com/album/08j9Zb9JJVROWtMEFGI7zb) | 2:33 | 2023-02-23 | 2023-03-31 |
 | [6 Ballonnen](https://open.spotify.com/track/6XVsIYpztiNeakFrzMSD9R) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:49 | 2024-10-08 | 2024-10-11 |
 | [7 Maanden](https://open.spotify.com/track/7fPUAntzxh9gSaSRLXmE2y) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [7 Maanden](https://open.spotify.com/album/0rR80engsHwrzpyexED99M) | 2:09 | 2023-02-23 | 2023-05-12 |

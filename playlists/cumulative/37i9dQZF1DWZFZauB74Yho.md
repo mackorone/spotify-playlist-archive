@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Molly Tuttle
 
-405 songs - 23 hr 57 min
+406 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Pigtails and Sugarcane](https://open.spotify.com/track/5vlIOrHkAsaYqSku5c7T6f) | [The Gina Furtado Project](https://open.spotify.com/artist/2N6ZcQaRCxyffaBJRz9XDI), [Gina Furtado](https://open.spotify.com/artist/71h7XjbAj2GHnKJmUBGztw) | [Pigtails and Sugarcane](https://open.spotify.com/album/1zjglH6iaLLvjJZRvnWh3B) | 3:47 | 2024-08-02 | 2024-12-07 |
 | [Pleasantly Aimless](https://open.spotify.com/track/0kpgfRaEePa9yQQR7JjZA0) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Pleasantly Aimless](https://open.spotify.com/album/32qk0HjNnHFlOxOSPTGA4W) | 5:12 | 2024-07-12 | 2024-11-16 |
 | [Please Mr Please](https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Please Mr Please](https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9) | 4:32 | 2024-06-28 | 2024-07-13 |
+| [Please Mr\. Postman](https://open.spotify.com/track/1holuZdD0AW09F7tVnYYDV) | [Special Consensus](https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt), [Rick Faris](https://open.spotify.com/artist/6VNJpZ2LKFFRPksNJsDFqJ) | [Please Mr\. Postman](https://open.spotify.com/album/7gsPmIEDFjrAdllrla7Q9Z) | 3:16 | 2025-06-20 |  |
 | [Please Please Please](https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0) | [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R), [Sierra Carson](https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK), [Kylie Spence](https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a) | [Please Please Please](https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc) | 3:07 | 2025-01-31 |  |
 | [Poor Davey](https://open.spotify.com/track/41IKwf5EgWh066nQ7a9FVi) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [One of These Days](https://open.spotify.com/album/1oahw7ytVm1XUs7ojmYvsg) | 5:16 | 2024-06-28 | 2024-08-03 |
 | [Possum](https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Possum](https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd) | 5:33 | 2024-09-27 | 2025-01-11 |

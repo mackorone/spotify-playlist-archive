@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 椅子樂團 \(The Chairs\)
 
-538 songs - 1 day 11 hr 10 min
+539 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Matawa](https://open.spotify.com/track/5BqPbxZHZAuR98uqleVwKd) | [Triple Deer](https://open.spotify.com/artist/6qfzKJ7ZtKxyTD2tRl0V27) | [SOWAL](https://open.spotify.com/album/13wQo5SnyJfTQ3vpovjRtT) | 3:15 | 2025-03-21 | 2025-04-11 |
 | [Me And My Brother](https://open.spotify.com/track/0A1k9IsnN17YeFTPsN3MQZ) | [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL), [Macdella](https://open.spotify.com/artist/2jGajbF57J3EZGtAjeH3Q0), [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq), [SheATH](https://open.spotify.com/artist/55WfFcEYY8iQ9UjqcRMmdA) | [破籠](https://open.spotify.com/album/4nlMUevoFtDJUMxyoqoWfd) | 3:02 | 2024-10-10 | 2024-11-01 |
 | [Meteor Shower](https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [I Dig You](https://open.spotify.com/album/118ouAtcHqDD7t7YV2hD1O) | 3:03 | 2024-10-24 | 2024-11-15 |
+| [More Than Just Tonight](https://open.spotify.com/track/1WABlgH3Z97o1deFXffGvV) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t), [旅行新蜜蜂](https://open.spotify.com/artist/0Co7hkWLCC463zD7G8HJCj) | [More Than Just Tonight](https://open.spotify.com/album/0sQqUTjRb4TvSK4P0n66cV) | 2:53 | 2025-06-19 |  |
 | [Mr\. Peanutbutter](https://open.spotify.com/track/40WA6xKiFL9uff4KXvapxj) | [Blueburn](https://open.spotify.com/artist/3njOo5lp2DWZ4M5FRMl1td) | [Mr\. Peanutbutter](https://open.spotify.com/album/41HM09Vmhun3ziBD7DbEXM) | 3:58 | 2024-08-22 | 2024-09-13 |
 | [My Black Eyes](https://open.spotify.com/track/4dKz1W0FEpY1BC6y0UDleR) | [MEME](https://open.spotify.com/artist/3CwjJi6HGzLmvxmXYaJQNf) | [My Black Eyes](https://open.spotify.com/album/0miqx1bNGQTGuINUvclbyL) | 3:41 | 2024-06-28 | 2024-07-05 |
 | [Never Gonna Stop](https://open.spotify.com/track/6EDNikfdT75GyAd5Dy2Om2) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [Never Gonna Stop](https://open.spotify.com/album/5is4uOluenwyO2oKXQUjAA) | 3:22 | 2024-07-25 | 2024-08-16 |

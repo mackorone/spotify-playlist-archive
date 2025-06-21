@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 ### [OFF POP](https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA)
 
-> New music off the beaten track\. Cover: Monolink
+> New music off the beaten track\. Cover: Monolink, Sam Shure
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,085 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,037 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Keep On Coming](https://open.spotify.com/track/1tBvv3FJi29PHeJyd9vufL) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Ocean Flor](https://open.spotify.com/artist/0LoAvUve5dlyMSOtpcaAxL) | [Keep On Coming](https://open.spotify.com/album/0waDbAWnbLNmB8s2bBgcwq) | 2:52 |
 | 75 | [Last Night Was a Mistake](https://open.spotify.com/track/456AhcnmKByGbjM2H4X62H) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Last Night Was a Mistake](https://open.spotify.com/album/5wp6XcHgTGX7KxPVpX4p5g) | 3:11 |
 
-Snapshot ID: `aFSIjAAAAABdeBsvtjRWoVPSN64vIQql`
+Snapshot ID: `aFUOmgAAAABHBHAlI0shm1CwaLQ4J3bA`

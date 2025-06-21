@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Limoblaze\n",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Brandon Lake\n",
   "name": "Top Christian & Gospel",
   "tracks": [
+    {
+      "album": {
+        "name": "King Of Hearts (Full Deck Deluxe)",
+        "url": "https://open.spotify.com/album/58h0AZmXG7bYxk7gBxIWu0"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202458,
+      "name": "1,000,000 Reasons Why",
+      "url": "https://open.spotify.com/track/30ENhWMCzVNC0aaVW7gaHu"
+    },
     {
       "album": {
         "name": "Revive",
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 250506,
       "name": "Believe On Jesus (feat. Zane Black)",
       "url": "https://open.spotify.com/track/2PmOVuewThUgyTg7CpjIbA"
@@ -2366,6 +2384,28 @@
       "duration_ms": 316831,
       "name": "Broken Together",
       "url": "https://open.spotify.com/track/5G68h6auJnlAPYu6t1LvJS"
+    },
+    {
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/7hVSEz1tG1EL6wDk8pgvCV"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159962,
+      "name": "BROOKLYN JAZZ MAN",
+      "url": "https://open.spotify.com/track/6UGGJPrVDivoej6suZVdtG"
     },
     {
       "album": {
@@ -3990,6 +4030,24 @@
       "duration_ms": 186630,
       "name": "Dragons",
       "url": "https://open.spotify.com/track/0P3sjyube5uyULTwohYpiU"
+    },
+    {
+      "album": {
+        "name": "Dusty Bibles",
+        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
     },
     {
       "album": {
@@ -5804,6 +5862,24 @@
       "duration_ms": 406546,
       "name": "God Song",
       "url": "https://open.spotify.com/track/3n6kLGOCi4ZemXnUxnQbnK"
+    },
+    {
+      "album": {
+        "name": "God Story",
+        "url": "https://open.spotify.com/album/58oNXHgb7gR5PEO3CYvUVd"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187770,
+      "name": "God Story",
+      "url": "https://open.spotify.com/track/4PymotViKd6S2o4uShdnUw"
     },
     {
       "album": {
@@ -10644,7 +10720,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 268590,
       "name": "King Of Hearts",
       "url": "https://open.spotify.com/track/53OAAIHd2q0lz5tmtpVndI"
@@ -10984,7 +11060,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 211466,
       "name": "Left Behind (Kirk Cameron)",
       "url": "https://open.spotify.com/track/1uKPTJtuZi2FRp0gYDO1cU"
@@ -15197,6 +15273,24 @@
     },
     {
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/134ohkHTVB4T6erW8wmcMP"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176374,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/7brRFdTSwwq1xeYXnXP5O8"
+    },
+    {
+      "album": {
         "name": "Real Help",
         "url": "https://open.spotify.com/album/6gg4s2J6aDvluaTIZ2S7qD"
       },
@@ -17958,7 +18052,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 239090,
       "name": "Temple",
       "url": "https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz"
@@ -18688,7 +18782,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 219216,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/1N0IgXz9ataDdUVgqxXAQo"
@@ -19020,7 +19114,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 179244,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
@@ -19966,7 +20060,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 201993,
       "name": "Two Wooden Beams",
       "url": "https://open.spotify.com/track/2hWTH0Q7X3aOpPRHGBwNqw"
@@ -20438,6 +20532,24 @@
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
+    },
+    {
+      "album": {
+        "name": "Northstar",
+        "url": "https://open.spotify.com/album/33AEQGTj1GoEb5KeCFWb8L"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191411,
+      "name": "We Rise And Fall",
+      "url": "https://open.spotify.com/track/7wgOJAyT89i2WOcT4a7Z67"
     },
     {
       "album": {
@@ -21830,6 +21942,24 @@
       "duration_ms": 176099,
       "name": "You Are",
       "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"
+    },
+    {
+      "album": {
+        "name": "You Are I Am",
+        "url": "https://open.spotify.com/album/0a5dSDQbcL1vPn821CYcF0"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233910,
+      "name": "You Are I Am",
+      "url": "https://open.spotify.com/track/3AcT5dawDnFalcBILMAwvv"
     },
     {
       "album": {

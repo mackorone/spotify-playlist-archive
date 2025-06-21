@@ -2,9 +2,9 @@
 
 ### [Pixar Hits](https://open.spotify.com/playlist/37i9dQZF1DXbmaHM5tnxzO)
 
-> All your favorite Pixar hits, including Win or Lose, Coco, Turning Red, and The Incredibles, now streaming on Disney+.
+> Celebrate 30 years of friendship and beyond with Disney and Pixar's Toy Story.
 
-101 songs - 4 hr 41 min
+102 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Down to Earth \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/6QGWsMkxSv2l3Ae3jlsENi) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Rated PG](https://open.spotify.com/album/2r2ARjGkLgHq9FaZW1ytzO) | 5:58 | 2023-09-15 |  |
 | [Down to Earth \- From "WALL\-E"/Soundtrack Version](https://open.spotify.com/track/3RcTV0VBkSwzHNMghOmRbm) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [WALL\-E](https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB) | 5:57 | 2024-04-08 | 2024-06-01 |
 | [El Latido de mi Corazón](https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:01 | 2024-10-10 |  |
+| [Elio Suite](https://open.spotify.com/track/1jS12MqRHGl8jllD06znkn) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Elio \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qnFzpxkcBRxeJfE6XS1Nq) | 5:11 | 2025-06-20 |  |
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2023-09-15 |  |
 | [EVE](https://open.spotify.com/track/2SGW2reRU2ZvIinJAhAogC) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 1:02 | 2023-09-15 |  |
 | [EVE \- From "WALL\-E"/Score](https://open.spotify.com/track/3ypMbDmBzhI4hTugVJSA58) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E](https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB) | 1:02 | 2024-04-08 | 2024-06-01 |

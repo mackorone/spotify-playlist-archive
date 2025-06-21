@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 La Repandilla & Sound De Barrio.
 
-332 songs - 18 hr 35 min
+333 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [LA COLORADA](https://open.spotify.com/track/7MGOmc1KMZvV0o8iuT8CgE) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [LA COLORADA](https://open.spotify.com/album/6AcR4JanfYZfbneCfpNYG9) | 3:13 | 2024-02-02 | 2024-02-10 |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:11 | 2024-05-18 |  |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2023-05-26 | 2024-04-19 |
-| [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 | 2023-05-26 |  |
+| [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 | 2023-05-26 | 2025-06-21 |
 | [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 | 2023-06-23 | 2024-03-06 |
 | [La Jarra](https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [La Jarra](https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT) | 2:17 | 2023-12-15 | 2024-07-08 |
 | [La Jarra Loca](https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 3:58 | 2023-05-26 | 2024-03-06 |
@@ -203,6 +203,7 @@
 | [Mil Lágrimas](https://open.spotify.com/track/1HrcPsY5WQWzrsO3rLuf8K) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Mil Lágrimas](https://open.spotify.com/album/1hgpHzN0LwPDHJqGTedUuz) | 3:29 | 2025-05-16 |  |
 | [Mirame a La Cara 2](https://open.spotify.com/track/03e0QOtYjB7yg2eZ5mPSYG) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [Niko Falero](https://open.spotify.com/artist/2XEkeHFfw9gjyrL2Qoi0vj), [Treekoo](https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB) | [Mirame a la Cara 2](https://open.spotify.com/album/3ytpZ963aOa2imkhVqlHRX) | 3:11 | 2023-11-01 | 2023-12-25 |
 | [Muchacha Sola](https://open.spotify.com/track/2aJTAFg1QZ4o7ftICW3Zcu) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 3:27 | 2024-03-05 | 2024-04-19 |
+| [Muchachita](https://open.spotify.com/track/0avQMVdnEr62ASNvUDho0S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Muchachita](https://open.spotify.com/album/4t4jtMlrqgxGocIYwgYd0Y) | 2:03 | 2025-06-20 |  |
 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 | 2024-03-05 | 2024-03-09 |
 | [Mujer Yo te amo](https://open.spotify.com/track/3S5wSXom8rA2VUsXenvsdQ) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD), [Hamster Records](https://open.spotify.com/artist/7GCulQ8qiEwJqoubKbf6l6) | [CD2](https://open.spotify.com/album/1pG0DclJo5ORG9DpaMQ6r0) | 2:46 | 2024-04-19 | 2025-04-05 |
 | [Mujer yo te amo \- Remix](https://open.spotify.com/track/6lZVRLyjzx6SbBMbyMv5I4) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Papacho Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Mujer yo te amo \(Remix\)](https://open.spotify.com/album/5plCO9O4DlTBlmkxqY2aOp) | 3:59 | 2023-11-01 | 2024-03-06 |

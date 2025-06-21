@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,559 likes - 61 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,564 likes - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 | 38 | [Last Battle \-Emilia\-](https://open.spotify.com/track/6tKmFfUf3ybHOObFUEFkY8) | [伊藤 賢治](https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE) | [サガ フロンティア オリジナル･サウンドトラック](https://open.spotify.com/album/7iur9tOSvvE5Dpgiufy1Yk) | 4:55 |
 | 39 | [Vorspiel](https://open.spotify.com/track/0twDX9Rxc0cl2SEyP2Veh9) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 1:23 |
 | 40 | [Roman](https://open.spotify.com/track/4HHHDGuXGBf3KFqezFEeTP) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 1:43 |
-| 41 | [Feldschlacht I](https://open.spotify.com/track/6qeNDkk0bfPwYeXBuQrVp0) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 2:59 |
-| 42 | [Zaubermarchen](https://open.spotify.com/track/6wRXjnvFLOOjPgin5gAjJL) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 2:49 |
-| 43 | [Feldschlacht IV](https://open.spotify.com/track/2JDxf5xgw140hhodoqoBnR) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 3:28 |
-| 44 | [Misgestalt](https://open.spotify.com/track/6npTHGbLFc0U7HnXRKoSp1) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 2:31 |
+| 41 | [Feldschlacht Ⅰ](https://open.spotify.com/track/6qeNDkk0bfPwYeXBuQrVp0) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 2:59 |
+| 42 | [Zaubermärchen](https://open.spotify.com/track/6wRXjnvFLOOjPgin5gAjJL) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 2:49 |
+| 43 | [Feldschlacht Ⅳ](https://open.spotify.com/track/2JDxf5xgw140hhodoqoBnR) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 3:28 |
+| 44 | [Mißgestalt](https://open.spotify.com/track/6npTHGbLFc0U7HnXRKoSp1) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 2:31 |
 | 45 | [Postludium](https://open.spotify.com/track/5JeOpKFHvq62djJrZPIPGs) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [サガ フロンティア 2 オリジナル･サウンドトラック](https://open.spotify.com/album/7b6db88dCfBXaJvFTXRo3B) | 1:25 |
 | 46 | [バトルテーマ Ⅰ](https://open.spotify.com/track/27UF1mqdNGo2BGpSjwURIv) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [【再発盤】アンリミテッド:サガ オリジナル･サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 2:07 |
 | 47 | [ローラのテーマ](https://open.spotify.com/track/4jLDwGcrJRcc9uwPldj1W1) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [【再発盤】アンリミテッド:サガ オリジナル･サウンドトラック](https://open.spotify.com/album/53EIyg5xIIc98Nu5UtlrAq) | 1:52 |

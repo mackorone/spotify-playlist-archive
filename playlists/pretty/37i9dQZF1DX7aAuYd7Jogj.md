@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,859,462 likes - 288 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859,383 likes - 288 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 287 | [Prana](https://open.spotify.com/track/2FDtK8Wq0tMClrHW2U0WKo) | [Neopragma](https://open.spotify.com/artist/2yQDtkaqdLRtqt9WsQSgCO) | [Prana](https://open.spotify.com/album/0XDcwODw4sxH8cV8lugIby) | 2:44 |
 | 288 | [Volunteer](https://open.spotify.com/track/4xAQP9W25XLD7z8XjLucOt) | [White Suits](https://open.spotify.com/artist/4UTueaH3m4W8f1AjxlYKkO) | [Volunteer](https://open.spotify.com/album/5X21dHQAd3DxUhN7iuR5Zi) | 3:20 |
 
-Snapshot ID: `AAAAALQ3fwQZBGyMTLxy2dHv0Afj5qEV`
+Snapshot ID: `aFFZZQAAAAAwTnKq9Lr/EMof3fzKGYCi`

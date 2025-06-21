@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مصطفى حجاج & إسلام كابونجا
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,093 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,140 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,17 +22,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 12 | [حلال فيك \- من البوم لينا معاد](https://open.spotify.com/track/65uNDYpRRj01SwndtXTHhA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [حلال فيك \(من البوم لينا معاد\)](https://open.spotify.com/album/0ZhDVNeX12HV67XvWLMDvA) | 3:01 |
 | 13 | [Fi Hekayat](https://open.spotify.com/track/2MTm2zFQe8jyGNrL0wiCqt) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ) | [Fi Hekayat](https://open.spotify.com/album/0Kci8v3ocWIoAI4gDP6Dwb) | 3:04 |
 | 14 | [انتي اعظم اختيار](https://open.spotify.com/track/0IsnB2bkWr1OYyvfVsseLs) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [انتي اعظم اختيار](https://open.spotify.com/album/17EepIsYf9bOZkyFzgZpdO) | 3:04 |
-| 15 | [حلمي بسيط](https://open.spotify.com/track/6yQ43GHL12XAjq2U9O4vbb) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [حلمي بسيط](https://open.spotify.com/album/5r6bhdq6P0nhEPStExl1wo) | 3:07 |
-| 16 | [Madi W Fat](https://open.spotify.com/track/7svFmxTUFmgRy4oeMyfarn) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Madi W Fat](https://open.spotify.com/album/3vUUXjwX5dGgxLiFtG8HI9) | 2:59 |
-| 17 | [بتاع الصبر](https://open.spotify.com/track/4bgR9WFNhAaIJLojy9BT2V) | [Adam El Banna](https://open.spotify.com/artist/56gAz4h5TYraP9UFjCcEGG) | [بتاع الصبر](https://open.spotify.com/album/1O0D1tx6UAEevNfqyaMx0K) | 2:52 |
-| 18 | [كلام فارغ](https://open.spotify.com/track/7nZync4cVWk7qP44aVpYy3) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [كلام فارغ](https://open.spotify.com/album/2t69m3YMhYT9girpfbWf3L) | 4:34 |
-| 19 | [جغرافيًا](https://open.spotify.com/track/31gyXhkjaqNtd0qC3sez0S) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [جغرافيًا](https://open.spotify.com/album/1nPTIrAMfh0Tzba123B4IC) | 3:02 |
-| 20 | [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:15 |
-| 21 | [Yaretni](https://open.spotify.com/track/5BfYpW7SHlVEl5S1Fdcf7C) | [Ronie Kharoub](https://open.spotify.com/artist/2tUPRSbmVE0mwGJvkrFnid), [Nasser Beats](https://open.spotify.com/artist/1M15ODnVMkTcynUQGJ38gw) | [Yaretni](https://open.spotify.com/album/3axGEmi9udBzzVl29R9qs6) | 2:22 |
-| 22 | [Makamelnash](https://open.spotify.com/track/3weY8QZG4Xyqn5zYtcsfrj) | [Soulphonic](https://open.spotify.com/artist/3QoLVZNmSNKRsjvrEFWqX9), [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Makamelnash](https://open.spotify.com/album/14Cbhl3zPq7uTHUTeB3lmo) | 3:38 |
-| 23 | [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 |
-| 24 | [Elkol yez3al](https://open.spotify.com/track/5JiD624SRLUa1GZxhqmw5A) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [Elkol yez3al](https://open.spotify.com/album/5urVyboPQdZRKJRgNZphBY) | 2:57 |
-| 25 | [ادي الايام](https://open.spotify.com/track/0LfqSLdayU8s012yBYILY5) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [ادي الايام](https://open.spotify.com/album/6otvAKsCYxckhbe3bHJWpa) | 3:19 |
+| 15 | [قصة مزيفة](https://open.spotify.com/track/5KUNZ148oHYGRnJcr3bzfN) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [قصة مزيفة](https://open.spotify.com/album/0WobgoHP2uoUsLzmLCFdpt) | 3:39 |
+| 16 | [حلمي بسيط](https://open.spotify.com/track/6yQ43GHL12XAjq2U9O4vbb) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [حلمي بسيط](https://open.spotify.com/album/5r6bhdq6P0nhEPStExl1wo) | 3:07 |
+| 17 | [Madi W Fat](https://open.spotify.com/track/7svFmxTUFmgRy4oeMyfarn) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Madi W Fat](https://open.spotify.com/album/3vUUXjwX5dGgxLiFtG8HI9) | 2:59 |
+| 18 | [بتاع الصبر](https://open.spotify.com/track/4bgR9WFNhAaIJLojy9BT2V) | [Adam El Banna](https://open.spotify.com/artist/56gAz4h5TYraP9UFjCcEGG) | [بتاع الصبر](https://open.spotify.com/album/1O0D1tx6UAEevNfqyaMx0K) | 2:52 |
+| 19 | [كلام فارغ](https://open.spotify.com/track/7nZync4cVWk7qP44aVpYy3) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [كلام فارغ](https://open.spotify.com/album/2t69m3YMhYT9girpfbWf3L) | 4:34 |
+| 20 | [جغرافيًا](https://open.spotify.com/track/31gyXhkjaqNtd0qC3sez0S) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [جغرافيًا](https://open.spotify.com/album/1nPTIrAMfh0Tzba123B4IC) | 3:02 |
+| 21 | [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:15 |
+| 22 | [Yaretni](https://open.spotify.com/track/5BfYpW7SHlVEl5S1Fdcf7C) | [Ronie Kharoub](https://open.spotify.com/artist/2tUPRSbmVE0mwGJvkrFnid), [Nasser Beats](https://open.spotify.com/artist/1M15ODnVMkTcynUQGJ38gw) | [Yaretni](https://open.spotify.com/album/3axGEmi9udBzzVl29R9qs6) | 2:22 |
+| 23 | [Makamelnash](https://open.spotify.com/track/3weY8QZG4Xyqn5zYtcsfrj) | [Soulphonic](https://open.spotify.com/artist/3QoLVZNmSNKRsjvrEFWqX9), [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Makamelnash](https://open.spotify.com/album/14Cbhl3zPq7uTHUTeB3lmo) | 3:38 |
+| 24 | [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 |
+| 25 | [Elkol yez3al](https://open.spotify.com/track/5JiD624SRLUa1GZxhqmw5A) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [Elkol yez3al](https://open.spotify.com/album/5urVyboPQdZRKJRgNZphBY) | 2:57 |
 | 26 | [مش سالكين](https://open.spotify.com/track/5qvVsntT1YqYUFdnhtvZBc) | [Alhassan Adel](https://open.spotify.com/artist/1rSKg6fabB8hw5y1rcxYdk) | [مش سالكين](https://open.spotify.com/album/1524gRI219NvKNVJe7Kdc2) | 2:24 |
 | 27 | [TARQEES](https://open.spotify.com/track/36Yh3W7CVaM6ccGntNTDO2) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [TARQEES](https://open.spotify.com/album/2oiSur6voqu9Tpr8wnToYj) | 3:05 |
 | 28 | [Yalahwy 3al Ayam](https://open.spotify.com/track/4LLqLFGkjCtz21Pb8HL5Fp) | [Khaled Essam](https://open.spotify.com/artist/7kJjOSF2VomfmxWgwBZx1r) | [Yalahwy 3al Ayam](https://open.spotify.com/album/5TyOAzuITUBvtRN2YbBqVc) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [MSH ANANEYA](https://open.spotify.com/track/5TkWSUSXXZhcS7Ta3yBWW1) | [Nada Nader](https://open.spotify.com/artist/5LGQwjfTimjVhHHWCVP6Lz) | [MSH ANANEYA](https://open.spotify.com/album/2hIsHEVUK08rHXutBFK4i7) | 2:47 |
 | 50 | [خد وقتي كله](https://open.spotify.com/track/4ARfmB3WXlG25MguHryHG7) | [Ahmed Ehab](https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl) | [خد وقتي كله](https://open.spotify.com/album/2oXIIJQKbJsF6Tf4qkwZ37) | 3:57 |
 
-Snapshot ID: `aFSf1wAAAAB3xtvMigN62Ifaj6hgx2ub`
+Snapshot ID: `aFVLbQAAAADYLQsL39bcLMEnlBhRFdTs`

@@ -3503,6 +3503,36 @@
     },
     {
       "album": {
+        "name": "Kaathadi",
+        "url": "https://open.spotify.com/album/04YrzMRld5PzwChbdVbaJN"
+      },
+      "artists": [
+        {
+          "name": "Martin Jazz",
+          "url": "https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu"
+        },
+        {
+          "name": "ParthaSarathi",
+          "url": "https://open.spotify.com/artist/0GiCGz0OMwab6QvzZ1oKfb"
+        },
+        {
+          "name": "Dextorexx",
+          "url": "https://open.spotify.com/artist/6pITA4IFyrbQNbsjIPLlfO"
+        },
+        {
+          "name": "Pj.Onanaa",
+          "url": "https://open.spotify.com/artist/0wzG5kttDiuzWmxD8m2cPA"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185577,
+      "name": "Kaathadi",
+      "url": "https://open.spotify.com/track/2F3oivF0j2938HjVa5Pr5g"
+    },
+    {
+      "album": {
         "name": "Kaatril Panju Pola",
         "url": "https://open.spotify.com/album/6MN2YQ6cBKSBxSZqdvQ8pP"
       },

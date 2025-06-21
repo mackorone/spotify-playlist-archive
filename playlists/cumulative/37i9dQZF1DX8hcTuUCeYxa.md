@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: We Are Scientists
 
-1,557 songs - 3 day 17 hr 25 min
+1,558 songs - 3 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 | 2025-04-03 | 2025-04-11 |
 | [goodbye and good luck](https://open.spotify.com/track/2JkcKchN1kyhSQeShwuNV4) | [jupiter flynn](https://open.spotify.com/artist/22pvoqQ30AljyB7Vxi0F0U) | [villain to my story](https://open.spotify.com/album/4snynUoJpak9fXT7pzqjRL) | 3:16 | 2024-06-28 | 2024-07-19 |
 | [Goodmorning Babe](https://open.spotify.com/track/0Tkunac7c989q2fGetVk7c) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Notes To Self](https://open.spotify.com/album/2kvu7ItaqbEGRjczYjmd0b) | 2:10 | 2024-08-15 | 2024-08-23 |
+| [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-20 |  |
 | [Goodthing](https://open.spotify.com/track/0k7BOLRG5thWvkOgTujjN0) | [Wargirl](https://open.spotify.com/artist/7eoJsJZip1IYk8p5o9fvsO) | [Goodthing](https://open.spotify.com/album/6oAMwfxkrrXNEBb1qigMhC) | 3:56 | 2025-06-19 |  |
 | [gossip](https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [gossip](https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF) | 3:47 | 2024-11-21 | 2024-12-06 |
 | [Got to Have Love](https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Got to Have Love](https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij) | 4:52 | 2025-05-22 | 2025-06-20 |

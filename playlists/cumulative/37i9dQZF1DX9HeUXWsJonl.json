@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 143999,
       "name": "Omri T3ada",
       "url": "https://open.spotify.com/track/7rMmuMmb37vB0f4oq9INiq"
@@ -4207,6 +4207,28 @@
     },
     {
       "album": {
+        "name": "Weld Ommi",
+        "url": "https://open.spotify.com/album/1Cu8XwQuQrp39qqStF8NH2"
+      },
+      "artists": [
+        {
+          "name": "Mouka",
+          "url": "https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz"
+        },
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Weld Ommi",
+      "url": "https://open.spotify.com/track/04E5mcdB7gplezv6qqzCA8"
+    },
+    {
+      "album": {
         "name": "Wino El Hob",
         "url": "https://open.spotify.com/album/11D9TxsVmFM1SAiFl1w2Ql"
       },
@@ -4338,7 +4360,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 129132,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u"
@@ -4742,6 +4764,28 @@
       "duration_ms": 176248,
       "name": "\u00c7a parle mal",
       "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0637\u064a\u0629 | Khtaya",
+        "url": "https://open.spotify.com/album/7yCSM2zx7WzqNghq7vB9QV"
+      },
+      "artists": [
+        {
+          "name": "Bessan Ismail",
+          "url": "https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB"
+        },
+        {
+          "name": "Fouad Jned",
+          "url": "https://open.spotify.com/artist/6HbYj8CX1iPNrY6ox5haJN"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "\u062e\u0637\u064a\u0629 | Khtaya",
+      "url": "https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-2,329 songs - 5 day 2 hr 21 min
+2,332 songs - 5 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [AFTERLIFE](https://open.spotify.com/track/2yIBeA5fMeQbmusO2mA2si) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [AFTERLIFE](https://open.spotify.com/album/0MuRr8SwLjstKBjMhp3tGc) | 2:38 | 2025-06-06 |  |
 | [Again & Again](https://open.spotify.com/track/5Yub6oyTCG3zEOVab2lDxy) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [Again & Again](https://open.spotify.com/album/2IP1NNU1IXWoLYQS9C6D8S) | 2:50 | 2024-08-17 |  |
 | [Again & Again](https://open.spotify.com/track/2Mw7HBFneGUw7Dw15pQcbN) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Again & Again](https://open.spotify.com/album/6MaTZ3YmrtGa4Ajb5wmBKy) | 4:00 | 2022-02-17 |  |
+| [Again \- Illuszion Remix](https://open.spotify.com/track/4qQf9avxdww3BpsNwNDGeN) | [Refold](https://open.spotify.com/artist/02oOp0dwF69I6v2scWE7uY), [Re\-Vane](https://open.spotify.com/artist/6ToFt7dh656DuZUfS4HJbG), [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [Again \(Illuszion Remix\)](https://open.spotify.com/album/2HndxzpXmVI9cEBFUV9REN) | 3:01 | 2025-06-20 |  |
 | [Against Me \- Radio Mix](https://open.spotify.com/track/4uI0hpZb06AVf7pmWUABCh) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Against Me](https://open.spotify.com/album/6vlrsGrlWmavbmdVmwtBS5) | 3:27 | 2022-10-30 |  |
 | [Age Of War \(Darkness Event Anthem 2025\)](https://open.spotify.com/track/0OYKyfIVwqTQCAOr12PwR1) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1), [FLANDERS](https://open.spotify.com/artist/4wxW9h3BEjw7o5lHycCxbv) | [Age Of War \(Darkness Event Anthem 2025\)](https://open.spotify.com/album/06UAjZai8WZiLhjXnEYlgS) | 2:53 | 2025-01-25 |  |
 | [Aim Higher](https://open.spotify.com/track/3TyMLhhNWwYDzNAnrczUBz) | [NVDR](https://open.spotify.com/artist/4Kg0afKjcIpz2mGr0wuiSu) | [Aim Higher](https://open.spotify.com/album/30OXj2NXl7e3UcsgQatRKf) | 3:13 | 2025-06-06 |  |
@@ -1255,6 +1256,7 @@
 | [Lose Control \(CTRL\)](https://open.spotify.com/track/2kiClNOTehkH5oA9Ivhk6q) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Lose Control \(CTRL\)](https://open.spotify.com/album/0XyDiE29muAoeFK8le4REp) | 2:36 | 2025-05-13 |  |
 | [LOSE IT](https://open.spotify.com/track/4jF9Df8yhktHGaRV4UwQ8r) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [LOSE IT](https://open.spotify.com/album/03UYxj7j9zacRjwwEbExV5) | 2:43 | 2023-11-21 |  |
 | [LOSE IT](https://open.spotify.com/track/61HfM2Sdl3A5eDOVAZADDY) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 3:29 | 2023-04-16 |  |
+| [Lose My Mind](https://open.spotify.com/track/3DENDwoQPidz3w4JDTafJ0) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY), [F!sher](https://open.spotify.com/artist/46RzWOk0qkKdni3R1PoeZX) | [Lose My Mind](https://open.spotify.com/album/1br2lpMUMugQQmbKolbWvs) | 2:27 | 2025-06-20 |  |
 | [Lose My Mind](https://open.spotify.com/track/4QJQV4cYPmmxzVyJ31qeVf) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY), [F!sher](https://open.spotify.com/artist/46RzWOk0qkKdni3R1PoeZX) | [Lose My Mind](https://open.spotify.com/album/44C4n9gCtxet0vZCuFEcvs) | 2:28 | 2025-04-18 |  |
 | [Lose Myself](https://open.spotify.com/track/0Wib9uDgXe9CKKu0MRkllK) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [Lunatic](https://open.spotify.com/album/3imYzR1MfxzRhloeDm3nVH) | 2:55 | 2023-07-29 |  |
 | [Lose Yourself](https://open.spotify.com/track/29Gt8DLOn1EGy1URwCjOaH) | [UNSYN](https://open.spotify.com/artist/5jptqH3gT47JWOY3NFTXfw), [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM) | [Lose Yourself](https://open.spotify.com/album/68KTshzPEUK8qnd2rfCUpT) | 2:33 | 2024-10-11 |  |
@@ -2276,6 +2278,7 @@
 | [Wide Awake](https://open.spotify.com/track/6ykkQVbhf1uBhlaFYCkFCI) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Wide Awake](https://open.spotify.com/album/62ro2RWYySrYQvSFasrRLd) | 2:51 | 2024-09-06 |  |
 | [Wide Awake](https://open.spotify.com/track/4s4RS2nqMMi6AxlIBkdT2K) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Through My Veins](https://open.spotify.com/album/7kdMytBymEhWquNnV10Swv) | 3:26 | 2024-04-19 |  |
 | [Widifan](https://open.spotify.com/track/45LLrgQQkRYsNDayYxiwZG) | [Massive Disorder](https://open.spotify.com/artist/36lUwhORUGnli06h8VMKqu), [Rosell](https://open.spotify.com/artist/2xCr0RHxfjlV47y3ZXoTol) | [Widifan](https://open.spotify.com/album/34Q0EnIp1kngwz9SD3kiKH) | 3:25 | 2022-11-29 |  |
+| [WILD MF](https://open.spotify.com/track/22bErBWmRAPjEYJAyb7bkA) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [WILD MF](https://open.spotify.com/album/4DU1NQt6ZBYwvrFu8zrC6k) | 2:04 | 2025-06-20 |  |
 | [Wild Mothafukaz](https://open.spotify.com/track/4RdW7QyVwZAVWpArkNs3r5) | [Omar Santana](https://open.spotify.com/artist/4jlINwGiH4WGCv6OCRNdpT), [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Wild Mothafukaz](https://open.spotify.com/album/0uMeoGjdc7dJaJ13FGBAsc) | 4:54 | 2023-04-04 |  |
 | [Wild Ones](https://open.spotify.com/track/0dRJhDSmNCeCacYC9pBbfc) | [Resurgenze](https://open.spotify.com/artist/2UE3Slkxz9Gf6nhVQZW9QZ) | [Wild Ones](https://open.spotify.com/album/2SbiFzBXAmF97r5ogEYjYu) | 2:57 | 2023-01-09 |  |
 | [Wilderness](https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Wilderness](https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj) | 3:22 | 2024-11-29 | 2024-12-08 |

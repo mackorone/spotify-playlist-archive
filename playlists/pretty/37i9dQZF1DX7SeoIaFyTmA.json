@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends.",
-  "num_followers": 1427470,
+  "num_followers": 1427747,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "Traigo de Todo",
+        "url": "https://open.spotify.com/album/59PyYgxcFv1kahbd8TKidc"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 337200,
+      "name": "El Nazareno",
+      "url": "https://open.spotify.com/track/38jYkci8etRv1bOTIRvONh"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "Lo Qu\u00e9 Pide La Gente",
         "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
       },
@@ -1639,6 +1655,22 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "Fuego En El 23",
         "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
       },
@@ -1651,22 +1683,6 @@
       "duration_ms": 284653,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "Traigo de Todo",
-        "url": "https://open.spotify.com/album/59PyYgxcFv1kahbd8TKidc"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 337200,
-      "name": "El Nazareno",
-      "url": "https://open.spotify.com/track/38jYkci8etRv1bOTIRvONh"
     },
     {
       "added_at": "2025-03-07 05:00:25",
@@ -1687,34 +1703,18 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+        "name": "La Herencia",
+        "url": "https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
         }
       ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "Rey Del Bajo",
-        "url": "https://open.spotify.com/album/5rzT0uHrXsopbuWqYMeK1p"
-      },
-      "artists": [
-        {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
-        }
-      ],
-      "duration_ms": 346306,
-      "name": "Mi Ritmo Es Bueno",
-      "url": "https://open.spotify.com/track/461r8m7wxs4hpc5aVKYRd3"
+      "duration_ms": 214213,
+      "name": "Dime Por Que",
+      "url": "https://open.spotify.com/track/7zKdfPOyJvmtzVIgZYheGZ"
     }
   ],
   "unique_name": "Salsa Classics",

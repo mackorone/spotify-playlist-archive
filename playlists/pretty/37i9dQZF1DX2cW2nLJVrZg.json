@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 258081,
+  "num_followers": 258075,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "Beauty And The Beast (Special Edition)",
         "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 165186,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0"
     },
     {
       "added_at": "2024-01-23 19:55:12",

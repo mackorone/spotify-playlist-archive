@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 100983,
+  "num_followers": 100989,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Fai rumore",
-        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
-      },
-      "artists": [
-        {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
-        }
-      ],
-      "duration_ms": 216140,
-      "name": "Fai rumore",
-      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 223520,
       "name": "Terra promessa",
       "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Fai rumore",
+        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
+      },
+      "artists": [
+        {
+          "name": "Diodato",
+          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
+        }
+      ],
+      "duration_ms": 216140,
+      "name": "Fai rumore",
+      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Pazza",
-        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
-      },
-      "artists": [
-        {
-          "name": "Loredana Bert\u00e8",
-          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
-        }
-      ],
-      "duration_ms": 168166,
-      "name": "Pazza",
-      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Per Un Milione",
         "url": "https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH"
       },
@@ -727,22 +711,6 @@
       "duration_ms": 174615,
       "name": "Per Un Milione",
       "url": "https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
-        "name": "Un giorno di sole - Straordinario",
-        "url": "https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx"
-      },
-      "artists": [
-        {
-          "name": "Chiara Galiazzo",
-          "url": "https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Straordinario",
-      "url": "https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -763,6 +731,38 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
+        "name": "Pazza",
+        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "duration_ms": 168166,
+      "name": "Pazza",
+      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Un giorno di sole - Straordinario",
+        "url": "https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx"
+      },
+      "artists": [
+        {
+          "name": "Chiara Galiazzo",
+          "url": "https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Straordinario",
+      "url": "https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
         "name": "Odissea",
         "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "di20are",
-        "url": "https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy"
-      },
-      "artists": [
-        {
-          "name": "Francesca Michielin",
-          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Nessun grado di separazione",
-      "url": "https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Due Parole",
         "url": "https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 244573,
       "name": "Amore Di Plastica",
       "url": "https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "di20are",
+        "url": "https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy"
+      },
+      "artists": [
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Nessun grado di separazione",
+      "url": "https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
+        "name": "Ivana Spagna",
+        "url": "https://open.spotify.com/album/3ok6wgz1ucuA4BMciW8SVf"
+      },
+      "artists": [
+        {
+          "name": "Ivana Spagna",
+          "url": "https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Gente come noi",
+      "url": "https://open.spotify.com/track/0rPsMM9L2Rr6wCGPFHjWPZ"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
         "name": "Tutto Al Bano",
         "url": "https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 226439,
       "name": "Nostalgia canaglia",
       "url": "https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
-        "name": "Ivana Spagna",
-        "url": "https://open.spotify.com/album/3ok6wgz1ucuA4BMciW8SVf"
-      },
-      "artists": [
-        {
-          "name": "Ivana Spagna",
-          "url": "https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Gente come noi",
-      "url": "https://open.spotify.com/track/0rPsMM9L2Rr6wCGPFHjWPZ"
     },
     {
       "added_at": "2025-02-25 22:08:25",

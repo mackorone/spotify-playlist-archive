@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/41CdF19fdLj0raHQbE7LLz.md) - [plain]
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-[spektrelive](https://open.spotify.com/user/spektrelive) - 1,406 likes - 97 songs - 7 hr 58 min
+[spektrelive](https://open.spotify.com/user/spektrelive) - 1,407 likes - 97 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/41CdF19fdLj0raHQbE7LLz.md) - [plain]
 | 46 | [The Violator](https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [The Violator](https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB) | 4:01 |
 | 47 | [Dopemine](https://open.spotify.com/track/1DHpTZqedmXOahLu8HFHxT) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Tunnel Vision](https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2) | 6:10 |
 | 48 | [Bell](https://open.spotify.com/track/42iMxUFc8IoedPBcQySzW9) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bell](https://open.spotify.com/album/0wyKisLhaV7LDJPPkN8U4w) | 4:00 |
-| 49 | [Heat](https://open.spotify.com/track/2htSGv3TxaNahVpDoppRGr) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Heat](https://open.spotify.com/album/6T5y5moLD8Qsa2KNsc7B0e) | 3:48 |
+| 49 | [Heat](https://open.spotify.com/track/2htSGv3TxaNahVpDoppRGr) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Heat](https://open.spotify.com/album/6T5y5moLD8Qsa2KNsc7B0e) | 3:48 |
 | 50 | [With The Rhythm](https://open.spotify.com/track/5TAIQ9hjW7il1wSMXRxsdb) | [Mark Porter](https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo) | [Respekt Rebels, Vol\. 5](https://open.spotify.com/album/3TENZK2vFLimFVPjwWqn2x) | 4:08 |
 | 51 | [Higher](https://open.spotify.com/track/1lxy8QNuoHOuUNVEpAfH5V) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Raredub](https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4) | [HIGHER](https://open.spotify.com/album/2TX87UckqmOahcUREbqdYT) | 5:41 |
 | 52 | [Bloom](https://open.spotify.com/track/4AqLfv5PWtRBhDm0VA8ewq) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Bloom](https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD) | 4:38 |

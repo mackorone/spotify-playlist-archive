@@ -2,9 +2,9 @@
 
 ### [Latin Frequency](https://open.spotify.com/playlist/37i9dQZF1DWU65QzegR429)
 
-> Latin music making waves\. Cover: Key\-Key
+> Latin music making waves\. Cover: Apeche & Reke
 
-266 songs - 13 hr 41 min
+268 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,14 +149,15 @@
 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 | 2025-04-04 |  |
 | [MI VIDA ES ASI](https://open.spotify.com/track/1NGayU0eNhFW0r3LCzciKv) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MI VIDA ES ASI](https://open.spotify.com/album/2vnPFThX1Rc9ESO7C1P1JY) | 2:42 | 2025-05-30 |  |
 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 | 2022-02-18 | 2023-02-11 |
-| [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2023-07-24 |  |
+| [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2023-07-24 | 2025-06-21 |
 | [Mirame Ahora](https://open.spotify.com/track/197t3d2KORVSbnhxeWqYQf) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [MICRODOSIS](https://open.spotify.com/album/5xzr5tWqMTfBr55QGsJjzR) | 3:12 | 2022-02-18 | 2022-06-03 |
 | [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 | 2022-06-02 | 2023-01-10 |
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2022-02-18 | 2023-02-11 |
 | [Modo Avion](https://open.spotify.com/track/45oiFFQxGnwymmlWcbRqCh) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Modo Avion](https://open.spotify.com/album/22XhY7ZtyYNTkPm7no6fAG) | 2:51 | 2024-02-16 | 2025-05-31 |
 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 | 2022-02-18 | 2025-05-31 |
-| [Mírame](https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Pa' El Alma](https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY) | 3:20 | 2023-02-27 |  |
+| [Mírame](https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Pa' El Alma](https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY) | 3:20 | 2023-02-27 | 2025-06-21 |
 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 | 2022-02-18 | 2023-02-11 |
+| [N.E.R](https://open.spotify.com/track/36JN9OBi1oQHVdw0KzCTgD) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4), [Faker](https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL) | [APUESTA AL NEGRO](https://open.spotify.com/album/2Thjjg1KbIfaWJPyQpKnlu) | 2:38 | 2025-06-20 |  |
 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 | 2022-02-18 | 2025-04-02 |
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-06-02 | 2023-02-11 |
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2023-02-10 | 2025-05-31 |
@@ -269,6 +270,7 @@
 | [What a Bam Bam](https://open.spotify.com/track/0l6REfKf0k4aX5UsLIXEhe) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [What a Bam Bam](https://open.spotify.com/album/2ZkUOPatBkSSJRDKUBbwaz) | 3:08 | 2024-03-21 |  |
 | [When I Was Your Girl](https://open.spotify.com/track/07mj6o8oLIYbMSvwlQGMUB) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [There's No Other Girl \(Live Session EP\)](https://open.spotify.com/album/65e8ENLi3NSZj5xooYNO1x) | 5:35 | 2022-02-18 | 2022-06-03 |
 | [Who Who](https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Who Who](https://open.spotify.com/album/5YwNXkTwhwBv1dZE5pbE11) | 3:03 | 2024-03-22 | 2025-03-22 |
+| [Y por ahi me dicen y que](https://open.spotify.com/track/2rOS6hOkqDfOllGK9XY9V1) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Y por ahi me dicen y que](https://open.spotify.com/album/2OolB2SHuxKs1p0MgGSCc4) | 2:48 | 2025-06-20 |  |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2022-02-18 | 2022-06-03 |
 | [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 | 2023-02-27 | 2023-06-19 |
 | [¿Donde Estas?](https://open.spotify.com/track/1CykRi2bJXvE7oDCQwrnjh) | [Damn Goldo](https://open.spotify.com/artist/3IA0lT7XTEQhRagSF0Mnc0), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [¿Donde Estas?](https://open.spotify.com/album/0ArOfZwyigAqNLRbz231nE) | 2:40 | 2025-05-30 |  |

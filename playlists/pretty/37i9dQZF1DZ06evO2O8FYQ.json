@@ -1,13 +1,29 @@
 {
   "description": "This is Dinosaur Pile-Up. The essential tracks, all in one playlist.",
-  "num_followers": 2257,
+  "num_followers": 2263,
   "original_name": "This Is Dinosaur Pile-Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFIBgAAAAADNVwHEpoWblo7yRbltVXUv",
+  "snapshot_id": "aFNTAAAAAACuF85UGv8m14JG/0rYEa1r",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sick Of Being Down",
+        "url": "https://open.spotify.com/album/38sDUnAK5fzcaPIvxVXvyB"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 204012,
+      "name": "Sick Of Being Down",
+      "url": "https://open.spotify.com/track/6S33PGYHXqJQY5pSrdJsUP"
+    },
     {
       "added_at": null,
       "album": {

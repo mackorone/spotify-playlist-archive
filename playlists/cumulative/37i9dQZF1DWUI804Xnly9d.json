@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 163750,
       "name": "Ghar",
       "url": "https://open.spotify.com/track/7sTRZjGMAffIs5M2pk3JH2"
@@ -5864,7 +5864,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 147604,
       "name": "Kyun?",
       "url": "https://open.spotify.com/track/5GOeSNgwSD6DnmPRHnXwpg"
@@ -8283,6 +8283,28 @@
     },
     {
       "album": {
+        "name": "Roohdariyan",
+        "url": "https://open.spotify.com/album/4kNyWCQf6X18cXrNyVmVZg"
+      },
+      "artists": [
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        },
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242526,
+      "name": "Roohdariyan",
+      "url": "https://open.spotify.com/track/4wxtsG8K3QIzstLAMmFoKW"
+    },
+    {
+      "album": {
         "name": "Roshni Ka Sira",
         "url": "https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo"
       },
@@ -9738,6 +9760,24 @@
       "duration_ms": 165120,
       "name": "Thodi Si",
       "url": "https://open.spotify.com/track/3cOETkjOwfxWMwZG8mZFDD"
+    },
+    {
+      "album": {
+        "name": "Titli",
+        "url": "https://open.spotify.com/album/2kmK65y29xEQc9N6ZaYDOO"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182449,
+      "name": "Titli",
+      "url": "https://open.spotify.com/track/7hIo0oSJq396AsNH0r1zCv"
     },
     {
       "album": {

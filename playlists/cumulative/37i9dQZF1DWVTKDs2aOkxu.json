@@ -5285,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "Wall Of Arms",
+        "url": "https://open.spotify.com/album/5ToJ9pG8YEetqP7qlFQP49"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/3GHXx8uF1IUDzrxFV631qf"
+    },
+    {
+      "album": {
         "name": "LOVEBITES",
         "url": "https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7"
       },

@@ -1,15 +1,31 @@
 {
   "description": "As heard on the FYP.  Cover: Skales\n",
-  "num_followers": 60911,
+  "num_followers": 60951,
   "original_name": "Internet Famous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkzAAAAACn4ejsVvp3vhudiDzu6O3S",
+  "snapshot_id": "aFU71AAAAAAP5wfXtN6rWvyF2zNmMj5u",
   "tracks": [
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
+      "album": {
+        "name": "Superfuji(GOBE)",
+        "url": "https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "duration_ms": 232269,
+      "name": "Superfuji(GOBE)",
+      "url": "https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji"
+    },
+    {
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Laho II",
         "url": "https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Arike",
         "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Joy Is Coming",
         "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Uncle Pele / Sew-Tape",
         "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Candor",
         "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Banger",
         "url": "https://open.spotify.com/album/7yJ36MB6uHfak41FwhX5Vk"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/5ly3i4ygTqNNV15OkfBQu7"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
@@ -177,27 +193,7 @@
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
-      "album": {
-        "name": "Big Smile (Pose For Me) [feat. ODUMODUBLVCK]",
-        "url": "https://open.spotify.com/album/6SvkUyQ0OAvPs9UJ92ZvYG"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Big Smile (Pose For Me) [feat. ODUMODUBLVCK]",
-      "url": "https://open.spotify.com/track/0SJsn8JEZ0xnLqmfOYqfrL"
-    },
-    {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
@@ -213,7 +209,7 @@
       "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Na Scra",
         "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
@@ -229,7 +225,7 @@
       "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
@@ -245,7 +241,7 @@
       "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Funds (feat. ODUMODUBLVCK & Chike)",
         "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
@@ -269,7 +265,7 @@
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Baby (Is it a Crime)",
         "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
@@ -285,7 +281,7 @@
       "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
@@ -305,7 +301,7 @@
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Screaming Beauty",
         "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
@@ -325,7 +321,7 @@
       "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "what a feeling",
         "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
@@ -345,7 +341,7 @@
       "url": "https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "ROUGH DANCE",
         "url": "https://open.spotify.com/album/6Lup5BNjP9nF3ZIAENceF9"
@@ -377,7 +373,27 @@
       "url": "https://open.spotify.com/track/7uyScF14QVoYWUE51t3XYi"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
+      "album": {
+        "name": "Escaladizzy",
+        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Escaladizzy",
+      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+    },
+    {
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Shake It To The Max (FLY)",
         "url": "https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Excellent",
         "url": "https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Hey Jago",
         "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Xistence.",
         "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Focus On Me (All The Sexy Girls In The Club)",
         "url": "https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Broken Souls",
         "url": "https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Gimme Dat",
         "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "W241",
         "url": "https://open.spotify.com/album/7lcLv31pbbqDAZj5NXGg59"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/09m46Qi4alQpglRAx1w0zs"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Kusho Bani",
         "url": "https://open.spotify.com/album/4b3dDfp7hzYtLkjlYKM2xy"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/6OY9Y4MJKoj1COWKiUyZCN"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Darling - Focus",
         "url": "https://open.spotify.com/album/7Ef8FXjbmBIq38AYmrdzCq"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/59klPCK4zRYws4adUXJkYg"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "CHORD",
         "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
@@ -757,27 +773,7 @@
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
-        }
-      ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
-    },
-    {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "DILEMMA (feat. Central Cee)",
         "url": "https://open.spotify.com/album/06QznHIpl5VXQOjcoBJp0W"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/0sOTUNnrLiwEfjgPs1nnJS"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "TaTaTa (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
@@ -817,7 +813,7 @@
       "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Man of the Year",
         "url": "https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2"
@@ -833,7 +829,7 @@
       "url": "https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "No Turning Back II",
         "url": "https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C"
@@ -853,7 +849,7 @@
       "url": "https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Crush (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5"
@@ -873,7 +869,7 @@
       "url": "https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "Fairy",
         "url": "https://open.spotify.com/album/1RmNOVzmUpRHczpGYiUd10"
@@ -889,7 +885,7 @@
       "url": "https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "D.L.L.Y {Dance Like Lamine Yamal}",
         "url": "https://open.spotify.com/album/1hnyZWg9sdstOchNm84Y48"
@@ -909,7 +905,7 @@
       "url": "https://open.spotify.com/track/3vqYeiJuBbKXGLYM4MtZ4U"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "WTHELLY",
         "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
@@ -925,7 +921,7 @@
       "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
     },
     {
-      "added_at": "2025-06-20 00:01:16",
+      "added_at": "2025-06-20 10:45:40",
       "album": {
         "name": "LULULEMON",
         "url": "https://open.spotify.com/album/5xZUCYgb5TYD8ysfnOPlhK"

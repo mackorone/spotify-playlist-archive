@@ -3989,6 +3989,36 @@
     },
     {
       "album": {
+        "name": "Ascension (Alesso Remix)",
+        "url": "https://open.spotify.com/album/1A1ZYfPpq7zeYlSTK7N3vp"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        },
+        {
+          "name": "EWC",
+          "url": "https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K"
+        },
+        {
+          "name": "Hollywood Scoring",
+          "url": "https://open.spotify.com/artist/7kmiZAOBxtLgx7CMSGOXxg"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Ascension (Alesso Remix)",
+      "url": "https://open.spotify.com/track/3dVfQl8ZXN12zIRUfqC5bT"
+    },
+    {
+      "album": {
         "name": "Ashes To Ashes (Revisited)",
         "url": "https://open.spotify.com/album/2KwG1w1iKx3cnQViznjdBy"
       },
@@ -11433,6 +11463,24 @@
     },
     {
       "album": {
+        "name": "Dominate",
+        "url": "https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Dominate",
+      "url": "https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt"
+    },
+    {
+      "album": {
         "name": "Castillo Faber",
         "url": "https://open.spotify.com/album/5xAmHdd8hJowqLIyZvsu9r"
       },
@@ -12004,6 +12052,28 @@
       "duration_ms": 290032,
       "name": "Dr. Feelgood - 2024 Remaster",
       "url": "https://open.spotify.com/track/24Dk2kKJhgEug39M0T0Kiv"
+    },
+    {
+      "album": {
+        "name": "Drain The Blood",
+        "url": "https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Drain The Blood",
+      "url": "https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0"
     },
     {
       "album": {
@@ -15572,7 +15642,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 144750,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1iSDn0mTpb0ZLZcbZgYkef"
@@ -25811,6 +25881,32 @@
     },
     {
       "album": {
+        "name": "Let's Ride Away (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/05IR0uSEjd7nu4ZgQnIMiA"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "Let's Ride Away - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/2oN9Y8nY83OJ6euCOxiVNb"
+    },
+    {
+      "album": {
         "name": "Let's Ride Away (MEDUZA For Tim Remix)",
         "url": "https://open.spotify.com/album/3jhvkeBmvGhB3BPOz9qhKc"
       },
@@ -25830,7 +25926,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 160781,
       "name": "Let's Ride Away - MEDUZA For Tim Edit",
       "url": "https://open.spotify.com/track/5ajmGn2nwM4hwGcFop92FK"
@@ -42460,7 +42556,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 141428,
       "name": "Surrender (Stripped)",
       "url": "https://open.spotify.com/track/2i4AspXN1PTBkbmkw4YyW9"
@@ -43310,6 +43406,24 @@
       "duration_ms": 164533,
       "name": "Take the World Apart",
       "url": "https://open.spotify.com/track/4qqUsutDnU3ZSZbZiLrzNB"
+    },
+    {
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
     },
     {
       "album": {
@@ -45700,6 +45814,32 @@
       "duration_ms": 210825,
       "name": "The Nutcracker, Op.71, Act I Scene 2: The Forest of Fir Trees In Winter - LO-FI Hip Hop",
       "url": "https://open.spotify.com/track/0i9ktfACheecVu5YJX48yH"
+    },
+    {
+      "album": {
+        "name": "The Nutcracker: Waltz of the Flowers",
+        "url": "https://open.spotify.com/album/5yghF09fn2e2cRlzFbZGXn"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Tugan Sokhiev",
+          "url": "https://open.spotify.com/artist/3enXY52UlrP6E6DbqE1jVN"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419426,
+      "name": "The Nutcracker: Waltz of the Flowers",
+      "url": "https://open.spotify.com/track/211w4YeoNDqklfgGMPM69f"
     },
     {
       "album": {
@@ -50566,7 +50706,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 160826,
       "name": "Waltz Of The Flowers - LoFi Version",
       "url": "https://open.spotify.com/track/3zLgHPcDzAFDTTNSWoOBYy"
@@ -51500,7 +51640,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 187949,
       "name": "What Else Is There? - Jennifer Loveless Collage of Time Remix",
       "url": "https://open.spotify.com/track/6ovu8myawQiaUkY8Uyfiyy"

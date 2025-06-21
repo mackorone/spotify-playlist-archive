@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Aphelion",
+        "url": "https://open.spotify.com/album/0idAKMAPpGjKsGctraHWEk"
+      },
+      "artists": [
+        {
+          "name": "Astral Steps",
+          "url": "https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160777,
+      "name": "Aphelion",
+      "url": "https://open.spotify.com/track/6whrCE5Vc5DtjwKxhDDZz0"
+    },
+    {
+      "album": {
         "name": "Appreciation",
         "url": "https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9"
       },
@@ -1827,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Bright, Brighter",
+        "url": "https://open.spotify.com/album/1yXODdUcnSWw4WSyHS1xU1"
+      },
+      "artists": [
+        {
+          "name": "Sonorous Drone",
+          "url": "https://open.spotify.com/artist/2eHQj6ufTBhAxqRRqMJIZx"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165905,
+      "name": "Bright, Brighter",
+      "url": "https://open.spotify.com/track/7pJZY6LRXoY8UmJNOy5J2Y"
+    },
+    {
+      "album": {
         "name": "Broken Ledge",
         "url": "https://open.spotify.com/album/6EunXIj9FEYNhXS597LXIa"
       },
@@ -2252,7 +2288,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 144000,
       "name": "Ciels de Saphir",
       "url": "https://open.spotify.com/track/1WS6k1CpsOfxX61GeWKOR0"
@@ -2828,7 +2864,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 157954,
       "name": "Crystal Shells",
       "url": "https://open.spotify.com/track/2zYMpzcL5s032DNC3FX1M0"
@@ -5676,6 +5712,24 @@
       "duration_ms": 158000,
       "name": "Gruis Silentium",
       "url": "https://open.spotify.com/track/30XdBC7802TJIsTurWWI7T"
+    },
+    {
+      "album": {
+        "name": "Hades",
+        "url": "https://open.spotify.com/album/6YuLoNBB7pc3vgZRPZBjsc"
+      },
+      "artists": [
+        {
+          "name": "Sleep Envoy",
+          "url": "https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "Hades",
+      "url": "https://open.spotify.com/track/0GH5T697QdbU6o9tBytyOI"
     },
     {
       "album": {
@@ -10669,6 +10723,24 @@
     },
     {
       "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/3S7bQ8UnxUS1z4dsFxHih3"
+      },
+      "artists": [
+        {
+          "name": "Stellar Serenity",
+          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165858,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/3b6vQmDPvzM3bPokB68f97"
+    },
+    {
+      "album": {
         "name": "Sidereal",
         "url": "https://open.spotify.com/album/2Tz4In6IQJxvribOsDEnVN"
       },
@@ -10698,7 +10770,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 159392,
       "name": "Signs In The Sky",
       "url": "https://open.spotify.com/track/1ayIzU9MXiMUd1MWAJP2Y7"
@@ -10932,7 +11004,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 186410,
       "name": "Sleep Infusion",
       "url": "https://open.spotify.com/track/4FO02oVfqzwAS4pNXnibiV"

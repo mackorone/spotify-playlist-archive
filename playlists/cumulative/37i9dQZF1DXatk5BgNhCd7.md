@@ -4,7 +4,7 @@
 
 > Todo lo nuevo en música tropical 📸 The La Planta.
 
-3,935 songs - 9 day 11 hr 29 min
+3,937 songs - 9 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2611,6 +2611,7 @@
 | [Paloma](https://open.spotify.com/track/7ctfJ9GN5hyjxJDdEzNA9L) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Paloma](https://open.spotify.com/album/5LLxCyHyB2CUi2PqrX9s8C) | 4:15 | 2022-12-23 | 2023-01-14 |
 | [Palomino](https://open.spotify.com/track/5mRN0oGTMpMg8BtEXAZdhq) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Palomino](https://open.spotify.com/album/0ldZxpI9l91rigWqUbnrbI) | 3:00 | 2024-04-19 | 2024-04-27 |
 | [Pan con mantequilla](https://open.spotify.com/track/41tDpgy8FXbhRM11sQRvfw) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Pan con mantequilla](https://open.spotify.com/album/3eQmuh5v2y6amoPbYEIfCB) | 3:04 | 2024-11-08 | 2024-11-16 |
+| [Papasito](https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:47 | 2025-06-20 |  |
 | [Papá](https://open.spotify.com/track/29PcmTgK3EvOehn5tPXKVj) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Papá](https://open.spotify.com/album/3QaESIawGVkl1FormQcBqC) | 4:59 | 2024-05-31 | 2024-06-08 |
 | [Papá & Mamá](https://open.spotify.com/track/30XdIEaT8HkBLYBshY5Js3) | [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6) | [Papá & Mamá](https://open.spotify.com/album/1K4G6H4pV3OG76z4kVlmGz) | 2:35 | 2024-09-13 | 2024-09-21 |
 | [Par de Botellas](https://open.spotify.com/track/67OasIhPXlTLwE0jMKwko4) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Par de Botellas](https://open.spotify.com/album/1PnBX2SzQsS4ePNpGAY9Ue) | 3:19 | 2024-10-25 | 2024-11-09 |
@@ -2620,6 +2621,7 @@
 | [Para Navidad](https://open.spotify.com/track/5eWccFpMb86mMocYVKZgsC) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Para Navidad](https://open.spotify.com/album/6hOqfnkjRvUh8MbMRpDQXM) | 2:11 | 2024-12-06 | 2024-12-14 |
 | [Para Olvidarme de Ti](https://open.spotify.com/track/52XfYNuT1gesqgiQDyrMEq) | [Fievre Looka](https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd), [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [Para Olvidarme de Ti](https://open.spotify.com/album/54IRSySFDNzhtt5Tjde7HY) | 2:42 | 2022-08-19 | 2022-09-03 |
 | [Para Que](https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ilan Amores](https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z) | [Para Que](https://open.spotify.com/album/35ZdgTDH1P9q1PGqskBKH3) | 3:57 | 2022-09-09 | 2022-09-24 |
+| [Para Que No Me Olvides \- Live](https://open.spotify.com/track/2PXSG2ASnSIL2Etu6g8bU4) | [Farid Ortiz](https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [El Pueblo Canta Con Farid \(Live\)](https://open.spotify.com/album/4cUSm5YA0k9gITkDk8LoCX) | 4:27 | 2025-06-20 |  |
 | [Para Que Un Día Vuelvas \- En Vivo](https://open.spotify.com/track/3Zl0w2TebFIgw7QcZtHp2l) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Para Que Un Dia Vuelvas \(En Vivo\)](https://open.spotify.com/album/1jLFCyy4zHCOUdoej6UVDn) | 3:46 | 2024-03-08 | 2024-03-16 |
 | [Para Que Volver](https://open.spotify.com/track/1vVP2sDWQH2WAwY4HJZ2xc) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Ezequiel Matthysse](https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk) | [Para Que Volver](https://open.spotify.com/album/4ZZlKOxcgyF46zukNom517) | 3:01 | 2023-11-17 | 2023-12-02 |
 | [Para Que Volver \- Remix](https://open.spotify.com/track/3ZLRy52cQ3qYw34XsZgUTA) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Miguelito](https://open.spotify.com/artist/4IJbOplPSGIRdzgO4fjSdC), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [El Nikko DJ](https://open.spotify.com/artist/73SpjqbRsmNwFhRvNUd2r9) | [Para Que Volver \(Remix\)](https://open.spotify.com/album/14Zy4BPJID3Ft96E7K8Pt6) | 3:08 | 2025-04-11 | 2025-05-10 |

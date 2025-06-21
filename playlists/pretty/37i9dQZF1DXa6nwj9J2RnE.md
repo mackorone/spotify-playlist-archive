@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy en met karakter\. cover: Zwangere Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,955 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,957 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 5 | [Yankees](https://open.spotify.com/track/38WKc4PienmWEjxYZqNi9M) | [Moo$](https://open.spotify.com/artist/6lH14Pqt8QCP0jkGYIsKT7) | [Yankees](https://open.spotify.com/album/52PT3Lzp6JXIy8sUSlHaLZ) | 2:29 |
 | 6 | [STONY](https://open.spotify.com/track/3pPOIn5l2DDIDisiqUl7YS) | [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW) | [STONY](https://open.spotify.com/album/1qrp6qdBDPsLIMrw5XVcFc) | 2:07 |
 | 7 | [Macho In De Club](https://open.spotify.com/track/12VGNJBNsFLNFlT5wFreY0) | [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW), [P.A.V.](https://open.spotify.com/artist/7n3P3G2oAd64LrIFnRBaqU) | [Macho In De Club](https://open.spotify.com/album/6N9sCZRnLPDSnVel9Wwcnp) | 1:48 |
-| 8 | [Mevrouw Falix ft\. Lucky Fonz III.](https://open.spotify.com/track/2AzM1sosGpBoTtZgv8qqxt) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4), [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Mevrouw Falix](https://open.spotify.com/album/1ULUaczMoHrhT6Yml8BHzW) | 2:46 |
+| 8 | [Mevrouw Falix](https://open.spotify.com/track/2AzM1sosGpBoTtZgv8qqxt) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4) | [Mevrouw Falix](https://open.spotify.com/album/1ULUaczMoHrhT6Yml8BHzW) | 2:46 |
 | 9 | [Onuha](https://open.spotify.com/track/5bQPAtWrqrCQ7ecrpyuxJn) | [Ezzie](https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp) | [Onuha](https://open.spotify.com/album/32s7SMGztbuRFciEzsfKPS) | 2:47 |
 | 10 | [Gouden Tijden](https://open.spotify.com/track/6pInGZA2aN0tRCybM1A310) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Gouden Tijden](https://open.spotify.com/album/52GehE0v1oBFIwXXxYFvYB) | 2:40 |
 | 11 | [Rattenvangers \(feat\. Narco Polo\)](https://open.spotify.com/track/63Um882mx8VU63sIPSUnaQ) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb), [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW) | [Rattenvangers \(feat\. Narco Polo\)](https://open.spotify.com/album/56Bs2R9n1BtUYsgyD0Up9E) | 2:46 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 43 | [Zeeziek](https://open.spotify.com/track/7zKV5vAHdAW2PUWeSoveFb) | [NOAH](https://open.spotify.com/artist/79sYawfJOgDrPi0FtRsYRy) | [Zeeziek / Kijken Kijken Niet Kopen](https://open.spotify.com/album/6zcBCWHmXtCCaJKxaEJ8Ms) | 3:03 |
 | 44 | [Piramide](https://open.spotify.com/track/0vUfd8TGyDlK8lTa9mxywv) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY) | 2:51 |
 
-Snapshot ID: `aEtOBgAAAADyzZ/2QSFUHsUDAJfWklPb`
+Snapshot ID: `aEtOBgAAAADaNpGiMpr2yhXQPDyow5lg`

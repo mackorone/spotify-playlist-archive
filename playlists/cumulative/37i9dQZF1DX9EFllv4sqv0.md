@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: Asake
 
-160 songs - 8 hr 30 min
+161 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Durosoke](https://open.spotify.com/track/1yNbGvJ3Z0haQG2oRRbq5R) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Baddest Guy Ever Liveth](https://open.spotify.com/album/1ZghKqMTCsMb5QnSrTKOQP) | 4:20 | 2024-10-21 | 2025-03-15 |
 | [Economy](https://open.spotify.com/track/0T9grvwWAc85hRuhWIo8CM) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [ID Cabasa](https://open.spotify.com/album/3IZhOX08bdMHfph6O0tMGB) | 3:46 | 2024-10-21 | 2025-01-30 |
 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 | 2024-10-21 |  |
+| [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 | 2025-06-20 |  |
 | [everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 | 2024-10-21 |  |
 | [Exit Sign](https://open.spotify.com/track/6SAfyvPSB6SxN1nqpZaRCa) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Exit Sign](https://open.spotify.com/album/1vdgE0GZK16rKgS978oX3k) | 3:27 | 2025-04-29 |  |
 | [Faaji Jackson](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 | 2024-10-21 | 2025-03-15 |
@@ -94,7 +95,7 @@
 | [KOJO \(feat\. Mulest Vankay, Treble Deep & Thebelebe\)](https://open.spotify.com/track/4Z4dRhdxWrCY3vjtn2aHoM) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW), [Dolly Ditebogo](https://open.spotify.com/artist/2Ot5RNeKB99oO2qp51ImHd), [Mulest Vankay](https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li), [Treble Deep](https://open.spotify.com/artist/5IkFjqMp1uaVpT1LjQz4dH), [Thebelebe](https://open.spotify.com/artist/1f1kaWtEN0VoOQE9XAJa1n) | [KOJO \(feat\. Mulest Vankay, Treble Deep & Thebelebe\)](https://open.spotify.com/album/2GVeMXY7UnG47apCiHJ2k5) | 5:00 | 2024-10-21 | 2025-03-15 |
 | [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 | 2025-03-14 |  |
 | [LANGUAGE](https://open.spotify.com/track/5aPSQ4ZTGPLJ95tIZejyHK) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [111SYRI](https://open.spotify.com/artist/3s4Yx1pnz3Lgqfdw9jpC9e) | [Nigerian Boyfriend](https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU) | 2:09 | 2024-10-21 | 2025-01-10 |
-| [Leaving](https://open.spotify.com/track/5CrSkc9iJeNKInnNahzqU5) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Leaving](https://open.spotify.com/album/7Loui6uYLC8dfP1EI24bKT) | 2:37 | 2025-04-29 |  |
+| [Leaving](https://open.spotify.com/track/5CrSkc9iJeNKInnNahzqU5) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Leaving](https://open.spotify.com/album/7Loui6uYLC8dfP1EI24bKT) | 2:37 | 2025-04-29 | 2025-06-21 |
 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 | 2025-04-29 |  |
 | [Looking for God](https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Looking for God](https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ) | 2:24 | 2024-10-21 | 2025-03-15 |
 | [Love Me JeJe](https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:58 | 2024-10-21 | 2025-03-15 |

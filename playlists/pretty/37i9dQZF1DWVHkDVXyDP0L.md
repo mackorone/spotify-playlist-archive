@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: MAY\-A
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,206 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,230 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Restless](https://open.spotify.com/track/6Y8CQEn4cPaMa0VpHQqTql) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Restless](https://open.spotify.com/album/6OEZvQCGJ8LvE75uQTHKGY) | 3:07 |
 | 100 | [Comedown](https://open.spotify.com/track/0vz451SVtbqq5zDh4lrNwh) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [Comedown](https://open.spotify.com/album/0sScHpEzMP4cwaYuBHrXJq) | 2:31 |
 
-Snapshot ID: `aFQX9gAAAADGu8KioRO2MHQL0ITQsslF`
+Snapshot ID: `aFQX9gAAAABpvbZJ6bkeReaAHkAl5J5S`

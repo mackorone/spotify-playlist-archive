@@ -1037,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "El Juego",
+        "url": "https://open.spotify.com/album/2azntgtYhJNnQqjMNglofk"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217148,
+      "name": "El Juego",
+      "url": "https://open.spotify.com/track/32JCK5B9YEYNVpDNdZKZ32"
+    },
+    {
+      "album": {
         "name": "El Rio",
         "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
       },
@@ -2008,7 +2030,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 174730,
       "name": "Mango",
       "url": "https://open.spotify.com/track/0J1XAvHf8lhfDJ4MjnPcM6"

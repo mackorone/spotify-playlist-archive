@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2573,
+  "num_followers": 2578,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Angelo",
+        "url": "https://open.spotify.com/album/2vsfijbIztEAJ6D2TG9dYg"
+      },
+      "artists": [
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Angelo",
+      "url": "https://open.spotify.com/track/6RDWdgnE3jYqVWQqrFlTgk"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 141961,
       "name": "Tutto il resto \u00e8 noia (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/2PmuzC0gr5Za1ubhKV5r0d"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Angelo",
-        "url": "https://open.spotify.com/album/2vsfijbIztEAJ6D2TG9dYg"
-      },
-      "artists": [
-        {
-          "name": "Francesco Renga",
-          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Angelo",
-      "url": "https://open.spotify.com/track/6RDWdgnE3jYqVWQqrFlTgk"
     }
   ],
   "unique_name": "Sanremo: Le Cover",

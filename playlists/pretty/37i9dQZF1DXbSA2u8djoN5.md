@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Deliric
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,267 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,275 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 5 | [A.D.S.](https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [PLAYBOY CITY](https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi) | 2:03 |
 | 6 | [Castigator](https://open.spotify.com/track/5kPFL28u3qN8kgQkrXPeBR) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy) | [Castigator](https://open.spotify.com/album/0shMiAByr7Vh3GyFJE0Kx5) | 2:36 |
 | 7 | [DIVA](https://open.spotify.com/track/3AToyakSFpqwgtJhpevG0B) | [FTL EYES](https://open.spotify.com/artist/6KLJBozxtS1h3ML9SF8MFx), [GAGA](https://open.spotify.com/artist/5IcEPE8uiSkoObPccZ0a9e), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [FTL MIXTAPE, Vol\. 1](https://open.spotify.com/album/0zXRY2kumrxvQuYe5LVJpI) | 4:16 |
-| 8 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
+| 8 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
 | 9 | [Asteptand sa se schimbe lumea](https://open.spotify.com/track/3QrbdNez5sg8LGHz4natM0) | [Skizzo Skillz](https://open.spotify.com/artist/6BYzUcuF3aueWcqwo6UU3d), [Samia](https://open.spotify.com/artist/2sRcWwGULb0pTbrbNhLrxX) | [Asteptand sa se schimbe lumea](https://open.spotify.com/album/4DVIT8aos9G9ozcS5kcq1M) | 4:22 |
 | 10 | [Momentul meu](https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [REBORN](https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F) | 2:31 |
 | 11 | [CALIFORNIA](https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [CALIFORNIA](https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy) | 2:19 |
 | 12 | [Craft](https://open.spotify.com/track/0M3cDeSQ4IsjC8fJHpsUop) | [Keri](https://open.spotify.com/artist/0M2OddlqkyfHNR2ySoT85l), [Butch](https://open.spotify.com/artist/2mrbr3l5ErDgGpQfukAtZr) | [Craft](https://open.spotify.com/album/3B8Fm9cvoc2ds8wj5Z2ITp) | 2:52 |
 | 13 | [Demisec](https://open.spotify.com/track/0zCnmrm1148ReQ5ab4UoFE) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF), [Matteo](https://open.spotify.com/artist/31s5WlyPC6fwjO56yCwors) | [Demisec](https://open.spotify.com/album/1orAzA3Ur2JvvHHm6nAQkM) | 2:48 |
-| 14 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
+| 14 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
 | 15 | [Anxius](https://open.spotify.com/track/0yQDfUIZTZDofXxCTIf8Gq) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Deliric X Silent Strike III](https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch) | 3:00 |
 | 16 | [IREAL](https://open.spotify.com/track/4Zd0ZkFUwiTmk30Cd5uBMX) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Angeles](https://open.spotify.com/artist/3tdg8XqJcJxUs0wpeKywzs) | [ÎNCĂ ÎN VIAȚĂ: albumul](https://open.spotify.com/album/21CZIzQwbLZEVgNBK55CZv) | 2:52 |
 | 17 | [Lana Del Rey](https://open.spotify.com/track/5ExhEXUPpUPc64ZvMm8yHR) | [supernOva](https://open.spotify.com/artist/3goh4iJ1WNK7u2r6l4qW7M), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58) | [Lana Del Rey](https://open.spotify.com/album/3bKR62VutgMQifmqbewJix) | 2:16 |

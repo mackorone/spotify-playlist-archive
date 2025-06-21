@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4CBYzMqxhpcCckNzJ5IdwX"
+      },
+      "artists": [
+        {
+          "name": "Sukshinder Shinda",
+          "url": "https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Aj Video Call Teh",
+      "url": "https://open.spotify.com/track/2gJJeomolO5DPf0Q9vCPv6"
+    },
+    {
+      "album": {
         "name": "Akhiyan Chaar",
         "url": "https://open.spotify.com/album/5ejbNR7uA9bzWtkjglZW0x"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 147272,
       "name": "Billori Akh",
       "url": "https://open.spotify.com/track/2pisuoITO5cTaFHEhvmPBn"
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 165546,
       "name": "C Walk",
       "url": "https://open.spotify.com/track/78SUtcXKU42oqnW105CUZS"
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 148124,
       "name": "Competition (Feat. Mahi Sharma)",
       "url": "https://open.spotify.com/track/4kSgrNVoLjm5bXrnMAYTmX"
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 207662,
       "name": "Dabde Ni",
       "url": "https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ"
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 152624,
       "name": "Jacheya",
       "url": "https://open.spotify.com/track/4PkKDfFWPHejntMWbhLdhx"
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "Kangni",
       "url": "https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH"
@@ -4146,7 +4164,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 252457,
       "name": "Miss Kaur",
       "url": "https://open.spotify.com/track/32FS8jYFQ9JWOVjnXYUBW3"
@@ -5328,7 +5346,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 203465,
       "name": "Salute",
       "url": "https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf"
@@ -5350,7 +5368,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 178958,
       "name": "Sang Maar Gayi",
       "url": "https://open.spotify.com/track/4kKwMfSZyjiJyAPNWCDJed"
@@ -5428,6 +5446,32 @@
       "duration_ms": 241889,
       "name": "Sarpanchi",
       "url": "https://open.spotify.com/track/5wHNjnfMjLji3AjbHRA8hj"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/4L39sagKqKvPFo1RTflp7D"
+      },
+      "artists": [
+        {
+          "name": "Satkar Sandhu",
+          "url": "https://open.spotify.com/artist/2QQbtNBYIsyC3eglhA7N6m"
+        },
+        {
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        },
+        {
+          "name": "Gora",
+          "url": "https://open.spotify.com/artist/3G4xwBjK28S31zrQzLIMBr"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154049,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4xB0xnrO5Dp47ryqEzLMmK"
     },
     {
       "album": {
@@ -5672,7 +5716,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 147000,
       "name": "Suit",
       "url": "https://open.spotify.com/track/3EOBuU6ms5W3LoWlnGRTuz"

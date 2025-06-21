@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: Mc Luki, Rincon Sapi\u00eancia",
-  "num_followers": 133106,
+  "num_followers": 133102,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,54 @@
     {
       "added_at": "2025-06-20 03:01:30",
       "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        },
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        }
+      ],
+      "duration_ms": 133533,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11"
+    },
+    {
+      "added_at": "2025-06-20 03:01:30",
+      "album": {
+        "name": "BIN On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/2BfG904AD02yJkNa57kBGT"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "G7VEN",
+          "url": "https://open.spotify.com/artist/3NmXOatQREfQjYSwZBtQTu"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "BIN On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/64bo3cWGCYPwJOFL00IrJ5"
+    },
+    {
+      "added_at": "2025-06-20 03:01:30",
+      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -711,34 +759,6 @@
     {
       "added_at": "2025-06-20 03:01:30",
       "album": {
-        "name": "BIN On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/2BfG904AD02yJkNa57kBGT"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        },
-        {
-          "name": "G7VEN",
-          "url": "https://open.spotify.com/artist/3NmXOatQREfQjYSwZBtQTu"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "BIN On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/64bo3cWGCYPwJOFL00IrJ5"
-    },
-    {
-      "added_at": "2025-06-20 03:01:30",
-      "album": {
         "name": "GARBO & ELEG\u00c2NCIA",
         "url": "https://open.spotify.com/album/5UiKnUVfsGnfOpy5VZKSuT"
       },
@@ -759,22 +779,6 @@
     {
       "added_at": "2025-06-20 03:01:30",
       "album": {
-        "name": "FUMANDO E VENDO S\u00c9RIE",
-        "url": "https://open.spotify.com/album/2dv5Tvi5N6CD0uTUvqAGIB"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        }
-      ],
-      "duration_ms": 290944,
-      "name": "SPRITE CODEIN",
-      "url": "https://open.spotify.com/track/6oRS51NBZAC1lmOrgynn9c"
-    },
-    {
-      "added_at": "2025-06-20 03:01:30",
-      "album": {
         "name": "VIDA LOKA TAMB\u00c9M AMA",
         "url": "https://open.spotify.com/album/6CCADFkIl2uMHg1a1bfz2t"
       },
@@ -791,6 +795,22 @@
       "duration_ms": 118032,
       "name": "Planet\u00e1ria",
       "url": "https://open.spotify.com/track/28Df9pPWXFhNLXixY3wvjM"
+    },
+    {
+      "added_at": "2025-06-20 03:01:30",
+      "album": {
+        "name": "FUMANDO E VENDO S\u00c9RIE",
+        "url": "https://open.spotify.com/album/2dv5Tvi5N6CD0uTUvqAGIB"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "duration_ms": 290944,
+      "name": "SPRITE CODEIN",
+      "url": "https://open.spotify.com/track/6oRS51NBZAC1lmOrgynn9c"
     },
     {
       "added_at": "2025-06-20 03:01:30",
@@ -819,6 +839,30 @@
       "duration_ms": 151181,
       "name": "DPP",
       "url": "https://open.spotify.com/track/1BurY5wAAoV1vly4LHeW8Q"
+    },
+    {
+      "added_at": "2025-06-20 03:01:30",
+      "album": {
+        "name": "Perfil #112 - Toxina",
+        "url": "https://open.spotify.com/album/0c4mj7qBNN2AxTskpjeJ5Q"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Elic\u00ea",
+          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "duration_ms": 164630,
+      "name": "Perfil #112 - Toxina",
+      "url": "https://open.spotify.com/track/6iVeCiJY7m6XK54dm175vt"
     },
     {
       "added_at": "2025-06-20 03:01:30",
@@ -875,30 +919,6 @@
       "duration_ms": 150985,
       "name": "Corra",
       "url": "https://open.spotify.com/track/1iBK9AaEa252pysWzvlN81"
-    },
-    {
-      "added_at": "2025-06-20 03:01:30",
-      "album": {
-        "name": "Perfil #112 - Toxina",
-        "url": "https://open.spotify.com/album/0c4mj7qBNN2AxTskpjeJ5Q"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Elic\u00ea",
-          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
-        },
-        {
-          "name": "biggie diehl",
-          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
-        }
-      ],
-      "duration_ms": 164630,
-      "name": "Perfil #112 - Toxina",
-      "url": "https://open.spotify.com/track/6iVeCiJY7m6XK54dm175vt"
     },
     {
       "added_at": "2025-06-20 03:01:30",
@@ -1135,26 +1155,6 @@
       "duration_ms": 142784,
       "name": "Santo de Casa",
       "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"
-    },
-    {
-      "added_at": "2025-06-20 03:01:30",
-      "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf"
-      },
-      "artists": [
-        {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
-        },
-        {
-          "name": "MC Menor JP",
-          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
-        }
-      ],
-      "duration_ms": 133533,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11"
     },
     {
       "added_at": "2025-06-20 03:01:30",

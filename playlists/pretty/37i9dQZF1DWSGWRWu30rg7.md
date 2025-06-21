@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Merayakan 10 tahun Fresh Finds, temukan talenta segar dalam negeri\. Cover: PAPION
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,248 likes - 95 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,246 likes - 95 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Song from My Heart](https://open.spotify.com/track/1q9GFK6lYqdzEaZ45GOaJ2) | [PAPION](https://open.spotify.com/artist/4rxH9fSOAEtWxr8NkeW4Pi) | [Song from My Heart](https://open.spotify.com/album/5z3QQIW0u1tLYHepH5QHUn) | 3:17 |
-| 2 | [Tak Berdaya](https://open.spotify.com/track/0DRc9zQBdY6UjvgyRICTAq) | [Senandika](https://open.spotify.com/artist/1v4kAzvhbmOrRnHg7RW9fy) | [Tak Berdaya](https://open.spotify.com/album/0cRTGTko28xgiGH6CvEKyJ) | 3:15 |
+| 2 | [Tak Berdaya](https://open.spotify.com/track/0DRc9zQBdY6UjvgyRICTAq) | [Senandika](https://open.spotify.com/artist/48DMBETFUps68YxT4PMA8X) | [Tak Berdaya](https://open.spotify.com/album/0cRTGTko28xgiGH6CvEKyJ) | 3:15 |
 | 3 | [Teman Sejati?](https://open.spotify.com/track/10qVFqWJA9FtQgtGTmQWdr) | [Jenaka Mahila](https://open.spotify.com/artist/0LzKbHMqaSXiX8qfhcGLTS) | [Teman Sejati?](https://open.spotify.com/album/3RJcUjsVszBWTIz4MhYSxO) | 3:42 |
 | 4 | [I\-L\-Y \(I Like You\)](https://open.spotify.com/track/1apnjzBmzqQwLIHhaTKHIH) | [Xeva Al Gazel](https://open.spotify.com/artist/6eJAxZZ18R9bsueqikw05i) | [Love Epitome](https://open.spotify.com/album/32GDXTQ6tg6dOcndgC8kgV) | 5:20 |
 | 5 | [Give Me a Reason to Stay](https://open.spotify.com/track/7uEsXzSqN7GJCSgw3zGguX) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Give Me a Reason to Stay](https://open.spotify.com/album/2YtnecByrTLnJtk88Hn42D) | 3:26 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 19 | [Lost](https://open.spotify.com/track/4AJGVqjEAIK4E72oX7J1vo) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Lost](https://open.spotify.com/album/0AoQZumWSdv8VykyU4WjRA) | 2:38 |
 | 20 | [maybe not in this timeline](https://open.spotify.com/track/1xB2bRmx6j2NkBAmI0Q0lK) | [tsai](https://open.spotify.com/artist/1BGw4Y6FgwsW93GpuKULin) | [maybe not in this timeline](https://open.spotify.com/album/0UuguawTRx86LekIcHpTKu) | 2:44 |
 | 21 | [Bentang Jarak Asmara](https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP) | [Man Osman](https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF), [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Bentang Jarak Asmara](https://open.spotify.com/album/4ewZa5YumUphw89U7lhM6g) | 3:54 |
-| 22 | [Free as a Bird](https://open.spotify.com/track/5GCwxiLioHqcl9mqbTSPWd) | [Kanal Pras](https://open.spotify.com/artist/6hkeTOk3xFsbVSCBUlW0Ib) | [Free as a Bird](https://open.spotify.com/album/1bEavIqXlzRBMyRBpo3YtT) | 3:40 |
+| 22 | [Free as a Bird](https://open.spotify.com/track/5GCwxiLioHqcl9mqbTSPWd) | [Prass](https://open.spotify.com/artist/6huH2LgSxR6HXs1mi8AShe) | [Free as a Bird](https://open.spotify.com/album/1bEavIqXlzRBMyRBpo3YtT) | 3:40 |
 | 23 | [Tukar Rasa](https://open.spotify.com/track/15dZ2rvXpftrbtV0W4eZxc) | [Rizuka](https://open.spotify.com/artist/6XHUM6fbi2IwkbhIN6T8Oh) | [Tukar Rasa](https://open.spotify.com/album/5FxNx7NfklR4Df6GYC31l7) | 3:43 |
 | 24 | [Hari Ini Aku Dulu](https://open.spotify.com/track/1IVs7qT3ORhVALJsGFIfDY) | [Pugar Restu Julian](https://open.spotify.com/artist/26kXcEKvT5eGceT1WGHDZw), [Rini Harsono](https://open.spotify.com/artist/1VDya6KIJy2B7WJUOhllvk) | [Hari Ini Aku Dulu](https://open.spotify.com/album/1e4xaBHU5pcT1tuksinzDz) | 3:15 |
 | 25 | [Opak Party](https://open.spotify.com/track/7akE6RsJM6fg28xetC2XU2) | [RAPOT](https://open.spotify.com/artist/0GIqySes5T059h5azQcdNV) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 3:05 |

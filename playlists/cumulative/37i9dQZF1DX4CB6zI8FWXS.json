@@ -15967,6 +15967,28 @@
     },
     {
       "album": {
+        "name": "There You Go",
+        "url": "https://open.spotify.com/album/5GpPBUlb6YCz2c14bDLcIT"
+      },
+      "artists": [
+        {
+          "name": "Mick Schultz",
+          "url": "https://open.spotify.com/artist/7JWyHEtxGUHWLrIjWz55ar"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250169,
+      "name": "There You Go",
+      "url": "https://open.spotify.com/track/0qvHRINnwOV6Y1wK6lvPDV"
+    },
+    {
+      "album": {
         "name": "Algorithm",
         "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
       },

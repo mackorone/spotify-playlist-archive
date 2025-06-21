@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1359,
+  "num_followers": 1360,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -452,7 +452,7 @@
       },
       "artists": [
         {
-          "name": "Rhys",
+          "name": "Rhys Frank",
           "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
         }
       ],
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Empty the Bags",
-        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Empty the Bags",
-      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 192400,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Empty the Bags",
+        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Empty the Bags",
+      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "20 BPM",
-        "url": "https://open.spotify.com/album/7BTUJzOaV7h3GCltS4CW1w"
-      },
-      "artists": [
-        {
-          "name": "CEVIL",
-          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
-        }
-      ],
-      "duration_ms": 183859,
-      "name": "20 BPM",
-      "url": "https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Den stora fula kavajen",
         "url": "https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9"
       },
@@ -991,22 +975,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "North Sea Siren (p.78)",
-        "url": "https://open.spotify.com/album/4mIxJcAMQKkxIdTZj3rAA3"
-      },
-      "artists": [
-        {
-          "name": "Salty Licorice",
-          "url": "https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs"
-        }
-      ],
-      "duration_ms": 135479,
-      "name": "North Sea Siren (p.78)",
-      "url": "https://open.spotify.com/track/3OJqEZEbWwK12woWBoN0FX"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "High Heels On Oceans",
         "url": "https://open.spotify.com/album/0LBsyH1jNcdwz6LATVC3De"
       },
@@ -1019,6 +987,38 @@
       "duration_ms": 156828,
       "name": "High Heels On Oceans",
       "url": "https://open.spotify.com/track/3IvxVbsuOA6pbmz37Y1Yqm"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "20 BPM",
+        "url": "https://open.spotify.com/album/7BTUJzOaV7h3GCltS4CW1w"
+      },
+      "artists": [
+        {
+          "name": "CEVIL",
+          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
+        }
+      ],
+      "duration_ms": 183859,
+      "name": "20 BPM",
+      "url": "https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "North Sea Siren (p.78)",
+        "url": "https://open.spotify.com/album/4mIxJcAMQKkxIdTZj3rAA3"
+      },
+      "artists": [
+        {
+          "name": "Salty Licorice",
+          "url": "https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs"
+        }
+      ],
+      "duration_ms": 135479,
+      "name": "North Sea Siren (p.78)",
+      "url": "https://open.spotify.com/track/3OJqEZEbWwK12woWBoN0FX"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Yangtze",
-        "url": "https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cy",
-          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Yangtze",
-      "url": "https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Silk City",
         "url": "https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 195451,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Yangtze",
+        "url": "https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Yangtze",
+      "url": "https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -2905,6 +2905,28 @@
     },
     {
       "album": {
+        "name": "ALTERDETSAMME",
+        "url": "https://open.spotify.com/album/0l7YdPNKdK5cKwqrfb7ovI"
+      },
+      "artists": [
+        {
+          "name": "Kris",
+          "url": "https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw"
+        },
+        {
+          "name": "Lord Siva",
+          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146442,
+      "name": "N\u00d8GEN (feat. Lord Siva)",
+      "url": "https://open.spotify.com/track/79WivSc02fx7ocg2Enl0ED"
+    },
+    {
+      "album": {
         "name": "Oktobernat",
         "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
       },
@@ -3870,7 +3892,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-21",
       "duration_ms": 187606,
       "name": "T\u00e6nker Du Mon Nogensinde P\u00e5 Os",
       "url": "https://open.spotify.com/track/58HZHUAFH29Ujc3033yIw1"
