@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 617875,
+  "num_followers": 617988,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
+        "name": "Te Mentir\u00eda",
+        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
         "name": "La Guerra",
         "url": "https://open.spotify.com/album/2krMcCgoXgCWVUVF5F2VNk"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 121370,
       "name": "La Guerra",
       "url": "https://open.spotify.com/track/4qdch3FXFL4IEoDwAgswKV"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
-        "name": "Te Mentir\u00eda",
-        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
     },
     {
       "added_at": "2025-06-10 18:11:41",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-06-10 18:11:41",
       "album": {
-        "name": "CHAU - ME PUEDO EQUIVOCAR",
-        "url": "https://open.spotify.com/album/0KxXrRGHFioyE9zxsMbsw8"
-      },
-      "artists": [
-        {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 166228,
-      "name": "CHAU - ME PUEDO EQUIVOCAR",
-      "url": "https://open.spotify.com/track/136S30OIqASMPolggdlhs1"
-    },
-    {
-      "added_at": "2025-06-10 18:11:41",
-      "album": {
         "name": "Porque Yo Te Amo",
         "url": "https://open.spotify.com/album/3uLhu0Sgm2tacIohtSrit9"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 256866,
       "name": "Porque Yo Te Amo",
       "url": "https://open.spotify.com/track/4exvMNAE0ne03B4PEUSknr"
+    },
+    {
+      "added_at": "2025-06-10 18:11:41",
+      "album": {
+        "name": "CHAU - ME PUEDO EQUIVOCAR",
+        "url": "https://open.spotify.com/album/0KxXrRGHFioyE9zxsMbsw8"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 166228,
+      "name": "CHAU - ME PUEDO EQUIVOCAR",
+      "url": "https://open.spotify.com/track/136S30OIqASMPolggdlhs1"
     },
     {
       "added_at": "2025-06-10 18:11:41",

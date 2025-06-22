@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 461972,
+  "num_followers": 462029,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFNTAAAAAADRgn4W+MQielAAwRQVLWil",
+  "snapshot_id": "aFSkgAAAAACYkrBWzCIJVYo41byMaic+",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Area 81",
-      "url": "https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Lo Que Falta",
         "url": "https://open.spotify.com/album/2rlU1lP7dG380YCf3EVkZu"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 208714,
       "name": "El Jefe F",
       "url": "https://open.spotify.com/track/0QAc7380P8KgrL85DuRQcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Area 81",
+      "url": "https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq"
     },
     {
       "added_at": null,

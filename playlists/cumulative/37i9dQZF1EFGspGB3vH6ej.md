@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-276 songs - 19 hr 1 min
+277 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [We Belong Together \- Remix](https://open.spotify.com/track/1utrsYxa4IA9zzpLdIxpHB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 4:25 | 2024-01-29 |  |
 | [When Christmas Comes](https://open.spotify.com/track/6b8iHadB73UYCVyXLaFedK) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [When Christmas Comes](https://open.spotify.com/album/2qWK06qVaxSOygIY9RBQ3W) | 4:45 | 2024-07-17 | 2024-11-04 |
 | [When Christmas Comes](https://open.spotify.com/track/1dTzXtog6vWqdLc7BgRScw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Merry Christmas \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/0cS9prZ8u3fdbc7lmtCaMV) | 4:46 | 2024-01-29 |  |
+| [When I Feel It](https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(20th Anniversary Edition\)](https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO) | 3:09 | 2025-06-21 |  |
 | [When I Saw You](https://open.spotify.com/track/3Iq58ceNpVxghuRWqMLGHy) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:23 | 2024-01-29 |  |
 | [Whenever You Call](https://open.spotify.com/track/2PWnjWaIVuDeT4mXZgHWgR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:20 | 2024-01-29 | 2024-10-24 |
 | [Where Are You Christmas](https://open.spotify.com/track/13JaJYVh5Mbm5CxUxo6pex) | [Ahron Kupner](https://open.spotify.com/artist/4tnxMzWhSfJZz0M37uFkIo) | [My Funny Valentine](https://open.spotify.com/album/0Z2kEBzpRVD7oxP4WazPrJ) | 4:19 | 2024-01-29 | 2024-06-30 |

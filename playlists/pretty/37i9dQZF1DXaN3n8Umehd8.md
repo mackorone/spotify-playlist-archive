@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > perreito para rebotar un rato, por Cachirula 🍑🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,313 likes - 48 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,390 likes - 48 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 27 | [Si La Mami](https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Brand Randall](https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL) | [Si La Mami](https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c) | 2:56 |
 | 28 | [Juguetona](https://open.spotify.com/track/26oMIjeGkEonsecfDLW5b0) | [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal), [Nova "La Amenaza"](https://open.spotify.com/artist/40lIeuVeOyTsifyK93dUIx), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Juguetona](https://open.spotify.com/album/3zOc6LvKoVlbeTJ1MslyuG) | 2:30 |
 | 29 | [Chakales y Flaytes](https://open.spotify.com/track/0QMXEY3JET51tmh23T1yg3) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal), [Royer De Tepito](https://open.spotify.com/artist/6GaXlfeWz9gMe7UjWA5gLz) | [Chakales y Flaytes](https://open.spotify.com/album/6xIg145U1IcmXhRyxv44FO) | 2:48 |
-| 30 | [Partyson](https://open.spotify.com/track/2vUxVG2aZe293MJQ4GtcVz) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:18 |
+| 30 | [Partyson](https://open.spotify.com/track/2vUxVG2aZe293MJQ4GtcVz) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:18 |
 | 31 | [Cuando la perc0 no era venen0](https://open.spotify.com/track/00sWFN8DkeNXlKxEHvlYDL) | [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [ali3n​.​mp3 VOL​.​1](https://open.spotify.com/album/1qspHN2n4AVSn7Jrnakia0) | 3:06 |
-| 32 | [QUICKIE](https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [QUICKIE](https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig) | 3:05 |
-| 33 | [Tuss](https://open.spotify.com/track/0qd7ACCc9z2mlTYgPRcnUJ) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Tuss](https://open.spotify.com/album/4l7IpfEVv21t2gxYnrRPKA) | 3:41 |
-| 34 | [Maullame](https://open.spotify.com/track/0hKXlakDWwbKS43VuHDV5d) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Maullame](https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj) | 4:06 |
-| 35 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 |
+| 32 | [QUICKIE](https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [QUICKIE](https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig) | 3:05 |
+| 33 | [Tuss](https://open.spotify.com/track/0qd7ACCc9z2mlTYgPRcnUJ) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Tuss](https://open.spotify.com/album/4l7IpfEVv21t2gxYnrRPKA) | 3:41 |
+| 34 | [Maullame](https://open.spotify.com/track/0hKXlakDWwbKS43VuHDV5d) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Maullame](https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj) | 4:06 |
+| 35 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 |
 | 36 | [Bata bata \- EZYA REMIX](https://open.spotify.com/track/0HuzzMGWqzyGFChNI0eZ2y) | [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [ali3n​.​mp3 VOL​.​1](https://open.spotify.com/album/1qspHN2n4AVSn7Jrnakia0) | 2:56 |
 | 37 | [CHAPA](https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [CHAPA](https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G) | 2:00 |
 | 38 | [Le Mete](https://open.spotify.com/track/753KGf8j2ifF0kGOkGUfXq) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9), [Dj Esli](https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:06 |

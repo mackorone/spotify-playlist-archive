@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,899 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,922 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 46 | [Pahalwani](https://open.spotify.com/track/3pIyIe9dwEnQyXUQfxaIcd) | [Krishan Madha](https://open.spotify.com/artist/7GTkzMSNgDarYvOGiBHRtL), [Moni Hooda](https://open.spotify.com/artist/7sTD73ts93UaMiWy1hk9KI) | [Pahalwani](https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl) | 4:00 |
 | 47 | [BADERA](https://open.spotify.com/track/6lPHkAlcTwbasmpaGJ0MiY) | [BOBBY GAHLOT AKA RJ01](https://open.spotify.com/artist/7ft8TXI7fXZgCWdUYgP5yu), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [BADERA](https://open.spotify.com/album/77mzQDtenloNZCgsZtGtEo) | 2:23 |
 | 48 | [HR Alee](https://open.spotify.com/track/7dvIesoeetHINXgjqGJNXD) | [Deepak Sharma](https://open.spotify.com/artist/1rAdtSzr09FZquUOXkEMNQ) | [HR Alee](https://open.spotify.com/album/1uCXOyeJUEJ6mYLOZsUau0) | 2:57 |
-| 49 | [Chhora Gaama Ka](https://open.spotify.com/track/3MJjaLxov2ClpY1DxXUew9) | [Vikram Malik](https://open.spotify.com/artist/05mkBonlxw525IElRofCpI) | [Vikram Ki EP](https://open.spotify.com/album/1PRsHLUDR8aEsAmdbNGumm) | 3:02 |
-| 50 | [Gym Flow](https://open.spotify.com/track/4PYajXxJ4lmVcuMKaev2rs) | [Najuk](https://open.spotify.com/artist/2MH0HWTkymqBj0bdVrMRIK), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Gym Flow](https://open.spotify.com/album/2odFnnbdCS2alv5Y7h9kKF) | 3:32 |
+| 49 | [Gym Flow](https://open.spotify.com/track/4PYajXxJ4lmVcuMKaev2rs) | [Najuk](https://open.spotify.com/artist/2MH0HWTkymqBj0bdVrMRIK), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Gym Flow](https://open.spotify.com/album/2odFnnbdCS2alv5Y7h9kKF) | 3:32 |
+| 50 | [Chhora Gaama Ka](https://open.spotify.com/track/3MJjaLxov2ClpY1DxXUew9) | [Vikram Malik](https://open.spotify.com/artist/05mkBonlxw525IElRofCpI) | [Vikram Ki EP](https://open.spotify.com/album/1PRsHLUDR8aEsAmdbNGumm) | 3:02 |
 
 Snapshot ID: `aCdp3gAAAAAC4BQTYSCta9bXk2qzzZBT`

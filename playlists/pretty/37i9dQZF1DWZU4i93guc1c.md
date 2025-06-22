@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Blooms Corda
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,611 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,611 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 48 | [Соня](https://open.spotify.com/track/5cNeKQ02zQ3H4lrtHKohXh) | [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Соня](https://open.spotify.com/album/7CpkR3HYyFu49gGUaSkdyd) | 4:10 |
 | 49 | [Hard skill бути біч](https://open.spotify.com/track/3uPPTH0yU6YgBA1vLlcXln) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [Hard skill бути біч](https://open.spotify.com/album/4rLK1p8yKySn2LL7fkIzxL) | 2:27 |
 | 50 | [тут там](https://open.spotify.com/track/4DQGcN326v52qQxIFclcc2) | [Moann](https://open.spotify.com/artist/2nrmzxrpM4czHiwaQbfxhQ), [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [Alex Silakov](https://open.spotify.com/artist/4onFhnZzfEog4oXThDtkZC), [Муха Мухич](https://open.spotify.com/artist/5hp0Ayk22pO8y8igz897Ii), [Caronlil](https://open.spotify.com/artist/3nFkLMCgrZe6ZSVqR501zf) | [тут там](https://open.spotify.com/album/5Tq45X8sRhoX0mh0ckV0SW) | 2:56 |
-| 51 | [ЧТМС](https://open.spotify.com/track/4DIAfmFZWw2ygROPNyqEwj) | [GRABAR](https://open.spotify.com/artist/3oTWXfqg8nmS0nlSkYDiYK), [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [ЧТМС](https://open.spotify.com/album/2X5rrbpYHpy0ab5imfSYPS) | 3:45 |
-| 52 | [мунлайт](https://open.spotify.com/track/00TKkaqkpJgRUlZBkzBBQd) | [Berliner Döner](https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72) | [мунлайт](https://open.spotify.com/album/2lvPf1aFDEDtPfX6zVStK5) | 2:06 |
+| 51 | [мунлайт](https://open.spotify.com/track/00TKkaqkpJgRUlZBkzBBQd) | [Berliner Döner](https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72) | [мунлайт](https://open.spotify.com/album/2lvPf1aFDEDtPfX6zVStK5) | 2:06 |
+| 52 | [ЧТМС](https://open.spotify.com/track/4DIAfmFZWw2ygROPNyqEwj) | [GRABAR](https://open.spotify.com/artist/3oTWXfqg8nmS0nlSkYDiYK), [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [ЧТМС](https://open.spotify.com/album/2X5rrbpYHpy0ab5imfSYPS) | 3:45 |
 | 53 | [Усі ми прагнемо любові](https://open.spotify.com/track/7oiIq24JR3715PeHFndzxm) | [Крихітка](https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK), [ULIA LORD](https://open.spotify.com/artist/5SSvKZ0783cGZgR0yYC6i9), [Qarpa](https://open.spotify.com/artist/6E1zNg2zYhqKErKzkrb9em) | [Усі ми прагнемо любові](https://open.spotify.com/album/7uq7GMPRLgSIM7Hz5qndQe) | 3:48 |
-| 54 | [One More Time](https://open.spotify.com/track/0ZQDSff4T0oo9Ul8qgYDnu) | [ESELISHA](https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE) | [One More Time](https://open.spotify.com/album/3wD4nqS8OS7VoRdzOLJjrY) | 2:28 |
-| 55 | [Голосові](https://open.spotify.com/track/4VKzMoQ9vfkaTUqKDKLhd5) | [IRYN](https://open.spotify.com/artist/5oD5C0wSepvoGEDPtZHcKB), [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy), [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he), [Roma Leshchuk](https://open.spotify.com/artist/00bSPDMO30gt7hwasNUe7S) | [Голосові](https://open.spotify.com/album/3XOQ6ceTCx4rUjM2hskKGv) | 2:30 |
+| 54 | [Голосові](https://open.spotify.com/track/4VKzMoQ9vfkaTUqKDKLhd5) | [IRYN](https://open.spotify.com/artist/5oD5C0wSepvoGEDPtZHcKB), [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy), [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he), [Roma Leshchuk](https://open.spotify.com/artist/00bSPDMO30gt7hwasNUe7S) | [Голосові](https://open.spotify.com/album/3XOQ6ceTCx4rUjM2hskKGv) | 2:30 |
+| 55 | [One More Time](https://open.spotify.com/track/0ZQDSff4T0oo9Ul8qgYDnu) | [ESELISHA](https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE) | [One More Time](https://open.spotify.com/album/3wD4nqS8OS7VoRdzOLJjrY) | 2:28 |
 | 56 | [Улюблені речі](https://open.spotify.com/track/3xNsgwr07mXVhIW0meF84g) | [Sonhe](https://open.spotify.com/artist/0Zc4Oitt1HFLiF78sSw9H8) | [Улюблені речі](https://open.spotify.com/album/2yLB5xxHwr2sfcFgcFUK8O) | 2:53 |
-| 57 | [На вихованні в любові](https://open.spotify.com/track/2EpaopmDJIeXKcnRCmIeD1) | [Olena Karas](https://open.spotify.com/artist/2RgUI6cIgCmVSjPEriMWsh) | [На вихованні в любові](https://open.spotify.com/album/6rNsucV5FfYV5EV8kuGheD) | 2:36 |
-| 58 | [Orphan](https://open.spotify.com/track/21936wTpdKLQnBBOrEoefF) | [Aircraft](https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0) | [Orphan](https://open.spotify.com/album/6rqB9VaPBth2KrpvOYbN5a) | 7:07 |
+| 57 | [Orphan](https://open.spotify.com/track/21936wTpdKLQnBBOrEoefF) | [Aircraft](https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0) | [Orphan](https://open.spotify.com/album/6rqB9VaPBth2KrpvOYbN5a) | 7:07 |
+| 58 | [На вихованні в любові](https://open.spotify.com/track/2EpaopmDJIeXKcnRCmIeD1) | [Olena Karas](https://open.spotify.com/artist/2RgUI6cIgCmVSjPEriMWsh) | [На вихованні в любові](https://open.spotify.com/album/6rNsucV5FfYV5EV8kuGheD) | 2:36 |
 | 59 | [зачарував](https://open.spotify.com/track/3gGneWtwWtJO1eoX7bTaDo) | [vioria](https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT) | [зачарував](https://open.spotify.com/album/4QrNGszNGpGM5bN0RvoKv3) | 2:20 |
 | 60 | [СМУГИ](https://open.spotify.com/track/61QVw84uXhjAsbM7GKyvP0) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV), [SAGE](https://open.spotify.com/artist/2ItrYNZZmNn7hQaWlfReC4) | [СМУГИ](https://open.spotify.com/album/5oePjlSoDXJgfHXgsjPu8C) | 3:37 |
 | 61 | [Сутінки](https://open.spotify.com/track/5bAsKGr5prU5YdXRCksOfO) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Сутінки](https://open.spotify.com/album/69pKv2BekWnZCLMIRZAGcH) | 3:19 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 76 | [La petite mort](https://open.spotify.com/track/2N3EvX5a9jvMy4KF0IGjZO) | [Granat Garden](https://open.spotify.com/artist/2KMR2HzUel7KoNvJaTjt5L) | [La petite mort](https://open.spotify.com/album/7wXLK5FwExwbz8zkjj5lo1) | 4:35 |
 | 77 | [Waste My Time](https://open.spotify.com/track/45C5eFl2X5KKYDZYGiYaye) | [Future Culture](https://open.spotify.com/artist/5zf2b6LzO85Q1FFPbFi16Z) | [Waste My Time](https://open.spotify.com/album/2Xoh8NgrbX3cjbBE793Zfo) | 2:49 |
 | 78 | [дім на піску](https://open.spotify.com/track/5f1Gb8XoBHKNhP9cZcDTUU) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [дім на піску](https://open.spotify.com/album/7kbJm3Zbvtef7xpvYVd7WL) | 3:46 |
-| 79 | [сон](https://open.spotify.com/track/3ok1m9sRQbIFzNRmjsTSmj) | [світанок блакитний](https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN) | [сон](https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz) | 3:54 |
-| 80 | [Кров і сніг](https://open.spotify.com/track/1vWP1xBjEVKCJWQ0MhPepy) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Кров і сніг](https://open.spotify.com/album/1jsy5rUiIjmKFx1N8X2tWA) | 2:39 |
+| 79 | [Розкопаю](https://open.spotify.com/track/28mttpA8jI9LBI02HFsPGB) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [Розкопаю](https://open.spotify.com/album/0vd8BgPyinr2FTj1zUQCqd) | 3:48 |
+| 80 | [сон](https://open.spotify.com/track/3ok1m9sRQbIFzNRmjsTSmj) | [світанок блакитний](https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN) | [сон](https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz) | 3:54 |
 
 Snapshot ID: `aFR+mQAAAABVBbKfAi1FcwArflk5KZhZ`

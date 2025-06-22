@@ -4,7 +4,7 @@
 
 > 
 
-44 songs - 3 hr 18 min
+45 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Flowers of Neptune 6](https://open.spotify.com/track/70ZIgslLwMTfNRBO8Kox6A) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [American Head](https://open.spotify.com/album/4H8NX3ovAZdY2iJmwSNqlw) | 4:30 | 2025-05-31 |  |
 | [For You Too](https://open.spotify.com/track/634n0U91zpaqRuJ1DO8jA2) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There's A Riot Going On](https://open.spotify.com/album/05TwuwqwLCm1V0GimPcXrD) | 4:13 | 2025-05-31 |  |
 | [Hazel](https://open.spotify.com/track/2MTSgWdCF4fbqM9sVKtnUm) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Planet Waves](https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R) | 2:49 | 2025-05-31 |  |
+| [Here We Are In The Years](https://open.spotify.com/track/2aUWLSwipg7HR9bevqv6Mw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Here We Are In The Years](https://open.spotify.com/album/2xZ68x8Q03P6jgJ4LsZTpL) | 3:24 | 2025-06-21 |  |
 | [I Am Trying to Break Your Heart](https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 6:58 | 2025-05-21 |  |
 | [I Can’t Imagine \(Why You Feel This Way\)](https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 3:06 | 2025-05-31 |  |
 | [I'm On Fire](https://open.spotify.com/track/4kAm9vwBsfKo4WBYwkIseI) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [On Parade](https://open.spotify.com/album/2vX1Dm0GkaaI0HWFRbprKI) | 2:18 | 2025-05-24 |  |

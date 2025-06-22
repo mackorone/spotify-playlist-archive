@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 36786,
+  "num_followers": 36806,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-06-20 00:01:16",
       "album": {
-        "name": "Verily",
-        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Verily",
-      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
-    },
-    {
-      "added_at": "2025-06-20 00:01:16",
-      "album": {
         "name": "Fall In Love (feat. Ayo Jay)",
         "url": "https://open.spotify.com/album/6Df2qCBg6t8oSSpqWkb5pE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 205238,
       "name": "Fall In Love (feat. Ayo Jay)",
       "url": "https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3"
+    },
+    {
+      "added_at": "2025-06-20 00:01:16",
+      "album": {
+        "name": "Verily",
+        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Verily",
+      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
     },
     {
       "added_at": "2025-06-20 00:01:16",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-06-20 00:01:16",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 202958,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
-    },
-    {
-      "added_at": "2025-06-20 00:01:16",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 162162,
       "name": "Milli (feat. Victony)",
       "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
+    },
+    {
+      "added_at": "2025-06-20 00:01:16",
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
     },
     {
       "added_at": "2025-06-20 00:01:16",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2025-06-20 00:01:16",
       "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv"
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
         }
       ],
-      "duration_ms": 154174,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2025-06-20 00:01:16",
@@ -1175,18 +1179,18 @@
     {
       "added_at": "2025-06-20 00:01:16",
       "album": {
-        "name": "Virtuoso",
-        "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 190641,
-      "name": "Despasito",
-      "url": "https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg"
+      "duration_ms": 154174,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
     },
     {
       "added_at": "2025-06-20 00:01:16",
@@ -1211,6 +1215,22 @@
     {
       "added_at": "2025-06-20 00:01:16",
       "album": {
+        "name": "Virtuoso",
+        "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 190641,
+      "name": "Despasito",
+      "url": "https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg"
+    },
+    {
+      "added_at": "2025-06-20 00:01:16",
+      "album": {
         "name": "ARABAMBI",
         "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
       },
@@ -1223,6 +1243,22 @@
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+    },
+    {
+      "added_at": "2025-06-20 00:01:16",
+      "album": {
+        "name": "Bad Belle",
+        "url": "https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 206191,
+      "name": "Bad Belle",
+      "url": "https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl"
     },
     {
       "added_at": "2025-06-20 00:01:16",
@@ -1243,22 +1279,6 @@
       "duration_ms": 145000,
       "name": "Woman",
       "url": "https://open.spotify.com/track/68Aabutp5ZczYCmi51dPAG"
-    },
-    {
-      "added_at": "2025-06-20 00:01:16",
-      "album": {
-        "name": "Bad Belle",
-        "url": "https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 206191,
-      "name": "Bad Belle",
-      "url": "https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl"
     },
     {
       "added_at": "2025-06-20 00:01:16",
@@ -1395,22 +1415,6 @@
     {
       "added_at": "2025-06-20 00:01:16",
       "album": {
-        "name": "Like Home (feat. Teni)",
-        "url": "https://open.spotify.com/album/1ZU1iHIFaN92OK2Pc1Oah4"
-      },
-      "artists": [
-        {
-          "name": "Wretch 32",
-          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
-        }
-      ],
-      "duration_ms": 198414,
-      "name": "Like Home (feat. Teni)",
-      "url": "https://open.spotify.com/track/5qyE13iTDWNHUvs4eZHhgT"
-    },
-    {
-      "added_at": "2025-06-20 00:01:16",
-      "album": {
         "name": "Instantly",
         "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
       },
@@ -1427,6 +1431,22 @@
       "duration_ms": 188387,
       "name": "Instantly",
       "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
+    },
+    {
+      "added_at": "2025-06-20 00:01:16",
+      "album": {
+        "name": "Like Home (feat. Teni)",
+        "url": "https://open.spotify.com/album/1ZU1iHIFaN92OK2Pc1Oah4"
+      },
+      "artists": [
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        }
+      ],
+      "duration_ms": 198414,
+      "name": "Like Home (feat. Teni)",
+      "url": "https://open.spotify.com/track/5qyE13iTDWNHUvs4eZHhgT"
     },
     {
       "added_at": "2025-06-20 00:01:16",
@@ -1467,26 +1487,6 @@
       "duration_ms": 149160,
       "name": "Wicked Jazz",
       "url": "https://open.spotify.com/track/5OfBwAgbfsPb6dvPLFvrfH"
-    },
-    {
-      "added_at": "2025-06-20 00:01:16",
-      "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/06C6RolgHPTQkDjilqsGHN"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        },
-        {
-          "name": "Gimba",
-          "url": "https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK"
-        }
-      ],
-      "duration_ms": 205142,
-      "name": "247",
-      "url": "https://open.spotify.com/track/73QW0R1GUPpsRe2aBwkHhR"
     }
   ],
   "unique_name": "Afro Chill",

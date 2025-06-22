@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-935 songs - 2 day 11 hr 32 min
+936 songs - 2 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [I Can't Make a Mistake](https://open.spotify.com/track/1wsjIwcSgFSzqKFEsIWlmR) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Seven & Seven](https://open.spotify.com/album/0BWr3HdIiI92N95KC0IqNz) | 3:51 | 2024-06-20 | 2024-06-22 |
 | [I Decided, Part 1](https://open.spotify.com/track/5x9a0HprRP6RDfVxTs0dxf) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Sol\-Angel and the Hadley St\. Dreams \(Deluxe\)](https://open.spotify.com/album/6MsVbAqh2A9i7jYvPOsGNx) | 4:13 | 2024-01-29 |  |
 | [I DON'T CARE](https://open.spotify.com/track/0AiV05d4CIuici3oOEQTjk) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1](https://open.spotify.com/album/0wjkC4gjuS12DV08YeGsHv) | 4:01 | 2024-01-29 |  |
-| [I Don't Kare](https://open.spotify.com/track/48BVm8LpvH8NkXhqifSgOF) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Doc's Da Name 2000](https://open.spotify.com/album/1VgJ9FxJXQBbr0rXrTTiER) | 3:19 | 2024-09-12 |  |
+| [I Don't Kare](https://open.spotify.com/track/48BVm8LpvH8NkXhqifSgOF) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Doc's Da Name 2000](https://open.spotify.com/album/1VgJ9FxJXQBbr0rXrTTiER) | 3:19 | 2024-09-12 | 2025-06-22 |
 | [I Don't Know \(feat\. P\. Diddy\)](https://open.spotify.com/track/1NCSa6QvClPVe7KqsqjnMn) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 | 2024-01-29 |  |
 | [I Feel Everything \- From "Valerian and the City of a Thousand Planets"](https://open.spotify.com/track/6lYoCY5aQoOzjYxqOJmNCX) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [I Feel Everything \(From "Valerian and the City of a Thousand Planets"\)](https://open.spotify.com/album/7ETmx3M4l8e69vGt4gwX00) | 3:02 | 2024-09-12 | 2025-06-18 |
 | [I Got A Right Ta](https://open.spotify.com/track/5OHyd6cK80Kl4jvl93T0J6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Electric Circus](https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X) | 4:54 | 2024-06-20 | 2024-06-22 |
@@ -552,7 +552,8 @@
 | [Maybe](https://open.spotify.com/track/46dEp5uZy65FLjRgVgxuiF) | [Carmada](https://open.spotify.com/artist/4R3mzuQZhfwDkjdE1wx31O) | [Maybe](https://open.spotify.com/album/5LAy2rgaRT25bzhJTH9XEZ) | 4:17 | 2024-01-29 |  |
 | [Maybe](https://open.spotify.com/track/3nrGG3qYHIhjnHOx1lnMNx) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 4:23 | 2024-01-29 |  |
 | [Medusa](https://open.spotify.com/track/3fQ7hvu0ZVkZawSziflnYD) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Medusa](https://open.spotify.com/album/2WsQBi41OHTL2c5vnU4Z68) | 3:37 | 2024-09-12 | 2025-03-23 |
-| [Medusa](https://open.spotify.com/track/6FYGsduebHuMgjW8FLA3bI) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Medusa](https://open.spotify.com/album/3uwNNQ8rMepbwsclTXKbft) | 3:38 | 2025-03-22 |  |
+| [Medusa](https://open.spotify.com/track/5ZqY2EI7tANW8ld6Fm9bL9) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Medusa](https://open.spotify.com/album/5qSNXc2N5zV1FuVXZUhvXj) | 3:38 | 2025-06-21 |  |
+| [Medusa](https://open.spotify.com/track/6FYGsduebHuMgjW8FLA3bI) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Medusa](https://open.spotify.com/album/3uwNNQ8rMepbwsclTXKbft) | 3:38 | 2025-03-22 | 2025-06-22 |
 | [Merci Beaucoup](https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:55 | 2024-09-28 |  |
 | [Midnight Summer Jam](https://open.spotify.com/track/1KAhsLqLYiqCZ1G8ljKDtB) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 5:12 | 2024-01-29 |  |
 | [Midsection \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7xn9uXfYkFXfMJgaQxgbCN) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 4:49 | 2024-01-29 |  |

@@ -4,7 +4,7 @@
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-299 songs - 13 hr 29 min
+300 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,9 +146,10 @@
 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 | 2022-04-21 |  |
 | [Lilith](https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:44 | 2024-07-01 |  |
 | [Lilo e Stitch](https://open.spotify.com/track/4yiHkUuvdgOhuxjbBiUW8I) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [Lilo e Stitch](https://open.spotify.com/album/1yTNEwLCDzanzs6c9IAfwe) | 2:37 | 2022-12-08 | 2023-03-25 |
+| [LOVE YOU](https://open.spotify.com/track/1lzsDp83GACPRDsLt5roce) | [Bori](https://open.spotify.com/artist/6tBad4O8C3Id2gde3eWanf) | [LOVE YOU](https://open.spotify.com/album/5kqUFU5j1sHbrasBtAptbR) | 2:19 | 2025-04-03 |  |
 | [Luglio](https://open.spotify.com/track/3UEq7NSWicVkITbVoV1qvM) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Drew Seele](https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ), [Keith Blond](https://open.spotify.com/artist/6UqFlbiCYRrMnEmzmlArju) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:33 | 2022-07-16 | 2023-03-25 |
 | [Lulu \- Acoustic Version](https://open.spotify.com/track/4qfhJANVbltHdayStVa2lg) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Un bacio \(Deluxe Edition\)](https://open.spotify.com/album/6yrXXxGeHilQRiiNPXuPYh) | 3:26 | 2022-05-30 | 2023-12-07 |
-| [LUNA](https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [LUNA](https://open.spotify.com/album/6yOQL2yXTuqNpLrzBPYXQa) | 2:29 | 2025-02-07 |  |
+| [LUNA](https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [LUNA](https://open.spotify.com/album/6yOQL2yXTuqNpLrzBPYXQa) | 2:29 | 2025-02-07 | 2025-06-22 |
 | [Luna Piena](https://open.spotify.com/track/1bhwIWJDeNgVnwmIi86Ihx) | [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza) | [Luna Piena](https://open.spotify.com/album/7hIVbWQNhkvfOTk36Fvp6K) | 2:46 | 2022-08-18 | 2023-03-25 |
 | [LUNA STORTA](https://open.spotify.com/track/4US0BuWhHzJhmXhIGUUDn4) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [LUNA STORTA](https://open.spotify.com/album/5va7hVmlfLOqN7F7xHsFyh) | 2:53 | 2022-12-05 | 2023-01-13 |
 | [Maggio](https://open.spotify.com/track/54B28PJ8y0wcQ5Smqje08Q) | [DAG](https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0) | [Maggio](https://open.spotify.com/album/4rvdMC64itUXS5zy35ymnJ) | 2:26 | 2022-05-24 | 2023-02-25 |

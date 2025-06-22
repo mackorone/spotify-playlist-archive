@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,421 songs - 7 day 0 hr 16 min
+4,422 songs - 7 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1213,7 +1213,7 @@
 | [Farewell](https://open.spotify.com/track/6IWyXH6vjPdhQFp8YxNU5V) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Farewell](https://open.spotify.com/album/2iUFmp0fO0Mkc9jEsWIfi9) | 2:16 | 2023-12-01 | 2024-01-05 |
 | [Farewell Sunsets](https://open.spotify.com/track/3evPT3wO15y3WgYutAQKvd) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Farewell Sunsets](https://open.spotify.com/album/1l4MExe6D96agzJTUfqsM0) | 2:30 | 2023-10-05 | 2023-11-14 |
 | [Farewell to Shaman](https://open.spotify.com/track/0nevZ2Ezq589BnYF5YXdjq) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Farewell to Shaman](https://open.spotify.com/album/3pNrtCNDNq8MYTp0ZI05MX) | 2:08 | 2021-07-09 | 2021-11-25 |
-| [Farlands](https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Farlands](https://open.spotify.com/album/7wr0LYZiFh5SQ86PzRIHIP) | 1:33 | 2024-02-08 |  |
+| [Farlands](https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Farlands](https://open.spotify.com/album/7wr0LYZiFh5SQ86PzRIHIP) | 1:33 | 2024-02-08 | 2025-06-22 |
 | [Fave Thing](https://open.spotify.com/track/6VCeEqyExn5hfV1dBsGDIm) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Fave Thing](https://open.spotify.com/album/0ecADXvGhKIWjKDwX37Aox) | 3:04 | 2019-11-01 | 2020-04-24 |
 | [Faye \- Village Live](https://open.spotify.com/track/7A2Fpl8gfayOmCJSH0xFhm) | [Aver](https://open.spotify.com/artist/0lBiVIJxGVqGyNkfjGuZKi), [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr) | [Faye \(Village Live\)](https://open.spotify.com/album/1oxUImMwKhuPjGptt81tEO) | 4:10 | 2020-12-11 | 2021-02-01 |
 | [Fearless](https://open.spotify.com/track/1zkW0E6gPOXkl0UNvMK4vB) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Fearless](https://open.spotify.com/album/2AhlDroDgazTUk6WTXhhtz) | 2:49 | 2022-09-22 | 2023-03-10 |
@@ -3397,6 +3397,7 @@
 | [Slump Chills](https://open.spotify.com/track/3hLIeWkgVEno7EtXRF03wl) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Slump Chills](https://open.spotify.com/album/7tx1pc4ZwRuC4KefeaDarI) | 2:42 | 2022-05-20 | 2023-01-01 |
 | [Slurping Ramen in Tokyo](https://open.spotify.com/track/4W6VmMZ6BQ1g4vquUjeIDQ) | [JK Soul](https://open.spotify.com/artist/0OINA1IEY4yNLRFD5n10uS) | [Slurping Ramen in Tokyo](https://open.spotify.com/album/1dCmEHM5Ci36pMf8Y8DYGw) | 2:10 | 2021-06-23 | 2021-09-24 |
 | [Slypknot](https://open.spotify.com/track/1hsn3NgxlpITNPo3YJopxW) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Slypknot](https://open.spotify.com/album/1nrlrBzl9zwGW7bR0rilNR) | 1:57 | 2020-05-15 | 2020-07-28 |
+| [Small Steps](https://open.spotify.com/track/0JruKyHSggLlYIjjD7el5Z) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Marina](https://open.spotify.com/album/5JkvZfSnSpnZygGBhn1LsC) | 2:09 | 2025-06-20 |  |
 | [Small Talk](https://open.spotify.com/track/02oam67Jcc1eTF2qyNBDWe) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Small Talk](https://open.spotify.com/album/2vTAqiRVVWeFnPmF14Wp6I) | 1:20 | 2019-05-28 | 2019-10-11 |
 | [Smile](https://open.spotify.com/track/6wCOjkSpI545KqIKaJythk) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Smile](https://open.spotify.com/album/2Apvu3ugAERbp6jk9kcxrV) | 2:00 | 2022-11-03 | 2022-12-16 |
 | [Smile](https://open.spotify.com/track/1YQq5Xca759DEVtkANGdXI) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo), [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Smile](https://open.spotify.com/album/1B9SD9au86oqOclv53HfiF) | 2:38 | 2023-11-23 | 2025-05-17 |

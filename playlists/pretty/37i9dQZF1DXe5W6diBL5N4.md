@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YUGYEOM\(유겸\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,285 likes - 156 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,310 likes - 156 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 30 | [happy](https://open.spotify.com/track/6LUwzeiiPlUXQEO6Ke8sEt) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [happy](https://open.spotify.com/album/308X7VnHvLw6VLfWL1jgfD) | 3:15 |
 | 31 | [Green Tree Frog](https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [Green Tree Frog](https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8) | 2:29 |
 | 32 | [IRIDISCENT](https://open.spotify.com/track/77OZjnlDOhGT0MC7tMJL0z) | [IRISÉ](https://open.spotify.com/artist/0QQS9kR4qcFg7PLwr3JHgN) | [IRIDISCENT](https://open.spotify.com/album/4o1n4Vk4OEDGrZlyuyodkc) | 2:59 |
-| 33 | [G.T.A \(Good Time Ahead\) \(feat\. BAEKHO\)](https://open.spotify.com/track/5Dp2KOt7BypmxfBNGvpUL5) | [Bangtan Pink](https://open.spotify.com/artist/6XhvXiqOgxKdQqlVgWQyur), [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [3 in the City](https://open.spotify.com/album/7nehALPcbUWJN6MExuEz16) | 3:03 |
+| 33 | [G.T.A \(Good Time Ahead\) \(feat\. BAEKHO\)](https://open.spotify.com/track/5Dp2KOt7BypmxfBNGvpUL5) | [BANGTAN PINK](https://open.spotify.com/artist/6XhvXiqOgxKdQqlVgWQyur), [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [3 in the City](https://open.spotify.com/album/7nehALPcbUWJN6MExuEz16) | 3:03 |
 | 34 | [TWISTED FANTASY](https://open.spotify.com/track/2gWcql4DxoZe2A6sfIqYFa) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [A BLOODSUCKER](https://open.spotify.com/album/4MqSOAUx06i8FBWbPCMKSQ) | 2:59 |
 | 35 | [L.O.V.E \(Romantic\)](https://open.spotify.com/track/444IU436DVhrz6HJlPv4C4) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [L.O.V.E \(Romantic\)\) \(Villain With A Crush X SAY MY NAME\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/2EQVBowFogB13LDXv5UdlU) | 2:44 |
 | 36 | [I′M SO SORRY, BUT I LOVE YOU](https://open.spotify.com/track/11aFqEJWAh9W880NHQb3oM) | [BE BOYS](https://open.spotify.com/artist/0A86PbD7BDlDWi6dtGgJXI) | [BE:1](https://open.spotify.com/album/40IFjypb6JNPHKqII98CSI) | 2:59 |

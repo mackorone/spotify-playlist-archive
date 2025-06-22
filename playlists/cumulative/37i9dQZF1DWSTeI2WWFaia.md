@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-802 songs - 1 day 18 hr 52 min
+803 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 | 2024-04-05 | 2025-02-08 |
 | [30secchop \(feat\. Joseph Chilliams and Jean Deaux\)](https://open.spotify.com/track/7wflBf6P8TFqpPkkxK5UXE) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 2:27 | 2025-03-21 | 2025-06-01 |
 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 | 2024-08-30 |  |
-| [36 Ounces and a Mercedes](https://open.spotify.com/track/4IfQLjiAk1bahtL0TRkWxQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8) | [The Pre\-Game](https://open.spotify.com/album/5EPczt43gqjn3GY3OdMLCn) | 3:20 | 2025-02-21 |  |
+| [36 Ounces and a Mercedes](https://open.spotify.com/track/4IfQLjiAk1bahtL0TRkWxQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8) | [The Pre\-Game](https://open.spotify.com/album/5EPczt43gqjn3GY3OdMLCn) | 3:20 | 2025-02-21 | 2025-06-22 |
 | [3:50 in L.A](https://open.spotify.com/track/7o2LXvuYDrH63Tv8UQxhLi) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: My Disregarded Thoughts](https://open.spotify.com/album/2noJiJ7pCVOIu1yc5BT50a) | 3:19 | 2021-09-03 | 2022-01-27 |
 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 | 2025-02-07 |  |
 | [505](https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Apt\. 505](https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf) | 3:07 | 2022-04-01 | 2022-12-03 |
@@ -140,6 +140,7 @@
 | [CELiNE iN THE TRAP \(B\)](https://open.spotify.com/track/4QCQPFD0RFyVey0x9wUmK3) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [BRAVADO + INTiMO](https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R) | 2:40 | 2024-11-08 | 2025-02-22 |
 | [CEMETERY lanterns](https://open.spotify.com/track/0xaloe0I542PKzVJqAQnca) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [CEMETERY lanterns](https://open.spotify.com/album/1nuh4LbgW3jcalOcmF17d2) | 3:45 | 2025-02-28 | 2025-06-15 |
 | [Chaining Day](https://open.spotify.com/track/3DQORrfGUHMsNWY4qDpALB) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Deezlee](https://open.spotify.com/artist/1SxRGAzpOJzrSl1zDYuV94), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Fame Or Feds 3](https://open.spotify.com/album/2r8lvARHTS5aivIQd8ZHVq) | 3:24 | 2021-09-03 | 2022-07-29 |
+| [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0JcS4b9ol8GtyOWnDScfcy) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Pria](https://open.spotify.com/artist/3cpIQxX4uvGhuvERtR6f38), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champagne Campaign \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/7mTBG685KY77kghmLk2CNQ) | 3:10 | 2025-06-20 |  |
 | [CHANNEL No3](https://open.spotify.com/track/6UIMNszTQOvYchYqswBR17) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [CHANNEL No3](https://open.spotify.com/album/1WfB6HK3LNQh3TLoDv3Msw) | 3:46 | 2023-07-07 | 2023-10-03 |
 | [Checkmate](https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Checkmate](https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI) | 2:50 | 2022-09-16 | 2022-11-12 |
 | [Chicken N Dumplins](https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Chicken N Dumplins](https://open.spotify.com/album/3eJJmcOAr0FVxGgQM5nUJi) | 3:46 | 2021-09-03 | 2022-03-18 |

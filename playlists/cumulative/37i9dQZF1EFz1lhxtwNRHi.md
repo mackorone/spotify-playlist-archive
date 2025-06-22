@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-216 songs - 11 hr 55 min
+217 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [DANCE](https://open.spotify.com/track/7BfSU2ya7PZtqrl48urKqG) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DANCE](https://open.spotify.com/album/1qjwOXdWtnPCoBftY4XKux) | 2:59 | 2022-09-08 |  |
 | [Dancing Next To Me](https://open.spotify.com/track/2VAanTPaOihruBcIsoQT1Z) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Dancing Next To Me](https://open.spotify.com/album/7iENJztCzQ9a4xsBPC0IiH) | 2:50 | 2022-09-08 |  |
 | [Dear Patience](https://open.spotify.com/track/0gwfuYQz0TauOajxH2V2Cn) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:14 | 2022-09-08 |  |
-| [Digital Life](https://open.spotify.com/track/1qpdTHfmiUgYRjNSI4kr7x) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 4:02 | 2022-09-08 |  |
+| [Digital Life](https://open.spotify.com/track/0n2KFkjxK4VrNP0lJyYDAP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines \(Deluxe\)](https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP) | 4:02 | 2025-06-21 |  |
+| [Digital Life](https://open.spotify.com/track/1qpdTHfmiUgYRjNSI4kr7x) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 4:02 | 2022-09-08 | 2025-06-22 |
 | [Do Ya?](https://open.spotify.com/track/1ceGzdrIE39uWWSoueBIRV) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Do You Think About Me](https://open.spotify.com/album/6Ss7bVXcjD117V1AuGl8vo) | 3:36 | 2022-09-08 | 2022-10-19 |
 | [Do Ya?](https://open.spotify.com/track/3cRSyAAVCA2EPwCIemlUps) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Do You Think About Me](https://open.spotify.com/album/05vm8Q18u4xfnRTk5LNhgm) | 3:36 | 2022-10-18 |  |
 | [Do You Think About Me \- filous Remix](https://open.spotify.com/track/2pEIHNpqlkkB5fX3lRAObT) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Do You Think About Me \(filous Remix\)](https://open.spotify.com/album/33CstZRv63nadozJiGgfJV) | 2:56 | 2022-09-08 | 2022-11-03 |

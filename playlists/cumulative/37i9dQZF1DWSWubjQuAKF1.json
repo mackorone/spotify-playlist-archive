@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "iPod Touch",
+        "url": "https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196524,
+      "name": "iPod Touch",
+      "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
+    },
+    {
+      "album": {
         "name": "it's not my fault",
         "url": "https://open.spotify.com/album/0LSPBdQLwv31qZNBuENUgZ"
       },
@@ -8838,7 +8856,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 173949,
       "name": "Za p\u00f3\u017ano",
       "url": "https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB"

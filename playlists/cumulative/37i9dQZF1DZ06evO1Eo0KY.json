@@ -1433,6 +1433,28 @@
     },
     {
       "album": {
+        "name": "Nice Try Wrong Guy",
+        "url": "https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186384,
+      "name": "Nice Try Wrong Guy",
+      "url": "https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8"
+    },
+    {
+      "album": {
         "name": "No Pun Intended",
         "url": "https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL"
       },

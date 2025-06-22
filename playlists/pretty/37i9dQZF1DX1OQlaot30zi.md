@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Fibra, Tony Boy e Lazza, Don Joe, Dargen, CoCo e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,603 likes - 128 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,612 likes - 128 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 14 | [Non Basta Mai \(feat\. Bresh & Tony Effe\)](https://open.spotify.com/track/6LImxPnj3U9EncraLOZ7j1) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Non Basta Mai \(feat\. Bresh & Tony Effe\)](https://open.spotify.com/album/0g0HzHNfjYXmikaB010XaJ) | 2:24 |
 | 15 | [Stupidi \(feat\. Papa V & Nerissima Serpe\)](https://open.spotify.com/track/77bXJkBScCUlL4R8wgw4xL) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Stupidi \(feat\. Papa V & Nerissima Serpe\)](https://open.spotify.com/album/7B4Wh6mQQ8jZs3FzP9n4l4) | 3:05 |
 | 16 | [Don't Stop It \(feat\. Shiva & Guè\)](https://open.spotify.com/track/2eJJMK4v39nVLSYd72Fuj9) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Too Clean](https://open.spotify.com/album/6BOxaFOsnIFASRRH2JlBp5) | 2:33 |
-| 17 | [PRESSURE](https://open.spotify.com/track/60sTtiIE4a59ouJ6qoPQQH) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe) | [Diario Di Bordo](https://open.spotify.com/album/5UgdCNE3pvBxDYeyE6gaHK) | 2:24 |
+| 17 | [PRESSURE](https://open.spotify.com/track/60sTtiIE4a59ouJ6qoPQQH) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe), [Odemosci](https://open.spotify.com/artist/6pybEiYhm8CekcE5DwGecR) | [Diario Di Bordo](https://open.spotify.com/album/5UgdCNE3pvBxDYeyE6gaHK) | 2:24 |
 | 18 | [DANCIN](https://open.spotify.com/track/7tpjctKcLDvVbeKdDF90GK) | [LB GANG](https://open.spotify.com/artist/20m7OA0skSZHQi2nLt29wV), [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [CERIGNOLA DETROIT](https://open.spotify.com/album/3fGeePOghTPIvJfokaNsog) | 2:38 |
 | 19 | [KETAMINE](https://open.spotify.com/track/1RxKtxPgTriGf6eK6q5Q4D) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [KETAMINE](https://open.spotify.com/album/3i8sFnFYZZb6eEI2mz76iB) | 2:36 |
 | 20 | [A me ci pensi](https://open.spotify.com/track/22YTQU9fnvq9YJrHSqCu4f) | [ENRI](https://open.spotify.com/artist/0nTiVmLV81WoBJO8FW6bed) | [A me ci pensi](https://open.spotify.com/album/4zO5EKpgBkztUTyh1tapIr) | 2:49 |

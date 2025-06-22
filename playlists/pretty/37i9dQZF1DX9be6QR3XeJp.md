@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Keo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,278 likes - 240 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,276 likes - 240 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

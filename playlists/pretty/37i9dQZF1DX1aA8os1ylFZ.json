@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297415,
+  "num_followers": 297412,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-06-18 08:46:42",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
-    },
-    {
-      "added_at": "2025-06-18 08:46:42",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 162051,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt"
+    },
+    {
+      "added_at": "2025-06-18 08:46:42",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
     },
     {
       "added_at": "2025-06-18 08:46:42",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-06-18 08:46:42",
       "album": {
-        "name": "Need U To Need Me",
-        "url": "https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Need U To Need Me",
-      "url": "https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1"
-    },
-    {
-      "added_at": "2025-06-18 08:46:42",
-      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 210051,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
+    },
+    {
+      "added_at": "2025-06-18 08:46:42",
+      "album": {
+        "name": "Need U To Need Me",
+        "url": "https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Need U To Need Me",
+      "url": "https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1"
     },
     {
       "added_at": "2025-06-18 08:46:42",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-06-18 08:46:42",
       "album": {
-        "name": "Drive It",
-        "url": "https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy"
-      },
-      "artists": [
-        {
-          "name": "Sky Feliz",
-          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
-        },
-        {
-          "name": "Lamsi",
-          "url": "https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ"
-        }
-      ],
-      "duration_ms": 141211,
-      "name": "Drive It",
-      "url": "https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb"
-    },
-    {
-      "added_at": "2025-06-18 08:46:42",
-      "album": {
         "name": "Loving You / Don't Let Me Go",
         "url": "https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 152610,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi"
+    },
+    {
+      "added_at": "2025-06-18 08:46:42",
+      "album": {
+        "name": "Drive It",
+        "url": "https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy"
+      },
+      "artists": [
+        {
+          "name": "Sky Feliz",
+          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
+        },
+        {
+          "name": "Lamsi",
+          "url": "https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ"
+        }
+      ],
+      "duration_ms": 141211,
+      "name": "Drive It",
+      "url": "https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb"
     },
     {
       "added_at": "2025-06-18 08:46:42",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-06-18 08:46:42",
       "album": {
-        "name": "Fuck A Friendzone 2",
-        "url": "https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        }
-      ],
-      "duration_ms": 145074,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ"
-    },
-    {
-      "added_at": "2025-06-18 08:46:42",
-      "album": {
         "name": "A Forest Fire",
         "url": "https://open.spotify.com/album/5SmxGJPm2ItS9s6CnP5WKL"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 203334,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/4DEgSzgOIA0PlALY6iv3NI"
+    },
+    {
+      "added_at": "2025-06-18 08:46:42",
+      "album": {
+        "name": "Fuck A Friendzone 2",
+        "url": "https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "duration_ms": 145074,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ"
     },
     {
       "added_at": "2025-06-18 08:46:42",

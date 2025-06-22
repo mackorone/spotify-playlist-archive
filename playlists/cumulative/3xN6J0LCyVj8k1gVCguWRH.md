@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,053 songs - 11 day 18 hr 51 min
+5,054 songs - 11 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Amazing](https://open.spotify.com/track/5LmH5s4izwCbFV2ad3snpj) | [Braunsy](https://open.spotify.com/artist/6NtI2LVlpaN2PryOeSF13u) | [Amazing](https://open.spotify.com/album/3kwsmKHXBPvIzVmqpuYNvu) | 2:56 | 2023-08-10 | 2023-08-20 |
 | [America](https://open.spotify.com/track/4sek3uyetvcY6qDRpJ1qoL) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [America](https://open.spotify.com/album/2GCnapS46Gp6o8BOG4dekf) | 3:27 | 2024-07-07 | 2024-07-20 |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-25 | 2024-03-08 |
+| [American Spirit](https://open.spotify.com/track/4pAywR7O1HPrTJtRLrtCvW) | [Pink Jagg](https://open.spotify.com/artist/1SgsyJqfG9hmmb7Wnjo3EF) | [American Spirit](https://open.spotify.com/album/6OHdsZucQRbGHN5s0xqPjC) | 3:37 | 2025-06-21 |  |
 | [Amin Bird](https://open.spotify.com/track/6NErAb531bcv9ZXmRoZEf3) | [Ada Morghe](https://open.spotify.com/artist/5QAJWFAxwZ3qpTz94t9FPo) | [Pure Good Vibes](https://open.spotify.com/album/05NCI0PJ7eFL92JdAAeR3n) | 3:34 | 2025-06-17 |  |
 | [Aminata](https://open.spotify.com/track/0HlchSc0ChOE5Q9xQrzN8y) | [Alaman](https://open.spotify.com/artist/3VAZM9cBog8d3f1eDqdGeS) | [Aminata](https://open.spotify.com/album/2zEZY63AApjuzpyxY6iKVp) | 2:35 | 2024-12-19 | 2024-12-31 |
 | [Amor de Sábanas](https://open.spotify.com/track/5xTWrGQC9k7rzOGIP5ODab) | [SANTI SERRA](https://open.spotify.com/artist/160stBXe31uhue2Fb598X4), [Arancha Santiago](https://open.spotify.com/artist/3vQm0KZuaevPCcAiDtvKwt) | [Amor de Sábanas](https://open.spotify.com/album/0X9ghqZNhuETTQ1unsrYk6) | 2:37 | 2025-02-05 | 2025-02-17 |
@@ -2083,7 +2084,7 @@
 | [I Love the Night](https://open.spotify.com/track/1EtPElTFFiOou0DukonCCq) | [Who Are You Lutra Lutra ??](https://open.spotify.com/artist/5srt7b42Fps0sNWf88aard) | [Queensland Rain](https://open.spotify.com/album/6JETSL1rqQvRF9RNetl7CS) | 3:16 | 2022-08-05 | 2022-08-22 |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 5:22 | 2019-09-29\* | 2021-11-19 |
 | [I Love You So](https://open.spotify.com/track/5g6jEIR6C9USlFizEtkFsG) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [I Love You So](https://open.spotify.com/album/37gkQgLbD4rvn4X4SNGCuZ) | 3:04 | 2024-04-27 | 2024-05-09 |
-| [I Love You, Baby](https://open.spotify.com/track/25ZN0WBBN0Ih43BBGukwSq) | [The Blue Moon](https://open.spotify.com/artist/5N8F1674Tc9gcE9dvnvBFN) | [I Love You, Baby](https://open.spotify.com/album/3dtqEInhWZ4ThJWSyVD5Yh) | 4:19 | 2025-05-23 |  |
+| [I Love You, Baby](https://open.spotify.com/track/25ZN0WBBN0Ih43BBGukwSq) | [The Blue Moon](https://open.spotify.com/artist/5N8F1674Tc9gcE9dvnvBFN) | [I Love You, Baby](https://open.spotify.com/album/3dtqEInhWZ4ThJWSyVD5Yh) | 4:19 | 2025-05-23 | 2025-06-22 |
 | [I Loved You More Than You Thought I Would](https://open.spotify.com/track/7b9JJ0a06sh43q4uhDNqsV) | [Bleary](https://open.spotify.com/artist/4rthkb9PaygrlQWGlbLaZm) | [I Loved You More Than You Thought I Would](https://open.spotify.com/album/50bYnuOQ9l66orhtoO7oWd) | 5:49 | 2022-02-25 | 2022-03-14 |
 | [I Make My Own Sunshine \(John Fields Remix\)](https://open.spotify.com/track/7qIaFnLRS8GrA10pMCGQfA) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Love Hard](https://open.spotify.com/album/7FYrEqmCqgJi17USfJk59M) | 2:27 | 2021-12-17 | 2022-01-01 |
 | [I Miss You](https://open.spotify.com/track/7IK44rnVpvRHfwBKpqyEng) | [Bosh](https://open.spotify.com/artist/6de8caunnKVbsrHaKK5m0X) | [Thoughts I Collected](https://open.spotify.com/album/40hnBn80XzKQTLIooIwdT2) | 5:18 | 2020-08-02 | 2020-08-20 |
@@ -3046,7 +3047,7 @@
 | [Nick Of Time](https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 | 2020-08-20 | 2023-08-28 |
 | [Nico's Exorcism Dance](https://open.spotify.com/track/3XGzAIo7x8k9h4YKkswMHy) | [NTHNL](https://open.spotify.com/artist/5QryVzY6vVbE1gej2L42ux) | [Cosmic Flute Rides Again](https://open.spotify.com/album/5jeY5UDKprTPQuPX8VBKig) | 2:39 | 2023-03-24 | 2023-04-13 |
 | [Night Fire](https://open.spotify.com/track/1lKaKOHHWlbK4LKn8K8FkU) | [Lightbulb the Entertainer](https://open.spotify.com/artist/5vG0ex3chH3Z7DOzQmyfeB) | [Night Fire](https://open.spotify.com/album/1Ue4o2M2KPV4WZB4vS89FM) | 3:35 | 2024-08-07 | 2024-08-19 |
-| [Night Like This](https://open.spotify.com/track/1qKIRNweuXSFK8np3Rc1Da) | [The Sultan](https://open.spotify.com/artist/5T41RBybGyziQJ8ImxjomX) | [Night Like This](https://open.spotify.com/album/0A5Z1MVmgIOrf22MNmsLiZ) | 2:21 | 2025-06-03 |  |
+| [Night Like This](https://open.spotify.com/track/1qKIRNweuXSFK8np3Rc1Da) | [The Sultan](https://open.spotify.com/artist/5T41RBybGyziQJ8ImxjomX) | [Night Like This](https://open.spotify.com/album/0A5Z1MVmgIOrf22MNmsLiZ) | 2:21 | 2025-06-03 | 2025-06-22 |
 | [Night Skies](https://open.spotify.com/track/4RNKofeyQuBizGTSKyrkrG) | [ONLYYREECE](https://open.spotify.com/artist/3gepT42nGN2OEyQ5FmnDNU) | [Night Skies](https://open.spotify.com/album/0i2FaXMnXBc55s0SKwg0gH) | 3:41 | 2024-06-15 | 2024-06-27 |
 | [Nightlife](https://open.spotify.com/track/3zdu4JE1HuGCe6uMISMszm) | [Frankie Aero](https://open.spotify.com/artist/0mAUuCDjHfmsNsmfLvd9SX) | [Nightlife](https://open.spotify.com/album/2l4KhjaKmkG0YIufYZMuEk) | 2:05 | 2024-01-08 | 2024-01-16 |
 | [Nightmare](https://open.spotify.com/track/7CW6sqI4UD5ZHpvp9hQc0i) | [Fabio Noventa](https://open.spotify.com/artist/0MIzQkmOMwk3Ku6RHmo7Gf) | [Nightmare](https://open.spotify.com/album/0LRF4AYKjR8E1aHMJVrAqI) | 2:23 | 2025-02-05 | 2025-02-17 |
@@ -4070,7 +4071,7 @@
 | [Stillcare](https://open.spotify.com/track/2qCzjsd2i20Al3IpUi6zYB) | [Sanja Ost](https://open.spotify.com/artist/2sY91sdrpjwRCl4omRqVXq) | [Stillcare](https://open.spotify.com/album/0dScsoPZveK86G5yujbFnV) | 4:11 | 2024-07-09 | 2024-07-21 |
 | [Stolen Love](https://open.spotify.com/track/6WEljiBGH3k6ywCqhtEb08) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh) | [Stolen Love](https://open.spotify.com/album/6DkbpFdoKedFhVy3oi9W61) | 2:48 | 2022-01-21 | 2022-04-24 |
 | [Stomp & Holler](https://open.spotify.com/track/0J9H8KVWlfKNqVGjzkrWXZ) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E), [Mikki Brayboy](https://open.spotify.com/artist/1AoKjo4miXPc57akxzT6nY) | [Stomp & Holler](https://open.spotify.com/album/08oZDAb0tsAvZIZ5xUDLj2) | 3:00 | 2024-06-18 | 2024-08-04 |
-| [Stone Cold](https://open.spotify.com/track/1n8AgcDeQ4DFm4slew9WTr) | [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Stone Cold](https://open.spotify.com/album/4Oym81qnGJV8VPO7SxknWU) | 3:31 | 2025-05-30 |  |
+| [Stone Cold](https://open.spotify.com/track/1n8AgcDeQ4DFm4slew9WTr) | [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Stone Cold](https://open.spotify.com/album/4Oym81qnGJV8VPO7SxknWU) | 3:31 | 2025-05-30 | 2025-06-22 |
 | [Stop](https://open.spotify.com/track/1h7SY4Lk2LEBswb9RIDZed) | [Goldtooth](https://open.spotify.com/artist/5PZoEi7wXcmnAuiWnWj4zg) | [Goldtooth](https://open.spotify.com/album/6m0YFlb0Q7OIBT0Qgb4rJt) | 2:30 | 2024-07-16 | 2024-07-27 |
 | [Stop \(you can let it go\)](https://open.spotify.com/track/4W4ecDBEwpKKNFvHPhUExQ) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Stop \(you can let it go\)](https://open.spotify.com/album/241CvdL5vl09jsuayDHxnc) | 3:15 | 2024-04-19 | 2024-05-03 |
 | [Stop Me Thinking of You](https://open.spotify.com/track/11wKSDW1ayrbr5XaE80w4J) | [WAMI](https://open.spotify.com/artist/2qrqGisLb0cY61ual20l9y), [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Stop Me Thinking Of You](https://open.spotify.com/album/2vHJvZ9Xx06PkS9wwIEfsk) | 3:06 | 2021-10-02 | 2021-10-17 |

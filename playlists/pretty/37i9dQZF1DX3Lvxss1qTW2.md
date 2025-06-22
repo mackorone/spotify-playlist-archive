@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  Famous Pluto, Zerrydl, Shallipopi
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,405 likes - 79 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,491 likes - 79 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

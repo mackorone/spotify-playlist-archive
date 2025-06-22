@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -7650,7 +7650,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 84700,
       "name": "DIA DEL\u00cdCIA - Slowed",
       "url": "https://open.spotify.com/track/6T06bLv5OzJf3BuNa81XXD"
@@ -8060,7 +8060,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -9516,7 +9516,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 189559,
       "name": "EU TAVA AQUI PENSADO - Bossa nova",
       "url": "https://open.spotify.com/track/3iIrsQt3hhyWKLU0M9y4oS"
@@ -10206,6 +10206,24 @@
       "duration_ms": 206032,
       "name": "Figurinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3qdkx26Wg8KlvyuiAprREm"
+    },
+    {
+      "album": {
+        "name": "FILA DE 1000 LAMENTOS",
+        "url": "https://open.spotify.com/album/4Tc7s9877YpORGgfGDvQ8b"
+      },
+      "artists": [
+        {
+          "name": "Yampeer",
+          "url": "https://open.spotify.com/artist/62dq8Iu5VkMxzo41GDIOLW"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217833,
+      "name": "FILA DE 1000 LAMENTOS",
+      "url": "https://open.spotify.com/track/43oDXMSn2jqpX0nCAVn1nM"
     },
     {
       "album": {
@@ -15756,7 +15774,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 208125,
       "name": "Mambinho Brasile\u00f1o",
       "url": "https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8"
@@ -17486,7 +17504,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 97606,
       "name": "Montagem Bandido - Slowed",
       "url": "https://open.spotify.com/track/2spuCBVvQyCsQFHIiie8gP"
@@ -23512,7 +23530,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -25430,7 +25448,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
@@ -28220,7 +28238,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 287679,
       "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
       "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
@@ -28396,7 +28414,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"
@@ -29804,7 +29822,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 181066,
       "name": "Viernes 13",
       "url": "https://open.spotify.com/track/1qXYKmTTd4e0YdugtGmb5R"

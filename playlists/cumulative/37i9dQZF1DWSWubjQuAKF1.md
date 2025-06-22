@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: emi
 
-487 songs - 23 hr 36 min
+488 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 | 2025-02-20 | 2025-04-25 |
 | [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 | 2025-04-24 | 2025-05-31 |
 | [IPhone 6s](https://open.spotify.com/track/1NT8bf6kXaGfwp0iz4A48d) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [IPhone 6s](https://open.spotify.com/album/5OR6o7nR3fT2peyT2uamY2) | 3:22 | 2025-05-01 |  |
+| [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-06-19 |  |
 | [it's not my fault](https://open.spotify.com/track/4fNGwDst4WIJZw0a9cjCnh) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [it's not my fault](https://open.spotify.com/album/0LSPBdQLwv31qZNBuENUgZ) | 2:59 | 2024-11-07 | 2025-01-24 |
 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 | 2025-03-13 |  |
 | [ja ciebie bardziej](https://open.spotify.com/track/6xe7KUDXZ4f4Urq4yIBwCa) | [Zuyeh](https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi) | [ja ciebie bardziej](https://open.spotify.com/album/0eOqwu1ovLqQzgJlO23FpQ) | 2:57 | 2024-11-21 | 2024-12-07 |
@@ -471,7 +472,7 @@
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-20 | 2025-02-28 |
 | [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 | 2025-06-05 |  |
 | [Za daleko](https://open.spotify.com/track/09y1MRKKZngQBDAwL7oOSJ) | [Klaudia Kowalik](https://open.spotify.com/artist/48xj6VTZJbWGgs2Pt1Slkj) | [Za daleko](https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x) | 3:21 | 2024-09-06 | 2025-01-17 |
-| [Za późno](https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Za późno](https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T) | 2:53 | 2025-02-20 |  |
+| [Za późno](https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Za późno](https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T) | 2:53 | 2025-02-20 | 2025-06-22 |
 | [Zabawy Sercem](https://open.spotify.com/track/7ivio4VD40tDP5UsiGNnOJ) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Zabawy Sercem](https://open.spotify.com/album/2Ibp0DGPnQfUmvTmpd1hsm) | 2:36 | 2024-06-28 | 2024-08-23 |
 | [zabierz mnie nad morze](https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [zabierz mnie nad morze](https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck) | 2:51 | 2024-06-28 | 2024-09-20 |
 | [zachody i wschody](https://open.spotify.com/track/4t3zMkgWZdmAcHqIr2coxU) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [zachody i wschody](https://open.spotify.com/album/0N4hQMNPZtnctuGHgXr2zB) | 2:08 | 2025-06-05 |  |

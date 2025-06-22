@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-552 songs - 1 day 7 hr 26 min
+553 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Agaladhu](https://open.spotify.com/track/5Dv7lp6wfSPwhT2lOy9jj9) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP) | [Agaladhu](https://open.spotify.com/album/25NIqVyEhp9CtoTR6iozCU) | 3:22 | 2024-07-31 | 2024-10-20 |
 | [Aiyaiyo \- From "Think Indie"](https://open.spotify.com/track/2JgWN3U4p9UjgQTOBMtZPx) | [Samuel Nicholas](https://open.spotify.com/artist/4HzOMT90RRZ7p1SzMtqVCr) | [Aiyaiyo \(From "Think Indie"\)](https://open.spotify.com/album/38wMfEJRXG5GwolTwhGqu7) | 2:45 | 2024-12-25 | 2025-04-10 |
 | [Alaadhi](https://open.spotify.com/track/4UVekDlBRIP1On3kkJiah5) | [Shriram Sachi](https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd), [Varuon Thushyanthan](https://open.spotify.com/artist/40V6eANkXWAQtcxSVRjjWQ), [Megan Dhakshini](https://open.spotify.com/artist/54eEBOKchW4drD36lOlIEp), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Alaadhi](https://open.spotify.com/album/1IJSPPFMH04JPB3vBHI92E) | 4:25 | 2024-11-21 | 2024-12-26 |
+| [Alaipesiyil Vanthavala](https://open.spotify.com/track/0tqwmfaaSjn4EyGpIC68F0) | [Sriram Varatharajan](https://open.spotify.com/artist/4p19JsuYWzBv7ZBDrzrhoX) | [Vsr Melodies](https://open.spotify.com/album/5r3RJ3fSnwYqWTHl221qVs) | 3:25 | 2025-06-21 |  |
 | [ALANGATTI MAZHA](https://open.spotify.com/track/1aXI7tNrCDb4IxskeCFLet) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Rahul Hariharan](https://open.spotify.com/artist/6tdfRI8aHCxNS9BijZSodn) | [ALANGATTI MAZHA](https://open.spotify.com/album/36DnnMTZWFQdAw5aIBFXmg) | 1:51 | 2024-09-13 | 2024-11-12 |
 | [Alavilla Azhagiye](https://open.spotify.com/track/07eegSrNoTXO1EZhBEJsdr) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Inzy](https://open.spotify.com/artist/07XxDCSIhiEvcAtxPm0uWV) | [Alavilla Azhagiye](https://open.spotify.com/album/0m5QDfTQuK0gz9h1hHsDMd) | 4:14 | 2023-07-13 | 2024-01-05 |
 | [Alavilla Azhagiye](https://open.spotify.com/track/3SYONFAMu1i89QbMx5qzTt) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Inzy](https://open.spotify.com/artist/07XxDCSIhiEvcAtxPm0uWV) | [Alavilla Azhagiye](https://open.spotify.com/album/0pTsgbKPcLDNIUDaxT2Fpq) | 4:14 | 2023-07-13 | 2024-04-05 |

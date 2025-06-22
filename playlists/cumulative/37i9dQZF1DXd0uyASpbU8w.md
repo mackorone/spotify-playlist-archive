@@ -4,7 +4,7 @@
 
 > New music from Cardi B, Swayvee & Young Stunna, Kamo Mphela, Amaarae and more.
 
-6,840 songs - 19 day 22 hr 11 min
+6,841 songs - 19 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1789,6 +1789,7 @@
 | [Famous](https://open.spotify.com/track/5PczfSmmH9XH122DBN5t3f) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Famous](https://open.spotify.com/album/4VQaTPt4KhpQh3477vbfPI) | 2:35 | 2025-03-28 | 2025-04-04 |
 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-09-15 | 2023-09-23 |
 | [Fantastic \- from the series Arcane League of Legends](https://open.spotify.com/track/0Suz6v4QVqAfm3Sd77Lhew) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/0rgg0qkj09oSdMyTpyK8lS) | 3:04 | 2024-12-05 | 2024-12-13 |
+| [Fantasy](https://open.spotify.com/track/3NVEfATVPRz5JHo0AtvXmR) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Fantasy](https://open.spotify.com/album/7eXffVqFn74sguDZ4sugS4) | 3:01 | 2025-06-21 |  |
 | [Far Away](https://open.spotify.com/track/0mgGRppM3zT42tslWmduUU) | [RUVA](https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3) | [from RUVA to El Roi](https://open.spotify.com/album/4GuSLW3DJtppiGMUQq5Pz7) | 3:53 | 2024-05-10 | 2024-05-17 |
 | [Far Far Away](https://open.spotify.com/track/6zRppdh1Rk7tvTtk1ijUNs) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [Far Far Away](https://open.spotify.com/album/6IbIv4gqtDZ1r8rwaCa6yE) | 2:50 | 2023-10-20 | 2023-11-11 |
 | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0Ss227Tev7vSTbFtTfIm3y) | 4:07 | 2024-09-13 | 2024-09-21 |
@@ -3786,8 +3787,8 @@
 | [MEGA MONEY MEGA](https://open.spotify.com/track/0GtkFcwZrNVpkPOavG1gfZ) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [MEGA MONEY MEGA](https://open.spotify.com/album/77bphBtAaaTCuM7pkFO7YV) | 2:48 | 2024-12-13 | 2024-12-21 |
 | [Mehlo Madala](https://open.spotify.com/track/5qENpco5MzbBlWLylnZA5V) | [Nation\-365](https://open.spotify.com/artist/7EtyNQtFW6fsD34PVJzXj0), [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Mntomnandi](https://open.spotify.com/artist/4rRzXEnh16PdZMcccDW46x), [Blaqboy Muziq](https://open.spotify.com/artist/0xrmxDiSXqICe1AW683E56), [chillyboyRSA](https://open.spotify.com/artist/2s2LVcH4Hax1UDYqBOFxbi) | [Mehlo Madala](https://open.spotify.com/album/1Tz1S5OH6oND41VEaJFoo7) | 6:13 | 2024-07-11 | 2024-07-19 |
 | [Meisie](https://open.spotify.com/track/4Wl61saOR6rwgVcXQuKYQ1) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Meisie](https://open.spotify.com/album/11ZDOCvUNFJbbrQgaG4A3M) | 2:35 | 2024-12-13 | 2024-12-21 |
+| [Meka](https://open.spotify.com/track/6YPiDqUt8ITVVOqMBabOSB) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Meka](https://open.spotify.com/album/49ZzIScqGDeC3Hno8pS5jz) | 3:14 | 2025-06-20 |  |
 | [Meka](https://open.spotify.com/track/3bLvJLBC4fFQPpS1uMzP52) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [RUSH AVENUE](https://open.spotify.com/artist/0BuZtV1vrh5miIrx1ZPgFP) | [Meka](https://open.spotify.com/album/1z4QaNQS4eeagXK4XzK8zA) | 2:52 | 2025-05-22 | 2025-05-27 |
-| [Meka \(Mother Earth\)](https://open.spotify.com/track/6YPiDqUt8ITVVOqMBabOSB) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Meka \(Mother Earth\)](https://open.spotify.com/album/49ZzIScqGDeC3Hno8pS5jz) | 3:14 | 2025-06-20 |  |
 | [Melancholia \- Live in Cairo](https://open.spotify.com/track/2AgIUzV6qZQIGVscjMsO4F) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Another Side with Another Time Ensemble \(Live in Cairo\)](https://open.spotify.com/album/60JtkiywjwTlf4tY529C8Z) | 4:38 | 2024-02-23 | 2024-03-01 |
 | [Melanie](https://open.spotify.com/track/5gNBLq9tNRD1bCEjoUpdEZ) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Melanie](https://open.spotify.com/album/62jdpurdBUqrnSVuSJKwgT) | 3:17 | 2024-10-17 | 2024-10-25 |
 | [Melt Away](https://open.spotify.com/track/7JCxo8h62sSnQo7Z1sApJF) | [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Melt Away](https://open.spotify.com/album/0tPl8C4qmYmngAU8FvnFbR) | 2:48 | 2025-03-21 | 2025-03-29 |

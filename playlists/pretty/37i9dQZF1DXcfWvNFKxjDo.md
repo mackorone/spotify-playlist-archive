@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: LUNAX
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,134 likes - 103 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,168 likes - 103 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 54 | [Kiss It Better](https://open.spotify.com/track/6mhCVMQXMLb0zIKGAqfTBb) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [Alex Byrne](https://open.spotify.com/artist/7FhCOc9LXEP4tAFgqb46Zw) | [Kiss It Better](https://open.spotify.com/album/3iCVQ2DnXa250st9P0RSSz) | 2:42 |
 | 55 | [Coca Cola](https://open.spotify.com/track/6SCKHyWEeraawd7gzdNJnf) | [Juan Daniél](https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Coca Cola](https://open.spotify.com/album/5NIs9dTgA2Lvz9FKeYoBVs) | 2:18 |
 | 56 | [Get Up And Dance](https://open.spotify.com/track/7MwTqXv601j41X8naobpFP) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Get Up And Dance](https://open.spotify.com/album/56zt7vFQS7nXV2CgqT4DxM) | 2:38 |
-| 57 | [Hot Summer](https://open.spotify.com/track/54SITg2xgzjmMDlOWg8yWf) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1), [Patrick Liegl](https://open.spotify.com/artist/32scmNHDrppgw6VNfLcMmy), [Enes Gürisik](https://open.spotify.com/artist/58AuAdgm1reArhOtkxhkDM) | [Hot Summer](https://open.spotify.com/album/1hmTwkfQeJOAbSGIqNwYaE) | 3:07 |
+| 57 | [Hot Summer](https://open.spotify.com/track/54SITg2xgzjmMDlOWg8yWf) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1) | [Hot Summer](https://open.spotify.com/album/1hmTwkfQeJOAbSGIqNwYaE) | 3:07 |
 | 58 | [Better Now](https://open.spotify.com/track/3McYZEPfD8gZlLckotuHIz) | [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa) | [Better Now](https://open.spotify.com/album/4WBmbjWaCMTrYS6XXj1y79) | 4:09 |
 | 59 | [Yesterday Was Now](https://open.spotify.com/track/4rM0Q8ImmUJLzhfLf4xJHM) | [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G), [Avalan](https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP) | [Yesterday Was Now](https://open.spotify.com/album/68HynxrnqygjyYm0bPgZiu) | 3:27 |
 | 60 | [On the Move](https://open.spotify.com/track/3cCbN9HLD4sV64g7yB9kXf) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [On the Move](https://open.spotify.com/album/4CSPRWOtQ5fcqnA5G3QEny) | 2:16 |

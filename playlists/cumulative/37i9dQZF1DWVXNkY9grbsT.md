@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-528 songs - 1 day 20 hr 3 min
+529 songs - 1 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Pantone 6](https://open.spotify.com/track/3BVxAb1gnSngigiot6knQk) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [Pantone 6](https://open.spotify.com/album/2cy2Mkinu3Vx4zOas06CN8) | 4:01 | 2025-05-12 |  |
 | [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 | 2022-01-07 | 2023-05-05 |
 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 | 2022-02-18 | 2022-03-04 |
+| [Part 1](https://open.spotify.com/track/1rjpUQAtezTwQkJRdP80I9) | [Charbel Haber](https://open.spotify.com/artist/2Y32ogtkRSeb6rD3Lc1uWe), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W), [Sary Moussa](https://open.spotify.com/artist/4LbEZkjJyK79C3e14SsEPJ) | [Part 1](https://open.spotify.com/album/1LqFZnAHmoay7Nx5xZXErO) | 8:06 | 2025-06-20 |  |
 | [Part 3](https://open.spotify.com/track/5lr9zsPpnk6XRHpNZWIHyh) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Posle Vsego](https://open.spotify.com/album/5o1DyqLkD2xTi6txPdPBS5) | 4:44 | 2022-02-04 | 2023-08-05 |
 | [part ii \- palace / illusion](https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL](https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7) | 7:41 | 2025-01-14 |  |
 | [Pause](https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:23 | 2025-01-09 |  |
@@ -511,7 +512,7 @@
 | [Weltenwandler \- Radio Edit](https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl) | [Klartraum](https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF) | [Weltenwandler](https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb) | 5:16 | 2022-02-11 | 2025-01-15 |
 | [Westerpark](https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC) | [BSS \(AMS\)](https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH) | [Suikerplein EP](https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ) | 5:13 | 2022-01-28 | 2025-01-15 |
 | [What Is Not Strange?](https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg) | [Tashi Wada](https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [What Is Not Strange?](https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt) | 2:05 | 2024-09-06 |  |
-| [Where In The World](https://open.spotify.com/track/1x2DBc1N9dXorxIhNqSjW7) | [Arborra](https://open.spotify.com/artist/3badfEfCjnC3Du7lTZLSNK) | [Mind Over Matter](https://open.spotify.com/album/4eTMcDeZNdsTivV59ClWTC) | 2:44 | 2025-05-12 |  |
+| [Where In The World](https://open.spotify.com/track/1x2DBc1N9dXorxIhNqSjW7) | [Arborra](https://open.spotify.com/artist/3badfEfCjnC3Du7lTZLSNK) | [Mind Over Matter](https://open.spotify.com/album/4eTMcDeZNdsTivV59ClWTC) | 2:44 | 2025-05-12 | 2025-06-22 |
 | [White Carnations](https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:43 | 2023-04-21 | 2025-01-15 |
 | [White Cells](https://open.spotify.com/track/5s07q4raSD1ib5O9ZvARJy) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [White Cells](https://open.spotify.com/album/62wYM2rikYdv1siwTNrNqO) | 5:48 | 2022-03-18 | 2023-07-18 |
 | [Who You Are](https://open.spotify.com/track/7B8kFfDxMuQxR0nB7ZD1RM) | [Etibar Asadli](https://open.spotify.com/artist/1pxYHvjHJul1t7PFTZaf9c) | [Who You Are](https://open.spotify.com/album/2flEFWLYGlxaX6JR3AY3Pl) | 4:24 | 2022-01-28 | 2022-07-12 |

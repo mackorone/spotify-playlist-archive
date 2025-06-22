@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,028 songs - 4 day 13 hr 35 min
+2,030 songs - 4 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [All My Life](https://open.spotify.com/track/1AEdLtFcRC1HUBzj97XWTV) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270) | [All My Life](https://open.spotify.com/album/19Vgz8pVKz3MkkR7x8uIZJ) | 2:26 | 2024-05-17 | 2024-11-30 |
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-11-15 | 2023-01-28 |
 | [Alleine](https://open.spotify.com/track/1ZZOVNsDP6b2plck5AL3tn) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Alleine](https://open.spotify.com/album/29h7ryq6taHeULkUT2Cuhj) | 3:23 | 2023-08-18 | 2023-09-09 |
+| [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-06-20 |  |
 | [ALLO?C MOI](https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [ALLO?C MOI](https://open.spotify.com/album/41DPBGQl4RL8QqJlm5cxP7) | 2:14 | 2025-01-31 | 2025-03-15 |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-02-03 | 2022-05-03 |
 | [Alone With You](https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:30 | 2025-04-04 | 2025-06-18 |
@@ -870,7 +871,7 @@
 | [kbye](https://open.spotify.com/track/2ckPK3lv4EUVtQvuOqJXw5) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/2bdETu6fQE46f7WWa2hfDk) | 3:34 | 2022-06-29 | 2022-12-15 |
 | [kbye](https://open.spotify.com/track/4B1pUZ8PlVG9Pbdjw9jMND) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/5RrHk4eQajkuqG03iNChlF) | 3:34 | 2022-02-03 | 2022-07-29 |
 | [Kebyar Kebyar](https://open.spotify.com/track/1ZvNAOQk9uvqNDaSmWVJX0) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Kebyar Kebyar](https://open.spotify.com/album/1aenBmEoyGlTl8ozxY6HQC) | 3:47 | 2022-06-03 | 2023-05-09 |
-| [Keep Me Warm](https://open.spotify.com/track/2pLo1jJFDkwnfm6bYVg3eS) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Keep Me Warm](https://open.spotify.com/album/0LaxlkLAeBkWfdD4Pshj34) | 3:38 | 2025-02-07 |  |
+| [Keep Me Warm](https://open.spotify.com/track/2pLo1jJFDkwnfm6bYVg3eS) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Keep Me Warm](https://open.spotify.com/album/0LaxlkLAeBkWfdD4Pshj34) | 3:38 | 2025-02-07 | 2025-06-22 |
 | [Keep Up](https://open.spotify.com/track/1ypGYiTfQ7t6M6SkTozZeY) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [Keep Up](https://open.spotify.com/album/0Cz4M6d0VmPIShBHxqs5zD) | 3:02 | 2022-03-21 | 2022-06-23 |
 | [Kekasih Impian](https://open.spotify.com/track/3slXdpPY5soBt7OiCdYbFF) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Kekasih Impian](https://open.spotify.com/album/7e2nlZI2Nt68Ebqb5w4PrB) | 4:40 | 2024-04-19 | 2024-08-17 |
 | [Kele Kele](https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Kele Kele \- Spotify Singles](https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c) | 2:10 | 2023-07-04 | 2024-02-14 |
@@ -1202,7 +1203,7 @@
 | [Odejdź](https://open.spotify.com/track/2CNxXzuVRCqL27d6pBDyZv) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Dziwna Wiosna](https://open.spotify.com/album/0DOWUOYuRU1EsakUy3eLMG) | 4:12 | 2022-03-24 | 2022-08-02 |
 | [odpływam](https://open.spotify.com/track/362sPAroLBtYQhg4nJGton) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [odpływam](https://open.spotify.com/album/23a6rGwxVVEcFxaJdwWeQQ) | 4:08 | 2022-03-24 | 2022-04-16 |
 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 | 2024-02-09 | 2024-06-22 |
-| [Oh Love](https://open.spotify.com/track/2bnkNJJEzmcIxCAGeMfzjP) | [Thorsteinn Einarsson](https://open.spotify.com/artist/7kCeNecZvb7zxsnRUC8jTV) | [Teardrops & Confettiguns](https://open.spotify.com/album/7A9PDIsFC0Jp77r8jbliZg) | 2:42 | 2025-03-21 |  |
+| [Oh Love](https://open.spotify.com/track/2bnkNJJEzmcIxCAGeMfzjP) | [Thorsteinn Einarsson](https://open.spotify.com/artist/7kCeNecZvb7zxsnRUC8jTV) | [Teardrops & Confettiguns](https://open.spotify.com/album/7A9PDIsFC0Jp77r8jbliZg) | 2:42 | 2025-03-21 | 2025-06-22 |
 | [OH YA YA YA](https://open.spotify.com/track/4zoQaQd0smo3LbyyfSBBfm) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [SOLAR : flare](https://open.spotify.com/album/61V200A41BxgDAvuiycVxc) | 3:00 | 2022-03-24 | 2022-04-18 |
 | [OIK](https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [OIK](https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1) | 2:39 | 2023-08-18 | 2024-03-30 |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-11-11 | 2023-01-07 |
@@ -1681,6 +1682,7 @@
 | [Ud Ke Chali](https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Ud Ke Chali](https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f) | 3:55 | 2023-10-27 | 2024-04-19 |
 | [Uff](https://open.spotify.com/track/7rF3cZERZvYoPG7fRfBJ66) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Uff](https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih) | 2:56 | 2024-10-18 | 2025-01-12 |
 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 | 2025-04-04 |  |
+| [uhm?](https://open.spotify.com/track/25dKoA2z4fHXHlZux3XrJm) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [uhm?](https://open.spotify.com/album/6q8C1btD0CTSWvjSheZItc) | 2:49 | 2025-06-20 |  |
 | [Ulap](https://open.spotify.com/track/0en1kxNAvVQxLpbteRTG7L) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/6ciETtX9ufaXBFRClmnnNG) | 6:45 | 2022-02-03 | 2022-06-25 |
 | [Ulap](https://open.spotify.com/track/0yBycfuTYOoDrvfP5wY2Ux) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/0LfDCKJ0MSBuR9CxJcS8tf) | 6:45 | 2022-08-01 | 2022-09-16 |
 | [umakeme](https://open.spotify.com/track/5MJgMHroAGmTvMN2Q1aCNH) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5) | [umakeme](https://open.spotify.com/album/6mXug47jOXJs8hgf4ra0MD) | 4:07 | 2022-02-03 | 2022-06-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future\. Cover: ICEBOX
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,139 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,140 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 43 | [idm.](https://open.spotify.com/track/6chlClDQA8tRd2ivMF6P1L) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [idm.](https://open.spotify.com/album/4qd1ae0hRIeugoxqPAkfQv) | 2:22 |
 | 44 | [Datanglah sang puteri](https://open.spotify.com/track/1FTKFmSqHofso8PsixcCCx) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Teruntuk Jantung](https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr) | 3:53 |
 | 45 | [Panah](https://open.spotify.com/track/1dlgXkjadrhWxlZkrZbO2p) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Panah](https://open.spotify.com/album/2xnDi9OOjyXYXMlQXT1VcG) | 3:33 |
-| 46 | [Mantap Cuy](https://open.spotify.com/track/1XGuEiJdC5qvne7Jaa8onI) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z), [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ), [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67) | [Mantap Cuy](https://open.spotify.com/album/07iSL8a4lwgFQvtHTv3A75) | 3:42 |
+| 46 | [Mantap Cuy](https://open.spotify.com/track/1XGuEiJdC5qvne7Jaa8onI) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z), [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ), [Atta Music](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67) | [Mantap Cuy](https://open.spotify.com/album/07iSL8a4lwgFQvtHTv3A75) | 3:42 |
 | 47 | [bagaimana jika aku tiada \(dunia akan terus berputar\)](https://open.spotify.com/track/08HOY8QUhN1xvVJfywDmAO) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [bagaimana jika aku tiada \(dunia akan terus berputar\)](https://open.spotify.com/album/4aYD28N6iyvIdjWH2f8tic) | 3:20 |
 | 48 | [NOVEMBER](https://open.spotify.com/track/5QAgbUZoUvLethzw2bTRGt) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [NOVEMBER](https://open.spotify.com/album/1CZh3LscwOdGeBTB1FqyWg) | 3:28 |
 | 49 | [3 HAJAT](https://open.spotify.com/track/1XmCZBnNXYYTgCiQUZA9XK) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [SAMPAH](https://open.spotify.com/album/5OBNO5de9kYK1MeMDmKlw1) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,639 likes - 1,098 songs - 2 day 17 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,645 likes - 1,098 songs - 2 day 17 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -458,7 +458,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 448 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
 | 449 | [En Stund \- Spotify Studio 100 Recording](https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [En Stund \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9) | 3:01 |
 | 450 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 |
-| 451 | [We Don't Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/4qFDuxFzESmX8upiq1s6RF) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [We Don´t Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95) | 3:06 |
+| 451 | [We Don't Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/4qFDuxFzESmX8upiq1s6RF) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [We Don´t Talk Anyway \- Spotify Studio It´s Hits Recording](https://open.spotify.com/album/5te5x2i8EakNlShvzy5O95) | 3:06 |
 | 452 | [IN THE END – Spotify Singles](https://open.spotify.com/track/43EOHZN9EnvsYuBIOj1T38) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [IN THE END – Spotify Singles](https://open.spotify.com/album/3ApfbSxxo8U8VGKQa0zVKi) | 3:33 |
 | 453 | [One Step Closer – Spotify Singles](https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [One Step Closer – Spotify Singles](https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym) | 2:26 |
 | 454 | [Sucker \- Recorded at Parr Street Studios](https://open.spotify.com/track/5MbnqAuNXbvF3VDxkwC5wv) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:38 |

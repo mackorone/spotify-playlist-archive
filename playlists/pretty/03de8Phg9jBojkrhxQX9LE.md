@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,453 likes - 154 songs - 8 hr 52 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,471 likes - 154 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 34 | [Here 2 Tell U](https://open.spotify.com/track/5IM5AKEKq2cndkLo5oDNWc) | [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Here 2 Tell U](https://open.spotify.com/album/6eqrGgCC75lMArLkvKCP7b) | 4:14 |
 | 35 | [Devil's Hands](https://open.spotify.com/track/6xUuNgT3S86Jn8fLHToLbT) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Devil's Hands](https://open.spotify.com/album/3MxpRC5rnwUPtX43pCTNaB) | 4:34 |
 | 36 | [The Noise \- Deafadil Remix](https://open.spotify.com/track/1ivTqsuinwpdH2NctfpDfY) | [Low Poly](https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc), [Deafadil](https://open.spotify.com/artist/71GVdoAUhjLgWFVV9x66ak) | [Candlelight, Coda Pendant](https://open.spotify.com/album/6Q1hrIN4q28hUsDZWu7ilI) | 3:12 |
-| 37 | [NRG](https://open.spotify.com/track/6rv9hh3qZCYpcvieKzfzPc) | [CORTR](https://open.spotify.com/artist/4ulQY68longR3v0rOBDOb5) | [Soul Food Compilation 04](https://open.spotify.com/album/466UqTLrW60NcMhACtWctM) | 3:22 |
+| 37 | [NRG](https://open.spotify.com/track/6rv9hh3qZCYpcvieKzfzPc) | [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV) | [Soul Food Compilation 04](https://open.spotify.com/album/466UqTLrW60NcMhACtWctM) | 3:22 |
 | 38 | [SUBMERGE](https://open.spotify.com/track/2i7xguWacvclZjtVjaAI3S) | [VANDA](https://open.spotify.com/artist/7ouNrGgk9tJR0pVolgQRWx) | [SUBMERGE](https://open.spotify.com/album/2Edy9dGArCzHZHxveA1Syc) | 2:57 |
 | 39 | [POWER](https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq), [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [POWER](https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm) | 2:24 |
 | 40 | [WILDSTYLE](https://open.spotify.com/track/3mWVqwLq86ix8pZ3NdUlKs) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE: ENIGMA MIXTAPE](https://open.spotify.com/album/1jeUAY7bJ2pmrWSzDKSvkk) | 4:27 |

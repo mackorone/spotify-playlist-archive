@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Adriatique, Bipolar Sunshine
 
-543 songs - 1 day 21 hr 31 min
+544 songs - 1 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [How Many Lies](https://open.spotify.com/track/5C23r6b92Kgbwew8Hm9tCw) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [How Many Lies](https://open.spotify.com/album/1UWa6HoAzIBc81AR2b665l) | 2:54 | 2022-06-24 | 2022-10-23 |
 | [Human Element](https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Human Element](https://open.spotify.com/album/77sbAXerqRqJe1GqJYHlAx) | 3:04 | 2022-09-30 | 2022-10-08 |
 | [Humanity](https://open.spotify.com/track/2JNSF3Ut0DmKksRks5yN3f) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Humanity](https://open.spotify.com/album/2VMsgi0xQf9eNhwzAzPPIA) | 2:55 | 2023-11-14 | 2024-01-23 |
-| [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD) | 4:09 | 2025-05-15 |  |
+| [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD) | 4:09 | 2025-05-15 | 2025-06-22 |
 | [Hypnotised](https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Hypnotised / I Can Feel](https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8) | 5:40 | 2022-04-15 | 2024-01-23 |
 | [I Adore You \- Argy & Mor Avrahami Remix](https://open.spotify.com/track/1id7bLyYAy6xa2YeHUJo3F) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Mor Avrahami](https://open.spotify.com/artist/3N1sHAuik77fDlXppfZ0oC), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(Argy & Mor Avrahami Remix\)](https://open.spotify.com/album/55sqzykLVw2AEUbOH7Qa8c) | 2:51 | 2024-10-24 |  |
 | [I Believe in Bass](https://open.spotify.com/track/0dUCqSb59SrJm7I2sl8HSY) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [I Believe in Bass](https://open.spotify.com/album/2lPcnA4yxpm0ZxWqtidR6T) | 7:10 | 2022-04-15 | 2023-01-14 |
@@ -518,6 +518,7 @@
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-06-17 |  |
 | [Vertigo \(Living Without You\) \- Dapayk Solo Remix](https://open.spotify.com/track/5Qa6eTk3GHcaPtnK7282q3) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Dapayk & Padberg](https://open.spotify.com/artist/0CSUa2tToUsyQZYhQPPhyl), [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Vertigo \(Living Without You\)](https://open.spotify.com/album/4qiYX3P9IyACwdeljvksCP) | 5:54 | 2022-04-15 | 2022-07-28 |
 | [VIBIN](https://open.spotify.com/track/3rbG1qQlzkijc5tfGvjNJC) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [VIBIN](https://open.spotify.com/album/38ERQWZ0KIhlE0VFYJ39Xs) | 3:46 | 2022-04-15 | 2023-08-08 |
+| [Victory](https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Victory](https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME) | 3:17 | 2025-06-17 |  |
 | [Visionaire](https://open.spotify.com/track/080Ta6y45xccSK0q9Hct9d) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Visionaire](https://open.spotify.com/album/0cdOTswaFmWaGLvWYsoEuA) | 6:49 | 2022-06-24 | 2022-07-22 |
 | [Vodka & Orange](https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Vodka & Orange EP](https://open.spotify.com/album/0DzRyBfMWMQZa1AtsF7PY0) | 7:19 | 2022-04-15 | 2023-12-10 |
 | [Voices](https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Voices](https://open.spotify.com/album/52gQRKXJIoJbQoA49NzSiL) | 3:03 | 2023-01-13 | 2023-02-04 |

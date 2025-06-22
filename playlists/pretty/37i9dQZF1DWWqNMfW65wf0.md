@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 
 > can't sleep? this might keep you company  💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,738 likes - 143 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,826 likes - 143 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

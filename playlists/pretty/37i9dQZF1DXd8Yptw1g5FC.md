@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Nilüfer ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,657 likes - 106 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,700 likes - 106 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 51 | [Bu Kalp Bi' Seni Sever](https://open.spotify.com/track/0A9bdWlRMNFWOAfbfN0Xlq) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Bu Kalp Bi' Seni Sever](https://open.spotify.com/album/76ZKt8hDWdylgN2LlaIhMj) | 2:42 |
 | 52 | [Yandım](https://open.spotify.com/track/4wNwfnXYSQTrWvnm47gQtC) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Yandım](https://open.spotify.com/album/1rrLMeVTV6ZB4bqGRa08Eb) | 2:34 |
 | 53 | [IĞĞĞ](https://open.spotify.com/track/5QeaVdmXDtTYXht1IzKQ2j) | [NAFTA](https://open.spotify.com/artist/3Pz4bsaurkO80gLzZakQwY), [Yuno Space](https://open.spotify.com/artist/7ql5adexHn6ZH7yJTce6h0) | [IĞĞĞ](https://open.spotify.com/album/0HhXoNFtWKwtI8h8NWxeRJ) | 2:18 |
-| 54 | [Pat Pat Pat](https://open.spotify.com/track/7pwdLrIVCgXo8sBX2jqPvu) | [Tuğrul Bektaş](https://open.spotify.com/artist/3QQWKCc48eBmxfw5wOrmgN) | [Pat Pat Pat](https://open.spotify.com/album/0YXL4YeuhyAOkCDZuvsNOH) | 1:41 |
+| 54 | [PAT PAT PAT](https://open.spotify.com/track/7pwdLrIVCgXo8sBX2jqPvu) | [Tuğrul Bektaş](https://open.spotify.com/artist/3QQWKCc48eBmxfw5wOrmgN) | [PAT PAT PAT](https://open.spotify.com/album/0YXL4YeuhyAOkCDZuvsNOH) | 1:41 |
 | 55 | [Yalnız Olmam](https://open.spotify.com/track/2m7vxlH5HjXN9VlMHQynXw) | [KANSU](https://open.spotify.com/artist/7AIRm3U8ME5GufkEis66r7) | [Yalnız Olmam](https://open.spotify.com/album/7tCmC88xHFCwIZRb7BVK6i) | 2:11 |
 | 56 | [Suçumuz Neydi](https://open.spotify.com/track/1l6efVS5kzmXBrw53IK6M8) | [DEMET ELLOO](https://open.spotify.com/artist/4KscXPzH57nCckPGRKLY6F) | [Suçumuz Neydi](https://open.spotify.com/album/2Lm46ewMzeJnvc8JX6sc4p) | 2:32 |
 | 57 | [HoNdA](https://open.spotify.com/track/6rBe7yq6EOmbrB9WEKfQ1N) | [MARSS](https://open.spotify.com/artist/6mdfMt6g3iUiOIe1uptNx8) | [HoNdA](https://open.spotify.com/album/1OwNry06mCSCIw5ouKCtLi) | 2:20 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 66 | [Cristal](https://open.spotify.com/track/2QnQcNU7OiA7dtw7a9H9ru) | [Parah Dice](https://open.spotify.com/artist/4QBEmbwSxLlo6RIGlFyn1o) | [Cristal](https://open.spotify.com/album/0aArEyvbta7BBWBbqcCA6m) | 2:15 |
 | 67 | [Südkoyn](https://open.spotify.com/track/6Q4HwOGWgGtOiOhksMZ5La) | [Yasak Helva](https://open.spotify.com/artist/5Ku0LlBlvSAliBxZvPUJWw) | [Atamba](https://open.spotify.com/album/2dssifX3beb3vZZ3IkdxqE) | 3:50 |
 | 68 | [Konserve Yaşam](https://open.spotify.com/track/4QsXKOX5Too9hb8M6GnDbw) | [Merve Deniz](https://open.spotify.com/artist/0bL7vu8m0DXhsh3NJFaoAK) | [Konserve Yaşam](https://open.spotify.com/album/4nq6RkKIFXEjz4I2rTXgaF) | 4:10 |
-| 69 | [HUSH](https://open.spotify.com/track/6alHYdU1btTzo2Prpn0rHD) | [Mokali](https://open.spotify.com/artist/7zQSDsbBTvsn4RxrsKMvcP), [REY](https://open.spotify.com/artist/7k2tNmlDZsJWQRNs9ueDbL), [Bratz.](https://open.spotify.com/artist/170Ov1bnGzjFmLblvEftxg) | [HUSH](https://open.spotify.com/album/5T7YcqXgKD0m2S6MoXHzpy) | 2:32 |
+| 69 | [HUSH](https://open.spotify.com/track/6alHYdU1btTzo2Prpn0rHD) | [Mokali](https://open.spotify.com/artist/7zQSDsbBTvsn4RxrsKMvcP), [ReyRedy](https://open.spotify.com/artist/05kxVKzuAuVnsck8ihIYOb), [Bratz.](https://open.spotify.com/artist/170Ov1bnGzjFmLblvEftxg) | [HUSH](https://open.spotify.com/album/5T7YcqXgKD0m2S6MoXHzpy) | 2:32 |
 | 70 | [Dimitrina](https://open.spotify.com/track/68wYCKwbr89IMk2O6NheDS) | [melfete](https://open.spotify.com/artist/5wa4kCDTj27ducL5EJlWvd) | [Dimitrina](https://open.spotify.com/album/0k4rQm6bhJ6TlYjQ4CyhKV) | 2:26 |
 | 71 | [ARI](https://open.spotify.com/track/1r2UiNyY0W6IX0lqsbFxTN) | [MERMI](https://open.spotify.com/artist/5l4WodS45CeKjb6ciK0X86) | [ARI](https://open.spotify.com/album/1O9fvqoSiBooh1NECnS8wa) | 2:29 |
 | 72 | [Kırağılar ve Çanlar](https://open.spotify.com/track/78ITzkDIlu5yYpoanwwWXf) | [Kanove](https://open.spotify.com/artist/0LaLVjhrqlNeIP0XZCtfd8) | [Kırağılar ve Çanlar](https://open.spotify.com/album/66bVuuPpNQHHWYbLprmm6A) | 2:00 |

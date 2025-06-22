@@ -1,13 +1,33 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 36143,
+  "num_followers": 36161,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFNTAAAAAAARoKucs/vOMIb0f1XNuwmH",
+  "snapshot_id": "aFSkgAAAAACCK3uiD8ANYCd7I0lo+4S3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Blues Is That (feat. Joe Walsh)",
+        "url": "https://open.spotify.com/album/5cdbGAB813CdwjVGPpcVzU"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "How Blues Is That (feat. Joe Walsh)",
+      "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
+    },
     {
       "added_at": null,
       "album": {
@@ -927,34 +947,6 @@
       "duration_ms": 384280,
       "name": "Miss Ida B",
       "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm A Woman",
-        "url": "https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 298984,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
     }
   ],
   "unique_name": "This Is Buddy Guy",

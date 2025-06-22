@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 425338,
       "name": "Ama Gear",
       "url": "https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL"
@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 198929,
       "name": "Amen",
       "url": "https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK"
@@ -13882,7 +13882,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 336600,
       "name": "Esandleni",
       "url": "https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs"
@@ -27598,7 +27598,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -31334,7 +31334,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 203210,
       "name": "Naledi",
       "url": "https://open.spotify.com/track/73XTer5tuPKNstPEW1eKwL"
@@ -31514,7 +31514,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 315116,
       "name": "Ndisize (feat. Ami Faku)",
       "url": "https://open.spotify.com/track/1hnB525vM5GrFr5AQIXQu8"
@@ -31960,7 +31960,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 383425,
       "name": "Ngathi Nguye",
       "url": "https://open.spotify.com/track/3bqCtq5RcPzULlyqkFGVJ7"
@@ -34387,6 +34387,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206711,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
+    },
+    {
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -35014,6 +35032,40 @@
       "duration_ms": 415714,
       "name": "Paris",
       "url": "https://open.spotify.com/track/7BH6nyhnWTSfMUwwrCYbJF"
+    },
+    {
+      "album": {
+        "name": "Partii (feat. Aymos, Jay Music, QUE DJ & SpacePose)",
+        "url": "https://open.spotify.com/album/6EUhiZ9tUjp80kpmfX6Oes"
+      },
+      "artists": [
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        },
+        {
+          "name": "QUE DJ",
+          "url": "https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka"
+        },
+        {
+          "name": "SpacePose",
+          "url": "https://open.spotify.com/artist/3FzuMCbtaezJJqkDWm6A6i"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305737,
+      "name": "Partii (feat. Aymos, Jay Music, QUE DJ & SpacePose)",
+      "url": "https://open.spotify.com/track/5DdkXF93YaZC6lB0TrgZQF"
     },
     {
       "album": {
@@ -37846,7 +37898,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 379672,
       "name": "Resa Fola",
       "url": "https://open.spotify.com/track/4cLlF0b1UDV2A3yAJD3QFa"
@@ -37882,7 +37934,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 215178,
       "name": "Residuals",
       "url": "https://open.spotify.com/track/6txAWGckgEGJIhLjhNdtE9"
@@ -48766,7 +48818,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 341128,
       "name": "Ungangilimazi (feat. Frank Mabeat)",
       "url": "https://open.spotify.com/track/5VI0jL3U1EVMKgh3e9KXZ6"
@@ -50430,7 +50482,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 180000,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/4WX7Q0mY4YL5Bz8sWVRuHH"
@@ -51118,7 +51170,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"

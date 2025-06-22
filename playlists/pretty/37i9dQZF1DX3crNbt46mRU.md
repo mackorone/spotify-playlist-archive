@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Hamza, Benson Boone, Lorde, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,505 likes - 115 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,511 likes - 115 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 11 | [Maledetta Rabbia](https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Maledetta Rabbia](https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy) | 2:35 |
 | 12 | [Regalo](https://open.spotify.com/track/3xdRXm4yzRPXfBRf6B2IUN) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Regalo](https://open.spotify.com/album/7nNa1v3m5iPVvrXpbUd0fZ) | 3:04 |
 | 13 | [MBIFE](https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO) | 3:49 |
-| 14 | [Deja\-Vu](https://open.spotify.com/track/0SqHkArDOl5lU4XmASnjBV) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Deja\-Vu](https://open.spotify.com/album/6I8KoXhvSNkEdkJTiSaxiM) | 3:14 |
+| 14 | [Deja\-Vu](https://open.spotify.com/track/0SqHkArDOl5lU4XmASnjBV) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Deja\-Vu](https://open.spotify.com/album/6I8KoXhvSNkEdkJTiSaxiM) | 3:11 |
 | 15 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
 | 16 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
 | 17 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 33 | [Dingue ! \(feat\. Jungeli\)](https://open.spotify.com/track/0caQCtKgoJV8rgAbdriaBF) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Dingue ! \(feat\. Jungeli\)](https://open.spotify.com/album/5yv0njpIZTEZl1XvKTDmg6) | 3:45 |
 | 34 | [Oh Hey](https://open.spotify.com/track/6NEYMbbOB1Y2WK5SUNBKGD) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Wär´s der letzte Tag](https://open.spotify.com/album/1zKFlfrhnnBScTKcr3sHiv) | 2:14 |
 | 35 | [Ice 2 Water](https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Ice 2 Water](https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd) | 3:16 |
-| 36 | [stop](https://open.spotify.com/track/2qVPNSHjJeJVq4GaFiRb0r) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [stop](https://open.spotify.com/album/6N1m34hNGak9xZiZBmKhLn) | 1:46 |
+| 36 | [stop](https://open.spotify.com/track/2qVPNSHjJeJVq4GaFiRb0r) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [stop](https://open.spotify.com/album/6N1m34hNGak9xZiZBmKhLn) | 1:46 |
 | 37 | [No Bum](https://open.spotify.com/track/0gyRaA8lg6fddjGeTdM33O) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA) | [No Bum](https://open.spotify.com/album/32jwqT2nPZBU6f2ddGOcre) | 3:04 |
 | 38 | [Tu Sais](https://open.spotify.com/track/1R1deVa4LzVxzgFIpvS2O3) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Tu Sais](https://open.spotify.com/album/6lqW7JxQYN90kAv278RRFv) | 2:38 |
 | 39 | [Universidad](https://open.spotify.com/track/2XbsqBrOdYjm0OLBEepID7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Universidad](https://open.spotify.com/album/3hqIUFKHSl6tnlKIY8tRF9) | 2:36 |

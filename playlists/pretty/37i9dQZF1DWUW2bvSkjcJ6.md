@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Benson Boone, Jazeek & Shindy, Lorde und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,075 likes - 93 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,110 likes - 93 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 2 | [PARFUM](https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [PARFUM](https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq) | 2:40 |
 | 3 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 |
 | 4 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
-| 5 | [Deja\-Vu](https://open.spotify.com/track/0SqHkArDOl5lU4XmASnjBV) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Deja\-Vu](https://open.spotify.com/album/6I8KoXhvSNkEdkJTiSaxiM) | 3:14 |
+| 5 | [Deja\-Vu](https://open.spotify.com/track/0SqHkArDOl5lU4XmASnjBV) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Deja\-Vu](https://open.spotify.com/album/6I8KoXhvSNkEdkJTiSaxiM) | 3:11 |
 | 6 | [Reggaeton](https://open.spotify.com/track/773uSnil7arBe7hEZJJf7p) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Reggaeton](https://open.spotify.com/album/2IvWfJoEYFRNNNOdMqX7QE) | 2:30 |
 | 7 | [A Little Bit Wild](https://open.spotify.com/track/7rZmBZLfhgh000Zcureczx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [A Little Bit Wild](https://open.spotify.com/album/2f0s9vLtRtfpLvvvbRPMze) | 3:16 |
 | 8 | [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 18 | [Junimond](https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Junimond](https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs) | 2:30 |
 | 19 | [How to Love](https://open.spotify.com/track/74u4UGskQXFkj50uAdYO1t) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [How to Love](https://open.spotify.com/album/6MmuBNWo9jgW9q67FOhajD) | 2:46 |
 | 20 | [La Familia](https://open.spotify.com/track/3TBFqIc6UwpWIL8i0qADMF) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [La Familia](https://open.spotify.com/album/1FiyTkOhZOZYF742GIhHbv) | 2:07 |
-| 21 | [stop](https://open.spotify.com/track/2qVPNSHjJeJVq4GaFiRb0r) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [stop](https://open.spotify.com/album/6N1m34hNGak9xZiZBmKhLn) | 1:46 |
+| 21 | [stop](https://open.spotify.com/track/2qVPNSHjJeJVq4GaFiRb0r) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [stop](https://open.spotify.com/album/6N1m34hNGak9xZiZBmKhLn) | 1:46 |
 | 22 | [Ice 2 Water](https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Ice 2 Water](https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd) | 3:16 |
 | 23 | [Regalo](https://open.spotify.com/track/3xdRXm4yzRPXfBRf6B2IUN) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Regalo](https://open.spotify.com/album/7nNa1v3m5iPVvrXpbUd0fZ) | 3:04 |
 | 24 | [Von Liebe](https://open.spotify.com/track/2bg5oex8ReIh7CpJeQFZPH) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Von Liebe](https://open.spotify.com/album/3A8iPVmjwBSrrGIHciao0m) | 2:25 |

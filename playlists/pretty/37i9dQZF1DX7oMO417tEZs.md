@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: DEBBY FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,895 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,899 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 16 | [Friends](https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Friends](https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU) | 3:50 |
 | 17 | [Invisible Lines](https://open.spotify.com/track/2JGSjbGzOWkakFufeflc1L) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Invisible Lines](https://open.spotify.com/album/0jvVzIlQQz7SpBzqN8IMlz) | 3:06 |
 | 18 | [Push the Dove](https://open.spotify.com/track/2bM6M8MYwNHY0NH8kk80dt) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 4:25 |
-| 19 | [AMERICAN FOOD](https://open.spotify.com/track/0qQkMMD6jByWT2ACkybK6C) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [AMERICAN FOOD](https://open.spotify.com/album/4v7JSI3wB8sO6IupN1RWrZ) | 3:11 |
+| 19 | [american food](https://open.spotify.com/track/0qQkMMD6jByWT2ACkybK6C) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [american food](https://open.spotify.com/album/4v7JSI3wB8sO6IupN1RWrZ) | 3:11 |
 | 20 | [LSD \- Lunice Remix](https://open.spotify.com/track/0XwSZI15u6ii1cx16zbvZv) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [LSD \(Remixes\)](https://open.spotify.com/album/7CGnFn7vMTqJ3kJXqzZgyM) | 3:15 |
 | 21 | [Cruel Love](https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [Cruel Love](https://open.spotify.com/album/5uPvGiPcHdEqwtFolFtru1) | 4:39 |
 | 22 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |

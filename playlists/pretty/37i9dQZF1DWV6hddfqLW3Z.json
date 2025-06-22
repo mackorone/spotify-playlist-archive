@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 806624,
+  "num_followers": 806636,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2025-06-20 03:00:22",
       "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Apenas Mais uma de Amor",
-      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
-    },
-    {
-      "added_at": "2025-06-20 03:00:22",
-      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
+    },
+    {
+      "added_at": "2025-06-20 03:00:22",
+      "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Apenas Mais uma de Amor",
+      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
     },
     {
       "added_at": "2025-06-20 03:00:22",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-06-20 03:00:22",
       "album": {
-        "name": "Quase Sem Querer",
-        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 216842,
-      "name": "Quase Sem Querer",
-      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
-    },
-    {
-      "added_at": "2025-06-20 03:00:22",
-      "album": {
         "name": "Mostrando Os Dentes",
         "url": "https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2025-06-20 03:00:22",
       "album": {
+        "name": "Quase Sem Querer",
+        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 216842,
+      "name": "Quase Sem Querer",
+      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+    },
+    {
+      "added_at": "2025-06-20 03:00:22",
+      "album": {
         "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
         "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
       },
@@ -911,6 +911,34 @@
       "duration_ms": 105253,
       "name": "Gostoso Demais - Ao Vivo",
       "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
+    },
+    {
+      "added_at": "2025-06-20 03:00:22",
+      "album": {
+        "name": "Antes Que a Terra Acabe",
+        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Kato Change",
+          "url": "https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5"
+        },
+        {
+          "name": "Lucas Cirillo",
+          "url": "https://open.spotify.com/artist/1Je57sKV5oe0mR7CQkPtLO"
+        }
+      ],
+      "duration_ms": 249475,
+      "name": "Mara",
+      "url": "https://open.spotify.com/track/2UwewmzpU7CwevaxcLAnEt"
     },
     {
       "added_at": "2025-06-20 03:00:22",
@@ -967,34 +995,6 @@
       "duration_ms": 148186,
       "name": "Deixei Meu Cora\u00e7\u00e3o Na Bahia",
       "url": "https://open.spotify.com/track/3UCQb7VmveT6wKndqJXdsQ"
-    },
-    {
-      "added_at": "2025-06-20 03:00:22",
-      "album": {
-        "name": "Antes Que a Terra Acabe",
-        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Kato Change",
-          "url": "https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5"
-        },
-        {
-          "name": "Lucas Cirillo",
-          "url": "https://open.spotify.com/artist/1Je57sKV5oe0mR7CQkPtLO"
-        }
-      ],
-      "duration_ms": 249475,
-      "name": "Mara",
-      "url": "https://open.spotify.com/track/2UwewmzpU7CwevaxcLAnEt"
     },
     {
       "added_at": "2025-06-20 03:00:22",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2025-06-20 03:00:22",
       "album": {
-        "name": "Mentiras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 178892,
-      "name": "Mentiras - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
-    },
-    {
-      "added_at": "2025-06-20 03:00:22",
-      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
+    },
+    {
+      "added_at": "2025-06-20 03:00:22",
+      "album": {
+        "name": "Mentiras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 178892,
+      "name": "Mentiras - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
     },
     {
       "added_at": "2025-06-20 03:00:22",

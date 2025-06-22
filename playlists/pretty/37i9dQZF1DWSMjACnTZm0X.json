@@ -1,6 +1,6 @@
 {
   "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne?si=b1IUNbQpQeCM5Sqg54MtPw\">Famous Pluto</a>, <a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=AUGdwiZTSfGyp5PAiZR1HQ\">Shallipopi</a>, <a href=\"https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd?si=-5lTEh5RT3qVrK6K0-K1Vg\">Zerrydl</a>",
-  "num_followers": 19670,
+  "num_followers": 19669,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,54 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
+        "name": "Afa Kennedy",
+        "url": "https://open.spotify.com/album/5q2Cvu4srKnEaGchcNW6hx"
+      },
+      "artists": [
+        {
+          "name": "Outsyd Eddie",
+          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
+        },
+        {
+          "name": "JNR ELDER",
+          "url": "https://open.spotify.com/artist/0UmWf1Lbo9fIxboAMdBxnx"
+        },
+        {
+          "name": "Outsyd DJ",
+          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Afa Kennedy",
+      "url": "https://open.spotify.com/track/1cPjMTC13YffZgEKpGjTTK"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
+        "name": "Zormizor (Asabone) (South African Remix)",
+        "url": "https://open.spotify.com/album/29MvW2xfhvYvKG9aBwSI3H"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        },
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        },
+        {
+          "name": "Robot Boii",
+          "url": "https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp"
+        }
+      ],
+      "duration_ms": 201064,
+      "name": "Zormizor (Asabone) (South African Remix)",
+      "url": "https://open.spotify.com/track/6I3HeIhguDSn9Q88hMjbRw"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
         "name": "STANCE MUSIC",
         "url": "https://open.spotify.com/album/3yjD0as4nWLdQmrSwjiupT"
       },
@@ -979,50 +1027,6 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Zormizor (Asabone) (South African Remix)",
-        "url": "https://open.spotify.com/album/29MvW2xfhvYvKG9aBwSI3H"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        },
-        {
-          "name": "TOSS",
-          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
-        },
-        {
-          "name": "Robot Boii",
-          "url": "https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp"
-        }
-      ],
-      "duration_ms": 201064,
-      "name": "Zormizor (Asabone) (South African Remix)",
-      "url": "https://open.spotify.com/track/6I3HeIhguDSn9Q88hMjbRw"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
-        "name": "Billions",
-        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 224003,
-      "name": "Billions",
-      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
         "name": "Management",
         "url": "https://open.spotify.com/album/7HRbB37rfjzopeNej7TPsg"
       },
@@ -1043,26 +1047,22 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Afa Kennedy",
-        "url": "https://open.spotify.com/album/5q2Cvu4srKnEaGchcNW6hx"
+        "name": "Billions",
+        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
       },
       "artists": [
         {
-          "name": "Outsyd Eddie",
-          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         },
         {
-          "name": "JNR ELDER",
-          "url": "https://open.spotify.com/artist/0UmWf1Lbo9fIxboAMdBxnx"
-        },
-        {
-          "name": "Outsyd DJ",
-          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Afa Kennedy",
-      "url": "https://open.spotify.com/track/1cPjMTC13YffZgEKpGjTTK"
+      "duration_ms": 224003,
+      "name": "Billions",
+      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -1203,6 +1203,54 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
+        "name": "Soul Buddies",
+        "url": "https://open.spotify.com/album/5DCa75Mt6oWjnCid9E4hzc"
+      },
+      "artists": [
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Zwayetoven",
+          "url": "https://open.spotify.com/artist/3iw79FjeZRNqeD8JkREr3j"
+        },
+        {
+          "name": "Kailey Botman",
+          "url": "https://open.spotify.com/artist/0wTwLyah7AviSd5juTDVey"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        }
+      ],
+      "duration_ms": 445714,
+      "name": "Izimangaliso (feat. Kailey Botman & Khanyisa)",
+      "url": "https://open.spotify.com/track/6b9VMCogXvoK6OfNUBQ8T9"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
+        "name": "HAUSAPIANO (Remix)",
+        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
+      },
+      "artists": [
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "HAUSAPIANO - Remix",
+      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
         "name": "BOOM SZN",
         "url": "https://open.spotify.com/album/4AbqCuadep10TXiKFADpkS"
       },
@@ -1231,54 +1279,6 @@
       "duration_ms": 378000,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/5BPMWG6VX6xgbWNwVvhTDc"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
-        "name": "HAUSAPIANO (Remix)",
-        "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
-      },
-      "artists": [
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 137844,
-      "name": "HAUSAPIANO - Remix",
-      "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
-        "name": "Soul Buddies",
-        "url": "https://open.spotify.com/album/5DCa75Mt6oWjnCid9E4hzc"
-      },
-      "artists": [
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        },
-        {
-          "name": "Zwayetoven",
-          "url": "https://open.spotify.com/artist/3iw79FjeZRNqeD8JkREr3j"
-        },
-        {
-          "name": "Kailey Botman",
-          "url": "https://open.spotify.com/artist/0wTwLyah7AviSd5juTDVey"
-        },
-        {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
-        }
-      ],
-      "duration_ms": 445714,
-      "name": "Izimangaliso (feat. Kailey Botman & Khanyisa)",
-      "url": "https://open.spotify.com/track/6b9VMCogXvoK6OfNUBQ8T9"
     },
     {
       "added_at": "2025-06-19 22:00:40",

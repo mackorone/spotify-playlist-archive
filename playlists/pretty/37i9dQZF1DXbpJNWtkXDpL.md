@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,233 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,236 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 64 | [lady on my body!](https://open.spotify.com/track/5GjE3C4WbFMyZyl2WR03nM) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd), [Doe Slurp](https://open.spotify.com/artist/5zpttOqBXJ20cTZumJvN74) | [lady on my body!](https://open.spotify.com/album/0cyE6BSaloDqdLRqlHKZj1) | 2:23 |
 | 65 | [Demasiado Tarde](https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Demasiado Tarde](https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z) | 2:45 |
 | 66 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
-| 67 | [Pensando En Ti](https://open.spotify.com/track/6NFWp3ScUkwyKyhPCM0QbF) | [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [L.A](https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2), [Mantti](https://open.spotify.com/artist/6N4EQm5JNWPqwoAzKpJEP1) | [Pensando En Ti](https://open.spotify.com/album/49XnRfC58abyNbxYDc1fO7) | 2:33 |
-| 68 | [Cocodrilos](https://open.spotify.com/track/4wlEzNBPccyqMESEq1IS7B) | [Oveja](https://open.spotify.com/artist/3XhLzBXSvRtyTI1scZa2mX) | [Cocodrilos](https://open.spotify.com/album/5K55oM6XujNajJ1NPlvOSA) | 2:46 |
+| 67 | [Cocodrilos](https://open.spotify.com/track/4wlEzNBPccyqMESEq1IS7B) | [Oveja](https://open.spotify.com/artist/3XhLzBXSvRtyTI1scZa2mX) | [Cocodrilos](https://open.spotify.com/album/5K55oM6XujNajJ1NPlvOSA) | 2:46 |
+| 68 | [Pensando En Ti](https://open.spotify.com/track/6NFWp3ScUkwyKyhPCM0QbF) | [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [L.A](https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2), [Mantti](https://open.spotify.com/artist/6N4EQm5JNWPqwoAzKpJEP1) | [Pensando En Ti](https://open.spotify.com/album/49XnRfC58abyNbxYDc1fO7) | 2:33 |
 | 69 | [No Quedan Más Intentos](https://open.spotify.com/track/7uIKxrKFYuwA6AbB8twqzB) | [Bateados](https://open.spotify.com/artist/2uAkVijNPFc9sP3aAnvv5a) | [No Quedan Más Intentos](https://open.spotify.com/album/5FHzCb9rvGokUXPwawcbCp) | 2:34 |
 | 70 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
 | 71 | [Remplazando tu piel por café](https://open.spotify.com/track/4WBsrsnM1v9w6vrpIZ2wjO) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Remplazando tu piel por café](https://open.spotify.com/album/37xlR4JxX2F7OdOi7vrPdp) | 2:17 |

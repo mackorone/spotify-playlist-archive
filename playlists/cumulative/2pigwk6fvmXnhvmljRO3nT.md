@@ -4,7 +4,7 @@
 
 > 
 
-7,386 songs - 19 day 4 hr 33 min
+7,387 songs - 19 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4933,6 +4933,7 @@
 | [Shelter](https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/album/2vVfxcvBQAGnEKM3zM0zxw) | 3:38 | 2025-03-12 |  |
 | [Shibuya \(feat\. Syd\)](https://open.spotify.com/track/6WVSnyKQGzs1fosa2I3FMQ) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 2:16 | 2025-01-03 |  |
 | [Shiki No Uta](https://open.spotify.com/track/7Eyj9NYnHec30O9ANkloFo) | [The Brotet](https://open.spotify.com/artist/1RMsv0fIkVQpdA93TvfLfk) | [Shiki No Uta](https://open.spotify.com/album/1Kh493hhUBAwkmM7w0EvpR) | 6:23 | 2025-04-30 |  |
+| [Shiki no Uta \(Single\)](https://open.spotify.com/track/2wf75LSz6tf7gNgdTd0XCG) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3) | [imagine \[Deluxe Edition\] \(2024 Remaster\)](https://open.spotify.com/album/3e3haeXNg0m2evCDlqWyog) | 5:02 | 2025-06-21 |  |
 | [SHINE](https://open.spotify.com/track/1OWGLpptXlHLw1yibeHiHa) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 2:30 | 2024-12-05 |  |
 | [Shine](https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Hints, Allegations & Things Left Unsaid](https://open.spotify.com/album/2B2KQTgQr3UhQf4n2VtoUG) | 5:06 | 2024-12-14 |  |
 | [Shine](https://open.spotify.com/track/64Dy3qJDCFug6CySbswdbO) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [The Light Pack](https://open.spotify.com/album/14EzA7MWoKYPjzjeT4gtj3) | 2:51 | 2025-01-03 |  |

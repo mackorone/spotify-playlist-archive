@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Peter Napo, LILCR ed Enny P in cover della playlist con il futuro del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,009 likes - 79 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,996 likes - 79 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 5 | [MOISE KEAN](https://open.spotify.com/track/1flpr4TyI6JvNCaUs8NPbh) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/2X5WUZnoOKOACVUGZw5hAT) | 3:15 |
 | 6 | [GTA 2](https://open.spotify.com/track/2mBwUewWnDzIjI4Fplc3ZJ) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [GTA 2](https://open.spotify.com/album/5EO4lKGdinEX8jMI2av0Ze) | 2:33 |
 | 7 | [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/track/7bFnwrQazGOL4vvabrlbEJ) | [Lenny Delicious](https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Kipsta \(feat\. Kuremino\)](https://open.spotify.com/album/0aNQyscRPmeCuZ21vzppOM) | 2:34 |
-| 8 | [PRESSURE](https://open.spotify.com/track/60sTtiIE4a59ouJ6qoPQQH) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe) | [Diario Di Bordo](https://open.spotify.com/album/5UgdCNE3pvBxDYeyE6gaHK) | 2:24 |
+| 8 | [PRESSURE](https://open.spotify.com/track/60sTtiIE4a59ouJ6qoPQQH) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe), [Odemosci](https://open.spotify.com/artist/6pybEiYhm8CekcE5DwGecR) | [Diario Di Bordo](https://open.spotify.com/album/5UgdCNE3pvBxDYeyE6gaHK) | 2:24 |
 | 9 | [BRONX Freestyle](https://open.spotify.com/track/31P3inEdRQT4FDTnDDevwf) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [BRONX Freestyle](https://open.spotify.com/album/0mdvNBNKFrz0f0Y8neCN1Z) | 2:09 |
 | 10 | [PARTO NATURALE](https://open.spotify.com/track/0irGvCfIUGgbSSPsPIk72f) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [PARTO NATURALE](https://open.spotify.com/album/7jogdPB6uAARTKOoygqpom) | 2:16 |
 | 11 | [Superficiali \(feat\. Néza, Boro\)](https://open.spotify.com/track/0nbKp2u7ZP2jJBD4X2xlHD) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Diventare 2](https://open.spotify.com/album/1mXCiFmVHjxCVItfp3eMgv) | 2:18 |

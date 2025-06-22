@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,563 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,568 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 34 | [Run](https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Mirror \(28 Look at Youth\)](https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t) | 4:59 |
 | 35 | [너가 날 떠나면 안되는 이유](https://open.spotify.com/track/4qeHcnmSFGSsj3zYfHeaS1) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [정표](https://open.spotify.com/artist/5d6VYMtjHfDpsZt2GqHRAy) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:36 |
 | 36 | [It’s Me \(feat\. Epik High & MYK\)](https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Epik High & MYK](https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 4:15 |
-| 37 | [CBMASS is my friend](https://open.spotify.com/track/6ZByy9slBDE3OSP0Kyih6g) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 3:45 |
-| 38 | [랩교 1막](https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:53 |
+| 37 | [랩교 1막](https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:53 |
+| 38 | [CBMASS is my friend](https://open.spotify.com/track/6ZByy9slBDE3OSP0Kyih6g) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 3:45 |
 | 39 | [거울 \- New Version](https://open.spotify.com/track/067JwMslZJtxRP7NdriuM5) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [조아](https://open.spotify.com/artist/0cUT9wKaL6ZUt8n5EQF3oI) | [Best of Best](https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7) | 4:16 |
 | 40 | [눈을 뜨면](https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:14 |
 | 41 | [You Don’t Know](https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:43 |
-| 42 | [compass](https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 4:20 |
-| 43 | [Overclass \- 2021 Remaster](https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:43 |
+| 42 | [Overclass \- 2021 Remaster](https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:43 |
+| 43 | [compass](https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 4:20 |
 | 44 | [선문답](https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Yangdonggeun a.k.a Madman](https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R) | 4:03 |
 | 45 | [Brutal Treatment \(Part\. 1\) \[feat\. Kebee & The Quiett\]](https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT), [Kebee & The Quiett](https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim) | [Fanatic](https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO) | 4:18 |
 | 46 | [Handalas](https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Handalas](https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8) | 3:36 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-535 songs - 1 day 2 hr 4 min
+536 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [BANG BANG POW!](https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [I.D.O.](https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe) | [BANG BANG POW!](https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO) | 2:13 | 2024-11-22 |  |
 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-16 | 2023-02-26 |
 | [Banga](https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw) | 2:21 | 2023-02-17 | 2024-04-19 |
-| [Bass Down Low](https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Bass Down Low](https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4) | 3:04 | 2024-07-12 |  |
+| [Bass Down Low](https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Bass Down Low](https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4) | 3:04 | 2024-07-12 | 2025-06-22 |
 | [Bass Face](https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Young Lyxx](https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk) | [Bass Face](https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw) | 3:03 | 2024-02-02 |  |
 | [Bass Face](https://open.spotify.com/track/4n93qqnMDU7n5LRj5O2wh7) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Bass Face](https://open.spotify.com/album/3w7pSN07nFeY7fqlVEBkFc) | 2:30 | 2021-10-29 | 2022-06-10 |
 | [Bass Goes Down](https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Bass Goes Down](https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0) | 2:24 | 2021-10-29 | 2022-03-21 |
@@ -186,6 +186,7 @@
 | [Frequency](https://open.spotify.com/track/0dOur2LdsICZZ4fnfi1amr) | [Eddie Craig](https://open.spotify.com/artist/69IpNz134fIjeb0E6E8M6X), [Sweet Female Attitude](https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX) | [Frequency](https://open.spotify.com/album/7yRadG2gblVBJvqV2hrOMO) | 2:19 | 2024-01-12 | 2024-04-19 |
 | [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 | 2023-01-29 |
 | [GASOLINA & COCAINA](https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [GASOLINA & COCAINA](https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az) | 3:12 | 2023-10-27 |  |
+| [Genesis \- Don Diablo Edit](https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b) | [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Hackatone](https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Genesis \(Don Diablo Edit\)](https://open.spotify.com/album/5t5GtF3wm4p8c7wLDMBVvz) | 3:16 | 2025-06-20 |  |
 | [Get Back \(feat\. TITUS\)](https://open.spotify.com/track/2636BVOgTRI8QQ3f1GsA41) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Get Back \(feat\. TITUS\)](https://open.spotify.com/album/4qfVFlToM12oeuzk9nvuqO) | 2:40 | 2021-11-26 | 2022-07-28 |
 | [Get It](https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx) | [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO), [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe) | [Get It](https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO) | 3:11 | 2022-10-28 | 2023-04-12 |
 | [Get Nasty](https://open.spotify.com/track/2qe7qkJQzSPs6RnwdIccjK) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Mark Bale](https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx) | [Get Nasty](https://open.spotify.com/album/2XC7HfAuYTdgEN3yjlrkDe) | 2:50 | 2024-03-22 | 2025-03-15 |

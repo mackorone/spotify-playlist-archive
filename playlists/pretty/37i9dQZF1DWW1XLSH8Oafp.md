@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Ammara
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,233 likes - 149 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,228 likes - 149 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
+| 1 | [Mirror](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
 | 2 | [Sync \- spicy margarita edit](https://open.spotify.com/track/5SgGnS1eDlVcuekae57xFx) | [Baobei](https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h) | [Sync / Cheap Talk \(Remix\)](https://open.spotify.com/album/1BafiqmVGCK2urNctJ4Upo) | 3:00 |
 | 3 | [Another Earth](https://open.spotify.com/track/655pvcnhpH1x7xpje56CPH) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [jasper](https://open.spotify.com/artist/4GlglNbE2y1QJC1I2Jjolj) | [Another Earth](https://open.spotify.com/album/1qLxtq42EudVN23IaXqYUf) | 2:35 |
 | 4 | [GOOD TIME GIRL](https://open.spotify.com/track/6A2CEALbfAIbxbYUy2ya6e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GOOD TIME GIRL](https://open.spotify.com/album/6jbsNqUzdc8GkVLPj7je1q) | 2:32 |

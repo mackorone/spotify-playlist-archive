@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nRYCE",
+  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nMUCH MORE",
   "name": "Indie Spirit",
   "tracks": [
     {
@@ -1833,6 +1833,28 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool"
+    },
+    {
+      "album": {
         "name": "City on a Hill",
         "url": "https://open.spotify.com/album/0c11KAw4YavlOCx4C4vysF"
       },
@@ -1934,7 +1956,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 122122,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/1MGmRawD6mgoAm3EYR0qBP"
@@ -2254,7 +2276,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 341200,
       "name": "Day For Singing - Live",
       "url": "https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ"
@@ -3912,7 +3934,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 213000,
       "name": "God Almighty!",
       "url": "https://open.spotify.com/track/5hjmLdKVzaJnIacY2TvtlC"
@@ -5668,7 +5690,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 218016,
       "name": "I Pray (Acoustic)",
       "url": "https://open.spotify.com/track/1H8T3lz2edaHhmoIxlPUSK"
@@ -6040,7 +6062,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 143665,
       "name": "Inheritance",
       "url": "https://open.spotify.com/track/40SSkggZtlQn9cH33U3r9X"
@@ -6076,7 +6098,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 122066,
       "name": "Isaiah",
       "url": "https://open.spotify.com/track/6iSnzwuE1yjEbrb4Eg8Z1K"
@@ -6374,6 +6396,24 @@
       "duration_ms": 154090,
       "name": "JOY",
       "url": "https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA"
+    },
+    {
+      "album": {
+        "name": "Jesus Take It All",
+        "url": "https://open.spotify.com/album/777PHkLzqqIc1R3V8yvsMI"
+      },
+      "artists": [
+        {
+          "name": "TIDES",
+          "url": "https://open.spotify.com/artist/0eZKxTEWH3Sb70LcJWeWQZ"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Jtia",
+      "url": "https://open.spotify.com/track/3AU5Ri4PbUVULEC9Un9xvg"
     },
     {
       "album": {
@@ -7188,6 +7228,28 @@
       "duration_ms": 255023,
       "name": "Loop Cycle",
       "url": "https://open.spotify.com/track/33J6C3cAdD60M10dMrVKQp"
+    },
+    {
+      "album": {
+        "name": "Loose Ends",
+        "url": "https://open.spotify.com/album/1B6nPwowC0e5ADxYvet6Tf"
+      },
+      "artists": [
+        {
+          "name": "eightFour",
+          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
+        },
+        {
+          "name": "Calah Mikal",
+          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177809,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/6Wcxe2Ha7NIyPY6wJAJWFQ"
     },
     {
       "album": {
@@ -9311,6 +9373,24 @@
     },
     {
       "album": {
+        "name": "Psalm 23",
+        "url": "https://open.spotify.com/album/0fQBUx0wtzmgbIGaEnZWfp"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101463,
+      "name": "Psalm 23",
+      "url": "https://open.spotify.com/track/7qpKDscKmNkX41e3hvdJYE"
+    },
+    {
+      "album": {
         "name": "Psalm 46",
         "url": "https://open.spotify.com/album/3rdau6eXUMXKgY4abLIe3Y"
       },
@@ -9366,6 +9446,24 @@
       "duration_ms": 169200,
       "name": "Purify",
       "url": "https://open.spotify.com/track/7o9aqVDtAAHynDIVuRi02b"
+    },
+    {
+      "album": {
+        "name": "quiet my mind",
+        "url": "https://open.spotify.com/album/20ksENXr3Lt4OEfioEdQ4c"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133355,
+      "name": "quiet my mind",
+      "url": "https://open.spotify.com/track/19AwCdPwv7Iyq29HnTTf5A"
     },
     {
       "album": {
@@ -9815,6 +9913,28 @@
     },
     {
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/6A3Ratwofe5HRsCXRjEEpG"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        },
+        {
+          "name": "Graham Bright",
+          "url": "https://open.spotify.com/artist/4ge64s0YP6PtLqOduvpYeg"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136111,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/0VTWQ9ha8yYmE4XsUmZoky"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/0T6vGfjrTDdpxV5WS1VvfZ"
       },
@@ -9848,6 +9968,24 @@
       "duration_ms": 261799,
       "name": "runaway",
       "url": "https://open.spotify.com/track/13KsUFZFmo1I7nI3G5yiJD"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2xlcmTyGjFpQeu6JZqRRGc"
+      },
+      "artists": [
+        {
+          "name": "Austin Koukal",
+          "url": "https://open.spotify.com/artist/47e5G9UHhlQ2O39lG7aBJy"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249713,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/5FZxmDOCN6CJZN2dlcnPJy"
     },
     {
       "album": {
@@ -11738,7 +11876,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 177587,
       "name": "The City Is Mine",
       "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
@@ -11930,6 +12068,24 @@
       "duration_ms": 130627,
       "name": "The Way You Act",
       "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
+    },
+    {
+      "album": {
+        "name": "The Whole Thing",
+        "url": "https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "The Whole Thing",
+      "url": "https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1"
     },
     {
       "album": {
@@ -12778,7 +12934,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 159357,
       "name": "Way back",
       "url": "https://open.spotify.com/track/4vmfvFr3BOExcNIqj5KYl9"
@@ -13161,6 +13317,28 @@
     },
     {
       "album": {
+        "name": "whisper and the wind (b+CL version)",
+        "url": "https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        },
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198522,
+      "name": "whisper and the wind - b+CL version",
+      "url": "https://open.spotify.com/track/4ccZ3mBc2gtSRW6xzrxEQb"
+    },
+    {
+      "album": {
         "name": "whisper and the wind (remix)",
         "url": "https://open.spotify.com/album/2BAEMzlCMwCVpvhmQJA1M0"
       },
@@ -13176,7 +13354,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 182070,
       "name": "whisper and the wind - remix",
       "url": "https://open.spotify.com/track/0OxaNIjjcqHyWQmqZ8Sn7K"
@@ -13488,7 +13666,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 160922,
       "name": "WON'T LET TOMORROW",
       "url": "https://open.spotify.com/track/0PFlqBbPx0Yszs1deYB5uH"
@@ -13510,6 +13688,24 @@
       "duration_ms": 249473,
       "name": "Won't Lose Sight",
       "url": "https://open.spotify.com/track/7cUm1LIJ15kAtm71BCRdsT"
+    },
+    {
+      "album": {
+        "name": "WONT FLY (JESUS AT MY DOOR)",
+        "url": "https://open.spotify.com/album/16SXq6XmbWgyKPPpgzYT6b"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205475,
+      "name": "WONT FLY (JESUS AT MY DOOR)",
+      "url": "https://open.spotify.com/track/4ijo9j5TRYehTkSUIeo9iU"
     },
     {
       "album": {

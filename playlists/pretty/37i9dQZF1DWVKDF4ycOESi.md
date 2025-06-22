@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Fabri Fibra, BLANCO, Giorgia, Tony Boy e Lazza, Frah Quintale, Central Cee e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,322 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,374 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 73 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 |
 | 74 | [AZZURRISSIMO](https://open.spotify.com/track/65A1gOtlKS8JMuSh2hANFX) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [AZZURRISSIMO](https://open.spotify.com/album/5oL73fuYtMxhO5wf8WmzBJ) | 3:13 |
 | 75 | [L'unica](https://open.spotify.com/track/3HFuWPn66BiUM4bMkYpw7j) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [L'unica](https://open.spotify.com/album/7GztH92sea7XhAY894aycj) | 3:04 |
-| 76 | [PRESSURE](https://open.spotify.com/track/60sTtiIE4a59ouJ6qoPQQH) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe) | [Diario Di Bordo](https://open.spotify.com/album/5UgdCNE3pvBxDYeyE6gaHK) | 2:24 |
+| 76 | [PRESSURE](https://open.spotify.com/track/60sTtiIE4a59ouJ6qoPQQH) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe), [Odemosci](https://open.spotify.com/artist/6pybEiYhm8CekcE5DwGecR) | [Diario Di Bordo](https://open.spotify.com/album/5UgdCNE3pvBxDYeyE6gaHK) | 2:24 |
 | 77 | [Call Center](https://open.spotify.com/track/4utFQkL5sEl4qOKHd3d7vk) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Brixia](https://open.spotify.com/album/3O7mh9VthEL9BkHocM6BhB) | 2:33 |
 | 78 | [Fuori Luogo](https://open.spotify.com/track/5RVPu5T8Scuncide6YU70p) | [Sunken](https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm) | [Fuori Luogo](https://open.spotify.com/album/5deQqQUSBFmiMe3Ts8zXFr) | 2:51 |
 | 79 | [Mr\. Cool](https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Mr\. Cool](https://open.spotify.com/album/0WWOtu5YJdA6KPxZj9Z6dn) | 3:49 |

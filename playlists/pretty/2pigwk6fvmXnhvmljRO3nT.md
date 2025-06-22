@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,337 songs - 19 day 1 hr 56 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,338 songs - 19 day 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7345,5 +7345,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7335 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
 | 7336 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 |
 | 7337 | [The Rubberband Man \- Edit](https://open.spotify.com/track/2mwgnW732vNb2bT0Ai7OYc) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Thom Bell Studio Recordings 1972\-1979](https://open.spotify.com/album/63Jb7h9SKvCs2wRHrAzY2p) | 3:33 |
+| 7338 | [Shiki no Uta \(Single\)](https://open.spotify.com/track/2wf75LSz6tf7gNgdTd0XCG) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3) | [imagine \[Deluxe Edition\] \(2024 Remaster\)](https://open.spotify.com/album/3e3haeXNg0m2evCDlqWyog) | 5:02 |
 
-Snapshot ID: `AAAHWeLJ4c72pfP1PBWPNRFKCUHlrLG4`
+Snapshot ID: `AAAHWuGvpX2CPoqx/5ZC6HbS49masrNW`

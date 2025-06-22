@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 990 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 991 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 37 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 38 | [Влака](https://open.spotify.com/track/1ZNaBYL73COjUVvINlKPlV) | [VANE$$A](https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Влака](https://open.spotify.com/album/5tkJwWguXljKUVRY4WpREY) | 2:54 |
 | 39 | [Бавария](https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG) | [VANE$$A](https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL), [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8) | [Бавария](https://open.spotify.com/album/2yFMOSTwQWSgBkR3wDA9YG) | 3:17 |
-| 40 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
+| 40 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
 | 41 | [Биткойн кючек](https://open.spotify.com/track/2TKc0nGOVXS2ECxQGAMsZd) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Monkey](https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw) | [Биткойн кючек](https://open.spotify.com/album/6Hgr9CtGysYNFrSu6OMlar) | 3:18 |
 | 42 | [От кеф да умирам](https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [От кеф да умирам](https://open.spotify.com/album/0SerSfJWOnQLMkEvf24aZd) | 4:00 |
 | 43 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [К'ъв съм як](https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [К'ъв съм як](https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl) | 3:15 |
 | 50 | [Нашата](https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK), [Costi](https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw) | [Нашата](https://open.spotify.com/album/4Wbs7T5xkCSeCv7tgugC4C) | 3:16 |
 
-Snapshot ID: `L+jQ+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+onKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

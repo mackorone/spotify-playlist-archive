@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 115087,
       "name": "2 \u043b\u0438\u043c\u0443\u0437\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/2t09oTrG0c2IvUC6J8Mvif"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 144043,
       "name": "Always",
       "url": "https://open.spotify.com/track/5mQck4v2xyAo1BIbBXE1kS"
@@ -2596,7 +2596,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 209226,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9"
@@ -4100,7 +4100,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 168014,
       "name": "NAME",
       "url": "https://open.spotify.com/track/0GGAbLItGQQ0ebKUISsAHW"
@@ -4460,7 +4460,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 140676,
       "name": "OCG",
       "url": "https://open.spotify.com/track/1wz0imYNaHwJbkDrA9GfKR"
@@ -4830,7 +4830,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -5152,6 +5152,24 @@
       "duration_ms": 142105,
       "name": "Shottah",
       "url": "https://open.spotify.com/track/1oXKN6ubrQkIWfcpbpuu85"
+    },
+    {
+      "album": {
+        "name": "SIMBA",
+        "url": "https://open.spotify.com/album/63C6OP3mhkJDPvltt3Ns5u"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164640,
+      "name": "SIMBA",
+      "url": "https://open.spotify.com/track/2o3VZZrrjA1OCJ6p0LsHGR"
     },
     {
       "album": {
@@ -7596,7 +7614,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 104026,
       "name": "\u0433\u043b\u0430\u0434\u0438\u0430\u0442\u043e\u0440/\u0440\u044b\u0446\u0430\u0440\u044c",
       "url": "https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk"
@@ -7748,6 +7766,24 @@
       "duration_ms": 114924,
       "name": "\u0414\u0410, \u042f \u0420\u0423\u0421\u0421\u041a\u0418\u0419",
       "url": "https://open.spotify.com/track/62XPynwhhzYp7A0Q51MmYT"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0430\u0432\u0430\u0439 \u0441\u043a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043c\u0441\u044f",
+        "url": "https://open.spotify.com/album/2VXLUpCtDR7Bisemn49cnk"
+      },
+      "artists": [
+        {
+          "name": "T-Fest",
+          "url": "https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207057,
+      "name": "\u0414\u0430\u0432\u0430\u0439 \u0441\u043a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043c\u0441\u044f",
+      "url": "https://open.spotify.com/track/3YpYzeTyWOYXilCaBTxBUT"
     },
     {
       "album": {
@@ -9020,7 +9056,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 182410,
       "name": "\u043c\u0430\u043b\u044c\u0447\u0438\u043a",
       "url": "https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww"
@@ -9230,6 +9266,46 @@
       "duration_ms": 128856,
       "name": "\u041c\u043e\u0441\u043a\u0432\u0430 (\u041d\u0435 \u041f\u0440\u043e)",
       "url": "https://open.spotify.com/track/2l3CFvTrxf1vMjBdg2bEBK"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430 - \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a",
+        "url": "https://open.spotify.com/album/1jR0KfwYZVuOXVPMgDntj0"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179752,
+      "name": "\u041c\u043e\u0441\u043a\u0432\u0430 - \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a",
+      "url": "https://open.spotify.com/track/3mvqKKyF6rgYd52bBSCTza"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430 - \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a",
+        "url": "https://open.spotify.com/album/08bZCr2fACd7Og2GxpepEM"
+      },
+      "artists": [
+        {
+          "name": "SODA LUV",
+          "url": "https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR"
+        },
+        {
+          "name": "Heronwater",
+          "url": "https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "\u041c\u043e\u0441\u043a\u0432\u0430 - \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a",
+      "url": "https://open.spotify.com/track/37V7zlROrZ9VQLd3zv2C85"
     },
     {
       "album": {
@@ -10083,6 +10159,28 @@
     },
     {
       "album": {
+        "name": "\u041f\u0438\u0441\u044c\u043c\u043e (Bonus track)",
+        "url": "https://open.spotify.com/album/0nu2K0CwUCPjLCNVStXDS5"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0440\u0438 \u0434\u043d\u044f \u0434\u043e\u0436\u0434\u044f",
+          "url": "https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ"
+        },
+        {
+          "name": "Detsl aka Le Truk",
+          "url": "https://open.spotify.com/artist/6VkoSRADVXgXd7oi25xTM2"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227692,
+      "name": "\u041f\u0438\u0441\u044c\u043c\u043e - Bonus track",
+      "url": "https://open.spotify.com/track/7jyiSQhFj01k9wONYxtm4G"
+    },
+    {
+      "album": {
         "name": "\u043f\u0438\u0442\u0435\u0440 \u043f\u0430\u0440\u043a\u0435\u0440",
         "url": "https://open.spotify.com/album/6IzDo3c0cTDFm3xJCqVmVx"
       },
@@ -10736,7 +10834,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 124800,
       "name": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442",
       "url": "https://open.spotify.com/track/0VGLb6IeeG5ZqonN5EavDu"
@@ -11494,7 +11592,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 110168,
       "name": "\u0421\u0442\u0440\u0430\u0448\u043d\u044b\u0439 \u0441\u043e\u043d 2",
       "url": "https://open.spotify.com/track/1GaJ8rxMQPzCfdZeMGH82G"
@@ -11566,7 +11664,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "\u0421\u044b\u043d \u043e\u0442 \u0447\u0451\u0440\u043d\u044b\u0445 \u043a\u043e\u0440\u043e\u043b\u0435\u0432",
       "url": "https://open.spotify.com/track/6nzvwdvEPOI6RMFjmTVe4X"

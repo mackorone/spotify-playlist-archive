@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Yung Maynie
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,627 likes - 85 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,633 likes - 85 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 16 | [Dirty Money Aroma](https://open.spotify.com/track/1nWPzkSN4LjJsAsUVTA65A) | [That Kid Kearve](https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR) | [Dirty Money Aroma](https://open.spotify.com/album/7k4J4JCrDQpk43voxV7rKH) | 3:11 |
 | 17 | [Patience](https://open.spotify.com/track/6zKdxQdO6d007Bec1dKzJT) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [Patience](https://open.spotify.com/album/52zsMztnVgjHYCpgwgSpVG) | 2:54 |
 | 18 | [Imperfections](https://open.spotify.com/track/1qYalXlo1QlcuK2D2QCkMV) | [Celly](https://open.spotify.com/artist/7zBBABGp1O95Fills6I7MN) | [Imperfections](https://open.spotify.com/album/16MMr4oW3i5YvYH4jxBk6O) | 2:36 |
-| 19 | [Jungle](https://open.spotify.com/track/0w9pjfhWhJeb1IqACR3W18) | [YungParadise](https://open.spotify.com/artist/0PeY0ewd1rKNKEUHPtXchw), [J.B.T](https://open.spotify.com/artist/5gKnvVFJ2mabvIcKNFiT8e) | [Jungle](https://open.spotify.com/album/3IXr2sqga3nKJ27aGu7MUf) | 2:42 |
+| 19 | [Jungle](https://open.spotify.com/track/0w9pjfhWhJeb1IqACR3W18) | [YungParadise](https://open.spotify.com/artist/0PeY0ewd1rKNKEUHPtXchw), [JBet](https://open.spotify.com/artist/732FNW7O04Us5yupCWQ1LH) | [Jungle](https://open.spotify.com/album/3IXr2sqga3nKJ27aGu7MUf) | 2:42 |
 | 20 | [Mary Mary](https://open.spotify.com/track/07PIlg9bAsVeqnmRnm4yL2) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [The Green Room](https://open.spotify.com/album/4NlRbn5ggSYZbLAjfHEF1T) | 3:48 |
 | 21 | [Family](https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Family](https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo) | 3:05 |
 | 22 | [Bring It](https://open.spotify.com/track/3IGcT1DMV7axlr4Wez3hRg) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Bring It](https://open.spotify.com/album/4e3KDT6hOHAkyCVjCpYBjp) | 3:20 |

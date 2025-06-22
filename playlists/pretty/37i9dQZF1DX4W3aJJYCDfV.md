@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from HAIM, Central Cee, Fred again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,617 likes - 122 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,713 likes - 122 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 85 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
 | 86 | [Give You Up \(with Bonobo\)](https://open.spotify.com/track/6nHyl6VrB9Kx2TTzmc3eEU) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Baby, Hold Me](https://open.spotify.com/album/4lmYvL9x70z2FbjQjUwo5B) | 3:31 |
 | 87 | [Tell Ur GF](https://open.spotify.com/track/55SPT3OQXSnXyG1baEUIRn) | [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [Tell Ur GF](https://open.spotify.com/album/0t9nizzMpLapVDbmm8gdgK) | 2:29 |
-| 88 | [Let's Talk \(feat\. Jme\)](https://open.spotify.com/track/2w2FGqT7etJegkoesEzKsT) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Rude Kid](https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Lets Talk \(feat\. Jme\)](https://open.spotify.com/album/4Y452bZyorfxW7bCIJJaIr) | 3:18 |
+| 88 | [Let's Talk \(feat\. Jme\)](https://open.spotify.com/track/2w2FGqT7etJegkoesEzKsT) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Lets Talk \(feat\. Jme\)](https://open.spotify.com/album/4Y452bZyorfxW7bCIJJaIr) | 3:18 |
 | 89 | [Deep Diving](https://open.spotify.com/track/2cymECfb8aQNVEb2u7QSon) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Deep Diving](https://open.spotify.com/album/26TkLAiSMFSbKFXiveepTM) | 3:22 |
 | 90 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
 | 91 | [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 96 | [Riddle of 25](https://open.spotify.com/track/1MnRgZOVPqzkXz0v1YycRh) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [Riddle of 25](https://open.spotify.com/album/53lTyG7QOOiKHVT4FLhoGY) | 4:02 |
 | 97 | [So Help Me God](https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Where Only The Truth Is Spoken](https://open.spotify.com/album/1qs6bVTbcreJUBB3yuspkq) | 4:18 |
 | 98 | [Funk Forever](https://open.spotify.com/track/2Rae0A8tJrGO9sWQ2p2213) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Funk Forever](https://open.spotify.com/album/6ckX6Ms2262m9qs4C3dk9e) | 3:49 |
-| 99 | [London Sound](https://open.spotify.com/track/1lUJ2pBNjM2I37CssmaTGS) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [London Sound / Shake a Leg](https://open.spotify.com/album/06LbL1bmJxU3gGUY8hwck5) | 3:13 |
+| 99 | [London Sound](https://open.spotify.com/track/1lUJ2pBNjM2I37CssmaTGS) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [London Sound / Shake a Leg](https://open.spotify.com/album/06LbL1bmJxU3gGUY8hwck5) | 3:13 |
 | 100 | [Gorilla Panic](https://open.spotify.com/track/5NRVsdXTLb1LpXegpEbINf) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [McCartney, It'll Be OK](https://open.spotify.com/album/72ngHbkK2oI4I3FRqN4cxR) | 6:16 |
 | 101 | [Used To](https://open.spotify.com/track/0SfX0rZzC8ymheif5BVAci) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Space Hurts](https://open.spotify.com/album/2Ui10TWQIabivg41HaHP41) | 2:46 |
 | 102 | [Disconnect](https://open.spotify.com/track/5BPR0DmDYDyTRKHGvahQ0Z) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [Disconnect EP](https://open.spotify.com/album/7F8EEPQvIEzO8Ndf1bd5BL) | 3:42 |

@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "\u96d9\u68f2\u52d5\u7269",
+        "url": "https://open.spotify.com/album/68S7f03MXTpRxZ1Gzw5RaG"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258839,
+      "name": "\u4e0b\u4e00\u6b21\u611b\u60c5\u4f86\u7684\u6642\u5019",
+      "url": "https://open.spotify.com/track/1mnELnVixuWR2nTyUJqaTx"
+    },
+    {
+      "album": {
         "name": "\u512a\u7684\u826f\u66f2\u5357\u641e\u5c0f\u5b69",
         "url": "https://open.spotify.com/album/4OUsiM08OuFmQf0dYS88kM"
       },
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 271106,
       "name": "\u600e\u6a23 ?",
       "url": "https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ"

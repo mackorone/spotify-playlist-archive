@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Stephen Stanley",
+  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Allie Paige",
   "name": "Christian Alt",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 313933,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 234925,
       "name": "Can't Stop My Heart From Singing",
       "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 270683,
       "name": "Carlo Rossi (Love in the Face of Great Danger)",
       "url": "https://open.spotify.com/track/1NP5ku0BU1gy385HXzwkIB"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 213760,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/12GtqVYqedEHYnyRZt91ZQ"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 183066,
       "name": "Coming Clean",
       "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Death To Your Ego",
+        "url": "https://open.spotify.com/album/3R0bNE6eCgpY6zuyS1Hb8X"
+      },
+      "artists": [
+        {
+          "name": "Coqu\u00ed",
+          "url": "https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206823,
+      "name": "Death To Your Ego",
+      "url": "https://open.spotify.com/track/6qRk6eRfKrCc9hO1kqWA5p"
+    },
+    {
+      "album": {
         "name": "Deeper Waters",
         "url": "https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB"
       },
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 173253,
       "name": "Died For You",
       "url": "https://open.spotify.com/track/0d7KJz83m6DcuymWGgfxtm"
@@ -1262,6 +1280,24 @@
       "duration_ms": 223636,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
+    },
+    {
+      "album": {
+        "name": "Faith Is Trust",
+        "url": "https://open.spotify.com/album/1CDDFkPhVXkyFIXbWqgob6"
+      },
+      "artists": [
+        {
+          "name": "Of the Land",
+          "url": "https://open.spotify.com/artist/6hg70ulbsTWaH4nl3i5S4H"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207063,
+      "name": "Faith Is Trust",
+      "url": "https://open.spotify.com/track/5yUelBunK1JSlewLcZaAKb"
     },
     {
       "album": {
@@ -1565,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "FOOTSTOOL",
+        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "FOOTSTOOL",
+      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
+    },
+    {
+      "album": {
         "name": "For God Is With Us",
         "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
       },
@@ -1580,6 +1634,24 @@
       "duration_ms": 196846,
       "name": "For God Is With Us",
       "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
+    },
+    {
+      "album": {
+        "name": "for the King",
+        "url": "https://open.spotify.com/album/50xuK2QllsOm6getcKw7ZZ"
+      },
+      "artists": [
+        {
+          "name": "Allison Eide",
+          "url": "https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198575,
+      "name": "for the King",
+      "url": "https://open.spotify.com/track/3EidEk9fgKEWnVagmKx2l9"
     },
     {
       "album": {
@@ -1620,7 +1692,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 227027,
       "name": "Found",
       "url": "https://open.spotify.com/track/3TdJeWZcITRaSf9Cr1k4Q4"
@@ -1674,7 +1746,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 226295,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
@@ -1768,6 +1840,42 @@
       "duration_ms": 212219,
       "name": "gonna have to trust you",
       "url": "https://open.spotify.com/track/25UFgBDiBqRl081ODwyRvF"
+    },
+    {
+      "album": {
+        "name": "An Honest Prayer",
+        "url": "https://open.spotify.com/album/5WbqnJxdEzdqiJPXIyF1AS"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112978,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/7k3Ql0jd2JTtXSsX2wqxtt"
+    },
+    {
+      "album": {
+        "name": "GOOD OLD DAYS",
+        "url": "https://open.spotify.com/album/0V9AJwlZxaBVd30fZRVAQC"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169742,
+      "name": "GOOD OLD DAYS",
+      "url": "https://open.spotify.com/track/7a8uaMUNHoyVLQnhMDQqSK"
     },
     {
       "album": {
@@ -2162,7 +2270,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 249495,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
@@ -2238,7 +2346,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 212343,
       "name": "How Much More",
       "url": "https://open.spotify.com/track/38XxzQ32b6xfJmilIxTNHC"
@@ -2296,7 +2404,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 269353,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
@@ -2376,6 +2484,24 @@
       "duration_ms": 177800,
       "name": "I Don't Wanna Live Like This",
       "url": "https://open.spotify.com/track/1srAm9ubDjmaNkACrQKtdN"
+    },
+    {
+      "album": {
+        "name": "I Know You Do",
+        "url": "https://open.spotify.com/album/2P3SgBw6TVSqMMhm1Sz2Ps"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182889,
+      "name": "I Know You Do",
+      "url": "https://open.spotify.com/track/41eKnepAoSK2RvoA86IX9o"
     },
     {
       "album": {
@@ -2651,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "WILD ONE",
+        "url": "https://open.spotify.com/album/20I48wrtfHJvHKtGuzcCOV"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218876,
+      "name": "It'll All Be Fine",
+      "url": "https://open.spotify.com/track/12itZNVMe38MXavJYUCQOF"
+    },
+    {
+      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/7lGdBj36Sswo10f0e5NPlw"
       },
@@ -2692,6 +2836,24 @@
       "duration_ms": 274093,
       "name": "Jesus Lifted High",
       "url": "https://open.spotify.com/track/6EovwbkijbFecHOBDPQkHP"
+    },
+    {
+      "album": {
+        "name": "Jesus Of Nazareth",
+        "url": "https://open.spotify.com/album/6amczbYxNNpLUtscIAa04R"
+      },
+      "artists": [
+        {
+          "name": "John Van Deusen",
+          "url": "https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300482,
+      "name": "Jesus Of Nazareth",
+      "url": "https://open.spotify.com/track/0rQVuSSIeXYZF19TfgjUbF"
     },
     {
       "album": {
@@ -2822,7 +2984,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 203526,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/5IxZ834XDOpE24vY8hEYVu"
@@ -3000,7 +3162,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 165814,
       "name": "LIAR LIAR",
       "url": "https://open.spotify.com/track/5Kucl7me7FqouDlCPZUmuF"
@@ -3119,6 +3281,28 @@
     },
     {
       "album": {
+        "name": "LOOK OUT BELOW",
+        "url": "https://open.spotify.com/album/3CLCHDry4kJk3h680uprB7"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LOOK OUT BELOW",
+      "url": "https://open.spotify.com/track/12vO4FJOt6O8wUtyPoKFkX"
+    },
+    {
+      "album": {
         "name": "Look Up",
         "url": "https://open.spotify.com/album/2sk9sxUsafPiMS27OoFGxX"
       },
@@ -3220,7 +3404,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 263252,
       "name": "May The Lamb",
       "url": "https://open.spotify.com/track/7H2I1AIj744jqp4Sh7U6ad"
@@ -3402,7 +3586,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 204000,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
@@ -3690,7 +3874,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
@@ -3744,7 +3928,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 202386,
       "name": "OLDER",
       "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
@@ -3834,7 +4018,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 339706,
       "name": "Peter",
       "url": "https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq"
@@ -3922,6 +4106,24 @@
       "duration_ms": 230064,
       "name": "Promise",
       "url": "https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte"
+    },
+    {
+      "album": {
+        "name": "promise",
+        "url": "https://open.spotify.com/album/1d8zkVUyZQ7pZCIo17VkxI"
+      },
+      "artists": [
+        {
+          "name": "sun haze",
+          "url": "https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "promise",
+      "url": "https://open.spotify.com/track/0qtY6wDzL1S56oWw7AiwiZ"
     },
     {
       "album": {
@@ -4429,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "Songs Before The Storm",
+        "url": "https://open.spotify.com/album/02JeZYBaJTb5AGqSpZaA8P"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Stay Low",
+      "url": "https://open.spotify.com/track/4aq0LrPJnTB5a0uCh1OTiE"
+    },
+    {
+      "album": {
         "name": "Sticks & Stones",
         "url": "https://open.spotify.com/album/4y0S2B7k2vOzWZTf17ue7s"
       },
@@ -4440,7 +4660,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 209974,
       "name": "Sticks & Stones",
       "url": "https://open.spotify.com/track/790RHaiScvZpHfns86HYGY"
@@ -4577,6 +4797,28 @@
     },
     {
       "album": {
+        "name": "Sweet Surrender",
+        "url": "https://open.spotify.com/album/3uF0r9W5Tdh2nGoLDzproA"
+      },
+      "artists": [
+        {
+          "name": "Austin Ludwig",
+          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
+        },
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196977,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/7riAHNpUNb2JKekZwYXeRy"
+    },
+    {
+      "album": {
         "name": "Talk About It",
         "url": "https://open.spotify.com/album/4GG51UZXjKhrRsXY9sX1WH"
       },
@@ -4588,7 +4830,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 190866,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/0KqQuPC2RgmsxQPhu1TCZp"
@@ -4779,6 +5021,24 @@
     },
     {
       "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/5alop0gQAbADANQLRa90uP"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182731,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt"
+    },
+    {
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/4SZJCyYeFDgozCFwILJUr1"
       },
@@ -4790,10 +5050,28 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 253846,
       "name": "Today",
       "url": "https://open.spotify.com/track/1uhOr4xSpCx8uaJkesYmqN"
+    },
+    {
+      "album": {
+        "name": "True Religion",
+        "url": "https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9"
     },
     {
       "album": {
@@ -5068,6 +5346,24 @@
       "duration_ms": 167478,
       "name": "Where Do You Go?",
       "url": "https://open.spotify.com/track/0KyzsOtAo72sPQOwhOXcPY"
+    },
+    {
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241083,
+      "name": "Where Oh Where",
+      "url": "https://open.spotify.com/track/03zlFzKWT8YwVNYMUL32Bq"
     },
     {
       "album": {

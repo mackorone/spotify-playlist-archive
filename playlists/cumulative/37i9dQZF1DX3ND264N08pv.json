@@ -359,6 +359,28 @@
     },
     {
       "album": {
+        "name": "Bad To The Bone!!",
+        "url": "https://open.spotify.com/album/0PJo9SFqLIgvwQ8dYMCloy"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Bad To The Bone!!",
+      "url": "https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf"
+    },
+    {
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
       },
@@ -6042,7 +6064,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 172706,
       "name": "The Apocalypse",
       "url": "https://open.spotify.com/track/3XrgmtMna0SCc8dRhhIGbm"

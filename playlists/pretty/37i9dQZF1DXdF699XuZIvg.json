@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 684868,
+  "num_followers": 684853,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
+        "name": "We Are The Royal",
+        "url": "https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN"
+      },
+      "artists": [
+        {
+          "name": "Royal Republic",
+          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Tommy-Gun",
+      "url": "https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
         "name": "Metallica",
         "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 299720,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
-        "name": "We Are The Royal",
-        "url": "https://open.spotify.com/album/5osUvIVodotBHXYbQhiYCN"
-      },
-      "artists": [
-        {
-          "name": "Royal Republic",
-          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Tommy-Gun",
-      "url": "https://open.spotify.com/track/2Wskx0dJg9TUl6glZohl4J"
     },
     {
       "added_at": "2024-11-12 16:18:09",

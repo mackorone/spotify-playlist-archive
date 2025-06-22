@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 284797,
+  "num_followers": 284839,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFNTAAAAAADMGyaA1qonR6UCZV8l1veD",
+  "snapshot_id": "aFSkgAAAAADEaScEn7lV+QuAAczMNd2w",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "Where Are We Runnin'?",
-      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Is Time For A Love Revolution",
         "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 309746,
       "name": "Dancin' Til Dawn",
       "url": "https://open.spotify.com/track/0J5xhsP8FsUCH5W6ZQLJJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Where Are We Runnin'?",
+      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let It Ride Remixes, Pt. 2",
+        "url": "https://open.spotify.com/album/0tAicLuKd7VSZ65MH9NLBg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 211166,
+      "name": "Let It Ride - HoneyLuv Remix",
+      "url": "https://open.spotify.com/track/3Ch5p4bpm3E62yWj3lQn1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 310937,
       "name": "Stuck in the Middle",
       "url": "https://open.spotify.com/track/3KOUSBKibyAQo5LbIJh8pS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let It Ride Remixes, Pt. 2",
-        "url": "https://open.spotify.com/album/0tAicLuKd7VSZ65MH9NLBg"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        },
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 211166,
-      "name": "Let It Ride - HoneyLuv Remix",
-      "url": "https://open.spotify.com/track/3Ch5p4bpm3E62yWj3lQn1Z"
     },
     {
       "added_at": null,

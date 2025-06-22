@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: OTIS x NØAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,110 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,085 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 25 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
 | 26 | [Onenightstand](https://open.spotify.com/track/35ZY20wmgGvPGyYpCMfmUc) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Onenightstand](https://open.spotify.com/album/3euFrwGtI4Gh1OWesc8slo) | 2:14 |
 | 27 | [Liebe](https://open.spotify.com/track/4v0t3smi3vu3l62ltzjr2E) | [dygc](https://open.spotify.com/artist/4VzpQOfr6tDGQfGPA110kb), [Alex Connor](https://open.spotify.com/artist/76Z88rc0ungPTkneNslp2J) | [Liebe](https://open.spotify.com/album/1ZFhSIHX4ArRkXJyvgilH7) | 2:16 |
-| 28 | [stop](https://open.spotify.com/track/2qVPNSHjJeJVq4GaFiRb0r) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [stop](https://open.spotify.com/album/6N1m34hNGak9xZiZBmKhLn) | 1:46 |
+| 28 | [stop](https://open.spotify.com/track/2qVPNSHjJeJVq4GaFiRb0r) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [stop](https://open.spotify.com/album/6N1m34hNGak9xZiZBmKhLn) | 1:46 |
 | 29 | [SPIEGLEIN SPIEGLEIN](https://open.spotify.com/track/1qHhr8GD9YOMpuMz37nal8) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [SPIEGLEIN SPIEGLEIN](https://open.spotify.com/album/2Zjc2eUja92RZG6f7dKfYT) | 3:09 |
 | 30 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 |
 | 31 | [ismiregal](https://open.spotify.com/track/6tnnQ7zSdahtnfOYc4X7fX) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26), [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [ismiregal](https://open.spotify.com/album/1Yaya7TW57MTnlhhOvDeqN) | 4:00 |

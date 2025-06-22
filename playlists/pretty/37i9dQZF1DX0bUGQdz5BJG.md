@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Elizabeth Nichols
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,648 likes - 240 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,709 likes - 240 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

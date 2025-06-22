@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Theresa Phondo & Praise Umali
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,491 likes - 105 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,538 likes - 105 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

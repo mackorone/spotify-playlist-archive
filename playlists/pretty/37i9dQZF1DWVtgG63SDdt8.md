@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Sondae
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,579 likes - 99 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,599 likes - 99 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 11 | [Walk With You / I Want Jesus](https://open.spotify.com/track/0x3zNRAvjVLz5srS8S8RtW) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Overflow Acoustic Experience](https://open.spotify.com/album/6KcKsrne4tED0PqezSbCHh) | 7:06 |
 | 12 | [1,000,000 Reasons Why](https://open.spotify.com/track/30ENhWMCzVNC0aaVW7gaHu) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [King Of Hearts \(Full Deck Deluxe\)](https://open.spotify.com/album/58h0AZmXG7bYxk7gBxIWu0) | 3:22 |
 | 13 | [Only Hope](https://open.spotify.com/track/06iQDDEFJ2HIiuYmmfEZo2) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Brennan Storer](https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8) | [Only Hope](https://open.spotify.com/album/173lNAuB8323MMGklHDy87) | 5:49 |
-| 14 | [After Your Heart \- Live](https://open.spotify.com/track/7jjqO8CGgr4cALKRWi8H7G) | [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [After Your Heart \(Live\)](https://open.spotify.com/album/4x4UmPRjnEjP1Jj4RRcIL9) | 9:24 |
+| 14 | [After Your Heart \[feat\. Tiffany Hudson\] \- Live](https://open.spotify.com/track/7jjqO8CGgr4cALKRWi8H7G) | [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [After Your Heart \(Live\)](https://open.spotify.com/album/4x4UmPRjnEjP1Jj4RRcIL9) | 9:24 |
 | 15 | [Tore the Veil](https://open.spotify.com/track/7mXkLBp1pjyF4okP2LAFAU) | [Newlands Worship](https://open.spotify.com/artist/7xOK1uz6b4wF2IntpG3Xbr), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Tore the Veil](https://open.spotify.com/album/1j7s6UY183yELCJxSi5A89) | 5:32 |
 | 16 | [Surrender](https://open.spotify.com/track/0UK3ceYwgdVJ6q44Klpl19) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Surrender](https://open.spotify.com/album/70ihCEpjc5Fg7Nfkso6iuf) | 4:00 |
 | 17 | [All Hail King Jesus/Gloria A Cristo \- En Vivo](https://open.spotify.com/track/1nZzKLbuxZhxcyefxBDnks) | [Emi Valenzuela](https://open.spotify.com/artist/0GJt3brt5lgw3o9bmeD0Ux), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [All Hail King Jesus/Gloria A Cristo \(En Vivo\)](https://open.spotify.com/album/7suttvAFC5CQCRWsrignVX) | 7:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: SAIKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,452 likes - 168 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,392 likes - 168 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 74 | [L'AMOUR](https://open.spotify.com/track/7kjueSsuNBXj15wgSW19eC) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [L'AMOUR](https://open.spotify.com/album/0wZq6NbOp7kLiliZGwlGVQ) | 2:09 |
 | 75 | [WINDOW SHOPPER](https://open.spotify.com/track/3Uk8c4i5iBSDXc5JFFF4Xk) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [ThePoing](https://open.spotify.com/artist/25GeI9XfoQKewss8IzQyyO) | [WINDOW SHOPPER](https://open.spotify.com/album/7J2g497Sd5oxbzgF7klj8M) | 2:26 |
 | 76 | [MESA QUE MÁS APLAUDA REMIX \- fem version](https://open.spotify.com/track/7qfgN4Jud33p5Th8iiGFiz) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Grupo Climax](https://open.spotify.com/artist/7rqhEhaHFMNST911KdISZR) | [MESA QUE MÁS APLAUDA REMIX \(fem version\)](https://open.spotify.com/album/2Okq7HPq3UVBdNETBRe6n9) | 5:30 |
-| 77 | [Conmigo Se Escapa](https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Conmigo Se Escapa](https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj) | 2:31 |
+| 77 | [Conmigo Se Escapa](https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Conmigo Se Escapa](https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj) | 2:31 |
 | 78 | [CONDENADO AL EXITO III](https://open.spotify.com/track/7CgvwWNVb11mXHNMZp5Aze) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [CONDENADO AL EXITO III](https://open.spotify.com/album/0Ra4r0oKuLUy6uhWK22qbd) | 3:08 |
 | 79 | [PISCIS](https://open.spotify.com/track/7G5ZqlUZeiEb6xDjlneRBh) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO), [K John](https://open.spotify.com/artist/1FmV3JhbfZN6l1jNarZyVz) | [PISCIS](https://open.spotify.com/album/3896YB2fx9zVRVGGI5kz8F) | 3:12 |
 | 80 | [FRESH](https://open.spotify.com/track/74kLIWUGkBj9fvGAevAhZS) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FRESH](https://open.spotify.com/album/7psjGlv0cm7uhTrk7hYIwb) | 2:21 |

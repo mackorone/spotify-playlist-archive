@@ -8891,6 +8891,24 @@
     },
     {
       "album": {
+        "name": "det e forseint",
+        "url": "https://open.spotify.com/album/55BkMznhU5jRXVWpjaefby"
+      },
+      "artists": [
+        {
+          "name": "Erika Norwich",
+          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170594,
+      "name": "det e forseint",
+      "url": "https://open.spotify.com/track/4064Yl3WIEFwTIrU9T1djx"
+    },
+    {
+      "album": {
         "name": "Det eneste jeg vil er \u00e5 ha det fett",
         "url": "https://open.spotify.com/album/1YmacfZvbEYksO8yIpvvDB"
       },
@@ -27035,7 +27053,7 @@
     },
     {
       "album": {
-        "name": "Misforst\u00e5tt",
+        "name": "Misforst\u00e5tt (Juggernaut)",
         "url": "https://open.spotify.com/album/1GV8E7CR5apRie0sWItWF1"
       },
       "artists": [
@@ -27048,7 +27066,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 138000,
-      "name": "Misforst\u00e5tt",
+      "name": "Misforst\u00e5tt (Juggernaut)",
       "url": "https://open.spotify.com/track/1Ia7Mk2djngsXBlVWf28NJ"
     },
     {
@@ -39728,7 +39746,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"

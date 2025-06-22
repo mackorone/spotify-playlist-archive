@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Ethereal - Splendour of Mewar",
+        "url": "https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sharma",
+          "url": "https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163385,
+      "name": "Peace & Harmony",
+      "url": "https://open.spotify.com/track/6bMM8EO0e92d4E0XshNrB7"
+    },
+    {
+      "album": {
         "name": "Immersion",
         "url": "https://open.spotify.com/album/5QjIPDt3eApiZ2elAmiJ8i"
       },
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 216118,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/4BIq5SZHEJ4DEbC859nZnS"

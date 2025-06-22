@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem KAROL G, Felipe Amorim, Simone Mendes e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,107,262 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107,321 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 14 | [Moleque Guerreiro](https://open.spotify.com/track/4WNCu2JNawSs0P480ik0rn) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Miguelzinho do Cavaco](https://open.spotify.com/artist/4ozzfyA4Nr0WoCTkGyphBX), [Ucha](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Moleque Guerreiro](https://open.spotify.com/album/2S0lzwLGcwJBhoHMBeBvkk) | 2:47 |
 | 15 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
 | 16 | [Bandidas Também Falam de Amor](https://open.spotify.com/track/0uMi0uuEPXERdlryQDYeCa) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Bandidas Também Falam de Amor](https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz) | 2:46 |
-| 17 | [MIGOS](https://open.spotify.com/track/3Rc0BGklC1QmiNIq7FeKay) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [ISSO É TRAP](https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC) | 2:28 |
+| 17 | [MIGOS](https://open.spotify.com/track/3Rc0BGklC1QmiNIq7FeKay) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ISSO É TRAP](https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC) | 2:28 |
 | 18 | [Nunca Mais](https://open.spotify.com/track/6zUe3ITyjNUPLj9mnAqU5O) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Nunca Mais](https://open.spotify.com/album/0UP3DBvw2u7cliT9Z5tq4z) | 3:12 |
 | 19 | [Coachella](https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU) | [Coachella](https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf) | 2:13 |
 | 20 | [NUNCA MAIS TU VAI SOFRER](https://open.spotify.com/track/0UlbTOB4GK0uqRxeptnSRs) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [NUNCA MAIS TU VAI SOFRER](https://open.spotify.com/album/3GtaWp5PNMLYsKZAFtzDCM) | 2:31 |

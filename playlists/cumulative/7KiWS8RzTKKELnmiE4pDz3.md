@@ -4,7 +4,7 @@
 
 > 
 
-1,055 songs - 2 day 4 hr 44 min
+1,056 songs - 2 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Fresh Prince Of Utah](https://open.spotify.com/track/6iMWB9q0CylvnKEFr5xsLh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:45 | 2023-05-31 | 2024-04-24 |
 | [From A Mile](https://open.spotify.com/track/1YcW7OZBYQNhZ1Ub5IJRuJ) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [From A Mile](https://open.spotify.com/album/5nUViFewcaK9s4ej3aRU3u) | 2:00 | 2022-12-21 | 2023-03-21 |
 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 | 2022-10-14 | 2023-05-09 |
+| [Frontin](https://open.spotify.com/track/6lSrytpCsHjltHLcHfsthi) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Jump Out](https://open.spotify.com/album/5Vb4K4Xf4KPFupmhHi5COM) | 2:16 | 2025-06-21 |  |
 | [FroZone](https://open.spotify.com/track/0LA62GKyphyLZVGkvrWi6g) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5TH AMNDMNT](https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n) | 2:46 | 2023-11-01 | 2025-05-21 |
 | [Fuck Everybody Else](https://open.spotify.com/track/4UqvWxvygh6aTOXfXvvQd8) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:07 | 2024-03-26 | 2024-04-24 |
 | [Fuck Good Business](https://open.spotify.com/track/1VD6wUwdgSGlvRap1ygUA5) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Fuck Good Business](https://open.spotify.com/album/6lCLumKtwy6FzgUMrPkwe4) | 2:23 | 2023-01-11 | 2023-04-12 |

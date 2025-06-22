@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: DJ Kawest 🇫🇷 & Aya Nakamura 🇲🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,596 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,636 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
 | 2 | [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 |
 | 3 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
-| 4 | [NSYNC \(feat\. BEAM\)](https://open.spotify.com/track/3mZvLHvCRhY1WNvMIQ8QS7) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [NSYNC \(feat\. BEAM\)](https://open.spotify.com/album/2kXJciD20GygzPzqAWAaeA) | 2:23 |
+| 4 | [NSYNC](https://open.spotify.com/track/3mZvLHvCRhY1WNvMIQ8QS7) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [NSYNC](https://open.spotify.com/album/2kXJciD20GygzPzqAWAaeA) | 2:23 |
 | 5 | [Murda Me Say](https://open.spotify.com/track/3p9zn37zm6WabheFaXR7QJ) | [Jerry Wonda](https://open.spotify.com/artist/5zC9byApWfm2ZPnD3yZrWZ), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Murda Me Say](https://open.spotify.com/album/4CNfJLsFUP90y4FQfkbRZB) | 2:47 |
 | 6 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/2JkIrQmiFXvqYQHhnPiY5D) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/1SRyHwbELEzf0SJTtF739b) | 2:30 |
 | 7 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 |

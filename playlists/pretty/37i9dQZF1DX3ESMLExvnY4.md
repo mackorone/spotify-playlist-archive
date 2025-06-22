@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ESMLExvnY4.md) - [plain]
 
 > The very best songs from a huge year for indie, according to Spotify editors\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,465 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,516 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

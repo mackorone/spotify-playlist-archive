@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 112820,
+  "num_followers": 112880,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Afrorumba Chilenera",
-        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Callejero",
-      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Grupo Hechizo",
         "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 226173,
       "name": "La Temporera",
       "url": "https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Afrorumba Chilenera",
+        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Callejero",
+      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1531,22 +1531,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
+        "name": "Cuerpo Repartido",
+        "url": "https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+          "name": "Banda Conmoci\u00f3n",
+          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
         }
       ],
-      "duration_ms": 175694,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
+      "duration_ms": 154226,
+      "name": "El Casorio",
+      "url": "https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1583,18 +1579,18 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Cuerpo Repartido",
-        "url": "https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5"
+        "name": "Cumbia para Rato",
+        "url": "https://open.spotify.com/album/7Jl4Q9zZJVhy3RKXtbR7ZZ"
       },
       "artists": [
         {
-          "name": "Banda Conmoci\u00f3n",
-          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
+          "name": "Mr. Gato",
+          "url": "https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO"
         }
       ],
-      "duration_ms": 154226,
-      "name": "El Casorio",
-      "url": "https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr"
+      "duration_ms": 205331,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/0TsxuYmpzm17gyWG0luJS1"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1615,18 +1611,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Cumbia para Rato",
-        "url": "https://open.spotify.com/album/7Jl4Q9zZJVhy3RKXtbR7ZZ"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
       },
       "artists": [
         {
-          "name": "Mr. Gato",
-          "url": "https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
         }
       ],
-      "duration_ms": 205331,
-      "name": "Soltero",
-      "url": "https://open.spotify.com/track/0TsxuYmpzm17gyWG0luJS1"
+      "duration_ms": 175694,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Grupo Hechizo",
         "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 206240,
       "name": "T\u00edmido",
       "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "90 Retro Style",
+        "url": "https://open.spotify.com/album/6V4MgFF7UgYIUEE5v2Gigr"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 185285,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0zbd8A9zWSd0JtBVyn44Ge"
     }
   ],
   "unique_name": "Cumbias para carretear",

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "All new Worship songs on the rise! Cover: 7 Hills Worship",
+  "description": "All new Worship songs on the rise! Cover: VOUS Worship",
   "name": "Worship Rising",
   "tracks": [
+    {
+      "album": {
+        "name": "King Of Hearts (Full Deck Deluxe)",
+        "url": "https://open.spotify.com/album/58h0AZmXG7bYxk7gBxIWu0"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202458,
+      "name": "1,000,000 Reasons Why",
+      "url": "https://open.spotify.com/track/30ENhWMCzVNC0aaVW7gaHu"
+    },
     {
       "album": {
         "name": "23",
@@ -64,6 +82,28 @@
       "duration_ms": 254817,
       "name": "A Hope and a Future",
       "url": "https://open.spotify.com/track/0pNWjwt7Ce6jPy1QADc1X6"
+    },
+    {
+      "album": {
+        "name": "a little more",
+        "url": "https://open.spotify.com/album/689jirKvZO6cPVkUFMtTne"
+      },
+      "artists": [
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        },
+        {
+          "name": "Jordan Moyes",
+          "url": "https://open.spotify.com/artist/0KTOdIegWCUMiVi9eHUKoV"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439634,
+      "name": "a little more",
+      "url": "https://open.spotify.com/track/0K8UDBqo8PewEuLA300dqo"
     },
     {
       "album": {
@@ -245,6 +285,36 @@
     },
     {
       "album": {
+        "name": "After Your Heart (Live)",
+        "url": "https://open.spotify.com/album/4x4UmPRjnEjP1Jj4RRcIL9"
+      },
+      "artists": [
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564856,
+      "name": "After Your Heart [feat. Tiffany Hudson] - Live",
+      "url": "https://open.spotify.com/track/7jjqO8CGgr4cALKRWi8H7G"
+    },
+    {
+      "album": {
         "name": "Alive & Breathing Vol. 2",
         "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
       },
@@ -286,6 +356,28 @@
       "duration_ms": 507541,
       "name": "All Fall Down - Live",
       "url": "https://open.spotify.com/track/39f4VewtRh9XSed54TMDV4"
+    },
+    {
+      "album": {
+        "name": "All Hail King Jesus/Gloria A Cristo (En Vivo)",
+        "url": "https://open.spotify.com/album/7suttvAFC5CQCRWsrignVX"
+      },
+      "artists": [
+        {
+          "name": "Emi Valenzuela",
+          "url": "https://open.spotify.com/artist/0GJt3brt5lgw3o9bmeD0Ux"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441724,
+      "name": "All Hail King Jesus/Gloria A Cristo - En Vivo",
+      "url": "https://open.spotify.com/track/1nZzKLbuxZhxcyefxBDnks"
     },
     {
       "album": {
@@ -698,7 +790,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 585070,
       "name": "Be Enthroned",
       "url": "https://open.spotify.com/track/5ts3OOaqhinmz867jVm95J"
@@ -738,6 +830,58 @@
       "duration_ms": 239374,
       "name": "Because Of Jesus - Live",
       "url": "https://open.spotify.com/track/6dGB1UDxt5EsIStvawhtwL"
+    },
+    {
+      "album": {
+        "name": "Before (Live)",
+        "url": "https://open.spotify.com/album/3aTiTIdJh71J1pZLEdx4SF"
+      },
+      "artists": [
+        {
+          "name": "Boundless",
+          "url": "https://open.spotify.com/artist/1LiHsfD2scznUKu0HH39Mo"
+        },
+        {
+          "name": "Nathan Jess",
+          "url": "https://open.spotify.com/artist/0toDS0sQ9LKILJv0E2IUR8"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250719,
+      "name": "Before - Live",
+      "url": "https://open.spotify.com/track/337N0QJcvAYC0iVTxXPYNX"
+    },
+    {
+      "album": {
+        "name": "Before We Put Our Trust In Human Kings / Exalted (Live)",
+        "url": "https://open.spotify.com/album/2Y9vpMNj8F3pHdIEMmfcRZ"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        },
+        {
+          "name": "Charrise Barron",
+          "url": "https://open.spotify.com/artist/6605K7pp3GA4NxliiVPret"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429176,
+      "name": "Before We Put Our Trust In Human Kings / Exalted - Live",
+      "url": "https://open.spotify.com/track/0cYZliKx3JNe2YIounQPvy"
     },
     {
       "album": {
@@ -1068,7 +1212,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 266958,
       "name": "Can't Help But Praise (Live)",
       "url": "https://open.spotify.com/track/0fjwtWPuU8mlvuizYQDH0p"
@@ -1666,7 +1810,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 231617,
       "name": "Crumbs From The Table - Band",
       "url": "https://open.spotify.com/track/6cOvRsJtKPiJL8kLw0gcAo"
@@ -1810,6 +1954,24 @@
       "duration_ms": 347362,
       "name": "Dwell",
       "url": "https://open.spotify.com/track/33G7XMjL3uKBJwlaamaUsa"
+    },
+    {
+      "album": {
+        "name": "Dying To Be Different",
+        "url": "https://open.spotify.com/album/3OyKUyNPeemPdyxAFhohgn"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267020,
+      "name": "Dying To Be Different",
+      "url": "https://open.spotify.com/track/05y8D3zdTeBjo8t0aVh4kx"
     },
     {
       "album": {
@@ -2072,7 +2234,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 293628,
       "name": "Faithful Still - Live",
       "url": "https://open.spotify.com/track/1lKTNUloG8NivfCVzqyMKG"
@@ -2094,7 +2256,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 529407,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4l5Le38sU3RwaJmlGWaBZ1"
@@ -2782,7 +2944,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 135952,
       "name": "Goodness of God (Acapella)",
       "url": "https://open.spotify.com/track/27cyzgTpykXYIfvVAfLSgZ"
@@ -2881,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "Unto The Lord: Hymns I Love",
+        "url": "https://open.spotify.com/album/1ROdE0hVGoQQlLpJUM4EVf"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312841,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/08aRx4p8fZGyNF7v3rzIvT"
+    },
+    {
+      "album": {
         "name": "Great Things",
         "url": "https://open.spotify.com/album/2VJsEhYrPJQFaKngGVCj3M"
       },
@@ -2940,7 +3120,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 191600,
       "name": "Hallelujah (If Not For Your Love)",
       "url": "https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR"
@@ -3684,7 +3864,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 450000,
       "name": "Holy Spirit - Live from Pretoria",
       "url": "https://open.spotify.com/track/3ikAtB81cBPRxZmMAwCHvz"
@@ -3888,7 +4068,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 211715,
       "name": "How Great",
       "url": "https://open.spotify.com/track/1mOIawagsw5exb4sdGMFvH"
@@ -4102,7 +4282,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 361650,
       "name": "I Fear No Evil - Live",
       "url": "https://open.spotify.com/track/4MOpbyLSlO3wAVE2fdgEni"
@@ -4320,7 +4500,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 242343,
       "name": "If it wasn't for Jesus - from the studio",
       "url": "https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f"
@@ -4672,7 +4852,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 332506,
       "name": "Just Jesus (Live)",
       "url": "https://open.spotify.com/track/5Efo5tCdMX80zvxuJSwiY2"
@@ -4748,6 +4928,28 @@
       "duration_ms": 220376,
       "name": "Keep Me",
       "url": "https://open.spotify.com/track/2jbsSzWlINM5HrtvPh4uAM"
+    },
+    {
+      "album": {
+        "name": "Keep On Finding More",
+        "url": "https://open.spotify.com/album/70xr2TBN1qmh2WTIVYasXc"
+      },
+      "artists": [
+        {
+          "name": "John Allan",
+          "url": "https://open.spotify.com/artist/3yXwrQypnq4HbhapeXftN9"
+        },
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250367,
+      "name": "Keep On Finding More",
+      "url": "https://open.spotify.com/track/7bE44xZ9FKlWYii1uAgv4U"
     },
     {
       "album": {
@@ -4840,7 +5042,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 395655,
       "name": "King On The Throne - Live",
       "url": "https://open.spotify.com/track/6VW30VHpjdnytcnHeR4hro"
@@ -5016,7 +5218,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 307866,
       "name": "Let Me Love You More",
       "url": "https://open.spotify.com/track/53nmVlRqzZTSNbdIpPurKs"
@@ -5338,6 +5540,24 @@
       "duration_ms": 468272,
       "name": "Love of God (Live)",
       "url": "https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn"
+    },
+    {
+      "album": {
+        "name": "Volume 1: Beyond The Stone",
+        "url": "https://open.spotify.com/album/4IZd0s2s1mgvv2lUWuX11y"
+      },
+      "artists": [
+        {
+          "name": "Warehouse Worship",
+          "url": "https://open.spotify.com/artist/1u5xwOxetEbwUOsx5YRwXB"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165622,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/4yf0BqLUAGpGI2B96uyDrs"
     },
     {
       "album": {
@@ -5677,6 +5897,24 @@
     },
     {
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351840,
+      "name": "More Fire",
+      "url": "https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn"
+    },
+    {
+      "album": {
         "name": "More Than Anything",
         "url": "https://open.spotify.com/album/2cr24YSOt7yzztwQWgHkof"
       },
@@ -5762,6 +6000,24 @@
       "duration_ms": 417953,
       "name": "My Empty Grave - Live",
       "url": "https://open.spotify.com/track/0M5lT5xfqNvj0t9UZqU4jP"
+    },
+    {
+      "album": {
+        "name": "My Grace",
+        "url": "https://open.spotify.com/album/0BQrC7HgSOKir18iLViWSo"
+      },
+      "artists": [
+        {
+          "name": "Fresh Start Worship",
+          "url": "https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254960,
+      "name": "My Grace",
+      "url": "https://open.spotify.com/track/0GoBClc0WV5CgN1RZfDXDc"
     },
     {
       "album": {
@@ -5926,7 +6182,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 287293,
       "name": "Never Will",
       "url": "https://open.spotify.com/track/3Kb61BErxaKRAlTqVYX8M4"
@@ -6874,6 +7130,28 @@
       "duration_ms": 409311,
       "name": "Open the Eyes of my Heart",
       "url": "https://open.spotify.com/track/4Y9hnkP1qfKkBfZL6dWtv7"
+    },
+    {
+      "album": {
+        "name": "Our Father (Radio Version)",
+        "url": "https://open.spotify.com/album/0C3vNgbAJSDPw7wrE667ZW"
+      },
+      "artists": [
+        {
+          "name": "Jaime Jamgochian",
+          "url": "https://open.spotify.com/artist/589zPmnl9UayJxgJAyEmpo"
+        },
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234677,
+      "name": "Our Father - Radio Version",
+      "url": "https://open.spotify.com/track/6d0mkxnouQlDKSoYs72V1M"
     },
     {
       "album": {
@@ -8176,7 +8454,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 258053,
       "name": "Slower I Go - Studio",
       "url": "https://open.spotify.com/track/0T45uaLw5tJb1ZpiNbX0MA"
@@ -8642,7 +8920,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 270994,
       "name": "Thank You For The Cross",
       "url": "https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf"
@@ -8704,6 +8982,28 @@
       "duration_ms": 309999,
       "name": "The Battle And The Blessing - Live",
       "url": "https://open.spotify.com/track/50ZSYLAnCqIi1fnUVMMagG"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Cross (Live)",
+        "url": "https://open.spotify.com/album/44AnurrnwQuZhFKioMoURi"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        },
+        {
+          "name": "Jake MacAdam",
+          "url": "https://open.spotify.com/artist/2P70gIAc2Zw5kXIMtbPoaH"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287248,
+      "name": "The Beautiful Cross - Live",
+      "url": "https://open.spotify.com/track/5UDb27b5CSfRfkehK2KIND"
     },
     {
       "album": {
@@ -8938,7 +9238,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 310000,
       "name": "THE IMAGE",
       "url": "https://open.spotify.com/track/3DzFfyOOZ1CWoV0sL2TKWW"
@@ -8978,7 +9278,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 242000,
       "name": "The King Is In The Room",
       "url": "https://open.spotify.com/track/6XhhHQf50vjnqwhHsNQSpk"
@@ -9449,6 +9749,28 @@
     },
     {
       "album": {
+        "name": "Tore the Veil",
+        "url": "https://open.spotify.com/album/1j7s6UY183yELCJxSi5A89"
+      },
+      "artists": [
+        {
+          "name": "Newlands Worship",
+          "url": "https://open.spotify.com/artist/7xOK1uz6b4wF2IntpG3Xbr"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332493,
+      "name": "Tore the Veil",
+      "url": "https://open.spotify.com/track/7mXkLBp1pjyF4okP2LAFAU"
+    },
+    {
+      "album": {
         "name": "Turn It To Praise",
         "url": "https://open.spotify.com/album/1GaWOIysmcn2IuwFQJ4qxM"
       },
@@ -9682,7 +10004,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 317071,
       "name": "Washed",
       "url": "https://open.spotify.com/track/6ZJEBlM2Q2jglDpPpSQU84"
@@ -10074,7 +10396,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 312385,
       "name": "Where Can I Go That My Maker Won't Be?",
       "url": "https://open.spotify.com/track/1HoY6xu7Yj9kV6cFIcMWSB"
@@ -10318,7 +10640,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 419706,
       "name": "With Everything",
       "url": "https://open.spotify.com/track/6P9Vd0YtlaQHbIsSRoVrk0"
@@ -10561,6 +10883,24 @@
     },
     {
       "album": {
+        "name": "You Can Have It All",
+        "url": "https://open.spotify.com/album/6y9mJuTZxPynhvnYTOugbk"
+      },
+      "artists": [
+        {
+          "name": "KingsPorch",
+          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263146,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/0Ss1g7cnRHqd0fNlXbi2Hw"
+    },
+    {
+      "album": {
         "name": "You Don't Have To Lose Heart",
         "url": "https://open.spotify.com/album/7vqpxG4YjgXFbAo6N44ztu"
       },
@@ -10624,6 +10964,32 @@
       "duration_ms": 245455,
       "name": "You Have Our Yes",
       "url": "https://open.spotify.com/track/5jMUhnHjsMzSYoxoPcKCG4"
+    },
+    {
+      "album": {
+        "name": "You Have Won",
+        "url": "https://open.spotify.com/album/1mVdwu4CBjiKBGG093mYOe"
+      },
+      "artists": [
+        {
+          "name": "catch the fire music",
+          "url": "https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x"
+        },
+        {
+          "name": "Catch the Fire Raleigh",
+          "url": "https://open.spotify.com/artist/3AJhHt4TTBrnHMkiTiAT2B"
+        },
+        {
+          "name": "Jane Tiller",
+          "url": "https://open.spotify.com/artist/5xy2TbZbnwbVOmgenAUhJ6"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306513,
+      "name": "You Have Won",
+      "url": "https://open.spotify.com/track/6UycP7yLPUrxB2TJXSZ41a"
     },
     {
       "album": {

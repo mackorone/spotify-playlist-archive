@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364,898 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,364,991 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 54 | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Ruby Rosary \(feat\. J\. Cole\)](https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB) | 4:16 |
 | 55 | [Life Is A Jungle](https://open.spotify.com/track/4cSCzhrX0PJRFMQii1Os64) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Life Is A Jungle](https://open.spotify.com/album/5DJD5CKsnWLTnWdCs8isPu) | 1:29 |
 | 56 | [Nothings Promised](https://open.spotify.com/track/6ciVJWoXXNZeZXfOFd3hhT) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 3:32 |
-| 57 | [Bad Brain](https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Bad Brain](https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna) | 2:43 |
+| 57 | [bad brain](https://open.spotify.com/track/4KOYcFVPQ6VKlTj3YCBzaq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Bad Brain](https://open.spotify.com/album/3EwnV07cVBW0KE4SyAVvna) | 2:43 |
 | 58 | [Out The Way](https://open.spotify.com/track/2amwhV87lPg4RXhS1eXkpz) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [601 DEGREEZ](https://open.spotify.com/album/7tVFEAcU6vIaSYrLWXYLbP) | 2:25 |
 | 59 | [Isolation](https://open.spotify.com/track/2VlcIDXT55i4ZsKcSfzWBf) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Isolation](https://open.spotify.com/album/5ahe3YQdH4WGfEFwZ5jQtF) | 2:53 |
 | 60 | [Blue Door](https://open.spotify.com/track/0b6ibNbNpuBwKiGGjnlcKz) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [Everywhere, But Always](https://open.spotify.com/album/4s27c65oOZlJDnJB9K5OR3) | 2:50 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 88 | [AIM\-HI](https://open.spotify.com/track/07y2XIcmbCMqA2al0tY2CM) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [AIM\-HI](https://open.spotify.com/album/4xZsE4HP6SPRHFW3mfeTHh) | 3:05 |
 | 89 | [Not In The Mood](https://open.spotify.com/track/6ocGxD3RWgYRvUyXcUu9LI) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'll Always Come Find You \(Deluxe\)](https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU) | 2:15 |
 | 90 | [Prairie View \(feat\. Monaleo\)](https://open.spotify.com/track/4SRO28Mlz2386J87Nzwq7D) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Prairie View](https://open.spotify.com/album/21G9fcYSqk08kpBiFK6SrK) | 2:16 |
-| 91 | [Pop n Olive](https://open.spotify.com/track/7mx3o5H3YzWolHZe0Wtbam) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Pop n Olive](https://open.spotify.com/album/5EUkK1J0maUUX0kc4Uhma0) | 3:00 |
+| 91 | [pop n olive](https://open.spotify.com/track/7mx3o5H3YzWolHZe0Wtbam) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Pop n Olive](https://open.spotify.com/album/5EUkK1J0maUUX0kc4Uhma0) | 3:00 |
 | 92 | [BACK HOME \- Bonus Track](https://open.spotify.com/track/0xHGxZSV1fqdxOK3sOnYc6) | [Donte Thomas](https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor), [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh), [MyFavoriteColor](https://open.spotify.com/artist/4ahfNEIO8NuGCgMhMzRv33) | [an APPLE a day \(Deluxe Edition\)](https://open.spotify.com/album/5fIw6VeBYItjz8HgZdWQPE) | 4:16 |
 | 93 | [Sorry Not Sorry](https://open.spotify.com/track/2MXjCVgXp2EQKONatP3wGK) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 3:36 |
 | 94 | [SUNDIVER](https://open.spotify.com/track/7qR9LwGky6vrWITZisfKEX) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [LINE LEADERS](https://open.spotify.com/album/01Rjv79w0OMjPQQRNsQvJk) | 2:40 |

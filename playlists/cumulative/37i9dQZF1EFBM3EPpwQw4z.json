@@ -1971,6 +1971,28 @@
     },
     {
       "album": {
+        "name": "Stir It Up",
+        "url": "https://open.spotify.com/album/4BgiNsZY4M5YuBkIJrGjY4"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Lucy Lucy",
+          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Stir It Up",
+      "url": "https://open.spotify.com/track/3pE7t5Ot2WtPgcNQKoZUHQ"
+    },
+    {
+      "album": {
         "name": "Dance Silly",
         "url": "https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js"
       },

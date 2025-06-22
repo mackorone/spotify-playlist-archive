@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Eladio Carrion plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,863 likes - 103 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,933 likes - 103 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 24 | [North Carolina](https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 2:56 |
 | 25 | [EL FAVORITO DE MAMI](https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SOTORIUS](https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT) | 2:35 |
 | 26 | [Hallandale](https://open.spotify.com/track/50CYOTrV18phIZPiCjYW9z) | [Jimmy Humilde](https://open.spotify.com/artist/09HxEXUwV0FkmZnBqrJfbM), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bazs Hitters](https://open.spotify.com/artist/5sCGyvWFKZ0t6ZTn52hARX) | [Hallandale](https://open.spotify.com/album/55MsZKMznIvPjbVGafPbq5) | 4:04 |
-| 27 | [Pensamos Rapido](https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Pensamos Rapido](https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0) | 2:15 |
+| 27 | [Pensamos Rapido](https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Pensamos Rapido](https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0) | 2:15 |
 | 28 | [BIG MOVES](https://open.spotify.com/track/5V4NkldBDetisUhRsHvBfK) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [BIG MOVES](https://open.spotify.com/album/0qTmGPizxtjKohNWEIADfx) | 2:36 |
 | 29 | [Jimmy Choo](https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [Bigla The Kid](https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j) | [Jimmy Choo](https://open.spotify.com/album/0TNVFdz48ctY6KjsdPXYgW) | 3:31 |
 | 30 | [BALENCIAGA](https://open.spotify.com/track/1ZdhuKXOw9e2YxFdAZaUhC) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [UNA SEMANA INCREÍBLE](https://open.spotify.com/album/6laF0vOsbRWsxFKDvfoAsM) | 2:52 |

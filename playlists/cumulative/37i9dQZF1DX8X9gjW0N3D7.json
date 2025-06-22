@@ -539,13 +539,29 @@
     },
     {
       "album": {
-        "name": "Couche tard (Main)",
+        "name": "Couche tard",
         "url": "https://open.spotify.com/album/7HoyKW7zPtK0VoDXsUwNLQ"
       },
       "artists": [
         {
           "name": "Classe Moyenne",
           "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
         }
       ],
       "date_added": "2025-06-20",

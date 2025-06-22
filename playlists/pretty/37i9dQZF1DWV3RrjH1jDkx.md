@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Randi Oline, Makosir & Bargee og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,943 likes - 115 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,953 likes - 115 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 95 | [Countryfestival](https://open.spotify.com/track/1LWFAtPQOa2YSglIgseDxg) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Countryfestival](https://open.spotify.com/album/7xiXiEw6ApsURjf2mAHMrw) | 4:01 |
 | 96 | [Oppland Camping](https://open.spotify.com/track/6tFNRjqlmCTKc5q91wqzLj) | [Dirty Oppland](https://open.spotify.com/artist/2lUctxZMboILg6DkU9woRk), [Sjakkmats](https://open.spotify.com/artist/2C6QNNZNolD4Z8zJIqaNlC), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6), [Jaa9](https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4), [MadsMedD](https://open.spotify.com/artist/1UXYGJUXrkU07qIIpfy6xp), [Pi](https://open.spotify.com/artist/3OhLHo3KCnsqTqJ1SI3jiB), [Akjeft](https://open.spotify.com/artist/6TnO7GicV9oOVRoQ6qUosP) | [94 inn i evigheten](https://open.spotify.com/album/2gnf2yWOXTaPJX0wtXaJEt) | 4:02 |
 | 97 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 |
-| 98 | [Skarrar](https://open.spotify.com/track/5mtlc3TtTNgvrizKQHOCsh) | [FOB](https://open.spotify.com/artist/4B0nCIhC0RKTgfZBllPtkg), [Vin og Rap](https://open.spotify.com/artist/7DgIk8uWwFj3iCXWfol30a) | [Skarrar](https://open.spotify.com/album/0TdMn02wLjQKaIZtW81YG1) | 2:48 |
+| 98 | [Skarrar](https://open.spotify.com/track/5mtlc3TtTNgvrizKQHOCsh) | [FOB](https://open.spotify.com/artist/32HF1H5GhgSjUCEv3mD1eP), [Vin og Rap](https://open.spotify.com/artist/7DgIk8uWwFj3iCXWfol30a) | [Skarrar](https://open.spotify.com/album/0TdMn02wLjQKaIZtW81YG1) | 2:48 |
 | 99 | [Wifey på nachspiel](https://open.spotify.com/track/3NsbvRNWM4G05ezRLyGBBm) | [BLKSTD](https://open.spotify.com/artist/1durHwES7iW4UCtqeGtfFY) | [Wifey på nachspiel](https://open.spotify.com/album/3IIBxQQGAlu9WZ2zHG2GYZ) | 2:39 |
 | 100 | [One Little Song](https://open.spotify.com/track/4cB38cbLrZHWEf4gULfCtI) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [One Little Song](https://open.spotify.com/album/79i2sMlxYtinuKYTXdt9NB) | 3:14 |
 | 101 | [Huset ved havet](https://open.spotify.com/track/1smC4sOFigblsmajlBNCqc) | [Synne Sol](https://open.spotify.com/artist/5ihcBbExhBs0VYTfrq6CUE) | [Huset ved havet](https://open.spotify.com/album/1xelx1PoBd1jAVxoEJXIx4) | 2:26 |

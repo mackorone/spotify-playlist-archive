@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Cardi B\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,106 likes - 109 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,112 likes - 109 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

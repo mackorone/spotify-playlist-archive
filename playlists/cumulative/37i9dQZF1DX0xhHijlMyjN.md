@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-251 songs - 15 hr 59 min
+252 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 | 2022-08-11 |  |
 | [Moving](https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Puerto Presente](https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr) | 3:19 | 2023-06-09 |  |
 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 | 2023-06-09 |  |
-| [Mujer Latina](https://open.spotify.com/track/4jNQhO0UX7rwoJ1dqDrH7x) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Greatest Hits](https://open.spotify.com/album/54NZEGiJSOn0xbXNx2vacd) | 3:37 | 2024-06-18 |  |
+| [Mujer Latina](https://open.spotify.com/track/4jNQhO0UX7rwoJ1dqDrH7x) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Greatest Hits](https://open.spotify.com/album/54NZEGiJSOn0xbXNx2vacd) | 3:37 | 2024-06-18 | 2025-06-22 |
 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:45 | 2023-06-09 |  |
 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 | 2023-06-09 | 2024-04-19 |
 | [No me llames iluso](https://open.spotify.com/track/1xobZzJ5b478hISL3oKskp) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Ni jaulas ni peceras](https://open.spotify.com/album/4YQKh4b18oo805c9LP89dw) | 3:11 | 2024-06-18 |  |
@@ -186,6 +186,7 @@
 | [Pa´ mi guerrera \- Reprise](https://open.spotify.com/track/7JO1bBzuVQ14rIR6T5D0UK) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Huecco](https://open.spotify.com/album/0ZvyDGG1IMq6FyxJrnv2Ub) | 4:20 | 2024-06-18 |  |
 | [Por la boca vive el pez](https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 4:29 | 2023-06-09 |  |
 | [Que La Detengan](https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl) | [David Civera](https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF) | [En Cuerpo Y Alma](https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC) | 3:32 | 2023-06-09 |  |
+| [Que La Detengan \- Remix](https://open.spotify.com/track/7ue44k70ZcYBw7a6tZKu9K) | [David Civera](https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF) | [En Cuerpo Y Alma](https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC) | 4:27 | 2024-06-18 |  |
 | [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 | 2022-08-11 |  |
 | [Rayos de Sol](https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw) | [José de Rico](https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m), [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1) | [Rayos de Sol](https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA) | 3:51 | 2023-06-09 |  |
 | [Ritmo de la Noche](https://open.spotify.com/track/1RnmgzFAq0AACVdBuCZoxJ) | [Mystic](https://open.spotify.com/artist/4OFsrFtgFpt4BUssccldkc) | [Entre los 80 y los 90, Vol.2](https://open.spotify.com/album/44EBCc8u7uK1HFpY35cmz3) | 3:50 | 2022-08-11 | 2023-06-10 |

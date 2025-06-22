@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: S.G\. Goodman
 
-3,137 songs - 7 day 21 hr 20 min
+3,138 songs - 7 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Ballad of an Unknown](https://open.spotify.com/track/6rBkSRxinFvMtOYYbKegma) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 3:19 | 2022-02-11 | 2022-06-25 |
 | [Barn Nursery](https://open.spotify.com/track/7c8QmPRLkfOsrc9CnXwA4B) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Barn Nursery](https://open.spotify.com/album/0ovB6Q8rXDeaPNz6j5jhkG) | 2:39 | 2025-01-03 | 2025-03-08 |
 | [Barrio Hustle](https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Barrio Hustle](https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV) | 3:14 | 2024-05-17 | 2024-07-19 |
-| [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 | 2025-05-02 |  |
+| [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 | 2025-05-02 | 2025-06-22 |
 | [Basic Channels](https://open.spotify.com/track/4gnJLzWvpsVPHybDPoWW9H) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Basic Channels](https://open.spotify.com/album/6zrGwKqL2sJ6bkni0tY9Sc) | 1:54 | 2023-05-12 | 2023-07-22 |
 | [Battery](https://open.spotify.com/track/1PFGol3dDxR5hIlNOc6eZw) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9), [Elliot Cain](https://open.spotify.com/artist/4NzATPtq1rQJO51QceBd1J) | [Battery](https://open.spotify.com/album/4Rt54DtlsmJjEFUyqcN5tC) | 2:21 | 2023-08-11 | 2023-10-07 |
 | [Be](https://open.spotify.com/track/0puGl6gLKNvG7Ze4X7Hliq) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Be](https://open.spotify.com/album/7HUojHE25L3aSp0TaqqBXS) | 1:51 | 2023-12-15 | 2024-02-24 |
@@ -2478,6 +2478,7 @@
 | [Strong Swimmer](https://open.spotify.com/track/1B7pQD64u7zqQzhz6iHf1b) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Spectral Lines](https://open.spotify.com/album/22nZ1NT4IWj6boYaz8xe2q) | 3:14 | 2023-04-28 | 2023-07-08 |
 | [Strong Swimmer \- Duet](https://open.spotify.com/track/7pb95dEU3dbzOVPsutghXg) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Strong Swimmer \(Duet\)](https://open.spotify.com/album/3keiK30tDnYStiY0BPQEAB) | 3:07 | 2023-06-23 | 2023-09-02 |
 | [Stuck In A Room](https://open.spotify.com/track/7qK6GYLSuy28Vz0wPZzVCB) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Stuck In A Room](https://open.spotify.com/album/1Hus5kgGEybS8diRKiKWVb) | 2:11 | 2023-06-09 | 2023-08-19 |
+| [Stuck in My Head Again](https://open.spotify.com/track/6ZLWAKmmlllkuzDPE1Stry) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Stuck in My Head Again](https://open.spotify.com/album/4LbUMeeubUPd6p2qMzD7MO) | 2:11 | 2025-06-21 |  |
 | [Stupid](https://open.spotify.com/track/1iYfBjjf08Wdw6KPfWf7Ox) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Stupid](https://open.spotify.com/album/5FQlINYP57lg38HzROQrlO) | 3:30 | 2024-04-26 | 2024-06-22 |
 | [Suburban Pines](https://open.spotify.com/track/3Bz6wUPhyOB95dUZwHgnAD) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Suburban Pines](https://open.spotify.com/album/08Pt4zHkYLbvqEiypUOJBQ) | 6:53 | 2022-12-09 | 2023-03-25 |
 | [Suburban Siddhartha](https://open.spotify.com/track/7rGtG1dGgT7A1KgTrgRrQj) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Suburban Siddhartha](https://open.spotify.com/album/6kcB3CI4RrmOTUX5lovtb9) | 3:49 | 2025-02-28 | 2025-04-19 |

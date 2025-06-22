@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,096 likes - 65 songs - 3 hr 3 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,095 likes - 65 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 2 | [I Took A Pill In Ibiza](https://open.spotify.com/track/3GEFf9J7qcTh5yJADx5GZZ) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye) | [I Took A Pill in Ibiza \(The Forest Remix Pack\)](https://open.spotify.com/album/4tK6Tn979EZTnO5u6yuE9K) | 3:02 |
 | 3 | [I Took A Pill In Ibiza](https://open.spotify.com/track/0rvkp8K9tBp8LY427LzrZb) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [I Took A Pill in Ibiza \(The Forest Remix Pack\)](https://open.spotify.com/album/4tK6Tn979EZTnO5u6yuE9K) | 2:10 |
 | 4 | [I Took A Pill In Ibiza](https://open.spotify.com/track/3lxZcsc5oYIXKEXJuUpOhF) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [I Took A Pill in Ibiza \(The Forest Remix Pack\)](https://open.spotify.com/album/4tK6Tn979EZTnO5u6yuE9K) | 2:29 |
-| 5 | [I Took A Pill In Ibiza](https://open.spotify.com/track/1WiFS6E4n5zbIygBzKRJ5G) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Prosecute](https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T) | [I Took A Pill in Ibiza \(The Forest Remix Pack\)](https://open.spotify.com/album/4tK6Tn979EZTnO5u6yuE9K) | 2:43 |
+| 5 | [I Took A Pill In Ibiza](https://open.spotify.com/track/1WiFS6E4n5zbIygBzKRJ5G) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Prosecute](https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T) | [I Took A Pill in Ibiza \(The Forest Remix Pack\)](https://open.spotify.com/album/4tK6Tn979EZTnO5u6yuE9K) | 3:18 |
 | 6 | [My Mind](https://open.spotify.com/track/7Ig92L0YowMlEAGNdUCdKU) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [My Mind](https://open.spotify.com/album/42qdfeCoXzhXz0PMS9BG4R) | 2:53 |
 | 7 | [That Sound](https://open.spotify.com/track/0MP2he665Jggrzp9SZKgnF) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [That Sound](https://open.spotify.com/album/6LBbCQJsfH9SHKglDxhmnB) | 2:12 |
 | 8 | [Into The Light \(feat\. Miggy Dela Rosa\) \- MOTi Remix](https://open.spotify.com/track/2ywFehEY98g6Vg0xd7RLzr) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Into The Light \(feat\. Miggy Dela Rosa\) \[MOTi Remix\]](https://open.spotify.com/album/6jKfa1lCTdNzKVs4YDCA70) | 2:44 |

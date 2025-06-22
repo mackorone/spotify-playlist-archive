@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 506929,
+  "num_followers": 506977,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "The Very Best of Suzi Quatro",
+        "url": "https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        },
+        {
+          "name": "Chris Norman",
+          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 285346,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "The Very Best of Suzi Quatro",
-        "url": "https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb"
-      },
-      "artists": [
-        {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
-        },
-        {
-          "name": "Chris Norman",
-          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj"
     },
     {
       "added_at": "2024-06-03 14:45:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a> Cover: Sam Austins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,842 likes - 162 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,768 likes - 162 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

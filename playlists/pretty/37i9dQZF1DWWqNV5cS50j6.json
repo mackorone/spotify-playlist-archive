@@ -1,13 +1,29 @@
 {
   "description": "Alternative indie music etc. Cover: Sam Austins",
-  "num_followers": 743174,
+  "num_followers": 743144,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aBRDYgAAAAA20sYZJKp+npGyvYcK9hpl",
+  "snapshot_id": "aFdGUgAAAACK/LuXIX9pKXNcyUQqbSVF",
   "tracks": [
+    {
+      "added_at": "2025-06-21 23:54:58",
+      "album": {
+        "name": "i used to live in england",
+        "url": "https://open.spotify.com/album/5ZGujbXqT6sObnTWTBTUEH"
+      },
+      "artists": [
+        {
+          "name": "supermodel*",
+          "url": "https://open.spotify.com/artist/5UboFifW4NugOuTYaYk159"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "i used to live in england",
+      "url": "https://open.spotify.com/track/0uuZQzCl0bTKxhhDWahC5F"
+    },
     {
       "added_at": "2025-05-02 04:00:34",
       "album": {

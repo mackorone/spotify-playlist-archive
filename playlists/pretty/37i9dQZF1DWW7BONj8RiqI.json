@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Kes",
-  "num_followers": 230438,
+  "num_followers": 230535,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
         "name": "Heroes Riddim",
         "url": "https://open.spotify.com/album/259CBsx920bdse65Q33ln1"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 188512,
       "name": "Jamtown",
       "url": "https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
         "name": "Engine Room",
         "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 201594,
       "name": "Engine Room",
       "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "A List",
-        "url": "https://open.spotify.com/album/5U9rq3EstZqlpBfE3wjnnQ"
-      },
-      "artists": [
-        {
-          "name": "V'ghn",
-          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
-        },
-        {
-          "name": "Not3s",
-          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
-        }
-      ],
-      "duration_ms": 181366,
-      "name": "A List",
-      "url": "https://open.spotify.com/track/3NXP2HTEq16sosI8BSjDM7"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
         "name": "Same 24 Riddim",
         "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
       },
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
+        "name": "A List",
+        "url": "https://open.spotify.com/album/5U9rq3EstZqlpBfE3wjnnQ"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "duration_ms": 181366,
+      "name": "A List",
+      "url": "https://open.spotify.com/track/3NXP2HTEq16sosI8BSjDM7"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
         "name": "Retro Fete Riddim",
         "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
         "name": "Planet Jab Riddim",
         "url": "https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 191111,
       "name": "Run Wid It",
       "url": "https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
         "name": "Dingolay",
         "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 207034,
       "name": "Dingolay",
       "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
+        "name": "Soca Savage",
+        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
+      },
+      "artists": [
+        {
+          "name": "Arrow",
+          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 151250,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
-        "name": "Soca Savage",
-        "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
-      },
-      "artists": [
-        {
-          "name": "Arrow",
-          "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
-        "name": "Allez",
-        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
+        "name": "Position",
+        "url": "https://open.spotify.com/album/5qdP2o3JzTFe5ip7ljcEtX"
       },
       "artists": [
         {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 218932,
-      "name": "Allez",
-      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
+      "duration_ms": 166588,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -1679,22 +1679,6 @@
       "duration_ms": 256210,
       "name": "Passion",
       "url": "https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
-        "name": "Position",
-        "url": "https://open.spotify.com/album/5qdP2o3JzTFe5ip7ljcEtX"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Position",
-      "url": "https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2025-06-20 13:22:48",
       "album": {
+        "name": "Allez",
+        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 218932,
+      "name": "Allez",
+      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
         "name": "Soca Virgin",
         "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
       },
@@ -1731,26 +1731,6 @@
       "duration_ms": 185025,
       "name": "Sexin",
       "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
-    },
-    {
-      "added_at": "2025-06-20 13:22:48",
-      "album": {
-        "name": "Soca Party",
-        "url": "https://open.spotify.com/album/6HOtL6CQH6Sc4yt0VjSp7g"
-      },
-      "artists": [
-        {
-          "name": "Jimmy October",
-          "url": "https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Soca Party",
-      "url": "https://open.spotify.com/track/5Uyr4ZI83Brfl6c0c5C1SV"
     },
     {
       "added_at": "2025-06-20 13:22:48",
@@ -1771,6 +1751,30 @@
       "duration_ms": 160966,
       "name": "Ou Dou",
       "url": "https://open.spotify.com/track/0hx2SCwOW2EdYduP1UhMsO"
+    },
+    {
+      "added_at": "2025-06-20 13:22:48",
+      "album": {
+        "name": "BISON RIDDIM",
+        "url": "https://open.spotify.com/album/1u5QLXe5LXgHiz7hkpSzgo"
+      },
+      "artists": [
+        {
+          "name": "BENJI BEATZ",
+          "url": "https://open.spotify.com/artist/5BKnVBJCdHSzMtQnVm92mJ"
+        },
+        {
+          "name": "DASH",
+          "url": "https://open.spotify.com/artist/6vpIE3IMD7dLTRAtCfZmYG"
+        },
+        {
+          "name": "WATER DADDIES",
+          "url": "https://open.spotify.com/artist/3bXQrKP6beUfeoDhncrNpo"
+        }
+      ],
+      "duration_ms": 146556,
+      "name": "PORTAL",
+      "url": "https://open.spotify.com/track/2jLKAPwUGTji359kOZl3c9"
     }
   ],
   "unique_name": "Massive Soca Hits",

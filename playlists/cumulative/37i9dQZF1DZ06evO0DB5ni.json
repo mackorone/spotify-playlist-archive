@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Incomparable",
+        "url": "https://open.spotify.com/album/1FFEWzkpUGWt0aC6rzQC8D"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186794,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/2M79FMrWRz5AlqbMXyRGP6"
+    },
+    {
+      "album": {
         "name": "Ni Lo Intentes",
         "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 177680,
       "name": "Cap\u00edtulo Triste",
       "url": "https://open.spotify.com/track/5Uyke0zF2O32vMcETnuByX"

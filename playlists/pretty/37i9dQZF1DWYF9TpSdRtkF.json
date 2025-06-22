@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 17930,
+  "num_followers": 17932,
   "original_name": "THE IDOLM@STER MILLION LIVE! ",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,30 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!",
-        "url": "https://open.spotify.com/album/1Qf0OVZGtS3qhAYgUPabnW"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
       },
       "artists": [
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        },
         {
           "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
           "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
         },
         {
-          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
-          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
         }
       ],
-      "duration_ms": 250613,
-      "name": "\u30a4\u30f3\u30f4\u30a3\u30f3\u30b7\u30d6\u30eb\u30fb\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9",
-      "url": "https://open.spotify.com/track/0tC6YpCCHeS0NeMww6ibd9"
+      "duration_ms": 246840,
+      "name": "Marionette\u306f\u7720\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -855,6 +863,26 @@
       "duration_ms": 347093,
       "name": "\u541b\u3068\u306e\u660e\u65e5\u3092\u9858\u3046\u304b\u3089",
       "url": "https://open.spotify.com/track/2jExKLdczc5nUmZhqyIH9L"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!",
+        "url": "https://open.spotify.com/album/1Qf0OVZGtS3qhAYgUPabnW"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        },
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "\u30a4\u30f3\u30f4\u30a3\u30f3\u30b7\u30d6\u30eb\u30fb\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9",
+      "url": "https://open.spotify.com/track/0tC6YpCCHeS0NeMww6ibd9"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -891,6 +919,22 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
+        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "\u30e9\u30a4\u30a2\u30fc\u30fb\u30eb\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/2MbPiTitqFqYeajRJUq1Zp"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!",
         "url": "https://open.spotify.com/album/1Qf0OVZGtS3qhAYgUPabnW"
       },
@@ -907,18 +951,18 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
-        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
+        "url": "https://open.spotify.com/album/1aORtrNtFix8006Ft2iydu"
       },
       "artists": [
         {
-          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
-          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
         }
       ],
-      "duration_ms": 232093,
-      "name": "\u30e9\u30a4\u30a2\u30fc\u30fb\u30eb\u30fc\u30b8\u30e5",
-      "url": "https://open.spotify.com/track/2MbPiTitqFqYeajRJUq1Zp"
+      "duration_ms": 193106,
+      "name": "\u30c1\u30e7\u30fc \u5143\u6c17Show \u30a2\u30a4\u30c9\u30ebch@ng!",
+      "url": "https://open.spotify.com/track/0Dalla51NLjsYIdOCoidYI"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -943,18 +987,18 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
-        "url": "https://open.spotify.com/album/1aORtrNtFix8006Ft2iydu"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
       },
       "artists": [
         {
-          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
-          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u5bfa\u5ddd\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/2yaHlKyuUEbiIZyWO2klOV"
         }
       ],
-      "duration_ms": 193106,
-      "name": "\u30c1\u30e7\u30fc \u5143\u6c17Show \u30a2\u30a4\u30c9\u30ebch@ng!",
-      "url": "https://open.spotify.com/track/0Dalla51NLjsYIdOCoidYI"
+      "duration_ms": 255933,
+      "name": "\u6d41\u661f\u7fa4",
+      "url": "https://open.spotify.com/track/5p9K3smE2URccPO3PIr32x"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -979,50 +1023,6 @@
       "duration_ms": 210480,
       "name": "Raise the FLAG",
       "url": "https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
-        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
-      },
-      "artists": [
-        {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u5bfa\u5ddd\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/2yaHlKyuUEbiIZyWO2klOV"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "\u6d41\u661f\u7fa4",
-      "url": "https://open.spotify.com/track/5p9K3smE2URccPO3PIr32x"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
-        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
-      },
-      "artists": [
-        {
-          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
-          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
-        },
-        {
-          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
-          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
-        },
-        {
-          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
-          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
-        },
-        {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "Marionette\u306f\u7720\u3089\u306a\u3044",
-      "url": "https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl"
     },
     {
       "added_at": "2025-03-26 16:49:37",

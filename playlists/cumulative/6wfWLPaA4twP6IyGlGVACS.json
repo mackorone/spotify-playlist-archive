@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Here We Are In The Years",
+        "url": "https://open.spotify.com/album/2xZ68x8Q03P6jgJ4LsZTpL"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204735,
+      "name": "Here We Are In The Years",
+      "url": "https://open.spotify.com/track/2aUWLSwipg7HR9bevqv6Mw"
+    },
+    {
+      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },

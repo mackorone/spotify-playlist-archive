@@ -1,12 +1,12 @@
 {
   "description": "New music from Cardi B, Swayvee & Young Stunna, Kamo Mphela, Amaarae and more.",
-  "num_followers": 133837,
+  "num_followers": 133911,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFVW4wAAAAAcH/aRPEhO/nTPnCcJE8Ym",
+  "snapshot_id": "aFbqywAAAADTDljoxjgkpBDjjijC5MJE",
   "tracks": [
     {
       "added_at": "2025-06-20 12:41:07",
@@ -365,6 +365,22 @@
       "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
     },
     {
+      "added_at": "2025-06-21 17:24:27",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7eXffVqFn74sguDZ4sugS4"
+      },
+      "artists": [
+        {
+          "name": "Mia Lord",
+          "url": "https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI"
+        }
+      ],
+      "duration_ms": 181621,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3NVEfATVPRz5JHo0AtvXmR"
+    },
+    {
       "added_at": "2025-06-20 12:41:07",
       "album": {
         "name": "Whole City",
@@ -707,7 +723,7 @@
     {
       "added_at": "2025-06-20 12:41:07",
       "album": {
-        "name": "Meka (Mother Earth)",
+        "name": "Meka",
         "url": "https://open.spotify.com/album/49ZzIScqGDeC3Hno8pS5jz"
       },
       "artists": [
@@ -721,7 +737,7 @@
         }
       ],
       "duration_ms": 194938,
-      "name": "Meka (Mother Earth)",
+      "name": "Meka",
       "url": "https://open.spotify.com/track/6YPiDqUt8ITVVOqMBabOSB"
     },
     {

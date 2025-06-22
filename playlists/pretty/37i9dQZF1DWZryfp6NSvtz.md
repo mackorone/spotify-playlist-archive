@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,950 likes - 103 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,014 likes - 103 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

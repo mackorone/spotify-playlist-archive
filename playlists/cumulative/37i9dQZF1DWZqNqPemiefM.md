@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-791 songs - 2 day 13 hr 14 min
+792 songs - 2 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Bath＆Frog \(風呂と蛙\)](https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Undercurrent](https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ) | 3:07 | 2023-10-05 | 2023-12-22 |
 | [Beacon](https://open.spotify.com/track/1SoBz2y4CJuu0VK88JcSnL) | [Hiroto Kudo](https://open.spotify.com/artist/4HoS8lqkRngSNsSBn4mCvx) | [Beacon](https://open.spotify.com/album/0Ap7Elqyj1PhaHKiNgM3Wl) | 4:40 | 2022-03-31 | 2022-04-14 |
 | [Beautiful World](https://open.spotify.com/track/6SjkPjVF3D4dyvS29J7Ln2) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Akashic Records](https://open.spotify.com/album/3ZsJCJXgkwVEwoeHTpMtHx) | 5:34 | 2022-04-07 | 2022-07-28 |
+| [Beauty in Imperfection](https://open.spotify.com/track/1C4xtnNBK4Lau7iEkdYNVw) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Beauty in Imperfection](https://open.spotify.com/album/5WPvDzaQpEDkJNZ4zP0mRd) | 4:56 | 2025-06-12 |  |
 | [Behind the Flowerpots](https://open.spotify.com/track/6etBi3uT41iEnNue6aCsgh) | [Isik Kural](https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ) | [Almost a Ghost / Behind the Flowerpots](https://open.spotify.com/album/5WYlsqltMP9nJKPEPOshGz) | 3:24 | 2024-09-06 | 2024-09-26 |
 | [Beige](https://open.spotify.com/track/5ZssX5LKaeWewcBPycp7oR) | [Ultrafog](https://open.spotify.com/artist/3erT0S0GYFrjPuDqK9AUgo) | [Surging Waves](https://open.spotify.com/album/0Mz7qmB0koWo1rYrcMvfAF) | 3:20 | 2022-03-31 | 2022-07-26 |
 | [Belleville](https://open.spotify.com/track/2nGO2l8qt0OxuMLuV2uHeq) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx) | 2:25 | 2024-02-08 |  |
@@ -308,7 +309,7 @@
 | [Humming Bird](https://open.spotify.com/track/4WuCCqk4xNioQiabdYGxr6) | [リョウコ2000](https://open.spotify.com/artist/0gkebBA1I3f7BTYqaDDK48) | [Travel Guide](https://open.spotify.com/album/7mN7vOCliNipOAJbqdkKRg) | 2:40 | 2024-02-15 | 2024-04-19 |
 | [Hypha](https://open.spotify.com/track/5d3vScntfWOniIlqiV02SC) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Hypha](https://open.spotify.com/album/6eGFbzsy7oouymykAURlpN) | 5:04 | 2022-10-13 | 2023-04-21 |
 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 | 2024-02-08 |  |
-| [Ibuki](https://open.spotify.com/track/4aZeIfJtB9FeYXl2TWGbpc) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ibuki](https://open.spotify.com/album/2WpfBVIHZwNPO3GwB1yS1R) | 1:20 | 2025-05-02 |  |
+| [Ibuki](https://open.spotify.com/track/4aZeIfJtB9FeYXl2TWGbpc) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ibuki](https://open.spotify.com/album/2WpfBVIHZwNPO3GwB1yS1R) | 1:20 | 2025-05-02 | 2025-06-22 |
 | [ice](https://open.spotify.com/track/40wbMmxezAsXctvtAPiqO2) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [out of noise](https://open.spotify.com/album/2ZSDBISEYILWQJipew0pvh) | 3:33 | 2022-03-30 | 2022-04-13 |
 | [Icefall](https://open.spotify.com/track/0Phxp3zSTKDT5D2JtOLvY3) | [Rhythmy](https://open.spotify.com/artist/5OjEKdUndOsD0Msr1Hc26C) | [Icefall](https://open.spotify.com/album/0bRbyB6t9KM4EkjeiQxXoi) | 4:08 | 2022-03-30 | 2022-05-26 |
 | [If I Were \(His Prehistoric Past\)](https://open.spotify.com/track/7ggRWGRW7vZGMVDeTl5U4Q) | [Hoshiko Yamane](https://open.spotify.com/artist/2bz4jlt1M26TmDDQOBbyJT) | [Sketches \(Stories of 100 Years Ago\)](https://open.spotify.com/album/2pACNIcYdMC26mIGtgACuL) | 2:14 | 2022-03-30 | 2022-07-28 |

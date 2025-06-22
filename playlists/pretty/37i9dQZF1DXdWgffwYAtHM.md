@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:1QrMXzBqJt5WAlzCsUmHNu">Estavu Show</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,842 likes - 17 songs - 13 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,840 likes - 17 songs - 13 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

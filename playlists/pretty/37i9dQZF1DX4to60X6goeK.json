@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: skantia",
-  "num_followers": 71123,
+  "num_followers": 71154,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -38,6 +38,10 @@
         {
           "name": "Disrupta",
           "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
         }
       ],
       "duration_ms": 193103,
@@ -679,6 +683,26 @@
     {
       "added_at": "2025-06-19 23:00:21",
       "album": {
+        "name": "No Excuses (Hedex Remix)",
+        "url": "https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        }
+      ],
+      "duration_ms": 163907,
+      "name": "No Excuses - Hedex Remix",
+      "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
+    },
+    {
+      "added_at": "2025-06-19 23:00:21",
+      "album": {
         "name": "Sientelo (Sota & Circadian Remix)",
         "url": "https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h"
       },
@@ -703,26 +727,6 @@
       "duration_ms": 237257,
       "name": "Sientelo - Sota & Circadian Remix",
       "url": "https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd"
-    },
-    {
-      "added_at": "2025-06-19 23:00:21",
-      "album": {
-        "name": "No Excuses (Hedex Remix)",
-        "url": "https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        }
-      ],
-      "duration_ms": 163907,
-      "name": "No Excuses - Hedex Remix",
-      "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
     },
     {
       "added_at": "2025-06-19 23:00:21",
@@ -915,22 +919,6 @@
     {
       "added_at": "2025-06-19 23:00:21",
       "album": {
-        "name": "There In 10",
-        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 246896,
-      "name": "There In 10",
-      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
-    },
-    {
-      "added_at": "2025-06-19 23:00:21",
-      "album": {
         "name": "Bad Boy Horns",
         "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
@@ -951,6 +939,22 @@
       "duration_ms": 252342,
       "name": "Bad Boy Horns",
       "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
+    },
+    {
+      "added_at": "2025-06-19 23:00:21",
+      "album": {
+        "name": "There In 10",
+        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 246896,
+      "name": "There In 10",
+      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
     },
     {
       "added_at": "2025-06-19 23:00:21",

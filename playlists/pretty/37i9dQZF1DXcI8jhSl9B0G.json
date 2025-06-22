@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74761,
+  "num_followers": 74759,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Evermore",
-        "url": "https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 223846,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/0ZSLQqw4B8NnCOLSqjpT80"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Oh My Girl",
         "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 168393,
       "name": "Oh My Girl",
       "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Evermore",
+        "url": "https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 223846,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/0ZSLQqw4B8NnCOLSqjpT80"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Fairy Floss Sky",
-        "url": "https://open.spotify.com/album/1yzydT6WbXJbSrniPmHHr4"
-      },
-      "artists": [
-        {
-          "name": "Jack Willis",
-          "url": "https://open.spotify.com/artist/5bDMEki3F51J9AwYPJeBZY"
-        }
-      ],
-      "duration_ms": 209260,
-      "name": "Fairy Floss Sky",
-      "url": "https://open.spotify.com/track/0W4PlkXqZR4AZ4nrpLdSRj"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 188235,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Fairy Floss Sky",
+        "url": "https://open.spotify.com/album/1yzydT6WbXJbSrniPmHHr4"
+      },
+      "artists": [
+        {
+          "name": "Jack Willis",
+          "url": "https://open.spotify.com/artist/5bDMEki3F51J9AwYPJeBZY"
+        }
+      ],
+      "duration_ms": 209260,
+      "name": "Fairy Floss Sky",
+      "url": "https://open.spotify.com/track/0W4PlkXqZR4AZ4nrpLdSRj"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -987,22 +987,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "sprouts",
-        "url": "https://open.spotify.com/album/6vN6P8t4PiSzgBMqIJ1qyf"
+        "name": "Wanna Be with You",
+        "url": "https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA"
       },
       "artists": [
         {
-          "name": "rosarrie",
-          "url": "https://open.spotify.com/artist/7JGtDLeiMS8MXVZzbeDNCi"
-        },
-        {
-          "name": "Winter Foe",
-          "url": "https://open.spotify.com/artist/4GYawQUhnxYepBC7WhUJ4N"
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
         }
       ],
-      "duration_ms": 212378,
-      "name": "sprouts",
-      "url": "https://open.spotify.com/track/4Rj8LmDWys5LA2yeQ8GFvh"
+      "duration_ms": 191608,
+      "name": "Wanna Be with You",
+      "url": "https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ"
     }
   ],
   "unique_name": "Summer Daze",

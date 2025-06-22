@@ -1,13 +1,29 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 299263,
+  "num_followers": 299428,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFNTAAAAAABNTpQ3zYX6hIt4Zgs3EXWh",
+  "snapshot_id": "aFSkgAAAAADRmsDpkRfcoi65xXI2l5pX",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raite Pa' Con Diosito",
+        "url": "https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 124677,
+      "name": "Raite Pa' Con Diosito",
+      "url": "https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo"
+    },
     {
       "added_at": null,
       "album": {
@@ -883,26 +899,6 @@
       "duration_ms": 236746,
       "name": "Nunca Deja De Llover",
       "url": "https://open.spotify.com/track/7DWjWBdsLX2c1m4l01rO2P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Noches De Cantina",
-        "url": "https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 226535,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/2Xi56Opl3a3lN6zgciEHO7"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

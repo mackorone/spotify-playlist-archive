@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc0c8\uc18c\ub144 (SE SO NEON)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 240673,
+  "num_followers": 240703,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-06-20 04:53:42",
       "album": {
+        "name": "Demons [The Seasons: Cantabile of Park Bo Gum]",
+        "url": "https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl"
+    },
+    {
+      "added_at": "2025-06-20 04:53:42",
+      "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 167573,
       "name": "eight(Prod.&Feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
-    },
-    {
-      "added_at": "2025-06-20 04:53:42",
-      "album": {
-        "name": "Demons [The Seasons: Cantabile of Park Bo Gum]",
-        "url": "https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl"
     },
     {
       "added_at": "2025-06-20 04:53:42",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-06-20 04:53:42",
       "album": {
-        "name": "Sound of Music pt.1",
-        "url": "https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        },
-        {
-          "name": "KARINA",
-          "url": "https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "May the TENDERNESS be with you! (feat. KARINA of aespa)",
-      "url": "https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT"
-    },
-    {
-      "added_at": "2025-06-20 04:53:42",
-      "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 221133,
       "name": "WINTER FLOWER(Feat.RM)",
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
+    },
+    {
+      "added_at": "2025-06-20 04:53:42",
+      "album": {
+        "name": "Sound of Music pt.1",
+        "url": "https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        },
+        {
+          "name": "KARINA",
+          "url": "https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "May the TENDERNESS be with you! (feat. KARINA of aespa)",
+      "url": "https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT"
     },
     {
       "added_at": "2025-06-20 04:53:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: NEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,249 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,270 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 17 | [Show me the way \- Radio Edit](https://open.spotify.com/track/31R4BwPk58haGJ0w6mcPri) | [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Show me the way](https://open.spotify.com/album/1UUioqRfGzNVkS4di5IaLO) | 3:44 |
 | 18 | [GARDENS](https://open.spotify.com/track/1yJcmlQon4EgznsSksQuGp) | [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [MR003](https://open.spotify.com/album/1qPORCwEE3eMCEKO0YrZXl) | 4:10 |
 | 19 | [U Know How Dis Go](https://open.spotify.com/track/5LXYjNNJFg67NpNXbwJcx2) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [U Know How Dis Go](https://open.spotify.com/album/6OSei4LFBtRTlmXd7pmfOw) | 2:10 |
-| 20 | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Blue Sky \(feat\. LYZZA & SadBoi\)](https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu) | 2:22 |
+| 20 | [Blue Sky](https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Blue Sky](https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu) | 2:22 |
 | 21 | [Paradise](https://open.spotify.com/track/441ccqwRNDOt7MIKN2kAYh) | [Val Fleury](https://open.spotify.com/artist/2Ql2PvnHtaP4FL8nI13mSv), [Res](https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7) | [Paradise](https://open.spotify.com/album/1L4CwZqL8i4ZmkY7aCyeXS) | 3:54 |
 | 22 | [PAPARAZZI](https://open.spotify.com/track/1AdJ7n7C3R2CtiQjJfKHuH) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [DGTL ANML](https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ) | 3:46 |
 | 23 | [Colorbone](https://open.spotify.com/track/1ar9BD5AVXuzpg0nnu8ysz) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [Colorbone](https://open.spotify.com/album/5lKeI82tnoWrF4tzTc0ho4) | 3:27 |

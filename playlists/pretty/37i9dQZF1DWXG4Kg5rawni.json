@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 111164,
+  "num_followers": 111194,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Cabelo solto - Playback",
+        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 236251,
+      "name": "Escolhi Te Esperar",
+      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "do avesso",
         "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 246917,
       "name": "do avesso",
       "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Cabelo solto - Playback",
-        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 236251,
-      "name": "Escolhi Te Esperar",
-      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Cantando o Amor Vol. 2",
-        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 303020,
-      "name": "A Perfei\u00e7\u00e3o de Deus",
-      "url": "https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 235373,
       "name": "Encontrar Voc\u00ea",
       "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Cantando o Amor Vol. 2",
+        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 303020,
+      "name": "A Perfei\u00e7\u00e3o de Deus",
+      "url": "https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 6",
-        "url": "https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE"
-      },
-      "artists": [
-        {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
-        }
-      ],
-      "duration_ms": 255187,
-      "name": "Por Toda Vida",
-      "url": "https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 6",
+        "url": "https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 255187,
+      "name": "Por Toda Vida",
+      "url": "https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Deus Voc\u00ea e Eu",
-        "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
+        "name": "Amo Voc\u00ea Vol. 21",
+        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
       },
       "artists": [
         {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 219440,
-      "name": "Deus Voc\u00ea e Eu",
-      "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
+      "duration_ms": 303206,
+      "name": "Bem Maior Que o C\u00e9u",
+      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 21",
-        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
+        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
         }
       ],
-      "duration_ms": 303206,
-      "name": "Bem Maior Que o C\u00e9u",
-      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
+      "duration_ms": 268541,
+      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Deus Voc\u00ea e Eu",
+        "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
+      },
+      "artists": [
+        {
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Deus Voc\u00ea e Eu",
+      "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Mulher Realizada",
         "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 257648,
       "name": "Mulher Realizada",
       "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 268541,
-      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
     },
     {
       "added_at": "2024-07-11 15:58:05",

@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 342556,
+  "num_followers": 342705,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-06-20 04:00:31",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/155Q3i44LObyZ2sx2WgQyW"
+      },
+      "artists": [
+        {
+          "name": "Cyan Kicks",
+          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
+        }
+      ],
+      "duration_ms": 178051,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/29DQXFGt78vmZFixJelxJq"
+    },
+    {
+      "added_at": "2025-06-20 04:00:31",
+      "album": {
         "name": "Blur Into One",
         "url": "https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 130250,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q"
-    },
-    {
-      "added_at": "2025-06-20 04:00:31",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/155Q3i44LObyZ2sx2WgQyW"
-      },
-      "artists": [
-        {
-          "name": "Cyan Kicks",
-          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
-        }
-      ],
-      "duration_ms": 178051,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/29DQXFGt78vmZFixJelxJq"
     },
     {
       "added_at": "2025-06-20 04:00:31",

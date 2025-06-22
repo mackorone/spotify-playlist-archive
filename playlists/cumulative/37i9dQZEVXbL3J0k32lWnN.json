@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "10 ud af 10",
+        "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150705,
+      "name": "10 ud af 10",
+      "url": "https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM"
+    },
+    {
+      "album": {
         "name": "TILLYKKE",
         "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 157658,
       "name": "2 Telefoner (feat. Lamin)",
       "url": "https://open.spotify.com/track/3t4Z6vKDjkjDZ3bDJzC8ep"
@@ -900,6 +918,46 @@
       "duration_ms": 218000,
       "name": "A Beautiful Life (From the Netflix Film \u2018A Beautiful Life\u2019)",
       "url": "https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs"
+    },
+    {
+      "album": {
+        "name": "R d u s t a d i g h e r 4 m i g",
+        "url": "https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl"
+      },
+      "artists": [
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184588,
+      "name": "a l d r i g h a f t e n v e n s o m m i g",
+      "url": "https://open.spotify.com/track/1kXMQiJu9SlhaXtZdGrNcR"
+    },
+    {
+      "album": {
+        "name": "R d u s t a d i g h e r 4 m i g",
+        "url": "https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl"
+      },
+      "artists": [
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202353,
+      "name": "a l l e s a m m e n",
+      "url": "https://open.spotify.com/track/5eFYaZXg6He7Epqfuv6Q2z"
     },
     {
       "album": {
@@ -5272,7 +5330,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 164117,
       "name": "Byens Hold (feat. Noah Carter, KESI & Lamin)",
       "url": "https://open.spotify.com/track/2gZFWmcE98gNuhkeycpB0I"
@@ -5328,6 +5386,32 @@
       "duration_ms": 176190,
       "name": "B\u00f8rn Af Natten (Hola Bonita)",
       "url": "https://open.spotify.com/track/3ZNTae1ZOrSaURxMZAVFq6"
+    },
+    {
+      "album": {
+        "name": "R d u s t a d i g h e r 4 m i g",
+        "url": "https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl"
+      },
+      "artists": [
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152156,
+      "name": "C h v o r v i R i d a g",
+      "url": "https://open.spotify.com/track/4Ys990zG55m3szny0pwaZu"
     },
     {
       "album": {
@@ -7878,7 +7962,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 160592,
       "name": "Den V\u00e6rste (feat. Lamin)",
       "url": "https://open.spotify.com/track/52IGdLdV9AZVcRzr2MHvjr"
@@ -7958,7 +8042,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 184283,
       "name": "Der s\u00e5 meget jeg ikke fort\u00e6ller",
       "url": "https://open.spotify.com/track/0RMqPnXgdZoP6dmvFUZfEP"
@@ -12130,7 +12214,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 139606,
       "name": "Flueben (feat. Lamin)",
       "url": "https://open.spotify.com/track/5V6GtuyYBrIfQIZwh0B8Ye"
@@ -14852,6 +14936,32 @@
       "duration_ms": 219023,
       "name": "H V D O L",
       "url": "https://open.spotify.com/track/5tK3SkH5DfO24oo9Iw2Fq3"
+    },
+    {
+      "album": {
+        "name": "R d u s t a d i g h e r 4 m i g",
+        "url": "https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl"
+      },
+      "artists": [
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "h \u00e5 n d e n p \u00e5 h j e r t e t",
+      "url": "https://open.spotify.com/track/44KCOmNNDbqdf7xWKVvRWj"
     },
     {
       "album": {
@@ -18189,6 +18299,32 @@
     },
     {
       "album": {
+        "name": "R d u s t a d i g h e r 4 m i g",
+        "url": "https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl"
+      },
+      "artists": [
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        },
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194995,
+      "name": "i l l u s . o n",
+      "url": "https://open.spotify.com/track/6qA4ldYZAQa9gYgozmn4MG"
+    },
+    {
+      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -20339,6 +20475,28 @@
     },
     {
       "album": {
+        "name": "R d u s t a d i g h e r 4 m i g",
+        "url": "https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl"
+      },
+      "artists": [
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "k u n d e t b e d s t e (feat. Hans Philip)",
+      "url": "https://open.spotify.com/track/5heQEPP9BBVa5ROrhR4WYo"
+    },
+    {
+      "album": {
         "name": "K-POP (Chopped & Screwed)",
         "url": "https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl"
       },
@@ -20916,7 +21074,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 240917,
       "name": "Klip Klap Sandaler",
       "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
@@ -20996,7 +21154,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 207020,
       "name": "Knuser Hjerter",
       "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
@@ -27380,7 +27538,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 177255,
       "name": "N\u00e6tter Som Dage (feat. Ozzy)",
       "url": "https://open.spotify.com/track/0THfRma8zgeY0CPN4X6xWz"
@@ -29744,6 +29902,24 @@
       "duration_ms": 210556,
       "name": "Question...?",
       "url": "https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B"
+    },
+    {
+      "album": {
+        "name": "R d u s t a d i g h e r 4 m i g",
+        "url": "https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl"
+      },
+      "artists": [
+        {
+          "name": "Sivas",
+          "url": "https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228687,
+      "name": "R d u s t a d i g h e r 4 m i g",
+      "url": "https://open.spotify.com/track/0rtJpr8gd1mtrTOBOZFHAJ"
     },
     {
       "album": {
@@ -34631,6 +34807,24 @@
     },
     {
       "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/4OwdPcbGEcmrYRHRxnL5t5"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        }
+      ],
+      "date_added": "2025-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140382,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/0I4KrchOuSukO393z4qwpB"
+    },
+    {
+      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
       },
@@ -36436,7 +36630,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-22",
       "duration_ms": 224175,
       "name": "Til Solen Er Sort",
       "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
