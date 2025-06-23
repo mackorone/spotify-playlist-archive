@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,636 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,667 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 10 | [Calypso Music](https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 7:13 |
 | 11 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
 | 12 | [Body Water](https://open.spotify.com/track/3LKnTJqisnDLNzaMBIxwCg) | [Mini Priest](https://open.spotify.com/artist/4Wu241uc9oNa8YzcBrLJNT) | [Soca Gold 2005](https://open.spotify.com/album/3UXWqNNmMnxBXK8BTXkiVf) | 3:39 |
-| 13 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
-| 14 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
+| 13 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
+| 14 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
 | 15 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
 | 16 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
 | 17 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
-| 18 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
-| 19 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
+| 18 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
+| 19 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
 | 20 | [Madness](https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:45 |
 | 21 | [Tay Lay Lay](https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Caribbean Road March 2001 and More](https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP) | 4:33 |
 | 22 | [Thunder](https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg) | [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 6:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Ryan Castro & Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,792 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,775 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 35 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
 | 36 | [Cuarto de Hotel](https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:58 |
 | 37 | [Mi Reina](https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [La Makina..\. A Mil](https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn) | 4:10 |
-| 38 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |
-| 39 | [Te Voy Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 |
+| 38 | [Te Voy Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 |
+| 39 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |
 | 40 | [Anoche Hablamos de Amor](https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:31 |
 | 41 | [BIZUM \(Qué tienen tus ojos\)](https://open.spotify.com/track/6lowoKt4hZs7L3oc8iDUO4) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [BIZUM \(Qué tienen tus ojos\)](https://open.spotify.com/album/7m1OVmMBat3C7VO0cUf6Po) | 2:16 |
 | 42 | [Imaginarme Sin Ti](https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Imaginarme Sin Ti](https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8) | 3:56 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 61 | [Cutibili Pacha](https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:40 |
 | 62 | [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 |
 | 63 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
-| 64 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 |
-| 65 | [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 |
+| 64 | [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 |
+| 65 | [El Doctorado](https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 4:24 |
 | 66 | [El Meneito](https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [15to Aniversario](https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7) | 5:10 |
 | 67 | [Que Cara Más Bonita](https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merengue De Amor Vol.1](https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS) | 4:10 |
 | 68 | [Solo Pienso En Ti](https://open.spotify.com/track/32b67p4fXwcbGqpjGpUfom) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Solo Pienso En Ti](https://open.spotify.com/album/686zjPymwJWho1sRetIdZE) | 2:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 96 | [El Costo De La Vida](https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h) | [Rey Casas](https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk) | [Juan Luis Guerra Y 440 \(Versiones Instrumentales\)](https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p) | 2:28 |
 | 97 | [Agua pa las flores](https://open.spotify.com/track/6xDLz0ASdr7awIQfI2fdCv) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Agua pa las flores](https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR) | 2:42 |
 | 98 | [Como Los Rayos Del Sol](https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Como Los Rayos Del Sol](https://open.spotify.com/album/7460LMvayest0YKVf9u052) | 3:36 |
-| 99 | [Me Miras Y Te Miro](https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Re\-Haciendo La Historia\-Los Exitos!](https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a) | 4:57 |
+| 99 | [Que No Se Acabe](https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Que No Se Acabe](https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn) | 3:18 |
 | 100 | [La Pastilla](https://open.spotify.com/track/6laC9qdbtt83hHAikUpt27) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Éxitos](https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ) | 4:18 |
 
 Snapshot ID: `aDktXwAAAADtJce/OFDIV157QIDyOMNB`

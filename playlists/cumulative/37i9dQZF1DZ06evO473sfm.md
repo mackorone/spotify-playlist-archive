@@ -4,7 +4,7 @@
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 32 min
+89 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [ME JALO](https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:32 | 2024-12-22 |  |
 | [Me Retiro](https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me Retiro](https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj) | 4:08 | 2025-06-01 |  |
 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 | 2024-12-08 |  |
-| [Mutuo](https://open.spotify.com/track/610ueJEiF2vAxly3DrlkBX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 2:57 | 2025-06-16 |  |
+| [Mutuo](https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mutuo](https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa) | 2:57 | 2025-06-23 |  |
+| [Mutuo](https://open.spotify.com/track/610ueJEiF2vAxly3DrlkBX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 2:57 | 2025-06-16 | 2025-06-23 |
 | [Necesito Decirte](https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Necesito Decirte](https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV) | 3:27 | 2023-11-10 | 2024-12-23 |
 | [NO HAY VATO PERFECTO](https://open.spotify.com/track/23lIKqeNp0vJM5f5j98HVN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:20 | 2024-05-15 | 2024-10-19 |
 | [NO HAY VATO PERFECTO](https://open.spotify.com/track/662XIU1PFVPp3XNm9V3q6q) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [NO HAY VATO PERFECTO](https://open.spotify.com/album/44rDXElV3sJNq0zaFBpnvg) | 3:20 | 2024-05-11 | 2024-05-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,017 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,002 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 30 | [Mouse](https://open.spotify.com/track/3Xz3KJ4ZsFmiwRcrzuXV3m) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/7qOgTG0UtYwFhp2SDJb5bs) | 3:58 |
 | 31 | [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 |
 | 32 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
-| 33 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
-| 34 | [lie](https://open.spotify.com/track/0KLSzWb3O65gvzW3ipdrOG) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [lie](https://open.spotify.com/album/0pl034wdG7uIcvfzZJlIoI) | 4:24 |
+| 33 | [lie](https://open.spotify.com/track/0KLSzWb3O65gvzW3ipdrOG) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [lie](https://open.spotify.com/album/0pl034wdG7uIcvfzZJlIoI) | 4:24 |
+| 34 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 35 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 36 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
 | 37 | [CORPUS 0](https://open.spotify.com/track/0boGx65PACZNyIq7mv7trr) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [CORPUS 0](https://open.spotify.com/album/4NcOWtOHeayLunvnHBdQKx) | 4:50 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 44 | [Flower \(Feat\. Jay Park, Woo, GIRIBOY\)](https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:33 |
 | 45 | [MOVIE](https://open.spotify.com/track/4VnBF5nptyzyiY9AKJ95z9) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [bright \#9](https://open.spotify.com/album/44LkNR2ydGI4qVdaDPgEBg) | 3:00 |
 | 46 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
-| 47 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
-| 48 | [Don't Forget About Me](https://open.spotify.com/track/5Ho92lX5GVGgcJSkUA9sPi) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Art of Overthinking](https://open.spotify.com/album/2qkmlxdDZxwLEhxU09LcvS) | 3:26 |
+| 47 | [Don't Forget About Me](https://open.spotify.com/track/5Ho92lX5GVGgcJSkUA9sPi) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Art of Overthinking](https://open.spotify.com/album/2qkmlxdDZxwLEhxU09LcvS) | 3:26 |
+| 48 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 |
 | 49 | [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 |
 | 50 | [4 Seasons](https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby) | [4 Seasons](https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX) | 2:31 |
 

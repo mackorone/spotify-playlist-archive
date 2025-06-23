@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Kirnbauer en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,180 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,172 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 51 | [¿qué somos hoy?](https://open.spotify.com/track/7wd6gLSR8rELRaa9eGaPYN) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Lagunas Brillantes de la Memoria](https://open.spotify.com/album/731GTPDMW00SzyRrxsylLu) | 1:43 |
 | 52 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
 | 53 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
-| 54 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
-| 55 | [Sonora](https://open.spotify.com/track/6chfN5Qo4Z9dfuSHxxKSDM) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sonora](https://open.spotify.com/album/7vPsHR8Mut9AcfpK0PzrhW) | 3:27 |
-| 56 | [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 |
+| 54 | [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 |
+| 55 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
+| 56 | [Sonora](https://open.spotify.com/track/6chfN5Qo4Z9dfuSHxxKSDM) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sonora](https://open.spotify.com/album/7vPsHR8Mut9AcfpK0PzrhW) | 3:27 |
 | 57 | [Ya Valió](https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Escribí Esto para Ti](https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K) | 3:00 |
 | 58 | [desahogo](https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [desahogo](https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ) | 3:09 |
 | 59 | [Lo Mejor](https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Lo Mejor](https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI) | 3:05 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 66 | [Volver a Creer](https://open.spotify.com/track/3HrCUfC3oikCStUV7DeCGp) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Volver a Creer](https://open.spotify.com/album/79vM4z2ZJcCQTEFQSJ75tD) | 3:10 |
 | 67 | [Límite](https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Límite](https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1) | 3:12 |
 | 68 | [Compañera](https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [Compañera](https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR) | 3:13 |
-| 69 | [MUJER MARAVILLA](https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [MUJER MARAVILLA](https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0) | 3:06 |
-| 70 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
+| 69 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
+| 70 | [MUJER MARAVILLA](https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [MUJER MARAVILLA](https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0) | 3:06 |
 | 71 | [Medias tintas](https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Después del Norte](https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG) | 2:45 |
 | 72 | [El lugar correcto \- En Vivo \[Live at Carnegie Hall\]](https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [El lugar correcto \(En Vivo \[Live at Carnegie Hall\]\)](https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN) | 3:30 |
 | 73 | [Recuerda](https://open.spotify.com/track/4PR9EFA6QrxwxTcq4VKc5j) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Recuerda](https://open.spotify.com/album/3f3Zed8SFy5YDRaRHwXzaW) | 3:58 |

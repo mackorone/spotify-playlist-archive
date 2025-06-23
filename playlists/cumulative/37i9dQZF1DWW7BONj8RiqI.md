@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Kes
 
-377 songs - 20 hr 33 min
+378 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [In the Water](https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42) | [Suhrawh](https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL), [Chow Minister](https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM) | [In the Water](https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo) | 2:39 | 2023-05-15 |  |
 | [Instruction 2](https://open.spotify.com/track/7kvWtJnWrqxaIYc8Ydvr38) | [DEEJAY ASAP](https://open.spotify.com/artist/6gS3aG5pHWfSNTNnmgbyvy) | [Instruction 2](https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe) | 1:39 | 2024-07-24 | 2025-06-21 |
 | [Issa Snack](https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [The Art of Flex](https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL) | 3:03 | 2023-05-15 | 2023-07-12 |
+| [Jab Supremacy](https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Supremacy](https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH) | 3:00 | 2025-06-20 |  |
 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 | 2025-02-06 |  |
 | [Jelly](https://open.spotify.com/track/4U5pcsopVSZq6BXCdgH9Uk) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Jelly](https://open.spotify.com/album/1KnpGxfiGrfTlN3YOCk9Do) | 3:01 | 2022-08-18 | 2022-11-13 |
 | [Jelly](https://open.spotify.com/track/006mLMXWKbv6RrHGTWpY3f) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/6KohWNMUynz1OcxilOEFrh) | 3:01 | 2022-02-24 | 2022-10-05 |
@@ -236,7 +237,7 @@
 | [Oh Yay](https://open.spotify.com/track/69vJqBlRXJZFhhwl6l4Qln) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB) | 3:31 | 2023-02-21 | 2025-06-06 |
 | [Ola](https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB) | 3:06 | 2023-02-21 | 2025-06-06 |
 | [Ola](https://open.spotify.com/track/60pyY398ZW4YAt2onJXy09) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/4mulptpng0JbhJANmFo9x4) | 3:06 | 2021-08-26 | 2022-02-25 |
-| [Ou Dou](https://open.spotify.com/track/0hx2SCwOW2EdYduP1UhMsO) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2), [edwin](https://open.spotify.com/artist/5ju2xyIcFLh5T5vEeTkPBT) | [Ou Dou](https://open.spotify.com/album/0eyr7aKHXVnThe3r8pZD9k) | 2:40 | 2025-06-05 |  |
+| [Ou Dou](https://open.spotify.com/track/0hx2SCwOW2EdYduP1UhMsO) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2), [edwin](https://open.spotify.com/artist/5ju2xyIcFLh5T5vEeTkPBT) | [Ou Dou](https://open.spotify.com/album/0eyr7aKHXVnThe3r8pZD9k) | 2:40 | 2025-06-05 | 2025-06-23 |
 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 | 2022-02-24 | 2025-06-02 |
 | [Overdue](https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Overdue](https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3) | 2:57 | 2021-08-26 |  |
 | [P.A.L.A.N.C.E](https://open.spotify.com/track/3gQxrXakugcKhPfLaRUQuQ) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [For the Culture](https://open.spotify.com/album/71YAE4VCS9kDVKbRr4jIE6) | 2:03 | 2021-08-26 | 2022-02-25 |

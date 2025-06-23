@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 242359,
+  "num_followers": 242367,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAo0eSVsMhlVAWnNIceLwFj",
+  "snapshot_id": "aFX2AAAAAAAnpQeNO/PMLkZWtw/GWw9w",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+        "name": "Dark Sky Paradise",
+        "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
       },
       "artists": [
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 190053,
-      "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
+      "duration_ms": 319973,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH"
     },
     {
       "added_at": null,
@@ -107,22 +103,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Sky Paradise",
-        "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 319973,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH"
+      "duration_ms": 190053,
+      "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
     },
     {
       "added_at": null,

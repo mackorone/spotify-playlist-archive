@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,224 likes - 57 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,249 likes - 57 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 5 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 |
 | 6 | [Demasiado Romantica](https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:40 |
 | 7 | [Sobrevivire](https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw) | 4:15 |
-| 8 | [Como Olvidar \- Merengue Versión](https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Ronnie Torres](https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A) | [100% Merengue](https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI) | 4:39 |
+| 8 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
 | 9 | [Ni Tu Ni Yo](https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Mi Propuesta 1996](https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT) | 4:39 |
-| 10 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
+| 10 | [Como Olvidar \- Merengue Versión](https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Ronnie Torres](https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A) | [100% Merengue](https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI) | 4:39 |
 | 11 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 |
 | 12 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 |
 | 13 | [Mi Novia, Mi Amante y Mujer](https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Otro Dia Mas Sin Verte](https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP) | 4:47 |
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 35 | [Cuando Estés Con Él](https://open.spotify.com/track/6tBIGZ5EZzulhDdNeV5DyW) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vida, Canción y Suerte](https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u) | 3:40 |
 | 36 | [Quiero Saber de Tí](https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw) | [Raffy Matias](https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l) | [Acusame](https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI) | 4:41 |
 | 37 | [Te Compro Tu Novia](https://open.spotify.com/track/4Dh7uW5uZAbpPCuWhgOYB0) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm) | 4:27 |
-| 38 | [La Asesina](https://open.spotify.com/track/5Id9qsENY9T2d71zXuzLD8) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:49 |
+| 38 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
 | 39 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 |
 | 40 | [Si Algún Día la Ves](https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7) | 4:44 |
 | 41 | [Que Levante la Mano](https://open.spotify.com/track/4mPgxlYJlHWiy5BrzKxBe1) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Escúchame](https://open.spotify.com/album/09bJwJxoqry4AZzHQLlGiH) | 3:57 |
 | 42 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
-| 43 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
+| 43 | [La Asesina](https://open.spotify.com/track/5Id9qsENY9T2d71zXuzLD8) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:49 |
 | 44 | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz) | 5:42 |
 | 45 | [Vete y Dile](https://open.spotify.com/track/3XKNq4sd6UXmu1dKwIfhL5) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/6nudGjOlFRKCC2YFcaP2US) | 4:51 |
 | 46 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 148208,
+  "num_followers": 148288,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAABfYWBlqSGIMRF6ow1KLcFU",
+  "snapshot_id": "aFX2AAAAAAAcJm+hecD8r5xx9k/2dWFm",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Perfection (feat. Tiny Habits)",
-      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pageant Material",
         "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
@@ -815,42 +795,6 @@
       "duration_ms": 177680,
       "name": "High Time",
       "url": "https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Don't Do Me Good",
-      "url": "https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 139653,
-      "name": "angel",
-      "url": "https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT"
     },
     {
       "added_at": null,
@@ -871,6 +815,62 @@
       "duration_ms": 246293,
       "name": "waves (feat. Kacey Musgraves) - Remix",
       "url": "https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Perfection (feat. Tiny Habits)",
+      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 139653,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47"
     },
     {
       "added_at": null,

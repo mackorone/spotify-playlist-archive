@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-319 songs - 15 hr 46 min
+320 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Crazy](https://open.spotify.com/track/1WDp9O9RvmxMmJe3hXWK2g) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL), [Matt Wolff](https://open.spotify.com/artist/4EpbgBcPraTPaE3obtbvKA), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G) | [Crazy](https://open.spotify.com/album/76S7Gh6IMrRFixOxT8mAqC) | 2:26 | 2024-03-19 | 2024-08-02 |
 | [Crazy](https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Arthur](https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Crazy](https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa) | 2:18 | 2024-12-12 |  |
 | [Crazy](https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Crazy](https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA) | 3:40 | 2022-09-15 | 2024-02-08 |
-| [Dance Of Love](https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Wave94](https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO) | [Dance Of Love](https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h) | 2:27 | 2024-11-08 |  |
+| [Dance Of Love](https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Wave94](https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO) | [Dance Of Love](https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h) | 2:27 | 2024-11-08 | 2025-06-23 |
 | [Dancing In The Dark Alone](https://open.spotify.com/track/6zQPojpQG3IkS69M2qmABd) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Dancing In The Dark Alone](https://open.spotify.com/album/6ikXguU0h4yetGBHhEJ8M5) | 2:14 | 2024-09-10 | 2024-11-29 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/5Syog3zIYRAhI0yNuNKsAt) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Dancing With Your Ghost](https://open.spotify.com/album/4DtdGYRETIRqUmer6KpGJP) | 2:42 | 2024-07-26 | 2024-08-02 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Dancing With Your Ghost](https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL) | 2:42 | 2023-09-28 | 2024-04-19 |
@@ -299,6 +299,7 @@
 | [Touch The Sun](https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ) | [Wontu](https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb), [Woodworks](https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z) | [Touch The Sun](https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8) | 2:25 | 2024-09-19 | 2025-04-07 |
 | [Toxic](https://open.spotify.com/track/15DlPYUnP84cvA4zC2zMDa) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Toxic](https://open.spotify.com/album/2pcgvMdOZHUHVWT5JAC6gA) | 3:17 | 2022-09-29 | 2022-11-18 |
 | [Turning Blind](https://open.spotify.com/track/1mPqkPH49x4jSGa4pIvqvr) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Turning Blind](https://open.spotify.com/album/4e39VrmCqVtP0N4jGocQl7) | 5:38 | 2024-07-26 | 2024-12-13 |
+| [Under The Same Sun](https://open.spotify.com/track/6jaHe3gyK9hS6DYpmvVlam) | [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Under The Same Sun](https://open.spotify.com/album/309NyVvA8HXRov57v0PMaP) | 2:37 | 2025-06-20 |  |
 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 | 2025-03-13 |  |
 | [Unrequited](https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Unrequited](https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P) | 2:51 | 2022-09-29 | 2024-12-13 |
 | [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 | 2025-05-15 |  |

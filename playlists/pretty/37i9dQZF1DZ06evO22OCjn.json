@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 317024,
+  "num_followers": 317115,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACMVPxyzWZIM+kLjzf6122s",
+  "snapshot_id": "aFX2AAAAAAAZnUZiVPS9JZ2/RxPb5JIV",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
     },
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 185898,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/1zIk8RJEKGvoH4FioFnGyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 185898,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/1zIk8RJEKGvoH4FioFnGyJ"
     },
     {
       "added_at": null,

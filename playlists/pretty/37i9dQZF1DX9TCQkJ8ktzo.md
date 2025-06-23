@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > The Latin soundtrack of the 60s! Cover: Armando Manzanero
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,459 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,488 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 26 | [Monólogo](https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 2:56 |
 | 27 | [Cuando Calienta el Sol](https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:57 |
 | 28 | [Muchacha Bonita](https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:21 |
-| 29 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
-| 30 | [El Nido](https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:59 |
+| 29 | [El Nido](https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:59 |
+| 30 | [Creí](https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv) | [Juan Mendoza](https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S) | [Antología...Juan Mendoza "El Tariacuri"](https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U) | 2:59 |
 | 31 | [Chica Alborotada](https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 2:06 |
 | 32 | [La Guarachera](https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 2:44 |
 | 33 | [Entrega Total](https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:30 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 42 | [Más Allá](https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Trios de Oro, Vol\. 1](https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR) | 2:37 |
 | 43 | [Locamente Te Amaré](https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Versiones Originales Vol.2](https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK) | 2:39 |
 | 44 | [Somos Novios](https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:37 |
-| 45 | [Shimmy Shimmy Ko Ko Bop](https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Historia Músical \- 40 Éxitos del Festival de Ancón](https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9) | 2:16 |
+| 45 | [Colores \- Remastered](https://open.spotify.com/track/068uocva293Tr77QgIZeIf) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 2:12 |
 | 46 | [Pensaba en Ti](https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Personalidad](https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ) | 3:22 |
-| 47 | [Colores \- Remastered](https://open.spotify.com/track/068uocva293Tr77QgIZeIf) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 2:12 |
+| 47 | [Shimmy Shimmy Ko Ko Bop](https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Historia Músical \- 40 Éxitos del Festival de Ancón](https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9) | 2:16 |
 | 48 | [El día de los enamorados \(remastered\)](https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 2:06 |
 | 49 | [Herencia Gitana](https://open.spotify.com/track/71OaY7celWpuQh00OlDrls) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 3:11 |
-| 50 | [Me Siento Loco](https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:12 |
+| 50 | [Eres Diferente](https://open.spotify.com/track/5kdj2yC3I0uqohVuTAvrkf) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [22 Grandes Exitos](https://open.spotify.com/album/245rgwEnRg54XD7xQSCLOM) | 2:03 |
 
 Snapshot ID: `ZinfgQAAAAD1FchgL5PYKRw4da4zpI3/`

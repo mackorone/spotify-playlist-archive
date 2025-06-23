@@ -7553,6 +7553,24 @@
     },
     {
       "album": {
+        "name": "Something's Wrong",
+        "url": "https://open.spotify.com/album/1xuZIqxmZleNkPG8PonAp3"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200729,
+      "name": "Something's Wrong",
+      "url": "https://open.spotify.com/track/45afJugFs63B3KaDO3pcVa"
+    },
+    {
+      "album": {
         "name": "Sorry I'm Late, I Didn't Want To Come",
         "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
       },

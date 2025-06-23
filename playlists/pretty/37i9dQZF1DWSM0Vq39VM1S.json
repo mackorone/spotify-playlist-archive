@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388641,
+  "num_followers": 388665,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-06-17 15:30:29",
       "album": {
+        "name": "Touching Toes",
+        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Touching Toes",
+      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
+    },
+    {
+      "added_at": "2025-06-17 15:30:29",
+      "album": {
         "name": "Flower Moon",
         "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2025-06-17 15:30:29",
-      "album": {
-        "name": "Touching Toes",
-        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Touching Toes",
-      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
     },
     {
       "added_at": "2025-06-17 15:30:29",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-06-17 15:30:29",
       "album": {
-        "name": "GOLIATH",
-        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "**GOLIATH**",
-      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
-    },
-    {
-      "added_at": "2025-06-17 15:30:29",
-      "album": {
         "name": "Wally",
         "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 128332,
       "name": "Wally",
       "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+    },
+    {
+      "added_at": "2025-06-17 15:30:29",
+      "album": {
+        "name": "GOLIATH",
+        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "**GOLIATH**",
+      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
     },
     {
       "added_at": "2025-06-17 15:30:29",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-06-17 15:30:29",
       "album": {
-        "name": "Where'd It Go Wrong?",
-        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 251294,
-      "name": "Where'd It Go Wrong?",
-      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
-    },
-    {
-      "added_at": "2025-06-17 15:30:29",
-      "album": {
         "name": "Beautiful Thingz",
         "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 208031,
       "name": "Beautiful Thingz",
       "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
+    },
+    {
+      "added_at": "2025-06-17 15:30:29",
+      "album": {
+        "name": "Where'd It Go Wrong?",
+        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Where'd It Go Wrong?",
+      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
     },
     {
       "added_at": "2025-06-17 15:30:29",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-06-17 15:30:29",
       "album": {
-        "name": "Grateful For",
-        "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
+        "name": "What We Leave Behind",
+        "url": "https://open.spotify.com/album/5glE2xnhRJnkan4lHWgXJt"
       },
       "artists": [
         {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
         }
       ],
-      "duration_ms": 219779,
-      "name": "Grateful For",
-      "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
+      "duration_ms": 162699,
+      "name": "Parallel Lines",
+      "url": "https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO"
     },
     {
       "added_at": "2025-06-17 15:30:29",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-06-17 15:30:29",
       "album": {
-        "name": "What We Leave Behind",
-        "url": "https://open.spotify.com/album/5glE2xnhRJnkan4lHWgXJt"
+        "name": "Grateful For",
+        "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
       },
       "artists": [
         {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 162699,
-      "name": "Parallel Lines",
-      "url": "https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO"
+      "duration_ms": 219779,
+      "name": "Grateful For",
+      "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
     },
     {
       "added_at": "2025-06-17 15:30:29",

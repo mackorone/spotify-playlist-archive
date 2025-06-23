@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,778 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,788 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 40 | [La Semilla](https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [El Equilibrio](https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ) | 2:49 |
 | 41 | [Soy Latino](https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp) | [Soy Latino](https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e) | 3:09 |
 | 42 | [La Despedida](https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [La Despedida](https://open.spotify.com/album/7tk1J50942TGMsEGUGGlJJ) | 3:08 |
-| 43 | [Que Divague](https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2) | [S.K.A.](https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh) | [Auténtico Rock\. Grandes Éxitos del Rock Paraguayo](https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ) | 4:05 |
-| 44 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
+| 43 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
+| 44 | [Que Divague](https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2) | [S.K.A.](https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh) | [Auténtico Rock\. Grandes Éxitos del Rock Paraguayo](https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ) | 4:05 |
 | 45 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 |
 | 46 | [Verano ´99](https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Verano ´99](https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A) | 2:43 |
 | 47 | [Isla del Pacífico](https://open.spotify.com/track/5oOpcWXnLzrPzPCk1upLUw) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Lo Mágico y Lo Místico](https://open.spotify.com/album/4Geye3gQ4G8rz5LTkWCHcL) | 2:51 |

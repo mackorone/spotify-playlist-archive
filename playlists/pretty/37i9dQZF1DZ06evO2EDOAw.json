@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4932,
+  "num_followers": 4936,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAkjWfzXoL4oynFI3nhVKZy",
+  "snapshot_id": "aFX2AAAAAABPtEyfGNFh+eBQZrRbKROt",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dependable",
-        "url": "https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4"
-      },
-      "artists": [
-        {
-          "name": "Enkay Ogboruche",
-          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 262211,
-      "name": "Dependable",
-      "url": "https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 547000,
       "name": "Free - Live",
       "url": "https://open.spotify.com/track/0RNPiXc8aLrCbuivYlouzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dependable",
+        "url": "https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4"
+      },
+      "artists": [
+        {
+          "name": "Enkay Ogboruche",
+          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 262211,
+      "name": "Dependable",
+      "url": "https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP"
     },
     {
       "added_at": null,
@@ -887,30 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V4...The Other Side",
-        "url": "https://open.spotify.com/album/2vdDEuqRB1P8oCAACbtoYJ"
-      },
-      "artists": [
-        {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Good Day (feat. Kierra Sheard & Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/4zy2i9BCsLZjOCQ5P4TkY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 282440,
       "name": "So Glad",
       "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V4...The Other Side",
+        "url": "https://open.spotify.com/album/2vdDEuqRB1P8oCAACbtoYJ"
+      },
+      "artists": [
+        {
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Good Day (feat. Kierra Sheard & Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/4zy2i9BCsLZjOCQ5P4TkY2"
     },
     {
       "added_at": null,
@@ -1051,6 +1051,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Hear This",
+      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SORRY, I CHANGED (AGAIN)",
         "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 196988,
       "name": "Paid It All",
       "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Hear This",
-      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
     },
     {
       "added_at": null,

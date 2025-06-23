@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Rossi & Jazzy with the ID we've been craving!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,011 likes - 476 songs - 1 day 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,109 likes - 476 songs - 1 day 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

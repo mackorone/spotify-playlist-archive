@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,094 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,088 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 35 | [Santa Baby](https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Santa Baby](https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT) | 3:28 |
 | 36 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
 | 37 | [Sleigh Ride](https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 3:01 |
-| 38 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
-| 39 | [Feliz Navidad](https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [The Definite Best](https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv) | 3:02 |
+| 38 | [Feliz Navidad](https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [The Definite Best](https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv) | 3:02 |
+| 39 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 40 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
 | 41 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
 | 42 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 73 | [Last Christmas](https://open.spotify.com/track/0u74xi5AJEulKPccore7B2) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb), [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Last Christmas](https://open.spotify.com/album/5M5dF1R53sHPHUGuPMRz4R) | 2:48 |
 | 74 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
 | 75 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
-| 76 | [MERRY NOTHIN](https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MERRY NOTHIN](https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX) | 2:58 |
+| 76 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
 | 77 | [Christmas Eve](https://open.spotify.com/track/5XfVRHoVYasTImnbhjoq94) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:16 |
-| 78 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
+| 78 | [MERRY NOTHIN](https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MERRY NOTHIN](https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX) | 2:58 |
 | 79 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
 | 80 | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/track/72LocLBQn2IZVoiiP0F3o8) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [It's Not Christmas Till Somebody Cries](https://open.spotify.com/album/677DoK1InjZA0D6zEeisw4) | 2:52 |
 | 81 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/7Ivelh8N9J25Yj9KKxYj6w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 2:51 |

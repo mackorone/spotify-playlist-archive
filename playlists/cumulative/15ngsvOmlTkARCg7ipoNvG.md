@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,985 songs - 1 day 16 hr 12 min
+1,986 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1927,6 +1927,7 @@
 | [Wind Down \- Strings Version](https://open.spotify.com/track/6RPTyUxkVbpsV8bt6KstHd) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wind Down \(Strings Version\)](https://open.spotify.com/album/5NSmXFATijB6z7AAc29MWj) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Winding Down](https://open.spotify.com/track/4a1OHxZdT08sWqyzKSjlbb) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dreaming in the Rain](https://open.spotify.com/album/3rGGRbwcJXPeVxaNEiBHyW) | 1:12 | 2022-01-12 |  |
 | [Windows](https://open.spotify.com/track/7sTubWWRJiQsGDKhxzRGuB) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Twin](https://open.spotify.com/album/08alG4ZQrDZj6mq77Jj7AJ) | 1:19 | 2022-01-12 | 2024-01-30 |
+| [Winter](https://open.spotify.com/track/5Hi7Xk8AizOdSWtScBo2pF) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Winter](https://open.spotify.com/album/3yrzIGnOfeHc5jNat3lTYO) | 1:00 | 2025-06-22 |  |
 | [Winter Afternoon Dreams](https://open.spotify.com/track/7oiZPTvoNEMu74wh3jYkAg) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Winter Afternoon Dreams](https://open.spotify.com/album/77yTybaDwDuOSKBEdzEl8B) | 1:01 | 2023-01-10 |  |
 | [Winter Dreaming \- Cello Version](https://open.spotify.com/track/0WpTrru3uq51NVOLEYDIaP) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Winter Dreaming](https://open.spotify.com/album/2hjgYqY0IAILLHkyUDwqcX) | 1:13 | 2024-02-09 | 2024-02-13 |
 | [Winter Dreams](https://open.spotify.com/track/7x9qvMCDgjmTP9pbIsmJKj) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Winter Dreams](https://open.spotify.com/album/2QAa1S8RsaQ2GQwBfQPgO7) | 2:26 | 2022-01-12 | 2024-01-30 |

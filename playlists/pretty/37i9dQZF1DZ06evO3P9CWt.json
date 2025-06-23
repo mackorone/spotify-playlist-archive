@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280581,
+  "num_followers": 280587,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADTGLtxlVq2A7AY97byXsd9",
+  "snapshot_id": "aFX2AAAAAAD4PbJ9Iun7bfNFJbgbpJEr",
   "tracks": [
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brava",
         "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 158544,
       "name": "Trago seu Amor de Volta (feat. Dilsinho)",
       "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
     },
     {
       "added_at": null,

@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 151666,
       "name": "Afterdawn",
       "url": "https://open.spotify.com/track/0V4TpiZBeby9w9CvBrVaNL"
@@ -7429,6 +7429,28 @@
     },
     {
       "album": {
+        "name": "Palm Tree Bounce",
+        "url": "https://open.spotify.com/album/33OYw09Ke0H6uncewCuG3T"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Palm Tree Bounce",
+      "url": "https://open.spotify.com/track/0wrkpCUbuXc8dDaBNe8B0y"
+    },
+    {
+      "album": {
         "name": "Palmers / King Cobra (Alfa Mist Remix, JSPHYNX Remix)",
         "url": "https://open.spotify.com/album/4dbnO6XL2Y9VpFEM4X4KVi"
       },
@@ -7812,6 +7834,28 @@
       "duration_ms": 128780,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/5fEQg559m7sLKw78foaoWF"
+    },
+    {
+      "album": {
+        "name": "Postcards from yesterday",
+        "url": "https://open.spotify.com/album/3NCKToVhYMvkdz1gebBo8M"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "tenkousei.",
+          "url": "https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90617,
+      "name": "Postcards from yesterday",
+      "url": "https://open.spotify.com/track/2v3ny15ONDliawHnJPhNnO"
     },
     {
       "album": {
@@ -11404,7 +11448,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 140816,
       "name": "What If",
       "url": "https://open.spotify.com/track/4nF4pM4QjUdggBFVf2h67C"

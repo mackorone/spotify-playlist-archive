@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,134 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,135 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 23 | [Me and Mrs\. Jones \(1895 Jazz Remix\)](https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK) | [1895](https://open.spotify.com/artist/02I4WY5ssrOFmOSU4sEzxp), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Kay Sax](https://open.spotify.com/artist/2V5gBk8YFrg9fwYtacwZCh) | [Me and Mrs\. Jones \(1895 Jazz Remix\)](https://open.spotify.com/album/3fBz6LPWXI78PIWkFt3HLs) | 5:08 |
 | 24 | [Love Buddies](https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 3:39 |
 | 25 | [War of the Gods](https://open.spotify.com/track/43DVOH2EmG4jX0UmUcr7W5) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 10:05 |
-| 26 | [Billy's Back Home](https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 4:32 |
-| 27 | [Don't Give Up On Us](https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:39 |
+| 26 | [Don't Give Up On Us](https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:39 |
+| 27 | [Billy's Back Home](https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 4:32 |
 | 28 | [This Is Your Life](https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 4:15 |
 | 29 | [People Power](https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 4:17 |
 | 30 | [Thank You \(For This Blessing\)](https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 2:57 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 37 | [Amanhã \(feat\. Billy Paul\)](https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Sandra de Sá \(1988\)](https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm) | 5:25 |
 | 38 | [The Whole Town's Talking](https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 4:47 |
 | 39 | [Everybody's Breakin' Up](https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:02 |
-| 40 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/5Eoz3m5ib7RAQ6X516P7nN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Feelin' Good at the Cadillac Club](https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR) | 2:35 |
-| 41 | [East](https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 6:27 |
-| 42 | [Ebony Woman](https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:52 |
+| 40 | [I Gotta Put This Life Down](https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:45 |
+| 41 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/5Eoz3m5ib7RAQ6X516P7nN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Feelin' Good at the Cadillac Club](https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR) | 2:35 |
+| 42 | [East](https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 6:27 |
 | 43 | [One Man's Junk](https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:16 |
-| 44 | [I Gotta Put This Life Down](https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:45 |
+| 44 | [What A Way To Love](https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:20 |
 | 45 | [We All Got A Mission](https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 3:20 |
-| 46 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 |
+| 46 | [Ebony Woman](https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:52 |
 | 47 | [The Times Of Our Lives](https://open.spotify.com/track/5CKiJHl7e2TgQV7uggALnK) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:02 |
-| 48 | [What A Way To Love](https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:20 |
-| 49 | [My Head's On Straight](https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 3:11 |
-| 50 | [America \(We Need the Light\)](https://open.spotify.com/track/3rCSyRKxjdX7l6QtIQmGhi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 5:21 |
+| 48 | [My Head's On Straight](https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 3:11 |
+| 49 | [America \(We Need the Light\)](https://open.spotify.com/track/3rCSyRKxjdX7l6QtIQmGhi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 5:21 |
+| 50 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 |
 
-Snapshot ID: `aFSkgAAAAACIE5N+3ARAcU1SNF5Djwt0`
+Snapshot ID: `aFX2AAAAAABh4LxwURDP8A5MzvAwx+p6`

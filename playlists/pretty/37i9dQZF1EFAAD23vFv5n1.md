@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 19 | [scs](https://open.spotify.com/track/1SaKgMxGgsh5uOTud5YeqR) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:06 |
 | 20 | [Radical](https://open.spotify.com/track/2dk6mSHg6VUT7nFfmgGJVa) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:59 |
 | 21 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 |
-| 22 | [Paranoie](https://open.spotify.com/track/6pRSnQ7NxpB9eCIa3N0Gqg) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Paranoie](https://open.spotify.com/album/0Xmz1F6dcfJ8mRpZyJhPZT) | 2:30 |
-| 23 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/2eSUkPPlvV0SxVk65skDbJ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:03 |
+| 22 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/2eSUkPPlvV0SxVk65skDbJ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:03 |
+| 23 | [Paranoie](https://open.spotify.com/track/6pRSnQ7NxpB9eCIa3N0Gqg) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Paranoie](https://open.spotify.com/album/0Xmz1F6dcfJ8mRpZyJhPZT) | 2:30 |
 | 24 | [Katholisch Erzogen](https://open.spotify.com/track/3XJWENXsyuxRwSdCT57z6f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Katholisch Erzogen](https://open.spotify.com/album/1G00lF8JYRNgpzQDfFdIXD) | 2:13 |
 | 25 | [Wah Wah](https://open.spotify.com/track/4ENsfBs38JiwX96HasFH78) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Wah Wah](https://open.spotify.com/album/7hW0lNWIc1ll7RjjCn0k64) | 2:28 |
 | 26 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 130 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 131 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `Ab0w1AAAAABBswaLOFO9Ea7nxZUNZpJG`
+Snapshot ID: `Ab02kwAAAAD7sBsaygqBKNsdgfPD46xJ`

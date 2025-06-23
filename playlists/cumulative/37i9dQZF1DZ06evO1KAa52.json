@@ -255,6 +255,36 @@
     },
     {
       "album": {
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        },
+        {
+          "name": "Max Martin",
+          "url": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Shellback",
+          "url": "https://open.spotify.com/artist/268mhnkat7rZjlnOsJoZg8"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182746,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN"
+    },
+    {
+      "album": {
         "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
         "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
       },
@@ -1288,7 +1318,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 370133,
       "name": "Medley: Let Me Talk to You / My Love (feat. T.I.)",
       "url": "https://open.spotify.com/track/1vMuSYlp2Im8Gpj6JxRJfj"

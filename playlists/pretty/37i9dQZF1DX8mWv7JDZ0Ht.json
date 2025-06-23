@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Lourena, Rod Melim",
-  "num_followers": 437837,
+  "num_followers": 437830,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-06-20 08:08:47",
       "album": {
-        "name": "ANEMOIA",
-        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
-      },
-      "artists": [
-        {
-          "name": "Marina Gold",
-          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
-        }
-      ],
-      "duration_ms": 212234,
-      "name": "ROSA",
-      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
-    },
-    {
-      "added_at": "2025-06-20 08:08:47",
-      "album": {
         "name": "encontro de alma",
         "url": "https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 185538,
       "name": "encontro de alma",
       "url": "https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb"
+    },
+    {
+      "added_at": "2025-06-20 08:08:47",
+      "album": {
+        "name": "ANEMOIA",
+        "url": "https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE"
+      },
+      "artists": [
+        {
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "ROSA",
+      "url": "https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl"
     },
     {
       "added_at": "2025-06-20 08:08:47",
@@ -359,26 +359,6 @@
     {
       "added_at": "2025-06-20 08:08:47",
       "album": {
-        "name": "Quem \u00c9 Voc\u00ea?",
-        "url": "https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk"
-      },
-      "artists": [
-        {
-          "name": "Whindersson Nunes",
-          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
-        },
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Quem \u00c9 Voc\u00ea?",
-      "url": "https://open.spotify.com/track/0fburSFYhNq39QBirzGILU"
-    },
-    {
-      "added_at": "2025-06-20 08:08:47",
-      "album": {
         "name": "S\u00f3 love",
         "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 161934,
       "name": "S\u00f3 love",
       "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
+    },
+    {
+      "added_at": "2025-06-20 08:08:47",
+      "album": {
+        "name": "Quem \u00c9 Voc\u00ea?",
+        "url": "https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk"
+      },
+      "artists": [
+        {
+          "name": "Whindersson Nunes",
+          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+        },
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Quem \u00c9 Voc\u00ea?",
+      "url": "https://open.spotify.com/track/0fburSFYhNq39QBirzGILU"
     },
     {
       "added_at": "2025-06-20 08:08:47",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-06-20 08:08:47",
       "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
-    },
-    {
-      "added_at": "2025-06-20 08:08:47",
-      "album": {
         "name": "Ombro Amigo",
         "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 174817,
       "name": "Poder Amar",
       "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
+    },
+    {
+      "added_at": "2025-06-20 08:08:47",
+      "album": {
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
     },
     {
       "added_at": "2025-06-20 08:08:47",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-06-20 08:08:47",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
-    },
-    {
-      "added_at": "2025-06-20 08:08:47",
-      "album": {
         "name": "Fica De Dengo",
         "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2025-06-20 08:08:47",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2025-06-20 08:08:47",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-06-20 08:08:47",
       "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
-    },
-    {
-      "added_at": "2025-06-20 08:08:47",
-      "album": {
         "name": "Ombro Amigo",
         "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 175176,
       "name": "Ombro Amigo",
       "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
+    },
+    {
+      "added_at": "2025-06-20 08:08:47",
+      "album": {
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2025-06-20 08:08:47",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-06-20 08:08:47",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2025-06-20 08:08:47",
-      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 160000,
       "name": "Me Deixa Ser S\u00f3 Teu",
       "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2025-06-20 08:08:47",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2025-06-20 08:08:47",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-06-20 08:08:47",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 257521,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
-    },
-    {
-      "added_at": "2025-06-20 08:08:47",
-      "album": {
         "name": "Todas as Saudades",
         "url": "https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 173294,
       "name": "Desperd\u00edcio",
       "url": "https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK"
+    },
+    {
+      "added_at": "2025-06-20 08:08:47",
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 257521,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
     },
     {
       "added_at": "2025-06-20 08:08:47",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-06-20 08:08:47",
       "album": {
+        "name": "G\u00e9rbera + Na Proa da Saudade",
+        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 216747,
+      "name": "Na Proa da Saudade",
+      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
+    },
+    {
+      "added_at": "2025-06-20 08:08:47",
+      "album": {
         "name": "Voltei",
         "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
       },
@@ -1039,18 +1055,22 @@
     {
       "added_at": "2025-06-20 08:08:47",
       "album": {
-        "name": "G\u00e9rbera + Na Proa da Saudade",
-        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
+        "name": "Pessoas fazem coisas",
+        "url": "https://open.spotify.com/album/55AtAoLyDdUKi9flGdKIzQ"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Renato Frei",
+          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
         }
       ],
-      "duration_ms": 216747,
-      "name": "Na Proa da Saudade",
-      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
+      "duration_ms": 136588,
+      "name": "Pessoas fazem coisas",
+      "url": "https://open.spotify.com/track/5d74SphyeUl9RrAiRuvR7p"
     },
     {
       "added_at": "2025-06-20 08:08:47",
@@ -1335,26 +1355,6 @@
       "duration_ms": 230333,
       "name": "Inverno Sem Ver\u00e3o",
       "url": "https://open.spotify.com/track/6M5FpmdT1YWh3Nu16azdL9"
-    },
-    {
-      "added_at": "2025-06-20 08:08:47",
-      "album": {
-        "name": "Pessoas fazem coisas",
-        "url": "https://open.spotify.com/album/55AtAoLyDdUKi9flGdKIzQ"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Renato Frei",
-          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
-        }
-      ],
-      "duration_ms": 136588,
-      "name": "Pessoas fazem coisas",
-      "url": "https://open.spotify.com/track/5d74SphyeUl9RrAiRuvR7p"
     },
     {
       "added_at": "2025-06-20 08:08:47",

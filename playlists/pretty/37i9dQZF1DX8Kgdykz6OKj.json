@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1475604,
+  "num_followers": 1476067,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2025-06-20 04:00:32",
       "album": {
+        "name": "Doom",
+        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        },
+        {
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        }
+      ],
+      "duration_ms": 136785,
+      "name": "Doom",
+      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+    },
+    {
+      "added_at": "2025-06-20 04:00:32",
+      "album": {
         "name": "Jazz & Coffee, Pt. 4",
         "url": "https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70"
       },
@@ -1767,26 +1787,6 @@
       "duration_ms": 180000,
       "name": "Jazz & Coffee, Pt. 4",
       "url": "https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ"
-    },
-    {
-      "added_at": "2025-06-20 04:00:32",
-      "album": {
-        "name": "Doom",
-        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        },
-        {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
-        }
-      ],
-      "duration_ms": 136785,
-      "name": "Doom",
-      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     },
     {
       "added_at": "2025-06-20 04:00:32",

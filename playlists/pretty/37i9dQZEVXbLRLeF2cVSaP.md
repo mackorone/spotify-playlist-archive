@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,874 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,876 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 30 | [Who \(Shibuyakei Remix\)](https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 2:46 |
 | 31 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 |
 | 32 | [Катюха](https://open.spotify.com/track/3Fdo0fNzj2QnPU1SgsNHcV) | [whitek3d](https://open.spotify.com/artist/3IWgGXUSjXN8Lc2fJkAMsP) | [Катюха](https://open.spotify.com/album/1SfskVJm321ZlEFV3YFrVM) | 1:17 |
-| 33 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
+| 33 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
 | 34 | [Killin' It Girl \(Solo Version\)](https://open.spotify.com/track/3efpTAvesRrJYCTx4w2UVc) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Killin' It Girl \(feat\. GloRilla\) \(Remixes\)](https://open.spotify.com/album/1mzoF69QOJgXCBjK1shh85) | 2:18 |
 | 35 | [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 |
 | 36 | [Все хотят меня поцеловать](https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/4cRqvcjfnQDxwCTGP2UAUV) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Стань](https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 3:08 |
 | 50 | [Страшный сон 2](https://open.spotify.com/track/1GaJ8rxMQPzCfdZeMGH82G) | [Раковая Выхухоль](https://open.spotify.com/artist/7y6TkCfv1kEBd6YmloUGLK) | [Страшный сон 2](https://open.spotify.com/album/74R9c208EJ1YRoutQjUynU) | 1:50 |
 
-Snapshot ID: `L+onKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+t2UAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106562,
+  "num_followers": 106558,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 257984,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 246786,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Ahora y Siempre",
         "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 149275,
       "name": "Ahora y Siempre",
       "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Oliver Twist",
-        "url": "https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5"
-      },
-      "artists": [
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Oliver Twist",
-      "url": "https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Stop This Flame",
         "url": "https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 209407,
       "name": "Stop This Flame",
       "url": "https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Oliver Twist",
+        "url": "https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Oliver Twist",
+      "url": "https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Wrong Time",
-        "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
-      },
-      "artists": [
-        {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
-        }
-      ],
-      "duration_ms": 170387,
-      "name": "Wrong Time",
-      "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Wrong Time",
+        "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
+      },
+      "artists": [
+        {
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        }
+      ],
+      "duration_ms": 170387,
+      "name": "Wrong Time",
+      "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "Totally",
-      "url": "https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 283225,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "Totally",
+      "url": "https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Black Star Elephant",
+        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
+      },
+      "artists": [
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 227318,
+      "name": "When the Day Comes",
+      "url": "https://open.spotify.com/track/0P2HAFu7RnkfPnkimNi7I5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "B. Inspired",
         "url": "https://open.spotify.com/album/2hnJVh7gOSbRDHanTb5Lnr"
       },
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Black Star Elephant",
-        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
-      },
-      "artists": [
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 227318,
-      "name": "When the Day Comes",
-      "url": "https://open.spotify.com/track/0P2HAFu7RnkfPnkimNi7I5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "ErruDumEllaHvad",
         "url": "https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Smallpools",
-        "url": "https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Laughter, Tears & Goosebumps",
         "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 164000,
       "name": "Scatter",
       "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Smallpools",
+        "url": "https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

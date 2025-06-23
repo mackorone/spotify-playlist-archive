@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 3992311,
+  "num_followers": 3992160,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Unsteady",
+      "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 371320,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Unsteady",
-      "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Made In The A.M. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 230320,
       "name": "If I Could Fly",
       "url": "https://open.spotify.com/track/5CRVwXGikmqzoRO6q7FeAg"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Bedroom Demos",
-        "url": "https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 220239,
-      "name": "A Drop in the Ocean",
-      "url": "https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 189186,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Bedroom Demos",
+        "url": "https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 220239,
+      "name": "A Drop in the Ocean",
+      "url": "https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "hate myself",
+      "url": "https://open.spotify.com/track/1bXm6XU3SYSqQGLTRhUSfm"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Unlearn (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 155361,
       "name": "Unlearn (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "hate myself",
-      "url": "https://open.spotify.com/track/1bXm6XU3SYSqQGLTRhUSfm"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 214525,
       "name": "Paper Houses",
       "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Habits of My Heart",
         "url": "https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ"
       },
@@ -2919,6 +2903,22 @@
       "duration_ms": 248554,
       "name": "I'll Be Good",
       "url": "https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3167,22 +3167,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 233480,
-      "name": "the lonely",
-      "url": "https://open.spotify.com/track/21JTgoZLDB2F4Fx0uRCmTL"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -3199,6 +3183,22 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 233480,
+      "name": "the lonely",
+      "url": "https://open.spotify.com/track/21JTgoZLDB2F4Fx0uRCmTL"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3251,18 +3251,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Black Hole (Acoustic Version)",
-        "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
+        "name": "When Scars Become Art II",
+        "url": "https://open.spotify.com/album/4rhFfl7HLvinrnl8u7eVVD"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        },
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
         }
       ],
-      "duration_ms": 175979,
-      "name": "Black Hole - Acoustic Version",
-      "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
+      "duration_ms": 252096,
+      "name": "When Scars Become Art II",
+      "url": "https://open.spotify.com/track/1cASy7TwuNBB0e6KXydoFr"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3283,22 +3287,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "When Scars Become Art II",
-        "url": "https://open.spotify.com/album/4rhFfl7HLvinrnl8u7eVVD"
+        "name": "Black Hole (Acoustic Version)",
+        "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
       },
       "artists": [
         {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        },
-        {
-          "name": "Maximillian",
-          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 252096,
-      "name": "When Scars Become Art II",
-      "url": "https://open.spotify.com/track/1cASy7TwuNBB0e6KXydoFr"
+      "duration_ms": 175979,
+      "name": "Black Hole - Acoustic Version",
+      "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
     }
   ],
   "unique_name": "Life Sucks",

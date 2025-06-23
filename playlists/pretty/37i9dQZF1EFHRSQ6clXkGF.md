@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,252 likes - 270 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,253 likes - 270 songs - 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 96 | [Age of Apathy](https://open.spotify.com/track/3ZzMnokqu1zCrHI9NJviKj) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:58 |
 | 97 | [The Fiddle and the Drum](https://open.spotify.com/track/6KVD2DiqO7tPrdfhLWD2bo) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 2:49 |
 | 98 | [Let the Wind Carry Me](https://open.spotify.com/track/5yc1Ppyv82c9qSjHd75YYd) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 3:56 |
-| 99 | [Not to Blame](https://open.spotify.com/track/5QUBmoVPLT25eaeesozYrf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 4:18 |
-| 100 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 |
+| 99 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 |
+| 100 | [Not to Blame](https://open.spotify.com/track/5QUBmoVPLT25eaeesozYrf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 4:18 |
 | 101 | [Sunny Sunday](https://open.spotify.com/track/7duEwoBcTXRhoXXlFUkySJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 2:36 |
 | 102 | [Sweet Bird](https://open.spotify.com/track/02TVLk5qOiB74xvS4kzEkg) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:11 |
 | 103 | [If I Had a Heart](https://open.spotify.com/track/6T2aFIrJZm33z6Ft3gwWrh) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 4:04 |
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 162 | [The Three Great Stimulants](https://open.spotify.com/track/4qu8tJxJhTVmxyRzsfHaUl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 6:13 |
 | 163 | [Dog Eat Dog](https://open.spotify.com/track/4L4upbUY4UgmWH7fGlfi2F) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:41 |
 | 164 | [Impossible Dreamer](https://open.spotify.com/track/3LL2xAv4APQfVn3v731x7L) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:31 |
-| 165 | [Solid Love](https://open.spotify.com/track/0x5oQIxpWcBFVTcWL4Ulxk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 3:05 |
-| 166 | [Introduction \- Live](https://open.spotify.com/track/7bKgkxu1H5vCsvrHhKnSJR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shadows and Light](https://open.spotify.com/album/0sk9dYm1TZbsxJ5hIEBuby) | 1:54 |
+| 165 | [Introduction \- Live](https://open.spotify.com/track/7bKgkxu1H5vCsvrHhKnSJR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shadows and Light](https://open.spotify.com/album/0sk9dYm1TZbsxJ5hIEBuby) | 1:54 |
+| 166 | [Solid Love](https://open.spotify.com/track/0x5oQIxpWcBFVTcWL4Ulxk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 3:05 |
 | 167 | [No Apologies](https://open.spotify.com/track/2ixpbZPtBXjObzNdwoxDRr) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:17 |
 | 168 | [Shiny Toys](https://open.spotify.com/track/1T0VhB8dbtqrQthghKbeFR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 3:27 |
 | 169 | [The Tenth World](https://open.spotify.com/track/5gCBrGMeLvH7SK3B214HXk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 6:45 |
@@ -189,12 +189,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 179 | [Hunter \- Blue Sessions](https://open.spotify.com/track/1GnMGOCDbIs4zGcD76mRqo) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue 50 \(Demos & Outtakes\)](https://open.spotify.com/album/2RVdQl5hVdFbbyGX6lv2ug) | 2:57 |
 | 180 | [Tax Free](https://open.spotify.com/track/7HQNOdavc561uf8gOJKoXP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:17 |
 | 181 | [The Crazy Cries of Love](https://open.spotify.com/track/0FG3tUZnPQhaFPkDmR8jGJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 3:54 |
-| 182 | [The Reoccurring Dream](https://open.spotify.com/track/2dLNQpftIfUZwLz7LkNpAp) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 3:04 |
-| 183 | [Underneath The Streetlight](https://open.spotify.com/track/7vcuZpHnljf9l0zuj2L6bX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 2:17 |
+| 182 | [Underneath The Streetlight](https://open.spotify.com/track/7vcuZpHnljf9l0zuj2L6bX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 2:17 |
+| 183 | [The Reoccurring Dream](https://open.spotify.com/track/2dLNQpftIfUZwLz7LkNpAp) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 3:04 |
 | 184 | [Stay in Touch](https://open.spotify.com/track/3ef2sRTfUvLV4eBxut4t45) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 2:58 |
 | 185 | [Lead Balloon](https://open.spotify.com/track/3sCoAs0z7glYiApysrpOhr) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 3:37 |
-| 186 | [Tiger Bones](https://open.spotify.com/track/3jCKgg9pmaVqYrMXNG1mtt) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:23 |
-| 187 | [Alchemy](https://open.spotify.com/track/2xoH0GxWAq8AxivBQdg4SY) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Alchemy](https://open.spotify.com/album/7C0o4kiZosGwLdgsdHKmtU) | 2:40 |
+| 186 | [Alchemy](https://open.spotify.com/track/2xoH0GxWAq8AxivBQdg4SY) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Alchemy](https://open.spotify.com/album/7C0o4kiZosGwLdgsdHKmtU) | 2:40 |
+| 187 | [Tiger Bones](https://open.spotify.com/track/3jCKgg9pmaVqYrMXNG1mtt) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:23 |
 | 188 | [Blue On Blue](https://open.spotify.com/track/7JcDLm1lVbr3r2z12ze6N2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:33 |
 | 189 | [Ethiopia](https://open.spotify.com/track/2NzQCgcdTLsdXamUXSAFie) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 5:51 |
 | 190 | [Smokin' \(Empty, Try Another\)](https://open.spotify.com/track/6Gri6TvTy7vCNQLqQCO8vA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 1:43 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 269 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 270 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `Ab0w1AAAAADXi/jqYzcc5abYnpdER+6b`
+Snapshot ID: `Ab02dAAAAABuV+dqF+8uEjTKZUR0HLPY`

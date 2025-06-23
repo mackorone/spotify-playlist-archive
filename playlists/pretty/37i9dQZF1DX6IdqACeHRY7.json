@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 156006,
+  "num_followers": 156015,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -127,8 +127,8 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -339,26 +339,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
-        "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 259550,
-      "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
+        "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 259550,
+      "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 178366,
       "name": "Alt Det (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Horsens (feat. Sofie1998)",
         "url": "https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 191262,
       "name": "Horsens (feat. Sofie1998)",
       "url": "https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
+        "name": "Kogeplade",
+        "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "Kogeplade",
+      "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
         "name": "Lose You Too",
         "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 172371,
       "name": "Better Luck Next Time",
       "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "Kogeplade",
-        "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
-      },
-      "artists": [
-        {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
-        }
-      ],
-      "duration_ms": 156086,
-      "name": "Kogeplade",
-      "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "hungover sunday",
         "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
+        "name": "Frihed",
+        "url": "https://open.spotify.com/album/5ClTuqAp8Vt8RY6rydROD0"
+      },
+      "artists": [
+        {
+          "name": "Hjalmer",
+          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Frihed",
+      "url": "https://open.spotify.com/track/0lAUEdKbTXmqYDyzAhgS9X"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
         "name": "Same Old",
         "url": "https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 182708,
       "name": "Hey Honey (fra filmen Honey)",
       "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
-        "name": "Frihed",
-        "url": "https://open.spotify.com/album/5ClTuqAp8Vt8RY6rydROD0"
-      },
-      "artists": [
-        {
-          "name": "Hjalmer",
-          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Frihed",
-      "url": "https://open.spotify.com/track/0lAUEdKbTXmqYDyzAhgS9X"
     },
     {
       "added_at": "2025-06-19 22:00:52",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2025-06-19 22:00:52",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/4PThhV9t25KFZAgmg680z8"
-      },
-      "artists": [
-        {
-          "name": "Ulrik Munther",
-          "url": "https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0cRzM3aHc01vnHIT3ImB3O"
-    },
-    {
-      "added_at": "2025-06-19 22:00:52",
-      "album": {
         "name": "Blind You",
         "url": "https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 174335,
       "name": "Blind You",
       "url": "https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U"
+    },
+    {
+      "added_at": "2025-06-19 22:00:52",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/4PThhV9t25KFZAgmg680z8"
+      },
+      "artists": [
+        {
+          "name": "Ulrik Munther",
+          "url": "https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0cRzM3aHc01vnHIT3ImB3O"
     },
     {
       "added_at": "2025-06-19 22:00:52",

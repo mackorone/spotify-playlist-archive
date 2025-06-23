@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-508 songs - 1 day 6 hr 16 min
+509 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [life gets hard \- Edit](https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [life gets hard \(Edit\)](https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs) | 2:35 | 2024-01-12 | 2024-09-22 |
 | [Life Has Changed](https://open.spotify.com/track/3d7qfqljzgSwWJ3t2cneVw) | [They Call Me Steve](https://open.spotify.com/artist/3sMOsgdJl7e2l6nueIl4Se) | [Life Has Changed](https://open.spotify.com/album/0IPg9cYNoOwMo0Qyy8mpa0) | 4:32 | 2025-05-09 | 2025-05-24 |
 | [Light](https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Light](https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW) | 2:49 | 2024-03-29 |  |
+| [Lights Out](https://open.spotify.com/track/1hmZn7QqS0QxnrsYEj0Wkw) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Glacier Baby](https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES) | [Lights Out](https://open.spotify.com/album/04cV0p4Xr9zX6jY3tlUQU2) | 3:29 | 2025-06-20 |  |
 | [Lights Out](https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Lights Out](https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5) | 3:27 | 2024-05-03 |  |
 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 | 2022-06-10 | 2022-09-03 |
 | [Little Planets \- Remix](https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Little Planets \- Remix](https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg) | 4:00 | 2023-04-21 |  |
@@ -435,7 +436,7 @@
 | [Take Me There \- Laurence Guy Remix](https://open.spotify.com/track/1KXShsMkOqnDBaLZSU0Zrx) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Take Me There \(Laurence Guy Remix\)](https://open.spotify.com/album/5g0fotn5z4w7jLSL4akrb0) | 5:52 | 2022-07-15 | 2022-07-19 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-05-14 | 2022-04-12 |
 | [Tear Drops](https://open.spotify.com/track/2KVJEq0uhuKTqxpkb9srV6) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Tear Drops](https://open.spotify.com/album/6s3yibzHMpjWKIzsEWgpi4) | 2:49 | 2025-01-28 |  |
-| [Teardrops](https://open.spotify.com/track/04bzZNvXQCdIN9nT4IPFC2) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Teardrops](https://open.spotify.com/album/3WOfpLYrcSowPNT5XGUb5I) | 2:12 | 2025-05-09 |  |
+| [Teardrops](https://open.spotify.com/track/04bzZNvXQCdIN9nT4IPFC2) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Teardrops](https://open.spotify.com/album/3WOfpLYrcSowPNT5XGUb5I) | 2:12 | 2025-05-09 | 2025-06-23 |
 | [Teardrops](https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Teardrops](https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp) | 3:41 | 2024-03-29 | 2025-01-04 |
 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 | 2024-09-30 | 2025-05-10 |
 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 | 2024-07-26 |  |

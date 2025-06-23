@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مصطفى حجاج & إسلام كابونجا
 
-1,501 songs - 3 day 11 hr 53 min
+1,502 songs - 3 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Ahla Wahda](https://open.spotify.com/track/4QxpDKq6o3hyCbF3ExDDiG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ahla Wahda](https://open.spotify.com/album/3rfUZPJyBYgVeZqA15mGhJ) | 3:05 | 2024-03-06 | 2024-06-07 |
 | [Ahla Youm](https://open.spotify.com/track/4klTJvLlyWcr5nt91rZzSu) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ahla Youm](https://open.spotify.com/album/0enk0vJ9ab11zEJVddWyqH) | 2:01 | 2022-04-07 | 2022-08-09 |
 | [Ahly Ahly من مسلسل تيتة زوزو](https://open.spotify.com/track/7zN3SVscTn5M1mp8iUhe3d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ahly Ahly من مسلسل تيتة زوزو](https://open.spotify.com/album/1ff0Cnda1MLD73zEZMtHte) | 2:49 | 2024-09-24 | 2024-11-22 |
+| [Ahmed W Ahmed](https://open.spotify.com/track/1k4XaknYzUVuRiJnVAKRnE) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj), [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [Ahmed W Ahmed](https://open.spotify.com/album/6PDoPL3mHymNWl4yu5ZZwL) | 2:14 | 2025-06-22 |  |
 | [Akeed Rag3een](https://open.spotify.com/track/57rKoQpUb3WBqYLsrGv7Hq) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Akeed Rag3een](https://open.spotify.com/album/1aGnFCLksB3cDWpkd6c6Wp) | 2:27 | 2023-08-28 | 2023-12-19 |
 | [Akena](https://open.spotify.com/track/2CuCAuprctnTIXzncf9ob2) | [Mousa](https://open.spotify.com/artist/474tE69oXkn2YGBJhK81Kh) | [Akena](https://open.spotify.com/album/0h8di0jb3pKLy7QvVtz9Hf) | 2:56 | 2025-05-15 |  |
 | [Akher Esdar](https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Akher Esdar](https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5) | 4:14 | 2023-05-11 | 2023-06-27 |
@@ -359,7 +360,7 @@
 | [Felfel W Shatta](https://open.spotify.com/track/5ochjQf3Sm80KNIARwaqTi) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Felfel W Shatta](https://open.spotify.com/album/3Jis71LRlNV1wR8BTkFyrL) | 3:01 | 2023-08-04 | 2023-08-24 |
 | [Fen Heya ElAyam](https://open.spotify.com/track/1EqwP3rT6FCGfoy1u1Nb4g) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Helmy](https://open.spotify.com/artist/7fZOp57RmLpJPC4qwxfiqY) | [Red Bull Sika](https://open.spotify.com/album/1RryrgXPDeY0n7okoUX3GC) | 2:18 | 2024-02-23 | 2024-04-19 |
 | [Fi 7eta Tanya](https://open.spotify.com/track/1Z2EZuhLqHvLXlhYs2McXy) | [Abdelbaset Hamooda](https://open.spotify.com/artist/2DPKmLpLRwOVg8u0ylBsyt) | [Fi 7eta Tanya](https://open.spotify.com/album/1iSgUh21DNUOm1BhnJxMiL) | 3:14 | 2022-01-23 | 2022-04-08 |
-| [Fi Benna](https://open.spotify.com/track/2NCa07JMq1rkajbUINtheD) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Fi Benna](https://open.spotify.com/album/0JKa7UCqBPjpm2ay0Pvsaq) | 3:12 | 2025-05-01 |  |
+| [Fi Benna](https://open.spotify.com/track/2NCa07JMq1rkajbUINtheD) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Fi Benna](https://open.spotify.com/album/0JKa7UCqBPjpm2ay0Pvsaq) | 3:12 | 2025-05-01 | 2025-06-23 |
 | [Fi Hekayat](https://open.spotify.com/track/2MTm2zFQe8jyGNrL0wiCqt) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ) | [Fi Hekayat](https://open.spotify.com/album/0Kci8v3ocWIoAI4gDP6Dwb) | 3:04 | 2025-06-19 |  |
 | [Fi kteer Helween](https://open.spotify.com/track/3KPWu8HQtC0tjLPP3wOSXQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fi kteer Helween](https://open.spotify.com/album/0iyo4Rdmz1BJK80ADyfXk0) | 2:46 | 2023-06-20 | 2023-07-21 |
 | [Fi Nafs ElMa’ad](https://open.spotify.com/track/30n7cwqhY9OZQipsbEJKHi) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Fi Nafs ElMa’ad](https://open.spotify.com/album/0WV7jZoy7otqVCnczMyLpF) | 4:13 | 2025-01-30 | 2025-03-05 |

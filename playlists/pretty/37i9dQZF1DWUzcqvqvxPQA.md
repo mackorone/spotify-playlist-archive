@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,436 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,467 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 12 | [LIFE IS GOOD](https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2), [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [LIFE IS GOOD](https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N) | 3:07 |
 | 13 | [backseat drive](https://open.spotify.com/track/4IValzT5ZRzUXyofWl8mbp) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [backseat drive](https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr) | 2:54 |
 | 14 | [FREE! \- Live](https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [FREE! \(Live\)](https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy) | 3:45 |
-| 15 | [The Sacrifice](https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Brennan Storer](https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8) | [The Sacrifice](https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB) | 3:48 |
-| 16 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
-| 17 | [Thorns](https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Thorns](https://open.spotify.com/album/5alop0gQAbADANQLRa90uP) | 3:02 |
+| 15 | [Thorns](https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Thorns](https://open.spotify.com/album/5alop0gQAbADANQLRa90uP) | 3:02 |
+| 16 | [The Sacrifice](https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Brennan Storer](https://open.spotify.com/artist/1ghKTwpPVenS5TCCFNl0Y8) | [The Sacrifice](https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB) | 3:48 |
+| 17 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
 | 18 | [Run](https://open.spotify.com/track/2CQPcqiBrGm19Gx2I2EqB2) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Hello Human](https://open.spotify.com/album/2fnesitdAJXRxbsv9fCThx) | 2:59 |
 | 19 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
 | 20 | [STRENGTH AND SONG](https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [STRENGTH AND SONG](https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw) | 3:33 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 32 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |
 | 33 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 |
 | 34 | [Not For You](https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Not For You](https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW) | 2:13 |
-| 35 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |
-| 36 | [FOOTSTOOL](https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [FOOTSTOOL](https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ) | 4:09 |
+| 35 | [FOOTSTOOL](https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [FOOTSTOOL](https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ) | 4:09 |
+| 36 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |
 | 37 | [Wildflowers](https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Wildflowers](https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ) | 3:14 |
 | 38 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 |
 | 39 | [Right on Time](https://open.spotify.com/track/4pVzf8UaGNQV0v9HyVjjVO) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Right on Time](https://open.spotify.com/album/0Gw9quE6VUvg49osbcrU6A) | 2:50 |

@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544315,
+  "num_followers": 544305,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Nothing Grows Here",
-        "url": "https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p"
-      },
-      "artists": [
-        {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
-        }
-      ],
-      "duration_ms": 256700,
-      "name": "Fools Gold",
-      "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Thoughts and Prayers",
         "url": "https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 149591,
       "name": "Precariat",
       "url": "https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Nothing Grows Here",
+        "url": "https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "duration_ms": 256700,
+      "name": "Fools Gold",
+      "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "WEIRDO",
-        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
+        "name": "The Bottom",
+        "url": "https://open.spotify.com/album/1YZf6wnBIwkvZzNkNTa4ZC"
       },
       "artists": [
         {
-          "name": "GANG!",
-          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+          "name": "Letdown",
+          "url": "https://open.spotify.com/artist/65Fz4UMimsdL2ktdDOLpej"
         }
       ],
-      "duration_ms": 155526,
-      "name": "WEIRDO",
-      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
+      "duration_ms": 182044,
+      "name": "Placement",
+      "url": "https://open.spotify.com/track/3ZmYRJVR8NZAVg7X4zt4eb"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "The Bottom",
-        "url": "https://open.spotify.com/album/1YZf6wnBIwkvZzNkNTa4ZC"
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
       },
       "artists": [
         {
-          "name": "Letdown",
-          "url": "https://open.spotify.com/artist/65Fz4UMimsdL2ktdDOLpej"
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
         }
       ],
-      "duration_ms": 182044,
-      "name": "Placement",
-      "url": "https://open.spotify.com/track/3ZmYRJVR8NZAVg7X4zt4eb"
+      "duration_ms": 155526,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
     }
   ],
   "unique_name": "Punk Rock Workout",

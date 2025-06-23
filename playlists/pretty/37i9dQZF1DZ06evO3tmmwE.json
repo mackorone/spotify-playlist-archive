@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAChIsk+WVg0XKmJFZBaOe12",
+  "snapshot_id": "aFX2AAAAAADzf9YzH259eIN/xhBZR4uA",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Horniado",
-        "url": "https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R"
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
       "artists": [
         {
-          "name": "Big Los",
-          "url": "https://open.spotify.com/artist/1FHtqDcXHlMd3icr4Gb5De"
-        },
-        {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Jandres",
-          "url": "https://open.spotify.com/artist/1dm56ndSieUS8r21629uvt"
         }
       ],
-      "duration_ms": 192186,
-      "name": "Bien Horniado",
-      "url": "https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck"
+      "duration_ms": 162142,
+      "name": "Before The Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
     },
     {
       "added_at": null,
@@ -331,18 +323,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+        "name": "Bien Horniado",
+        "url": "https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R"
       },
       "artists": [
         {
+          "name": "Big Los",
+          "url": "https://open.spotify.com/artist/1FHtqDcXHlMd3icr4Gb5De"
+        },
+        {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Jandres",
+          "url": "https://open.spotify.com/artist/1dm56ndSieUS8r21629uvt"
         }
       ],
-      "duration_ms": 162142,
-      "name": "Before The Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
+      "duration_ms": 192186,
+      "name": "Bien Horniado",
+      "url": "https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck"
     },
     {
       "added_at": null,
@@ -555,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x"
+        "name": "FTNSWL",
+        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
       },
       "artists": [
-        {
-          "name": "N.E Mafio",
-          "url": "https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS"
-        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 199414,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO"
+      "duration_ms": 171428,
+      "name": "FTNSWL",
+      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
     },
     {
       "added_at": null,
@@ -591,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FTNSWL",
-        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x"
       },
       "artists": [
+        {
+          "name": "N.E Mafio",
+          "url": "https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS"
+        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 171428,
-      "name": "FTNSWL",
-      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
+      "duration_ms": 199414,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Bailes Asi (Remix)",
-        "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
-      },
-      "artists": [
-        {
-          "name": "Santos Jaguar",
-          "url": "https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "No Bailes Asi - Remix",
-      "url": "https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL RODEO",
         "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 226528,
       "name": "EL RODEO",
       "url": "https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Bailes Asi (Remix)",
+        "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
+      },
+      "artists": [
+        {
+          "name": "Santos Jaguar",
+          "url": "https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "No Bailes Asi - Remix",
+      "url": "https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe"
     },
     {
       "added_at": null,

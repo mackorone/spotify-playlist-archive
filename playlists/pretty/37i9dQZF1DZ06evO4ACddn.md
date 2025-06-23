@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 2 | [The Blue, The Green](https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:36 |
 | 3 | [Bound](https://open.spotify.com/track/7sySSvITN4b66p0fDZ53bh) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:36 |
 | 4 | [Black Mire](https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 4:12 |
-| 5 | [The Rat](https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5) | 4:20 |
+| 5 | [Radar \- Redux](https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 3:53 |
 | 6 | [Trick of the Light](https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:38 |
 | 7 | [Keeper](https://open.spotify.com/track/1CHVMZOzCUr7ytuyM3Mclb) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:33 |
-| 8 | [Radar \- Redux](https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 3:53 |
-| 9 | [Diamond Days](https://open.spotify.com/track/49b0ahtMJNiQXNjIvMbwKX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:48 |
+| 8 | [Diamond Days](https://open.spotify.com/track/49b0ahtMJNiQXNjIvMbwKX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:48 |
+| 9 | [The Rat](https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5) | 4:20 |
 | 10 | [Deserter](https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:18 |
 | 11 | [Your Heavy Heart](https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:44 |
 | 12 | [Colour Me Sad](https://open.spotify.com/track/43uDN7V5jJ9EYRnq8bR8wA) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:36 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 30 | [Two Heads](https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Diamond Days EP](https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs) | 3:38 |
 | 31 | [Eventide](https://open.spotify.com/track/5mmlzxAJaVTlE0qwMzlRd0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:17 |
 
-Snapshot ID: `aFSkgAAAAADV1TM3/VTkrpEebdQ5wywk`
+Snapshot ID: `aFX2AAAAAADxCWWc+RKCFw/fGj0wtX+1`

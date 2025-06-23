@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,070 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,083 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 48 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 49 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
 | 50 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
-| 51 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 |
-| 52 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
+| 51 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
+| 52 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 |
 | 53 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 |
 | 54 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 55 | [Again](https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 5:12 |
 | 56 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
-| 57 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 |
-| 58 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
+| 57 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
+| 58 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 |
 | 59 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 |
 | 60 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 |
 | 61 | [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 81 | [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 |
 | 82 | [Vorba Francezului \- From "Buzz House" The Movie](https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Vorba Francezului \(From "Buzz House" The Movie\)](https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6) | 2:39 |
 | 83 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
-| 84 | [Love Is The Answer](https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Love Is The Answer](https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD) | 3:32 |
-| 85 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
+| 84 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
+| 85 | [Love Is The Answer](https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Love Is The Answer](https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD) | 3:32 |
 | 86 | [Spania](https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Spania](https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc) | 2:39 |
 | 87 | [Macarena](https://open.spotify.com/track/3U7EsmefcBOb33o1pWVuOT) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Cristina Pucean](https://open.spotify.com/artist/2KqNGJVeLw5RqpyHEw7lGZ) | [Macarena](https://open.spotify.com/album/1uKLZaJkX4E5G757MNRyKN) | 2:41 |
 | 88 | [Alo, mama](https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Alo, mama](https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp) | 2:49 |

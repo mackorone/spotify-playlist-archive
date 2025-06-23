@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain]
 
 > Listen to the music from all 3 seasons of Ragnarok, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,228 likes - 35 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,234 likes - 35 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

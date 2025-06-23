@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Pastor L\u00f3pez",
-  "num_followers": 127953,
+  "num_followers": 127951,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "M\u00fasica Tropical de Colombia (Vol. 1)",
-        "url": "https://open.spotify.com/album/62zSowhqzUTHa87kMf6H0D"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 251436,
-      "name": "El Viejo del Sombrer\u00f3n",
-      "url": "https://open.spotify.com/track/5ToEZzMISIb65UQ9IZfPqb"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 286466,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "M\u00fasica Tropical de Colombia (Vol. 1)",
+        "url": "https://open.spotify.com/album/62zSowhqzUTHa87kMf6H0D"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 251436,
+      "name": "El Viejo del Sombrer\u00f3n",
+      "url": "https://open.spotify.com/track/5ToEZzMISIb65UQ9IZfPqb"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Vuelven los Cl\u00e1sicos de la M\u00fasica de Balneario (Vol. 3)",
-        "url": "https://open.spotify.com/album/1qu2rvQnNPJvk0rVUO4kjC"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 274830,
-      "name": "Las Brujas",
-      "url": "https://open.spotify.com/track/4aZkFdtkmD0Keeh8Svosjf"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Rep\u00edtela",
         "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 209075,
       "name": "Rep\u00edtela",
       "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Vuelven los Cl\u00e1sicos de la M\u00fasica de Balneario (Vol. 3)",
+        "url": "https://open.spotify.com/album/1qu2rvQnNPJvk0rVUO4kjC"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "Las Brujas",
+      "url": "https://open.spotify.com/track/4aZkFdtkmD0Keeh8Svosjf"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -999,18 +999,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+        "name": "\u00c9xitos Armando Hern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
       "artists": [
         {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        },
+        {
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
         }
       ],
-      "duration_ms": 156467,
-      "name": "Mar\u00eda Teresa",
-      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
+      "duration_ms": 216293,
+      "name": "Qu\u00e9 Voy a Hacer Sin Ti",
+      "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1035,42 +1039,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "\u00c9xitos Armando Hern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
       "artists": [
         {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
-        },
-        {
-          "name": "El Combo Caribe",
-          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Qu\u00e9 Voy a Hacer Sin Ti",
-      "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "La Mejor M\u00fasica de Diciembre (Vol. 3)",
-        "url": "https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Arias",
-          "url": "https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP"
-        },
-        {
-          "name": "Benetia",
-          "url": "https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb"
-        }
-      ],
-      "duration_ms": 194149,
-      "name": "Cumbia del Caribe",
-      "url": "https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ"
+      "duration_ms": 156467,
+      "name": "Mar\u00eda Teresa",
+      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1091,6 +1071,26 @@
       "duration_ms": 244608,
       "name": "En Mi Pensamiento (Te Necesito)",
       "url": "https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "La Mejor M\u00fasica de Diciembre (Vol. 3)",
+        "url": "https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg"
+      },
+      "artists": [
+        {
+          "name": "Edmundo Arias",
+          "url": "https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP"
+        },
+        {
+          "name": "Benetia",
+          "url": "https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb"
+        }
+      ],
+      "duration_ms": 194149,
+      "name": "Cumbia del Caribe",
+      "url": "https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
-        "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
-      },
-      "artists": [
-        {
-          "name": "Lucho Y Rafa",
-          "url": "https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x"
-        }
-      ],
-      "duration_ms": 179915,
-      "name": "No Quiero Envejecer",
-      "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Mano A Mano",
         "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 121893,
       "name": "Apagame La Vela",
       "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
+        "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
+      },
+      "artists": [
+        {
+          "name": "Lucho Y Rafa",
+          "url": "https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x"
+        }
+      ],
+      "duration_ms": 179915,
+      "name": "No Quiero Envejecer",
+      "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
-        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Quien Piensa En Ti",
-      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 194616,
       "name": "Tu Ausencia",
       "url": "https://open.spotify.com/track/37stDm8VrYDRNBf0bzbqH9"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
+        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Quien Piensa En Ti",
+      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "\u00c9xitos Gabriel Romero",
+        "url": "https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Romero",
+          "url": "https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Av\u00e9 Pa Ve",
+      "url": "https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "Las Que Faltaban",
         "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 274546,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "\u00c9xitos Gabriel Romero",
-        "url": "https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Romero",
-          "url": "https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Av\u00e9 Pa Ve",
-      "url": "https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk"
     },
     {
       "added_at": "2024-11-01 02:49:12",

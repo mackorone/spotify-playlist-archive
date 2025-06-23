@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 331962,
+  "num_followers": 331935,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Agora Vai Sentar",
-        "url": "https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh"
-      },
-      "artists": [
-        {
-          "name": "MC's Jhowzinho & Kadinho",
-          "url": "https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Agora Vai Sentar",
-      "url": "https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Devagarinho",
         "url": "https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 144222,
       "name": "Devagarinho",
       "url": "https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Agora Vai Sentar",
+        "url": "https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh"
+      },
+      "artists": [
+        {
+          "name": "MC's Jhowzinho & Kadinho",
+          "url": "https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Agora Vai Sentar",
+      "url": "https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Pra voc\u00ea acreditar (Ao vivo)",
+        "url": "https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Sou Favela",
         "url": "https://open.spotify.com/album/3XF8959ppjZwDRouNGahxg"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 172173,
       "name": "Sou Favela",
       "url": "https://open.spotify.com/track/6VcaTmR9UhOuZD7aNNilOV"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Pra voc\u00ea acreditar (Ao vivo)",
-        "url": "https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "Pra voc\u00ea acreditar - Ao vivo",
-      "url": "https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Pirata e tesouro (Ao vivo)",
+        "url": "https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 219592,
+      "name": "Pirata e tesouro - Ao vivo",
+      "url": "https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "S\u00e9culo 21",
         "url": "https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 167838,
       "name": "S\u00e9culo 21",
       "url": "https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Pirata e tesouro (Ao vivo)",
-        "url": "https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 219592,
-      "name": "Pirata e tesouro - Ao vivo",
-      "url": "https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Qualidade De Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2zfqph70lkdj2EXP6IzrZq"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 154417,
+      "name": "Qualidade De Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Wmg5LPPJnbMsKA9fthM3l"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Deixe-Me Ir (Kiko Franco e Woak Remix)",
         "url": "https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 214462,
       "name": "Deixe-Me Ir - Kiko Franco e Woak Remix",
       "url": "https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Qualidade De Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2zfqph70lkdj2EXP6IzrZq"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 154417,
-      "name": "Qualidade De Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Wmg5LPPJnbMsKA9fthM3l"
     }
   ],
   "unique_name": "Festa na Piscina",

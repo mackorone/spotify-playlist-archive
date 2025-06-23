@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,988 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,006 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 15 | [You Can't Rush Your Healing](https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:51 |
 | 16 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 |
 | 17 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
-| 18 | [Keep Running](https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Burn Right Through](https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em) | 4:11 |
-| 19 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
+| 18 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
+| 19 | [Keep Running](https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Burn Right Through](https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em) | 4:11 |
 | 20 | [never gonna break your heart](https://open.spotify.com/track/2ak7xmwbLAADnngfYpLKuD) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [IN AND THROUGH THE BODY](https://open.spotify.com/album/3RthcMmqG13Kk0jxR0Up0a) | 3:47 |
 | 21 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 22 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 34 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 |
 | 35 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 |
 | 36 | [Adam & Eve \(feat\. Ben Fagan\)](https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8), [Ben Fagan](https://open.spotify.com/artist/68UAGPFWJbwW0JUscJVM3O) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 4:10 |
-| 37 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 |
-| 38 | [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 |
+| 37 | [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 |
+| 38 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 |
 | 39 | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB) | 4:28 |
 | 40 | [Nation of Truth](https://open.spotify.com/track/0EJFzeHiwdTdJxi4aQY1c8) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Nation of Truth](https://open.spotify.com/album/4OmqPZxOg43jtP8un2twB2) | 3:40 |
 | 41 | [One People](https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv) | [Nattali Rize](https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv) | [Rebel Frequency](https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR) | 4:00 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 47 | [The Great Unknown](https://open.spotify.com/track/21AgHZ2EyROGUEq6lPqu8E) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [The Great Unknown](https://open.spotify.com/album/7KPEITgznag0cVjUDY8KET) | 4:10 |
 | 48 | [Family Tree](https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 3:11 |
 | 49 | [Red Road Soul](https://open.spotify.com/track/066Dx92oWS0hI10RzJEItj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG) | [Red Road Soul](https://open.spotify.com/album/1KEbOLz0XhCP7l0GFjeA3Y) | 5:15 |
-| 50 | [Warm Under the Light](https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/0vYG3TaFXfpIqNXLvTo4GL) | 3:53 |
+| 50 | [We Got This](https://open.spotify.com/track/3s7bAcCETTy7vHLxQYVQDq) | [Delhi 2 Dublin](https://open.spotify.com/artist/3UI94nr1hPvSXtvXRZ97JV) | [We Got This](https://open.spotify.com/album/1cFksYhPgmdlsrF1RLCSBN) | 3:33 |
 
 Snapshot ID: `ZgGrBgAAAAAWSORMJkGqfSO6JmkRQ41l`

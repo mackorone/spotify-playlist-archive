@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 544952,
+  "num_followers": 544984,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "aEyFjQAAAABzCRTdnD7pvs7wrlVdJ3Wu",
   "tracks": [
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
-    },
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -127,22 +127,18 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 227586,
-      "name": "Mi Buen Amor",
-      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -191,18 +187,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+      "duration_ms": 227586,
+      "name": "Mi Buen Amor",
+      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -367,18 +367,18 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -627,6 +627,26 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "Eres para M\u00ed",
+      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 180340,
       "name": "Me Toca A M\u00ed",
       "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "Eres para M\u00ed",
-      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 239226,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+      "duration_ms": 166185,
+      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -927,22 +943,6 @@
       "duration_ms": 235200,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
-        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 166185,
-      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
-      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "Una Lady Como T\u00fa",
+        "url": "https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Una Lady Como T\u00fa",
+      "url": "https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Nada Es Para Siempre",
         "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
       },
@@ -1019,34 +1035,18 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Una Lady Como T\u00fa",
-        "url": "https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew"
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Una Lady Como T\u00fa",
-      "url": "https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
+      "duration_ms": 246200,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 246200,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Te Equivocaste",
-      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
         "name": "Otra Vida",
         "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 190480,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Te Equivocaste",
+      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Contra el Viento",
-        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Aunque Sea Un Momento",
-      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
         "name": "Si Me Dejas Ahora",
         "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 272000,
       "name": "Si Me Dejas Ahora",
       "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
+        "name": "Contra el Viento",
+        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Aunque Sea Un Momento",
+      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -1307,38 +1323,6 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
         "name": "Palmeras en el jard\u00edn",
         "url": "https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Hasta Ahora",
         "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
@@ -1367,74 +1367,6 @@
       "duration_ms": 249973,
       "name": "Entra en Mi Vida",
       "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "Ya No Pienso en Ti (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Ya No Pienso en Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "\u00bfQu\u00e9 Significa El Amor?",
-        "url": "https://open.spotify.com/album/5Ty2YHRfK7nSJAWdovHMFP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 226178,
-      "name": "\u00bfQu\u00e9 Significa El Amor?",
-      "url": "https://open.spotify.com/track/1egFrCBbuKVQ0qKgeISFVA"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "Eres Mi Religi\u00f3n",
-        "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Joy",
-          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
-        }
-      ],
-      "duration_ms": 267836,
-      "name": "Eres Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -1463,6 +1395,58 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "Ya No Pienso en Ti (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Ya No Pienso en Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
+        "name": "Eres Mi Religi\u00f3n",
+        "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Joy",
+          "url": "https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1"
+        }
+      ],
+      "duration_ms": 267836,
+      "name": "Eres Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
+        "name": "\u00bfQu\u00e9 Significa El Amor?",
+        "url": "https://open.spotify.com/album/5Ty2YHRfK7nSJAWdovHMFP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 226178,
+      "name": "\u00bfQu\u00e9 Significa El Amor?",
+      "url": "https://open.spotify.com/track/1egFrCBbuKVQ0qKgeISFVA"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/2sx5a5yuL2wHw8pU9oHvdA"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Enam\u00f3rate De Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb"
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 229107,
-      "name": "Enam\u00f3rate De Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc"
+      "duration_ms": 244893,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -1507,6 +1491,22 @@
       "duration_ms": 311177,
       "name": "A Que No Me Dejas",
       "url": "https://open.spotify.com/track/26aH2Io0AU0LWgB12Pcvmo"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
+        "name": "Enam\u00f3rate De Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 229107,
+      "name": "Enam\u00f3rate De Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 216765,
+      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Guerra (+ Sessions Recorded at Abbey Road)",
         "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
       },
@@ -1547,18 +1563,38 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 216765,
-      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
+      "duration_ms": 251053,
+      "name": "Antologia",
+      "url": "https://open.spotify.com/track/1I1DRPWM8iIYEbsuGMbaR3"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
+        "name": "Si T\u00fa La Quieres",
+        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Si T\u00fa La Quieres",
+      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -1583,22 +1619,6 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 251053,
-      "name": "Antologia",
-      "url": "https://open.spotify.com/track/1I1DRPWM8iIYEbsuGMbaR3"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
         "name": "Ojos Noche (feat. Carla Morrison)",
         "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
       },
@@ -1619,22 +1639,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "Si T\u00fa La Quieres",
-        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
+        "name": "PLIS",
+        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
     },
     {
       "added_at": "2025-06-13 20:09:49",
@@ -1671,6 +1691,22 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
+        "name": "Cuarto De Hotel (Canci\u00f3n Original de El Secreto Del Orfebre)",
+        "url": "https://open.spotify.com/album/4gXU7oRmwGK8dh6Zjmi4Nq"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 177188,
+      "name": "Cuarto De Hotel - Canci\u00f3n Original de El Secreto Del Orfebre",
+      "url": "https://open.spotify.com/track/2zU8pHOx5mpATlzfmf2qC6"
+    },
+    {
+      "added_at": "2025-06-13 20:09:49",
+      "album": {
         "name": "Mientes",
         "url": "https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX"
       },
@@ -1687,26 +1723,6 @@
     {
       "added_at": "2025-06-13 20:09:49",
       "album": {
-        "name": "PLIS",
-        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "PLIS",
-      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
         "name": "Lo Que Nos Falt\u00f3 Decir",
         "url": "https://open.spotify.com/album/2NzaZsiFSMcqaQnl3YGTif"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 213305,
       "name": "Lo Que Nos Falt\u00f3 Decir",
       "url": "https://open.spotify.com/track/4KXRdZINGkREZ9jvQOHbCY"
-    },
-    {
-      "added_at": "2025-06-13 20:09:49",
-      "album": {
-        "name": "Cuarto De Hotel (Canci\u00f3n Original de El Secreto Del Orfebre)",
-        "url": "https://open.spotify.com/album/4gXU7oRmwGK8dh6Zjmi4Nq"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 177188,
-      "name": "Cuarto De Hotel - Canci\u00f3n Original de El Secreto Del Orfebre",
-      "url": "https://open.spotify.com/track/2zU8pHOx5mpATlzfmf2qC6"
     },
     {
       "added_at": "2025-06-13 20:09:49",

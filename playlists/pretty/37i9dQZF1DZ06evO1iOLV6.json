@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 11337,
+  "num_followers": 11339,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAC+KZ7uBuEIrM6PG+onoPEV",
+  "snapshot_id": "aFX2AAAAAABEDzk91b+DIR2TtfjICfXh",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omo Charlie Champagne Vol.1",
+        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jah Eli Jah",
         "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 233764,
       "name": "Jah Eli Jah",
       "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omo Charlie Champagne Vol.1",
-        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young and Getting It YAGI",
-        "url": "https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "Is It Because I Love You",
-      "url": "https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afro Pop, Vol. 1",
         "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 186782,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Young and Getting It YAGI",
+        "url": "https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Is It Because I Love You",
+      "url": "https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Credit Alert",
-        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
-      },
-      "artists": [
-        {
-          "name": "Kocee",
-          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 193718,
-      "name": "Credit Alert",
-      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kom Kom",
         "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 224028,
       "name": "Money",
       "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Credit Alert",
+        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 193718,
+      "name": "Credit Alert",
+      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
     },
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make Am (feat. Ebonyi State Band)",
-        "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
       "artists": [
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Ebonyi State Band",
-          "url": "https://open.spotify.com/artist/6JQldf5pWbOLK5TsOjjRur"
         }
       ],
-      "duration_ms": 232893,
-      "name": "Make Am (feat. Ebonyi State Band)",
-      "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
+      "duration_ms": 189598,
+      "name": "Yo Body",
+      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
     },
     {
       "added_at": null,
@@ -843,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+        "name": "Make Am (feat. Ebonyi State Band)",
+        "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
       },
       "artists": [
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Ebonyi State Band",
+          "url": "https://open.spotify.com/artist/6JQldf5pWbOLK5TsOjjRur"
         }
       ],
-      "duration_ms": 189598,
-      "name": "Yo Body",
-      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
+      "duration_ms": 232893,
+      "name": "Make Am (feat. Ebonyi State Band)",
+      "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africa Unite",
-        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 153057,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 205450,
       "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
       "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 153057,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
     },
     {
       "added_at": null,

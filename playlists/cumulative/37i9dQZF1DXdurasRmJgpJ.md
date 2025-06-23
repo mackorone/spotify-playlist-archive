@@ -4,7 +4,7 @@
 
 > 2019年に幕を開けた令和。ストリーミングや動画サイトでのバイラルが影響力を増し、社会情勢や価値観が激動している"ニューノーマル"な時代のポップミュージック。
 
-398 songs - 23 hr 19 min
+399 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 | 2024-03-26 |  |
 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-03-14 | 2024-04-19 |
 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-13 |  |
-| [Mine or Yours](https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Mine or Yours](https://open.spotify.com/album/3qWvYtAQ2E46KGBAX82neO) | 4:22 | 2025-05-15 |  |
+| [Mine or Yours](https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Mine or Yours](https://open.spotify.com/album/3qWvYtAQ2E46KGBAX82neO) | 4:22 | 2025-05-15 | 2025-06-23 |
 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 | 2024-06-03 | 2024-09-02 |
 | [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Money Baby \(feat\. Awich\)](https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV) | 3:00 | 2024-10-11 | 2024-12-06 |
 | [Moonlight](https://open.spotify.com/track/7gMxXLjM6RvQuNeMxTFf8H) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:29 | 2023-12-12 | 2024-01-23 |
@@ -160,7 +160,7 @@
 | [O.O](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) | 2:52 | 2024-01-15 | 2024-04-19 |
 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-02-01 | 2024-09-27 |
 | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y) | 3:18 | 2024-05-09 | 2024-06-12 |
-| [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-12-12 |  |
+| [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-12-12 | 2025-06-23 |
 | [PARALLEL](https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [PARALLEL](https://open.spotify.com/album/0YRmYvCo1yyHgmMdWC7I7c) | 1:44 | 2024-11-27 | 2025-01-14 |
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-12-12 | 2024-10-04 |
 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-12-16 | 2024-03-27 |
@@ -295,6 +295,7 @@
 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 | 2024-09-06 |  |
 | [プレゼント](https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [プレゼント](https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV) | 4:08 | 2024-10-11 | 2025-01-23 |
 | [プレデター](https://open.spotify.com/track/3RHlC1GYvsgr5Z0wiRznEP) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [プレデター](https://open.spotify.com/album/1BxSDCPFXkAGtq45RC72vI) | 3:36 | 2025-05-13 |  |
+| [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 | 2025-06-20 |  |
 | [ヘッドライナー](https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ヘッドライナー](https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh) | 3:54 | 2025-01-13 | 2025-05-14 |
 | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/album/1bPXXUszurgUndYpS540rI) | 3:28 | 2024-04-16 | 2024-05-09 |
 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-07-04 | 2024-12-18 |
@@ -405,6 +406,6 @@
 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 | 2024-10-26 |  |
 | [駄叉](https://open.spotify.com/track/0qYFLPgDBTCF4jCNM5tImu) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [駄叉](https://open.spotify.com/album/5qTt4dRAWF5PZt7jxk79I9) | 4:13 | 2024-07-18 | 2024-08-08 |
 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-22 | 2025-03-11 |
-| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-10-04 | 2025-06-21 |
+| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-10-04 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

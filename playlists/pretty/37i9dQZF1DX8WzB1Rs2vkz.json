@@ -1,6 +1,6 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 182479,
+  "num_followers": 182534,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-06-13 14:29:01",
       "album": {
+        "name": "Son By 4",
+        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY"
+    },
+    {
+      "added_at": "2025-06-13 14:29:01",
+      "album": {
         "name": "Binikini",
         "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 183253,
       "name": "Binikini",
       "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
-    },
-    {
-      "added_at": "2025-06-13 14:29:01",
-      "album": {
-        "name": "Son By 4",
-        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY"
     },
     {
       "added_at": "2025-06-13 14:29:01",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-06-13 14:29:01",
       "album": {
-        "name": "Radio G\u00fcira",
-        "url": "https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH"
+        "name": "MUJERON",
+        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Reggi El Autentico",
+          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
         }
       ],
-      "duration_ms": 209508,
-      "name": "DJ Bachata",
-      "url": "https://open.spotify.com/track/5UDHsuQFqklYGe6qzWGU3y"
+      "duration_ms": 158750,
+      "name": "MUJERON",
+      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
     },
     {
       "added_at": "2025-06-13 14:29:01",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-06-13 14:29:01",
       "album": {
-        "name": "MUJERON",
-        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
+        "name": "Radio G\u00fcira",
+        "url": "https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH"
       },
       "artists": [
         {
-          "name": "Reggi El Autentico",
-          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 158750,
-      "name": "MUJERON",
-      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
+      "duration_ms": 209508,
+      "name": "DJ Bachata",
+      "url": "https://open.spotify.com/track/5UDHsuQFqklYGe6qzWGU3y"
     },
     {
       "added_at": "2025-06-13 14:29:01",

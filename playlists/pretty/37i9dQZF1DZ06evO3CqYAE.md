@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,910 likes - 44 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,915 likes - 44 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 18 | [Onememma \(feat\. Chioma Jesus\)](https://open.spotify.com/track/5B6ckleglIos5782GxMYml) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:06 |
 | 19 | [Yes Sir](https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yes Sir](https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4) | 4:48 |
 | 20 | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832) | 5:54 |
-| 21 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 |
+| 21 | [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 |
 | 22 | [Akamdinelu](https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 6:02 |
-| 23 | [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 |
+| 23 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 |
 | 24 | [From The Rising](https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:15 |
 | 25 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 |
 | 26 | [Onyedikagi \(feat\. Glowrie\)](https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Glowrie](https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF) | [Onyedikagi \(feat\. Glowrie\)](https://open.spotify.com/album/028rmY503DhNp5XFDbJFUo) | 4:57 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 43 | [Imela](https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:11 |
 | 44 | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Reba](https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6) | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2) | 5:56 |
 
-Snapshot ID: `aFSkgAAAAACOQX3m0tdVJ9QdWrXtx8/g`
+Snapshot ID: `aFX2AAAAAABtwWO+W+sBewZVANPBq/lt`

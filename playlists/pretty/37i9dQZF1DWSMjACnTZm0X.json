@@ -1,6 +1,6 @@
 {
   "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne?si=b1IUNbQpQeCM5Sqg54MtPw\">Famous Pluto</a>, <a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=AUGdwiZTSfGyp5PAiZR1HQ\">Shallipopi</a>, <a href=\"https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd?si=-5lTEh5RT3qVrK6K0-K1Vg\">Zerrydl</a>",
-  "num_followers": 19669,
+  "num_followers": 19735,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,46 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
+        "name": "Afa Kennedy",
+        "url": "https://open.spotify.com/album/5q2Cvu4srKnEaGchcNW6hx"
+      },
+      "artists": [
+        {
+          "name": "Outsyd Eddie",
+          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
+        },
+        {
+          "name": "JNR ELDER",
+          "url": "https://open.spotify.com/artist/0UmWf1Lbo9fIxboAMdBxnx"
+        },
+        {
+          "name": "Outsyd DJ",
+          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Afa Kennedy",
+      "url": "https://open.spotify.com/track/1cPjMTC13YffZgEKpGjTTK"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+    },
+    {
+      "added_at": "2025-06-19 22:00:40",
+      "album": {
         "name": "Piki Piki",
         "url": "https://open.spotify.com/album/02h0OPWKVn1Rm0777wYapn"
       },
@@ -875,50 +915,6 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
-        "name": "Azul (feat. Bean RSA, Prime De 1st & Big Nuz)",
-        "url": "https://open.spotify.com/album/4XnS3gO1nmWPgS8u4VqOM8"
-      },
-      "artists": [
-        {
-          "name": "DJ Sumbody",
-          "url": "https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr"
-        },
-        {
-          "name": "Prime De 1st",
-          "url": "https://open.spotify.com/artist/0UUGeJH9SZmIlt204qRyol"
-        },
-        {
-          "name": "Big Nuz",
-          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
-        },
-        {
-          "name": "BEAN RSA",
-          "url": "https://open.spotify.com/artist/1pNhNEMSDWDrBtsQz8M8kN"
-        }
-      ],
-      "duration_ms": 328519,
-      "name": "Azul (feat. Bean RSA, Prime De 1st & Big Nuz)",
-      "url": "https://open.spotify.com/track/0Cjt0yz3YXwAEcwWksi4nr"
-    },
-    {
-      "added_at": "2025-06-19 22:00:40",
-      "album": {
         "name": "Oblee (Remix)",
         "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
       },
@@ -947,26 +943,30 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Afa Kennedy",
-        "url": "https://open.spotify.com/album/5q2Cvu4srKnEaGchcNW6hx"
+        "name": "Azul (feat. Bean RSA, Prime De 1st & Big Nuz)",
+        "url": "https://open.spotify.com/album/4XnS3gO1nmWPgS8u4VqOM8"
       },
       "artists": [
         {
-          "name": "Outsyd Eddie",
-          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
+          "name": "DJ Sumbody",
+          "url": "https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr"
         },
         {
-          "name": "JNR ELDER",
-          "url": "https://open.spotify.com/artist/0UmWf1Lbo9fIxboAMdBxnx"
+          "name": "Prime De 1st",
+          "url": "https://open.spotify.com/artist/0UUGeJH9SZmIlt204qRyol"
         },
         {
-          "name": "Outsyd DJ",
-          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+          "name": "Big Nuz",
+          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
+        },
+        {
+          "name": "BEAN RSA",
+          "url": "https://open.spotify.com/artist/1pNhNEMSDWDrBtsQz8M8kN"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Afa Kennedy",
-      "url": "https://open.spotify.com/track/1cPjMTC13YffZgEKpGjTTK"
+      "duration_ms": 328519,
+      "name": "Azul (feat. Bean RSA, Prime De 1st & Big Nuz)",
+      "url": "https://open.spotify.com/track/0Cjt0yz3YXwAEcwWksi4nr"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -1047,22 +1047,30 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Billions",
-        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
+        "name": "Kings Of Kwapi Vol: 1",
+        "url": "https://open.spotify.com/album/7dVqK5Sz2nIYzdJQRS9Jf2"
       },
       "artists": [
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
         },
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        },
+        {
+          "name": "Nvcho",
+          "url": "https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC"
+        },
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
         }
       ],
-      "duration_ms": 224003,
-      "name": "Billions",
-      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
+      "duration_ms": 378322,
+      "name": "Gobhoza",
+      "url": "https://open.spotify.com/track/12rSYBopIyClTKRaWfX1ga"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -1099,18 +1107,22 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Wire Check / AfroBTC",
-        "url": "https://open.spotify.com/album/7jGM4I9nmenHUywVGMwxsX"
+        "name": "Billions",
+        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
       },
       "artists": [
         {
-          "name": "Islambo",
-          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 147857,
-      "name": "Wire Check",
-      "url": "https://open.spotify.com/track/0y2h7NVReGugbbimKjAmmM"
+      "duration_ms": 224003,
+      "name": "Billions",
+      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
     },
     {
       "added_at": "2025-06-19 22:00:40",
@@ -1143,30 +1155,18 @@
     {
       "added_at": "2025-06-19 22:00:40",
       "album": {
-        "name": "Kings Of Kwapi Vol: 1",
-        "url": "https://open.spotify.com/album/7dVqK5Sz2nIYzdJQRS9Jf2"
+        "name": "Wire Check / AfroBTC",
+        "url": "https://open.spotify.com/album/7jGM4I9nmenHUywVGMwxsX"
       },
       "artists": [
         {
-          "name": "Sam Deep",
-          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
-        },
-        {
-          "name": "Stixx",
-          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
-        },
-        {
-          "name": "Nvcho",
-          "url": "https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC"
-        },
-        {
-          "name": "Babalwa M",
-          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
         }
       ],
-      "duration_ms": 378322,
-      "name": "Gobhoza",
-      "url": "https://open.spotify.com/track/12rSYBopIyClTKRaWfX1ga"
+      "duration_ms": 147857,
+      "name": "Wire Check",
+      "url": "https://open.spotify.com/track/0y2h7NVReGugbbimKjAmmM"
     },
     {
       "added_at": "2025-06-19 22:00:40",

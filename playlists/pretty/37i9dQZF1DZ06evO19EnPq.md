@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 
 > This is Benson Boone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,986 likes - 31 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,634 likes - 31 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 | 20 | [Work of Art](https://open.spotify.com/track/0CmN570l8ZwQpI70oV8Avg) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:49 |
 | 21 | [Be Someone](https://open.spotify.com/track/1j2iMeSWdsEP5ITCrZqbIL) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:44 |
 | 22 | [Coffee Cake](https://open.spotify.com/track/31XxRxQ4g4mVkHoJwhCJ5z) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:06 |
-| 23 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 |
-| 24 | [Empty Heart Shaped Box](https://open.spotify.com/track/0bZdTyIER1CKRpdHXa579G) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:56 |
-| 25 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
+| 23 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
+| 24 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 |
+| 25 | [Empty Heart Shaped Box](https://open.spotify.com/track/0bZdTyIER1CKRpdHXa579G) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:56 |
 | 26 | [Lovely Darling](https://open.spotify.com/track/7JQfzB0Idz7zXvTRnvqggu) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 2:52 |
 | 27 | [I Wanna Be The One You Call](https://open.spotify.com/track/6CFJSaEwbJB9m8gCM8nksX) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:01 |
 | 28 | [Reminds Me Of You](https://open.spotify.com/track/7LHy7Dcts0UDZ6kXa9TgkE) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:58 |
-| 29 | [Man In Me](https://open.spotify.com/track/4Pqli6waH1jw7y5DluZnBh) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:48 |
-| 30 | [Wanted Man](https://open.spotify.com/track/3HBJNBuAHKhQXcQ8nnVvXX) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:55 |
+| 29 | [Wanted Man](https://open.spotify.com/track/3HBJNBuAHKhQXcQ8nnVvXX) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:55 |
+| 30 | [Man In Me](https://open.spotify.com/track/4Pqli6waH1jw7y5DluZnBh) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:48 |
 | 31 | [Take Me Home](https://open.spotify.com/track/0TO0JzcSvrR932muxU9I5O) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:01 |
 
-Snapshot ID: `aFSkgAAAAAAFp/Htp8eQQBruFsGsqolV`
+Snapshot ID: `aFX2AAAAAAB9P8tAAuvjoHFZrfmfsS6P`

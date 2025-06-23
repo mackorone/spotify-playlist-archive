@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 
 > This is John Williamson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,730 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,734 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 11 | [Three Sons](https://open.spotify.com/track/3MHWH1UtxXtRyVm6m1DkNR) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Way It Is](https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx) | 3:33 |
 | 12 | [Mallee Boy](https://open.spotify.com/track/72NkwThw0PDHasUu7WomDm) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:17 |
 | 13 | [You and My Guitar](https://open.spotify.com/track/2PTMb71adWDRDJLv0JAjWj) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mates on the Road](https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr) | 2:49 |
-| 14 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
-| 15 | [Sail the Nullarbor](https://open.spotify.com/track/6f8fJZWKhNcWTU51MujI6f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Boomerang Café](https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G) | 3:18 |
+| 14 | [Sail the Nullarbor](https://open.spotify.com/track/6f8fJZWKhNcWTU51MujI6f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Boomerang Café](https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G) | 3:18 |
+| 15 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
 | 16 | [Cootamundra Wattle](https://open.spotify.com/track/0gyWlfuZqPzfBdbE5sF3kM) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:52 |
 | 17 | [Flower on the Water](https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Chandelier of Stars](https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi) | 3:13 |
 | 18 | [And the Band Played Waltzing Matilda \- Live](https://open.spotify.com/track/7oPSc8krbyi0YMrxWGmmla) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 6:18 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 26 | [Cydi](https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Hillbilly Road](https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII) | 3:00 |
 | 27 | [A Flag of Our Own](https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 3:30 |
 | 28 | [Diggers of the Anzac \(This Is Gallipoli\)](https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Old Man Emu](https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b) | 3:42 |
-| 29 | [Goodbye Blinky Bill](https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [J.W.'s Family Album](https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC) | 3:30 |
-| 30 | [I Was Only 19 \- Live](https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 5:04 |
-| 31 | [The Truckies Wife](https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Boomerang Café](https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G) | 5:05 |
+| 29 | [I Was Only 19 \- Live](https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 5:04 |
+| 30 | [The Truckies Wife](https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Boomerang Café](https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G) | 5:05 |
+| 31 | [Goodbye Blinky Bill](https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [J.W.'s Family Album](https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC) | 3:30 |
 | 32 | [Dingo](https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Warragul](https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl) | 3:22 |
 | 33 | [The Shed](https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Road Thru The Heart](https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i) | 2:39 |
 | 34 | [Papa Whisky November](https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:19 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 41 | [Aussie Balladeer](https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mulga to Mangoes](https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG) | 2:53 |
 | 42 | [Waltzing Matilda](https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 4:02 |
 | 43 | [If You Wanna Be An Aussie](https://open.spotify.com/track/0t2JQxdUJi1BksoQw5xfA5) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [How Many Songs](https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI) | 2:39 |
-| 44 | [Hawkesbury River Lovin'](https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:28 |
-| 45 | [My Oath to Australia](https://open.spotify.com/track/0iLLmm3cmUXctmOEilxi9E) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mulga to Mangoes](https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG) | 2:58 |
+| 44 | [Chain Around My Ankle](https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mates on the Road](https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr) | 1:11 |
+| 45 | [Hawkesbury River Lovin'](https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:28 |
 | 46 | [Hang My Hat in Queensland \- Orchestra Version](https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 4:44 |
-| 47 | [Chain Around My Ankle](https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mates on the Road](https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr) | 1:11 |
+| 47 | [My Oath to Australia](https://open.spotify.com/track/0iLLmm3cmUXctmOEilxi9E) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mulga to Mangoes](https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG) | 2:58 |
 | 48 | [King Of The Road](https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U) | [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf), [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Both Sides Now](https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm) | 2:06 |
 | 49 | [Don't Let The Old Man In, Mate](https://open.spotify.com/track/3GR2aZYjiCEATw9eZdrroW) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [How Many Songs](https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI) | 3:24 |
 | 50 | [Prettiest Girl in the Kimberley](https://open.spotify.com/track/05tYnIXdjhCUTuBmoMTEFe) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:47 |
 
-Snapshot ID: `aFSkgAAAAADd02Py0VE17mgYpDART6Lf`
+Snapshot ID: `aFX2AAAAAACjFmUw3Hs1Azcg2BlWKzgv`

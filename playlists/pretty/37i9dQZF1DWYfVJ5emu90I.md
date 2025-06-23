@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,027 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,041 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 47 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
 | 48 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
 | 49 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
-| 50 | [ぶっ生き返す \(feat\. XakiMichele, tip jam & Tade Dust\)](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ぶっ生き返す \(feat\. XakiMichele, tip jam & Tade Dust\)](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 |
+| 50 | [Do this shit 4 me](https://open.spotify.com/track/5HpyU3XaO7jvoF1sJLWsfJ) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5ZxOT7lhdOKSDa0AMYJchE) | 2:31 |
 
 Snapshot ID: `aFIVNgAAAADRvh678MNUuoFYm4XL1Eyv`

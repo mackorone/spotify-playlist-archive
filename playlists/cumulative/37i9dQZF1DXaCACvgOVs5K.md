@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2025\. See you on the dancefloor.
 
-409 songs - 1 day 0 hr 23 min
+410 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-07-19 |  |
 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 | 2025-04-17 |  |
 | [I Like It](https://open.spotify.com/track/3DEWuEXKe6UbqPAzGPhT8V) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [I Like It](https://open.spotify.com/album/45L7KpQYCXZRtHQsj0OYXo) | 2:46 | 2025-04-24 | 2025-05-17 |
+| [I Need You Now](https://open.spotify.com/track/7gLqg4i3lanQm6SmuhWlx6) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [I Need You Now](https://open.spotify.com/album/6O7lch7AvKLFBgtdgQYKzP) | 3:46 | 2025-06-20 |  |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-06-30 | 2025-04-18 |
 | [I'll Be Fine](https://open.spotify.com/track/16vsGUfAqnribmvTsg8W9f) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I'll Be Fine](https://open.spotify.com/album/11qaljg84xPgLx7yT38tPB) | 3:37 | 2022-08-26 | 2024-06-28 |
 | [IBIZA](https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [CRCLE](https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS) | [IBIZA](https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8) | 3:02 | 2024-07-05 | 2025-05-30 |
@@ -413,7 +414,7 @@
 | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT) | 2:50 | 2025-06-20 |  |
 | [You Give Me A Feeling](https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12) | 3:05 | 2022-08-26 | 2023-02-25 |
 | [You Give Me A Feeling](https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/2UUluViWyFRdmxqsNap7hm) | 3:05 | 2022-08-26 | 2024-04-19 |
-| [You Take Me Higher](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [You Take Me Higher](https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8) | 3:07 | 2024-07-05 |  |
+| [You Take Me Higher](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [You Take Me Higher](https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8) | 3:07 | 2024-07-05 | 2025-06-23 |
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2022-08-26 | 2024-04-20 |
 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 | 2022-08-26 | 2024-04-20 |
 | [Your Dreams](https://open.spotify.com/track/5M5TCPGgMZxzRN3tOCOoGd) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Your Dreams](https://open.spotify.com/album/7b3qQtrbWgNkd3eKFshnWc) | 2:31 | 2022-08-26 | 2022-10-07 |

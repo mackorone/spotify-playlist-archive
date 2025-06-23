@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69097,
+  "num_followers": 69115,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACNSPJUX7YrYnTlWkvD8zK9",
+  "snapshot_id": "aFX2AAAAAAAXlXCgcX0otLPjjFoNFfpC",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 223488,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victoria",
-        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Victoria",
-      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relaciones",
-        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Relaciones",
-      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WLGS",
         "url": "https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 176250,
       "name": "Baby (with Lunay)",
       "url": "https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relaciones",
+        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Relaciones",
+      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
     },
     {
       "added_at": null,
@@ -979,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Epapale",
+        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 120115,
+      "name": "Epapale",
+      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gym",
         "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 220465,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epapale",
-        "url": "https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 120115,
-      "name": "Epapale",
-      "url": "https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2"
     },
     {
       "added_at": null,
@@ -1135,18 +1135,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
+        "name": "El Castillo",
+        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
       },
       "artists": [
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 151562,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
+      "duration_ms": 198122,
+      "name": "Vicio",
+      "url": "https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR"
     },
     {
       "added_at": null,
@@ -1167,22 +1171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Castillo",
-        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
       },
       "artists": [
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 198122,
-      "name": "Vicio",
-      "url": "https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR"
+      "duration_ms": 151562,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
     },
     {
       "added_at": null,

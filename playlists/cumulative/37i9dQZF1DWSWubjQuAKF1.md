@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: emi
 
-488 songs - 23 hr 40 min
+489 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Czułe Słówka](https://open.spotify.com/track/1tS7Lrzv09BhDshHTi4ZiO) | [Karolina Błońska](https://open.spotify.com/artist/4GgX4COV1BbwlWIE8kdtlW) | [Czułe Słówka](https://open.spotify.com/album/4ktTIMgoFlnsqzuawumCgu) | 3:21 | 2024-10-25 | 2025-01-24 |
 | [Czy o mnie myślisz?](https://open.spotify.com/track/7lYMP0fbLY47Z5Cru6QpkY) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Czy o mnie myślisz?](https://open.spotify.com/album/3bNRAwwiPnhSaXtrzPfkhB) | 2:31 | 2025-05-15 |  |
 | [Daj Mi Znać](https://open.spotify.com/track/5TwGHj8i48jbLa3Vwd5OF1) | [Motyl](https://open.spotify.com/artist/4RXtFJNqv5jLkwPAOE5rP7), [WOLF HOUSE](https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt) | [Daj Mi Znać](https://open.spotify.com/album/5cCz3TGg6Md3Yv9qj0FjtF) | 2:26 | 2024-11-21 | 2025-01-24 |
+| [Dajesz Mi Serce](https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Dajesz Mi Serce](https://open.spotify.com/album/5cUkR7z4PFhEkRteq1dt4w) | 3:05 | 2025-06-19 |  |
 | [Daję Ci słowo](https://open.spotify.com/track/3vascTwzAFu8bvHbhvEduF) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J), [Karbid](https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l) | [Daję Ci słowo](https://open.spotify.com/album/4D1LPMuAnWE10544yIQY5T) | 2:07 | 2024-07-11 | 2024-08-02 |
 | [Dancechlor](https://open.spotify.com/track/3Gi9KxBBxjpYnXgxULVqBN) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Dancechlor](https://open.spotify.com/album/3PISRyQEHa8sJBTy7BnGzA) | 2:41 | 2024-06-28 | 2024-09-14 |
 | [Danse Macabre](https://open.spotify.com/track/6q3mJXFVhnRuECh5qyM0wM) | [nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Danse Macabre](https://open.spotify.com/album/01Ud1JJmY6UbrqjMOQa8rt) | 2:47 | 2024-09-13 | 2025-01-24 |
@@ -162,7 +163,7 @@
 | [I że czuje się sam](https://open.spotify.com/track/66J5TPZdbpAl9V3VLrZF4N) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [I że czuje się sam](https://open.spotify.com/album/0q1hihxl4GD0e0vY9bext6) | 3:04 | 2024-06-28 | 2024-07-12 |
 | [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 | 2025-01-23 | 2025-03-21 |
 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 | 2025-02-20 | 2025-04-25 |
-| [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 | 2025-04-24 | 2025-05-31 |
+| [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 | 2025-04-24 |  |
 | [IPhone 6s](https://open.spotify.com/track/1NT8bf6kXaGfwp0iz4A48d) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [IPhone 6s](https://open.spotify.com/album/5OR6o7nR3fT2peyT2uamY2) | 3:22 | 2025-05-01 |  |
 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-06-19 |  |
 | [it's not my fault](https://open.spotify.com/track/4fNGwDst4WIJZw0a9cjCnh) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [it's not my fault](https://open.spotify.com/album/0LSPBdQLwv31qZNBuENUgZ) | 2:59 | 2024-11-07 | 2025-01-24 |
@@ -279,7 +280,7 @@
 | [Nie mów](https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [eryq](https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6) | [Nie mów](https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF) | 2:42 | 2024-08-22 | 2025-01-24 |
 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 | 2024-11-21 | 2025-01-24 |
 | [Nie Szkodzi](https://open.spotify.com/track/73f2sCPvdMu9eWrbA0Eu56) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Nie Szkodzi](https://open.spotify.com/album/71VoAa4uW9aVsgFifebH62) | 2:31 | 2024-06-28 | 2024-08-02 |
-| [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 | 2025-02-27 |  |
+| [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 | 2025-02-27 | 2025-06-23 |
 | [Nie zawsze wszystko](https://open.spotify.com/track/4cl6qxj75z0HOdbHK2yDWD) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj), [Gverilla](https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U) | [Nie zawsze wszystko](https://open.spotify.com/album/6hCqUNPQDp25b85hGQ7ixM) | 3:12 | 2024-06-28 | 2024-07-27 |
 | [Nie ze mną](https://open.spotify.com/track/6faAGWMBcX76s25R8QxDwf) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nie ze mną](https://open.spotify.com/album/7hJStuNFMi5tpEZ94bKAit) | 2:43 | 2024-06-28 | 2024-07-19 |
 | [NIE ZNASZ JEJ](https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ](https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1) | 2:34 | 2024-06-28 | 2024-11-22 |
@@ -399,7 +400,7 @@
 | [Syriusz Black](https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Syriusz Black](https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF) | 2:58 | 2024-07-11 | 2024-09-28 |
 | [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-12-21 |
 | [szczeniak](https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [szczeniak](https://open.spotify.com/album/68aDKhVBwIXsX48odWmoe4) | 2:33 | 2024-09-13 | 2024-11-08 |
-| [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 |  |
+| [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 | 2025-06-23 |
 | [szczęście](https://open.spotify.com/track/6PS4lie3LKue3O6qKolntj) | [zimny gulasz](https://open.spotify.com/artist/2Wuh8XkH0Z4eDztmZdMXT9), [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl) | [szczęście](https://open.spotify.com/album/6MF1Fy27vAuQfit5jpflJe) | 2:45 | 2024-09-19 | 2024-11-08 |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-28 | 2024-10-26 |
 | [Sznurówki](https://open.spotify.com/track/6uvauiQGYGVkcC8E5IQRWR) | [Leo Natan](https://open.spotify.com/artist/53y2orCJp8NRmbw1V0FGTo) | [Sznurówki](https://open.spotify.com/album/2Pg3iONs9qmM365Vw9qqsn) | 1:37 | 2025-03-06 | 2025-03-14 |

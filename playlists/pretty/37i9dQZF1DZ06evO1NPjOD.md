@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,099 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,098 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 33 | [Fuck The D To The A](https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:38 |
 | 34 | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz) | [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB) | 3:23 |
 | 35 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
-| 36 | [Peach \(feat\. City Girls\)](https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 2:50 |
-| 37 | [Piñata](https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Piñata](https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu) | 2:13 |
-| 38 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 |
-| 39 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
+| 36 | [Piñata](https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Piñata](https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu) | 2:13 |
+| 37 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 |
+| 38 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
+| 39 | [Peach \(feat\. City Girls\)](https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 2:50 |
 | 40 | [That's My Bitch](https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 1:55 |
 | 41 | [JT First Day Out](https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [JT First Day Out](https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx) | 3:07 |
 | 42 | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Wigs](https://open.spotify.com/track/2XdeL4FRkc6ADX4XTcpa0s) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:07 |
 | 50 | [She A Winner](https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62) | [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Thug Luv](https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G) | 3:02 |
 
-Snapshot ID: `aFSkgAAAAACkmWOv6A+qP7obbtxTvsHK`
+Snapshot ID: `aFX2AAAAAAA5Inav5U29CYSw77gQsoOo`

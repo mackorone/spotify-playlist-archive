@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY?si=PW1q\_1MiSpK2x3i6kTHWWw"> ELHAE</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,004 likes - 539 songs - 1 day 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,025 likes - 539 songs - 1 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Lainey Wilson",
-  "num_followers": 415322,
+  "num_followers": 415404,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "Human The Double Album",
-        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 224213,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 191306,
       "name": "Drink In My Hand",
       "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 224213,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "Brett Young",
-        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 224853,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 245625,
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 206597,
-      "name": "What If I Never Get Over You",
-      "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
         "name": "One Margarita",
         "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 193426,
       "name": "One Margarita",
       "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 206597,
+      "name": "What If I Never Get Over You",
+      "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
+        "name": "Coyote Cry",
+        "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 231265,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
         "name": "Friends Like That (feat. Jason Aldean)",
         "url": "https://open.spotify.com/album/3Pfcc6AxszeBvZyMzKlRCs"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 186293,
       "name": "Friends Like That (feat. Jason Aldean)",
       "url": "https://open.spotify.com/track/3RL5e0b30F6Ly6Z0gvJlcF"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
-        "name": "Coyote Cry",
-        "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 231265,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
+        "name": "Can't Have Mine (Find You A Girl)",
+        "url": "https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx"
       },
       "artists": [
         {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 224626,
-      "name": "All On Me",
-      "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
+      "duration_ms": 183087,
+      "name": "Can't Have Mine (Find You A Girl)",
+      "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "Can't Have Mine (Find You A Girl)",
-        "url": "https://open.spotify.com/album/7lUEiaMZBxdemzqieZw2jx"
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 183087,
-      "name": "Can't Have Mine (Find You A Girl)",
-      "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
+      "duration_ms": 224626,
+      "name": "All On Me",
+      "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "If I Was a Cowboy",
-        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "If I Was a Cowboy",
-      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
-    },
-    {
-      "added_at": "2025-06-04 03:44:37",
-      "album": {
         "name": "Beers And Sunshine",
         "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 178278,
       "name": "Beers And Sunshine",
       "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
+    },
+    {
+      "added_at": "2025-06-04 03:44:37",
+      "album": {
+        "name": "If I Was a Cowboy",
+        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "If I Was a Cowboy",
+      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -2495,22 +2495,22 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "I Will (When You Do)",
-        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
+        "name": "Never Wanted To Be That Girl",
+        "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         },
         {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/3DxC7FdAG5YxfkTpP9ZZlx"
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
         }
       ],
-      "duration_ms": 207533,
-      "name": "I Will (When You Do)",
-      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
+      "duration_ms": 214416,
+      "name": "Never Wanted To Be That Girl",
+      "url": "https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J"
     },
     {
       "added_at": "2025-06-04 03:44:37",
@@ -2531,22 +2531,22 @@
     {
       "added_at": "2025-06-04 03:44:37",
       "album": {
-        "name": "Never Wanted To Be That Girl",
-        "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
+        "name": "I Will (When You Do)",
+        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         },
         {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/3DxC7FdAG5YxfkTpP9ZZlx"
         }
       ],
-      "duration_ms": 214416,
-      "name": "Never Wanted To Be That Girl",
-      "url": "https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J"
+      "duration_ms": 207533,
+      "name": "I Will (When You Do)",
+      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
     }
   ],
   "unique_name": "Country Drive",

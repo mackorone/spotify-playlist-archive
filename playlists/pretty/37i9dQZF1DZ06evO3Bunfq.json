@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 122944,
+  "num_followers": 122970,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAD7/ZE028/alHS6VjIblFlJ",
+  "snapshot_id": "aFX2AAAAAABcU2IrYI9HpKyBTVmid+n2",
   "tracks": [
     {
       "added_at": null,
@@ -879,26 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Misi\u00f3n (Episodio 4)",
-        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
+        "name": "Mecha Corta",
+        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
       },
       "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 293325,
-      "name": "La Misi\u00f3n (Episodio 4)",
-      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
+      "duration_ms": 210645,
+      "name": "Mecha Corta",
+      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
     },
     {
       "added_at": null,
@@ -919,22 +915,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mecha Corta",
-        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
+        "name": "La Misi\u00f3n (Episodio 4)",
+        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
       },
       "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 210645,
-      "name": "Mecha Corta",
-      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
+      "duration_ms": 293325,
+      "name": "La Misi\u00f3n (Episodio 4)",
+      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oro en la Medalla",
         "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 155700,
       "name": "Oro en la Medalla",
       "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
     }
   ],
   "unique_name": "This Is Dharius",

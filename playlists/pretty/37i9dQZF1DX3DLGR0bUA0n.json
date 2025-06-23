@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 78489,
+  "num_followers": 78543,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Hermosa Tierra Caliente",
+      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
         "name": "Guachita Hermosa (En Vivo)",
         "url": "https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 209126,
       "name": "Guachita Hermosa - En Vivo",
       "url": "https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Hermosa Tierra Caliente",
-      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Por Qu\u00e9 Me Gustas",
-        "url": "https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        }
-      ],
-      "duration_ms": 221354,
-      "name": "5 Minutos",
-      "url": "https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Eres Mi \u00c1ngel",
         "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 181813,
       "name": "Todo Por Servir Se Acaba",
       "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Por Qu\u00e9 Me Gustas",
+        "url": "https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 221354,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -775,18 +775,34 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Camionero",
-        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
+        "name": "Exitos de La Nobleza de Aguililla",
+        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
       },
       "artists": [
         {
-          "name": "Los Kapsi",
-          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
         }
       ],
-      "duration_ms": 229346,
-      "name": "El Camionero",
-      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
+      "duration_ms": 247386,
+      "name": "Las Joyas De Mi Vida",
+      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Kilos de Polvo",
+        "url": "https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alfa 7",
+          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
+        }
+      ],
+      "duration_ms": 329160,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -811,22 +827,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Exitos de La Nobleza de Aguililla",
-        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
-      },
-      "artists": [
-        {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Las Joyas De Mi Vida",
-      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Estoy Aqu\u00ed",
         "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
       },
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Kilos de Polvo",
-        "url": "https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk"
+        "name": "Camionero",
+        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
       },
       "artists": [
         {
-          "name": "Grupo Alfa 7",
-          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
+          "name": "Los Kapsi",
+          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
         }
       ],
-      "duration_ms": 329160,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF"
+      "duration_ms": 229346,
+      "name": "El Camionero",
+      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+        "name": "Como Diablos Te Olvido",
+        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
       },
       "artists": [
         {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
         }
       ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
+      "duration_ms": 174706,
+      "name": "Vida de Rancho (Zapateado)",
+      "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Como Diablos Te Olvido",
-        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
       },
       "artists": [
         {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
         }
       ],
-      "duration_ms": 174706,
-      "name": "Vida de Rancho (Zapateado)",
-      "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Cuando Los Hombres Lloran",
         "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 156288,
       "name": "Cuando Los Hombres Lloran",
       "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Al\u00e9jate",
-        "url": "https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ"
-      },
-      "artists": [
-        {
-          "name": "Freddy C\u00e1rdenas y su Grupo Brebaje",
-          "url": "https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Al\u00e9jate",
-      "url": "https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Viva Tierra Caliente",
         "url": "https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 195640,
       "name": "Que Viva Tierra Caliente",
       "url": "https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Al\u00e9jate",
+        "url": "https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ"
+      },
+      "artists": [
+        {
+          "name": "Freddy C\u00e1rdenas y su Grupo Brebaje",
+          "url": "https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Al\u00e9jate",
+      "url": "https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a"
     },
     {
       "added_at": "2024-12-20 06:00:10",

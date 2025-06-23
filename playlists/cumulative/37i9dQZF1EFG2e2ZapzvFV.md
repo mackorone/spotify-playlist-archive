@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 11 hr 59 min
+212 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Reminds Me Of You](https://open.spotify.com/track/2RTJW4LGOiz0pboM8LJWkp) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Japanese Edition\)](https://open.spotify.com/album/5N2cKMFxO89SjxJgDWmsQ5) | 3:14 | 2024-01-29 |  |
 | [Ribbons of Light](https://open.spotify.com/track/1bcSfpjRBRdHiNClmtUTan) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:47 | 2024-01-29 |  |
 | [Ribs](https://open.spotify.com/track/38WyDtxZhxm63jiythwemE) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 4:18 | 2024-01-29 |  |
+| [Ride Up To The Door](https://open.spotify.com/track/4PegP7kf2a5RlgVgRZRmon) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Abomination EP](https://open.spotify.com/album/35G5xhEUPV2BPz0uqS9tBp) | 3:51 | 2025-06-22 |  |
 | [Royals](https://open.spotify.com/track/2IuepwvMuaTlNN0DSgVsCg) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 3:09 | 2024-01-29 |  |
 | [Safe](https://open.spotify.com/track/12wAQ0HNbJWVrVJA3woXDb) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Safe](https://open.spotify.com/album/0qrB9JjkcCjQQK7S1eFrcX) | 3:20 | 2024-01-29 |  |
 | [San Fran](https://open.spotify.com/track/6cjxIBKlxTIMLFdOf601YC) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:31 | 2024-01-29 |  |

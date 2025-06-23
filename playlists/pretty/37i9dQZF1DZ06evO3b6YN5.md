@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 
 > This is Little Jesus\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,305 likes - 46 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,314 likes - 46 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 34 | [Mala Onda](https://open.spotify.com/track/2rYHKN73hrtu3lb1OjFzzH) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:21 |
 | 35 | [Lo que necesitas es amor](https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Lo que necesitas es amor](https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe) | 5:03 |
 | 36 | [Presente](https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Presente](https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70) | 5:12 |
-| 37 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
+| 37 | [Cine Permanencia Voluntaria](https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 1:34 |
 | 38 | [Niña Bien](https://open.spotify.com/track/05cP5FGnPjJZ1FkrGyTOkf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 2:01 |
-| 39 | [Cine Permanencia Voluntaria](https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 1:34 |
+| 39 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
 | 40 | [Cruel](https://open.spotify.com/track/5WB0z3fy5pcngGdLbI8Ayt) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:16 |
 | 41 | [Solo](https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Solo](https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm) | 4:48 |
 | 42 | [Mal \- Bonus](https://open.spotify.com/track/42wlc3UbSdk68Ngweo5ZBX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 3:57 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 45 | [Hermoso](https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Hermoso](https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA) | 3:27 |
 | 46 | [Jóvenes \- Bonus](https://open.spotify.com/track/1Del9GKHyafG0uliX83jY2) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 4:21 |
 
-Snapshot ID: `aFSkgAAAAACYkAzNVjyJwozYI36Z/K4n`
+Snapshot ID: `aFX2AAAAAABxtkKt/TH2Y2mH8MBzC5qV`

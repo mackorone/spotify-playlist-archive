@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADz6CcIDGhAYSunHvatVYuE",
+  "snapshot_id": "aFX2AAAAAADQKQWRkqAm9/D6TSg5j8Br",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 109747,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 109747,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
     },
     {
       "added_at": null,
@@ -907,30 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dame Un Break (Remix)",
-        "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 262219,
-      "name": "Dame Un Break - Remix",
-      "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sekkle & Bop",
         "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
       },
@@ -955,22 +931,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
+        "name": "Dame Un Break (Remix)",
+        "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
+      "duration_ms": 262219,
+      "name": "Dame Un Break - Remix",
+      "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
     },
     {
       "added_at": null,
@@ -999,6 +979,26 @@
       "duration_ms": 213354,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
     },
     {
       "added_at": null,

@@ -2000,6 +2000,24 @@
     {
       "album": {
         "name": "Trophy",
+        "url": "https://open.spotify.com/album/00RHQRDNDwImmniIsaUSbF"
+      },
+      "artists": [
+        {
+          "name": "THE HARA",
+          "url": "https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183808,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/07ddLuqd8Ys1ZQ43oym8bq"
+    },
+    {
+      "album": {
+        "name": "Trophy",
         "url": "https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf"
       },
       "artists": [
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 183808,
       "name": "Trophy",
       "url": "https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P"

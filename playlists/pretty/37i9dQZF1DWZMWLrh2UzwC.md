@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Misha Omar, Benson Boone, SonaOne, Ed Sheeran, sombr, ILLIT, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,240 likes - 120 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,243 likes - 120 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 23 | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/track/5OdPAqU4a0EZq8LOJgO5og) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/album/541bm0KL5yWslIgIis3jPi) | 2:43 |
 | 24 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
 | 25 | [Starlight \(The Fame\)](https://open.spotify.com/track/2Rr9a2sxcTIe9xhfaEmFTL) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Starlight \(The Fame\)](https://open.spotify.com/album/6GNKUJR0OQtwR9xUK6OVE4) | 3:02 |
-| 26 | [PENG](https://open.spotify.com/track/0MDKIHYfdNmI2omoXVg7sT) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [PENG](https://open.spotify.com/album/3MCEsNrSZc9DD1Jnyy4PU0) | 2:02 |
+| 26 | [PENG](https://open.spotify.com/track/0MDKIHYfdNmI2omoXVg7sT) | [SHIGGA SHAY](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [PENG](https://open.spotify.com/album/3MCEsNrSZc9DD1Jnyy4PU0) | 2:02 |
 | 27 | [Jumping Machine跳楼机 \- with Tyson Yoshi](https://open.spotify.com/track/0R3Gc2vLh5XFSWeU1r6wYY) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [Jumping Machine跳樓機 \(with Tyson Yoshi\)](https://open.spotify.com/album/1cDrpSotPL2IRtKAe4xHkO) | 3:25 |
 | 28 | [生日晚餐](https://open.spotify.com/track/30VXBKujwGZ8aQyh8W3Hkw) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [生日晚餐](https://open.spotify.com/album/6OAhRnrNviz9Bb2ZqBesU5) | 3:46 |
 | 29 | [茉莉花香](https://open.spotify.com/track/5bwXCWiCaAXJEpqS782DT6) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [茉莉花香](https://open.spotify.com/album/7e0F89LhTg2gkcioS5NHzD) | 4:48 |

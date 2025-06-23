@@ -1,6 +1,6 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 635,
+  "num_followers": 645,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
@@ -363,46 +363,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Listen To Your Heart (feat. HARLEE)",
-        "url": "https://open.spotify.com/album/1Zx9quJ1kBzZjEDXymGLJP"
-      },
-      "artists": [
-        {
-          "name": "Symmetrik",
-          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        }
-      ],
-      "duration_ms": 147310,
-      "name": "Listen To Your Heart (feat. HARLEE)",
-      "url": "https://open.spotify.com/track/0MeGXSfw5faJjGpKfSJegX"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -427,6 +387,46 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Listen To Your Heart (feat. HARLEE)",
+        "url": "https://open.spotify.com/album/1Zx9quJ1kBzZjEDXymGLJP"
+      },
+      "artists": [
+        {
+          "name": "Symmetrik",
+          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "Listen To Your Heart (feat. HARLEE)",
+      "url": "https://open.spotify.com/track/0MeGXSfw5faJjGpKfSJegX"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -611,30 +611,18 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -659,18 +647,30 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Streetside",
         "url": "https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
@@ -1203,26 +1203,6 @@
       "duration_ms": 197472,
       "name": "Make Me Feel Good",
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Wasted Youth",
-        "url": "https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy"
-      },
-      "artists": [
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        },
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 147581,
-      "name": "Wasted Youth",
-      "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1251,26 +1231,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -1291,6 +1251,46 @@
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Wasted Youth",
+        "url": "https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 147581,
+      "name": "Wasted Youth",
+      "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Love Again (feat. Alida)",
-        "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Love Again (feat. Alida)",
-      "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 164983,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "Love Again (feat. Alida)",
+        "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Love Again (feat. Alida)",
+      "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
+        "name": "Hungry (For Love)",
+        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hungry (For Love)",
+      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 256898,
       "name": "Water",
       "url": "https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
-        "name": "Hungry (For Love)",
-        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Hungry (For Love)",
-      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "The Parade",
-        "url": "https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        }
-      ],
-      "duration_ms": 158724,
-      "name": "The Parade",
-      "url": "https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN"
-    },
-    {
-      "added_at": "2024-03-29 00:01:00",
-      "album": {
         "name": "Don't Need Love",
         "url": "https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 156948,
       "name": "Get Hard (You In The Lobby)",
       "url": "https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom"
+    },
+    {
+      "added_at": "2024-03-29 00:01:00",
+      "album": {
+        "name": "The Parade",
+        "url": "https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "duration_ms": 158724,
+      "name": "The Parade",
+      "url": "https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN"
     },
     {
       "added_at": "2024-03-29 00:01:00",

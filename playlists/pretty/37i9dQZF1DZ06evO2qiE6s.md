@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,968 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,985 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 8 | [On An Evening In Roma \(Sott'er Celo De Roma\) \- Remastered 1998](https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:31 |
 | 9 | [Dream A Little Dream](https://open.spotify.com/track/66Ra2l0vQTGFBcCL8vUwlI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:16 |
 | 10 | [Memories Are Made Of This](https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:18 |
-| 11 | [Mambo Italiano](https://open.spotify.com/track/5G4JTc4HlIsg7CyiDwoPV2) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:19 |
-| 12 | [Blue Moon](https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:04 |
+| 11 | [Blue Moon](https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:04 |
+| 12 | [Mambo Italiano](https://open.spotify.com/track/5G4JTc4HlIsg7CyiDwoPV2) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:19 |
 | 13 | [Just In Time \- Remastered 1998](https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:15 |
 | 14 | [Buona Sera \- 1998 Digital Remaster](https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:21 |
 | 15 | [All I Do Is Dream Of You \- Remastered 1991](https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [Under The Bridges Of Paris](https://open.spotify.com/track/4LbhIS1d4kBg7lapZ61B4z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:49 |
 | 50 | [You Belong To Me \- Remastered](https://open.spotify.com/track/05oFDCPK2YuNm5uBtCmm1B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Capitol Years](https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI) | 3:03 |
 
-Snapshot ID: `aFSkgAAAAABrGA7DZQMcMbtRTVSoU195`
+Snapshot ID: `aFX2AAAAAAB42su5iWYTtOkoTweIdTaN`

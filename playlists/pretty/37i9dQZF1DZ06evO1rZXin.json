@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6590,
+  "num_followers": 6591,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAABMDBrojI2V6N0fIKMGTXkt",
+  "snapshot_id": "aFX2AAAAAAAf/alcpPi2mv5haNy/9UYx",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La V\u00edbora Peligrosa",
-        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 149084,
-      "name": "La V\u00edbora Peligrosa",
-      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'Yo (29 Aniversario)",
         "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 171135,
       "name": "Pa'Yo (29 Aniversario)",
       "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La V\u00edbora Peligrosa",
+        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 149084,
+      "name": "La V\u00edbora Peligrosa",
+      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
     },
     {
       "added_at": null,

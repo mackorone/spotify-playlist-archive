@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152927,
+  "num_followers": 152933,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAZxvqo/3ckMGC5qInFJKky",
+  "snapshot_id": "aFX2AAAAAABOTLh3enry8l303ugiUns1",
   "tracks": [
     {
       "added_at": null,
@@ -315,38 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n De Piedra",
-        "url": "https://open.spotify.com/album/44aY7PghA7MIdWvwvgdfn6"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 160867,
-      "name": "Coraz\u00f3n De Piedra",
-      "url": "https://open.spotify.com/track/10oBqwLXOzXYUWpqhODyN8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 178934,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que No Se Apague La M\u00fasica",
         "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
       },
@@ -367,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
       "artists": [
         {
@@ -376,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 186460,
-      "name": "Libre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6kmXRPVlr9k085Dfseqed9"
+      "duration_ms": 178934,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax"
     },
     {
       "added_at": null,
@@ -403,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
       },
       "artists": [
         {
@@ -412,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 490762,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
+      "duration_ms": 160867,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/39mVA9QegitCKVdSxTEvij"
     },
     {
       "added_at": null,
@@ -439,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
         {
@@ -448,9 +416,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 151204,
-      "name": "Yo Pago Mi Parte",
-      "url": "https://open.spotify.com/track/7xeZbvj1811b5PJnreaudk"
+      "duration_ms": 490762,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
     },
     {
       "added_at": null,
@@ -475,6 +443,22 @@
       "duration_ms": 250670,
       "name": "Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 186460,
+      "name": "Libre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6kmXRPVlr9k085Dfseqed9"
     },
     {
       "added_at": null,
@@ -519,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "Un Minuto De Silencio",
-      "url": "https://open.spotify.com/track/6jcHa1XfPDtG0Qco0wICXl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inv\u00edtame A Un Caf\u00e9",
         "url": "https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 187390,
       "name": "Inv\u00edtame A Un Caf\u00e9",
       "url": "https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 151204,
+      "name": "Yo Pago Mi Parte",
+      "url": "https://open.spotify.com/track/7xeZbvj1811b5PJnreaudk"
     },
     {
       "added_at": null,
@@ -591,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 153254,
-      "name": "No Te Culpo",
-      "url": "https://open.spotify.com/track/4OK1toi9B0AK5ienSzCR75"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
       },
@@ -623,6 +591,22 @@
       "duration_ms": 210042,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "Un Minuto De Silencio",
+      "url": "https://open.spotify.com/track/6jcHa1XfPDtG0Qco0wICXl"
     },
     {
       "added_at": null,
@@ -735,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amiga M\u00eda",
-        "url": "https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU"
+        "name": "Brillante Sobre el Mic - EADDA9223",
+        "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         },
         {
-          "name": "MORVN",
-          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
+      "duration_ms": 246183,
+      "name": "Brillante Sobre el Mic - EADDA9223",
+      "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
     },
     {
       "added_at": null,
@@ -775,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brillante Sobre el Mic - EADDA9223",
-        "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        },
-        {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "MORVN",
+          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
         }
       ],
-      "duration_ms": 246183,
-      "name": "Brillante Sobre el Mic - EADDA9223",
-      "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
+      "duration_ms": 220000,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
     },
     {
       "added_at": null,
@@ -931,6 +915,26 @@
       "duration_ms": 261133,
       "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, \u00c1ngela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Nada M\u00e1s Dec\u00eddete",
+      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
     }
   ],
   "unique_name": "This Is \u00c1ngela Aguilar",

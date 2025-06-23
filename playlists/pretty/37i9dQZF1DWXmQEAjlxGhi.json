@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1389084,
+  "num_followers": 1389108,
   "original_name": "Gym Latino",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,26 @@
     {
       "added_at": "2025-06-20 04:00:52",
       "album": {
+        "name": "Bing Bong",
+        "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "duration_ms": 123591,
+      "name": "Bing Bong",
+      "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 215600,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
-        "name": "Bing Bong",
-        "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
-      },
-      "artists": [
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        },
-        {
-          "name": "Puyalo Pantera",
-          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
-        }
-      ],
-      "duration_ms": 123591,
-      "name": "Bing Bong",
-      "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
     },
     {
       "added_at": "2025-06-20 04:00:52",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2025-06-20 04:00:52",
       "album": {
-        "name": "Angelito",
-        "url": "https://open.spotify.com/album/1MbNQm1oxXxqPboTVHsc9o"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 130813,
-      "name": "Angelito",
-      "url": "https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP"
-    },
-    {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
         "name": "una noche con hugel",
         "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 191475,
       "name": "una noche con hugel",
       "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "Angelito",
+        "url": "https://open.spotify.com/album/1MbNQm1oxXxqPboTVHsc9o"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 130813,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP"
     },
     {
       "added_at": "2025-06-20 04:00:52",
@@ -1339,22 +1339,26 @@
     {
       "added_at": "2025-06-20 04:00:52",
       "album": {
-        "name": "BANSHEE",
-        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
+        "name": "La Joia",
+        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 187466,
-      "name": "BANSHEE",
-      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
+      "duration_ms": 218933,
+      "name": "Chulo pt.2",
+      "url": "https://open.spotify.com/track/1NCF4UUsuT6Xzw2Zxd43PJ"
     },
     {
       "added_at": "2025-06-20 04:00:52",
@@ -1379,26 +1383,22 @@
     {
       "added_at": "2025-06-20 04:00:52",
       "album": {
-        "name": "La Joia",
-        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
+        "name": "BANSHEE",
+        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
       },
       "artists": [
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         },
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 218933,
-      "name": "Chulo pt.2",
-      "url": "https://open.spotify.com/track/1NCF4UUsuT6Xzw2Zxd43PJ"
+      "duration_ms": 187466,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
     },
     {
       "added_at": "2025-06-20 04:00:52",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-06-20 04:00:52",
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
-    },
-    {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2025-06-20 04:00:52",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-06-20 04:00:52",
       "album": {
-        "name": "noviogangsta <3",
-        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 157209,
-      "name": "noviogangsta <3",
-      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
-    },
-    {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 237900,
       "name": "La Historia",
       "url": "https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "noviogangsta <3",
+        "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 157209,
+      "name": "noviogangsta <3",
+      "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
     },
     {
       "added_at": "2025-06-20 04:00:52",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2025-06-20 04:00:52",
       "album": {
-        "name": "Celda 4",
-        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 215437,
-      "name": "Antes Que Me Vaya",
-      "url": "https://open.spotify.com/track/2En6NYJgBm19qdcicRaU1d"
-    },
-    {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
         "name": "SUAVEMENTE",
         "url": "https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT"
       },
@@ -1923,6 +1907,38 @@
       "duration_ms": 142000,
       "name": "SUAVEMENTE",
       "url": "https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "Celda 4",
+        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 215437,
+      "name": "Antes Que Me Vaya",
+      "url": "https://open.spotify.com/track/2En6NYJgBm19qdcicRaU1d"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "Enhorabuena",
+        "url": "https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 168459,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu"
     },
     {
       "added_at": "2025-06-20 04:00:52",
@@ -1947,22 +1963,6 @@
       "duration_ms": 193846,
       "name": "Globo (feat. Blessd & Kofla)",
       "url": "https://open.spotify.com/track/3QyQNNpJg7spXyMzobBoX3"
-    },
-    {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
-        "name": "Enhorabuena",
-        "url": "https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 168459,
-      "name": "Enhorabuena",
-      "url": "https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu"
     }
   ],
   "unique_name": "Gym Latino",

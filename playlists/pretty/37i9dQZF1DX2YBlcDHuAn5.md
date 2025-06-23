@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,376 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,384 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 44 | [Landslide](https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Landslide](https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs) | 3:33 |
 | 45 | [Something Bout You](https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Good To Be Here](https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP) | 4:00 |
 | 46 | [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 |
-| 47 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
-| 48 | [Wanna Be Big Bad Johnny Cash](https://open.spotify.com/track/2y9M80NOexKa9iaNFvqlWq) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa) | 3:21 |
+| 47 | [Wanna Be Big Bad Johnny Cash](https://open.spotify.com/track/2y9M80NOexKa9iaNFvqlWq) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa) | 3:21 |
+| 48 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
 | 49 | [Overpass Graffiti](https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Overpass Graffiti](https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9) | 3:54 |
 | 50 | [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 |
 

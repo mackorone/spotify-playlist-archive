@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,587 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,612 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 41 | [Geminiano](https://open.spotify.com/track/543HV83fPC5akWEtYsMzq8) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 2:55 |
 | 42 | [FALCÃO](https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:42 |
 | 43 | [bala fini](https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:29 |
-| 44 | [ATÍPICO](https://open.spotify.com/track/0PnZJZwuVFs6rPlYuFkTpi) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:19 |
-| 45 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
+| 44 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
+| 45 | [ATÍPICO](https://open.spotify.com/track/0PnZJZwuVFs6rPlYuFkTpi) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:19 |
 | 46 | [O Cara de Óculos](https://open.spotify.com/track/1chg0t03u3PDcYwABCYWKG) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Bia Nogueira](https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 4:10 |
 | 47 | [Esquimó](https://open.spotify.com/track/0LMO2d7QubdqrRXuQGvtfQ) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 4:16 |
 | 48 | [LADRÃO](https://open.spotify.com/track/1SoVbAACWECOhsVZY4M1Jb) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 4:22 |
 | 49 | [Eu](https://open.spotify.com/track/0GTPvFFQDJdBzdy1mGew4m) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 5:10 |
 | 50 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 |
 
-Snapshot ID: `aFSkgAAAAADTfl3p2Rn99ZL+SvD/fv/D`
+Snapshot ID: `aFX2AAAAAADNUnHslVn/va/gql6lcClA`

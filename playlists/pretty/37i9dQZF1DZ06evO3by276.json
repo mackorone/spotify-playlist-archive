@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3164895,
+  "num_followers": 3164974,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAC3bDDWvoT6FCjN0J5lEU4A",
+  "snapshot_id": "aFX2AAAAAACf83GQJNbaeTgKvBzM0rml",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shakira. (Expanded Edition) [Spanish Version]",
+        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Can't Remember to Forget You (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 188238,
       "name": "FourFiveSeconds",
       "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shakira. (Expanded Edition) [Spanish Version]",
-        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "Can't Remember to Forget You (feat. Rihanna)",
-      "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
     },
     {
       "added_at": null,
@@ -443,22 +443,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "The Blueprint 3",
+        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         },
         {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 227360,
-      "name": "LOYALTY. FEAT. RIHANNA.",
-      "url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"
+      "duration_ms": 267520,
+      "name": "Run This Town",
+      "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
     },
     {
       "added_at": null,
@@ -483,26 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blueprint 3",
-        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 267520,
-      "name": "Run This Town",
-      "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
+      "duration_ms": 227360,
+      "name": "LOYALTY. FEAT. RIHANNA.",
+      "url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"
     },
     {
       "added_at": null,

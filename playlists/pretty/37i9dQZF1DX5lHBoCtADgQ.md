@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,052 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,082 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 46 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 |
 | 47 | [Matthe Te Chamkan](https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD) | [Matthe Te Chamkan](https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs) | 2:41 |
 | 48 | [Kut Kut Bajra](https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt) | [Radhika Chopra](https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD) | [The Great Big Punjabi Wedding](https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1) | 5:29 |
-| 49 | [Buhe Bariyan](https://open.spotify.com/track/2S7jQnlsEVgMpNyZzPPwgK) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Buhe Bariyan](https://open.spotify.com/album/5vpSmKJ6pSPcGqLfHGfmpU) | 3:21 |
-| 50 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
+| 49 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
+| 50 | [Buhe Bariyan](https://open.spotify.com/track/2S7jQnlsEVgMpNyZzPPwgK) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Buhe Bariyan](https://open.spotify.com/album/5vpSmKJ6pSPcGqLfHGfmpU) | 3:21 |
 
 Snapshot ID: `aFF1tQAAAADZqf3yg2DbLEf/fbdlrd9K`

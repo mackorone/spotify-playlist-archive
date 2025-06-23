@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 18 | [Don't Think](https://open.spotify.com/track/1N9OZZ3p3qCquH3MkfhRRG) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:26 |
 | 19 | [Him Too](https://open.spotify.com/track/1jC4rFGFCNK1CqODO7xe3i) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:09 |
 | 20 | [MONEY DANCE](https://open.spotify.com/track/6ttiYv0BKaW7spulWhKQqj) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [MONEY DANCE](https://open.spotify.com/album/2Hb6Kf0KAyBBmVB5BowSBx) | 2:15 |
-| 21 | [In a Way](https://open.spotify.com/track/2716XnQDivAHzu3nAae4zz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 2:36 |
-| 22 | [Limbo](https://open.spotify.com/track/6eOrihTpiGhyDNP4w0HEjI) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 3:03 |
+| 21 | [Limbo](https://open.spotify.com/track/6eOrihTpiGhyDNP4w0HEjI) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 3:03 |
+| 22 | [In a Way](https://open.spotify.com/track/2716XnQDivAHzu3nAae4zz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 2:36 |
 | 23 | [Meet Me](https://open.spotify.com/track/5Gz4NzVpyj2ijHbmZtRmfA) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/6ehpo5SkVrdRaNdiaTHhJY) | 3:14 |
 | 24 | [For Sport](https://open.spotify.com/track/1oxThJ5QQGQE3HyKxypz5U) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/03HklFofKBkibQz7t0SPzt) | 2:26 |
 | 25 | [Under My Skin](https://open.spotify.com/track/290neMpuBxv2NHCSHvH50Q) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Peace and Offerings](https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 59 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
 | 60 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `Ab0w8gAAAADDG8ITjZxuGTQCrqSHgHz7`
+Snapshot ID: `Ab02fgAAAADsYclWSHfdEQOmCh4RDQLI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,348 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,358 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 29 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
 | 30 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
 | 31 | [Taaja Shaanti](https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 4:22 |
-| 32 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 |
-| 33 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
+| 32 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
+| 33 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 |
 | 34 | [Raga Shudh Kalyan Alap](https://open.spotify.com/track/5K56gLQIT9UhXcENzvBr7r) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 5:14 |
 | 35 | [Relaxing Native Flute](https://open.spotify.com/track/47tBhzrgzEpKKHbPBeAYVr) | [Meditation Waves](https://open.spotify.com/artist/68Yiv3GKHZdgjlnjPU2Ccw) | [Healing Native Flute Meditation Songs](https://open.spotify.com/album/1inj4Jlc8iow4WVhR0WeB8) | 4:19 |
 | 36 | [The Ice Altar at 432 Hz](https://open.spotify.com/track/1TjqRmnci7VwcdtIKEqouo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:21 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 49 | [Karunardra Sneham \- Flute](https://open.spotify.com/track/5jzIRp19kymwPoRqijcNYP) | [Rajesh Cherthala](https://open.spotify.com/artist/4anJMRin2Eu12jUJKHvuDw) | [Karunardra Sneham \- Single](https://open.spotify.com/album/0F3b5PTSBU9GUkgU593Jh0) | 4:50 |
 | 50 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
 | 51 | [Bansuri & Tabla \(Live\)](https://open.spotify.com/track/1OPqzUmJ6cWgmeHrZ27T3s) | [Pandit Atul Shankar](https://open.spotify.com/artist/2BH0PQI32fInzYixUio497), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:18 |
-| 52 | [Shiva Moon II \(The Ocean Mudra\)](https://open.spotify.com/track/6SVgR78FFm40IVlIVn5LsU) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Mudra](https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD) | 2:44 |
-| 53 | [Naima](https://open.spotify.com/track/6lJ0KuPr2ClEz8VO33np8t) | [Deepak Ram](https://open.spotify.com/artist/0IRHoIb1ZFEVrwdm0SzPh5) | [Steps](https://open.spotify.com/album/303VLWbB3C3paaS9UFLoRa) | 6:59 |
+| 52 | [Naima](https://open.spotify.com/track/6lJ0KuPr2ClEz8VO33np8t) | [Deepak Ram](https://open.spotify.com/artist/0IRHoIb1ZFEVrwdm0SzPh5) | [Steps](https://open.spotify.com/album/303VLWbB3C3paaS9UFLoRa) | 6:59 |
+| 53 | [Shiva Moon II \(The Ocean Mudra\)](https://open.spotify.com/track/6SVgR78FFm40IVlIVn5LsU) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Mudra](https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD) | 2:44 |
 | 54 | [Varanasi My Soul \- Banarasi Kajri \- Raga Pilu](https://open.spotify.com/track/0S9Uklvmnxs5uUSt8UQikf) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:26 |
 | 55 | [Bansuri \(Tranquil Waters\)](https://open.spotify.com/track/7AyWhg7yOGaT1a8juVaFAF) | [Indian Flute](https://open.spotify.com/artist/4vz48P0cvMOxI2BVAbGcbD) | [Indian Flute Meditation Music \(Pure Positive Vibes & Instrumental Music for Meditation and Yoga\)](https://open.spotify.com/album/42mCdQJfJr1SkICZy0KGaw) | 4:33 |
 | 56 | [Shabdkosh](https://open.spotify.com/track/4eJE88d33ZBAEALNv3fnzv) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Aashchary](https://open.spotify.com/album/25TMsMiB5NoYZqvTX082Xp) | 5:59 |

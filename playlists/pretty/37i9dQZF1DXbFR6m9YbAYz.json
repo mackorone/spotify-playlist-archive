@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 90614,
+  "num_followers": 90660,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-12 21:29:00",
       "album": {
-        "name": "Kill The Lights (Deluxe)",
-        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Kick The Dust Up",
-      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
-    },
-    {
-      "added_at": "2024-06-12 21:29:00",
-      "album": {
         "name": "One Of Them Girls",
         "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+    },
+    {
+      "added_at": "2024-06-12 21:29:00",
+      "album": {
+        "name": "Kill The Lights (Deluxe)",
+        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Kick The Dust Up",
+      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
     },
     {
       "added_at": "2024-06-12 21:29:00",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2024-06-12 21:29:00",
       "album": {
-        "name": "You, Me, And Whiskey",
-        "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
+        "name": "Jackson Dean",
+        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
       "artists": [
         {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        },
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 187941,
-      "name": "You, Me, And Whiskey",
-      "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
     },
     {
       "added_at": "2024-06-12 21:29:00",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2024-06-12 21:29:00",
       "album": {
-        "name": "Jackson Dean",
-        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
+        "name": "You, Me, And Whiskey",
+        "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
+      "duration_ms": 187941,
+      "name": "You, Me, And Whiskey",
+      "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
     },
     {
       "added_at": "2024-06-12 21:29:00",

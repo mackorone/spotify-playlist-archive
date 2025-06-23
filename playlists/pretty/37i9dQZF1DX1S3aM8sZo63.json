@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. La Adictiva en portada.",
-  "num_followers": 1041455,
+  "num_followers": 1041532,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
+        "name": "Mi Amuleto Eres Tu",
+        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Mi Amuleto Eres T\u00fa",
+      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
         "name": "Sin Querer Queriendo",
         "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 206077,
       "name": "Sin Querer Queriendo",
       "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
-        "name": "Mi Amuleto Eres Tu",
-        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Mi Amuleto Eres T\u00fa",
-      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Romantico incurable",
-        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Rom\u00e1ntico incurable",
-      "url": "https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
         "name": "Lo S\u00e9",
         "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 143081,
       "name": "Voy a Amarte",
       "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
+        "name": "Romantico incurable",
+        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Rom\u00e1ntico incurable",
+      "url": "https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Bonito y Bello",
-      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 224166,
       "name": "Muchachita De Ojos Tristes - En Vivo",
       "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Bonito y Bello",
+      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "El Traje Naranja",
-        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
       },
       "artists": [
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 192435,
-      "name": "Siempre a Tu Lado",
-      "url": "https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p"
+      "duration_ms": 220000,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+        "name": "El Traje Naranja",
+        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
       },
       "artists": [
         {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Tu Eterno Enamorado",
-      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
+      "duration_ms": 192435,
+      "name": "Siempre a Tu Lado",
+      "url": "https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p"
     },
     {
       "added_at": "2025-03-21 06:00:32",

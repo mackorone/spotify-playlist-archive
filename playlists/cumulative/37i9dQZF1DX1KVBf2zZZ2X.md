@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-247 songs - 11 hr 34 min
+248 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 | 2023-09-01 |  |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-03-03 | 2025-06-12 |
 | [Earth Awakening](https://open.spotify.com/track/7rUqZmAjXBf0qeGbL1tEL2) | [Yin Gaya](https://open.spotify.com/artist/10xvJcC8M3vs3V2QtTzBML) | [Earth Awakening](https://open.spotify.com/album/2qGZ8rZTyz6QxbrpjPcwKu) | 2:47 | 2024-05-01 | 2025-06-12 |
-| [Echoes](https://open.spotify.com/track/38GHW30hLw28Noczz5ALKg) | [Inner Cabin](https://open.spotify.com/artist/7x6ZvvIbEUTL39ZpxeaMo7) | [Echoes](https://open.spotify.com/album/3WEaYyzm7R1aCw2Tr5JJy6) | 2:50 | 2025-06-11 |  |
+| [Echoes](https://open.spotify.com/track/38GHW30hLw28Noczz5ALKg) | [Inner Cabin](https://open.spotify.com/artist/7x6ZvvIbEUTL39ZpxeaMo7) | [Echoes](https://open.spotify.com/album/3WEaYyzm7R1aCw2Tr5JJy6) | 2:50 | 2025-06-11 | 2025-06-23 |
 | [Empathy Through Nature](https://open.spotify.com/track/4rZKmona0FutPWsrRZt00l) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [Empathy Through Nature](https://open.spotify.com/album/7LN049499H3XRYnDdcAG6t) | 3:15 | 2024-03-20 |  |
 | [Enchanted Sonata](https://open.spotify.com/track/18SdEvypE4zZjqgHiECdXu) | [Dancing and Dreaming](https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt) | [Enchanted Sonata](https://open.spotify.com/album/4aeodo8iBTwEaIUicB49wS) | 2:34 | 2024-10-01 | 2025-01-16 |
 | [Eosphoros T.Merula](https://open.spotify.com/track/5engCD94A1A16P51xvAFiP) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros T.Merula](https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC) | 2:14 | 2023-03-03 | 2025-03-01 |
@@ -99,6 +99,7 @@
 | [Forest Pond](https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Pond](https://open.spotify.com/album/1cZL0pIvI6Pbzg6cmbwCf6) | 2:56 | 2024-07-18 |  |
 | [Forest Retreat](https://open.spotify.com/track/5x1SM4426jF89HQPaGp6s8) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Forest Retreat](https://open.spotify.com/album/0XToDY4gtqpEu4CrWDgnP2) | 2:40 | 2024-06-03 |  |
 | [Forest Rhodes](https://open.spotify.com/track/2EZ9pD380RJJANsQR8NJTg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Rhodes](https://open.spotify.com/album/1Isn7pNhAwOzz2QkbVn7gv) | 2:51 | 2025-01-15 |  |
+| [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 |  |
 | [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 |  |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 | 2024-09-05 |
 | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/track/3tG0GoNdGyG42ktp3fRzeH) | [Mind Gardener](https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP) | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/album/523HXHTCCd8HuZY7dyf0l5) | 2:52 | 2025-03-19 | 2025-04-22 |

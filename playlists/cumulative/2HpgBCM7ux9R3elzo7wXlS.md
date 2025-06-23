@@ -4,7 +4,7 @@
 
 > All of it
 
-868 songs - 2 day 6 hr 10 min
+872 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,9 +556,11 @@
 | [Peaceful Easy Feeling \- 2013 Remaster](https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:17 | 2025-06-02 |  |
 | [Pearls](https://open.spotify.com/track/57R1nBluakXaayH9EzgwZa) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:33 | 2025-06-02 |  |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2025-06-02 |  |
+| [Pez Dorado](https://open.spotify.com/track/3egp2XXVJqXsUDXCitx4Tf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:56 | 2025-06-22 |  |
 | [Phantom Island](https://open.spotify.com/track/4poGq0eUVXKaCRI8aqNnqI) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:14 | 2025-06-02 |  |
 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 | 2025-06-02 |  |
 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 | 2025-06-02 |  |
+| [Picture of My Dress](https://open.spotify.com/track/4CI2qX3XYZLv5jIoAwdmz4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:20 | 2025-06-22 |  |
 | [Pierrot](https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:50 | 2025-06-02 |  |
 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 | 2025-06-02 |  |
 | [Plastic Love](https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx) | 4:54 | 2025-06-02 |  |
@@ -720,6 +722,7 @@
 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 | 2025-06-02 |  |
 | [Tell All the People \- New Stereo Mix](https://open.spotify.com/track/5MsuTL7JEQHCFaD78IeD8x) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Very Best of the Doors](https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY) | 3:21 | 2025-06-02 |  |
 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 | 2025-06-02 |  |
+| [Tell më](https://open.spotify.com/track/1ObrUCFugAMJoXcvpggbOd) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:03 | 2025-06-22 |  |
 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 | 2025-06-02 |  |
 | [That Go! \(feat\. T\-Shyne\)](https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [T\-Shyne](https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:46 | 2025-06-02 |  |
 | [That's Life](https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [That's Life](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) | 3:07 | 2025-06-02 |  |
@@ -781,6 +784,7 @@
 | [Three of a Perfect Pair](https://open.spotify.com/track/6K77y4p0cJYxQghBxv5lVx) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Three of a Perfect Pair](https://open.spotify.com/album/4eJ3LJl4sHKs3nd8CZ9hq5) | 4:10 | 2025-06-02 |  |
 | [Tick Tick Boom](https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black And White Album](https://open.spotify.com/album/0kGG0cYU829iWwfpQFm6Ue) | 3:25 | 2025-06-02 |  |
 | [TICTAC](https://open.spotify.com/track/3M1RQSSxQiZs8fooz4Qo0y) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [L.D.K\. Lounge Designers Killer](https://open.spotify.com/album/2QKJQBS7ElKCcq7GoE601a) | 2:30 | 2025-06-02 |  |
+| [Tidal Wave](https://open.spotify.com/track/0htLu08TAzKUzPg3zeZPn1) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 5:25 | 2025-06-22 |  |
 | [TIL FURTHER NOTICE \(feat\. James Blake & 21 Savage\)](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2025-06-02 |  |
 | [Time = $$$](https://open.spotify.com/track/5JRpB6u34JdTvfRZSzXpZL) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Paper Mâché Dream Balloon](https://open.spotify.com/album/0RyezpNCj0HGTv2Mrwaat5) | 2:04 | 2025-06-02 |  |
 | [Time = Fate](https://open.spotify.com/track/2MNYEq3SsiMY2Zj5cSMP0r) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Paper Mâché Dream Balloon](https://open.spotify.com/album/0RyezpNCj0HGTv2Mrwaat5) | 2:26 | 2025-06-02 |  |

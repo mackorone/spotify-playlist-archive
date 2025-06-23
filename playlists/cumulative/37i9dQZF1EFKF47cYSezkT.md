@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-67 songs - 3 hr 16 min
+68 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Sleepy Head](https://open.spotify.com/track/2hhisc2iY0UPwps2DYxNou) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Sleepy Head](https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE) | 2:24 | 2024-01-29 |  |
 | [Straitjacket](https://open.spotify.com/track/5kqQcwZieOTZKDAg3jSUTf) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Straitjacket](https://open.spotify.com/album/4q8jKuEJMH182MNDuNyNN3) | 2:39 | 2024-01-29 | 2024-06-03 |
 | [Straitjacket \- Bonus Track](https://open.spotify.com/track/318jRYcDGfYdKHFaQRwMIC) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:40 | 2024-06-02 |  |
+| [strangers](https://open.spotify.com/track/0rFxyx0ZAU9KkFnao5Wt13) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [dying art](https://open.spotify.com/album/1fne7Ywwqq0XdjjY6tmsQr) | 3:11 | 2025-06-22 |  |
 | [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 | 2024-01-29 | 2024-06-20 |
 | [Talk to Me](https://open.spotify.com/track/7IWE8DBJVrIas5nODDWK4h) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/1trxnFmxnQgpGBQRupbTjZ) | 2:53 | 2024-06-19 |  |
 | [Tell My Momma](https://open.spotify.com/track/1LlDCKs0Ep6Gmc2HNa7WUI) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [Where To Now? \(Part.1 : Yellow Light\)](https://open.spotify.com/album/31YiGSZjVbycG39MBWVecK) | 3:35 | 2024-08-21 |  |

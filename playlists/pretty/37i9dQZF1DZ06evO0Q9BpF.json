@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 47845,
+  "num_followers": 47854,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAArqcIW09AqUPgtWYOWk+CZ",
+  "snapshot_id": "aFX2AAAAAAAPDSmeErWX1EAfEK7BOVtb",
   "tracks": [
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Amor No Tiene Fin",
-        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        }
-      ],
-      "duration_ms": 616226,
-      "name": "\u00c9l Me Am\u00f3 Primero",
-      "url": "https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -815,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
         }
       ],
-      "duration_ms": 359827,
-      "name": "Cristo Te Amo",
-      "url": "https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU"
+      "duration_ms": 616226,
+      "name": "\u00c9l Me Am\u00f3 Primero",
+      "url": "https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF"
     },
     {
       "added_at": null,
@@ -847,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
         }
       ],
-      "duration_ms": 349187,
-      "name": "Encuentro Glorioso",
-      "url": "https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u"
+      "duration_ms": 359827,
+      "name": "Cristo Te Amo",
+      "url": "https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
       "duration_ms": 487160,
       "name": "Jes\u00fas, Eres el Centro",
       "url": "https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        }
+      ],
+      "duration_ms": 349187,
+      "name": "Encuentro Glorioso",
+      "url": "https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 411453,
-      "name": "Eres Santo",
-      "url": "https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 450186,
       "name": "Pr\u00f3digo",
       "url": "https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 411453,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p"
     },
     {
       "added_at": null,

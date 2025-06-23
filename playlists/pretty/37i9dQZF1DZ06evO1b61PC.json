@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11242,
+  "num_followers": 11243,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADiwyDbPvQ6QvWQ4jns6or2",
+  "snapshot_id": "aFX2AAAAAADcf99ekSLdenXGgBvIhIWc",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Rise (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "We Rise - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4"
       },
@@ -391,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "This Song Reminds Me Of You",
-      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parachute Remixes",
         "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
       },
@@ -423,6 +387,42 @@
       "duration_ms": 249360,
       "name": "Drivin Thru the Night - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "This Song Reminds Me Of You",
+      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Rise (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "We Rise - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
     },
     {
       "added_at": null,
@@ -674,11 +674,15 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "SAYAK DAS",
+          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
         }
       ],
-      "duration_ms": 366000,
-      "name": "My Tears Could Fill A Well",
-      "url": "https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4"
+      "duration_ms": 442868,
+      "name": "Melancholy Ave. / God Only Knows (feat. SAYAK DAS)",
+      "url": "https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B"
     }
   ],
   "unique_name": "This Is Jai Wolf",

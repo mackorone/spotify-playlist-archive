@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,017 songs - 2 day 13 hr 28 min
+1,018 songs - 2 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-06-09 | 2021-06-18 |
 | [don't wanna break up again](https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:54 | 2024-03-12 | 2024-03-14 |
 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2022-08-02 | 2022-08-12 |
-| [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-21 |  |
+| [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-21 | 2025-06-23 |
 | [Don’t You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:28 | 2021-04-11 | 2021-04-13 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-01-22 | 2024-12-03 |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2021-07-02 | 2021-10-27 |
@@ -302,6 +302,7 @@
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-03-01 | 2025-03-03 |
 | [G Luv](https://open.spotify.com/track/2O9suqOFtahgIoIwLbWYpP) | [1550 Collective](https://open.spotify.com/artist/6pFVpPXx3hu9oid9hLKWeI) | [G Luv](https://open.spotify.com/album/2Y4kFBXNRJYcaK4p2qZhvx) | 7:16 | 2025-05-29 | 2025-06-03 |
 | [G Luv](https://open.spotify.com/track/7rPCoHeFhATM6JiiNKw5fL) | [1550 Collective](https://open.spotify.com/artist/6pFVpPXx3hu9oid9hLKWeI) | [G Luv](https://open.spotify.com/album/3yKtXAlEVZ3xLz55XcWJUl) | 7:16 | 2025-06-02 | 2025-06-12 |
+| [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-22 |  |
 | [GENTO](https://open.spotify.com/track/1o6uF8VmXna99ysHTcQRI2) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [GENTO](https://open.spotify.com/album/3cxdpO2eZx2VT2OWyca18o) | 3:52 | 2023-06-09 | 2023-07-23 |
 | [Get Low](https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [Get Low](https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn) | 2:33 | 2023-12-24 | 2024-07-12 |
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 4:38 | 2025-02-28 | 2025-03-28 |

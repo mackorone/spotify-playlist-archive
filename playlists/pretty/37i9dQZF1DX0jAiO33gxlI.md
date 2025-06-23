@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Clara Lima, VIETNÃ
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,668 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,674 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 18 | [Tudo Nosso](https://open.spotify.com/track/1r5cctDlvf8n0oN2fMbllQ) | [ruadois](https://open.spotify.com/artist/1T5hg3seEG39VKTHICTft5), [Mirral ONE](https://open.spotify.com/artist/3a4dqCPvI8aisuZL1XzYN2), [Well](https://open.spotify.com/artist/2JCYooigSy6wfahpfssCCp), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP) | [Entreato](https://open.spotify.com/album/7nCCjXlUUL2m1KVxTQ1AeN) | 3:36 |
 | 19 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
 | 20 | [Vale Do Silício](https://open.spotify.com/track/0RIbrYxa06ta7MAlYCIGrI) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 3:37 |
-| 21 | [Grana](https://open.spotify.com/track/5vWU4bxPRDogv3ULQtYWe9) | [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf) | [Cultura De Preto](https://open.spotify.com/album/3jJEkOYCFdhGaANXIbTIra) | 2:38 |
+| 21 | [Grana](https://open.spotify.com/track/5vWU4bxPRDogv3ULQtYWe9) | [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Wjay](https://open.spotify.com/artist/2gC9Vntfv0e18dvpuLfxvI) | [Cultura De Preto](https://open.spotify.com/album/3jJEkOYCFdhGaANXIbTIra) | 2:38 |
 | 22 | [Cheiro do Verde](https://open.spotify.com/track/66GOcKAq5WK1ELUuOxuQuU) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Cheiro do Verde](https://open.spotify.com/album/2nQ3P7HUmmzRlc6bsbQGJS) | 2:38 |
 | 23 | [Olha o Menino 2.0](https://open.spotify.com/track/1gAbgL7hZs8QQhh3MbpiOQ) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:36 |
 | 24 | [Meu Eu](https://open.spotify.com/track/71gOAheFC35Pv8cBtClirb) | [Dr Caligari](https://open.spotify.com/artist/4P8MHFSABGVP77KjXhTKNw), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Rodrigo Zin](https://open.spotify.com/artist/71s3pi3yFhYB1P40dmRm1J) | [Meu Eu](https://open.spotify.com/album/0Aeva0uksEHUQgObD6fXHC) | 5:24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 116162,
+  "num_followers": 116191,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAB5K+wCLR90/Ll8/wboTOwC",
+  "snapshot_id": "aFX2AAAAAADeihLW4YWiqJqniJvtE3SQ",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 211674,
+      "name": "The Eye",
+      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 211674,
-      "name": "The Eye",
-      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 179719,
       "name": "Little Richard\u2019s Bible",
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 275838,
-      "name": "You Without Me",
-      "url": "https://open.spotify.com/track/6qJTqldDSDiI4m0TpL4ORX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 201493,
       "name": "Hard Way Home",
       "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 275838,
+      "name": "You Without Me",
+      "url": "https://open.spotify.com/track/6qJTqldDSDiI4m0TpL4ORX"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "That Wasn't Me",
+      "url": "https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
         "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 202391,
       "name": "Run To Me (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "That Wasn't Me",
-      "url": "https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L"
     },
     {
       "added_at": null,

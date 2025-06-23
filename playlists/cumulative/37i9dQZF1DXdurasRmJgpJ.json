@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 262335,
       "name": "Mine or Yours",
       "url": "https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo"
@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 197093,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
@@ -5367,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178380,
+      "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC"
+    },
+    {
+      "album": {
         "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
         "url": "https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh"
       },
@@ -7390,7 +7408,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 208896,
       "name": "\u9b54\u6cd5\u306e\u7d68\u6bef",
       "url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL"

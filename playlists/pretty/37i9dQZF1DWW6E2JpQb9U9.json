@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 123086,
+  "num_followers": 123104,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-06-20 03:00:20",
       "album": {
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
+    },
+    {
+      "added_at": "2025-06-20 03:00:20",
+      "album": {
         "name": "Correntada (Vivo en Buenos Aires)",
         "url": "https://open.spotify.com/album/0oEqZVAVscxdXe7kLDtJGI"
       },
@@ -795,26 +811,6 @@
       "duration_ms": 242407,
       "name": "Esquina de la Sombra - Vivo en Buenos Aires",
       "url": "https://open.spotify.com/track/1sefKirdjupi5Ai7rUjIck"
-    },
-    {
-      "added_at": "2025-06-20 03:00:20",
-      "album": {
-        "name": "Roxana Porcellana (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
-        "url": "https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 245699,
-      "name": "Roxana Porcellana - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
-      "url": "https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid"
     },
     {
       "added_at": "2025-06-20 03:00:20",
@@ -835,18 +831,22 @@
     {
       "added_at": "2025-06-20 03:00:20",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+        "name": "Roxana Porcellana (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
+        "url": "https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
+      "duration_ms": 245699,
+      "name": "Roxana Porcellana - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
+      "url": "https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid"
     },
     {
       "added_at": "2025-06-20 03:00:20",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-06-20 03:00:20",
       "album": {
-        "name": "Nada Salvaje (En Vivo Estadio Obras)",
-        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 278984,
-      "name": "Nada Salvaje (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
-    },
-    {
-      "added_at": "2025-06-20 03:00:20",
-      "album": {
         "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 266824,
       "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
       "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
+    },
+    {
+      "added_at": "2025-06-20 03:00:20",
+      "album": {
+        "name": "Nada Salvaje (En Vivo Estadio Obras)",
+        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 278984,
+      "name": "Nada Salvaje (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
     },
     {
       "added_at": "2025-06-20 03:00:20",

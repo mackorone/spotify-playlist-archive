@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 468692,
+  "num_followers": 468701,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAB63mQ6nXTkdATH5OKuxxPe",
+  "snapshot_id": "aFX2AAAAAACsEGxprrqkyxixncyUlXY4",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy"
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 266000,
-      "name": "If You Had My Love",
-      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy"
     },
     {
       "added_at": null,
@@ -811,26 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Double Vision (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK"
+        "name": "On My Way (Marry Me)",
+        "url": "https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 200920,
-      "name": "Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version",
-      "url": "https://open.spotify.com/track/6Y0mJNAcx8CDBOhSy6icFP"
+      "duration_ms": 192571,
+      "name": "On My Way (Marry Me)",
+      "url": "https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd"
     },
     {
       "added_at": null,
@@ -851,18 +843,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Way (Marry Me)",
-        "url": "https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx"
+        "name": "Double Vision (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK"
       },
       "artists": [
         {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 192571,
-      "name": "On My Way (Marry Me)",
-      "url": "https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd"
+      "duration_ms": 200920,
+      "name": "Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version",
+      "url": "https://open.spotify.com/track/6Y0mJNAcx8CDBOhSy6icFP"
     },
     {
       "added_at": null,

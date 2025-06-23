@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the music from the Marvel worlds that you love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,424 likes - 188 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,417 likes - 188 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 | 2 | [Thunderbolts\*](https://open.spotify.com/track/5OXtqgjZzi1Kj9EJlg45t2) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Thunderbolts\* \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5JTAY7hOUdzJx2GslB4nwc) | 3:27 |
 | 3 | [Marvel's Daredevil: Born Again Main Theme \- From "Marvel's Daredevil: Born Again"](https://open.spotify.com/track/4mXdThZ9JooNvF4vztdLtN) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Marvel's Daredevil: Born Again Main Theme \(From "Marvel's Daredevil: Born Again"\)](https://open.spotify.com/album/3JmYvRWvxTtVu1IckeCpfo) | 1:49 |
 | 4 | [Captain America: Brave New World Main Title](https://open.spotify.com/track/7kCC8GgZGIkYnvzyv9Y4Nv) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [Captain America: Brave New World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hPk939CdYc9Egmksy9sT5) | 3:44 |
-| 5 | [Ironheart \(Riri's Theme\) \- From "Marvel's Ironheart"](https://open.spotify.com/track/1HyzgWZRW17hyzwpluQ0fK) | [Dara Taylor](https://open.spotify.com/artist/5eVXLULHT8OSFJmZusDtwg) | [Ironheart \(Riri's Theme\) \[From "Marvel's Ironheart"\]](https://open.spotify.com/album/3cTqynScPj6Ip36E0YFs4S) | 2:17 |
+| 5 | [Ironheart \(Riri's Theme\) \- From "Marvel's Ironheart"](https://open.spotify.com/track/1HyzgWZRW17hyzwpluQ0fK) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Ironheart \(Riri's Theme\) \[From "Marvel's Ironheart"\]](https://open.spotify.com/album/3cTqynScPj6Ip36E0YFs4S) | 2:17 |
 | 6 | [The Avengers](https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [The Avengers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf) | 2:03 |
 | 7 | [Not Alone](https://open.spotify.com/track/78ATcC2v856GG3IXDZaPEJ) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Thunderbolts\* \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5JTAY7hOUdzJx2GslB4nwc) | 2:50 |
 | 8 | [Neighbor Like Me](https://open.spotify.com/track/4ZZ2BNbqWA4WM8jsFE7LJf) | [The Math Club](https://open.spotify.com/artist/2jv20xXmSWuTkPi3h0EelN), [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya), [Melo Makes Music](https://open.spotify.com/artist/6TiF1mKEGg9XB7i78VdYIS) | [Your Friendly Neighborhood Spider\-Man \(Original Soundtrack\)](https://open.spotify.com/album/2BNWwP9D8LPxJfbB2l2DGn) | 3:32 |

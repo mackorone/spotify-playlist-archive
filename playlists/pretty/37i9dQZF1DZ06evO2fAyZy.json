@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 97383,
+  "num_followers": 97414,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAolNfQjr8pQUWlvgfRFpuN",
+  "snapshot_id": "aFX2AAAAAACorSj0mC/6XHwBfk0XG6KR",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 148826,
-      "name": "Future Tripping",
-      "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
+      "duration_ms": 172533,
+      "name": "To The Men That Love Women After Heartbreak",
+      "url": "https://open.spotify.com/track/1epG8jhfeJW54B8dt6pCg9"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 172533,
-      "name": "To The Men That Love Women After Heartbreak",
-      "url": "https://open.spotify.com/track/1epG8jhfeJW54B8dt6pCg9"
+      "duration_ms": 148826,
+      "name": "Future Tripping",
+      "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/4LikBrGVLKO61HoPwHAygC"
+      "duration_ms": 198053,
+      "name": "Just Married",
+      "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 198053,
-      "name": "Just Married",
-      "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/4LikBrGVLKO61HoPwHAygC"
     },
     {
       "added_at": null,
@@ -835,22 +835,78 @@
     {
       "added_at": null,
       "album": {
-        "name": "They Don't Know",
-        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
+        "name": "Love Song to the Earth",
+        "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        },
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Johnny Rzeznik",
+          "url": "https://open.spotify.com/artist/6VZlYTq8lqmm4EFmZwK2fQ"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Christina Grimmie",
+          "url": "https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku"
+        },
+        {
+          "name": "Victoria Justice",
+          "url": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
+        },
+        {
+          "name": "Q'orianka Kilcher",
+          "url": "https://open.spotify.com/artist/1tHm53NBBuFigo0RrjqDfe"
         }
       ],
-      "duration_ms": 204106,
-      "name": "First Time Again",
-      "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
+      "duration_ms": 231679,
+      "name": "Love Song to the Earth",
+      "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
     }
   ],
   "unique_name": "This Is Kelsea Ballerini",

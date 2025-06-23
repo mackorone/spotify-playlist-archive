@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "YRS",
+        "url": "https://open.spotify.com/album/6DGok7MuunzqZoEs6FJurk"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193555,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0Ri8XkiBZJW2YPuNaPp56A"
+    },
+    {
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/6ohU5Ec3OF69kJQaZIbL4N"
       },
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 193555,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/7rSe0wAcz5tqmblhrloy7T"

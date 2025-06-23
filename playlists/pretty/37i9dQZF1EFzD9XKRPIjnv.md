@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,141 likes - 146 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,143 likes - 146 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 52 | [Pick U Up](https://open.spotify.com/track/2UbuXuTdSC0oR0upCbiLx2) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Pick U Up](https://open.spotify.com/album/7414qD6qDgp0dsbD8LuPEt) | 3:02 |
 | 53 | [F You I Love You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/27aGlicHJKf5QY20looYlR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Light of Mine \(Deluxe\)](https://open.spotify.com/album/4UYc2CKvpyr2e1moEY6TL0) | 3:56 |
 | 54 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
-| 55 | [move!](https://open.spotify.com/track/5w0zeX3eITqzFU2U112T6Q) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/4hOt0i0gET0PSwVyNYy25j) | 2:36 |
-| 56 | [Days On End](https://open.spotify.com/track/3pr1kknjt4upS2sDgwxAvn) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 3:28 |
+| 55 | [Days On End](https://open.spotify.com/track/3pr1kknjt4upS2sDgwxAvn) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 3:28 |
+| 56 | [move!](https://open.spotify.com/track/5w0zeX3eITqzFU2U112T6Q) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/4hOt0i0gET0PSwVyNYy25j) | 2:36 |
 | 57 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 |
 | 58 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
 | 59 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 145 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 146 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `Ab0w1AAAAAAH5y1GIUNI/X0Qre3bLDB9`
+Snapshot ID: `Ab02dAAAAADeYEUWyd24X3CAu8XW2i5g`

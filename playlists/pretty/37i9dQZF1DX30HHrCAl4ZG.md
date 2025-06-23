@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,960 likes - 119 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,849 likes - 119 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

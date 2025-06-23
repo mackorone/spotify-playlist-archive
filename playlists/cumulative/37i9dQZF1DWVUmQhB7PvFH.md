@@ -2,7 +2,7 @@
 
 ### [2000年代華語金曲](https://open.spotify.com/playlist/37i9dQZF1DWVUmQhB7PvFH)
 
-> 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡健雅 \(Tanya Chua\)
+> 千禧後第一個十年，讓我們藉著旋律回味...Cover: 戴佩妮 \(Penny Tai\)
 
 273 songs - 19 hr 53 min
 
@@ -125,7 +125,7 @@
 | [心跳](https://open.spotify.com/track/740KtWw1r4f5Gd6UXzhYNp) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心跳](https://open.spotify.com/album/4q3Dp4JkTVThfMe2OiZfUx) | 4:23 | 2025-04-16 |  |
 | [心願便利貼](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [命中注定我愛你 \(電視原聲帶\)](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 | 2024-02-19 | 2024-03-19 |
 | [快樂崇拜](https://open.spotify.com/track/1Z7y14vSg1Vv772geRfiAN) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0), [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [Wu Ha](https://open.spotify.com/album/4iTeGtAOrglcpzYxhmO9Le) | 3:25 | 2024-02-05 | 2024-09-02 |
-| [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 | 2025-02-17 | 2025-06-22 |
+| [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 | 2025-02-17 |  |
 | [思念是一種病](https://open.spotify.com/track/5JaPBs2aQjEfLwM5kVb4jq) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt), [蔡健雅](https://open.spotify.com/artist/2kddrh4vYO09lJ4yqu5hFv) | [OK](https://open.spotify.com/album/25kMDfOmyzEEz7xzL05tOD) | 4:15 | 2024-05-13 | 2025-02-17 |
 | [恋人未满](https://open.spotify.com/track/1R4nUHJeX005LSpuRakYBD) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [女生宿舍](https://open.spotify.com/album/0MDu8tWIgFWgriPq5NrLoE) | 4:36 | 2024-01-22 | 2024-02-20 |
 | [情歌](https://open.spotify.com/track/5oL7vOxCz2eJKAX6G4Yluh) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [別再為他流淚](https://open.spotify.com/album/46aInqxgXj0syC9RlTghlj) | 4:20 | 2025-02-17 |  |
@@ -163,7 +163,7 @@
 | [我難過](https://open.spotify.com/track/1CLch4OLZQAG8NkdGNKEXd) | [5566](https://open.spotify.com/artist/4vRnvRld46Z0TyLZ9xi5xE) | [5566 1st Album](https://open.spotify.com/album/0InD0gNAW4LkwpIVPF3Qbd) | 4:44 | 2024-05-13 | 2025-02-17 |
 | [手心](https://open.spotify.com/track/33C2zzM845egVxDaLm4qli) | [卓文萱](https://open.spotify.com/artist/5XHBjJm3bCgQCjpnInCxfT) | [幸福氧氣](https://open.spotify.com/album/5l1x7He69remjcsKirT9pX) | 4:13 | 2024-06-24 | 2024-07-09 |
 | [手放開](https://open.spotify.com/track/2Dd9EXYXI2NNrLG61OtWQv) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [絕對痴心.手放開](https://open.spotify.com/album/7i5rQCv4Ucs8p7lqhq5HfZ) | 4:25 | 2024-01-15 |  |
-| [拋物線](https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 5:07 | 2025-06-09 |  |
+| [拋物線](https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 5:07 | 2025-06-09 | 2025-06-23 |
 | [捨得](https://open.spotify.com/track/7aPLvqzqum6JU5XvwTMF9t) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [捨得](https://open.spotify.com/album/4G4eftynKC5F78pDdoVRjb) | 4:11 | 2024-09-16 | 2024-10-14 |
 | [掉了](https://open.spotify.com/track/39tpfLHvnzXk4f8iD0htkn) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [阿密特意識專輯](https://open.spotify.com/album/54VlS75YgBFZXq7Ng1Ue3c) | 3:57 | 2024-12-23 |  |
 | [擦肩而過](https://open.spotify.com/track/484E5ggbqCUi4wYO5SMfHD) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [收放自如](https://open.spotify.com/album/3Op0pkji5hAjXuyzOCvPP4) | 4:49 | 2025-05-26 | 2025-06-03 |
@@ -204,7 +204,7 @@
 | [為妳寫的歌](https://open.spotify.com/track/5qmtIGToI36Z9sNE7bvghH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:17 | 2025-03-03 |  |
 | [為我好](https://open.spotify.com/track/0dBYIJnLEIzeFo0u1MZmDj) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [美麗人生](https://open.spotify.com/album/1CDlnixRz3ZVqlH4fY6VnK) | 3:52 | 2024-10-14 | 2025-02-04 |
 | [無底洞](https://open.spotify.com/track/6vJ97QouNlvgs74MMhxdvw) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 4:02 | 2024-04-15 | 2025-04-18 |
-| [無與倫比的美麗](https://open.spotify.com/track/2UwbKIkGPgTPdp7CVx1Dok) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [無與倫比的美麗](https://open.spotify.com/album/6qNB0HMe9AoVBxsLn7CZPa) | 5:06 | 2024-10-27 |  |
+| [無與倫比的美麗](https://open.spotify.com/track/2UwbKIkGPgTPdp7CVx1Dok) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [無與倫比的美麗](https://open.spotify.com/album/6qNB0HMe9AoVBxsLn7CZPa) | 5:06 | 2024-10-27 | 2025-06-23 |
 | [熱帶雨林](https://open.spotify.com/track/1xSNwEmRvIxRcTADNjQCBZ) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [青春株式會社](https://open.spotify.com/album/1cUShl9eZufmNjPXHxW5vK) | 4:41 | 2024-09-02 | 2024-11-26 |
 | [牽牽牽手](https://open.spotify.com/track/6XgiRictNEA0RnGtKGXdrU) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [為你寫詩](https://open.spotify.com/album/26mIoCQNMjIIAO6WEesBlL) | 3:46 | 2024-07-08 | 2024-08-06 |
 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 | 2024-01-15 |  |
@@ -243,7 +243,7 @@
 | [荒廢](https://open.spotify.com/track/0cF1vJ56M3y7KH4LYfIRlk) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [大丈夫](https://open.spotify.com/album/4ehTQmehnIFczK8RmQUyZl) | 5:00 | 2024-10-14 | 2024-11-12 |
 | [莫斯科沒有眼淚](https://open.spotify.com/track/2YdEnV8am1dwhoOTfa9APB) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX) | [見習愛神](https://open.spotify.com/album/7roC3GDYAW8z83CICnMfM8) | 3:31 | 2025-01-20 | 2025-02-17 |
 | [藍天](https://open.spotify.com/track/1QUDSEhao2nxfCp0geL3sH) | [Yida Huang](https://open.spotify.com/artist/7kaq0LysuRSgBZSorlZ7Vj) | [無法定義黃義達](https://open.spotify.com/album/0qcKn9dQd9czP5YFqipykR) | 4:40 | 2024-03-04 | 2024-04-02 |
-| [街角的祝福](https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [Just Sing It](https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz) | 4:08 | 2024-11-25 | 2025-02-17 |
+| [街角的祝福](https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [Just Sing It](https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz) | 4:08 | 2024-11-25 |  |
 | [衝動](https://open.spotify.com/track/6x2HmNfNq7yx6YacS1kzKk) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [三面夏娃 真摯的夏娃](https://open.spotify.com/album/4U0CmavYpq8xDso8h7C3Cb) | 4:40 | 2024-01-15 | 2024-09-17 |
 | [衝動](https://open.spotify.com/track/6IgOD7rsZrsBIwOdVLfMHS) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Man](https://open.spotify.com/album/4442F3pK6aIO7PaHXTBEWV) | 4:53 | 2024-06-24 | 2024-10-28 |
 | [親愛的你怎麼不在身邊](https://open.spotify.com/track/4pXpDYuBv13nepKGqK4iay) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [又寂寞又美麗](https://open.spotify.com/album/0g16zRIq7GUJH7aMaQib0C) | 4:18 | 2024-09-30 | 2024-10-28 |

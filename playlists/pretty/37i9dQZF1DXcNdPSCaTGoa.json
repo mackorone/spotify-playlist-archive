@@ -1,6 +1,6 @@
 {
   "description": "South African gems across the decades. Cover: <a href=\"https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli?si=2VnM_9GqSrCkUNwtfpaCPQ\">Pro Kid</a> ",
-  "num_followers": 88718,
+  "num_followers": 88746,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -223,8 +223,8 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+        "name": "Sondelani",
+        "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
         }
       ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
+      "duration_ms": 330573,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -307,8 +307,8 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Sondelani",
-        "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
         }
       ],
-      "duration_ms": 330573,
-      "name": "Sondela",
-      "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Levels (Explicit)",
-        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "Congratulate",
-      "url": "https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Sound Revival",
         "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 436960,
       "name": "Lengoma",
       "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "Congratulate",
+      "url": "https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Ibutho",
-        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Lwandle",
-      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 296080,
       "name": "Umqombothi",
       "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Ibutho",
+        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Lwandle",
+      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
-        }
-      ],
-      "duration_ms": 320613,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
-    },
-    {
-      "added_at": "2025-04-24 22:10:13",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
       },
@@ -635,18 +619,34 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Khokhovula",
-        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Sana Luma (Thats The Way Love Is)",
-      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
+      "duration_ms": 320613,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
+    },
+    {
+      "added_at": "2025-04-24 22:10:13",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
         }
       ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+      "duration_ms": 317760,
+      "name": "Sana Luma (Thats The Way Love Is)",
+      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -715,22 +715,22 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Bhambatha (Remastered 2024)",
-        "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
         },
         {
-          "name": "Thembisile",
-          "url": "https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML"
+          "name": "S'bu",
+          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
         }
       ],
-      "duration_ms": 217560,
-      "name": "Don't Cry - Remastered 2024",
-      "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
+      "duration_ms": 315266,
+      "name": "Palafala (feat. S'bu)",
+      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
       "added_at": "2025-04-24 22:10:13",
@@ -751,22 +751,22 @@
     {
       "added_at": "2025-04-24 22:10:13",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+        "name": "Bhambatha (Remastered 2024)",
+        "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
       },
       "artists": [
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
         },
         {
-          "name": "S'bu",
-          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
+          "name": "Thembisile",
+          "url": "https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML"
         }
       ],
-      "duration_ms": 315266,
-      "name": "Palafala (feat. S'bu)",
-      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
+      "duration_ms": 217560,
+      "name": "Don't Cry - Remastered 2024",
+      "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
     },
     {
       "added_at": "2025-04-24 22:10:13",

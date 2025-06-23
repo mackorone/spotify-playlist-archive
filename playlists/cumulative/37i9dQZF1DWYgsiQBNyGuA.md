@@ -2,7 +2,7 @@
 
 ### [Soulful Day](https://open.spotify.com/playlist/37i9dQZF1DWYgsiQBNyGuA)
 
-> Soul to brighten up your day\. Cover: JACOTE
+> Soul to brighten up your day\. Cover: JACOTÉNE
 
 225 songs - 14 hr 28 min
 

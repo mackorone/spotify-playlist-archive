@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Nourished by Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,312,946 likes - 200 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,312,796 likes - 200 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 144 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
 | 145 | [Bones And All](https://open.spotify.com/track/32NRHTXx7dWCBHaKtinsZ6) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [The Love I Showed You Was Yours To Keep](https://open.spotify.com/album/6mk2yI6dHBQSFlkFiuZXAn) | 3:14 |
 | 146 | [Magic \(feat\. Alann8h\)](https://open.spotify.com/track/1iDCQMpWONUZs5MRjbDLUw) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Magic \(feat\. Alann8h\)](https://open.spotify.com/album/1aUuka5o9LpbYFQwVl6wiI) | 4:09 |
-| 147 | [AMERICAN FOOD](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [AMERICAN FOOD](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 |
+| 147 | [american food](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [american food](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 |
 | 148 | [Achilles And](https://open.spotify.com/track/74yoALVa8n1cOi4zdAZQ0t) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Achilles And](https://open.spotify.com/album/17WDuxWOOaKgoJIDbR4gd4) | 4:14 |
 | 149 | [Headlock \- Spotify Singles](https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Headlock \- Spotify Singles](https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG) | 3:40 |
 | 150 | [migration patterns](https://open.spotify.com/track/3oEEFMm9zcTyjhvKWMGoxz) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [migration patterns](https://open.spotify.com/album/3EoHlEOAFafYIHY1fGLYLF) | 3:35 |

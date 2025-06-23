@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 550 songs - 1 day 12 hr 35 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 552 songs - 1 day 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -558,5 +558,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 548 | [Windfall](https://open.spotify.com/track/0duHbgFBsmdaV9CJLpiXCa) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 2:59 |
 | 549 | [Hello](https://open.spotify.com/track/4qYlBtzkmby4r1N7etPnUv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 3:23 |
 | 550 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 |
+| 551 | [In The Garden](https://open.spotify.com/track/3Qg3xUxxGLJEDEOFf4c0NA) | [Adam Goldstone](https://open.spotify.com/artist/11nDj0FhwWDHH2RpehfKG0), [Ceybil Jefferies](https://open.spotify.com/artist/4mcL7JonbvEoIj9rnwUOEy) | [Lower East Side Stories](https://open.spotify.com/album/6vewM0elb03oSUN1ZyNN7u) | 5:48 |
+| 552 | [Protocol](https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 4:12 |
 
-Snapshot ID: `AAAHPXLCYVLvSNrlbkoTmUYiBvJ+xT4/`
+Snapshot ID: `AAAHPyqDEdiMHcuXQV889ZKEeZSuy7rS`

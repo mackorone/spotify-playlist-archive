@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t?si=zEuIA1S6SgW8IOr8GD0HFA">George FitzGerald</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 65,274 likes - 50 songs - 3 hr 13 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 65,234 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 43 | [Te Fuiste](https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Te Fuiste](https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq) | 3:09 |
 | 44 | [Heartbreaker](https://open.spotify.com/track/4Upa0Asa1PilXJysdW68Gb) | [Carwyn Ellis & Rio 18](https://open.spotify.com/artist/6L2FmhX67tsAe4o7TrVR3b), [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Elan Rhys](https://open.spotify.com/artist/7JwzWtFcR6Jbqea00SomYy) | [Fontana Rosa](https://open.spotify.com/album/1lTcZOjLCiePvnfAYAD8lS) | 3:42 |
 | 45 | [JUST FRIENDS](https://open.spotify.com/track/37QEOk1qyAZFVLL5YApiht) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [JUST FRIENDS](https://open.spotify.com/album/2KNsDuRNuH5DxQui3aqEyV) | 2:24 |
-| 46 | [AMERICAN FOOD](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [AMERICAN FOOD](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 |
+| 46 | [american food](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [american food](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 |
 | 47 | [Ghost Orchid](https://open.spotify.com/track/1FZyUmv3IbT974A6jZgqzX) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Ghost Orchid](https://open.spotify.com/album/2jMvba9qmQr7dPiBk84gmC) | 4:08 |
 | 48 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 49 | [Går I Kras](https://open.spotify.com/track/6LopagfhFPt9N8QlqmkzgT) | [Amateur Hour](https://open.spotify.com/artist/7MbhbrCOjLXeaNah07xAdq) | [Går I Kras](https://open.spotify.com/album/6JisBmDBVCT1xk02Af0Ob8) | 3:08 |

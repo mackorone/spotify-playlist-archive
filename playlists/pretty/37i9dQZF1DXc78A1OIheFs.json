@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19059,
+  "num_followers": 19058,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Sad Boiii",
-        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Sad Boiii",
-      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Back In My Arms",
         "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
       },
@@ -151,22 +135,6 @@
       "duration_ms": 225843,
       "name": "Back In My Arms",
       "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
-    },
-    {
-      "added_at": "2025-04-24 14:00:10",
-      "album": {
-        "name": "What Was That",
-        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -185,20 +153,36 @@
       "url": "https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W"
     },
     {
-      "added_at": "2025-05-29 23:24:52",
+      "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
+        "name": "Sad Boiii",
+        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
       },
       "artists": [
         {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 383400,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
+      "duration_ms": 166026,
+      "name": "Sad Boiii",
+      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
+    },
+    {
+      "added_at": "2025-04-24 14:00:10",
+      "album": {
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
       "added_at": "2025-04-17 14:00:17",
@@ -219,18 +203,18 @@
     {
       "added_at": "2025-05-29 23:24:52",
       "album": {
-        "name": "Blister",
-        "url": "https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi"
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
         }
       ],
-      "duration_ms": 179866,
-      "name": "Blister",
-      "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
     },
     {
       "added_at": "2025-06-05 14:00:31",
@@ -251,18 +235,18 @@
     {
       "added_at": "2025-05-29 23:24:52",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+        "name": "Blister",
+        "url": "https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+      "duration_ms": 179866,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -313,6 +297,22 @@
       "url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz"
     },
     {
+      "added_at": "2025-02-20 13:00:26",
+      "album": {
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Question",
+      "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
+    },
+    {
       "added_at": "2025-04-24 14:00:10",
       "album": {
         "name": "STALKER (feat. Ramirez)",
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
     },
     {
+      "added_at": "2025-05-29 23:24:52",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+    },
+    {
       "added_at": "2025-03-20 14:42:12",
       "album": {
         "name": "PLEASER",
@@ -347,22 +363,6 @@
       "duration_ms": 165925,
       "name": "PLEASER",
       "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
-    },
-    {
-      "added_at": "2025-02-20 13:00:26",
-      "album": {
-        "name": "The Question",
-        "url": "https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "The Question",
-      "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"
     },
     {
       "added_at": "2025-05-29 23:24:52",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
     },
     {
-      "added_at": "2024-11-07 11:00:00",
-      "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
-      },
-      "artists": [
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Eldest Daughter Of An Eldest Daughter",
@@ -561,20 +545,20 @@
       "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2024-11-07 11:00:00",
       "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
       },
       "artists": [
         {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
         }
       ],
-      "duration_ms": 256799,
-      "name": "Concubine",
-      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -607,6 +591,38 @@
       "duration_ms": 254920,
       "name": "Give Me That Feeling",
       "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Concubine",
+      "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 165090,
+      "name": "Boots 'N All",
+      "url": "https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW"
     },
     {
       "added_at": "2024-12-05 13:00:00",
@@ -643,38 +659,6 @@
       "duration_ms": 246720,
       "name": "Nadja",
       "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
-    },
-    {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Chantilly",
-        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 213459,
-      "name": "Chantilly",
-      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Nights Like This",
-        "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
-        }
-      ],
-      "duration_ms": 165090,
-      "name": "Boots 'N All",
-      "url": "https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -725,22 +709,6 @@
       "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
     },
     {
-      "added_at": "2025-04-24 14:00:10",
-      "album": {
-        "name": "Moonglade",
-        "url": "https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 274609,
-      "name": "Moonglade",
-      "url": "https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a"
-    },
-    {
       "added_at": "2025-04-17 14:00:17",
       "album": {
         "name": "The Drip",
@@ -757,6 +725,54 @@
       "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
     },
     {
+      "added_at": "2025-04-24 14:00:10",
+      "album": {
+        "name": "Moonglade",
+        "url": "https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 274609,
+      "name": "Moonglade",
+      "url": "https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Chantilly",
+        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 213459,
+      "name": "Chantilly",
+      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+    },
+    {
+      "added_at": "2025-05-08 14:00:23",
+      "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Meet Me",
@@ -771,22 +787,6 @@
       "duration_ms": 194670,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x"
-    },
-    {
-      "added_at": "2025-04-03 13:00:16",
-      "album": {
-        "name": "Best Behaviour",
-        "url": "https://open.spotify.com/album/4P8TDzqsxvNYb9PwviFJzJ"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 196001,
-      "name": "Best Behaviour",
-      "url": "https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -835,22 +835,6 @@
       "duration_ms": 260088,
       "name": "Ocean Demon",
       "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
-    },
-    {
-      "added_at": "2025-05-08 14:00:23",
-      "album": {
-        "name": "Sail Away",
-        "url": "https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Sail Away",
-      "url": "https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc"
     },
     {
       "added_at": "2025-01-23 13:00:35",
@@ -905,24 +889,20 @@
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
-      "added_at": "2025-01-23 13:00:35",
+      "added_at": "2025-04-03 13:00:16",
       "album": {
-        "name": "Hold Up",
-        "url": "https://open.spotify.com/album/0L14Tbk7Bb6W8KFCfXUq4h"
+        "name": "Best Behaviour",
+        "url": "https://open.spotify.com/album/4P8TDzqsxvNYb9PwviFJzJ"
       },
       "artists": [
         {
-          "name": "The 046",
-          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
-        },
-        {
-          "name": "KT Souljah",
-          "url": "https://open.spotify.com/artist/3gVTOFVt8i5LxsSYOqtpRG"
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 176326,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/4zHNBoWXRGv4D46AYgaT3x"
+      "duration_ms": 196001,
+      "name": "Best Behaviour",
+      "url": "https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -941,44 +921,24 @@
       "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
     },
     {
-      "added_at": "2025-05-08 14:00:23",
+      "added_at": "2025-01-23 13:00:35",
       "album": {
-        "name": "kissing under an (almost) full moon",
-        "url": "https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ"
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/0L14Tbk7Bb6W8KFCfXUq4h"
       },
       "artists": [
         {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 250217,
-      "name": "lose her",
-      "url": "https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1"
-    },
-    {
-      "added_at": "2025-02-13 13:00:24",
-      "album": {
-        "name": "Maumahara Noa Ahau",
-        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
         },
         {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        },
-        {
-          "name": "Brannigan Kaa",
-          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
+          "name": "KT Souljah",
+          "url": "https://open.spotify.com/artist/3gVTOFVt8i5LxsSYOqtpRG"
         }
       ],
-      "duration_ms": 170691,
-      "name": "Maumahara Noa Ahau",
-      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+      "duration_ms": 176326,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/4zHNBoWXRGv4D46AYgaT3x"
     },
     {
       "added_at": "2025-04-03 13:00:16",
@@ -1037,6 +997,46 @@
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
+      "added_at": "2025-02-13 13:00:24",
+      "album": {
+        "name": "Maumahara Noa Ahau",
+        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        },
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        },
+        {
+          "name": "Brannigan Kaa",
+          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
+        }
+      ],
+      "duration_ms": 170691,
+      "name": "Maumahara Noa Ahau",
+      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+    },
+    {
+      "added_at": "2025-05-08 14:00:23",
+      "album": {
+        "name": "kissing under an (almost) full moon",
+        "url": "https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 250217,
+      "name": "lose her",
+      "url": "https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1"
+    },
+    {
       "added_at": "2025-05-29 23:24:52",
       "album": {
         "name": "Vol. 3",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
     },
     {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
+      },
+      "artists": [
+        {
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+        }
+      ],
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
+    },
+    {
       "added_at": "2025-04-10 14:00:37",
       "album": {
         "name": "The Eyes",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
-      },
-      "artists": [
-        {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
-        }
-      ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Tief Im Wald",
         "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 218033,
       "name": "Tief Im Wald",
       "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
-    },
-    {
-      "added_at": "2024-12-12 13:00:02",
-      "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1169,6 +1153,22 @@
       "url": "https://open.spotify.com/track/6eCL5F6TCHTwDZ2QnlZj3c"
     },
     {
+      "added_at": "2024-12-12 13:00:02",
+      "album": {
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+    },
+    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "Skeletons",
@@ -1183,22 +1183,6 @@
       "duration_ms": 237800,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
-    },
-    {
-      "added_at": "2025-03-20 14:42:12",
-      "album": {
-        "name": "juliet & juliet",
-        "url": "https://open.spotify.com/album/60bkLTXrxVVqiR5G9YtcnQ"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 236011,
-      "name": "juliet & juliet",
-      "url": "https://open.spotify.com/track/1NUsYYGE0O3SI8CxZrNhCm"
     },
     {
       "added_at": "2024-11-28 13:00:00",
@@ -1249,24 +1233,36 @@
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
     },
     {
-      "added_at": "2025-04-10 14:00:37",
+      "added_at": "2025-03-20 14:42:12",
       "album": {
-        "name": "AHI",
-        "url": "https://open.spotify.com/album/7M7WId08s9FRcTO9Hu61VI"
+        "name": "juliet & juliet",
+        "url": "https://open.spotify.com/album/60bkLTXrxVVqiR5G9YtcnQ"
       },
       "artists": [
         {
-          "name": "Casual Healing",
-          "url": "https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi"
-        },
-        {
-          "name": "Dub Princess",
-          "url": "https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ"
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
         }
       ],
-      "duration_ms": 262289,
-      "name": "Morning Ritual",
-      "url": "https://open.spotify.com/track/4ICBc4sFEcF1XiIzQzrIbT"
+      "duration_ms": 236011,
+      "name": "juliet & juliet",
+      "url": "https://open.spotify.com/track/1NUsYYGE0O3SI8CxZrNhCm"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 107232,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
     }
   ],
   "unique_name": "The Local List Aotearoa",

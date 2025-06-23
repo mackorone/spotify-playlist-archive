@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 39875,
+  "num_followers": 39882,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADAqAfEc+XNNNn/OrCVp9y9",
+  "snapshot_id": "aFX2AAAAAAA0cw7073VPanhp4Vd0C79u",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+        "name": "Cult of Static",
+        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Worth Dyin For",
-      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
+      "duration_ms": 252653,
+      "name": "Stingwray",
+      "url": "https://open.spotify.com/track/72PjxQajUSyOcUVBpQqXHz"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 252653,
-      "name": "Stingwray",
-      "url": "https://open.spotify.com/track/72PjxQajUSyOcUVBpQqXHz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
       "artists": [
         {
@@ -644,25 +628,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 164346,
-      "name": "Chroma-Matic",
-      "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 226734,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
+      "duration_ms": 206506,
+      "name": "Worth Dyin For",
+      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
     },
     {
       "added_at": null,
@@ -683,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
       },
       "artists": [
         {
@@ -692,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 219426,
-      "name": "Structural Defect",
-      "url": "https://open.spotify.com/track/59ej8sGCYuLwaAR3EDSOmR"
+      "duration_ms": 226734,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
     },
     {
       "added_at": null,
@@ -708,15 +676,15 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 161013,
-      "name": "No Submission",
-      "url": "https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo"
+      "duration_ms": 164346,
+      "name": "Chroma-Matic",
+      "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -724,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Jic Boi",
-      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+      "duration_ms": 219426,
+      "name": "Structural Defect",
+      "url": "https://open.spotify.com/track/59ej8sGCYuLwaAR3EDSOmR"
     },
     {
       "added_at": null,
@@ -747,6 +715,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Jic Boi",
+      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "No Submission",
+      "url": "https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beneath...Between...Beyond...",
         "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 243693,
       "name": "Anything but This",
       "url": "https://open.spotify.com/track/67hDFNvGg6NzkEfywf3gIS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cult of Static",
+        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/080foaXWDJpI51Mg8FZkfn"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 232200,
       "name": "Hip Hop",
       "url": "https://open.spotify.com/track/1UCVgSDDlH4vJ0jI4txWXP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "Terminal",
-      "url": "https://open.spotify.com/track/080foaXWDJpI51Mg8FZkfn"
     },
     {
       "added_at": null,

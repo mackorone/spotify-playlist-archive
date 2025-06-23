@@ -4,12 +4,12 @@
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-119 songs - 9 hr 50 min
+120 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/789k9pzKzORADvuOVU0ARy) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5G8dn5RbKidwf1RHRupOvp) | 0:00 | 2022-12-14 | 2023-04-22 |
-| [Aaja Sohneya](https://open.spotify.com/track/1DfskI6r7ufeVEiV1DQZf6) | [Bally Jagpal](https://open.spotify.com/artist/3mMwnm3FuucDtmcuWRoKiG), [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S) | [Dark & Dangerous](https://open.spotify.com/album/1CDM75MwzrJdekLr7O92bu) | 7:22 | 2022-12-14 |  |
+| [Aaja Sohneya](https://open.spotify.com/track/1DfskI6r7ufeVEiV1DQZf6) | [Bally Jagpal](https://open.spotify.com/artist/3mMwnm3FuucDtmcuWRoKiG), [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S) | [Dark & Dangerous](https://open.spotify.com/album/1CDM75MwzrJdekLr7O92bu) | 7:22 | 2022-12-14 | 2025-06-23 |
 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 | 2022-04-11 |  |
 | [Aasmaan Ke Paar](https://open.spotify.com/track/1wYJfvpYirtoh4fsc7Bo6n) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 6:15 | 2022-04-11 | 2022-12-15 |
 | [Ab Ke Saawan](https://open.spotify.com/track/3f6lUIjrM4b5jOjKmwcPK5) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Ab Ke Sawan](https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv) | 4:29 | 2022-04-11 | 2025-01-18 |
@@ -76,6 +76,7 @@
 | [Love \- Ology](https://open.spotify.com/track/3AjLzpwLY91dPA7W7zyONF) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Love\-Ology](https://open.spotify.com/album/3QJF82W18yDZSW7jajj11C) | 3:43 | 2022-12-29 | 2023-03-16 |
 | [Lover Girl](https://open.spotify.com/track/44NcO3sv7gVBH03tNRmwDR) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Made in India](https://open.spotify.com/album/6RU0wl99jN8GaFtD0BXCZ3) | 4:46 | 2023-04-21 | 2025-01-01 |
 | [Maaeri](https://open.spotify.com/track/6Fvdk2eTzxEa9JsUUa1kP2) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 5:32 | 2022-04-11 |  |
+| [Maahi Ve](https://open.spotify.com/track/0lgNMu8Ji0P3tLw83q5xgz) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Mantra](https://open.spotify.com/album/6XvUyMCDtDODSxY15yInXC) | 4:47 | 2025-01-31 |  |
 | [Made in India](https://open.spotify.com/track/6NVGAoLnJaooF97t8Kgs78) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Made in India](https://open.spotify.com/album/6RU0wl99jN8GaFtD0BXCZ3) | 4:26 | 2022-04-11 |  |
 | [Maine Payal Hai Chhankai](https://open.spotify.com/track/79mTw48OApemSCN9WNMApk) | [Falguni Pathak](https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 4:37 | 2022-04-11 | 2025-01-01 |
 | [Maine Payal Hai Chhankai](https://open.spotify.com/track/6FOfGe6Y8kOwEiRTIMqx3F) | [Falguni Pathak](https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv) | [Maine Payal Hai Chhankai](https://open.spotify.com/album/20MpgikKnMlrmfpcW6QdgV) | 4:38 | 2022-06-01 | 2022-11-14 |

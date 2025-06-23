@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-618 songs - 1 day 11 hr 40 min
+619 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bachelor Kisses](https://open.spotify.com/track/3RnE0PPErzblWEXZND1NEG) | [The Go\-Betweens](https://open.spotify.com/artist/4HCubdy7diarb4KZo8etrq) | [Spring Hill Fair](https://open.spotify.com/album/4LoBNOutats9DaceI3Brtn) | 3:31 | 2025-04-29 | 2025-05-09 |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-22 | 2025-05-09 |
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 | 2024-05-16 |
+| [Be Good To Them Always](https://open.spotify.com/track/6ZjuwJor7BsyPUUXilxGQE) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 4:51 | 2025-06-22 |  |
 | [Beginning](https://open.spotify.com/track/3ySR4omemna2bEDRSen2nr) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 1:39 | 2024-05-16 | 2024-07-12 |
 | [Believer \- Fingers Deep\-Funk Remix](https://open.spotify.com/track/6Pg1k2lHck2HUrAcMuWz4o) | [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Believer / Can U Read Me?](https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil) | 8:38 | 2025-06-15 |  |
 | [Bell Buoy](https://open.spotify.com/track/06Ff1LSvn5WUw2EHPMSzcg) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 4:16 | 2024-03-09 | 2024-05-16 |

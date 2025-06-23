@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 111271,
+  "num_followers": 111303,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -283,8 +283,8 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
+        "name": "Tequila (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 291640,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0"
+      "duration_ms": 229173,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -367,8 +367,8 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Tequila (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 229173,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
+      "duration_ms": 291640,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Lifestyle2 - Bar Jazz Vol 2 (International Version)",
-        "url": "https://open.spotify.com/album/32JF2WnLL2FYQwxHVqGEKp"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 287826,
-      "name": "Exactly Like You",
-      "url": "https://open.spotify.com/track/2gRJ1I0QWkU8E9ECZ6iZM6"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Bright Size Life",
         "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
       },
@@ -1835,6 +1815,22 @@
       "duration_ms": 222733,
       "name": "Unity Village",
       "url": "https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Movin' Wes",
+        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/2bpaLm1QOCoThKSvJmOFEC"
     }
   ],
   "unique_name": "Jazz Guitar Classics",

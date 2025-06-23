@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 5353,
+  "num_followers": 5355,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAiO5xnqMpZdnYS6fU494Yc",
+  "snapshot_id": "aFX2AAAAAAALN+xEBhgR6SomWNOe3C3+",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad B",
+        "url": "https://open.spotify.com/album/0zpf6Mkc9v127iGORp26wA"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "Bad B",
+      "url": "https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Freak Out",
         "url": "https://open.spotify.com/album/62OsTy7hkNuFKAwFR4L7ro"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 138517,
       "name": "Freak Out",
       "url": "https://open.spotify.com/track/42w1i3guWLaz1VeEJUsbL0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad B",
-        "url": "https://open.spotify.com/album/0zpf6Mkc9v127iGORp26wA"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "Bad B",
-      "url": "https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Streets",
-        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 181383,
-      "name": "Amped",
-      "url": "https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back Again",
         "url": "https://open.spotify.com/album/1TIw2arqA2nlo3xeBe3cSj"
       },
@@ -567,42 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6QZBEp2SpZA8Ws7BoDmK1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In My Bag",
-        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "owie",
-          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
-        }
-      ],
-      "duration_ms": 184567,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Want",
         "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
       },
@@ -619,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money Zone",
-        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
       },
       "artists": [
         {
@@ -628,9 +576,25 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 171502,
-      "name": "Money Zone",
-      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
+      "duration_ms": 181383,
+      "name": "Amped",
+      "url": "https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6QZBEp2SpZA8Ws7BoDmK1Y"
     },
     {
       "added_at": null,
@@ -655,8 +619,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
+        "name": "In My Bag",
+        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "owie",
+          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
+        }
+      ],
+      "duration_ms": 184567,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money Zone",
+        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
       },
       "artists": [
         {
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 216683,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
+      "duration_ms": 171502,
+      "name": "Money Zone",
+      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 187263,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 216683,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
     },
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Fantom Freq",
-          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
         }
       ],
-      "duration_ms": 219344,
-      "name": "U Know It",
-      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
+      "duration_ms": 158427,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Streets",
-        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Fantom Freq",
+          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
         }
       ],
-      "duration_ms": 158427,
-      "name": "The Streets",
-      "url": "https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y"
+      "duration_ms": 219344,
+      "name": "U Know It",
+      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
     },
     {
       "added_at": null,

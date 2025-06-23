@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 106684,
+  "num_followers": 106700,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -780,6 +780,30 @@
       "added_at": "2022-06-28 08:58:25",
       "album": {
         "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/77X2cJ3JcAAcJi1HKlUwuL"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "Die Walk\u00fcre: Act II, Scene I, \"Deiner ew\u2019gen Gattin\" (Fricka)",
+      "url": "https://open.spotify.com/track/74BUb8MznOM8EvmdA4GjVM"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
       },
       "artists": [
@@ -803,30 +827,6 @@
       "duration_ms": 138768,
       "name": "Die Walk\u00fcre, Act III Scene 3: Leb wohl, du k\u00fchnes, herrliches Kind - 2012 Remaster",
       "url": "https://open.spotify.com/track/3JjGDVzq9HKgDJhdf3V4nE"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/77X2cJ3JcAAcJi1HKlUwuL"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
-        },
-        {
-          "name": "Sir Mark Elder",
-          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "Die Walk\u00fcre: Act II, Scene I, \"Deiner ew\u2019gen Gattin\" (Fricka)",
-      "url": "https://open.spotify.com/track/74BUb8MznOM8EvmdA4GjVM"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -975,38 +975,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Birgit Nilsson",
-          "url": "https://open.spotify.com/artist/6ljM6B2XmSU7BtG3tZLQ1K"
-        },
-        {
-          "name": "Hans Hotter",
-          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 249265,
-      "name": "Die Walk\u00fcre, Act III Scene 2: Hier bin ich, Vater - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2MmgNZf4BX1iTA7zIoGOCI"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Lohengrin (Highlights)",
         "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 394093,
       "name": "Lohengrin, Act III Scene 3: In fernem Land \"Grail Narration\"",
       "url": "https://open.spotify.com/track/1HERfJC2zM3qCBvFZ7WwGw"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Birgit Nilsson",
+          "url": "https://open.spotify.com/artist/6ljM6B2XmSU7BtG3tZLQ1K"
+        },
+        {
+          "name": "Hans Hotter",
+          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 249265,
+      "name": "Die Walk\u00fcre, Act III Scene 2: Hier bin ich, Vater - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2MmgNZf4BX1iTA7zIoGOCI"
     },
     {
       "added_at": "2022-06-28 08:58:25",

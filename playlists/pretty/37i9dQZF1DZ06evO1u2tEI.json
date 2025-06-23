@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 82884,
+  "num_followers": 82896,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAABCYE2/stKkjX2cLqOjhgDd",
+  "snapshot_id": "aFX2AAAAAACBodE+oqaKvhu9S8YaopcX",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Either/Or: Expanded Edition",
         "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 117134,
       "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed / Remastered",
       "url": "https://open.spotify.com/track/5aRWbpGuItECDLfjw0n1Ba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven Adores You Soundtrack",
+        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 84013,
+      "name": "Untitled Guitar Finger Picking - Demo",
+      "url": "https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Adores You Soundtrack",
-        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 84013,
-      "name": "Untitled Guitar Finger Picking - Demo",
-      "url": "https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z"
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,

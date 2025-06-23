@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,059 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,065 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Y Arriba Quemando el Sol](https://open.spotify.com/track/0qarO5TEf1JwiJMyV6GQ23) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 11:03 |
 | 50 | [El Pasillo del Cóndor \- En Vivo 2014](https://open.spotify.com/track/3VqyFnVNNe030MDH6XR6b2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 0:32 |
 
-Snapshot ID: `aFSkgAAAAAChp3GLtibxRzSaHvc6ekaU`
+Snapshot ID: `aFX2AAAAAABqr73b4NJF13e00EeHhRKL`

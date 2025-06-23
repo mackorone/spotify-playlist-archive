@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from HAIM, Central Cee, Fred again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,713 likes - 122 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,731 likes - 122 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,203 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,215 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Ace of Spades](https://open.spotify.com/track/5NAJzQnVtRPmug4PcwiFgm) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Christian Zepeda](https://open.spotify.com/artist/1OOzpB4qc8zndHFs9O4dzo) | [Ace of Spades](https://open.spotify.com/album/4gvnBYrlVxacLhUeBfuIqr) | 3:00 |
 | 50 | [Cookies En Las Pipas](https://open.spotify.com/track/5LeqwOYzwZZZCz7ftzpUYS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:30 |
 
-Snapshot ID: `aFSkgAAAAAAQ7pk+IR+i0+FbEjLXSW11`
+Snapshot ID: `aFX2AAAAAABRmTCGvR0gHLdalve7S/nL`

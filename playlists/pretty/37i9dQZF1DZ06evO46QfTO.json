@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 74431,
+  "num_followers": 74436,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAABGH/3BURfDFHVNWmithndN",
+  "snapshot_id": "aFX2AAAAAABO9bdaAicMs5Y+CYr/Tep5",
   "tracks": [
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 251309,
+      "name": "Dancing with Myself",
+      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 345026,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 251309,
-      "name": "Dancing with Myself",
-      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     },
     {
       "added_at": null,

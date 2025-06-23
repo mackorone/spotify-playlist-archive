@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 193504,
+  "num_followers": 193648,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAA8N6V9aZcH6Uya3yAZaJjR",
+  "snapshot_id": "aFX2AAAAAAAhV57rLiH1yKNESh555E2x",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC"
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
       "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
         {
           "name": "Gracie Abrams",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 126831,
-      "name": "Call Me When You Break Up (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/1OdvKyTexzm8ZEmdCxhGsX"
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "added_at": null,
@@ -147,18 +139,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC"
       },
       "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
         {
           "name": "Gracie Abrams",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 152317,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/1OdvKyTexzm8ZEmdCxhGsX"
     },
     {
       "added_at": null,

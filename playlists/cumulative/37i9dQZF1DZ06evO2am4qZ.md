@@ -4,7 +4,7 @@
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 24 min
+113 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Feedback](https://open.spotify.com/track/0EJi5ppofhn5rmeRvoIA10) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/3avEg43Aiv7ASXT9S33Dxu) | 3:12 | 2022-10-28 | 2023-03-02 |
 | [Feedback](https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF) | 3:12 | 2023-03-01 |  |
 | [Feel It](https://open.spotify.com/track/71PUYOHINr5A64QxBywwsp) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 2:46 | 2022-10-28 | 2023-10-11 |
+| [FINE](https://open.spotify.com/track/70YrYj7TOzfd00NX7Ynlrt) | [Izye](https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [FINE](https://open.spotify.com/album/3cXA1skgfeePscQgcLaw3P) | 2:51 | 2025-06-23 |  |
 | [Flick! \(Stacey\) \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/1I0etEWpAifqN3Ceq1ZMYt) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Watch This!](https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL) | 2:04 | 2022-10-28 | 2024-12-08 |
 | [Focused](https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:46 | 2022-10-28 |  |
 | [FTN! \(Ft\. Baby Tate\)](https://open.spotify.com/track/0dbIXdA90vhwVzV1uPfXwm) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Porches](https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy) | 3:17 | 2023-08-13 | 2024-06-11 |
@@ -59,7 +60,7 @@
 | [Grip \- Sped Up](https://open.spotify.com/track/0NE8hafAqEQgXk6N9J4vTU) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Grip \(Sped Up/Slowed Down\)](https://open.spotify.com/album/3MQLhpAAMbdElr2C98xLiW) | 3:01 | 2024-03-30 | 2024-04-27 |
 | [He Wanna \(feat\. B.K\. Habermehl\)](https://open.spotify.com/track/3BXvUg7mxywHWb7PjElvOV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [B.K\. Habermehl](https://open.spotify.com/artist/64QWRxLk9KP6yTX9NK7COY) | [He Wanna \(feat\. B.K\. Habermehl\)](https://open.spotify.com/album/43MrfvRegBtm396DTzpmtl) | 2:31 | 2022-11-30 | 2022-12-11 |
 | [Heaux Things \(feat\. Baby Tate\)](https://open.spotify.com/track/7JJlZwKiYSPG4udG1GvX9t) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Luv Scarred / No Luv \(Deluxe\)](https://open.spotify.com/album/6BW57jVtLJ1NuVefL901qC) | 2:43 | 2023-02-13 | 2024-07-24 |
-| [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 | 2023-03-17 |  |
+| [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 | 2023-03-17 | 2025-06-23 |
 | [Hey Ladies](https://open.spotify.com/track/5CxEjGBDDT1Bf2ifds33Op) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir) | 2:48 | 2022-10-28 | 2023-03-04 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-18 |  |
 | [Hey, Mickey!](https://open.spotify.com/track/4KVJ9cSgpo6IANqaQ9lWjN) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/58vYzfzlVh9ptoQoCpNfMw) | 1:55 | 2022-12-20 | 2023-01-19 |

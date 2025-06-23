@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,633 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,636 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 37 | [internet girl](https://open.spotify.com/track/63DGV1mELaumtRGzV9Y5sI) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [internet girl](https://open.spotify.com/album/68Rs6kp20R9n61RlAH7TAj) | 2:39 |
 | 38 | [The Auction](https://open.spotify.com/track/6Iyjyipx38ScxCNP4TmBq4) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [The Auction](https://open.spotify.com/album/7KskZmiLjIUjWFijCmoZDw) | 2:56 |
 | 39 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
-| 40 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
-| 41 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
+| 40 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
+| 41 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 42 | [Intergalactic Janet](https://open.spotify.com/track/0cczRyfWxYAMs6qHEr0jFd) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/2sAPRdU1BZxn42eICvtgHv) | 2:40 |
 | 43 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
 | 44 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 47 | [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 |
 | 48 | [HELLO PITI](https://open.spotify.com/track/0pwJNdOShRPkqNAmtrFAvv) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Cómo duele si es tan bonito](https://open.spotify.com/album/1ieiB4J3foLe9yOQj1ia18) | 2:23 |
 | 49 | [safe space](https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [safe space](https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z) | 3:10 |
-| 50 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
-| 51 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
-| 52 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
-| 53 | [control.](https://open.spotify.com/track/31Y6kxdxjGuYeYwLmLILMw) | [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms) | [control.](https://open.spotify.com/album/0QZV1HiWtdLqD9YO7pm0uA) | 4:17 |
+| 50 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
+| 51 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
+| 52 | [control.](https://open.spotify.com/track/31Y6kxdxjGuYeYwLmLILMw) | [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms) | [control.](https://open.spotify.com/album/0QZV1HiWtdLqD9YO7pm0uA) | 4:17 |
+| 53 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
 | 54 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
-| 55 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
-| 56 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 |
+| 55 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 |
+| 56 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
 | 57 | [Came Thru](https://open.spotify.com/track/3HUkuNHMv91cnarbS92WgY) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Thinking With My Ears](https://open.spotify.com/album/1Ia99w2Ob3HprO65ePGeVk) | 2:37 |
 | 58 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
 | 59 | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs) | 4:50 |

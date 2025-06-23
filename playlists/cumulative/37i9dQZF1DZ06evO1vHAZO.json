@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275880,
+      "name": "Rockin' Chair",
+      "url": "https://open.spotify.com/track/0cinxoejsLL50k5BN8AQlK"
+    },
+    {
+      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 239240,
       "name": "Turn Up The Sun",
       "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 363729,
+  "num_followers": 363732,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAX0vJ/qefdeglGxm2u0InZ",
+  "snapshot_id": "aFX2AAAAAADhMDxe6bxquZaX0DZmHFE8",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 209361,
       "name": "TOMMY & PAMELA",
       "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Una Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 138143,
       "name": "Bate",
       "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Una Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn"
     },
     {
       "added_at": null,

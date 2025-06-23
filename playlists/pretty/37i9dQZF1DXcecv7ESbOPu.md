@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Hanna Ferm, Benson Boone, Swedish House Mafia och sombr med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,148 likes - 107 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,154 likes - 107 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

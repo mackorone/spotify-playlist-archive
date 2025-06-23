@@ -2599,6 +2599,28 @@
     },
     {
       "album": {
+        "name": "Waiting - EP",
+        "url": "https://open.spotify.com/album/3amD749bBCslLZkXzOb9Ji"
+      },
+      "artists": [
+        {
+          "name": "Paluma",
+          "url": "https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4"
+        },
+        {
+          "name": "ATHANASIA",
+          "url": "https://open.spotify.com/artist/56sUrWqaCdTyKmSs4glQ7N"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192230,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/2dSwYx6yx7wBuQcQMyXFTQ"
+    },
+    {
+      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/4aYoFMt08akFhioqk2iZDu"
       },

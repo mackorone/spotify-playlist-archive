@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 70864,
+  "num_followers": 70867,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
+      },
+      "artists": [
+        {
+          "name": "Gina G",
+          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
+        },
+        {
+          "name": "Motiv8",
+          "url": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
+      "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Love Monster",
         "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
@@ -787,22 +807,6 @@
       "duration_ms": 170413,
       "name": "I Said Hi",
       "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Age Of Reason",
-        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Two Strong Hearts",
-      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -827,22 +831,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
+        "name": "Age Of Reason",
+        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
       "artists": [
         {
-          "name": "Gina G",
-          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
-        },
-        {
-          "name": "Motiv8",
-          "url": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp"
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
         }
       ],
-      "duration_ms": 203120,
-      "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
-      "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
+      "duration_ms": 213333,
+      "name": "Two Strong Hearts",
+      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
     },
     {
       "added_at": "2024-08-05 06:00:58",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAABdukpFyc6vSrpdUCwbC0kg",
+  "snapshot_id": "aFX2AAAAAAAOB4RPA5L+2h8puAtiHopc",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Este Coraz\u00f3n",
         "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
       },
@@ -127,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
       },
       "artists": [
         {
@@ -136,9 +120,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 223883,
-      "name": "Ya No Me Importa",
-      "url": "https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X"
+      "duration_ms": 158653,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
     },
     {
       "added_at": null,
@@ -155,6 +139,22 @@
       "duration_ms": 200095,
       "name": "Por Qu\u00e9 No Me Esperaste?",
       "url": "https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 223883,
+      "name": "Ya No Me Importa",
+      "url": "https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "La Que Sigue de Mi",
-      "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 186628,
       "name": "La Loter\u00eda",
       "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "La Que Sigue de Mi",
+      "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 171392,
-      "name": "La Catedral",
-      "url": "https://open.spotify.com/track/1EZ8KQkKTZlAKVGKJGgfaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 140662,
       "name": "Pinocho",
       "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "La Catedral",
+      "url": "https://open.spotify.com/track/1EZ8KQkKTZlAKVGKJGgfaS"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Ya Sabemos",
         "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 216132,
       "name": "Si Ya Sabemos",
       "url": "https://open.spotify.com/track/4QLGl9Uknn2xmIH8589tqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 200728,
-      "name": "Yo soy Buena Mujer",
-      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin \u00c9l",
         "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 193223,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 200728,
+      "name": "Yo soy Buena Mujer",
+      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 207644,
-      "name": "Chapul\u00edn - En Vivo",
-      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Tanto Es Tantito?",
         "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 221554,
       "name": "Qu\u00e9 Tanto Es Tantito?",
       "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Chapul\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Nuevo",
+        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 179427,
+      "name": "Nada Nuevo",
+      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Tijuana",
         "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 230230,
       "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
       "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Nuevo",
-        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 179427,
-      "name": "Nada Nuevo",
-      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
     },
     {
       "added_at": null,

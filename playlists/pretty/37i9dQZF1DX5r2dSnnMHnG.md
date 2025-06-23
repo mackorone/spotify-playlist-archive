@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,452 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,458 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 15 | [Ordinary Confession](https://open.spotify.com/track/786Fx68VDlEbrtrz7MxyIE) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ordinary Confession](https://open.spotify.com/album/1NFzfdh1hVimmjJY092DWa) | 3:48 |
 | 16 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 17 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
-| 18 | [두근거려 \(Beautiful\)](https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [우리 옆집에 EXO가 산다 \(EXO NEXT DOOR\) OST](https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc) | 3:44 |
-| 19 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 |
+| 18 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 |
+| 19 | [두근거려 \(Beautiful\)](https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [우리 옆집에 EXO가 산다 \(EXO NEXT DOOR\) OST](https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc) | 3:44 |
 | 20 | [Meaning of Love](https://open.spotify.com/track/2F0wFQzNVlrzSYUdMAJuge) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [WALK \- The 6th Album](https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML) | 2:47 |
 | 21 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 22 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 41 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
 | 42 | [Green Tea](https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 4:07 |
 | 43 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
-| 44 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 |
-| 45 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
+| 44 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
+| 45 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 |
 | 46 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
 | 47 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
 | 48 | [Again Spring](https://open.spotify.com/track/5x5xiwS1HInKYLkIAuRjSA) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 4:04 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 72 | [Whenever](https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Whenever](https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V) | 3:20 |
 | 73 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 |
 | 74 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 |
-| 75 | [I wanna walk with you \(feat\. Subbit & Luhae\)](https://open.spotify.com/track/725nZxxHYGcdLZhoeG3NMG) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Subbit](https://open.spotify.com/artist/6efFSrfAtcVvlMIkrCEwR0), [Luhae](https://open.spotify.com/artist/4Fh5HG3tvMsqB3xtWGmWXp) | [I'm on my way to you](https://open.spotify.com/album/6DX3jl8nfeWduJrvXytQ13) | 3:02 |
+| 75 | [Night train](https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Spring](https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s) | 3:40 |
 
 Snapshot ID: `aCLTUwAAAADn4wYr1HIGriMH/b/jSa+q`

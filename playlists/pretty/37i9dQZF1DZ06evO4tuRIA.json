@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 96362,
+  "num_followers": 96384,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACF/kQkofORd09WzI6aWV/D",
+  "snapshot_id": "aFX2AAAAAAAHEktXgmwdMXTWBeysO0MY",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy de Michoacan",
+        "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 162375,
+      "name": "Soy de Michoacan",
+      "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4-20-20",
         "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 180082,
       "name": "Soy Lo Que Soy",
       "url": "https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy de Michoacan",
-        "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 162375,
-      "name": "Soy de Michoacan",
-      "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
     },
     {
       "added_at": null,
@@ -759,26 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reyes Magos",
-        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
+        "name": "Niveleando Cuh II",
+        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
       },
       "artists": [
         {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "JOP",
-          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Reyes Magos",
-      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
+      "duration_ms": 164790,
+      "name": "De Bajo Perfil",
+      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
     },
     {
       "added_at": null,
@@ -803,22 +799,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niveleando Cuh II",
-        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+        "name": "Reyes Magos",
+        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
       "artists": [
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "JOP",
+          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
         }
       ],
-      "duration_ms": 164790,
-      "name": "De Bajo Perfil",
-      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
+      "duration_ms": 128000,
+      "name": "Reyes Magos",
+      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
     },
     {
       "added_at": null,

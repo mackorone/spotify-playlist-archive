@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,572 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,621 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [OUTRA](https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA) | [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [fire hair](https://open.spotify.com/artist/6wyE69vcYrfYvRaG5GNEkN), [WenHard](https://open.spotify.com/artist/4otphgHII0GMrR36Kexd3o) | [OUTRA](https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz) | 2:08 |
 | 50 | [Ritmo da Sanfoninha \(Fomfomrom\)](https://open.spotify.com/track/4NjI4qbTN70oQZ8Alt9cdC) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Nuzio Medeiros](https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL) | [Ritmo da Sanfoninha \(Fomfomrom\)](https://open.spotify.com/album/6O6uq5Lbu5TN6BskzyQ7AP) | 2:07 |
 
-Snapshot ID: `L+onKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+t2UAAAAAAAAAAAAAAAAAAAAAAAAGVu`

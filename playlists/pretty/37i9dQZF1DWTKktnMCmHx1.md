@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 77 | [Mi Piace \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 2:38 |
 | 78 | [UHLALA](https://open.spotify.com/track/1D7sdScaOxtmb0lInM90SN) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 3:09 |
 | 79 | [I CAN FLY](https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [I CAN FLY](https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu) | 2:44 |
-| 80 | [fuck 3x](https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 2:41 |
+| 80 | [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 |
 
 Snapshot ID: `Z1Lz3QAAAADzo9UWdq5r5zebvUmnGbWb`

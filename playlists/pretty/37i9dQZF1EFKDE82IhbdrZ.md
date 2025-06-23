@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,385 likes - 321 songs - 17 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,386 likes - 321 songs - 17 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 144 | [Start Without You \(feat\. Laza Morgan\)](https://open.spotify.com/track/24lvFiLei3W4DjCUA3LpFY) | [Alexandra Burke](https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8), [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [Overcome](https://open.spotify.com/album/0Jo60TeFm2QkBR9d5anzRU) | 3:32 |
 | 145 | [BRAINWASHED](https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 | 146 | [This Girl](https://open.spotify.com/track/0TJdgYzIwuJNikaavO9Cul) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:09 |
-| 147 | [Pure](https://open.spotify.com/track/30O9CIEN4wG2fBMdRVbZUJ) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Brand New Moves](https://open.spotify.com/album/3jvOuQxO5i6MsBLU1UV3EN) | 4:18 |
-| 148 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 |
+| 147 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 |
+| 148 | [Pure](https://open.spotify.com/track/30O9CIEN4wG2fBMdRVbZUJ) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Brand New Moves](https://open.spotify.com/album/3jvOuQxO5i6MsBLU1UV3EN) | 4:18 |
 | 149 | [God Must Be Doing Cocaine](https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [God Must Be Doing Cocaine](https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7) | 3:14 |
 | 150 | [The Music Never Ends](https://open.spotify.com/track/76hJ3vEgb6jUiYUEkiTmuQ) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [This is 嵐](https://open.spotify.com/album/1aGPwO93UYZ3OMtnVcekI6) | 4:04 |
 | 151 | [Doesn't Matter](https://open.spotify.com/track/3bJySSPfgLzsM7lLJyr90G) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [TOOGOODTOBETRUE \(feat\. Sufjan Stevens & Rebecca Sugar\)](https://open.spotify.com/album/2tZug3aKryBvtzJTfKqARf) | 3:28 |
@@ -202,8 +202,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 192 | [All We Ever Wanted](https://open.spotify.com/track/7ekvWq3OCA6avtuSOnc2c1) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:44 |
 | 193 | [This Fire](https://open.spotify.com/track/4PfWwiOX46mIy3qRt09SGX) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [FLOWER SHOPS \(THE ALBUM\): Two Dozen Roses](https://open.spotify.com/album/5BtYFs4SDVtDNnFFeXgEjw) | 3:02 |
 | 194 | [Never Seen You Dance](https://open.spotify.com/track/13N1HPNBK0oU0FbAUZ3xYT) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:48 |
-| 195 | [This Is Me Breaking Up With You](https://open.spotify.com/track/17TPi4ydPlmmNDhjdflXdi) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:13 |
-| 196 | [Guitars and Drugs](https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Guitars and Drugs](https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V) | 3:12 |
+| 195 | [Guitars and Drugs](https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Guitars and Drugs](https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V) | 3:12 |
+| 196 | [This Is Me Breaking Up With You](https://open.spotify.com/track/17TPi4ydPlmmNDhjdflXdi) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:13 |
 | 197 | [Elevate](https://open.spotify.com/track/36WDhBNwVWRJgL3vuaOywU) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Love Center](https://open.spotify.com/album/2y5JTyJ84CYPR2EbFuKDCv) | 4:04 |
 | 198 | [Finish What We Started](https://open.spotify.com/track/1n6GQXul5WHhhuvu3mMkJF) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 3:49 |
 | 199 | [Crying Shame](https://open.spotify.com/track/56l61HlnJm3UDUh8XZNFLy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Crying Shame](https://open.spotify.com/album/5nrQBDhOeanNYeReK2Dd4y) | 3:20 |
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 214 | [Loving](https://open.spotify.com/track/1b5e4l5gydR0LCX099FaIP) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:54 |
 | 215 | [It Works](https://open.spotify.com/track/6qLhYplpKpC3AyylF9YAx5) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:48 |
 | 216 | [Guilty Pleasure](https://open.spotify.com/track/4Jc5qr6GZgbKU5GZPrlyJA) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 3:28 |
-| 217 | [Lungs \- Calibre Remix](https://open.spotify.com/track/0DzMAkZf0mSZQp4UFhhjFz) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Lungs \(Calibre Remix\)](https://open.spotify.com/album/3rQgypEayz3PHKrzSmbZOu) | 4:53 |
-| 218 | [Nothing](https://open.spotify.com/track/3V97CljOzjfQEf00yoSVXg) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 2:45 |
+| 217 | [Nothing](https://open.spotify.com/track/3V97CljOzjfQEf00yoSVXg) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 2:45 |
+| 218 | [Lungs \- Calibre Remix](https://open.spotify.com/track/0DzMAkZf0mSZQp4UFhhjFz) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Lungs \(Calibre Remix\)](https://open.spotify.com/album/3rQgypEayz3PHKrzSmbZOu) | 4:53 |
 | 219 | [Blue Jeans](https://open.spotify.com/track/6tnMSQvPJVJvyCsgOIYpr9) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Jessie James](https://open.spotify.com/album/30xG0AwSqAlBjlx8vPFzkX) | 3:54 |
 | 220 | [Electrical](https://open.spotify.com/track/7klpihDYkaynlP0fcmFz0E) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:48 |
 | 221 | [h2s \- Bonus track](https://open.spotify.com/track/7KFF8MzCpu1s8zTrHMt3Of) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [my neighbours don't know.](https://open.spotify.com/album/6ou5jov81dSypk2KJOLnCQ) | 4:22 |
@@ -246,8 +246,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 236 | [Put Some Music On](https://open.spotify.com/track/4hOdYMuz63sbWjiV0CucOi) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Twenty](https://open.spotify.com/album/03DEKGkvYKs8PQhhCLkuAa) | 4:14 |
 | 237 | [The Sleeper](https://open.spotify.com/track/3n9mhUXCLffbJoIcZ4kRQS) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 3:51 |
 | 238 | [Lost Myslf](https://open.spotify.com/track/1Q8mNKvVCpfsm8WGKMeKQ9) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:21 |
-| 239 | [I Wish](https://open.spotify.com/track/6neQ1ODe83vn9kobBZ5ZBD) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 2:58 |
-| 240 | [U Sometimes](https://open.spotify.com/track/1w77M7nvWjLJOO1ffSOzua) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:48 |
+| 239 | [U Sometimes](https://open.spotify.com/track/1w77M7nvWjLJOO1ffSOzua) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:48 |
+| 240 | [I Wish](https://open.spotify.com/track/6neQ1ODe83vn9kobBZ5ZBD) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 2:58 |
 | 241 | [superpowers](https://open.spotify.com/track/5p1T0HF9ubXm5H1umSQBmR) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:25 |
 | 242 | [Good News](https://open.spotify.com/track/5cljhBkI14yAF0uSh4999U) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Days & Nights](https://open.spotify.com/album/3cwP8FL7HkJJvDBP78heeW) | 4:01 |
 | 243 | [Shot In The Dark](https://open.spotify.com/track/23Qzc4lfb0OmBQNFY7xYKR) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Augustana](https://open.spotify.com/album/6C5GXWTK4E9A50lDtFQFgr) | 3:26 |
@@ -330,4 +330,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 320 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 321 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab0wygAAAACKtaU2jYVW3fhsKlOo/a8i`
+Snapshot ID: `Ab02kgAAAACPDitBK5hI96BSyfVjd+t2`

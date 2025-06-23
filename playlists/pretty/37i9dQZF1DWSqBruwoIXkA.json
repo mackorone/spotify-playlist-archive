@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like this. cover: sombr",
-  "num_followers": 2418158,
+  "num_followers": 2418133,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "LET EM GO",
+        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 181159,
+      "name": "LET EM GO",
+      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "LET EM GO",
-        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 181159,
-      "name": "LET EM GO",
-      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 246606,
-      "name": "stay a little longer",
-      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "something to remember",
@@ -823,6 +807,22 @@
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 246606,
+      "name": "stay a little longer",
+      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
     },
     {
-      "added_at": "2025-04-25 04:00:38",
-      "album": {
-        "name": "WITHERED",
-        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 195328,
-      "name": "Is This Really Love?",
-      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
-    },
-    {
       "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
@@ -1019,6 +1003,22 @@
       "duration_ms": 122053,
       "name": "Remember Me (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2fQwoYSzWzChmIB2zZwrGL"
+    },
+    {
+      "added_at": "2025-04-25 04:00:38",
+      "album": {
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 195328,
+      "name": "Is This Really Love?",
+      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277156,
-      "name": "loml",
-      "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277156,
+      "name": "loml",
+      "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 169990,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2025-01-31 05:00:34",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Intrusive Thoughts",
-        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 201058,
-      "name": "Intrusive Thoughts",
-      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "i wish u knew",
         "url": "https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 193429,
       "name": "i wish u knew",
       "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 201058,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1957,6 +1957,22 @@
       "url": "https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz"
     },
     {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/65EbrpXpMpLWKdJ178ouMT"
+      },
+      "artists": [
+        {
+          "name": "Jordi",
+          "url": "https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/2qrUdcBtfNEqJ76qoRJWuI"
+    },
+    {
       "added_at": "2024-11-04 21:05:18",
       "album": {
         "name": "Freudian",
@@ -1975,22 +1991,6 @@
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/65EbrpXpMpLWKdJ178ouMT"
-      },
-      "artists": [
-        {
-          "name": "Jordi",
-          "url": "https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/2qrUdcBtfNEqJ76qoRJWuI"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
         "name": "Lasting Effects",
         "url": "https://open.spotify.com/album/113HR1TbXie2s9xTeGEGck"
       },
@@ -2003,6 +2003,22 @@
       "duration_ms": 239500,
       "name": "Lasting Effects",
       "url": "https://open.spotify.com/track/3bYuvzuTTyLlehuQoiGVPA"
+    },
+    {
+      "added_at": "2025-06-13 04:00:59",
+      "album": {
+        "name": "Under Different Skies",
+        "url": "https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 211429,
+      "name": "Second Chances",
+      "url": "https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV"
     },
     {
       "added_at": "2025-04-11 04:08:48",
@@ -2035,22 +2051,6 @@
       "duration_ms": 201643,
       "name": "Mr. Blue Jeans",
       "url": "https://open.spotify.com/track/0bAwwBJloXOyycr9SmZKnS"
-    },
-    {
-      "added_at": "2025-06-13 04:00:59",
-      "album": {
-        "name": "Under Different Skies",
-        "url": "https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 211429,
-      "name": "Second Chances",
-      "url": "https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV"
     },
     {
       "added_at": "2025-02-28 20:01:16",
@@ -2197,22 +2197,6 @@
       "url": "https://open.spotify.com/track/7HecSZE0RmYuRRBosf0EmP"
     },
     {
-      "added_at": "2025-03-28 04:00:52",
-      "album": {
-        "name": "Starcrossed",
-        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Starcrossed",
-      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
-    },
-    {
       "added_at": "2025-03-21 04:01:01",
       "album": {
         "name": "Forever",
@@ -2229,20 +2213,20 @@
       "url": "https://open.spotify.com/track/4xg5WAehIEXWpZeO4PEIkr"
     },
     {
-      "added_at": "2025-02-14 19:55:23",
+      "added_at": "2025-03-28 04:00:52",
       "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+        "name": "Starcrossed",
+        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+      "duration_ms": 183157,
+      "name": "Starcrossed",
+      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
     },
     {
       "added_at": "2025-01-10 05:00:11",
@@ -2259,6 +2243,22 @@
       "duration_ms": 168145,
       "name": "Bench Sitter",
       "url": "https://open.spotify.com/track/69PbR7w1VkVMEd7m33NsgC"
+    },
+    {
+      "added_at": "2025-02-14 19:55:23",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
     },
     {
       "added_at": "2025-03-28 04:00:52",

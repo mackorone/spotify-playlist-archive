@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Ella Augusta, Sivas, Benson Boone og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,014 likes - 109 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,019 likes - 109 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

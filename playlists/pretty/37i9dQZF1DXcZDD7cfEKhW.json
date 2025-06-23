@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: JENNIE",
-  "num_followers": 4082522,
+  "num_followers": 4082318,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+        "name": "Peru (Peace Control Remix)",
+        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         },
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
         }
       ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+      "duration_ms": 287179,
+      "name": "Peru - Peace Control Remix",
+      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -639,22 +639,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Peru (Peace Control Remix)",
-        "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 287179,
-      "name": "Peru - Peace Control Remix",
-      "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Love Again (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Love Again - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 188640,
       "name": "Ferrari - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 155676,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 155676,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1301,24 +1301,24 @@
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
     },
     {
-      "added_at": "2025-02-27 16:42:59",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "I'll Do It (feat. Pitbull)",
-        "url": "https://open.spotify.com/album/51dVwp68x0e1GZNOgE7hyK"
+        "name": "Lil Boo Thang (Galantis Remix)",
+        "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
       },
       "artists": [
         {
-          "name": "Heidi Montag",
-          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 204892,
-      "name": "I'll Do It (feat. Pitbull)",
-      "url": "https://open.spotify.com/track/5k4n97WJhjr3J4faTGdIeI"
+      "duration_ms": 129631,
+      "name": "Lil Boo Thang - Galantis Remix",
+      "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1341,24 +1341,24 @@
       "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2025-02-27 16:42:59",
       "album": {
-        "name": "Lil Boo Thang (Galantis Remix)",
-        "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
+        "name": "I'll Do It (feat. Pitbull)",
+        "url": "https://open.spotify.com/album/51dVwp68x0e1GZNOgE7hyK"
       },
       "artists": [
         {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 129631,
-      "name": "Lil Boo Thang - Galantis Remix",
-      "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
+      "duration_ms": 204892,
+      "name": "I'll Do It (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/5k4n97WJhjr3J4faTGdIeI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1489,6 +1489,26 @@
       "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 123214,
+      "name": "CAN'T TOUCH THIS - R3HAB Remix",
+      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+    },
+    {
       "added_at": "2025-05-09 04:00:27",
       "album": {
         "name": "YIPPEE-KI-YAY. (The Remixes)",
@@ -1515,22 +1535,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 123214,
-      "name": "CAN'T TOUCH THIS - R3HAB Remix",
-      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
       "added_at": "2025-03-28 04:00:36",
@@ -1551,30 +1571,6 @@
       "duration_ms": 225000,
       "name": "Whiplash (Steve Aoki Remix)",
       "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
-        "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
-      "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
     }
   ],
   "unique_name": "Pop Remix",

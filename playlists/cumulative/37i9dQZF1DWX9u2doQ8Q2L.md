@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,637 songs - 4 day 2 hr 59 min
+1,638 songs - 4 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,6 +690,7 @@
 | [Mo ai ni](https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [Mo ai ni](https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7) | 2:58 | 2023-05-30 | 2023-08-25 |
 | [Mocktails](https://open.spotify.com/track/2cUhZvGJpb3gUfH61am2OL) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Mocktails](https://open.spotify.com/album/13LPbNHtgyYfvozXn7JYcA) | 2:44 | 2022-10-25 | 2022-11-02 |
 | [Modern Romance](https://open.spotify.com/track/1qtPxolE1txs3mY0941zwq) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Modern Romance](https://open.spotify.com/album/6OKItWV5A84GNPAYb89MQB) | 2:56 | 2024-02-13 | 2024-02-21 |
+| [Mom & Dad](https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mom & Dad](https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa) | 2:51 | 2025-06-18 |  |
 | [Moment of Truth](https://open.spotify.com/track/7AvOYkRvqIKHEJzP2BFLJs) | [Flat Line Classics](https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa), [Sart](https://open.spotify.com/artist/4PugGE5RJijvszPRE3Y1KP) | [Backstage](https://open.spotify.com/album/1VKVtWg12sON9kWGf56WSx) | 3:28 | 2024-02-27 | 2024-03-06 |
 | [Moneyman](https://open.spotify.com/track/6lmKwrz40nAgOuouIe5RYU) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [Moneyman](https://open.spotify.com/album/6EcX8eymeDUyQyEPxI9hq5) | 5:15 | 2023-06-08 | 2023-06-14 |
 | [Monkeys](https://open.spotify.com/track/4k9XME2RS4XFSGtJeyytbc) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [Monkeys](https://open.spotify.com/album/1o5fTDq4tMJAoDUdsMpgQc) | 2:35 | 2024-06-12 | 2024-07-03 |
@@ -1334,7 +1335,7 @@
 | [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-07 | 2025-06-17 |
 | [オトナブルー](https://open.spotify.com/track/4fMewVWtew1oB6d3E8x9pp) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [オトナブルー](https://open.spotify.com/album/1zOsMN6Zyx1qMlpi29PMDF) | 3:05 | 2024-04-16 |  |
 | [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 | 2023-11-14 | 2023-11-22 |
-| [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 | 2025-01-21 |  |
+| [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 | 2025-01-21 | 2025-06-23 |
 | [カルト](https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [カルト](https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb) | 3:48 | 2024-04-16 | 2025-05-07 |
 | [カレイドスコウプ](https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [カレイドスコウプ](https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM) | 3:28 | 2023-12-19 | 2023-12-21 |
 | [カンタンミュージック](https://open.spotify.com/track/4rnvQyfrahBidXHGuzi5rk) | [ゆーり](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf) | [カンタンミュージック](https://open.spotify.com/album/1dGFGfLlZp3SfnQVQaJJEt) | 1:40 | 2024-10-16 | 2024-10-23 |

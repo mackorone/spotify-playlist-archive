@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,070 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,069 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 24 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 |
 | 25 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
 | 26 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 |
-| 27 | [You Make It Feel Like Christmas](https://open.spotify.com/track/45xw5Qmu7RS3EP8yDAT3Cn) | [Katerina Robbins](https://open.spotify.com/artist/0bKSKcre6jkpyXLYh44yxr) | [You Make It Feel Like Christmas](https://open.spotify.com/album/0umAlXdTuRknPUXZLchRN2) | 3:15 |
-| 28 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/6k4ay4fFySwUAIbfHnT4FK) | [Mark Jacobsen](https://open.spotify.com/artist/5KxXsQXx6s5DeW4oUaiqBR) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/1nfSsAZndSGQM4pMXV5qEV) | 2:55 |
-| 29 | [Snowin' On Raton](https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Snowin' On Raton](https://open.spotify.com/album/71wodb1V4YhM39VR82IT13) | 3:51 |
-| 30 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 |
+| 27 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/6k4ay4fFySwUAIbfHnT4FK) | [Mark Jacobsen](https://open.spotify.com/artist/5KxXsQXx6s5DeW4oUaiqBR) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/1nfSsAZndSGQM4pMXV5qEV) | 2:55 |
+| 28 | [Snowin' On Raton](https://open.spotify.com/track/25efC97jgYi1ms8Y9SxWak) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Snowin' On Raton](https://open.spotify.com/album/71wodb1V4YhM39VR82IT13) | 3:51 |
+| 29 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 |
+| 30 | [You Make It Feel Like Christmas](https://open.spotify.com/track/45xw5Qmu7RS3EP8yDAT3Cn) | [Katerina Robbins](https://open.spotify.com/artist/0bKSKcre6jkpyXLYh44yxr) | [You Make It Feel Like Christmas](https://open.spotify.com/album/0umAlXdTuRknPUXZLchRN2) | 3:15 |
 | 31 | [Jingle Bell Rock](https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Jingle Bell Rock](https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd) | 2:55 |
 | 32 | [O Little Town of Bethlehem](https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [O Little Town of Bethlehem](https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP) | 1:56 |
 | 33 | [We Three Kings](https://open.spotify.com/track/5dT77tyFweHSHC8V0lrDFH) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [We Three Kings](https://open.spotify.com/album/1NZWpPv9ATEef2q7UaS5hc) | 2:41 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 41 | [If We Make It Through December](https://open.spotify.com/track/21Zz628YJ9Si5AJMfX7Glm) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [If We Make It Through December](https://open.spotify.com/album/6ubCw6rKArBfBKK2wuHCqa) | 3:26 |
 | 42 | [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 |
 | 43 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/4kQtpTnpnQzhlJ9u1vkjL8) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/album/736loCTNKkVeuHQRR99UEG) | 3:41 |
-| 44 | [Father Christmas](https://open.spotify.com/track/5iI2rZDnITXBEUN7VqbFdm) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Father Christmas](https://open.spotify.com/album/4m71bdFHBVGHbrvTizqnl7) | 4:57 |
-| 45 | [white christmas](https://open.spotify.com/track/26ivtKYwzmHuUAsQvDx7hh) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [white christmas](https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O) | 2:14 |
+| 44 | [white christmas](https://open.spotify.com/track/26ivtKYwzmHuUAsQvDx7hh) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [white christmas](https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O) | 2:14 |
+| 45 | [Father Christmas](https://open.spotify.com/track/5iI2rZDnITXBEUN7VqbFdm) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Father Christmas](https://open.spotify.com/album/4m71bdFHBVGHbrvTizqnl7) | 4:57 |
 | 46 | [Christmas Wrapping](https://open.spotify.com/track/0znloYDHukXNo0kJD6HjGB) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Christmas Wrapping](https://open.spotify.com/album/4Usa4HGlOlSHX8831oNS0c) | 5:44 |
 | 47 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 |
-| 48 | [Step Into Christmas](https://open.spotify.com/track/0lnqUHZhyP2UBxB1HnzIvH) | [Eleanor Zamora](https://open.spotify.com/artist/0qvn8xbF2YvSvBIj7Ud4Cz) | [Step Into Christmas](https://open.spotify.com/album/6T6Vyxa9DWZaIWQtojuASa) | 5:24 |
-| 49 | [Oh, What a Merry Christmas Day](https://open.spotify.com/track/1UVtVJ2PyzFVxASoyCKZH5) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Oh, What a Merry Christmas Day](https://open.spotify.com/album/4byYCx7X0hTKcp5WXgJOaz) | 1:48 |
+| 48 | [Oh, What a Merry Christmas Day](https://open.spotify.com/track/1UVtVJ2PyzFVxASoyCKZH5) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Oh, What a Merry Christmas Day](https://open.spotify.com/album/4byYCx7X0hTKcp5WXgJOaz) | 1:48 |
+| 49 | [Step Into Christmas](https://open.spotify.com/track/0lnqUHZhyP2UBxB1HnzIvH) | [Eleanor Zamora](https://open.spotify.com/artist/0qvn8xbF2YvSvBIj7Ud4Cz) | [Step Into Christmas](https://open.spotify.com/album/6T6Vyxa9DWZaIWQtojuASa) | 5:24 |
 | 50 | [Give Love On Christmas Day](https://open.spotify.com/track/1fdhf6xSxzMJMuPlua1i0m) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Give Love On Christmas Day](https://open.spotify.com/album/6NgUaJKXTR2N2H2aSfj0Of) | 2:47 |
 
 Snapshot ID: `Z2Us6AAAAAAbEXpFnpRsk92m3lPeb8WH`

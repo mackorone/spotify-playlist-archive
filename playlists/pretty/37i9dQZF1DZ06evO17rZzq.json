@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4572,
+  "num_followers": 4573,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACu0qnfE3/FSzguZN3fcq+5",
+  "snapshot_id": "aFX2AAAAAADQ9C1KeHw2TjcH0q4jgCO8",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 233150,
+      "name": "Sl*t Him Out Again (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 160723,
       "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
       "url": "https://open.spotify.com/track/4eTa1ZOffRhCQtnM2Ag9cB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "Sl*t Him Out Again (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 175819,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Luv",
         "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 138001,
       "name": "Track & Field (feat. Kaliii)",
       "url": "https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 175819,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gas You Up (feat. Hunxho)",
-        "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        }
-      ],
-      "duration_ms": 171391,
-      "name": "Gas You Up (feat. Hunxho)",
-      "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "German Engineering Zwei",
         "url": "https://open.spotify.com/album/1essCNzwTRw1tv49AuOnG2"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 169186,
       "name": "What's Tea? - with Kaliii",
       "url": "https://open.spotify.com/track/05jGCR85ce49vONuaW97ms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gas You Up (feat. Hunxho)",
+        "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "Gas You Up (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 135080,
+      "name": "SIZZLE (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/6jd95tB1LclPetfFMNe3as"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -835,6 +855,22 @@
       "duration_ms": 154453,
       "name": "New Day",
       "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "Big Body",
+      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
     },
     {
       "added_at": null,
@@ -859,38 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
       },
       "artists": [
         {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "Big Body",
-      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOOD AVANT-GARDE (Deluxe)",
-        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
-      },
-      "artists": [
-        {
-          "name": "Charmaine",
-          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD"
         },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 135080,
-      "name": "SIZZLE (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/6jd95tB1LclPetfFMNe3as"
+      "duration_ms": 155476,
+      "name": "Street Nigga (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
       "duration_ms": 197066,
       "name": "Ouuhh!!",
       "url": "https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Results Take Time",
-        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 155476,
-      "name": "Street Nigga (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
     },
     {
       "added_at": null,

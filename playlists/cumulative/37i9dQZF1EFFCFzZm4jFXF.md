@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 6 hr 35 min
+119 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 | 2024-06-13 |  |
 | [To Die For](https://open.spotify.com/track/6LMTqDK4uVR8XsCzel1nkH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:50 | 2024-06-13 |  |
 | [too late](https://open.spotify.com/track/4ggEgjXUdpsh80hbJRvP6t) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [too late](https://open.spotify.com/album/0iPembrErla1mAj0jFjvn4) | 3:03 | 2024-06-13 |  |
-| [Trophy](https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf) | 3:03 | 2024-11-24 |  |
+| [Trophy](https://open.spotify.com/track/07ddLuqd8Ys1ZQ43oym8bq) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/00RHQRDNDwImmniIsaUSbF) | 3:03 | 2025-06-22 |  |
+| [Trophy](https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf) | 3:03 | 2024-11-24 | 2025-06-23 |
 | [Turn Off The Rain](https://open.spotify.com/track/7tI7ojD4HsrgsMGoloIm80) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Turn Off The Rain](https://open.spotify.com/album/1EYQFHfkKdrgdltWOlRnzp) | 3:39 | 2024-06-13 |  |
 | [Twój](https://open.spotify.com/track/1KZkHbHds54V05FMXfR0Uf) | [Mateusz Golicki](https://open.spotify.com/artist/3ZIGVZeygg8uw2snhprtRO) | [Twój](https://open.spotify.com/album/50wxFePh1Gwc3whyx6jKdO) | 3:06 | 2024-06-13 |  |
 | [Until I Die](https://open.spotify.com/track/6AApDhkIqCqsvQcHr52Bol) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [Until I Die](https://open.spotify.com/album/0SRVVuGlXtvlWPnjxbOpSc) | 2:46 | 2024-06-13 |  |

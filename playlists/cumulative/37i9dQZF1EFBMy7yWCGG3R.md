@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-355 songs - 19 hr 34 min
+356 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Body](https://open.spotify.com/track/2GmPIJzviXYtkTKYYUlloB) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:00 | 2023-12-30 |  |
 | [Body Heat](https://open.spotify.com/track/75rnLkvIeq8RZ8xjcFIvSG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:27 | 2023-12-30 |  |
 | [Boyfriend](https://open.spotify.com/track/4QnC1bIaMSfDQvF4XDhV5M) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/3rA5CgccCbmCnJEzwGnDea) | 2:41 | 2023-12-30 |  |
+| [Call Me When You Break Up](https://open.spotify.com/track/5YOit1CU27l17ohf9wQ0EX) | [Acoustic Heartstrings](https://open.spotify.com/artist/3YcYQvh90LabrI6cVQBoG4) | [Acoustic Guitar Renditions of Gracie Abrams](https://open.spotify.com/album/6Ts3ybWBKgaLKjbgQBCl1B) | 2:47 | 2025-06-22 |  |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/1OdvKyTexzm8ZEmdCxhGsX) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:06 | 2025-03-28 |  |
 | [Carry Me](https://open.spotify.com/track/09FbTd6ob0qKndNrxEg64X) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Carry Me](https://open.spotify.com/album/3NLgbbcvAjsLUfQNTbjWPR) | 3:14 | 2023-12-30 | 2024-02-02 |
 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 | 2024-01-02 |  |

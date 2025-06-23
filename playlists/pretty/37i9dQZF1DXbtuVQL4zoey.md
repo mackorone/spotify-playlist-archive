@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,527 likes - 250 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,771 likes - 250 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

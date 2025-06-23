@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 38861,
+  "num_followers": 38891,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACH6L6QYQ7hCTPsKbG+ybyP",
+  "snapshot_id": "aFX2AAAAAAD3jeem84XrvzDbxz6weJkW",
   "tracks": [
     {
       "added_at": null,
@@ -511,30 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Said I Love You First... And You Said It Back",
-        "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 163631,
-      "name": "Cowboy (with GloRilla) - GloRilla Remix",
-      "url": "https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLORIOUS (BONUS TRACK EDITION)",
         "url": "https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 156303,
       "name": "Bad Kids (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Said I Love You First... And You Said It Back",
+        "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 163631,
+      "name": "Cowboy (with GloRilla) - GloRilla Remix",
+      "url": "https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
-        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 152759,
-      "name": "Don't Know (GloRidaz Bonus)",
-      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get In There (feat. GloRilla)",
         "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 195005,
       "name": "Get In There (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
+        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 152759,
+      "name": "Don't Know (GloRidaz Bonus)",
+      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
     },
     {
       "added_at": null,

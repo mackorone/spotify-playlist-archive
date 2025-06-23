@@ -4,7 +4,7 @@
 
 > 
 
-211 songs - 8 hr 19 min
+213 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [bi.](https://open.spotify.com/track/4SUmeADBziuSW4axIFIMtZ) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:30 | 2025-04-04 |  |
 | [BLAME HER](https://open.spotify.com/track/5ZOGg0PbjdFRbo19tDS5NL) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt), [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6) | [BLAME HER](https://open.spotify.com/album/4xmwWx7TDOqaG5h4SxtxK3) | 1:58 | 2025-05-12 |  |
 | [blow my brains out](https://open.spotify.com/track/6ifraZfdjd8qWmjcJ1HwYA) | [akoge](https://open.spotify.com/artist/42hqB8RQixQXhyxGqm1moL) | [blow my brains out](https://open.spotify.com/album/3iZCLuZloIL9W11BRduvvC) | 2:23 | 2025-04-11 | 2025-05-28 |
+| [Blueberry Faygo](https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Certified Hitmaker](https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ) | 2:42 | 2025-06-23 |  |
 | [Blur](https://open.spotify.com/track/1CBy3jD5S8MDEI1dRyvoiu) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:23 | 2025-03-11 |  |
 | [BOREDOM!](https://open.spotify.com/track/5dTAODGBAaEjfmyzaReN3Y) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 2:09 | 2024-12-06 |  |
 | [BRB!](https://open.spotify.com/track/4GosLecj1wCrAdmRBVD337) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BRB!](https://open.spotify.com/album/0MA5nkZTEFn9tT4adIjfyX) | 2:53 | 2024-12-08 |  |
@@ -120,6 +121,7 @@
 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 | 2025-03-11 |  |
 | [Look At How Ur Bleeding](https://open.spotify.com/track/0LfQBk8YbKaEV3vhxQTMAw) | [CALDER](https://open.spotify.com/artist/3rfH5SRk6ekMfiBZ5KVYw9), [recycleBin](https://open.spotify.com/artist/1qB8BJOcuJuNQw0cPy5RZ2), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [Look At How Ur Bleeding](https://open.spotify.com/album/5v2gGwDWevaDG1c3dnkRUt) | 1:58 | 2025-04-04 | 2025-05-28 |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2025-03-25 |  |
+| [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 | 2025-06-23 |  |
 | [louie.](https://open.spotify.com/track/3I6u3amsG234CMXf1hGrTy) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [louie.](https://open.spotify.com/album/4YxP3j9qf4IxfPl9HZgiaz) | 2:12 | 2025-04-04 |  |
 | [LOVESICK, CANNIBAL!](https://open.spotify.com/track/5uMqAjMDuOvz49JYNG8m8a) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [LOVESICK, CANNIBAL!](https://open.spotify.com/album/5S3m1mjGMYFFQrOvFl7Fng) | 1:56 | 2025-03-06 |  |
 | [luv curse](https://open.spotify.com/track/6Py2m2lPFu5ERyue6X7bHC) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Stardust](https://open.spotify.com/album/2B9wUcdcHVW9H9OGMpd6Bn) | 2:06 | 2025-05-25 |  |

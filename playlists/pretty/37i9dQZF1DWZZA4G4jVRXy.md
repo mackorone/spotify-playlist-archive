@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,627 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,642 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 9 | [Palace of the Tiger Women](https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY) | [Kava Kon](https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd) | [Tiki for the Atomic Age](https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA) | 2:48 |
 | 10 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
 | 11 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
-| 12 | [Fruit Of Dreams](https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Sacred Idol](https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M) | 2:31 |
-| 13 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
+| 12 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
+| 13 | [Fruit Of Dreams](https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Sacred Idol](https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M) | 2:31 |
 | 14 | [Ahulili](https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY) | [Raiatea Helm](https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC) | [Hawaiian Blossom](https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij) | 3:06 |
 | 15 | [Nani Wale Ka Lau Oliva](https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU) | [Benitez, Darren](https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI) | [Dear Mama](https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn) | 5:07 |
 | 16 | [Song Of Old Hawaii](https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7) | [George de Fretes and his Royal Hawaiian Minstrels](https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M) | [The Home Recordings Vol\. 1](https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4) | 3:31 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 23 | [Melancholy Serenade \- Remastered](https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Ultra\-Lounge / Bachelor Pad Royale Volume Four](https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI) | 2:08 |
 | 24 | [Hawaiian War Chant](https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Quiet Village](https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74) | 2:18 |
 | 25 | [Hana Maui \- Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
-| 26 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 |
-| 27 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
+| 26 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
+| 27 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 |
 | 28 | [Deep Night/Softly As In A Morning Sunrise \- Medley](https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5) | [Terry Snyder & The All\-Stars](https://open.spotify.com/artist/37Bie7mBZSCP1OlJxk1zl6) | [Ultra\-Lounge: Bongoland](https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO) | 5:41 |
 | 29 | [Head Hunter](https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1) | [Don Ralke](https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3) | [The Savage And The Sensuous Bongos](https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8) | 3:03 |
 | 30 | [Too Young Cha Cha](https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS) | [Enoch Light And His Orchestra](https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc) | [Vintage Dance Orchestras No\. 304 \- EP: Provocative Cha Cha Cha](https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM) | 2:41 |

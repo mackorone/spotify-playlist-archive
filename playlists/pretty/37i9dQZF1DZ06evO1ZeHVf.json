@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 49070,
+  "num_followers": 49103,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADu5PZSJ1ECu26HZtX+1L44",
+  "snapshot_id": "aFX2AAAAAAA6JUSU0cx5nvjcIHJCYh8Z",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gaither Homecoming Classics Vol.1",
-        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 118533,
-      "name": "The Blood Will Never Lose Its Power - Live",
-      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alone In His Presence",
         "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
@@ -339,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 335200,
+      "name": "Holy Spirit, Come Fill This Place",
+      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+        "name": "Gaither Homecoming Classics Vol.1",
+        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 335200,
-      "name": "Holy Spirit, Come Fill This Place",
-      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
+      "duration_ms": 118533,
+      "name": "The Blood Will Never Lose Its Power - Live",
+      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 218400,
-      "name": "I've Got Joy",
-      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
+      "duration_ms": 212053,
+      "name": "Just To Be Close To You - Live",
+      "url": "https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 212053,
-      "name": "Just To Be Close To You - Live",
-      "url": "https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B"
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,269 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,282 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Schlimmster Mensch der Welt](https://open.spotify.com/track/5BSwfudT5otTmLorKncQdi) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Schlimmster Mensch der Welt](https://open.spotify.com/album/6BNJB42hjoBQaG3swmFuVt) | 2:37 |
 | 12 | [Arschloch](https://open.spotify.com/track/7zrONlmULDcVEi5Z1yrHkz) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Arschloch](https://open.spotify.com/album/4Kr76gbMDTFr2uFVEyB3nQ) | 3:16 |
 | 13 | [wenn's am schönsten ist](https://open.spotify.com/track/4fZYJSpK32o3CeWPByulUj) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wenn's am schönsten ist](https://open.spotify.com/album/1O9pMaZ82BwU6cb7nCO9WG) | 2:16 |
-| 14 | [hungerspiele](https://open.spotify.com/track/5EnJNlBSbircsRkFlpINQ0) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [hungerspiele](https://open.spotify.com/album/0XD2A1SUf0gl6LkWBNzQ2R) | 2:57 |
-| 15 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
+| 14 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
+| 15 | [hungerspiele](https://open.spotify.com/track/5EnJNlBSbircsRkFlpINQ0) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [hungerspiele](https://open.spotify.com/album/0XD2A1SUf0gl6LkWBNzQ2R) | 2:57 |
 | 16 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 |
 | 17 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
 | 18 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |

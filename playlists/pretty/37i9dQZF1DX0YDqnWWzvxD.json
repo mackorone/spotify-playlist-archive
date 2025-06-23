@@ -1,6 +1,6 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 226239,
+  "num_followers": 226441,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Falling Stars",
+        "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
+      },
+      "artists": [
+        {
+          "name": "Delle Alpi",
+          "url": "https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU"
+        }
+      ],
+      "duration_ms": 158423,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/13DJdET1L9Fqw6Xtm8kmVr"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 333234,
       "name": "Healing Shores - Bonus Track",
       "url": "https://open.spotify.com/track/4TrYTLqm1nNLP7bHJuum7V"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Falling Stars",
-        "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
-      },
-      "artists": [
-        {
-          "name": "Delle Alpi",
-          "url": "https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU"
-        }
-      ],
-      "duration_ms": 158423,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Benny Bernstein",
-        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
-      },
-      "artists": [
-        {
-          "name": "Benny Bernstein",
-          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
-        }
-      ],
-      "duration_ms": 154246,
-      "name": "Conscious Jorney",
-      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra",
         "url": "https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 345319,
       "name": "Savasana Sunrise - Dawn Flow",
       "url": "https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Benny Bernstein",
+        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "duration_ms": 154246,
+      "name": "Conscious Jorney",
+      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Long Long Sleep",
-        "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
-        }
-      ],
-      "duration_ms": 137854,
-      "name": "Long Long Sleep",
-      "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Surya Namaskar",
         "url": "https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Long Long Sleep",
+        "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
+        }
+      ],
+      "duration_ms": 137854,
+      "name": "Long Long Sleep",
+      "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Elephant Powered Omstrumentals",
         "url": "https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 428500,
       "name": "Shanti (Shavasana Dub) Omstrumental",
       "url": "https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Re-Creating",
-        "url": "https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky"
-      },
-      "artists": [
-        {
-          "name": "Michel LeBond",
-          "url": "https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA"
-        }
-      ],
-      "duration_ms": 257648,
-      "name": "Spiritual Touch",
-      "url": "https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -743,6 +727,22 @@
       "duration_ms": 659773,
       "name": "Honesty & Truth - 10-Minute Mix For Meditation & Massage",
       "url": "https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Re-Creating",
+        "url": "https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky"
+      },
+      "artists": [
+        {
+          "name": "Michel LeBond",
+          "url": "https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA"
+        }
+      ],
+      "duration_ms": 257648,
+      "name": "Spiritual Touch",
+      "url": "https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "E T",
-        "url": "https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd"
-      },
-      "artists": [
-        {
-          "name": "Intentional Vibes",
-          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
-        }
-      ],
-      "duration_ms": 226363,
-      "name": "...There You Are!",
-      "url": "https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra",
         "url": "https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 471589,
       "name": "Between the Worlds Yoga Nidra - Sunset Flow",
       "url": "https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "E T",
+        "url": "https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd"
+      },
+      "artists": [
+        {
+          "name": "Intentional Vibes",
+          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+        }
+      ],
+      "duration_ms": 226363,
+      "name": "...There You Are!",
+      "url": "https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
-      },
-      "artists": [
-        {
-          "name": "Alan Ellis",
-          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "The Longest Rest",
-      "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 229078,
       "name": "Imgur",
       "url": "https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
+      },
+      "artists": [
+        {
+          "name": "Alan Ellis",
+          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "The Longest Rest",
+      "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -987,18 +987,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
-        "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
+        "name": "Breathing Space",
+        "url": "https://open.spotify.com/album/2kgOi231E4SfAtAurK4Bmb"
       },
       "artists": [
         {
-          "name": "Namaste Healing Yoga",
-          "url": "https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P"
+          "name": "Sacred Earth",
+          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
         }
       ],
-      "duration_ms": 234653,
-      "name": "Baby Deep Sleep",
-      "url": "https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4"
+      "duration_ms": 571453,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5K7yKfdKni76tWOckNwVlo"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Breathing Space",
-        "url": "https://open.spotify.com/album/2kgOi231E4SfAtAurK4Bmb"
+        "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
+        "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
       },
       "artists": [
         {
-          "name": "Sacred Earth",
-          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
+          "name": "Namaste Healing Yoga",
+          "url": "https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P"
         }
       ],
-      "duration_ms": 571453,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/5K7yKfdKni76tWOckNwVlo"
+      "duration_ms": 234653,
+      "name": "Baby Deep Sleep",
+      "url": "https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "The Healing Touch - Music for Reiki and Meditation, Vol. 2",
-        "url": "https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp"
-      },
-      "artists": [
-        {
-          "name": "Shajan",
-          "url": "https://open.spotify.com/artist/6gNMvkr78Olrxyw9tFa3Lv"
-        }
-      ],
-      "duration_ms": 903986,
-      "name": "Spheres Of The Angels",
-      "url": "https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Zen Music for Relaxation Vol. 1 & 2",
         "url": "https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 126965,
       "name": "Unbroken Flow",
       "url": "https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "The Healing Touch - Music for Reiki and Meditation, Vol. 2",
+        "url": "https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp"
+      },
+      "artists": [
+        {
+          "name": "Shajan",
+          "url": "https://open.spotify.com/artist/6gNMvkr78Olrxyw9tFa3Lv"
+        }
+      ],
+      "duration_ms": 903986,
+      "name": "Spheres Of The Angels",
+      "url": "https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1"
     },
     {
       "added_at": "2023-06-27 05:36:24",

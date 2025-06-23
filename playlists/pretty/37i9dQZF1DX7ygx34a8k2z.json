@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 281390,
+  "num_followers": 281514,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 330773,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "American Water",
-        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
-      },
-      "artists": [
-        {
-          "name": "Silver Jews",
-          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Random Rules",
-      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "It's A Wonderful Life",
         "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 163733,
       "name": "Piano Fire",
       "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "American Water",
+        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
+      },
+      "artists": [
+        {
+          "name": "Silver Jews",
+          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Random Rules",
+      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 357693,
+      "name": "Sugar Kane",
+      "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Mic City Sons",
         "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD"
-      },
-      "artists": [
-        {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
-        }
-      ],
-      "duration_ms": 357693,
-      "name": "Sugar Kane",
-      "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Monster (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
+        "name": "Monster (Remastered)",
+        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 278653,
-      "name": "Crush With Eyeliner - Remastered",
-      "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
+      "duration_ms": 240306,
+      "name": "What\u2019s The Frequency, Kenneth? - Remastered 2013",
+      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
-      },
-      "artists": [
-        {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach for My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Regretfully Yours",
         "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 166800,
       "name": "Sucked Out",
       "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+      },
+      "artists": [
+        {
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "That's When I Reach for My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Monster (Remastered)",
-        "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
+        "name": "Is This Desire?",
+        "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 240306,
-      "name": "What\u2019s The Frequency, Kenneth? - Remastered 2013",
-      "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
+      "duration_ms": 205666,
+      "name": "Is This Desire?",
+      "url": "https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG"
     }
   ],
   "unique_name": "Thrifted",

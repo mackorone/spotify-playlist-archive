@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: DJ Premier",
-  "num_followers": 581954,
+  "num_followers": 582055,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -411,46 +411,6 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "Violence Begets Violence",
-        "url": "https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5"
-      },
-      "artists": [
-        {
-          "name": "Jedi Mind Tricks",
-          "url": "https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc"
-        },
-        {
-          "name": "Young Zee",
-          "url": "https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj"
-        },
-        {
-          "name": "Pacewon",
-          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Design in Malice",
-      "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
-        "name": "Extra, Extra!!",
-        "url": "https://open.spotify.com/album/4rt0clhNxkbiDENypsPwh3"
-      },
-      "artists": [
-        {
-          "name": "Paula Perry",
-          "url": "https://open.spotify.com/artist/1DsdaqNe4oqDiq0zA0EjwD"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "Extra, Extra!! - Radio Edit",
-      "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
         "name": "Deltron 3030",
         "url": "https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye"
       },
@@ -479,6 +439,22 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
+        "name": "Extra, Extra!!",
+        "url": "https://open.spotify.com/album/4rt0clhNxkbiDENypsPwh3"
+      },
+      "artists": [
+        {
+          "name": "Paula Perry",
+          "url": "https://open.spotify.com/artist/1DsdaqNe4oqDiq0zA0EjwD"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Extra, Extra!! - Radio Edit",
+      "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
         "name": "The Shining",
         "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 336813,
       "name": "So Far to Go",
       "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "Violence Begets Violence",
+        "url": "https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5"
+      },
+      "artists": [
+        {
+          "name": "Jedi Mind Tricks",
+          "url": "https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc"
+        },
+        {
+          "name": "Young Zee",
+          "url": "https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj"
+        },
+        {
+          "name": "Pacewon",
+          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Design in Malice",
+      "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
     },
     {
       "added_at": "2025-02-07 05:00:45",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-02-07 05:00:45",
       "album": {
-        "name": "A Long Hot Summer",
-        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Good Ol Love",
-      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
-    },
-    {
-      "added_at": "2025-02-07 05:00:45",
-      "album": {
         "name": "Home Field Advantage",
         "url": "https://open.spotify.com/album/05d5zAD9KAdaJf7yQ98jxF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 234760,
       "name": "B-Boy Document '99",
       "url": "https://open.spotify.com/track/5WF9Ih0si21Anj48dD9FFN"
+    },
+    {
+      "added_at": "2025-02-07 05:00:45",
+      "album": {
+        "name": "A Long Hot Summer",
+        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Good Ol Love",
+      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
     },
     {
       "added_at": "2025-02-07 05:00:45",

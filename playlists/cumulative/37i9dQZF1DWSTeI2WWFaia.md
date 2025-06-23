@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-803 songs - 1 day 18 hr 55 min
+804 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 | 2024-08-30 |  |
 | [36 Ounces and a Mercedes](https://open.spotify.com/track/4IfQLjiAk1bahtL0TRkWxQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8) | [The Pre\-Game](https://open.spotify.com/album/5EPczt43gqjn3GY3OdMLCn) | 3:20 | 2025-02-21 | 2025-06-22 |
 | [3:50 in L.A](https://open.spotify.com/track/7o2LXvuYDrH63Tv8UQxhLi) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: My Disregarded Thoughts](https://open.spotify.com/album/2noJiJ7pCVOIu1yc5BT50a) | 3:19 | 2021-09-03 | 2022-01-27 |
-| [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 | 2025-02-07 |  |
+| [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 | 2025-02-07 | 2025-06-23 |
 | [505](https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Apt\. 505](https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf) | 3:07 | 2022-04-01 | 2022-12-03 |
 | [50K or Brunch](https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [50K or Brunch](https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE) | 2:38 | 2022-09-02 | 2022-09-17 |
 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:19 | 2023-02-19 | 2023-05-20 |
@@ -484,6 +484,7 @@
 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 | 2023-09-15 | 2024-11-23 |
 | [Never End Up Broke](https://open.spotify.com/track/05DZcUyOZDX4OR2mc1RIrg) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Never End Up Broke](https://open.spotify.com/album/540ZUOz3g4xw4mokGA0R4K) | 2:42 | 2022-07-08 | 2022-07-28 |
 | [Never Freestyle](https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Never Freestyle](https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH) | 4:26 | 2022-06-24 | 2023-04-22 |
+| [Nice Try Wrong Guy](https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Nice Try Wrong Guy](https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv) | 3:06 | 2025-06-20 |  |
 | [Ninja Man](https://open.spotify.com/track/4awPetsjwNcrZRd1chwI4o) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Slant Face Killah](https://open.spotify.com/album/0yWMIfdeeQntE7kssx1BwZ) | 4:24 | 2024-05-10 | 2024-05-18 |
 | [No Bad News \(feat\. Kanye West\)](https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:32 | 2024-11-15 | 2024-11-19 |
 | [No Cap](https://open.spotify.com/track/2O3x6oRhme4sQ1wlBguP9k) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [Cold Water](https://open.spotify.com/album/6u66sAgu3xFfKhQpBr4dSu) | 1:20 | 2021-09-03 | 2022-03-08 |

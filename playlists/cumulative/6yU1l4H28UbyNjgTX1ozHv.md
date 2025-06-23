@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-287 songs - 14 hr 43 min
+288 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Because You Loved Me \- Acoustic](https://open.spotify.com/track/46riIukB23FBujbdYQTfmf) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Because You Loved Me \(Acoustic\)](https://open.spotify.com/album/4XbwbcopmQJCRuETbjr1RN) | 3:37 | 2022-06-17 | 2023-05-10 |
 | [Believe \- Acoustic](https://open.spotify.com/track/52VvzULC47oauMWtVdAejU) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Believe \(Acoustic\)](https://open.spotify.com/album/6f8znb9G5J0MlLe895IzJt) | 3:48 | 2023-12-01 | 2024-02-24 |
 | [Believe \- Acoustic](https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Believe \(Acoustic\)](https://open.spotify.com/album/4s5feYt6hMWRjjHYCybysv) | 3:07 | 2022-04-10 | 2023-01-21 |
+| [Best Day of My Life \- Acoustic](https://open.spotify.com/track/1K3piXjBqn6HLxqDFe4sTc) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Best Day of My Life \(Acoustic\)](https://open.spotify.com/album/2dR0Fxs2Or6ZS4dkfshf92) | 2:33 | 2025-06-22 |  |
 | [Beyond the Sea \- Acoustic](https://open.spotify.com/track/1YHB4atLgNr7UMDwA0WMY1) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Beyond the Sea \(Acoustic\)](https://open.spotify.com/album/57dND5OOaL8jwJ1CIGebQI) | 3:19 | 2024-09-21 | 2025-02-10 |
 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 | 2024-05-27 |  |
 | [Billie Jean \- Acoustic](https://open.spotify.com/track/6uaTKOvSd4PZdHWs05r65k) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Billie Jean \(Acoustic\)](https://open.spotify.com/album/2FkpSpxM1xedprP77SJA3T) | 3:05 | 2023-07-07 | 2024-01-13 |
@@ -134,7 +135,7 @@
 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 | 2019-10-13 |  |
 | [I’d Do Anything for Love \(But I Won’t Do That\) \- Acoustic](https://open.spotify.com/track/6FwHlZaHRx2q6d9p3m2mzo) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [I’d Do Anything for Love \(But I Won’t Do That\) \[Acoustic\]](https://open.spotify.com/album/6keIY7MeHgs7YqtAVSilyv) | 3:13 | 2024-04-29 |  |
 | [I’m Still Standing \- Acoustic](https://open.spotify.com/track/2hnhNNo5Rk65UX8GIlhsAM) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [I’m Still Standing \(Acoustic\)](https://open.spotify.com/album/2GwQircFAs910nPqQUT7jP) | 3:01 | 2022-02-11 | 2023-02-02 |
-| [Jamming \- Acoustic](https://open.spotify.com/track/6pq8i8sYDHcyjZV49X4G71) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Jamming \(Acoustic\)](https://open.spotify.com/album/4tzuHyuggegl9HzY6GVCMz) | 2:23 | 2024-03-22 |  |
+| [Jamming \- Acoustic](https://open.spotify.com/track/6pq8i8sYDHcyjZV49X4G71) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Jamming \(Acoustic\)](https://open.spotify.com/album/4tzuHyuggegl9HzY6GVCMz) | 2:23 | 2024-03-22 | 2025-06-23 |
 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 | 2019-10-13 |  |
 | [Johnny B\. Goode \- Acoustic](https://open.spotify.com/track/7L1QTZWRJNnbOO7qyHUEeB) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Johnny B\. Goode \(Acoustic\)](https://open.spotify.com/album/27WsOWzMOLYQvpR3I5fy0z) | 2:14 | 2023-10-07 | 2024-03-09 |
 | [Just Be \- Acoustic Session](https://open.spotify.com/track/5YXTMX6nkvtg0kSJpZmVTw) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Fall To Grace \(Deluxe\)](https://open.spotify.com/album/5xbq4e4CWkWhZBOkque5Fp) | 4:50 | 2019-10-13 |  |

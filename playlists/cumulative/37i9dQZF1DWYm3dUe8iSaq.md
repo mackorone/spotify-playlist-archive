@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-356 songs - 20 hr 48 min
+357 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [I Like Dis](https://open.spotify.com/track/0ZoXRQfbp0tOoOZIyB0cPh) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [You Of Now, Pt\. 1](https://open.spotify.com/album/2GKh9AYasgMHrPRz3fzGXD) | 3:19 | 2022-10-07 | 2023-09-22 |
 | [I Like Dis](https://open.spotify.com/track/0d36gFOefKqYuaTypDxLsG) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [You Of Now, Pt\. 1](https://open.spotify.com/album/62pvJFHMitEH4stpbVnIe9) | 3:19 | 2023-08-11 | 2024-01-20 |
 | [I Like Dis](https://open.spotify.com/track/7hJ34BXrT60WlaDgLOb8WJ) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [I Like Dis](https://open.spotify.com/album/0Fe7250AFqYpzJCTFkxuUJ) | 3:19 | 2022-05-20 | 2022-10-17 |
+| [i love you, you've got this](https://open.spotify.com/track/1U1oryFDXmpSodAN3DgZof) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Finding Love in Wilmer pt.1](https://open.spotify.com/album/2ol6LjcZLt8Cv9IkjM10oq) | 2:52 | 2025-06-06 |  |
 | [I Never Danced](https://open.spotify.com/track/5cUsHnbf2tthokeAMQR5km) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [I Never Danced](https://open.spotify.com/album/1gglryfErGNk6ZiuIPb2u7) | 2:55 | 2022-10-07 | 2023-11-18 |
 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 | 2024-10-06 | 2025-06-07 |
 | [I Wanna Be A Mother](https://open.spotify.com/track/0tPOkNqkI2TM0gvqHLEgty) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [I Wanna Be A Mother](https://open.spotify.com/album/74uhmB7i7u3hGPiHUyijn3) | 3:43 | 2024-10-06 | 2024-11-06 |
@@ -176,7 +177,7 @@
 | [Jacob](https://open.spotify.com/track/18UkBt8WJts1ldFaQ1du6c) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Jacob](https://open.spotify.com/album/2HdKDWB5Ek8lf7NuN6VArB) | 3:14 | 2023-06-30 | 2023-09-18 |
 | [Jacob](https://open.spotify.com/track/26qFewy8bvThU3YwLl4Gus) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Dreamer Awake](https://open.spotify.com/album/12jj5kr4VuIImcN2lqXbah) | 3:14 | 2023-08-11 | 2023-11-18 |
 | [James](https://open.spotify.com/track/6NPiQiMsP3aJoVHO9eYXfv) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [James](https://open.spotify.com/album/6HdqpAopizBzDcJXYw3I5v) | 3:10 | 2025-06-06 |  |
-| [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 | 2023-11-17 |  |
+| [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 | 2023-11-17 | 2025-06-23 |
 | [kickin](https://open.spotify.com/track/7dCBUjjAsLorCkDdddJgts) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [kickin](https://open.spotify.com/album/08OXFLUMb7ZdrHk0w0dXJ6) | 2:56 | 2024-10-06 | 2024-11-28 |
 | [Knock on a Hollow \- Alternative Version](https://open.spotify.com/track/7ylKBPnAcazcOBnBebVZgC) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Knock on a Hollow \(Alternative Version\)](https://open.spotify.com/album/61JuggFrlqJyrzg3m7wl5O) | 3:31 | 2022-04-08 | 2022-05-21 |
 | [Knowing U Exist](https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Knowing U Exist](https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm) | 2:23 | 2024-03-17 | 2024-10-07 |

@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "All Gas No Brakes (feat. BigXthaPlug)",
+        "url": "https://open.spotify.com/album/541bm0KL5yWslIgIis3jPi"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163314,
+      "name": "All Gas No Brakes (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/5OdPAqU4a0EZq8LOJgO5og"
+    },
+    {
+      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -1182,7 +1204,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 177930,
       "name": "Someone Who Loved You",
       "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"

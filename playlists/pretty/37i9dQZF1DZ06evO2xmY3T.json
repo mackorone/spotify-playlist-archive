@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 681708,
+  "num_followers": 681739,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAC1DEpNsEG8fxx9xXoMs98z",
+  "snapshot_id": "aFX2AAAAAAD4hLNiH5lKdEtIdn/bnSYe",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 206711,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fine Ho, Stay",
         "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 206711,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Bodak Yellow",
-      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beautiful & Damned",
         "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 245386,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Ring (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FATHER OF 4",
         "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 205803,
       "name": "Clout (feat. Cardi B)",
       "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 177139,
+      "name": "Ring (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 200205,
-      "name": "I Do (feat. SZA)",
-      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 154200,
       "name": "PUT EM IN THE FRIDGE",
       "url": "https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 200205,
+      "name": "I Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
     },
     {
       "added_at": null,
@@ -863,6 +863,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toot It Up",
+        "url": "https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 129599,
+      "name": "Toot It Up",
+      "url": "https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 213750,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toot It Up",
-        "url": "https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO"
-      },
-      "artists": [
-        {
-          "name": "Pardison Fontaine",
-          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 129599,
-      "name": "Toot It Up",
-      "url": "https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB"
     },
     {
       "added_at": null,
@@ -935,6 +935,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Love (with SZA & Cardi B) [Extended Version]",
+        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 276214,
+      "name": "No Love (with SZA & Cardi B) - Extended Version",
+      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/6oRrfGcUeAwfX1lTdxZFFj"
       },
@@ -959,30 +983,6 @@
       "duration_ms": 219200,
       "name": "I Like It - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/6WK7h2WfMmnX7zOZnfzoYo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Love (with SZA & Cardi B) [Extended Version]",
-        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 276214,
-      "name": "No Love (with SZA & Cardi B) - Extended Version",
-      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
     },
     {
       "added_at": null,
@@ -1035,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 281112,
-      "name": "Bitter - Narration By Cardi B",
-      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Point Me 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 281112,
+      "name": "Bitter - Narration By Cardi B",
+      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
     }
   ],
   "unique_name": "This Is Cardi B",

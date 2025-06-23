@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Mr Heinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,702 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,710 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 21 | [Gun Shots](https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Gun Shots](https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff) | 2:38 |
 | 22 | [When days are dark](https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [When days are dark](https://open.spotify.com/album/761h656NyhlwFRUJpir3mx) | 2:50 |
 | 23 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
-| 24 | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH) | 2:52 |
-| 25 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
+| 24 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
+| 25 | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH) | 2:52 |
 | 26 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
 | 27 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 |
 | 28 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |

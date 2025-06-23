@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 34 min
+107 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Una Noche Tranquila](https://open.spotify.com/track/5poZeWxDKAiIrx6Rlw833M) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Jhon king](https://open.spotify.com/artist/1ctoTm3eWDymF5xx4oVte3) | [Una Noche Tranquila](https://open.spotify.com/album/2BJXmZP7DMzIVIgn498OiI) | 3:04 | 2024-10-07 | 2025-04-08 |
 | [Una Noche Tranquila \- Version Discoteca](https://open.spotify.com/track/3svW0Wq31tR9dDzDlPMmD0) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Una Noche Tranquila \(Version Discoteca\)](https://open.spotify.com/album/46GOunIlxWaUlFbbhlkHOe) | 3:02 | 2025-05-07 |  |
 | [Vamono Lejos](https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Sacra Mr Melody](https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y) | [Vamono Lejos](https://open.spotify.com/album/2XJ0HDrDyFqGuzGP4vQbGg) | 3:07 | 2024-06-19 |  |
-| [Vibrador](https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:06 | 2024-07-12 |  |
+| [Vibrador](https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:06 | 2024-07-12 | 2025-06-23 |
+| [Vibrador](https://open.spotify.com/track/5BbXK5VJCA09fU2A7ZdCSX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:06 | 2025-06-23 |  |
 
 \*This playlist was first scraped on 2024-06-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Nadhif Basalamah, Benson Boone, Rizky Febian, Meiska dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,466 likes - 113 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,514 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 41 | [Bentang Jarak Asmara](https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP) | [Man Osman](https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF), [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Bentang Jarak Asmara](https://open.spotify.com/album/4ewZa5YumUphw89U7lhM6g) | 3:54 |
 | 42 | [かくれんぼ \(Hide and Seek\)](https://open.spotify.com/track/5N5lZWepzoIlr7mFMEacKd) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [かくれんぼ \(Hide and Seek\)](https://open.spotify.com/album/0FtT2HCTaNBJfHcLQ0N58E) | 3:24 |
 | 43 | [New Dawn \- Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series](https://open.spotify.com/track/0WGExKGGWyKCn3m1UuLH7F) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [New Dawn \(Ost\. ข้ามฟ้าเคียงเธอ The Next Prince Series\)](https://open.spotify.com/album/2DR2bvfR5C6BsvgUGbmSgH) | 1:36 |
-| 44 | [PENG](https://open.spotify.com/track/0MDKIHYfdNmI2omoXVg7sT) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [PENG](https://open.spotify.com/album/3MCEsNrSZc9DD1Jnyy4PU0) | 2:02 |
+| 44 | [PENG](https://open.spotify.com/track/0MDKIHYfdNmI2omoXVg7sT) | [SHIGGA SHAY](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [PENG](https://open.spotify.com/album/3MCEsNrSZc9DD1Jnyy4PU0) | 2:02 |
 | 45 | [Give Me a Reason to Stay](https://open.spotify.com/track/7uEsXzSqN7GJCSgw3zGguX) | [Lor](https://open.spotify.com/artist/0IMWbeAo0Sc9kkhNECqFIX) | [Give Me a Reason to Stay](https://open.spotify.com/album/2YtnecByrTLnJtk88Hn42D) | 3:26 |
 | 46 | [Filsafat Cinta](https://open.spotify.com/track/3TzsJgxnPv3yZiRMlzXx41) | [Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Filsafat Cinta](https://open.spotify.com/album/619Kne2BRlX23Zd2TD1ioc) | 3:02 |
 | 47 | [Tentangmu Kawan](https://open.spotify.com/track/66ezuYO3MpV4dKWLHuVbFY) | [Karnamereka](https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq) | [FORTUNE](https://open.spotify.com/album/1W5R7RlqOBgDCuStruo4G8) | 3:19 |

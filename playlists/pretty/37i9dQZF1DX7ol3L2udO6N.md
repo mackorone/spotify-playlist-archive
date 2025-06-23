@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,348 likes - 97 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,351 likes - 97 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

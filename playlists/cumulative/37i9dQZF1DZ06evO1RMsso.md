@@ -4,7 +4,7 @@
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 47 min
+48 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [The Throne Room and End Title](https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 5:34 | 2025-05-07 |  |
 | [Theme From Jurassic Park](https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 3:27 | 2025-04-18 |  |
 | [Theme From Schindler's List](https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 4:15 | 2025-04-18 |  |
+| [Theme from Superman \- Concert Version](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 4:24 | 2025-06-23 |  |
 | [Welcome To Jurassic Park](https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 7:54 | 2025-04-18 |  |
 | [Yoda's Theme](https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:27 | 2025-04-18 |  |
 

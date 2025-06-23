@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1035585,
+  "num_followers": 1035779,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAC7Kw//f84f3bedfmZzxc/w",
+  "snapshot_id": "aFX2AAAAAADTBTLRO+Q35pfn4xi142VF",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 218411,
-      "name": "De Sobremanera",
-      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
+      "duration_ms": 203493,
+      "name": "El D\u00eda De Los Muertos",
+      "url": "https://open.spotify.com/track/6J4MbIlBn50XGo31UTdD3D"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 203493,
-      "name": "El D\u00eda De Los Muertos",
-      "url": "https://open.spotify.com/track/6J4MbIlBn50XGo31UTdD3D"
+      "duration_ms": 218411,
+      "name": "De Sobremanera",
+      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te quiero, te amo",
-        "url": "https://open.spotify.com/album/49Kkhe1jmqjWqGtP1lJCKd"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Te quiero, te amo",
-      "url": "https://open.spotify.com/track/2MyGz3SRpIRMyrOTpPQIRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 3)",
         "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 201409,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te quiero, te amo",
+        "url": "https://open.spotify.com/album/49Kkhe1jmqjWqGtP1lJCKd"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Te quiero, te amo",
+      "url": "https://open.spotify.com/track/2MyGz3SRpIRMyrOTpPQIRv"
     },
     {
       "added_at": null,

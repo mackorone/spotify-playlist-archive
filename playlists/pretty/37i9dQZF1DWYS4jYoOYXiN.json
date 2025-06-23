@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 93935,
+  "num_followers": 93970,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Mr. Watermelon Man",
+        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Barretto",
         "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 338520,
       "name": "Guarar\u00e9",
       "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Mr. Watermelon Man",
-        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x"
     },
     {
       "added_at": "2024-07-18 20:57:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,843 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,845 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 42 | [SUGARPARENTS \(feat\. Rico Nasty\)](https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 1:59 |
 | 43 | [STFU](https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:16 |
 | 44 | [Hatin](https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:20 |
-| 45 | [Key Lime OG](https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 3:01 |
-| 46 | [High Heels \(feat\. Rico Nasty\)](https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Pink Is Better](https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf) | 2:35 |
+| 45 | [One On 5 \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/0geh0360Ns6t3i0HbOH6DF) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:11 |
+| 46 | [Key Lime OG](https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 3:01 |
 | 47 | [Let It Out](https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:28 |
-| 48 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 |
-| 49 | [One On 5 \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/0geh0360Ns6t3i0HbOH6DF) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:11 |
+| 48 | [High Heels \(feat\. Rico Nasty\)](https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Pink Is Better](https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf) | 2:35 |
+| 49 | [Pay Day \(feat\. Rico Nasty\)](https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:44 |
 | 50 | [Cold](https://open.spotify.com/track/4Onanh2sbZQKTGH8KvWzxS) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:33 |
 
-Snapshot ID: `aFSkgAAAAADG6qNzolM8Z0n2yRNjQxod`
+Snapshot ID: `aFX2AAAAAADqQeFbs3XCbWcX3PN37Iry`

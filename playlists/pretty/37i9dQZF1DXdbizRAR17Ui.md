@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,052 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,083 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 16 | [Stop the time](https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Selfreflection](https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog) | 3:14 |
 | 17 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 18 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
-| 19 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 |
-| 20 | [Without U](https://open.spotify.com/track/1ICrcCa1wdOwEuJB6UxkoH) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Without U](https://open.spotify.com/album/4rVXXB9xESq71coxFxVbYh) | 3:29 |
+| 19 | [Without U](https://open.spotify.com/track/1ICrcCa1wdOwEuJB6UxkoH) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Without U](https://open.spotify.com/album/4rVXXB9xESq71coxFxVbYh) | 3:29 |
+| 20 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 |
 | 21 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
 | 22 | [Paradis Blanc](https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv) | [Paradis Blanc](https://open.spotify.com/album/0eMmindBwUVDW3lyCsPi6N) | 2:59 |
 | 23 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 43 | [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 |
 | 44 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 |
 | 45 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
-| 46 | [In The Sound Of Breathing \- George FitzGerald Remix](https://open.spotify.com/track/3EIi1v4tLTY1G0EIxVPuoD) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [In The Sound Of Breathing \(George FitzGerald Remix\)](https://open.spotify.com/album/4nhaONxYBJkfFvAv7Lpbnk) | 4:49 |
-| 47 | [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 |
-| 48 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
+| 46 | [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 |
+| 47 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
+| 48 | [In The Sound Of Breathing \- George FitzGerald Remix](https://open.spotify.com/track/3EIi1v4tLTY1G0EIxVPuoD) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [In The Sound Of Breathing \(George FitzGerald Remix\)](https://open.spotify.com/album/4nhaONxYBJkfFvAv7Lpbnk) | 4:49 |
 | 49 | [Tensoon](https://open.spotify.com/track/6owwP7F0J5AjtYwMplYsMR) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Tensoon](https://open.spotify.com/album/5rmVFzFZ2rwZDwrVg5HVfj) | 3:57 |
 | 50 | [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 |
 

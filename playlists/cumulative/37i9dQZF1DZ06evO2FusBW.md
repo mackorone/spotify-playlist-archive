@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A BIRD'S TALE](https://open.spotify.com/track/0BQSiWiaW8UvRUVSELnAVh) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:38 | 2025-01-03 | 2025-05-17 |
+| [A BIRD'S TALE](https://open.spotify.com/track/0BQSiWiaW8UvRUVSELnAVh) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:38 | 2025-01-03 |  |
 | [A Tale in Paris](https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [A Tale in Paris](https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ) | 2:46 | 2025-01-03 | 2025-06-15 |
 | [Awareness](https://open.spotify.com/track/4od9Wty7peFLjDqEv0fHt1) | [TUNE YOUR MIND](https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1), [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 66](https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13) | 2:23 | 2025-01-03 | 2025-01-06 |
 | [Bee](https://open.spotify.com/track/77Xd7aikO9NRmzC6ISXIvY) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:12 | 2025-01-03 |  |

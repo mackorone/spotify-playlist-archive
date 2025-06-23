@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
+        "name": "\u5dee\u3057\u8272",
+        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 183709,
+      "name": "\u5dee\u3057\u8272",
+      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
         "name": "Gershwin: Piano Works",
         "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 145200,
       "name": "Song Book: The Man I Love. Slow and in singing style",
       "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
-        "name": "\u5dee\u3057\u8272",
-        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 183709,
-      "name": "\u5dee\u3057\u8272",
-      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
       "artists": [
         {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+      "duration_ms": 220346,
+      "name": "I Can't Tell You Why",
+      "url": "https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
         }
       ],
-      "duration_ms": 220346,
-      "name": "I Can't Tell You Why",
-      "url": "https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7"
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Fallen Flowers",
-        "url": "https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7"
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 189940,
-      "name": "Fallen Flowers",
-      "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Little Blue (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+        "name": "Fallen Flowers",
+        "url": "https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 265306,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+      "duration_ms": 189940,
+      "name": "Fallen Flowers",
+      "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1567,22 +1567,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Wind Down",
-        "url": "https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON"
+        "name": "Ieta",
+        "url": "https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Endel",
-          "url": "https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 224000,
-      "name": "1st Soundscape",
-      "url": "https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm"
+      "duration_ms": 199784,
+      "name": "Ieta",
+      "url": "https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1603,18 +1599,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Ieta",
-        "url": "https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899"
+        "name": "Wind Down",
+        "url": "https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON"
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Endel",
+          "url": "https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4"
         }
       ],
-      "duration_ms": 199784,
-      "name": "Ieta",
-      "url": "https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml"
+      "duration_ms": 224000,
+      "name": "1st Soundscape",
+      "url": "https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1707,26 +1707,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Sicilienne",
-        "url": "https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM"
+        "name": "J.S. Bach: Goldberg Variations, BWV 988: Aria",
+        "url": "https://open.spotify.com/album/2geJLd7c3hxTvwdlLZT79j"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Cocomi",
-          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
-        },
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 237480,
-      "name": "Sicilienne",
-      "url": "https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk"
+      "duration_ms": 245379,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/59XrtVk0rikGWU6plMniJF"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1751,22 +1747,26 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "J.S. Bach: Goldberg Variations, BWV 988: Aria",
-        "url": "https://open.spotify.com/album/2geJLd7c3hxTvwdlLZT79j"
+        "name": "Sicilienne",
+        "url": "https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
         }
       ],
-      "duration_ms": 245379,
-      "name": "Goldberg Variations, BWV 988: Aria",
-      "url": "https://open.spotify.com/track/59XrtVk0rikGWU6plMniJF"
+      "duration_ms": 237480,
+      "name": "Sicilienne",
+      "url": "https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,048 likes - 104 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,092 likes - 104 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 37 | [Chichina](https://open.spotify.com/track/2szSxMQxwXSy5ShzYZQH0Z) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/2JOWWIWGueUaTZFBvdvES9) | 1:31 |
 | 38 | [Main Titles \(From "The Cider House Rules" Score\)](https://open.spotify.com/track/6t9O3rGBxgFsdbIvCBtZu5) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [John Lenehan](https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9), [David Snell](https://open.spotify.com/artist/47BWEfq4CgZGZ1wXdwsMNG) | [The Cider House Rules \(Original Score\)](https://open.spotify.com/album/2FJY314nNd5ffvqzrvceB6) | 2:10 |
 | 39 | [House of Woodcock](https://open.spotify.com/track/6FZDedaCzYhO4sdG3VYcHZ) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [Phantom Thread \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WyVg6gJ9kCPkZs4zhIrDz) | 3:53 |
-| 40 | [Demon Slayer: Nezuko Theme](https://open.spotify.com/track/1Vvn19lRIPqwZHUgIAHYRF) | [Go Shiina](https://open.spotify.com/artist/5Yk09n2L8j0DIevsAfinE0), [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Demon Slayer: Nezuko Theme](https://open.spotify.com/album/70VqDyo7pa74XlAnCYhQ3K) | 3:51 |
+| 40 | [Demon Slayer: Nezuko Theme](https://open.spotify.com/track/1Vvn19lRIPqwZHUgIAHYRF) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH), [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Demon Slayer: Nezuko Theme](https://open.spotify.com/album/70VqDyo7pa74XlAnCYhQ3K) | 3:51 |
 | 41 | [End Roller](https://open.spotify.com/track/2Cd1F6yd5GSYFU4lPVEwqT) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [A Little Chaos \(Original Soundtrack Album\)](https://open.spotify.com/album/2Ae5IWNhCQvsH4fNF8FFHe) | 3:21 |
 | 42 | [Coming Home](https://open.spotify.com/track/45jrXtFx8ERLW66AF4r53F) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [The Elder Scrolls Blades: Original Game Soundtrack](https://open.spotify.com/album/6zBhT9ZcGURdtZjA0q1JlG) | 3:14 |
 | 43 | [A New Home \(From "Lion" Soundtrack\)](https://open.spotify.com/track/3lgvtS5J3tIJqSzLokgKlv) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 1:54 |

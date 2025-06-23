@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,261 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,268 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 28 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
 | 29 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 |
 | 30 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
-| 31 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 |
-| 32 | [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 |
+| 31 | [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 |
+| 32 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 |
 | 33 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 |
 | 34 | [Fall On Me \(feat\. Carly Pearce\)](https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:24 |
-| 35 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 |
+| 35 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 |
 | 36 | [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 |
-| 37 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 |
+| 37 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 |
 | 38 | [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 |
 | 39 | [Abandoned \- Original](https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Abandoned \(Original\)](https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo) | 5:04 |
 | 40 | [Whole Heart](https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful Hearts Club](https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU) | 6:40 |

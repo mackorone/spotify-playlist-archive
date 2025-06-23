@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,215 songs - 7 day 6 hr 46 min
+3,216 songs - 7 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Do It All Again](https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Do It All Again](https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0) | 2:35 | 2024-09-20 | 2024-09-27 |
 | [Do It For The Bass](https://open.spotify.com/track/7vvicpDycMPhX4RJjgipB8) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Do It For The Bass](https://open.spotify.com/album/1eQJLYDQnc2JjShc8DRZeF) | 3:27 | 2025-02-06 | 2025-02-14 |
 | [DO MY THING](https://open.spotify.com/track/2UmhFtzMKZjgoqQEKw3DVu) | [ALAN BAZE](https://open.spotify.com/artist/4HxZSS80MKQhfcbFesdBCO) | [DO MY THING](https://open.spotify.com/album/3vBuZNdvlby8EqCykrdpM7) | 3:03 | 2025-03-27 | 2025-04-11 |
+| [Do U Wanna Dance](https://open.spotify.com/track/2S1iywNVVBB4cERoRx9Txx) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [The Bitch Hotel](https://open.spotify.com/artist/2sSMt9JnzOvt7lY77mKRw6) | [Do U Wanna Dance](https://open.spotify.com/album/3Od78o3pppwasjw1zCgXrR) | 3:19 | 2025-06-22 |  |
 | [Do You Think About Me](https://open.spotify.com/track/3oE7vFhdkpoz2kW4iF2pKW) | [They Call Me Steve](https://open.spotify.com/artist/3sMOsgdJl7e2l6nueIl4Se) | [Do You Think About Me](https://open.spotify.com/album/2nAshYGpWOhodHxi6clp3X) | 3:03 | 2025-06-20 |  |
 | [Do You Wanna Dance](https://open.spotify.com/track/3czIrwKu64mSzGSwyDCb4U) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [DIMMA](https://open.spotify.com/artist/1eynRIrc4tQ4Y0GWIdzdwe) | [Do You Wanna Dance](https://open.spotify.com/album/3c6NrD2xhPQWA5GvUdeb2T) | 3:02 | 2025-04-24 | 2025-05-03 |
 | [Doing Nothin'](https://open.spotify.com/track/6PAt6xtbwjpRwG4V3zKWaK) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Doing Nothin'](https://open.spotify.com/album/5u2FuIwuJwnkLtDnlAk3gs) | 3:06 | 2025-05-29 | 2025-06-07 |

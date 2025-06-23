@@ -1245,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "Ahmed W Ahmed",
+        "url": "https://open.spotify.com/album/6PDoPL3mHymNWl4yu5ZZwL"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        },
+        {
+          "name": "Pousi",
+          "url": "https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134921,
+      "name": "Ahmed W Ahmed",
+      "url": "https://open.spotify.com/track/1k4XaknYzUVuRiJnVAKRnE"
+    },
+    {
+      "album": {
         "name": "Akeed Rag3een",
         "url": "https://open.spotify.com/album/1aGnFCLksB3cDWpkd6c6Wp"
       },
@@ -6630,7 +6652,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 192002,
       "name": "Fi Benna",
       "url": "https://open.spotify.com/track/2NCa07JMq1rkajbUINtheD"

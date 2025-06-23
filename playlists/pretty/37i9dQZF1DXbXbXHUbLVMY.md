@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 60 | [Kjære Mor \(feat\. Stig Brenner\)](https://open.spotify.com/track/7nTgyzJSlSAH4GBXL2IFA4) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Kjære Mor \(feat\. Stig Brenner\)](https://open.spotify.com/album/7MhqedIbIMXPHpYDwJEi5U) | 2:45 |
 | 61 | [Dreams](https://open.spotify.com/track/4e6yJydi3ONicrZ8gXsCCv) | [Tommy Tee](https://open.spotify.com/artist/4ihTfE4MtCrKerRYHU7e4p), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Dreams](https://open.spotify.com/album/45fNa0CxkPKwJrFXdzcZRf) | 2:58 |
 | 62 | [Plz](https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Plz](https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb) | 2:22 |
-| 63 | [Fem på](https://open.spotify.com/track/4fFVXD0wGWz1uvQvXXt8Mt) | [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [Fem på](https://open.spotify.com/album/1GvOJMcNr3HFbN7YRcrVZe) | 2:07 |
-| 64 | [Byggeklosser](https://open.spotify.com/track/4oTk9KPi04XhB0eFxLLDoo) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Pennen & Sverdet](https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa) | 2:38 |
+| 63 | [Byggeklosser](https://open.spotify.com/track/4oTk9KPi04XhB0eFxLLDoo) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Pennen & Sverdet](https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa) | 2:38 |
+| 64 | [Fem på](https://open.spotify.com/track/4fFVXD0wGWz1uvQvXXt8Mt) | [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [Fem på](https://open.spotify.com/album/1GvOJMcNr3HFbN7YRcrVZe) | 2:07 |
 | 65 | [Ment for hverandre](https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Det var aldri meg](https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ) | 3:14 |
 | 66 | [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y) | 2:26 |
 | 67 | [København \(feat\. Arif Murakami & Bargee\)](https://open.spotify.com/track/1JnyapmYsRfnirBjc5xorh) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [København \(feat\. Arif Murakami & Bargee\)](https://open.spotify.com/album/7nk0l6LqD5bjWHZNfRuMJ9) | 2:58 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 70 | [ROSA BLOMST](https://open.spotify.com/track/7gW0MBMwTtOfwGmpd4njBr) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [ROSA BLOMST](https://open.spotify.com/album/2rSLPuHbKJ21KIMHiie3s7) | 3:22 |
 | 71 | [Goodbye](https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Voksen Mann Uten Slips](https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk) | 2:12 |
 | 72 | [Natalie](https://open.spotify.com/track/1HczbnV2hEtOz8FvMI3rW6) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Natalie](https://open.spotify.com/album/5lWzTiBVNoylShsjwMu7Tz) | 2:59 |
-| 73 | [Drikker & Drukner](https://open.spotify.com/track/4dVVvavEIdduXZLnvceKjN) | [Plaza](https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ) | [Plaza O Plomo](https://open.spotify.com/album/5GPTv3ZMI5pYSiglpIDrrM) | 2:58 |
-| 74 | [Skulle bare visst \(feat\. Isah\)](https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Skulle Bare Visst](https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv) | 3:51 |
+| 73 | [Skulle bare visst \(feat\. Isah\)](https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Skulle Bare Visst](https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv) | 3:51 |
+| 74 | [Drikker & Drukner](https://open.spotify.com/track/4dVVvavEIdduXZLnvceKjN) | [Plaza](https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ) | [Plaza O Plomo](https://open.spotify.com/album/5GPTv3ZMI5pYSiglpIDrrM) | 2:58 |
 | 75 | [I DAG](https://open.spotify.com/track/28Dz9bnFa5iKkubc51TCml) | [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy) | [I DAG](https://open.spotify.com/album/0mBgjpcbKw6iP6Ps1dl7br) | 2:47 |
 | 76 | [Vi](https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Vi](https://open.spotify.com/album/7vUmjPH5c7VTYLqkrY4TQd) | 1:48 |
 | 77 | [Fakk love](https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [Fakk love](https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA) | 2:04 |

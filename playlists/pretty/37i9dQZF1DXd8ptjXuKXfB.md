@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,082 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,090 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 38 | [GIN TONIC](https://open.spotify.com/track/3ObcOmEWDsBKLeqxoyxVzu) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [GIN TONIC](https://open.spotify.com/album/5Gn66d9b7excbeLZuZygB9) | 3:28 |
 | 39 | [SUV](https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [BAKPAKK](https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT) | 1:49 |
 | 40 | [Passport](https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:17 |
-| 41 | [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 |
+| 41 | [SOFIA COPPOLA](https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 3:33 |
 | 42 | [KETTŐ/KETTŐ](https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [KETTŐ/KETTŐ](https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk) | 2:57 |
-| 43 | [SOFIA COPPOLA](https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 3:33 |
+| 43 | [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 |
 | 44 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 |
 | 45 | [Libikóka](https://open.spotify.com/track/66FSHBlaFjgUBE7AKVRxmj) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Libikóka](https://open.spotify.com/album/6BKsMwAE9c1NM5moE808Yb) | 4:01 |
 | 46 | [ZHA MAJ DUR](https://open.spotify.com/track/1pveRbNO9ChgyuY37trkLw) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Farkas Pisti](https://open.spotify.com/artist/3S80BK8zfo0nGXKOgG4vo3) | [ZHA MAJ DUR](https://open.spotify.com/album/0QWmGuYzWAkZuvZPzZ8bV3) | 3:39 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 77 | [Átutazó](https://open.spotify.com/track/0CCg3ywQIY93SSuAJ8I2rd) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [Átutazó](https://open.spotify.com/album/7mWhXfPQYzUTkw8Mdo9qO2) | 2:55 |
 | 78 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 |
 | 79 | [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 |
-| 80 | [úgy unom](https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [A bálban](https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b) | 3:54 |
+| 80 | [Hajnalok a gangon](https://open.spotify.com/track/2AHMHf8SdDNySxZ4B7G5WN) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Hajnalok a gangon](https://open.spotify.com/album/7AURUJtIEVCq7sP3E7Dqii) | 2:51 |
 
 Snapshot ID: `aE/ucAAAAADcIgS3J8+0TvpdVGp3Rfzt`

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Aterciopelados",
-  "num_followers": 298085,
+  "num_followers": 298074,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Tajada",
-        "url": "https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 206429,
-      "name": "Tajada",
-      "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "\u00bfQu\u00e9 vas a saber?",
         "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Lo Que Hay Dentro de M\u00ed",
-        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
+        "name": "Tajada",
+        "url": "https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs"
       },
       "artists": [
         {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 190875,
-      "name": "Lo Que Hay Dentro de M\u00ed",
-      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
+      "duration_ms": 206429,
+      "name": "Tajada",
+      "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -651,6 +635,22 @@
       "duration_ms": 231066,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "Lo Que Hay Dentro de M\u00ed",
+        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "Lo Que Hay Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "santos inocentes",
-        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 172114,
-      "name": "santos inocentes",
-      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "santos inocentes",
+        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 172114,
+      "name": "santos inocentes",
+      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Invulnerables",
-        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Invulnerables",
-      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "LUNA 18",
         "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 176160,
       "name": "MALAVIDA (feat. Evlay)",
       "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "Invulnerables",
+        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Invulnerables",
+      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Lo Siento",
-        "url": "https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 213371,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 213371,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
+        "name": "S\u00daPER PREMIUM ULTRA",
+        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "duration_ms": 204403,
+      "name": "RA",
+      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
         "name": "Gris",
         "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
       },
@@ -1323,26 +1339,6 @@
       "duration_ms": 189586,
       "name": "Gris",
       "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
-        "name": "Noches Largas (feat. Bruses)",
-        "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
-      },
-      "artists": [
-        {
-          "name": "SERBIA",
-          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 293866,
-      "name": "Noches Largas (feat. Bruses)",
-      "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
     }
   ],
   "unique_name": "Rock Total",

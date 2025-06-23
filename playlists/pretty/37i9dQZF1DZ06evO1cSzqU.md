@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,860 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,933 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 5 | [Send Me An Angel](https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:33 |
 | 6 | [Always Somewhere](https://open.spotify.com/track/6Ok4D4w117mSi9OP8tmrpg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK) | 4:57 |
 | 7 | [Under The Same Sun](https://open.spotify.com/track/0NHBt8bp6tloebOWV3U3fN) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 4:53 |
-| 8 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 |
-| 9 | [Wind of Change](https://open.spotify.com/track/5WSsTyBvMEFG3ac6JKb9gY) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 5:08 |
+| 8 | [Wind of Change](https://open.spotify.com/track/5WSsTyBvMEFG3ac6JKb9gY) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 5:08 |
+| 9 | [Follow Your Heart](https://open.spotify.com/track/1EJZQ6uhrvl4JtoKn7RKFd) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Follow Your Heart](https://open.spotify.com/album/5rfBRcpVDCAMKA58iLabeB) | 4:05 |
 | 10 | [When the Smoke Is Going Down \- 2015 \- Remaster](https://open.spotify.com/track/4USzbSnPuhnR0b2CUiHwyF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6MacGo0aJ1ni9uhBHpQoZ3) | 3:51 |
 | 11 | [When You Came into My Life \- Studio Edit](https://open.spotify.com/track/66kO1Sr99392GvDZWKdCiv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:30 |
-| 12 | [Big City Nights](https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:09 |
-| 13 | [You & I \- Live](https://open.spotify.com/track/1Ovgu7X7u8zYoURU62ESmu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:19 |
+| 12 | [You & I \- Live](https://open.spotify.com/track/1Ovgu7X7u8zYoURU62ESmu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:19 |
+| 13 | [Big City Nights](https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:09 |
 | 14 | [The Zoo](https://open.spotify.com/track/0YpmF3aZXOIuyi8itZbpkp) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 5:30 |
 | 15 | [Lorelei](https://open.spotify.com/track/6mwS9ssEVKK7dmVVXwpbv7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 4:32 |
 | 16 | [Rhythm of Love](https://open.spotify.com/track/3VDfLfd7lfCU3MTIXNqfR3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [Coming Home](https://open.spotify.com/track/00LQrrlaoPrNwOXBvu1W8W) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:59 |
 | 50 | [Across the Universe](https://open.spotify.com/track/0EOo4bO2Oiido5FnB7mVFN) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:17 |
 
-Snapshot ID: `aFSkgAAAAADbJQGP+jLK1gaWPA3Ed5/M`
+Snapshot ID: `aFX2AAAAAAC36VDgcI+xfSZJpWTSSYNz`

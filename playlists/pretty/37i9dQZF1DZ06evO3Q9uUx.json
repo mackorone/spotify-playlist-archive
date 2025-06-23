@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15508,
+  "num_followers": 15511,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAA9RleRMdb/DtV0sy4sY43",
+  "snapshot_id": "aFX2AAAAAADQor0VK+jY2NIu2SM3vOO4",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 132537,
+      "name": "It's You (feat. BIA)",
+      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
         "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 231325,
       "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
       "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real World",
-        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 132537,
-      "name": "It's You (feat. BIA)",
-      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
     },
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Savage (feat. BIA)",
+        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Savage (feat. BIA)",
+      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Freaky Girl (Queen Mix)",
         "url": "https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 234899,
       "name": "Super Freaky Girl (with JT & BIA feat. Katie Got Bandz, Akbar V & Maliibu Mitch) - Queen Mix",
       "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savage (feat. BIA)",
-        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
-      },
-      "artists": [
-        {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "Savage (feat. BIA)",
-      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
     },
     {
       "added_at": null,

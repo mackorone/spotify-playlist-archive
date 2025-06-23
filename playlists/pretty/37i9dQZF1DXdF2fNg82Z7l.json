@@ -1,6 +1,6 @@
 {
   "description": "a strictly smooth mood...cover:",
-  "num_followers": 127210,
+  "num_followers": 127211,
   "original_name": "Raw Silk ",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 168783,
       "name": "Location",
       "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -247,34 +247,34 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+        "name": "So High",
+        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+      "duration_ms": 201573,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
     },
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+      "duration_ms": 187455,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -299,18 +299,18 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 187455,
-      "name": "All I Can Say",
-      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -331,18 +331,18 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -367,18 +367,18 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -499,26 +499,6 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "HIGHJACK",
-        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 190074,
-      "name": "HIGHJACK",
-      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -531,6 +511,22 @@
       "duration_ms": 314075,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -551,18 +547,22 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+        "name": "HIGHJACK",
+        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
         }
       ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+      "duration_ms": 190074,
+      "name": "HIGHJACK",
+      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 140637,
-      "name": "Chill Baby",
-      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 140637,
+      "name": "Chill Baby",
+      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 344680,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 264826,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 344680,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
+        "name": "FROM FLORIDA'S FINEST",
+        "url": "https://open.spotify.com/album/0IUPaZBHVn7qc22l3cvR2q"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 132246,
+      "name": "DOWN BAD",
+      "url": "https://open.spotify.com/track/1AuR5buU0B3Bs6iQLo1sFg"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -1143,6 +1159,22 @@
       "duration_ms": 236120,
       "name": "Almeda",
       "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -1163,38 +1195,6 @@
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
-        "name": "FROM FLORIDA'S FINEST",
-        "url": "https://open.spotify.com/album/0IUPaZBHVn7qc22l3cvR2q"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 132246,
-      "name": "DOWN BAD",
-      "url": "https://open.spotify.com/track/1AuR5buU0B3Bs6iQLo1sFg"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
+        "name": "Don't Die Before You're Dead",
+        "url": "https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 229479,
+      "name": "West Life",
+      "url": "https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2025-06-20 02:19:32",
       "album": {
-        "name": "Don't Die Before You're Dead",
-        "url": "https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn"
-      },
-      "artists": [
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 229479,
-      "name": "West Life",
-      "url": "https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
         "name": "Rolling Stone",
         "url": "https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 116363,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6"
+    },
+    {
+      "added_at": "2025-06-20 02:19:32",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-06-20 02:19:32",
@@ -1319,22 +1335,6 @@
       "duration_ms": 237480,
       "name": "The What - 2005 Remaster",
       "url": "https://open.spotify.com/track/4dTtYVQzlwBMpVyQ4h3wy2"
-    },
-    {
-      "added_at": "2025-06-20 02:19:32",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2025-06-20 02:19:32",

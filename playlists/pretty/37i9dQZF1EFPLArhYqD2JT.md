@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474 likes - 384 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,475 likes - 385 songs - 19 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -354,8 +354,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 344 | [You're Fun To Be With](https://open.spotify.com/track/5x9uxo9ErLNr5beF3ms9uv) | [Davis Gaines](https://open.spotify.com/artist/6kZS07gYQ9mSAUP38G5yFE) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:12 |
 | 345 | [Two Cheers Instead Of Three](https://open.spotify.com/track/1VPpQ3JPswpx9lyYypCpNk) | [Walter Willison](https://open.spotify.com/artist/21Ahii1HXBx19BHjkZ3fRp) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:22 |
 | 346 | [I Left My Door Open And My Daddy Walked Out](https://open.spotify.com/track/3HHnYzvHrGRe6CbP5pwlR1) | [Melba Joyce](https://open.spotify.com/artist/10BhWnQxizSg0AjpgtrZ1G) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:44 |
-| 347 | [If I Thought You Wouldn't Tell](https://open.spotify.com/track/1a5UovcJ1NoLpJ0G17eMOI) | [Alec Deland](https://open.spotify.com/artist/1T3qsH0rcPsfoPVC9lnVD7), [Livi Perrone](https://open.spotify.com/artist/4AiDBZy9qcLqlq8JH97RJI) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 3:09 |
-| 348 | [I Never Knew](https://open.spotify.com/track/34D0OTRM9nll0ieaIBC1go) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 2:46 |
+| 347 | [I Never Knew](https://open.spotify.com/track/34D0OTRM9nll0ieaIBC1go) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 2:46 |
+| 348 | [If I Thought You Wouldn't Tell](https://open.spotify.com/track/1a5UovcJ1NoLpJ0G17eMOI) | [Alec Deland](https://open.spotify.com/artist/1T3qsH0rcPsfoPVC9lnVD7), [Livi Perrone](https://open.spotify.com/artist/4AiDBZy9qcLqlq8JH97RJI) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 3:09 |
 | 349 | [Long As I Can Take You Home](https://open.spotify.com/track/6EOsfLE4zTmhc9uYQi6umQ) | [Sal Viviano](https://open.spotify.com/artist/4TRRC4NyC0GMoT8zr4S7Uk) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:35 |
 | 350 | [The New Moon](https://open.spotify.com/track/5eAvV2OJ8M8SbUuGua7rKA) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 4:30 |
 | 351 | [While the Band Played an American Rag](https://open.spotify.com/track/3vWCeSH4GnnLL5Timdz4oU) | [Alec Deland](https://open.spotify.com/artist/1atjbI8nPMrnfNzjmBOf3s) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 1:59 |
@@ -391,6 +391,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 381 | [If the Managers Only Thought the Same as Mother](https://open.spotify.com/track/664TLQWAxRTpjx7CkmYs78) | [Mariah Hill](https://open.spotify.com/artist/2bkTlUlgH6gYD79a6vVCxO) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:23 |
 | 382 | [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 |
 | 383 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/7JFvWX08SxV1pJ4c1owVGy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
-| 384 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
+| 384 | [The Old Maid's Ball](https://open.spotify.com/track/48ebrk9dRMGkH0W1z0A1oB) | [Tiny Tim](https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC) | [After Midnight, 1977](https://open.spotify.com/album/0mjpVT6mj8mRpmntqt7E8E) | 1:22 |
+| 385 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `Ab0w6AAAAACRX+OGLoUfZDEJeNl9n7pn`
+Snapshot ID: `Ab02iAAAAAAeYZ9CQtumF2ijrCq32Dzw`

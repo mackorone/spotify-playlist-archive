@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,794 likes - 331 songs - 17 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,793 likes - 331 songs - 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,8 +252,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 242 | [Crown Snatcher](https://open.spotify.com/track/25ehmvLg5D5TH0sd6RabSu) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 2:36 |
 | 243 | [Right There \(feat\. French Montana\)](https://open.spotify.com/track/087KF38EQhtsztrIypsL8N) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [223](https://open.spotify.com/album/3wXTjWYl5lWpPBC3QAxhIO) | 3:00 |
 | 244 | [Oh No](https://open.spotify.com/track/3luKdBrlAm7wnJqMtqVQjk) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Oh No](https://open.spotify.com/album/0qOUerwZomSGDHIdfyLeTT) | 2:59 |
-| 245 | [VIBES ON ME \(feat\. Kodak Black\)](https://open.spotify.com/track/3cc1U9c0maT9xGxy4vOec4) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:04 |
-| 246 | [Networth](https://open.spotify.com/track/18ZVtN5ZfJKzgvDqbn7NjV) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:17 |
+| 245 | [Networth](https://open.spotify.com/track/18ZVtN5ZfJKzgvDqbn7NjV) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:17 |
+| 246 | [VIBES ON ME \(feat\. Kodak Black\)](https://open.spotify.com/track/3cc1U9c0maT9xGxy4vOec4) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:04 |
 | 247 | [Gotta Question](https://open.spotify.com/track/5rpvsvJ8qHgJSQDoSGQwys) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Double O Baby](https://open.spotify.com/album/2amCTXV3JjDObBU5Q2x6VK) | 3:07 |
 | 248 | [Close to Me](https://open.spotify.com/track/1LXShQsFNYrYgqnleZLn4d) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:02 |
 | 249 | [Story I Tell](https://open.spotify.com/track/0rBQ9oH3aKp9l88EDD8m8F) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Rich Ni\*\*a Timeline](https://open.spotify.com/album/0lfwxoyCgsqxo6GGBRQc6j) | 3:44 |
@@ -278,8 +278,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 268 | [Blame My Friends \(The Gang\)](https://open.spotify.com/track/0v4yQTNMOmDCoQbmZViF5L) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Blame My Friends \(The Gang\)](https://open.spotify.com/album/14tgPDRP1lXbwQoiAKLQQu) | 4:02 |
 | 269 | [Ten Four](https://open.spotify.com/track/7GrCK1xxW9l2eWwsMe7EZi) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Signed to the Streets 2](https://open.spotify.com/album/7HYatzri59O5OrxJMCD695) | 3:12 |
 | 270 | [Drink](https://open.spotify.com/track/6GMIL1PfCZwsEG1QaP7ewz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:26 |
-| 271 | [Feelings](https://open.spotify.com/track/1jAhFpuOhNAwTIjCJrV0NN) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [Coke N Butter](https://open.spotify.com/album/0akShXmR5uxmQZaLg4AAac) | 3:26 |
-| 272 | [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 |
+| 271 | [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 |
+| 272 | [Feelings](https://open.spotify.com/track/1jAhFpuOhNAwTIjCJrV0NN) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [Coke N Butter](https://open.spotify.com/album/0akShXmR5uxmQZaLg4AAac) | 3:26 |
 | 273 | [Go See](https://open.spotify.com/track/634bqf7Pi4ojBuZVldB4kS) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Keed Talk To ‘Em 2](https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1) | 2:17 |
 | 274 | [The Other Ones \(feat\. Rapsody\)](https://open.spotify.com/track/0u48wTfTCL8z1hVgrnthzh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:38 |
 | 275 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 |
@@ -305,8 +305,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 295 | [I Promise](https://open.spotify.com/track/44zhUOvoGWRsV7D8hN1upZ) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Playoff](https://open.spotify.com/album/75U77vLys6DqabxF9abLAp) | 2:26 |
 | 296 | [Fuck With My High](https://open.spotify.com/track/2bjUFnnP61BcOUE6fDd2SK) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Feel Better](https://open.spotify.com/album/5ffDmmCZHSnH4XhU7XHLQx) | 3:13 |
 | 297 | [Internet Chatter](https://open.spotify.com/track/77m47oNxl4Xwx9cIpQ9Zuc) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/6utPm8NlR2FV93aFGNEhmZ) | 2:19 |
-| 298 | [Come Wit It](https://open.spotify.com/track/4rBe7NOIF9luQSnJyPntAV) | [Prime Boys](https://open.spotify.com/artist/2Vwtx6d4E2wAj3ERVjLTZD) | [Koba World](https://open.spotify.com/album/7nQkpkUNXGOLcQeFnTrOmC) | 2:55 |
-| 299 | [Mr\. and Mrs\. Perfect](https://open.spotify.com/track/6PrNUD0n0Ni7R39PKUVURY) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/6utPm8NlR2FV93aFGNEhmZ) | 3:03 |
+| 298 | [Mr\. and Mrs\. Perfect](https://open.spotify.com/track/6PrNUD0n0Ni7R39PKUVURY) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/6utPm8NlR2FV93aFGNEhmZ) | 3:03 |
+| 299 | [Come Wit It](https://open.spotify.com/track/4rBe7NOIF9luQSnJyPntAV) | [Prime Boys](https://open.spotify.com/artist/2Vwtx6d4E2wAj3ERVjLTZD) | [Koba World](https://open.spotify.com/album/7nQkpkUNXGOLcQeFnTrOmC) | 2:55 |
 | 300 | [Flippin'](https://open.spotify.com/track/4ryzLQFPLxLTmJFxj4TOpo) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Flippin'](https://open.spotify.com/album/1xZ2a0fEKq1lSCsomGXEnz) | 3:40 |
 | 301 | [Still Pray](https://open.spotify.com/track/5220yevLmUeAqrXZ4PX618) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 3:07 |
 | 302 | [Promises](https://open.spotify.com/track/77EvGL5sPisf8KFGtDZcMR) | [Adam Halliday](https://open.spotify.com/artist/4Jd67PsMBBh5YEZlToYLAh), [Murda Beatz](https://open.spotify.com/artist/781KgQAVIOdvM4yE2DnylS) | [About a Girl](https://open.spotify.com/album/2HHwfUxbEu8pbOeaqm0vvk) | 2:44 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 330 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 331 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `Ab0w8gAAAADP/Ae5xLOliVEGwBYRas//`
+Snapshot ID: `Ab02kgAAAABr/9CAsIEPgCghAEscGljt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,853 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,863 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 27 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 |
 | 28 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/2jXaKP1SGZBThNf6lVHCdo) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 |
 | 29 | [EROTIKA](https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EROTIKA](https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU) | 2:45 |
-| 30 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
-| 31 | [You Ain't Gotta Die \(To Be Dead To Me\)](https://open.spotify.com/track/5Bs3A5vn8M6RPpARXL0cMh) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 3:19 |
+| 30 | [You Ain't Gotta Die \(To Be Dead To Me\)](https://open.spotify.com/track/5Bs3A5vn8M6RPpARXL0cMh) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 3:19 |
+| 31 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
 | 32 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
 | 33 | [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 |
 | 34 | [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 |

@@ -1,6 +1,6 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 655229,
+  "num_followers": 655338,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Lifehouse",
-        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
-      },
-      "artists": [
-        {
-          "name": "Lifehouse",
-          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Immortalized",
         "url": "https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 248466,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Lifehouse",
+        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -559,8 +559,8 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -639,8 +639,8 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Science & Faith",
-        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Making Movies",
         "url": "https://open.spotify.com/album/3wvclpO3LJmpSQGQ9gBa2a"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 360666,
       "name": "Romeo And Juliet",
       "url": "https://open.spotify.com/track/0PNt5WTw092eED0ru9SuIp"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Science & Faith",
+        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 304925,
-      "name": "New Kid in Town - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Shake Your Money Maker",
         "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 255466,
       "name": "The World I Know",
       "url": "https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Heartbeat City",
         "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 234493,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 301546,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 329666,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 266613,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 266613,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 304880,
       "name": "The Drugs Don't Work",
       "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 301546,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286386,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Seals & Crofts' Greatest Hits",
         "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 205480,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 277386,
       "name": "Handbags And Gladrags",
       "url": "https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
     },
     {
       "added_at": "2023-04-11 13:31:58",

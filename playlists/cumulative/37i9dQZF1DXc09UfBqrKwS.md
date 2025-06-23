@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-706 songs - 1 day 10 hr 3 min
+708 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [Human](https://open.spotify.com/track/0nDaZXqNmnTYDJ3b5rYkBR) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Human](https://open.spotify.com/album/1bh7md5MXyyYFpif2qbXwC) | 2:55 | 2024-01-13 | 2025-04-12 |
 | [Humility](https://open.spotify.com/track/0RnhY9dYbSuhcTRP1ExoJj) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Humility](https://open.spotify.com/album/4OYBo7nxFxJjiNxVWohVdW) | 2:41 | 2025-02-04 |  |
 | [Hush](https://open.spotify.com/track/7JDULs0oIly6dVLDZLUNkd) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Hush](https://open.spotify.com/album/2Exc7jItLMt5PF3jtqemVE) | 2:28 | 2023-03-31 | 2023-09-01 |
-| [Hush Now](https://open.spotify.com/track/5wEmyImO7Po53Fb3SMYNgx) | [Martin Grisel](https://open.spotify.com/artist/2xUnAHudUe12LCRMvHHMKF) | [Hush Now](https://open.spotify.com/album/7E5WwupztlgT0CfjmKSLDZ) | 3:16 | 2024-05-20 |  |
+| [Hush Now](https://open.spotify.com/track/5wEmyImO7Po53Fb3SMYNgx) | [Martin Grisel](https://open.spotify.com/artist/2xUnAHudUe12LCRMvHHMKF) | [Hush Now](https://open.spotify.com/album/7E5WwupztlgT0CfjmKSLDZ) | 3:16 | 2024-05-20 | 2025-06-23 |
 | [Hydrogen](https://open.spotify.com/track/06aTU7D4kaQd5rdSsfe5Ck) | [Cosmici](https://open.spotify.com/artist/2VFRGU5S4j9HvxvK3obrQq) | [Hydrogen](https://open.spotify.com/album/3b5irCfyJEDQhrsKsqWPd4) | 3:05 | 2024-05-20 | 2024-07-16 |
 | [I Believe I Can Fly](https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Floating On Clouds](https://open.spotify.com/album/5blLnf493gd6RQGPreukch) | 3:14 | 2023-04-13 | 2024-05-21 |
 | [Ideal](https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr) | [Avieone](https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ) | [Ideal](https://open.spotify.com/album/3PtMb8ahqkZiyBxCHzSCXw) | 2:54 | 2024-06-18 | 2024-07-16 |
@@ -336,6 +336,7 @@
 | [Incandescent](https://open.spotify.com/track/0PPWFj7RtjyPpdzkHdXBQx) | [Adirenne Lushara](https://open.spotify.com/artist/4Bq0flYhY0O3Tl8qMZsaO4) | [Incandescent](https://open.spotify.com/album/2LihUwNXSVTW601y1XLlzz) | 2:56 | 2024-02-08 | 2025-02-28 |
 | [Include](https://open.spotify.com/track/0v4OsqxNQmqxaz10teJsWO) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Include](https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5) | 2:57 | 2024-05-20 |  |
 | [Inevitability](https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a) | [Fannie Shelton](https://open.spotify.com/artist/3IgG6CQo3mfhUsT1AgNWum) | [Inevitability](https://open.spotify.com/album/6nRr1olpoiH9pky8VQ1eZW) | 3:31 | 2023-03-31 | 2024-02-09 |
+| [Infinis](https://open.spotify.com/track/5Dh4kP53BEnLe55I3jnBE7) | [Eunephele](https://open.spotify.com/artist/0RfnRQ6vmyxDzMuyDmJaSm) | [Infinis](https://open.spotify.com/album/5d9CM2jb1OfYYjoTXvosCu) | 3:40 | 2025-06-17 |  |
 | [Infinitya](https://open.spotify.com/track/3u5XjYs1nfWW53voU5mxpx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Infinitya](https://open.spotify.com/album/0LiNszwKSivaoA3eTQibKn) | 2:31 | 2024-05-04 | 2024-07-16 |
 | [Initially](https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Initially](https://open.spotify.com/album/6Wesmg2ZiQ944z84Gqdm3S) | 3:05 | 2024-12-03 |  |
 | [Inner Guidance](https://open.spotify.com/track/7fhxsFzVhoznTnK7UlbnLv) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Inner Guidance](https://open.spotify.com/album/5dYYm6NNZ5aM8Nxf5Djy29) | 4:01 | 2024-01-13 | 2024-07-16 |
@@ -371,12 +372,13 @@
 | [Lo´s Magma](https://open.spotify.com/track/6qSypfhInkt0jQC5aRcrTV) | [Robi Dixie](https://open.spotify.com/artist/5NlnY2fSvi51YebjxNah6F) | [Lo´s Magma](https://open.spotify.com/album/01rQAOOlWABpfJ2CcPOIAb) | 3:06 | 2023-10-02 | 2025-01-09 |
 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 | 2023-03-31 | 2024-02-09 |
 | [Luminescence](https://open.spotify.com/track/0Ofhh3ygRt5Zxj6OOYXiGx) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Luminescence](https://open.spotify.com/album/3TvEUPEaYRKxhQW4A7sAWu) | 2:45 | 2025-04-09 |  |
-| [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 | 2024-12-03 |  |
+| [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 | 2024-12-03 | 2025-06-23 |
 | [Lunar Dreamscape](https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE) | [Terra Armoniosa](https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT) | [Lunar Dreamscape](https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU) | 2:58 | 2024-03-06 | 2024-03-21 |
 | [Lunar Hope](https://open.spotify.com/track/49GSahFoqXRaNbES3wvR7X) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Lunar Hope](https://open.spotify.com/album/7tAOYyL9NivXMaSu1ytmWz) | 3:10 | 2025-06-17 |  |
 | [Magical Calmness](https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs) | [Bedtime Muse](https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO) | [Magical Calmness](https://open.spotify.com/album/7yMh6pTahqKNiidicZaVwz) | 2:37 | 2024-07-15 | 2024-09-14 |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2023-03-31 | 2024-02-09 |
 | [Mandala](https://open.spotify.com/track/5iW98p3r3bR9N7JGHlMCI0) | [Marc Veil](https://open.spotify.com/artist/5YHPMNDsxSX4O6XVgnCukg) | [Mandala](https://open.spotify.com/album/0LKpvbQooDpOM3UGQTrViI) | 2:23 | 2025-02-26 |  |
+| [Mane](https://open.spotify.com/track/1VPuoTekZ0B8VyztiDq9aZ) | [Dilandi](https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d) | [Mane](https://open.spotify.com/album/7ftforu0vPwsKTwyPZKIFv) | 2:49 | 2025-06-17 |  |
 | [Manitoba](https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Manitoba](https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb) | 2:21 | 2024-03-06 |  |
 | [Maravilla](https://open.spotify.com/track/0lLKmZbkORVUbxlRDrVVXB) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Maravilla](https://open.spotify.com/album/27EJk20V3NGiphJpEexh3Z) | 2:27 | 2023-03-31 | 2024-05-21 |
 | [Marbre D’aube](https://open.spotify.com/track/4xOArpiZ0N1UC6sRAwbNtE) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Marbre D’aube](https://open.spotify.com/album/5GenEVsZz4Ek38mVczOPtv) | 3:18 | 2025-02-04 |  |

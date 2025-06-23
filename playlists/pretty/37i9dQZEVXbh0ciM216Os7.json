@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADQTUPHlV2E1ZrEAqti2yo+",
+  "snapshot_id": "AAAAAAAAAADHePDrjmjaPCZjEOcP4Txs",
   "tracks": [
+    {
+      "added_at": "2025-06-20 04:00:00",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "PREACHER MAN",
+      "url": "https://open.spotify.com/track/24rgAXRpEipfaxJNElCXPE"
+    },
     {
       "added_at": "2025-06-20 04:00:00",
       "album": {
@@ -47,30 +67,6 @@
       "duration_ms": 176000,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/5Gq3wSf3WWEVg2Uwtf8JZk"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Come As You Are",
-        "url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 141795,
-      "name": "WeMaj (feat. Rapsody)",
-      "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
     },
     {
       "added_at": "2025-06-20 04:00:00",
@@ -143,6 +139,30 @@
     {
       "added_at": "2025-06-20 04:00:00",
       "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 141795,
+      "name": "WeMaj (feat. Rapsody)",
+      "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
+    },
+    {
+      "added_at": "2025-06-20 04:00:00",
+      "album": {
         "name": "School Of Hard Knocks",
         "url": "https://open.spotify.com/album/3xzBKgJzFXA30244Z5GcLr"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 228101,
       "name": "School Of Hard Knocks",
       "url": "https://open.spotify.com/track/2oT577306Kp6MDBw2cETVj"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "Damnation",
-        "url": "https://open.spotify.com/album/7pe6J07JBlYLA2hKY3WsoN"
-      },
-      "artists": [
-        {
-          "name": "X-Raided",
-          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 235170,
-      "name": "Damnation",
-      "url": "https://open.spotify.com/track/2lUHdXPB8NchkFETpH1e7h"
     },
     {
       "added_at": "2025-06-20 04:00:00",
@@ -215,6 +215,26 @@
     {
       "added_at": "2025-06-20 04:00:00",
       "album": {
+        "name": "Damnation",
+        "url": "https://open.spotify.com/album/7pe6J07JBlYLA2hKY3WsoN"
+      },
+      "artists": [
+        {
+          "name": "X-Raided",
+          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 235170,
+      "name": "Damnation",
+      "url": "https://open.spotify.com/track/2lUHdXPB8NchkFETpH1e7h"
+    },
+    {
+      "added_at": "2025-06-20 04:00:00",
+      "album": {
         "name": "Enemies (DJ Mickey Knox Remix)",
         "url": "https://open.spotify.com/album/4ByPIC1aGh9WGEyvEDUfQL"
       },
@@ -243,50 +263,6 @@
     {
       "added_at": "2025-06-20 04:00:00",
       "album": {
-        "name": "Space Invader",
-        "url": "https://open.spotify.com/album/6VDCVQo3ogzgvtk8vu6E3x"
-      },
-      "artists": [
-        {
-          "name": "Breezy Supreme",
-          "url": "https://open.spotify.com/artist/4EYnKpPblwYYfZLTnV0vB1"
-        },
-        {
-          "name": "Kawaii AF",
-          "url": "https://open.spotify.com/artist/7mt90WapAgpOkTUBaQoxse"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 149359,
-      "name": "Call You",
-      "url": "https://open.spotify.com/track/5IiCxNUkjKRNGSDwytD5qA"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/19rVeZhfyt2ps5vCKbsYwh"
-      },
-      "artists": [
-        {
-          "name": "Jay Sky",
-          "url": "https://open.spotify.com/artist/0q4sXc1rBgBNBW2kTbhhH3"
-        },
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        }
-      ],
-      "duration_ms": 186048,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/6UINcViw7jZNV2ZtprYt57"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/2rpH35YHygsMaqyCzT314X"
       },
@@ -299,26 +275,6 @@
       "duration_ms": 219757,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/42pdtdPWKXlrioguxsv8Zs"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
-      },
-      "artists": [
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 105722,
-      "name": "BEAUTY AND THE BEAST",
-      "url": "https://open.spotify.com/track/1FLskKiqnrOZdtNSRnC7Ng"
     },
     {
       "added_at": "2025-06-20 04:00:00",
@@ -371,22 +327,42 @@
     {
       "added_at": "2025-06-20 04:00:00",
       "album": {
-        "name": "Collect Real Ones (Remix)",
-        "url": "https://open.spotify.com/album/0czt4nbeb1WTSqu5umAimw"
+        "name": "Com Amor Brazil",
+        "url": "https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy"
       },
       "artists": [
         {
-          "name": "Flight Risk Clevo",
-          "url": "https://open.spotify.com/artist/22enLedZgtM1lRLKTFvb2r"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         }
       ],
-      "duration_ms": 297586,
-      "name": "Collect Real Ones - Remix",
-      "url": "https://open.spotify.com/track/0wvY9JG7te2QhEf0MQGkkE"
+      "duration_ms": 141311,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/7bIyPhgkH3eq0U7jefSP0i"
+    },
+    {
+      "added_at": "2025-06-20 04:00:00",
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/19rVeZhfyt2ps5vCKbsYwh"
+      },
+      "artists": [
+        {
+          "name": "Jay Sky",
+          "url": "https://open.spotify.com/artist/0q4sXc1rBgBNBW2kTbhhH3"
+        },
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        }
+      ],
+      "duration_ms": 186048,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/6UINcViw7jZNV2ZtprYt57"
     },
     {
       "added_at": "2025-06-20 04:00:00",
@@ -411,6 +387,26 @@
       "duration_ms": 109210,
       "name": "Indika",
       "url": "https://open.spotify.com/track/23REvMDaoGFRdMKGSVVK5z"
+    },
+    {
+      "added_at": "2025-06-20 04:00:00",
+      "album": {
+        "name": "Collect Real Ones (Remix)",
+        "url": "https://open.spotify.com/album/0czt4nbeb1WTSqu5umAimw"
+      },
+      "artists": [
+        {
+          "name": "Flight Risk Clevo",
+          "url": "https://open.spotify.com/artist/22enLedZgtM1lRLKTFvb2r"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "Collect Real Ones - Remix",
+      "url": "https://open.spotify.com/track/0wvY9JG7te2QhEf0MQGkkE"
     },
     {
       "added_at": "2025-06-20 04:00:00",
@@ -579,6 +575,38 @@
     {
       "added_at": "2025-06-20 04:00:00",
       "album": {
+        "name": "Echos of Thunder",
+        "url": "https://open.spotify.com/album/3rD7cHSRlai9MWh3R04sVL"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        },
+        {
+          "name": "William DuVall",
+          "url": "https://open.spotify.com/artist/7i706LwoMxh1uYYnrMuQUR"
+        },
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        },
+        {
+          "name": "Trevor McNevan",
+          "url": "https://open.spotify.com/artist/0RXO2ozd11vyo8ehxYGnZ6"
+        },
+        {
+          "name": "Teerawk",
+          "url": "https://open.spotify.com/artist/1UfT3ZzOH5k7Wk4gYrtkzZ"
+        }
+      ],
+      "duration_ms": 238269,
+      "name": "This Is Mongol [Warrior Souls] (feat. William DuVall and Trevor McNevan) - Teerawk Remix",
+      "url": "https://open.spotify.com/track/4OruiIHdTbT87xOOm9hIxu"
+    },
+    {
+      "added_at": "2025-06-20 04:00:00",
+      "album": {
         "name": "TYPE B",
         "url": "https://open.spotify.com/album/7sc6bg7QFJK552QeVWahs2"
       },
@@ -627,38 +655,6 @@
     {
       "added_at": "2025-06-20 04:00:00",
       "album": {
-        "name": "Echos of Thunder",
-        "url": "https://open.spotify.com/album/3rD7cHSRlai9MWh3R04sVL"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        },
-        {
-          "name": "William DuVall",
-          "url": "https://open.spotify.com/artist/7i706LwoMxh1uYYnrMuQUR"
-        },
-        {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
-        },
-        {
-          "name": "Trevor McNevan",
-          "url": "https://open.spotify.com/artist/0RXO2ozd11vyo8ehxYGnZ6"
-        },
-        {
-          "name": "Teerawk",
-          "url": "https://open.spotify.com/artist/1UfT3ZzOH5k7Wk4gYrtkzZ"
-        }
-      ],
-      "duration_ms": 238269,
-      "name": "This Is Mongol [Warrior Souls] (feat. William DuVall and Trevor McNevan) - Teerawk Remix",
-      "url": "https://open.spotify.com/track/4OruiIHdTbT87xOOm9hIxu"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
         "name": "Avoid The Drones & 9 Months",
         "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
       },
@@ -695,34 +691,6 @@
     {
       "added_at": "2025-06-20 04:00:00",
       "album": {
-        "name": "God Makes a Way",
-        "url": "https://open.spotify.com/album/1bVi7lz24dcAJgiUEm5Omw"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        },
-        {
-          "name": "Echo Harbor Worship",
-          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 344481,
-      "name": "God Makes a Way",
-      "url": "https://open.spotify.com/track/665VFkCzcWu1io8VJbBYSj"
-    },
-    {
-      "added_at": "2025-06-20 04:00:00",
-      "album": {
         "name": "Mystic Journey",
         "url": "https://open.spotify.com/album/2Zi2sYvKPiUVa56eRK7grT"
       },
@@ -755,6 +723,34 @@
       "duration_ms": 558178,
       "name": "Mystic Journey",
       "url": "https://open.spotify.com/track/1rUt2zVD9xWsxbfi6MxlUj"
+    },
+    {
+      "added_at": "2025-06-20 04:00:00",
+      "album": {
+        "name": "God Makes a Way",
+        "url": "https://open.spotify.com/album/1bVi7lz24dcAJgiUEm5Omw"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        },
+        {
+          "name": "Echo Harbor Worship",
+          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 344481,
+      "name": "God Makes a Way",
+      "url": "https://open.spotify.com/track/665VFkCzcWu1io8VJbBYSj"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

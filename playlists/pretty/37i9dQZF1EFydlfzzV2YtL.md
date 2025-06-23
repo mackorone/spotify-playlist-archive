@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,470 likes - 178 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 178 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 63 | [call it the end](https://open.spotify.com/track/5a3tLTGA0HIDtrvnszXXBN) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:21 |
 | 64 | [Blame Myself](https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 3:50 |
 | 65 | [Trigger](https://open.spotify.com/track/6xVr2J3X0zhEJQz5L0QNAP) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:13 |
-| 66 | [Nobody Like You](https://open.spotify.com/track/2lPmDekJerHxTtdKq1IXPf) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:08 |
-| 67 | [SQ \- W Sound 04](https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SQ \(W Sound 04\)](https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV) | 2:33 |
+| 66 | [SQ \- W Sound 04](https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SQ \(W Sound 04\)](https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV) | 2:33 |
+| 67 | [Nobody Like You](https://open.spotify.com/track/2lPmDekJerHxTtdKq1IXPf) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:08 |
 | 68 | [P.S\. I Hope You're Happy \(feat\. blink\-182\)](https://open.spotify.com/track/0fOiTY8wUM6u4GLGOFKvZs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [World War Joy \(Japan Edition\)](https://open.spotify.com/album/3cbcpRK1paF6lAxd16cmIE) | 3:45 |
 | 69 | [It Takes Two](https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [It Takes Two \(feat\. Eric Andre, Daveed Diggs, Kid Cudi & Trolls\)](https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r) | 3:39 |
 | 70 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 177 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 178 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `Ab0w6AAAAADaxiVtBwJ1qxU1ND+bVvHE`
+Snapshot ID: `Ab02fgAAAABIBZl7h5buFokgdAtkRoli`

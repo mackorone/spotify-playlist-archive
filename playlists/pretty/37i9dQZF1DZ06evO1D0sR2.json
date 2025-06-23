@@ -1,12 +1,12 @@
 {
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
-  "num_followers": 3015,
+  "num_followers": 3018,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAABrAVj9cr/WawvhuJYb74oa",
+  "snapshot_id": "aFX2AAAAAACkoTPzYdlW2Dk5GqZUnwb7",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 710916,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bless Me - Single",
         "url": "https://open.spotify.com/album/7AznLyaRwJ4nID1raGxDl3"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 282407,
       "name": "Bless Me (Radio Edit)",
       "url": "https://open.spotify.com/track/46tpVPXWb0mbpDPkKUeghV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 710916,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
       },
       "artists": [
         {
@@ -524,13 +524,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 338986,
-      "name": "You Are Worthy",
-      "url": "https://open.spotify.com/track/31NuRDI5McMo8ZjSApHZUq"
+      "duration_ms": 465962,
+      "name": "We Serve (feat. Travis Greene)",
+      "url": "https://open.spotify.com/track/1XcmuuYKOrWmDebXxb6VgP"
     },
     {
       "added_at": null,
@@ -559,50 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 465962,
-      "name": "We Serve (feat. Travis Greene)",
-      "url": "https://open.spotify.com/track/1XcmuuYKOrWmDebXxb6VgP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Phillip Bryant",
-          "url": "https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k"
-        },
-        {
-          "name": "Pocket Of Hope",
-          "url": "https://open.spotify.com/artist/6l2vPgjeinkte8p5r6zqKc"
-        }
-      ],
-      "duration_ms": 494042,
-      "name": "You Are Lord Of All",
-      "url": "https://open.spotify.com/track/5XcOW8siarlSb4kxGQ8AgM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I See Victory",
         "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
@@ -614,47 +570,11 @@
         {
           "name": "Youthful Praise",
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Jason Nelson",
-          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
         }
       ],
-      "duration_ms": 417773,
-      "name": "I Feel You Moving",
-      "url": "https://open.spotify.com/track/7Ato921tLj55ni6itcAT7T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 342773,
-      "name": "He Reigns",
-      "url": "https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 330558,
-      "name": "Lord You're Mighty",
-      "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
+      "duration_ms": 338986,
+      "name": "You Are Worthy",
+      "url": "https://open.spotify.com/track/31NuRDI5McMo8ZjSApHZUq"
     },
     {
       "added_at": null,
@@ -683,6 +603,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 330558,
+      "name": "Lord You're Mighty",
+      "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 342773,
+      "name": "He Reigns",
+      "url": "https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I See Victory",
         "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
@@ -696,13 +648,53 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
         }
       ],
-      "duration_ms": 402946,
-      "name": "Awe Of You",
-      "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
+      "duration_ms": 417773,
+      "name": "I Feel You Moving",
+      "url": "https://open.spotify.com/track/7Ato921tLj55ni6itcAT7T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Phillip Bryant",
+          "url": "https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k"
+        },
+        {
+          "name": "Pocket Of Hope",
+          "url": "https://open.spotify.com/artist/6l2vPgjeinkte8p5r6zqKc"
+        }
+      ],
+      "duration_ms": 494042,
+      "name": "You Are Lord Of All",
+      "url": "https://open.spotify.com/track/5XcOW8siarlSb4kxGQ8AgM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 159700,
+      "name": "Deliver",
+      "url": "https://open.spotify.com/track/2CXdxm5hSdb8zjEZpJ9E6L"
     },
     {
       "added_at": null,
@@ -723,18 +715,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
       "artists": [
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         }
       ],
-      "duration_ms": 159700,
-      "name": "Deliver",
-      "url": "https://open.spotify.com/track/2CXdxm5hSdb8zjEZpJ9E6L"
+      "duration_ms": 402946,
+      "name": "Awe Of You",
+      "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Praise to the Rock",
+      "url": "https://open.spotify.com/track/1lnyOei5jVdv6zcUuAs0na"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joy Is Here (Live)",
         "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
       },
@@ -924,9 +940,49 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         }
       ],
-      "duration_ms": 311866,
-      "name": "Praise to the Rock",
-      "url": "https://open.spotify.com/track/1lnyOei5jVdv6zcUuAs0na"
+      "duration_ms": 219360,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "David Wilford",
+          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
+        }
+      ],
+      "duration_ms": 472000,
+      "name": "Report of the Lord",
+      "url": "https://open.spotify.com/track/3GqDysrVRVYPVQbEZwoy3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "duration_ms": 444480,
+      "name": "Glory and Honor - Live",
+      "url": "https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF"
     },
     {
       "added_at": null,
@@ -955,46 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        }
-      ],
-      "duration_ms": 444480,
-      "name": "Glory and Honor - Live",
-      "url": "https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "David Wilford",
-          "url": "https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt"
-        }
-      ],
-      "duration_ms": 472000,
-      "name": "Report of the Lord",
-      "url": "https://open.spotify.com/track/3GqDysrVRVYPVQbEZwoy3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live: The Praise, the Worship",
         "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
       },
@@ -1004,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         }
       ],
-      "duration_ms": 219360,
-      "name": "The Presence",
-      "url": "https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi"
+      "duration_ms": 329186,
+      "name": "Oh Holy Lamb",
+      "url": "https://open.spotify.com/track/3SBa0QkllF6IqeEdg9RPqk"
     },
     {
       "added_at": null,
@@ -1027,26 +1043,6 @@
       "duration_ms": 423386,
       "name": "All Things Well",
       "url": "https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe Again",
-        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Kymberli Joye",
-          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
-        }
-      ],
-      "duration_ms": 534949,
-      "name": "Miracle is You (feat. Kymberli Joye)",
-      "url": "https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT"
     }
   ],
   "unique_name": "This Is JJ Hairston",

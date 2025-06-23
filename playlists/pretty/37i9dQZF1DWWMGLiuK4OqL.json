@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 257053,
+  "num_followers": 257137,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Bare Bones",
-        "url": "https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "To Love You All Over Again",
-      "url": "https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Balm in Gilead",
         "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 180493,
       "name": "The Moon Is Made of Gold",
       "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Bare Bones",
+        "url": "https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "To Love You All Over Again",
+      "url": "https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Relaxing Bossa Lounge 4",
-        "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
-      },
-      "artists": [
-        {
-          "name": "Tahta Menezes",
-          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "You\u00b4ve Got A Friend (Bossa Version)",
-      "url": "https://open.spotify.com/track/72d2qNpo39PRtwMWS9m2nq"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Turn Up The Quiet",
         "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 243480,
       "name": "Dream",
       "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Relaxing Bossa Lounge 4",
+        "url": "https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg"
+      },
+      "artists": [
+        {
+          "name": "Tahta Menezes",
+          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "You\u00b4ve Got A Friend (Bossa Version)",
+      "url": "https://open.spotify.com/track/72d2qNpo39PRtwMWS9m2nq"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 170767,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Roadhouse",
         "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 292973,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 170767,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -955,6 +955,42 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Stardust...The Great American Songbook III",
+        "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/65cIgw9x1CGjpn1ar351Rl"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "The Women Who Raised Me",
+        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 299714,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6PSDknjbOQTQNo7cwBMduU"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Live at Jamboree - Barcelona",
         "url": "https://open.spotify.com/album/7tXiRWUOJWPqTxFIjbpvue"
       },
@@ -991,42 +1027,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "The Women Who Raised Me",
-        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 299714,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6PSDknjbOQTQNo7cwBMduU"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "Stardust...The Great American Songbook III",
-        "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/65cIgw9x1CGjpn1ar351Rl"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "It Had To be You... The Great American Songbook",
+        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/7dgPIW9yzB59ENbnbWslU7"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 164693,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "It Had To be You... The Great American Songbook",
-        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/7dgPIW9yzB59ENbnbWslU7"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Any Little Time",
+      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "I'm Old Fashioned",
         "url": "https://open.spotify.com/album/1oCeIsGAXgN86yeEahuezu"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 233820,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/7yrPfSmKX8q8y2DWgmmzOM"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Any Little Time",
-      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "12th Avenue",
-        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 277065,
-      "name": "12th Avenue",
-      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 263282,
       "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "12th Avenue",
+        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 277065,
+      "name": "12th Avenue",
+      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3rwV6PZl7zZqDT0BO05eb2"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 260502,
       "name": "Empty Dream",
       "url": "https://open.spotify.com/track/5BsUXjwjAofWEnPbETcK35"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "Flirting With Twilight",
-        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 247149,
-      "name": "When the Sun Comes Out",
-      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Plays Well With Others",
         "url": "https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 297227,
       "name": "I Wanna Be Around",
       "url": "https://open.spotify.com/track/6WE4UaOwShZi7ZBTaZgPUW"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 247149,
+      "name": "When the Sun Comes Out",
+      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Nice Work If You Can Get It",
-        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
-      },
-      "artists": [
-        {
-          "name": "Kristina Ray",
-          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/2TG44OnFdjWNm5DJHeTuo1"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 247208,
       "name": "That's All",
       "url": "https://open.spotify.com/track/4fccK8WxSPWlt9lolJqM6u"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Nice Work If You Can Get It",
+        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
+      },
+      "artists": [
+        {
+          "name": "Kristina Ray",
+          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "A Little Moonlight",
-        "url": "https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s"
-      },
-      "artists": [
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 286813,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/1bKYwMDGYIRbo2vqm8UCym"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "My Sweetie & I",
         "url": "https://open.spotify.com/album/2ey5s2msgrSIuW8BamCOHo"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 355102,
       "name": "My Sweetie & I",
       "url": "https://open.spotify.com/track/6A2cWbyXgKMufDUr5dAJkV"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "A Little Moonlight",
+        "url": "https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s"
+      },
+      "artists": [
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "duration_ms": 286813,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/1bKYwMDGYIRbo2vqm8UCym"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2691,6 +2691,22 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "I Cried For You",
+      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2715,22 +2731,6 @@
       "duration_ms": 393984,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "I Cried For You",
-      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2799,22 +2799,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "All You Need Is The Girl",
-        "url": "https://open.spotify.com/album/4XhmSNCri3iq7vOF4n55Bz"
-      },
-      "artists": [
-        {
-          "name": "April Barrows",
-          "url": "https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ"
-        }
-      ],
-      "duration_ms": 290880,
-      "name": "Until It Happens to You",
-      "url": "https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Thinker and a Fool",
         "url": "https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb"
       },
@@ -2831,6 +2815,22 @@
       "duration_ms": 360973,
       "name": "Thinker and a Fool",
       "url": "https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "All You Need Is The Girl",
+        "url": "https://open.spotify.com/album/4XhmSNCri3iq7vOF4n55Bz"
+      },
+      "artists": [
+        {
+          "name": "April Barrows",
+          "url": "https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ"
+        }
+      ],
+      "duration_ms": 290880,
+      "name": "Until It Happens to You",
+      "url": "https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2863,22 +2863,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "There's Only One...",
-        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 312840,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Love for Connoisseurs",
         "url": "https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 220720,
       "name": "Twentieth Century Fox",
       "url": "https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "There's Only One...",
+        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 312840,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
     },
     {
       "added_at": "2024-09-27 07:35:47",
@@ -2911,22 +2911,6 @@
     {
       "added_at": "2024-09-27 07:35:47",
       "album": {
-        "name": "Give My Charlest (A Tribute to the Charleston)",
-        "url": "https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz"
-      },
-      "artists": [
-        {
-          "name": "Jazzy Sky",
-          "url": "https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3"
-        }
-      ],
-      "duration_ms": 170875,
-      "name": "Give My Charlest (A Tribute to the Charleston)",
-      "url": "https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2"
-    },
-    {
-      "added_at": "2024-09-27 07:35:47",
-      "album": {
         "name": "Yellow Rose",
         "url": "https://open.spotify.com/album/5DLSXBQx09pE2XbMdB6yVn"
       },
@@ -2943,6 +2927,22 @@
       "duration_ms": 307600,
       "name": "Yellow Rose",
       "url": "https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z"
+    },
+    {
+      "added_at": "2024-09-27 07:35:47",
+      "album": {
+        "name": "Give My Charlest (A Tribute to the Charleston)",
+        "url": "https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz"
+      },
+      "artists": [
+        {
+          "name": "Jazzy Sky",
+          "url": "https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3"
+        }
+      ],
+      "duration_ms": 170875,
+      "name": "Give My Charlest (A Tribute to the Charleston)",
+      "url": "https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2"
     },
     {
       "added_at": "2024-09-27 07:35:47",

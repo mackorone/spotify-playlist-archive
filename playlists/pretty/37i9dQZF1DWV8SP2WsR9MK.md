@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,271 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,303 likes - 100 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 14 | [Canto De Ossanha](https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy) | [One](https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD) | 5:11 |
 | 15 | [Bright Size Life](https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 4:45 |
 | 16 | [I'll See You in My Dreams](https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:33 |
-| 17 | [In Your Own Sweet Way](https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 4:51 |
+| 17 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 |
 | 18 | [Nocturne](https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Arclight](https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD) | 3:19 |
 | 19 | [Soul Lament \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 2:43 |
 | 20 | [The Moon Is A Harsh Mistress](https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missouri Sky](https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY) | 4:04 |
 | 21 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 |
-| 22 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 |
+| 22 | [In Your Own Sweet Way](https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 4:51 |
 | 23 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |
 | 24 | [Father Time](https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG) | [Travel Guide](https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua) | 4:37 |
 | 25 | [James](https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Lyle Mays](https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4), [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Offramp](https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK) | 6:41 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 96 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
 | 97 | [Yesterdays](https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR) | [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Sight](https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt) | 7:26 |
 | 98 | [You Are Too Beautiful](https://open.spotify.com/track/3Kersuib3CNo2CzQZg52M3) | [Ed Bickert](https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA), [Don Thompson](https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX) | [At the Garden Party](https://open.spotify.com/album/4ChUpCuXYNw2pYN9xNyFAc) | 6:34 |
-| 99 | [Exactly Like You](https://open.spotify.com/track/2gRJ1I0QWkU8E9ECZ6iZM6) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Lifestyle2 \- Bar Jazz Vol 2 \(International Version\)](https://open.spotify.com/album/32JF2WnLL2FYQwxHVqGEKp) | 4:47 |
-| 100 | [Unity Village](https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 3:42 |
+| 99 | [Unity Village](https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 3:42 |
+| 100 | [Caravan](https://open.spotify.com/track/2bpaLm1QOCoThKSvJmOFEC) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Movin' Wes](https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5) | 2:36 |
 
 Snapshot ID: `Zpe24gAAAAB+PkQxApVeQ023ManMSGq8`

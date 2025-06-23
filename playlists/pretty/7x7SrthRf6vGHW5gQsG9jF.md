@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 901 songs - 2 day 9 hr 39 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 903 songs - 2 day 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -909,5 +909,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 899 | [渇愛論II \- 梓川版](https://open.spotify.com/track/7fd2BJup0dPcWZ0EJiH87C) | [平田義久](https://open.spotify.com/artist/2WovLuHff62YLJEGlqqP0L), [梓川](https://open.spotify.com/artist/2iydjGtDnXejF2L1pgsBB8) | [渇愛論II](https://open.spotify.com/album/4R3TBBkEZGM3NTsCQ2AZRu) | 2:57 |
 | 900 | [Guilty](https://open.spotify.com/track/2xmupo1jbudKDN4hSSKpXM) | [d0tc0mmie](https://open.spotify.com/artist/6boy2t2W04GPkMipXjavCM), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [0401+](https://open.spotify.com/album/6g6IhKiigPjKmPOmxkc91S) | 2:11 |
 | 901 | [You and me](https://open.spotify.com/track/7Msc6E2IMQMhm8HJ6ZmUBu) | [mixty](https://open.spotify.com/artist/2gXRm46OQBjXZB5oBzBjP2), [konoco](https://open.spotify.com/artist/6HsCnf0xpVFfDiS4Sa7r8T) | [Tears of Flowers](https://open.spotify.com/album/6sbC1C9lEj4o7uEIBuR5P6) | 3:14 |
+| 902 | [フィクション](https://open.spotify.com/track/543jStmHR1VrSfpxmjUIn6) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Chime](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv) | 3:50 |
+| 903 | [hirari, hirari](https://open.spotify.com/track/5BCpEzCFSC6LEJDIxFJHOB) | [yuri,nagatomo](https://open.spotify.com/artist/52Z5bEsQoX0Wmy12ufYUF7) | [endrollnosonosakimade](https://open.spotify.com/album/4cQQkmV55nYtbsAmH5vOhA) | 4:12 |
 
-Snapshot ID: `AAAFOYoI8l082N5uEj+udDQzIgVKaTS/`
+Snapshot ID: `AAAFOw4uDW0YsFPn9aan34OQqb51oh1U`

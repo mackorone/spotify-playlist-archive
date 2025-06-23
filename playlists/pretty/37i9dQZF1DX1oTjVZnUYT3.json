@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 469840,
+  "num_followers": 469871,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Al\u00f4 Malandragem Maloca o Flagrante",
+        "url": "https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO"
+      },
+      "artists": [
+        {
+          "name": "Bezerra Da Silva",
+          "url": "https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Malandragem d\u00e1 um Tempo",
+      "url": "https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Sou Teu F\u00e3",
         "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 170956,
       "name": "Sou Teu F\u00e3",
       "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Al\u00f4 Malandragem Maloca o Flagrante",
-        "url": "https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO"
-      },
-      "artists": [
-        {
-          "name": "Bezerra Da Silva",
-          "url": "https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Malandragem d\u00e1 um Tempo",
-      "url": "https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -387,42 +387,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Hello mundo (Ao vivo)",
-        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 157494,
-      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
-      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "2 Em 1",
-        "url": "https://open.spotify.com/album/63D15Du0fgLFQzDUKVKq2J"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "La Belle De Jour",
-      "url": "https://open.spotify.com/track/0c8aqUb7e0K9uNhxejfV23"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "A Tabua De Esmeralda",
         "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
       },
@@ -435,54 +399,6 @@
       "duration_ms": 195266,
       "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
       "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Umas E Outras",
-        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Jorge Maravilha",
-      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "S\u00e9rie Acervo - Martinho Da Vila",
-        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Bebadosamba",
-        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Timoneiro",
-      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -507,6 +423,90 @@
       "duration_ms": 306853,
       "name": "Frevo Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 157494,
+      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
+      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "S\u00e9rie Acervo - Martinho Da Vila",
+        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Umas E Outras",
+        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Jorge Maravilha",
+      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Bebadosamba",
+        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Timoneiro",
+      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "2 Em 1",
+        "url": "https://open.spotify.com/album/63D15Du0fgLFQzDUKVKq2J"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "La Belle De Jour",
+      "url": "https://open.spotify.com/track/0c8aqUb7e0K9uNhxejfV23"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Sexy Iemanj\u00e1",
-        "url": "https://open.spotify.com/album/5FVHWpJXTYREVLlsGTPtvn"
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
       },
       "artists": [
         {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+          "name": "Z\u00e9 Keti",
+          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
         }
       ],
-      "duration_ms": 224226,
-      "name": "Sexy Yemanj\u00e1",
-      "url": "https://open.spotify.com/track/4Y8Vo1sfBqfoqYjbpEDH9R"
+      "duration_ms": 123760,
+      "name": "A Voz do Morro",
+      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -863,18 +863,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+        "name": "Sexy Iemanj\u00e1",
+        "url": "https://open.spotify.com/album/5FVHWpJXTYREVLlsGTPtvn"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Keti",
-          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
         }
       ],
-      "duration_ms": 123760,
-      "name": "A Voz do Morro",
-      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
+      "duration_ms": 224226,
+      "name": "Sexy Yemanj\u00e1",
+      "url": "https://open.spotify.com/track/4Y8Vo1sfBqfoqYjbpEDH9R"
     },
     {
       "added_at": "2021-11-26 03:18:52",

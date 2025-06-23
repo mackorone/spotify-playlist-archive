@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้! ศิลปิน: sarah salola
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,471 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,497 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 9 | [Onlyfan](https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [Onlyfan](https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi) | 2:08 |
 | 10 | [แค่คุณ](https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:58 |
 | 11 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 |
-| 12 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |
-| 13 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 |
+| 12 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 |
+| 13 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |
 | 14 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 |
 | 15 | [ฝากใจ](https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฝากใจ](https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa) | 4:19 |
 | 16 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 50 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 |
 | 51 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
 | 52 | [ใจสมใจ](https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [ใจสมใจ](https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI) | 3:16 |
-| 53 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 |
-| 54 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 |
+| 53 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 |
+| 54 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 |
 | 55 | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV) | 3:18 |
 | 56 | [รักนาน ๆ](https://open.spotify.com/track/3DoCl74hQWMxlvBeVj51XC) | [พัด Vorapat](https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8), [Dome Jaruwat](https://open.spotify.com/artist/0txmzrxdCsJv8qoko7C4CM) | [รักนาน ๆ](https://open.spotify.com/album/27vnza2tIBJ7eOtPXhLmBV) | 3:34 |
 | 57 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 75 | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 |
 | 76 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 |
 | 77 | [เธอไม่ต้องน่ารักทุกวันก็ได้นะ](https://open.spotify.com/track/0WF0gPr8uLyWwPhmOiNYm4) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC) | [เธอไม่ต้องน่ารักทุกวันก็ได้นะ](https://open.spotify.com/album/62ZE1G620BMjMxBoI3jBRw) | 3:13 |
-| 78 | [ขอจองได้ไหม](https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z) | [เอ๋ยเอ้ย](https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j) | [ขอจองได้ไหม](https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF) | 3:21 |
-| 79 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
+| 78 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
+| 79 | [ขอจองได้ไหม](https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z) | [เอ๋ยเอ้ย](https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j) | [ขอจองได้ไหม](https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF) | 3:21 |
 | 80 | [ยิ้มก็พอ feat\. Wonderframe](https://open.spotify.com/track/089OggImoTkmiPMVtVAs3I) | [TOR Saksit](https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR), [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [ยิ้มก็พอ](https://open.spotify.com/album/0IsfsMc7MH55yjHssa3Mfd) | 4:05 |
 | 81 | [ยิ้มมา](https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ยิ้มมา](https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0) | 2:52 |
 | 82 | [ภูเขาบังเส้นผม \(Hide you\) feat\. TWOPEE](https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ภูเขาบังเส้นผม \(Hide you\)](https://open.spotify.com/album/29eQN5K2vGOaYyeGxENsEr) | 3:39 |

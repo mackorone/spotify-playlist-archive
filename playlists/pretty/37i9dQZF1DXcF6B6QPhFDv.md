@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,478,230 likes - 76 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,476,766 likes - 76 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

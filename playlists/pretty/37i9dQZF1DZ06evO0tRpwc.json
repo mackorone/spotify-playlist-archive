@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37863,
+  "num_followers": 37862,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADYH9CS1rjTnxVgpDHa+jT9",
+  "snapshot_id": "aFX2AAAAAACLSRzUY9/T2BiQJOM6wSjb",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarse: Lado B",
-        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 217941,
-      "name": "Asas",
-      "url": "https://open.spotify.com/track/0dhtPfFgvM2IgIRbsO0Wn1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Reino Vem",
         "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 196800,
       "name": "Party Love",
       "url": "https://open.spotify.com/track/0SXNLVcim7labm8IkyyyrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 217941,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/0dhtPfFgvM2IgIRbsO0Wn1"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vitor Kivitz",
-          "url": "https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d"
-        }
-      ],
-      "duration_ms": 229111,
-      "name": "Abril",
-      "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 180188,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vitor Kivitz",
+          "url": "https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d"
+        }
+      ],
+      "duration_ms": 229111,
+      "name": "Abril",
+      "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
     },
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ru\u00eddos",
-        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
+        "name": "Acelera e Pisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
       },
       "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 320760,
-      "name": "Ru\u00eddos",
-      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+      "duration_ms": 321746,
+      "name": "Quem \u00e9 Esse? (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77"
     },
     {
       "added_at": null,
@@ -795,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acelera e Pisa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
+        "name": "Ru\u00eddos",
+        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
       },
       "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 321746,
-      "name": "Quem \u00e9 Esse? (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77"
+      "duration_ms": 320760,
+      "name": "Ru\u00eddos",
+      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
     },
     {
       "added_at": null,

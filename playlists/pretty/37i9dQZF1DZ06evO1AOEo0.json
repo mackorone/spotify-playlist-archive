@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 36651,
+  "num_followers": 36659,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACtkUm51sGRwY8r4zPPexH3",
+  "snapshot_id": "aFX2AAAAAADd+clYmPvVvG8Z1IeSC4RB",
   "tracks": [
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
-        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 239857,
-      "name": "All Creatures (Sing the Harmony) - Live",
-      "url": "https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psalms from the Well",
         "url": "https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic"
       },
@@ -635,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 325849,
+      "name": "Psalm 45 (Fairest of All)",
+      "url": "https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vintage",
         "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
       },
@@ -651,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
+        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
       },
       "artists": [
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
         }
       ],
-      "duration_ms": 325849,
-      "name": "Psalm 45 (Fairest of All)",
-      "url": "https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz"
+      "duration_ms": 239857,
+      "name": "All Creatures (Sing the Harmony) - Live",
+      "url": "https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa"
     },
     {
       "added_at": null,

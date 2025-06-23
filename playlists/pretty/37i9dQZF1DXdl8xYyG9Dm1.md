@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,894 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,938 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 16 | [DND](https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:46 |
 | 17 | [Machete](https://open.spotify.com/track/3PlVucfcEIzQzmMZkRDTgB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Machete](https://open.spotify.com/album/79Wm9Oj6zGEx6yRYvajE7Q) | 2:34 |
 | 18 | [Do I \- Remix](https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Do I \(Remix\)](https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m) | 2:18 |
-| 19 | [Jungle](https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:01 |
+| 19 | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq) | 3:05 |
 | 20 | [So it Goes](https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So it Goes](https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC) | 3:43 |
-| 21 | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q) | 3:12 |
-| 22 | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq) | 3:05 |
+| 21 | [Jungle](https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:01 |
+| 22 | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q) | 3:12 |
 | 23 | [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 |
 | 24 | [Who's Really Rapping](https://open.spotify.com/track/6YXiZEP5bMhEQV5TJovgnz) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Who's Really Rapping](https://open.spotify.com/album/31rjI4OFkFfhrnkZjBUUZ0) | 2:58 |
 | 25 | [Last Week](https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Bad Boy Etiquette 102: Continuous Assessment](https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC) | 3:55 |

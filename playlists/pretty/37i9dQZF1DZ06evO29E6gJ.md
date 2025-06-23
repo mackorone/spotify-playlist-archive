@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,189 likes - 47 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,191 likes - 47 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 25 | [Vino Maldito](https://open.spotify.com/track/0SG5Pj8V7JhcK99z9m9vYe) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:10 |
 | 26 | [La Pajarera](https://open.spotify.com/track/3lljQzKEcHzw2uXl9JJ9rk) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Fogata Norteña](https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj) | 3:11 |
 | 27 | [Hay Mujeres Ingratas en la Vida \[Ranchera\]](https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [FOGATA NORTENA](https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy) | 2:49 |
-| 28 | [Valente Quintero](https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:31 |
+| 28 | [Veinte Años](https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:10 |
 | 29 | [Prisionero de Tus Brazos](https://open.spotify.com/track/6KqyjEEo57j3VHTNLv1BsC) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:31 |
-| 30 | [Veinte Años](https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:10 |
+| 30 | [Valente Quintero](https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:31 |
 | 31 | [Margarita](https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [LA TRAICIONERA \(Remastered\)](https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq) | 2:00 |
 | 32 | [Lucecita De Mi Alma](https://open.spotify.com/track/0PRtOcjYNqHuWavzXchHjp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres De Terán](https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ) | 2:31 |
 | 33 | [Alma Rendida](https://open.spotify.com/track/4Sc7z9IWXG1XbwCYKEByFX) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:21 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 41 | [La Mula Bronca](https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:50 |
 | 42 | [La Cárcel De Cananea](https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:52 |
 | 43 | [Hermosísimo Lucero](https://open.spotify.com/track/5G9HznDbXaU9UII6Sy2v1T) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:48 |
-| 44 | [Cajita de Oro](https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Cañonazos Norteños](https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL) | 2:32 |
-| 45 | [La Mosca](https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Las Jilgueritas](https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn) | [Canciones Contestadas](https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd) | 2:47 |
+| 44 | [La Mosca](https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Las Jilgueritas](https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn) | [Canciones Contestadas](https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd) | 2:47 |
+| 45 | [Cajita de Oro](https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Cañonazos Norteños](https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL) | 2:32 |
 | 46 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 |
 | 47 | [Te Vas Angel Mío](https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Latin Classics](https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ) | 2:22 |
 
-Snapshot ID: `aFSkgAAAAAAysB0xBWH2wnVatb5fLQxT`
+Snapshot ID: `aFX2AAAAAADQ2QatHZbVe4Cfg582ZTjS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > underground and experimental\. greetings from bar italia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,786 likes - 101 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,781 likes - 101 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 14 | [dumb](https://open.spotify.com/track/1ayWStUAgLGq92iNxdMbaW) | [not not cool](https://open.spotify.com/artist/5m9YsHvdvj6CEu1vYJcKbv), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Jack in Water](https://open.spotify.com/artist/2TR91e9wZCzK7QGBKtL8lb) | [dumb](https://open.spotify.com/album/46ycrla3y1zrvP2isO644z) | 2:31 |
 | 15 | [Che Guevara T\-Shirt](https://open.spotify.com/track/447CJp5XoK2xz8A21mu6Dt) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Che Guevara T\-Shirt](https://open.spotify.com/album/6GmzpO3olDI6OGmsyKAVra) | 2:55 |
 | 16 | [Honest Song](https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Bohemian Clutter](https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3) | 4:39 |
-| 17 | [AMERICAN FOOD](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [AMERICAN FOOD](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 |
+| 17 | [american food](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [american food](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 |
 | 18 | [Cow Song](https://open.spotify.com/track/2MdQxjWvScaM3NXNXQRXNK) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Cow Song](https://open.spotify.com/album/42CkWCbOfwaVsTk5TrWsTv) | 6:21 |
 | 19 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 |
 | 20 | [Stroom](https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Stroom](https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK) | 1:57 |

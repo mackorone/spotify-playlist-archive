@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,057 likes - 195 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,062 likes - 195 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 95 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
 | 96 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 |
 | 97 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 |
-| 98 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
-| 99 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 2:57 |
+| 98 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 2:57 |
+| 99 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
 | 100 | [Strangers](https://open.spotify.com/track/0X5QlzgZD3UanxR4MIXb4f) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:04 |
 | 101 | [STUPID BIG TEETH](https://open.spotify.com/track/44ESvGuO5spXkHDUNQcHyu) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [STUPID BIG TEETH](https://open.spotify.com/album/1vj4JsdkXZVXloB6opcYWX) | 2:50 |
 | 102 | [Open My Mouth](https://open.spotify.com/track/4LmNvlS526vuPkPum7ap4A) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi \(Deluxe\)](https://open.spotify.com/album/0FOPaNxxRvboekbBtVfNd0) | 2:35 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 114 | [House For Kings](https://open.spotify.com/track/6QRAlsFtttb7unrCz6zCNg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 3:20 |
 | 115 | [Real Life Stuff \(feat\. Julia Michaels & Clever\)](https://open.spotify.com/track/7bzITVONB47YcJIwLbpBGP) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 3:13 |
 | 116 | [Different Kind of Pain](https://open.spotify.com/track/4Zs63yXBLMPHg6Q9gYoaxs) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 2:50 |
-| 117 | [Liar \(feat\. Fireboy DML\)](https://open.spotify.com/track/5DIkmpzdunkmEo8yNukpJG) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:26 |
-| 118 | [Tangerine \(feat\. d4vd\)](https://open.spotify.com/track/4rSF54WsnmArj1cnKWFNcu) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:21 |
+| 117 | [Tangerine \(feat\. d4vd\)](https://open.spotify.com/track/4rSF54WsnmArj1cnKWFNcu) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:21 |
+| 118 | [Liar \(feat\. Fireboy DML\)](https://open.spotify.com/track/5DIkmpzdunkmEo8yNukpJG) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:26 |
 | 119 | [Dangerous Levels of Introspection](https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:54 |
 | 120 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 |
 | 121 | [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 194 | [Just Keep Watching](https://open.spotify.com/track/7xb25ayvRaBdC8mSQ9ApYa) | [life illustrated](https://open.spotify.com/artist/5tRfNOLfhTaTHDdkE6O8a4) | [Just Keep Watching](https://open.spotify.com/album/1QEuCJJdAmSA2QjXPx3wNb) | 1:31 |
 | 195 | [Are You Serious?](https://open.spotify.com/track/0cX8jpeqgYcoBsFREgmgGY) | [Teddy Sutton](https://open.spotify.com/artist/58MGMvhrKqPVwa9nqrOdj3) | [Dynasty](https://open.spotify.com/album/2XbCpM1MlrsMG6QODWt08N) | 2:23 |
 
-Snapshot ID: `Ab0wygAAAAAfgpoyEaesaVPYZIOo8B/F`
+Snapshot ID: `Ab02kwAAAABAqCgeo5v0uajk8zILBCB5`

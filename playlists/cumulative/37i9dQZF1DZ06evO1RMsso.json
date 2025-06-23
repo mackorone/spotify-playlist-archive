@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Superman: The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264293,
+      "name": "Theme from Superman - Concert Version",
+      "url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ"
+    },
+    {
+      "album": {
         "name": "Jurassic Park",
         "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
       },

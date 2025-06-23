@@ -9404,7 +9404,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 217613,
       "name": "CHIAMO IO CHIAMI TU",
       "url": "https://open.spotify.com/track/7dLecVXQzVbesjot2h55Rc"
@@ -10644,7 +10644,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 230200,
       "name": "Come Finir\u00e0?",
       "url": "https://open.spotify.com/track/5sSwJbF5jJHGMiSOOfNl8V"
@@ -13072,7 +13072,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 190122,
       "name": "Devastante",
       "url": "https://open.spotify.com/track/1ej2NcW0CHnscPp1RZpr1V"
@@ -23990,7 +23990,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 169093,
       "name": "Karma Ok",
       "url": "https://open.spotify.com/track/2mhlEvupNtkJdvoFOYA74g"
@@ -24464,7 +24464,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 152533,
       "name": "L'Avvelenata (Pretesto)",
       "url": "https://open.spotify.com/track/7GtHOk8XpZSUp8EtK3e3rH"
@@ -24994,7 +24994,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 215821,
       "name": "LA CURA PER ME",
       "url": "https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC"
@@ -25592,7 +25592,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 268280,
       "name": "La Nuova Stella Di Broadway - Remastered 2019",
       "url": "https://open.spotify.com/track/74fH2e2XNsBt35U0lfhI47"
@@ -30408,7 +30408,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 211875,
       "name": "Mi Ami Mi Odi",
       "url": "https://open.spotify.com/track/2wc754yvXIMU9lOE9zYtLb"
@@ -30860,7 +30860,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 229640,
       "name": "Milano Baby (feat. Joan Thiele)",
       "url": "https://open.spotify.com/track/5ccDm3bBhSgU2z9W5n6pLM"
@@ -31300,7 +31300,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 151680,
       "name": "Mio Padre",
       "url": "https://open.spotify.com/track/1xlxFayQQt55fsQj8ENMS8"
@@ -35770,7 +35770,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 168240,
       "name": "Oh Mamma Mia (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"
@@ -38080,7 +38080,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 212853,
       "name": "Per due come noi",
       "url": "https://open.spotify.com/track/5nFyfjGy6AMZqkW0OMUWJJ"
@@ -42270,7 +42270,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 167706,
       "name": "Salsa Piccante (feat. Gaia & Massimo Pericolo)",
       "url": "https://open.spotify.com/track/0vzkZrL9ABWI6U3LJ4an8G"
@@ -42680,7 +42680,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 164533,
       "name": "Sbang (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/1zN5tJJ3jWoXITsA5mjtw1"
@@ -44054,6 +44054,24 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
     },
     {
       "album": {
@@ -46188,7 +46206,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 167362,
       "name": "Sto bene al mare (feat. Sayf & Rkomi)",
       "url": "https://open.spotify.com/track/7bozAK8PtroF5owUL01coy"
@@ -49488,7 +49506,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 125440,
       "name": "Tutti Pazzi",
       "url": "https://open.spotify.com/track/21STviYvUn1qWokgXXiGj0"
@@ -49506,7 +49524,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 201933,
       "name": "Tutto Andr\u00e0 Bene",
       "url": "https://open.spotify.com/track/5lLJmdN3wvwhqJboGtlEgI"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 13302,
+  "num_followers": 13309,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACCA0KZFzyJyOWXTkeGzy2H",
+  "snapshot_id": "aFX2AAAAAACM3M2FjoQdegkMlvQM2i+e",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
-      },
-      "artists": [
-        {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 147119,
-      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tanto Faz",
         "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 196800,
       "name": "Tanto Faz",
       "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 147119,
+      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
     },
     {
       "added_at": null,
@@ -1032,13 +1032,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
           "name": "AJ Wav",
           "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 150452,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN"
+      "duration_ms": 169590,
+      "name": "Flat",
+      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
     },
     {
       "added_at": null,
@@ -1052,17 +1056,13 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
           "name": "AJ Wav",
           "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 169590,
-      "name": "Flat",
-      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
+      "duration_ms": 150452,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN"
     }
   ],
   "unique_name": "This Is Ebony",

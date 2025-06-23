@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-838 songs - 2 day 7 hr 52 min
+840 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [In the Darkness](https://open.spotify.com/track/2HO68dkF74HHG99eOmE4cP) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 2:01 | 2022-06-15 |  |
 | [In The End](https://open.spotify.com/track/5lDPr9m2SCnDCrCPX6o0xz) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 2:47 | 2023-03-31 | 2024-01-06 |
 | [In the Flesh?](https://open.spotify.com/track/24YmWQgunJGAU8El3ndkyn) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:18 | 2024-01-15 |  |
+| [In The Garden](https://open.spotify.com/track/3Qg3xUxxGLJEDEOFf4c0NA) | [Adam Goldstone](https://open.spotify.com/artist/11nDj0FhwWDHH2RpehfKG0), [Ceybil Jefferies](https://open.spotify.com/artist/4mcL7JonbvEoIj9rnwUOEy) | [Lower East Side Stories](https://open.spotify.com/album/6vewM0elb03oSUN1ZyNN7u) | 5:48 | 2025-06-22 |  |
 | [In the Morning](https://open.spotify.com/track/0zlqp4qK2WxjC1J6ExWPlt) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [There's Nothing Wrong With Love](https://open.spotify.com/album/6ShLKGsrQk9OHXmEBrXJhd) | 2:37 | 2022-09-20 |  |
 | [Inclination Compass \(Tenderness\)](https://open.spotify.com/track/74QKZtja1eXqpVg0fS3A2u) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:08 | 2023-11-16 | 2024-01-21 |
 | [Into the Deep Time \(One Sun\)](https://open.spotify.com/track/0lw2mLzNcwftfTvDojdySG) | [Candy Claws](https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh) | [Ceres & Calypso in the Deep Time](https://open.spotify.com/album/5KkGAZrad4N4rc5FriwgzU) | 3:01 | 2023-05-02 |  |
@@ -576,6 +577,7 @@
 | [Prologue \(feat\. Jordon Ellis\)](https://open.spotify.com/track/3pu7cPzTVatpVAyUdvPhtX) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Jordon Ellis](https://open.spotify.com/artist/2vGS5VgfM3eDDlFtVTTD28) | [Infowars \(feat\. Jordon Ellis\)](https://open.spotify.com/album/1z5RTkAi1kwbV0WN8t24K3) | 1:00 | 2024-01-18 |  |
 | [Propaganda](https://open.spotify.com/track/2cOUR3ruOEkI5EPRB8sWTe) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/3bOrSzGgJnjGOa9kOybRCs) | 0:23 | 2024-03-11 |  |
 | [Prophecy](https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:19 | 2023-04-25 |  |
+| [Protocol](https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 4:12 | 2025-06-23 |  |
 | [Psychedelics: I\. Deep Blue \(You Beat Me\)](https://open.spotify.com/track/43es6Mxw89bV0Yv0f1ZEon) | [William Brittelle](https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Rough Magic](https://open.spotify.com/album/5LCUG6zhXjBOUQm89nO81d) | 4:39 | 2024-01-29 |  |
 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 | 2024-02-25 |  |
 | [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 | 2024-07-02 |  |

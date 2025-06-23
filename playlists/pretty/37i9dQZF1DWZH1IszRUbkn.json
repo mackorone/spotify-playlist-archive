@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 1624,
+  "num_followers": 1623,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "A cantar",
-        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 55376,
-      "name": "Dos ojitos tengo",
-      "url": "https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "M\u00fasica Infantil para Fiestas: Canciones para Bailar Ni\u00f1os y Padres",
         "url": "https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 173567,
       "name": "Mueve el Ombligo",
       "url": "https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "A cantar",
+        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 55376,
+      "name": "Dos ojitos tengo",
+      "url": "https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328"
     },
     {
       "added_at": "2020-04-27 15:43:16",

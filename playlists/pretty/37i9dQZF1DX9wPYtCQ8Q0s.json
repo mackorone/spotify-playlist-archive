@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 325511,
+  "num_followers": 325477,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,26 @@
     {
       "added_at": "2025-06-20 03:01:29",
       "album": {
+        "name": "RITMO (Bad Boys For Life)",
+        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
+    },
+    {
+      "added_at": "2025-06-20 03:01:29",
+      "album": {
         "name": "GBP (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
       },
@@ -783,22 +803,34 @@
     {
       "added_at": "2025-06-20 03:01:29",
       "album": {
-        "name": "RITMO (Bad Boys For Life)",
-        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 221714,
-      "name": "RITMO (Bad Boys For Life)",
-      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
+      "duration_ms": 206711,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
+    },
+    {
+      "added_at": "2025-06-20 03:01:29",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "No Friends In The Industry",
+      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
     },
     {
       "added_at": "2025-06-20 03:01:29",
@@ -823,22 +855,6 @@
       "duration_ms": 136366,
       "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
-    },
-    {
-      "added_at": "2025-06-20 03:01:29",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "No Friends In The Industry",
-      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
     },
     {
       "added_at": "2025-06-20 03:01:29",
@@ -907,22 +923,6 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2025-06-20 03:01:29",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 206711,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
     },
     {
       "added_at": "2025-06-20 03:01:29",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2025-06-20 03:01:29",
       "album": {
-        "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",
-        "url": "https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr"
-    },
-    {
-      "added_at": "2025-06-20 03:01:29",
-      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
+    },
+    {
+      "added_at": "2025-06-20 03:01:29",
+      "album": {
+        "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",
+        "url": "https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr"
     },
     {
       "added_at": "2025-06-20 03:01:29",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2025-06-20 03:01:29",
       "album": {
-        "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
-        "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 213307,
-      "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
-      "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
-    },
-    {
-      "added_at": "2025-06-20 03:01:29",
-      "album": {
         "name": "4REAL 4REAL",
         "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 299226,
       "name": "Go Loko (feat. Tyga, Jon Z)",
       "url": "https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD"
+    },
+    {
+      "added_at": "2025-06-20 03:01:29",
+      "album": {
+        "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+        "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 213307,
+      "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+      "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
     },
     {
       "added_at": "2025-06-20 03:01:29",

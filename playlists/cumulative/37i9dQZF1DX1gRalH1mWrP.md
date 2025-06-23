@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,349 songs - 2 day 21 hr 38 min
+1,350 songs - 2 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-29 | 2024-06-05 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-20 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-12 | 2022-05-20 |
-| [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2025-05-30 |  |
+| [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2025-05-30 | 2025-06-23 |
 | [astrology](https://open.spotify.com/track/7f1qPZPILuQnHJoxOIuQW8) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [astrology](https://open.spotify.com/album/65a4QHS5FZ0LySPYHeGzl5) | 1:53 | 2020-07-18 | 2020-07-29 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA) | 2:12 | 2021-04-30 | 2021-05-08 |
 | [Astronaut In The Ocean \(Remix\) \- feat\. G\-Eazy & DDG](https://open.spotify.com/track/09ywIfxue0VYSS37h0hSVn) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Astronaut In The Ocean \(Remix\) \[feat\. G\-Eazy & DDG\]](https://open.spotify.com/album/2QlO3x8scDNugjs9Va3Dab) | 3:15 | 2021-05-08 | 2021-10-16 |
@@ -402,6 +402,7 @@
 | [FUCKBOY](https://open.spotify.com/track/1AXJqw8lCf3chqvgq4U8mA) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [FUCKBOY](https://open.spotify.com/album/7MEDmpNwxYkhXaoWL1H8eA) | 3:10 | 2021-05-15 | 2021-06-05 |
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-27 | 2023-07-15 |
 | [Funny](https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Funny](https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm) | 3:41 | 2020-07-18 | 2020-08-20 |
+| [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-20 |  |
 | [Games We Play](https://open.spotify.com/track/0k78e3zQ8iPNPRXV5H5duw) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Games We Play](https://open.spotify.com/album/5uFZkMgXZjb9HIcMEKxe97) | 2:25 | 2021-07-18 | 2022-01-02 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-15 |  |
 | [Get Away \(Radio Edit\)](https://open.spotify.com/track/1wVvpJYslRsrU1gf8g1f1m) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [2AM Vibes](https://open.spotify.com/album/4e9Z81Nwtr9hE64AxOQEOF) | 2:51 | 2021-04-30 | 2021-11-30 |

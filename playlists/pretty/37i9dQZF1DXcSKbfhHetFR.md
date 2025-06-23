@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,303 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,310 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 10 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
 | 11 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
 | 12 | [Mystère aérosol](https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu) | [Projet Orange](https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF) | [Projet Orange](https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM) | 3:56 |
-| 13 | [Sa craque au soleil](https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Minimiser les dégâts](https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU) | 2:59 |
-| 14 | [Joyeus'ment désespéré](https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA) | [La Chango Family](https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8) | [La Chango Family](https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd) | 3:26 |
+| 13 | [Joyeus'ment désespéré](https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA) | [La Chango Family](https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8) | [La Chango Family](https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd) | 3:26 |
+| 14 | [Sa craque au soleil](https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Minimiser les dégâts](https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU) | 2:59 |
 | 15 | [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 |
 | 16 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
 | 17 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 |
 | 18 | [Si j'ai tort](https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Le silence des roses](https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF) | 4:23 |
-| 19 | [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 |
-| 20 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
+| 19 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
+| 20 | [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 |
 | 21 | [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 |
 | 22 | [Savant Fou](https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le Délire Du Savant Fou](https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR) | 3:19 |
 | 23 | [Magané](https://open.spotify.com/track/0TyfeeEi54ai07e7fI6KXK) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/7szcxj23WP3Y6B9KjqMVP4) | 3:47 |

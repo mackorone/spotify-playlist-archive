@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PENG](https://open.spotify.com/track/0MDKIHYfdNmI2omoXVg7sT) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [PENG](https://open.spotify.com/album/3MCEsNrSZc9DD1Jnyy4PU0) | 2:02 |
+| 1 | [PENG](https://open.spotify.com/track/0MDKIHYfdNmI2omoXVg7sT) | [SHIGGA SHAY](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [PENG](https://open.spotify.com/album/3MCEsNrSZc9DD1Jnyy4PU0) | 2:02 |
 | 2 | [Kan Ku Nantikan](https://open.spotify.com/track/5CRv9DjIAdCgFxZ6Xz054x) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Kan Ku Nantikan](https://open.spotify.com/album/4zJgdjPAqW0fba3MrATOyQ) | 3:05 |
 | 3 | [茉莉花香](https://open.spotify.com/track/5bwXCWiCaAXJEpqS782DT6) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [茉莉花香](https://open.spotify.com/album/7e0F89LhTg2gkcioS5NHzD) | 4:48 |
 | 4 | [PANIC](https://open.spotify.com/track/5YSQoSiK7pm49nIxUGoAxc) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd), [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [PANIC](https://open.spotify.com/album/3CEcLvfS5dT0G9dlvy5vRU) | 3:23 |

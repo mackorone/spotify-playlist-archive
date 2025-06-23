@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
@@ -3324,7 +3324,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -5214,7 +5214,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -6498,7 +6498,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 198000,
       "name": "BOTTEGA VENETA",
       "url": "https://open.spotify.com/track/6ADaCTlRO99knZmxd9FRfG"
@@ -8378,7 +8378,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 202426,
       "name": "CATIMINI",
       "url": "https://open.spotify.com/track/2BZiF6AnKXAv2RBG3qUnAX"
@@ -9994,7 +9994,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 141000,
       "name": "COME & SEE ME",
       "url": "https://open.spotify.com/track/0c7KoKg2VNDSXZE0wovnjC"
@@ -14272,7 +14272,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 190000,
       "name": "ENCORE UNE NUIT",
       "url": "https://open.spotify.com/track/7jxoRZ8MomeoDEHQ1T7Opq"
@@ -15214,7 +15214,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH"
@@ -15232,7 +15232,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -25280,7 +25280,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 180400,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/1o4TctoKCsjJ2iLM34LZon"
@@ -27426,7 +27426,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "MANON B",
       "url": "https://open.spotify.com/track/6C0SXfD7rR46MpWK5VJSEw"
@@ -28076,7 +28076,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 155933,
       "name": "MEGAN",
       "url": "https://open.spotify.com/track/7jKTOPxB05mVdQr79VY7x8"
@@ -32136,7 +32136,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 149533,
       "name": "OSCAR DE LA HOYA",
       "url": "https://open.spotify.com/track/19gmGkcGCcKTNjR6IC0FFk"
@@ -33208,7 +33208,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 130699,
       "name": "PAY!",
       "url": "https://open.spotify.com/track/4w1If4bKokGKGMGxfxRE8j"
@@ -35350,7 +35350,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 210247,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
@@ -38941,6 +38941,24 @@
     },
     {
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
+    },
+    {
+      "album": {
         "name": "Si j'savais",
         "url": "https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC"
       },
@@ -39386,7 +39404,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 242000,
       "name": "SLOVAKIA",
       "url": "https://open.spotify.com/track/54aUPx2uiZyqHpcoW7lHNO"
@@ -39422,7 +39440,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 144000,
       "name": "SMOKIN & DRINKIN",
       "url": "https://open.spotify.com/track/3gezgUm9wgnE0CkzRcELAQ"
@@ -39842,7 +39860,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Sous la lune",
       "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
@@ -44689,6 +44707,28 @@
     },
     {
       "album": {
+        "name": "Vaitimbora",
+        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135131,
+      "name": "Vaitimbora",
+      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+    },
+    {
+      "album": {
         "name": "La TN (Team Naps)",
         "url": "https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI"
       },
@@ -45856,7 +45896,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 164600,
       "name": "Whine",
       "url": "https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU"
@@ -46290,7 +46330,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 219200,
       "name": "YESTERDAY",
       "url": "https://open.spotify.com/track/69UB9UIfNEAyyIXyiioSzP"

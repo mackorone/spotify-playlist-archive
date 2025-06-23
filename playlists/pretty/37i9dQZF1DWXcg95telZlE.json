@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 411815,
+  "num_followers": 411937,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "The Definitive 60's (sixties)",
+        "url": "https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "The Theme From \"A Summer Place\"",
+      "url": "https://open.spotify.com/track/5hznMxKe11iqwcW8BFlNWZ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Very Best of the Spaniels",
         "url": "https://open.spotify.com/album/1EmuK9fr4cSt3hys4l1Uha"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 160373,
       "name": "Goodnite, It's Time to Go (Goodnight Sweetheart, Goodnight)",
       "url": "https://open.spotify.com/track/50meIWPMuhYgQSXfSsUvtI"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Definitive 60's (sixties)",
-        "url": "https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 142333,
-      "name": "The Theme From \"A Summer Place\"",
-      "url": "https://open.spotify.com/track/5hznMxKe11iqwcW8BFlNWZ"
+      "duration_ms": 165240,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 184093,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/3KC5yrPGuw8NFjtCBt5qOZ"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Rockin' Gals Of The 1950's",
         "url": "https://open.spotify.com/album/27lZJLd8V0j7jQdmQ7ZNx4"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 158053,
       "name": "It's All In The Game",
       "url": "https://open.spotify.com/track/65DHarvIY5nZ57ZcgTxx75"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/3KC5yrPGuw8NFjtCBt5qOZ"
     }
   ],
   "unique_name": "Soft 50s",

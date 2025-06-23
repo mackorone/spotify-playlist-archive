@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,401 likes - 68 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,460 likes - 68 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 30 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
 | 31 | [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 |
 | 32 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 |
-| 33 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
-| 34 | [Swan Lake Story, Op\. 1](https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU) | [W CELLO](https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Swan Lake Story](https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU) | 2:50 |
+| 33 | [Swan Lake Story, Op\. 1](https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU) | [W CELLO](https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Swan Lake Story](https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU) | 2:50 |
+| 34 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
 | 35 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
 | 36 | [Adventure](https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic) | [Mahmoud Valanejad](https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor) | [Adventure](https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn) | 3:42 |
 | 37 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 40 | [Sérénité](https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ) | [Jérémie Fauquet](https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob) | [Sérénité](https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ) | 1:48 |
 | 41 | [How Time Works](https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh) | [Eric Carlson](https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE) | [How Time Works](https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE) | 3:45 |
 | 42 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
-| 43 | [Piano Trio No\. 2 in E Minor, Op\. 92: III\. Andante con moto](https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Trio Zadig](https://open.spotify.com/artist/7oWMf0cOlv11D8rSquhOd0) | [Orpheus\. Hommage à Saint\-Saëns](https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ) | 4:08 |
-| 44 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
+| 43 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
+| 44 | [Piano Trio No\. 2 in E Minor, Op\. 92: III\. Andante con moto](https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Trio Zadig](https://open.spotify.com/artist/7oWMf0cOlv11D8rSquhOd0) | [Orpheus\. Hommage à Saint\-Saëns](https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ) | 4:08 |
 | 45 | [The Sky Cracked](https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The Sky Cracked](https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG) | 1:52 |
 | 46 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 |
 | 47 | [Things of the World \- Piano and Strings](https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj) | [Amelie Bernard](https://open.spotify.com/artist/1VcWfPz5hcVdwJwmkzp37N), [Andy Muller](https://open.spotify.com/artist/3GJdStK9xNIA5iOpesGg4d) | [Things of the World \(Piano and Strings\)](https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI) | 1:40 |

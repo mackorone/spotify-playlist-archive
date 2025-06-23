@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,880 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,853 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 35 | [Gimme Gimme Gimme](https://open.spotify.com/track/1Uin0T7NJQiHA9VspYiMi8) | [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM) | [Gimme Gimme Gimme](https://open.spotify.com/album/0bQjEOaYhyJe2LZT3uU0b3) | 2:38 |
 | 36 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 |
 | 37 | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/5uiQAY4i9oTGf79rgcf5jr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/album/3vN2jv2disCD8vZEzZIv5Q) | 2:45 |
-| 38 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
-| 39 | [FULLA](https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [FULLA](https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n) | 2:21 |
+| 38 | [FULLA](https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [FULLA](https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n) | 2:21 |
+| 39 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 | 40 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
 | 41 | [Heaven](https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Heaven](https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA) | 2:45 |
 | 42 | [UNGA & FRIA REMIX](https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [UNGA & FRIA REMIX](https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX) | 3:04 |

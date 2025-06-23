@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: U.S\. Girls
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,863 likes - 86 songs - 5 hr 13 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,861 likes - 86 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

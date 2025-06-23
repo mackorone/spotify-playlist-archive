@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,237 likes - 261 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,247 likes - 261 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

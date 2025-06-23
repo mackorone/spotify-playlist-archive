@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 333689,
+  "num_followers": 333746,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Metamodernity",
-        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 162663,
-      "name": "Metamodernity",
-      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
-    },
-    {
-      "added_at": "2025-06-13 04:00:51",
-      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 161271,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
+        "name": "Metamodernity",
+        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 162663,
+      "name": "Metamodernity",
+      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -583,18 +583,22 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Loretta",
-        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
       "artists": [
         {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        },
+        {
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
         }
       ],
-      "duration_ms": 190153,
-      "name": "Loretta",
-      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
+      "duration_ms": 246266,
+      "name": "Peaceful Life",
+      "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -623,22 +627,18 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
+        "name": "Loretta",
+        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
       },
       "artists": [
         {
-          "name": "Guts",
-          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
-        },
-        {
-          "name": "Lorine Chia",
-          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
         }
       ],
-      "duration_ms": 246266,
-      "name": "Peaceful Life",
-      "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
+      "duration_ms": 190153,
+      "name": "Loretta",
+      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
       },
       "artists": [
         {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 169466,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
+      "duration_ms": 243945,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
         }
       ],
-      "duration_ms": 243945,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Drive and Disconnect",
-      "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
-    },
-    {
-      "added_at": "2025-06-13 04:00:51",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu"
+    },
+    {
+      "added_at": "2025-06-13 04:00:51",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Drive and Disconnect",
+      "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
     },
     {
       "added_at": "2025-06-13 04:00:51",
@@ -887,18 +887,18 @@
     {
       "added_at": "2025-06-13 04:00:51",
       "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+        "name": "Tetra",
+        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
       },
       "artists": [
         {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+          "name": "C2C",
+          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
         }
       ],
-      "duration_ms": 255893,
-      "name": "Ungodly Hour",
-      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+      "duration_ms": 207186,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
     }
   ],
   "unique_name": "Soir\u00e9e",

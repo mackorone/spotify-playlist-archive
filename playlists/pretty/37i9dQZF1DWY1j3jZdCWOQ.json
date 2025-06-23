@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 562939,
+  "num_followers": 563004,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Decode",
-      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 198266,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Decode",
+      "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -895,6 +895,26 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
         "name": "Cinematics (Expanded Edition)",
         "url": "https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 169186,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "My Friends Over You",
-      "url": "https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
         "name": "The Madding Crowd",
         "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 189333,
       "name": "Absolutely (Story of a Girl) - Radio Mix",
       "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "My Friends Over You",
+      "url": "https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Wolf in Sheep's Clothing (feat. William Beckett)",
-      "url": "https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
         "name": "Drunk Enough To Dance",
         "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 197800,
       "name": "Girl All the Bad Guys Want",
       "url": "https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Wolf in Sheep's Clothing (feat. William Beckett)",
+      "url": "https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "Tonight (demo)",
-        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Tonight (demo)",
-      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
         "name": "You're Gonna Miss It All",
         "url": "https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 163760,
       "name": "Your Graduation",
       "url": "https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
+        "name": "Tonight (demo)",
+        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Tonight (demo)",
+      "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "sTraNgeRs",
-        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 195747,
-      "name": "sTraNgeRs",
-      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
-    },
-    {
-      "added_at": "2025-02-05 19:30:49",
-      "album": {
         "name": "Tell Me About Tomorrow",
         "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 160119,
       "name": "ANGELS & DEMONS",
       "url": "https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76"
+    },
+    {
+      "added_at": "2025-02-05 19:30:49",
+      "album": {
+        "name": "sTraNgeRs",
+        "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 195747,
+      "name": "sTraNgeRs",
+      "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
     },
     {
       "added_at": "2025-02-05 19:30:49",
@@ -1627,18 +1627,22 @@
     {
       "added_at": "2025-02-05 19:30:49",
       "album": {
-        "name": "Outta My Head",
-        "url": "https://open.spotify.com/album/3KIcGRLylPWgD0GF762Eln"
+        "name": "TEETH (feat. Diggy Graves)",
+        "url": "https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        },
+        {
+          "name": "Diggy Graves",
+          "url": "https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Outta My Head",
-      "url": "https://open.spotify.com/track/3NcheXileql4RI8n6sLumL"
+      "duration_ms": 149333,
+      "name": "TEETH (feat. Diggy Graves)",
+      "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
     }
   ],
   "unique_name": "teen angst",

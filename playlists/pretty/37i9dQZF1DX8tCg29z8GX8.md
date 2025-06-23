@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,804 likes - 79 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,807 likes - 79 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 45 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
 | 46 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
 | 47 | [Cheat On You](https://open.spotify.com/track/5eEujB7GCM34vovJBGCU50) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Cheat On You](https://open.spotify.com/album/38bYEvgGHZ4su9AKt3Dudz) | 3:21 |
-| 48 | [EMIKO](https://open.spotify.com/track/2pDz8CxpjxguRg1SXplkG2) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [EMIKO](https://open.spotify.com/album/7t75CKqylx2aO3IjNW7Hl3) | 2:59 |
-| 49 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 |
+| 48 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 |
+| 49 | [EMIKO](https://open.spotify.com/track/2pDz8CxpjxguRg1SXplkG2) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [EMIKO](https://open.spotify.com/album/7t75CKqylx2aO3IjNW7Hl3) | 2:59 |
 | 50 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 |
 | 51 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 |
 | 52 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
-| 53 | [Do You Know?](https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Do You Know?](https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0) | 2:25 |
-| 54 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
+| 53 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
+| 54 | [Do You Know?](https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Do You Know?](https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0) | 2:25 |
 | 55 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 |
 | 56 | [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 |
 | 57 | [Excellent](https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent](https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4) | 2:40 |

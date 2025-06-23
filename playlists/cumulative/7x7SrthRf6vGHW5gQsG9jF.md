@@ -4,7 +4,7 @@
 
 > mostly rock
 
-915 songs - 2 day 10 hr 35 min
+917 songs - 2 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [hikari](https://open.spotify.com/track/6sYJbalTgvb6uJtCIqfySm) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:07 | 2024-05-03 |  |
 | [Hino ataru basyo ni kiteyo](https://open.spotify.com/track/5LirOGHqAIck3p6YLWv9J1) | [Uchu Nekoko](https://open.spotify.com/artist/1JP8TbSISsEiRBI1duEbw7), [宇宙ネコ子](https://open.spotify.com/artist/3xSs5iXfAy7FPN8cUqBEfm) | [Hino Ataru Basyo Ni Kiteyo](https://open.spotify.com/album/7BbCwi8jHHtRbrkumZcVe5) | 3:00 | 2024-06-04 |  |
 | [HINOIRI's Thema](https://open.spotify.com/track/6EEYqaQPKW6igXafw0iKL7) | [VELTPUNCH](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [GOLD ALBUM 1997\-2012](https://open.spotify.com/album/5rtMlhUkyKWl7OgrPBBEUb) | 5:02 | 2024-03-17 |  |
+| [hirari, hirari](https://open.spotify.com/track/5BCpEzCFSC6LEJDIxFJHOB) | [yuri,nagatomo](https://open.spotify.com/artist/52Z5bEsQoX0Wmy12ufYUF7) | [endrollnosonosakimade](https://open.spotify.com/album/4cQQkmV55nYtbsAmH5vOhA) | 4:12 | 2025-06-22 |  |
 | [Hold Me](https://open.spotify.com/track/2qz1earowX9HgKQiwUyE2M) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Loading...](https://open.spotify.com/album/4ybgu5jjrqmTiqh8i3NfPr) | 4:16 | 2025-03-04 |  |
 | [Honey](https://open.spotify.com/track/48X7uKIGYPy5rddGy91YMK) | [chihiRo](https://open.spotify.com/artist/20NfDZasZyg3MRT6xKMiV5) | [カードキャプターさくら　ソングコレクション 1999.4～2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 4:18 | 2024-09-20 |  |
 | [Honto wa Nakisodesu](https://open.spotify.com/track/1HSDxPlPXYGjexTIWFaChn) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [NEE](https://open.spotify.com/album/4eSY2Ka1qHuzxEsWxEu45H) | 4:15 | 2024-05-31 |  |
@@ -691,6 +692,7 @@
 | [パステルレイン](https://open.spotify.com/track/6LgbWb24tqwQYOz2LznkMD) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ガールズブルー・ハッピーサッド](https://open.spotify.com/album/4zJnne9ViG9kIR8o8AntfK) | 3:32 | 2023-06-14 |  |
 | [パラノイドパレード](https://open.spotify.com/track/61e3DNqX7Xyl6g9o8LZI22) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [ロンググッドバイ](https://open.spotify.com/album/2qqwUNewGqmBiV7jUdqqQd) | 5:13 | 2024-01-02 |  |
 | [ヒステリックナイトガール](https://open.spotify.com/track/1poGez6IaTb1gtJxkXdlb8) | [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [STYLEY!](https://open.spotify.com/album/7wO1gjRCpHhYPbEC7hthYk) | 5:06 | 2023-06-06 |  |
+| [フィクション](https://open.spotify.com/track/543jStmHR1VrSfpxmjUIn6) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Chime](https://open.spotify.com/album/3foRklHeA5lXq56ZsEbkfv) | 3:50 | 2025-06-22 |  |
 | [フラレ唄](https://open.spotify.com/track/1JSLwHM25ZE2TUtBfT3mSj) | [WAKUSEI ABNORMAL](https://open.spotify.com/artist/1MeQhADFeadgcic2GpcND1) | [何でも無い凶器](https://open.spotify.com/album/5WOHlzAct7uqmvFigOTZ5F) | 2:12 | 2023-07-03 |  |
 | [ブリーチ](https://open.spotify.com/track/42rURWc8Mvy3otHCxaCoOP) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ルール](https://open.spotify.com/album/2xtLw7EyNr9AQ0UXbQDkBv) | 4:45 | 2024-05-31 |  |
 | [ブルボン](https://open.spotify.com/track/7dCHfvx78frXZ5L550FmiQ) | [pomodorosa](https://open.spotify.com/artist/2K5KXj15T4ZlEUvWSjvWPV) | [pomodorosa](https://open.spotify.com/album/0b6wh6LMbtEDMrFQEFzYFs) | 3:45 | 2024-04-25 |  |

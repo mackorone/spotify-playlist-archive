@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15457,
+  "num_followers": 15462,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAD/f1jUdBOBSMG8IWg3gXM",
+  "snapshot_id": "aFX2AAAAAADHFWGDmKZ05+BTaxICXTlP",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 202479,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monterey or Bust, Vol. 2",
         "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 193400,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backyard Boogie",
-        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 202479,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoking Bomb Bud",
-        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 216967,
-      "name": "Smoking Bomb Bud",
-      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 195439,
       "name": "Easier",
       "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smoking Bomb Bud",
+        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 216967,
+      "name": "Smoking Bomb Bud",
+      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hustlin' Riddim",
-        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
-      },
-      "artists": [
-        {
-          "name": "Bost & Bim",
-          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Coldest Zone",
-      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 197848,
       "name": "Replay",
       "url": "https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hustlin' Riddim",
+        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
+      },
+      "artists": [
+        {
+          "name": "Bost & Bim",
+          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Coldest Zone",
+      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/5lMVd72TszpNSh7tjeeDm0"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 215423,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/2tRhRg1VpTSZnB5AVVPy0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J Boog",
         "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 217360,
       "name": "Police and Thieves",
       "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/5lMVd72TszpNSh7tjeeDm0"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 215423,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2tRhRg1VpTSZnB5AVVPy0i"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 213543,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/4t3jJFnRmbOSg27ecYFr7x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J Boog",
         "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 205013,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 213543,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/4t3jJFnRmbOSg27ecYFr7x"
     },
     {
       "added_at": null,
@@ -975,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backyard Boogie",
-        "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
+        "name": "Shape Of My Heart",
+        "url": "https://open.spotify.com/album/1ZdRMznFSc4cLTNk2eTq2W"
       },
       "artists": [
         {
@@ -984,13 +984,13 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         },
         {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+          "name": "Clive Hunt",
+          "url": "https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8"
         }
       ],
-      "duration_ms": 248000,
-      "name": "She Give Me Lovin'",
-      "url": "https://open.spotify.com/track/4cQiaV2jiEELjjP588itBe"
+      "duration_ms": 272000,
+      "name": "Shape Of My Heart",
+      "url": "https://open.spotify.com/track/3OqJ4t667BczIotFZULjIq"
     }
   ],
   "unique_name": "This Is J Boog",

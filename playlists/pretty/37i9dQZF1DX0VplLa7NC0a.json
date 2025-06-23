@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 38871,
+  "num_followers": 38875,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,30 @@
     {
       "added_at": "2024-10-25 09:23:29",
       "album": {
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 975493,
+      "name": "Giovanna d'Arco - Cantata a voce sola con piano",
+      "url": "https://open.spotify.com/track/0su1j6PMTNcPfo7ftQQWru"
+    },
+    {
+      "added_at": "2024-10-25 09:23:29",
+      "album": {
         "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
         "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 366226,
       "name": "Il barbiere di Siviglia, Act I: No. 8, Aria. A un dottor della mia sorte",
       "url": "https://open.spotify.com/track/6EUtAuCpqmZvnjNczByRBy"
-    },
-    {
-      "added_at": "2024-10-25 09:23:29",
-      "album": {
-        "name": "Rossini: Giovanna d'Arco; 19 songs",
-        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Cecilia Bartoli",
-          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 975493,
-      "name": "Giovanna d'Arco - Cantata a voce sola con piano",
-      "url": "https://open.spotify.com/track/0su1j6PMTNcPfo7ftQQWru"
     },
     {
       "added_at": "2024-10-25 09:23:29",
@@ -719,6 +719,34 @@
     {
       "added_at": "2024-10-25 09:23:29",
       "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
+      "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
+    },
+    {
+      "added_at": "2024-10-25 09:23:29",
+      "album": {
         "name": "Rossini: Stabat Mater",
         "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
       },
@@ -747,34 +775,6 @@
       "duration_ms": 272173,
       "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
       "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
-    },
-    {
-      "added_at": "2024-10-25 09:23:29",
-      "album": {
-        "name": "Rossini: La Cenerentola",
-        "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Paolo Montarsolo",
-          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
-      "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
     },
     {
       "added_at": "2024-10-25 09:23:29",
@@ -859,6 +859,30 @@
     {
       "added_at": "2024-10-25 09:23:29",
       "album": {
+        "name": "Rossini: La Boutique Fantasque / Respighi: Impressioni Brasilliane",
+        "url": "https://open.spotify.com/album/6xQuNjIxICN9y02OxSuPch"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        }
+      ],
+      "duration_ms": 363666,
+      "name": "La Boutique Fantasque: Cancan",
+      "url": "https://open.spotify.com/track/5KzB6qDOjmA5EYnPG7jNwE"
+    },
+    {
+      "added_at": "2024-10-25 09:23:29",
+      "album": {
         "name": "Mendelssohn, Rossini and Bruch: Works for Clarinet and Orchestra",
         "url": "https://open.spotify.com/album/60FU2wGKY059HcMOQa4ugc"
       },
@@ -911,30 +935,6 @@
       "duration_ms": 376626,
       "name": "Rossini: Stabat Mater: II. Cujus animam gementem",
       "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
-    },
-    {
-      "added_at": "2024-10-25 09:23:29",
-      "album": {
-        "name": "Rossini: La Boutique Fantasque / Respighi: Impressioni Brasilliane",
-        "url": "https://open.spotify.com/album/6xQuNjIxICN9y02OxSuPch"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        },
-        {
-          "name": "Charles Dutoit",
-          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
-        }
-      ],
-      "duration_ms": 363666,
-      "name": "La Boutique Fantasque: Cancan",
-      "url": "https://open.spotify.com/track/5KzB6qDOjmA5EYnPG7jNwE"
     },
     {
       "added_at": "2024-10-25 09:23:29",

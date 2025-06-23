@@ -4,10 +4,11 @@
 
 > ☕ 💪🍳🧘‍♀️🏃☀️
 
-268 songs - 14 hr 13 min
+269 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:51 | 2025-05-28 |  |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-09-21 | 2025-06-01 |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-05-06 | 2023-07-11 |
 | [2step \(feat\. Ultimo\)](https://open.spotify.com/track/7mxEWcW3A0jULs64ckyq9k) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [2step \(feat\. Ultimo\)](https://open.spotify.com/album/3TDdlYSrE5WuOTiuyr9tTl) | 2:34 | 2022-05-06 | 2022-07-29 |
@@ -61,7 +62,7 @@
 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 | 2022-05-06 | 2022-05-20 |
 | [COCKTAIL D'AMORE](https://open.spotify.com/track/1HuXy8Ra2kevcqhx1xt5GQ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [COCKTAIL D'AMORE](https://open.spotify.com/album/3XULLl9CRg88JlxIvBSrKY) | 3:24 | 2023-11-06 | 2025-01-25 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-05-06 |  |
-| [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-19 |  |
+| [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-19 | 2025-06-23 |
 | [COME UN TUONO \(feat\. Guè\)](https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:55 | 2025-01-24 | 2025-02-26 |
 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 | 2023-08-25 | 2023-09-28 |
 | [CONTA SU DI ME](https://open.spotify.com/track/7HKqAt1GaGbdXKmqhRwcR4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 2:46 | 2025-05-28 |  |

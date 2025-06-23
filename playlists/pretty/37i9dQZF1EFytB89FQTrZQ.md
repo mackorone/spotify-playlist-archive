@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,633 likes - 329 songs - 18 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,634 likes - 329 songs - 18 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 145 | [Stopped Believing In Santa](https://open.spotify.com/track/7ubY8IenhF5NZ5BBJBcTZ8) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Stopped Believing In Santa](https://open.spotify.com/album/7my5qqD9eFJB33otwMTTxk) | 3:35 |
 | 146 | [Unlovable \(feat\. Rudimental\)](https://open.spotify.com/track/3zmxLLhTpgdLTAPPVbVRqe) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:22 |
 | 147 | [Social \(feat\. MoStack\)](https://open.spotify.com/track/2fqbfLDdDrTb1dEX7BUFbF) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Social \(feat\. MoStack\)](https://open.spotify.com/album/1ogvzcLn8d7fK0goavOtQI) | 4:16 |
-| 148 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 |
-| 149 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 |
+| 148 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 |
+| 149 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 |
 | 150 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 |
 | 151 | [We the Generation \(feat\. Mahalia\)](https://open.spotify.com/track/0viAOwad3URSgmJwF5ZSZ7) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 3:41 |
 | 152 | [Kingdom](https://open.spotify.com/track/0LHjotMicZfqH5qTuB0k8P) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Escape](https://open.spotify.com/album/5fTQCKSHr5hpGHEo51n4e7) | 3:52 |
@@ -233,8 +233,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 223 | [Rude Love \- Live Acoustic](https://open.spotify.com/track/6qL7vsuhKpkqjKzWnFn3iM) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love \(Acoustic Versions\)](https://open.spotify.com/album/3YrwPhks1IDgK3ETB3wHNw) | 2:59 |
 | 224 | [I’m Not Okay but I Know I’m Going to Be](https://open.spotify.com/track/7kNIvqrnhutFtlbSKGLtLr) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [I’m Not Okay but I Know I’m Going to Be](https://open.spotify.com/album/0Hsqa3IVjmJ73F8sxezvdc) | 3:55 |
 | 225 | [Be Without You](https://open.spotify.com/track/2hy8VUlygF2HoKQJbkAKkn) | [KStewart](https://open.spotify.com/artist/4jQF2fKZDX6pQIPWwsNWyp) | [Be Without You](https://open.spotify.com/album/4iONmkExzW0E1uyH1pmdEj) | 3:20 |
-| 226 | [Inside Of Me \- Radio Edit](https://open.spotify.com/track/06otM0LvTEQr5tofhO3eWo) | [My Digital Enemy](https://open.spotify.com/artist/7xwN3wuAbcvsSsY4fj1iLA) | [Inside Of Me](https://open.spotify.com/album/6Ikxxt68oAMp9IS5bxmEE6) | 2:39 |
-| 227 | [Is Anybody There](https://open.spotify.com/track/6uktW9We6a1nidJJwNndKd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:16 |
+| 226 | [Is Anybody There](https://open.spotify.com/track/6uktW9We6a1nidJJwNndKd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:16 |
+| 227 | [Inside Of Me \- Radio Edit](https://open.spotify.com/track/06otM0LvTEQr5tofhO3eWo) | [My Digital Enemy](https://open.spotify.com/artist/7xwN3wuAbcvsSsY4fj1iLA) | [Inside Of Me](https://open.spotify.com/album/6Ikxxt68oAMp9IS5bxmEE6) | 2:39 |
 | 228 | [Interruption](https://open.spotify.com/track/6SGo3xaUbZEu8GfvtaCJzS) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Interruption](https://open.spotify.com/album/3qYHfrjfjposJMFWg1Tj1F) | 3:08 |
 | 229 | [Another Friday Night](https://open.spotify.com/track/3ABDDt13Vz527uwZaNWsZN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night \(Extended\)](https://open.spotify.com/album/0ogJVBlwhWYjaeV6b6QyGo) | 2:30 |
 | 230 | [In My Eyes](https://open.spotify.com/track/4bldcOQqMQwjOFeWD1q0bt) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Night Work](https://open.spotify.com/album/1KtK7yRDwIkJBZrkeIHUdo) | 3:23 |
@@ -338,4 +338,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 328 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 329 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `Ab0w1AAAAAD35gbbk6e7Ba7usJD+DK5b`
+Snapshot ID: `Ab02kwAAAABoULSXFZpXV3leuFXGWmnQ`

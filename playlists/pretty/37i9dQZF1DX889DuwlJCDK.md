@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: KOTORI
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,712 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,721 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 47 | [黄色信号](https://open.spotify.com/track/6oActeQQvrK8TzNkapQ18W) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [黄色信号](https://open.spotify.com/album/1eAFQT1Id9vkiVyT8SKK03) | 3:31 |
 | 48 | [AM](https://open.spotify.com/track/3PIbikkz34top9WuKEvXiF) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [AM](https://open.spotify.com/album/5Nepx5m7eUkT6cGPfZw5P1) | 2:35 |
 | 49 | [Night Kids](https://open.spotify.com/track/5Wd6H1N0ZmdFXovqs60tDH) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Night Kids](https://open.spotify.com/album/3EtIiG3KtCvqKDIPrPLuaG) | 4:07 |
-| 50 | [指髪](https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [指髪](https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr) | 2:46 |
-| 51 | [青空](https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [青空](https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER) | 3:58 |
+| 50 | [青空](https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [青空](https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER) | 3:58 |
+| 51 | [指髪](https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [指髪](https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr) | 2:46 |
 | 52 | [ワインディングロード](https://open.spotify.com/track/0zrD38XdjcnWEYqimpUV6s) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ワインディングロード](https://open.spotify.com/album/7Gjyj1I43JmHd86JGDJdOi) | 3:17 |
 | 53 | [南新町](https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [南新町](https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N) | 4:07 |
 | 54 | [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 |
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 65 | [脳内告白](https://open.spotify.com/track/47PGCHrBrpUWhAHeUrfMBV) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [脳内告白](https://open.spotify.com/album/0OlNMPJ26VakgAwc4J7TwG) | 2:57 |
 | 66 | [月に願う](https://open.spotify.com/track/70fkoVXkPUtJXFjjFWlX7c) | [sorato](https://open.spotify.com/artist/5PJX4HycJJooJ50iJduQH5) | [月に願う](https://open.spotify.com/album/7AxVbYRfuXJQ6zV1wWDZym) | 2:38 |
 | 67 | [私だって、](https://open.spotify.com/track/7hCkAoD0OWoytiPMs0l550) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [私だって、](https://open.spotify.com/album/3jNKtpbMK2vQgyLInlEI7B) | 3:44 |
-| 68 | [Lovey Dovey](https://open.spotify.com/track/0U3EVAfwbZdN93z7ICu9gI) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [Lovey Dovey](https://open.spotify.com/album/16CHtQZHjbQj81UiGCORo5) | 3:16 |
-| 69 | [Planetary](https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Planetary](https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW) | 2:57 |
-| 70 | [トラップ](https://open.spotify.com/track/3S1yxFHXYxMA7oVNJhJast) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN), [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [トラップ](https://open.spotify.com/album/2D3D5GaaGnwsmOOxt2VO1x) | 2:51 |
+| 68 | [Planetary](https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Planetary](https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW) | 2:57 |
+| 69 | [トラップ](https://open.spotify.com/track/3S1yxFHXYxMA7oVNJhJast) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN), [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [トラップ](https://open.spotify.com/album/2D3D5GaaGnwsmOOxt2VO1x) | 2:51 |
+| 70 | [Lovey Dovey](https://open.spotify.com/track/0U3EVAfwbZdN93z7ICu9gI) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [Lovey Dovey](https://open.spotify.com/album/16CHtQZHjbQj81UiGCORo5) | 3:16 |
 | 71 | [フラジャイル・ナイト](https://open.spotify.com/track/4AgyrMwqCQc5wlWftTPwrZ) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [フラジャイル・ナイト](https://open.spotify.com/album/1SzXBjLNyxHy73c04lYrVC) | 3:08 |
 | 72 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
-| 73 | [Fix](https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Fix](https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko) | 3:32 |
-| 74 | [DNA](https://open.spotify.com/track/4oym4UJGVd6l70PXHeMcha) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [DNA](https://open.spotify.com/album/5eaoO38FXRWLcrxwrtaNlW) | 3:48 |
-| 75 | [君に夢中!!](https://open.spotify.com/track/2Vu9VkTShTMN0LHhR0zGFu) | [浪漫派マシュマロ](https://open.spotify.com/artist/0Y2vXzpo1eVUcgIku1UQIn) | [君に夢中!!](https://open.spotify.com/album/5HX6NuxtG5ajeJpJB7FF5m) | 3:53 |
+| 73 | [DNA](https://open.spotify.com/track/4oym4UJGVd6l70PXHeMcha) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [DNA](https://open.spotify.com/album/5eaoO38FXRWLcrxwrtaNlW) | 3:48 |
+| 74 | [君に夢中!!](https://open.spotify.com/track/2Vu9VkTShTMN0LHhR0zGFu) | [浪漫派マシュマロ](https://open.spotify.com/artist/0Y2vXzpo1eVUcgIku1UQIn) | [君に夢中!!](https://open.spotify.com/album/5HX6NuxtG5ajeJpJB7FF5m) | 3:53 |
+| 75 | [Fix](https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Fix](https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko) | 3:32 |
 | 76 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 |
 | 77 | [センカ](https://open.spotify.com/track/3TIy0kAq4wJpPJkLsZsb6m) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [センカ](https://open.spotify.com/album/3GA6972NEE4NRGtCFye6eg) | 3:59 |
 | 78 | [死ぬほどあいたいから、だからあいに行くよ](https://open.spotify.com/track/2Iz75qsbWrWMsV381lqmhy) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [more than love](https://open.spotify.com/album/3lwIqSagsvVt30wjgHJVE8) | 3:45 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 88 | [アーティスト \- Reproduced 2025](https://open.spotify.com/track/0evPEb81K3yp0R33pIB5aB) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [アーティスト \(Reproduced 2025\)](https://open.spotify.com/album/3qbnAZagfEhj89YL5oz5jv) | 4:35 |
 | 89 | [ゲルニカ](https://open.spotify.com/track/5HS5UodfHqBq09VZG3unuk) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [ゲルニカ](https://open.spotify.com/album/5SVwbcUEN25Jz9IlW0Ral6) | 3:50 |
 | 90 | [旧世界より](https://open.spotify.com/track/4r428hWKE7Br4LKKfpYFvi) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [antique](https://open.spotify.com/album/19DOjKHojimvNBrzI7rpNI) | 3:45 |
-| 91 | [旧世界紀行](https://open.spotify.com/track/5ic24TLf4RcN63g96MXtLH) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [旧世界紀行](https://open.spotify.com/album/5fmsaQA7OCtUEU1QFaTQQh) | 4:25 |
+| 91 | [キスをしようよ](https://open.spotify.com/track/5cwTnNBcsfuZZjhJpCQGvq) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [キスをしようよ](https://open.spotify.com/album/00BjawMqEgTaDiQAYNPgpp) | 2:55 |
 | 92 | [結目](https://open.spotify.com/track/2HwYkUxWgPE0DUwWQwIKSM) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [It's myself](https://open.spotify.com/album/3LbkhkpzZ9cgpoLcy2fvbX) | 3:49 |
 | 93 | [ずっと前から君に恋してる](https://open.spotify.com/track/3yU9LJ8C3szUxYxoXZixBJ) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [ずっと前から君に恋してる](https://open.spotify.com/album/062n4VMq8mOi5SHYHL34CX) | 4:08 |
-| 94 | [キスをしようよ](https://open.spotify.com/track/5cwTnNBcsfuZZjhJpCQGvq) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [キスをしようよ](https://open.spotify.com/album/00BjawMqEgTaDiQAYNPgpp) | 2:55 |
+| 94 | [旧世界紀行](https://open.spotify.com/track/5ic24TLf4RcN63g96MXtLH) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [旧世界紀行](https://open.spotify.com/album/5fmsaQA7OCtUEU1QFaTQQh) | 4:25 |
 | 95 | [Light Maker](https://open.spotify.com/track/5K81RTZRNdVjTB06gn9ftm) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Light Maker](https://open.spotify.com/album/6iqAiNPAAZsROJfCaGz7ti) | 3:13 |
 | 96 | [いびつな愛ですが](https://open.spotify.com/track/7yRD3phQHFDVrkr9UVy7xn) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [いびつな愛ですが](https://open.spotify.com/album/25MVPTjqJaUtwLgzuPyqBb) | 3:31 |
 | 97 | [再会](https://open.spotify.com/track/3iOAudgfuv8F61xgE1nvws) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [再会](https://open.spotify.com/album/2VOnqcBzypWwUAd6enWkGg) | 4:32 |
 | 98 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
-| 99 | [HEART BEAT](https://open.spotify.com/track/32w5P0zxK3Ard5Rc1Wm7X7) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [HEART BEAT](https://open.spotify.com/album/6yPI2y4fzPv0iDmggg8o2c) | 3:39 |
+| 99 | [キミに似合うワタシ](https://open.spotify.com/track/2xrSxmUs0hCpUwrb9SKtXO) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [キミに似合うワタシ](https://open.spotify.com/album/6W7KBMDQNupEJRTwsCH0FX) | 3:30 |
 | 100 | [トランスファー](https://open.spotify.com/track/1eiRefLrtxufPxIhtLAocB) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [5gの平和](https://open.spotify.com/album/5cQlQCLp87osNFGo5sxBnh) | 3:35 |
 
 Snapshot ID: `aFGimgAAAAArIMhTZUS2dbDGZWy3y07E`

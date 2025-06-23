@@ -49441,6 +49441,24 @@
     },
     {
       "album": {
+        "name": "STAMINA",
+        "url": "https://open.spotify.com/album/0351ZKuJpwc1xnSvSAOWVU"
+      },
+      "artists": [
+        {
+          "name": "SonaOne",
+          "url": "https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "STAMINA",
+      "url": "https://open.spotify.com/track/40i7vkc0iEaNXpFwppz8q3"
+    },
+    {
+      "album": {
         "name": "Fridayy",
         "url": "https://open.spotify.com/album/1SEcDNGPBdSmJox0dpMqIe"
       },

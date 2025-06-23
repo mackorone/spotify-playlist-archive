@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 45 | [Paseo Inmoral](https://open.spotify.com/track/6VH153hUoK92d0cqsf5l9i) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:31 |
 | 46 | [Dia Especial \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/2EZ4NSQtoKdiWK8JDMY7NT) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fijación Oral Volumen 1 \(Expanded Edition\)](https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl) | 4:25 |
 | 47 | [\(En\) El Séptimo Día \- Remasterizado 2007](https://open.spotify.com/track/4xVZmLJtBTedcXbDB3qYdX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 4:23 |
-| 48 | [Tabu](https://open.spotify.com/track/5NHyNFYxLRifc2kI1FqDUP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:48 |
-| 49 | [Estoy Azulado \- Remasterizado 2007](https://open.spotify.com/track/6ogBARwwlfsmmgyxWeEzQF) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 5:17 |
+| 48 | [Estoy Azulado \- Remasterizado 2007](https://open.spotify.com/track/6ogBARwwlfsmmgyxWeEzQF) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 5:17 |
+| 49 | [Tabu](https://open.spotify.com/track/5NHyNFYxLRifc2kI1FqDUP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:48 |
 | 50 | [Por Qué No Puedo Ser Del Jet Set?](https://open.spotify.com/track/3dZqWv1yjHOPXpYwYMalf0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:21 |
 | 51 | [La Excepción](https://open.spotify.com/track/3yjXwM2zsKJKjsdxIe93pp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 4:11 |
 | 52 | [Nací para Esto](https://open.spotify.com/track/62rUQJCEgkwseP5u4eMp7e) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:09 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 116 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
 | 117 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 
-Snapshot ID: `Ab0w1AAAAAAGJfF886E7V7q9tAWl5/f6`
+Snapshot ID: `Ab02kwAAAACjgbkaq/lg0910O07I8HWy`

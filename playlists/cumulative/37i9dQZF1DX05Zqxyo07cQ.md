@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-766 songs - 1 day 13 hr 16 min
+767 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Becalming Silence](https://open.spotify.com/track/73E1cWwhV9iyIfiyyH26Mn) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [Becalming Silence](https://open.spotify.com/album/7ynySTl54ib9UJLkgwrvak) | 2:29 | 2023-03-23 | 2024-03-21 |
 | [Before The Full Moon](https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Before The Full Moon.](https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf) | 3:18 | 2023-07-14 | 2024-07-10 |
 | [Begin Again](https://open.spotify.com/track/5KizSeC2r6lnTqVf3j3kMq) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Begin Again](https://open.spotify.com/album/6ZtJLFGZl9rEFG1nukqRp0) | 3:42 | 2023-03-23 | 2024-03-21 |
-| [Benevolent](https://open.spotify.com/track/3qv6UdZerLnFiGkWBynjGv) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Benevolent](https://open.spotify.com/album/5iMRxKGIIbRv8OxwEpj8JP) | 2:20 | 2024-05-04 |  |
+| [Benevolent](https://open.spotify.com/track/3qv6UdZerLnFiGkWBynjGv) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Benevolent](https://open.spotify.com/album/5iMRxKGIIbRv8OxwEpj8JP) | 2:20 | 2024-05-04 | 2025-06-23 |
 | [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 | 2023-03-23 | 2024-05-05 |
 | [beyond horizons](https://open.spotify.com/track/1jpVNjs3ljHRGkE6hklAMB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [sleeping moons](https://open.spotify.com/album/5axy78HLC8b3mqrS3qWLJf) | 3:14 | 2023-03-23 | 2024-03-21 |
 | [Beyond the Silence](https://open.spotify.com/track/77h8U4nGrKuREPKF9krrYC) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Beyond the Silence](https://open.spotify.com/album/6Ma31neVFv5LDMNeg6nc40) | 2:53 | 2025-04-09 |  |
@@ -686,6 +686,7 @@
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2023-03-23 | 2024-02-09 |
 | [Sunborn 396Hz](https://open.spotify.com/track/6jLSvTOdPH592NgIZpFgs7) | [The Relief Experience](https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr) | [Sunborn 396Hz](https://open.spotify.com/album/1zJmBoVNGNeLStD3orOfiE) | 2:46 | 2024-05-04 | 2025-02-05 |
 | [Sunday Morning](https://open.spotify.com/track/44CGw5yimT0uwQnurWo2gz) | [Ella Watson](https://open.spotify.com/artist/6JWxnRLmLn5kIc1IDLMaja) | [Sunday Morning](https://open.spotify.com/album/7xv22kXgcqKHocBfCkaVry) | 2:26 | 2023-03-23 | 2024-02-09 |
+| [Sundial in the Fog](https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Sundial in the Fog](https://open.spotify.com/album/2QUlbl71LkpvEev7FhoMHv) | 2:58 | 2025-06-17 |  |
 | [Sunlit Pathway](https://open.spotify.com/track/1LcvWhopXfaoZ7zEyp2tO5) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Sunlit Pathway](https://open.spotify.com/album/3wuR2L2DMZnKdT8rgy1LKG) | 2:31 | 2025-02-04 |  |
 | [Sunthread](https://open.spotify.com/track/00UONkk82og7iOStsRQtMG) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Sunthread](https://open.spotify.com/album/3RfL5E3O6eXmGxFFcm7O8f) | 2:12 | 2024-12-12 |  |
 | [Suspended Glimmers](https://open.spotify.com/track/1Ih3L87Mc75K4dqQBKy62R) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Suspended Glimmers](https://open.spotify.com/album/3r2vRXRlbzjDEe2EtqLSGL) | 2:47 | 2025-01-22 |  |

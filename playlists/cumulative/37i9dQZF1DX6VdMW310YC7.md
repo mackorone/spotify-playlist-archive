@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,777 songs - 5 day 1 hr 8 min
+1,778 songs - 5 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Believer \- Marsh's Guatape Remix](https://open.spotify.com/track/1GHOLip5jcgRIBqd8QUx7N) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Believer \(Marsh's Guatape Remix\)](https://open.spotify.com/album/7GGVUzqEZQFwbHsBO3Fzam) | 4:15 | 2022-01-07 | 2024-03-02 |
 | [Bellariva](https://open.spotify.com/track/5tGboJa7ztLFH3d1gFOGFn) | [Hear & Now](https://open.spotify.com/artist/3YQwxKTjtAELAeGeqY4HgJ) | [Alba Sol](https://open.spotify.com/album/1ZDWGVjdLTUgVbZ2uGG5kW) | 5:39 | 2020-05-26 | 2020-10-09 |
 | [Benidorm](https://open.spotify.com/track/625S8ZDzHnn0bo8csfIG9o) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Benidorm](https://open.spotify.com/album/30nXTM6P8pO0UEt1KT6Bfj) | 2:14 | 2024-08-02 | 2024-08-27 |
-| [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-07 |  |
+| [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-07 | 2025-06-23 |
 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 | 2021-08-13 | 2022-08-20 |
 | [Better Than You Think](https://open.spotify.com/track/4JLdjEPwa80Kfn1tOl0Rdb) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 6:43 | 2020-03-17 | 2021-01-23 |
 | [Better Together](https://open.spotify.com/track/5vuQqO6halvU7BsGR5Dozk) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Better Together](https://open.spotify.com/album/0JVv4uxlYm9RicKXTSSVQF) | 3:56 | 2020-03-20 | 2020-07-18 |
@@ -1460,6 +1460,7 @@
 | [Stay](https://open.spotify.com/track/7w86jiNM1neRMCbkhvjYyo) | [ASHE](https://open.spotify.com/artist/5xTp3xrqM94mOTJdfOAUP8), [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Strangers Dream](https://open.spotify.com/album/4SeZQJZpVSQpWNCyKO5pru) | 5:22 | 2021-03-14 | 2022-07-28 |
 | [Stay](https://open.spotify.com/track/716VJhE66ugznJ3u08gofV) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Sophie and the Bom Boms](https://open.spotify.com/artist/3CzcBE7wIy9pCYEyraRZ5A) | [Sleepless EP](https://open.spotify.com/album/38NuIhP25TzDy8kqki5XzM) | 3:23 | 2020-05-18 | 2020-07-03 |
 | [Stay](https://open.spotify.com/track/3CPtYeDdgUqysXDpbEABFb) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Moments](https://open.spotify.com/album/7IkM8Ig9wtHc2NbvdsckBV) | 3:53 | 2022-01-21 | 2022-12-29 |
+| [Stay](https://open.spotify.com/track/4a0zcE6Ba4U61YOF8tnqY0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Stay](https://open.spotify.com/album/3hDLTLUJkWdbyFRsbM0OPk) | 4:00 | 2025-06-20 |  |
 | [Stay Here](https://open.spotify.com/track/1UOhslFENZSjK6KFaJ6wAN) | [Fred V & Grafix](https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena) | [Oxygen](https://open.spotify.com/album/2OduN4aoUP3wYoZRSEsrUf) | 4:09 | 2020-05-18 | 2020-07-03 |
 | [Stay Still](https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Stay Still](https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX) | 4:33 | 2024-04-12 |  |
 | [Stay With Me](https://open.spotify.com/track/3xbxh3LW9v6E3wn1AwUJfe) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 2:47 | 2020-05-18 | 2020-07-03 |

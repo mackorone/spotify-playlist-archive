@@ -1,6 +1,6 @@
 {
   "description": "Listen to the best in AfroTech as it travels the world's dancefloors. Cover: <a href=\"https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY?si=3aVBUGroTxmRhuddmQ_Fbg\">Caiiro</a>",
-  "num_followers": 29315,
+  "num_followers": 29347,
   "original_name": "AfroTech Now",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,30 @@
     {
       "added_at": "2025-06-19 22:00:58",
       "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/13czSpTI2okjVxVQxnTpK2"
+      },
+      "artists": [
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        },
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "duration_ms": 450460,
+      "name": "Your Voice - Enoo Napa Remix",
+      "url": "https://open.spotify.com/track/2kCZ8eOCU6nMnXp3FzyhUE"
+    },
+    {
+      "added_at": "2025-06-19 22:00:58",
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/54h8nN7jqmjxRpJjcvUYVQ"
       },
@@ -711,30 +735,6 @@
     {
       "added_at": "2025-06-19 22:00:58",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/13czSpTI2okjVxVQxnTpK2"
-      },
-      "artists": [
-        {
-          "name": "AWEN",
-          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
-        },
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        },
-        {
-          "name": "Enoo Napa",
-          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
-        }
-      ],
-      "duration_ms": 450460,
-      "name": "Your Voice - Enoo Napa Remix",
-      "url": "https://open.spotify.com/track/2kCZ8eOCU6nMnXp3FzyhUE"
-    },
-    {
-      "added_at": "2025-06-19 22:00:58",
-      "album": {
         "name": "After All / Hidden Place",
         "url": "https://open.spotify.com/album/3SIJcmFrw2GfqlTsdl3joD"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 320000,
       "name": "After All",
       "url": "https://open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL"
-    },
-    {
-      "added_at": "2025-06-19 22:00:58",
-      "album": {
-        "name": "Kitchen",
-        "url": "https://open.spotify.com/album/3NDTDQxYna7jg2BIF2hayy"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        }
-      ],
-      "duration_ms": 430867,
-      "name": "Kitchen",
-      "url": "https://open.spotify.com/track/2Kksd9ZgBAb31BzKrC47HL"
     },
     {
       "added_at": "2025-06-19 22:00:58",
@@ -787,6 +771,22 @@
       "duration_ms": 413114,
       "name": "Waves - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/0VaHtlHiUEWPAHqrRIHkYt"
+    },
+    {
+      "added_at": "2025-06-19 22:00:58",
+      "album": {
+        "name": "Kitchen",
+        "url": "https://open.spotify.com/album/3NDTDQxYna7jg2BIF2hayy"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "duration_ms": 430867,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/2Kksd9ZgBAb31BzKrC47HL"
     },
     {
       "added_at": "2025-06-19 22:00:58",
@@ -1039,22 +1039,26 @@
     {
       "added_at": "2025-06-19 22:00:58",
       "album": {
-        "name": "Two Zulu Men In Ibiza EP",
-        "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
+        "name": "Nkolwa Remixes",
+        "url": "https://open.spotify.com/album/3L3FxjCxjVfey1u1e4P4tB"
       },
       "artists": [
         {
-          "name": "DJ Merlon",
-          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
+          "name": "Homeboyz",
+          "url": "https://open.spotify.com/artist/6HJOiEmoNQGDSexCsQQooX"
         },
         {
-          "name": "Enoo Napa",
-          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+          "name": "Kyaku Kyadaff",
+          "url": "https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9"
+        },
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
         }
       ],
-      "duration_ms": 428886,
-      "name": "Lavitate",
-      "url": "https://open.spotify.com/track/6U8jVzGNxE3IXE2jYGrrgO"
+      "duration_ms": 422950,
+      "name": "Nkolwa - Caiiro Remix",
+      "url": "https://open.spotify.com/track/7mvbodkdCOyyc7JtwX0NOv"
     },
     {
       "added_at": "2025-06-19 22:00:58",
@@ -1079,26 +1083,22 @@
     {
       "added_at": "2025-06-19 22:00:58",
       "album": {
-        "name": "Nkolwa Remixes",
-        "url": "https://open.spotify.com/album/3L3FxjCxjVfey1u1e4P4tB"
+        "name": "Two Zulu Men In Ibiza EP",
+        "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
       },
       "artists": [
         {
-          "name": "Homeboyz",
-          "url": "https://open.spotify.com/artist/6HJOiEmoNQGDSexCsQQooX"
+          "name": "DJ Merlon",
+          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
         },
         {
-          "name": "Kyaku Kyadaff",
-          "url": "https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9"
-        },
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
         }
       ],
-      "duration_ms": 422950,
-      "name": "Nkolwa - Caiiro Remix",
-      "url": "https://open.spotify.com/track/7mvbodkdCOyyc7JtwX0NOv"
+      "duration_ms": 428886,
+      "name": "Lavitate",
+      "url": "https://open.spotify.com/track/6U8jVzGNxE3IXE2jYGrrgO"
     },
     {
       "added_at": "2025-06-19 22:00:58",

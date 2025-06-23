@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,313 likes - 75 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,488 likes - 75 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 61 | [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 |
 | 62 | [Under Violent Objects](https://open.spotify.com/track/3PscZ65ebR61zAN9H5KNEL) | [Neotropic](https://open.spotify.com/artist/0J7MEv1kdBkTE4HzW7FtoH) | [Mr\. Brubaker's Strawberry Alarm Clock](https://open.spotify.com/album/1YrlvrywWuhaeQXQYOPxDo) | 5:07 |
 | 63 | [Radio Babylon](https://open.spotify.com/track/3TheBeg92QzEpR5kdVqpDa) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Version Galore](https://open.spotify.com/album/5533aOxWjQFalXG82VW6ni) | 6:23 |
-| 64 | [Fictions](https://open.spotify.com/track/3zyuM9NvUgRNptc9uV14SW) | [Rollercone](https://open.spotify.com/artist/5R48TxAOY7PptmdILHmjN6) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 4:41 |
-| 65 | [Plasmic Head](https://open.spotify.com/track/7lqxSZ3J8ruav0r3J1di3t) | [Freakniks](https://open.spotify.com/artist/1zuLvuDPCTbBxby5ZGBt0I) | [Dope On Plastic 2](https://open.spotify.com/album/5C1crZawgqAk00GnCJdim8) | 5:41 |
+| 64 | [Plasmic Head](https://open.spotify.com/track/7lqxSZ3J8ruav0r3J1di3t) | [Freakniks](https://open.spotify.com/artist/1zuLvuDPCTbBxby5ZGBt0I) | [Dope On Plastic 2](https://open.spotify.com/album/5C1crZawgqAk00GnCJdim8) | 5:41 |
+| 65 | [Fictions](https://open.spotify.com/track/3zyuM9NvUgRNptc9uV14SW) | [Rollercone](https://open.spotify.com/artist/5R48TxAOY7PptmdILHmjN6) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 4:41 |
 | 66 | [Take Nine](https://open.spotify.com/track/1LY5nlaBgdMtz9FS3thZjp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Paradise Blown](https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu) | 5:46 |
 | 67 | [Galactic Funk](https://open.spotify.com/track/62ZtyaPFFVPEKQbCdLAScn) | [DJ Spooky](https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm) | [Songs Of A Dead Dreamer](https://open.spotify.com/album/59FLtEnXNqYKwT5M3W3XoG) | 6:50 |
 | 68 | [ESSENTIAL DUB](https://open.spotify.com/track/7HMSAvaWG8k1BDHidNBIEd) | [MAJOR FORCE PRODUCTIONS](https://open.spotify.com/artist/5Z99aXhW98nAr8Y6SLF08c) | [MAJOR FORCE RARE TRACKS](https://open.spotify.com/album/2iwcIsLMS4YqlW0h4OwgDd) | 4:58 |

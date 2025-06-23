@@ -2021,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "High On Me",
+        "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "High On Me",
+      "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
+    },
+    {
+      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -2072,7 +2094,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 141776,
       "name": "HITZ 4 THE HOOD",
       "url": "https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj"

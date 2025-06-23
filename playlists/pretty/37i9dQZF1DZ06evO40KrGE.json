@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 36740,
+  "num_followers": 36743,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAJpe6vitFfcuNOVV5M0Fcz",
+  "snapshot_id": "aFX2AAAAAAD72jAj0ENYhG9spFFTJm4Q",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 252308,
-      "name": "Uma Flor Gloriosa",
-      "url": "https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok"
+      "duration_ms": 260481,
+      "name": "Sobre as Ondas do Mar",
+      "url": "https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 260481,
-      "name": "Sobre as Ondas do Mar",
-      "url": "https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu"
+      "duration_ms": 252308,
+      "name": "Uma Flor Gloriosa",
+      "url": "https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok"
     },
     {
       "added_at": null,
@@ -799,34 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100 Anos do Movimento Pentecostal",
-        "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
-        },
-        {
-          "name": "Lauriete",
-          "url": "https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e"
-        }
-      ],
-      "duration_ms": 835400,
-      "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
-      "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.1",
         "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
@@ -855,6 +827,34 @@
       "duration_ms": 224258,
       "name": "N\u00e3o \u00e9 Tarde Demais",
       "url": "https://open.spotify.com/track/5LyZZODJTapW2kjsf5Y2ZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100 Anos do Movimento Pentecostal",
+        "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        },
+        {
+          "name": "Lauriete",
+          "url": "https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e"
+        }
+      ],
+      "duration_ms": 835400,
+      "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
+      "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
     },
     {
       "added_at": null,

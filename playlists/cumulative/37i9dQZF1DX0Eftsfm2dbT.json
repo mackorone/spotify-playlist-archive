@@ -35425,6 +35425,24 @@
     },
     {
       "album": {
+        "name": "\u30aa\u30ef\u30ea",
+        "url": "https://open.spotify.com/album/5J1ctGAwBXENwedpmGwaEB"
+      },
+      "artists": [
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260021,
+      "name": "\u30aa\u30ef\u30ea",
+      "url": "https://open.spotify.com/track/2qUEiCahiWmFQ7JZeIC2FV"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30ca\u30c7",
         "url": "https://open.spotify.com/album/6rvvgIw4mLNYG6M4xE49Vn"
       },

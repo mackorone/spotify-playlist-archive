@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAB40cuhSZR/uPLN/C9pgk0Y",
+  "snapshot_id": "aFX2AAAAAACvf6Thf4507oxgRPmIy9Jb",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "FZND DNV",
+        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "FZND DNV",
+      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Intenso",
         "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 149833,
       "name": "ZyZy",
       "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FZND DNV",
-        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "H4lfmeasures",
-          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "FZND DNV",
-      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corpo Quente",
         "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 240000,
       "name": "Corpo Quente",
       "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
     },
     {
       "added_at": null,
@@ -947,6 +947,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
+        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 Minutos",
         "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 215520,
       "name": "2 Minutos",
       "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
-        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
-      },
-      "artists": [
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
     },
     {
       "added_at": null,
@@ -1375,30 +1375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meio Dia",
-        "url": "https://open.spotify.com/album/11CDv8nWVPsvCRNuuP5I2y"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "Meio Dia",
-      "url": "https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
         "url": "https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn"
       },
@@ -1455,6 +1431,30 @@
       "duration_ms": 360000,
       "name": "Eles N\u00e3o Ligam Pra Gente",
       "url": "https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meio Dia",
+        "url": "https://open.spotify.com/album/11CDv8nWVPsvCRNuuP5I2y"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "Meio Dia",
+      "url": "https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi"
     }
   ],
   "unique_name": "This Is Azzy",

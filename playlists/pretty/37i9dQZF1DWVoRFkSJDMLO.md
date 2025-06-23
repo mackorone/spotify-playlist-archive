@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: DJ Kawest 🇫🇷 & Aya Nakamura 🇲🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,636 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,666 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

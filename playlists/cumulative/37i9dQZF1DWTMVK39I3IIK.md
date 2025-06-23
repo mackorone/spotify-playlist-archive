@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   Mekdes
 
-241 songs - 12 hr 25 min
+242 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cursing And Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/track/0siUepaRdN2ZdOxxkUMNLB) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV), [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Cursing and Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/album/67C5FPDCt4ftxYwvMAX4xo) | 3:05 | 2024-11-28 | 2024-12-13 |
 | [dagdrømmer](https://open.spotify.com/track/5esSVR7UK3Nc7ymSOWJIc5) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer](https://open.spotify.com/album/5LmtvUZQ9bkItt9x1E2tA6) | 2:50 | 2024-06-27 |  |
 | [Dagdrømmeri](https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Dagdrømmeri](https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK) | 3:08 | 2024-12-06 |  |
+| [Dance Without You](https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Dance Without You](https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF) | 2:45 | 2025-06-19 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/01h8wJRVYOiBEXOhqXwZ2C) | [KATMORE](https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc) | [Dancing In The Dark](https://open.spotify.com/album/5L8OFIdsOyFBxlf9FPRks6) | 3:34 | 2025-05-01 | 2025-05-22 |
 | [Dans I Morgen \(feat\. Wads\)](https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Wads](https://open.spotify.com/artist/3WpiiMu5szsvN2jSBHCxNu) | [Dans I Morgen](https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7) | 3:12 | 2024-06-27 |  |
 | [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2024-06-27 | 2025-01-24 |
@@ -92,7 +93,7 @@
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-27 | 2024-08-23 |
 | [Grå Skyer](https://open.spotify.com/track/0sdW0LZgcaY5KGPzLrq55A) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Grå Skyer](https://open.spotify.com/album/6pikXZAx9cyLdYSisP5gBE) | 2:51 | 2025-03-07 | 2025-03-14 |
 | [gyldne løfter](https://open.spotify.com/track/4v1vC9ENhra6G8Qj95TJ9L) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [gyldne løfter](https://open.spotify.com/album/1OUMoazluzkG5nD8MI2BmQ) | 3:39 | 2025-03-20 | 2025-03-28 |
-| [Gå Itu](https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gå Itu](https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7) | 3:34 | 2025-02-13 |  |
+| [Gå Itu](https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gå Itu](https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7) | 3:34 | 2025-02-13 | 2025-06-23 |
 | [Går Bare](https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Går Bare](https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD) | 4:36 | 2024-09-16 | 2025-02-21 |
 | [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2024-06-27 |  |
 | [HAR DET MAX](https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [HAR DET MAX](https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3) | 1:47 | 2025-06-19 |  |

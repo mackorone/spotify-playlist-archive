@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,902 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,913 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 24 | [L’Amour, Les Baguettes, Paris](https://open.spotify.com/track/0hteKETzxBHJXWwdUhZaKI) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Stairs](https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k) | 2:47 |
 | 25 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 26 | [ASTEARSGOBY](https://open.spotify.com/track/2rOA9vEsnpNB6L5XgmibKn) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:56 |
-| 27 | [Chance \(Feat\. Peakboy \(픽보이\)\)](https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Peakboy \(픽보이\)](https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 3:14 |
-| 28 | [RIDE \(feat\. THAMA\)](https://open.spotify.com/track/6jpFPa2m8PjHurC7508wYB) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [RIDE](https://open.spotify.com/album/3t4nLWaE60YINX7QLTIbAS) | 4:04 |
+| 27 | [RIDE \(feat\. THAMA\)](https://open.spotify.com/track/6jpFPa2m8PjHurC7508wYB) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [RIDE](https://open.spotify.com/album/3t4nLWaE60YINX7QLTIbAS) | 4:04 |
+| 28 | [Chance \(Feat\. Peakboy \(픽보이\)\)](https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [Peakboy \(픽보이\)](https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 3:14 |
 | 29 | [DEPEND ON YOU](https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:18 |
 | 30 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
 | 31 | [How Do You Think](https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT) | 3:25 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 38 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 |
 | 39 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 40 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
-| 41 | [Wherever](https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Wherever](https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1) | 2:51 |
-| 42 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
+| 41 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
+| 42 | [Wherever](https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Wherever](https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1) | 2:51 |
 | 43 | [Beautiful Night](https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Seoul Check\-in OST Part 5](https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD) | 3:20 |
 | 44 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 |
 | 45 | [dance all night](https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv) | 3:34 |
 | 46 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 |
-| 47 | [A Song For You](https://open.spotify.com/track/5VtQn0Pp23dZZqVGi2zhzQ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [A Song For You](https://open.spotify.com/album/284ZHwShyBT7ao6gl8S2pe) | 3:47 |
-| 48 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
-| 49 | [Picnic](https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:04 |
+| 47 | [Picnic](https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:04 |
+| 48 | [A Song For You](https://open.spotify.com/track/5VtQn0Pp23dZZqVGi2zhzQ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [A Song For You](https://open.spotify.com/album/284ZHwShyBT7ao6gl8S2pe) | 3:47 |
+| 49 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 50 | [화창해 \(Feat\. JUNE\)](https://open.spotify.com/track/04BztykVfI5mjP27SYOvZX) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [JUNE](https://open.spotify.com/artist/5YL8IrbmpYf8d8NC70r5p0) | [HAAN X Chan : Synergy](https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n) | 2:51 |
 
 Snapshot ID: `aFEDNAAAAAB8aV1k+yLFbnBtyiF4j1gf`

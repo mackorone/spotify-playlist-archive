@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,428 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,433 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 23 | [カラフル](https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [カラフル](https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e) | 4:38 |
 | 24 | [Unbalance Shadow](https://open.spotify.com/track/7wgBmjTYT4rD1mSbmur4KG) | [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25), [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:21 |
 | 25 | [BLACK TIGER](https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Źenit \- EP](https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS) | 3:48 |
-| 26 | [Leopard Eyes](https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:32 |
+| 26 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
 | 27 | [ミライノーツを奏でて](https://open.spotify.com/track/7M63j53cfKSCU6sU8f5rs8) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ミライノーツを奏でて](https://open.spotify.com/album/0IXeoD6RAPKrCKjPVspPEj) | 4:43 |
 | 28 | [雨](https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [雨](https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k) | 5:23 |
 | 29 | [解決ミステリー](https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [解決ミステリー](https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq) | 3:32 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 64 | [星屑マジック](https://open.spotify.com/track/71wKxVrk9r6LHmfHjPFagJ) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:33 |
 | 65 | [Polished](https://open.spotify.com/track/4G3AX1HYUypLWwTMTaWLYZ) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [Polished](https://open.spotify.com/album/0AsMiHzhdfZ5oGQ7cCNNGA) | 4:29 |
 | 66 | [Chameleon](https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5), [千 \(CV.立花慎之介\)](https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh), [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Chameleon](https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4) | 3:30 |
-| 67 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
+| 67 | [Leopard Eyes](https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:32 |
 | 68 | [Pieces of The World](https://open.spotify.com/track/5cfhxHtdKdt809M45XYzyl) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH), [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH), [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:54 |
 | 69 | [Dis one.](https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:59 |
 | 70 | [STRONGER & STRONGER](https://open.spotify.com/track/6SuxSZciPXssT1MQKXBgU8) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:27 |

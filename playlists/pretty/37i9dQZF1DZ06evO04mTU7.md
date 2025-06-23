@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,628 likes - 34 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,635 likes - 34 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 23 | [Pq a Policia Smp Acaba Com a Festa?](https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:25 |
 | 24 | [Pânico](https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Unicórnio](https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS) | 3:03 |
 | 25 | [Mina Chavosa](https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Diabelsmusic](https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA) | [Mina Chavosa](https://open.spotify.com/album/35LfnqgsWFtiDY2AeWmepB) | 3:37 |
-| 26 | [Fábrica de Jóia](https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Ocean](https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 2:45 |
+| 26 | [MAMA](https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 2:45 |
 | 27 | [Mil e uma Treta](https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 1:58 |
-| 28 | [MAMA](https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 2:45 |
+| 28 | [Fábrica de Jóia](https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Ocean](https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 2:45 |
 | 29 | [7 Ruas](https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:00 |
 | 30 | [OK](https://open.spotify.com/track/0MYKlvcHf5a6NHJDHfmyJO) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [OK](https://open.spotify.com/album/5QdLVDK0alzPG0aTYecf1P) | 2:09 |
 | 31 | [Empresário](https://open.spotify.com/track/5QxxKQQNZyL5Q4N7Rggjg0) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:07 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 33 | [Aju](https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:33 |
 | 34 | [Queen Chavosa \- Remix](https://open.spotify.com/track/2898k850lyu9U35V7zzSDY) | [DJ LOBA BOSS](https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Queen Chavosa \(Remix\)](https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv) | 1:41 |
 
-Snapshot ID: `aFSkgAAAAABxdgeFy4V8kj9Tjvf6aUHk`
+Snapshot ID: `aFX2AAAAAABlEpEAV7GGpayFDsnaLNl9`

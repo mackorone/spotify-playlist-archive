@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Giorgia
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,586 likes - 169 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,585 likes - 169 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

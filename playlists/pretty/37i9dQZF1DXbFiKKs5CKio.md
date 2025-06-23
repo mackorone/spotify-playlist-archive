@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,780 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,790 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 25 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [YellowLab](https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
 | 26 | [Vícios q eu gosto](https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Vícios q eu gosto](https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN) | 2:32 |
 | 27 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
-| 28 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 |
-| 29 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 |
-| 30 | [Quem diria](https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 2:50 |
-| 31 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
+| 28 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 |
+| 29 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 |
+| 30 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
+| 31 | [Quem diria](https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 2:50 |
 | 32 | [Traços](https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Traços](https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L) | 3:19 |
 | 33 | [Inspirar](https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Inspirar](https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g) | 4:22 |
 | 34 | [SEM SER AMOR](https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 4:21 |

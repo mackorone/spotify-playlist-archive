@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 246704,
+  "num_followers": 246806,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "De Punta a Punta",
+      "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Sed\u00faceme",
         "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 328760,
       "name": "Si Me Ves Llorar",
       "url": "https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 265480,
-      "name": "De Punta a Punta",
-      "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
     },
     {
       "added_at": "2024-07-11 00:51:42",

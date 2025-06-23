@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-434 songs - 22 hr 2 min
+435 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [The Monkey Doodle Doo \(From "The Cocoanuts"\)](https://open.spotify.com/track/1nGRuZ5moVQiNJ1b5E2LrT) | [Mary Eaton](https://open.spotify.com/artist/6UZ8i0Z92apKnw0woINlXd) | [Musical on Broadway, Vol\. 1](https://open.spotify.com/album/2KJ7xPDyFtUEf3YPqjRy43) | 4:08 | 2024-07-26 |  |
 | [The New Moon](https://open.spotify.com/track/5eAvV2OJ8M8SbUuGua7rKA) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 4:30 | 2024-07-26 |  |
 | [The Night Is Filled with Music](https://open.spotify.com/track/4dHX6qkXE6FVPOPphMOBUy) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 3:12 | 2024-07-26 |  |
+| [The Old Maid's Ball](https://open.spotify.com/track/48ebrk9dRMGkH0W1z0A1oB) | [Tiny Tim](https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC) | [After Midnight, 1977](https://open.spotify.com/album/0mjpVT6mj8mRpmntqt7E8E) | 1:22 | 2025-06-22 |  |
 | [The Old Man / Gee, I Wish I Was Back In The Army](https://open.spotify.com/track/1SdVkL2SVvdM0Mf0E33JFy) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:54 | 2024-07-26 |  |
 | [The Piccolino](https://open.spotify.com/track/0G2PQV1qjwwEN1uhlamWAD) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/3BRsqvWiZJlE1og7MdwFEh) | 3:17 | 2024-07-26 |  |
 | [The Pullman Porters' Parade](https://open.spotify.com/track/7ApBal5rffIVoS13niZjZm) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [The Early Years](https://open.spotify.com/album/0Ru7193n0GyH1WZkAkySE9) | 2:59 | 2024-07-26 |  |

@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: HAIM
 
-546 songs - 1 day 8 hr 15 min
+547 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Solitude Of The Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude Of The Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-11 | 2024-10-04 |
 | [Something In The Air](https://open.spotify.com/track/7rvhBrHKRK7G4SJFgclkr7) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Something In The Air](https://open.spotify.com/album/2RoSPQyzfjJl6ADhGFUnhr) | 3:47 | 2024-10-10 | 2024-11-01 |
 | [something new](https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [something new](https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF) | 3:51 | 2024-10-03 | 2024-11-15 |
+| [Something's Wrong](https://open.spotify.com/track/45afJugFs63B3KaDO3pcVa) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Something's Wrong](https://open.spotify.com/album/1xuZIqxmZleNkPG8PonAp3) | 3:20 | 2025-06-23 |  |
 | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 | 2024-10-10 | 2024-11-22 |
 | [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 | 2025-04-11 | 2025-06-20 |
 | [Space Invader](https://open.spotify.com/track/25Z5WIk6ORaCTU7dLtz349) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Space Invader](https://open.spotify.com/album/1vhdCQ2nTd5vupxIwUsEmx) | 4:45 | 2024-08-22 | 2024-11-01 |

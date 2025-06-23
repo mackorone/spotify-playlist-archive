@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 868 songs - 2 day 6 hr 10 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 872 songs - 2 day 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -876,5 +876,9 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 866 | [TWIN TRIM \(with Lil Uzi Vert\)](https://open.spotify.com/track/3surY3LebvLLdJezmiKUBO) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:34 |
 | 867 | [BABY BLUE](https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [空中キャンプ](https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI) | 6:09 |
 | 868 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 |
+| 869 | [Tell më](https://open.spotify.com/track/1ObrUCFugAMJoXcvpggbOd) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:03 |
+| 870 | [Picture of My Dress](https://open.spotify.com/track/4CI2qX3XYZLv5jIoAwdmz4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:20 |
+| 871 | [Tidal Wave](https://open.spotify.com/track/0htLu08TAzKUzPg3zeZPn1) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 5:25 |
+| 872 | [Pez Dorado](https://open.spotify.com/track/3egp2XXVJqXsUDXCitx4Tf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:56 |
 
-Snapshot ID: `AAAHCErvTX3Ov48jl4zeEh2bmnFtNuFs`
+Snapshot ID: `AAAHDLqLgFmxVD9URAQTwQU/GJMDWhrK`

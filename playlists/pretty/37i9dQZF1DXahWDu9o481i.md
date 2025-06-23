@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,142 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,186 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

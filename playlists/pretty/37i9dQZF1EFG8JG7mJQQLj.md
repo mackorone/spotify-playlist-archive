@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,116 likes - 462 songs - 1 day 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,120 likes - 462 songs - 1 day 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 144 | [Love Me Better](https://open.spotify.com/track/66EMVu7HcrXiT3kP9NRcMM) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:38 |
 | 145 | [Worst Nites](https://open.spotify.com/track/1f4tvi37ABO60upCvtm5Cl) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Pick U Up](https://open.spotify.com/album/7414qD6qDgp0dsbD8LuPEt) | 3:31 |
 | 146 | [Please Don't Stop The Rain](https://open.spotify.com/track/05ZVTnFGjDTnzQHMxK0Bir) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 3:54 |
-| 147 | [Fall](https://open.spotify.com/track/5Hd0J6dWz0jqgRDJoRpOdc) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Fall](https://open.spotify.com/album/2aKKhb3QvJcB4yxbRXZTUu) | 3:37 |
-| 148 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
+| 147 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
+| 148 | [Fall](https://open.spotify.com/track/5Hd0J6dWz0jqgRDJoRpOdc) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Fall](https://open.spotify.com/album/2aKKhb3QvJcB4yxbRXZTUu) | 3:37 |
 | 149 | [What You Wanted](https://open.spotify.com/track/0ILXYaWxMQVEXnKq2eTmjW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:01 |
 | 150 | [Say \(All I Need\)](https://open.spotify.com/track/6H4vq5gz0rlNjH0LBzu4An) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:50 |
 | 151 | [Burning Bridges](https://open.spotify.com/track/3FQrnheOyqkoJPVgS7ZjoH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 |
@@ -236,9 +236,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 226 | [Made For You](https://open.spotify.com/track/1uRQzm3P0nRGnSfnuzMTpq) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:17 |
 | 227 | [Dream](https://open.spotify.com/track/7kAykEQsPsC67ML8qQmOSW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:31 |
 | 228 | [Who's That Boy](https://open.spotify.com/track/4s6uISi4qxj5GK84p3Idu3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 3:12 |
-| 229 | [Time of Our Lives](https://open.spotify.com/track/2KcAwEm9VrpJFsJH6MKOCv) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:30 |
-| 230 | [All Fall Down](https://open.spotify.com/track/1zjJg21AG4sXU9wzbQnQiQ) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:04 |
-| 231 | [Is This Really Love?](https://open.spotify.com/track/752Hm8vLR8rZL5bqHrqnST) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:15 |
+| 229 | [Is This Really Love?](https://open.spotify.com/track/752Hm8vLR8rZL5bqHrqnST) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:15 |
+| 230 | [Time of Our Lives](https://open.spotify.com/track/2KcAwEm9VrpJFsJH6MKOCv) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:30 |
+| 231 | [All Fall Down](https://open.spotify.com/track/1zjJg21AG4sXU9wzbQnQiQ) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:04 |
 | 232 | [Dope \(feat\. JID\)](https://open.spotify.com/track/3VEL2iEZ8udM0evRe3Bj2u) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:38 |
 | 233 | [Honey \(with Muni Long\)](https://open.spotify.com/track/1ei5bZDXeMNU4rw3iEQ2zX) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:20 |
 | 234 | [Hurt Me Tomorrow](https://open.spotify.com/track/3SdAoQZr0azIpNV3ogNkAd) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Country, God Or The Girl \(Deluxe\)](https://open.spotify.com/album/6b7Cs5avLSsnEnXWM9pzVB) | 3:47 |
@@ -344,8 +344,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 334 | [Impossible](https://open.spotify.com/track/3aBTWIK4C9Tx5D5PjtwOKR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:23 |
 | 335 | [Here This Christmas](https://open.spotify.com/track/2DksC1UZFBldtB8v35SOZ6) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 2:58 |
 | 336 | [Sleep](https://open.spotify.com/track/69Ju6N9298O1h9YS9eSUp1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud \(Deluxe\)](https://open.spotify.com/album/1J7OJuxxZ0qqLnzAFFregQ) | 5:54 |
-| 337 | [Crowded Places \("From Songland"\)](https://open.spotify.com/track/2Z8LY7VxDOwm3lPvTOE2kR) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Crowded Places \(From "Songland"\)](https://open.spotify.com/album/5DORDernNVnDd9fVVlk7OM) | 2:30 |
-| 338 | [Living My Best Life](https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Living My Best Life](https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn) | 2:57 |
+| 337 | [Living My Best Life](https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Living My Best Life](https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn) | 2:57 |
+| 338 | [Crowded Places \("From Songland"\)](https://open.spotify.com/track/2Z8LY7VxDOwm3lPvTOE2kR) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Crowded Places \(From "Songland"\)](https://open.spotify.com/album/5DORDernNVnDd9fVVlk7OM) | 2:30 |
 | 339 | [Get Enough](https://open.spotify.com/track/4f8116NfNdOjOLX8yHhpOI) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station \(Explorer's Edition\)](https://open.spotify.com/album/3UdA4CPd2ktoIbzo1UREWc) | 2:56 |
 | 340 | [DARC ROOM](https://open.spotify.com/track/5lWEygGCrVxP3jmr8A468Q) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DARC ROOM](https://open.spotify.com/album/2Jh7uDbzE04g6zrhen37o5) | 2:45 |
 | 341 | [Painkiller](https://open.spotify.com/track/6AASSUNaGkAhJFfI9qfFsJ) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 3:32 |
@@ -471,4 +471,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 461 | [Just Keep Watching](https://open.spotify.com/track/7xb25ayvRaBdC8mSQ9ApYa) | [life illustrated](https://open.spotify.com/artist/5tRfNOLfhTaTHDdkE6O8a4) | [Just Keep Watching](https://open.spotify.com/album/1QEuCJJdAmSA2QjXPx3wNb) | 1:31 |
 | 462 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `Ab0w8gAAAADIiCD7o/4SJzFE3hc1rJTj`
+Snapshot ID: `Ab02kwAAAABC9dB5sdTnyT+r04N+Xc4O`

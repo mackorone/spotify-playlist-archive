@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Yung Maynie
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,633 likes - 85 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,630 likes - 85 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

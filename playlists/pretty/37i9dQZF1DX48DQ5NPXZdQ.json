@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 65939,
+  "num_followers": 65953,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/3a3julBZ8GV0rUf7JYWOt1"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/23WfbJPkKmCBLbUlYpSuNP"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
         "name": "Mas Alla Del Sol",
         "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 623053,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/71zIC87s9J28LZZkg9e3T5"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/3a3julBZ8GV0rUf7JYWOt1"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Mar\u00eda Bonita",
-      "url": "https://open.spotify.com/track/23WfbJPkKmCBLbUlYpSuNP"
     }
   ],
   "unique_name": "Inmortales de la Canci\u00f3n",

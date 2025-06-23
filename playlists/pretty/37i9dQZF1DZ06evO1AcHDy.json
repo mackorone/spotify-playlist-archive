@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACe5DMvcfZ6IgMIG1IQ4RD/",
+  "snapshot_id": "aFX2AAAAAAC2kPLgjQ/Qyn8QgJ6Yh9EH",
   "tracks": [
     {
       "added_at": null,
@@ -179,38 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAWAYAMA",
-        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "STFU!",
-      "url": "https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 215814,
-      "name": "Catch Me In The Air",
-      "url": "https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Free (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2"
       },
@@ -231,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
       },
       "artists": [
         {
@@ -240,9 +208,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 195472,
-      "name": "10-20-40",
-      "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1"
     },
     {
       "added_at": null,
@@ -256,15 +224,15 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 208128,
-      "name": "Bad Friend",
-      "url": "https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7"
+      "duration_ms": 203994,
+      "name": "STFU!",
+      "url": "https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
       },
       "artists": [
         {
@@ -272,9 +240,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 245808,
-      "name": "Hold The Girl",
-      "url": "https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV"
+      "duration_ms": 195472,
+      "name": "10-20-40",
+      "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
     },
     {
       "added_at": null,
@@ -299,6 +267,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 245808,
+      "name": "Hold The Girl",
+      "url": "https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 208128,
+      "name": "Bad Friend",
+      "url": "https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
         "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
       },
@@ -315,38 +315,6 @@
       "duration_ms": 174173,
       "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
       "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SAWAYAMA",
-        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 267369,
-      "name": "Tokyo Love Hotel",
-      "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 212545,
-      "name": "Imagining",
-      "url": "https://open.spotify.com/track/6CXHTCR4vfCzMZlXZUiw1u"
     },
     {
       "added_at": null,
@@ -379,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
       },
       "artists": [
         {
@@ -388,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 221880,
-      "name": "Cyber Stockholm Syndrome",
-      "url": "https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm"
+      "duration_ms": 212545,
+      "name": "Imagining",
+      "url": "https://open.spotify.com/track/6CXHTCR4vfCzMZlXZUiw1u"
     },
     {
       "added_at": null,
@@ -404,15 +372,15 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 188399,
-      "name": "Dynasty",
-      "url": "https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS"
+      "duration_ms": 267369,
+      "name": "Tokyo Love Hotel",
+      "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
       },
       "artists": [
         {
@@ -420,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 120576,
-      "name": "Minor Feelings",
-      "url": "https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV"
+      "duration_ms": 221880,
+      "name": "Cyber Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm"
     },
     {
       "added_at": null,
@@ -447,6 +415,38 @@
       "duration_ms": 233901,
       "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
       "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 120576,
+      "name": "Minor Feelings",
+      "url": "https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 188399,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 244078,
-      "name": "Alterlife",
-      "url": "https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD"
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+      "duration_ms": 244078,
+      "name": "Alterlife",
+      "url": "https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD"
     }
   ],
   "unique_name": "This Is Rina Sawayama",

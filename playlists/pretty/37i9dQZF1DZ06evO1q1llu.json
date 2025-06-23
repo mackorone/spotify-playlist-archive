@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 243927,
+  "num_followers": 243946,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADL57kCz9Yu+UWgr7trbOkq",
+  "snapshot_id": "aFX2AAAAAABrKtpAIXLJMTtBnujdo8ab",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THOUSAND MILES",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 164781,
-      "name": "THOUSAND MILES",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+      "duration_ms": 166368,
+      "name": "NIGHTS LIKE THIS PT 2",
+      "url": "https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+        "name": "THOUSAND MILES",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 166368,
-      "name": "NIGHTS LIKE THIS PT 2",
-      "url": "https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi"
+      "duration_ms": 164781,
+      "name": "THOUSAND MILES",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Her Go",
-        "url": "https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 122112,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Her Go",
+        "url": "https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 122112,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can't Go Back To The Way It Was (Intro)",
-        "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 95273,
-      "name": "I Can't Go Back To The Way It Was (Intro)",
-      "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/5b7NAfjg5DjYPWshy2jSr3"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 179252,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/32ypPhtgTaETvFn3ZIHXTW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Can't Go Back To The Way It Was (Intro)",
+        "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 95273,
+      "name": "I Can't Go Back To The Way It Was (Intro)",
+      "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
     },
     {
       "added_at": null,

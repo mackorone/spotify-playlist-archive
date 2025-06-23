@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 91124,
+  "num_followers": 91176,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,30 @@
     {
       "added_at": "2025-06-19 23:00:21",
       "album": {
+        "name": "Going On",
+        "url": "https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "MC DT",
+          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "Going On",
+      "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
+    },
+    {
+      "added_at": "2025-06-19 23:00:21",
+      "album": {
         "name": "Feel The Rush",
         "url": "https://open.spotify.com/album/0RJI2RE716kMq0TWZGPPwi"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 153802,
       "name": "Burna",
       "url": "https://open.spotify.com/track/6SzRVOjeTqor9jBVZ2PP6W"
-    },
-    {
-      "added_at": "2025-06-19 23:00:21",
-      "album": {
-        "name": "Going On",
-        "url": "https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "MC DT",
-          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Going On",
-      "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
     },
     {
       "added_at": "2025-06-19 23:00:21",

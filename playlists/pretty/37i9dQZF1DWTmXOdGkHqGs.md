@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,327 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,387 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 3 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 |
 | 4 | [Oye Mujer](https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 4:19 |
 | 5 | [Amor de Vago](https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [Amor de Vago](https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2) | 3:08 |
-| 6 | [Como Una Novela](https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Intimidades](https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39) | 3:46 |
-| 7 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
+| 6 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
+| 7 | [Como Una Novela](https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Intimidades](https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39) | 3:46 |
 | 8 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
 | 9 | [Cumbia Chida](https://open.spotify.com/track/3PojshECzfytWsn6JezkN6) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Cumbia Chida](https://open.spotify.com/album/3UvKajTKTMv1wRpIEC6p1Y) | 2:42 |
 | 10 | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1) | 3:14 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 92 | [Me Re Cabio](https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 3:09 |
 | 93 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 |
 | 94 | [De los Besos Que Te Di](https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [De los Besos Que Te Di](https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws) | 3:06 |
-| 95 | [Lo Intentamos](https://open.spotify.com/track/2Qj3RcwYRKV7AR2qpAapB8) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Intentamos](https://open.spotify.com/album/2Sm5w6stIMeYwnjaE8nuV5) | 3:34 |
-| 96 | [Se Olvidó y Bailó](https://open.spotify.com/track/4IMPF8DbGggiFMvrnruoos) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Se Olvidó y Bailó](https://open.spotify.com/album/6YpnE3LDo2JwSEH1rdL9Vo) | 2:36 |
+| 95 | [Se Olvidó y Bailó](https://open.spotify.com/track/4IMPF8DbGggiFMvrnruoos) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Se Olvidó y Bailó](https://open.spotify.com/album/6YpnE3LDo2JwSEH1rdL9Vo) | 2:36 |
+| 96 | [Lo Intentamos](https://open.spotify.com/track/2Qj3RcwYRKV7AR2qpAapB8) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Intentamos](https://open.spotify.com/album/2Sm5w6stIMeYwnjaE8nuV5) | 3:34 |
 | 97 | [Par\-Tusa](https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Par\-Tusa](https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo) | 3:10 |
 | 98 | [No Se Va \- En Vivo](https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/7wSlC7xpd3WboQgYQtC55G) | 2:52 |
 | 99 | [Joda Clandestina](https://open.spotify.com/track/0GagwFgtQHNefc02XXEsMP) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Joda Clandestina](https://open.spotify.com/album/0EPQkabXlUpa2Py5Wu9bXs) | 2:37 |

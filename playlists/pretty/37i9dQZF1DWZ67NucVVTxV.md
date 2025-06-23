@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Money on my Mind\. Mind on my money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,968 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,001 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

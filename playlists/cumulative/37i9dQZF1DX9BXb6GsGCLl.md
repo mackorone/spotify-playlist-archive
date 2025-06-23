@@ -4,7 +4,7 @@
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-307 songs - 15 hr 52 min
+308 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-08-20 | 2025-03-19 |
 | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5) | 3:05 | 2021-08-20 | 2022-07-29 |
 | [Hotel Walls](https://open.spotify.com/track/0IZoBFaTUG79KBfKlv8zmG) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Hotel Walls](https://open.spotify.com/album/3vo7F1U983bPR68ojP5aSj) | 3:26 | 2021-08-20 | 2022-07-28 |
-| [Houdini](https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:47 | 2025-03-18 |  |
+| [Houdini](https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:47 | 2025-03-18 | 2025-06-23 |
 | [Humans \(Let Me Love You\)](https://open.spotify.com/track/1IB1GFSTgmeecjscmAJ0lW) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Humans \(Let Me Love You\)](https://open.spotify.com/album/5L7tRsDCBk9fXodzcpUksI) | 2:41 | 2021-08-20 | 2022-05-08 |
 | [I Don't Know Why](https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [I Don't Know Why](https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj) | 3:27 | 2021-08-20 | 2025-03-19 |
 | [I Got A Feeling](https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [I Got A Feeling](https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt) | 2:24 | 2021-08-20 | 2023-05-01 |
@@ -269,6 +269,7 @@
 | [Take Your Love](https://open.spotify.com/track/1Cxlad9pX88iFic9SjlqBt) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Take Your Love](https://open.spotify.com/album/2dDHWQTArZvr2QkP2njn7d) | 3:33 | 2021-08-20 | 2022-07-28 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2025-03-18 |  |
 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 | 2025-03-18 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2025-03-18 |  |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-03-18 |  |
 | [The Bones \- with Hozier](https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Bones \(with Hozier\)](https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH) | 3:17 | 2021-08-20 | 2025-03-19 |
 | [The Chancer \- Svidden Remix](https://open.spotify.com/track/69h0fvryrGvY6WPWuFIs3X) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Under the Surface](https://open.spotify.com/album/4WvW7Y50LuI1yE1XWxtAVk) | 3:26 | 2021-08-20 | 2022-05-25 |

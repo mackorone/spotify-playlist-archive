@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 11575,
+  "num_followers": 11579,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
         "name": "Real As It Gets (feat. EST Gee)",
         "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 192804,
       "name": "Real As It Gets (feat. EST Gee)",
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
-      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "added_at": "2022-10-02 02:05:19",

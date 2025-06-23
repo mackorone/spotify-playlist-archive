@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Nicole Moudaber
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,659 likes - 120 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,682 likes - 120 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 50 | [Reactivated](https://open.spotify.com/track/3ZgT3Y2EnCnu3Yf1X0gEPj) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Reactivated](https://open.spotify.com/album/1HPC7dQKV9uYM3rIJzl2Z5) | 3:28 |
 | 51 | [Teardrops](https://open.spotify.com/track/1ooF1GtoHziUctFM94iRVW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Teardrops](https://open.spotify.com/album/2Xy2W6IDyQUrPQmJ470i9A) | 3:24 |
 | 52 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 |
-| 53 | [Dopamine Nation](https://open.spotify.com/track/4R1exZqdXsGJrJrhvtzq8T) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Dopamine Nation](https://open.spotify.com/album/7yxLcZvEOqY0BS4HRSZ5EM) | 3:53 |
+| 53 | [Dopamine Nation](https://open.spotify.com/track/4R1exZqdXsGJrJrhvtzq8T) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Dopamine Nation](https://open.spotify.com/album/7yxLcZvEOqY0BS4HRSZ5EM) | 3:53 |
 | 54 | [Roll the Dice \- Konstantin Sibold Remix](https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Roll the Dice \(Konstantin Sibold Remix\)](https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0) | 4:45 |
 | 55 | [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 |
 | 56 | [Fama Land](https://open.spotify.com/track/56WiMUDQp79uR9z0IS31Zk) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Fama Land](https://open.spotify.com/album/4WSadtQbWAaPax0y8Y4BKo) | 3:24 |

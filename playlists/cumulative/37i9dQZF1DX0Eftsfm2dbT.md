@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: STUTS on the WAVE
 
-1,717 songs - 3 day 15 hr 31 min
+1,718 songs - 3 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1588,6 +1588,7 @@
 | [アツい](https://open.spotify.com/track/6n8OtvTLfvgElvXHFGT03Z) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [アツい](https://open.spotify.com/album/51e7SrfvveBwClUJ8ypaZL) | 2:30 | 2024-07-30 | 2024-08-28 |
 | [イカれたゲーム](https://open.spotify.com/track/35AqyuX0ti4FuUnaElmC0o) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [イカれたゲーム](https://open.spotify.com/album/3hEPaFA3NrAuHf28kaaqjB) | 3:38 | 2023-10-31 | 2023-11-02 |
 | [オレたちが気になる](https://open.spotify.com/track/5uk6OoObDUbDbvsbfVKlnu) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [炒炒](https://open.spotify.com/artist/7ACr4V99K9o7WZrPIFlys0), [D\-KARAT](https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK) | [Zee PACK vol.2](https://open.spotify.com/album/6SNvmlEdCEpJgUMGOiCokh) | 3:23 | 2023-12-20 | 2023-12-23 |
+| [オワリ](https://open.spotify.com/track/2qUEiCahiWmFQ7JZeIC2FV) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [オワリ](https://open.spotify.com/album/5J1ctGAwBXENwedpmGwaEB) | 4:20 | 2025-06-23 |  |
 | [カナデ](https://open.spotify.com/track/12f1Jpu5Xrcl7JVwmAf1uz) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [カナデ](https://open.spotify.com/album/6rvvgIw4mLNYG6M4xE49Vn) | 4:23 | 2023-11-28 | 2024-01-31 |
 | [カリスマ](https://open.spotify.com/track/5UFg1r0PEjZ3KN4lhN89TK) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Dark Hero](https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm) | 4:33 | 2025-02-12 | 2025-03-18 |
 | [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 | 2025-05-18 | 2025-05-20 |

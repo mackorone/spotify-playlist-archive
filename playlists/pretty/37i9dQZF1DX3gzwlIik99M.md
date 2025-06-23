@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,323 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,319 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 34 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
 | 35 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |
 | 36 | [Cantina Del Infierno](https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [No Money No Fiesta](https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq) | 2:49 |
-| 37 | [Exoplanets](https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t) | [SYRACUSÆ](https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy) | [Radix Nebulæ](https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX) | 4:01 |
-| 38 | [Acero Inmortal](https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Fugitive State of Mind](https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai) | 3:47 |
+| 37 | [Acero Inmortal](https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Fugitive State of Mind](https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai) | 3:47 |
+| 38 | [Exoplanets](https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t) | [SYRACUSÆ](https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy) | [Radix Nebulæ](https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX) | 4:01 |
 | 39 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
 | 40 | [Toca Madera](https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm) | [Panzer](https://open.spotify.com/artist/1tH9rZBW0zADWX6ZJP0v9N) | [Toca Madera](https://open.spotify.com/album/4PDGOiVAnuuOS9L1RSZHY1) | 3:31 |
 | 41 | [El Vuelo Del Dragón](https://open.spotify.com/track/5Sv5Ot5oMZf9mrNwZ95bku) | [Patan](https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz) | [Acero](https://open.spotify.com/album/4HwQsHeVEPhMYyH49mMy2q) | 4:25 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 44 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
 | 45 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
 | 46 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 |
-| 47 | [Strong as Hell](https://open.spotify.com/track/30QNaLNk7w1eOV8HeiATZr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Death Based Illusions](https://open.spotify.com/album/3srYoLcpQ2m6oDMyvJQ5af) | 4:19 |
-| 48 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
+| 47 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
+| 48 | [Strong as Hell](https://open.spotify.com/track/30QNaLNk7w1eOV8HeiATZr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Death Based Illusions](https://open.spotify.com/album/3srYoLcpQ2m6oDMyvJQ5af) | 4:19 |
 | 49 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 |
 | 50 | [No Olvido de Donde Soy](https://open.spotify.com/track/42f1zC2QXFIrnuIvrgZgnv) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Lanza en Mano](https://open.spotify.com/album/40tqGOnfjUC2oaZwiOjmmN) | 4:16 |
 

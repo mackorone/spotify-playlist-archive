@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 34 | [Nie Pytaj Mnie](https://open.spotify.com/track/7eQQZnk2eYukRlWSN771gl) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:19 |
 | 35 | [The Chase](https://open.spotify.com/track/0FZlnRFL7ZgzGdnC4BKt4S) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:20 |
 | 36 | [Still Standing](https://open.spotify.com/track/4zUhhxvvoVMH4mZ1fdr2ld) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Still Standing \- SM STATION](https://open.spotify.com/album/24CLUCxTxhwygLoY8gEMNy) | 3:14 |
-| 37 | [Just Like That](https://open.spotify.com/track/3UENMxXGcezMRDxpBPdMbn) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Just Like That](https://open.spotify.com/album/78ZOrEwPBjbrPO6eYaYN87) | 2:49 |
-| 38 | [Heartbreak](https://open.spotify.com/track/60jNuzsFuct0QEb22AlhdJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:01 |
+| 37 | [Heartbreak](https://open.spotify.com/track/60jNuzsFuct0QEb22AlhdJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:01 |
+| 38 | [Just Like That](https://open.spotify.com/track/3UENMxXGcezMRDxpBPdMbn) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Just Like That](https://open.spotify.com/album/78ZOrEwPBjbrPO6eYaYN87) | 2:49 |
 | 39 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 |
 | 40 | [First Time](https://open.spotify.com/track/5y2OdzPeFn06dnWGJLnn0Y) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WHO'S BACK?](https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu) | 3:45 |
 | 41 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 67 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 68 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 
-Snapshot ID: `Ab0w1AAAAAAbDbyJj4BPizCrtliYYlU2`
+Snapshot ID: `Ab02dAAAAAAE/p9eVlx0RtC7q1FAhubB`

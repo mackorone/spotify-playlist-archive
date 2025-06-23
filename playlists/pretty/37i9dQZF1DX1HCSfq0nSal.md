@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Saiko, Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,500,281 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,500,296 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

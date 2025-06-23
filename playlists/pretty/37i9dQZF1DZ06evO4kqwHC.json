@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1087211,
+  "num_followers": 1087262,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAA7IEzGT4VI6Sskm/XuSl6N",
+  "snapshot_id": "aFX2AAAAAAD9kSTCReEOCphfIr5P3sXX",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 219400,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
+      "duration_ms": 252106,
+      "name": "DOA",
+      "url": "https://open.spotify.com/track/1QZFn6QUNHfCp8s06C91hw"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 252106,
-      "name": "DOA",
-      "url": "https://open.spotify.com/track/1QZFn6QUNHfCp8s06C91hw"
+      "duration_ms": 219400,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 321053,
-      "name": "Stranger Things Have Happened",
-      "url": "https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Your Honor",
         "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 196573,
       "name": "No Way Back",
       "url": "https://open.spotify.com/track/2MKEQhvPb2VaJXjx5X8Yg6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 321053,
+      "name": "Stranger Things Have Happened",
+      "url": "https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Let It Die",
-      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 248266,
       "name": "Hey, Johnny Park!",
       "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
     },
     {
       "added_at": null,

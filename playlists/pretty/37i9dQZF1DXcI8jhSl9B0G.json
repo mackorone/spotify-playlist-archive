@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74759,
+  "num_followers": 74756,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+        }
+      ],
+      "duration_ms": 215769,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Jackson (Cover)",
         "url": "https://open.spotify.com/album/28REKiqomkBstRutFWUkom"
       },
@@ -971,34 +987,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW"
+        "name": "sprouts",
+        "url": "https://open.spotify.com/album/6vN6P8t4PiSzgBMqIJ1qyf"
       },
       "artists": [
         {
-          "name": "Lisa Mitchell",
-          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
-        }
-      ],
-      "duration_ms": 215769,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Wanna Be with You",
-        "url": "https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA"
-      },
-      "artists": [
+          "name": "rosarrie",
+          "url": "https://open.spotify.com/artist/7JGtDLeiMS8MXVZzbeDNCi"
+        },
         {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
+          "name": "Winter Foe",
+          "url": "https://open.spotify.com/artist/4GYawQUhnxYepBC7WhUJ4N"
         }
       ],
-      "duration_ms": 191608,
-      "name": "Wanna Be with You",
-      "url": "https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ"
+      "duration_ms": 212378,
+      "name": "sprouts",
+      "url": "https://open.spotify.com/track/4Rj8LmDWys5LA2yeQ8GFvh"
     }
   ],
   "unique_name": "Summer Daze",

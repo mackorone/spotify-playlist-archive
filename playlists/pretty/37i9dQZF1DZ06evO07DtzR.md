@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,877 likes - 47 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,880 likes - 47 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 26 | [この世界で見つけたもの](https://open.spotify.com/track/0J5zXEFekERapufcXNp5FJ) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 4:51 |
 | 27 | [elbadaernU](https://open.spotify.com/track/7hWcW1U8ZUkjFYRo3sHEzT) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 4:10 |
 | 28 | [It's all about you](https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:07 |
-| 29 | [カナデナル](https://open.spotify.com/track/6JgfEzVw7KCWzLeE5rRfqC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 4:17 |
+| 29 | [名前のない怪物 \-TV Edit \-](https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit \-](https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl) | 1:42 |
 | 30 | [想いを巡らす100の事象](https://open.spotify.com/track/13M5fPkKHmEtI92zR8VKm3) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 2:55 |
-| 31 | [名前のない怪物 \-TV Edit \-](https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit \-](https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl) | 1:42 |
+| 31 | [カナデナル](https://open.spotify.com/track/6JgfEzVw7KCWzLeE5rRfqC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 4:17 |
 | 32 | [Door](https://open.spotify.com/track/53MmtPvpScpwrk1Dr87yOG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:34 |
 | 33 | [The Everlasting Guilty Crown Nightcore mix](https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 5:01 |
 | 34 | [Lovely Icecream Princess Sweetie](https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 4:03 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 46 | [Departures 〜あなたにおくるアイの歌〜 \-Instrumental\-](https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 4:14 |
 | 47 | [All Alone With You \-Instrumental\-](https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 5:50 |
 
-Snapshot ID: `aFSkgAAAAAB1IqXNVzOlqEHasYEhQ9AM`
+Snapshot ID: `aFX2AAAAAAAExgDTw6xslu6Y79Bgltde`

@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-583 songs - 1 day 11 hr 19 min
+584 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [hands](https://open.spotify.com/track/38brEUUgL0fFovAqQMm9gb) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 5:58 | 2022-10-20 | 2022-11-09 |
 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 | 2022-10-20 |  |
 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 | 2022-11-08 | 2024-04-19 |
-| [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 | 2023-05-18 |  |
+| [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 | 2023-05-18 | 2025-06-23 |
 | [hayley.](https://open.spotify.com/track/6yP9ZYK6fNkFVv20nS2jAj) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [hayley.](https://open.spotify.com/album/7HMmp7mn41iR0wYVPCsfr2) | 3:02 | 2022-11-01 | 2022-11-30 |
 | [Headlock \- Demo](https://open.spotify.com/track/2dnPEMYTJQ81ZHeIlNrhGj) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine \(Demos\)](https://open.spotify.com/album/2rppdlwdpcz5FUUK14rvjW) | 3:06 | 2023-11-02 | 2023-11-22 |
 | [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 | 2023-03-28 | 2023-05-05 |
@@ -395,6 +395,7 @@
 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 | 2023-10-12 | 2023-11-16 |
 | [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 | 2022-12-15 |  |
 | [Sorry](https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL COVER ALL](https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD) | 2:49 | 2023-02-16 | 2023-04-07 |
+| [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-06-06 |  |
 | [Spend The Night](https://open.spotify.com/track/2oG1oToCZ4BxndReZAr48T) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Spend The Night](https://open.spotify.com/album/0RU0vonPGqmIxLGxCyxM1m) | 3:23 | 2023-03-16 | 2023-04-21 |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-17 | 2023-10-21 |
 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 | 2022-12-15 | 2023-04-09 |

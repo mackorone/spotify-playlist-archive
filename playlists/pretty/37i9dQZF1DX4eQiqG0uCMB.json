@@ -1,6 +1,6 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 40676,
+  "num_followers": 40689,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-06-13 03:12:49",
       "album": {
-        "name": "Homeless",
-        "url": "https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Can't Breathe",
-      "url": "https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN"
-    },
-    {
-      "added_at": "2025-06-13 03:12:49",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 186382,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2025-06-13 03:12:49",
+      "album": {
+        "name": "Homeless",
+        "url": "https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Can't Breathe",
+      "url": "https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN"
     },
     {
       "added_at": "2025-06-13 03:12:49",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-06-13 03:12:49",
       "album": {
-        "name": "Jaga Jaga",
-        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Jaga Jaga",
-      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
-    },
-    {
-      "added_at": "2025-06-13 03:12:49",
-      "album": {
         "name": "Trumpet",
         "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+    },
+    {
+      "added_at": "2025-06-13 03:12:49",
+      "album": {
+        "name": "Jaga Jaga",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Jaga Jaga",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "added_at": "2025-06-13 03:12:49",

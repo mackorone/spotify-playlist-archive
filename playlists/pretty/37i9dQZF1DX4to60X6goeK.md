@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: skantia
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,154 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,176 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 43 | [Ice Cold](https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Ice Cold](https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV) | 2:03 |
 | 44 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
 | 45 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
-| 46 | [Bad Boy Horns](https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8) | [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD), [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Bad Boy Horns](https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt) | 4:12 |
-| 47 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |
+| 46 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |
+| 47 | [Bad Boy Horns](https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8) | [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD), [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Bad Boy Horns](https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt) | 4:12 |
 | 48 | [Eat $hit](https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Eat $hit](https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03) | 3:00 |
 | 49 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
 | 50 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 |

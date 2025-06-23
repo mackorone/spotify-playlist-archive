@@ -4,7 +4,7 @@
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-533 songs - 1 day 5 hr 51 min
+534 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Nigdy Mi Nie Przejdzie](https://open.spotify.com/track/0ZlTcfREOWGOoATsXbWHIl) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d), [Piotr Rubik](https://open.spotify.com/artist/5WueU5rl41UJePlysv2ZON) | [Arbuzowy Zachód Słońca](https://open.spotify.com/album/0ZnWoBUG8Mr0o81WkfE4PK) | 3:19 | 2025-02-28 | 2025-03-29 |
 | [Nikt nie płacze wiecznie](https://open.spotify.com/track/5SrRtY9fw22UrKHZ0hTSgz) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Nikt nie płacze wiecznie](https://open.spotify.com/album/5eLbMIH3MFO7HJqRZg9XXr) | 2:43 | 2024-10-07 | 2025-01-24 |
 | [No Happy Ending](https://open.spotify.com/track/6L4xSrPRxUlpfLWXSbztyT) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 2:20 | 2024-10-25 | 2024-11-09 |
-| [no hard feelings](https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [no hard feelings](https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI) | 2:21 | 2025-05-31 |  |
+| [no hard feelings](https://open.spotify.com/track/4dixJxYoYykPCf7HFnztZE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [no hard feelings](https://open.spotify.com/album/3v4laz9qZom6Lr3xrJVTqI) | 2:21 | 2025-05-31 | 2025-06-23 |
 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 | 2024-08-20 | 2024-08-31 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-29 | 2025-03-01 |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-06-28 | 2024-09-13 |
@@ -377,6 +377,7 @@
 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 | 2025-02-21 | 2025-03-15 |
 | [Ptaki](https://open.spotify.com/track/2LwA6OrbN2DFP9osByAYEY) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/2he62aL4O9Bg03NYRK9LvA) | 4:06 | 2025-02-28 | 2025-03-08 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-09-20 | 2024-11-22 |
+| [Pół na pół](https://open.spotify.com/track/4S8PXtXDPcHsJCyA6EnJAH) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Pół na pół](https://open.spotify.com/album/3hyEeIghFGbEf9YU33qNkl) | 3:21 | 2025-06-20 |  |
 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 | 2024-11-21 | 2025-01-25 |
 | [Pętliczek](https://open.spotify.com/track/5OMgFkNmlXtDJFrfLuviR3) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU), [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Pętliczek](https://open.spotify.com/album/4mmDfkmlOKI0oYvCCW2KPY) | 2:54 | 2025-06-20 |  |
 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-06-20 |  |

@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Miles Kane
 
-332 songs - 21 hr 40 min
+334 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-17 |  |
 | [July](https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [July](https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC) | 4:08 | 2024-06-14 | 2025-01-31 |
 | [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 | 2024-11-15 | 2025-02-04 |
+| [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-20 |  |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-08-14 |  |
 | [LA Runaway](https://open.spotify.com/track/3RHpo59t2CgyKlUGH2EXqX) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Night Life](https://open.spotify.com/album/3L09yca8KWKT7vNzVHKyQA) | 5:06 | 2025-03-21 | 2025-06-08 |
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 | 2025-05-09 |
@@ -224,7 +225,7 @@
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2024-06-14 | 2025-03-22 |
 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 | 2025-05-30 |  |
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-21 |  |
-| [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 | 2024-08-14 |  |
+| [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 | 2024-08-14 | 2025-06-23 |
 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-17 | 2025-05-22 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-06 |  |
 | [Passing Judgment](https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Passing Judgment](https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1) | 3:58 | 2024-06-14 | 2024-07-12 |
@@ -296,6 +297,7 @@
 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2024-10-06 |  |
 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 | 2024-06-14 | 2024-08-15 |
 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-06-06 |  |
+| [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 | 2025-06-20 |  |
 | [The Silence That Remains](https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [The Silence That Remains](https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95) | 5:42 | 2024-10-06 | 2025-03-23 |
 | [The Spirit](https://open.spotify.com/track/4WnsGUynB9D65tenA7U5gI) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 4:55 | 2025-05-08 |  |
 | [The Thief](https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:21 | 2024-06-14 | 2025-03-22 |
@@ -328,7 +330,7 @@
 | [Way Over Your Head](https://open.spotify.com/track/0BrlNgoHkld65rRAosLY3h) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Yummy](https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY) | 4:18 | 2024-06-14 | 2025-02-12 |
 | [We Make Hits](https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [We Make Hits](https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v) | 3:02 | 2024-06-14 | 2024-10-07 |
 | [What Happened to You, Son?](https://open.spotify.com/track/7zVv9b6OHWjumvA4nZKXUR) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [What Happened to You, Son?](https://open.spotify.com/album/1ZMvxAEsE0m5dBGtNBELvO) | 3:42 | 2024-06-14 | 2024-10-07 |
-| [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 | 2025-03-21 |  |
+| [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 | 2025-03-21 | 2025-06-23 |
 | [White Whale](https://open.spotify.com/track/6CEIjm87xA5unfYc5Us3Le) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [White Whale](https://open.spotify.com/album/258egaEnfTB5i4d6o2jE9I) | 6:38 | 2024-11-15 | 2025-01-09 |
 | [Wild Fields](https://open.spotify.com/track/4hHEp3wA5T8sEJAkCSuRVF) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a) | [Wild Fields](https://open.spotify.com/album/0PBFlh8JPVW5jHjGinKIKN) | 4:05 | 2025-05-23 | 2025-06-01 |
 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:09 | 2024-06-14 | 2025-02-08 |

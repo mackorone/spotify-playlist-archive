@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,563 likes - 173 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,562 likes - 174 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,6 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 170 | [I Would \- Australian Version](https://open.spotify.com/track/3lGjD7k0g4VopZ1M9WyIYm) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [My Only](https://open.spotify.com/album/1YWbJuyQjHIqpIMwZt5Zvp) | 3:21 |
 | 171 | [Suffocating Slow](https://open.spotify.com/track/31NFESnhQMw2XQMt41EJ1Q) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/3x3lrvuEZeyt6ocLp4XTOT) | 3:08 |
 | 172 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
-| 173 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
+| 173 | [Ride Up To The Door](https://open.spotify.com/track/4PegP7kf2a5RlgVgRZRmon) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Abomination EP](https://open.spotify.com/album/35G5xhEUPV2BPz0uqS9tBp) | 3:51 |
+| 174 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `Ab0w6AAAAACls88al3+lYKbotHNGf5OW`
+Snapshot ID: `Ab02fgAAAAC/qHVAAdNPrimpwvltFZyc`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
 
-425 songs - 22 hr 41 min
+426 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [way too much](https://open.spotify.com/track/4W64FXQzz1vEvs4xH3wOal) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6) | [way too much](https://open.spotify.com/album/1PkiCzZ4rpTLpcVRUqItrZ) | 1:58 | 2023-07-18 | 2024-02-21 |
 | [Way Up](https://open.spotify.com/track/4VLws1htn1cLel6LpUe3D4) | [Laila Beshara](https://open.spotify.com/artist/1jLZGIAr5dV3MrPxe4EKJD), [AMR OMAR](https://open.spotify.com/artist/3FMgXCU1dPKbTexcI0yVND) | [Things You Don't Tell Yourself](https://open.spotify.com/album/6BtKroE9NthS2kTSsYv8dT) | 3:19 | 2023-06-20 | 2024-02-01 |
 | [Wein Hal Ghaybe](https://open.spotify.com/track/5utpreqHOAzJr8mdgW1Dp5) | [Talia Lahoud](https://open.spotify.com/artist/2GZKdLlhqyduNJvT1CcaGD) | [Wein Hal Ghaybe](https://open.spotify.com/album/6tQQ242xkPSa0VI4gdbxhh) | 3:11 | 2025-05-28 |  |
-| [Wesh el 5ashab](https://open.spotify.com/track/7dc90BarhK5PuvknDSc7XW) | [Jamal Ehab](https://open.spotify.com/artist/0dKJFqvjn27MdgFtwWKm4y) | [Wesh el 5ashab](https://open.spotify.com/album/3B3uJvJ2l5GFcfuQpbd0Iw) | 4:05 | 2024-11-06 |  |
+| [Wesh el 5ashab](https://open.spotify.com/track/7dc90BarhK5PuvknDSc7XW) | [Jamal Ehab](https://open.spotify.com/artist/0dKJFqvjn27MdgFtwWKm4y) | [Wesh el 5ashab](https://open.spotify.com/album/3B3uJvJ2l5GFcfuQpbd0Iw) | 4:05 | 2024-11-06 | 2025-06-23 |
 | [What I Mean](https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [What I Mean](https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY) | 2:49 | 2022-11-08 | 2023-04-05 |
 | [Whipsnake](https://open.spotify.com/track/2pXn0mwxI2lOBVphfmvZuB) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Whipsnake](https://open.spotify.com/album/068E0nUl4zWsX3m7lNy9Lm) | 3:30 | 2024-02-07 | 2024-06-27 |
 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 | 2022-09-20 | 2022-09-28 |
@@ -404,6 +404,7 @@
 | [Zero](https://open.spotify.com/track/7xYfaaut5INqsSL0gWdvq2) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Zero](https://open.spotify.com/album/4RVqVo22yiOjjyb07dZvmh) | 4:16 | 2024-01-16 | 2024-06-27 |
 | [ZIK](https://open.spotify.com/track/2KtjMjvG5ZMRlKTpFQB4eJ) | [Massyl Aïta](https://open.spotify.com/artist/11k7ODo5tK9sRRseJMR90d) | [ZIK](https://open.spotify.com/album/1XnTTW2lDUzhq1WmSkOu9o) | 4:19 | 2023-03-01 | 2023-07-19 |
 | [ça ira mieux](https://open.spotify.com/track/0S6Aanrei1yPQ2cOadDg9E) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [ça ira mieux](https://open.spotify.com/album/3xKmJfhleJoPmardRq4bWq) | 2:04 | 2024-06-26 | 2024-09-12 |
+| [ادي الايام](https://open.spotify.com/track/0LfqSLdayU8s012yBYILY5) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [ادي الايام](https://open.spotify.com/album/6otvAKsCYxckhbe3bHJWpa) | 3:19 | 2025-06-22 |  |
 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 | 2024-01-16 | 2024-06-27 |
 | [الورود](https://open.spotify.com/track/0yLiUX7xOAqQ4qOaE5zwyV) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [الورود](https://open.spotify.com/album/5lHlJTXmNbWAnk8D9kqDgO) | 2:22 | 2023-03-01 | 2023-03-14 |
 | [الورود](https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [ELWOROUD](https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR) | 2:22 | 2023-03-07 | 2023-03-15 |

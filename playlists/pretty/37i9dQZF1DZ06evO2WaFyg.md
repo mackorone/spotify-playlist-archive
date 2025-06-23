@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,166 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,193 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 49 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 |
 | 50 | [Lightyears \(with Young Thug\)](https://open.spotify.com/track/6vVzKCUfA6LzEU9wH0xNUR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Lightyears \(with Young Thug\)](https://open.spotify.com/album/5WAhisFRMfSACOZUyxuWsB) | 3:12 |
 
-Snapshot ID: `aFSkgAAAAABqYEMCXsmF98/tM68VoA2R`
+Snapshot ID: `aFX2AAAAAADEHAjrjjp/h8dvJWV7C3UO`

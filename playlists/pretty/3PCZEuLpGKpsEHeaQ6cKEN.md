@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  DJ HEARTSTRING
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 267,922 likes - 194 songs - 10 hr 18 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 267,880 likes - 194 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

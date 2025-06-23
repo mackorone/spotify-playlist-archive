@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 155087,
+  "num_followers": 155125,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACs3spvyF0Vb19RadjgOnsU",
+  "snapshot_id": "aFX2AAAAAADvqIJ7qE7XoGJ131o1UfUt",
   "tracks": [
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KANA",
-        "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 207378,
-      "name": "KANA",
-      "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KANA",
+        "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 207378,
+      "name": "KANA",
+      "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Refuse to Be Broke: Da Revolution 2",
         "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 261545,
       "name": "Slow Down (feat. Wiz Kid)",
       "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 198678,
       "name": "Jam (feat. Wizkid)",
       "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Money & Love",
-      "url": "https://open.spotify.com/track/213Ymlnss7DUsqG7Ut1HW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 248472,
       "name": "BROWN SKIN GIRL",
       "url": "https://open.spotify.com/track/0B3FovCVaGKS5w1FTidEUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Money & Love",
+      "url": "https://open.spotify.com/track/213Ymlnss7DUsqG7Ut1HW0"
     },
     {
       "added_at": null,
@@ -931,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Frames (Who's Gonna Know)",
-      "url": "https://open.spotify.com/track/1xQQJELCro7Fys7pUnHVYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 178775,
       "name": "Electric (feat. Wizkid & London)",
       "url": "https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Frames (Who's Gonna Know)",
+      "url": "https://open.spotify.com/track/1xQQJELCro7Fys7pUnHVYv"
     },
     {
       "added_at": null,
@@ -1023,18 +1023,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+        "name": "Ignorance is Bliss",
+        "url": "https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec"
       },
       "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Lay-Z",
+          "url": "https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh"
+        },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/5xFQlD4ITOWjZdHXjNghbX"
+      "duration_ms": 175346,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru"
     }
   ],
   "unique_name": "This Is Wizkid",

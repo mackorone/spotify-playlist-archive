@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,005 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,009 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 43 | [VITAMINA](https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [VITAMINA](https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916) | 3:28 |
 | 44 | [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 |
 | 45 | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/track/1bOomfQ28HND8HwT0tViLT) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye) | [DEJA QUE EL MUNDO SE ACABE](https://open.spotify.com/album/3W3S0gSwBs27p6bE64BxHo) | 3:00 |
-| 46 | [More](https://open.spotify.com/track/0Imc5xRXd0eV9Ln55M1kz6) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [La Fórmula](https://open.spotify.com/album/4TFYUZbcQWhBHPK1aZikSO) | 4:00 |
+| 46 | [More](https://open.spotify.com/track/0rKqFkLnkcZByHMjN60KAn) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Pina Records Presenta : La Fórmula , the Company](https://open.spotify.com/album/7E8t3ndNuKlNoV0nYA8QWM) | 4:00 |
 | 47 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 |
 | 48 | [sobelove](https://open.spotify.com/track/3fmw8iIyQDS2L7nE6Wd0xG) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:11 |
 | 49 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
 | 50 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 |
 
-Snapshot ID: `L+onKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+t2UAAAAAAAAAAAAAAAAAAAAAAAAGVu`

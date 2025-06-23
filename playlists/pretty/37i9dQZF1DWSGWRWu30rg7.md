@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Merayakan 10 tahun Fresh Finds, temukan talenta segar dalam negeri\. Cover: PAPION
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,252 likes - 95 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,254 likes - 95 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

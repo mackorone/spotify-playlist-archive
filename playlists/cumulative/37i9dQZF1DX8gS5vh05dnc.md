@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-366 songs - 19 hr 34 min
+368 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [After The Tone](https://open.spotify.com/track/3XwSVHvobJ4Z4SfvF9fTNz) | [Justin Adijanto](https://open.spotify.com/artist/3jPJR4xjyCwJQSG5JLEbzl), [SAWA](https://open.spotify.com/artist/0HCd0T7uXpnIUJgrBTlEvE) | [After The Tone](https://open.spotify.com/album/7HwIUiOremortAibAsFUPM) | 4:35 | 2022-06-13 | 2022-06-15 |
 | [ain't leavin' without you](https://open.spotify.com/track/4RMvwkiBDFysupvBWkJDoJ) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [ain't leavin' without you](https://open.spotify.com/album/6UshO89K1Or0hwvl7r05MO) | 3:57 | 2022-06-06 | 2022-07-27 |
 | [Alive](https://open.spotify.com/track/44OznaUsvuPVbcJNKMOVcp) | [Tropic](https://open.spotify.com/artist/5Ix5mo2NuCnVO5mhWpcvOJ) | [Alive](https://open.spotify.com/album/3WFJRVtfR6GeafsW7SOxrz) | 3:40 | 2022-06-06 | 2022-07-28 |
-| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 |  |
+| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 | 2025-06-23 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2024-04-08 |  |
 | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/track/3i0CZ8RoNRrNoNkHzm8UYQ) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [All My Sins \(feat\. syd hartha\)](https://open.spotify.com/album/2KmGCyKY57BZUfuH33BZnV) | 2:51 | 2022-06-06 | 2022-07-29 |
 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 | 2023-02-13 | 2024-04-19 |
@@ -94,6 +94,7 @@
 | [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 | 2024-07-08 | 2024-07-15 |
 | [Divine](https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Divine](https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31) | 3:01 | 2024-06-10 | 2024-06-17 |
 | [Do You Love Me](https://open.spotify.com/track/1rbjic9uKr1p6nxnjLDHN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Do You Love Me](https://open.spotify.com/album/3KmwObuD2kb4XcuUnMJkQ7) | 2:24 | 2022-06-06 | 2022-07-29 |
+| [DON'T CRY FOR ME](https://open.spotify.com/track/5oUkIlxTRvWujRw5X57J7a) | [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [DON'T CRY FOR ME](https://open.spotify.com/album/2ilVgt2CYocL4JX0xxXBaR) | 3:08 | 2025-06-22 |  |
 | [Don't Miss You](https://open.spotify.com/track/1BvnzvJjR746QsUlDYrTYL) | [dopameen](https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T) | [Don't Miss You](https://open.spotify.com/album/4O8dBJK2LHyco37w4M0jsQ) | 1:52 | 2024-05-13 | 2024-05-20 |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2022-07-25 |  |
 | [don't tell me i'm going to hell](https://open.spotify.com/track/2evOGNgFQEAhArKH7R8sWv) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [don't tell me that i'm going to hell](https://open.spotify.com/album/12m4XCBwjeQ3wXb2EjXCq1) | 3:49 | 2024-06-03 | 2024-06-10 |
@@ -231,7 +232,7 @@
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-07 | 2024-09-23 |
 | [Mr\. Feelgood](https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Mr\. Feelgood](https://open.spotify.com/album/0vqeG4DVJYoU0YcfcNnfQF) | 3:50 | 2024-06-18 | 2024-07-01 |
 | [Mr\. Nice Guy](https://open.spotify.com/track/6kseAdmTppYOCdKF3kRPaR) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [Mr\. Nice Guy](https://open.spotify.com/album/1fF9wZOYNEfsnC9JxGRG8H) | 2:54 | 2024-10-07 | 2024-10-14 |
-| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-20 |  |
+| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-20 | 2025-06-23 |
 | [My Oh My](https://open.spotify.com/track/3aKNonAXtkjbcqP35vc8pl) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Lipstick Stains](https://open.spotify.com/album/3S098IH93lC7aphwd4XlXC) | 2:56 | 2022-10-20 | 2022-10-25 |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-11-07 |  |
 | [New Friends](https://open.spotify.com/track/6z9Y3JA6IJ8ICBJAqLYQ8M) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [New Friends](https://open.spotify.com/album/08A2ykUh89Zyc6GFqaxFgg) | 3:01 | 2025-03-02 | 2025-03-24 |
@@ -328,6 +329,7 @@
 | [Talk To Me](https://open.spotify.com/track/0ZnElXbF0geNJvnZJfl5wo) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Spinning Around](https://open.spotify.com/album/7eae6QcOQ7yyIa2YI4jwNS) | 2:56 | 2023-03-27 | 2023-04-04 |
 | [Teach Me How To Love](https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:22 | 2024-04-08 |  |
 | [Tell Me](https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Tell Me](https://open.spotify.com/album/0IdZGZ4CGgMj4fhYXzxR4D) | 3:48 | 2025-01-20 | 2025-01-27 |
+| [tequila shots](https://open.spotify.com/track/5uFR8P9ycdyfPAKDbraUrA) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q), [pauline mykell](https://open.spotify.com/artist/58jsD0WdZ3RZpYpqmyPeFV) | [tequila shots](https://open.spotify.com/album/6pcb7r3NIEhLtX6Z1PRQ7n) | 2:07 | 2025-06-22 |  |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2022-07-25 |  |
 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 | 2024-04-08 |  |
 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2022-07-25 | 2024-04-19 |

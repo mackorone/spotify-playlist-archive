@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > DYSTINCT & French Montana on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,929 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,968 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 65 | [Enty M3aya](https://open.spotify.com/track/1BTaGDF0XgDZ54TRdZvbiF) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [EMAGE](https://open.spotify.com/artist/3dHbnberWSCpLL2wOvGBYc) | [Enty M3aya](https://open.spotify.com/album/1QNQ3ecHVDs9oh69iZfbC4) | 2:45 |
 | 66 | [JNSP](https://open.spotify.com/track/2JcX0Jv7nfWb8GxHNRmHqd) | [Karim](https://open.spotify.com/artist/1Ug8yMRic9wUFTBDhzTgxH), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [JNSP](https://open.spotify.com/album/6ANhqRi0RLAi0xZzhT1pW6) | 2:27 |
 | 67 | [La mienne](https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [À la bien \(Winter edition\)](https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp) | 2:42 |
-| 68 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 |
-| 69 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
+| 68 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
+| 69 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 |
 | 70 | [Zine Enem](https://open.spotify.com/track/2Kd4P1W0MJlSyCuKSWUVbN) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Zine Enem](https://open.spotify.com/album/5mUzblU04RqopziKae00ZY) | 2:08 |
 | 71 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 |
 | 72 | [L'Étranger](https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [L'Étranger](https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO) | 3:29 |
-| 73 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 |
-| 74 | [Salam](https://open.spotify.com/track/5CUJniXQzNd6p6fQgRP8FL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Moha K](https://open.spotify.com/album/1AwiOYudehZhlwbAFDOflJ) | 2:21 |
+| 73 | [Salam](https://open.spotify.com/track/5CUJniXQzNd6p6fQgRP8FL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Moha K](https://open.spotify.com/album/1AwiOYudehZhlwbAFDOflJ) | 2:21 |
+| 74 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 |
 | 75 | [Arif Inou](https://open.spotify.com/track/6ycqSprB2ImMdNtnVuVj9N) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Misn Tchar](https://open.spotify.com/album/2eYtcDiTeXBoWJM4DdkCZV) | 2:26 |
 | 76 | [Biba Lik](https://open.spotify.com/track/0xCCEI4yTTaaTI49eQjlc7) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Biba Lik](https://open.spotify.com/album/6rYWKDsT3UEg5dSRt2TeD4) | 2:06 |
 | 77 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
-| 78 | [Lik Ou Lia](https://open.spotify.com/track/2snEwuyP4QCZC5y97R67hb) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Lik Ou Lia](https://open.spotify.com/album/5hYp2FUgUepi7Ekm7NKfI5) | 2:18 |
-| 79 | [Écoute Moi](https://open.spotify.com/track/39BRscIkSE49Royu0tBlox) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Salim](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Écoute Moi](https://open.spotify.com/album/79TjXEzEUByDhfsZ11Y9Gn) | 2:51 |
+| 78 | [Écoute Moi](https://open.spotify.com/track/39BRscIkSE49Royu0tBlox) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Salim](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Écoute Moi](https://open.spotify.com/album/79TjXEzEUByDhfsZ11Y9Gn) | 2:51 |
+| 79 | [Lik Ou Lia](https://open.spotify.com/track/2snEwuyP4QCZC5y97R67hb) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Lik Ou Lia](https://open.spotify.com/album/5hYp2FUgUepi7Ekm7NKfI5) | 2:18 |
 | 80 | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o) | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/album/0TaXS9dzvNl05NN9XdGCxV) | 2:00 |
 
 Snapshot ID: `aFVg4AAAAADQ2V/xVtg4py+dG0LL5fNZ`

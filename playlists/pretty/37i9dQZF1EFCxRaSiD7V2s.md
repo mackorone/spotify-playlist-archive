@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529 likes - 279 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 530 likes - 279 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 88 | [Over the Bow](https://open.spotify.com/track/1BIvM6fKRrfkoD5IsnYIfE) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Slack Tide](https://open.spotify.com/album/11MZQCQnyElUdoeuFTFbKA) | 4:40 |
 | 89 | [Angel](https://open.spotify.com/track/1aCI3Kp5w1cj2nchSqhU3b) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 3:45 |
 | 90 | [Never Kill a Boy on the First Date](https://open.spotify.com/track/76I3bQkyKDsa4MZMursZVB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 2:24 |
-| 91 | [Ghosts](https://open.spotify.com/track/0c8msQ2gqWJOlrPUV7IxIY) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Ty Demo](https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 3:26 |
-| 92 | [Love Bomb](https://open.spotify.com/track/2xAfukY5A9CDNQpytRsOki) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Love Bomb](https://open.spotify.com/album/5FG6rO0YX0Xi4bgSM4B7Vf) | 2:46 |
+| 91 | [Love Bomb](https://open.spotify.com/track/2xAfukY5A9CDNQpytRsOki) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Love Bomb](https://open.spotify.com/album/5FG6rO0YX0Xi4bgSM4B7Vf) | 2:46 |
+| 92 | [Ghosts](https://open.spotify.com/track/0c8msQ2gqWJOlrPUV7IxIY) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Ty Demo](https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 3:26 |
 | 93 | [Dream Was About](https://open.spotify.com/track/5455TYyWAmmR8cHhBidoGc) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:35 |
 | 94 | [Keys Out Lights On](https://open.spotify.com/track/0Ej6qIhc3k3Kky7UknNbav) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 5:00 |
 | 95 | [Band Candy](https://open.spotify.com/track/5Cwth9JA4Um1QALUYME9LU) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:56 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 278 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 279 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Ab0w8gAAAABkUenITbnKOot9Vch1kQv3`
+Snapshot ID: `Ab02kgAAAADY0afPHY6W3AT41FgcfPxq`

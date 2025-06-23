@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Jerry Di, Danny Ocean, Corina Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,667 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,522 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

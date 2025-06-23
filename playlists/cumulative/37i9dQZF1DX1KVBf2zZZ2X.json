@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 170000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/38GHW30hLw28Noczz5ALKg"
@@ -1640,6 +1640,24 @@
       "duration_ms": 171263,
       "name": "Forest Rhodes",
       "url": "https://open.spotify.com/track/2EZ9pD380RJJANsQR8NJTg"
+    },
+    {
+      "album": {
+        "name": "Forest Water",
+        "url": "https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m"
+      },
+      "artists": [
+        {
+          "name": "Altum Somnum",
+          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187959,
+      "name": "Forest Water",
+      "url": "https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w"
     },
     {
       "album": {

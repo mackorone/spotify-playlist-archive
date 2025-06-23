@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,120 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,110 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 33 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
 | 34 | [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 |
 | 35 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 |
-| 36 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 |
-| 37 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
+| 36 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
+| 37 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 |
 | 38 | [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 |
 | 39 | [gone is the grace](https://open.spotify.com/track/690PnBq4pAsxEoCvqcZYpX) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [antichamber](https://open.spotify.com/album/3FXBukPm1OOjYUL1UJgsPQ) | 3:38 |
 | 40 | [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 44 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
 | 45 | [Hannah](https://open.spotify.com/track/4KDXqzH0LeL0LtzfNe1kAC) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Hannah](https://open.spotify.com/album/3yHkuUrp4IAmAw9cOyxUTx) | 3:34 |
 | 46 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
-| 47 | [Yvonne](https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Yvonne](https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7) | 2:12 |
-| 48 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
-| 49 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 |
+| 47 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
+| 48 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 |
+| 49 | [Yvonne](https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Yvonne](https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7) | 2:12 |
 | 50 | [Letting Go](https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go \(Alternate Version\)](https://open.spotify.com/album/7jqAvUIPC1gt7dDXbUbVUT) | 3:29 |
 
 Snapshot ID: `aEIThwAAAACa6v89h75D9h9k77oNLuZ2`

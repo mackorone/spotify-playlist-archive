@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0doVvLdFSE8.md) - [plain]
 
 > Listen to the best Techno tracks of 2024\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,543 likes - 75 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,622 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0doVvLdFSE8.md) - [plain]
 | 34 | [The Chant](https://open.spotify.com/track/1YkdWxA7Z9IlkYRANy3MVq) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [The Chant](https://open.spotify.com/album/7MLHFcsLvgaL9nYzCf0AhL) | 3:56 |
 | 35 | [Ravarp](https://open.spotify.com/track/0abnHEEma5xkWazffnRpni) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Ravarp](https://open.spotify.com/album/6VYrX3so9Z3gquODJ6SVp8) | 3:47 |
 | 36 | [Nasty](https://open.spotify.com/track/1i73nvocTFbDHGWEtICU6T) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Nasty](https://open.spotify.com/album/0QNi0a5PpDbpiBe0aXcbuK) | 6:07 |
-| 37 | [Flatline](https://open.spotify.com/track/6eNfky40mYhIGKmNp8n0hC) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Build To Destroy](https://open.spotify.com/album/5iNXFwLKCNtVV29uOzn5Q1) | 4:31 |
+| 37 | [Flatline](https://open.spotify.com/track/6eNfky40mYhIGKmNp8n0hC) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Build To Destroy](https://open.spotify.com/album/5iNXFwLKCNtVV29uOzn5Q1) | 4:31 |
 | 38 | [Lust](https://open.spotify.com/track/3MCDgpQ2QV0tZf5v1z8f4Z) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Rave Luv](https://open.spotify.com/album/52pIgveH3h0BFRiEn2A78a) | 5:13 |
 | 39 | [Silver Spark](https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Silver Spark](https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi) | 4:21 |
 | 40 | [Bang To The Beat](https://open.spotify.com/track/1SBPXr8glBJwn1jv3VxebT) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Bang To The Beat](https://open.spotify.com/album/2FCnus1JOAwf9i9nXSDadQ) | 3:58 |

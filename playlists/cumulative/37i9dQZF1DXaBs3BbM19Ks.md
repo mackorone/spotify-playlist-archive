@@ -4,7 +4,7 @@
 
 > Una noche en el Patio con Daniela, Lupita, Dulce y Yuri 🍸
 
-198 songs - 12 hr 54 min
+199 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 | 2021-05-21 | 2022-07-28 |
 | [Cruz de Navajas](https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 5:02 | 2022-05-10 | 2024-04-19 |
 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 | 2022-05-10 | 2023-11-05 |
+| [Cuando Baja La Marea \(feat\. Regina Blandón\) \- DT Billardo Remix](https://open.spotify.com/track/219VTk1qQjHoClgqJ9fotZ) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mariana Treviño](https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM), [Diana Bovio](https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp), [Regina Blandón](https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 2:39 | 2025-06-20 |  |
 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como Te Extraño Mi Amor](https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm) | 2:55 | 2025-01-03 |  |
 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 | 2021-05-21 |  |
 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 | 2021-05-21 |  |
@@ -120,7 +121,7 @@
 | [Mi error, mi fantasía](https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:48 | 2021-05-21 |  |
 | [Mi Vida Sin Tu Amor](https://open.spotify.com/track/7ar0x3rmUNKo1rAkxTy8S5) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Vida Sin Tu Amor](https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl) | 3:34 | 2025-06-20 |  |
 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 | 2021-05-21 | 2025-06-21 |
-| [Mirame](https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:43 | 2025-06-20 |  |
+| [Mirame](https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:43 | 2025-06-20 | 2025-06-23 |
 | [Morena mía](https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Sereno](https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv) | 4:51 | 2022-05-10 | 2025-06-21 |
 | [Mudanzas](https://open.spotify.com/track/2eTfcnp4CXdcAFWaMt5Xyv) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Las Mejores Baladas para Este Día de las Madres](https://open.spotify.com/album/1kB4iyw04iNZxXD67KRxkS) | 3:50 | 2021-05-21 | 2022-11-13 |
 | [Mudanzas](https://open.spotify.com/track/3zzlzmcV08EkLTTdwtK98o) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/0j6hp50osfFovLhuXGWWvC) | 3:51 | 2021-05-21 | 2025-06-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 810371,
+  "num_followers": 810506,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACNaPxLu0FxLySgOO0bDnoY",
+  "snapshot_id": "aFX2AAAAAAClbSH5PUqXBBm6bfpVZSf+",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morritas",
+        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216330,
+      "name": "Morritas",
+      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 213943,
       "name": "Porte Exuberante",
       "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morritas",
-        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216330,
-      "name": "Morritas",
-      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blancanieves",
+        "url": "https://open.spotify.com/album/2zGdZxzpRLp4erY3nyaI3P"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 151202,
+      "name": "Blancanieves",
+      "url": "https://open.spotify.com/track/1CDo1ZxKO7LxGIZNYZ4nFL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Boss",
         "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
       },
@@ -563,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -579,22 +611,6 @@
       "duration_ms": 153600,
       "name": "DOSIS DE AMOR",
       "url": "https://open.spotify.com/track/0WC20El0j1vhgQoPCLp6Xo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "added_at": null,
@@ -935,22 +951,6 @@
       "duration_ms": 174642,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blancanieves",
-        "url": "https://open.spotify.com/album/2zGdZxzpRLp4erY3nyaI3P"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 151202,
-      "name": "Blancanieves",
-      "url": "https://open.spotify.com/track/1CDo1ZxKO7LxGIZNYZ4nFL"
     }
   ],
   "unique_name": "This Is Natanael Cano",

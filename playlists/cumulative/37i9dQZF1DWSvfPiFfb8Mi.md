@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-382 songs - 1 day 1 hr 12 min
+383 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 | 2022-06-20 | 2023-02-15 |
 | [Catching Eyes](https://open.spotify.com/track/3LJ7dXJzZ2umb3Ccsuq5fT) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/66SXZvXGSD2NEtFSos2HtB) | 4:09 | 2021-07-24 | 2022-07-29 |
 | [Ce Soir On Danse](https://open.spotify.com/track/2JAhXfMnqWkSl8FKpbXVc7) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ), [Roller Funk](https://open.spotify.com/artist/4D1to1Gw3tVIt4Wb1aBcn2) | [Ce Soir On Danse](https://open.spotify.com/album/6aKSQSUkyOjSkc6twb0EHp) | 4:10 | 2024-12-20 | 2025-01-23 |
-| [Chains](https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Chains](https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D) | 3:35 | 2024-08-23 |  |
+| [Chains](https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Chains](https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D) | 3:35 | 2024-08-23 | 2025-06-23 |
 | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv) | 3:14 | 2024-03-29 | 2024-08-18 |
 | [Changed For The Better \- Disco Version](https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Night Versions](https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc) | 4:34 | 2024-10-04 | 2025-03-05 |
 | [Chasing Thrills](https://open.spotify.com/track/1ce0YjciXVfVjzQtAYWHoL) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Chasing Thrills](https://open.spotify.com/album/4OEZyk2librDK5xV4NH0Es) | 3:06 | 2025-03-07 | 2025-03-10 |
@@ -259,6 +259,7 @@
 | [Olé Maca](https://open.spotify.com/track/2Xw7NAZNuZKkLJVNQsIXiN) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca \- Single](https://open.spotify.com/album/66kcE5GtO1NBEzsLHGu3na) | 2:37 | 2024-06-28 | 2024-10-04 |
 | [ON THE MOVE](https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [ON THE MOVE](https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu) | 3:24 | 2023-06-09 |  |
 | [One On One \(Cerrone Remix\)](https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [One On One \(Cerrone Remix\)](https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi) | 3:24 | 2024-03-15 |  |
+| [Only For Tonight](https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [m.O.N.R.O.E.](https://open.spotify.com/artist/6pDZzvzwjGXunH8FCb2ulo), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Only For Tonight](https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo) | 3:16 | 2025-06-20 |  |
 | [Only You](https://open.spotify.com/track/2LMKaaPc48a48HIB5dmFmR) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [Only You](https://open.spotify.com/album/7cWLkwgHZo7jtIpzlsQCeD) | 2:47 | 2025-02-21 |  |
 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-25 | 2024-04-19 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-28 | 2023-09-26 |

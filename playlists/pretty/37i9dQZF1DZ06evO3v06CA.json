@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 201940,
+  "num_followers": 201957,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAAkRupmEXyaOQ8rZINIxH3l",
+  "snapshot_id": "aFX2AAAAAABgbOIJb1xM/KWOxTI8/Xvc",
   "tracks": [
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tuskegee (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 270573,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "Shotgun Willie",
-      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
     },
     {
       "added_at": null,
@@ -991,6 +991,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -1015,38 +1047,6 @@
       "duration_ms": 148440,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
     },
     {
       "added_at": null,

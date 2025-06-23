@@ -3950,7 +3950,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
@@ -5708,7 +5708,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 210840,
       "name": "Chroma Drift - Japanese Ver.",
       "url": "https://open.spotify.com/track/5N6fTybfq5EVPB9ftKlMzq"
@@ -5838,7 +5838,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 194546,
       "name": "Closely Far Away",
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
@@ -7274,7 +7274,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 202026,
       "name": "Dear",
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
@@ -14752,7 +14752,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 161693,
       "name": "IF I SAY, I LOVE YOU",
       "url": "https://open.spotify.com/track/2NtidJuimmXzUsExfMYcvk"
@@ -17724,7 +17724,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 189040,
       "name": "Lips Hips Kiss",
       "url": "https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH"
@@ -24954,7 +24954,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 164733,
       "name": "RIZZ",
       "url": "https://open.spotify.com/track/6JbyOUBLnkMadKcPQoQeTR"
@@ -24972,7 +24972,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 164733,
       "name": "RIZZ - Japanese Ver.",
       "url": "https://open.spotify.com/track/3p6T0olYiiL1LJoYM1xKDp"
@@ -28960,6 +28960,28 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "hey daisy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
     },
     {
       "album": {
@@ -33660,7 +33682,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"

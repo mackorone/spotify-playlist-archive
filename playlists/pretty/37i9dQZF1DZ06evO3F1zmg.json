@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 41514,
+  "num_followers": 41521,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADWXF8nKRqriXnTs4alu+Af",
+  "snapshot_id": "aFX2AAAAAABuQKKry9/N0gb4TB9XmFGF",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Us (The Mixers Edition)",
-        "url": "https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 185374,
-      "name": "Confetti (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIT IT (feat. Saweetie & Lele Pons)",
         "url": "https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 235428,
       "name": "HIT IT (feat. Saweetie & Lele Pons)",
       "url": "https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Between Us (The Mixers Edition)",
+        "url": "https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 185374,
+      "name": "Confetti (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Is It The Way",
+        "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Is It The Way",
+      "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Immaculate",
         "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Is It The Way",
-        "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Is It The Way",
-      "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+        }
+      ],
+      "duration_ms": 159152,
+      "name": "Risky (feat. Drakeo the Ruler)",
+      "url": "https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 175112,
       "name": "BIRTHDAY",
       "url": "https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Summer Playlist: Season 1",
-        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Drakeo the Ruler",
-          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
-        }
-      ],
-      "duration_ms": 159152,
-      "name": "Risky (feat. Drakeo the Ruler)",
-      "url": "https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5"
     },
     {
       "added_at": null,

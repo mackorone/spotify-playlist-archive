@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46082,
+  "num_followers": 46081,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACphnQjFYfRkWcTOWYaZgrt",
+  "snapshot_id": "aFX2AAAAAABwLFwpoLSOeUxmufWk7BgY",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Ellen Ol\u00e9ria",
+          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
+        }
+      ],
+      "duration_ms": 255914,
+      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
+      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Planos Pra N\u00f3s",
         "url": "https://open.spotify.com/album/5oGkjDXvk1QGMFORSBdN0B"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 245500,
       "name": "Planos Pra N\u00f3s",
       "url": "https://open.spotify.com/track/0NhGVKzZikTQGbuQR5996s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Ellen Ol\u00e9ria",
-          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
-        }
-      ],
-      "duration_ms": 255914,
-      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
-      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 277472,
-      "name": "Se o Mundo Acabar",
-      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 O Amanhecer",
         "url": "https://open.spotify.com/album/3zSLT2ErzzistZs3ij9wce"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 277472,
+      "name": "Se o Mundo Acabar",
+      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
       },
@@ -551,34 +551,6 @@
       "duration_ms": 280864,
       "name": "Castelos de Papel",
       "url": "https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quem Sou",
-        "url": "https://open.spotify.com/album/1bN3MF60sdTK9DEdjV62Kh"
-      },
-      "artists": [
-        {
-          "name": "Dr Caligari",
-          "url": "https://open.spotify.com/artist/4P8MHFSABGVP77KjXhTKNw"
-        },
-        {
-          "name": "DJ Caique",
-          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Matheusiddy",
-          "url": "https://open.spotify.com/artist/61Zw1DZ8Use6z9JATEiV93"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "Quem Sou",
-      "url": "https://open.spotify.com/track/1h0XMBauuLTDXmmliJrNqr"
     },
     {
       "added_at": null,
@@ -611,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Fi\u00f3ti",
-          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "Bilhete",
-      "url": "https://open.spotify.com/track/13bwumEsyE9pgINu4whxaG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -647,6 +599,50 @@
       "duration_ms": 261642,
       "name": "Virando a Mesa",
       "url": "https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Sol",
+        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 206643,
+      "name": "Meu Sol",
+      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Fi\u00f3ti",
+          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "Bilhete",
+      "url": "https://open.spotify.com/track/13bwumEsyE9pgINu4whxaG"
     },
     {
       "added_at": null,
@@ -715,26 +711,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Sol",
-        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
+        "name": "Quem Sou",
+        "url": "https://open.spotify.com/album/1bN3MF60sdTK9DEdjV62Kh"
       },
       "artists": [
         {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+          "name": "Dr Caligari",
+          "url": "https://open.spotify.com/artist/4P8MHFSABGVP77KjXhTKNw"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
         },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+          "name": "Matheusiddy",
+          "url": "https://open.spotify.com/artist/61Zw1DZ8Use6z9JATEiV93"
         }
       ],
-      "duration_ms": 206643,
-      "name": "Meu Sol",
-      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
+      "duration_ms": 219360,
+      "name": "Quem Sou",
+      "url": "https://open.spotify.com/track/1h0XMBauuLTDXmmliJrNqr"
     },
     {
       "added_at": null,
@@ -783,30 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        },
-        {
-          "name": "Max de Castro",
-          "url": "https://open.spotify.com/artist/2R66z213mp5GWy6iF1aqZn"
-        }
-      ],
-      "duration_ms": 211301,
-      "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
-      "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Que Se Leva (D\u00f3i)",
         "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        },
+        {
+          "name": "Max de Castro",
+          "url": "https://open.spotify.com/artist/2R66z213mp5GWy6iF1aqZn"
+        }
+      ],
+      "duration_ms": 211301,
+      "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
+      "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
     },
     {
       "added_at": null,
@@ -967,6 +967,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quem Vai Ser?",
+        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 157918,
+      "name": "Quem Vai Ser?",
+      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
         "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
       },
@@ -1007,26 +1031,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Vai Ser?",
-        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        },
-        {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 157918,
-      "name": "Quem Vai Ser?",
-      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+      "duration_ms": 187669,
+      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
     },
     {
       "added_at": null,
@@ -1059,42 +1075,6 @@
       "duration_ms": 331311,
       "name": "Azz Veizz",
       "url": "https://open.spotify.com/track/2ienL2vihr9ykTsP3MRvlc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Srta. Paola",
-          "url": "https://open.spotify.com/artist/63ibOFnRUQhYy6s7xypyHe"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Eu",
-      "url": "https://open.spotify.com/track/540hxebLj7w5EHhVx0lUUv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 187669,
-      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
     },
     {
       "added_at": null,
@@ -1139,8 +1119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
       },
       "artists": [
         {
@@ -1148,13 +1128,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Luiz Guima",
-          "url": "https://open.spotify.com/artist/4AyjqXHOB3D1eHD4mNtCjZ"
+          "name": "Srta. Paola",
+          "url": "https://open.spotify.com/artist/63ibOFnRUQhYy6s7xypyHe"
         }
       ],
-      "duration_ms": 282053,
-      "name": "Hora de Acordar",
-      "url": "https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI"
+      "duration_ms": 297000,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/540hxebLj7w5EHhVx0lUUv"
     },
     {
       "added_at": null,
@@ -1175,6 +1155,26 @@
       "duration_ms": 197633,
       "name": "Homem do Mundo (feat. Criolo)",
       "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Luiz Guima",
+          "url": "https://open.spotify.com/artist/4AyjqXHOB3D1eHD4mNtCjZ"
+        }
+      ],
+      "duration_ms": 282053,
+      "name": "Hora de Acordar",
+      "url": "https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI"
     }
   ],
   "unique_name": "This Is Rashid",

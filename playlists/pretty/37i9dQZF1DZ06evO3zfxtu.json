@@ -1,12 +1,12 @@
 {
   "description": "This is Eva Shaw. The essential tracks, all in one playlist.",
-  "num_followers": 123,
+  "num_followers": 124,
   "original_name": "This Is Eva Shaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAD7PN9OESlcJbAaVUpL2JQU",
+  "snapshot_id": "aFX2AAAAAAAfpH+7FtS4LJfXS5wL2yyn",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE DRUG",
-        "url": "https://open.spotify.com/album/2A7YwDPjS3Xt1QtgqQBsNe"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "LOVE DRUG",
-      "url": "https://open.spotify.com/track/4UQP340iUgSNhixjb9Epxh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOP",
         "url": "https://open.spotify.com/album/2W1GA6CvbuuI9TYNeMHw9L"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 167238,
       "name": "BOP",
       "url": "https://open.spotify.com/track/2Y4zv6skDWsGMTbJon2Q42"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE DRUG",
+        "url": "https://open.spotify.com/album/2A7YwDPjS3Xt1QtgqQBsNe"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "LOVE DRUG",
+      "url": "https://open.spotify.com/track/4UQP340iUgSNhixjb9Epxh"
     },
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dark Songs To Drive To",
+        "url": "https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 153614,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
@@ -415,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Songs To Drive To",
-        "url": "https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 153614,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIG DRIP",
         "url": "https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz"
       },
@@ -451,50 +451,6 @@
       "duration_ms": 124200,
       "name": "BIG DRIP",
       "url": "https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "UNTZ [NYC Rage Fest]",
-      "url": "https://open.spotify.com/track/5MxsUFQKorHAyUCpbY5OA7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        }
-      ],
-      "duration_ms": 213851,
-      "name": "OUTSIDE",
-      "url": "https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q"
     },
     {
       "added_at": null,
@@ -551,6 +507,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        }
+      ],
+      "duration_ms": 213851,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPE HOP 003",
+        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "UNTZ [NYC Rage Fest]",
+      "url": "https://open.spotify.com/track/5MxsUFQKorHAyUCpbY5OA7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Swing My Way",
         "url": "https://open.spotify.com/album/5hOvPYDRbJpfVQ34rY3gQr"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 192200,
       "name": "Swing My Way",
       "url": "https://open.spotify.com/track/6nVP1QzLceLBUWLLBtqdb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
     },
     {
       "added_at": null,
@@ -591,42 +607,6 @@
       "duration_ms": 184000,
       "name": "CONCEITED",
       "url": "https://open.spotify.com/track/4buagghd2W3oZoDExjITFo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPE HOP 002",
-        "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "G Milla",
-          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "MOJO - Hype Hop Edit",
-      "url": "https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 179748,
       "name": "U (feat. Mally Mall & Sonny Wilson)",
       "url": "https://open.spotify.com/track/0DCBpDmAyJRRKupCAJzjRj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPE HOP 002",
+        "url": "https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "G Milla",
+          "url": "https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "MOJO - Hype Hop Edit",
+      "url": "https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100GANG",
-        "url": "https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Hitmakerchinx",
-          "url": "https://open.spotify.com/artist/6GhBUUXBi2x3DVad9izEQD"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "100GANG",
-      "url": "https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ba Da Da Ding",
         "url": "https://open.spotify.com/album/69AGVh9lmNbBmK3FbILz2z"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 175132,
       "name": "Ba Da Da Ding",
       "url": "https://open.spotify.com/track/738Lq96Lgoy6oiZx2itjyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100GANG",
+        "url": "https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Hitmakerchinx",
+          "url": "https://open.spotify.com/artist/6GhBUUXBi2x3DVad9izEQD"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "100GANG",
+      "url": "https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1"
     },
     {
       "added_at": null,
@@ -1107,26 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "QUIET",
-        "url": "https://open.spotify.com/album/0EBBVTmEP17PMzP7CAfwX8"
-      },
-      "artists": [
-        {
-          "name": "BTK Villeion",
-          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 140835,
-      "name": "QUIET",
-      "url": "https://open.spotify.com/track/3Wfv17RlbuKYJq4LKX1OCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "lonely.",
         "url": "https://open.spotify.com/album/3I0pcvKeIrS6MqoHeHAKjd"
       },
@@ -1147,6 +1127,30 @@
       "duration_ms": 176751,
       "name": "lonely.",
       "url": "https://open.spotify.com/track/659Zm4GEjSw8EXZdi1ZEPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dat Girl",
+        "url": "https://open.spotify.com/album/13kSlYOht04NAOxxYusQQx"
+      },
+      "artists": [
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Steve Walls",
+          "url": "https://open.spotify.com/artist/3RAIGoHN3Qz4WQeVPyT4Zc"
+        }
+      ],
+      "duration_ms": 130978,
+      "name": "Dat Girl",
+      "url": "https://open.spotify.com/track/5R3yCbROZKow1PHrXI4UP8"
     }
   ],
   "unique_name": "This Is Eva Shaw",

@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 150228,
+  "num_followers": 150305,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -587,30 +587,6 @@
     {
       "added_at": "2025-06-19 17:25:17",
       "album": {
-        "name": "Symphony From The Heart",
-        "url": "https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL"
-      },
-      "artists": [
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        },
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        },
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 251091,
-      "name": "Kau Selalu Di Hati",
-      "url": "https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv"
-    },
-    {
-      "added_at": "2025-06-19 17:25:17",
-      "album": {
         "name": "Cintanya Aku",
         "url": "https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 245146,
       "name": "Asal Kau Bahagia",
       "url": "https://open.spotify.com/track/79AlxPlv70kuRlsi2eZsnV"
+    },
+    {
+      "added_at": "2025-06-19 17:25:17",
+      "album": {
+        "name": "Symphony From The Heart",
+        "url": "https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL"
+      },
+      "artists": [
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 251091,
+      "name": "Kau Selalu Di Hati",
+      "url": "https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv"
     },
     {
       "added_at": "2025-06-19 17:25:17",

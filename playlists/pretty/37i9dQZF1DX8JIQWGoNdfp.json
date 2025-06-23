@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 59096,
+  "num_followers": 59112,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZIsPQAAAAACwqR2Q9XPviDgspLXG9Qhs",
   "tracks": [
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
-    },
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 194613,
       "name": "Exchange",
       "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Every Kind Of Way",
-      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Every Kind Of Way",
+      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "Open Letter",
         "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 245773,
       "name": "Put That Woman First",
       "url": "https://open.spotify.com/track/3OQu3z3okKVmWxSXTTHak5"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 255065,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -507,6 +491,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 255065,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "If I Ever Fall In Love",
         "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
       },
@@ -535,26 +535,6 @@
       "duration_ms": 272560,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "Come Through (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Come Through (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -655,6 +635,26 @@
       "duration_ms": 391256,
       "name": "Night Trouble",
       "url": "https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Come Through (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Come Through (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd"
     },
     {
       "added_at": "2022-10-02 01:51:23",

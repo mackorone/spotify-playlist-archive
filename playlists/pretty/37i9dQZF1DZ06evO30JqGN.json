@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 133303,
+  "num_followers": 133317,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADP67hBeHnNZbE5AjKeAsPr",
+  "snapshot_id": "aFX2AAAAAADyfcHK531LFXKxLt3+UHjS",
   "tracks": [
     {
       "added_at": null,
@@ -402,11 +402,15 @@
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 177542,
-      "name": "Switch A Nigga Out",
-      "url": "https://open.spotify.com/track/5Mv7yjian35AddlklJgg1v"
+      "duration_ms": 207294,
+      "name": "Unloyal (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
       "added_at": null,
@@ -478,15 +482,11 @@
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 207294,
-      "name": "Unloyal (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
+      "duration_ms": 177542,
+      "name": "Switch A Nigga Out",
+      "url": "https://open.spotify.com/track/5Mv7yjian35AddlklJgg1v"
     },
     {
       "added_at": null,

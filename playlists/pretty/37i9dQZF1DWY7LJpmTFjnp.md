@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Panteón Rococo, Carin Leon, Remmy Valenzuela, Sabino y lng sht en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,370 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,315 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 65 | [Lo Pasado, Pasado](https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:21 |
 | 66 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 67 | [Las chingadas ganas de llorar](https://open.spotify.com/track/1NNx5a7BoQrKym6DKxmTAI) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Las chingadas ganas de llorar](https://open.spotify.com/album/6TR5ROAqehRhQDMAeOmqeR) | 3:19 |
-| 68 | [No sé](https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:09 |
-| 69 | [Maligno \(feat\. León Larregui\)](https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Reluciente, Rechinante y Aterciopelado](https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg) | 4:51 |
+| 68 | [Maligno \(feat\. León Larregui\)](https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Reluciente, Rechinante y Aterciopelado](https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg) | 4:51 |
+| 69 | [No sé](https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:09 |
 | 70 | [Viva tu](https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva tu](https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU) | 3:08 |
 | 71 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
 | 72 | [Y Caíste](https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Y Caíste](https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD) | 4:52 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 97 | [SONIDERO](https://open.spotify.com/track/4yiSoPgXRTtMeGaoN7QTMP) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Sonido La Changa](https://open.spotify.com/artist/6tJNsGnrDvwoMmwv18wmUK) | [SONIDERO](https://open.spotify.com/album/7esSMUEhSbr30LElTZY63Z) | 3:26 |
 | 98 | [No Puede Parar De Soñar](https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [No Puede Parar De Soñar](https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8) | 3:17 |
 | 99 | [Contra Todo Pronóstico](https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Contra Todo Pronóstico](https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4) | 4:12 |
-| 100 | [El Trabajo del Hombre](https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Trabajo del Hombre](https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4) | 3:59 |
+| 100 | [El Recuento de los Daños](https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [!!Puro Macanazo!!](https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ) | 4:31 |
 
 Snapshot ID: `aFT5BQAAAAB6gSkc99CrGN3afloZ4G72`

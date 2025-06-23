@@ -4,7 +4,7 @@
 
 > catch a vibe 🌹
 
-207 songs - 11 hr 13 min
+208 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2024-03-28 | 2025-06-18 |
 | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM) | 2:42 | 2024-09-05 | 2025-05-08 |
 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 | 2025-01-23 | 2025-04-06 |
-| [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2024-03-28 |  |
+| [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2024-03-28 | 2025-06-23 |
 | [NOT RN!](https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [NOT RN!](https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3) | 2:40 | 2024-07-12 | 2024-08-07 |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-23 | 2024-10-04 |
 | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B) | 3:12 | 2024-03-28 | 2024-09-03 |
@@ -167,6 +167,7 @@
 | [Si Llorarás](https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [For You / Si Llorarás](https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2) | 2:56 | 2024-09-02 | 2025-05-02 |
 | [Sick \(feat\. 4batz\)](https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Sick \(feat\. 4batz\)](https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz) | 3:40 | 2025-02-27 | 2025-06-18 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2024-03-28 |  |
+| [Smooth Kriminal \(with Oxlade\)](https://open.spotify.com/track/39C3UVMIaU6XOm9iN6fhgg) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Smooth Kriminal \(with Oxlade\)](https://open.spotify.com/album/02kUmkf49XAPOWhwFF3lmt) | 2:53 | 2025-06-17 |  |
 | [So High](https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [So High](https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT) | 3:21 | 2025-02-13 |  |
 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 | 2024-09-02 | 2024-10-11 |
 | [Spend More Time With Your Friends](https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:30 | 2024-09-05 | 2025-05-08 |

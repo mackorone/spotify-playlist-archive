@@ -10083,6 +10083,28 @@
     },
     {
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219650,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
+    },
+    {
+      "album": {
         "name": "HOTGIRLSUMMER TAPE",
         "url": "https://open.spotify.com/album/7xqa8pVSiGj2UqajBGrDkH"
       },
@@ -12782,7 +12804,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 175079,
       "name": "Cavani",
       "url": "https://open.spotify.com/track/6XrOj0Hdo3eI1s4Pln0ZgV"
@@ -15104,6 +15126,28 @@
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
     },
     {
       "album": {
@@ -32762,7 +32806,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 150973,
       "name": "Junimond",
       "url": "https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh"
@@ -34462,7 +34506,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 126147,
       "name": "Knacks",
       "url": "https://open.spotify.com/track/12jDrbHn6t2oVP7NpH3YAP"
@@ -39532,7 +39576,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -58732,7 +58776,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -62152,7 +62196,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 251155,
       "name": "Totgeglaubte leben l\u00e4nger",
       "url": "https://open.spotify.com/track/7znD0Iaf07DkGq3spdOlYJ"
@@ -63682,7 +63726,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -64180,7 +64224,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 17 | [Foto \(feat\. Gemitaiz & MadMan\)](https://open.spotify.com/track/2cFyGMKscEgtlS6gqqBxAR) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [RIOT](https://open.spotify.com/album/3iT9nm6Y0s0peiRwFKLA7f) | 4:15 |
 | 18 | [Go Dumb \(feat\. H.E.R.\)](https://open.spotify.com/track/18sGGoM0OlrZNyMqVFIqP7) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:24 |
 | 19 | [Love Me Again](https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:18 |
-| 20 | [Zorba](https://open.spotify.com/track/3tzL8exhBLU5ZD724djHZs) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 2:16 |
-| 21 | [hair down](https://open.spotify.com/track/5VsqyVi1rbl1zppQ3hXYWG) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:29 |
+| 20 | [hair down](https://open.spotify.com/track/5VsqyVi1rbl1zppQ3hXYWG) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:29 |
+| 21 | [Zorba](https://open.spotify.com/track/3tzL8exhBLU5ZD724djHZs) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 2:16 |
 | 22 | [Touch & Go](https://open.spotify.com/track/4UAfFOvpghqEbatFJZEoG0) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4FVAdXCpUKOmtPy2D9Kkg6) | 3:28 |
 | 23 | [Hat Trick](https://open.spotify.com/track/02Y5afO1mCHxKp9ozmBv1Q) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:49 |
 | 24 | [Invoice \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/063nJW2YbI0LBZLrO6qwDG) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Before I Disappear Again](https://open.spotify.com/album/6agdmpAaTKDYHrG2R7dl0U) | 2:24 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 106 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 107 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `Ab0w6AAAAAAAL+OXt4he717L4JC1I2my`
+Snapshot ID: `Ab02fgAAAAD6CldZVN5NjhHE/7bMWF5A`

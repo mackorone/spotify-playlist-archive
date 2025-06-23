@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u6851\u539f\u3042\u3044",
-  "num_followers": 45019,
+  "num_followers": 45023,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "An Airship",
-        "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
-      },
-      "artists": [
-        {
-          "name": "\u8cfd",
-          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
-        }
-      ],
-      "duration_ms": 279483,
-      "name": "\u304a\u9db4",
-      "url": "https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "Exotic Rose",
         "url": "https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
+        "name": "An Airship",
+        "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
+      },
+      "artists": [
+        {
+          "name": "\u8cfd",
+          "url": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b"
+        }
+      ],
+      "duration_ms": 279483,
+      "name": "\u304a\u9db4",
+      "url": "https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
         "name": "CROSSING",
         "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
       },
@@ -359,26 +359,6 @@
       "duration_ms": 270806,
       "name": "Crossing",
       "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
-        "name": "EVERYDAY",
-        "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
-      },
-      "artists": [
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        },
-        {
-          "name": "Corey King",
-          "url": "https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc"
-        }
-      ],
-      "duration_ms": 223820,
-      "name": "Must Have Known",
-      "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -403,18 +383,22 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "OTODOKENIAGARIMASHITA",
-        "url": "https://open.spotify.com/album/4EvClGWhfcynBZk3Rq9nDr"
+        "name": "EVERYDAY",
+        "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        },
+        {
+          "name": "Corey King",
+          "url": "https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc"
         }
       ],
-      "duration_ms": 267000,
-      "name": "OTODOKENIAGARIMASHITA",
-      "url": "https://open.spotify.com/track/1K6I1EakDN2gEKUYc6FaX2"
+      "duration_ms": 223820,
+      "name": "Must Have Known",
+      "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -435,6 +419,22 @@
       "duration_ms": 228966,
       "name": "New World feat.ELAIZA",
       "url": "https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "OTODOKENIAGARIMASHITA",
+        "url": "https://open.spotify.com/album/4EvClGWhfcynBZk3Rq9nDr"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "OTODOKENIAGARIMASHITA",
+      "url": "https://open.spotify.com/track/1K6I1EakDN2gEKUYc6FaX2"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -467,22 +467,6 @@
       "duration_ms": 403747,
       "name": "The Toro",
       "url": "https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
-        "name": "Invisible Diary",
-        "url": "https://open.spotify.com/album/3IzqWngysRH0gUHR2FKkxh"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u6d77\u6597",
-          "url": "https://open.spotify.com/artist/4rsih0eDP701WyFRusmZ5c"
-        }
-      ],
-      "duration_ms": 215500,
-      "name": "Part 1. Hometown",
-      "url": "https://open.spotify.com/track/4SFuOhV1kZccCuWoRK0Gfl"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -527,6 +511,22 @@
       "duration_ms": 266140,
       "name": "Workaholic",
       "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "Invisible Diary",
+        "url": "https://open.spotify.com/album/3IzqWngysRH0gUHR2FKkxh"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u6d77\u6597",
+          "url": "https://open.spotify.com/artist/4rsih0eDP701WyFRusmZ5c"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Part 1. Hometown",
+      "url": "https://open.spotify.com/track/4SFuOhV1kZccCuWoRK0Gfl"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -587,6 +587,26 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
+        "name": "Battened Ships",
+        "url": "https://open.spotify.com/album/5M1p0cFwFokvEl0D4nwMbw"
+      },
+      "artists": [
+        {
+          "name": "\u77e2\u821f\u30c6\u30c4\u30ed\u30fc",
+          "url": "https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV"
+        },
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "Battened Ships",
+      "url": "https://open.spotify.com/track/0ZjaqdqObWrJNch55W8pFj"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
         "name": "Liquid Yellow Portraits",
         "url": "https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk"
       },
@@ -611,22 +631,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "What hummingbirds teach us about flying",
-        "url": "https://open.spotify.com/album/2GdtjdIIi9Pa1plK5YkoQn"
-      },
-      "artists": [
-        {
-          "name": "\u6851\u539f\u3042\u3044",
-          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
-        }
-      ],
-      "duration_ms": 327200,
-      "name": "What hummingbirds teach us about flying",
-      "url": "https://open.spotify.com/track/63A5iao38RysFoJepVv63Y"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "\u706b\u306e\u9ce5",
         "url": "https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm"
       },
@@ -643,6 +647,22 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
+        "name": "What hummingbirds teach us about flying",
+        "url": "https://open.spotify.com/album/2GdtjdIIi9Pa1plK5YkoQn"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "What hummingbirds teach us about flying",
+      "url": "https://open.spotify.com/track/63A5iao38RysFoJepVv63Y"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
         "name": "soraya",
         "url": "https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 188830,
       "name": "\u611b\u306e\u3057\u308b\u3057",
       "url": "https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
-        "name": "Battened Ships",
-        "url": "https://open.spotify.com/album/5M1p0cFwFokvEl0D4nwMbw"
-      },
-      "artists": [
-        {
-          "name": "\u77e2\u821f\u30c6\u30c4\u30ed\u30fc",
-          "url": "https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV"
-        },
-        {
-          "name": "Ann Sally",
-          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "Battened Ships",
-      "url": "https://open.spotify.com/track/0ZjaqdqObWrJNch55W8pFj"
     },
     {
       "added_at": "2025-06-17 15:00:16",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-06-17 15:00:16",
       "album": {
-        "name": "HAGAKURE",
-        "url": "https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 221494,
-      "name": "HAGAKURE",
-      "url": "https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv"
-    },
-    {
-      "added_at": "2025-06-17 15:00:16",
-      "album": {
         "name": "STEPS OF THE BLUE",
         "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 342146,
       "name": "STEPS OF THE BLUE",
       "url": "https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne"
+    },
+    {
+      "added_at": "2025-06-17 15:00:16",
+      "album": {
+        "name": "HAGAKURE",
+        "url": "https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 221494,
+      "name": "HAGAKURE",
+      "url": "https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv"
     },
     {
       "added_at": "2025-06-17 15:00:16",

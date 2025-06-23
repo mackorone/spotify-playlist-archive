@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,11 +105,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 95 | [The Other End \(Of The Telescope\)](https://open.spotify.com/track/031BORKOyhNOfhCaJEXc3R) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:51 |
 | 96 | [Gumby](https://open.spotify.com/track/5FQOrAMfQuMFRHS3x2ShQ2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 2:54 |
 | 97 | [The King of the Jailhouse](https://open.spotify.com/track/05ofQzVshh0SqVqawplofZ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 5:19 |
-| 98 | [Barfly](https://open.spotify.com/track/216qBjZA9i0J6yh7AnoJad) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 4:01 |
-| 99 | [She Really Wants You](https://open.spotify.com/track/3zb0HhenugDeG9cmMxf6AU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:26 |
+| 98 | [She Really Wants You](https://open.spotify.com/track/3zb0HhenugDeG9cmMxf6AU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:26 |
+| 99 | [Barfly](https://open.spotify.com/track/216qBjZA9i0J6yh7AnoJad) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 4:01 |
 | 100 | [I Can't Get My Head Around It](https://open.spotify.com/track/3lPzZX513duhMXjtpBhfrn) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:37 |
-| 101 | [Columbus Avenue](https://open.spotify.com/track/0gxKcbfN88tl2pgLU7HX5v) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 4:06 |
-| 102 | [\(Believed You Were\) Lucky](https://open.spotify.com/track/3Lm7hSTabr01oav0WdSsuD) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
+| 101 | [\(Believed You Were\) Lucky](https://open.spotify.com/track/3Lm7hSTabr01oav0WdSsuD) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
+| 102 | [Columbus Avenue](https://open.spotify.com/track/0gxKcbfN88tl2pgLU7HX5v) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 4:06 |
 | 103 | [True Believer](https://open.spotify.com/track/4H0zubbGGdVntJI2iQJjbu) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 3:32 |
 | 104 | [Volunteers of America](https://open.spotify.com/track/22cpblBBWOJN1yM5FMiK4l) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:43 |
 | 105 | [Robert Lowell and Sylvia Plath](https://open.spotify.com/track/2puxN3wToKKlfmcMYRspOe) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:13 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Ab0w6AAAAACsPVifjsOkOODPe+pnl+RF`
+Snapshot ID: `Ab02fgAAAADf1RF1XlniS86nD+9nPBIG`

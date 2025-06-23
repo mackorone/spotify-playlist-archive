@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66930,
+  "num_followers": 66927,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAACyq83uj6HTgKzl+1NTfyJo",
+  "snapshot_id": "aFX2AAAAAACzya+VgdQGfJ/v1rISvJ9Y",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vigor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Vigor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Na Casa de Deus",
         "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 324104,
       "name": "Posso Clamar",
       "url": "https://open.spotify.com/track/37GYyTGRnPcP01Ff7ziOoi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 279825,
-      "name": "Me Derramar",
-      "url": "https://open.spotify.com/track/61uQTy37Lc0Z1fFmxHCBd5"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vigor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf"
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
       "artists": [
         {
@@ -180,13 +180,13 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+          "name": "Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
         }
       ],
-      "duration_ms": 266320,
-      "name": "Vigor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
+      "duration_ms": 279825,
+      "name": "Me Derramar",
+      "url": "https://open.spotify.com/track/61uQTy37Lc0Z1fFmxHCBd5"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 372958,
-      "name": "Fala Comigo",
-      "url": "https://open.spotify.com/track/1IBWMbYSBLYX36tuMkqcKY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Tanque de Betesda (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 304280,
       "name": "O Tanque de Betesda (Ao Vivo)",
       "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 372958,
+      "name": "Fala Comigo",
+      "url": "https://open.spotify.com/track/1IBWMbYSBLYX36tuMkqcKY"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grande \u00e9 o Nosso Deus",
+        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 319166,
+      "name": "Grande \u00e9 o Nosso Deus",
+      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grande \u00e9 o Nosso Deus",
-        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+        "name": "Eu N\u00e3o Me Rendo a Minha Dor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5m0ssj0Vlx2Nw0oX1Xu9JZ"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 319166,
-      "name": "Grande \u00e9 o Nosso Deus",
-      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+      "duration_ms": 243933,
+      "name": "Eu N\u00e3o Me Rendo a Minha Dor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1CLdTTa42Y2PZMuYuwbMVS"
     },
     {
       "added_at": null,
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu N\u00e3o Me Rendo a Minha Dor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5m0ssj0Vlx2Nw0oX1Xu9JZ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Eu N\u00e3o Me Rendo a Minha Dor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1CLdTTa42Y2PZMuYuwbMVS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Alma Abatida (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "Deus Est\u00e1 me Ensinando",
-      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 283422,
       "name": "Deus dos Vales, Deus dos Montes",
       "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "Deus Est\u00e1 me Ensinando",
+      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bondade de Deus (Goodness of God) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 329248,
-      "name": "Bondade de Deus (Goodness of God) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Podes Fazer de Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 306240,
       "name": "Tu Podes Fazer de Novo (Ao Vivo)",
       "url": "https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bondade de Deus (Goodness of God) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 329248,
+      "name": "Bondade de Deus (Goodness of God) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c"
     },
     {
       "added_at": null,

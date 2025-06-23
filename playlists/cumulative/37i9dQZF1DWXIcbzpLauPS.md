@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Killswitch Engage
 
-1,260 songs - 3 day 5 hr 16 min
+1,261 songs - 3 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1012,6 +1012,7 @@
 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 | 2022-01-14 | 2022-07-23 |
 | [Staring At The Sun](https://open.spotify.com/track/6BOfwpm3qky5O3xAPGCK4o) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Staring At The Sun](https://open.spotify.com/album/7kg53tfxjGZ3MtmdTxO92x) | 3:23 | 2025-03-31 | 2025-06-22 |
 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 | 2024-08-25 | 2024-09-24 |
+| [Static](https://open.spotify.com/track/4p1M3ZdZ9q1uixBk7JibRw) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Static](https://open.spotify.com/album/3qsD8LXhTkdu77owvWwvwe) | 3:31 | 2025-06-20 |  |
 | [Stay Away](https://open.spotify.com/track/0UZlOO9q3e8jxBj724f6oN) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Stay Away](https://open.spotify.com/album/4SLO8o4TkaPVH3OzlsNjNC) | 3:19 | 2021-12-17 | 2022-01-15 |
 | [Still Waters Run Deep](https://open.spotify.com/track/6y9KIUoJxFY4mbYnKLUqAY) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Still Waters Run Deep](https://open.spotify.com/album/2sONdLc1W4vTmlC4MWnAgJ) | 3:35 | 2022-04-29 | 2022-07-08 |
 | [Stitches](https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Stitches](https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb) | 5:01 | 2022-05-27 | 2022-09-03 |
@@ -1025,7 +1026,7 @@
 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 | 2024-02-09 | 2024-03-09 |
 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 | 2022-05-20 | 2022-12-17 |
 | [SUFFER IN THE DARK](https://open.spotify.com/track/72tbts7CGQ7PWmnfCGvrPp) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [HIDE FROM THE LIGHT](https://open.spotify.com/album/2AeR1fwv8q6ocY1FAjShdB) | 3:05 | 2025-05-30 |  |
-| [suffer.](https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Darker Colors \(Deluxe Edition\)](https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB) | 3:18 | 2024-07-12 |  |
+| [suffer.](https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Darker Colors \(Deluxe Edition\)](https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB) | 3:18 | 2024-07-12 | 2025-06-23 |
 | [Suffocate](https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv) | [Execution Day](https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z) | [Suffocate](https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C) | 3:47 | 2022-05-13 | 2023-05-23 |
 | [Suffocate](https://open.spotify.com/track/530wk2tz33m2Rrsp7pdBB7) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Suffocate](https://open.spotify.com/album/0uZVH3RsHVBgSkvURev7D0) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Sulfur](https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sulfur](https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS) | 3:26 | 2024-12-18 | 2025-04-26 |

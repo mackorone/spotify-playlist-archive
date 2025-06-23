@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 105789,
+  "num_followers": 105792,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAABw0A9Cqa466odZYtgRP/TO",
+  "snapshot_id": "aFX2AAAAAADZxT5rXqQYHGselQUrbwgi",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Negra Tiene Tumbao",
-        "url": "https://open.spotify.com/album/0iwS6wwKRVN1h1tf0BgQxC"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "La Negra Tiene Tumbao",
-      "url": "https://open.spotify.com/track/7nflSbrgBCitUnW4psdR7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 'Brillante' Best",
         "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 259000,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/0iwS6wwKRVN1h1tf0BgQxC"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/7nflSbrgBCitUnW4psdR7a"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Celia's Oye Como Va (Oye Como Va)",
+      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva la Reina de la Salsa",
         "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 274826,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Celia's Oye Como Va (Oye Como Va)",
-      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucho Love",
-        "url": "https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "Plazos Traicioneros",
-      "url": "https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 331466,
       "name": "Canto A La Habana",
       "url": "https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mucho Love",
+        "url": "https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "Plazos Traicioneros",
+      "url": "https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Grandes Damas",
+        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 163343,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celia",
         "url": "https://open.spotify.com/album/5sqZcxkoyxWmuQJNFoQ13M"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 347666,
       "name": "Por Si Acaso No Regreso",
       "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Grandes Damas",
-        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163343,
-      "name": "El Yerberito Moderno",
-      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata Guajira",
-        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 179086,
-      "name": "Cuando Sal\u00ed De Cuba",
-      "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 195360,
       "name": "Vieja Luna",
       "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata Guajira",
+        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 179086,
+      "name": "Cuando Sal\u00ed De Cuba",
+      "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 135878,
+  "num_followers": 135900,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
-      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
         "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
         "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 259713,
       "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
       "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
+      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
+        "name": "Westbound EP",
+        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 228005,
+      "name": "Separate Seasons",
+      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
         "name": "Night Flow",
         "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 249940,
       "name": "reiji no machi",
       "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
-        "name": "Westbound EP",
-        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 228005,
-      "name": "Separate Seasons",
-      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
+        "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
+        "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
+      },
+      "artists": [
+        {
+          "name": "Akina Nakamori",
+          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
+        }
+      ],
+      "duration_ms": 382866,
+      "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
+      "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
@@ -1239,6 +1255,22 @@
       "duration_ms": 269301,
       "name": "\u30af\u30ec\u30a4",
       "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
+        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
+      },
+      "artists": [
+        {
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "\u5e0c\u671b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1271,38 +1303,6 @@
       "duration_ms": 242573,
       "name": "Beautiful Sleep",
       "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
-        "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
-        "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
-      },
-      "artists": [
-        {
-          "name": "Akina Nakamori",
-          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
-        }
-      ],
-      "duration_ms": 382866,
-      "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
-      "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
-        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
-      },
-      "artists": [
-        {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "\u5e0c\u671b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
-        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
       },
       "artists": [
         {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
         }
       ],
-      "duration_ms": 266000,
-      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
+      "duration_ms": 274426,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
+        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
       },
       "artists": [
         {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
         }
       ],
-      "duration_ms": 274426,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
+      "duration_ms": 266000,
+      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
         "name": "BLUEHARLEM",
         "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 220575,
       "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
       "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
-      },
-      "artists": [
-        {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2025-06-11 13:10:10",
       "album": {
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
         "name": "Flavor Of Life",
         "url": "https://open.spotify.com/album/539IJjkQjkvYazzzCA9gPX"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 417803,
       "name": "Flavor Of Life",
       "url": "https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk"
+    },
+    {
+      "added_at": "2025-06-11 13:10:10",
+      "album": {
+        "name": "\u30cf\u30f3\u30b5\u30e0\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz"
+      },
+      "artists": [
+        {
+          "name": "Yosui Inoue",
+          "url": "https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "\u6700\u5f8c\u306e\u30cb\u30e5\u30fc\u30b9 - Remastered 2018",
+      "url": "https://open.spotify.com/track/00BOdVi0sE9haJwaw3rT22"
     },
     {
       "added_at": "2025-06-11 13:10:10",
@@ -1631,22 +1647,6 @@
       "duration_ms": 317853,
       "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
       "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
-    },
-    {
-      "added_at": "2025-06-11 13:10:10",
-      "album": {
-        "name": "\u30cf\u30f3\u30b5\u30e0\u30dc\u30fc\u30a4",
-        "url": "https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz"
-      },
-      "artists": [
-        {
-          "name": "Yosui Inoue",
-          "url": "https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "\u6700\u5f8c\u306e\u30cb\u30e5\u30fc\u30b9 - Remastered 2018",
-      "url": "https://open.spotify.com/track/00BOdVi0sE9haJwaw3rT22"
     },
     {
       "added_at": "2025-06-11 13:10:10",

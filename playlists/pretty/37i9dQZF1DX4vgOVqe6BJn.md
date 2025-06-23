@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,797 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,804 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 7 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
 | 8 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 |
 | 9 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 |
-| 10 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 |
-| 11 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
+| 10 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
+| 11 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 |
 | 12 | [papi bones \(feat\. shygirl\)](https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:40 |
 | 13 | [Big Talk](https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Big Talk](https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK) | 3:17 |
 | 14 | [Wanna Stay \(feat\. Dear Sunday\)](https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [6AM](https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz) | 2:26 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 17 | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ) | 3:18 |
 | 18 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/7jn0ATNNqtWgDk8wLYa3gw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 3:30 |
 | 19 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
-| 20 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
-| 21 | [Run em Down](https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Run em Down](https://open.spotify.com/album/5Ow8sD6GpoqXtfNglsxtwY) | 2:36 |
+| 20 | [Run em Down](https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Run em Down](https://open.spotify.com/album/5Ow8sD6GpoqXtfNglsxtwY) | 2:36 |
+| 21 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
 | 22 | [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 |
 | 23 | [Kuzola](https://open.spotify.com/track/2aDPkl4GCO2b53goL5Ia4W) | [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Baia](https://open.spotify.com/album/1u5tVyHknrgMtdMW2i6TLG) | 3:55 |
 | 24 | [Made of Gold](https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:48 |

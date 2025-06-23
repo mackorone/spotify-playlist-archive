@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol 🌺☀️🌴🎶 Buscabulla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,297 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,305 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 41 | [LOTTO](https://open.spotify.com/track/3oPY56zo69GPDwsidb4kLC) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv) | [LOTTO](https://open.spotify.com/album/2F5swXAs4rYbPLu7IeafoD) | 2:39 |
 | 42 | [Tártaro](https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP II](https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5) | 3:43 |
 | 43 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
-| 44 | [Nunca Paran](https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Aguas](https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy) | 3:04 |
-| 45 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 |
+| 44 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 |
+| 45 | [Nunca Paran](https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Aguas](https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy) | 3:04 |
 | 46 | [traguito](https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 3:56 |
 | 47 | [Lo Siento](https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 2:55 |
 | 48 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 65 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
 | 66 | [Dibujos De Mi Alma](https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:12 |
 | 67 | [Mayagüez](https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Isla Disco](https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K) | 3:34 |
-| 68 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
-| 69 | [Puente del Papa](https://open.spotify.com/track/0UibzOFBUEJyihHiJ5fDjZ) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Inconcreto & Asociados](https://open.spotify.com/album/2igVN56nzK3hBmucjeZUsG) | 3:59 |
-| 70 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
+| 68 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
+| 69 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
+| 70 | [Puente del Papa](https://open.spotify.com/track/0UibzOFBUEJyihHiJ5fDjZ) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Inconcreto & Asociados](https://open.spotify.com/album/2igVN56nzK3hBmucjeZUsG) | 3:59 |
 | 71 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 |
 | 72 | [Rama](https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [RAMA](https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5) | 5:07 |
-| 73 | [Perro Lobo](https://open.spotify.com/track/1V1apaDSstamRbQxpHykke) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8), [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Perro Lobo](https://open.spotify.com/album/6Sq4kHef4WRtDTWtQqHWE4) | 3:24 |
-| 74 | [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 |
-| 75 | [Ñe Ñe Ñé](https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:07 |
+| 73 | [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 |
+| 74 | [Comadre](https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:32 |
+| 75 | [Perro Lobo](https://open.spotify.com/track/1V1apaDSstamRbQxpHykke) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8), [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Perro Lobo](https://open.spotify.com/album/6Sq4kHef4WRtDTWtQqHWE4) | 3:24 |
 
 Snapshot ID: `aEu+cwAAAAC4zQLMnmWlQ/fzMiJsfKeQ`

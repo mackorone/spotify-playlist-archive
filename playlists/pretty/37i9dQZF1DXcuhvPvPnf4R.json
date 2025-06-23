@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 10742,
+  "num_followers": 10746,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Gangsta (Remix)",
         "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 415133,
       "name": "Never Would Have Made It",
       "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
-      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Dancehall 101 Vol. 3",
+        "url": "https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH"
+      },
+      "artists": [
+        {
+          "name": "Mad Cobra",
+          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Rum & Redbull",
         "url": "https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 135640,
       "name": "Rum & Redbull",
       "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Dancehall 101 Vol. 3",
-        "url": "https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH"
-      },
-      "artists": [
-        {
-          "name": "Mad Cobra",
-          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9"
     }
   ],
   "unique_name": "Monique Blake's Taste",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,759 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,756 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 55 | [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 |
 | 56 | [Dive In](https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8) | [Bailey Kauri](https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q) | [Dive In](https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ) | 3:08 |
 | 57 | [Fairy Floss Sky](https://open.spotify.com/track/0W4PlkXqZR4AZ4nrpLdSRj) | [Jack Willis](https://open.spotify.com/artist/5bDMEki3F51J9AwYPJeBZY) | [Fairy Floss Sky](https://open.spotify.com/album/1yzydT6WbXJbSrniPmHHr4) | 3:29 |
-| 58 | [Jackson \- Cover](https://open.spotify.com/track/3nvS2z9s0xf2xGMZJO0OaT) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi), [Ike Campbell](https://open.spotify.com/artist/3lj5OOeZrVaSN71dqJCXcX) | [Jackson \(Cover\)](https://open.spotify.com/album/28REKiqomkBstRutFWUkom) | 3:25 |
-| 59 | [Zombie](https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Zombie](https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW) | 3:35 |
-| 60 | [Wanna Be with You](https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Wanna Be with You](https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA) | 3:11 |
+| 58 | [Zombie](https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Zombie](https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW) | 3:35 |
+| 59 | [Jackson \- Cover](https://open.spotify.com/track/3nvS2z9s0xf2xGMZJO0OaT) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi), [Ike Campbell](https://open.spotify.com/artist/3lj5OOeZrVaSN71dqJCXcX) | [Jackson \(Cover\)](https://open.spotify.com/album/28REKiqomkBstRutFWUkom) | 3:25 |
+| 60 | [sprouts](https://open.spotify.com/track/4Rj8LmDWys5LA2yeQ8GFvh) | [rosarrie](https://open.spotify.com/artist/7JGtDLeiMS8MXVZzbeDNCi), [Winter Foe](https://open.spotify.com/artist/4GYawQUhnxYepBC7WhUJ4N) | [sprouts](https://open.spotify.com/album/6vN6P8t4PiSzgBMqIJ1qyf) | 3:32 |
 
 Snapshot ID: `ZWiHUAAAAAC2MHDv5DLSI7L3g/XZPcb+`

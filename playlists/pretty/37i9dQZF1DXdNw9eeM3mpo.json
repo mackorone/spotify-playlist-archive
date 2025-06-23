@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Camiseta 22 y Los Miserables en portada.",
-  "num_followers": 480820,
+  "num_followers": 480839,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,18 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
         }
       ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -455,18 +451,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
       "artists": [
         {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
+        "name": "Los Rabanes",
+        "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
+      },
+      "artists": [
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
+      "url": "https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -535,38 +551,6 @@
       "duration_ms": 262066,
       "name": "Quereme As\u00ed",
       "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Mal Bicho",
-      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Los Rabanes",
-        "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
-      },
-      "artists": [
-        {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
-      "url": "https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -623,18 +607,18 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+      "duration_ms": 243293,
+      "name": "Mal Bicho",
+      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -671,6 +655,22 @@
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -763,38 +763,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "The Maskatonians All Stars And Friends",
-        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 299253,
-      "name": "Solo un Minuto",
-      "url": "https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Maldita Soledad",
-      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
       },
@@ -815,6 +783,54 @@
       "duration_ms": 192939,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Maldita Soledad",
+      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "The Maskatonians All Stars And Friends",
+        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 299253,
+      "name": "Solo un Minuto",
+      "url": "https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Emulsion de Skape",
+        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
+      },
+      "artists": [
+        {
+          "name": "La Matatena",
+          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Su Majestad",
+      "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -847,22 +863,6 @@
       "duration_ms": 217133,
       "name": "Nada Que Perder",
       "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
-        "name": "Emulsion de Skape",
-        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
-      },
-      "artists": [
-        {
-          "name": "La Matatena",
-          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Su Majestad",
-      "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "ADN (Cap\u00edtulo N)",
-        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 182233,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
@@ -1223,22 +1203,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "This Is Ska",
-        "url": "https://open.spotify.com/album/6YPmbhWP4F4NzhF9e8M86G"
+        "name": "ADN (Cap\u00edtulo N)",
+        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
       },
       "artists": [
         {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         },
         {
-          "name": "Los Destrampados",
-          "url": "https://open.spotify.com/artist/7Ek486snhqOUnZ27zaSCqi"
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 167946,
-      "name": "This Is Ska",
-      "url": "https://open.spotify.com/track/5i9qk35DkPgOlbVP1p7u88"
+      "duration_ms": 182233,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1279,6 +1259,26 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "This Is Ska",
+        "url": "https://open.spotify.com/album/6YPmbhWP4F4NzhF9e8M86G"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        },
+        {
+          "name": "Los Destrampados",
+          "url": "https://open.spotify.com/artist/7Ek486snhqOUnZ27zaSCqi"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "This Is Ska",
+      "url": "https://open.spotify.com/track/5i9qk35DkPgOlbVP1p7u88"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "As\u00ed No Se Puede Querer",
-        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
-      },
-      "artists": [
-        {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "As\u00ed No Se Puede Querer",
-      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Chamuyo",
         "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "As\u00ed No Se Puede Querer",
+        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "As\u00ed No Se Puede Querer",
+      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Siente El Movimiento",
-        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
-      },
-      "artists": [
-        {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
-        }
-      ],
-      "duration_ms": 186175,
-      "name": "Siente El Movimiento",
-      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
+      },
+      "artists": [
+        {
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+        }
+      ],
+      "duration_ms": 186175,
+      "name": "Siente El Movimiento",
+      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/5oD73yHwxR4UJhXsBFXLuk"
-      },
-      "artists": [
-        {
-          "name": "Kurado De Coco",
-          "url": "https://open.spotify.com/artist/30tSyIeYeCqag7CdAHeryz"
-        },
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/1y1a1nJZ3ycvXwNR3ycFe1"
-    },
-    {
-      "added_at": "2025-06-13 06:00:17",
-      "album": {
         "name": "5 A\u00f1os Con Sabor a 20",
         "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
       },
@@ -1699,18 +1679,22 @@
     {
       "added_at": "2025-06-13 06:00:17",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/5oD73yHwxR4UJhXsBFXLuk"
       },
       "artists": [
         {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+          "name": "Kurado De Coco",
+          "url": "https://open.spotify.com/artist/30tSyIeYeCqag7CdAHeryz"
+        },
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
         }
       ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+      "duration_ms": 176500,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/1y1a1nJZ3ycvXwNR3ycFe1"
     },
     {
       "added_at": "2025-06-13 06:00:17",
@@ -1727,6 +1711,22 @@
       "duration_ms": 225018,
       "name": "Don`t Worry Be Happy",
       "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
+    },
+    {
+      "added_at": "2025-06-13 06:00:17",
+      "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     }
   ],
   "unique_name": "Ska Latino ",

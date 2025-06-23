@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,418 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,419 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 41 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
 | 42 | [K.O.](https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:35 |
 | 43 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
-| 44 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
-| 45 | [Malbec \(Part\. DENNIS\) \(feat\. DENNIS\) \- Ao Vivo](https://open.spotify.com/track/7vLG0D8ouHd4brF5TVJQya) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Malbec \(Part\. DENNIS\) \(feat\. DENNIS\) \[Ao Vivo\]](https://open.spotify.com/album/6Wd7qE3WGz6fZatTWZ1Zkj) | 3:33 |
+| 44 | [Malbec \(Part\. DENNIS\) \(feat\. DENNIS\) \- Ao Vivo](https://open.spotify.com/track/7vLG0D8ouHd4brF5TVJQya) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Malbec \(Part\. DENNIS\) \(feat\. DENNIS\) \[Ao Vivo\]](https://open.spotify.com/album/6Wd7qE3WGz6fZatTWZ1Zkj) | 3:33 |
+| 45 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
 | 46 | [Você Partiu Meu Coração \(feat\. Anitta & Wesley Safadão\)](https://open.spotify.com/track/0u8aj0c4IxeVSLTUuuq9V5) | [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Você Partiu Meu Coração \(feat\. Anitta & Wesley Safadão\)](https://open.spotify.com/album/53y7OTl1WRQftTuaXoXYFk) | 2:59 |
 | 47 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
 | 48 | [Hoje](https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hoje](https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN) | 2:57 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 57 | [Ta Tum Tum](https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Ta Tum Tum](https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI) | 2:44 |
 | 58 | [Cheguei](https://open.spotify.com/track/6cbZb9mVAc5s8HtwklLoI0) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:54 |
 | 59 | [Ginga \(Participação especial de Rincon Sapiência\)](https://open.spotify.com/track/1QqIcxyTz2G7I31wcrnERf) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:00 |
-| 60 | [Assim Você Mata O Papai](https://open.spotify.com/track/03UlQzmQHLb3fnvfhipq0B) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Assim Você Mata O Papai](https://open.spotify.com/album/6t1NT9hDfx7V3B3fB3e9UK) | 3:16 |
+| 60 | [Você Não Vale Nada](https://open.spotify.com/track/6EFIK4B0jrvLO096QYEhnX) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Menor](https://open.spotify.com/artist/0By75sLZQ06mWyzNiSdLUB) | [Na Mesma Estrada](https://open.spotify.com/album/2Dy95A9pniL5HcVUVMhJbC) | 3:30 |
 
 Snapshot ID: `ZIxWeAAAAABwWrdO4V2ICuYyn/1VMSL+`

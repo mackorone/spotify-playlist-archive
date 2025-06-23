@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסתר רדא
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,075 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,079 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 37 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
 | 38 | [It’ll Probably Be Fine](https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [Heart Sauce](https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P) | [It’ll Probably Be Fine](https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP) | 2:49 |
 | 39 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
-| 40 | [לגלגל את זה הלאה](https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [אירוע מתגלגל](https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF) | 4:19 |
-| 41 | [ויהי אור](https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [Zulat Choir](https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7) | [ויהי אור](https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7) | 5:26 |
+| 40 | [ויהי אור](https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [Zulat Choir](https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7) | [ויהי אור](https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7) | 5:26 |
+| 41 | [לגלגל את זה הלאה](https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [אירוע מתגלגל](https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF) | 4:19 |
 | 42 | [מודה אני](https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic) | [Safe Space Sessions](https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg), [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [מרחב מוגן](https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X) | 4:39 |
 | 43 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 | 44 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
 | 45 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 |
 | 46 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
 | 47 | [iPhone \- آيفون](https://open.spotify.com/track/7mof4b20syBh5TcdSi8fBT) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [iPhone \(آيفون\)](https://open.spotify.com/album/41vJ98xdJ01oLTLIiF9Lgn) | 4:19 |
-| 48 | [Jealous](https://open.spotify.com/track/4XCwMJsnP7Xs2x6LXnrU7I) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Bullies At Recess](https://open.spotify.com/album/0NjUal9wf8btipY48XmpsJ) | 2:50 |
-| 49 | [הכלים השבורים](https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [הכלים השבורים](https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk) | 3:29 |
-| 50 | [שמש קטנה](https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy) | [Aviv Guedj](https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT) | [שמש קטנה](https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt) | 4:23 |
+| 48 | [הכלים השבורים](https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [הכלים השבורים](https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk) | 3:29 |
+| 49 | [שמש קטנה](https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy) | [Aviv Guedj](https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT) | [שמש קטנה](https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt) | 4:23 |
+| 50 | [Jealous](https://open.spotify.com/track/4XCwMJsnP7Xs2x6LXnrU7I) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Bullies At Recess](https://open.spotify.com/album/0NjUal9wf8btipY48XmpsJ) | 2:50 |
 
 Snapshot ID: `aEs/6wAAAAB8pznYlbQChpQxhnQdR74h`

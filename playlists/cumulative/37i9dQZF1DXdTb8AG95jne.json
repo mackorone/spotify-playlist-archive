@@ -370,7 +370,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 178266,
       "name": "3108",
       "url": "https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK"
@@ -3693,6 +3693,28 @@
     },
     {
       "album": {
+        "name": "Dream Hacker (feat. Park Soeun)",
+        "url": "https://open.spotify.com/album/2HFyY8ZFo4tDK3Pbj4a0R2"
+      },
+      "artists": [
+        {
+          "name": "verycoybunny",
+          "url": "https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB"
+        },
+        {
+          "name": "Park So Eun",
+          "url": "https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228613,
+      "name": "Dream Hacker (feat. Park Soeun)",
+      "url": "https://open.spotify.com/track/0sVoT3puMSO5d4ZImGo3XG"
+    },
+    {
+      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -5576,6 +5598,24 @@
       "duration_ms": 158720,
       "name": "Gloomy melody",
       "url": "https://open.spotify.com/track/15iuJrhlEUDBjmeOyQsUTC"
+    },
+    {
+      "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo"
+      },
+      "artists": [
+        {
+          "name": "ddbb",
+          "url": "https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q"
     },
     {
       "album": {
@@ -7542,7 +7582,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 265058,
       "name": "In the Bed",
       "url": "https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,487 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,529 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 23 | [Tu Vuo Fa 'L'Americano \- From "The American" Soundtrack](https://open.spotify.com/track/41mqT9VZCiE4r9Kpga5Frr) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Renato Carosone: Solo Grandi Successi](https://open.spotify.com/album/0WG3ahQQelMxtsjTAW5psE) | 3:28 |
 | 24 | [Lisa dagli occhi blu](https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y) | [Mario Tessuto](https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi) | [Il Meglio](https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU) | 3:17 |
 | 25 | [Tintarella di luna](https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Ritratto di Mina: I singoli, Vol\. 1](https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN) | 2:59 |
-| 26 | [Donna Felicita'](https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF) | [I Nuovi Angeli](https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX) | [Donna Felicita'](https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5) | 2:07 |
-| 27 | [Poco Sole](https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Caldo](https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk) | 2:15 |
+| 26 | [Poco Sole](https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Caldo](https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk) | 2:15 |
+| 27 | [Donna Felicita'](https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF) | [I Nuovi Angeli](https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX) | [Donna Felicita'](https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5) | 2:07 |
 | 28 | [Se Puoi Uscire Una Domenica Sola Con Me](https://open.spotify.com/track/0IX18Ln5xLonOn4DKXlcMt) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Ritratto Di Gianni](https://open.spotify.com/album/47klfSZp0cH7rvCj9S0qmo) | 2:16 |
 | 29 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/5qL9G387FzVFVgV92WU34K) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [Nico Fidenco](https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA) | 2:40 |
 | 30 | [Pezzetini di bikini](https://open.spotify.com/track/7qNvDdwy8MhpdxIhfEY3Il) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Jolly LPJ 5018](https://open.spotify.com/album/1RR8kDBBb6wwYoOzTqv9VI) | 2:15 |

@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-90 songs - 12 hr 47 min
+91 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Iwo Loba](https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Iwo Loba](https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp) | 14:53 | 2024-07-26 |  |
 | [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 | 2024-07-26 |  |
 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 | 2024-07-26 |  |
+| [Kabiyesi](https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:18 | 2024-07-26 |  |
 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 | 2024-07-26 |  |
 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 | 2024-07-26 |  |
 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 | 2024-07-26 |  |
@@ -96,7 +97,7 @@
 | [Worship Session \- Live](https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Worship Session \(Live\)](https://open.spotify.com/album/3u4zypZmoYigbASxOGbYPJ) | 51:01 | 2024-07-26 |  |
 | [Yahweh \- Live](https://open.spotify.com/track/4IHbHNYL5qlk53XPvxg8kc) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [The Declaration \(Live\)](https://open.spotify.com/album/61ORlXf6oUCesajS1E6FfQ) | 8:32 | 2024-07-26 | 2025-03-24 |
 | [Yeshua Hamashiach \(Overture\)](https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [OYINKAN KOKU\-BAZUAYE](https://open.spotify.com/artist/4MsiVr0uduVTupBlpBs4D9) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:58 | 2024-07-26 |  |
-| [You And I](https://open.spotify.com/track/6HIyZBVcETC6ODKlNl87fl) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO) | [You And I](https://open.spotify.com/album/5PdH8dt3ToFnm4BbCEteGR) | 7:33 | 2025-03-21 |  |
+| [You And I](https://open.spotify.com/track/6HIyZBVcETC6ODKlNl87fl) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO) | [You And I](https://open.spotify.com/album/5PdH8dt3ToFnm4BbCEteGR) | 7:33 | 2025-03-21 | 2025-06-23 |
 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 | 2024-07-26 |  |
 
 \*This playlist was first scraped on 2025-02-03. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is prachtig en dat verdient goede muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,295 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,300 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

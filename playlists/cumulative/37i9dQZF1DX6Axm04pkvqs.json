@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "HEAVEN HAS COME",
+        "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
+      },
+      "artists": [
+        {
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        },
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378071,
+      "name": "Kabiyesi",
+      "url": "https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB"
+    },
+    {
+      "album": {
         "name": "Kadosh",
         "url": "https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2"
       },
@@ -1744,7 +1766,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 453333,
       "name": "You And I",
       "url": "https://open.spotify.com/track/6HIyZBVcETC6ODKlNl87fl"

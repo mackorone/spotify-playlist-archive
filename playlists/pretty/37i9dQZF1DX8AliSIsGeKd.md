@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Kevin de Vries
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,498 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,658 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 13 | [Infinite](https://open.spotify.com/track/4IJcNzKw1xhmo6EQUr7liN) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw) | [Infinite](https://open.spotify.com/album/7ernpwwQUGLrKdgLXR1YYA) | 5:23 |
 | 14 | [Gloomy](https://open.spotify.com/track/0LEhX8YO2XkxotSgfijnLM) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Gloomy](https://open.spotify.com/album/4C0kVIdvhc9LfJkOJVpKQ0) | 5:47 |
 | 15 | [Metrofunk](https://open.spotify.com/track/1xFC7Vr6BZskktvaCV3nBn) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Tobias Paul](https://open.spotify.com/artist/5CIYD5Vga4j87RGPfY7sVG) | [Metrofunk](https://open.spotify.com/album/1oXHYPOmpGQtONjqfiMQEE) | 3:48 |
-| 16 | [Darkness](https://open.spotify.com/track/78CcHDIIw093COMGylrkXj) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Darkness](https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g) | 3:42 |
+| 16 | [Darkness](https://open.spotify.com/track/78CcHDIIw093COMGylrkXj) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Darkness](https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g) | 3:42 |
 | 17 | [What We Shared](https://open.spotify.com/track/6BvzBaHHDkdH3Bwhu0F0F2) | [Diode Eins](https://open.spotify.com/artist/6SDn6pAFOILXizOex6vrRr), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Unfold](https://open.spotify.com/album/7a7iA3abNJWwsMAo1guNBC) | 5:35 |
 | 18 | [Hop On](https://open.spotify.com/track/0yWthqeIf9T5HoAUyM3rIt) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T) | [Underwater Bounce \- EP](https://open.spotify.com/album/17xPf4vJddlA4wV7yqr8LD) | 7:18 |
 | 19 | [Afrasia](https://open.spotify.com/track/3XlR81zJ5Xe7ymqOmCe8Kp) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Afrasia](https://open.spotify.com/album/4VmmvpZZisupRwK4Wyl9zV) | 4:00 |

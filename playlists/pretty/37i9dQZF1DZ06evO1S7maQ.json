@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 644695,
+  "num_followers": 645125,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAD/IrnJTLWtnlvRwCZG12dg",
+  "snapshot_id": "aFX2AAAAAACy300k+L3NF0GgWII88ItJ",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 354813,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 199066,
       "name": "Radio Nowhere",
       "url": "https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 354813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 274120,
+      "name": "Long Walk Home",
+      "url": "https://open.spotify.com/track/41RlTAAmlNhuhPx8rPZlDS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 295493,
       "name": "Letter To You",
       "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rain in the River",
-        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Rain in the River",
-      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+        "name": "Rain in the River",
+        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 274120,
-      "name": "Long Walk Home",
-      "url": "https://open.spotify.com/track/41RlTAAmlNhuhPx8rPZlDS"
+      "duration_ms": 192226,
+      "name": "Rain in the River",
+      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "I'll See You In My Dreams",
-      "url": "https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM"
       },
@@ -739,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Repo Man",
-        "url": "https://open.spotify.com/album/2dlVw20ada4YRodv07jKQL"
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
       "artists": [
         {
@@ -748,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 175080,
-      "name": "Repo Man",
-      "url": "https://open.spotify.com/track/7vI08htFEStbX7PkVhZC7a"
+      "duration_ms": 209306,
+      "name": "I'll See You In My Dreams",
+      "url": "https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 390146,
       "name": "Backstreets",
       "url": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Repo Man",
+        "url": "https://open.spotify.com/album/2dlVw20ada4YRodv07jKQL"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "Repo Man",
+      "url": "https://open.spotify.com/track/7vI08htFEStbX7PkVhZC7a"
     },
     {
       "added_at": null,

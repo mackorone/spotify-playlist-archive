@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 15 | [In Too Deep \- Acoustic](https://open.spotify.com/track/6dhDsUbIB96e1UX8d0UKHW) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [In Too Deep \(Acoustic\)](https://open.spotify.com/album/017Bceqexkn7Lrxd9ZEhM7) | 2:19 |
 | 16 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 |
 | 17 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/4MeIqmkDUpzCNh25g7PaYN) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/4TOEnObzWo2hprdRapk6Jc) | 2:38 |
-| 18 | [Jamming \- Acoustic](https://open.spotify.com/track/6pq8i8sYDHcyjZV49X4G71) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Jamming \(Acoustic\)](https://open.spotify.com/album/4tzuHyuggegl9HzY6GVCMz) | 2:23 |
+| 18 | [Best Day of My Life \- Acoustic](https://open.spotify.com/track/1K3piXjBqn6HLxqDFe4sTc) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Best Day of My Life \(Acoustic\)](https://open.spotify.com/album/2dR0Fxs2Or6ZS4dkfshf92) | 2:33 |
 | 19 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/6tpYrSlAy3AI2RQilzawrm) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Never Gonna Give You Up \(Acoustic\)](https://open.spotify.com/album/1S8QuVTrjyVNPrsDIdcjpk) | 2:56 |
 | 20 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 |
 | 21 | [You Sexy Thing \- Acoustic](https://open.spotify.com/track/5J5M93wt6dvcGgS2R2kmBN) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [You Sexy Thing \(Acoustic\)](https://open.spotify.com/album/0XJNsp57dBIT3qt6x6024z) | 3:12 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 140 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 141 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAF2lQK6b82BHMIX/h3mLEoy8qQMZPI`
+Snapshot ID: `AAAF3CEg9JDRBzisLRrl5lcnX3gHpVgG`

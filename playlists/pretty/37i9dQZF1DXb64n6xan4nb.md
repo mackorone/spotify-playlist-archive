@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,782 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,790 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 18 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 | 19 | [River Flows in You](https://open.spotify.com/track/3xr8COed4nPPn6XWZ0iCGr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [The Best \- Reminiscent 10th Anniversary](https://open.spotify.com/album/7dZ49XnPBaF4e6SMYmsNQ1) | 3:38 |
 | 20 | [Because Of You](https://open.spotify.com/track/2VarpyoSpCPNKI56WSAEMN) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/186ono4MPlxXlKyR1WD0bP) | 4:26 |
-| 21 | [Perhaps Love](https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad), [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:35 |
-| 22 | [Y \(Please Tell Me Why\)](https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd) | [freestyle](https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9) | [Freestyle 3](https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY) | 4:40 |
+| 21 | [Y \(Please Tell Me Why\)](https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd) | [freestyle](https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9) | [Freestyle 3](https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY) | 4:40 |
+| 22 | [Perhaps Love](https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad), [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:35 |
 | 23 | [P.D.A\. \(We Just Don't Care\)](https://open.spotify.com/track/0ZBtXonwjdAbRo2UrD0Efq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 4:38 |
 | 24 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
 | 25 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 54 | [FOR YOU](https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 4:07 |
 | 55 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
 | 56 | [Love Me Once Again](https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:11 |
-| 57 | [좋아 좋아](https://open.spotify.com/track/1ioWMsy1V8yJv2O98tOD69) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:13 |
-| 58 | [사랑과 우정사이](https://open.spotify.com/track/6UWXnJ4MpEeVkBLXmF90aj) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:57 |
+| 57 | [사랑과 우정사이](https://open.spotify.com/track/6UWXnJ4MpEeVkBLXmF90aj) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:57 |
+| 58 | [좋아 좋아](https://open.spotify.com/track/1ioWMsy1V8yJv2O98tOD69) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:13 |
 | 59 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
 | 60 | [중독](https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:03 |
 | 61 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 66 | [Life Is Cool](https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW) | [Sweetbox](https://open.spotify.com/artist/2YCJYQq4i8MMxbNM59OWmy) | [sweetbox The Best](https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM) | 2:48 |
 | 67 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
 | 68 | [응급실](https://open.spotify.com/track/2JPmkr5otXP3G5LMK497c9) | [Izi](https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf) | [izi 1집](https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8) | 3:58 |
-| 69 | [청소](https://open.spotify.com/track/5jSfmXYUqubnGlgEyr7hg7) | [THE RAY](https://open.spotify.com/artist/3T5ikG9OwvWrWbr5Eypv7g) | [The Ray's Rainbow](https://open.spotify.com/album/6tIZiqTX4XYp3H2nvtqKb7) | 3:55 |
-| 70 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 |
+| 69 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 |
+| 70 | [청소](https://open.spotify.com/track/5jSfmXYUqubnGlgEyr7hg7) | [THE RAY](https://open.spotify.com/artist/3T5ikG9OwvWrWbr5Eypv7g) | [The Ray's Rainbow](https://open.spotify.com/album/6tIZiqTX4XYp3H2nvtqKb7) | 3:55 |
 | 71 | [What if](https://open.spotify.com/track/0yqTCKcLaJfeVEUavlnYK3) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [TIME FOR LOVE](https://open.spotify.com/album/4vOrKQQbPSjYGQRbixrdRi) | 3:48 |
 | 72 | [정말 사랑했을까](https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:32 |
 | 73 | [그대는 눈물겹다](https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 5:02 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 90 | [Promise U \(Original Ver.\)](https://open.spotify.com/track/0xal1TDjG4hQRt6poGvoml) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:03 |
 | 91 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
 | 92 | [내 입술 따뜻한 커피처럼](https://open.spotify.com/track/3Jy7rkhHWuPGPZYVyMYwSp) | [Lee Ji Hye](https://open.spotify.com/artist/4fjnGkj0w54KWyIk2VTW7B) | [그대 없이 난](https://open.spotify.com/album/776V3gt9aWQottoKzYT55S) | 4:27 |
-| 93 | [Neo Classicism \- 눈의 꽃 \- Remake Version](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Five Sense](https://open.spotify.com/artist/1W8cDoqWbmovusGp27bHFp) | [Neo Classicism \- 눈의 꽃](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 |
-| 94 | [gazing blankly](https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:36 |
+| 93 | [gazing blankly](https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:36 |
+| 94 | [Neo Classicism \- 눈의 꽃 \- Remake Version](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Five Sense](https://open.spotify.com/artist/1W8cDoqWbmovusGp27bHFp) | [Neo Classicism \- 눈의 꽃](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 |
 | 95 | [날 위한 이별](https://open.spotify.com/track/6qSe6I8DAKMiRoGpOQtX7C) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Misty Memories](https://open.spotify.com/album/3I7hHEuZYAhnHu4JLP1jPr) | 4:38 |
 | 96 | [Brown City](https://open.spotify.com/track/5yMUXmoOqQbXPlj5C2Q3Au) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 3:55 |
 | 97 | [사랑해, 이 말 밖엔...](https://open.spotify.com/track/55Gh7kOThfeDEiO3MTvXOD) | [Rich](https://open.spotify.com/artist/0OAPcmruJr93HIMyFgFjoP) | [I Have A Dream](https://open.spotify.com/album/3YtezvI7xfOPQvweV49HBY) | 4:11 |

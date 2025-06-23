@@ -4,7 +4,7 @@
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-119 songs - 5 hr 13 min
+120 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Dear Buddy](https://open.spotify.com/track/4XhZgQHy6yNEB5M3NhZXAG) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Dear Buddy](https://open.spotify.com/album/7nRhGhULaOo98BoVjYzzgD) | 2:12 | 2023-09-29 | 2024-06-04 |
 | [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 | 2024-06-03 | 2025-05-07 |
 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2024-06-03 | 2025-02-07 |
-| [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2024-06-03 |  |
+| [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2024-06-03 | 2025-06-23 |
 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 | 2025-04-11 | 2025-06-21 |
 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 | 2024-06-03 | 2025-05-21 |
 | [Estelle](https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Estelle](https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY) | 1:58 | 2023-09-29 | 2024-06-04 |
@@ -102,6 +102,7 @@
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2024-06-03 | 2025-03-22 |
 | [Snuggled](https://open.spotify.com/track/75Zh8LLgK1jnGbHsAMN2vv) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Snuggled](https://open.spotify.com/album/3xjUvrQEXkBv2V1NiMw3Pv) | 2:11 | 2025-04-11 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2023-09-29 | 2024-06-04 |
+| [Sparrow Eye](https://open.spotify.com/track/5fsFankh47Uve3ugGEKyyG) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Sparrow Eye](https://open.spotify.com/album/2ebbOKUcsgBBhyQ83DjA6H) | 2:46 | 2025-04-11 |  |
 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2024-06-03 | 2025-03-21 |
 | [Stoevsky](https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Stoevsky](https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb) | 2:44 | 2025-01-23 |  |
 | [Sunlight Sadness](https://open.spotify.com/track/4OXMONKgLmW0FZGU6Sm7Hf) | [Højsgaard](https://open.spotify.com/artist/5lliVLCizk1905IEorthCG) | [Sunlight Sadness](https://open.spotify.com/album/1XhIG4rUpR4cNXiegHFsU7) | 2:31 | 2023-09-29 | 2024-06-04 |

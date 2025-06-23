@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,618,198 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,618,623 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 |
 | 60 | [Salty](https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Salty](https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR) | 3:01 |
 | 61 | [I Need Acid](https://open.spotify.com/track/69xIvCoRxfvG4vt4AZfwXH) | [Tony Romanello](https://open.spotify.com/artist/6bQjjM7IF0eLgxjiJHwhOt) | [I Need Acid](https://open.spotify.com/album/5y2FOo9a6TKVSYjDSnqXn3) | 3:49 |
-| 62 | [Darkness](https://open.spotify.com/track/78CcHDIIw093COMGylrkXj) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Darkness](https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g) | 3:42 |
+| 62 | [Darkness](https://open.spotify.com/track/78CcHDIIw093COMGylrkXj) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Darkness](https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g) | 3:42 |
 | 63 | [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 |
 | 64 | [Connector \- Original Mix](https://open.spotify.com/track/6SKhLM0fRKJgFYmUB8InpG) | [Lowshape](https://open.spotify.com/artist/6kR7mbHvYkQcEVN2I8pHqU) | [Connector](https://open.spotify.com/album/0JhaUaG3iNOPY83UvP4hAz) | 3:47 |
 | 65 | [Open Your Eyes](https://open.spotify.com/track/7dUnRmuqiVe26UokUxCTgu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Open Your Eyes](https://open.spotify.com/album/5oYtXGdXIln2DKLLBFEkyZ) | 7:25 |

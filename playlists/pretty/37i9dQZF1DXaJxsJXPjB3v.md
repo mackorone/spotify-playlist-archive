@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit the best Kwaito songs ever released\. Cover: Bongo Maffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,528 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,561 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 15 | [Thula Mabota](https://open.spotify.com/track/268w5H4z4D5E8ER4Tt3qRY) | [Mawillies](https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N) | [Intwenjani](https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli) | 5:43 |
 | 16 | [Izinja](https://open.spotify.com/track/6qJpatMdBrN3yRFuLqLCA8) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Tsotsi](https://open.spotify.com/album/7efUI9NRE7rieqrHGD1409) | 4:13 |
 | 17 | [Sgelekeqe \- Mindlo Mix](https://open.spotify.com/track/4Xqec5nATHVa8bsHngCMKE) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Mandoza](https://open.spotify.com/album/5mt82F2mozkrikmeYeFU80) | 4:21 |
-| 18 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
-| 19 | [Nomalizo](https://open.spotify.com/track/2H20ibCx6qtLsI2rhs3bPb) | [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG) | [Mthandazo Wabolova](https://open.spotify.com/album/3S7R9NSguORFWfJSUhDAV4) | 5:24 |
-| 20 | [Mnike](https://open.spotify.com/track/2CsW73MoDsh6ra2Jwa5Ez4) | [Arthur](https://open.spotify.com/artist/5wlKFzRmsjsCCRxlYf2KdU) | [Mnike](https://open.spotify.com/album/7gneORxdnpyAQpzN8Yoldt) | 5:32 |
-| 21 | [Lost 'N Found](https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Lost 'N Found](https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys) | 5:03 |
+| 18 | [Nomalizo](https://open.spotify.com/track/2H20ibCx6qtLsI2rhs3bPb) | [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG) | [Mthandazo Wabolova](https://open.spotify.com/album/3S7R9NSguORFWfJSUhDAV4) | 5:24 |
+| 19 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
+| 20 | [Lost 'N Found](https://open.spotify.com/track/5bi5ot0tC37XOORKfehoRy) | [Mashamplani](https://open.spotify.com/artist/4uSBcHbT1Gcsqy5V0Oqn5I) | [Lost 'N Found](https://open.spotify.com/album/7FuyJJkcr7HPaCDZUUv8ys) | 5:03 |
+| 21 | [Mnike](https://open.spotify.com/track/2CsW73MoDsh6ra2Jwa5Ez4) | [Arthur](https://open.spotify.com/artist/5wlKFzRmsjsCCRxlYf2KdU) | [Mnike](https://open.spotify.com/album/7gneORxdnpyAQpzN8Yoldt) | 5:32 |
 | 22 | [Amakoporosh](https://open.spotify.com/track/0T3LbaGADVSPXU5Tzy7XDY) | [Mzekezeke](https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e) | [S'guqa Ngamadolo](https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX) | 5:37 |
 | 23 | [Tlo Be Rele Daar](https://open.spotify.com/track/03RGHM6AtZxkZ3rU3iAwQa) | [Skeem](https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR) | [Yizo Yizo](https://open.spotify.com/album/0MI38qrVzFPVgRiHN4ocFU) | 4:40 |
 | 24 | [Tornado Part 1](https://open.spotify.com/track/21xIGXNksYlM9FBDFQC18y) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Tornado](https://open.spotify.com/album/4MLRGUuN0sDl7bjeYj3KVa) | 5:37 |

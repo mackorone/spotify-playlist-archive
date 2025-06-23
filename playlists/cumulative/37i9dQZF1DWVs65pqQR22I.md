@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-196 songs - 8 hr 47 min
+197 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Nights with Black Noise](https://open.spotify.com/track/5MkScpVqQ53sGNXMzGhSl0) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Nights with Black Noise](https://open.spotify.com/album/387f3DHivXw4c8o0Si7Q0i) | 2:45 | 2023-03-10 | 2023-07-06 |
 | [Nocturnal Lull](https://open.spotify.com/track/0f7cq7DmTnuF19y2fOvATD) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Nocturnal Lull](https://open.spotify.com/album/1u96mfr5Xz9rVMNgiXuKSQ) | 4:37 | 2024-02-13 |  |
 | [Noiselessness](https://open.spotify.com/track/1sxtXItV2vsuUAhH1KYEm5) | [Plectrasonics](https://open.spotify.com/artist/2dyUwQxoYt3ersIjh4Z77v) | [BLK NSE 001](https://open.spotify.com/album/7K8USBKZ0t2g6IMH8ekIkQ) | 2:43 | 2023-03-31 |  |
+| [Onyx Oasis](https://open.spotify.com/track/4GFPhNVZ52w4Tu9ZXhRUh3) | [Soundverb](https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo) | [Onyx Oasis](https://open.spotify.com/album/3PpAQuV5V3kDKUAcLQrTRQ) | 5:15 | 2025-04-09 |  |
 | [Peaceful Black Noise](https://open.spotify.com/track/3rrxVDfT84TPPRmqHvtUs1) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Black Noise Vol\. 1](https://open.spotify.com/album/42W13BUpgS9LHN7qEKG0fx) | 2:22 | 2023-04-21 | 2025-05-02 |
 | [Peaceful Black Noise](https://open.spotify.com/track/2TNqxwtc41JvEvgYNJLalz) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Healing Black Noise](https://open.spotify.com/album/4vTf5vLobu75WEgLrpFKGu) | 2:16 | 2023-03-10 | 2023-07-06 |
 | [Peaceful Darkness \- Black Noise](https://open.spotify.com/track/7AKssyLSWIQaWyZ1NQAgHn) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Black Noise Tranquility](https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e) | 2:50 | 2023-07-06 | 2024-02-14 |
@@ -161,7 +162,7 @@
 | [Restful Black Noise](https://open.spotify.com/track/5kCPxgzPyyiSBMw0OXlwFD) | [Lakshmi Roo](https://open.spotify.com/artist/1JfWdDJgevvJTexlg05huU) | [Harmonious Black Noise](https://open.spotify.com/album/5rTO0oFjsYW5urVkgnsBou) | 2:21 | 2023-03-10 | 2023-07-06 |
 | [Sable Black Noise](https://open.spotify.com/track/51bflDSdiVPYyiD7yXk6bJ) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Sable Black Noise](https://open.spotify.com/album/0YglITRpJibVCwRAF0eoNV) | 3:09 | 2025-04-09 |  |
 | [Sensual Black Noise](https://open.spotify.com/track/4Aqj0z0W7blJFBBHosVpRT) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [Black Noise Haven](https://open.spotify.com/album/6ymMlHHmCbSgtf4qWTAXFU) | 2:43 | 2023-03-10 |  |
-| [Seraphic Equilibrium \- Black Noise](https://open.spotify.com/track/7IYEFcq06tIyv3y7enDrIC) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Dark Tranquility \(Black Noise\)](https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe) | 2:52 | 2023-06-01 |  |
+| [Seraphic Equilibrium \- Black Noise](https://open.spotify.com/track/7IYEFcq06tIyv3y7enDrIC) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Dark Tranquility \(Black Noise\)](https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe) | 2:52 | 2023-06-01 | 2025-06-23 |
 | [Serendipitous Black Noise](https://open.spotify.com/track/4I0BfEIZfJPkpGJTqGahCN) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [Black Noise Haven](https://open.spotify.com/album/6ymMlHHmCbSgtf4qWTAXFU) | 3:02 | 2023-03-10 |  |
 | [Serene Black Noise](https://open.spotify.com/track/4KY3v44ESVbj8SGEAKNJ4l) | [Digital Sounds Recordings](https://open.spotify.com/artist/6pzPREJWA5t3tGBsPlbKKI) | [Peaceful Black Noise](https://open.spotify.com/album/0TLWTVN5x5xCRx7D60HKXt) | 2:07 | 2023-06-01 |  |
 | [Serene Black Noise Melodies](https://open.spotify.com/track/6gU8MolsvmO35Y6wEeguVt) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Serene Black Noise Melodies](https://open.spotify.com/album/00SIpBgbHleiWvn8U4uQqk) | 2:39 | 2023-03-10 | 2023-06-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie xcx](https://open.spotify.com/user/blank808) - 0 likes - 1,480 songs - 3 day 15 hr 14 min
+[charlie xcx](https://open.spotify.com/user/blank808) - 0 likes - 1,490 songs - 3 day 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1488,5 +1488,15 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 | 1478 | [jeans](https://open.spotify.com/track/6C2nVSSeXNqfoY8t6tliZ4) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [jeans](https://open.spotify.com/album/7ANu2uI0FVnoQnQsrSiVcO) | 3:01 |
 | 1479 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
 | 1480 | [Pixel Affection](https://open.spotify.com/track/2c5bFJ82YxgGprGjOq1OaO) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 3:39 |
+| 1481 | [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/track/6nx4f2nVmFNWquoMtUrdYX) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:37 |
+| 1482 | [Noises](https://open.spotify.com/track/3dTyQ8CON5t5jreYf2GRhA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 1:44 |
+| 1483 | [Dudu](https://open.spotify.com/track/5vkJZHiK2s7Os8AM1vInjv) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50) | 3:06 |
+| 1484 | [Stars](https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:21 |
+| 1485 | [Nice to Know You](https://open.spotify.com/track/39BYU2nLFR8Q1RcPdVvUMn) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:50 |
+| 1486 | [HBA](https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:32 |
+| 1487 | [Sick Beat](https://open.spotify.com/track/0BgPrNelWyvk0C5recZeKE) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3RNP9iHMJpFkGbMB2OAnJn) | 2:59 |
+| 1488 | [B2b](https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:58 |
+| 1489 | [Club classics featuring bb trickz](https://open.spotify.com/track/4c252FOXsYUwrSRv8g9aei) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 2:54 |
+| 1490 | [Babies \(Are so Strange\)](https://open.spotify.com/track/4Vp9p8ALawDXRiQGByLNQF) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3RNP9iHMJpFkGbMB2OAnJn) | 2:36 |
 
-Snapshot ID: `AAAFVxuiIdC3iW1hkqIzdMgOknSdAMR7`
+Snapshot ID: `AAAFWQhQ4rxWmT9ndolBZJAXWaeV6OxL`

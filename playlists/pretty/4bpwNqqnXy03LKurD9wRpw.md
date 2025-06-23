@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bpwNqqnXy03LKurD9wRpw.md) - [plain]
 
 > a collation of music recommendations from at random.
 
-[Jess Green](https://open.spotify.com/user/1231146893) - 1 like - 27 songs - 1 hr 27 min
+[Jess Green](https://open.spotify.com/user/1231146893) - 1 like - 33 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,11 @@ pretty - [cumulative](/playlists/cumulative/4bpwNqqnXy03LKurD9wRpw.md) - [plain]
 | 25 | [IDENTITY](https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [IDENTITY](https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh) | 3:24 |
 | 26 | [Scream](https://open.spotify.com/track/4bGnmhNUVH1ebHAXYfJZs0) | [Forever Son](https://open.spotify.com/artist/55QKnoNsfzDt7Cz2N11zeX) | [Scream](https://open.spotify.com/album/6cqrnQFi37GADL1ynrVAGo) | 2:38 |
 | 27 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 28 | [Bowling alley](https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Bowling alley](https://open.spotify.com/album/3d9Fsp7MNINAFJDTdQ5x4k) | 2:34 |
+| 29 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
+| 30 | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8) | 3:18 |
+| 31 | [Lucky stars](https://open.spotify.com/track/5kceyl4cE1TJCOI3AOK09g) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:18 |
+| 32 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
+| 33 | [i'll still feel for you](https://open.spotify.com/track/0qNOicj66xgqIEf6h5FHc7) | [PRETTY BLEAK](https://open.spotify.com/artist/6x0YBTahRdiFIVlZt9ilLx) | [i'll still feel for you](https://open.spotify.com/album/2AdHx4C7q8AczjzuwNEyEQ) | 3:31 |
 
-Snapshot ID: `AAAAIYQlWZsy2wyEEhRG4kSu5HxOzYAG`
+Snapshot ID: `AAAAJ9J/3r0bzFESp4HDkZI+MMhRd9OA`

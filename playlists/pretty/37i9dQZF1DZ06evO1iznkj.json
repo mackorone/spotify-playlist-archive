@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 175333,
+  "num_followers": 175383,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAABF8D61HomhM77lLVNoKrLU",
+  "snapshot_id": "aFX2AAAAAABaG4MF2ucf0vZj0eHPK+JE",
   "tracks": [
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "STREET SWEEPER (feat. Future)",
-      "url": "https://open.spotify.com/track/3pjzb1lnMOJbWbghMGSp23"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -791,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "STREET SWEEPER (feat. Future)",
+      "url": "https://open.spotify.com/track/3pjzb1lnMOJbWbghMGSp23"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -800,13 +800,13 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 167840,
-      "name": "thought i was playing",
-      "url": "https://open.spotify.com/track/5dqeWGM9sqLd5bZhyBikrZ"
+      "duration_ms": 210586,
+      "name": "idk that bitch (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
     },
     {
       "added_at": null,
@@ -888,13 +888,13 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 210586,
-      "name": "idk that bitch (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
+      "duration_ms": 167840,
+      "name": "thought i was playing",
+      "url": "https://open.spotify.com/track/5dqeWGM9sqLd5bZhyBikrZ"
     },
     {
       "added_at": null,

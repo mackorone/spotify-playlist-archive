@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475,604 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,476,067 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 86 | [Misty](https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:38 |
 | 87 | [Pertenecer](https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Pertenecer](https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T) | 3:27 |
 | 88 | [Black & Whites](https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Black & Whites](https://open.spotify.com/album/67eSCwLxuPQZ0jKI373JSt) | 3:40 |
-| 89 | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [DJ Million Faces](https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP) | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70) | 3:00 |
-| 90 | [Doom](https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T) | [Doom](https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl) | 2:16 |
+| 89 | [Doom](https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T) | [Doom](https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl) | 2:16 |
+| 90 | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/track/7AKRcTsRrHHhEGBHOCbSPQ) | [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [DJ Million Faces](https://open.spotify.com/artist/4yIHridldZW7jSDEWiGipP) | [Jazz & Coffee, Pt\. 4](https://open.spotify.com/album/6cNg9DdYwzXpgeW5CHYm70) | 3:00 |
 | 91 | [Phoenix](https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Phoenix](https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j) | 3:33 |
 | 92 | [The Sophisticated Hippie \- Easy Mo Bee Remix](https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Easy Mo Bee](https://open.spotify.com/artist/1hFiH4ETB3NF2zmJPGzke4) | [The New Groove: The Blue Note Remix Project Vol\. 1](https://open.spotify.com/album/78JSLGBEpOP2pGkxRHGzvs) | 6:53 |
 | 93 | [FOREVER.](https://open.spotify.com/track/653r4vG5iaUnhyniwg8MvY) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [01 LOVE.](https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49) | 5:12 |

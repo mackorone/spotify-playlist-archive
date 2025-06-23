@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,286 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 39 | [El Dragon](https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jordin Sandoval](https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:25 |
 | 40 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
 | 41 | [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 |
-| 42 | [Que Hice Mal](https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Que Hice Mal](https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI) | 3:25 |
+| 42 | [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 |
 | 43 | [Que Cambie](https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:34 |
 | 44 | [Sin Faramaya](https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7) | [Ely Rosario](https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Sin Faramaya](https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY) | 2:24 |
 | 45 | [El Brillo de Mis Ojos](https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Brillo de Mis Ojos](https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer) | 3:32 |
-| 46 | [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 |
+| 46 | [Que Hice Mal](https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Que Hice Mal](https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI) | 3:25 |
 | 47 | [Pa Que Hablen De Verdad](https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 3:03 |
 | 48 | [El Maserati \- En Vivo](https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [El Maserati \(En Vivo\)](https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk) | 2:42 |
 | 49 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 |
 | 50 | [Medio Fresa \- En Vivo](https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:59 |
 
-Snapshot ID: `aFSkgAAAAACqG7HhB8jlrfrOqL4OoIpi`
+Snapshot ID: `aFX2AAAAAABAuNUv5MGfrTUfae8JqxE/`

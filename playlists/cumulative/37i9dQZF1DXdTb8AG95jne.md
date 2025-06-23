@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Zior Park\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-975 songs - 2 day 11 hr 22 min
+977 songs - 2 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-06-06 | 2024-11-30 |
 | [2022/02/22](https://open.spotify.com/track/1FUXYmjl2GMjqqWckYHhcm) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [2022/02/22](https://open.spotify.com/album/1WRZivz4Et1oExafBKnlCq) | 2:14 | 2022-02-16 | 2022-04-18 |
 | [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 | 2024-02-07 | 2024-03-09 |
-| [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 | 2022-07-27 |  |
+| [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 | 2022-07-27 | 2025-06-23 |
 | [3108](https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/0pwKuUl5Rx2o2GWsARCCOU) | 2:58 | 2021-12-12 | 2022-07-29 |
 | [500000km NF SONATA](https://open.spotify.com/track/6te2w854p7KJnwWifSvZdb) | [A.TRAIN](https://open.spotify.com/artist/7D0HzqgqyXHSl3Vp4EC1EL) | [500000km NF SONATA](https://open.spotify.com/album/5L4NzC1YJgJ6S1kr8VSlLd) | 3:11 | 2022-07-04 | 2022-07-09 |
 | [7942](https://open.spotify.com/track/5KKExY5gsSnK8OUKMgeSOO) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [7942](https://open.spotify.com/album/0Fj7skkiFSSaRHjY50cRnK) | 3:58 | 2022-03-31 | 2022-04-21 |
@@ -206,6 +206,7 @@
 | [Down](https://open.spotify.com/track/7hRhNpXVmoWicHNmgXcF3j) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [MY ONLY 1 \(Original Soundtrack from the WEBTOON\)](https://open.spotify.com/album/26kWAzpUA7EQyimA0Fxbqx) | 3:53 | 2023-02-14 | 2023-03-01 |
 | [Dr\. Happiness \(Feat\. CHS\)](https://open.spotify.com/track/3WtlX5cNelKYTK6jPxn7Z4) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [CHS](https://open.spotify.com/artist/5kmOxIVVhfwbItJn9onVoe) | [Dr\. Happiness](https://open.spotify.com/album/0el5q6EfLtW0rpsP0tmAbk) | 3:19 | 2024-04-30 | 2024-05-10 |
 | [DRAMA](https://open.spotify.com/track/56bXIqmnVhCxGhGaOGx1zE) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [DRAMA](https://open.spotify.com/album/5oVPbj0ll7HoYPt3WCi6es) | 2:39 | 2022-03-31 | 2022-04-14 |
+| [Dream Hacker \(feat\. Park Soeun\)](https://open.spotify.com/track/0sVoT3puMSO5d4ZImGo3XG) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Dream Hacker \(feat\. Park Soeun\)](https://open.spotify.com/album/2HFyY8ZFo4tDK3Pbj4a0R2) | 3:48 | 2025-06-23 |  |
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2022-06-18 |  |
 | [Dream Store \(feat\. Ashley Alisha, Heyden\)](https://open.spotify.com/track/0APhIOiHX4bnwf4VMVMmAd) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Dream Store](https://open.spotify.com/album/0MGlAUHQJ86zOtUI5xrBkl) | 2:59 | 2022-03-03 | 2022-07-26 |
 | [Dreamcatcher 드림캐처](https://open.spotify.com/track/6Jx06CqjXLM7VYljqkCRcL) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Dreamcatcher 드림캐처](https://open.spotify.com/album/6OtpkxHRV3EGjzOgaPSmtl) | 3:29 | 2021-12-12 | 2022-07-20 |
@@ -305,6 +306,7 @@
 | [Girl to a Bride](https://open.spotify.com/track/77oYxuIZpbKKRQC2DUtwkt) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [XOXO: Your Wedding Song](https://open.spotify.com/album/1VQ38HctrDL20BpOUHvf0y) | 3:26 | 2022-05-11 | 2022-06-09 |
 | [Glass](https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Glass](https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ) | 3:56 | 2023-02-28 | 2023-03-28 |
 | [Gloomy melody](https://open.spotify.com/track/15iuJrhlEUDBjmeOyQsUTC) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Gloomy melody](https://open.spotify.com/album/5Ir0Ou7xH6smsOdvdelFYo) | 2:38 | 2024-04-30 | 2024-05-10 |
+| [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-06-23 |  |
 | [Glow Stars](https://open.spotify.com/track/0J5vwP4zOkZxBBkJSFUIZr) | [서예안](https://open.spotify.com/artist/4XcyxfvYDxE4RhYNZlfyUD) | [Glow Stars](https://open.spotify.com/album/1tTDA9MOyLBhbD1RELSXsO) | 3:04 | 2024-04-30 | 2024-05-10 |
 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-10 | 2025-01-23 |
 | [Go Back](https://open.spotify.com/track/4GhDaROSZ1HHh6qGHxBR0O) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Go Back](https://open.spotify.com/album/5nrTyyRN42maHoTsNt5veZ) | 4:13 | 2024-07-22 | 2024-08-29 |
@@ -409,7 +411,7 @@
 | [In Paris](https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl) | [CollaBoat](https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM), [Kaya](https://open.spotify.com/artist/1KZk8vBB8TreRNgIIyJ5lY) | [In Paris](https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I) | 4:11 | 2022-03-31 | 2022-04-14 |
 | [In Star](https://open.spotify.com/track/2Zd0bxXrdGKjNMbGlkTGOM) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [In Star](https://open.spotify.com/album/0r9zh2sHXZk9OZy0ofc8SF) | 4:00 | 2022-03-31 | 2022-04-20 |
 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 | 2021-12-12 | 2024-05-18 |
-| [In the Bed](https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In the Bed](https://open.spotify.com/album/6UCGxZpwzt7SYipIRa0CCo) | 4:25 | 2025-04-11 |  |
+| [In the Bed](https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In the Bed](https://open.spotify.com/album/6UCGxZpwzt7SYipIRa0CCo) | 4:25 | 2025-04-11 | 2025-06-23 |
 | [In the Name of Love \- 2024 Version](https://open.spotify.com/track/5sp3iWKHpLGpQbhDbFPEqP) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Coloring 'In the Name of Love'](https://open.spotify.com/album/3c1eJ6tq1lJPn7JDos5Y3z) | 2:56 | 2024-10-27 | 2024-11-29 |
 | [In This Morning](https://open.spotify.com/track/0WziV52uDQhR2c2CWg38fe) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [In This Morning](https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs) | 3:45 | 2024-04-30 | 2024-05-10 |
 | [In time](https://open.spotify.com/track/5CXvW4e3hz3NIH3k6GRnDI) | [정오월](https://open.spotify.com/artist/4zLM2qGVz8TX11ycCgwxk8) | [In time](https://open.spotify.com/album/0t3Gv2sSwVBWaGvdkJV03Q) | 4:53 | 2024-04-30 | 2024-05-10 |

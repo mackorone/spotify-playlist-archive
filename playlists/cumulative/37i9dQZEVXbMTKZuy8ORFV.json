@@ -9388,7 +9388,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Estaba aqu\u00ed pensando",
       "url": "https://open.spotify.com/track/5jkSKg5nOnRantfMxcf5N0"
@@ -10561,6 +10561,24 @@
     },
     {
       "album": {
+        "name": "Come into My Life",
+        "url": "https://open.spotify.com/album/2dNLeo3WYrq3tGLm4OIMcQ"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Freed from Desire",
+      "url": "https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2"
+    },
+    {
+      "album": {
         "name": "FRI(END)S",
         "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
       },
@@ -11180,7 +11198,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 215444,
       "name": "God Is A Weapon",
       "url": "https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH"
@@ -13850,7 +13868,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 223538,
       "name": "La Pantera",
       "url": "https://open.spotify.com/track/0TOQQZVCZdMFMxzHT6WEtD"
@@ -17504,7 +17522,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 97606,
       "name": "Montagem Bandido - Slowed",
       "url": "https://open.spotify.com/track/2spuCBVvQyCsQFHIiie8gP"
@@ -27928,7 +27946,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 165527,
       "name": "Todo Contigo",
       "url": "https://open.spotify.com/track/0FLh1ZDsjnoACzBrAVjXT2"
@@ -28414,7 +28432,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"
@@ -29746,6 +29764,28 @@
       "duration_ms": 83183,
       "name": "Vem Vem",
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
+    },
+    {
+      "album": {
+        "name": "Vem Vem",
+        "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
+      },
+      "artists": [
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        }
+      ],
+      "date_added": "2025-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93366,
+      "name": "Vem Vem - Slowed",
+      "url": "https://open.spotify.com/track/7ByDLSDy1lJc6MvFmZR53W"
     },
     {
       "album": {

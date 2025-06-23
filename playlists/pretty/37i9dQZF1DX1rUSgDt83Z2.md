@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Mooi van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,805 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,849 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 16 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
 | 17 | [Dag & Nacht](https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Dag & Nacht](https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau) | 2:42 |
 | 18 | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE) | 2:50 |
-| 19 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 |
-| 20 | [Wat Als Ik Wat Mis](https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Wat Als Ik Wat Mis](https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ) | 2:45 |
+| 19 | [Wat Als Ik Wat Mis](https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Wat Als Ik Wat Mis](https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ) | 2:45 |
+| 20 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 |
 | 21 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 |
 | 22 | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 |
 | 23 | [Als Je Gaat](https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS) | 2:58 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 47 | [Achter De Regen](https://open.spotify.com/track/3lk6NH9MPrP9TriWNKTedu) | [Ana Luca](https://open.spotify.com/artist/1YdVJS9YSkFrrKDI388PsI) | [Achter De Regen](https://open.spotify.com/album/1mrmJX383QcaTEiHMtVa3d) | 3:12 |
 | 48 | [Niets Meer](https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Leven In De Leegte](https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe) | 3:31 |
 | 49 | [Scherven](https://open.spotify.com/track/14h13moB369WHcbOOjOY0z) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Scherven](https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew) | 2:59 |
-| 50 | [Zolang We Samen Zijn](https://open.spotify.com/track/4yt0cEaT2lpNigs3k5jCKI) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Zolang We Samen Zijn](https://open.spotify.com/album/4UIvEYoJOB6uGyHaV4uplL) | 2:55 |
+| 50 | [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 |
 
 Snapshot ID: `aFSIlwAAAAAjjg4xpRhoPNgO/cMyIKzb`

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: skantia",
-  "num_followers": 71154,
+  "num_followers": 71176,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-06-19 23:00:21",
       "album": {
+        "name": "There In 10",
+        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 246896,
+      "name": "There In 10",
+      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
+    },
+    {
+      "added_at": "2025-06-19 23:00:21",
+      "album": {
         "name": "Bad Boy Horns",
         "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 252342,
       "name": "Bad Boy Horns",
       "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
-    },
-    {
-      "added_at": "2025-06-19 23:00:21",
-      "album": {
-        "name": "There In 10",
-        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 246896,
-      "name": "There In 10",
-      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
     },
     {
       "added_at": "2025-06-19 23:00:21",

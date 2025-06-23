@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Biffy Clyro
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,162 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,159 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 |
 | 100 | [DH22](https://open.spotify.com/track/5xcnLJP6j5p9JNZhLvAcPD) | [Marathon](https://open.spotify.com/artist/4AmPhWuKz1UIdx2Mvt4yAw) | [Fading Image](https://open.spotify.com/album/3T6bNRPa8Ltm1xWYaFxvaO) | 3:56 |
 
-Snapshot ID: `aFUm9wAAAACB0wlu68Yb2+IXFtFgT2H5`
+Snapshot ID: `aFh8/AAAAAAgHd76FgTzS+C20dzGNDue`

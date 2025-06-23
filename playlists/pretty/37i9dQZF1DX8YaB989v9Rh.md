@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/blaircaldwell/">Blair Caldwell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,398 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,410 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 32 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
 | 33 | [Into You \(feat\. Tamia\)](https://open.spotify.com/track/0yHConG49418wPs8UfAt44) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 4:55 |
 | 34 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
-| 35 | [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 |
-| 36 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
+| 35 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
+| 36 | [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 |
 | 37 | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ) | 4:01 |
 | 38 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 |
 | 39 | [Show Me A Good Time](https://open.spotify.com/track/7v0hKO3RYhEXt2EPXf4AOS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:30 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 45 | [T.O.N.Y.](https://open.spotify.com/track/6GI2PcrptZqGDOVrqjsec0) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Sol\-Angel and the Hadley St\. Dreams \(Deluxe\)](https://open.spotify.com/album/6MsVbAqh2A9i7jYvPOsGNx) | 3:52 |
 | 46 | [Crazy](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 3:02 |
 | 47 | [American Boy](https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo) | 4:44 |
-| 48 | [Full Moon](https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An) | 4:08 |
-| 49 | [Are You That Somebody](https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 4:25 |
-| 50 | [They Don't Know](https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [COOL RELAX](https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ) | 4:34 |
+| 48 | [Are You That Somebody](https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 4:25 |
+| 49 | [They Don't Know](https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [COOL RELAX](https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ) | 4:34 |
+| 50 | [Full Moon](https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An) | 4:08 |
 
 Snapshot ID: `ZIsTtwAAAACcPKjd2lPDaUw4LT9njbJQ`

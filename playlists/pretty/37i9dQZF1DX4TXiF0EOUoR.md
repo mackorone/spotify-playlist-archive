@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,117 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,219 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 70 | [El Tiliche](https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Que Lindo Es Michoacán! \(Puros Sones!\)](https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR) | 2:18 |
 | 71 | [La Feria de Cali](https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 2:41 |
 | 72 | [El Ocotito](https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡la Explosiva!!, Vol\. 2](https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w) | 2:57 |
-| 73 | [Pelea De Gallos \- En Vivo](https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [En Vivo Desde El Rancho](https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N) | 3:16 |
-| 74 | [Fiesta de Enero](https://open.spotify.com/track/5KhK6Wjsr7GBeLKrPlWune) | [La Unica Flor De Chirimoyo](https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9) | [Fiesta de Enero](https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg) | 2:25 |
+| 73 | [Fiesta de Enero](https://open.spotify.com/track/5KhK6Wjsr7GBeLKrPlWune) | [La Unica Flor De Chirimoyo](https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9) | [Fiesta de Enero](https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg) | 2:25 |
+| 74 | [Pelea De Gallos \- En Vivo](https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [En Vivo Desde El Rancho](https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N) | 3:16 |
 | 75 | [Los Enanitos](https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:17 |
 | 76 | [Juan Colorado](https://open.spotify.com/track/2Vq8dMWAxw1NFLhFSa83ss) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:53 |
 | 77 | [El Toro Requeson](https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 3:31 |

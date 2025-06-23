@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,887 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,948 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 38 | [Gator Country](https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 6:16 |
 | 39 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
 | 40 | [Crazy](https://open.spotify.com/track/0F4sQ4O7wIHfw6kp1e4Sfi) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Right On Time](https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr) | 3:34 |
-| 41 | [Feats Don't Fail Me Now](https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 2:27 |
-| 42 | [Green Grass & High Tides \- Remastered](https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Best Of...Green Grass & High Tides](https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd) | 9:46 |
+| 41 | [Green Grass & High Tides \- Remastered](https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Best Of...Green Grass & High Tides](https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd) | 9:46 |
+| 42 | [Feats Don't Fail Me Now](https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 2:27 |
 | 43 | [Left Turn on a Red Light](https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 4:37 |
 | 44 | [Climb to Safety](https://open.spotify.com/track/2tKvbXiqQM7aYhbpEWLbTf) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Til the Medicine Takes](https://open.spotify.com/album/2JaUecwsXmm2x9eLfVLu7Z) | 4:41 |
 | 45 | [Whipping Post](https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Allman Brothers Band \(Deluxe\)](https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml) | 5:17 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 58 | [Before the Bullets Fly](https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 3:40 |
 | 59 | [Country Side Of Life](https://open.spotify.com/track/2qQusZC1YyZSLzhkffY9IG) | [Wet Willie](https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh) | [Keep On Smilin'](https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60) | 3:30 |
 | 60 | [Takin' Up Space](https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ) | [Van Zant](https://open.spotify.com/artist/6ZRkCThyw6syuSOAGT7lY1) | [Get Right With The Man](https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp) | 2:45 |
-| 61 | [Grey Ghost](https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ) | [Henry Paul Band](https://open.spotify.com/artist/4GGDnwXsF5e9gjhJMRZ03s) | [Grey Ghost](https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M) | 6:51 |
-| 62 | [That's Your Secret](https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 5:16 |
+| 61 | [That's Your Secret](https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 5:16 |
+| 62 | [Grey Ghost](https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ) | [Henry Paul Band](https://open.spotify.com/artist/4GGDnwXsF5e9gjhJMRZ03s) | [Grey Ghost](https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M) | 6:51 |
 | 63 | [Sweet Southern Wind](https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI) | [Holman Autry Band](https://open.spotify.com/artist/1mj0Bx3zjqB06NfM0qKlRq) | [Sweet Southern Wind](https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw) | 4:17 |
 | 64 | [Fire on the Mountain](https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Searchin' for a Rainbow](https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS) | 3:56 |
 | 65 | [Thorn And A Wild Rose](https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:12 |
-| 66 | [Southern Comfort](https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM) | [Jimmie Van Zant Band](https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C) | [Southern Comfort](https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A) | 5:23 |
-| 67 | [It Hurts To Want It So Bad](https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 3:39 |
+| 66 | [It Hurts To Want It So Bad](https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 3:39 |
+| 67 | [Southern Comfort](https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM) | [Jimmie Van Zant Band](https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C) | [Southern Comfort](https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A) | 5:23 |
 | 68 | [Two Wheels](https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA) | [Alligator Stew](https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk) | [Alligator Stew](https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M) | 4:00 |
 | 69 | [Warrior](https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe) | [The Bean Pickers Union](https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT) | [Potlatch](https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq) | 4:40 |
 | 70 | [Southern Hospitality](https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr) | [Bishop Black](https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh) | [Bishop Black](https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR) | 4:05 |

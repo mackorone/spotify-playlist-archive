@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,827 likes - 114 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,842 likes - 114 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 35 | [summer's scorch](https://open.spotify.com/track/7GPixB0TmbVFLIPgWrgdvM) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [summer's scorch](https://open.spotify.com/album/7yKYH2ydvNc8TwDRTXCVYf) | 2:55 |
 | 36 | [charlie](https://open.spotify.com/track/7KSNuSwVTXM624F82het3B) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [blue angels](https://open.spotify.com/album/5sgqFO94iFfjpRc4rA54Eh) | 3:06 |
 | 37 | [bemused](https://open.spotify.com/track/018wrdyua60eGU0rNbOnGB) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [bemused / due dilettante](https://open.spotify.com/album/4WtnCpNN3rlUGfAeBDi0sI) | 2:46 |
-| 38 | [AMERICAN FOOD](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [AMERICAN FOOD](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 |
+| 38 | [american food](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [american food](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 |
 | 39 | [Just Like A Flower](https://open.spotify.com/track/2qFNGziFVYMGFs31OqMzrs) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Just Like A Flower](https://open.spotify.com/album/4dp4SVWemA8NP8fCbIWT4S) | 2:58 |
 | 40 | [Truck Flipped Over '19](https://open.spotify.com/track/2pOHy7YsTJIjpcGCEdQRgq) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Truck Flipped Over '19](https://open.spotify.com/album/3EZXvsZXpN5xhpTCzAf208) | 3:56 |
 | 41 | [Emo Regulation](https://open.spotify.com/track/4PjdsrYAb9CWjbtT9RUwi3) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:23 |

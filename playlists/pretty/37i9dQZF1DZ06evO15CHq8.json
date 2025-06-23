@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 649631,
+  "num_followers": 649737,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAD3fz3rYSmEc9q+3vTwOKln",
+  "snapshot_id": "aFX2AAAAAABObPLqNQBTAwr3EQlCfXxS",
   "tracks": [
     {
       "added_at": null,
@@ -439,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "7th or St. Tammany",
-        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
+        "name": "Meet Me Where the River Turns Grey",
+        "url": "https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N"
       },
       "artists": [
+        {
+          "name": "Ramirez",
+          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
+        },
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 144242,
-      "name": "Drugs/Hoes/Money/Etc.",
-      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
+      "duration_ms": 185725,
+      "name": "Sarcophagus II",
+      "url": "https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw"
     },
     {
       "added_at": null,
@@ -471,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet Me Where the River Turns Grey",
-        "url": "https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N"
+        "name": "7th or St. Tammany",
+        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
       },
       "artists": [
-        {
-          "name": "Ramirez",
-          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
-        },
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 185725,
-      "name": "Sarcophagus II",
-      "url": "https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw"
+      "duration_ms": 144242,
+      "name": "Drugs/Hoes/Money/Etc.",
+      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-131 songs - 7 hr 27 min
+132 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Ya Se Fue](https://open.spotify.com/track/0tP88lyRyCHHO3q8D8bRiG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Mis 30 Aniversario, Vol\. 3](https://open.spotify.com/album/5kcO8OQj6dqVtTgg232WSU) | 3:21 | 2024-10-02 | 2025-05-20 |
 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 | 2022-06-01 | 2024-10-02 |
 | [Ya Se Fue](https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Mis 30 Aniversario \(Vol\. 3\)](https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO) | 3:21 | 2025-05-20 |  |
-| [Yo Estaba Solo](https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 3:11 | 2022-06-01 |  |
+| [Yo Estaba Solo](https://open.spotify.com/track/4DVI0TImXhEBPtaeRxPAs1) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL) | 3:11 | 2025-06-23 |  |
+| [Yo Estaba Solo](https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 3:11 | 2022-06-01 | 2025-06-23 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

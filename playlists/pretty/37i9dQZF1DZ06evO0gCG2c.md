@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,348 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,406 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 25 | [I'm So Paid](https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:24 |
 | 26 | [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 |
 | 27 | [Kush \- Main](https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Kush](https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B) | 3:55 |
-| 28 | [Akon's Beautiful Day](https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Akon's Beautiful Day](https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa) | 2:37 |
-| 29 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
+| 28 | [Heatwave \(feat\. Akon\)](https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:07 |
+| 29 | [Akon's Beautiful Day](https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Akon's Beautiful Day](https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa) | 2:37 |
 | 30 | [I Tried](https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 4:47 |
 | 31 | [All Up 2 You \(feat\. Akon, Wisin & Yandel\)](https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:38 |
 | 32 | [What You Got](https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Colby O](https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Sexy Chick \(feat\. Akon\)](https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:14 |
 | 50 | [I Just Had Sex](https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:46 |
 
-Snapshot ID: `aFSkgAAAAABbfOwUtaNG3UADgPNnVAmK`
+Snapshot ID: `aFX2AAAAAAAnYz1XekGBVK162Zgah/i/`

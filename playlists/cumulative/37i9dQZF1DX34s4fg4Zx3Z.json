@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/2BatFPUxHei94mL3jf4LgN"
+      },
+      "artists": [
+        {
+          "name": "Wndy",
+          "url": "https://open.spotify.com/artist/2HS8cLGDvrc7g4F2ObC9as"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154351,
+      "name": "90/10",
+      "url": "https://open.spotify.com/track/38OCdRIL25juzd2ILlUKAT"
+    },
+    {
+      "album": {
         "name": "99db",
         "url": "https://open.spotify.com/album/5MnZXPBFflIEIEW16BaOcj"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 120308,
       "name": "anh c\u0169ng mu\u1ed1n \u0111\u01b0\u1ee3c y\u00eau",
       "url": "https://open.spotify.com/track/5Wd4XaS01vqpbROqISg4SC"
@@ -4974,6 +4992,24 @@
       "duration_ms": 170750,
       "name": "B\u1eadt R\u1ed3i T\u1eaft",
       "url": "https://open.spotify.com/track/7skuBuLClYYCo3E6huo1U9"
+    },
+    {
+      "album": {
+        "name": "B\u1eadt \u0110\u00e8n Xanh",
+        "url": "https://open.spotify.com/album/2j73JU7ERxkVCBIiSPtNAf"
+      },
+      "artists": [
+        {
+          "name": "LEXXY",
+          "url": "https://open.spotify.com/artist/2UYRlnKpmayzGNylBYvtyB"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "B\u1eadt \u0110\u00e8n Xanh",
+      "url": "https://open.spotify.com/track/57F8W6Jrl6WaKhOyOtLupM"
     },
     {
       "album": {
@@ -14846,7 +14882,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 133587,
       "name": "Hai \u0110\u1ee9a M\u00ecnh",
       "url": "https://open.spotify.com/track/7ykgETXUJZ5hw8Bb14McHx"
@@ -15306,7 +15342,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 220487,
       "name": "Hoang Mang",
       "url": "https://open.spotify.com/track/0EiCGGxeFSd1KrQSVzX9zL"
@@ -15394,7 +15430,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 247371,
       "name": "Hold On To Us",
       "url": "https://open.spotify.com/track/4bgR9Q9bajUMLMaOmQbSa8"
@@ -18127,6 +18163,24 @@
     },
     {
       "album": {
+        "name": "Kh\u00f4ng Th\u00e8m L\u1ed1i Tho\u00e1t",
+        "url": "https://open.spotify.com/album/3pxtyasNo1C6A6RQYPdfns"
+      },
+      "artists": [
+        {
+          "name": "HAEJUN",
+          "url": "https://open.spotify.com/artist/5SfDgbeflZC8KQsIT86EMS"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Kh\u00f4ng Th\u00e8m L\u1ed1i Tho\u00e1t",
+      "url": "https://open.spotify.com/track/0IqqoVeuhFqTyUEcKWGyO4"
+    },
+    {
+      "album": {
         "name": "Kh\u00f4ng Th\u1ec3 Gi\u1eef \u0110\u01b0\u1ee3c Em",
         "url": "https://open.spotify.com/album/53Zda61iq7FDVgJKvt4TQy"
       },
@@ -19340,6 +19394,28 @@
       "duration_ms": 256000,
       "name": "Li\u1ec1u Thu\u1ed1c",
       "url": "https://open.spotify.com/track/7JhLzH7oYHvCAxBXBp6GTZ"
+    },
+    {
+      "album": {
+        "name": "Li\u1ec7u C\u00f2n Ch\u00fang Ta C\u1ee7a Sau N\u00e0y",
+        "url": "https://open.spotify.com/album/6d8G6LGAnlWm3IJsjkOlcD"
+      },
+      "artists": [
+        {
+          "name": "Huynh Duc",
+          "url": "https://open.spotify.com/artist/1g6Z31sXLyZQHnljLpwOMX"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271128,
+      "name": "Li\u1ec7u C\u00f2n Ch\u00fang Ta C\u1ee7a Sau N\u00e0y",
+      "url": "https://open.spotify.com/track/20A7rXVuHkaGUepe81Hk6J"
     },
     {
       "album": {
@@ -23085,6 +23161,32 @@
     },
     {
       "album": {
+        "name": "M\u1ecdi Th\u1ee9 \u0110\u1ebfn, \u0110\u1ec3 N\u00f3 \u0110\u1ebfn (106Em/4)",
+        "url": "https://open.spotify.com/album/1dNxc3apGOoNJ3AOZal3gk"
+      },
+      "artists": [
+        {
+          "name": "B\u00f9i \u0110\u1ee9c Th\u1ecbnh.",
+          "url": "https://open.spotify.com/artist/1abpzHbrL2y9iBMrD9Z9kC"
+        },
+        {
+          "name": "Nh\u01b0 B\u00ecnh",
+          "url": "https://open.spotify.com/artist/4zavtg3mBYlJIXVLpwTwQN"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246698,
+      "name": "M\u1ecdi Th\u1ee9 \u0110\u1ebfn, \u0110\u1ec3 N\u00f3 \u0110\u1ebfn (106Em/4)",
+      "url": "https://open.spotify.com/track/4xy1DatJQKCiy10qcRRoeC"
+    },
+    {
+      "album": {
         "name": "M\u1ed9ng Kh\u00fac",
         "url": "https://open.spotify.com/album/6fUyKy1YTDUGB3WGZVwtGS"
       },
@@ -25665,6 +25767,24 @@
     },
     {
       "album": {
+        "name": "Nh\u1eafn G\u1eedi Y\u00eau Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/7wtmZnCnhwNHy9eU5z5UVn"
+      },
+      "artists": [
+        {
+          "name": "An V\u0169",
+          "url": "https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295200,
+      "name": "Nh\u1eafn G\u1eedi Y\u00eau Th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/1jVM9ivYD6P0jQmkz4bd5B"
+    },
+    {
+      "album": {
         "name": "Nh\u1ec7n",
         "url": "https://open.spotify.com/album/2Zw688AQJSeIzUqnudqXmQ"
       },
@@ -27058,7 +27178,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 178777,
       "name": "N\u1ed7i \u0110au Kh\u00f4ng Th\u00e0nh L\u1eddi",
       "url": "https://open.spotify.com/track/71801XWPYFUR2E7TkywNqk"
@@ -27732,7 +27852,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 165000,
       "name": "Phai Ph\u00f4i Ph\u00f4i Phai",
       "url": "https://open.spotify.com/track/7zfb7vOY4DUS4oa6VsBXZC"
@@ -31017,6 +31137,24 @@
     },
     {
       "album": {
+        "name": "Sunny Day",
+        "url": "https://open.spotify.com/album/6dCLXASlap1hC8RzbiqI2W"
+      },
+      "artists": [
+        {
+          "name": "ChipPunks",
+          "url": "https://open.spotify.com/artist/05e3rUy40iWPpPH0WWxBP6"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Sunny Day",
+      "url": "https://open.spotify.com/track/3DUPcIuRWTPSu9VBtplcoq"
+    },
+    {
+      "album": {
         "name": "sunset by the ocean",
         "url": "https://open.spotify.com/album/1c7bUSeVGaVcUP5HCMQZ61"
       },
@@ -32794,7 +32932,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 129000,
       "name": "Th\u00e1nh Gi\u00f3ng",
       "url": "https://open.spotify.com/track/24MtkONTj2yzJJyZ0zo21R"
@@ -33398,6 +33536,28 @@
       "duration_ms": 220103,
       "name": "Th\u1ebf gi\u1edbi c\u1ee7a k\u1ebb t\u1ed3i",
       "url": "https://open.spotify.com/track/4UmTNJfnc7AouBvc46PcUX"
+    },
+    {
+      "album": {
+        "name": "Th\u1ebf Gi\u1edbi C\u1ee7a \u0110\u00f4i Ta",
+        "url": "https://open.spotify.com/album/2ggpX69yknQ9smSPotHqjb"
+      },
+      "artists": [
+        {
+          "name": "Ji Bin",
+          "url": "https://open.spotify.com/artist/0VzeRjeSB5sCw6htEsTjWu"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322296,
+      "name": "Th\u1ebf Gi\u1edbi C\u1ee7a \u0110\u00f4i Ta",
+      "url": "https://open.spotify.com/track/5vWLWXko85cKbpbMlwmpqw"
     },
     {
       "album": {
@@ -42586,7 +42746,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-23",
       "duration_ms": 257959,
       "name": "\u0110\u1ed3ng Hoang",
       "url": "https://open.spotify.com/track/6SW2vOALh130CSpDBUd4QD"

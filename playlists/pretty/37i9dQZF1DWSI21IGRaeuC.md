@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,944 likes - 120 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,003 likes - 120 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
-| 2 | [Rock The Beat](https://open.spotify.com/track/6OyHx4GJwzOGaktpjOuDJ5) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Rock The Beat](https://open.spotify.com/album/1yefvdwmrtBQMyhN9lOfWm) | 3:54 |
+| 2 | [Rock The House](https://open.spotify.com/track/6OyHx4GJwzOGaktpjOuDJ5) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Rock The House](https://open.spotify.com/album/1yefvdwmrtBQMyhN9lOfWm) | 3:54 |
 | 3 | [Cruisin'](https://open.spotify.com/track/7zKuqq6C5d9hiONmhzLfzj) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Cruisin'](https://open.spotify.com/album/0ZpJBMIC9oRO6MU5J7NgXw) | 2:32 |
 | 4 | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT) | 2:50 |
 | 5 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 Alejo Isaak & El Turko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,252 likes - 106 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,313 likes - 106 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,764 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,788 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 47 | [Dust A Sound Boy](https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza) | [Super Beagle](https://open.spotify.com/artist/0vD2WzuswHKLaJQIAiPrfc) | [Reggae Anthology: Winston Riley \- Quintessential Techniques](https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav) | 3:37 |
 | 48 | [No Letting Go](https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:21 |
 | 49 | [She's Royal](https://open.spotify.com/track/4ZEcuuNRfZk2osjAHAUJ8J) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 4:10 |
-| 50 | [Big Big](https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Big](https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH) | 3:02 |
+| 50 | [Strange](https://open.spotify.com/track/0hBoSLU2bvScgEA8JAAiyQ) | [Papa San](https://open.spotify.com/artist/06eDTSeVX3k8W5bNAbnF9a) | [Dancehall 101 Vol\. 4](https://open.spotify.com/album/6ZcTGeWRDeMEguHWZlwAmf) | 3:55 |
 
 Snapshot ID: `ZIsNowAAAAAn0gmsKJOZT/BI1PMoNLrP`

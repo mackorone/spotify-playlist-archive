@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4MkRES9UEFwJnvM571eiWt">Gloria Trevi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,514 likes - 76 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515 likes - 76 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 47 | [Bipolar](https://open.spotify.com/track/2YKYIyZrAF1RszG0Eihx2G) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:16 |
 | 48 | [No Al Alguacil](https://open.spotify.com/track/3F0GuwuCGanHQjCPPuOwKr) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:47 |
 | 49 | [Doña Pudor](https://open.spotify.com/track/4DVrs6PjdacQJiTmU5M40K) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:10 |
-| 50 | [Sube](https://open.spotify.com/track/5zy0QB79zacHialCjXb4Ba) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:14 |
-| 51 | [Cobardía](https://open.spotify.com/track/6z8AtxXDLKj3Q4rgzxJTtt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:03 |
+| 50 | [Cobardía](https://open.spotify.com/track/6z8AtxXDLKj3Q4rgzxJTtt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:03 |
+| 51 | [Sube](https://open.spotify.com/track/5zy0QB79zacHialCjXb4Ba) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:14 |
 | 52 | [De Película](https://open.spotify.com/track/6p1lIWNu4l8QEx6ybjo74l) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:23 |
 | 53 | [El Vuelo](https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:11 |
 | 54 | [Fuego Con Fuego](https://open.spotify.com/track/4pqBrW3WShZxsDVwdj384q) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:56 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 66 | [Mentí](https://open.spotify.com/track/0EDMeCkkHQz5XXffoxm9CA) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 4:04 |
 | 67 | [Para Querer Como Te Quiero](https://open.spotify.com/track/0fXMkVHE6cCAwH2Ydyy9g9) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:43 |
 | 68 | [Mientras Tú Te Ríes De Mí](https://open.spotify.com/track/0AuOIERhUuSeYulqFQuyoz) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:21 |
-| 69 | [Para Siempre Triste](https://open.spotify.com/track/6vaD6sFoEeOc2TT6P0gx8p) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 4:20 |
-| 70 | [Arrúllame](https://open.spotify.com/track/78I9eIH7enW0kqGtfADKJH) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 2:36 |
+| 69 | [Arrúllame](https://open.spotify.com/track/78I9eIH7enW0kqGtfADKJH) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 2:36 |
+| 70 | [Para Siempre Triste](https://open.spotify.com/track/6vaD6sFoEeOc2TT6P0gx8p) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 4:20 |
 | 71 | [Ojos De Fuego](https://open.spotify.com/track/2CD3R2whD46r746lsyvfBc) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:20 |
 | 72 | [No Estás Sola](https://open.spotify.com/track/1PtMFaz1eJQ9HbjC32qSvu) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:13 |
 | 73 | [Tu Regalo Soy Yo](https://open.spotify.com/track/7gMNX7kVoKFlAzB5Dp2FBZ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 2:36 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 75 | [Mi Navidá \(Pa Pedirte A Ti\)](https://open.spotify.com/track/5tcxo91GPmSVgMEw8r0TzB) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:02 |
 | 76 | [Un Ángel De Dios \(Aleluya\)](https://open.spotify.com/track/5Q02SSgigCQRCysAyDto0J) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:36 |
 
-Snapshot ID: `Ab0w1AAAAAAUWld4LDdIzKJ6RlVkK/IT`
+Snapshot ID: `Ab02dAAAAACfKCkkcGlZet4Aqkt7/akt`

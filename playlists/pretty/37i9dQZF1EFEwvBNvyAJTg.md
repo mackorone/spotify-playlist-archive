@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 86 | [Oh Well](https://open.spotify.com/track/2Y54OMJFKcPIGO6tQLx91g) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:33 |
 | 87 | [Kite \(with Olly Alexander\)](https://open.spotify.com/track/6AN0wDN46SCN5TA3MRVFoD) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Kite \(with Olly Alexander\)](https://open.spotify.com/album/0zy151IhoJGNdB8crkkKiQ) | 2:46 |
 | 88 | [Lose My Love \(Acoustic\)](https://open.spotify.com/track/4Rzjt3rkPs5PfrBg5kPgxz) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Lose My Love \(Acoustic\)](https://open.spotify.com/album/4bcNl7WHYBTiy0BXGsdayM) | 3:00 |
-| 89 | [Golden](https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:46 |
-| 90 | [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 |
+| 89 | [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 |
+| 90 | [Golden](https://open.spotify.com/track/4noRLVoGQH2YCtJ1JUKDKi) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:46 |
 | 91 | [I Gotta I Gotta](https://open.spotify.com/track/2pKLhfqiY6yD1tZWlbE3tQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Gotta I Gotta](https://open.spotify.com/album/5tfq2xwJtGRKA7rIJgMyix) | 2:17 |
 | 92 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 |
 | 93 | [Move](https://open.spotify.com/track/4F93hL6knRV2DYdo50r63z) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Move](https://open.spotify.com/album/56aEePjHqXCuNXtoBQxNhn) | 3:09 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 182 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 183 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Ab0w8gAAAAAO3kl0S1rxdZPnDcvSw4JB`
+Snapshot ID: `Ab02kwAAAABnvRJNueXZvgoyslzYXjSU`

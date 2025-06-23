@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 105341,
+  "num_followers": 105362,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Dale Don Dale",
-        "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
-      },
-      "artists": [
-        {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        }
-      ],
-      "duration_ms": 118104,
-      "name": "Dale Don Dale",
-      "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Nerdesin",
         "url": "https://open.spotify.com/album/7pRjDa4x9Nzr3KGXeTSGb1"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 176268,
       "name": "Nerdesin",
       "url": "https://open.spotify.com/track/3PAMPpiORJKXAIxMhfDp66"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Dale Don Dale",
+        "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "duration_ms": 118104,
+      "name": "Dale Don Dale",
+      "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "Bul Beni",
+        "url": "https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 154173,
+      "name": "Bul Beni",
+      "url": "https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "G\u00f6rmem B\u00f6ylesini",
         "url": "https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 192446,
       "name": "G\u00f6rmem B\u00f6ylesini",
       "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "Bul Beni",
-        "url": "https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ"
-      },
-      "artists": [
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "Bul Beni",
-      "url": "https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "EVA & MIA",
-        "url": "https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE"
-      },
-      "artists": [
-        {
-          "name": "GOKO!",
-          "url": "https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun"
-        }
-      ],
-      "duration_ms": 174883,
-      "name": "EVA & MIA",
-      "url": "https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Pofuduk",
         "url": "https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 142855,
       "name": "Pofuduk",
       "url": "https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "EVA & MIA",
+        "url": "https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE"
+      },
+      "artists": [
+        {
+          "name": "GOKO!",
+          "url": "https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun"
+        }
+      ],
+      "duration_ms": 174883,
+      "name": "EVA & MIA",
+      "url": "https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "A\u015fk Olsun",
-        "url": "https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 141305,
-      "name": "A\u015fk Olsun",
-      "url": "https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "G\u00fczelim",
         "url": "https://open.spotify.com/album/5nYqLxjjZf7PVJfMtZH5yq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 183901,
       "name": "G\u00fczelim",
       "url": "https://open.spotify.com/track/1xh4TN6flr8m751YFr2r9M"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "A\u015fk Olsun",
+        "url": "https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "duration_ms": 141305,
+      "name": "A\u015fk Olsun",
+      "url": "https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -755,6 +755,26 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "Seviyo Sevmiyo",
+        "url": "https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi"
+      },
+      "artists": [
+        {
+          "name": "Umut Timur",
+          "url": "https://open.spotify.com/artist/650blPhpj24aloFTk941L3"
+        },
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "duration_ms": 172229,
+      "name": "Seviyo Sevmiyo",
+      "url": "https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "HAFTASONU",
         "url": "https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 199600,
       "name": "\u00dccra",
       "url": "https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "Seviyo Sevmiyo",
-        "url": "https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi"
-      },
-      "artists": [
-        {
-          "name": "Umut Timur",
-          "url": "https://open.spotify.com/artist/650blPhpj24aloFTk941L3"
-        },
-        {
-          "name": "Eypio",
-          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
-        }
-      ],
-      "duration_ms": 172229,
-      "name": "Seviyo Sevmiyo",
-      "url": "https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Damlars\u0131n",
-        "url": "https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Damlars\u0131n",
-      "url": "https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "bu bi' itiraf",
         "url": "https://open.spotify.com/album/4KAABV3CDGqkalDJQznmzv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 131368,
       "name": "bu bi' itiraf",
       "url": "https://open.spotify.com/track/6s0WUuPlnK8JTcBEhLw6pp"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Damlars\u0131n",
+        "url": "https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Damlars\u0131n",
+      "url": "https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn"
     },
     {
       "added_at": "2024-07-08 08:41:13",

@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-250 songs - 14 hr 13 min
+251 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,9 +106,10 @@
 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-05-19 | 2024-04-05 |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-07-18 | 2023-08-21 |
 | [He Goes Down](https://open.spotify.com/track/4Jxqo3meY7nbbnqa7cQY7p) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [He Goes Down](https://open.spotify.com/album/2fD8NBqB9lxwJpTdZuZhSr) | 2:38 | 2022-07-18 | 2023-05-20 |
+| [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-20 |  |
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-07-18 | 2023-10-09 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-10-06 | 2024-04-10 |
-| [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 | 2025-05-29 |  |
+| [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 | 2025-05-29 | 2025-06-23 |
 | [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 | 2024-05-24 | 2024-05-28 |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-07-18 | 2023-09-22 |
 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 | 2024-07-26 | 2025-02-07 |

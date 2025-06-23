@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18433,
+  "num_followers": 18437,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAADGNC5qK/WZ4rVLf6zUYpIa",
+  "snapshot_id": "aFX2AAAAAADFrYipQJi4/JFJ3Uudqqr0",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Upnow (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of Nothing Real 2",
-        "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
-      },
-      "artists": [
-        {
-          "name": "Lonr.",
-          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 198670,
-      "name": "CUFFIN (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
         "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 231470,
       "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
       "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Land Of Nothing Real 2",
+        "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
+      },
+      "artists": [
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 198670,
+      "name": "CUFFIN (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not In The Store",
-        "url": "https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ"
-      },
-      "artists": [
-        {
-          "name": "Doodles",
-          "url": "https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 189870,
-      "name": "Not In The Store",
-      "url": "https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/3ZnMKPhpgpTwXRSrXZ4XEm"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 170062,
       "name": "Hold Me Down (42 Dugg, Coi Leray)",
       "url": "https://open.spotify.com/track/3RXjFdXvbIIydnkrCKIjcA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not In The Store",
+        "url": "https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ"
+      },
+      "artists": [
+        {
+          "name": "Doodles",
+          "url": "https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 189870,
+      "name": "Not In The Store",
+      "url": "https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS"
     },
     {
       "added_at": null,

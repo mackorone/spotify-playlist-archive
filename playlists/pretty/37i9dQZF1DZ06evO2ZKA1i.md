@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,120 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,131 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 49 | [Nothing at All](https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 4:42 |
 | 50 | [Show Me](https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:59 |
 
-Snapshot ID: `aFSkgAAAAABLrB2Q62W53djYyRzx+JE6`
+Snapshot ID: `aFX2AAAAAACX57J2syJi7PJaZtqdrt9q`

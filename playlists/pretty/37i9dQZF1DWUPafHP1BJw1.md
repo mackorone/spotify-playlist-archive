@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,443 likes - 172 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,487 likes - 172 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,7 +173,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 163 | [Chasing Cars](https://open.spotify.com/track/6MtZj0BUdsC03AD40hkEGe) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/2LoVzdkeY8B3oSbgS7Xmpq) | 3:22 |
 | 164 | [Lose Yourself](https://open.spotify.com/track/5dECb0YYO0GHu3AWNqfrIM) | [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw) | [Explosive \(Deluxe\)](https://open.spotify.com/album/2492Jm7yo7tF41MO9xjGgU) | 3:06 |
 | 165 | [Yesterday Once More](https://open.spotify.com/track/19qP5vtDpeJEcSNb38HiJc) | [Richard Carpenter](https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n) | [Yesterday Once More](https://open.spotify.com/album/3yDYZd5HRXPfwR4B7wJl6n) | 3:20 |
-| 166 | [A Sky Full of Stars](https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Uncharted](https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd) | 4:08 |
+| 166 | [A Sky Full of Stars](https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI), [Tim Bergling](https://open.spotify.com/artist/5baGk14NDI3ZDPbr6wJilc), [Guy Berryman](https://open.spotify.com/artist/2R0YxXQyGLURmOrY26P1kZ), [Jonathan Buckland](https://open.spotify.com/artist/6ZK1R7WvOURjOviPQkVJEm), [William Champion](https://open.spotify.com/artist/2DXdrllW1KAUjT9KJsB9NH), [Christopher Martin](https://open.spotify.com/artist/3mrikwg27Va5uscwnBicq0) | [Uncharted](https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd) | 4:08 |
 | 167 | [No Woman, No Cry \(Arr\. Kanneh\-Mason\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 |
 | 168 | [Human Nature \(Arr\. R\. Boyd & L\. Metcalf for Cello & Guitar\)](https://open.spotify.com/track/3aMagwbjbBUakRbCCt542s) | [Boyd Meets Girl](https://open.spotify.com/artist/5jRlTeRHOKRs7a9vPwMEPR) | [Boyd Meets Girl](https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk) | 2:42 |
 | 169 | [Better Days](https://open.spotify.com/track/4yw5GYrOrrJ53yfYuxSCOz) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Better Days](https://open.spotify.com/album/29OyLTZAtJ1URhQlHPDELU) | 4:02 |

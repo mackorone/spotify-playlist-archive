@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,996 likes - 65 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,005 likes - 65 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 50 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
 | 51 | [Just](https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 3:54 |
 | 52 | [Babies](https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His 'N' Hers](https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5) | 4:04 |
-| 53 | [Rocks](https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze), [George Drakoulias](https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG), [David Bianco](https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6) | [Give Out But Don't Give Up](https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ) | 3:35 |
+| 53 | [Girl From Mars](https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [The Best Of Ash \(Remastered Version\)](https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib) | 3:33 |
 | 54 | [Laid](https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb) | 2:36 |
-| 55 | [Girl From Mars](https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [The Best Of Ash \(Remastered Version\)](https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib) | 3:33 |
+| 55 | [Rocks](https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze), [George Drakoulias](https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG), [David Bianco](https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6) | [Give Out But Don't Give Up](https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ) | 3:35 |
 | 56 | [Rock ‘n’ Roll Star \- Remastered](https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 5:22 |
 | 57 | [Disco 2000](https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw) | 4:33 |
 | 58 | [The Drugs Don't Work](https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:05 |

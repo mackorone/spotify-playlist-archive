@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34322,
+  "num_followers": 34324,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSkgAAAAAA2XMzr9qp0EPB1c4xsTVpQ",
+  "snapshot_id": "aFX2AAAAAAA7yZLGBEQw+sl1qe50bpOA",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
-      },
-      "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 225595,
-      "name": "There's A Reward",
-      "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 149306,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 225595,
+      "name": "There's A Reward",
+      "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Rebellion Rises",
+      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Rebellion Rises",
-      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
         "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
@@ -623,6 +623,26 @@
       "duration_ms": 306002,
       "name": "One Love/People Get Ready - Live",
       "url": "https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solid Gold",
+        "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
+      },
+      "artists": [
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 269929,
+      "name": "Trenchtown Rock (feat. Ziggy Marley)",
+      "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
     },
     {
       "added_at": null,
@@ -647,26 +667,6 @@
       "duration_ms": 228450,
       "name": "El Hilo",
       "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solid Gold",
-        "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
-      },
-      "artists": [
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 269929,
-      "name": "Trenchtown Rock (feat. Ziggy Marley)",
-      "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
     },
     {
       "added_at": null,
@@ -759,42 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Raindrops Keep Falling On My Head",
-      "url": "https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lift Our Spirits Raise Our Voice",
-        "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Lift Our Spirits Raise Our Voice",
-      "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -815,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "See Dem Fake Leaders",
-      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -847,6 +795,58 @@
       "duration_ms": 218786,
       "name": "This Train (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Raindrops Keep Falling On My Head",
+      "url": "https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "See Dem Fake Leaders",
+      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lift Our Spirits Raise Our Voice",
+        "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Lift Our Spirits Raise Our Voice",
+      "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
     },
     {
       "added_at": null,

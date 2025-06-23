@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,252 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,314 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 49 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 |
 | 50 | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W) | 2:42 |
 | 51 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
-| 52 | [Mojo](https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Mojo](https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d) | 3:18 |
-| 53 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
-| 54 | [Hold On](https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Hold On](https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk) | 3:50 |
+| 52 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
+| 53 | [Hold On](https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Elissa Mielke](https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw) | [Hold On](https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk) | 3:50 |
+| 54 | [Mojo](https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Mojo](https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d) | 3:18 |
 | 55 | [Endlessly](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Endlessly](https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv) | 3:37 |
 | 56 | [Like You](https://open.spotify.com/track/5cTXoEwwSBUchuNGeURbZT) | [Hydawai](https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Like You](https://open.spotify.com/album/1K6suHCZSSwuZucm6H8ypP) | 2:39 |
 | 57 | [Seventeen](https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Seventeen](https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3) | 3:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,744 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,765 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 49 | [Continuum 1](https://open.spotify.com/track/0DeymXCmEkaP84aGgzoI6I) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:13 |
 | 50 | [Rattle Trap](https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ) | [Sophie Thatcher](https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9) | [Pivot & Scrape](https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN) | 2:14 |
 | 51 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
-| 52 | [So Long](https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [So Long](https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y) | 3:31 |
-| 53 | [Starburned and Unkissed](https://open.spotify.com/track/3ha9yXEYY9lBZEVXD3sYzG) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [I Saw The TV Glow \(Original Soundtrack\)](https://open.spotify.com/album/4QtWb6EEnq9EvtI9FVocUY) | 3:40 |
+| 52 | [Starburned and Unkissed](https://open.spotify.com/track/3ha9yXEYY9lBZEVXD3sYzG) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [I Saw The TV Glow \(Original Soundtrack\)](https://open.spotify.com/album/4QtWb6EEnq9EvtI9FVocUY) | 3:40 |
+| 53 | [So Long](https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [So Long](https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y) | 3:31 |
 | 54 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
 | 55 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
 | 56 | [Birdseye](https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:31 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 65 | [Flowers](https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd) | 2:48 |
 | 66 | [Feed My Release](https://open.spotify.com/track/06HsoB1J6BYNJtxOuvy2yN) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Below a Massive Dark Land](https://open.spotify.com/album/4FBlXgeZ4n0nwY0bXuZ8P2) | 5:16 |
 | 67 | [Soft Spoken](https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [SlowMo](https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT) | 3:42 |
-| 68 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 |
-| 69 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 |
-| 70 | [Golden Hour](https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:21 |
-| 71 | [How Can I Love Her More?](https://open.spotify.com/track/5aR0Zrg6Oq0EulyTZPwAxG) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 2:47 |
+| 68 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 |
+| 69 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 |
+| 70 | [How Can I Love Her More?](https://open.spotify.com/track/5aR0Zrg6Oq0EulyTZPwAxG) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 2:47 |
+| 71 | [Golden Hour](https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:21 |
 | 72 | [Kepko](https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Dennis](https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s) | 3:12 |
 | 73 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 |
 | 74 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 |
