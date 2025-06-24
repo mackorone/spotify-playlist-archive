@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,104 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,113 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 93 | [Frágil \- En Vivo](https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Frágil \(En Vivo\)](https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq) | 3:20 |
 | 94 | [Espejo Roto \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Espejo Roto \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np) | 4:29 |
 | 95 | [Sucio y Desprolijo \- En Vivo Cosquín Rock](https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Sucio y Desprolijo \(En Vivo Cosquín Rock\)](https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR) | 5:33 |
-| 96 | [Túnel de la Vida \- Vivo en Obras 11/06/2022](https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La Fuente \(Vivo en Obras 11/06/2022\)](https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp) | 4:11 |
-| 97 | [De La Hoya \- En Vivo en el Luna Park](https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [De La Hoya \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W) | 3:50 |
+| 96 | [De La Hoya \- En Vivo en el Luna Park](https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [De La Hoya \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W) | 3:50 |
+| 97 | [Túnel de la Vida \- Vivo en Obras 11/06/2022](https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La Fuente \(Vivo en Obras 11/06/2022\)](https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp) | 4:11 |
 | 98 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
 | 99 | [Demonio Paraguayo \- En Vivo](https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Demonio Paraguayo \(En Vivo\)](https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL) | 4:22 |
 | 100 | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x) | 4:28 |

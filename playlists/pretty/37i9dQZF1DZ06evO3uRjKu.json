@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 73058,
+  "num_followers": 73068,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFX2AAAAAAAI1lHg0x6Ttih68kRMzdav",
+  "snapshot_id": "aFdHgAAAAADkScsfmW74xMjuaJNkkoRr",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchachos",
-        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
       "artists": [
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 229469,
-      "name": "Te Quiero Comer la Boca",
-      "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
+      "duration_ms": 286800,
+      "name": "Soy un loco",
+      "url": "https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+        "name": "Muchachos",
+        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
       },
       "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 286800,
-      "name": "Soy un loco",
-      "url": "https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx"
+      "duration_ms": 229469,
+      "name": "Te Quiero Comer la Boca",
+      "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
     },
     {
       "added_at": null,

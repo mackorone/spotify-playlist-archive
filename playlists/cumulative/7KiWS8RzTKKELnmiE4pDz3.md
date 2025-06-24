@@ -4,7 +4,7 @@
 
 > 
 
-1,056 songs - 2 day 4 hr 46 min
+1,057 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [ok / what i do](https://open.spotify.com/track/1jNaZAWYQnCAJiACFHWgRO) | [Destroy Lonely Archive](https://open.spotify.com/artist/5ZerbSqqmkJ6Um3rtywm6o) | [XO](https://open.spotify.com/album/0CDS6LJ9nlplHklEIgkCtr) | 2:03 | 2022-07-28 | 2023-12-14 |
 | [ok / what i do](https://open.spotify.com/track/4V7fgGBWKeNnTfn4UvcV60) | [kokori](https://open.spotify.com/artist/1tUWteCf6kMckNEm6DFGOZ) | [XO](https://open.spotify.com/album/16czINg68lsXnb7y3zfdoQ) | 2:06 | 2023-12-27 | 2024-04-24 |
 | [OLYMPIAN](https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:54 | 2025-06-01 |  |
+| [OMG](https://open.spotify.com/track/2qF9R6Q0bAdlN3fkgYqKM8) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:15 | 2025-06-23 |  |
 | [ON 1](https://open.spotify.com/track/4K7qziboa9VHtqCCFutDgm) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 3:04 | 2024-12-19 | 2025-05-21 |
 | [On A Boat](https://open.spotify.com/track/05hwArnEtSfEonDP3qF6XR) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:58 | 2022-12-23 | 2023-05-09 |
 | [On and On](https://open.spotify.com/track/2UiS3cs4eLwNdyoFCTh0If) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Baw Baw Black Sheep](https://open.spotify.com/album/4jzPkTmj9MaYR07IndEjNy) | 3:14 | 2025-03-04 |  |

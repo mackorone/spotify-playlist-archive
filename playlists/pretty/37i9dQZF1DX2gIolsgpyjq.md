@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: LUCIIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,006 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,014 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 15 | [Ally](https://open.spotify.com/track/5oXOmATQCSEUsSXvTJQL5q) | [isobel](https://open.spotify.com/artist/6m5hsSoDJX5LFsRFUk9DVx) | [Ally](https://open.spotify.com/album/4RgvMvkalFTKk6kHt9RWLn) | 2:30 |
 | 16 | [Idaho](https://open.spotify.com/track/3s6R37cNrgAFqQK6L7AXOr) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Perpetual](https://open.spotify.com/album/1NbJGd0hwqI22AGSpwQAVn) | 2:41 |
 | 17 | [If I met somebody new](https://open.spotify.com/track/39pbFUAwzgrSxDkjU3b8ol) | [Emma Lindquist](https://open.spotify.com/artist/58DgBtX4HGGuzIXDFGfcmy) | [If I met somebody new](https://open.spotify.com/album/3WygIdQjjJ9JgZvLuuoTKQ) | 3:21 |
-| 18 | [Sunkissed](https://open.spotify.com/track/3pPLqu5kMTOHkyiYa2Hyog) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:31 |
+| 18 | [Sunkissed](https://open.spotify.com/track/3pPLqu5kMTOHkyiYa2Hyog) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [Breathing Space](https://open.spotify.com/artist/7mqWuWeqwxGQoMZdehD0MG) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:31 |
 | 19 | [RAW](https://open.spotify.com/track/0eHbc0W67AaJzVkU6icQlI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [RAW](https://open.spotify.com/album/2yOW0TPyll2p2PFriw7A0C) | 3:36 |
 | 20 | [Side Effect](https://open.spotify.com/track/5Q6anRiSkE00pWfDlLiN58) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Side Effect](https://open.spotify.com/album/2JHwZDprkm6TLWrYdxaOCS) | 2:06 |
 | 21 | [every minute, every second, i want everything](https://open.spotify.com/track/7Ajp4pYsHn36jvS7BjDDDB) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG) | [every minute, every second, i want everything](https://open.spotify.com/album/5fLiHeWP0thwxHCaTqOMi0) | 3:30 |

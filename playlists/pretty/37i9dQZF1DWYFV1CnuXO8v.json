@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 186601,
+  "num_followers": 186711,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-06-19 22:26:22",
       "album": {
-        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
-        "url": "https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV"
-      },
-      "artists": [
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "\u0645\u0627\u062a\u064a\u062c\u064a \u0627\u0639\u062f\u064a \u0639\u0644\u064a\u0643\u064a",
-      "url": "https://open.spotify.com/track/5ks7fVLJY4QRlAALIqJfMR"
-    },
-    {
-      "added_at": "2025-06-19 22:26:22",
-      "album": {
         "name": "Yaah",
         "url": "https://open.spotify.com/album/4ovMza1WebamIyWDRupshi"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 243500,
       "name": "Ghebet El Habayeb",
       "url": "https://open.spotify.com/track/6EBKXT2EYYX4f0hqJCuDT0"
+    },
+    {
+      "added_at": "2025-06-19 22:26:22",
+      "album": {
+        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "\u0645\u0627\u062a\u064a\u062c\u064a \u0627\u0639\u062f\u064a \u0639\u0644\u064a\u0643\u064a",
+      "url": "https://open.spotify.com/track/5ks7fVLJY4QRlAALIqJfMR"
     },
     {
       "added_at": "2025-06-19 22:26:22",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-06-19 22:26:22",
       "album": {
-        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 198571,
-      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
-    },
-    {
-      "added_at": "2025-06-19 22:26:22",
-      "album": {
         "name": "Tegy Ntrahn",
         "url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 196650,
       "name": "Khaleny Fe Hodnak",
       "url": "https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423"
+    },
+    {
+      "added_at": "2025-06-19 22:26:22",
+      "album": {
+        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 198571,
+      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
     },
     {
       "added_at": "2025-06-19 22:26:22",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-06-19 22:26:22",
       "album": {
+        "name": "Elhob W Bass",
+        "url": "https://open.spotify.com/album/3aSlIC2iDpGkBqQ9a10CnG"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 320384,
+      "name": "Elhob W Bass",
+      "url": "https://open.spotify.com/track/6YRF4GAwHXeHJXoQ4MRLvC"
+    },
+    {
+      "added_at": "2025-06-19 22:26:22",
+      "album": {
         "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
         "url": "https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 250478,
       "name": "Alby Etmannah",
       "url": "https://open.spotify.com/track/26UNapCN9Gu2z4ZdW8sPRj"
-    },
-    {
-      "added_at": "2025-06-19 22:26:22",
-      "album": {
-        "name": "Elhob W Bass",
-        "url": "https://open.spotify.com/album/3aSlIC2iDpGkBqQ9a10CnG"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 320384,
-      "name": "Elhob W Bass",
-      "url": "https://open.spotify.com/track/6YRF4GAwHXeHJXoQ4MRLvC"
     },
     {
       "added_at": "2025-06-19 22:26:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-06-19 22:26:22",
       "album": {
-        "name": "El Hob El Ha2e2y",
-        "url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Fouad",
-          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
-        }
-      ],
-      "duration_ms": 344137,
-      "name": "El Hob El Ha2e2y",
-      "url": "https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7"
-    },
-    {
-      "added_at": "2025-06-19 22:26:22",
-      "album": {
         "name": "Hob Emtelak",
         "url": "https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 244321,
       "name": "Esmaa Kalamy",
       "url": "https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87"
+    },
+    {
+      "added_at": "2025-06-19 22:26:22",
+      "album": {
+        "name": "El Hob El Ha2e2y",
+        "url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Fouad",
+          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
+        }
+      ],
+      "duration_ms": 344137,
+      "name": "El Hob El Ha2e2y",
+      "url": "https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7"
     },
     {
       "added_at": "2025-06-19 22:26:22",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-06-19 22:26:22",
       "album": {
-        "name": "Ala Bali",
-        "url": "https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9"
-      },
-      "artists": [
-        {
-          "name": "Sharmoofers",
-          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
-        }
-      ],
-      "duration_ms": 194454,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
-    },
-    {
-      "added_at": "2025-06-19 22:26:22",
-      "album": {
         "name": "Ya Leil Ya Ein",
         "url": "https://open.spotify.com/album/2Euy1OmiFdS02tYAG6fdvL"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 211875,
       "name": "Ya Leil Ya Ein",
       "url": "https://open.spotify.com/track/2SXXbIKHfFL4WcmzLkDrMn"
+    },
+    {
+      "added_at": "2025-06-19 22:26:22",
+      "album": {
+        "name": "Ala Bali",
+        "url": "https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9"
+      },
+      "artists": [
+        {
+          "name": "Sharmoofers",
+          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
+        }
+      ],
+      "duration_ms": 194454,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
     },
     {
       "added_at": "2025-06-19 22:26:22",

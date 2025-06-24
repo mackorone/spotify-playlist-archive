@@ -4,7 +4,7 @@
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-201 songs - 9 hr 35 min
+202 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 | 2024-11-02 |  |
 | [Or What](https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 3:19 | 2024-10-15 |  |
 | [Out](https://open.spotify.com/track/21ValWkHiLg5Ja6anGyI3C) | [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne) | [Out](https://open.spotify.com/album/5QGXJ3qiF2CGhy2rKJsxme) | 1:57 | 2024-03-22 |  |
+| [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 | 2025-06-23 |  |
 | [Outside](https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [King Zoo](https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615) | 1:58 | 2023-11-24 | 2024-01-20 |
 | [P.O.T.](https://open.spotify.com/track/1f2B3Jzi8EVIkqJJSS59T2) | [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne) | [P.O.T.](https://open.spotify.com/album/4Y1HjVzkf1dEe6NYJ3qdNc) | 2:29 | 2024-02-23 |  |
 | [PHASES](https://open.spotify.com/track/3dcymfoOWkObGmCEmD7zJJ) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [PHASES](https://open.spotify.com/album/4PjC4vjNhgfem1MzlCdTQR) | 2:27 | 2024-08-31 |  |

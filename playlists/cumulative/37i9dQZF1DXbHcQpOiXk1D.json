@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "DON\u2019T LISTEN",
+        "url": "https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2025-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177042,
+      "name": "DON\u2019T LISTEN",
+      "url": "https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
       },
@@ -13758,7 +13776,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 272810,
       "name": "Uno Punto Uno",
       "url": "https://open.spotify.com/track/4kqAWPVIDUzKvP4594U3hE"

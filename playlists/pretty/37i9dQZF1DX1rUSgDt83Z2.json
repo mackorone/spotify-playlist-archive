@@ -1,12 +1,12 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 39849,
+  "num_followers": 39860,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSIlwAAAAAjjg4xpRhoPNgO/cMyIKzb",
+  "snapshot_id": "aFkDCQAAAACPUMTi7nwcpVtj4n7LXVLR",
   "tracks": [
     {
       "added_at": "2025-06-19 22:00:55",
@@ -271,6 +271,22 @@
       "duration_ms": 196862,
       "name": "Ik Zal Er Zijn",
       "url": "https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ"
+    },
+    {
+      "added_at": "2025-06-19 22:00:55",
+      "album": {
+        "name": "Het verleden",
+        "url": "https://open.spotify.com/album/6fT11QCpe47VOzs8kqvL2T"
+      },
+      "artists": [
+        {
+          "name": "KRISTEL",
+          "url": "https://open.spotify.com/artist/4RR1Hu38jmbA010XOEVuOF"
+        }
+      ],
+      "duration_ms": 210935,
+      "name": "Het verleden",
+      "url": "https://open.spotify.com/track/6AjxjyZlpgZzCX2h49EsdF"
     },
     {
       "added_at": "2025-06-19 22:00:55",
@@ -691,22 +707,6 @@
     {
       "added_at": "2025-06-19 22:00:55",
       "album": {
-        "name": "Samen \u00c9\u00e9n",
-        "url": "https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf"
-      },
-      "artists": [
-        {
-          "name": "Miss Montreal",
-          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
-        }
-      ],
-      "duration_ms": 175381,
-      "name": "Schreeuwen",
-      "url": "https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A"
-    },
-    {
-      "added_at": "2025-06-19 22:00:55",
-      "album": {
         "name": "Beste Zangers 2024 (Aflevering 4- SERA)",
         "url": "https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
+    },
+    {
+      "added_at": "2025-06-19 22:00:55",
+      "album": {
+        "name": "Samen \u00c9\u00e9n",
+        "url": "https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 175381,
+      "name": "Schreeuwen",
+      "url": "https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A"
     },
     {
       "added_at": "2025-06-19 22:00:55",
@@ -851,26 +867,6 @@
       "duration_ms": 179750,
       "name": "Scherven",
       "url": "https://open.spotify.com/track/14h13moB369WHcbOOjOY0z"
-    },
-    {
-      "added_at": "2025-06-19 22:00:55",
-      "album": {
-        "name": "Tijd Genoeg",
-        "url": "https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF"
-      },
-      "artists": [
-        {
-          "name": "IOS",
-          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
-        },
-        {
-          "name": "Holly Mae Brood",
-          "url": "https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k"
-        }
-      ],
-      "duration_ms": 171759,
-      "name": "Tijd Genoeg",
-      "url": "https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe"
     }
   ],
   "unique_name": "Helemaal NL",

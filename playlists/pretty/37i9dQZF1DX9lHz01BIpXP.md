@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Mr Heinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,710 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,719 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 46 | [Dubble G's](https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Dubble G's](https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH) | 2:19 |
 | 47 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
 | 48 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
-| 49 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
-| 50 | [Funds up](https://open.spotify.com/track/2YlQMXoBxIFbkuEsmbLOLb) | [Eboii](https://open.spotify.com/artist/0QAgKu19p71ftk4GJL5D4K), [Lukey Luxman](https://open.spotify.com/artist/26riHWbHZJDYFfZKzYD8Xs) | [Funds up](https://open.spotify.com/album/3MfN6NrliRwkNhQ9QQ8R4U) | 2:42 |
+| 49 | [Praat meer bollie](https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4) | [Brasse Vannie Kaap](https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un), [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF) | [Praat meer bollie](https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN) | 4:09 |
+| 50 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
 
 Snapshot ID: `aFSImAAAAAA9l0Lm7sjZBppSAPHKGotK`

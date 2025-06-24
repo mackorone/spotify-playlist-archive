@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Little Homie
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,767 likes - 105 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,814 likes - 105 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 65 | [Encima De Otra Nota](https://open.spotify.com/track/111qiTuVP31kiVcpnXS6oj) | [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Encima De Otra Nota](https://open.spotify.com/album/21tprtsL3uDiuoDtJwD4rM) | 2:06 |
 | 66 | [Ateo](https://open.spotify.com/track/5d9ddd4GNz6m3yxND0VuFO) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Ateo](https://open.spotify.com/album/5GyspRauph5LzyNMwdQ7lg) | 2:47 |
 | 67 | [Bebi Demasiado](https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Bebi Demasiado](https://open.spotify.com/album/1g8IVrqLI8ZwCvBSp0UoCZ) | 2:28 |
-| 68 | [Problema](https://open.spotify.com/track/1Eniu6iGhu0BYtLSZIKCVt) | [menteabierta](https://open.spotify.com/artist/3Z5jrGaclyPGZxbGcVuCFy), [Papá Código](https://open.spotify.com/artist/75A5TNmwmWjnnMaqA2OYPY) | [Problema](https://open.spotify.com/album/1kJTTM9L2r7C4biyAJQqRY) | 4:27 |
+| 68 | [Problema](https://open.spotify.com/track/1Eniu6iGhu0BYtLSZIKCVt) | [mente abierta](https://open.spotify.com/artist/7BgfZW9LN3PHVDNMgjrYP7), [Papá Código](https://open.spotify.com/artist/75A5TNmwmWjnnMaqA2OYPY) | [Problema](https://open.spotify.com/album/1kJTTM9L2r7C4biyAJQqRY) | 4:27 |
 | 69 | [Dilon Baby](https://open.spotify.com/track/1n25qb6z7vFIqZS6kW7CYW) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [Dilon Baby](https://open.spotify.com/album/29HvGcmgTkk4XBTS3EWcgO) | 2:53 |
 | 70 | [Rap Pa Tu Madre](https://open.spotify.com/track/70K2TPkZcfXt6r05Vcf3CF) | [El Experimento \(Macgyver\)](https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv) | [Rap Pa Tu Madre](https://open.spotify.com/album/2Pj7pZKaIioUv5cHHQzDCu) | 3:38 |
 | 71 | [Llame Pa Verte](https://open.spotify.com/track/4Zipd2pVN1WBYo5rro5jOl) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [El Brujo](https://open.spotify.com/album/3URlV6ZNGUSqwbPUFD6a5G) | 2:58 |

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 936164,
+  "num_followers": 936105,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
         "name": "My Body (feat. Y&M)",
         "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -655,6 +655,34 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
+        "name": "Genesis (Don Diablo Edit)",
+        "url": "https://open.spotify.com/album/5t5GtF3wm4p8c7wLDMBVvz"
+      },
+      "artists": [
+        {
+          "name": "Chester Young",
+          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+        },
+        {
+          "name": "Hackatone",
+          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "SUVI",
+          "url": "https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL"
+        }
+      ],
+      "duration_ms": 196876,
+      "name": "Genesis - Don Diablo Edit",
+      "url": "https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
         "name": "We Don\u2019t Need",
         "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
       },
@@ -747,6 +775,22 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/3drZTTzMPAJzZlw06fX2hE"
+      },
+      "artists": [
+        {
+          "name": "Yurie",
+          "url": "https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5"
+        }
+      ],
+      "duration_ms": 197812,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/6fTWk9wpKkE64teVqn8KkS"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -771,22 +815,6 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "What You Waiting For",
-        "url": "https://open.spotify.com/album/3drZTTzMPAJzZlw06fX2hE"
-      },
-      "artists": [
-        {
-          "name": "Yurie",
-          "url": "https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5"
-        }
-      ],
-      "duration_ms": 197812,
-      "name": "What You Waiting For",
-      "url": "https://open.spotify.com/track/6fTWk9wpKkE64teVqn8KkS"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
         "name": "F*CK THAT",
         "url": "https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9"
       },
@@ -799,34 +827,6 @@
       "duration_ms": 191818,
       "name": "F*CK THAT",
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
-        "name": "Genesis (Don Diablo Edit)",
-        "url": "https://open.spotify.com/album/5t5GtF3wm4p8c7wLDMBVvz"
-      },
-      "artists": [
-        {
-          "name": "Chester Young",
-          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
-        },
-        {
-          "name": "Hackatone",
-          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "SUVI",
-          "url": "https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL"
-        }
-      ],
-      "duration_ms": 196876,
-      "name": "Genesis - Don Diablo Edit",
-      "url": "https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
         "name": "Hypnotize EP",
         "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 153387,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "HOUSE PARTY",
-        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
-      },
-      "artists": [
-        {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        },
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "HOUSE PARTY",
-      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
       },
@@ -1283,22 +1263,22 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox"
+        "name": "HOUSE PARTY",
+        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
       },
       "artists": [
         {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
         },
         {
-          "name": "Confession",
-          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC"
+      "duration_ms": 185280,
+      "name": "HOUSE PARTY",
+      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -1315,6 +1295,26 @@
       "duration_ms": 177187,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "Beat Goes On (feat. Casey Cook)",
-        "url": "https://open.spotify.com/album/1Rot8rGcIeEXCNW960nszl"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 169350,
-      "name": "Beat Goes On (feat. Casey Cook)",
-      "url": "https://open.spotify.com/track/1cI5uk4DpB22EixZCllbwy"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
         "name": "Make a Living",
         "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 177798,
       "name": "Make a Living",
       "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
+        "name": "Beat Goes On (feat. Casey Cook)",
+        "url": "https://open.spotify.com/album/1Rot8rGcIeEXCNW960nszl"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 169350,
+      "name": "Beat Goes On (feat. Casey Cook)",
+      "url": "https://open.spotify.com/track/1cI5uk4DpB22EixZCllbwy"
     },
     {
       "added_at": "2025-06-20 04:00:51",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2025-06-20 04:00:51",
       "album": {
-        "name": "Body and Mind",
-        "url": "https://open.spotify.com/album/15IO4CZYQTVgzFxmRIfBDu"
-      },
-      "artists": [
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        },
-        {
-          "name": "Silver Nova",
-          "url": "https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3"
-        }
-      ],
-      "duration_ms": 205970,
-      "name": "Body and Mind",
-      "url": "https://open.spotify.com/track/6FxSYM7dXGM1gZdcgXNSYo"
-    },
-    {
-      "added_at": "2025-06-20 04:00:51",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 160849,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1"
+    },
+    {
+      "added_at": "2025-06-20 04:00:51",
+      "album": {
+        "name": "Body and Mind",
+        "url": "https://open.spotify.com/album/15IO4CZYQTVgzFxmRIfBDu"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Silver Nova",
+          "url": "https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3"
+        }
+      ],
+      "duration_ms": 205970,
+      "name": "Body and Mind",
+      "url": "https://open.spotify.com/track/6FxSYM7dXGM1gZdcgXNSYo"
     },
     {
       "added_at": "2025-06-20 04:00:51",

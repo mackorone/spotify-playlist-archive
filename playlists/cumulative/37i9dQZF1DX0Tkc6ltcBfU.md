@@ -2,9 +2,9 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South: R.I.P\. Takeoff
+> The hottest out the South\. King Spider back!
 
-2,057 songs - 4 day 0 hr 15 min
+2,058 songs - 4 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Duckin No Action](https://open.spotify.com/track/6U4Ht0Cs5V5P0XAoOxR0yq) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Duckin No Action](https://open.spotify.com/album/1WuS9C6n6TUV0KSNhsPS7M) | 2:57 | 2024-09-20 | 2024-10-05 |
 | [DUCKIN'](https://open.spotify.com/track/3RDm9iDnagNrWIoimEephO) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [DUCKIN'](https://open.spotify.com/album/7HR5kLSIqxIybzBrgbq73u) | 2:18 | 2025-01-31 | 2025-03-15 |
 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-03 | 2025-03-08 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/5GZ0currErGJhl0G0yxgRg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/album/4ycuXCWCg3MjM7GEnNCy3n) | 3:47 | 2025-06-23 |  |
 | [DUMB SHIT](https://open.spotify.com/track/04vrwY17rgvbUP8Mtfj1Ea) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [DUMB SHIT](https://open.spotify.com/album/2dL1auHnm4IxVGvfDShbWO) | 2:46 | 2025-06-13 |  |
 | [Duntsane](https://open.spotify.com/track/3xySxvtSaRaxQ4nr2VCWEc) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Duntsane](https://open.spotify.com/album/77EHssqkfiZmrZtAHyDzq3) | 3:12 | 2022-04-29 | 2022-06-18 |
 | [EASY DUB \(feat\. BabyDrill\)](https://open.spotify.com/track/6oTva60E0yp2cvFAybLFmS) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [9](https://open.spotify.com/album/6j3Y7CxOySMhZQEQsWnzhL) | 3:12 | 2024-03-15 | 2024-09-07 |

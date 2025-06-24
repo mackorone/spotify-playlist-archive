@@ -1,6 +1,6 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 400906,
+  "num_followers": 400922,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-06-13 07:37:31",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
-    },
-    {
-      "added_at": "2025-06-13 07:37:31",
-      "album": {
         "name": "The Undivided Five",
         "url": "https://open.spotify.com/album/3AuhGsh99iTqA57kn3rzvl"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 292539,
       "name": "The Rhythm Of A Dividing Pair",
       "url": "https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb"
+    },
+    {
+      "added_at": "2025-06-13 07:37:31",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
       "added_at": "2025-06-13 07:37:31",

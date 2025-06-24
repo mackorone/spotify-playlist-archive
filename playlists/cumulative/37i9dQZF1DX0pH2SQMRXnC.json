@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
+  "description": "Defqon.1 takeover! First 25 tracks picked by Defqon.1 \ud83d\udca5 \ud83c\udf87\n",
   "name": "Hardstyle Bangers",
   "tracks": [
     {
@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/6WfXIDpqJHv3Kk8Yo06FaA"
+      },
+      "artists": [
+        {
+          "name": "D-Charged",
+          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217455,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/5Lm7W0lR071hKSft5VoFWk"
+    },
+    {
+      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/7t5E5gX2uxbzo01ZTTpKZq"
       },
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 187794,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 208657,
       "name": "Blow Up The Speakers (Again)",
       "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 158940,
       "name": "Cambodia",
       "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
@@ -2334,6 +2352,28 @@
       "duration_ms": 159200,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/5hShWhULwT3YUfIBQvh9VW"
+    },
+    {
+      "album": {
+        "name": "Captain Jack (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/5MKishj8Fi7UJDDr2EucMo"
+      },
+      "artists": [
+        {
+          "name": "Captain Jack",
+          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
+        },
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184596,
+      "name": "Captain Jack (Hardstyle Remix)",
+      "url": "https://open.spotify.com/track/5ZrZAYgSzp1vU6shfbrbPz"
     },
     {
       "album": {
@@ -3212,7 +3252,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 172503,
       "name": "Crank It Loud",
       "url": "https://open.spotify.com/track/54NYW1EBw5h8tX956UlUHY"
@@ -3582,7 +3622,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 165003,
       "name": "DAS IST KEIN TECHNO",
       "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
@@ -3820,7 +3860,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 163500,
       "name": "Devastation",
       "url": "https://open.spotify.com/track/6zl6FaXnnUPkQvZoIvK0jc"
@@ -4146,7 +4186,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 164300,
       "name": "Do Whatcha Say",
       "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
@@ -4168,7 +4208,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 117019,
       "name": "DO YOU LIKE ZAAG?",
       "url": "https://open.spotify.com/track/2e8egSL6DTWLAjgsdC9YHE"
@@ -4676,7 +4716,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 216774,
       "name": "Embrace The Dark",
       "url": "https://open.spotify.com/track/4DIfkWuuB3dUgjs5s8Q6YD"
@@ -4920,7 +4960,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 214546,
       "name": "Euphoria - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
@@ -6410,7 +6450,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 213995,
       "name": "G.L.Y.",
       "url": "https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5"
@@ -6828,7 +6868,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 217532,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
@@ -7260,7 +7300,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 166988,
       "name": "HEAR THE NOISE",
       "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
@@ -8434,7 +8474,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
@@ -8532,6 +8572,28 @@
       "duration_ms": 199200,
       "name": "Inception",
       "url": "https://open.spotify.com/track/40PNoHlTWzatS0dbhah6AW"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/463iEJLT9QwSToEtjvpGgs"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213101,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/5zPjoPyyqF86YPM29qPV1r"
     },
     {
       "album": {
@@ -9213,6 +9275,24 @@
     },
     {
       "album": {
+        "name": "Kickroll Is Not A Crime",
+        "url": "https://open.spotify.com/album/1krEZdCdsFRlt7tuDJMUdl"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144179,
+      "name": "Kickroll Is Not A Crime",
+      "url": "https://open.spotify.com/track/1Sx445PqUTGRkxAPScYBkW"
+    },
+    {
+      "album": {
         "name": "Kickuhh!!",
         "url": "https://open.spotify.com/album/0BcLt1ciYWZanb6Gn7jfjS"
       },
@@ -9544,6 +9624,32 @@
       "duration_ms": 176258,
       "name": "Lay Low (Radical Redemption Remix)",
       "url": "https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O"
+    },
+    {
+      "album": {
+        "name": "LEFT - RIGHT",
+        "url": "https://open.spotify.com/album/2KuBha46EYztx0QqF9kkFh"
+      },
+      "artists": [
+        {
+          "name": "Zany",
+          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "DV8",
+          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97680,
+      "name": "LEFT - RIGHT",
+      "url": "https://open.spotify.com/track/7A6qpT1m23WtVYlS57G4Ew"
     },
     {
       "album": {
@@ -10088,7 +10194,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 156580,
       "name": "Lose Control (CTRL)",
       "url": "https://open.spotify.com/track/2kiClNOTehkH5oA9Ivhk6q"
@@ -10902,6 +11008,28 @@
       "duration_ms": 188008,
       "name": "Million Dreams",
       "url": "https://open.spotify.com/track/0yHP5chOwBC6BUWXPIxQcc"
+    },
+    {
+      "album": {
+        "name": "million miles",
+        "url": "https://open.spotify.com/album/36Bgf3f95KdLX4dbwroNLJ"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "A-RIZE",
+          "url": "https://open.spotify.com/artist/5AtGLnu8GxRajsCHRxGdOh"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197287,
+      "name": "million miles",
+      "url": "https://open.spotify.com/track/2MVoobqaLAWKzaKoI99VWt"
     },
     {
       "album": {
@@ -12204,7 +12332,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 170117,
       "name": "Oh Fortuna - Carmina Burana",
       "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
@@ -13032,7 +13160,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 168000,
       "name": "POLIZEI",
       "url": "https://open.spotify.com/track/20XN7Sr1wil6dvhPwR2FOe"
@@ -13804,7 +13932,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 140506,
       "name": "Redemption & Rage",
       "url": "https://open.spotify.com/track/3sIUP0aAQNHectEBIPG7LW"
@@ -15477,6 +15605,24 @@
     },
     {
       "album": {
+        "name": "Stop The Bleeding",
+        "url": "https://open.spotify.com/album/04IeWshNW779c1YV8M3SBT"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180023,
+      "name": "Stop The Bleeding",
+      "url": "https://open.spotify.com/track/0RKnhWibdJ4SmHjaQWlZlc"
+    },
+    {
+      "album": {
         "name": "Stop the Time",
         "url": "https://open.spotify.com/album/7MEWDIupZlzznyiH3aMH7L"
       },
@@ -15554,7 +15700,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 182015,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1KtCYs1x2zZB0QXiSY6IN3"
@@ -16253,6 +16399,32 @@
     },
     {
       "album": {
+        "name": "Take This Moment (Defqon.1 2025 UV OST)",
+        "url": "https://open.spotify.com/album/4tpEOXhjfJJk1M1UXlzIqv"
+      },
+      "artists": [
+        {
+          "name": "Solstice",
+          "url": "https://open.spotify.com/artist/6Czf2AVSww2aOhW4M6QNHT"
+        },
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "Jay Reeve",
+          "url": "https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229215,
+      "name": "Take This Moment (Defqon.1 2025 UV OST)",
+      "url": "https://open.spotify.com/track/0DC4wvHGjvnpGxDv3dIbBf"
+    },
+    {
+      "album": {
         "name": "Takin' It Back (Live Edit)",
         "url": "https://open.spotify.com/album/6qCrLJQw4nU5rdcCrPLn18"
       },
@@ -16485,6 +16657,28 @@
     },
     {
       "album": {
+        "name": "The Best Is Yet To Come",
+        "url": "https://open.spotify.com/album/6rhGnJR4ZWk119RPuive8l"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        },
+        {
+          "name": "Stef Classens",
+          "url": "https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163354,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/5kEoEfHI8TYtYUw1QyDryh"
+    },
+    {
+      "album": {
         "name": "The Calling (Da Tweekaz Remix)",
         "url": "https://open.spotify.com/album/7LT1ZlmIgH54ntff4MbIls"
       },
@@ -16522,7 +16716,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "The Edge (of the End)",
       "url": "https://open.spotify.com/track/0DlHcmxGyzgXKiiLrb2Lhu"
@@ -16856,7 +17050,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 153290,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/5LFDL81snndfAJSnyIzilb"
@@ -17357,6 +17551,24 @@
     },
     {
       "album": {
+        "name": "Everything Changes",
+        "url": "https://open.spotify.com/album/4Ouu5LmXdZfmwru7uHfqxd"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141870,
+      "name": "Thru Your Heart",
+      "url": "https://open.spotify.com/track/1vEk0GmCPwESpBGPAofwcQ"
+    },
+    {
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0Smj1yoAnscJeGEPCJIUNl"
       },
@@ -17485,6 +17697,32 @@
     },
     {
       "album": {
+        "name": "Time To Push It (Warrior Workout 2025 OST)",
+        "url": "https://open.spotify.com/album/2UatAB5bnYKMVYaHKYGTFl"
+      },
+      "artists": [
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        },
+        {
+          "name": "Stephanie Magic",
+          "url": "https://open.spotify.com/artist/2w0QuE4RsEmNa94PAKnIWN"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242250,
+      "name": "Time To Push It (Warrior Workout 2025 OST)",
+      "url": "https://open.spotify.com/track/28vqTPj9cgQK5AkY1sc06h"
+    },
+    {
+      "album": {
         "name": "Time Will Tell (Official Reverze Anthem 2022)",
         "url": "https://open.spotify.com/album/4HAZqNT1tPZYKkVZf9gl4U"
       },
@@ -17544,6 +17782,28 @@
       "duration_ms": 159998,
       "name": "TMY",
       "url": "https://open.spotify.com/track/3bVYgzFGeFpgX3kMeGjIEc"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0ZXPIUZ103IBjPI2qHGI9T"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182468,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1LVaVxu8lFUvMYVBlPMsUu"
     },
     {
       "album": {
@@ -17666,6 +17926,32 @@
       "duration_ms": 252800,
       "name": "Toss A Coin To Your Witcher",
       "url": "https://open.spotify.com/track/2jkoanGKXN9I3gfeYo4aph"
+    },
+    {
+      "album": {
+        "name": "Transform (Short Mix)",
+        "url": "https://open.spotify.com/album/7BdUSAuAPiZn498Are4Bxl"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Sogma",
+          "url": "https://open.spotify.com/artist/1aQ5RklusunvA9N3kqbbJA"
+        },
+        {
+          "name": "Robin Vane",
+          "url": "https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177287,
+      "name": "Transform - Short Mix",
+      "url": "https://open.spotify.com/track/2o1pBzTZWVDpyXaAOJzIwF"
     },
     {
       "album": {
@@ -19436,7 +19722,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 385600,
       "name": "World of Madness (Defqon.1 Anthem 2012)",
       "url": "https://open.spotify.com/track/3TzPEytBqwGZEzUbGsefaT"

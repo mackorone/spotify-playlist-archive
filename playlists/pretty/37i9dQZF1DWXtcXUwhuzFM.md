@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia DAVIlta & Arekselta,  Ed Sheeranilta, helmi marleenalta, Benson Boonelta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,704 likes - 107 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,701 likes - 107 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 63 | [Julia](https://open.spotify.com/track/2xnllPBqRgTiszi2cmgLul) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Julia](https://open.spotify.com/album/5TWGSRtuOsPUDAKl2WKvon) | 2:52 |
 | 64 | [Säkkijärven polkka](https://open.spotify.com/track/3cpQiq7Hm1rMeP4nUUJdqh) | [Retropop](https://open.spotify.com/artist/6lUKvTepDl9SSeKb8TKC19) | [Säkkijärven polkka](https://open.spotify.com/album/30l4yMrLqIaeFy8wM4fp6R) | 2:25 |
 | 65 | [MYOHMY!](https://open.spotify.com/track/5Oz6jlEdLG6iqlDDFWbSjS) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [MYOHMY!](https://open.spotify.com/album/7wvRY9gp0zjBwPyhJ5rTSh) | 2:45 |
-| 66 | [Sunkissed](https://open.spotify.com/track/3pPLqu5kMTOHkyiYa2Hyog) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:31 |
+| 66 | [Sunkissed](https://open.spotify.com/track/3pPLqu5kMTOHkyiYa2Hyog) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [Breathing Space](https://open.spotify.com/artist/7mqWuWeqwxGQoMZdehD0MG) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:31 |
 | 67 | [BS](https://open.spotify.com/track/0Y4TX9bfxihaRE9aHywcmE) | [Modem](https://open.spotify.com/artist/7CQG9lCRpxkuALUS2wbTia) | [BS](https://open.spotify.com/album/4QjGomyWKwFNDiHsSpcTkY) | 3:43 |
 | 68 | [Koko kesä vedetään](https://open.spotify.com/track/0xofmhRHxBGtJ1w8XWZRgF) | [Linkin Bio](https://open.spotify.com/artist/1Rfm4beIcbpzSPxiHHJb9R), [Mängi](https://open.spotify.com/artist/6xBSuqLlGqCWaKDEeQkqVr), [Ruma](https://open.spotify.com/artist/0lcGTyjTjKRDQpgKaT5bGJ) | [Koko kesä vedetään](https://open.spotify.com/album/115tq2jZJJGIySR0GtBJwO) | 2:02 |
 | 69 | [Rein Me In](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |

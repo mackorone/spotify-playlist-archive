@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-618 songs - 2 day 12 hr 2 min
+619 songs - 2 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Dream \- Live](https://open.spotify.com/track/2aY1HUnXPir4OESAaw2Pae) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Dream \(Live\)](https://open.spotify.com/album/0FV8Zn9lpGqumPzh1ycO4q) | 9:41 | 2025-03-20 |  |
 | [Dry Ground](https://open.spotify.com/track/2rN3VHilUMtGh7CVmCVUqs) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw) | [Dry Ground](https://open.spotify.com/album/5jyQwvIZSQozXT1GHEMhZo) | 5:05 | 2024-11-08 | 2025-03-21 |
 | [Easter Song](https://open.spotify.com/track/5MUsiIncUIN6VY5vusxz87) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [For Him Who Has Ears](https://open.spotify.com/album/7yNwVrfU8PuZcfnCy0cft9) | 3:56 | 2022-04-05 | 2022-06-10 |
+| [Easy Surrender](https://open.spotify.com/track/5seZ8lfIGj3LciDvbGGgVg) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Pelt](https://open.spotify.com/artist/4Bq682UCIDpgtfgVpvxMwh) | [Easy Surrender](https://open.spotify.com/album/4yfCgh954gzrLYci6OvRrK) | 4:17 | 2025-06-23 |  |
 | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN) | 4:35 | 2022-09-23 | 2023-12-14 |
 | [El Precio](https://open.spotify.com/track/5IiBg8ch9Jm81laYlN9rQW) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Monty](https://open.spotify.com/artist/3fAIB8ufLO83gjm8BK4UcV) | [Holy Ground](https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6) | 4:27 | 2022-04-05 | 2022-06-10 |
 | [Empty](https://open.spotify.com/track/35Q1G0MzRyg2NV0gqZvt85) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Empty](https://open.spotify.com/album/5NgFVX1Nopfkfh8MpSXTa4) | 4:28 | 2024-03-22 | 2025-03-21 |

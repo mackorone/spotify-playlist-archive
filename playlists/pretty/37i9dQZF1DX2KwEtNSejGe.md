@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KwEtNSejGe.md) - [plain]
 
 ### [pop songs we can all scream](https://open.spotify.com/playlist/37i9dQZF1DX2KwEtNSejGe)
 
-> Songs you can't help but just scream along to\. Cover: Myles Smith
+> the ones you can't sing loud enough
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,282 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,849 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KwEtNSejGe.md) - [plain]
 | 99 | [It Girl](https://open.spotify.com/track/4fINc8dnfcz7AdhFYVA4i7) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:12 |
 | 100 | [How We Do \(Party\)](https://open.spotify.com/track/1dsndFSRXSoQFLjSJ6uPpG) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA Deluxe](https://open.spotify.com/album/3KrONVBdZc7AhGf4v7imlo) | 4:07 |
 
-Snapshot ID: `Z9QUiwAAAACk6XwSg4PH88QMZUWRWIFs`
+Snapshot ID: `aFl7hgAAAADLA7Hn25xSrby4/uwe7C5f`

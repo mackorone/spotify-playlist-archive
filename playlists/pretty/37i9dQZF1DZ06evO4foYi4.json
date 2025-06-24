@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 54153,
+  "num_followers": 54154,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFX2AAAAAADHSD9wtVyeAmo2R23Z7Qe+",
+  "snapshot_id": "aFdHgAAAAAAywuY5MyxYwQ1Rms3aqLkb",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fast Slow Disco",
+        "url": "https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 197005,
+      "name": "Fast Slow Disco",
+      "url": "https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiempos Violentos (feat. Mon Laferte)",
         "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 237029,
       "name": "Tiempos Violentos (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fast Slow Disco",
-        "url": "https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 197005,
-      "name": "Fast Slow Disco",
-      "url": "https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nowhere Inn",
-        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 35776,
-      "name": "Tour Bus",
-      "url": "https://open.spotify.com/track/4KB1r2SFtOEK221pPJclKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Vincent (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 195893,
       "name": "Birth In Reverse",
       "url": "https://open.spotify.com/track/3v47tb6hvbeb3dVOgYZUfP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nowhere Inn",
+        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 35776,
+      "name": "Tour Bus",
+      "url": "https://open.spotify.com/track/4KB1r2SFtOEK221pPJclKN"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todos Nacen Gritando",
+        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Hombre Roto",
+      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love This Giant",
         "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 187093,
       "name": "Weekend in the Dust",
       "url": "https://open.spotify.com/track/0yE4eaKscJyphP7OoaugGC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Nacen Gritando",
-        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Hombre Roto",
-      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
     },
     {
       "added_at": null,

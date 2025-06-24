@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Soundtrack the Super Bowl with a ready made playlist with all the hits from past and present halftime shows!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 116,166 likes - 64 songs - 4 hr 21 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 116,150 likes - 64 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

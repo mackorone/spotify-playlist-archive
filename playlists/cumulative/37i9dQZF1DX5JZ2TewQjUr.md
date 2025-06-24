@@ -2,7 +2,7 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Paula Au
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Just a broken machine
 
 1,449 songs - 3 day 9 hr 43 min
 

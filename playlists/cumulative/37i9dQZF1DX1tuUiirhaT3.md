@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-383 songs - 19 hr 50 min
+389 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Amethyst](https://open.spotify.com/track/2dZRjii8b4IkFRDbt3Q00m) | [Universal Mind](https://open.spotify.com/artist/24B3hez0bgvZ1xSx1TzcOA) | [Amethyst](https://open.spotify.com/album/4iXemjL24zprZKSuo3sQgF) | 3:28 | 2021-12-17 | 2024-06-04 |
 | [Andrum](https://open.spotify.com/track/6W2zZRhkMxKkXONKO04yGK) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Andrum](https://open.spotify.com/album/1XRkQoTVjfWqw2nuO5rQWk) | 3:31 | 2024-07-19 |  |
 | [As I Dream](https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [As I Dream](https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY) | 3:26 | 2022-10-14 | 2025-06-04 |
+| [Astral Awakening](https://open.spotify.com/track/6nmpv1rzu5di5iekz580Ez) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Astral Awakening](https://open.spotify.com/album/3qTdu32OsL4QwnfhJ6mP1I) | 2:46 | 2025-06-23 |  |
 | [Avenoir](https://open.spotify.com/track/2uAfciE7VqSEgakqkY5z0J) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Avenoir](https://open.spotify.com/album/3foIWfeetCI1u7WwKCQWyZ) | 2:54 | 2021-12-17 | 2025-06-04 |
 | [Aves Aristophanis](https://open.spotify.com/track/0hf4OAdQiOvMlMcRsYoHqK) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:06 | 2021-12-17 | 2024-05-02 |
 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 | 2021-12-17 | 2022-09-03 |
@@ -257,6 +258,7 @@
 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 | 2021-12-17 | 2023-01-14 |
 | [Photosynthesis](https://open.spotify.com/track/33K1CabCTz04Ht8G67PTPD) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Photosynthesis](https://open.spotify.com/album/2n2FsaAK3UHnPdgYNbcGhx) | 2:42 | 2025-05-16 |  |
 | [Placid Creek](https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [Placid Creek](https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7) | 2:59 | 2024-01-26 |  |
+| [Placid Drift](https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Drift](https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86) | 3:00 | 2025-06-23 |  |
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2022-05-05 | 2024-07-20 |
 | [Praeniteo](https://open.spotify.com/track/33o8qJ9gYei7lJe7FT2ZTY) | [Chasing The Eclipse](https://open.spotify.com/artist/7srCM8fl9JtX1OT0ZORcIC) | [Praeniteo](https://open.spotify.com/album/55m0KrbmCCLoyFfXWEhpEL) | 2:34 | 2022-04-13 | 2024-10-10 |
 | [Quechee](https://open.spotify.com/track/0YHo8BjNpNr35qkQ06OB7Y) | [Stig Dahl](https://open.spotify.com/artist/3MYCekQ5MCvigzegvwg0Vt) | [Quechee](https://open.spotify.com/album/6rd91D5DtuaeL7150xTksL) | 3:50 | 2021-12-17 | 2024-12-21 |
@@ -282,6 +284,7 @@
 | [Rising Up](https://open.spotify.com/track/52ucjqmX0AZ5NXugBrcJzp) | [Flora Fossils](https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N) | [Rising Up](https://open.spotify.com/album/02AhYeStIFGhVazWU4Xx6Q) | 3:09 | 2025-02-18 | 2025-04-02 |
 | [Royal Whispers](https://open.spotify.com/track/3n3D4PEIcG5JuLmT094Zt4) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Tales Of Nature](https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu) | 4:15 | 2022-06-24 | 2025-06-04 |
 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 | 2025-02-05 |  |
+| [Røset](https://open.spotify.com/track/72Po6Iab3GkKI7h24Dystg) | [Dunsø](https://open.spotify.com/artist/0qTYCCllmwOsFme4OxrbkZ) | [Røset](https://open.spotify.com/album/0Vc1BFSu3N5oU6ovuYpY6B) | 3:12 | 2025-06-23 |  |
 | [Sacred Flute](https://open.spotify.com/track/2PxEmKGDlIaPKK1nqEv97F) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Sacred Flute](https://open.spotify.com/album/7dMMLqXgYs9fnoR4wy6FRQ) | 2:15 | 2023-10-04 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2021-12-17 | 2024-11-21 |
 | [Sacred Reservoir](https://open.spotify.com/track/11gvVIKblQIJ3YFf7A8q0o) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Sacred Reservoir](https://open.spotify.com/album/6OxqSw1esboGXc8wl5etdy) | 3:03 | 2024-10-09 | 2025-06-04 |
@@ -315,6 +318,7 @@
 | [Sleeping Moons \- Sound Bath](https://open.spotify.com/track/4G6yXGixVP0L8y7H7S7VAC) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:41 | 2022-09-30 | 2025-06-04 |
 | [Slow Mind Down](https://open.spotify.com/track/54FbTXlSUxVbW9GzdqeTTb) | [Universal Mind](https://open.spotify.com/artist/24B3hez0bgvZ1xSx1TzcOA) | [Amethyst](https://open.spotify.com/album/4iXemjL24zprZKSuo3sQgF) | 3:09 | 2021-12-17 | 2023-03-18 |
 | [Slow Water](https://open.spotify.com/track/0FxXYM7iJBt3BQk72FkWh2) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Slow Water](https://open.spotify.com/album/48X7nxWrIIjaYxmSqr3M7g) | 3:11 | 2023-08-11 | 2025-02-19 |
+| [Soft Lights](https://open.spotify.com/track/5wCsBYlomdTdpCMYoguRCg) | [Astral Ocean](https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6) | [Soft Lights](https://open.spotify.com/album/2Xj4CDF8lq5dYHZEPCsrUd) | 3:02 | 2025-06-23 |  |
 | [Soixante Forest](https://open.spotify.com/track/24IeEGwVyVsIWZXg3c6JTX) | [Drew\-10](https://open.spotify.com/artist/0Xlsc8iACDFB2p9Y0XT6qs) | [Soixante Forest](https://open.spotify.com/album/2n4PRDmk2gfcsmtPTl5mGJ) | 2:46 | 2024-04-01 |  |
 | [Solemn Flight](https://open.spotify.com/track/0krOu7GP4oAfj5dQUxvUcM) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Cimarron Plains](https://open.spotify.com/album/3eLFLQX1MZWwRmGtD7ww0O) | 3:30 | 2021-12-17 | 2024-04-02 |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2022-08-15 | 2024-11-21 |
@@ -343,6 +347,7 @@
 | [The Awakening](https://open.spotify.com/track/3smuAxUIVqSgUJMS9BDVqx) | [Andrea Accorsi](https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK) | [The Awakening](https://open.spotify.com/album/5069FBAkMxYSz6KzGsm0Tr) | 2:00 | 2022-10-14 | 2024-06-04 |
 | [The Danish Waterfall](https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [The Danish Waterfall](https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu) | 3:00 | 2022-12-09 | 2024-11-21 |
 | [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 | 2021-12-17 | 2024-04-02 |
+| [The Great Creation](https://open.spotify.com/track/183ppYB8uYOvSyyAKGUQ3O) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [The Great Creation](https://open.spotify.com/album/0x0vPN5f8B6cc2O9V5SA7K) | 3:16 | 2025-06-23 |  |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2021-12-17 | 2023-05-23 |
 | [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 | 2024-02-15 |  |
 | [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-04-21 | 2024-09-07 |
@@ -391,5 +396,6 @@
 | [Yantra 432hz](https://open.spotify.com/track/2PCp2VuoWNGTGZiY6oVEU3) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Yantra](https://open.spotify.com/album/77LGZALRDaNE9AzVNrEKRH) | 4:08 | 2022-09-02 | 2024-05-02 |
 | [Yume](https://open.spotify.com/track/4Op6vVWnv5tYcnWAGXMLbv) | [Ophra](https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U) | [Yume](https://open.spotify.com/album/1Qr9WSp95JGVu1AqSJdar7) | 2:26 | 2022-06-24 | 2025-06-04 |
 | [Zephyr](https://open.spotify.com/track/003fWGezqoXij6iO4VUUEB) | [Marzell Fischer](https://open.spotify.com/artist/0RzYpNqdYSyg9P4PtKlO1s) | [Zephyr](https://open.spotify.com/album/0rEhK3dBpjWBQvjmtSsuLH) | 2:37 | 2021-12-17 | 2024-05-02 |
+| [Økker](https://open.spotify.com/track/5gO9mB7oOk2OelMdLC5Yrr) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Økker](https://open.spotify.com/album/3CEnXvB59omumr2LyFGMXm) | 3:02 | 2025-06-23 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

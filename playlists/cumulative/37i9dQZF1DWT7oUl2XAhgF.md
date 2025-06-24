@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Curtis Harding
 
-517 songs - 1 day 7 hr 7 min
+518 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Night](https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [Khemist](https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q) | [All Night](https://open.spotify.com/album/00tx3Oaa3qYmMMmKmGg0Zy) | 3:15 | 2022-11-18 | 2023-03-18 |
 | [Always](https://open.spotify.com/track/0K8iQdeJiz7IGIHC56AoLk) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Always](https://open.spotify.com/album/3JAhlh8qvDgBWQdS62iaiE) | 2:35 | 2022-04-22 | 2023-04-30 |
 | [Always](https://open.spotify.com/track/3w2Mlu3NJYV7XA8LLWdRTI) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Always](https://open.spotify.com/album/2jhdyIrCbitZIzJy2I2Thu) | 2:35 | 2022-04-22 | 2023-09-30 |
+| [Angel Eyes](https://open.spotify.com/track/4EVkYQKxqD5JgdFSkyMjaS) | [The Charities](https://open.spotify.com/artist/6sj6p5wxfR9ueVEp93RRBf) | [Bring Your Love / Angel Eyes](https://open.spotify.com/album/2O5qigf4jDcHkhU4l7jRyb) | 2:30 | 2025-06-23 |  |
 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 | 2024-09-27 | 2025-03-15 |
 | [Artemis](https://open.spotify.com/track/5dYRCwE5R03NLKF5VpSccp) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Artemis](https://open.spotify.com/album/0qMNhyWAWmsREWJz9mdZIV) | 2:53 | 2024-08-02 |  |
 | [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 | 2021-07-09 | 2023-01-28 |
@@ -276,7 +277,7 @@
 | [Lovers' Holiday](https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lovers' Holiday](https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM) | 3:25 | 2025-05-30 |  |
 | [Loving You Is All I Want To Do](https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV) | [Roseaux](https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Loving You is All I Want to Do](https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf) | 3:39 | 2023-02-17 |  |
 | [Loving You Is Easy](https://open.spotify.com/track/4Q5uCevQDZ2dCrPq0isNPQ) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Loving You Is Easy](https://open.spotify.com/album/7gGU9LnpOyctBMvxA1vxyx) | 3:24 | 2022-06-10 | 2022-07-02 |
-| [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-21 |  |
+| [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-21 | 2025-06-24 |
 | [Lucille](https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Lucille](https://open.spotify.com/album/1pIPvngMvFfEJ2TnDrufNp) | 4:35 | 2025-01-24 | 2025-02-08 |
 | [Made Up Your Mind](https://open.spotify.com/track/7y9MSDTGKQphbjLE0pL8OZ) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [Made Up Your Mind](https://open.spotify.com/album/1OIJ6gRVd4Ez5oF16f2Awk) | 3:19 | 2024-01-12 | 2024-03-30 |
 | [Make a Wish](https://open.spotify.com/track/6rHLPqcyk7ggv0PvTjt5yd) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Make a Wish](https://open.spotify.com/album/7zdPOJg2rtxiRYeYaDVwrC) | 3:09 | 2022-05-13 | 2023-02-25 |
@@ -298,7 +299,7 @@
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2021-07-09 | 2023-01-28 |
 | [My 45 \(with Jean Carter\)](https://open.spotify.com/track/0bkjYsOt7EDEjW1SdUsVx6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [My 45 \(with Jean Carter\)](https://open.spotify.com/album/7mEwuN28ktuDL0y0bL4iB3) | 2:58 | 2025-03-14 | 2025-04-05 |
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-18 | 2024-04-06 |
-| [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 | 2024-10-04 |  |
+| [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 | 2024-10-04 | 2025-06-24 |
 | [My Oh My](https://open.spotify.com/track/4KO9dF03JTCwvQJdGVqwcG) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [My Oh My](https://open.spotify.com/album/3rWudFlMS9OWpxneFqm8yq) | 3:29 | 2023-06-02 | 2024-06-01 |
 | [Mystical and Paranoid](https://open.spotify.com/track/4d77W326jSVAmDrHlPG4bu) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Mystical and Paranoid](https://open.spotify.com/album/2cbbT7XzhQLBM19Pfhiv0z) | 3:44 | 2022-10-28 | 2022-11-12 |
 | [Need Something More](https://open.spotify.com/track/2tXVbd0Fsi74FoVV3CYsT9) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Need Something More](https://open.spotify.com/album/0BxdoTON95wiyg4ZD0ae8s) | 2:51 | 2024-07-19 | 2024-08-10 |

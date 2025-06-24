@@ -1,12 +1,12 @@
 {
   "description": "This is Hombres G. The essential tracks, all in one playlist.",
-  "num_followers": 289979,
+  "num_followers": 290003,
   "original_name": "This Is Hombres G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFX2AAAAAAB5bC3rgOkyiaJhkHNbpZzG",
+  "snapshot_id": "aFdHgAAAAABCIQHokMsqM0jSFDg9Y9v0",
   "tracks": [
     {
       "added_at": null,
@@ -923,18 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Esquina de Rowland",
-        "url": "https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku"
+        "name": "Tres Tequilas & Un Mezcal",
+        "url": "https://open.spotify.com/album/1UmFGyH0WblA5bxEn9A92E"
       },
       "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        },
         {
           "name": "Hombres G",
           "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 225829,
-      "name": "La esquina de Rowland",
-      "url": "https://open.spotify.com/track/6MEtlpTuzFJQfa8DvZ6N4V"
+      "duration_ms": 196813,
+      "name": "Amos del Piano Bar (feat. Hombres G)",
+      "url": "https://open.spotify.com/track/68xGtXidF9kdGOoKc5R4yd"
     }
   ],
   "unique_name": "This Is Hombres G",

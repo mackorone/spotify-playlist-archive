@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,648 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,652 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 58 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 |
 | 59 | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Ruido Selecto](https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu) | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ) | 3:20 |
 | 60 | [Carnabailito](https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 5:25 |
-| 61 | [Bailarin](https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Bailarin](https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od) | 3:37 |
+| 61 | [Carnabailito](https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Magnetismo](https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU) | 4:01 |
 | 62 | [Sirenita](https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:28 |
 | 63 | [HACIA EL MAR \- Pol Nada Remix](https://open.spotify.com/track/3RevMlORUCSBeVpNNH9D1G) | [Carlos Braile](https://open.spotify.com/artist/659Vlm5tMVPeKVZG8h9VZT), [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [HACIA EL MAR \(Pol Nada Remix\)](https://open.spotify.com/album/4B1SL9dLGBJCOx7JFfo4x3) | 5:19 |
 | 64 | [Margarita y Margarito \(Remix\)](https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ) | [Las 3 Marias](https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Margarita y Margarito \(Remix\)](https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg) | 5:51 |
 | 65 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
-| 66 | [Carnabailito](https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Magnetismo](https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU) | 4:01 |
+| 66 | [Bailarin](https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Bailarin](https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od) | 3:37 |
 | 67 | [Telesita](https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK), [Natalia Schvartz](https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05) | [Telesita](https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI) | 4:24 |
 | 68 | [Cada Uno con Su Bandera](https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi) | [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW) | [Cada Uno con Su Bandera](https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh) | 4:03 |
 | 69 | [Huayno and Pacha Mama](https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29) | [Oscar Irustia](https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt) | [Patagonia Nature](https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt) | 3:02 |

@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: Fujii Kaze
 
-799 songs - 1 day 21 hr 37 min
+800 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [MONOCHROME](https://open.spotify.com/track/5gwzzDhUO1H4tIRRJDjnny) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [MONOCHROME](https://open.spotify.com/album/04zfcQnPmaUnxJGNUkVW1o) | 3:01 | 2024-10-10 | 2024-12-05 |
 | [MONONOFU NIPPON feat\. 布袋寅泰](https://open.spotify.com/track/2Jp8TKibZMeNH7rUnERfHh) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [MONONOFU NIPPON feat\. 布袋寅泰](https://open.spotify.com/album/4xX4Q5OGZ00WNauhglHT8I) | 4:22 | 2023-08-03 | 2023-09-01 |
 | [Mononoke Kyoto](https://open.spotify.com/track/4wDQ1fxncnI7AzqD7TNEWB) | [MNNK Bro.](https://open.spotify.com/artist/2V9hCxzluWeF6gepmvKZWo), [Takashi Murakami](https://open.spotify.com/artist/4Pj5KU6cveEf8JPb4tlhCm), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Mononoke Kyoto](https://open.spotify.com/album/5RCC8yqpCdwCrhrmD8oRob) | 3:32 | 2024-07-09 | 2024-08-23 |
-| [MONTAGE](https://open.spotify.com/track/7hwz1fPvXb2k5JkY2Wb0BZ) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [MONTAGE \(Special Edition\)](https://open.spotify.com/album/1TkJgkpd1WqRqF9I1e25oK) | 3:02 | 2025-05-29 |  |
+| [MONTAGE](https://open.spotify.com/track/7hwz1fPvXb2k5JkY2Wb0BZ) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [MONTAGE \(Special Edition\)](https://open.spotify.com/album/1TkJgkpd1WqRqF9I1e25oK) | 3:02 | 2025-05-29 | 2025-06-24 |
 | [Moon](https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK) | 3:01 | 2023-08-17 | 2023-12-08 |
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2024-12-04 | 2025-01-17 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-09-21 | 2024-10-04 |
@@ -352,6 +352,7 @@
 | [SAKURA](https://open.spotify.com/track/7mt66OyghItqZbTrepdvgc) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 4:34 | 2024-02-13 | 2024-03-29 |
 | [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 | 2024-10-17 | 2025-01-24 |
 | [Samsa](https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [Samsa](https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH) | 3:32 | 2023-05-09 | 2023-12-08 |
+| [Sayonara](https://open.spotify.com/track/7asq1uhwGEeeljOGQbgDEl) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Gen](https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch) | 3:24 | 2025-06-23 |  |
 | [SCOPE](https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp) | 2:55 | 2025-01-16 | 2025-02-21 |
 | [Seeing Stars](https://open.spotify.com/track/3ZKKYwnkAnnLRT0WarwJzb) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [Seeing Stars](https://open.spotify.com/album/6NAp5C3DoGEW1f6I8dE0RK) | 3:27 | 2025-02-27 | 2025-04-09 |
 | [Send To You](https://open.spotify.com/track/2cZykG7K1deBkOsObi59s8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Send To You](https://open.spotify.com/album/4ghKPVs9oz6DKp1z2ItDdn) | 3:42 | 2025-02-27 | 2025-05-09 |

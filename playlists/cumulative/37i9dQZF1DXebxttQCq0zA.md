@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-532 songs - 1 day 2 hr 30 min
+533 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Onyx](https://open.spotify.com/track/3gXsGCfJpLS8WDUP6jfOCH) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 5](https://open.spotify.com/album/1rwLMZEmA0AK34SMAHyh1m) | 2:13 | 2022-05-25 | 2022-09-28 |
 | [Opaque](https://open.spotify.com/track/0n7cjB7t74Vq7l0gXBmfH8) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Opaque](https://open.spotify.com/album/226NWzxnTuE8IeVl1bVgp7) | 2:37 | 2025-01-08 |  |
 | [Opening Skies](https://open.spotify.com/track/2d634QA1iA1WwWN8h0kCgO) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Opening Skies](https://open.spotify.com/album/6uMHOH5aHwAFbBDUijneGG) | 3:09 | 2022-12-06 | 2025-04-16 |
+| [Orbital Feelings](https://open.spotify.com/track/2d1LkZmuwfVYYQfZvZOISZ) | [Luca Kerr](https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap) | [Orbital Feelings](https://open.spotify.com/album/1Q7DrtzmfZVf6qTyDECF0b) | 2:52 | 2025-06-23 |  |
 | [Origami](https://open.spotify.com/track/4ScsYR6E4wg3gFFMd8LEJG) | [Regentum](https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc) | [Origami](https://open.spotify.com/album/02X5Fl5UDoVr2WAb2bJ64g) | 2:22 | 2022-05-25 | 2024-09-19 |
 | [Orison](https://open.spotify.com/track/2fERvzKQLVqxbueMfqa4Ei) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Orison](https://open.spotify.com/album/2qqqq5AqMXT5g0W5Kw4KSD) | 2:57 | 2025-01-17 |  |
 | [Our Secret Universe](https://open.spotify.com/track/5IIZnkPmHE3Kpa5mptrKVD) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/0gPXYxrGPArkcbUDWUkYYi) | 2:22 | 2022-05-25 | 2022-07-29 |

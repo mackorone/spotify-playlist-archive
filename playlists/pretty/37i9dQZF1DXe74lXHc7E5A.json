@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Cardi B",
-  "num_followers": 35256,
+  "num_followers": 35270,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2025-06-20 00:01:18",
       "album": {
-        "name": "Press 2",
-        "url": "https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL"
-      },
-      "artists": [
-        {
-          "name": "4K & SYDER",
-          "url": "https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Press 2",
-      "url": "https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm"
-    },
-    {
-      "added_at": "2025-06-20 00:01:18",
-      "album": {
         "name": "Sex Over Love (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2025-06-20 00:01:18",
+      "album": {
+        "name": "Press 2",
+        "url": "https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL"
+      },
+      "artists": [
+        {
+          "name": "4K & SYDER",
+          "url": "https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Press 2",
+      "url": "https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm"
     }
   ],
   "unique_name": "Hype List",

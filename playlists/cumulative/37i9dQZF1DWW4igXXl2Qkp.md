@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:0p2aFROS95bdLkYYL0pYSz">Lil Novi<br/></a>
 
-1,856 songs - 3 day 7 hr 46 min
+1,857 songs - 3 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1640,6 +1640,7 @@
 | [THUGGIN NOT CLUBBIN](https://open.spotify.com/track/5XKykbx4PClLewzOvlb2JX) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [THUGGIN NOT CLUBBIN](https://open.spotify.com/album/6XKQ5hbDwFImvujXhPwpKZ) | 2:29 | 2025-05-07 |  |
 | [Thugz Dont Cry](https://open.spotify.com/track/7gGJyJ3Ft5xRn2JHdrd62N) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [GRASSWAYZ](https://open.spotify.com/album/6BC6u8kIWICEcamEVUN3yM) | 2:45 | 2022-03-09 | 2023-01-12 |
 | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/track/080ycKBJ1LcOY0Q5UKAGf6) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [DON'T CALL THIS LUCK, THAT'S DISRESPECTFUL](https://open.spotify.com/album/0S6F6t2LaifS3ATo6N1Dmx) | 3:02 | 2024-03-20 | 2025-01-16 |
+| [Timbs](https://open.spotify.com/track/2335NKAem2MjgYP139UqWq) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Ashswervo](https://open.spotify.com/artist/2Dqx77HiKrzZql64VXQ1uH) | [Timbs](https://open.spotify.com/album/2ON0p0iq7O5l43B5FuO75m) | 2:01 | 2025-06-24 |  |
 | [Time](https://open.spotify.com/track/3zJJi2XzJCDt0gI9x14ux7) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [Time](https://open.spotify.com/album/3TpZWa3ApcGPGI0eJTKAfx) | 2:30 | 2025-03-07 | 2025-03-13 |
 | [Time Away](https://open.spotify.com/track/7mJFpjuA85IyMmsHflTwX3) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Time Away](https://open.spotify.com/album/0Tk1KpRvKLUC00wWoayxVj) | 3:17 | 2022-02-03 | 2023-01-12 |
 | [Time Lost](https://open.spotify.com/track/4nEW595LAMPzRpkEJaDtDh) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE) | [Time Lost](https://open.spotify.com/album/1oDjaZuzYA2AR2UBeUYzlu) | 2:41 | 2023-08-02 | 2023-09-21 |

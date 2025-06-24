@@ -4,7 +4,7 @@
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb?si=I3LD\_dX5RrKdubQlHWqEbw">Anabel Rose</a>\. Artwork: Isu Kim.
 
-1,334 songs - 2 day 18 hr 42 min
+1,335 songs - 2 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Energy](https://open.spotify.com/track/2VlGwDbdEUrV1sWPtMG9pz) | [Da\_Kudu](https://open.spotify.com/artist/4TIVFHjglPyRyjBzejy5Gn), [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz), [Kbrizzy](https://open.spotify.com/artist/1Xoq1ablrkXxmFHR8l5vMc) | [Energy](https://open.spotify.com/album/67U8mjwFr3JMI0V1NjGglA) | 3:21 | 2025-01-23 | 2025-06-05 |
 | [ENGLISH](https://open.spotify.com/track/1okLhQDVe8K8gw1Z3jIrhG) | [Blaqdee](https://open.spotify.com/artist/1ngLIjM1swqQ0EbSSZvusX) | [ENGLISH](https://open.spotify.com/album/4IrtkGoCvarJVQI9DBwRe0) | 2:34 | 2024-08-07 | 2024-09-05 |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-09-30 | 2023-01-26 |
+| [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 | 2025-06-23 |  |
 | [Eternally](https://open.spotify.com/track/0fsrY2qGpYmrND4YQ8CMkd) | [Ras Amor](https://open.spotify.com/artist/196LafXHcjwZnGudGOtcA4), [Clef and Bandana](https://open.spotify.com/artist/6L9ozVfc8eSTGizeNQaULu) | [Kitoweo](https://open.spotify.com/album/2l2mHQtyUdRlElgOhCeObv) | 2:58 | 2023-06-05 | 2023-06-28 |
 | [Even Now](https://open.spotify.com/track/1RMdumhQpTx7yz568OeJJO) | [Bye Beneco](https://open.spotify.com/artist/3kMHWNlRYrb3c6NpmP8EQh) | [Even Now](https://open.spotify.com/album/4uHZWWIcq3N1cYG0C0siyV) | 4:14 | 2022-09-02 | 2022-10-01 |
 | [Eventually](https://open.spotify.com/track/0CibNAlHHhRQk4QVnlwIzE) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Eventually](https://open.spotify.com/album/71Iee29vZ9ndmjzkG5XGiE) | 4:03 | 2024-09-04 | 2024-10-05 |

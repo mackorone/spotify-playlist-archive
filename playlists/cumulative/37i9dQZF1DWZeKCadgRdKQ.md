@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-912 songs - 1 day 22 hr 1 min
+917 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [circles](https://open.spotify.com/track/5PEzT7NREhifSvdJLkw2Ej) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [circles](https://open.spotify.com/album/1Wgo3Tv0kfagdzqQssSXDT) | 2:32 | 2022-09-14 | 2024-05-12 |
 | [circumstances](https://open.spotify.com/track/47ibywRXe3EGtaL4ZVhvzL) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [circumstances](https://open.spotify.com/album/25FbBy8pGrv6tbZvk3HN4r) | 3:12 | 2023-04-14 | 2024-11-22 |
 | [Cityscape](https://open.spotify.com/track/3LoFjJPs1qXJMtMwPb3pgX) | [Blissouro](https://open.spotify.com/artist/4262jC8poLhGRjavBXqcXu) | [Cityscape](https://open.spotify.com/album/3batvhEoXlgp367zZYUhyj) | 2:00 | 2024-06-11 |  |
+| [Clarity](https://open.spotify.com/track/1UPkqj7fza1v8TcGsPGH9c) | [Kirala Heights](https://open.spotify.com/artist/4Q9spaJvvcoT4KLXUNmsS3) | [Clarity](https://open.spotify.com/album/5JWzS8i5VQ3B7m8nNfJpby) | 2:40 | 2025-06-23 |  |
 | [Clarus](https://open.spotify.com/track/546z2s6Gwp0HKXhNNteaL6) | [kinshū\_91](https://open.spotify.com/artist/4D8GTgi3UMksbvkGjyXykD) | [Clarus](https://open.spotify.com/album/16n6nALovr8PD0VS0YbCP4) | 3:24 | 2024-11-21 |  |
 | [Clear Language](https://open.spotify.com/track/0JGfoZbSvYQiPVQQQSSxmr) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/3W9oDXNed8I4RJiQek5vkE) | 3:13 | 2019-06-19\* | 2021-09-03 |
 | [Clear Skies](https://open.spotify.com/track/7bKMZYXVYzGMvnHiRDCmjy) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Clear Skies](https://open.spotify.com/album/7zMMG77EqxVA5SkyVTx74m) | 2:42 | 2019-06-19\* | 2023-08-25 |
@@ -169,11 +170,13 @@
 | [Coming Home](https://open.spotify.com/track/30ACOtgBj1PqZs1erzFZkU) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Coming Home](https://open.spotify.com/album/2mzEZ3vrrDLk3pA381vWiG) | 2:52 | 2020-01-03 | 2024-03-27 |
 | [common ground](https://open.spotify.com/track/5HC0WyQ41Ji4nmztSLbGsl) | [The Dawning](https://open.spotify.com/artist/4ev14fn325vhWuykve3QtA) | [common ground](https://open.spotify.com/album/5pZLCFVwMNEVsvZ4wLPtaz) | 2:36 | 2024-06-11 | 2025-04-02 |
 | [Conception](https://open.spotify.com/track/5hKhlMFQtrntz30Osay5BA) | [Theo Ember](https://open.spotify.com/artist/5D2aedk5p3rkUVfU4c72uR) | [Conception](https://open.spotify.com/album/1a5sbWpRuWvIKJdCoblgvV) | 2:24 | 2025-02-28 |  |
+| [Connected](https://open.spotify.com/track/1pWhvWECra5pDya4mMSIYS) | [William Reed](https://open.spotify.com/artist/62TYFSmuHJr3QblYwgJq76) | [Connected](https://open.spotify.com/album/0JTZ5Tiwwn9mCUfSEmkHXS) | 2:14 | 2025-06-23 |  |
 | [Consistency](https://open.spotify.com/track/6W6yNawhIyfAQQ4TfyuFRB) | [NK\-67](https://open.spotify.com/artist/11TxJf8mz0gmLUK050PyGU) | [Consistency](https://open.spotify.com/album/3j25ulDHGAZEhgYebIqfdL) | 3:00 | 2019-05-26\* | 2019-06-19 |
 | [Constellations](https://open.spotify.com/track/7bdOUAifgoRKyRn5ViedHA) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Constellations](https://open.spotify.com/album/24VJhnMBaEonFPsZrGlPAq) | 2:35 | 2024-04-07 | 2024-09-03 |
 | [Cotton Spheres](https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Cumulus Motion](https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O) | 2:54 | 2019-07-31 | 2022-11-18 |
 | [Courage In Her Pocket](https://open.spotify.com/track/1VudPxVidEtmdV0VqDNXJ4) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Courage In Her Pocket](https://open.spotify.com/album/3Dk9dKPZo1KaTwcXE3zXMx) | 3:38 | 2019-06-19\* | 2020-08-07 |
 | [Crash Deconstructed](https://open.spotify.com/track/0EwMHP2uK5iHQO2iOSaFHP) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [The Motion Makes Me Last](https://open.spotify.com/album/2xDTjKJoNBXF3g8pFiV5Vx) | 5:36 | 2019-05-26\* | 2019-06-19 |
+| [Crescent](https://open.spotify.com/track/4RAT0uogYoLWaQP0v5XloR) | [Arnar Egilsson](https://open.spotify.com/artist/1zpMLqhMMTg2vzSf5BC5eI) | [Crescent](https://open.spotify.com/album/5pc7o7NPMx04mXU3tA7nvn) | 2:20 | 2025-06-23 |  |
 | [Cross Breeze](https://open.spotify.com/track/7zz5IrS3bi6CIA1otDVQRN) | [Gabriel Stone](https://open.spotify.com/artist/2n5cofsnSYMHUF8C9TmIA1) | [Cross Breeze](https://open.spotify.com/album/3K2x3IInFct8WlW9vLIMBH) | 2:32 | 2024-11-06 | 2025-04-24 |
 | [Crossing](https://open.spotify.com/track/08Q4GyxnB8ak1ZwHnjwova) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Crossing](https://open.spotify.com/album/3FljiBhzr6zWL9zymtBkpV) | 2:33 | 2020-08-07 | 2021-10-21 |
 | [Crossroads](https://open.spotify.com/track/7oVpG07XJA05lp2Qd4pUL4) | [Özone One](https://open.spotify.com/artist/4OCpAOPZviS8AW5gyBNn26) | [Crossroads](https://open.spotify.com/album/1zqIwHpETyHuwb92VSJYhq) | 2:10 | 2025-01-21 |  |
@@ -243,6 +246,7 @@
 | [Entropy](https://open.spotify.com/track/7IQiA0AS6H75uULh09EoHp) | [Antonio Roberto](https://open.spotify.com/artist/1MPnkkIDlbT3ZoryQbOiyc) | [Entropy](https://open.spotify.com/album/0TUnPJbHP1krkbxOoTzFr9) | 2:03 | 2024-08-02 |  |
 | [Epilogue](https://open.spotify.com/track/6y0lVyrMuMfpOLBBItogIT) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 4:17 | 2019-07-31 | 2021-09-14 |
 | [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 | 2023-02-10 | 2024-11-07 |
+| [Escapade](https://open.spotify.com/track/6GcJticUpjHVl4ZrL97jhG) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [Escapade](https://open.spotify.com/album/20jPQhCIdrpSdrHfS1xNnG) | 2:24 | 2025-06-23 |  |
 | [Escape](https://open.spotify.com/track/3B5CmP4afMVgLJeDvc6ivW) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 1:25 | 2019-06-19\* | 2021-09-03 |
 | [Escaping Time](https://open.spotify.com/track/7JrSIPcfkWhDzxWII8Jz7V) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Floating](https://open.spotify.com/album/3ppEryBS6RaQDTrwmqB8n8) | 3:20 | 2020-01-03 | 2022-10-15 |
 | [Essential Attitudes](https://open.spotify.com/track/0T3UHut7JmCi5jcgYiMawm) | [Peals](https://open.spotify.com/artist/1eOmGaF7cvbx9hw6rgBqYO) | [Honey](https://open.spotify.com/album/2MiSdnbNeUkcQA6i7iyp3v) | 3:37 | 2019-09-14 | 2021-09-04 |
@@ -354,6 +358,7 @@
 | [Hidden Treasure](https://open.spotify.com/track/06mrX3LFC65jmule6OhXrC) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Hidden Treasure](https://open.spotify.com/album/5HeNHty2K7vr0jJAX5CGNX) | 2:16 | 2025-05-21 |  |
 | [High Up](https://open.spotify.com/track/794SxkpLERVaBoag5946LG) | [Mirror Inside](https://open.spotify.com/artist/7qoAxsJr24mbtIRupSaI3Z) | [High Up](https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx) | 2:18 | 2021-09-09 | 2024-05-12 |
 | [Highs And Lows](https://open.spotify.com/track/7gPzgxkK1cUiF5jlhgDyDV) | [Airwaves](https://open.spotify.com/artist/46y7tUi3QWFMElXSyMyYvf) | [Event Horizon](https://open.spotify.com/album/0RulKn45TE6lNROR1jvxDm) | 4:53 | 2019-06-19\* | 2019-06-27 |
+| [Hikari Drift](https://open.spotify.com/track/7AIBigbuussGOQJz5EXhPZ) | [novi quiet](https://open.spotify.com/artist/72ZfPWCuSwGhp2YIFbrGsK) | [Hikari Drift](https://open.spotify.com/album/4dnbxrT96hDJrP20VyP5zQ) | 2:21 | 2025-06-23 |  |
 | [Hiking](https://open.spotify.com/track/6ewlF5IJizIAwNwtJJ0L77) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 1:06 | 2019-06-19\* | 2020-06-06 |
 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 | 2021-12-09 | 2024-05-12 |
 | [Hold the Handle](https://open.spotify.com/track/49K00nm3DD6HZwQg2I4HmP) | [Forest Landing](https://open.spotify.com/artist/08v4nyzPeP6HFSIsk0ELKV) | [Hold the Handle](https://open.spotify.com/album/2QkgSQMQHr1nYl2D3omcNo) | 3:28 | 2021-03-02 | 2024-05-12 |

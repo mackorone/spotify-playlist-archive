@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,282 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,296 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 6 | [Glatteis](https://open.spotify.com/track/2hP1NjQ0P5B0B5yB2IMf6q) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:22 |
 | 7 | [JETZT ERST RECHT](https://open.spotify.com/track/0hJKETb6BCjXfZYibKzS20) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [FOTZE](https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo) | 2:13 |
 | 8 | [Ärger](https://open.spotify.com/track/2ZpNVf05uVzubaPX6Sd2VK) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Ärger](https://open.spotify.com/album/0MJuSV0gjcCU5Cel4SziGO) | 1:43 |
-| 9 | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/track/1DYnNZmmGbZ02Ok0QPM8ig) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT) | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/album/6k2e9mpEoH2aA6JAQ6oY1g) | 2:05 |
-| 10 | [ICH GEH MIT MIR](https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ICH GEH MIT MIR](https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb) | 3:07 |
+| 9 | [ICH GEH MIT MIR](https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ICH GEH MIT MIR](https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb) | 3:07 |
+| 10 | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/track/1DYnNZmmGbZ02Ok0QPM8ig) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT) | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/album/6k2e9mpEoH2aA6JAQ6oY1g) | 2:05 |
 | 11 | [Schlimmster Mensch der Welt](https://open.spotify.com/track/5BSwfudT5otTmLorKncQdi) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Schlimmster Mensch der Welt](https://open.spotify.com/album/6BNJB42hjoBQaG3swmFuVt) | 2:37 |
 | 12 | [Arschloch](https://open.spotify.com/track/7zrONlmULDcVEi5Z1yrHkz) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Arschloch](https://open.spotify.com/album/4Kr76gbMDTFr2uFVEyB3nQ) | 3:16 |
 | 13 | [wenn's am schönsten ist](https://open.spotify.com/track/4fZYJSpK32o3CeWPByulUj) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wenn's am schönsten ist](https://open.spotify.com/album/1O9pMaZ82BwU6cb7nCO9WG) | 2:16 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [unser lied](https://open.spotify.com/track/0a2gvL98YB0h8RWA6hRW8v) | [Lea Marie](https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk) | [unser lied](https://open.spotify.com/album/0xAE78zodQkxrX3YvR82nc) | 2:23 |
 | 30 | [rio \(freestyle\)](https://open.spotify.com/track/79vgCEXXq7mAhx3glHEnRF) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [rio \(freestyle\)](https://open.spotify.com/album/20ePOXAZ866l5W4gkaR2Ut) | 1:59 |
 | 31 | [Deja Vu](https://open.spotify.com/track/36WVLNjvMUk2ZXDFQP54i0) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Deja Vu](https://open.spotify.com/album/3qxBxy4Yg6CsEx7SRL467L) | 2:24 |
-| 32 | [Healing](https://open.spotify.com/track/4ilObt2d81ny3mrhkHiThh) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Healing](https://open.spotify.com/album/3mAeleHsO986ZPtRTd2I8X) | 2:58 |
-| 33 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 |
+| 32 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 |
+| 33 | [Healing](https://open.spotify.com/track/4ilObt2d81ny3mrhkHiThh) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Healing](https://open.spotify.com/album/3mAeleHsO986ZPtRTd2I8X) | 2:58 |
 | 34 | [PILOT](https://open.spotify.com/track/2NqVNlEi1EURj6acNnjs7W) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [PILOT](https://open.spotify.com/album/6JjgeAEOPAR84qwQrB1SeQ) | 3:24 |
 | 35 | [Polarität](https://open.spotify.com/track/2McjdvztjQZyJQT3bYsSkq) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Polarität](https://open.spotify.com/album/3yfk9gv4M8GP3AJfP99ZBq) | 2:10 |
 | 36 | [Luftmatratze](https://open.spotify.com/track/75nKqTGkhBZrGWD7Tx0kTw) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Luftmatratze](https://open.spotify.com/album/2SLwigOmRvIBuY241sDf9t) | 2:40 |

@@ -1285,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425826,
+      "name": "L'Aventure",
+      "url": "https://open.spotify.com/track/5Qkpx9HRmX237Q8kpnLTnx"
+    },
+    {
+      "album": {
         "name": "Avalon Sutra (2013 Remaster)",
         "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
@@ -1376,7 +1398,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 234053,
       "name": "Long Light",
       "url": "https://open.spotify.com/track/7tb3d1uH2yL7duAMQPP19G"
@@ -1508,7 +1530,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 100106,
       "name": "Momentary Architecture",
       "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
@@ -1846,7 +1868,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 334266,
       "name": "Sandtreader",
       "url": "https://open.spotify.com/track/3FJoVDx4afHl2IE9FGn0zJ"

@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2025\. Cover: ALLMO$T
+> Discover new artists on the horizon this 2025\. Cover: BGYO
 
-267 songs - 15 hr 58 min
+271 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alam Ko Na](https://open.spotify.com/track/5sxzyd1SIx7COY68mfEO3y) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:00 | 2023-11-29 | 2024-01-12 |
 | [Alam Ko Na](https://open.spotify.com/track/6deBk1BSZkEO7WxvXKnqOZ) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW) | [Alam Ko Na](https://open.spotify.com/album/72zUZYts2xtMDdOS02vOSw) | 4:00 | 2023-04-13 | 2024-04-03 |
 | [Alam Mo Ba Girl](https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:43 | 2024-04-02 | 2025-03-28 |
+| [All These Ladies](https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [All These Ladies](https://open.spotify.com/album/0ZJrY2IPQAJdqPDaTPsEpQ) | 3:47 | 2025-06-23 |  |
 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 | 2022-03-24 | 2023-04-14 |
 | [Andito Lang](https://open.spotify.com/track/1vexzmQHWgUxeHds1ICxV5) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Andito Lang](https://open.spotify.com/album/4Ekyc9KGDcQumJUo9vyJuF) | 2:46 | 2025-03-27 |  |
 | [Ang Galing DITO](https://open.spotify.com/track/0LAX5IcN1i2aDWXqW0Tsap) | [DITO Telecommunity](https://open.spotify.com/artist/5dvhvdiS3UKaAJ74swZo8H), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Ang Galing DITO](https://open.spotify.com/album/0SlJFK6OHKamPywLwROwaI) | 2:24 | 2024-02-21 | 2024-04-03 |
@@ -170,6 +171,7 @@
 | [Nilalang](https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Nilalang](https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY) | 3:29 | 2025-03-27 |  |
 | [Oksihina](https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Oksihina](https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29) | 3:24 | 2024-04-02 | 2025-03-28 |
 | [One Time](https://open.spotify.com/track/6Rg6eqYIQWJv8eBoUE3bz7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [One Time](https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re) | 3:00 | 2025-03-27 |  |
+| [otw](https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw](https://open.spotify.com/album/1yRluH890LAb0yIo1Ce2GV) | 3:32 | 2025-06-23 |  |
 | [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 | 2024-04-02 | 2025-03-28 |
 | [Pagbilang Ng Tatlo](https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Pasahili](https://open.spotify.com/album/1ap5tsIDusVksftqQzTSQL) | 3:16 | 2022-10-27 | 2022-12-01 |
 | [Pagdali](https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Pagdali](https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ) | 3:33 | 2024-02-21 | 2024-04-03 |
@@ -205,6 +207,7 @@
 | [Samokan](https://open.spotify.com/track/5k8Qkzwec8v2QjFOdGJeHI) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Samokan / Called Ur Bluff](https://open.spotify.com/album/3HBAQ3u2uez5BFfrzyIkzA) | 2:57 | 2021-11-25 | 2022-03-25 |
 | [Sandal](https://open.spotify.com/track/5LkJokf6VTL6eQBNskJM6W) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Sandal](https://open.spotify.com/album/5BpZBtcQWxONxQzHHYzsDC) | 3:17 | 2023-10-02 | 2024-04-03 |
 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 | 2023-08-30 | 2024-04-03 |
+| [Seenta](https://open.spotify.com/track/576fRkp8DrsDrEbxFZ6Urw) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Seenta](https://open.spotify.com/album/7xU2BhoPl6GH6Z8RlCXzRQ) | 3:16 | 2025-06-23 |  |
 | [sementeryo](https://open.spotify.com/track/7CGUHkmCRap32eFjXFaV1s) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [sementeryo](https://open.spotify.com/album/4UbSOWtgTWW7z9Qw6Ykplv) | 3:06 | 2025-03-27 |  |
 | [Serve](https://open.spotify.com/track/1EEv8UZMGJ9rG3N1Ilo5bz) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu) | [Serve](https://open.spotify.com/album/3gqsWIpaaH4dlSB7hx5PRc) | 3:13 | 2025-03-27 |  |
 | [SEXBOMB GIRL](https://open.spotify.com/track/5TZATzxD16hCmPiuokUgaa) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [SEXBOMB GIRL](https://open.spotify.com/album/50iZdZCELPzNbVFDSgb9zF) | 3:27 | 2021-11-25 | 2022-03-25 |
@@ -215,6 +218,7 @@
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-04-02 | 2025-03-28 |
 | [Sinag \(feat\. Sam Benwick\)](https://open.spotify.com/track/5DARNIgi6aaJxGD5SKAUal) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Sam Benwick](https://open.spotify.com/artist/2Zsn09Mt6kHdipblDeVaF9) | [Sinag \(feat\. Sam Benwick\)](https://open.spotify.com/album/4gBNPqTdgUJr2Box5PO8WM) | 4:28 | 2022-08-12 | 2022-12-01 |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-07 | 2025-03-28 |
+| [Sink](https://open.spotify.com/track/2YgkzkCXMHLUAlCyomymc7) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Sink](https://open.spotify.com/album/2n8eGRpSFWWRml7x0g7j2m) | 4:00 | 2025-06-23 |  |
 | [Slow Burn](https://open.spotify.com/track/4Vc9QBoqlzWzDNEHwwKKTU) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Slow Burn](https://open.spotify.com/album/0Yb4SCZrLJYzxS3muoDYUl) | 2:18 | 2024-04-02 | 2025-03-28 |
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-08-28 | 2024-04-03 |
 | [Soul Ties](https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Soul Ties](https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU) | 3:58 | 2023-04-13 | 2024-04-03 |

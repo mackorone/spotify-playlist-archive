@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 151106,
       "name": "4 Seasons",
       "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 160146,
       "name": "How could I say",
       "url": "https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB"
@@ -2257,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx"
+      },
+      "artists": [
+        {
+          "name": "DANIEL",
+          "url": "https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297591,
+      "name": "Lily of The Valley",
+      "url": "https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb"
+    },
+    {
+      "album": {
         "name": "DAFT LOVE",
         "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
       },
@@ -2402,6 +2420,24 @@
       "duration_ms": 217200,
       "name": "Love Scene",
       "url": "https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2"
+    },
+    {
+      "album": {
+        "name": "WHOEVER",
+        "url": "https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj"
+      },
+      "artists": [
+        {
+          "name": "LEEHEESANG",
+          "url": "https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266499,
+      "name": "Love Shine",
+      "url": "https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt"
     },
     {
       "album": {
@@ -2604,7 +2640,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 202579,
       "name": "MOONLIGHT",
       "url": "https://open.spotify.com/track/40wHkGZZK4ko7JIjr5jr0Q"
@@ -3758,6 +3794,28 @@
       "duration_ms": 216176,
       "name": "Stars (Song by LauRel)",
       "url": "https://open.spotify.com/track/2VKPmyruaNnjUDr4zMoNv1"
+    },
+    {
+      "album": {
+        "name": "stars burn out",
+        "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
+      },
+      "artists": [
+        {
+          "name": "cykim",
+          "url": "https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq"
+        },
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/0JyJ6hyu6CYpX6AKH9e5bv"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215852,
+      "name": "stars burn out",
+      "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
     },
     {
       "album": {

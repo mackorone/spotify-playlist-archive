@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/6j5WEmy6ljy04oNO1R1KcC"
+      },
+      "artists": [
+        {
+          "name": "Yves Labordus",
+          "url": "https://open.spotify.com/artist/64x1x1T1gFC1fUpJnFo1Cs"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133985,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/6JFnkBa32fXLaIuYWj8q5N"
+    },
+    {
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/0X3adlRMme7SEyPiBa79KJ"
       },

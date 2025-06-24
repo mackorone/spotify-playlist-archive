@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 105362,
+  "num_followers": 105384,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "Made In Turkey",
+        "url": "https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 196583,
+      "name": "AYA",
+      "url": "https://open.spotify.com/track/1d9GjRbLvVdAVBOTkwew4j"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "KONTAK (feat. Ezhel)",
         "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 158023,
       "name": "KONTAK (feat. Ezhel)",
       "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "Made In Turkey",
-        "url": "https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 196583,
-      "name": "AYA",
-      "url": "https://open.spotify.com/track/1d9GjRbLvVdAVBOTkwew4j"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Sen D\u00f6nene Kadar",
         "url": "https://open.spotify.com/album/4qWQUkpliWcfiiLulxM1Xx"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 189064,
       "name": "Sen D\u00f6nene Kadar",
       "url": "https://open.spotify.com/track/6XcQYyB6zqaQxplBPKLhi5"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Sallan",
-        "url": "https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh"
-      },
-      "artists": [
-        {
-          "name": "Xir",
-          "url": "https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2"
-        }
-      ],
-      "duration_ms": 195439,
-      "name": "Sallan",
-      "url": "https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
         "name": "Imdat",
         "url": "https://open.spotify.com/album/1ttu3fHUGU3idSzSNSGlXw"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 194609,
       "name": "Imdat",
       "url": "https://open.spotify.com/track/7nJBXYIjC16eCzC4jw8Wiw"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
+        "name": "Sallan",
+        "url": "https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh"
+      },
+      "artists": [
+        {
+          "name": "Xir",
+          "url": "https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2"
+        }
+      ],
+      "duration_ms": 195439,
+      "name": "Sallan",
+      "url": "https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "RARRii",
+        "url": "https://open.spotify.com/album/23Au28uqhjjeDOfqDWMgnT"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 167372,
+      "name": "RARRii",
+      "url": "https://open.spotify.com/track/7qGw1hPWBrbJwMdWzWjMXn"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 207986,
       "name": "MAD",
       "url": "https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "RARRii",
-        "url": "https://open.spotify.com/album/23Au28uqhjjeDOfqDWMgnT"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 167372,
-      "name": "RARRii",
-      "url": "https://open.spotify.com/track/7qGw1hPWBrbJwMdWzWjMXn"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -755,22 +755,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Seviyo Sevmiyo",
-        "url": "https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi"
+        "name": "Baby (feat. Murda)",
+        "url": "https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO"
       },
       "artists": [
         {
-          "name": "Umut Timur",
-          "url": "https://open.spotify.com/artist/650blPhpj24aloFTk941L3"
+          "name": "emir taha",
+          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
         },
         {
-          "name": "Eypio",
-          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
         }
       ],
-      "duration_ms": 172229,
-      "name": "Seviyo Sevmiyo",
-      "url": "https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2"
+      "duration_ms": 167280,
+      "name": "Baby (feat. Murda)",
+      "url": "https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -791,6 +791,26 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "Seviyo Sevmiyo",
+        "url": "https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi"
+      },
+      "artists": [
+        {
+          "name": "Umut Timur",
+          "url": "https://open.spotify.com/artist/650blPhpj24aloFTk941L3"
+        },
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "duration_ms": 172229,
+      "name": "Seviyo Sevmiyo",
+      "url": "https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "\u00dccra",
         "url": "https://open.spotify.com/album/4PypqHBUVxAuaApFq9Mbxr"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 199600,
       "name": "\u00dccra",
       "url": "https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "Baby (feat. Murda)",
-        "url": "https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO"
-      },
-      "artists": [
-        {
-          "name": "emir taha",
-          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
-        },
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Baby (feat. Murda)",
-      "url": "https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU"
     },
     {
       "added_at": "2024-07-08 08:41:13",

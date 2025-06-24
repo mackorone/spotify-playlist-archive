@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 95416,
+  "num_followers": 95504,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFX2AAAAAACSCvCH4gIwJ01yCm5yxMnT",
+  "snapshot_id": "aFdHgAAAAADRuij6IAdVpx8QUsWxzhHo",
   "tracks": [
     {
       "added_at": null,
@@ -226,11 +226,15 @@
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 134308,
-      "name": "On Your Own",
-      "url": "https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB"
+      "duration_ms": 177534,
+      "name": "Tic Tac Toe (with Ken Carson)",
+      "url": "https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ"
     },
     {
       "added_at": null,
@@ -300,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 144916,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/3OlHOWZAY88QndJOnUIXZS"
+      "duration_ms": 134308,
+      "name": "On Your Own",
+      "url": "https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB"
     },
     {
       "added_at": null,
@@ -362,15 +366,11 @@
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 177534,
-      "name": "Tic Tac Toe (with Ken Carson)",
-      "url": "https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ"
+      "duration_ms": 144916,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/3OlHOWZAY88QndJOnUIXZS"
     },
     {
       "added_at": null,

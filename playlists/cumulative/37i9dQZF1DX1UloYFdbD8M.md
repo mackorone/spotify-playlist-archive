@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Arya Dhayal
 
-348 songs - 22 hr 10 min
+349 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [KAADE](https://open.spotify.com/track/6raiMxUeHxNyOuFI3fTF9O) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp), [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI) | [KAADE](https://open.spotify.com/album/2ntdw48cZIoQiKjeC5zUSf) | 3:35 | 2025-06-16 |  |
 | [Kaadhal En Kaathil](https://open.spotify.com/track/36MXEQXB1MLx2OmlP18kUl) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn), [Suhail Koya](https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv) | [Kaadhal En Kaathil](https://open.spotify.com/album/5bjdRzGLq4CYqqaCT4zzKR) | 3:03 | 2024-11-27 | 2025-04-22 |
 | [Kaadum Malayum \- Namah](https://open.spotify.com/track/2HjByV001SgJfWwKj9WQBA) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Namah](https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew) | 5:52 | 2023-07-27 | 2024-02-19 |
+| [Kaalachakram](https://open.spotify.com/track/44ZjUym9Qz2fRW16GjwpAR) | [Jeevan](https://open.spotify.com/artist/0oh7yCPOnPJDNKTNISskNZ) | [Kaalachakram](https://open.spotify.com/album/1883QSpTkWfTqALq7RAzrE) | 2:57 | 2025-06-23 |  |
 | [Kaalam \- Hope Project](https://open.spotify.com/track/46UYJcjYixI76qsA8RBrrC) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Kaalam \(Hope Project\)](https://open.spotify.com/album/7gslmJ0SdG9UcuyznLSWty) | 3:48 | 2022-06-23 | 2024-08-13 |
 | [KAALAM MAARI/THIRICHU VERAVU](https://open.spotify.com/track/2F3T5IdWybEHp7OmlOszMx) | [MØNK](https://open.spotify.com/artist/71yVL9HsiAPlcJTwLbu1GG) | [SEASON OF SOLITUDE](https://open.spotify.com/album/5MnKW5MwBx9w7fCsUbTroA) | 3:30 | 2025-01-13 | 2025-03-18 |
 | [Kaalam Poya](https://open.spotify.com/track/1F8POVfqXiS5vKFYf6RmlT) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [Bisons](https://open.spotify.com/album/5oKqPt3aiDSoyf66MaOVxf) | 5:34 | 2023-07-27 | 2024-02-19 |
@@ -163,7 +164,7 @@
 | [Kurumulaku](https://open.spotify.com/track/5NQeWPrbqmZT63u0Zx0tyU) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Kurumulaku](https://open.spotify.com/album/5xKzpwO123l51uDepXDX7m) | 4:20 | 2025-04-25 |  |
 | [Kuzhiyaana](https://open.spotify.com/track/2wRdUfBdx5LiDs09h4YsaL) | [Alpha Laps](https://open.spotify.com/artist/6ezdtGKvFcS1U9VKcWExk9), [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m), [Sanoop.S](https://open.spotify.com/artist/1ta9W23chi8q5VHMLLkEH1), [Jinusha Mahesh](https://open.spotify.com/artist/3hcydeAnkec05nhIsrMJle) | [Kuzhiyaana](https://open.spotify.com/album/6nBOsy1LWl0ddZzwHDVOba) | 3:49 | 2025-02-19 |  |
 | [La](https://open.spotify.com/track/7foXuC1skz2laRHRCWumCA) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX) | [La](https://open.spotify.com/album/1YrVcFs6J5uegJtRMYY0vS) | 3:56 | 2024-10-21 | 2025-02-27 |
-| [Laare](https://open.spotify.com/track/6wNkbLcCCtoYEsAxmXC3yt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Laare](https://open.spotify.com/album/4oMcRv0ujnIqp0AevqBlxT) | 3:10 | 2024-09-03 |  |
+| [Laare](https://open.spotify.com/track/6wNkbLcCCtoYEsAxmXC3yt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Laare](https://open.spotify.com/album/4oMcRv0ujnIqp0AevqBlxT) | 3:10 | 2024-09-03 | 2025-06-24 |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 | 2023-07-28 |
 | [Life Is Adipoli](https://open.spotify.com/track/1RmS3bsRhBJ6WdCb35AxYO) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Sajan CR](https://open.spotify.com/artist/7BLGlfpsC12N56HAhcI6ni), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Life Is Adipoli](https://open.spotify.com/album/19NF3iqqpzCUwkSfKXTK6y) | 4:02 | 2024-06-28 | 2024-12-07 |
 | [LOVESICK](https://open.spotify.com/track/2FJd24vjgpvd3C0WK4ZwAA) | [Dev](https://open.spotify.com/artist/6QRkI9RqfSzE0VAjqAvB2T) | [KALEIDOSCOPE](https://open.spotify.com/album/4BDnFfBd0mqYdWcpyIBYZQ) | 5:13 | 2024-08-27 | 2025-02-04 |

@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Diljit Dosanjh
 
-328 songs - 17 hr 52 min
+329 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Raaz Keh Gaye](https://open.spotify.com/track/2XOXP3hSor8znselDEDnRC) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Raaz Keh Gaye](https://open.spotify.com/album/36AxHDQXAc4KY5Wo9c3wB3) | 4:25 | 2024-08-09 | 2024-09-10 |
 | [Rang](https://open.spotify.com/track/38rj3cH6qGnUfqVixVOwBm) | [Rahim Pardesi](https://open.spotify.com/artist/1KapWiZY2dgci5Ual0ELOr), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Rang](https://open.spotify.com/album/6oG3HDO8Jg2E6ep2r2M3s9) | 3:08 | 2021-11-11 | 2022-07-19 |
 | [Rani Recognize](https://open.spotify.com/track/3xGkrOvTy1zdr86oopxcju) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Rani Recognize](https://open.spotify.com/album/57QZa4wFbyq9sZ0iOIcJNA) | 3:16 | 2021-11-11 | 2022-07-19 |
+| [Regardless](https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Regardless](https://open.spotify.com/album/6vbJkwWBaS7iKBHfQJM9ua) | 3:44 | 2025-06-23 |  |
 | [Regardless \(feat\. Robin Dey\)](https://open.spotify.com/track/6HJzJTpVgdPN40eI3BfHQT) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Robin Dey](https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk) | [Denied](https://open.spotify.com/album/1RhKQmiNc2NqRMftCAvnoV) | 3:12 | 2022-07-18 | 2024-02-23 |
 | [Rich & Famous](https://open.spotify.com/track/2yvvfqZh98OuOA62Y33IwN) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [Rich & Famous](https://open.spotify.com/album/22aqHFHsGdiLWkcyGj2fxK) | 2:14 | 2025-03-18 |  |
 | [Right Now](https://open.spotify.com/track/1HLQtBivQjO3uXD90KUd1f) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Paradox](https://open.spotify.com/album/4LavhFaMS15dJlY57Dun7Y) | 1:56 | 2021-11-11 | 2022-07-19 |

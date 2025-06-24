@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Nilüfer ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,709 likes - 106 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,702 likes - 106 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

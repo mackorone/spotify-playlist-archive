@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Bring Your Love / Angel Eyes",
+        "url": "https://open.spotify.com/album/2O5qigf4jDcHkhU4l7jRyb"
+      },
+      "artists": [
+        {
+          "name": "The Charities",
+          "url": "https://open.spotify.com/artist/6sj6p5wxfR9ueVEp93RRBf"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150815,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/4EVkYQKxqD5JgdFSkyMjaS"
+    },
+    {
+      "album": {
         "name": "Anyone In Love",
         "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
@@ -5124,7 +5142,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 202573,
       "name": "Lucid Girl",
       "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
@@ -5540,7 +5558,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 163813,
       "name": "My Heart is Drowning",
       "url": "https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5"

@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with Armin van Buuren",
-  "num_followers": 377589,
+  "num_followers": 377960,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1967,30 +1967,6 @@
     {
       "added_at": "2025-06-20 04:00:52",
       "album": {
-        "name": "Angel In The Dark",
-        "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 199335,
-      "name": "Angel In The Dark",
-      "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
-    },
-    {
-      "added_at": "2025-06-20 04:00:52",
-      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -2043,6 +2019,30 @@
       "duration_ms": 178125,
       "name": "Alibi - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/28mTF5uRWpndySLabPPTZL"
+    },
+    {
+      "added_at": "2025-06-20 04:00:52",
+      "album": {
+        "name": "Angel In The Dark",
+        "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 199335,
+      "name": "Angel In The Dark",
+      "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
     },
     {
       "added_at": "2025-06-20 04:00:52",
@@ -2155,22 +2155,26 @@
     {
       "added_at": "2025-06-20 04:00:52",
       "album": {
-        "name": "The Chant",
-        "url": "https://open.spotify.com/album/14cDD5QjVN1LxYtiS5bzHI"
+        "name": "house in the streetlight",
+        "url": "https://open.spotify.com/album/0zaBQVn70gLIwHrKto8ViF"
       },
       "artists": [
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
         },
         {
-          "name": "Ryos",
-          "url": "https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M"
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
         }
       ],
-      "duration_ms": 217070,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/51iiwYPDTDrOTMPct3wlW5"
+      "duration_ms": 175113,
+      "name": "house in the streetlight",
+      "url": "https://open.spotify.com/track/2oKH22tSUiqdjDSUhnWz0t"
     }
   ],
   "unique_name": "EDM 2025",

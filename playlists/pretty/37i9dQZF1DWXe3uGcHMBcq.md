@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 
 > There's another 104 days of summer vacation to sing\-along to your favorite Disney Channel hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,743 likes - 185 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,737 likes - 185 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

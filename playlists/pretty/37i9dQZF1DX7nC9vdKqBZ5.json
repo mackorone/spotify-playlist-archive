@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1516004,
+  "num_followers": 1515992,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Apenas Mais uma de Amor",
+      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Apenas Mais uma de Amor",
-      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Gostosin (Acoustic)",
-        "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        },
-        {
-          "name": "Ventura",
-          "url": "https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF"
-        }
-      ],
-      "duration_ms": 180333,
-      "name": "Gostosin (Acoustic)",
-      "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Essas Can\u00e7\u00f5es de Amor (N\u00e3o Reclamo)",
         "url": "https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 259058,
       "name": "Essas Can\u00e7\u00f5es de Amor (N\u00e3o Reclamo)",
       "url": "https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Gostosin (Acoustic)",
+        "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        },
+        {
+          "name": "Ventura",
+          "url": "https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Gostosin (Acoustic)",
+      "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
     },
     {
       "added_at": "2024-08-02 18:37:00",

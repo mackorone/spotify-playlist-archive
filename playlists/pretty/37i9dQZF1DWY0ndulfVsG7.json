@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 60285,
+  "num_followers": 60298,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
+        "name": "Kenyataan Perasaan",
+        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
+      },
+      "artists": [
+        {
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
+        }
+      ],
+      "duration_ms": 270671,
+      "name": "Tapi Bukan Aku",
+      "url": "https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 273120,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "Kenyataan Perasaan",
-        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
-      },
-      "artists": [
-        {
-          "name": "Kerispatih",
-          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
-        }
-      ],
-      "duration_ms": 270671,
-      "name": "Tapi Bukan Aku",
-      "url": "https://open.spotify.com/track/0BrH4b7su9uLELM1h5Xlzw"
     },
     {
       "added_at": "2024-11-29 03:37:32",

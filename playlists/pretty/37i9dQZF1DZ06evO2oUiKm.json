@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 9823,
+  "num_followers": 9829,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFX2AAAAAADlSuNVr5MT5TqEjimEhw59",
+  "snapshot_id": "aFdHgAAAAAC0yRCffo+nwFVInr3CO792",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 68101,
-      "name": "I Want You - Interlude",
-      "url": "https://open.spotify.com/track/6Hur7QmuHJsPG59BNRw1pn"
+      "duration_ms": 43546,
+      "name": "Until You Saw Me - Interlude",
+      "url": "https://open.spotify.com/track/6yX11XqvshWi3Z2E8V24FO"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
       "duration_ms": 360527,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+        }
+      ],
+      "duration_ms": 296655,
+      "name": "At All",
+      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

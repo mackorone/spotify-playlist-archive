@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Randi Oline, Makosir & Bargee og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,959 likes - 115 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,960 likes - 115 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

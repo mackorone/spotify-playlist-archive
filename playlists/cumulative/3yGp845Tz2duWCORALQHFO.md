@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,216 songs - 7 day 6 hr 49 min
+3,217 songs - 7 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Deeper Underground](https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Deeper Underground](https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO) | 3:10 | 2024-08-16 | 2024-08-24 |
 | [Defeatist](https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Defeatist](https://open.spotify.com/album/0hEECMrMTGb1nI8G8i6qeS) | 3:34 | 2024-10-11 | 2024-10-22 |
 | [Defiance](https://open.spotify.com/track/05uemG3jbWdpnyPKuqyL2p) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Defiance](https://open.spotify.com/album/0QnuiUgPMOGPtJ3AYvPMvG) | 3:24 | 2024-10-25 | 2024-11-01 |
+| [Demons](https://open.spotify.com/track/1nBtSDXLLepwjFwcc8JvsP) | [BoGriLZ](https://open.spotify.com/artist/2ACIH5ik9pgRVw2e64Hlrk), [Christiano Jordano](https://open.spotify.com/artist/6be0ieVY8FASbDGfiTtrko) | [Demons](https://open.spotify.com/album/6TxOUW31bt6MA8DDOY0Ykk) | 5:36 | 2025-06-23 |  |
 | [Departure](https://open.spotify.com/track/1w37E0dqJ73nAm5ZVHRdoq) | [Rolo Green](https://open.spotify.com/artist/14G0lujBF81VHxi1gYt9A1) | [Departure / Arrival](https://open.spotify.com/album/3cIfNGPJbyVXXK4Tjv9a6o) | 3:58 | 2025-06-06 | 2025-06-14 |
 | [Desire](https://open.spotify.com/track/24Gv8fomuWc1usQayn2yOu) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [Desire](https://open.spotify.com/album/20zG6Tg485owXOyMzL2YND) | 3:23 | 2024-05-17 | 2024-05-25 |
 | [Desire Deja Vu](https://open.spotify.com/track/27CF0SOqYI1U05QBEcNmaY) | [3xzed](https://open.spotify.com/artist/38FLaVffjq2xiEnwoosT7g) | [Desire Deja Vu](https://open.spotify.com/album/2MgCMxsIP6qLn6mUarn3V6) | 2:41 | 2024-08-08 | 2024-08-24 |

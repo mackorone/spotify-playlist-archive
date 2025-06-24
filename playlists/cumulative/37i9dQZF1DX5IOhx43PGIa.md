@@ -2,7 +2,7 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\. Cover: Tiger La Flor
+> Illuminating Asian artists everywhere\. Cover: Deb Never
 
 1,176 songs - 2 day 13 hr 11 min
 

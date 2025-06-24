@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 32035,
+  "num_followers": 32061,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFX2AAAAAADtDjvf+8fH3e5yJkT2SF5V",
+  "snapshot_id": "aFdHgAAAAAAsDE2tO6dbVE4xrEWSHhH7",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Between: The Collection",
-        "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
+        "name": "Is This Thing Workin'",
+        "url": "https://open.spotify.com/album/5HEooh1019VEMJbOMsXYj4"
       },
       "artists": [
         {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
         },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ"
+      "duration_ms": 185940,
+      "name": "Is This Thing Workin'",
+      "url": "https://open.spotify.com/track/1IPJnzMcarMNxDJ5xzjktK"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Between: The Collection",
+        "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfectly Lonely",
         "url": "https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 270213,
       "name": "Perfectly Lonely",
       "url": "https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Is This Thing Workin'",
-        "url": "https://open.spotify.com/album/5HEooh1019VEMJbOMsXYj4"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 185940,
-      "name": "Is This Thing Workin'",
-      "url": "https://open.spotify.com/track/1IPJnzMcarMNxDJ5xzjktK"
     },
     {
       "added_at": null,

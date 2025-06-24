@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Código FN
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,779 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,766 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 34 | [Migajas](https://open.spotify.com/track/7aL6dkLJlhInQAmT6hzKKK) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L), [La Potencia De La Musica Norteña](https://open.spotify.com/artist/2xotal8p4VxpscwCOgy354) | [Migajas](https://open.spotify.com/album/5VlXTS6TRdch6tMPVvdq1C) | 3:35 |
 | 35 | [Para Que Te Duela](https://open.spotify.com/track/5RJ2azr9AZiF7I9aQPpb1o) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Para Que Te Duela](https://open.spotify.com/album/6a3Z44OfEk5v6jAnj59vdS) | 2:34 |
 | 36 | [Pisando el Infierno](https://open.spotify.com/track/2d8M7dNM4Za3UcRtoIkped) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Pisando el Infierno](https://open.spotify.com/album/74TlkiKlRlknXqrSrMs6Ta) | 2:25 |
-| 37 | [Creyente](https://open.spotify.com/track/2yQgqKXPqzKfv7lTwNVX23) | [Luis Arturo](https://open.spotify.com/artist/04spoeZCYxGrgMEfLQUdhw), [Santiago Duarte](https://open.spotify.com/artist/4jjx8H9aK7MLIUJztIICxF) | [Creyente](https://open.spotify.com/album/1go9t4E4v7sCGLPz94xbp7) | 2:37 |
+| 37 | [Creyente](https://open.spotify.com/track/2yQgqKXPqzKfv7lTwNVX23) | [Luis Arturo](https://open.spotify.com/artist/04spoeZCYxGrgMEfLQUdhw), [Santiago Duarte](https://open.spotify.com/artist/7KerPyVUQ2OU73fFJCjeJI) | [Creyente](https://open.spotify.com/album/1go9t4E4v7sCGLPz94xbp7) | 2:37 |
 | 38 | [Mentiste Tan Bien](https://open.spotify.com/track/7fXW8fcCGLsPseLkSGl6sS) | [Estrategia Norteña](https://open.spotify.com/artist/4vIk33tlQ0uZrRguQxhwcO), [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik) | [Mentiste Tan Bien](https://open.spotify.com/album/7tOXI1g9MrZKkYi8vJpPio) | 2:15 |
 | 39 | [SE ME FUE MI AMOR](https://open.spotify.com/track/6bs0sAUteRx3NnwZQR8Gse) | [Hijos De Leyva](https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe) | [SE ME FUE MI AMOR](https://open.spotify.com/album/6iorcIXJB2Ds0c3JVXSKs0) | 2:48 |
 | 40 | [ENQLAO](https://open.spotify.com/track/1MXebWHoX2EAPlAkufWcs2) | [La Cultura Norteña](https://open.spotify.com/artist/4dKfcKrl0Q5d9ZpnN6ybZL), [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [ENQLAO](https://open.spotify.com/album/5P4t5qqeMy8vG3tHestC3c) | 3:00 |

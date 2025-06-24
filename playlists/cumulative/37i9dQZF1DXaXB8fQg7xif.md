@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,237 songs - 2 day 18 hr 17 min
+1,238 songs - 2 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [Hey Pablo](https://open.spotify.com/track/4gnH8nfdJfN115QAzzUc3E) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Hey Pablo EP](https://open.spotify.com/album/2Mzhih2f9yASsifcemdbZy) | 4:09 | 2020-05-22\* | 2021-12-20 |
 | [High and I Like it](https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [High and I Like it](https://open.spotify.com/album/3zbFfZPvh2CZIaf8E6NATL) | 3:43 | 2024-05-17 | 2024-08-10 |
 | [High Like This](https://open.spotify.com/track/38XcmJDV2pjjVcCvdpMpA2) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [FR!ES](https://open.spotify.com/artist/6s9IlZhrBJqv3ZCSNzP2Gs) | [High Like This](https://open.spotify.com/album/6TiMCmTJh5ADHupJLR1cRV) | 2:49 | 2020-12-27 | 2021-12-11 |
+| [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-20 |  |
 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 | 2023-07-14 | 2023-07-29 |
 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 | 2025-05-16 |  |
 | [hiiigh](https://open.spotify.com/track/2vQ6kg5hPJiFx2lctuBtju) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Daisy Guttridge](https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4) | [hiiigh](https://open.spotify.com/album/54gkNTtJTRzBgZnhakwQR9) | 2:55 | 2021-03-17 | 2022-04-16 |
@@ -731,7 +732,7 @@
 | [Mr\. Vain](https://open.spotify.com/track/0SuiADCApYO9kRKQllv0Bi) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Mr\. Vain](https://open.spotify.com/album/1lpymUklJi4kZ07tLe5gF2) | 2:54 | 2020-05-22\* | 2020-09-20 |
 | [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 | 2024-02-26 |  |
 | [Music In You \(feat\. Lorenz Rhode\) \- David Penn Remix](https://open.spotify.com/track/5PouNtWvK2jJkwhsUGQjm7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Defected Presents House Masters \- David Penn](https://open.spotify.com/album/53Isf4F1aPdsyfP5MAjTXm) | 4:30 | 2020-07-01 | 2021-12-20 |
-| [Music is Better](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Music is Better](https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu) | 3:56 | 2024-07-16 |  |
+| [Music is Better](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Music is Better](https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu) | 3:56 | 2024-07-16 | 2025-06-24 |
 | [Mwaki \- Tiësto's VIP Mix](https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Tiësto's VIP Mix\)](https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe) | 2:40 | 2023-12-29 | 2024-05-18 |
 | [My Addiction](https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL) | [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [My Addiction](https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l) | 2:37 | 2024-06-07 | 2024-10-26 |
 | [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2023-07-28 | 2023-12-13 |

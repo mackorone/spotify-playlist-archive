@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- HAVI
 
-235 songs - 12 hr 26 min
+236 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Rang Diya](https://open.spotify.com/track/0LSBqswxvemnJQ4MDqzi32) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Rang Diya](https://open.spotify.com/album/3tPcOKqoWYC2saF1Qcn7jD) | 2:48 | 2024-08-09 | 2024-08-17 |
 | [Rang Likha \- From "Vadakkan"](https://open.spotify.com/track/1ApTwJTO8cBhaB9oO9iL9l) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n), [Bijibal](https://open.spotify.com/artist/09Swfzp0iwV8Yxe1Ngzf6v) | [Rang Likha \(From "Vadakkan"\)](https://open.spotify.com/album/5uL5X23t9MHbdZxap4sBwz) | 2:11 | 2025-03-28 |  |
 | [Rangrasiya](https://open.spotify.com/track/4QLIRTVyCqhUHJT8wl0gWk) | [Nirmala Maghani](https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3) | [Rangrasiya](https://open.spotify.com/album/3iwqspTZHMhQPy2z2weVvZ) | 3:10 | 2024-11-07 | 2025-01-17 |
+| [Regardless](https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Regardless](https://open.spotify.com/album/6vbJkwWBaS7iKBHfQJM9ua) | 3:44 | 2025-06-23 |  |
 | [ROCKIT](https://open.spotify.com/track/3DAiQK6TbhTbF7pEDEdqL1) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [ROCKIT](https://open.spotify.com/album/5JJLVNrPvXcwOqcUIZNksw) | 2:10 | 2025-05-16 |  |
 | [ROOP](https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROOP](https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE) | 2:32 | 2025-01-17 | 2025-06-06 |
 | [ROOP](https://open.spotify.com/track/77vCk9lni7MVjwCGSW7MmO) | [Sohail Shahzad](https://open.spotify.com/artist/6KgDK2ubUwfKLwgh9uCSKb), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [ROOP](https://open.spotify.com/album/70Alq65Mojr6AVKafE3mOE) | 2:22 | 2025-01-17 | 2025-04-19 |

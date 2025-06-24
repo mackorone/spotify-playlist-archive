@@ -1,32 +1,28 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 496240,
+  "num_followers": 496249,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aE/GjQAAAACGZsHUyOky/jJBLmoqJOTW",
+  "snapshot_id": "aFjrXAAAAAB7Cj4BZ2eywrUTrt7pMlkz",
   "tracks": [
     {
-      "added_at": "2025-06-16 07:23:57",
+      "added_at": "2025-06-23 05:51:24",
       "album": {
-        "name": "Sialan",
-        "url": "https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh"
+        "name": "Lesung Pipi",
+        "url": "https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG"
       },
       "artists": [
         {
-          "name": "Adrian Khalif",
-          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
-        },
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
         }
       ],
-      "duration_ms": 241088,
-      "name": "Sialan",
-      "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
+      "duration_ms": 225153,
+      "name": "Lesung Pipi",
+      "url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -195,22 +191,22 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Bermuara",
-        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
+        "name": "Sialan",
+        "url": "https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh"
       },
       "artists": [
         {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
         },
         {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
         }
       ],
-      "duration_ms": 287465,
-      "name": "Bermuara",
-      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
+      "duration_ms": 241088,
+      "name": "Sialan",
+      "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -331,6 +327,22 @@
       "duration_ms": 234204,
       "name": "Lantas",
       "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
+    },
+    {
+      "added_at": "2025-06-23 05:51:24",
+      "album": {
+        "name": "Kawan (with Yoseph Sitompul, Bayu Risa, Ranya Badudu)",
+        "url": "https://open.spotify.com/album/2YqZTlrwJe1sbXtJp5wfbH"
+      },
+      "artists": [
+        {
+          "name": "Monita Tahalea",
+          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "Kawan (with Yoseph Sitompul, Bayu Risa, Ranya Badudu)",
+      "url": "https://open.spotify.com/track/6oGAntrPuwI3pdaZ2i0VWB"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -631,6 +643,26 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
+        "name": "Bermuara",
+        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 287465,
+      "name": "Bermuara",
+      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
         "name": "Ruang Tunggu",
         "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
@@ -679,22 +711,6 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
-      },
-      "artists": [
-        {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
-        }
-      ],
-      "duration_ms": 393072,
-      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
         "name": "Tulus",
         "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
       },
@@ -707,6 +723,22 @@
       "duration_ms": 240493,
       "name": "Sewindu",
       "url": "https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 393072,
+      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -767,22 +799,6 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
-        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 249503,
-      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
-      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
         "name": "Gajah",
         "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
@@ -795,6 +811,22 @@
       "duration_ms": 219284,
       "name": "Sepatu",
       "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
+        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
+        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 249503,
+      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
+      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -883,6 +915,22 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
+        "name": "Keajaiban",
+        "url": "https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 325973,
+      "name": "Satu Yang Tak Bisa Lepas",
+      "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
         "name": "Marion",
         "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
       },
@@ -899,22 +947,6 @@
       "duration_ms": 221381,
       "name": "Rayu",
       "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
-        "name": "Keajaiban",
-        "url": "https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j"
-      },
-      "artists": [
-        {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-        }
-      ],
-      "duration_ms": 325973,
-      "name": "Satu Yang Tak Bisa Lepas",
-      "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -1139,22 +1171,6 @@
     {
       "added_at": "2025-06-16 07:23:57",
       "album": {
-        "name": "Too Much Of A Good Thing",
-        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "Too Much Of A Good Thing",
-      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
         "name": "DIA",
         "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
       },
@@ -1167,6 +1183,22 @@
       "duration_ms": 207490,
       "name": "Dia - Hits Single",
       "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
+    },
+    {
+      "added_at": "2025-06-16 07:23:57",
+      "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
       "added_at": "2025-06-16 07:23:57",
@@ -1315,38 +1347,6 @@
       "duration_ms": 283311,
       "name": "That Somebody",
       "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
-        "name": "Harus Bahagia",
-        "url": "https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 173809,
-      "name": "Harus Bahagia",
-      "url": "https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY"
-    },
-    {
-      "added_at": "2025-06-16 07:23:57",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     }
   ],
   "unique_name": "Santai Sejenak",

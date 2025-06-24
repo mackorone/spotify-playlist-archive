@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=S7rW\-ybNQ0euvpo\_ledLaQ">Lwah Ndlunkulu</a>
 
-687 songs - 2 day 1 hr 11 min
+688 songs - 2 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Kusaseyimi](https://open.spotify.com/track/2PXg5LhiiT7PW8OIrB1NiH) | [Best A](https://open.spotify.com/artist/5NZIOnoUPaAZI7tJMfGCp0), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Kusaseyimi](https://open.spotify.com/album/0iKeB8nA333w7czFU6RcWu) | 4:13 | 2022-07-07 | 2022-08-19 |
 | [Kusina Mai](https://open.spotify.com/track/6foGZFf5hdViyimMImFv6f) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Jah Prayzah](https://open.spotify.com/artist/13JLy7UFJgqRypeQGbucP3) | [Kusina Mai](https://open.spotify.com/album/5I4qnFcv2Crz5NVCWZ5PJW) | 5:46 | 2023-08-10 | 2023-09-01 |
 | [kutheni na, \(feat\. Kwesta\)](https://open.spotify.com/track/12hMZGLnLlK3OEE2tdMop4) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [kutheni na, \(feat\. Kwesta\)](https://open.spotify.com/album/45mS0YMbYY1fs17kimbaU6) | 3:08 | 2021-06-03 | 2022-06-03 |
-| [Kuvele Kukhanye](https://open.spotify.com/track/5r8aHQYosE37dL7zznR4LR) | [Lindo Mtangayi](https://open.spotify.com/artist/31REeqMBUXbOCs4cqs7HkR) | [Kuvele Kukhanye](https://open.spotify.com/album/3mR9WzrXowDVkDeJLhPdSr) | 5:50 | 2025-04-24 |  |
+| [Kuvele Kukhanye](https://open.spotify.com/track/5r8aHQYosE37dL7zznR4LR) | [Lindo Mtangayi](https://open.spotify.com/artist/31REeqMBUXbOCs4cqs7HkR) | [Kuvele Kukhanye](https://open.spotify.com/album/3mR9WzrXowDVkDeJLhPdSr) | 5:50 | 2025-04-24 | 2025-06-24 |
 | [Kuyabongwa](https://open.spotify.com/track/5126E37MXDlVwL3GNsFE81) | [ChubbyCheeks](https://open.spotify.com/artist/2jMiIQfoS53BBQstybElVW) | [Kuyabongwa](https://open.spotify.com/album/1p2L4YEwcJHgRndeMG25Cw) | 3:34 | 2023-10-16 |  |
 | [KUYALUNGA](https://open.spotify.com/track/5UwtI4FsIbqq9dP2Z8WNLi) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [KUYALUNGA](https://open.spotify.com/album/6E6Vcd24pqKCTQbeEK3IHa) | 3:58 | 2023-11-03 | 2024-01-26 |
 | [Kuyobanini](https://open.spotify.com/track/7Db4g90Shps8AvEnjkypsn) | [LUNGA](https://open.spotify.com/artist/7810xgWOLCvaMyaFtnOeQa) | [Kuyobanini](https://open.spotify.com/album/2BBKqz9PnEfUEesepxLo9V) | 2:29 | 2022-05-05 | 2022-06-03 |
@@ -594,6 +594,7 @@
 | [U'mandela](https://open.spotify.com/track/1UmIpUamp8EjrtPXbBDjHS) | [KirraMuziQ](https://open.spotify.com/artist/3AVGZAPpVvcTUtwUV73lM1) | [U'mandela](https://open.spotify.com/album/3r4Wo9P0lQcQs217EATfIT) | 5:48 | 2024-05-09 | 2024-06-01 |
 | [Ubaba](https://open.spotify.com/track/4RAUKdu1tEeeF9sKgfh2jB) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [The Maniac DJ](https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC), [Alie Keys](https://open.spotify.com/artist/1GXwvsKGbhtxZ6nBjV2liL), [Coolkiid](https://open.spotify.com/artist/7l20uhlKo17O2ZrBUrIxsw), [6th Avenue](https://open.spotify.com/artist/2XyPsNCNV26Bb720pI9Tli) | [Amagalelo](https://open.spotify.com/album/1KdQjmlYYh74SahJmDNGSV) | 4:49 | 2022-02-17 | 2022-06-10 |
 | [Ubambo Lwam'](https://open.spotify.com/track/6XWZZKtX2mNx2RpQNSriVr) | [Fizz Munt](https://open.spotify.com/artist/14MbN4GVNfAVwaxbYYIuSQ), [Spiro Beats](https://open.spotify.com/artist/2UucDAVCmgqzNq1TAl8EwY) | [Ubambo Lwam'](https://open.spotify.com/album/4tYuh7ijwVlMjeTiQgXHTv) | 3:08 | 2023-02-09 | 2023-04-28 |
+| [Ubuhle Obungaka](https://open.spotify.com/track/1suLe6X8s2fxJ777GvJT8S) | [Ovuyonke](https://open.spotify.com/artist/1PUJY8Y2zROwux5qnaGb9O), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [Jaedon Daniels](https://open.spotify.com/artist/5EaNhWHyEwa0nHjsJqdniH) | [Ubuhle Obungaka](https://open.spotify.com/album/26NtnzpB9akhyOHypfPzLq) | 3:15 | 2025-06-23 |  |
 | [ubukho bakho](https://open.spotify.com/track/0m7X97xONdTEXHcuNwae0D) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 5:30 | 2023-08-31 | 2023-10-13 |
 | [uFuna Bani \(Sondela\)](https://open.spotify.com/track/2GPh9moTPizhhgXF2p8R1R) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [uFuna Bani \(Sondela\)](https://open.spotify.com/album/3rfcYA4oVkNaIdJv4OHbvp) | 2:54 | 2022-09-15 | 2022-10-14 |
 | [Uhambo](https://open.spotify.com/track/0UQiDKv1PxequtKI6sp2Ia) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Uhambo](https://open.spotify.com/album/26jzpEzvuSZH4t6Ucz3mzC) | 3:29 | 2021-10-21 | 2022-09-30 |

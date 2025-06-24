@@ -1,6 +1,6 @@
 {
   "description": "Sommeren er her!\ud83c\udf79\n",
-  "num_followers": 95880,
+  "num_followers": 95901,
   "original_name": "kj\u00e6re sommer",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Fy faen du e deili",
+      "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
         "name": "Lost and found",
         "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 194785,
       "name": "Lost and found",
       "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
-        "name": "Tobias Sten",
-        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Fy faen du e deili",
-      "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "Lips",
-        "url": "https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 135559,
-      "name": "Lips",
-      "url": "https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 233500,
       "name": "Ka visste eg",
       "url": "https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 135559,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "So cool",
-        "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        },
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 222546,
-      "name": "So cool",
-      "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
         "name": "Eli",
         "url": "https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w"
       },
@@ -443,6 +423,26 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
+        "name": "So cool",
+        "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 222546,
+      "name": "So cool",
+      "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
         "name": "God Knows",
         "url": "https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 167823,
       "name": "Potion",
       "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
-        "name": "What Happened To The Heart? (Deluxe)",
-        "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Hearts Intuition",
-      "url": "https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -523,6 +507,22 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
+        "name": "What Happened To The Heart? (Deluxe)",
+        "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Hearts Intuition",
+      "url": "https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
         "name": "jeg holder pusten til du drar",
         "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "Slutet av sommarn",
-        "url": "https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 137810,
-      "name": "Slutet av sommarn",
-      "url": "https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 259096,
       "name": "Tjue \u00e5r",
       "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "Slutet av sommarn",
+        "url": "https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 137810,
+      "name": "Slutet av sommarn",
+      "url": "https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "Milk and Honey",
-        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 210807,
-      "name": "Milk and Honey",
-      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
         "name": "Sommer i Norge",
         "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 169248,
       "name": "Sommer i Norge",
       "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "Milk and Honey",
+        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 210807,
+      "name": "Milk and Honey",
+      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
+        "name": "Ta med deg d\u00f8ra",
+        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 211810,
+      "name": "Ta med deg d\u00f8ra",
+      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 228624,
       "name": "Som sommaren",
       "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
-        "name": "Ta med deg d\u00f8ra",
-        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 211810,
-      "name": "Ta med deg d\u00f8ra",
-      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -927,22 +927,18 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "eu te amo beb\u00ea",
-        "url": "https://open.spotify.com/album/5AXj1uz4Ltn2R4bVtMQiuH"
+        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
       },
       "artists": [
         {
-          "name": "bob junior",
-          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
-        },
-        {
-          "name": "Kidsnot$aints.",
-          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
         }
       ],
-      "duration_ms": 106649,
-      "name": "eu te amo beb\u00ea",
-      "url": "https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk"
+      "duration_ms": 135480,
+      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -963,18 +959,38 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 135480,
-      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "eu te amo beb\u00ea",
+        "url": "https://open.spotify.com/album/5AXj1uz4Ltn2R4bVtMQiuH"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Kidsnot$aints.",
+          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
+        }
+      ],
+      "duration_ms": 106649,
+      "name": "eu te amo beb\u00ea",
+      "url": "https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -991,6 +1007,22 @@
       "duration_ms": 223624,
       "name": "Likeable",
       "url": "https://open.spotify.com/track/6FZDnWB0T4D8it98dfhOkO"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1039,38 +1071,6 @@
       "duration_ms": 130200,
       "name": "All I have to do is dream",
       "url": "https://open.spotify.com/track/6n1cGIlaYq9vS2IhaVNsmQ"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "i'm in the corner, alone",
-        "url": "https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv"
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
       },
       "artists": [
         {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
         }
       ],
-      "duration_ms": 140862,
-      "name": "i'm in the corner, alone",
-      "url": "https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh"
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+        "name": "i'm in the corner, alone",
+        "url": "https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
         }
       ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
+      "duration_ms": 140862,
+      "name": "i'm in the corner, alone",
+      "url": "https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1255,22 +1255,6 @@
       "duration_ms": 204529,
       "name": "S\u00e5nn som deg",
       "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
-        "name": "Kyssa noken andre",
-        "url": "https://open.spotify.com/album/52BEsP0Om8YJyl1hmIXWi3"
-      },
-      "artists": [
-        {
-          "name": "Gunn Kvaale",
-          "url": "https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO"
-        }
-      ],
-      "duration_ms": 152517,
-      "name": "Kyssa noken andre",
-      "url": "https://open.spotify.com/track/1kyFLaG8l3jJwa012XEbxf"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1307,22 +1291,34 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
-        "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
+        "name": "Kyssa noken andre",
+        "url": "https://open.spotify.com/album/52BEsP0Om8YJyl1hmIXWi3"
       },
       "artists": [
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        },
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+          "name": "Gunn Kvaale",
+          "url": "https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO"
         }
       ],
-      "duration_ms": 195929,
-      "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
-      "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
+      "duration_ms": 152517,
+      "name": "Kyssa noken andre",
+      "url": "https://open.spotify.com/track/1kyFLaG8l3jJwa012XEbxf"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "Om hundre \u00e5r",
+        "url": "https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9"
+      },
+      "artists": [
+        {
+          "name": "Ulrikke",
+          "url": "https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Om hundre \u00e5r",
+      "url": "https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1351,22 +1347,6 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "Om hundre \u00e5r",
-        "url": "https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9"
-      },
-      "artists": [
-        {
-          "name": "Ulrikke",
-          "url": "https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Om hundre \u00e5r",
-      "url": "https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX"
-    },
-    {
-      "added_at": "2025-06-19 22:00:47",
-      "album": {
         "name": "Sommerfl\u00f8rt",
         "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 161750,
       "name": "Sommerfl\u00f8rt",
       "url": "https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8"
+    },
+    {
+      "added_at": "2025-06-19 22:00:47",
+      "album": {
+        "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
+        "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        },
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 195929,
+      "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
+      "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
     },
     {
       "added_at": "2025-06-19 22:00:47",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2025-06-19 22:00:47",
       "album": {
-        "name": "What A Waste",
-        "url": "https://open.spotify.com/album/0bXYmiK8ZbpqPmXAbj7lmO"
+        "name": "Oh Love (Acoustic)",
+        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
       },
       "artists": [
         {
-          "name": "Elsie Bay",
-          "url": "https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE"
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
         }
       ],
-      "duration_ms": 159282,
-      "name": "What A Waste",
-      "url": "https://open.spotify.com/track/51PlFhgkrZ4JKJzd1iz0aE"
+      "duration_ms": 201774,
+      "name": "Oh Love - Acoustic",
+      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
     }
   ],
   "unique_name": "kj\u00e6re sommer",

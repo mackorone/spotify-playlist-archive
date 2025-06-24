@@ -4,7 +4,7 @@
 
 > The best in house music
 
-629 songs - 1 day 17 hr 37 min
+630 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Gabriel](https://open.spotify.com/track/79aDNSN85CmvaPCGkAsYOL) | [Travis Emmons](https://open.spotify.com/artist/1gQou2nfkVjww2lOEBTGLF), [Trice Be](https://open.spotify.com/artist/04yg9GkPRs16El4FGBdFfT) | [Gabriel](https://open.spotify.com/album/3yZcSjo5wlJ2CzIFYPtxbU) | 7:52 | 2024-09-26 |  |
 | [Gently](https://open.spotify.com/track/5AvukMTsiC7b12MJW2wXwE) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Gently](https://open.spotify.com/album/0B2JXdbYYbnwQcSCLfceX7) | 6:16 | 2022-04-20 | 2022-07-29 |
 | [Get Busy](https://open.spotify.com/track/1U3HdQECtAOhOzZ05flaY0) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Get Busy](https://open.spotify.com/album/4SHUE12jvWe2VroUpuhM6o) | 2:48 | 2024-10-03 | 2025-01-31 |
-| [Get Down \- Club Edit](https://open.spotify.com/track/4WieHYVnGXXeU0ZaofaGAb) | [Sebb Junior](https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD) | [Get Down](https://open.spotify.com/album/5tw0HTb63Gv1XnAONYXnuP) | 3:13 | 2025-01-30 |  |
+| [Get Down \- Club Edit](https://open.spotify.com/track/4WieHYVnGXXeU0ZaofaGAb) | [Sebb Junior](https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD) | [Get Down](https://open.spotify.com/album/5tw0HTb63Gv1XnAONYXnuP) | 3:13 | 2025-01-30 | 2025-06-24 |
 | [Get Me High](https://open.spotify.com/track/6kiNRgtGWVSV3lyLBSizY6) | [Mia More](https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Get Me High](https://open.spotify.com/album/1yvjNoutqvda6wMMVSp2sN) | 2:25 | 2023-08-24 | 2024-06-11 |
 | [Get My Love](https://open.spotify.com/track/0RcVDtRuwn6Z2yvj2wQrol) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me EP](https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI) | 4:03 | 2024-03-14 | 2024-04-10 |
 | [Get On Out](https://open.spotify.com/track/5VCogJESrsrOsX2yejotIb) | [4NEY](https://open.spotify.com/artist/6DVJ9PbSQ673wgYUvqPRXh) | [Get On Out](https://open.spotify.com/album/7AHZAKEbSfL7HlM8RZwGGU) | 2:58 | 2022-04-20 | 2024-03-21 |
@@ -307,6 +307,7 @@
 | [Just Keep On \- Edit](https://open.spotify.com/track/6Z4HZLJok0U4gc6zDTcdUr) | [Mirko & Meex](https://open.spotify.com/artist/59sPMElpQnw4DfEc1jjJg1) | [Just Keep On \(Edit\)](https://open.spotify.com/album/149eKsEz1fCCAV0VJBmh9X) | 3:15 | 2024-09-12 | 2025-06-06 |
 | [Just Stay The Night](https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Just Stay The Night](https://open.spotify.com/album/76YgJrJg5YM6k97AztAlUC) | 3:12 | 2025-03-20 |  |
 | [Just Us \- Radio Edit](https://open.spotify.com/track/63GyZaNNNigHM47t7eaGzA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0sRdvqJBu6iFNtwaW7ORIk) | 3:35 | 2022-04-14 | 2022-07-29 |
+| [Kalabancoro](https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Kalabancoro](https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6) | 3:06 | 2025-06-23 |  |
 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 | 2024-12-03 |  |
 | [Keep It Simple](https://open.spotify.com/track/4Fp3p14zeLSGF3MLAjSBUH) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Keep It Simple](https://open.spotify.com/album/3FETrBitCgpS9AgqEktISJ) | 3:04 | 2023-03-23 | 2024-09-13 |
 | [Keep Me On The Dancefloor](https://open.spotify.com/track/3v8AhfiTziiMe3YgwrEmV9) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Keep Me On The Dancefloor](https://open.spotify.com/album/2lehhdJMvhIzZX8tPwWERk) | 2:27 | 2024-10-03 |  |

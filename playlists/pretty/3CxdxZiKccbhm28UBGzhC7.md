@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain](/playlists/plain/3CxdxZiKccbhm28UBGzhC7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3CxdxZiKccbhm28UBGzhC7)
 
-### [very famous white girl songs](https://open.spotify.com/playlist/3CxdxZiKccbhm28UBGzhC7)
+### [white girl indie](https://open.spotify.com/playlist/3CxdxZiKccbhm28UBGzhC7)
 
 > 2023
 
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 87 | [Run That Race](https://open.spotify.com/track/2NVjII4zi5d4c9F7ivNYsh) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Cars 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pBzQQ2NGZSIFv9ehTROhS) | 2:44 |
 | 88 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
 
-Snapshot ID: `AAAAwnpZVlvUOFWol/OTOw6imlHqquAt`
+Snapshot ID: `AAAAwyMmIwuRuBHgu4Z0kUR7X9xC0/Gp`

@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Kingdom
 
-311 songs - 20 hr 6 min
+312 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dheemthanana](https://open.spotify.com/track/3dPHu4WuOSn3zw4udpBBNv) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1CYUy4WQ2yXvt7OV0ANIbs) | 3:39 | 2022-10-10 | 2023-04-25 |
 | [Dheere Dheere \(From "Her Chapter 1"\)](https://open.spotify.com/track/2XDhRAhefcbPgavlGZq5hW) | [Akanksha Bisht](https://open.spotify.com/artist/7hVfqYdQ9vPCD8VEGxs2EZ), [Pavan](https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp), [Mahesh \(Lyricist\)](https://open.spotify.com/artist/5NNYbJA0irrbbxgram8Q1f) | [Dheere Dheere \(From "Her Chapter 1"\)](https://open.spotify.com/album/6CpP03enfuLSIh8Lx7CCbw) | 3:55 | 2023-07-03 | 2023-07-22 |
 | [Edho Edho Kalavaram \(From "Anveshi"\)](https://open.spotify.com/track/4edykmkRtQIpO1fS9Ltlsf) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Deepthi Parthasarathy](https://open.spotify.com/artist/02p0Emo53CEFEVufEQtAUy), [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5) | [Edho Edho Kalavaram \(From "Anveshi"\)](https://open.spotify.com/album/0xqWP4R2wrLps92i98SbGT) | 3:16 | 2023-03-22 | 2023-05-30 |
+| [Ee Rangula Lokam \(From "Ugly Story"\)](https://open.spotify.com/track/1AIvH576lujKraQGlxU2sW) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Kadali](https://open.spotify.com/artist/5xmlr03MWTYQSflITsHmpk) | [Ee Rangula Lokam \(From "Ugly Story"\)](https://open.spotify.com/album/6O2d3kO1tegY9FnKdemmV2) | 3:05 | 2025-06-23 |  |
 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 | 2022-12-20 | 2023-09-26 |
 | [Emo Emo \(From "Krishna Leela"\)](https://open.spotify.com/track/4Ptt6zHijOaG997nqwbSmt) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Emo Emo \(From "Krishna Leela"\)](https://open.spotify.com/album/5mHb2OYjyENZwsKlHnZfb5) | 2:50 | 2025-06-03 |  |
 | [Emundi Ra \(From "Krishna Vrinda Vihari"\)](https://open.spotify.com/track/1EqsZQwACUqnn9GvtzLjHl) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Emundi Ra \(From "Krishna Vrinda Vihari"\) \- Single](https://open.spotify.com/album/1ZP4uiCbZYgrxmoEmRVzrB) | 3:52 | 2022-05-04 | 2023-02-21 |

@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 65937,
+  "num_followers": 65948,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-06-20 13:16:22",
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "E.N Young",
-          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
-        }
-      ],
-      "duration_ms": 190660,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
-    },
-    {
-      "added_at": "2025-06-20 13:16:22",
-      "album": {
         "name": "La Naturaleza",
         "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 254058,
       "name": "La Naturaleza",
       "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
+    },
+    {
+      "added_at": "2025-06-20 13:16:22",
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "E.N Young",
+          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
+        }
+      ],
+      "duration_ms": 190660,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
     },
     {
       "added_at": "2025-06-20 13:16:22",
@@ -1567,22 +1567,22 @@
     {
       "added_at": "2025-06-20 13:16:22",
       "album": {
-        "name": "Kingston Town",
-        "url": "https://open.spotify.com/album/4opQuQWOkTHymO6gsIhAHN"
+        "name": "Dimelo Ayer",
+        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
       },
       "artists": [
         {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq"
         },
         {
-          "name": "Winston Francis",
-          "url": "https://open.spotify.com/artist/69jzR5ruwfoZOnevlFf4DW"
+          "name": "Cucho Parisi",
+          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
         }
       ],
-      "duration_ms": 235728,
-      "name": "Kingston Town",
-      "url": "https://open.spotify.com/track/1GZSTnbajPTV2m4KJMusQM"
+      "duration_ms": 159892,
+      "name": "Dimelo Ayer",
+      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
     }
   ],
   "unique_name": "Reggae al Sur",

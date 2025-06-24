@@ -3173,6 +3173,32 @@
     },
     {
       "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5"
+      },
+      "artists": [
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        },
+        {
+          "name": "Eli Fola",
+          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
+        },
+        {
+          "name": "BL SUEDE",
+          "url": "https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234098,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj"
+    },
+    {
+      "album": {
         "name": "Forever (feat. Malou & Yuna)",
         "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
       },
@@ -3900,6 +3926,32 @@
       "duration_ms": 404000,
       "name": "I am I",
       "url": "https://open.spotify.com/track/6wYjMwScxU3eWFWLgo94Pd"
+    },
+    {
+      "album": {
+        "name": "Ice 2 Water",
+        "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196700,
+      "name": "Ice 2 Water",
+      "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
     },
     {
       "album": {
@@ -4768,7 +4820,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 188852,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/1ryJE0dz9TeEHgdRvC9EGE"
@@ -8400,7 +8452,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 406000,
       "name": "Take My Soul",
       "url": "https://open.spotify.com/track/6phgQswSRcZUp5vTOSGzqv"

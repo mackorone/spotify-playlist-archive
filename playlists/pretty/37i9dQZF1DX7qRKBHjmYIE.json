@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con rusowsky.",
-  "num_followers": 749934,
+  "num_followers": 749937,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -73,7 +73,7 @@
       "artists": [
         {
           "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/2jXaKP1SGZBThNf6lVHCdo"
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
         }
       ],
       "duration_ms": 152234,
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-13 04:00:52",
       "album": {
-        "name": "Yo Me Consiento",
-        "url": "https://open.spotify.com/album/1vkWSOJCklozznNvK9hvkw"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 152040,
-      "name": "Yo Me Consiento",
-      "url": "https://open.spotify.com/track/2kji9DnnKcwwQb1RPyq2NA"
-    },
-    {
-      "added_at": "2025-06-13 04:00:52",
-      "album": {
         "name": "Se Amaba As\u00ed",
         "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 194973,
       "name": "Miraverah\u00ed",
       "url": "https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9"
+    },
+    {
+      "added_at": "2025-06-13 04:00:52",
+      "album": {
+        "name": "Yo Me Consiento",
+        "url": "https://open.spotify.com/album/1vkWSOJCklozznNvK9hvkw"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 152040,
+      "name": "Yo Me Consiento",
+      "url": "https://open.spotify.com/track/2kji9DnnKcwwQb1RPyq2NA"
     },
     {
       "added_at": "2025-06-13 04:00:52",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-06-13 04:00:52",
       "album": {
+        "name": "Luna mar",
+        "url": "https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Luna mar",
+      "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
+    },
+    {
+      "added_at": "2025-06-13 04:00:52",
+      "album": {
         "name": "Eso Que T\u00fa Llamas Amor",
         "url": "https://open.spotify.com/album/3i8ucjU1mdD5JrH4jqtFpu"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 175335,
       "name": "Eso Que T\u00fa Llamas Amor",
       "url": "https://open.spotify.com/track/5wg3327utYfdvkoXqWf86d"
-    },
-    {
-      "added_at": "2025-06-13 04:00:52",
-      "album": {
-        "name": "Luna mar",
-        "url": "https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 195862,
-      "name": "Luna mar",
-      "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
     }
   ],
   "unique_name": "Mixto",

@@ -2,9 +2,9 @@
 
 ### [Dancehall Official](https://open.spotify.com/playlist/37i9dQZF1DXan38dNVDdl4)
 
-> The biggest Dancehall playlist in the world\. Cover: Kardinal Offishall
+> The biggest Dancehall playlist in the world\. Cover: Bayka, Spice
 
-522 songs - 1 day 1 hr 31 min
+527 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,9 @@
 | [Maniac](https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7) | 2:58 | 2021-12-20 | 2022-03-22 |
 | [Mek Money](https://open.spotify.com/track/3MVbaHUhFefg7RKjTXMoa9) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Mek Money](https://open.spotify.com/album/5Evsbapiw54PEtMa7tpSGe) | 2:13 | 2021-12-20 | 2023-11-18 |
 | [Middle](https://open.spotify.com/track/171oqBowIpiDoow5uGqgg0) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Middle](https://open.spotify.com/album/0NlJ1pz17KDONwsqbubpTz) | 2:06 | 2023-01-31 | 2023-07-11 |
+| [Midnight Calls](https://open.spotify.com/track/4lPMcQjIX701F1kwBerOC4) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Midnight Calls](https://open.spotify.com/album/1vtFz0wCx0SFYDQdY7wQ7E) | 3:04 | 2025-06-23 |  |
 | [Mind Games](https://open.spotify.com/track/2XkEXqXlrh1XzuX6OHiJbB) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Mind Games](https://open.spotify.com/album/6xWLHgcQV3CJW7i2B3H8OB) | 3:14 | 2022-03-02 | 2022-03-22 |
+| [Miss Pretty](https://open.spotify.com/track/1VfveC7enyCavO0oqlvhuS) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [GYAL DEM SHIFT](https://open.spotify.com/album/6RBArWLu3zTLfSuYtADePO) | 2:34 | 2025-06-23 |  |
 | [Missing Piece](https://open.spotify.com/track/7M8h4YitZAqZnXOzWaQrXO) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Missing Piece](https://open.spotify.com/album/6o23FjktZNXvmQuj304ASV) | 2:49 | 2023-11-17 | 2024-04-26 |
 | [MOB STYLE](https://open.spotify.com/track/0AUUF6ugbAqypdR5rHjgxZ) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [MOB STYLE](https://open.spotify.com/album/7ru4iUaCzq9CyvVCZvj1fX) | 2:26 | 2023-11-17 | 2024-10-19 |
 | [Mobster](https://open.spotify.com/track/00mDz9iEvKOdLHNmvucEhs) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Mobster](https://open.spotify.com/album/5G06lp7pqVUmyFMR51B3kO) | 3:13 | 2021-12-20 | 2022-03-22 |
@@ -304,6 +306,7 @@
 | [Moves](https://open.spotify.com/track/7oj2SDMWpsfdC19XfWHfx4) | [Skippa](https://open.spotify.com/artist/5EWUPUksGg8Gslp0xz7zbv) | [Moves](https://open.spotify.com/album/6RxdJnHqskKOfBeFn8i1mS) | 2:23 | 2024-08-05 |  |
 | [Movie](https://open.spotify.com/track/6qiYl8M1xlvO9IxhNI51YM) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Vibes Don't Lie](https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU) | 2:53 | 2023-08-07 | 2023-09-25 |
 | [Mr\. Officer](https://open.spotify.com/track/7CWC5pkX0sI9p5RFG9bo60) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 2:40 | 2023-07-10 | 2023-08-08 |
+| [Murda Me Say](https://open.spotify.com/track/3p9zn37zm6WabheFaXR7QJ) | [Jerry Wonda](https://open.spotify.com/artist/5zC9byApWfm2ZPnD3yZrWZ), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Murda Me Say](https://open.spotify.com/album/4CNfJLsFUP90y4FQfkbRZB) | 2:47 | 2025-06-23 |  |
 | [MY OWN](https://open.spotify.com/track/6JphsjYCbdAahwqHHLkR6m) | [BomboCat](https://open.spotify.com/artist/15eyufHcNdA2G33nBNotRm), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [Sukuward](https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3), [Tahire](https://open.spotify.com/artist/6U59m1jHqcbahYMY8AwAs7) | [MY OWN](https://open.spotify.com/album/790J6eXAN91mESJEIyYRsH) | 2:12 | 2023-09-24 | 2023-11-18 |
 | [My Type](https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [My Type \- Single](https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7) | 3:05 | 2023-07-10 | 2023-08-08 |
 | [My Woman](https://open.spotify.com/track/4T3z9vQCpCqZHJazLXiMfd) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi), [Chambah](https://open.spotify.com/artist/6WKWGcRMN83IBGozupiLhS) | [Guarded \- EP](https://open.spotify.com/album/0HfUgNY3Sj0sZuFLskCP2E) | 3:06 | 2024-08-05 |  |
@@ -374,6 +377,7 @@
 | [Riches Wii a Pree](https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Riches Wii a Pree](https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD) | 3:06 | 2022-03-21 | 2023-07-11 |
 | [Ride It](https://open.spotify.com/track/53hnQycSOPNhkIRyOSXw0I) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shabdon Records](https://open.spotify.com/artist/4hDq2gP1jbxtCXSK5JwwCy) | [Ride It](https://open.spotify.com/album/1PYLZgSkcnw0CrK27NrA0A) | 2:17 | 2022-07-29 | 2022-09-10 |
 | [Ring Mi Cellie](https://open.spotify.com/track/4c5F52vIf0FFmQqrPp6AgV) | [Lexxus](https://open.spotify.com/artist/6LCFuJlEO46XKJlT3ZguIa) | [Mr\. Lex](https://open.spotify.com/album/4UlHEMFf5UE4nJrCYrr3i0) | 3:20 | 2023-07-10 | 2023-08-08 |
+| [Road Runner](https://open.spotify.com/track/68ZpiCWoEtGhl8s1uaMXux) | [Yeza](https://open.spotify.com/artist/36jYC060pMMY4uSbkj50cu), [Rorystonelove](https://open.spotify.com/artist/31hI4ZIjeMbbfxXgSsaRJC) | [Road Runner](https://open.spotify.com/album/28ok5rJgmNe4pZ3OvoyAPY) | 2:58 | 2025-06-23 |  |
 | [Roll Deep](https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2) | 3:27 | 2022-09-09 | 2023-02-01 |
 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 | 2021-12-20 | 2022-11-12 |
 | [Romping Shop \(feat\. Spice\)](https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:33 | 2023-07-10 |  |
@@ -432,6 +436,7 @@
 | [Stay Clean](https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Stay Clean](https://open.spotify.com/album/7o6IYuy24165gpEsv12hUQ) | 2:39 | 2023-05-14 | 2023-07-11 |
 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 | 2021-12-20 | 2023-08-08 |
 | [Step Out](https://open.spotify.com/track/5WaFbatyS9ON8DRxNWv4SA) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Step Out](https://open.spotify.com/album/235DEai3VSuVGE1m2U1iY3) | 2:57 | 2023-07-10 | 2023-08-08 |
+| [Still Alive](https://open.spotify.com/track/0cJBkXNp1ZtkFfzFD0YEPY) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Still Alive](https://open.spotify.com/album/3cwypMjr1OQjOzB0KQ8i2H) | 2:59 | 2025-06-23 |  |
 | [Still Dark](https://open.spotify.com/track/4lf0WtFmLN1otyXJ5PkGog) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Still Dark](https://open.spotify.com/album/0a6ribWpQlCoIvTO5e1RmV) | 2:44 | 2023-11-17 | 2024-04-26 |
 | [Stop the Talking](https://open.spotify.com/track/50iNtCse0BOpgWH97crBVC) | [Toian](https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Stop the Talking](https://open.spotify.com/album/2j6xRSObURwTRhWDnAKHbF) | 3:15 | 2022-07-29 | 2022-09-10 |
 | [Street Cred](https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Street Cred](https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB) | 2:30 | 2021-12-20 | 2023-02-01 |

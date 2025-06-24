@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Tugan Sokhiev
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,440 likes - 78 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,450 likes - 78 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

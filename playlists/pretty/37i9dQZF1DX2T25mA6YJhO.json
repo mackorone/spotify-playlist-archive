@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Casero.",
-  "num_followers": 27709,
+  "num_followers": 27718,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFSIiwAAAAAbG0kzIgxGNalpAQtUnnCK",
+  "snapshot_id": "aFl+pwAAAAB6jVVOofd2O9G4OIhrtQk/",
   "tracks": [
     {
       "added_at": "2025-06-19 22:00:43",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-06-19 22:00:43",
       "album": {
-        "name": "Nada es suficiente",
-        "url": "https://open.spotify.com/album/4vWOImq9W2P7gOZqzrbSoA"
-      },
-      "artists": [
-        {
-          "name": "Casero",
-          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
-        }
-      ],
-      "duration_ms": 189075,
-      "name": "Nada es suficiente",
-      "url": "https://open.spotify.com/track/2BvN03SIqklDId5TWonuhq"
-    },
-    {
-      "added_at": "2025-06-19 22:00:43",
-      "album": {
         "name": "El Silencio Del Ruido",
         "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 193946,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/1cOQB2p0YmnMrnPdSlhReN"
+    },
+    {
+      "added_at": "2025-06-19 22:00:43",
+      "album": {
+        "name": "Nada es suficiente",
+        "url": "https://open.spotify.com/album/4vWOImq9W2P7gOZqzrbSoA"
+      },
+      "artists": [
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "Nada es suficiente",
+      "url": "https://open.spotify.com/track/2BvN03SIqklDId5TWonuhq"
     },
     {
       "added_at": "2025-06-19 22:00:43",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-06-19 22:00:43",
       "album": {
-        "name": "El Palco",
-        "url": "https://open.spotify.com/album/1QJx2XWmPZetIlNTV2ffEd"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 162849,
-      "name": "El Palco",
-      "url": "https://open.spotify.com/track/7qYKxM3FWiB7hWlVFWUXnM"
-    },
-    {
-      "added_at": "2025-06-19 22:00:43",
-      "album": {
         "name": "La matanza de Texas",
         "url": "https://open.spotify.com/album/1HOwpCbsknfSwH6ZBFM6WR"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 180386,
       "name": "La matanza de Texas",
       "url": "https://open.spotify.com/track/4SgXWK4j9rKd1gVk1Ul0WY"
+    },
+    {
+      "added_at": "2025-06-19 22:00:43",
+      "album": {
+        "name": "El Palco",
+        "url": "https://open.spotify.com/album/1QJx2XWmPZetIlNTV2ffEd"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 162849,
+      "name": "El Palco",
+      "url": "https://open.spotify.com/track/7qYKxM3FWiB7hWlVFWUXnM"
     },
     {
       "added_at": "2025-06-19 22:00:43",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-06-19 22:00:43",
       "album": {
-        "name": "Insurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f"
-      },
-      "artists": [
-        {
-          "name": "Cala Vento",
-          "url": "https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1"
-        }
-      ],
-      "duration_ms": 124521,
-      "name": "Insurrecci\u00f3n",
-      "url": "https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4"
-    },
-    {
-      "added_at": "2025-06-19 22:00:43",
-      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/49V5r8Lq0uy9LvHzEKzvfY"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 163995,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/2XmWFMAvrpztGKmRtQX4AH"
+    },
+    {
+      "added_at": "2025-06-19 22:00:43",
+      "album": {
+        "name": "Insurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f"
+      },
+      "artists": [
+        {
+          "name": "Cala Vento",
+          "url": "https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1"
+        }
+      ],
+      "duration_ms": 124521,
+      "name": "Insurrecci\u00f3n",
+      "url": "https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4"
     },
     {
       "added_at": "2025-06-19 22:00:43",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-06-19 22:00:43",
       "album": {
-        "name": "Huellas",
-        "url": "https://open.spotify.com/album/3YTTTrLrAo37JtKSkvMsTF"
-      },
-      "artists": [
-        {
-          "name": "Yacar\u00e9",
-          "url": "https://open.spotify.com/artist/1xndsW2XVHu6H17qFWCRzt"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "Huellas",
-      "url": "https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj"
-    },
-    {
-      "added_at": "2025-06-19 22:00:43",
-      "album": {
         "name": "De aqu\u00ed a un mes",
         "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 141023,
       "name": "De aqu\u00ed a un mes",
       "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
+    },
+    {
+      "added_at": "2025-06-19 22:00:43",
+      "album": {
+        "name": "Huellas",
+        "url": "https://open.spotify.com/album/3YTTTrLrAo37JtKSkvMsTF"
+      },
+      "artists": [
+        {
+          "name": "Yacar\u00e9",
+          "url": "https://open.spotify.com/artist/1xndsW2XVHu6H17qFWCRzt"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "Huellas",
+      "url": "https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj"
     },
     {
       "added_at": "2025-06-19 22:00:43",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-06-19 22:00:43",
       "album": {
-        "name": "A\u00fan no s\u00e9 nada del amor",
-        "url": "https://open.spotify.com/album/5t7rzhHnSjbEtTQeBGKQHb"
-      },
-      "artists": [
-        {
-          "name": "Tus Novias Indie",
-          "url": "https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Regla y purpurina",
-      "url": "https://open.spotify.com/track/5vZx86TYr9NSY8IRjng270"
-    },
-    {
-      "added_at": "2025-06-19 22:00:43",
-      "album": {
         "name": "Candorro",
         "url": "https://open.spotify.com/album/6t8TBzomcZmEWqh80nLiA3"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2025-06-19 22:00:43",
       "album": {
-        "name": "El sue\u00f1o de Dios",
-        "url": "https://open.spotify.com/album/56bHXsaNf0RgFtnB3bDd7d"
+        "name": "A\u00fan no s\u00e9 nada del amor",
+        "url": "https://open.spotify.com/album/5t7rzhHnSjbEtTQeBGKQHb"
       },
       "artists": [
         {
-          "name": "Vicente Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+          "name": "Tus Novias Indie",
+          "url": "https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl"
         }
       ],
-      "duration_ms": 199700,
-      "name": "El sue\u00f1o de Dios",
-      "url": "https://open.spotify.com/track/13jUfFSW21PY88QfBLdxuc"
+      "duration_ms": 194000,
+      "name": "Regla y purpurina",
+      "url": "https://open.spotify.com/track/5vZx86TYr9NSY8IRjng270"
     },
     {
       "added_at": "2025-06-19 22:00:43",
@@ -1303,6 +1287,22 @@
       "duration_ms": 146132,
       "name": "La gran renuncia",
       "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
+    },
+    {
+      "added_at": "2025-06-19 22:00:43",
+      "album": {
+        "name": "El sue\u00f1o de Dios",
+        "url": "https://open.spotify.com/album/56bHXsaNf0RgFtnB3bDd7d"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "El sue\u00f1o de Dios",
+      "url": "https://open.spotify.com/track/13jUfFSW21PY88QfBLdxuc"
     },
     {
       "added_at": "2025-06-19 22:00:43",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-06-19 22:00:43",
       "album": {
-        "name": "Todas a chica",
-        "url": "https://open.spotify.com/album/68unEZepTJeLoIfOLyOVGf"
-      },
-      "artists": [
-        {
-          "name": "Marina Dom\u00ednguez",
-          "url": "https://open.spotify.com/artist/3kheYglVYKfR3TCT7oy0lO"
-        }
-      ],
-      "duration_ms": 146353,
-      "name": "Ch\u00e1ndal Amarillo",
-      "url": "https://open.spotify.com/track/3fNinLoXXHdaS4Vrmsuug4"
-    },
-    {
-      "added_at": "2025-06-19 22:00:43",
-      "album": {
         "name": "Tu nombre es una puerta por cerrar",
         "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 244164,
       "name": "Tu nombre es una puerta por cerrar",
       "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+    },
+    {
+      "added_at": "2025-06-19 22:00:43",
+      "album": {
+        "name": "Todas a chica",
+        "url": "https://open.spotify.com/album/68unEZepTJeLoIfOLyOVGf"
+      },
+      "artists": [
+        {
+          "name": "Marina Dom\u00ednguez",
+          "url": "https://open.spotify.com/artist/3kheYglVYKfR3TCT7oy0lO"
+        }
+      ],
+      "duration_ms": 146353,
+      "name": "Ch\u00e1ndal Amarillo",
+      "url": "https://open.spotify.com/track/3fNinLoXXHdaS4Vrmsuug4"
     },
     {
       "added_at": "2025-06-19 22:00:43",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-06-19 22:00:43",
       "album": {
+        "name": "Pedro Bicicletas",
+        "url": "https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj"
+      },
+      "artists": [
+        {
+          "name": "Ru\u00efnosa y las Strippers de Rahola",
+          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Pedro Bicicletas",
+      "url": "https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx"
+    },
+    {
+      "added_at": "2025-06-19 22:00:43",
+      "album": {
         "name": "Catafalco",
         "url": "https://open.spotify.com/album/7jnV68FUuHlh11SIonJmmh"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 164722,
       "name": "Catafalco",
       "url": "https://open.spotify.com/track/3fJ0ARIzQ9hn2IbUs7tdls"
-    },
-    {
-      "added_at": "2025-06-19 22:00:43",
-      "album": {
-        "name": "Pedro Bicicletas",
-        "url": "https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj"
-      },
-      "artists": [
-        {
-          "name": "Ru\u00efnosa y las Strippers de Rahola",
-          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Pedro Bicicletas",
-      "url": "https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx"
     },
     {
       "added_at": "2025-06-19 22:00:43",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-06-19 22:00:43",
       "album": {
-        "name": "Rob Gordon",
-        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
-      },
-      "artists": [
-        {
-          "name": "Becarios",
-          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
-        }
-      ],
-      "duration_ms": 123309,
-      "name": "Rob Gordon",
-      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
-    },
-    {
-      "added_at": "2025-06-19 22:00:43",
-      "album": {
         "name": "Huella de ti",
         "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 197253,
       "name": "Huella de ti",
       "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
+    },
+    {
+      "added_at": "2025-06-19 22:00:43",
+      "album": {
+        "name": "Rob Gordon",
+        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
+      },
+      "artists": [
+        {
+          "name": "Becarios",
+          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
+        }
+      ],
+      "duration_ms": 123309,
+      "name": "Rob Gordon",
+      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
     }
   ],
   "unique_name": "Rock 2025",

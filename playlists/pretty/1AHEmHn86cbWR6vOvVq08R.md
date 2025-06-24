@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1AHEmHn86cbWR6vOvVq08R.md) - [plain]
 
 > Over 6 hours of Alternative &amp; Rock anthems from the 90's including Blink 182, Offspring and more! Cover: Nirvana
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,595 likes - 100 songs - 6 hr 52 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,596 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

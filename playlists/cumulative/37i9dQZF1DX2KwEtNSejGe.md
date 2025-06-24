@@ -2,7 +2,7 @@
 
 ### [pop songs we can all scream](https://open.spotify.com/playlist/37i9dQZF1DX2KwEtNSejGe)
 
-> Songs you can't help but just scream along to\. Cover: Myles Smith
+> the ones you can't sing loud enough
 
 172 songs - 10 hr 27 min
 

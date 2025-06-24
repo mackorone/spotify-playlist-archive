@@ -4,7 +4,7 @@
 
 > Ebony e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-637 songs - 1 day 12 hr 53 min
+638 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 | 2023-04-17 | 2023-05-16 |
 | [Pauperrecido](https://open.spotify.com/track/5vc69sUZhHdirTDxOx7ns9) | [Vinny Santa Fé](https://open.spotify.com/artist/19A5pgqDMOLR3hHZ1Piv8d) | [Pauperrecido](https://open.spotify.com/album/2F1jwwXKvwdaEgLEAtX5Hk) | 3:33 | 2022-03-18 | 2022-04-12 |
 | [pausa da sua tristeza](https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 3:13 | 2024-07-01 | 2025-03-28 |
+| [Pavão](https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Antes Que a Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:26 | 2025-06-20 |  |
 | [Pela Vida Inteira / Vergonha Na Cara \- Ao Vivo](https://open.spotify.com/track/2sC9NcBWmZX2gt3gM0ZEmo) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Tardezinha Bis \(Ao Vivo\)](https://open.spotify.com/album/0PGS3Oa79boNay0QSOhLDx) | 3:46 | 2024-02-09 | 2024-07-31 |
 | [Pelo](https://open.spotify.com/track/6QcE06hPxLApPITC6lGLdx) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 2:53 | 2022-12-12 | 2023-01-03 |
 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 | 2023-10-27 | 2024-02-10 |
@@ -599,7 +600,7 @@
 | [Tropa do Mantém](https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Tropa do Mantém](https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ) | 2:44 | 2023-09-27 | 2023-11-22 |
 | [TunTunTun \- Spotify Singles](https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [TunTunTun \(Spotify Singles\)](https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK) | 3:06 | 2023-11-17 | 2025-05-30 |
 | [Tô Com Saudade / Alô / Fugidinha \- Ao Vivo](https://open.spotify.com/track/6OHGjBE0LvIGTlRP7KMpdh) | [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [De Repente..\. Curitiba \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/112AFXwCPqiMKowuRSCevu) | 5:27 | 2023-09-01 | 2023-09-23 |
-| [Tô de Nave](https://open.spotify.com/track/5qRmRNCQNFe7bVlUXnUy3Z) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Tô de Nave](https://open.spotify.com/album/2DDiIuwuXd6mzgJWNxbhDw) | 3:42 | 2025-06-13 |  |
+| [Tô de Nave](https://open.spotify.com/track/5qRmRNCQNFe7bVlUXnUy3Z) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Tô de Nave](https://open.spotify.com/album/2DDiIuwuXd6mzgJWNxbhDw) | 3:42 | 2025-06-13 | 2025-06-24 |
 | [um quebrada inteligente!](https://open.spotify.com/track/6uBfSJZQ27gCDVne6xhDmO) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y) | 1:56 | 2023-08-04 | 2023-08-26 |
 | [USD, é USD!](https://open.spotify.com/track/0JPpScEAtvRvWQ38nifwO9) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Mzl Ori](https://open.spotify.com/artist/7b2orftrm2hU49EZKOD2Tz) | [USD, é USD!](https://open.spotify.com/album/5leihKxCDkW9o25unr3j6S) | 3:01 | 2025-04-05 |  |
 | [Vai](https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN) | [GB](https://open.spotify.com/artist/71xcLqhkXhPIX0eSmTofTq), [Pique Novo](https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz) | [Vai](https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0) | 2:57 | 2023-11-24 | 2024-01-10 |

@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Zs\u00e1 Zs\u00e1",
-  "num_followers": 39282,
+  "num_followers": 39296,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-06-09 09:02:49",
       "album": {
+        "name": "ICH GEH MIT MIR",
+        "url": "https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb"
+      },
+      "artists": [
+        {
+          "name": "LORI",
+          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
+        }
+      ],
+      "duration_ms": 187155,
+      "name": "ICH GEH MIT MIR",
+      "url": "https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk"
+    },
+    {
+      "added_at": "2025-06-09 09:02:49",
+      "album": {
         "name": "FSK (ficken saufen kotzen)",
         "url": "https://open.spotify.com/album/6k2e9mpEoH2aA6JAQ6oY1g"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 125004,
       "name": "FSK (ficken saufen kotzen)",
       "url": "https://open.spotify.com/track/1DYnNZmmGbZ02Ok0QPM8ig"
-    },
-    {
-      "added_at": "2025-06-09 09:02:49",
-      "album": {
-        "name": "ICH GEH MIT MIR",
-        "url": "https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb"
-      },
-      "artists": [
-        {
-          "name": "LORI",
-          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
-        }
-      ],
-      "duration_ms": 187155,
-      "name": "ICH GEH MIT MIR",
-      "url": "https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk"
     },
     {
       "added_at": "2025-06-09 09:02:49",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-06-09 09:02:49",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/3mAeleHsO986ZPtRTd2I8X"
-      },
-      "artists": [
-        {
-          "name": "Eunique",
-          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
-        }
-      ],
-      "duration_ms": 178051,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4ilObt2d81ny3mrhkHiThh"
-    },
-    {
-      "added_at": "2025-06-09 09:02:49",
-      "album": {
         "name": "Das Beste",
         "url": "https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 152000,
       "name": "Das Beste",
       "url": "https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh"
+    },
+    {
+      "added_at": "2025-06-09 09:02:49",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3mAeleHsO986ZPtRTd2I8X"
+      },
+      "artists": [
+        {
+          "name": "Eunique",
+          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
+        }
+      ],
+      "duration_ms": 178051,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4ilObt2d81ny3mrhkHiThh"
     },
     {
       "added_at": "2025-06-09 09:02:49",

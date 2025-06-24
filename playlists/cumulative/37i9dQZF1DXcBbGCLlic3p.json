@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 154500,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/0DyXcn49uSWrnZGaGYKzf4"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 192374,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/4WF88Pk0JMP7uOpdrd0bDL"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 185000,
       "name": "Blue Planet",
       "url": "https://open.spotify.com/track/29KXf3gbyfbtG5OWTxnssl"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 152664,
       "name": "Calling",
       "url": "https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 173500,
       "name": "Celandine",
       "url": "https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 226750,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK"
@@ -1334,6 +1334,24 @@
       "duration_ms": 201000,
       "name": "Depth",
       "url": "https://open.spotify.com/track/73EWZ5JKF4RJgH1HhQgDYp"
+    },
+    {
+      "album": {
+        "name": "Desdemona",
+        "url": "https://open.spotify.com/album/75GHjltL70icfSULhtTAJ9"
+      },
+      "artists": [
+        {
+          "name": "Echoes of Embers",
+          "url": "https://open.spotify.com/artist/7MwzUYxIJX8T2qqwLBAlGH"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159667,
+      "name": "Desdemona",
+      "url": "https://open.spotify.com/track/6658M6gKEV14myaaVKpKrl"
     },
     {
       "album": {
@@ -1553,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Drift and Dream",
+        "url": "https://open.spotify.com/album/2jaiwGfSgvBLZlg150X363"
+      },
+      "artists": [
+        {
+          "name": "Aitne",
+          "url": "https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203036,
+      "name": "Drift and Dream",
+      "url": "https://open.spotify.com/track/098LbZ8UzF9IPPSRK7ueLx"
+    },
+    {
+      "album": {
         "name": "Dr\u00f8mme",
         "url": "https://open.spotify.com/album/37DmOAu4jFHqzroEvraPPu"
       },
@@ -1600,7 +1636,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 211397,
       "name": "Dunes",
       "url": "https://open.spotify.com/track/2BbegPQGNccK4UiK4PCRRm"
@@ -1877,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Falling Light",
+        "url": "https://open.spotify.com/album/2BvJNGDqu9TGz3tjsEQZlQ"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136683,
+      "name": "Falling Light",
+      "url": "https://open.spotify.com/track/660MDwkTsKjaVrpevWGo2N"
+    },
+    {
+      "album": {
         "name": "Feathers",
         "url": "https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V"
       },
@@ -1928,6 +1982,24 @@
       "duration_ms": 150500,
       "name": "First Light",
       "url": "https://open.spotify.com/track/2xMRV2aluVRtSHYKNHTnGi"
+    },
+    {
+      "album": {
+        "name": "fleeting moments",
+        "url": "https://open.spotify.com/album/3HYGkEnc2T8HRN9H6ciQZb"
+      },
+      "artists": [
+        {
+          "name": "austice",
+          "url": "https://open.spotify.com/artist/1iZ4k3yVszfq6m6vw1AQ5L"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "fleeting moments",
+      "url": "https://open.spotify.com/track/3UgcBjp1Rnis5JPmB5jRer"
     },
     {
       "album": {
@@ -2108,6 +2180,24 @@
       "duration_ms": 212101,
       "name": "Frozen Tundra",
       "url": "https://open.spotify.com/track/3KX5zmTOX6JmHFVqG5ID12"
+    },
+    {
+      "album": {
+        "name": "Generations",
+        "url": "https://open.spotify.com/album/2kF16jDEhp1GiWZifLjl4c"
+      },
+      "artists": [
+        {
+          "name": "Ad Nox",
+          "url": "https://open.spotify.com/artist/2G8JSxmJci0CHBCsA9c11t"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Generations",
+      "url": "https://open.spotify.com/track/2O9z5ycwgQcLn7FuMpBqMI"
     },
     {
       "album": {
@@ -2428,7 +2518,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 184648,
       "name": "Horizon Echoes",
       "url": "https://open.spotify.com/track/6mVR4skJMDCu3bnvQdwPEK"
@@ -3022,7 +3112,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 236258,
       "name": "Linea Degli Alberi",
       "url": "https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY"
@@ -3130,7 +3220,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 146250,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3O1AqwrqIwVoAr0GET75SY"
@@ -3274,7 +3364,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 213867,
       "name": "Midway",
       "url": "https://open.spotify.com/track/2kTv2khALDAQLexccNt7Ik"
@@ -3760,10 +3850,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 161860,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3SPPdz0CTI2RSZ8HROkHy8"
+    },
+    {
+      "album": {
+        "name": "N\u00e9n",
+        "url": "https://open.spotify.com/album/17dxYrDIJJn2oYGRTnwaV4"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3ni Alma",
+          "url": "https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142071,
+      "name": "N\u00e9n",
+      "url": "https://open.spotify.com/track/7CO0OA1Cy5kayFDcf04agS"
     },
     {
       "album": {
@@ -3832,7 +3940,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 175150,
       "name": "October Skies",
       "url": "https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm"
@@ -4228,7 +4336,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 218624,
       "name": "Primrose",
       "url": "https://open.spotify.com/track/5tIbsGFsbxljVv1KxUUXKV"
@@ -4268,6 +4376,24 @@
       "duration_ms": 177391,
       "name": "Protection",
       "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
+    },
+    {
+      "album": {
+        "name": "Prudence",
+        "url": "https://open.spotify.com/album/5KzOJ4MEF2yLyNUWKrdIpi"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Prudence",
+      "url": "https://open.spotify.com/track/11vNvIPRoBMJ70Ypz6IZet"
     },
     {
       "album": {
@@ -4336,7 +4462,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 229458,
       "name": "Pure Elenor",
       "url": "https://open.spotify.com/track/1qanc3ZhU47J6C0lqAj7xD"
@@ -4444,7 +4570,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 190266,
       "name": "Reawake",
       "url": "https://open.spotify.com/track/5Aew5mU2PX5VffgzLKcBrv"
@@ -4624,7 +4750,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 170124,
       "name": "Salve",
       "url": "https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ"
@@ -4750,7 +4876,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 218500,
       "name": "Schwebend",
       "url": "https://open.spotify.com/track/775dmuIRQojrplsns8VKen"
@@ -5262,10 +5388,28 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 129899,
       "name": "South Winds",
       "url": "https://open.spotify.com/track/1WuHbK7rH9xKLAtpAYm3gY"
+    },
+    {
+      "album": {
+        "name": "Spa Day",
+        "url": "https://open.spotify.com/album/2bPXalfE0T8UyQ4lr223DI"
+      },
+      "artists": [
+        {
+          "name": "Green Glass Reflection",
+          "url": "https://open.spotify.com/artist/7fHa8qmhzRNvmHQC2mDEtc"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Spa Day",
+      "url": "https://open.spotify.com/track/6BIvJLsEPmTdwlW00g645Y"
     },
     {
       "album": {
@@ -5503,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "Tenderness",
+        "url": "https://open.spotify.com/album/2iTx4Viy4LGZubiWj64qOi"
+      },
+      "artists": [
+        {
+          "name": "Airship Express",
+          "url": "https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192959,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/1F1M1ZLAX1Lgqj0OBeuctg"
+    },
+    {
+      "album": {
         "name": "Tenksom",
         "url": "https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe"
       },
@@ -5712,7 +5874,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 163926,
       "name": "The Light In Me",
       "url": "https://open.spotify.com/track/0QsrxoErYSFgokFKZ1Hyah"
@@ -6198,7 +6360,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 171975,
       "name": "Wherever The Light Takes Me",
       "url": "https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1"
@@ -6324,7 +6486,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 199488,
       "name": "\u00e9ternit\u00e9",
       "url": "https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku"

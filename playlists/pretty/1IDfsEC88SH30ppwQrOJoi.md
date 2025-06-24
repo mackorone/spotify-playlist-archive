@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,315 likes - 141 songs - 7 hr 1 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,315 likes - 144 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,5 +149,8 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 139 | [La Bomba](https://open.spotify.com/track/3mp0R7UzCB9tP0tjBCtGr0) | [Aphesta](https://open.spotify.com/artist/7zWSFa0jzUynkGowMgzH46) | [Wet Mode](https://open.spotify.com/album/2zJnjm8f9oJjOnnnRhRYMw) | 2:29 |
 | 140 | [Dusk Till Dawn](https://open.spotify.com/track/0PPi1m29PJixaV00zIngDc) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Erire](https://open.spotify.com/artist/6WEl7zw5Lt5cLo3OthIoCj) | [Dusk Till Dawn](https://open.spotify.com/album/4lfTQlhIe89eQJlIF2yhE7) | 3:14 |
 | 141 | [Everybody](https://open.spotify.com/track/6WaTxGKcQNbiePjtVRXY97) | [Casmalia](https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT), [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Everybody](https://open.spotify.com/album/6kCAmzATn2Z286JGMoNucU) | 3:08 |
+| 142 | [Lift Off](https://open.spotify.com/track/5B4aLFjDVJ6jRDIuFER1Dp) | [Kaitlyn](https://open.spotify.com/artist/3HH37h87eKjTIxA2oZSy5d) | [Lift Off](https://open.spotify.com/album/0fMffg9h8wPGuwRYsttBaW) | 2:03 |
+| 143 | [Goodies](https://open.spotify.com/track/5TcsyxRBkIjgmaoSW9oaZL) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Goodies](https://open.spotify.com/album/4y9b6DMmobsAxtUvMO7xcT) | 3:13 |
+| 144 | [WTF](https://open.spotify.com/track/7s5ARfWfo6oLj1fbA9q0dD) | [Bender](https://open.spotify.com/artist/7fxWKpzyr4ZXEoNLtuxmrd) | [WTF](https://open.spotify.com/album/5Ae3RgNlkm4398RTCB8g4z) | 3:11 |
 
-Snapshot ID: `AAAKY2vHWWGOp/R3Hyq/NC2xS1dacrkd`
+Snapshot ID: `AAAKZpkfCYnIC6YQSEHXpecEoKpqw+Fc`

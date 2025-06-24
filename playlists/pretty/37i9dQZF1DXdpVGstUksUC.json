@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 545143,
+  "num_followers": 545164,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
-      },
-      "artists": [
-        {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
-        }
-      ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dopethrone",
         "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 389466,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+        }
+      ],
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "In Search Of",
-        "url": "https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 306973,
-      "name": "Neptune's Convoy",
-      "url": "https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Lightning Born",
         "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 275066,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "In Search Of",
+        "url": "https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 306973,
+      "name": "Neptune's Convoy",
+      "url": "https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Nothing as the Ideal",
         "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 492494,
       "name": "Up in the Sky",
       "url": "https://open.spotify.com/track/0eXfZ0Tq12ErDNOJFnhZRm"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Superjudge",
-        "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 409466,
-      "name": "Superjudge",
-      "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
     }
   ],
   "unique_name": "Stoner Rock",

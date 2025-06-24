@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: TOPS
+> La scène musicale montréalaise au premier plan\. Photo: Valence
 
-597 songs - 1 day 10 hr 6 min
+599 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [5AM](https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:26 | 2023-02-26 | 2024-03-23 |
 | [<3 <\~je\~> 3>](https://open.spotify.com/track/79g50LUtLlZSQ4RtF4lwAF) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK), [Wake Island](https://open.spotify.com/artist/0FXZWBe4MYnB5ArTU9RnXE) | [<3 <\~je\~> 3>](https://open.spotify.com/album/5MgEhsYvAMIOwnMssvVECb) | 3:03 | 2023-05-19 | 2024-08-03 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2023-09-16 |
+| [Actress](https://open.spotify.com/track/0jhruq62eOzLG3tH2haDVh) | [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq) | [Desire Days](https://open.spotify.com/album/5icDh0mJkNBgAC89IlGZg2) | 4:46 | 2025-06-23 |  |
 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 | 2023-09-22 | 2025-03-22 |
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-25 | 2022-11-26 |
 | [Aftertaste](https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Aftertaste](https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB) | 4:04 | 2022-12-09 | 2023-02-27 |
@@ -114,7 +115,8 @@
 | [Clair\-obscur](https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Clair\-obscur](https://open.spotify.com/album/2LjMKk3L8nwesuU0TfaoeQ) | 3:30 | 2024-04-05 | 2025-06-07 |
 | [CLOSER TO MY DREAMS](https://open.spotify.com/track/5Do0RgImAao120hKTxnhW8) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [JAYLIEN](https://open.spotify.com/artist/6t3YMGSTDtFDBUFfUHsJS0) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:29 | 2022-03-25 | 2022-09-24 |
 | [CNQDL](https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [CNQDL](https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei) | 3:40 | 2022-05-06 | 2023-03-11 |
-| [Coca Cola](https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Coca cola](https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t) | 4:06 | 2024-01-12 |  |
+| [Coca Cola](https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Coca cola](https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t) | 4:06 | 2024-01-12 | 2025-06-24 |
+| [Coffee's Ready](https://open.spotify.com/track/30XUPQ3sPmAN9dtLCqoeq5) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Coffee's Ready](https://open.spotify.com/album/5pidK0ZCnUOcPU5KYb4lMt) | 3:28 | 2025-06-23 |  |
 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 | 2022-05-13 | 2023-05-20 |
 | [Cold](https://open.spotify.com/track/181IvC53BYaus1aK7cZ3ID) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/78KDFkGu8CF2E4imyMGCnY) | 2:59 | 2022-03-25 | 2022-07-29 |
 | [Cold](https://open.spotify.com/track/1tiX1UC9gFJtHqCPNCu8WN) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Happy Thanksgiving D\*\*\*heads](https://open.spotify.com/album/7nBxHzpHOCkV4aVZMsi9xH) | 2:59 | 2022-10-28 | 2022-11-13 |
@@ -522,7 +524,7 @@
 | [Stuck Here](https://open.spotify.com/track/3Y0No5lXAS30OlN84b6NWv) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Tragedy](https://open.spotify.com/album/5rtzuc9i65JU8u90cOOFPr) | 3:11 | 2023-03-24 | 2024-05-25 |
 | [Sumerset](https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 3:42 | 2024-03-29 | 2024-06-08 |
 | [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 | 2022-07-22 | 2022-11-12 |
-| [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-19 |  |
+| [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-19 | 2025-06-24 |
 | [Sunday Morning](https://open.spotify.com/track/2kV2gzrfWhoxXBumKCeh01) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Sunday Morning](https://open.spotify.com/album/5wZufLuyvuv9n7pBhUT6ai) | 2:26 | 2024-08-16 | 2025-05-31 |
 | [Supermonkeyball](https://open.spotify.com/track/2q6tE7DuOXOA1770rU8whn) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA) | [Supermonkeyball](https://open.spotify.com/album/39PXCIY1r6XFg6ia4DTdU3) | 3:48 | 2022-05-20 | 2023-08-19 |
 | [Sur la glace](https://open.spotify.com/track/0Pw98pAQO87gY4zS1xyoqb) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Années Sauvages Part\. 2](https://open.spotify.com/album/5p14nDbenYj1UxuSNU8EVH) | 3:10 | 2023-11-10 | 2025-05-17 |

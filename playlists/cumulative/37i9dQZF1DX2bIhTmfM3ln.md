@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-779 songs - 1 day 13 hr 53 min
+780 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Balance It](https://open.spotify.com/track/5lSAVaWdDWebYm6np4QAIk) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/76gTwaKCqPjsjwmJMuxjA1) | 3:07 | 2022-07-28 | 2022-08-21 |
 | [Beautiful](https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Beautiful](https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST) | 3:07 | 2023-03-03 | 2023-03-18 |
 | [Beautiful](https://open.spotify.com/track/3Jbbpijvtlt7q8BQxdo7Aa) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Beautiful](https://open.spotify.com/album/3awn4URVbx6A9yzwevCbSo) | 3:08 | 2023-06-22 | 2023-08-04 |
+| [Beautiful \(Remix\)](https://open.spotify.com/track/3qUMr8mq6eZ2z98gVmWAZQ) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Beautiful](https://open.spotify.com/album/5xqPZ5JUNnRaaNj1fhAFDv) | 3:37 | 2025-06-20 |  |
 | [Beautiful Lies \- Remix](https://open.spotify.com/track/4aMK9sdXm7JtL99wpbqW0b) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Beautiful Lies \(Remix\)](https://open.spotify.com/album/5IfB43W03FxgMEsfs2Ycrr) | 2:56 | 2024-03-15 | 2024-05-03 |
 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 | 2022-02-11 | 2023-02-24 |
 | [Before You Wake Up](https://open.spotify.com/track/2PKRz9DR6lUX6zAJgW5aRV) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Before You Wake Up](https://open.spotify.com/album/7c3illLdUqSIVXTb6h3zEC) | 2:54 | 2024-02-13 | 2024-02-16 |
@@ -384,7 +385,7 @@
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-28 | 2024-01-04 |
 | [Lately \(feat\. Ruger\)](https://open.spotify.com/track/46FW3Liu7MUD6yrmhPXc5C) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Lately \(feat\. Ruger\)](https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF) | 2:51 | 2024-09-06 | 2025-03-08 |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 | 2023-01-20 |
-| [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 | 2024-10-25 |  |
+| [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 | 2024-10-25 | 2025-06-24 |
 | [LEMON & ICE](https://open.spotify.com/track/2RjMbn9t2htoGo0lBYhV49) | [Shauna Shadae](https://open.spotify.com/artist/3emXVifDxKaDkNSJ3MX0wr), [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [LEMON & ICE](https://open.spotify.com/album/0qFb7xbQHzcazJuVXikU4Y) | 2:57 | 2024-09-20 | 2024-09-28 |
 | [Let Me Be](https://open.spotify.com/track/3u8OeLttFqulCrcb3odEps) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Christer](https://open.spotify.com/artist/2vemjAzrRomX77RflYLqbU), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Moments After](https://open.spotify.com/album/1LkeXOTB9ErcgYzQF6EYMV) | 2:33 | 2025-05-30 |  |
 | [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 | 2024-09-20 | 2025-03-08 |

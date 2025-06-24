@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,030 songs - 4 day 13 hr 40 min
+2,031 songs - 4 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,7 @@
 | [Je suis fan](https://open.spotify.com/track/3mPCozV61t2CENgcBNOyJ8) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [DRAMA](https://open.spotify.com/album/07Vv8jai6rYMEj7eL0MZTy) | 2:48 | 2022-03-24 | 2022-08-02 |
 | [je vais bien.](https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [je vais bien.](https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7) | 2:58 | 2024-11-29 | 2025-01-14 |
 | [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 | 2022-09-08 | 2023-05-31 |
-| [Jean Blau](https://open.spotify.com/track/1P21dQqCpaF9LKXxTuG7Jn) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Jean Blau](https://open.spotify.com/album/6HWFQAjHklgLMgGGJePsXN) | 3:17 | 2025-03-28 |  |
+| [Jean Blau](https://open.spotify.com/track/1P21dQqCpaF9LKXxTuG7Jn) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Jean Blau](https://open.spotify.com/album/6HWFQAjHklgLMgGGJePsXN) | 3:17 | 2025-03-28 | 2025-06-24 |
 | [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 | 2024-07-18 | 2024-12-14 |
 | [Jogi](https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:16 | 2024-03-15 | 2024-05-25 |
 | [Jolie madame](https://open.spotify.com/track/7fYB590T7fHkg6Ru8PqdpX) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Jolie madame](https://open.spotify.com/album/0m6QpYwHKXffZvnx6WLnPM) | 3:03 | 2022-03-24 | 2022-04-19 |
@@ -1473,6 +1473,7 @@
 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/5UzmjsUHQDr6hYuZbXfXoT) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 3:17 | 2022-03-24 | 2022-12-15 |
 | [sierpień](https://open.spotify.com/track/6ufHwZE7JDBOzxEjIb6UWa) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [sierpień](https://open.spotify.com/album/53dL8KTiNeHNpTAy0yVhnz) | 2:46 | 2022-03-24 | 2022-08-02 |
 | [Single focus](https://open.spotify.com/track/6gXHe5OFhQtRYbqR0QRNEQ) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Single focus](https://open.spotify.com/album/6orsNgms9Um4gYMzguSsD0) | 3:01 | 2022-02-10 | 2023-01-28 |
+| [Sink](https://open.spotify.com/track/2YgkzkCXMHLUAlCyomymc7) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Sink](https://open.spotify.com/album/2n8eGRpSFWWRml7x0g7j2m) | 4:00 | 2025-06-20 |  |
 | [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 | 2024-06-28 | 2025-01-11 |
 | [Six Flags](https://open.spotify.com/track/7FbWdVkWMxtu3WCkRJ5qWr) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Six Flags](https://open.spotify.com/album/3CC5OhmKYTQw0pvfTODjzV) | 2:39 | 2022-03-24 | 2023-04-18 |
 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2024-02-09 | 2024-03-16 |

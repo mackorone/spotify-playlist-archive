@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 Lauv \[I Love You, Mean It Tour in Daegu\] 5월 24, 25일 @ 엑스코 5층 컨벤션홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,602 likes - 20 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,613 likes - 20 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gippy Grewal & Sargun Mehta
 
-306 songs - 15 hr 47 min
+307 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Mere Wala Jatt](https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mere Wala Jatt](https://open.spotify.com/album/71mPX0HJuZ6FSJD7WNiTCi) | 3:43 | 2021-12-18 | 2023-07-27 |
 | [Mirza](https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Mirza](https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01) | 2:38 | 2025-02-25 |  |
 | [Mishri Di Dalli](https://open.spotify.com/track/1rUhUE6pjSPCGH6Izy6me2) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Maahi Sharma](https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ) | [Mishri Di Dalli](https://open.spotify.com/album/1N2u2NtCexUJ1yRsK1Sv8t) | 3:47 | 2025-01-08 |  |
-| [Miss Kaur](https://open.spotify.com/track/32FS8jYFQ9JWOVjnXYUBW3) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Miss Kaur](https://open.spotify.com/album/2Cs3UBpzzDfXVisd0Mblfn) | 4:12 | 2025-03-24 |  |
+| [Miss Kaur](https://open.spotify.com/track/32FS8jYFQ9JWOVjnXYUBW3) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Miss Kaur](https://open.spotify.com/album/2Cs3UBpzzDfXVisd0Mblfn) | 4:12 | 2025-03-24 | 2025-06-24 |
 | [Mitra Ne Dil Mangeya](https://open.spotify.com/track/0wa9U4paFYblyxZZfjYpCk) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Mitra Ne Dil Mangeya](https://open.spotify.com/album/7DRxW3DYyxUzAeRX2D2Hg9) | 2:42 | 2025-01-08 |  |
 | [Morni](https://open.spotify.com/track/1VOgz5axYh26Nh3oS6hkXj) | [Jimmy Kaler](https://open.spotify.com/artist/2IAyVsAofx5cXN3NKetayj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Morni](https://open.spotify.com/album/0naDyG2uWzFfuy6bwkbo8C) | 3:30 | 2021-12-18 | 2022-01-11 |
 | [Morniya’n](https://open.spotify.com/track/0hpjnu8OTuOb6Nru1tvphM) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Nostalgia](https://open.spotify.com/album/3ypK4QMoFBgFrW2Z6PGqXm) | 4:12 | 2025-05-06 | 2025-05-30 |
@@ -314,5 +314,6 @@
 | [Yaaran Vich Jee](https://open.spotify.com/track/261PVPZEar9zZTlcBkB52O) | [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Yaaran Vich Jee](https://open.spotify.com/album/30HWbDk5maW6hn3UEIHc2f) | 2:52 | 2022-09-10 | 2023-10-21 |
 | [Yaari Chandigarh Waliye](https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mitti Da Bawa](https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW) | 3:04 | 2025-01-08 |  |
 | [Youngest In Charge](https://open.spotify.com/track/2V52mICuJnWB3C4lrJZd7v) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Youngest In Charge](https://open.spotify.com/album/1vgjx6xmhIKGa5eiKeJvSB) | 3:18 | 2022-02-14 | 2023-07-27 |
+| [Zulfaan](https://open.spotify.com/track/512YQFvxWjeZIzwOxSul6k) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Zulfaan](https://open.spotify.com/album/0H4baETphKbB7WwKtCMUkP) | 3:05 | 2025-06-23 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

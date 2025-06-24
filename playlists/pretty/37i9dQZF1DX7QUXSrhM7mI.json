@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 89430,
+  "num_followers": 89431,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFTc7wAAAABQyVzX7ZWDDXb8kex6aAnl",
+  "snapshot_id": "aFmF0wAAAACdhKV23erxFUFAusy/USMD",
   "tracks": [
     {
       "added_at": "2025-06-20 04:00:47",
@@ -59,6 +59,38 @@
     {
       "added_at": "2025-06-20 04:00:47",
       "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "added_at": "2025-06-23 16:50:27",
+      "album": {
+        "name": "Bring Your Love / Angel Eyes",
+        "url": "https://open.spotify.com/album/2O5qigf4jDcHkhU4l7jRyb"
+      },
+      "artists": [
+        {
+          "name": "The Charities",
+          "url": "https://open.spotify.com/artist/6sj6p5wxfR9ueVEp93RRBf"
+        }
+      ],
+      "duration_ms": 150815,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/4EVkYQKxqD5JgdFSkyMjaS"
+    },
+    {
+      "added_at": "2025-06-20 04:00:47",
+      "album": {
         "name": "Ama said",
         "url": "https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ"
       },
@@ -95,22 +127,6 @@
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
-    },
-    {
-      "added_at": "2025-06-20 04:00:47",
-      "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
       "added_at": "2025-06-13 03:30:00",
@@ -651,22 +667,6 @@
       "duration_ms": 187787,
       "name": "First Love",
       "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
-    },
-    {
-      "added_at": "2025-06-13 03:30:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7axYw9E8XyrWEX4rqeV9aW"
-      },
-      "artists": [
-        {
-          "name": "Zola Simone",
-          "url": "https://open.spotify.com/artist/62EOPpT45FPsh7wWpWnv9K"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Running Dry",
-      "url": "https://open.spotify.com/track/0BDnLfRDvmTW609urDbWcv"
     },
     {
       "added_at": "2025-06-13 03:30:00",

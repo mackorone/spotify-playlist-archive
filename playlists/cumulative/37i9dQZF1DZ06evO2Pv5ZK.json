@@ -1227,6 +1227,32 @@
     },
     {
       "album": {
+        "name": "Choreography",
+        "url": "https://open.spotify.com/album/245UqtLnzoMh8Kt4riYb66"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        },
+        {
+          "name": "Vanessa-Mae",
+          "url": "https://open.spotify.com/artist/1XucD9urBtUadfCNvZc4Pp"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2025-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282893,
+      "name": "Roxane's Veil",
+      "url": "https://open.spotify.com/track/6uIvMism0EU8RxOZyj8XcY"
+    },
+    {
+      "album": {
         "name": "Opera sauvage (Remastered)",
         "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
       },

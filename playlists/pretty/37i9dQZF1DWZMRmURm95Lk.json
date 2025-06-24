@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Cover: Neffa",
-  "num_followers": 46638,
+  "num_followers": 46649,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "aFSWygAAAAAq36KOGXnM2Fhn+1ATsYkj",
   "tracks": [
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
-        "name": "Guerra E Pace",
-        "url": "https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        },
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Panico",
-      "url": "https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1"
-    },
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 187615,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Guerra E Pace",
+        "url": "https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Panico",
+      "url": "https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -275,8 +275,8 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "Canerandagio - Parte 1",
-        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
+        "name": "FoglieMorte (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/2f0iQLwfF18nPfxFOKkcsb"
       },
       "artists": [
         {
@@ -284,17 +284,13 @@
           "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         },
         {
-          "name": "Joan Thiele",
-          "url": "https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 171307,
-      "name": "Miraggio (feat. Joan Thiele & Gemitaiz)",
-      "url": "https://open.spotify.com/track/5NvshwcLQy83Y9tl7VWiTc"
+      "duration_ms": 177333,
+      "name": "FoglieMorte (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/6MVM9wjGUT7OFbAnDAtIEm"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -447,8 +443,8 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "FoglieMorte (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/2f0iQLwfF18nPfxFOKkcsb"
+        "name": "Canerandagio - Parte 1",
+        "url": "https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc"
       },
       "artists": [
         {
@@ -456,13 +452,17 @@
           "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         },
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Joan Thiele",
+          "url": "https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 177333,
-      "name": "FoglieMorte (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/6MVM9wjGUT7OFbAnDAtIEm"
+      "duration_ms": 171307,
+      "name": "Miraggio (feat. Joan Thiele & Gemitaiz)",
+      "url": "https://open.spotify.com/track/5NvshwcLQy83Y9tl7VWiTc"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 160021,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
         "name": "Classe 73",
         "url": "https://open.spotify.com/album/54GeEc4tDY4pozqquEQ8qj"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 222000,
       "name": "Giorni matti",
       "url": "https://open.spotify.com/track/4UcEhlM24HS6DkVwnv7Hys"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
-        "name": "Acqua",
-        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
-      },
-      "artists": [
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        }
-      ],
-      "duration_ms": 160021,
-      "name": "KO",
-      "url": "https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4Pn1ZirXzWEOI578Ncj0Q9"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
         "name": "URLAMI",
         "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 181599,
       "name": "URLAMI",
       "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4Pn1ZirXzWEOI578Ncj0Q9"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "Background",
-        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 304066,
-      "name": "S.I.C.",
-      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 224000,
       "name": "Notte Blu",
       "url": "https://open.spotify.com/track/2JiiQIk1Pr0k6DJdxuySB9"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Background",
+        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 304066,
+      "name": "S.I.C.",
+      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "Kenny Wells",
-        "url": "https://open.spotify.com/album/0I6mOIKh7HwXTqpKMSjmzH"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Kenny Wells",
-      "url": "https://open.spotify.com/track/5KvYBH6Ux45afVhHiTgimO"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
         "name": "Teoria Del Contrario Mixtape Vol. 3",
         "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 173877,
       "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
       "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Kenny Wells",
+        "url": "https://open.spotify.com/album/0I6mOIKh7HwXTqpKMSjmzH"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Kenny Wells",
+      "url": "https://open.spotify.com/track/5KvYBH6Ux45afVhHiTgimO"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
+        "name": "Teoria Del Contrario",
+        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Pitto Stail",
+          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
+        }
+      ],
+      "duration_ms": 171942,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
         "name": "DREAM TEAM (un'altra incredibile produzione)",
         "url": "https://open.spotify.com/album/69s4pEahUa42GcwjKu8NL9"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 246206,
       "name": "Starting Five 92",
       "url": "https://open.spotify.com/track/4zEGuJlqVD67xRLU1MYcVb"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
-        "name": "Teoria Del Contrario",
-        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Pitto Stail",
-          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
-        }
-      ],
-      "duration_ms": 171942,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "La citt\u00e0 degli angeli",
-        "url": "https://open.spotify.com/album/7vEp6yu8ZNPg9GNWPocW3h"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 230645,
-      "name": "La citt\u00e0 degli angeli",
-      "url": "https://open.spotify.com/track/2rpLKeCrIulitAoYSxTir7"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 189346,
       "name": "Aeroplani",
       "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "La citt\u00e0 degli angeli",
+        "url": "https://open.spotify.com/album/7vEp6yu8ZNPg9GNWPocW3h"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 230645,
+      "name": "La citt\u00e0 degli angeli",
+      "url": "https://open.spotify.com/track/2rpLKeCrIulitAoYSxTir7"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -2139,6 +2139,22 @@
       "duration_ms": 262693,
       "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
       "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+      },
+      "artists": [
+        {
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+        }
+      ],
+      "duration_ms": 275202,
+      "name": "Chi Paga",
+      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -2239,22 +2255,6 @@
       "duration_ms": 191053,
       "name": "Malastrada",
       "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
-      },
-      "artists": [
-        {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
-        }
-      ],
-      "duration_ms": 275202,
-      "name": "Chi Paga",
-      "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -2387,30 +2387,6 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
-        "name": "Ora Che La Musica Non C'\u00e8",
-        "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
-      },
-      "artists": [
-        {
-          "name": "Mistaman",
-          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Ze in the Clouds",
-          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
-        }
-      ],
-      "duration_ms": 262338,
-      "name": "Ora Che La Musica Non C'\u00e8",
-      "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
         "name": "A Fuoco Lento",
         "url": "https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05"
       },
@@ -2431,6 +2407,30 @@
       "duration_ms": 96000,
       "name": "A Fuoco Lento",
       "url": "https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
+        "name": "Ora Che La Musica Non C'\u00e8",
+        "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
+      },
+      "artists": [
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Ze in the Clouds",
+          "url": "https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf"
+        }
+      ],
+      "duration_ms": 262338,
+      "name": "Ora Che La Musica Non C'\u00e8",
+      "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
     },
     {
       "added_at": "2025-06-19 23:01:30",
@@ -2779,6 +2779,22 @@
     {
       "added_at": "2025-06-19 23:01:30",
       "album": {
+        "name": "Verano Zombie",
+        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Quelle Notti",
+      "url": "https://open.spotify.com/track/4xXwGmvUUT69n1xoaKxucB"
+    },
+    {
+      "added_at": "2025-06-19 23:01:30",
+      "album": {
         "name": "Non Dormire",
         "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
       },
@@ -2795,22 +2811,6 @@
       "duration_ms": 242906,
       "name": "Verano Zombie",
       "url": "https://open.spotify.com/track/64lAuSz0vPFFK4IAFlENnU"
-    },
-    {
-      "added_at": "2025-06-19 23:01:30",
-      "album": {
-        "name": "Verano Zombie",
-        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Quelle Notti",
-      "url": "https://open.spotify.com/track/4xXwGmvUUT69n1xoaKxucB"
     },
     {
       "added_at": "2025-06-19 23:01:30",

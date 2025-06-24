@@ -13581,6 +13581,28 @@
     },
     {
       "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/6TxOUW31bt6MA8DDOY0Ykk"
+      },
+      "artists": [
+        {
+          "name": "BoGriLZ",
+          "url": "https://open.spotify.com/artist/2ACIH5ik9pgRVw2e64Hlrk"
+        },
+        {
+          "name": "Christiano Jordano",
+          "url": "https://open.spotify.com/artist/6be0ieVY8FASbDGfiTtrko"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336377,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1nBtSDXLLepwjFwcc8JvsP"
+    },
+    {
+      "album": {
         "name": "Departure / Arrival",
         "url": "https://open.spotify.com/album/3cIfNGPJbyVXXK4Tjv9a6o"
       },

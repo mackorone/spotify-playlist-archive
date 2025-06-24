@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: STUTS on the WAVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,437 likes - 88 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,441 likes - 88 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,10 +4,11 @@
 
 > 
 
-282 songs - 15 hr 54 min
+282 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/6Ho1F6JPvTwMQcD8TH3gYT) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Never See Me Again](https://open.spotify.com/album/10CImZrDHnNbRJRdyCMU9b) | 0:00 | 2023-06-30 |  |
 | [\(dream\)](https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 1:24 | 2023-06-14 |  |
 | [16 Mirrors](https://open.spotify.com/track/4ff1q6L0CZ3nf3LKJ1O7lY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 1:27 | 2023-07-11 |  |
 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2023-06-14 |  |
@@ -177,7 +178,6 @@
 | [Mrs Magic \(Strings Version\)](https://open.spotify.com/track/4iVj0UxqLlgrFWNdOnCwFS) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [F Song & Mrs Magic \(Strings Versions\)](https://open.spotify.com/album/0dmvkvTV6y5J58ejixsOQH) | 3:41 | 2025-05-16 |  |
 | [My Kind of Woman](https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:10 | 2023-08-24 |  |
 | [Necromancer](https://open.spotify.com/track/0aVM2DspPoHNTDBm7ehySx) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Joy Again](https://open.spotify.com/album/65lnDjCMHpSzQFQFYwF9AE) | 2:33 | 2023-09-13 |  |
-| [Never See Me Again](https://open.spotify.com/track/6Ho1F6JPvTwMQcD8TH3gYT) | [Tobes](https://open.spotify.com/artist/2z2LGc9bMtH9zPoRxubIng), [Lxgalaxy](https://open.spotify.com/artist/743HeNusfejYdIIITr4pI2) | [Never See Me Again](https://open.spotify.com/album/10CImZrDHnNbRJRdyCMU9b) | 8:19 | 2023-06-30 |  |
 | [Next Exit](https://open.spotify.com/track/3aI2wWEeNmtYDvsAyJahyi) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 3:21 | 2024-10-10 |  |
 | [nintendo 64](https://open.spotify.com/track/1nCVqhNm3kgcCHmiz8nb36) | [if i die in mississippi](https://open.spotify.com/artist/1zIvYNpswcoGPR5MtyOhz8) | [before i leave](https://open.spotify.com/album/6SoOrXDrrporhXtgRYZwvc) | 2:27 | 2023-09-19 |  |
 | [No Other Heart](https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another One](https://open.spotify.com/album/5FiDVzxLqGtYjF5yzmMoj4) | 2:53 | 2023-08-01 |  |

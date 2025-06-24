@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Paula Au
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Just a broken machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,246 likes - 114 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,247 likes - 114 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 113 | [我無醉 \(feat.卓韻芝\)](https://open.spotify.com/track/4NlxGFg2IkRUThTX3CxMFo) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY), [卓韻芝](https://open.spotify.com/artist/5YuqzI1rTdwca3e638EUHM) | [我無醉 \(feat.卓韻芝\)](https://open.spotify.com/album/5XkL9mvhbJBSRLjbmmzLQi) | 2:33 |
 | 114 | [My Heart Feels So Sad](https://open.spotify.com/track/6Q2E6GaQgZrqQye7yC9mW2) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [My Heart Feels So Sad](https://open.spotify.com/album/3EMWdATBJndDFqZClmd5kP) | 5:27 |
 
-Snapshot ID: `aFQ0CwAAAADSK8ttGUwHKGY4tGw/k7lV`
+Snapshot ID: `aFjP+AAAAAC6CKIpq8McA3q78+KmhZXs`

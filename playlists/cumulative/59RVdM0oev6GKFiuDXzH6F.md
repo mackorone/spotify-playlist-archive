@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-983 songs - 2 day 2 hr 17 min
+984 songs - 2 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Aliksir](https://open.spotify.com/track/6DBfPpflSkttJcvbBur132) | [MÜSA](https://open.spotify.com/artist/4V5dhfIbDgtoZDYVsN6mKI) | [Aliksir](https://open.spotify.com/album/2hGnnfpWjI7mMbebw2JcO8) | 2:30 | 2025-06-13 |  |
 | [Alive](https://open.spotify.com/track/4DvXwUnhmI4MuSPAEonPiL) | [Admixture](https://open.spotify.com/artist/5nqxeomhktbyJmotHLE2e1) | [Alive](https://open.spotify.com/album/7oqKGZU8HsenYTsZJQ4A3B) | 2:29 | 2024-04-22 | 2024-04-26 |
 | [All About U](https://open.spotify.com/track/1kqCF2ZDz4TLNE79MfmFVR) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB) | [All About U](https://open.spotify.com/album/4G6sfkzJS5XDXQF2uAf2nh) | 2:24 | 2023-04-27 | 2023-05-24 |
+| [All I Ever Wanted](https://open.spotify.com/track/6JFnkBa32fXLaIuYWj8q5N) | [Yves Labordus](https://open.spotify.com/artist/64x1x1T1gFC1fUpJnFo1Cs) | [All I Ever Wanted](https://open.spotify.com/album/6j5WEmy6ljy04oNO1R1KcC) | 2:13 | 2025-06-23 |  |
 | [All I Want](https://open.spotify.com/track/7F5FUtBaCVY1nAaOZJtvrQ) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [All I Want](https://open.spotify.com/album/0X3adlRMme7SEyPiBa79KJ) | 2:50 | 2024-02-16 | 2024-09-26 |
 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 | 2024-01-05 | 2024-09-26 |
 | [All Night](https://open.spotify.com/track/7LbdiDgAmMO8NskLtb43Yy) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [gritney](https://open.spotify.com/artist/4ffsVdOEMAqvXPPePkgP5d) | [All Night](https://open.spotify.com/album/7mlbnclHjUsHGkk0Ga8jIZ) | 3:15 | 2024-02-09 | 2024-09-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPGyzbqYrKl.md) - [plain]
 
 > De la savane à la toundra, des steppes aux rizières, 100 berceuses pour faire le tour du monde
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,397 likes - 100 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395 likes - 100 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

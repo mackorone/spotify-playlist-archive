@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,099 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,206 likes - 110 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 98 | [SHIFT](https://open.spotify.com/track/5d2BTb2GGsJgChSjJRys3W) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Keilamanjaro](https://open.spotify.com/artist/45EGpqs5461SngZxPcCYpK), [ONCE AGAIN](https://open.spotify.com/artist/1woyHP8ivcH21mpRSvhW7W) | [SHIFT](https://open.spotify.com/album/5w10880A2bq4GrqhGzh6mr) | 5:55 |
 | 99 | [Deme](https://open.spotify.com/track/2tlU0ZWQjbUUPR1ZMFGLpH) | [Zulu Mageba](https://open.spotify.com/artist/2oWStpJ5ThCzjyF9TyrRgA) | [Deme](https://open.spotify.com/album/6veHh1CgP0TpUHCa18Ah3S) | 7:30 |
 | 100 | [Kutafuta](https://open.spotify.com/track/1UVHbFgL6EjtoQOcNIrup9) | [Emanuele Modigliani](https://open.spotify.com/artist/2ny876pDy9p8XITSMNs4sF), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Kutafuta](https://open.spotify.com/album/3iktLd1X9mDlgvxTdMCnwj) | 6:43 |
+| 101 | [Believe](https://open.spotify.com/track/2ewTN6Smx8SPEf8LNT431a) | [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh) | [Believe](https://open.spotify.com/album/0LkLGz6pZZcsvilstpT3Sm) | 3:30 |
+| 102 | [Feel the Same](https://open.spotify.com/track/5wfmnNpFpjvX5YMgzowG7d) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Feel the Same](https://open.spotify.com/album/1msKD2KfH78JGWjMOdkxuo) | 6:37 |
+| 103 | [BILA WEWE \- Extended Mix](https://open.spotify.com/track/7xoIYfSlHMr1my1rcRvb4B) | [Fiction](https://open.spotify.com/artist/21OHFCWXiH6OOdoNv287on), [YUSO](https://open.spotify.com/artist/71EUxUCvTWj5USOtvLMtQj), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [BILA WEWE \(Extended Mix\)](https://open.spotify.com/album/5H1UqTryUSmz00vN2nbv33) | 6:45 |
+| 104 | [Feeling Good \- Afro Touch Extended Mix](https://open.spotify.com/track/2r5KCSdhoCZybdxf9VMcuP) | [Javi Colors](https://open.spotify.com/artist/5vUNghxDJhMtKH3r8KfemL) | [Feeling Good \(The Remixes\)](https://open.spotify.com/album/4xWGQrXw6Be5IFUHT72JTr) | 5:44 |
+| 105 | [Guantanamera \- Extended Mix](https://open.spotify.com/track/3O8kPDPzMQixA8zQph004A) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Presi On](https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp) | [Guantanamera](https://open.spotify.com/album/69BbWuVIwChMtGWilTcnbs) | 5:53 |
+| 106 | [Aliksir](https://open.spotify.com/track/6DBfPpflSkttJcvbBur132) | [MÜSA](https://open.spotify.com/artist/4V5dhfIbDgtoZDYVsN6mKI) | [Aliksir](https://open.spotify.com/album/2hGnnfpWjI7mMbebw2JcO8) | 2:30 |
+| 107 | [Saltwater](https://open.spotify.com/track/3ZuadwsQz1qqeMYmu0BCXz) | [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Saltwater](https://open.spotify.com/album/2rmGqWFbPYlBbsQ3EzFz6R) | 3:33 |
+| 108 | [Golden Sun](https://open.spotify.com/track/0W9zakikiqrw7njcDalBWI) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [KUZO \(KE\)](https://open.spotify.com/artist/04bJrgjsR56IZs8EyyMWzp) | [Golden Sun](https://open.spotify.com/album/4hAWv2LULhjHdP0BLSNeNO) | 3:10 |
+| 109 | [Closure \- Urmet K Remix](https://open.spotify.com/track/2rDLbYKijfysEnPFsDj2RB) | [Israel Vich](https://open.spotify.com/artist/6gWRPpUuV4FoXcRFIu3OAA), [Urmet K](https://open.spotify.com/artist/46YPQGXkvn7QooB0XJvkdb) | [Closure \(Remixes\)](https://open.spotify.com/album/3ERGF6uLJblgTM6LQiTelJ) | 3:47 |
+| 110 | [Bali](https://open.spotify.com/track/6BcoIyP6K9tZXYOcAI7nHr) | [Faustin](https://open.spotify.com/artist/3IWLRKsSdrXlwUBsUQCujU), [Francis Erre](https://open.spotify.com/artist/6fa3TpNHSfWEKe4LNQEXtU) | [Bali](https://open.spotify.com/album/4es4aiXZxu4zftluEtoeav) | 4:19 |
 
-Snapshot ID: `aEqxnwAAAABrLtxJvlJLF56shtoENmsq`
+Snapshot ID: `aFmN7gAAAABrm/3hqgUJmV+dHpysb9Ze`

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125241,
+  "num_followers": 125240,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUO9QTMamyf9SDpgl5FtMY/6nQt3rT",
+  "snapshot_id": "AAAUPRMVn4Tuzc3B3Yj8QPrHrlK9SBmJ",
   "tracks": [
+    {
+      "added_at": "2025-06-23 13:45:09",
+      "album": {
+        "name": "BUSTED",
+        "url": "https://open.spotify.com/album/0j1YfLra3m8CJCRvPhVcql"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        },
+        {
+          "name": "Teminite",
+          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
+        },
+        {
+          "name": "Boom Kitty",
+          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "BUSTED",
+      "url": "https://open.spotify.com/track/49mT4saNKf5BskrD7Bwrw9"
+    },
     {
       "added_at": "2025-06-20 13:53:33",
       "album": {
@@ -1131,94 +1155,6 @@
       "duration_ms": 170057,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
-    },
-    {
-      "added_at": "2025-04-01 15:08:27",
-      "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/7urxeMQpkbdTidAYJS6Cl8"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        },
-        {
-          "name": "Warung",
-          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
-        }
-      ],
-      "duration_ms": 187874,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/43clOQYz4Jhr7AuU1hOS78"
-    },
-    {
-      "added_at": "2025-03-31 15:33:28",
-      "album": {
-        "name": "Going Under",
-        "url": "https://open.spotify.com/album/18qd9Qz8xCZzTnsWnHkp7v"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        },
-        {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 161805,
-      "name": "Going Under",
-      "url": "https://open.spotify.com/track/4b3tHFus0ulksoyDpSrGYY"
-    },
-    {
-      "added_at": "2025-03-28 14:12:00",
-      "album": {
-        "name": "Pay Respect",
-        "url": "https://open.spotify.com/album/5iJL1Tp5fdHj1uo1Atjb8G"
-      },
-      "artists": [
-        {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
-        },
-        {
-          "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "FRAXURE",
-          "url": "https://open.spotify.com/artist/1dGn5V241a03xUPyhKgVjL"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Pay Respect",
-      "url": "https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy"
-    },
-    {
-      "added_at": "2025-03-27 15:05:19",
-      "album": {
-        "name": "colors",
-        "url": "https://open.spotify.com/album/5k7pxpgyFHpi40XVymiWbV"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        }
-      ],
-      "duration_ms": 265922,
-      "name": "colors",
-      "url": "https://open.spotify.com/track/70meb0y1oP8OJR0n8RhxZq"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

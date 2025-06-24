@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Fibra, Tony Boy e Lazza, Don Joe, Dargen, CoCo e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,633 likes - 128 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,636 likes - 128 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

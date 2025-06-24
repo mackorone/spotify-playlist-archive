@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XFWzluBEOt.md) - [plain]
 
 > En el corazón de los fanáticos, canciones que navegaron bajo la superficie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,724 likes - 27 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,727 likes - 27 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

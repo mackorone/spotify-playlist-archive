@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Apache y Reker en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,800 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,807 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 4 | [Turro Original](https://open.spotify.com/track/1ZmdOMDKMnnmEzyRUrwjKJ) | [R Flakkkk](https://open.spotify.com/artist/1cTlHtGv0loztFIBKGtvll), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Turro Original](https://open.spotify.com/album/6PxyH2ldzlbuuXNpgApE5O) | 2:37 |
 | 5 | [Agua Fría](https://open.spotify.com/track/4fUBKCoGBu0P62la0xGzwG) | [Escandaloso Xpósito](https://open.spotify.com/artist/0GUmY2qAmker4cB3VnpKVf) | [Agua Fría](https://open.spotify.com/album/1vdYukyGnVgL5QwyXJXWS7) | 2:31 |
 | 6 | [\(B\) BULLDOZER](https://open.spotify.com/track/1DJ4jEr0PB5G4fsscFLZxE) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [BAJO EL SOLAR](https://open.spotify.com/album/3BMiTVbG2769lF6MyNjtXs) | 3:41 |
-| 7 | [Problema](https://open.spotify.com/track/1Eniu6iGhu0BYtLSZIKCVt) | [menteabierta](https://open.spotify.com/artist/3Z5jrGaclyPGZxbGcVuCFy), [Papá Código](https://open.spotify.com/artist/75A5TNmwmWjnnMaqA2OYPY) | [Problema](https://open.spotify.com/album/1kJTTM9L2r7C4biyAJQqRY) | 4:27 |
+| 7 | [Problema](https://open.spotify.com/track/1Eniu6iGhu0BYtLSZIKCVt) | [mente abierta](https://open.spotify.com/artist/7BgfZW9LN3PHVDNMgjrYP7), [Papá Código](https://open.spotify.com/artist/75A5TNmwmWjnnMaqA2OYPY) | [Problema](https://open.spotify.com/album/1kJTTM9L2r7C4biyAJQqRY) | 4:27 |
 | 8 | [Ánimas](https://open.spotify.com/track/23e2DIo2xHw552kU4vopM8) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Jhul Brayner](https://open.spotify.com/artist/3MHEZZW8BYLShGBPDjPBLC), [Pielroja](https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k) | [Ánimas](https://open.spotify.com/album/0vilupR5SnRJZ0U2ilDOrf) | 3:10 |
 | 9 | [Xolombia](https://open.spotify.com/track/6bm4r4ujFDVEQL6N9K9nlY) | [Joes Yawar Cru](https://open.spotify.com/artist/1g3olTTEwu0Dn2kVBpZ6oK), [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk) | [Xolombia](https://open.spotify.com/album/3LA8o8octGluOby15SSpqz) | 3:12 |
 | 10 | [Alcíone](https://open.spotify.com/track/6RI8gfrqafEavTFezI7moX) | [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb), [Aibashan](https://open.spotify.com/artist/7KxCR3PdRMeyDUWQxQAU96), [Pezcatore](https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao) | [Alcíone](https://open.spotify.com/album/0TsGtS2VftCBuxu7yteRp6) | 4:36 |

@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "A Glimpse of Goodwill",
+        "url": "https://open.spotify.com/album/6Cgu0Yp3uU9Q17gQCrOEiY"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131566,
+      "name": "A Glimpse of Goodwill",
+      "url": "https://open.spotify.com/track/2EVN6dxFOfbui7KB8wOp3Z"
+    },
+    {
+      "album": {
         "name": "Lonnie Liston Smith JID017",
         "url": "https://open.spotify.com/album/6EZXwfwYYfU9YfxM0Gv6ZN"
       },
@@ -5141,6 +5159,28 @@
     },
     {
       "album": {
+        "name": "Laidback Bounce",
+        "url": "https://open.spotify.com/album/4W5oUndxu3F0sr00WUgqui"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Laidback Bounce",
+      "url": "https://open.spotify.com/track/1nr6U6YnRTyLKlCINKKRcX"
+    },
+    {
+      "album": {
         "name": "Blue Turn",
         "url": "https://open.spotify.com/album/1gfJzf9Hu6HKzlGtfbg4km"
       },
@@ -7852,7 +7892,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 90617,
       "name": "Postcards from yesterday",
       "url": "https://open.spotify.com/track/2v3ny15ONDliawHnJPhNnO"
@@ -10640,6 +10680,10 @@
           "url": "https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h"
         },
         {
+          "name": ".akshay",
+          "url": "https://open.spotify.com/artist/2uTyX7lJEa5u5nXbSGiFT0"
+        },
+        {
           "name": "Akshay Iyer",
           "url": "https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL"
         }
@@ -10668,7 +10712,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 115443,
       "name": "Toucanet",
       "url": "https://open.spotify.com/track/5B8HcOF0JaoHhddYEUCABv"

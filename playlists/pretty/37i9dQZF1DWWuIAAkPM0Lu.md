@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Ella Augusta, Sivas, Benson Boone og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,019 likes - 109 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,027 likes - 109 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 21 | [De Fleste Dage](https://open.spotify.com/track/6rKL6dO0V9GZJ1U9c1V3Fm) | [Jacob Aksglæde](https://open.spotify.com/artist/38OuwRRstYfgqeP4EciiWU) | [De Fleste Dage](https://open.spotify.com/album/3h5crhoBH1v5f70utt8r57) | 3:16 |
 | 22 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 |
 | 23 | [Gennem Vinduet](https://open.spotify.com/track/3cXZvXuaCaHHfb4C1ihZaS) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Gennem Vinduet](https://open.spotify.com/album/1P5bgySfdUKOUMV66cD8bR) | 2:54 |
-| 24 | [Sunkissed](https://open.spotify.com/track/3pPLqu5kMTOHkyiYa2Hyog) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:31 |
+| 24 | [Sunkissed](https://open.spotify.com/track/3pPLqu5kMTOHkyiYa2Hyog) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [Breathing Space](https://open.spotify.com/artist/7mqWuWeqwxGQoMZdehD0MG) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:31 |
 | 25 | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8) | 3:18 |
 | 26 | [Dance Without You](https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Dance Without You](https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF) | 2:45 |
 | 27 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |

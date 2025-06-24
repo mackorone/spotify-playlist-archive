@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,110 likes - 59 songs - 3 hr 32 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,118 likes - 58 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 54 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
 | 55 | [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 |
 | 56 | [Mélodie du crépuscule](https://open.spotify.com/track/18eISpOzQPIXDBKPm2e5dZ) | [Jacques Dupont](https://open.spotify.com/artist/6S4VOqONTKvPJ5UMvndZJ9) | [Mélodie du crépuscule](https://open.spotify.com/album/5xVkZ1SdoJ1SlBayQrzH2A) | 1:58 |
-| 57 | [Pell Mell](https://open.spotify.com/track/0IDWNMoLorAHuNlXwtfyn2) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Days of Heaven](https://open.spotify.com/album/3gEZf0bRhUaBevLRykTDZ5) | 3:22 |
-| 58 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 |
-| 59 | [Be Good To Them Always](https://open.spotify.com/track/6ZjuwJor7BsyPUUXilxGQE) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 4:51 |
+| 57 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 |
+| 58 | [Be Good To Them Always](https://open.spotify.com/track/6ZjuwJor7BsyPUUXilxGQE) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 4:51 |
 
-Snapshot ID: `AAAMoe3ohqDda1u71msCT3Paeto5lHvR`
+Snapshot ID: `AAAMoqxJwYHYCeAus2+j3tyGY7ckBlXf`

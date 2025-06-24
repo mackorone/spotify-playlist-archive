@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-647 songs - 1 day 20 hr 47 min
+649 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Cuando Seas Mia \- Balada Version](https://open.spotify.com/track/0YOnVfmFFSQ1jcIMD0Oszw) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Purest of Pain](https://open.spotify.com/album/27K2So5UHlOBnCPzrPDN2j) | 3:35 | 2023-12-30 |  |
 | [Daylight](https://open.spotify.com/track/4j2E0T6fsZAk6vMuIgMUcl) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Celebration: A Musical Journey](https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO) | 4:32 | 2023-12-30 | 2024-12-16 |
 | [Daylight](https://open.spotify.com/track/3e77KhgFsECoLi2E96wyXQ) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasil '86](https://open.spotify.com/album/2TWdw6Wv1MQfijDukYyUqm) | 4:33 | 2024-12-15 |  |
+| [Dear Me \- From The Original Documentary "Diane Warren: Relentless"](https://open.spotify.com/track/6GTTgyBHSqYLbJfMWNwPVU) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Dear Me \(From The Original Documentary "Diane Warren: Relentless"\)](https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH) | 3:20 | 2025-06-23 |  |
 | [Deck the Halls](https://open.spotify.com/track/5fE1bUqFcRQaY5H3e5oPxp) | [Mario Lanza](https://open.spotify.com/artist/6umNMJq7B8UdOVmwPV6PRL), [Paul Baron Orchestra](https://open.spotify.com/artist/2TXeeTg3ZGNpNFUSO1lgd2) | [L'incredibile Mario Lanza](https://open.spotify.com/album/7a6PfW4c24KZGBGWKZz0Pr) | 1:19 | 2024-07-10 | 2024-10-29 |
 | [Deeper Into You](https://open.spotify.com/track/54Iege5B0R9bQZYbsR1c2o) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:50 | 2023-12-30 |  |
 | [Dein Lied in mir \- Spanish Guitar](https://open.spotify.com/track/3PIZ7Y9GXAcGtWUtNF3Xd4) | [Isabel Varell](https://open.spotify.com/artist/7x7KzRIrx3os6s2zHGFuEL) | [Heut ist mein Tag](https://open.spotify.com/album/4OaGSN8f9ITyPQ7Ui7TYP8) | 4:16 | 2023-12-30 |  |
@@ -583,6 +584,7 @@
 | [We Can](https://open.spotify.com/track/6pAIFLWUshFBKQhaxwlJ9J) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 3:40 | 2023-12-30 |  |
 | [We Don't Know How to Say Goodbye](https://open.spotify.com/track/0EDFBgs5Ak6WLpGd9JkPRU) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 3:46 | 2023-12-30 |  |
 | [We're Not Makin' Love Anymore](https://open.spotify.com/track/3hGGHB4mdm620E1x89i72n) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Burnin'](https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL) | 4:42 | 2023-12-30 |  |
+| [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 | 2025-06-23 |  |
 | [What Are You Doing With a Fool Like Me \- Studio Version](https://open.spotify.com/track/1ADmyvNaireK0kH2xNdVyO) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker Live](https://open.spotify.com/album/6CpOgaWKkuIXrV3gqJmKMz) | 4:50 | 2023-12-30 |  |
 | [What Do I Do With The Love](https://open.spotify.com/track/6qwotLZ6V1QGoSTc6bGCaZ) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:46 | 2023-12-30 |  |
 | [What If](https://open.spotify.com/track/6v4Scn32ULlyEw5mwpW6gV) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [What If](https://open.spotify.com/album/03ETxSfODVuegtRagAhI16) | 4:03 | 2023-12-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Brett Young, Megan Moroney, Noah Cyrus with Blake Shelton and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,007 likes - 81 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,086 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 2 | [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 |
 | 3 | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8) | 3:18 |
 | 4 | [Funny Seeing You Here](https://open.spotify.com/track/7BVzUgIqxwiwPbMz35z3ZE) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Funny Seeing You Here](https://open.spotify.com/album/0yZ5ADnfvKrxV9iP1i1OBy) | 2:58 |
-| 5 | [This Side Of Heaven](https://open.spotify.com/track/3SB1FTzSnx97oh4kYvdwQJ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [This Side Of Heaven](https://open.spotify.com/album/3DtJYQRMlRITBYoqlYOhJ0) | 3:46 |
+| 5 | [This Side Of Heaven](https://open.spotify.com/track/3SB1FTzSnx97oh4kYvdwQJ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [This Side Of Heaven](https://open.spotify.com/album/3DtJYQRMlRITBYoqlYOhJ0) | 3:59 |
 | 6 | [99](https://open.spotify.com/track/22CKFavEurPuJJsOFaobac) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Burning Daylight](https://open.spotify.com/album/1mHx616eNbODxMf4vnBG1j) | 3:21 |
 | 7 | [EASY ON ME](https://open.spotify.com/track/3Z9znuwSxbmnexupwI8T36) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [EASY ON ME](https://open.spotify.com/album/2XsrTQH7HejG6s8Y72DrXL) | 2:19 |
 | 8 | [In Case You Didn't Know 2.0](https://open.spotify.com/track/4Vw2Tca81FPJU7Bxm61M1K) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [2.0](https://open.spotify.com/album/4cHDMUgQiIMYMe3QjWFgi7) | 3:59 |

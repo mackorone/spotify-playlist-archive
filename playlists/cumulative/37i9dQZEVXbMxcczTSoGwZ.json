@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-22",
+      "date_removed": null,
       "duration_ms": 148516,
       "name": "Aitomies",
       "url": "https://open.spotify.com/track/3T0OPSiU5iP5Gug9PP5DXX"
@@ -3108,7 +3108,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 220480,
       "name": "Avaimet mun kiesiin - Radio Edit",
       "url": "https://open.spotify.com/track/3YnOEMNkFgxivVVBrPciDR"
@@ -9832,7 +9832,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -9850,7 +9850,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -21503,6 +21503,24 @@
     },
     {
       "album": {
+        "name": "Olavi",
+        "url": "https://open.spotify.com/album/3DuJP1udp2WsRickRbyPDS"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232360,
+      "name": "Kultaa Hiuksissa",
+      "url": "https://open.spotify.com/track/3JdOPNGP3mFBis5W30YiQ5"
+    },
+    {
+      "album": {
         "name": "Kultainen keskitie",
         "url": "https://open.spotify.com/album/7zCh2kqzJMDjSfFBDIJoh3"
       },
@@ -32114,7 +32132,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 117631,
       "name": "Olen Suomalainen (feat. Kari Tapio)",
       "url": "https://open.spotify.com/track/662nWPO9p3jNw893AdH05q"
@@ -42172,7 +42190,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 171507,
       "name": "Suomen kes\u00e4",
       "url": "https://open.spotify.com/track/4DrPiS9iW70NxUCATKCfPl"
@@ -42904,6 +42922,28 @@
       "duration_ms": 151214,
       "name": "Syntt\u00e4rit (feat. Cledos & VJ)",
       "url": "https://open.spotify.com/track/3Z5m2SsEJcAmhBl6SmHw9X"
+    },
+    {
+      "album": {
+        "name": "Syntym\u00e4merkit",
+        "url": "https://open.spotify.com/album/7DrQhWX4R1TbZisqBhQWkM"
+      },
+      "artists": [
+        {
+          "name": "helmi marleena",
+          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+        },
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190612,
+      "name": "Syntym\u00e4merkit",
+      "url": "https://open.spotify.com/track/0T5SXrPDm53uBADC7W4JoF"
     },
     {
       "album": {

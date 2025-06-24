@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 65269,
+  "num_followers": 65279,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFX2AAAAAAD5O26Fl3rUrNCVwycYGCAy",
+  "snapshot_id": "aFdHgAAAAAByLtNvALXscgNDlgr2Au8P",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 183626,
-      "name": "Sangre de indio",
-      "url": "https://open.spotify.com/track/3C818S8QbfRJDUC4xt6jSM"
+      "duration_ms": 190200,
+      "name": "Escuadras del sur",
+      "url": "https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Escuadras del sur",
-      "url": "https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa"
+      "duration_ms": 183626,
+      "name": "Sangre de indio",
+      "url": "https://open.spotify.com/track/3C818S8QbfRJDUC4xt6jSM"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pr\u00f3ximo Tonto",
-        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "El Pr\u00f3ximo Tonto",
-      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 152973,
       "name": "Mi tesoro",
       "url": "https://open.spotify.com/track/6i9F5U7UTfpA2BurGZ9FYd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pr\u00f3ximo Tonto",
+        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "El Pr\u00f3ximo Tonto",
+      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
     },
     {
       "added_at": null,

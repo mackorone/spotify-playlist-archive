@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with SIDEPIECE + Bobby Shmurda",
-  "num_followers": 465556,
+  "num_followers": 465662,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1405,6 +1405,22 @@
       "url": "https://open.spotify.com/track/7GCGxfYiuvtSylERpjYWBd"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
       "added_at": "2025-05-02 05:35:09",
       "album": {
         "name": "Hypnotic (feat. Kyozo)",
@@ -1427,22 +1443,6 @@
       "duration_ms": 249461,
       "name": "Hypnotic (feat. Kyozo)",
       "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1505,26 +1505,6 @@
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
-      "added_at": "2025-03-28 14:16:39",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
       "added_at": "2025-04-11 04:00:29",
       "album": {
         "name": "THE MADNESS (With I.D.O.)",
@@ -1551,6 +1531,26 @@
       "duration_ms": 193376,
       "name": "THE MADNESS (With I.D.O.)",
       "url": "https://open.spotify.com/track/7GYaiFYGr2AXZgEIjSLtm6"
+    },
+    {
+      "added_at": "2025-03-28 14:16:39",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
       "added_at": "2025-05-16 04:00:36",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "BAD OMENS",
-        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 147625,
-      "name": "BAD OMENS",
-      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "FOREIGN",
@@ -1659,6 +1643,22 @@
       "duration_ms": 191739,
       "name": "FOREIGN",
       "url": "https://open.spotify.com/track/4Tkv9VdNUyHm86TNlnl7Xy"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "BAD OMENS",
+        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 147625,
+      "name": "BAD OMENS",
+      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1809,22 +1809,6 @@
       "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
     },
     {
-      "added_at": "2025-03-24 14:38:15",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Numb",
@@ -1843,6 +1827,22 @@
       "duration_ms": 178300,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
+    },
+    {
+      "added_at": "2025-03-24 14:38:15",
+      "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1905,30 +1905,6 @@
       "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
     },
     {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
-        "name": "Hometown Hero (Remixes)",
-        "url": "https://open.spotify.com/album/2bQxvMlmvv4jclMcoKEAAm"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "Bj\u00f8rnskov",
-          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
-        },
-        {
-          "name": "Just\u0117",
-          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
-        }
-      ],
-      "duration_ms": 169375,
-      "name": "Hometown Hero (Just\u0117 Remix)",
-      "url": "https://open.spotify.com/track/3fh6pToHUbW7w14JyBqsJc"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "BPM",
@@ -1987,6 +1963,30 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
+        "name": "Hometown Hero (Remixes)",
+        "url": "https://open.spotify.com/album/2bQxvMlmvv4jclMcoKEAAm"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Bj\u00f8rnskov",
+          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
+        },
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        }
+      ],
+      "duration_ms": 169375,
+      "name": "Hometown Hero (Just\u0117 Remix)",
+      "url": "https://open.spotify.com/track/3fh6pToHUbW7w14JyBqsJc"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/3hIcexCSVbyOctX77g95H2"
       },
@@ -2025,22 +2025,6 @@
       "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
     },
     {
-      "added_at": "2024-09-30 15:01:28",
-      "album": {
-        "name": "Baggy Black Jeans",
-        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 192692,
-      "name": "Baggy Black Jeans",
-      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Pump (AC Slater Remix)",
@@ -2075,6 +2059,22 @@
       "duration_ms": 204000,
       "name": "MANSA MUSA",
       "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
+    },
+    {
+      "added_at": "2024-09-30 15:01:28",
+      "album": {
+        "name": "Baggy Black Jeans",
+        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "duration_ms": 192692,
+      "name": "Baggy Black Jeans",
+      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
     },
     {
       "added_at": "2025-04-25 04:00:58",
@@ -2113,26 +2113,6 @@
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
     },
     {
-      "added_at": "2025-02-14 05:00:46",
-      "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Jamakabi",
-          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
-        }
-      ],
-      "duration_ms": 137595,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Bass In Yo Face",
@@ -2167,6 +2147,26 @@
       "duration_ms": 182769,
       "name": "That's the Spot",
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
+    },
+    {
+      "added_at": "2025-02-14 05:00:46",
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2213,26 +2213,6 @@
       "url": "https://open.spotify.com/track/4XUWMmvW4nM4ahnwTm05u9"
     },
     {
-      "added_at": "2025-05-23 04:00:53",
-      "album": {
-        "name": "Party In The Hood",
-        "url": "https://open.spotify.com/album/3Kcks5lapR43thEVZPjnO4"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Bishop Snow",
-          "url": "https://open.spotify.com/artist/2JKfOLsYxleweelfbQgZzF"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Party In The Hood",
-      "url": "https://open.spotify.com/track/0uxm6MQkNv6Qf7FPVX8Qud"
-    },
-    {
       "added_at": "2025-01-31 05:00:38",
       "album": {
         "name": "MAMI",
@@ -2253,24 +2233,24 @@
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2025-05-23 04:00:53",
       "album": {
-        "name": "Got That",
-        "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
+        "name": "Party In The Hood",
+        "url": "https://open.spotify.com/album/3Kcks5lapR43thEVZPjnO4"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Bishop Snow",
+          "url": "https://open.spotify.com/artist/2JKfOLsYxleweelfbQgZzF"
         }
       ],
-      "duration_ms": 166874,
-      "name": "Got That",
-      "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
+      "duration_ms": 169687,
+      "name": "Party In The Hood",
+      "url": "https://open.spotify.com/track/0uxm6MQkNv6Qf7FPVX8Qud"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2291,6 +2271,26 @@
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Got That",
+        "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Got That",
+      "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
     },
     {
       "added_at": "2025-05-09 14:18:44",
@@ -2365,26 +2365,6 @@
       "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
     },
     {
-      "added_at": "2025-05-30 14:35:26",
-      "album": {
-        "name": "HOUSE PARTY",
-        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
-      },
-      "artists": [
-        {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        },
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "HOUSE PARTY",
-      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Freedom (Body Ocean Remix)",
@@ -2407,6 +2387,26 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "added_at": "2025-05-30 14:35:26",
+      "album": {
+        "name": "HOUSE PARTY",
+        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
+      },
+      "artists": [
+        {
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "HOUSE PARTY",
+      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
     },
     {
       "added_at": "2025-05-23 04:00:53",

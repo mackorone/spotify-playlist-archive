@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: Seori & Paul Blanco\)
 
-832 songs - 1 day 20 hr 9 min
+833 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Burn it \(feat\. DEAN\)](https://open.spotify.com/track/50hyZD2Tk0Z3by9zJmx6PT) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 3:31 | 2024-11-14 | 2025-03-08 |
 | [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 | 2023-01-23 | 2023-02-15 |
 | [Bus Stop](https://open.spotify.com/track/2X0Jlj1hP9q2xP5Lkd8sy4) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[A\]](https://open.spotify.com/album/7EJPkVvOwB787PxrHCrrAE) | 3:01 | 2024-01-08 | 2024-01-24 |
-| [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 | 2024-06-17 |  |
+| [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 | 2024-06-17 | 2025-06-24 |
 | [Butterfly \(feat\. Oceanfromtheblue\)](https://open.spotify.com/track/1P9ztAUu6vrOdZ0Mr8lxWp) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Therapy Session](https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO) | 3:46 | 2022-09-06 | 2022-09-29 |
 | [Butterfly Effect \(Feat\. nobody likes you pat, Emily Brophy\)](https://open.spotify.com/track/5pYfDCKYjiWHJcIZIiCcDP) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I), [Emily Brophy](https://open.spotify.com/artist/3wjB0noN1ulMz4RCU4kNG3) | [A Thousand Miles](https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd) | 2:27 | 2022-04-19 | 2022-07-28 |
 | [By My Side](https://open.spotify.com/track/6HKKRjm2C9QcAgy5ayOtqk) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:59 | 2022-06-29 | 2022-07-05 |
@@ -490,6 +490,7 @@
 | [MOVIE \(Feat\. Rohann\)](https://open.spotify.com/track/3iiA4KlKkEa00FwKiFvQn0) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4), [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1) | [My Original Sound Track](https://open.spotify.com/album/4M7LxD3dkMj4O6NCddBQKm) | 3:19 | 2022-04-19 | 2022-04-21 |
 | [Movies](https://open.spotify.com/track/294UWedgLQooQs8ETGrNWD) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/2rwFQMzjIl55c4uTnxuJ6D) | 1:56 | 2022-04-19 | 2022-07-28 |
 | [MUSE \(Feat\. Paloalto\)](https://open.spotify.com/track/5Quf0BbKIu8IwWxcs8e1ol) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [GENESIO](https://open.spotify.com/artist/2kH3CLwRaAFyaY2bOkHptU), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [MUSE](https://open.spotify.com/album/4xrmFGMgy9cQomzeoAynfv) | 3:47 | 2022-05-28 | 2022-07-16 |
+| [MUSIC \(Feat\. LEE CHANHYUK\)](https://open.spotify.com/track/3SYveDpgawfdQtiMDlm4gi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [MUSIC](https://open.spotify.com/album/1dWHATlZ1wxvpTwCUV0TR0) | 2:39 | 2025-06-23 |  |
 | [My Home](https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [My Home](https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL) | 3:36 | 2025-05-12 | 2025-05-21 |
 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-18 | 2022-08-09 |
 | [My Prada \(feat\. Sik\-K\)](https://open.spotify.com/track/4Lp82VUupwn647W6h0EFUu) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [New Moon](https://open.spotify.com/album/7J8v0tZ6svPXbPvivnltq8) | 3:25 | 2023-09-14 | 2023-09-23 |

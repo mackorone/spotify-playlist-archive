@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Benny Adam",
-  "num_followers": 45231,
+  "num_followers": 45230,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,26 @@
     {
       "added_at": "2025-06-20 04:00:42",
       "album": {
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
+    },
+    {
+      "added_at": "2025-06-20 04:00:42",
+      "album": {
         "name": "Tout g\u00e2cher",
         "url": "https://open.spotify.com/album/0xMLWu80LwMltST4xEXahv"
       },
@@ -683,26 +703,6 @@
     {
       "added_at": "2025-06-20 04:00:42",
       "album": {
-        "name": "Chouchou",
-        "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Chouchou",
-      "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
-    },
-    {
-      "added_at": "2025-06-20 04:00:42",
-      "album": {
         "name": "Feel Good (Version Acoustique)",
         "url": "https://open.spotify.com/album/5t1ClJpWR3OqXO3hxG7oBz"
       },
@@ -715,6 +715,42 @@
       "duration_ms": 149896,
       "name": "Feel Good - Version Acoustique",
       "url": "https://open.spotify.com/track/2lmYsDvV8grxCcZ2FNi7Wt"
+    },
+    {
+      "added_at": "2025-06-20 04:00:42",
+      "album": {
+        "name": "FARA FARA GANG - BDLM EXTENSION",
+        "url": "https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 229189,
+      "name": "MBIFE",
+      "url": "https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2"
+    },
+    {
+      "added_at": "2025-06-20 04:00:42",
+      "album": {
+        "name": "A TI",
+        "url": "https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/3GYowZ5IL7gnri8Zejti3t"
     },
     {
       "added_at": "2025-06-20 04:00:42",
@@ -775,22 +811,6 @@
     {
       "added_at": "2025-06-20 04:00:42",
       "album": {
-        "name": "A TI",
-        "url": "https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "A TI",
-      "url": "https://open.spotify.com/track/3GYowZ5IL7gnri8Zejti3t"
-    },
-    {
-      "added_at": "2025-06-20 04:00:42",
-      "album": {
         "name": "PANDEMONIUM",
         "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": "2025-06-20 04:00:42",
       "album": {
-        "name": "FARA FARA GANG - BDLM EXTENSION",
-        "url": "https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 229189,
-      "name": "MBIFE",
-      "url": "https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2"
-    },
-    {
-      "added_at": "2025-06-20 04:00:42",
-      "album": {
         "name": "ACT 7",
         "url": "https://open.spotify.com/album/4dl21seQMmtemAddp1actc"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-06-20 04:00:42",
       "album": {
-        "name": "Insens\u00e9",
-        "url": "https://open.spotify.com/album/0FBPNEXIWNHywPOjV2jw6e"
-      },
-      "artists": [
-        {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
-        }
-      ],
-      "duration_ms": 124680,
-      "name": "Insens\u00e9",
-      "url": "https://open.spotify.com/track/1doknjXvcjJZMWVepbMFgV"
-    },
-    {
-      "added_at": "2025-06-20 04:00:42",
-      "album": {
         "name": "Assimile",
         "url": "https://open.spotify.com/album/3Acy5qBjhvSz5AvZorkPwM"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 203797,
       "name": "Assimile",
       "url": "https://open.spotify.com/track/7702drWPEIEBFoFbEenCLx"
+    },
+    {
+      "added_at": "2025-06-20 04:00:42",
+      "album": {
+        "name": "Insens\u00e9",
+        "url": "https://open.spotify.com/album/0FBPNEXIWNHywPOjV2jw6e"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "duration_ms": 124680,
+      "name": "Insens\u00e9",
+      "url": "https://open.spotify.com/track/1doknjXvcjJZMWVepbMFgV"
     },
     {
       "added_at": "2025-06-20 04:00:42",

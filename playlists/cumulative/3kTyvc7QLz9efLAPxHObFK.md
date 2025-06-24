@@ -4,7 +4,7 @@
 
 > 
 
-2,342 songs - 5 day 2 hr 58 min
+2,343 songs - 5 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [AM\-PM \(Gluttony\)](https://open.spotify.com/track/5ylRcQigJwkw9Od0HgV4lI) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [AM\-PM \(Gluttony\)](https://open.spotify.com/album/1Vg7DEavxBrb6vQJXaRY52) | 2:48 | 2024-01-26 |  |
 | [AMPLIFY](https://open.spotify.com/track/2zGCuqMiGI2HJnZxHbbdoW) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [AMPLIFY](https://open.spotify.com/album/7ab8DQ2mZZtiwPJRDPYHa5) | 2:13 | 2025-04-04 |  |
 | [Amsterdam](https://open.spotify.com/track/2H2bOlHuU0PmN4WQXow3fF) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Amsterdam](https://open.spotify.com/album/26mfWofWr1qZZYKATzyIdd) | 2:15 | 2024-07-12 |  |
+| [Analogue Players In A Digital World \- Primeshock Extended Rework](https://open.spotify.com/track/56gomUCHzd8SalqW4cjsTK) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [DMW Presents: The Gallery, Vol\. 7](https://open.spotify.com/album/0ljZekKnl2Kjml7PhPgA9U) | 3:05 | 2025-06-23 |  |
 | [Anarchy](https://open.spotify.com/track/60PfZlelbusQETp115JdN6) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [Anarchy](https://open.spotify.com/album/2X99dlV9csT0XkARKT2oYA) | 2:15 | 2025-02-23 |  |
 | [Angel in to the Darkness](https://open.spotify.com/track/0JA55NXbehGujYk7mpS1Dg) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Angel in to the Darkness](https://open.spotify.com/album/3mTm5JDYQTxeV8JolyklYd) | 3:33 | 2023-07-08 |  |
 | [Angelcore](https://open.spotify.com/track/2zlqOFxvFRv8A020h8CBCe) | [BEL AIR WITCH](https://open.spotify.com/artist/5ehyiszRBoCkewPb1mTN6x) | [Bat Outta Hell](https://open.spotify.com/album/6phYV7gVkALNx9lUykh9kG) | 3:16 | 2024-10-05 |  |

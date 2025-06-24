@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "everything has changed",
+        "url": "https://open.spotify.com/album/46rBuWo3qM76iUeKdpbwNo"
+      },
+      "artists": [
+        {
+          "name": "sangm1ee",
+          "url": "https://open.spotify.com/artist/6QFgMkkLnOiK4HajbRQA7A"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140741,
+      "name": "everything has changed",
+      "url": "https://open.spotify.com/track/6e99GMMcdhA7B73qMK3zK5"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 246455,
       "name": "Forest",
       "url": "https://open.spotify.com/track/7uSWaPPonJDQtAFgDByFvR"
@@ -1282,6 +1300,24 @@
       "duration_ms": 254000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
+    },
+    {
+      "album": {
+        "name": "Green Tree Frog",
+        "url": "https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8"
+      },
+      "artists": [
+        {
+          "name": "chiyoonhae",
+          "url": "https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149418,
+      "name": "Green Tree Frog",
+      "url": "https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ"
     },
     {
       "album": {
@@ -2348,7 +2384,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 205306,
       "name": "OceanooM\u2218\u263d",
       "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
@@ -2424,6 +2460,28 @@
       "duration_ms": 239853,
       "name": "Once again",
       "url": "https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI"
+    },
+    {
+      "album": {
+        "name": "One of Those Nights (with seolim)",
+        "url": "https://open.spotify.com/album/2YHLp2W48Z8wDCuI2YhlZi"
+      },
+      "artists": [
+        {
+          "name": "JeongSaebyeok",
+          "url": "https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7"
+        },
+        {
+          "name": "seolim",
+          "url": "https://open.spotify.com/artist/3WRKmOTYMBYLPqqzjWBtcQ"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "One of Those Nights (with seolim)",
+      "url": "https://open.spotify.com/track/3bDhXnVVPE20CYkZdgk5QV"
     },
     {
       "album": {
@@ -4046,7 +4104,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 180638,
       "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
       "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"

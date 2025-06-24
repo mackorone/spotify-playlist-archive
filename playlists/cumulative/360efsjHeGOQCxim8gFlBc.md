@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-743 songs - 1 day 7 hr 4 min
+745 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [And Suddenly It Happened](https://open.spotify.com/track/2zPrXRuVBCsO7fvDuMHV7N) | [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [And Suddenly It Happened](https://open.spotify.com/album/0SOmTidnrHGKNFEiBtV1zQ) | 2:43 | 2024-12-27 |  |
 | [Anhelo](https://open.spotify.com/track/51UP9zgTckoB2M526whpMd) | [José Salinas](https://open.spotify.com/artist/3S6QgOuW1hUzeOBIndazZ5) | [Polaris](https://open.spotify.com/album/6PMu4MqEvKg71HWKywkMK1) | 3:19 | 2024-10-23 |  |
 | [Answers in B Major](https://open.spotify.com/track/2Sy1UKqyBDvu7LMyxC0PoC) | [Eduardo Gutiérrez](https://open.spotify.com/artist/1zDNCrmrKKQXWWKKgePWg0) | [Answers in B Major](https://open.spotify.com/album/4sGxKVyq2KCIAc26Z6CFId) | 2:13 | 2025-06-16 |  |
-| [Aquarelle](https://open.spotify.com/track/5BBB4BfOc6EPbcHEJNNaRj) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Aquarelle](https://open.spotify.com/album/17gVRTAqlmODfD7mreb8J5) | 2:42 | 2025-06-02 |  |
+| [Aquarelle](https://open.spotify.com/track/5BBB4BfOc6EPbcHEJNNaRj) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Aquarelle](https://open.spotify.com/album/17gVRTAqlmODfD7mreb8J5) | 2:42 | 2025-06-02 | 2025-06-24 |
+| [Aquarelle](https://open.spotify.com/track/6mIthWbUqCURbQ9JkBf7A9) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Aquarelle](https://open.spotify.com/album/5ajD4q8iXFNzXs9RQzdR5D) | 2:42 | 2025-06-23 |  |
 | [Aristocracy](https://open.spotify.com/track/3IcnyFd8Hz5X0738QpkK5J) | [Tanner Christian Gesek](https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC) | [Charisma](https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9) | 2:32 | 2024-07-12 | 2024-12-28 |
 | [Around](https://open.spotify.com/track/6Cjhf035UeM3dtGXQGHoeW) | [Thayer](https://open.spotify.com/artist/1GAHD2clwrr7wsSgUqHw5b) | [Around](https://open.spotify.com/album/6qubcDhDQo2HKBVd9gUGao) | 1:33 | 2024-11-15 |  |
 | [Arrival](https://open.spotify.com/track/1BlQhe9CgHaRGa0PVLXReK) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Serene](https://open.spotify.com/album/2J4dkNU7NKXYXf3vnhX89d) | 4:18 | 2025-03-01 |  |
@@ -59,7 +60,7 @@
 | [As It Was \(Piano Version\)](https://open.spotify.com/track/5H8qAeA04uTyHv0vpeSadp) | [Hiki](https://open.spotify.com/artist/20qqzVa018cvVt0IyqYFqn) | [As It Was \(Piano Version\)](https://open.spotify.com/album/402BVU2hPJfSUmzKEEWwJD) | 1:22 | 2024-06-17 | 2025-03-02 |
 | [as the wind dances through the forest](https://open.spotify.com/track/58rT93fl1bbt6J4TvTVzJO) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl) | [as the wind dances through the forest](https://open.spotify.com/album/12weKSiYCtIQQqLDWFAIig) | 3:05 | 2024-10-23 |  |
 | [Asakusa](https://open.spotify.com/track/6ZYbTKGo2UHcg1sFg1VMsQ) | [Allen Tando](https://open.spotify.com/artist/56yauq6SV97pFLOzLlRCh2) | [Osomi](https://open.spotify.com/album/6H5ce94u4568qLVSouNzL8) | 1:27 | 2024-09-06 | 2025-05-20 |
-| [Astral Observatory \- Majora's Mask \(Sleepy Felt Piano\)](https://open.spotify.com/track/6Hn7BfYPhO63aMx8hJLXnP) | [setsaile](https://open.spotify.com/artist/5JZA3oo7AiWrmEYV3hVp1U) | [Astral Observatory \- Majora's Mask \(Sleepy Felt Piano\)](https://open.spotify.com/album/04bjQcaIXabkOgzqmn4KZH) | 1:34 | 2024-08-04 |  |
+| [Astral Observatory \- Majora's Mask \(Sleepy Felt Piano\)](https://open.spotify.com/track/6Hn7BfYPhO63aMx8hJLXnP) | [setsaile](https://open.spotify.com/artist/5JZA3oo7AiWrmEYV3hVp1U) | [Astral Observatory \- Majora's Mask \(Sleepy Felt Piano\)](https://open.spotify.com/album/04bjQcaIXabkOgzqmn4KZH) | 1:34 | 2024-08-04 | 2025-06-24 |
 | [autumn](https://open.spotify.com/track/6NnFQH4FERhMyrfgpprjPT) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [autumn](https://open.spotify.com/album/3WmVPJ4IwYAuzHgbxYX7Va) | 2:24 | 2024-09-06 |  |
 | [Autumn Air](https://open.spotify.com/track/4bIz6WIScPS9dVAd3zV99p) | [Tanner Christian Gesek](https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC) | [Charisma](https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9) | 2:59 | 2024-07-12 | 2025-02-15 |
 | [Autumn Rains](https://open.spotify.com/track/5PRnd87TIYusGRYDrPZpqS) | [charm](https://open.spotify.com/artist/0TEdQjWX05xRJI7efi3ioE) | [Autumn Rains](https://open.spotify.com/album/4FLRQ5ZcLNkErXtbXMgSDP) | 1:52 | 2025-06-02 |  |
@@ -361,6 +362,7 @@
 | [Lazuli](https://open.spotify.com/track/5mWY72hascdak37NkjSoD5) | [Theodore Lee](https://open.spotify.com/artist/6Yjcec4tBkHkICY619yXxf), [Ojong](https://open.spotify.com/artist/4dTZemVIPE7mERe1klU9g0) | [Lazuli](https://open.spotify.com/album/0sgbWvjRHiwN6PjCLhhjZx) | 2:12 | 2024-09-06 | 2025-04-08 |
 | [lazy town](https://open.spotify.com/track/0PpaKrZfroenLC1QXSff3N) | [magical keys](https://open.spotify.com/artist/5dySZfFegeX2Lh4yDR6kkv) | [lazy town](https://open.spotify.com/album/2CurKH3gs88MhS90vCMyqD) | 2:05 | 2023-10-29 | 2023-12-18 |
 | [Leaving It All Behind](https://open.spotify.com/track/4ANajXyRw1PCltXmEcJ3Mw) | [Cristian Vivaldi](https://open.spotify.com/artist/3SVGtGLA9kap5qlxX4WyBb) | [Leaving It All Behind](https://open.spotify.com/album/6iRibm66WM4erP5XV1VZIJ) | 1:56 | 2024-10-23 |  |
+| [LES VAGUES DU CIEL](https://open.spotify.com/track/5m4kINwloxKI3hcKYLJZzI) | [sleen.](https://open.spotify.com/artist/3X4HJ5umPM7L9AdqSwBEjh), [Laurent Damont](https://open.spotify.com/artist/29yGLukiAreESpdn5FU97f) | [LES VAGUES DU CIEL](https://open.spotify.com/album/12UG8cPU2uFGxm1wJCayyv) | 2:25 | 2025-06-23 |  |
 | [Let It Be](https://open.spotify.com/track/3GCr2W28TaJE8Z6HjZJ0mB) | [Julian Byrd](https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC) | [Let It Be](https://open.spotify.com/album/7ygXTxaHA2hdR5mHHoH9CY) | 2:19 | 2025-03-31 |  |
 | [Let's Count the Stars](https://open.spotify.com/track/1YEpFCaZXpruVfpTvMOfu7) | [Jakub Szybiak](https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg) | [Let's Count the Stars](https://open.spotify.com/album/0wQpfptQeu1hSHCrqLUfEm) | 2:31 | 2025-02-14 |  |
 | [Letter to the Sky](https://open.spotify.com/track/21FAB8qW6KfjaRK6546RbG) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Felix Weber](https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Letter to the Sky](https://open.spotify.com/album/3UqYYdaLEycqJjCHn61Hmn) | 1:41 | 2023-10-29 | 2023-11-16 |

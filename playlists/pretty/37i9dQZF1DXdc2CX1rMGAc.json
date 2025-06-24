@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 244233,
+  "num_followers": 244286,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-05-30 04:00:36",
       "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 170713,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
-    },
-    {
-      "added_at": "2025-05-30 04:00:36",
-      "album": {
         "name": "Killa",
         "url": "https://open.spotify.com/album/40oMlBlaBhH4XbO6cgU90u"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 188673,
       "name": "Killa",
       "url": "https://open.spotify.com/track/76GPCCO2Qy5d68vSpAcliC"
+    },
+    {
+      "added_at": "2025-05-30 04:00:36",
+      "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 170713,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
     },
     {
       "added_at": "2025-05-30 04:00:36",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2025-05-30 04:00:36",
       "album": {
-        "name": "Tokicha",
-        "url": "https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe"
-      },
-      "artists": [
-        {
-          "name": "J Castle",
-          "url": "https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Tokicha",
-      "url": "https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp"
-    },
-    {
-      "added_at": "2025-05-30 04:00:36",
-      "album": {
         "name": "VAN CLEEF (feat. Pirlo)",
         "url": "https://open.spotify.com/album/5XZFU7DcDgeeRsF8QTiUhz"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 224470,
       "name": "VAN CLEEF (feat. Pirlo)",
       "url": "https://open.spotify.com/track/0kBaAdB8cAcDdSMOYvg2OA"
+    },
+    {
+      "added_at": "2025-05-30 04:00:36",
+      "album": {
+        "name": "Tokicha",
+        "url": "https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe"
+      },
+      "artists": [
+        {
+          "name": "J Castle",
+          "url": "https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Tokicha",
+      "url": "https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp"
     },
     {
       "added_at": "2025-05-30 04:00:36",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2025-05-30 04:00:36",
       "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
+        "name": "LOS FLAVORZ",
+        "url": "https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk"
       },
       "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
         {
           "name": "Clarent",
           "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
         }
       ],
-      "duration_ms": 226560,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
+      "duration_ms": 159501,
+      "name": "Lolly (with Clarent)",
+      "url": "https://open.spotify.com/track/4B18y89IGhU1XbTzDK8Q4k"
     },
     {
       "added_at": "2025-05-30 04:00:36",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2025-05-30 04:00:36",
       "album": {
-        "name": "LOS FLAVORZ",
-        "url": "https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk"
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
       },
       "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
         {
           "name": "Clarent",
           "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
         }
       ],
-      "duration_ms": 159501,
-      "name": "Lolly (with Clarent)",
-      "url": "https://open.spotify.com/track/4B18y89IGhU1XbTzDK8Q4k"
+      "duration_ms": 226560,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
     },
     {
       "added_at": "2025-05-30 04:00:36",

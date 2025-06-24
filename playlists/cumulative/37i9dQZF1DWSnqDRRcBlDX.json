@@ -2615,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "Maxed Out",
+        "url": "https://open.spotify.com/album/6OHBHRoeKEkWBfxTl8KFqx"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280751,
+      "name": "Maxed Out",
+      "url": "https://open.spotify.com/track/2g168jCE2KtGOqNBdsYMew"
+    },
+    {
+      "album": {
         "name": "Mayday Anthem (Thomas Schumacher Remix)",
         "url": "https://open.spotify.com/album/52DgryHGie1RWvB99nbVT3"
       },

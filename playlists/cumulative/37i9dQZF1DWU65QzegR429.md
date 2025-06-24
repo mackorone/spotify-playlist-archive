@@ -2,7 +2,7 @@
 
 ### [Latin Frequency](https://open.spotify.com/playlist/37i9dQZF1DWU65QzegR429)
 
-> Latin music making waves\. Cover: Apeche & Reke
+> Latin music making waves\. Cover: Apache & Reke
 
 268 songs - 13 hr 47 min
 

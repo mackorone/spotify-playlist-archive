@@ -4,7 +4,7 @@
 
 > Calming  ambient soundscapes to soothe your little friend.
 
-172 songs - 8 hr 8 min
+175 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Resolution](https://open.spotify.com/track/3DZVxREw3SeTgr6ZLMrbpz) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Resolution](https://open.spotify.com/album/5r4WZO0259iZTYsKV6jMnO) | 2:35 | 2025-05-13 |  |
 | [Resonance](https://open.spotify.com/track/1oUNwqCaSA4qwlljS65Za7) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Resonance](https://open.spotify.com/album/3dustp1y3lVgiQtmkHBrru) | 2:48 | 2025-05-13 |  |
 | [restless](https://open.spotify.com/track/5ZQD2Svsao61O8hSJLWbih) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [restless](https://open.spotify.com/album/3BxForw9aGlxjbLmjwKmi7) | 2:45 | 2025-05-13 |  |
+| [Returning Flame](https://open.spotify.com/track/6ty6rz7S5xZksyh93caKiE) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Returning Flame](https://open.spotify.com/album/4m1Z5eI8PpyNUfZj3zdDfP) | 2:40 | 2025-06-23 |  |
 | [Rise](https://open.spotify.com/track/2RiQMgWZCc5Zv4MsLQF5Mc) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Rise](https://open.spotify.com/album/5ldR9U5iLHpdwekHbyofB1) | 2:46 | 2025-05-13 |  |
 | [Rivers in Time](https://open.spotify.com/track/2keSJUzi5llV0EAHRDhZ1g) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Rivers in Time](https://open.spotify.com/album/6aQDmaROcPYuaO6Jy9gFj0) | 3:21 | 2025-05-13 |  |
 | [Sacred Silence](https://open.spotify.com/track/2582AytP8818E123Tax64z) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [Sacred Silence](https://open.spotify.com/album/2lTvWZyymM6gOK5nYXTxmz) | 3:12 | 2025-05-13 |  |
@@ -150,6 +151,7 @@
 | [Sparrow Delta 68 Hz \- 71 Hz](https://open.spotify.com/track/4saUdtxUbXP06VC71JW0ef) | [Apaxx](https://open.spotify.com/artist/2myI6PZzbUdW5T4TXdmYU0) | [Sparrow Delta 68 Hz \- 71 Hz](https://open.spotify.com/album/47pIsTgpuxa2xZamadYuG9) | 2:58 | 2025-05-27 |  |
 | [Spirits of Azure](https://open.spotify.com/track/4Yp7BY1uAR2YmNH8aR0CMO) | [Rikkas](https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us) | [Spirits of Azure](https://open.spotify.com/album/3TwvJuJtfXw7s3y0Sjc6DC) | 2:42 | 2025-05-13 |  |
 | [Stardust Swimmer](https://open.spotify.com/track/3mUSKhO1qRrCrdem0VAYh2) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Stardust Swimmer](https://open.spotify.com/album/6qm6n44iypDFcspqF5Q9T8) | 2:44 | 2025-05-13 |  |
+| [Starry](https://open.spotify.com/track/7gqOZAeyEpffrDXzV0ASmI) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Starry](https://open.spotify.com/album/6lU4ESpDJFPnVagGvHaJB0) | 2:54 | 2025-06-23 |  |
 | [Starswept Silence](https://open.spotify.com/track/1wZpqXXgn6Gc6kew22aB7x) | [Elliott Duncan](https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ) | [Starswept Silence](https://open.spotify.com/album/4pdUfy4vbS8Az7ImMzrFXq) | 2:57 | 2025-05-13 |  |
 | [Stellato](https://open.spotify.com/track/721zBWLOEm3JBH9NBzKYun) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Stellato](https://open.spotify.com/album/1mErN17rW1lahhfIZZNWHc) | 2:25 | 2025-05-13 |  |
 | [Stream](https://open.spotify.com/track/5M4gSbkmAJzpEJtnp3ttFs) | [Lonely Silence](https://open.spotify.com/artist/7gSagKJvBryze8PAs5jJuQ) | [Stream](https://open.spotify.com/album/73WjdZTUe79GLyw3ZtYekh) | 2:21 | 2025-05-13 |  |
@@ -170,6 +172,7 @@
 | [Ultraviolet](https://open.spotify.com/track/7FPnysT9XlsLvs5iXA7Dc3) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Ultraviolet](https://open.spotify.com/album/3vrQ8sKGLN2GwJGyt0mGs0) | 2:21 | 2025-05-13 |  |
 | [Unified](https://open.spotify.com/track/4hWR306ytZ2nAQp70GNvhU) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Unified](https://open.spotify.com/album/6ynNLysScJPUeXLVLrBsDK) | 2:40 | 2025-05-13 |  |
 | [Unsorrow](https://open.spotify.com/track/5TiBe90Hq1gTj3AKeL6ncQ) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Unsorrow](https://open.spotify.com/album/20Hhsx60Y90L6C36UssUHz) | 3:06 | 2025-05-13 |  |
+| [Vallmo](https://open.spotify.com/track/4t1ccdiCsyxigl0BA9wRZ8) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Vallmo](https://open.spotify.com/album/6yCK0hWQwfnbW6GhuiDsC5) | 2:38 | 2025-06-23 |  |
 | [Veil of Dreams](https://open.spotify.com/track/2muQcn1dfdJMx8TC37GO3H) | [Matsyendrasana](https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m) | [Veil of Dreams](https://open.spotify.com/album/1QEvrpHQB9ZjQBKG280C9h) | 3:07 | 2025-05-27 |  |
 | [Vestige](https://open.spotify.com/track/3IuvEcP7B3FCHNG07fTkNi) | [Aurelia Drift](https://open.spotify.com/artist/1yIF1xY9YyuJmbmIBtGuAT) | [Vestige](https://open.spotify.com/album/7wIMDhhrTK4egNZV9BbH7S) | 3:30 | 2025-05-27 |  |
 | [Visuals](https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Visuals](https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi) | 2:58 | 2025-05-13 |  |

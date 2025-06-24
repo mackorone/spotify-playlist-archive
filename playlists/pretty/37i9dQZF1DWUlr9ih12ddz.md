@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlr9ih12ddz.md) - [plain]
 
 > Get ready for Zombies 4: Dawn of the Vampires by listening to all your favorites music from the hit franchise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,066 likes - 47 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,079 likes - 47 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 
 > folk songs for the weight of it all, featuring music from Gregory Alan Isakov
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,592 likes - 116 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,777 likes - 116 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

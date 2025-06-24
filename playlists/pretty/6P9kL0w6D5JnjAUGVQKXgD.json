@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47235,
+  "num_followers": 47233,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAIDmpo7FL3iyFrJ7f8lFYjpm551Gpl",
+  "snapshot_id": "AAAIDx+ENZDJ148AXdYMT2e3pnZex6Rk",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1793,6 +1793,26 @@
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
+      "added_at": "2024-11-20 00:41:04",
+      "album": {
+        "name": "All My Friends (Eden Prince Remix)",
+        "url": "https://open.spotify.com/album/4lXBBbiEgwTzcfAkqdXJV1"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        },
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "All My Friends - Eden Prince Remix",
+      "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -1833,74 +1853,6 @@
       "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
     },
     {
-      "added_at": "2024-07-26 00:41:03",
-      "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8"
-      },
-      "artists": [
-        {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
-        },
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        },
-        {
-          "name": "Lumin8",
-          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer"
-    },
-    {
-      "added_at": "2024-11-20 00:41:04",
-      "album": {
-        "name": "All My Friends (Eden Prince Remix)",
-        "url": "https://open.spotify.com/album/4lXBBbiEgwTzcfAkqdXJV1"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        },
-        {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "All My Friends - Eden Prince Remix",
-      "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
-    },
-    {
-      "added_at": "2024-09-27 00:41:03",
-      "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl"
-      },
-      "artists": [
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        },
-        {
-          "name": "Lumin8",
-          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
-        },
-        {
-          "name": "Evan Cole",
-          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn"
-    },
-    {
       "added_at": "2024-11-25 00:44:03",
       "album": {
         "name": "Hands Up",
@@ -1925,6 +1877,30 @@
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
     },
     {
+      "added_at": "2024-07-26 00:41:03",
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8"
+      },
+      "artists": [
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        },
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        },
+        {
+          "name": "Lumin8",
+          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer"
+    },
+    {
       "added_at": "2025-06-08 00:41:06",
       "album": {
         "name": "More Than Friends",
@@ -1943,6 +1919,30 @@
       "duration_ms": 140698,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
+    },
+    {
+      "added_at": "2024-09-27 00:41:03",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl"
+      },
+      "artists": [
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        },
+        {
+          "name": "Lumin8",
+          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
+        },
+        {
+          "name": "Evan Cole",
+          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn"
     },
     {
       "added_at": "2025-06-10 00:41:07",
@@ -2029,24 +2029,28 @@
       "url": "https://open.spotify.com/track/2UobzZv0qAgAsz01YGHVxg"
     },
     {
-      "added_at": "2024-07-26 00:41:03",
+      "added_at": "2025-06-24 00:41:06",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2qi7v3iROtakEK15bLJ0Zb"
       },
       "artists": [
         {
-          "name": "Dualh\u00ef",
-          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
+          "name": "Lucien",
+          "url": "https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod"
         },
         {
-          "name": "JandB",
-          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         }
       ],
-      "duration_ms": 150447,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
+      "duration_ms": 133855,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0QdjuCUA97rPLFj6MBoS82"
     }
   ],
   "unique_name": "EDM Top 100",

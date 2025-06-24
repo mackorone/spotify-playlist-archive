@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-174 songs - 11 hr 32 min
+177 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bhitra Brahmānḍa](https://open.spotify.com/track/684MounrqJbJj8Jt6v45pw) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Bhitra Brahmānḍa](https://open.spotify.com/album/4q6uiupnlW71rc4libnFam) | 3:20 | 2025-04-29 |  |
 | [Bituun](https://open.spotify.com/track/3Bipv6uYngyEmXpuIO8QEK) | [Ophra](https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U) | [Bituun](https://open.spotify.com/album/5AS2JtT1NhczZPQLLZS3zM) | 2:36 | 2025-01-08 |  |
 | [Bodhisattva \(Sound Bath\)](https://open.spotify.com/track/1VpB6JKz3hN1sAZVLtgVie) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/1ebhcZPcYlwJ7uQhIn3YvT) | 3:28 | 2022-07-14 |  |
+| [Bowl Dhyaan](https://open.spotify.com/track/5VbOiJ3Z5mcjmCJW3MLwjK) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Bowl Dhyaan](https://open.spotify.com/album/79cGZ1wY0duiromS65rFSU) | 2:54 | 2025-06-23 |  |
 | [Bowl Presence](https://open.spotify.com/track/6AXiRk2bu8P60bZiMOVLHR) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Bowl Presence](https://open.spotify.com/album/3kvmaFF4Z1BFtNScFNGJjC) | 3:32 | 2022-12-13 |  |
 | [Bowls of Peace](https://open.spotify.com/track/1ZnT8c13FdHVHQwVpwJAX7) | [Sophisto](https://open.spotify.com/artist/64fwopk0HjUIjcj3QS58vP) | [Bowls of Peace](https://open.spotify.com/album/5gHrrOLNTjGgqZG6xMkRsR) | 2:24 | 2022-12-13 |  |
 | [Bowls Singing In Rain](https://open.spotify.com/track/3ifRFotnUDoLLfnk2LHlve) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ahimsa](https://open.spotify.com/album/4ik1k0ZjV52DGDKqQXiZ4m) | 3:24 | 2022-12-13 | 2025-04-30 |
@@ -76,6 +77,7 @@
 | [Expanded mind](https://open.spotify.com/track/1RBgF51R8C0yEGZwxowFEX) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Expanded mind](https://open.spotify.com/album/5Av1l8FbtRh45pFbS3FwyU) | 3:07 | 2022-12-13 | 2025-01-09 |
 | [Expanding Earth Gong](https://open.spotify.com/track/0vCDI2Idh2jSYqtkRshMsC) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Healing Gongs](https://open.spotify.com/album/1QyYwuZzuEK9UIA54DqxKi) | 2:11 | 2022-01-06 | 2025-06-13 |
 | [Find A Path](https://open.spotify.com/track/7uLo6eo2ILMyZ2diKv9iMj) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Find A Path](https://open.spotify.com/album/0zPocc1WiMM4kyPXEF1Wq2) | 4:00 | 2022-07-14 |  |
+| [Floating Bowls](https://open.spotify.com/track/6CnXSvIe9fxjCGCYMCzcYE) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Floating Bowls](https://open.spotify.com/album/0JAXl29XM4PjJG4GS34kUW) | 2:22 | 2025-06-23 |  |
 | [Forest Frogs & Bee Chants](https://open.spotify.com/track/2PEBEoNfiFb15F5rF0TsNP) | [Energy Center](https://open.spotify.com/artist/64T9tcXGhRumS4toOuCCOO) | [Forest Frogs & Bee Chants](https://open.spotify.com/album/4ssetshclvvpyY32fscqyR) | 4:24 | 2022-04-14 | 2022-12-14 |
 | [Forest Meditation](https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Forest Meditation](https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0) | 2:57 | 2024-02-29 |  |
 | [Garden Room](https://open.spotify.com/track/72toF6veRXgGz4xSoei3pD) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Wave Baths](https://open.spotify.com/album/7vW564n7hOhyiwKuevOrU8) | 3:34 | 2022-12-13 |  |
@@ -166,6 +168,7 @@
 | [Tibetan Bowl Meditation](https://open.spotify.com/track/2Vh8dAhsAWDjX651xHGKwt) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 2:37 | 2022-02-22 | 2024-03-01 |
 | [Tibetan Bowl Mind Clarity](https://open.spotify.com/track/5SXk3qGtMOLUDVUttQLea0) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 4:06 | 2022-02-22 | 2024-08-03 |
 | [Tibetan Bowls Sound Massage \(Massaggio Sonoro Con Campane Tibetane\)](https://open.spotify.com/track/1uxMFlCjZLLfQcwQRTu3qk) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Tibetan Bowls Sound Massage \(Massaggio Sonoro Con Campane Tibetane\)](https://open.spotify.com/album/6avoryhRkQVhGtWl3b2hQ8) | 6:07 | 2022-01-06 | 2024-03-01 |
+| [Tibetan Freedom](https://open.spotify.com/track/0N0QUNuhcz62Psr94eol6Y) | [Ancient Bowls](https://open.spotify.com/artist/3Sw0MoemYo0ep1o3O1eC4a) | [Tibetan Freedom](https://open.spotify.com/album/2SydihoDh6Z28xSfZtIEHo) | 2:53 | 2025-06-23 |  |
 | [Tranquility \(Crystal Sound Meditation\)](https://open.spotify.com/track/13vU2lqVVClRBAvDOAKr5L) | [Lauri Poldre](https://open.spotify.com/artist/0ANW2NaM4xL8vlFB8jSPXB) | [Tranquility \(Crystal Sound Meditation\)](https://open.spotify.com/album/7t9DJLZJc6BK2XroiA0NiT) | 20:13 | 2022-04-14 | 2022-04-27 |
 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [SunOneSun](https://open.spotify.com/artist/7n3WTqnRXVk69eiHUgSLnq) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 | 2022-01-06 |  |
 | [Treetop Whisperer](https://open.spotify.com/track/3UiDIUA8MIxeAlHKQSVi6k) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:09 | 2023-04-06 |  |

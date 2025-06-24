@@ -1,13 +1,29 @@
 {
-  "description": "Celebrating 10 years of  the best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY?si=PW1q_1MiSpK2x3i6kTHWWw\"> ELHAE</a>. Updates every Wednesday.",
-  "num_followers": 268025,
+  "description": "Celebrating 10 years of  the best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb?si=IDMXxIdHR1-uran8XginQA\"> Spaceluvrrr</a>. Updates every Wednesday.",
+  "num_followers": 268059,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFXrQQAAAAAhJ4kO5VMUvs6ArPByIMo/",
+  "snapshot_id": "aFjQywAAAADRtsSxRbc+ClAsjgoDN+Lb",
   "tracks": [
+    {
+      "added_at": "2025-06-06 15:39:44",
+      "album": {
+        "name": "FALSE COMFORT",
+        "url": "https://open.spotify.com/album/0KtdcsSW1ztxJxK7eHeRLU"
+      },
+      "artists": [
+        {
+          "name": "spaceluvrrr",
+          "url": "https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb"
+        }
+      ],
+      "duration_ms": 173531,
+      "name": "FALSE COMFORT",
+      "url": "https://open.spotify.com/track/03Yi8lEn3Lc3QIEk6HUlp4"
+    },
     {
       "added_at": "2025-06-20 23:14:09",
       "album": {
@@ -587,22 +603,6 @@
       "duration_ms": 162461,
       "name": "WDYM?",
       "url": "https://open.spotify.com/track/0OCTPHig501tBFp0Q7qIdU"
-    },
-    {
-      "added_at": "2025-06-06 15:39:44",
-      "album": {
-        "name": "FALSE COMFORT",
-        "url": "https://open.spotify.com/album/0KtdcsSW1ztxJxK7eHeRLU"
-      },
-      "artists": [
-        {
-          "name": "spaceluvrrr",
-          "url": "https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb"
-        }
-      ],
-      "duration_ms": 173531,
-      "name": "FALSE COMFORT",
-      "url": "https://open.spotify.com/track/03Yi8lEn3Lc3QIEk6HUlp4"
     },
     {
       "added_at": "2025-06-06 15:39:44",

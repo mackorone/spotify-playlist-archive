@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1100461,
+  "num_followers": 1100307,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
+        "name": "Junk Of The Heart",
+        "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Junk Of The Heart (Happy)",
+      "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Junk Of The Heart",
-        "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Junk Of The Heart (Happy)",
-      "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "The Music",
-        "url": "https://open.spotify.com/album/7AGI3bMM4IkVK8HmCedIaZ"
-      },
-      "artists": [
-        {
-          "name": "The Music",
-          "url": "https://open.spotify.com/artist/4IT7CS5foj1DTNHT7fjFx2"
-        }
-      ],
-      "duration_ms": 293346,
-      "name": "Take The Long Road And Walk It",
-      "url": "https://open.spotify.com/track/2R3PlaE5R66NhyTEqwryDj"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Battered & Bruised",
         "url": "https://open.spotify.com/album/6z9Cgau0pl5CFkhWkpwuZx"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 143744,
       "name": "Battered & Bruised",
       "url": "https://open.spotify.com/track/0aMTOwMg93ZJlM1xCZy0ia"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "The Music",
+        "url": "https://open.spotify.com/album/7AGI3bMM4IkVK8HmCedIaZ"
+      },
+      "artists": [
+        {
+          "name": "The Music",
+          "url": "https://open.spotify.com/artist/4IT7CS5foj1DTNHT7fjFx2"
+        }
+      ],
+      "duration_ms": 293346,
+      "name": "Take The Long Road And Walk It",
+      "url": "https://open.spotify.com/track/2R3PlaE5R66NhyTEqwryDj"
     },
     {
       "added_at": "2024-07-12 17:56:50",

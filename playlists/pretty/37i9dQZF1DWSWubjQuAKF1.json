@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: emi",
-  "num_followers": 23161,
+  "num_followers": 23163,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-06-19 22:00:56",
       "album": {
+        "name": "iPod Touch",
+        "url": "https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 196524,
+      "name": "iPod Touch",
+      "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
+    },
+    {
+      "added_at": "2025-06-19 22:00:56",
+      "album": {
         "name": "POLSKI SPIDERMAN",
         "url": "https://open.spotify.com/album/38GbDZRfoJ9ErpePeEUaWr"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 151111,
       "name": "Czy o mnie my\u015blisz?",
       "url": "https://open.spotify.com/track/7lYMP0fbLY47Z5Cru6QpkY"
-    },
-    {
-      "added_at": "2025-06-19 22:00:56",
-      "album": {
-        "name": "iPod Touch",
-        "url": "https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 196524,
-      "name": "iPod Touch",
-      "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-06-19 22:00:56",
       "album": {
-        "name": "EDEN",
-        "url": "https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 202240,
-      "name": "EDEN",
-      "url": "https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd"
-    },
-    {
-      "added_at": "2025-06-19 22:00:56",
-      "album": {
         "name": "Plot Twist",
         "url": "https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 222222,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE"
+    },
+    {
+      "added_at": "2025-06-19 22:00:56",
+      "album": {
+        "name": "EDEN",
+        "url": "https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 202240,
+      "name": "EDEN",
+      "url": "https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -527,18 +527,18 @@
     {
       "added_at": "2025-06-19 22:00:56",
       "album": {
-        "name": "Psy",
-        "url": "https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB"
+        "name": "PO FAKCIE",
+        "url": "https://open.spotify.com/album/4JecW1pAXfshamrTxIvlv6"
       },
       "artists": [
         {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+          "name": "Mateusz G\u0119dek",
+          "url": "https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD"
         }
       ],
-      "duration_ms": 200249,
-      "name": "Psy",
-      "url": "https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB"
+      "duration_ms": 186206,
+      "name": "Na cz\u0119\u015bci pierwsze",
+      "url": "https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -559,34 +559,18 @@
     {
       "added_at": "2025-06-19 22:00:56",
       "album": {
-        "name": "PO FAKCIE",
-        "url": "https://open.spotify.com/album/4JecW1pAXfshamrTxIvlv6"
+        "name": "Psy",
+        "url": "https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB"
       },
       "artists": [
         {
-          "name": "Mateusz G\u0119dek",
-          "url": "https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD"
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
         }
       ],
-      "duration_ms": 186206,
-      "name": "Na cz\u0119\u015bci pierwsze",
-      "url": "https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV"
-    },
-    {
-      "added_at": "2025-06-19 22:00:56",
-      "album": {
-        "name": "Warszawa",
-        "url": "https://open.spotify.com/album/0LPGGwbEOOduaKXN1doceo"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 234264,
-      "name": "Warszawa",
-      "url": "https://open.spotify.com/track/0gHk4v0XswI91vsbb1mxCi"
+      "duration_ms": 200249,
+      "name": "Psy",
+      "url": "https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -607,6 +591,22 @@
     {
       "added_at": "2025-06-19 22:00:56",
       "album": {
+        "name": "Warszawa",
+        "url": "https://open.spotify.com/album/0LPGGwbEOOduaKXN1doceo"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 234264,
+      "name": "Warszawa",
+      "url": "https://open.spotify.com/track/0gHk4v0XswI91vsbb1mxCi"
+    },
+    {
+      "added_at": "2025-06-19 22:00:56",
+      "album": {
         "name": "Running From Myself",
         "url": "https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 156990,
       "name": "Running From Myself",
       "url": "https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF"
+    },
+    {
+      "added_at": "2025-06-19 22:00:56",
+      "album": {
+        "name": "pod kinem ars/krak\u00f3w",
+        "url": "https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP"
+      },
+      "artists": [
+        {
+          "name": "ada\u015b.",
+          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
+        }
+      ],
+      "duration_ms": 159529,
+      "name": "pod kinem ars",
+      "url": "https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -639,22 +655,6 @@
       "duration_ms": 220444,
       "name": "jeszcze raz",
       "url": "https://open.spotify.com/track/1zxUcEhaqPbgmryzP9Q6fu"
-    },
-    {
-      "added_at": "2025-06-19 22:00:56",
-      "album": {
-        "name": "pod kinem ars/krak\u00f3w",
-        "url": "https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP"
-      },
-      "artists": [
-        {
-          "name": "ada\u015b.",
-          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
-        }
-      ],
-      "duration_ms": 159529,
-      "name": "pod kinem ars",
-      "url": "https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-06-19 22:00:56",
       "album": {
+        "name": "Bez",
+        "url": "https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 232950,
+      "name": "Bez",
+      "url": "https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04"
+    },
+    {
+      "added_at": "2025-06-19 22:00:56",
+      "album": {
         "name": "ma\u0142a, daj sobie na luz",
         "url": "https://open.spotify.com/album/5jiJ70OENZN67N012ADkPM"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2025-06-19 22:00:56",
       "album": {
-        "name": "Bez",
-        "url": "https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG"
+        "name": "Minie jesie\u0144",
+        "url": "https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74"
       },
       "artists": [
         {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+          "name": "Mlecze",
+          "url": "https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo"
         }
       ],
-      "duration_ms": 232950,
-      "name": "Bez",
-      "url": "https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04"
+      "duration_ms": 168000,
+      "name": "Minie jesie\u0144",
+      "url": "https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -755,22 +771,6 @@
       "duration_ms": 186461,
       "name": "\u010cyrvone Nebo",
       "url": "https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v"
-    },
-    {
-      "added_at": "2025-06-19 22:00:56",
-      "album": {
-        "name": "Minie jesie\u0144",
-        "url": "https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74"
-      },
-      "artists": [
-        {
-          "name": "Mlecze",
-          "url": "https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Minie jesie\u0144",
-      "url": "https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-06-19 22:00:56",
       "album": {
-        "name": "Nic ci nie powiem",
-        "url": "https://open.spotify.com/album/7IRrnnHBTRQQ0mzyzNruBu"
-      },
-      "artists": [
-        {
-          "name": "Magda Kluz",
-          "url": "https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ"
-        }
-      ],
-      "duration_ms": 188606,
-      "name": "Nic ci nie powiem",
-      "url": "https://open.spotify.com/track/6sDsmLE2BicdfXfLhCl6nW"
-    },
-    {
-      "added_at": "2025-06-19 22:00:56",
-      "album": {
         "name": "IPhone 6s",
         "url": "https://open.spotify.com/album/5OR6o7nR3fT2peyT2uamY2"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 202625,
       "name": "IPhone 6s",
       "url": "https://open.spotify.com/track/1NT8bf6kXaGfwp0iz4A48d"
+    },
+    {
+      "added_at": "2025-06-19 22:00:56",
+      "album": {
+        "name": "Nic ci nie powiem",
+        "url": "https://open.spotify.com/album/7IRrnnHBTRQQ0mzyzNruBu"
+      },
+      "artists": [
+        {
+          "name": "Magda Kluz",
+          "url": "https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ"
+        }
+      ],
+      "duration_ms": 188606,
+      "name": "Nic ci nie powiem",
+      "url": "https://open.spotify.com/track/6sDsmLE2BicdfXfLhCl6nW"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -875,6 +875,38 @@
       "duration_ms": 147992,
       "name": "Fotografie",
       "url": "https://open.spotify.com/track/7Hy0orWwbe8uUnxQEjp9T5"
+    },
+    {
+      "added_at": "2025-06-19 22:00:56",
+      "album": {
+        "name": "Dajesz Mi Serce",
+        "url": "https://open.spotify.com/album/5cUkR7z4PFhEkRteq1dt4w"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+        }
+      ],
+      "duration_ms": 185204,
+      "name": "Dajesz Mi Serce",
+      "url": "https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC"
+    },
+    {
+      "added_at": "2025-06-19 22:00:56",
+      "album": {
+        "name": "Ptaki",
+        "url": "https://open.spotify.com/album/5ZCDmvazUKV7RbKBSQX9Di"
+      },
+      "artists": [
+        {
+          "name": "Markus ivi",
+          "url": "https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY"
+        }
+      ],
+      "duration_ms": 235178,
+      "name": "Czas",
+      "url": "https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -931,22 +963,6 @@
     {
       "added_at": "2025-06-19 22:00:56",
       "album": {
-        "name": "Ptaki",
-        "url": "https://open.spotify.com/album/5ZCDmvazUKV7RbKBSQX9Di"
-      },
-      "artists": [
-        {
-          "name": "Markus ivi",
-          "url": "https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY"
-        }
-      ],
-      "duration_ms": 235178,
-      "name": "Czas",
-      "url": "https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04"
-    },
-    {
-      "added_at": "2025-06-19 22:00:56",
-      "album": {
         "name": "r\u00f3\u017cowa kurtka",
         "url": "https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB"
       },
@@ -975,6 +991,22 @@
       "duration_ms": 145149,
       "name": "Niewidzialna",
       "url": "https://open.spotify.com/track/3dDEMGZ8aVjym11Z0kNPm6"
+    },
+    {
+      "added_at": "2025-06-19 22:00:56",
+      "album": {
+        "name": "in the woods",
+        "url": "https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "duration_ms": 146584,
+      "name": "in the woods",
+      "url": "https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC"
     },
     {
       "added_at": "2025-06-19 22:00:56",
@@ -1063,38 +1095,6 @@
       "duration_ms": 200323,
       "name": "U Want Me Anyway",
       "url": "https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6"
-    },
-    {
-      "added_at": "2025-06-19 22:00:56",
-      "album": {
-        "name": "Dajesz Mi Serce",
-        "url": "https://open.spotify.com/album/5cUkR7z4PFhEkRteq1dt4w"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
-        }
-      ],
-      "duration_ms": 185204,
-      "name": "Dajesz Mi Serce",
-      "url": "https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC"
-    },
-    {
-      "added_at": "2025-06-19 22:00:56",
-      "album": {
-        "name": "in the woods",
-        "url": "https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK"
-      },
-      "artists": [
-        {
-          "name": "shama",
-          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
-        }
-      ],
-      "duration_ms": 146584,
-      "name": "in the woods",
-      "url": "https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC"
     }
   ],
   "unique_name": "up next",

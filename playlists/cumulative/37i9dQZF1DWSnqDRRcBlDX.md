@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-256 songs - 22 hr 54 min
+257 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Mad Wan](https://open.spotify.com/track/01qWvpN7OAYdGWERfEEayl) | [AISHA \(Sco\)](https://open.spotify.com/artist/3mFGWOyRFTCLKBQe2THZgr), [Franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Helfy Rapid EP](https://open.spotify.com/album/6xISHJclSucoM74eRwJFyF) | 6:20 | 2023-04-14 | 2023-10-07 |
 | [Mantra](https://open.spotify.com/track/1h500WiplE5ctR7Hk8ctVa) | [GALLØ](https://open.spotify.com/artist/6RuaGhkEO0m1IOXcsK40rP) | [Mantra](https://open.spotify.com/album/7CSXqMWlK7CXZkG9LJ7oen) | 4:57 | 2025-05-16 |  |
 | [March Of The White Fireflies \- Charlie Sparks Remix](https://open.spotify.com/track/7lm9Imb30GNfdv32uF8StO) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1), [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [March Of The White Fireflies](https://open.spotify.com/album/0zd3llKPiP16vBiJA9baLe) | 6:29 | 2022-12-02 | 2023-01-28 |
+| [Maxed Out](https://open.spotify.com/track/2g168jCE2KtGOqNBdsYMew) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Maxed Out](https://open.spotify.com/album/6OHBHRoeKEkWBfxTl8KFqx) | 4:40 | 2025-06-23 |  |
 | [Mayday Anthem \- Thomas Schumacher Remix](https://open.spotify.com/track/0h5bjHIioNsHAV58lcNVqs) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Mayday Anthem \(Thomas Schumacher Remix\)](https://open.spotify.com/album/52DgryHGie1RWvB99nbVT3) | 4:13 | 2023-10-06 | 2025-05-17 |
 | [Meet Me In The Club](https://open.spotify.com/track/3jLpZs81i46jtsPFnXnHJa) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Meet Me In The Club](https://open.spotify.com/album/3C5XkMBU4fGO9bT2E7ywSP) | 4:30 | 2023-10-06 | 2024-03-23 |
 | [Mess](https://open.spotify.com/track/26ZmyvIrdmTfcGUAn7mlEb) | [Até](https://open.spotify.com/artist/0rTHf5X9Dmzae6kpskWIo9), [Salin](https://open.spotify.com/artist/6ejOieUVTcSHgsp1wLooOY) | [Mess](https://open.spotify.com/album/4kDv5NjbQ7M6abf943t063) | 5:21 | 2025-03-28 | 2025-05-17 |

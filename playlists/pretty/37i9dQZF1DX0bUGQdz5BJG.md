@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Elizabeth Nichols
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,757 likes - 240 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,809 likes - 240 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Somebody Cooked Here](https://open.spotify.com/track/6AygFa26d4G7tQVvrsAXIE) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Somebody Cooked Here](https://open.spotify.com/album/4gUqrMCs7AZOzDVS2jENpk) | 2:59 |
 | 2 | [In Case You Didn't Know 2.0](https://open.spotify.com/track/4Vw2Tca81FPJU7Bxm61M1K) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [2.0](https://open.spotify.com/album/4cHDMUgQiIMYMe3QjWFgi7) | 3:59 |
-| 3 | [This Side Of Heaven](https://open.spotify.com/track/3SB1FTzSnx97oh4kYvdwQJ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [This Side Of Heaven](https://open.spotify.com/album/3DtJYQRMlRITBYoqlYOhJ0) | 3:46 |
+| 3 | [This Side Of Heaven](https://open.spotify.com/track/3SB1FTzSnx97oh4kYvdwQJ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [This Side Of Heaven](https://open.spotify.com/album/3DtJYQRMlRITBYoqlYOhJ0) | 3:59 |
 | 4 | [End Like This](https://open.spotify.com/track/1JzLREpxOLp2DJgWsL3Lf5) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [End Like This](https://open.spotify.com/album/45tIvZFhca21rSXR9rplCX) | 2:53 |
 | 5 | [Sorryville](https://open.spotify.com/track/2Ri6KgtAyWJwJNc8ooQcGs) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Sorryville](https://open.spotify.com/album/6C2CseI4u2YgwW6RzE5Pa5) | 2:54 |
 | 6 | [99](https://open.spotify.com/track/22CKFavEurPuJJsOFaobac) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Burning Daylight](https://open.spotify.com/album/1mHx616eNbODxMf4vnBG1j) | 3:21 |

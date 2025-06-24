@@ -1,6 +1,6 @@
 {
   "description": "Make every day feel like Sunday",
-  "num_followers": 1351430,
+  "num_followers": 1351360,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "He's My Man",
         "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
       },
@@ -495,18 +479,34 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Olive Tree",
-        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
       },
       "artists": [
         {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 241060,
-      "name": "Olive Tree",
-      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -527,18 +527,18 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "I Love You So F***ing Much",
-        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+        "name": "Olive Tree",
+        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
         }
       ],
-      "duration_ms": 255636,
-      "name": "Show Pony",
-      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
+      "duration_ms": 241060,
+      "name": "Olive Tree",
+      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
-      },
-      "artists": [
-        {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 270826,
       "name": "You Noticed",
       "url": "https://open.spotify.com/track/6Tgas0pOMx9sG8cRx5JaUX"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "I'd Have to Think About It",
-        "url": "https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 150141,
-      "name": "I'd Have to Think About It",
-      "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 175750,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "I'd Have to Think About It",
+        "url": "https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 150141,
+      "name": "I'd Have to Think About It",
+      "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
+        "name": "Sweet Delusion",
+        "url": "https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 172282,
+      "name": "Sweet Delusion",
+      "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
         "name": "Even (with Cat Burns)",
         "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 151373,
       "name": "Even (with Cat Burns)",
       "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
-        "name": "Sweet Delusion",
-        "url": "https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 172282,
-      "name": "Sweet Delusion",
-      "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Everything Is Peaceful Love",
-        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 210054,
-      "name": "Everything Is Peaceful Love",
-      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "The Seize",
         "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Everything Is Peaceful Love",
+        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "steal my soul",
-        "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 141320,
-      "name": "steal my soul",
-      "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 185826,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "steal my soul",
+        "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 141320,
+      "name": "steal my soul",
+      "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "guilty",
-        "url": "https://open.spotify.com/album/0eCE4PH89sq8oZz0yWGqjd"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 168703,
-      "name": "guilty",
-      "url": "https://open.spotify.com/track/3RKi7aE2RwbJAAx9SujV6L"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Patterns in Repeat",
         "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 200648,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "guilty",
+        "url": "https://open.spotify.com/album/0eCE4PH89sq8oZz0yWGqjd"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 168703,
+      "name": "guilty",
+      "url": "https://open.spotify.com/track/3RKi7aE2RwbJAAx9SujV6L"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Fall on Me",
-        "url": "https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 216085,
-      "name": "Fall on Me",
-      "url": "https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 169934,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Fall on Me",
+        "url": "https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 216085,
+      "name": "Fall on Me",
+      "url": "https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L"
     },
     {
       "added_at": "2025-05-22 23:00:12",

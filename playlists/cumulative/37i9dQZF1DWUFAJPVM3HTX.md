@@ -2,7 +2,7 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY?si=PW1q\_1MiSpK2x3i6kTHWWw"> ELHAE</a>\. Updates every Wednesday.
+> Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb?si=IDMXxIdHR1\-uran8XginQA"> Spaceluvrrr</a>\. Updates every Wednesday.
 
 3,340 songs - 7 day 1 hr 11 min
 

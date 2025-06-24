@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: HODARI",
-  "num_followers": 371199,
+  "num_followers": 371177,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -88,12 +88,12 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
           "name": "Carla Sol",
           "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         },
         {
           "name": "MC Hariel",
@@ -411,26 +411,6 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
-        "name": "Depois de mim (Merc\u00fario)",
-        "url": "https://open.spotify.com/album/12M32MKX2ZiYO0gThn1Wfd"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Depois de mim (Merc\u00fario)",
-      "url": "https://open.spotify.com/track/4wbl73h2AHzKTrnxDoAgeP"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 181714,
       "name": "Vis\u00e3o",
       "url": "https://open.spotify.com/track/3p2YlNzAOy0guPZBO5ANFD"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
+        "name": "Depois de mim (Merc\u00fario)",
+        "url": "https://open.spotify.com/album/12M32MKX2ZiYO0gThn1Wfd"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Depois de mim (Merc\u00fario)",
+      "url": "https://open.spotify.com/track/4wbl73h2AHzKTrnxDoAgeP"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
         "name": "raro mas sempre acontece",
         "url": "https://open.spotify.com/album/3NWPq3LiDg3F9bsicGId1X"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 166613,
       "name": "raro mas sempre acontece",
       "url": "https://open.spotify.com/track/0toACsp778zlNwQjTlxrMI"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -839,6 +839,26 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/3beIHrF62ugsvypSt1BeZr"
+      },
+      "artists": [
+        {
+          "name": "WENNY",
+          "url": "https://open.spotify.com/artist/4H8hUcllrXmI91BT0fMdWj"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/6e0waa7MMY5WOKjfwSeGOW"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
         "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
         "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/3beIHrF62ugsvypSt1BeZr"
-      },
-      "artists": [
-        {
-          "name": "WENNY",
-          "url": "https://open.spotify.com/artist/4H8hUcllrXmI91BT0fMdWj"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Upgrade",
-      "url": "https://open.spotify.com/track/6e0waa7MMY5WOKjfwSeGOW"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
         "name": "PROFANO",
         "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
       },
@@ -907,6 +907,30 @@
       "duration_ms": 171581,
       "name": "PROFANO",
       "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
+        "name": "Imaginando Aquele Dia",
+        "url": "https://open.spotify.com/album/20XHwLB5MwITbzqQ6ITZpR"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+        }
+      ],
+      "duration_ms": 153088,
+      "name": "Imaginando Aquele Dia",
+      "url": "https://open.spotify.com/track/6WVzOH9YzOPJg6Q9BAEMVb"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -999,26 +1023,22 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
-        "name": "Imaginando Aquele Dia",
-        "url": "https://open.spotify.com/album/20XHwLB5MwITbzqQ6ITZpR"
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
       },
       "artists": [
         {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         },
         {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 153088,
-      "name": "Imaginando Aquele Dia",
-      "url": "https://open.spotify.com/track/6WVzOH9YzOPJg6Q9BAEMVb"
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -1047,26 +1067,6 @@
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/6pDASjyhHtN2Dv4ZY8EBhU"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
-        "name": "N\u00e3o Posso",
-        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147015,
-      "name": "N\u00e3o Posso",
-      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
         "name": "Sonhei com Voc\u00ea",
         "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 261144,
       "name": "Sonhei com Voc\u00ea",
       "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
+        "name": "N\u00e3o Posso",
+        "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147015,
+      "name": "N\u00e3o Posso",
+      "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -1463,6 +1463,34 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
+        "name": "Ouro.",
+        "url": "https://open.spotify.com/album/1WrS3vnUGlUo2jtJx3IO0X"
+      },
+      "artists": [
+        {
+          "name": "LILIE",
+          "url": "https://open.spotify.com/artist/5Lucm6JwwQZxK2o18CCBzu"
+        },
+        {
+          "name": "EloYT",
+          "url": "https://open.spotify.com/artist/5FGKP34IaHUHRIDtbz9u5i"
+        },
+        {
+          "name": "prodkaz",
+          "url": "https://open.spotify.com/artist/3qhbc7GQRG4WLF3jnCHUla"
+        },
+        {
+          "name": "Cruz Knox",
+          "url": "https://open.spotify.com/artist/4nww49Lsx05bYK2jllrhYi"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "Ouro.",
+      "url": "https://open.spotify.com/track/2g9we95HML3rUpEBr3UEAo"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
         "name": "Divino",
         "url": "https://open.spotify.com/album/3YGyqU5paBMTvU89uNuwuu"
       },
@@ -1511,34 +1539,6 @@
       "duration_ms": 170089,
       "name": "LUA CHEIA",
       "url": "https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
-        "name": "Ouro.",
-        "url": "https://open.spotify.com/album/1WrS3vnUGlUo2jtJx3IO0X"
-      },
-      "artists": [
-        {
-          "name": "LILIE",
-          "url": "https://open.spotify.com/artist/5Lucm6JwwQZxK2o18CCBzu"
-        },
-        {
-          "name": "EloYT",
-          "url": "https://open.spotify.com/artist/5FGKP34IaHUHRIDtbz9u5i"
-        },
-        {
-          "name": "prodkaz",
-          "url": "https://open.spotify.com/artist/3qhbc7GQRG4WLF3jnCHUla"
-        },
-        {
-          "name": "Cruz Knox",
-          "url": "https://open.spotify.com/artist/4nww49Lsx05bYK2jllrhYi"
-        }
-      ],
-      "duration_ms": 140400,
-      "name": "Ouro.",
-      "url": "https://open.spotify.com/track/2g9we95HML3rUpEBr3UEAo"
     },
     {
       "added_at": "2025-06-20 08:08:03",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-06-20 08:08:03",
       "album": {
+        "name": "Incerto",
+        "url": "https://open.spotify.com/album/22dYCxyhGbgyFmjDdpn91q"
+      },
+      "artists": [
+        {
+          "name": "Murilo Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn"
+        }
+      ],
+      "duration_ms": 210450,
+      "name": "Incerto",
+      "url": "https://open.spotify.com/track/3W5b5HNjXOhyJYElO9ItQL"
+    },
+    {
+      "added_at": "2025-06-20 08:08:03",
+      "album": {
         "name": "Pra te amar \u00e0s vezes",
         "url": "https://open.spotify.com/album/4MiPpcMI523JiIsVt9fDMk"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 140930,
       "name": "Pra te amar as vezes",
       "url": "https://open.spotify.com/track/7kkHKnWWTKAq1pHOxXVtOF"
-    },
-    {
-      "added_at": "2025-06-20 08:08:03",
-      "album": {
-        "name": "Incerto",
-        "url": "https://open.spotify.com/album/22dYCxyhGbgyFmjDdpn91q"
-      },
-      "artists": [
-        {
-          "name": "Murilo Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn"
-        }
-      ],
-      "duration_ms": 210450,
-      "name": "Incerto",
-      "url": "https://open.spotify.com/track/3W5b5HNjXOhyJYElO9ItQL"
     },
     {
       "added_at": "2025-06-20 08:08:03",

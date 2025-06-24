@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 430899,
+  "num_followers": 430948,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "The Message (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
-      },
-      "artists": [
-        {
-          "name": "Grandmaster Flash & The Furious Five",
-          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
-        }
-      ],
-      "duration_ms": 430013,
-      "name": "The Message - Extended Version",
-      "url": "https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "The Best Is Yet To Come",
         "url": "https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV"
       },
@@ -1135,22 +1119,34 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Planet Rock",
-        "url": "https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O"
+        "name": "The Message (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
       },
       "artists": [
         {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+          "name": "Grandmaster Flash & The Furious Five",
+          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
         }
       ],
-      "duration_ms": 319960,
-      "name": "Planet Rock",
-      "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
+      "duration_ms": 430013,
+      "name": "The Message - Extended Version",
+      "url": "https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Stone Cold Rhymin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1mp9ks0PqwGCLbe7y0jCKr"
+      },
+      "artists": [
+        {
+          "name": "Young MC",
+          "url": "https://open.spotify.com/artist/5n30a5V4ftXNMHCHChmK2h"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Bust A Move",
+      "url": "https://open.spotify.com/track/29ssM9oYcFjoZGi4UWxq6X"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-348 songs - 18 hr 16 min
+352 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2021-12-22 | 2024-09-06 |
 | [Alleviate](https://open.spotify.com/track/7C9d9SVdz5VFWsYqunv4G0) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [Alleviate](https://open.spotify.com/album/69W7p1tAkQGJC1DXXMzB1s) | 2:35 | 2024-10-18 |  |
 | [Ambivalence](https://open.spotify.com/track/3yxKCyJc32XPA7Mlxl1Gqq) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Ambivalence](https://open.spotify.com/album/39nu2I4cuZLsl2r5UlaVBA) | 2:25 | 2025-06-12 |  |
+| [Anaies](https://open.spotify.com/track/6BHstQgIKxveXJUpIcznFj) | [Jolene Fowler](https://open.spotify.com/artist/6Tjq532tuubVAcdcG8oMbW) | [Anaies](https://open.spotify.com/album/2GsYsnTElXjo3miBnZBVcY) | 3:04 | 2025-06-23 |  |
 | [Ancestral Spirit](https://open.spotify.com/track/4pIM5eZaCM2x4P1KqUDSTk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Shaman Spirit Flute](https://open.spotify.com/album/39Q6KP8xGG0olJZMSwK7x9) | 1:15 | 2022-05-19 | 2023-07-29 |
 | [Ancient Voices \(From Call of the Mystic\)](https://open.spotify.com/track/4VYZ5F1Efe5elXeGBPCbcG) | [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Enlightenment \- A Sacred Collection](https://open.spotify.com/album/4PPdwkiaWNXo2BEKCNr9SF) | 5:19 | 2024-05-11 | 2024-08-22 |
 | [Andares](https://open.spotify.com/track/2S5om86Ep9oh6JXhJvBfpu) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Andares](https://open.spotify.com/album/1g8IPQwsHTli253GySckDM) | 2:31 | 2024-05-11 | 2025-02-19 |
@@ -42,7 +43,7 @@
 | [Aware of Awareness](https://open.spotify.com/track/2t3aECDRZDsMN8858uYRar) | [Reiki](https://open.spotify.com/artist/6FwOq8Kolj0BnP7PMhsqb0) | [Reiki Music \(My Spiritual Practice\)](https://open.spotify.com/album/3W1zD6ELr5fp93a5HMnNaP) | 5:09 | 2021-12-22 | 2025-02-19 |
 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 | 2022-07-08 | 2024-08-22 |
 | [Balance](https://open.spotify.com/track/34ouZf9PLM1YyFbWAgtbM8) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Balance](https://open.spotify.com/album/1ZpWv0y6YexjvdcJRDXMPY) | 3:25 | 2024-03-08 | 2025-02-19 |
-| [Bansuri](https://open.spotify.com/track/4Cy9EEXAjmzjIa2hBYJa7R) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Bansuri](https://open.spotify.com/album/1os3PzBysPuwHUOAJIQlHs) | 2:50 | 2021-12-22 |  |
+| [Bansuri](https://open.spotify.com/track/4Cy9EEXAjmzjIa2hBYJa7R) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Bansuri](https://open.spotify.com/album/1os3PzBysPuwHUOAJIQlHs) | 2:50 | 2021-12-22 | 2025-06-24 |
 | [Bare](https://open.spotify.com/track/2PWkjTnM1UiuLMBiBdwimc) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Bare](https://open.spotify.com/album/2AIXNyefzl7rb661tgI5YE) | 2:48 | 2025-01-14 |  |
 | [Behind the Mountains](https://open.spotify.com/track/2NT7BIngd5Aq1w38Wi8dZL) | [Bernward Koch](https://open.spotify.com/artist/3I47W6SIIS24cECbGOeakB) | [Day of Life](https://open.spotify.com/album/7iuqClxL2Av1fYSj7KwVRy) | 5:04 | 2024-02-15 |  |
 | [Birth](https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Birth](https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM) | 2:55 | 2022-05-05 |  |
@@ -80,6 +81,7 @@
 | [Cosmic Echoes](https://open.spotify.com/track/21HoNmuQv0a3aJgK0SjFuk) | [Dorian Froste](https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss) | [Cosmic Echoes](https://open.spotify.com/album/0U1lYG3UMFrtPizDDyRIW2) | 2:54 | 2025-02-05 |  |
 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 | 2021-12-22 | 2022-12-21 |
 | [Cradle of Stars](https://open.spotify.com/track/2bew0K4vsYW7StKLY8cTBm) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Cradle of Stars](https://open.spotify.com/album/2DeHvwcJF9zdOBVx6NSpCq) | 2:47 | 2025-02-05 |  |
+| [Crystal Cavern](https://open.spotify.com/track/2QTj5NfJSbJXmZn047KaAF) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [Crystal Cavern](https://open.spotify.com/album/0zCOovryL6HtRNJqUH4zq7) | 3:29 | 2025-06-23 |  |
 | [Cultivating Stillness](https://open.spotify.com/track/6aZri6iDNcBKWXaw2aI4Cg) | [Pale Blue](https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF) | [Cultivating Stillness](https://open.spotify.com/album/2eyQMIw9DxLgA5w2DW5XSL) | 3:38 | 2024-03-08 |  |
 | [Cycles Of Time](https://open.spotify.com/track/2MlqDcsNn4U7N5IVnnng7F) | [Aquilonius](https://open.spotify.com/artist/2Bua1ZVpNERP8WJ6gGyilw) | [Cycles Of Time](https://open.spotify.com/album/6L0Fd5MiZuJUccVhS8bKmI) | 2:54 | 2025-04-15 |  |
 | [Dawn stillness](https://open.spotify.com/track/6sSlBSEGhY6mRG5ZvW7B27) | [Fables From Mars](https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW) | [Dawn stillness](https://open.spotify.com/album/7ACjn1FTHLZtAcfW1PMvXW) | 2:39 | 2023-08-18 | 2025-02-19 |
@@ -168,6 +170,7 @@
 | [Kindred Spirit](https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:19 | 2021-12-22 | 2022-11-23 |
 | [Labyrinths](https://open.spotify.com/track/0butErkBxNHFY0YLqpLHto) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Songlines](https://open.spotify.com/album/2IyYjatO5YV0iotn2l4E2L) | 5:43 | 2024-05-11 |  |
 | [Lapping](https://open.spotify.com/track/5bFhD4r00fydMBqpC0V162) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Lapping](https://open.spotify.com/album/011zZRDoHlMoyqFuqYPWXg) | 2:17 | 2024-06-11 |  |
+| [Leton](https://open.spotify.com/track/0ScsG7Cy4fpIrSM5ObU0gt) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Leton](https://open.spotify.com/album/0T1RigoWEdV8AtuqhH2PN4) | 3:09 | 2025-06-23 |  |
 | [Lifeflow](https://open.spotify.com/track/624sdSjAn3rZecyZkgeeGK) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Lifeflow](https://open.spotify.com/album/03WaFijOzekRoY1bg4Rxob) | 3:12 | 2025-02-05 |  |
 | [Light & Shadow](https://open.spotify.com/track/4ZK7ww5PRZaNwakCz6PbY2) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Light & Shadow](https://open.spotify.com/album/7FHXd7Fh6JDuDxANT18Wp6) | 2:41 | 2024-03-14 |  |
 | [Light of a Flower](https://open.spotify.com/track/3ULgOvunOAy5IsSzBEHyEB) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Light of a Flower](https://open.spotify.com/album/3X3MkdzM5MHLb0F7jAiPFt) | 2:55 | 2024-05-11 |  |
@@ -285,6 +288,7 @@
 | [So Far From Earth](https://open.spotify.com/track/4LUjaGIUsdxaWz5CFtj0u9) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter Two](https://open.spotify.com/album/5aAUw2eurzQtThb2g4dDvr) | 3:09 | 2021-12-22 | 2024-10-19 |
 | [Soft Rays](https://open.spotify.com/track/1YhSbspYxHcaEdbl3faWno) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Soft Rays](https://open.spotify.com/album/1FRbznRmaHORqPniW6aSqB) | 2:50 | 2025-03-07 |  |
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Lunasette](https://open.spotify.com/artist/4llg8iirvoMBMFQHXUkusG) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2021-12-22 | 2024-11-23 |
+| [Solara](https://open.spotify.com/track/74TPlSj21G7l0hdNg1xzg0) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Solara](https://open.spotify.com/album/2RAE8pTI6Zkl8BSwnhNwva) | 3:30 | 2025-06-23 |  |
 | [Solitude By Numbers](https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Solitude By Numbers](https://open.spotify.com/album/52sUayQnby3lc9Ui5ggd29) | 3:06 | 2023-04-28 | 2024-08-22 |
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-03-29 | 2024-09-06 |
 | [Sominare](https://open.spotify.com/track/2165MC8JML5S217g4vIdDy) | [Moon Laika](https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC) | [Sominare](https://open.spotify.com/album/7kEbZoRi1ryWZq6ODMV6ud) | 2:23 | 2022-11-22 | 2024-12-20 |
@@ -314,7 +318,7 @@
 | [The Enigma of Consciousness](https://open.spotify.com/track/3S7oZhdCE1Pyn9yMugRQIO) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Enigma of Consciousness](https://open.spotify.com/album/7gUJEj7nDARz9qIOTLyLU8) | 3:14 | 2021-12-22 | 2022-07-29 |
 | [The Enigma of Consciousness](https://open.spotify.com/track/4VEbMcdsQV19SFVuwkz9vg) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Enigma of Consciousness](https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd) | 3:14 | 2022-07-22 | 2023-01-12 |
 | [The Last Raindrop](https://open.spotify.com/track/122nfGTV3hCL0xchNbtbgH) | [Harvey Lanza](https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh) | [The Last Raindrop](https://open.spotify.com/album/0Z7EPuL0xGG4JoVancz4nI) | 3:46 | 2021-12-22 | 2024-11-23 |
-| [The Magical Forest](https://open.spotify.com/track/3vHmuBwbtMLwo0hfUyENAU) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [History of a Legend](https://open.spotify.com/album/4e8l7QDGdpAHrCN4bJatXj) | 3:22 | 2021-12-22 |  |
+| [The Magical Forest](https://open.spotify.com/track/3vHmuBwbtMLwo0hfUyENAU) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [History of a Legend](https://open.spotify.com/album/4e8l7QDGdpAHrCN4bJatXj) | 3:22 | 2021-12-22 | 2025-06-24 |
 | [The Note of Comfort](https://open.spotify.com/track/6ewCIo6kSfhMivU6EtAzpg) | [Reiki](https://open.spotify.com/artist/6FwOq8Kolj0BnP7PMhsqb0) | [Reiki Music \(My Spiritual Practice\)](https://open.spotify.com/album/3W1zD6ELr5fp93a5HMnNaP) | 6:04 | 2021-12-22 | 2024-11-23 |
 | [The Path](https://open.spotify.com/track/6TrgnJ4i64to9qMU8XGoni) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [The Path](https://open.spotify.com/album/5TWNlevyrX8ZINRuyUeVfV) | 3:20 | 2024-06-11 |  |
 | [The Source of Life](https://open.spotify.com/track/7lsw1FcjPgrfFt2enr4Gcf) | [Florence Sunday](https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc) | [The Source of Life](https://open.spotify.com/album/5VrZDu1NZf4AL6U5CHHGbz) | 3:05 | 2021-12-22 | 2024-09-06 |
@@ -328,7 +332,7 @@
 | [Transcapes](https://open.spotify.com/track/7C3pUbqrdRAfY4SZ2jUyU5) | [Transformator](https://open.spotify.com/artist/5OkZS3lQjVTPo57alUdmHI) | [Transcapes](https://open.spotify.com/album/4Pt89Dbvuf4YvtxgupMYJo) | 3:19 | 2025-03-07 |  |
 | [Transcend](https://open.spotify.com/track/2UGEJYn55BJANAwjEqn6mX) | [Ee Ve](https://open.spotify.com/artist/18NItzXyxJgwcsJ6skOoPb) | [Transcend](https://open.spotify.com/album/12DfL5OyYopS4UqF8AgCyq) | 4:03 | 2021-12-22 | 2024-09-06 |
 | [Transparency](https://open.spotify.com/track/4Ylj5pU5xRcizYMVFzTa0Y) | [Celeste](https://open.spotify.com/artist/0q2mtwyZHFIRvwqiWpqSc8) | [Transparency](https://open.spotify.com/album/3Jyuv00UZBigu9s6iQdrYL) | 2:56 | 2024-05-11 |  |
-| [Transparent](https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Echoes of Water](https://open.spotify.com/album/42l3J84qQWgIcToLFBAJr1) | 2:33 | 2021-12-22 |  |
+| [Transparent](https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Echoes of Water](https://open.spotify.com/album/42l3J84qQWgIcToLFBAJr1) | 2:33 | 2021-12-22 | 2025-06-24 |
 | [Triangulated Approval](https://open.spotify.com/track/2EcCTbAbBJiOx5iM9vvb5J) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Triangulated Approval](https://open.spotify.com/album/1tcKuayruuJRBkx105LOUs) | 2:17 | 2021-12-22 | 2025-02-19 |
 | [Twilight](https://open.spotify.com/track/00zTtuuRC9TZsBZ6rE71PK) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Twilight](https://open.spotify.com/album/1IrBjyFHiyTNmfDFbltipR) | 3:43 | 2024-07-13 | 2025-02-06 |
 | [Twilight Lover](https://open.spotify.com/track/6fmeTdLdx70sv88kx8zHtB) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Twilight Lover](https://open.spotify.com/album/5EfGmnUfB87nXaxhD49TZo) | 2:27 | 2024-07-13 |  |
@@ -346,7 +350,7 @@
 | [Voice Healing](https://open.spotify.com/track/0kaXyVNzFEfBqkXW5dOC6m) | [Johan Davidsson](https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi) | [Voice Healing](https://open.spotify.com/album/7xYSAwu51DTDeaB5qStm0N) | 6:18 | 2021-12-22 |  |
 | [Vollmond im Herbst \(Full Moon in Autumn\)](https://open.spotify.com/track/7I42dEHbS8rKpu19tkQQ2A) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mysterium](https://open.spotify.com/album/10YHfrv4zqC7WjpeEF445V) | 5:36 | 2022-06-24 | 2023-04-29 |
 | [Volta](https://open.spotify.com/track/2UGetJCnNKXnVmWCD5nRM2) | [Milo Leclercq](https://open.spotify.com/artist/2CACfYzbEfvbpMPHapIrrL) | [Volta](https://open.spotify.com/album/5xpSwFSue9hlvFIzMJuqHi) | 2:48 | 2022-03-09 | 2025-06-13 |
-| [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 | 2021-12-22 |  |
+| [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 | 2021-12-22 | 2025-06-24 |
 | [Water](https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Air Water Wind](https://open.spotify.com/album/7j7biPGl4BQfPBb1wPZlCs) | 2:12 | 2022-08-05 |  |
 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 | 2021-12-22 | 2024-11-23 |
 | [Weave Of Dreams](https://open.spotify.com/track/23xr0LguCmzvlN6OeTaTFb) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [Weave Of Dreams](https://open.spotify.com/album/0nMZ0q6ssZV679M2zZzoXN) | 2:55 | 2024-10-18 |  |

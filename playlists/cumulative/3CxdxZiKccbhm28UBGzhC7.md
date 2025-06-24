@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3CxdxZiKccbhm28UBGzhC7.md) - cumulative - [plain](/playlists/plain/3CxdxZiKccbhm28UBGzhC7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3CxdxZiKccbhm28UBGzhC7)
 
-### [very famous white girl songs](https://open.spotify.com/playlist/3CxdxZiKccbhm28UBGzhC7)
+### [white girl indie](https://open.spotify.com/playlist/3CxdxZiKccbhm28UBGzhC7)
 
 > 2023
 

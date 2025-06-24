@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Clara Lima, VIETNÃ
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,674 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,679 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 3 | [Conselhos](https://open.spotify.com/track/2SLRtzIfhVhtvzLspQ9Xzj) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Conselhos](https://open.spotify.com/album/6T4RCs20a3ljgaAeBcH2nA) | 2:38 |
 | 4 | [BOSSa](https://open.spotify.com/track/094GGI5rNCfXO8TmWBVE58) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [CARO Vapor II \- qual a forma de pagamento ?](https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ) | 5:18 |
 | 5 | [Nada](https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Nada](https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI) | 3:20 |
-| 6 | [Sos](https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Minissaia](https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6) | 3:31 |
+| 6 | [Sos](https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Minissaia](https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6) | 3:31 |
 | 7 | [Dinheiro](https://open.spotify.com/track/2sGo0Hh0Zao2S3pGWOTplr) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Dinheiro](https://open.spotify.com/album/2HlGbLQEvZiFm1sdpx8THq) | 4:01 |
 | 8 | [Underground](https://open.spotify.com/track/2g9wQ8vRvkBJ4DSZyQnibc) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [Underground](https://open.spotify.com/album/2aMzKZC8Uf4fwBMb4aRc8S) | 2:48 |
 | 9 | [DUALIDADE](https://open.spotify.com/track/4TF3V6LQIDTdvx9gVZSMZw) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Ramon Calixto](https://open.spotify.com/artist/57LISFynxucEx3WF6Iqxq8) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:24 |

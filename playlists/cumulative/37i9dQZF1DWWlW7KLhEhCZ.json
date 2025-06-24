@@ -9733,6 +9733,28 @@
     },
     {
       "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/7ILNydAViCsALMiEVFABNp"
+      },
+      "artists": [
+        {
+          "name": "Natkym",
+          "url": "https://open.spotify.com/artist/0Oy7tAcZhDh6deyXbqLBsV"
+        },
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183050,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/0BugVDpkETJmAXTcgrVsrF"
+    },
+    {
+      "album": {
         "name": "Delator",
         "url": "https://open.spotify.com/album/28EX1O5hcEKvnnoYk8bXvk"
       },
@@ -14380,7 +14402,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 141354,
       "name": "Fez Seu Nome",
       "url": "https://open.spotify.com/track/43t8P4ym7Si1xFXlnnRf0E"
@@ -21671,7 +21693,7 @@
     },
     {
       "album": {
-        "name": "H.A.R.D - EP",
+        "name": "H.A.R.D",
         "url": "https://open.spotify.com/album/0BhKkqYbGb1tZsX61tLRJV"
       },
       "artists": [

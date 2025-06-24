@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 160000,
       "name": "Ariel",
       "url": "https://open.spotify.com/track/1aTbEQ3fPmKGfFQR6mMGgw"
@@ -636,6 +636,24 @@
       "duration_ms": 215418,
       "name": "Becker's",
       "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
+    },
+    {
+      "album": {
+        "name": "Been Here Before",
+        "url": "https://open.spotify.com/album/2kRu3wgWly78Ds4gJ5lXm9"
+      },
+      "artists": [
+        {
+          "name": "Fourth Eye",
+          "url": "https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209137,
+      "name": "Been Here Before",
+      "url": "https://open.spotify.com/track/3QBLDkUTJ7brEiZbPBhf9K"
     },
     {
       "album": {

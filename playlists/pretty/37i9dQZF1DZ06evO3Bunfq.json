@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 122970,
+  "num_followers": 122991,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFX2AAAAAABcU2IrYI9HpKyBTVmid+n2",
+  "snapshot_id": "aFdHgAAAAAAj929lXKMcM8LfL3QGvMDb",
   "tracks": [
     {
       "added_at": null,
@@ -999,34 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Street Album",
-        "url": "https://open.spotify.com/album/19SohNpEp4BqtdZrRhcr5z"
-      },
-      "artists": [
-        {
-          "name": "King Lil G",
-          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
-        },
-        {
-          "name": "Dj Flippp",
-          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 140053,
-      "name": "Todo El Barrio",
-      "url": "https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oro en la Medalla",
         "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
       },
@@ -1067,6 +1039,34 @@
       "duration_ms": 214736,
       "name": "Retumbando en la Ciudad",
       "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Da Street Album",
+        "url": "https://open.spotify.com/album/19SohNpEp4BqtdZrRhcr5z"
+      },
+      "artists": [
+        {
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+        },
+        {
+          "name": "Dj Flippp",
+          "url": "https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 140053,
+      "name": "Todo El Barrio",
+      "url": "https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA"
     }
   ],
   "unique_name": "This Is Dharius",

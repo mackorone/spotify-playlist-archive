@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Narivetta",
-  "num_followers": 478559,
+  "num_followers": 479201,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aFFOVAAAAADMfzpya5HyEdDJcRmkOT2+",
+  "snapshot_id": "aFkniQAAAAAAaF2B7bI1Th/2a2WGIdwD",
   "tracks": [
     {
       "added_at": "2025-05-07 08:53:45",
@@ -71,6 +71,26 @@
       "duration_ms": 354666,
       "name": "Kanmanipoove (From \"Thudarum\")",
       "url": "https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh"
+    },
+    {
+      "added_at": "2025-06-23 09:19:31",
+      "album": {
+        "name": "Chirapunji",
+        "url": "https://open.spotify.com/album/626TXwCa6PtZCdXv8yubvQ"
+      },
+      "artists": [
+        {
+          "name": "Nihal Sadiq",
+          "url": "https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh"
+        },
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Chirapunji",
+      "url": "https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV"
     },
     {
       "added_at": "2025-04-02 11:53:45",
@@ -221,26 +241,6 @@
       "url": "https://open.spotify.com/track/3y7140pwsQ8wmxGj2hQhLG"
     },
     {
-      "added_at": "2025-03-17 05:14:43",
-      "album": {
-        "name": "Naranga Paal",
-        "url": "https://open.spotify.com/album/0OEB369pcXTTcgBDvQ1RXy"
-      },
-      "artists": [
-        {
-          "name": "GABRI",
-          "url": "https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng"
-        },
-        {
-          "name": "HRISHI",
-          "url": "https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O"
-        }
-      ],
-      "duration_ms": 151149,
-      "name": "Naranga Paal",
-      "url": "https://open.spotify.com/track/3wL3P9U07mTkdnlLAMe0ql"
-    },
-    {
       "added_at": "2025-02-24 05:11:09",
       "album": {
         "name": "Heart Attack (From \"Painkili\")",
@@ -265,6 +265,50 @@
       "url": "https://open.spotify.com/track/0zKgFkG0MwdBt9iSVj1zmv"
     },
     {
+      "added_at": "2025-06-23 10:08:09",
+      "album": {
+        "name": "NERA",
+        "url": "https://open.spotify.com/album/6Tik6XH6wdBJ5dsEbnknQd"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "NERA",
+      "url": "https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC"
+    },
+    {
+      "added_at": "2025-03-17 05:14:43",
+      "album": {
+        "name": "Naranga Paal",
+        "url": "https://open.spotify.com/album/0OEB369pcXTTcgBDvQ1RXy"
+      },
+      "artists": [
+        {
+          "name": "GABRI",
+          "url": "https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng"
+        },
+        {
+          "name": "HRISHI",
+          "url": "https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O"
+        }
+      ],
+      "duration_ms": 151149,
+      "name": "Naranga Paal",
+      "url": "https://open.spotify.com/track/3wL3P9U07mTkdnlLAMe0ql"
+    },
+    {
       "added_at": "2025-05-06 06:08:30",
       "album": {
         "name": "Munthirichar",
@@ -283,6 +327,26 @@
       "duration_ms": 234428,
       "name": "Munthirichar",
       "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
+    },
+    {
+      "added_at": "2025-06-23 09:23:33",
+      "album": {
+        "name": "Poothiri",
+        "url": "https://open.spotify.com/album/02MrIUsgtabIfXV5wbB4i5"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        }
+      ],
+      "duration_ms": 240875,
+      "name": "Poothiri",
+      "url": "https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7"
     },
     {
       "added_at": "2025-06-09 13:26:22",
@@ -833,30 +897,6 @@
       "url": "https://open.spotify.com/track/7klutVPgvUwcxCU0hht6y0"
     },
     {
-      "added_at": "2024-04-08 06:44:38",
-      "album": {
-        "name": "Illuminati (From \"Aavesham\")",
-        "url": "https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 212525,
-      "name": "Illuminati - From \"Aavesham\"",
-      "url": "https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I"
-    },
-    {
       "added_at": "2024-09-04 08:10:57",
       "album": {
         "name": "Athimanoharam (From \"Vaazha\")",
@@ -1025,30 +1065,6 @@
       "url": "https://open.spotify.com/track/70eTArYv8s81pKECLgL1il"
     },
     {
-      "added_at": "2023-03-21 07:45:56",
-      "album": {
-        "name": "Theerame (From \"Malik\")",
-        "url": "https://open.spotify.com/album/789iCALhEJFyPpWMOlLA0E"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        },
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        }
-      ],
-      "duration_ms": 263082,
-      "name": "Theerame - From \"Malik\"",
-      "url": "https://open.spotify.com/track/3XMYdcclpeP0LBmVLr6L8p"
-    },
-    {
       "added_at": "2024-02-01 10:28:15",
       "album": {
         "name": "Mazhavillile (From \"Falimy\")",
@@ -1091,38 +1107,6 @@
       "duration_ms": 162791,
       "name": "Jaada - From \"Aavesham\"",
       "url": "https://open.spotify.com/track/3b38fvc4ky0er6WEBruHMf"
-    },
-    {
-      "added_at": "2023-08-03 00:18:29",
-      "album": {
-        "name": "Kalapakkaara (From \"King of Kotha\")",
-        "url": "https://open.spotify.com/album/3Q8tsdSTnGhjJ61mIWkmRf"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Fejo",
-          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
-        },
-        {
-          "name": "Joe Paul",
-          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
-        }
-      ],
-      "duration_ms": 251999,
-      "name": "Kalapakkaara (From \"King of Kotha\")",
-      "url": "https://open.spotify.com/track/554RItg5afQv3ODGQMT29x"
     },
     {
       "added_at": "2023-12-02 04:21:45",

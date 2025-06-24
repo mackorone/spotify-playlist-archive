@@ -2773,6 +2773,32 @@
     },
     {
       "album": {
+        "name": "BUSTED",
+        "url": "https://open.spotify.com/album/0j1YfLra3m8CJCRvPhVcql"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        },
+        {
+          "name": "Teminite",
+          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
+        },
+        {
+          "name": "Boom Kitty",
+          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142615,
+      "name": "BUSTED",
+      "url": "https://open.spotify.com/track/49mT4saNKf5BskrD7Bwrw9"
+    },
+    {
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0"
       },
@@ -3498,7 +3524,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 265922,
       "name": "colors",
       "url": "https://open.spotify.com/track/70meb0y1oP8OJR0n8RhxZq"
@@ -7334,7 +7360,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 161805,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/4b3tHFus0ulksoyDpSrGYY"
@@ -13662,7 +13688,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 220588,
       "name": "Pay Respect",
       "url": "https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy"
@@ -20772,7 +20798,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 187874,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/43clOQYz4Jhr7AuU1hOS78"

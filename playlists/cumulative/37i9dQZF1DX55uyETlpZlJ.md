@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-516 songs - 1 day 4 hr 59 min
+517 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Anthe](https://open.spotify.com/track/7y5RWpualkObr5ANkA0Qx1) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Anthe](https://open.spotify.com/album/258oJcRDxs6H35qcbsopqn) | 4:34 | 2023-08-16 | 2024-01-06 |
 | [Anu Anuvaagi](https://open.spotify.com/track/4Bm3A0X9VHciIX1U1dCjqn) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Anu Anuvaagi](https://open.spotify.com/album/5C10KZmpA0P1MR1eiGxSgc) | 3:02 | 2023-06-16 | 2023-07-25 |
 | [Anu Anuvaagi](https://open.spotify.com/track/1m9TOMR1oF6bF46p0Z8XgD) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Anu Anuvaagi](https://open.spotify.com/album/6yzd9SBgrbdniHZcrHwSAk) | 3:04 | 2025-05-19 |  |
+| [Area Boi](https://open.spotify.com/track/3X0crnUSLCoulnYSB1p7Ir) | [Stoney Rhino](https://open.spotify.com/artist/1pduTHsOHofmFHHM2ONTKc) | [Area Boi](https://open.spotify.com/album/4gGm1zFxkZUOnUX5QqUSkr) | 3:06 | 2025-06-23 |  |
 | [Arere](https://open.spotify.com/track/4wO1kzkn6gmKAFOt48EaPh) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Arere](https://open.spotify.com/album/2NAKOi8TeqzEJZDcwdaP61) | 3:58 | 2023-10-06 | 2024-01-07 |
 | [Arere](https://open.spotify.com/track/5e7ESBZeOLQCbqtvWaS7Y2) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Arere](https://open.spotify.com/album/6s8OIlhZixQ2D9IsZUBrRm) | 3:58 | 2023-10-06 | 2024-02-17 |
 | [Ariyade Maadida Thappu](https://open.spotify.com/track/3MvcoixOyjIyPyRZDrfMEU) | [Annapurna Chalageri](https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Ariyade Maadida Thappu](https://open.spotify.com/album/0wGaiqGfcqO0CMR1tLMGNR) | 4:14 | 2025-02-11 |  |
@@ -67,7 +68,7 @@
 | [BANAVASI DESHADOL](https://open.spotify.com/track/2GiRSXId5mUMxcauOoiRn6) | [MC.Adz](https://open.spotify.com/artist/1TQRoRqV3OeH7SOg4VMD5h) | [BANAVASI DESHADOL](https://open.spotify.com/album/5dOoCl9a2Q9Z5WvXvb52oU) | 3:27 | 2023-02-20 | 2023-07-04 |
 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 | 2022-10-12 | 2023-08-10 |
 | [Bayaside Ninna](https://open.spotify.com/track/3NmzEX42jupduW7vMPlXVR) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Bayaside Ninna](https://open.spotify.com/album/1oq31tsHpML3zUgHXxMu3j) | 2:02 | 2024-01-08 | 2024-05-22 |
-| [Beautiful Vibe](https://open.spotify.com/track/37F4JHQqAubJYe33EJ1Snf) | [Abhi Multi](https://open.spotify.com/artist/6oHfz3dNr75Sg9DNVyyHV4), [Pacific](https://open.spotify.com/artist/3pALV1fSZ5E1tFNcTy68nG) | [Beautiful Vibe](https://open.spotify.com/album/3gC3KRMrXytFSlmiPX5hgT) | 3:11 | 2025-01-31 |  |
+| [Beautiful Vibe](https://open.spotify.com/track/37F4JHQqAubJYe33EJ1Snf) | [Abhi Multi](https://open.spotify.com/artist/6oHfz3dNr75Sg9DNVyyHV4), [Pacific](https://open.spotify.com/artist/3pALV1fSZ5E1tFNcTy68nG) | [Beautiful Vibe](https://open.spotify.com/album/3gC3KRMrXytFSlmiPX5hgT) | 3:11 | 2025-01-31 | 2025-06-24 |
 | [Beauty](https://open.spotify.com/track/34TonGz5g4F0ZQ2fWPGNG6) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Meghana Kulkarni](https://open.spotify.com/artist/7yvdb56qFhuF26Wnkqe6Vs) | [Beauty](https://open.spotify.com/album/6S9gwDfmsjMrZRApoQvwTQ) | 5:02 | 2024-11-25 | 2025-05-21 |
 | [Beesuva Gaali \- SKODA Deccan Beats](https://open.spotify.com/track/231S8vl1A717qGgydnSiWR) | [Carlok](https://open.spotify.com/artist/6UofxciyC7eixN2leI5SKs), [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Madhura Balaji](https://open.spotify.com/artist/5pDwaaFFLmBgmoz9kSZCWk) | [Beesuva Gaali \(SKODA Deccan Beats\)](https://open.spotify.com/album/5AQS0VpeL4yjO3CvMJmvjf) | 2:28 | 2022-10-14 | 2023-06-21 |
 | [Bengaluru Kambala Theme Song](https://open.spotify.com/track/4d6yVH3lLLABq5evQ3P2LJ) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [V\. Manohar](https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN) | [Bengaluru Kambala Theme Song](https://open.spotify.com/album/1ScN9PVrjBoNYikbwRrSYc) | 2:25 | 2023-11-20 | 2023-12-14 |

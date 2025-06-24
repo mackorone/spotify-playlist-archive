@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "A Race (Oh My Ghost Clients Original Soundtrack Part.4)",
+        "url": "https://open.spotify.com/album/3YKkR5JCueFxrF0aFRhQ9K"
+      },
+      "artists": [
+        {
+          "name": "Seorina",
+          "url": "https://open.spotify.com/artist/3f4E62TgaTD5ZYX5MMXxjP"
+        },
+        {
+          "name": "CHA HAKYEON(N)",
+          "url": "https://open.spotify.com/artist/1ApI8Lk8hqmUO6872mH5Fj"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "A Race",
+      "url": "https://open.spotify.com/track/3JT9RScdU7B1xURAOxZFX0"
+    },
+    {
+      "album": {
         "name": "Resident Playbook, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l"
       },
@@ -590,7 +612,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 239142,
       "name": "Flaw",
       "url": "https://open.spotify.com/track/6wfxihjz9G3OJxnZEwztXZ"
@@ -648,6 +670,24 @@
       "duration_ms": 264480,
       "name": "For Youth",
       "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
+    },
+    {
+      "album": {
+        "name": "Scent",
+        "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "Get up",
+      "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
     },
     {
       "album": {
@@ -800,7 +840,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 200073,
       "name": "Head Home (feat. maji)",
       "url": "https://open.spotify.com/track/3qhuW4DFXNxOpwmSwCobkU"
@@ -1172,6 +1212,24 @@
       "duration_ms": 215693,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS"
+    },
+    {
+      "album": {
+        "name": "Lost way",
+        "url": "https://open.spotify.com/album/0n58NPrBqMoszHF1Z7DgpD"
+      },
+      "artists": [
+        {
+          "name": "HARO",
+          "url": "https://open.spotify.com/artist/3Ys4lzDtTI4ycQN9YLg4km"
+        }
+      ],
+      "date_added": "2025-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191102,
+      "name": "Lost way",
+      "url": "https://open.spotify.com/track/6wnKwiMfeZO3IiUGWKo2JU"
     },
     {
       "album": {
@@ -1558,7 +1616,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-24",
       "duration_ms": 169026,
       "name": "Still Shining",
       "url": "https://open.spotify.com/track/1uW0OxPue6GHcDrYhhLQws"
